@@ -1,0 +1,172 @@
+/* 메인 페이지 */
+.home-page {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #f0e6ff 0%, #ffe6f0 50%, #e6f3ff 100%);
+  padding-bottom: 40px;
+}
+
+.header {
+  background: linear-gradient(135deg, #ff6b9d 0%, #ffa500 50%, #ff69b4 100%);
+  color: white;
+  padding: 24px 16px;
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(255, 107, 157, 0.3);
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.header .date-range {
+  margin: 8px 0 0 0;
+  font-size: 14px;
+  opacity: 0.95;
+}
+
+/* 탭 네비게이션 */
+.tab-navigation {
+  display: flex;
+  gap: 10px;
+  padding: 16px 12px;
+  max-width: 600px;
+  margin: 0 auto;
+  justify-content: center;
+  flex-wrap: wrap;
+  background: rgba(255, 255, 255, 0.5);
+  backdrop-filter: blur(10px);
+}
+
+.tab-button {
+  padding: 10px 20px;
+  border: 2px solid transparent;
+  border-radius: 20px;
+  background: white;
+  color: #333;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.tab-button:hover:not(.disabled) {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(255, 107, 157, 0.2);
+}
+
+.tab-button.active {
+  background: linear-gradient(135deg, #ff6b9d 0%, #ffa500 100%);
+  color: white;
+  border-color: #ff6b9d;
+}
+
+.tab-button.disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+  background: #f0f0f0;
+}
+
+.coming-soon {
+  font-size: 11px;
+  opacity: 0.7;
+  margin-left: 4px;
+}
+
+.main-content {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px 12px;
+}
+
+/* 주간/월간 탭 */
+.period-tabs-section {
+  margin-top: 30px;
+}
+
+.period-tabs {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+  background: rgba(255, 255, 255, 0.6);
+  padding: 8px;
+  border-radius: 12px;
+  backdrop-filter: blur(10px);
+}
+
+.period-tab {
+  flex: 1;
+  padding: 12px 16px;
+  border: 2px solid transparent;
+  border-radius: 8px;
+  background: white;
+  color: #666;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.period-tab:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 3px 10px rgba(255, 107, 157, 0.15);
+}
+
+.period-tab.active {
+  background: linear-gradient(135deg, #ff6b9d 0%, #ffa500 100%);
+  color: white;
+  border-color: #ff6b9d;
+}
+
+.loading,
+.error {
+  text-align: center;
+  padding: 40px 20px;
+  font-size: 16px;
+  color: #666;
+}
+
+/* 모바일 반응형 */
+@media (min-width: 768px) {
+  .home-page {
+    padding-bottom: 60px;
+  }
+
+  .header {
+    padding: 32px 24px;
+  }
+
+  .header h1 {
+    font-size: 40px;
+  }
+
+  .tab-navigation {
+    padding: 20px 24px;
+    max-width: 900px;
+  }
+
+  .main-content {
+    max-width: 900px;
+    padding: 32px 24px;
+  }
+
+  .period-tab {
+    font-size: 15px;
+  }
+}
+
+/* 섹션 공통 스타일 */
+.section-title {
+  font-size: 18px;
+  font-weight: 700;
+  margin: 0 0 20px 0;
+  background: linear-gradient(135deg, #ff6b9d 0%, #ffa500 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}

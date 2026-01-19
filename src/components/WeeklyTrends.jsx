@@ -1,0 +1,169 @@
+import React, { useRef, useEffect } from 'react';
+import '../styles/WeeklyTrends.css';
+
+function WeeklyTrends({ data, selectedTopic, onTopicSelect }) {
+  const { kpis, topTopics, topicTrend, topIssues, risingTopics } = data;
+  const chartSectionRef = useRef(null);
+
+  // 날짜별로 트렌드 데이터 정렬 (dayOfWeek 포함)
+  const trendByDate = topicTrend.reduce((acc, item) => {
+    if (!acc[item.date]) {
+      acc[item.date] = {
+        date: item.date,
+        dayOfWeek: item.dayOfWeek,
+        topics: []
+      };
+    }
+    acc[item.date].topics.push(item);
+    return acc;
+  }, {});
+
+  // 선택된 토픽의 데이터만 필터링
+  const filteredTrend = selectedTopic
+    ? topicTrend.filter(item => item.topic === selectedTopic)
+    : topicTrend;
+
+  // 최대값 계산
+  const maxCount = Math.max(...filteredTrend.map(item => item.count), 1);
+
+  // 첫 번째 주제를 기본으로 선택
+  useEffect(() => {
+    if (!selectedTopic && topTopics && topTopics.length > 0) {
+      onTopicSelect(topTopics[0].name);
+    }
+  }, []);
+
+  // 토픽 선택 시 차트로 스크롤
+  useEffect(() => {
+    if (selectedTopic && chartSectionRef.current) {
+      setTimeout(() => {
+        chartSectionRef.current.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }, 100);
+    }
+  }, [selectedTopic]);
+
+  return (
+    <section className="weekly-trends">
+      {/* 통계 - 수집건수, 중복제거, 주제수, 급상승주제수 */}
+      <div className="weekly-stats">
+        <div className="stat-card">
+          <div className="stat-label">수집</div>
+          <div className="stat-value">{kpis.collected}</div>
+          <div className="stat-desc">기사</div>
+        </div>
+        <div className="stat-card">
+          <div className="stat-label">중복 제거</div>
+          <div className="stat-value">{kpis.deduped}</div>
+          <div className="stat-desc">건</div>
+        </div>
+        <div className="stat-card">
+          <div className="stat-label">주제</div>
+          <div className="stat-value">{kpis.uniqueTopics}</div>
+          <div className="stat-desc">개</div>
+        </div>
+        <div className="stat-card">
+          <div className="stat-label">급상승</div>
+          <div className="stat-value">{kpis.risingTopicsCount}</div>
+          <div className="stat-desc">개</div>
+        </div>
+      </div>
+
+      {/* 떠오르는 주제들 */}
+      {risingTopics && risingTopics.length > 0 && (
+        <>
+          <h3 className="section-title-small">떠오르는 주제들</h3>
+          <div className="rising-topics-section">
+          <div className="rising-list">
+            {risingTopics.map((topic, idx) => (
+              <div key={idx} className="rising-item">
+                <div className="rising-rank">#{idx + 1}</div>
+                <div className="rising-info">
+                  <div className="rising-name">{topic.name}</div>
+                  <div className="rising-change">+{topic.changePct}%</div>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+        </>
+      )}
+
+      {/* 주요 이슈 */}
+      <div className="top-issues-section">
+        <h3>주요 이슈</h3>
+        <div className="issues-list">
+          {topIssues.map((issue, idx) => (
+            <div key={issue.id} className="issue-card">
+              <div className="issue-rank">#{idx + 1}</div>
+              <div className="issue-content">
+                <div className="issue-title">{issue.title}</div>
+                <div className="issue-summary">{issue.summary}</div>
+                <div className="issue-meta">{issue.articleCount}개 관련 기사</div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+
+      {/* Top 토픽과 일별 차트 함께 */}
+      <div className="topics-and-chart-container">
+        {/* Top 토픽 목록 - 클릭 가능 */}
+        <div className="all-topics-section">
+          <h3 className="section-title-small">주간 Top 토픽</h3>
+          <div className="topics-grid">
+            {topTopics.map((topic, idx) => (
+              <button
+                key={idx}
+                className={`topic-badge ${selectedTopic === topic.name ? 'active' : ''}`}
+                onClick={() => onTopicSelect(selectedTopic === topic.name ? null : topic.name)}
+              >
+                <span className="topic-rank">#{idx + 1}</span>
+                <span className="topic-label">{topic.name}</span>
+                <span className="topic-count">{topic.count}</span>
+              </button>
+            ))}
+          </div>
+        </div>
+
+        {/* 선택된 토픽의 일별 트렌드 차트 */}
+        {selectedTopic && (
+          <div className="daily-trend-section inline" ref={chartSectionRef}>
+            <div className="trend-header">
+              <h3>📈 {selectedTopic}</h3>
+              <button 
+                className="close-button"
+                onClick={() => onTopicSelect(null)}
+              >
+                ✕
+              </button>
+            </div>
+            <div className="trend-chart">
+              {Object.entries(trendByDate).map(([date, dateData]) => {
+                const item = dateData.topics.find(i => i.topic === selectedTopic);
+                return (
+                  <div key={date} className="trend-day">
+                    <div className="trend-bar-container">
+                      <div
+                        className="trend-bar animated"
+                        style={{
+                          height: item ? `${(item.count / maxCount) * 120}px` : '5px',
+                          backgroundColor: '#ff6b9d'
+                        }}
+                        title={`${selectedTopic}: ${item?.count || 0}건`}
+                      />
+                    </div>
+                    <div className="trend-count">{item?.count || 0}</div>
+                    <div className="trend-date">{dateData.dayOfWeek}</div>
+                    <div className="trend-date-full">{date}</div>
+                  </div>
+                );
+              })}
+            </div>
+          </div>
+        )}
+      </div>
+    </section>
+  );
+}
+
+export default WeeklyTrends;

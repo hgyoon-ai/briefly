@@ -25,7 +25,8 @@
         "실행형 AI 적용 가능성이 넓어짐"
       ],
       "whyItMatters": "Agent를 실험 단계가 아닌 실제 서비스 운영에 적용하기 쉬워짐",
-      "topics": ["Agent", "Tool Use"]
+      "topics": ["Agent", "Tool Use"],
+      "url": "https://openai.com/blog/agent-workflow-automation"
     },
     {
       "id": "ai_0002",
@@ -39,7 +40,8 @@
         "품질 재현성이 개선됨"
       ],
       "whyItMatters": "RAG 품질 문제를 구조적으로 추적·관리할 수 있음",
-      "topics": ["RAG", "Open Source"]
+      "topics": ["RAG", "Open Source"],
+      "url": "https://github.com/rag-pipeline/release-notes"
     },
     {
       "id": "sc_0001",
@@ -53,7 +55,8 @@
         "AI 인프라 수요가 주요 배경으로 언급됨"
       ],
       "whyItMatters": "AI 수요가 반도체 가치사슬 전반에 영향을 미치고 있음",
-      "topics": ["Packaging", "Supply Chain"]
+      "topics": ["Packaging", "Supply Chain"],
+      "url": "https://www.semiconductor-industry.com/packaging-investment-2026"
     },
     {
       "id": "ev_0001",
@@ -67,7 +70,8 @@
         "정책 및 금리 환경의 영향이 큼"
       ],
       "whyItMatters": "전기차 수요는 지역·정책별로 나눠서 해석해야 함",
-      "topics": ["EV", "Demand"]
+      "topics": ["EV", "Demand"],
+      "url": "https://www.market-news.com/ev-pricing-demand-2026"
     }
   ]
 }
