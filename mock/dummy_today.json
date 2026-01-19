@@ -1,0 +1,73 @@
+{
+  "date": "2026-01-19",
+  "highlights": {
+    "bullets": [
+      "Agent 실행/운영 자동화 관련 업데이트가 다수 공개됨",
+      "RAG 파이프라인 품질 관리 도구 릴리즈가 이어짐",
+      "벤치마크 해석 및 평가 방법에 대한 가이드가 주목받음"
+    ],
+    "topTopics": ["Agent", "RAG", "Tool Use", "Benchmark"],
+    "stats": {
+      "collected": 26,
+      "deduped": 19
+    }
+  },
+  "cards": [
+    {
+      "id": "ai_0001",
+      "tab": "ai",
+      "publishedAt": "2026-01-19T07:10:00+09:00",
+      "source": "OpenAI Blog",
+      "title": "Agent 워크플로우 자동화를 위한 신규 업데이트",
+      "summary": [
+        "툴 호출과 상태 관리 흐름이 단순화됨",
+        "운영 환경에서 필요한 설정 부담이 감소함",
+        "실행형 AI 적용 가능성이 넓어짐"
+      ],
+      "whyItMatters": "Agent를 실험 단계가 아닌 실제 서비스 운영에 적용하기 쉬워짐",
+      "topics": ["Agent", "Tool Use"]
+    },
+    {
+      "id": "ai_0002",
+      "tab": "ai",
+      "publishedAt": "2026-01-19T06:05:00+09:00",
+      "source": "GitHub",
+      "title": "오픈소스 RAG 파이프라인 릴리즈",
+      "summary": [
+        "문서 인덱싱과 필터링 옵션이 확장됨",
+        "평가 설정을 스냅샷으로 관리할 수 있게 됨",
+        "품질 재현성이 개선됨"
+      ],
+      "whyItMatters": "RAG 품질 문제를 구조적으로 추적·관리할 수 있음",
+      "topics": ["RAG", "Open Source"]
+    },
+    {
+      "id": "sc_0001",
+      "tab": "semiconductor",
+      "publishedAt": "2026-01-19T07:40:00+09:00",
+      "source": "Industry News",
+      "title": "반도체 패키징 투자 확대 움직임",
+      "summary": [
+        "고급 패키징 수요 증가가 확인됨",
+        "후공정 중심으로 투자 계획이 확대됨",
+        "AI 인프라 수요가 주요 배경으로 언급됨"
+      ],
+      "whyItMatters": "AI 수요가 반도체 가치사슬 전반에 영향을 미치고 있음",
+      "topics": ["Packaging", "Supply Chain"]
+    },
+    {
+      "id": "ev_0001",
+      "tab": "ev",
+      "publishedAt": "2026-01-19T08:10:00+09:00",
+      "source": "Market News",
+      "title": "전기차 가격 및 수요 변동성 확대",
+      "summary": [
+        "일부 지역에서 가격 인하 경쟁이 발생함",
+        "재고 조정과 프로모션이 병행됨",
+        "정책 및 금리 환경의 영향이 큼"
+      ],
+      "whyItMatters": "전기차 수요는 지역·정책별로 나눠서 해석해야 함",
+      "topics": ["EV", "Demand"]
+    }
+  ]
+}
