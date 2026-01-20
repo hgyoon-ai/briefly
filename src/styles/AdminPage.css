@@ -129,9 +129,8 @@
 /* 변화 표시 */
 .change-indicator {
   position: absolute;
-  right: 12px;
-  top: 50%;
-  transform: translateY(-50%);
+  right: 8px;
+  bottom: 8px;
   display: flex;
   align-items: center;
   gap: 2px;
