@@ -129,12 +129,14 @@
 /* 변화 표시 */
 .change-indicator {
   position: absolute;
-  right: 8px;
-  bottom: 8px;
+  right: 12px;
+  top: 75%;
+  bottom: auto;
+  transform: translateY(-50%);
   display: flex;
   align-items: center;
-  gap: 2px;
-  font-size: 11px;
+  gap: 6px;
+  font-size: 12px;
   font-weight: 700;
 }
 
@@ -189,5 +191,14 @@
 
   .stats-section {
     padding: 12px;
+  }
+
+  .change-indicator {
+    top: auto;
+    right: 8px;
+    bottom: 8px;
+    transform: none;
+    gap: 4px;
+    font-size: 11px;
   }
 }
