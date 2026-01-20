@@ -45,26 +45,6 @@ function WeeklyTrends({ data, selectedTopic, onTopicSelect }) {
 
   return (
     <section className="weekly-trends">
-      {/* 떠오르는 주제들 */}
-      {risingTopics && risingTopics.length > 0 && (
-        <>
-          <h3 className="section-title-small">떠오르는 주제들</h3>
-          <div className="rising-topics-section">
-          <div className="rising-list">
-            {risingTopics.map((topic, idx) => (
-              <div key={idx} className="rising-item">
-                <div className="rising-rank">#{idx + 1}</div>
-                <div className="rising-info">
-                  <div className="rising-name">{topic.name}</div>
-                  <div className="rising-change">+{topic.changePct}%</div>
-                </div>
-              </div>
-            ))}
-          </div>
-        </div>
-        </>
-      )}
-
       {/* 주요 이슈 */}
       <div className="top-issues-section">
         <h3>주요 이슈</h3>
@@ -73,7 +53,14 @@ function WeeklyTrends({ data, selectedTopic, onTopicSelect }) {
             <div key={issue.id} className="issue-card">
               <div className="issue-rank">#{idx + 1}</div>
               <div className="issue-content">
-                <div className="issue-title">{issue.title}</div>
+                <div className="issue-title">
+                  {issue.title}
+                  {issue.status && (
+                    <span className={`issue-status issue-status-${issue.status.toLowerCase()}`}>
+                      {issue.status}
+                    </span>
+                  )}
+                </div>
                 <div className="issue-summary">{issue.summary}</div>
                 <div className="issue-meta">{issue.articleCount}개 관련 기사</div>
               </div>

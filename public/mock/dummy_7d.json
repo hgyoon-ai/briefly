@@ -68,12 +68,14 @@
   "topIssues": [
     {
       "id": "cl_001",
+      "status": "ONGOING",
       "title": "Agent 실행 자동화 관련 업데이트 집중",
       "summary": "툴 호출 자동화와 상태 관리 개선이 여러 출처에서 반복적으로 언급됨",
       "articleCount": 14
     },
     {
       "id": "cl_002",
+      "status": "NEW",
       "title": "RAG 품질 관리 도구 릴리즈 증가",
       "summary": "인덱싱·필터링·평가 자동화 기능이 개선됨",
       "articleCount": 9

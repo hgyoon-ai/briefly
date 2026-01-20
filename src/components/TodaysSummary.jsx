@@ -36,16 +36,21 @@ function TodaysSummary({ data }) {
               rel="noopener noreferrer"
               className="news-card"
             >
-              <div className="card-header">
-                <div className="card-source">{card.source}</div>
-                <div className="card-time">
-                  {new Date(card.publishedAt).toLocaleTimeString('ko-KR', {
-                    hour: '2-digit',
-                    minute: '2-digit'
-                  })}
-                </div>
-              </div>
+              <div className="card-source">{card.source}</div>
+              <span className="external-icon" aria-hidden>
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M14 3h7v7" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+                  <path d="M10 14L21 3" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+                  <path d="M21 21H3V3" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+                </svg>
+              </span>
               <div className="card-title">{card.title}</div>
+              <div className="card-time-below">
+                {new Date(card.publishedAt).toLocaleTimeString('ko-KR', {
+                  hour: '2-digit',
+                  minute: '2-digit'
+                })}
+              </div>
               <div className="card-summary">
                 {card.summary.map((line, idx) => (
                   <div key={idx} className="summary-line">• {line}</div>

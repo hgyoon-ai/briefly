@@ -318,6 +318,34 @@
   font-weight: 700;
   color: #333;
   margin-bottom: 6px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.issue-status {
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 700;
+  padding: 3px 8px;
+  border-radius: 4px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.issue-status-new {
+  background: #ff6b9d;
+  color: white;
+}
+
+.issue-status-ongoing {
+  background: #ffa500;
+  color: white;
+}
+
+.issue-status-shifting {
+  background: #4ecdc4;
+  color: white;
 }
 
 .issue-summary {

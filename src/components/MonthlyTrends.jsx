@@ -140,7 +140,14 @@ function MonthlyTrends({ data, selectedTopic, onTopicSelect }) {
             <div key={issue.id} className="issue-card">
               <div className="issue-rank">#{idx + 1}</div>
               <div className="issue-content">
-                <div className="issue-title">{issue.title}</div>
+                <div className="issue-title">
+                  {issue.title}
+                  {issue.status && (
+                    <span className={`issue-status issue-status-${issue.status.toLowerCase()}`}>
+                      {issue.status}
+                    </span>
+                  )}
+                </div>
                 <div className="issue-summary">{issue.summary}</div>
                 <div className="issue-meta">{issue.articleCount}개 관련 기사</div>
               </div>

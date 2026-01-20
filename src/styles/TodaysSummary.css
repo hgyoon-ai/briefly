@@ -127,12 +127,13 @@
   display: block;
   background: white;
   border-radius: 12px;
-  padding: 16px;
+  padding: 16px 16px 48px 16px;
   box-shadow: 0 2px 8px rgba(255, 107, 157, 0.12);
   text-decoration: none;
   color: inherit;
   transition: all 0.3s ease;
   border: 2px solid transparent;
+  position: relative;
 }
 
 .news-card:hover {
@@ -141,22 +142,29 @@
   border-color: #ff6b9d;
 }
 
-.card-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 10px;
-}
-
 .card-source {
   font-size: 12px;
   font-weight: 600;
   color: #ff6b9d;
+  margin-bottom: 6px;
 }
 
-.card-time {
-  font-size: 11px;
+.external-icon {
+  position: absolute;
+  right: 12px;
+  top: 12px;
+  color: #ff6b9d;
+  opacity: 0.75;
+  width: 16px;
+  height: 16px;
+}
+
+.card-time-below {
+  font-size: 12px;
   color: #999;
+  position: absolute;
+  right: 12px;
+  bottom: 12px;
 }
 
 .card-title {

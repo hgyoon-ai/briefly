@@ -47,6 +47,27 @@ function AdminPage() {
     );
   };
 
+  // 최근 업데이트: cards에서 가장 최신 publishedAt 찾기
+  const getLastUpdated = () => {
+    if (!todayData || !todayData.cards || todayData.cards.length === 0) return '';
+    
+    // cards의 publishedAt 중 가장 최신(큰) 값 찾기
+    const latestCard = todayData.cards.reduce((latest, card) => {
+      return new Date(card.publishedAt) > new Date(latest.publishedAt) ? card : latest;
+    });
+    
+    const date = new Date(latestCard.publishedAt);
+    const year = date.getFullYear();
+    const month = String(date.getMonth() + 1).padStart(2, '0');
+    const day = String(date.getDate()).padStart(2, '0');
+    const hours = String(date.getHours()).padStart(2, '0');
+    const minutes = String(date.getMinutes()).padStart(2, '0');
+    
+    return `${year}.${month}.${day} ${hours}:${minutes}`;
+  };
+
+  const lastUpdated = getLastUpdated();
+
   if (loading) {
     return <div className="loading">데이터를 불러오는 중...</div>;
   }
@@ -60,6 +81,9 @@ function AdminPage() {
             <span>⚡</span>
           </Link>
         </div>
+        {todayData && (
+          <div className="last-updated">최근 업데이트: {lastUpdated}</div>
+        )}
       </header>
 
       <main className="admin-content">
