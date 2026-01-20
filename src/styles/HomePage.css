@@ -9,14 +9,43 @@
   background: linear-gradient(135deg, #ff6b9d 0%, #ffa500 50%, #ff69b4 100%);
   color: white;
   padding: 24px 16px;
-  text-align: center;
   box-shadow: 0 4px 12px rgba(255, 107, 157, 0.3);
+}
+
+.header-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  position: relative;
 }
 
 .header h1 {
   margin: 0;
   font-size: 32px;
   font-weight: 700;
+  flex: 1;
+  text-align: center;
+}
+
+.admin-link {
+  font-size: 24px;
+  text-decoration: none;
+  color: white;
+  transition: all 0.3s ease;
+  padding: 8px 12px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  right: 0;
+}
+
+.admin-link:hover {
+  background: rgba(255, 255, 255, 0.2);
+  transform: scale(1.1);
 }
 
 .header .date-range {

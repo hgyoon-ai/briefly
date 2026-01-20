@@ -11,25 +11,6 @@ function TodaysSummary({ data }) {
     <section className="todays-summary">
       <h2 className="section-title">📌 오늘의 요약</h2>
 
-      {/* 하이라이트 카드 */}
-      <div className="highlights">
-        <div className="highlight-card">
-          <div className="highlight-label">수집</div>
-          <div className="highlight-value">{highlights.stats.collected}</div>
-          <div className="highlight-desc">기사</div>
-        </div>
-        <div className="highlight-card">
-          <div className="highlight-label">중복 제거</div>
-          <div className="highlight-value">{highlights.stats.deduped}</div>
-          <div className="highlight-desc">건</div>
-        </div>
-        <div className="highlight-card">
-          <div className="highlight-label">주제</div>
-          <div className="highlight-value">{highlights.topTopics.length}</div>
-          <div className="highlight-desc">개</div>
-        </div>
-      </div>
-
       {/* 3줄 요약 - Highlights */}
       <div className="three-line-summary">
         <h3>핵심 내용</h3>

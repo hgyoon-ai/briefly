@@ -1,9 +1,10 @@
-import React, { useRef, useEffect } from 'react';
+import React, { useRef, useEffect, useState } from 'react';
 import '../styles/WeeklyTrends.css';
 
 function WeeklyTrends({ data, selectedTopic, onTopicSelect }) {
   const { kpis, topTopics, topicTrend, topIssues, risingTopics } = data;
   const chartSectionRef = useRef(null);
+  const [isUserInitiated, setIsUserInitiated] = useState(false);
 
   // 날짜별로 트렌드 데이터 정렬 (dayOfWeek 포함)
   const trendByDate = topicTrend.reduce((acc, item) => {
@@ -26,48 +27,24 @@ function WeeklyTrends({ data, selectedTopic, onTopicSelect }) {
   // 최대값 계산
   const maxCount = Math.max(...filteredTrend.map(item => item.count), 1);
 
-  // 첫 번째 주제를 기본으로 선택
+  // 첫 번째 주제를 기본으로 선택 (스크롤 없음)
   useEffect(() => {
     if (!selectedTopic && topTopics && topTopics.length > 0) {
       onTopicSelect(topTopics[0].name);
     }
   }, []);
 
-  // 토픽 선택 시 차트로 스크롤
+  // 토픽 선택 시 차트로 스크롤 (사용자 클릭 시에만)
   useEffect(() => {
-    if (selectedTopic && chartSectionRef.current) {
+    if (isUserInitiated && selectedTopic && chartSectionRef.current) {
       setTimeout(() => {
         chartSectionRef.current.scrollIntoView({ behavior: 'smooth', block: 'start' });
       }, 100);
     }
-  }, [selectedTopic]);
+  }, [selectedTopic, isUserInitiated]);
 
   return (
     <section className="weekly-trends">
-      {/* 통계 - 수집건수, 중복제거, 주제수, 급상승주제수 */}
-      <div className="weekly-stats">
-        <div className="stat-card">
-          <div className="stat-label">수집</div>
-          <div className="stat-value">{kpis.collected}</div>
-          <div className="stat-desc">기사</div>
-        </div>
-        <div className="stat-card">
-          <div className="stat-label">중복 제거</div>
-          <div className="stat-value">{kpis.deduped}</div>
-          <div className="stat-desc">건</div>
-        </div>
-        <div className="stat-card">
-          <div className="stat-label">주제</div>
-          <div className="stat-value">{kpis.uniqueTopics}</div>
-          <div className="stat-desc">개</div>
-        </div>
-        <div className="stat-card">
-          <div className="stat-label">급상승</div>
-          <div className="stat-value">{kpis.risingTopicsCount}</div>
-          <div className="stat-desc">개</div>
-        </div>
-      </div>
-
       {/* 떠오르는 주제들 */}
       {risingTopics && risingTopics.length > 0 && (
         <>
@@ -115,7 +92,10 @@ function WeeklyTrends({ data, selectedTopic, onTopicSelect }) {
               <button
                 key={idx}
                 className={`topic-badge ${selectedTopic === topic.name ? 'active' : ''}`}
-                onClick={() => onTopicSelect(selectedTopic === topic.name ? null : topic.name)}
+                onClick={() => {
+                  setIsUserInitiated(true);
+                  onTopicSelect(selectedTopic === topic.name ? null : topic.name);
+                }}
               >
                 <span className="topic-rank">#{idx + 1}</span>
                 <span className="topic-label">{topic.name}</span>

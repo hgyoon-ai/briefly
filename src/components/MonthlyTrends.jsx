@@ -27,30 +27,6 @@ function MonthlyTrends({ data, selectedTopic, onTopicSelect }) {
 
   return (
     <section className="monthly-trends">
-      {/* 통계 - 수집건수, 중복제거, 주제수, 점유율 */}
-      <div className="monthly-stats">
-        <div className="stat-card">
-          <div className="stat-label">수집</div>
-          <div className="stat-value">{kpis.collected}</div>
-          <div className="stat-desc">기사</div>
-        </div>
-        <div className="stat-card">
-          <div className="stat-label">중복 제거</div>
-          <div className="stat-value">{kpis.deduped}</div>
-          <div className="stat-desc">건</div>
-        </div>
-        <div className="stat-card">
-          <div className="stat-label">주제</div>
-          <div className="stat-value">{kpis.uniqueTopics}</div>
-          <div className="stat-desc">개</div>
-        </div>
-        <div className="stat-card">
-          <div className="stat-label">상위주제</div>
-          <div className="stat-value">5</div>
-          <div className="stat-desc">개</div>
-        </div>
-      </div>
-
       {/* 주간별 토픽 분석 - 가로 누적 막대 그래프 */}
       {weeklyData && weeklyData.length > 0 && (
         <div className="weekly-analysis-section">

@@ -3,6 +3,17 @@
     "from": "2026-01-13",
     "to": "2026-01-19"
   },
+  "previousWeek": {
+    "range": {
+      "from": "2026-01-06",
+      "to": "2026-01-12"
+    },
+    "kpis": {
+      "collected": 175,
+      "deduped": 130,
+      "uniqueTopics": 20
+    }
+  },
   "kpis": {
     "collected": 168,
     "deduped": 121,

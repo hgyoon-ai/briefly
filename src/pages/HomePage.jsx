@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { Link } from 'react-router-dom';
 import '../styles/HomePage.css';
 import TodaysSummary from '../components/TodaysSummary';
 import WeeklyTrends from '../components/WeeklyTrends';
@@ -44,10 +45,12 @@ function HomePage() {
   return (
     <div className="home-page">
       <header className="header">
-        <h1>Briefly</h1>
-        <p className="date-range">
-          {monthlyData.range.from} ~ {monthlyData.range.to}
-        </p>
+        <div className="header-content">
+          <h1>Briefly</h1>
+          <Link to="/admin" className="admin-link" title="관리자 페이지">
+            <span>⚡</span>
+          </Link>
+        </div>
       </header>
 
       {/* 탭 네비게이션 */}
