@@ -17,9 +17,9 @@ function HomePage() {
   useEffect(() => {
     // mock 데이터 로드
     Promise.all([
-      fetch('/mock/dummy_today.json').then(res => res.json()),
-      fetch('/mock/dummy_7d.json').then(res => res.json()),
-      fetch('/mock/dummy_30d.json').then(res => res.json())
+      fetch(`${import.meta.env.BASE_URL}mock/dummy_today.json`).then(res => res.json()),
+      fetch(`${import.meta.env.BASE_URL}mock/dummy_7d.json`).then(res => res.json()),
+      fetch(`${import.meta.env.BASE_URL}mock/dummy_30d.json`).then(res => res.json())
     ])
       .then(([today, weekly, monthly]) => {
         setTodayData(today);
