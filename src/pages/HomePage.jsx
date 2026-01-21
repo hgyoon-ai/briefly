@@ -1,44 +1,22 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import '../styles/HomePage.css';
 import TodaysSummary from '../components/TodaysSummary';
 import WeeklyTrends from '../components/WeeklyTrends';
 import MonthlyTrends from '../components/MonthlyTrends';
+import useMockData from '../hooks/useMockData';
 
 function HomePage() {
-  const [todayData, setTodayData] = useState(null);
-  const [weeklyData, setWeeklyData] = useState(null);
-  const [monthlyData, setMonthlyData] = useState(null);
-  const [loading, setLoading] = useState(true);
-  const [activeTab, setActiveTab] = useState('AI');
+  const { today, weekly, monthly, loading, error } = useMockData();
   const [activePeriodTab, setActivePeriodTab] = useState('weekly');
   const [selectedWeeklyTopic, setSelectedWeeklyTopic] = useState(null);
   const [selectedMonthlyTopic, setSelectedMonthlyTopic] = useState(null);
-
-  useEffect(() => {
-    // mock 데이터 로드
-    Promise.all([
-      fetch(`${import.meta.env.BASE_URL}mock/dummy_today.json`).then(res => res.json()),
-      fetch(`${import.meta.env.BASE_URL}mock/dummy_7d.json`).then(res => res.json()),
-      fetch(`${import.meta.env.BASE_URL}mock/dummy_30d.json`).then(res => res.json())
-    ])
-      .then(([today, weekly, monthly]) => {
-        setTodayData(today);
-        setWeeklyData(weekly);
-        setMonthlyData(monthly);
-        setLoading(false);
-      })
-      .catch(err => {
-        console.error('Failed to load mock data:', err);
-        setLoading(false);
-      });
-  }, []);
 
   if (loading) {
     return <div className="loading">데이터를 불러오는 중...</div>;
   }
 
-  if (!todayData || !weeklyData || !monthlyData) {
+  if (error || !today || !weekly || !monthly) {
     return <div className="error">데이터를 불러올 수 없습니다.</div>;
   }
 
@@ -56,9 +34,8 @@ function HomePage() {
       {/* 탭 네비게이션 */}
       <nav className="tab-navigation">
         <button
-          className={`tab-button ${activeTab === 'AI' ? 'active' : ''}`}
+          className="tab-button active"
           onClick={() => {
-            setActiveTab('AI');
             setSelectedWeeklyTopic(null);
             setSelectedMonthlyTopic(null);
           }}
@@ -81,7 +58,7 @@ function HomePage() {
 
       <main className="main-content">
         {/* 오늘 내용 요약 */}
-        <TodaysSummary data={todayData} />
+        <TodaysSummary data={today} />
 
         {/* 주간/월간 탭 */}
         <div className="period-tabs-section">
@@ -93,7 +70,7 @@ function HomePage() {
                 setSelectedWeeklyTopic(null);
               }}
             >
-              주간 ({weeklyData.range.from} ~ {weeklyData.range.to})
+              주간 ({weekly.range.from} ~ {weekly.range.to})
             </button>
             <button
               className={`period-tab ${activePeriodTab === 'monthly' ? 'active' : ''}`}
@@ -102,14 +79,14 @@ function HomePage() {
                 setSelectedMonthlyTopic(null);
               }}
             >
-              월간 ({monthlyData.range.from} ~ {monthlyData.range.to})
+              월간 ({monthly.range.from} ~ {monthly.range.to})
             </button>
           </div>
 
           {/* 주간 트렌드 */}
           {activePeriodTab === 'weekly' && (
             <WeeklyTrends 
-              data={weeklyData} 
+              data={weekly} 
               selectedTopic={selectedWeeklyTopic}
               onTopicSelect={setSelectedWeeklyTopic}
             />
@@ -118,7 +95,7 @@ function HomePage() {
           {/* 월간 트렌드 */}
           {activePeriodTab === 'monthly' && (
             <MonthlyTrends 
-              data={monthlyData} 
+              data={monthly} 
               selectedTopic={selectedMonthlyTopic}
               onTopicSelect={setSelectedMonthlyTopic}
             />

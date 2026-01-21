@@ -1,4 +1,5 @@
 import React, { useRef, useEffect, useState } from 'react';
+import TopIssues from './TopIssues';
 import '../styles/WeeklyTrends.css';
 
 function WeeklyTrends({ data, selectedTopic, onTopicSelect }) {
@@ -32,7 +33,7 @@ function WeeklyTrends({ data, selectedTopic, onTopicSelect }) {
     if (!selectedTopic && topTopics && topTopics.length > 0) {
       onTopicSelect(topTopics[0].name);
     }
-  }, []);
+  }, [selectedTopic, topTopics, onTopicSelect]);
 
   // 토픽 선택 시 차트로 스크롤 (사용자 클릭 시에만)
   useEffect(() => {
@@ -46,28 +47,7 @@ function WeeklyTrends({ data, selectedTopic, onTopicSelect }) {
   return (
     <section className="weekly-trends">
       {/* 주요 이슈 */}
-      <div className="top-issues-section">
-        <h3>주요 이슈</h3>
-        <div className="issues-list">
-          {topIssues.map((issue, idx) => (
-            <div key={issue.id} className="issue-card">
-              <div className="issue-rank">#{idx + 1}</div>
-              <div className="issue-content">
-                <div className="issue-title">
-                  {issue.title}
-                  {issue.status && (
-                    <span className={`issue-status issue-status-${issue.status.toLowerCase()}`}>
-                      {issue.status}
-                    </span>
-                  )}
-                </div>
-                <div className="issue-summary">{issue.summary}</div>
-                <div className="issue-meta">{issue.articleCount}개 관련 기사</div>
-              </div>
-            </div>
-          ))}
-        </div>
-      </div>
+      <TopIssues issues={topIssues} />
 
       {/* Top 토픽과 일별 차트 함께 */}
       <div className="topics-and-chart-container">

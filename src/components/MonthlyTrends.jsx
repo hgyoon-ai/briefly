@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import TopIssues from './TopIssues';
 import '../styles/MonthlyTrends.css';
 
 function MonthlyTrends({ data, selectedTopic, onTopicSelect }) {
@@ -133,28 +134,7 @@ function MonthlyTrends({ data, selectedTopic, onTopicSelect }) {
       )}
 
       {/* Top Issues */}
-      <div className="top-issues-section">
-        <h3>주요 이슈</h3>
-        <div className="issues-list">
-          {topIssues.map((issue, idx) => (
-            <div key={issue.id} className="issue-card">
-              <div className="issue-rank">#{idx + 1}</div>
-              <div className="issue-content">
-                <div className="issue-title">
-                  {issue.title}
-                  {issue.status && (
-                    <span className={`issue-status issue-status-${issue.status.toLowerCase()}`}>
-                      {issue.status}
-                    </span>
-                  )}
-                </div>
-                <div className="issue-summary">{issue.summary}</div>
-                <div className="issue-meta">{issue.articleCount}개 관련 기사</div>
-              </div>
-            </div>
-          ))}
-        </div>
-      </div>
+      <TopIssues issues={topIssues} />
 
       {/* 선택된 토픽의 점유율 비교 */}
       {selectedTopic && (

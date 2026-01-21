@@ -1,31 +1,10 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import { Link } from 'react-router-dom';
 import '../styles/AdminPage.css';
+import useMockData from '../hooks/useMockData';
 
 function AdminPage() {
-  const [todayData, setTodayData] = useState(null);
-  const [weeklyData, setWeeklyData] = useState(null);
-  const [monthlyData, setMonthlyData] = useState(null);
-  const [loading, setLoading] = useState(true);
-
-  useEffect(() => {
-    // mock 데이터 로드
-    Promise.all([
-      fetch(`${import.meta.env.BASE_URL}mock/dummy_today.json`).then(res => res.json()),
-      fetch(`${import.meta.env.BASE_URL}mock/dummy_7d.json`).then(res => res.json()),
-      fetch(`${import.meta.env.BASE_URL}mock/dummy_30d.json`).then(res => res.json())
-    ])
-      .then(([today, weekly, monthly]) => {
-        setTodayData(today);
-        setWeeklyData(weekly);
-        setMonthlyData(monthly);
-        setLoading(false);
-      })
-      .catch(err => {
-        console.error('Failed to load mock data:', err);
-        setLoading(false);
-      });
-  }, []);
+  const { today, weekly, monthly, loading, error } = useMockData();
 
   // 변화 계산 함수 (절대값으로 변환)
   const calculateChange = (current, previous) => {
@@ -49,10 +28,10 @@ function AdminPage() {
 
   // 최근 업데이트: cards에서 가장 최신 publishedAt 찾기
   const getLastUpdated = () => {
-    if (!todayData || !todayData.cards || todayData.cards.length === 0) return '';
+    if (!today || !today.cards || today.cards.length === 0) return '';
     
     // cards의 publishedAt 중 가장 최신(큰) 값 찾기
-    const latestCard = todayData.cards.reduce((latest, card) => {
+    const latestCard = today.cards.reduce((latest, card) => {
       return new Date(card.publishedAt) > new Date(latest.publishedAt) ? card : latest;
     });
     
@@ -72,6 +51,10 @@ function AdminPage() {
     return <div className="loading">데이터를 불러오는 중...</div>;
   }
 
+  if (error || !today || !weekly || !monthly) {
+    return <div className="error">데이터를 불러올 수 없습니다.</div>;
+  }
+
   return (
     <div className="admin-page">
       <header className="admin-header">
@@ -81,48 +64,48 @@ function AdminPage() {
             <span>⚡</span>
           </Link>
         </div>
-        {todayData && (
+        {today && (
           <div className="last-updated">최근 업데이트: {lastUpdated}</div>
         )}
       </header>
 
       <main className="admin-content">
         {/* 일간 통계 */}
-        {todayData && (
+        {today && (
           <section className="stats-section">
             <h2>📅 일간</h2>
-            <div className="date-label">기준 날짜: {todayData.date}</div>
+            <div className="date-label">기준 날짜: {today.date}</div>
             <div className="stats-grid">
               <div className="stat-card">
                 <div className="stat-label">수집</div>
-                <div className="stat-value">{todayData.highlights.stats.collected}</div>
+                <div className="stat-value">{today.highlights.stats.collected}</div>
                 <div className="stat-desc">기사</div>
-                {todayData.yesterday && (
+                {today.yesterday && (
                   <ChangeIndicator 
-                    current={todayData.highlights.stats.collected} 
-                    previous={todayData.yesterday.stats.collected}
+                    current={today.highlights.stats.collected} 
+                    previous={today.yesterday.stats.collected}
                   />
                 )}
               </div>
               <div className="stat-card">
                 <div className="stat-label">중복 제거</div>
-                <div className="stat-value">{todayData.highlights.stats.deduped}</div>
+                <div className="stat-value">{today.highlights.stats.deduped}</div>
                 <div className="stat-desc">건</div>
-                {todayData.yesterday && (
+                {today.yesterday && (
                   <ChangeIndicator 
-                    current={todayData.highlights.stats.deduped} 
-                    previous={todayData.yesterday.stats.deduped}
+                    current={today.highlights.stats.deduped} 
+                    previous={today.yesterday.stats.deduped}
                   />
                 )}
               </div>
               <div className="stat-card">
                 <div className="stat-label">주제</div>
-                <div className="stat-value">{todayData.highlights.topTopics.length}</div>
+                <div className="stat-value">{today.highlights.topTopics.length}</div>
                 <div className="stat-desc">개</div>
-                {todayData.yesterday && (
+                {today.yesterday && (
                   <ChangeIndicator 
-                    current={todayData.highlights.topTopics.length} 
-                    previous={todayData.yesterday.stats.uniqueTopics}
+                    current={today.highlights.topTopics.length} 
+                    previous={today.yesterday.stats.uniqueTopics}
                   />
                 )}
               </div>
@@ -131,41 +114,41 @@ function AdminPage() {
         )}
 
         {/* 주간 통계 */}
-        {weeklyData && todayData && (
+        {weekly && today && (
           <section className="stats-section">
             <h2>📊 주간</h2>
-            <div className="date-label">기준 기간: {weeklyData.range.from} ~ {weeklyData.range.to}</div>
+            <div className="date-label">기준 기간: {weekly.range.from} ~ {weekly.range.to}</div>
             <div className="stats-grid">
               <div className="stat-card">
                 <div className="stat-label">수집</div>
-                <div className="stat-value">{weeklyData.kpis.collected}</div>
+                <div className="stat-value">{weekly.kpis.collected}</div>
                 <div className="stat-desc">기사</div>
-                {weeklyData.previousWeek && (
+                {weekly.previousWeek && (
                   <ChangeIndicator 
-                    current={weeklyData.kpis.collected} 
-                    previous={weeklyData.previousWeek.kpis.collected}
+                    current={weekly.kpis.collected} 
+                    previous={weekly.previousWeek.kpis.collected}
                   />
                 )}
               </div>
               <div className="stat-card">
                 <div className="stat-label">중복 제거</div>
-                <div className="stat-value">{weeklyData.kpis.deduped}</div>
+                <div className="stat-value">{weekly.kpis.deduped}</div>
                 <div className="stat-desc">건</div>
-                {weeklyData.previousWeek && (
+                {weekly.previousWeek && (
                   <ChangeIndicator 
-                    current={weeklyData.kpis.deduped} 
-                    previous={weeklyData.previousWeek.kpis.deduped}
+                    current={weekly.kpis.deduped} 
+                    previous={weekly.previousWeek.kpis.deduped}
                   />
                 )}
               </div>
               <div className="stat-card">
                 <div className="stat-label">주제</div>
-                <div className="stat-value">{weeklyData.kpis.uniqueTopics}</div>
+                <div className="stat-value">{weekly.kpis.uniqueTopics}</div>
                 <div className="stat-desc">개</div>
-                {weeklyData.previousWeek && (
+                {weekly.previousWeek && (
                   <ChangeIndicator 
-                    current={weeklyData.kpis.uniqueTopics} 
-                    previous={weeklyData.previousWeek.kpis.uniqueTopics}
+                    current={weekly.kpis.uniqueTopics} 
+                    previous={weekly.previousWeek.kpis.uniqueTopics}
                   />
                 )}
               </div>
@@ -174,41 +157,41 @@ function AdminPage() {
         )}
 
         {/* 월간 통계 */}
-        {monthlyData && weeklyData && (
+        {monthly && weekly && (
           <section className="stats-section">
             <h2>📈 월간</h2>
-            <div className="date-label">기준 기간: {monthlyData.range.from} ~ {monthlyData.range.to}</div>
+            <div className="date-label">기준 기간: {monthly.range.from} ~ {monthly.range.to}</div>
             <div className="stats-grid">
               <div className="stat-card">
                 <div className="stat-label">수집</div>
-                <div className="stat-value">{monthlyData.kpis.collected}</div>
+                <div className="stat-value">{monthly.kpis.collected}</div>
                 <div className="stat-desc">기사</div>
-                {monthlyData.previousMonth && (
+                {monthly.previousMonth && (
                   <ChangeIndicator 
-                    current={monthlyData.kpis.collected} 
-                    previous={monthlyData.previousMonth.kpis.collected}
+                    current={monthly.kpis.collected} 
+                    previous={monthly.previousMonth.kpis.collected}
                   />
                 )}
               </div>
               <div className="stat-card">
                 <div className="stat-label">중복 제거</div>
-                <div className="stat-value">{monthlyData.kpis.deduped}</div>
+                <div className="stat-value">{monthly.kpis.deduped}</div>
                 <div className="stat-desc">건</div>
-                {monthlyData.previousMonth && (
+                {monthly.previousMonth && (
                   <ChangeIndicator 
-                    current={monthlyData.kpis.deduped} 
-                    previous={monthlyData.previousMonth.kpis.deduped}
+                    current={monthly.kpis.deduped} 
+                    previous={monthly.previousMonth.kpis.deduped}
                   />
                 )}
               </div>
               <div className="stat-card">
                 <div className="stat-label">주제</div>
-                <div className="stat-value">{monthlyData.kpis.uniqueTopics}</div>
+                <div className="stat-value">{monthly.kpis.uniqueTopics}</div>
                 <div className="stat-desc">개</div>
-                {monthlyData.previousMonth && (
+                {monthly.previousMonth && (
                   <ChangeIndicator 
-                    current={monthlyData.kpis.uniqueTopics} 
-                    previous={monthlyData.previousMonth.kpis.uniqueTopics}
+                    current={monthly.kpis.uniqueTopics} 
+                    previous={monthly.previousMonth.kpis.uniqueTopics}
                   />
                 )}
               </div>
