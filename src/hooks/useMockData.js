@@ -1,9 +1,9 @@
 import { useEffect, useState } from 'react';
 
 const mockEndpoints = {
-  today: `${import.meta.env.BASE_URL}mock/dummy_today.json`,
-  weekly: `${import.meta.env.BASE_URL}mock/dummy_7d.json`,
-  monthly: `${import.meta.env.BASE_URL}mock/dummy_30d.json`
+  today: `${import.meta.env.BASE_URL}latest/dummy_today.json`,
+  weekly: `${import.meta.env.BASE_URL}latest/dummy_7d.json`,
+  monthly: `${import.meta.env.BASE_URL}latest/dummy_30d.json`
 };
 
 const fetchJson = async (url) => {

@@ -19,10 +19,12 @@ briefly/
 │   │   ├── WeeklyTrends.css
 │   │   └── MonthlyTrends.css
 │   └── main.jsx
-├── mock/                   # API 개발 전 더미 데이터 저장
-│   ├── dummy_today.json    # 오늘의 요약 데이터
-│   ├── dummy_7d.json       # 주간 트렌드 데이터
-│   └── dummy_30d.json      # 월간 트렌드 데이터
+├── public/
+│   └── latest/             # 최신 데이터 (웹에서 사용)
+│       ├── dummy_today.json
+│       ├── dummy_7d.json
+│       └── dummy_30d.json
+├── archive/                # 아카이브 데이터 (웹 비공개)
 ├── index.html
 ├── package.json
 └── vite.config.js
