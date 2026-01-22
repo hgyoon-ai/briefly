@@ -6,6 +6,7 @@ import '../styles/WeeklyTrends.css';
 function WeeklyTrends({ data, selectedTopic, onTopicSelect }) {
   const { kpis, topTopics, topicTrend, topIssues, risingTopics } = data;
   const chartSectionRef = useRef(null);
+  const hasInitialized = useRef(false);
   const [isUserInitiated, setIsUserInitiated] = useState(false);
   const [activeIssue, setActiveIssue] = useState(null);
 
@@ -32,8 +33,9 @@ function WeeklyTrends({ data, selectedTopic, onTopicSelect }) {
 
   // 첫 번째 주제를 기본으로 선택 (스크롤 없음)
   useEffect(() => {
-    if (!selectedTopic && topTopics && topTopics.length > 0) {
+    if (!hasInitialized.current && !selectedTopic && topTopics && topTopics.length > 0) {
       onTopicSelect(topTopics[0].name);
+      hasInitialized.current = true;
     }
   }, [selectedTopic, topTopics, onTopicSelect]);
 
