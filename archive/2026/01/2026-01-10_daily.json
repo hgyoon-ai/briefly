@@ -1,16 +1,16 @@
 {
-  "date": "2026-01-22",
+  "date": "2026-01-10",
   "highlights": {
     "bullets": [
-      "RAG 관련 업데이트가 4건 감지됨",
+      "Evaluation 관련 업데이트가 4건 감지됨",
       "AI 개발 업데이트가 꾸준히 이어지고 있음",
       "주요 릴리즈와 모델 업데이트가 함께 등장함"
     ],
     "topTopics": [
+      "Evaluation",
+      "Agent",
       "RAG",
-      "Tool Use",
-      "Benchmark",
-      "Multimodal"
+      "Tool Use"
     ],
     "stats": {
       "collected": 6,
@@ -21,11 +21,49 @@
     {
       "id": "ai_0001",
       "tab": "ai",
-      "publishedAt": "2026-01-22T10:11:00+09:00",
+      "publishedAt": "2026-01-10T10:11:00+09:00",
       "source": "OpenAI Blog",
       "title": "How Higgsfield turns simple ideas into cinematic social videos",
       "summary": [
         "How Higgsfield turns simple ideas into cinematic social videos",
+        "Evaluation 관련 업데이트가 집중됨",
+        "관련 업데이트가 이어지고 있음"
+      ],
+      "whyItMatters": "개발 현황 파악에 직접적인 영향을 주는 업데이트",
+      "topics": [
+        "Evaluation"
+      ],
+      "url": "https://openai.com/index/higgsfield",
+      "status": "ONGOING",
+      "hash": "3253c47cea20c2ab9266c483052fe51b3fc47bd1f87a16bcec7b8eb0de70e981"
+    },
+    {
+      "id": "ai_0002",
+      "tab": "ai",
+      "publishedAt": "2026-01-10T11:12:00+09:00",
+      "source": "NVIDIA Developer Blog",
+      "title": "Streamlining CUB with a Single-Call API",
+      "summary": [
+        "Streamlining CUB with a Single-Call API",
+        "Agent 관련 업데이트가 집중됨",
+        "관련 업데이트가 이어지고 있음"
+      ],
+      "whyItMatters": "개발 현황 파악에 직접적인 영향을 주는 업데이트",
+      "topics": [
+        "Agent"
+      ],
+      "url": "https://developer.nvidia.com/blog/streamlining-cub-with-a-single-call-api/",
+      "status": "SHIFTING",
+      "hash": "e527dd0f49341c764036c901f0d3a9e8c0344c90121424b16a32f7c9cc69b9ac"
+    },
+    {
+      "id": "ai_0003",
+      "tab": "ai",
+      "publishedAt": "2026-01-10T12:13:00+09:00",
+      "source": "GitHub/kollorg/provident-unde",
+      "title": "26.51.530",
+      "summary": [
+        "26.51.530",
         "RAG 관련 업데이트가 집중됨",
         "관련 업데이트가 이어지고 있음"
       ],
@@ -33,18 +71,18 @@
       "topics": [
         "RAG"
       ],
-      "url": "https://openai.com/index/higgsfield",
-      "status": "ONGOING",
-      "hash": "0b466860b70699ca07af45db4568708632753c68804a3eb163d2641b00927a4c"
+      "url": "https://github.com/kollorg/provident-unde/releases/tag/26.51.530",
+      "status": "NEW",
+      "hash": "48496244922f485ff259bf0f15f8ce2a1a43d3b3ca56fa41425a987f60d4d76a"
     },
     {
-      "id": "ai_0002",
+      "id": "ai_0004",
       "tab": "ai",
-      "publishedAt": "2026-01-22T11:12:00+09:00",
-      "source": "NVIDIA Developer Blog",
-      "title": "Streamlining CUB with a Single-Call API",
+      "publishedAt": "2026-01-10T13:14:00+09:00",
+      "source": "GitHub/firanorg/fuga-unde-tempore",
+      "title": "18.60.553",
       "summary": [
-        "Streamlining CUB with a Single-Call API",
+        "18.60.553",
         "Tool Use 관련 업데이트가 집중됨",
         "관련 업데이트가 이어지고 있음"
       ],
@@ -52,47 +90,9 @@
       "topics": [
         "Tool Use"
       ],
-      "url": "https://developer.nvidia.com/blog/streamlining-cub-with-a-single-call-api/",
-      "status": "SHIFTING",
-      "hash": "e03736d1e65ac2d73d75153c560e3accec825506a0e95e3549d63f91058f2d55"
-    },
-    {
-      "id": "ai_0003",
-      "tab": "ai",
-      "publishedAt": "2026-01-22T12:13:00+09:00",
-      "source": "GitHub/kollorg/provident-unde",
-      "title": "26.51.530",
-      "summary": [
-        "26.51.530",
-        "Benchmark 관련 업데이트가 집중됨",
-        "관련 업데이트가 이어지고 있음"
-      ],
-      "whyItMatters": "개발 현황 파악에 직접적인 영향을 주는 업데이트",
-      "topics": [
-        "Benchmark"
-      ],
-      "url": "https://github.com/kollorg/provident-unde/releases/tag/26.51.530",
-      "status": "NEW",
-      "hash": "e35965499c9cd58df94ee0e264ee0bc9242af11231beae319bfe113e7e54e019"
-    },
-    {
-      "id": "ai_0004",
-      "tab": "ai",
-      "publishedAt": "2026-01-22T13:14:00+09:00",
-      "source": "GitHub/firanorg/fuga-unde-tempore",
-      "title": "18.60.553",
-      "summary": [
-        "18.60.553",
-        "Multimodal 관련 업데이트가 집중됨",
-        "관련 업데이트가 이어지고 있음"
-      ],
-      "whyItMatters": "개발 현황 파악에 직접적인 영향을 주는 업데이트",
-      "topics": [
-        "Multimodal"
-      ],
       "url": "https://github.com/firanorg/fuga-unde-tempore/releases/tag/18.60.553",
       "status": "ONGOING",
-      "hash": "6d5bbbdd2be9130079dd5a8ee4e3c5ea1c3db2dd92d0eb5ccf773c07a79812b9"
+      "hash": "6033b081fb2028115f1fd0f3d305ac0b3bc03f53b5cdb3e49ba5b3f274ac3f9a"
     }
   ]
 }

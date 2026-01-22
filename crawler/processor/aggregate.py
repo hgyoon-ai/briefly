@@ -1,7 +1,7 @@
 from collections import Counter, defaultdict
 from datetime import datetime, timedelta
 
-from ..utils import day_label, format_date
+from ..utils import day_label, format_date, make_hash, normalize_text
 
 
 def filter_by_range(items, start, end):
@@ -36,6 +36,8 @@ def build_daily_summary(items, raw_count):
 def build_cards(items):
     cards = []
     for idx, item in enumerate(items, start=1):
+        key = item.get("url") or item.get("title") or ""
+        signature = make_hash(normalize_text(key))
         cards.append(
             {
                 "id": f"ai_{idx:04d}",
@@ -46,6 +48,8 @@ def build_cards(items):
                 "summary": item.get("summary", [])[:3],
                 "whyItMatters": item.get("why"),
                 "topics": item.get("topics", []),
+                "status": item.get("status"),
+                "hash": signature,
                 "url": item.get("url"),
             }
         )

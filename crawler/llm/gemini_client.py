@@ -1,7 +1,7 @@
 import json
 import os
 
-from groq import Groq
+import google.generativeai as genai
 
 from ..utils import normalize_text
 
@@ -55,6 +55,8 @@ def build_prompt(item):
     snippet = normalize_text(item.get("snippet"))
     source = normalize_text(item.get("source"))
     published_at = item.get("published_at")
+    if published_at:
+        published_at = published_at.isoformat()
 
     return {
         "title": title,
@@ -64,33 +66,24 @@ def build_prompt(item):
     }
 
 
-def summarize_item(item, model="llama-3.1-8b-instant"):
-    api_key = os.getenv("GROQ_API_KEY")
+def summarize_item(item, model="gemini-2.0-flash"):
+    api_key = os.getenv("GEMINI_API_KEY")
     if not api_key:
         return fallback_summary(item)
 
-    client = Groq(api_key=api_key)
+    genai.configure(api_key=api_key)
     payload = build_prompt(item)
-    system_message = (
+    prompt = (
         "You are an analyst summarizing AI product and developer updates. "
-        "Return compact JSON only."
-    )
-    user_message = (
-        "Summarize the update as JSON with keys: summary (array of 3 short sentences), "
+        "Return JSON only with keys: summary (array of 3 short sentences), "
         "why (one sentence), topics (array of 2-5 tags), status (NEW|ONGOING|SHIFTING). "
         f"Input: {json.dumps(payload, ensure_ascii=False)}"
     )
 
     try:
-        response = client.chat.completions.create(
-            model=model,
-            messages=[
-                {"role": "system", "content": system_message},
-                {"role": "user", "content": user_message},
-            ],
-            temperature=0.4,
-        )
-        content = response.choices[0].message.content
+        client = genai.GenerativeModel(model)
+        response = client.generate_content(prompt)
+        content = response.text
         result = json.loads(content)
         if not isinstance(result.get("summary"), list):
             raise ValueError("Invalid summary")

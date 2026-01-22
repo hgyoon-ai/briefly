@@ -6,8 +6,7 @@ from ..utils import normalize_text, parse_datetime
 
 def fetch_huggingface_trending(timezone):
     params = {
-        "sort": "trending",
-        "direction": -1,
+        "sort": "downloads",
         "limit": MAX_PER_SOURCE["huggingface"],
     }
     response = requests.get(HF_TRENDING_URL, params=params, timeout=20)

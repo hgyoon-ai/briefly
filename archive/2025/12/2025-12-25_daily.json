@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-22",
+  "date": "2025-12-25",
   "highlights": {
     "bullets": [
       "RAG 관련 업데이트가 4건 감지됨",
@@ -13,7 +13,7 @@
       "Multimodal"
     ],
     "stats": {
-      "collected": 6,
+      "collected": 7,
       "deduped": 4
     }
   },
@@ -21,7 +21,7 @@
     {
       "id": "ai_0001",
       "tab": "ai",
-      "publishedAt": "2026-01-22T10:11:00+09:00",
+      "publishedAt": "2025-12-25T10:11:00+09:00",
       "source": "OpenAI Blog",
       "title": "How Higgsfield turns simple ideas into cinematic social videos",
       "summary": [
@@ -34,13 +34,13 @@
         "RAG"
       ],
       "url": "https://openai.com/index/higgsfield",
-      "status": "ONGOING",
-      "hash": "0b466860b70699ca07af45db4568708632753c68804a3eb163d2641b00927a4c"
+      "status": "SHIFTING",
+      "hash": "af2cd20f676a424479c26d2286cab6dbeb4d4bf66a07470229e937055726cded"
     },
     {
       "id": "ai_0002",
       "tab": "ai",
-      "publishedAt": "2026-01-22T11:12:00+09:00",
+      "publishedAt": "2025-12-25T11:12:00+09:00",
       "source": "NVIDIA Developer Blog",
       "title": "Streamlining CUB with a Single-Call API",
       "summary": [
@@ -53,13 +53,13 @@
         "Tool Use"
       ],
       "url": "https://developer.nvidia.com/blog/streamlining-cub-with-a-single-call-api/",
-      "status": "SHIFTING",
-      "hash": "e03736d1e65ac2d73d75153c560e3accec825506a0e95e3549d63f91058f2d55"
+      "status": "NEW",
+      "hash": "ceee351ea130b0229b1ef4b4058c76b85275aca7cc59c9a0e78f647937325452"
     },
     {
       "id": "ai_0003",
       "tab": "ai",
-      "publishedAt": "2026-01-22T12:13:00+09:00",
+      "publishedAt": "2025-12-25T12:13:00+09:00",
       "source": "GitHub/kollorg/provident-unde",
       "title": "26.51.530",
       "summary": [
@@ -72,13 +72,13 @@
         "Benchmark"
       ],
       "url": "https://github.com/kollorg/provident-unde/releases/tag/26.51.530",
-      "status": "NEW",
-      "hash": "e35965499c9cd58df94ee0e264ee0bc9242af11231beae319bfe113e7e54e019"
+      "status": "ONGOING",
+      "hash": "616d5d108eb1969fd749f21c2dcd94b30ca7b1178cc5c3e6228796bfb9ae4886"
     },
     {
       "id": "ai_0004",
       "tab": "ai",
-      "publishedAt": "2026-01-22T13:14:00+09:00",
+      "publishedAt": "2025-12-25T13:14:00+09:00",
       "source": "GitHub/firanorg/fuga-unde-tempore",
       "title": "18.60.553",
       "summary": [
@@ -91,8 +91,8 @@
         "Multimodal"
       ],
       "url": "https://github.com/firanorg/fuga-unde-tempore/releases/tag/18.60.553",
-      "status": "ONGOING",
-      "hash": "6d5bbbdd2be9130079dd5a8ee4e3c5ea1c3db2dd92d0eb5ccf773c07a79812b9"
+      "status": "SHIFTING",
+      "hash": "962cc4c4a9fac2313304b86ec03570f0c9cf539e002d559cb955ad8fa5c3ddbc"
     }
   ]
 }

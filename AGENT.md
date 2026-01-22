@@ -16,11 +16,25 @@ Briefly는 AI/반도체/EV 등 산업 트렌드를 일간·주간·월간 이슈
 3) 분류: 테마/주기 기준으로 그룹화
 4) 요약: 핵심 포인트 3줄 요약 + 주요 이슈 리스트
 5) 노출: 홈 페이지 섹션별 렌더링
+6) 주간/월간 집계: `archive`에 저장된 daily 데이터 기반 롤링 집계
 
 ## 3-1. 크롤링 실행
 - 파이프라인 스크립트: `scripts/run_pipeline.py`
 - Python 의존성: `requirements.txt`
-- LLM 요약: Groq (환경 변수 `GROQ_API_KEY` 필요)
+- LLM 요약: Gemini (환경 변수 `GEMINI_API_KEY` 필요)
+- GitHub API: `GITHUB_TOKEN` 사용 가능 (rate limit 완화)
+- 환경 변수 로딩: `.env` (python-dotenv)
+
+## 3-2. 크롤링 소스 (최소 셋업)
+- OpenAI Blog, Anthropic Blog, Google DeepMind Blog, Meta AI Blog
+- Microsoft Research Blog, NVIDIA Developer Blog, Hugging Face Blog, PyTorch Blog
+- GitHub Releases (동적 검색)
+- Hugging Face Hub Trending
+
+## 3-3. 수집 제한 및 윈도우
+- 소스별 수집 제한: RSS 15 / GitHub 40 / HF 30 (총 150)
+- 롤링 윈도우: daily 24h / weekly 7d / monthly 30d
+- 타임존: KST 기준
 
 ## 4. 수집 규칙
 - 소스 우선순위: 공식 리포트 > 주요 매체 > 블로그/커뮤니티
@@ -63,13 +77,12 @@ Briefly는 AI/반도체/EV 등 산업 트렌드를 일간·주간·월간 이슈
 
 ## 10. 현재 상태
 - UI: 일/주/월 섹션 구조 구현 (React/Vite)
-- 데이터: `public/latest` JSON 사용 중, 아카이브는 `archive`에 저장 예정
-- 크롤링/요약 파이프라인: 기획 단계
+- 데이터: `public/latest` JSON 사용 중, 아카이브는 `archive`에 저장
+- 크롤링/요약 파이프라인: Python 스크립트 추가 완료
 
 ## 11. 다음 액션
-- 수집 대상 소스 리스트 확정
-- 크롤링 결과 저장 포맷 결정
-- 요약 규칙의 구체 기준 확정
+- Gemini API 키 설정 후 파이프라인 실행
+- GitHub Actions 스케줄러 추가
 
 ## 12. 결정 로그
 - 2026-01-22: 에이전트 세션 복구를 위해 AGENT.md 도입

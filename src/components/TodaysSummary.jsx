@@ -26,7 +26,7 @@ function TodaysSummary({ data }) {
 
       {/* 주요 뉴스 카드 */}
       <div className="news-cards-section">
-        <h3>주요 뉴스</h3>
+        <h3>주요 이슈</h3>
         <div className="news-cards">
           {aiCards.map((card) => (
             <a
