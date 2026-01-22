@@ -17,25 +17,8 @@
   "kpis": {
     "collected": 168,
     "deduped": 121,
-    "clusters": 18,
-    "topTopic": "Agent",
-    "uniqueTopics": 18,
-    "risingTopicsCount": 3
+    "uniqueTopics": 18
   },
-  "risingTopics": [
-    {
-      "name": "Tool Use",
-      "changePct": 42
-    },
-    {
-      "name": "Benchmark",
-      "changePct": 38
-    },
-    {
-      "name": "Function Calling",
-      "changePct": 35
-    }
-  ],
   "topicTrend": [
     { "date": "2026-01-13", "dayOfWeek": "Mon", "topic": "Agent", "count": 3 },
     { "date": "2026-01-13", "dayOfWeek": "Mon", "topic": "RAG", "count": 2 },
