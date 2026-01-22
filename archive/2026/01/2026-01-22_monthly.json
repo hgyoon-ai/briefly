@@ -72,37 +72,77 @@
     {
       "id": 1,
       "status": "ONGOING",
-      "title": "Multimodal AI Continues to Advance",
-      "summary": "Multimodal AI 관련 업데이트가 집중적으로 관찰되었으며, 다양한 데이터 유형을 통합하는 기술 발전이 지속되고 있습니다.",
-      "articleCount": 2
+      "title": "멀티모달 AI 시스템 발전 지속",
+      "summary": "멀티모달 AI 시스템의 성능 향상 및 기능 확장에 대한 지속적인 업데이트가 여러 플랫폼에서 이루어지고 있습니다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "GitHub/firanorg/fuga-unde-tempore",
+          "title": "18.60.553",
+          "url": "https://github.com/firanorg/fuga-unde-tempore/releases/tag/18.60.553"
+        },
+        {
+          "source": "GitHub/kollorg/provident-unde",
+          "title": "26.51.530",
+          "url": "https://github.com/kollorg/provident-unde/releases/tag/26.51.530"
+        }
+      ]
     },
     {
       "id": 2,
-      "status": "SHIFTING",
-      "title": "Efficiency Gains in AI Tool Use APIs",
-      "summary": "AI 모델의 Tool Use 관련 업데이트가 집중되며, 단일 호출 API를 통해 CUB와 같은 라이브러리의 효율성이 증대되는 추세입니다.",
-      "articleCount": 1
+      "status": "NEW",
+      "title": "AI 모델 성능 벤치마크 업데이트 공개",
+      "summary": "AI 모델의 성능 평가를 위한 새로운 벤치마크 관련 업데이트가 발표되어 모델 비교의 기준을 제시합니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "GitHub/kollorg/provident-unde",
+          "title": "26.51.530",
+          "url": "https://github.com/kollorg/provident-unde/releases/tag/26.51.530"
+        }
+      ]
     },
     {
       "id": 3,
-      "status": "ONGOING",
-      "title": "RAG Powers Creative Video Generation",
-      "summary": "RAG (Retrieval-Augmented Generation) 관련 업데이트가 지속적으로 나타나며, Higgsfield가 RAG를 활용하여 아이디어를 cinematic social video로 전환하는 사례가 주목받고 있습니다.",
-      "articleCount": 1
+      "status": "SHIFTING",
+      "title": "AI 도구 활용 API 간소화 동향",
+      "summary": "AI 시스템의 도구 활용 능력을 간소화하고 효율성을 높이는 단일 호출 API 관련 업데이트가 주목받고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Streamlining CUB with a Single-Call API",
+          "url": "https://developer.nvidia.com/blog/streamlining-cub-with-a-single-call-api/"
+        }
+      ]
     },
     {
       "id": 4,
-      "status": "SHIFTING",
-      "title": "Evolving Strategies in AI Inference",
-      "summary": "AI Inference 관련 기술 업데이트가 집중적으로 관찰되었으며, 모델 추론의 효율성과 방식에 대한 변화가 감지되고 있습니다.",
-      "articleCount": 1
+      "status": "ONGOING",
+      "title": "RAG 기반 콘텐츠 생성 혁신 사례",
+      "summary": "RAG 기술을 활용하여 간단한 아이디어를 영화 같은 소셜 영상으로 전환하는 등 RAG 관련 혁신이 지속되고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "How Higgsfield turns simple ideas into cinematic social videos",
+          "url": "https://openai.com/index/higgsfield"
+        }
+      ]
     },
     {
       "id": 5,
-      "status": "NEW",
-      "title": "New Approaches to AI Benchmarking Emerge",
-      "summary": "AI 모델의 성능을 측정하는 Benchmark 관련 새로운 업데이트들이 보고되었으며, 평가 방법론에 대한 혁신적인 접근이 시도되고 있습니다.",
-      "articleCount": 1
+      "status": "SHIFTING",
+      "title": "AI 추론 성능 최적화 기술 발전",
+      "summary": "AI 모델 추론 성능 향상 및 효율화를 위한 새로운 기술 업데이트가 진행 중이며, 이는 모델 배포에 중요한 영향을 미칩니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "GitHub/firanorg/fuga-unde-tempore",
+          "title": "18.60.553",
+          "url": "https://github.com/firanorg/fuga-unde-tempore/releases/tag/18.60.553"
+        }
+      ]
     }
   ]
 }

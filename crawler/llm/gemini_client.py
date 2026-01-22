@@ -95,11 +95,11 @@ def summarize_item(item, model="gemini-2.5-flash"):
     genai.configure(api_key=api_key)
     payload = build_prompt(item)
     prompt = (
-        "You are an analyst summarizing AI product and developer updates. "
-        "Return JSON only with keys: summary (array of 3 short sentences), "
-        "why (one sentence), topics (array of 2-5 tags), "
-        "status (NEW|ONGOING|SHIFTING), importanceScore (1-10 integer). "
-        "Score should reflect importance and impact. "
+        "AI 제품/개발 업데이트를 요약하는 분석가입니다. "
+        "한국어로만 응답하세요. JSON만 반환하세요. "
+        "키: summary(짧은 문장 3개 배열), why(한 문장), topics(2-5개 태그), "
+        "status(NEW|ONGOING|SHIFTING), importanceScore(1-10 정수). "
+        "importanceScore는 중요도/영향도를 반영하세요. "
         f"Input: {json.dumps(payload, ensure_ascii=False)}"
     )
 
@@ -129,6 +129,15 @@ def fallback_issue_summary(items, max_items=5):
     issues = []
     for idx, item in enumerate(items[:max_items], start=1):
         topic = (item.get("topics") or ["AI"])[0]
+        related = []
+        if item.get("title") and item.get("url"):
+            related.append(
+                {
+                    "title": item.get("title"),
+                    "source": item.get("source"),
+                    "url": item.get("url"),
+                }
+            )
         issues.append(
             {
                 "id": f"issue_{idx:03d}",
@@ -136,6 +145,7 @@ def fallback_issue_summary(items, max_items=5):
                 "title": f"{topic} 업데이트 집중",
                 "summary": item.get("summary", ["최근 업데이트가 이어지고 있음"])[0],
                 "articleCount": 1,
+                "relatedArticles": related,
             }
         )
     return issues
@@ -158,14 +168,17 @@ def summarize_issues(items, model="gemini-2.5-flash", max_items=5):
                 "topics": item.get("topics", []),
                 "status": item.get("status"),
                 "importanceScore": item.get("importanceScore"),
+                "source": item.get("source"),
+                "url": item.get("url"),
             }
         )
 
     prompt = (
-        "You are summarizing weekly/monthly AI updates into diverse issues. "
-        "Return JSON array with 2-5 items. Each item must include keys: "
-        "id, status (NEW|ONGOING|SHIFTING), title, summary, articleCount. "
-        "Ensure topic diversity (avoid repeating the same topic). "
+        "주간/월간 AI 업데이트를 주요 이슈로 재요약하세요. "
+        "한국어로만 응답하고 JSON 배열만 반환하세요. "
+        "각 항목은 id, status(NEW|ONGOING|SHIFTING), title, summary, articleCount, "
+        "relatedArticles(최대 3개, source/title/url 포함) 키를 포함해야 합니다. "
+        "주제 다양성을 확보하고 같은 주제 반복을 피하세요. "
         f"Input: {json.dumps(samples, ensure_ascii=False)}"
     )
 
@@ -185,6 +198,7 @@ def summarize_issues(items, model="gemini-2.5-flash", max_items=5):
             issue.setdefault("status", "NEW")
             issue.setdefault("summary", "")
             issue.setdefault("articleCount", 1)
+            issue.setdefault("relatedArticles", [])
         return trimmed
     except Exception as exc:
         print(f"[LLM] Gemini issues summary failed, using fallback: {exc}")

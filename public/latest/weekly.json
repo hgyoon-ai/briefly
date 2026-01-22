@@ -198,39 +198,79 @@
   ],
   "topIssues": [
     {
-      "id": "multimodal-advancements",
+      "id": 1,
       "status": "ONGOING",
-      "title": "Continued Advancements in Multimodal AI",
-      "summary": "Ongoing updates show a concentrated effort in Multimodal AI research, highlighting continuous progress in integrating and processing various data types for more comprehensive AI models.",
-      "articleCount": 2
+      "title": "멀티모달 AI 기술 업데이트 동향",
+      "summary": "멀티모달 AI 기술에 대한 지속적인 업데이트가 확인되고 있으며, 다양한 출처에서 기능 개선 및 안정화가 이뤄지고 있습니다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "GitHub/firanorg/fuga-unde-tempore",
+          "title": "18.60.553",
+          "url": "https://github.com/firanorg/fuga-unde-tempore/releases/tag/18.60.553"
+        },
+        {
+          "source": "GitHub/kollorg/provident-unde",
+          "title": "26.51.530",
+          "url": "https://github.com/kollorg/provident-unde/releases/tag/26.51.530"
+        }
+      ]
     },
     {
-      "id": "tooluse-api-streamlining",
-      "status": "SHIFTING",
-      "title": "Shifting Focus Towards Streamlined AI Tool Use",
-      "summary": "The landscape for AI Tool Use is evolving, with updates indicating a shift towards streamlining API interactions and enhancing ease of integration, exemplified by new single-call API approaches.",
-      "articleCount": 1
-    },
-    {
-      "id": "inference-optimization-evolution",
-      "status": "SHIFTING",
-      "title": "Evolving Strategies in AI Inference Optimization",
-      "summary": "AI inference is seeing significant updates, signaling a shift in optimization strategies focused on improving speed, efficiency, and resource utilization for deployed models.",
-      "articleCount": 1
-    },
-    {
-      "id": "new-ai-benchmarking-initiatives",
+      "id": 2,
       "status": "NEW",
-      "title": "New Initiatives for AI Benchmarking Standards",
-      "summary": "New updates highlight emerging initiatives in AI benchmarking, aiming to establish more robust and reliable standards for evaluating model performance and capabilities.",
-      "articleCount": 1
+      "title": "AI 벤치마크 새로운 소식",
+      "summary": "AI 모델의 성능을 평가하기 위한 벤치마크 관련 새로운 업데이트가 발표되어, 모델 비교 및 개선에 기여할 것으로 예상됩니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "GitHub/kollorg/provident-unde",
+          "title": "26.51.530",
+          "url": "https://github.com/kollorg/provident-unde/releases/tag/26.51.530"
+        }
+      ]
     },
     {
-      "id": "novel-ai-evaluation-techniques",
-      "status": "NEW",
-      "title": "Novel Techniques in AI Model Evaluation",
-      "summary": "Recent updates introduce new developments in AI evaluation, pointing towards innovative techniques for assessing model performance, reliability, and fairness beyond traditional metrics.",
-      "articleCount": 1
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "AI 도구 활용 API 간소화",
+      "summary": "AI 모델의 도구 활용(Tool Use) 기능을 효율적으로 통합하기 위한 API가 간소화되는 변화가 관찰되었습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Streamlining CUB with a Single-Call API",
+          "url": "https://developer.nvidia.com/blog/streamlining-cub-with-a-single-call-api/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "RAG 기반 비디오 생성 기술 진화",
+      "summary": "RAG(Retrieval Augmented Generation) 기술을 활용하여 간단한 아이디어를 고품질 시네마틱 비디오로 변환하는 방법에 대한 업데이트가 진행 중입니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "How Higgsfield turns simple ideas into cinematic social videos",
+          "url": "https://openai.com/index/higgsfield"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "SHIFTING",
+      "title": "AI 추론 성능 개선 및 변화",
+      "summary": "AI 모델의 추론(Inference) 성능과 관련된 중요한 업데이트 및 시스템 변화가 확인되었습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "GitHub/firanorg/fuga-unde-tempore",
+          "title": "18.60.553",
+          "url": "https://github.com/firanorg/fuga-unde-tempore/releases/tag/18.60.553"
+        }
+      ]
     }
   ]
 }

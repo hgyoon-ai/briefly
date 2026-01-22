@@ -1,10 +1,12 @@
 import React, { useState } from 'react';
+import IssueModal from './IssueModal';
 import TopIssues from './TopIssues';
 import '../styles/MonthlyTrends.css';
 
 function MonthlyTrends({ data, selectedTopic, onTopicSelect }) {
   const { topIssues, kpis, weeklyData } = data;
   const [hoveredSegment, setHoveredSegment] = useState(null);
+  const [activeIssue, setActiveIssue] = useState(null);
 
   return (
     <section className="monthly-trends">
@@ -114,7 +116,8 @@ function MonthlyTrends({ data, selectedTopic, onTopicSelect }) {
       )}
 
       {/* Top Issues */}
-      <TopIssues issues={topIssues} />
+      <TopIssues issues={topIssues} onIssueSelect={setActiveIssue} />
+      <IssueModal issue={activeIssue} onClose={() => setActiveIssue(null)} />
 
       {/* 선택된 토픽의 점유율 비교 */}
       {selectedTopic && (

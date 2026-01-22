@@ -296,6 +296,10 @@
   border-left: 4px solid #ff6b9d;
   display: flex;
   gap: 12px;
+  border: none;
+  width: 100%;
+  text-align: left;
+  cursor: pointer;
 }
 
 .issue-rank {

@@ -102,6 +102,7 @@ def build_top_issues(top_topics):
                 "title": f"{topic} 업데이트 집중",
                 "summary": f"최근 {topic} 관련 업데이트가 지속적으로 언급됨",
                 "articleCount": count,
+                "relatedArticles": [],
             }
         )
     return issues

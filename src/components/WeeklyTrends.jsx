@@ -1,4 +1,5 @@
 import React, { useRef, useEffect, useState } from 'react';
+import IssueModal from './IssueModal';
 import TopIssues from './TopIssues';
 import '../styles/WeeklyTrends.css';
 
@@ -6,6 +7,7 @@ function WeeklyTrends({ data, selectedTopic, onTopicSelect }) {
   const { kpis, topTopics, topicTrend, topIssues, risingTopics } = data;
   const chartSectionRef = useRef(null);
   const [isUserInitiated, setIsUserInitiated] = useState(false);
+  const [activeIssue, setActiveIssue] = useState(null);
 
   // 날짜별로 트렌드 데이터 정렬 (dayOfWeek 포함)
   const trendByDate = topicTrend.reduce((acc, item) => {
@@ -47,7 +49,8 @@ function WeeklyTrends({ data, selectedTopic, onTopicSelect }) {
   return (
     <section className="weekly-trends">
       {/* 주요 이슈 */}
-      <TopIssues issues={topIssues} />
+      <TopIssues issues={topIssues} onIssueSelect={setActiveIssue} />
+      <IssueModal issue={activeIssue} onClose={() => setActiveIssue(null)} />
 
       {/* Top 토픽과 일별 차트 함께 */}
       <div className="topics-and-chart-container">
