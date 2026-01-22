@@ -10,7 +10,7 @@
   },
   "topTopics": [
     {
-      "name": "Evaluation",
+      "name": "Multimodal",
       "count": 4
     },
     {
@@ -18,11 +18,11 @@
       "count": 4
     },
     {
-      "name": "Multimodal",
+      "name": "Evaluation",
       "count": 4
     },
     {
-      "name": "Agent",
+      "name": "Benchmark",
       "count": 3
     }
   ],
@@ -30,25 +30,37 @@
     {
       "date": "2026-01-16",
       "dayOfWeek": "Fri",
-      "topic": "Evaluation",
-      "count": 0
-    },
-    {
-      "date": "2026-01-16",
-      "dayOfWeek": "Fri",
-      "topic": "Inference",
-      "count": 0
-    },
-    {
-      "date": "2026-01-16",
-      "dayOfWeek": "Fri",
       "topic": "Multimodal",
       "count": 0
     },
     {
       "date": "2026-01-16",
       "dayOfWeek": "Fri",
-      "topic": "Agent",
+      "topic": "Inference",
+      "count": 0
+    },
+    {
+      "date": "2026-01-16",
+      "dayOfWeek": "Fri",
+      "topic": "Evaluation",
+      "count": 0
+    },
+    {
+      "date": "2026-01-16",
+      "dayOfWeek": "Fri",
+      "topic": "Benchmark",
+      "count": 0
+    },
+    {
+      "date": "2026-01-17",
+      "dayOfWeek": "Sat",
+      "topic": "Multimodal",
+      "count": 0
+    },
+    {
+      "date": "2026-01-17",
+      "dayOfWeek": "Sat",
+      "topic": "Inference",
       "count": 0
     },
     {
@@ -60,19 +72,19 @@
     {
       "date": "2026-01-17",
       "dayOfWeek": "Sat",
-      "topic": "Inference",
+      "topic": "Benchmark",
       "count": 0
     },
     {
-      "date": "2026-01-17",
-      "dayOfWeek": "Sat",
+      "date": "2026-01-18",
+      "dayOfWeek": "Sun",
       "topic": "Multimodal",
       "count": 0
     },
     {
-      "date": "2026-01-17",
-      "dayOfWeek": "Sat",
-      "topic": "Agent",
+      "date": "2026-01-18",
+      "dayOfWeek": "Sun",
+      "topic": "Inference",
       "count": 1
     },
     {
@@ -84,19 +96,19 @@
     {
       "date": "2026-01-18",
       "dayOfWeek": "Sun",
-      "topic": "Inference",
-      "count": 1
-    },
-    {
-      "date": "2026-01-18",
-      "dayOfWeek": "Sun",
-      "topic": "Multimodal",
+      "topic": "Benchmark",
       "count": 0
     },
     {
-      "date": "2026-01-18",
-      "dayOfWeek": "Sun",
-      "topic": "Agent",
+      "date": "2026-01-19",
+      "dayOfWeek": "Mon",
+      "topic": "Multimodal",
+      "count": 1
+    },
+    {
+      "date": "2026-01-19",
+      "dayOfWeek": "Mon",
+      "topic": "Inference",
       "count": 1
     },
     {
@@ -108,19 +120,19 @@
     {
       "date": "2026-01-19",
       "dayOfWeek": "Mon",
-      "topic": "Inference",
-      "count": 1
+      "topic": "Benchmark",
+      "count": 0
     },
     {
-      "date": "2026-01-19",
-      "dayOfWeek": "Mon",
+      "date": "2026-01-20",
+      "dayOfWeek": "Tue",
       "topic": "Multimodal",
       "count": 1
     },
     {
-      "date": "2026-01-19",
-      "dayOfWeek": "Mon",
-      "topic": "Agent",
+      "date": "2026-01-20",
+      "dayOfWeek": "Tue",
+      "topic": "Inference",
       "count": 1
     },
     {
@@ -132,20 +144,20 @@
     {
       "date": "2026-01-20",
       "dayOfWeek": "Tue",
-      "topic": "Inference",
+      "topic": "Benchmark",
       "count": 1
     },
     {
-      "date": "2026-01-20",
-      "dayOfWeek": "Tue",
+      "date": "2026-01-21",
+      "dayOfWeek": "Wed",
       "topic": "Multimodal",
       "count": 1
     },
     {
-      "date": "2026-01-20",
-      "dayOfWeek": "Tue",
-      "topic": "Agent",
-      "count": 0
+      "date": "2026-01-21",
+      "dayOfWeek": "Wed",
+      "topic": "Inference",
+      "count": 1
     },
     {
       "date": "2026-01-21",
@@ -156,19 +168,19 @@
     {
       "date": "2026-01-21",
       "dayOfWeek": "Wed",
-      "topic": "Inference",
+      "topic": "Benchmark",
       "count": 1
     },
     {
-      "date": "2026-01-21",
-      "dayOfWeek": "Wed",
+      "date": "2026-01-22",
+      "dayOfWeek": "Thu",
       "topic": "Multimodal",
       "count": 1
     },
     {
-      "date": "2026-01-21",
-      "dayOfWeek": "Wed",
-      "topic": "Agent",
+      "date": "2026-01-22",
+      "dayOfWeek": "Thu",
+      "topic": "Inference",
       "count": 0
     },
     {
@@ -180,50 +192,45 @@
     {
       "date": "2026-01-22",
       "dayOfWeek": "Thu",
-      "topic": "Inference",
-      "count": 0
-    },
-    {
-      "date": "2026-01-22",
-      "dayOfWeek": "Thu",
-      "topic": "Multimodal",
+      "topic": "Benchmark",
       "count": 1
-    },
-    {
-      "date": "2026-01-22",
-      "dayOfWeek": "Thu",
-      "topic": "Agent",
-      "count": 0
     }
   ],
   "topIssues": [
     {
-      "id": "issue_001",
+      "id": "multimodal-advancements",
       "status": "ONGOING",
-      "title": "Evaluation 업데이트 집중",
-      "summary": "최근 Evaluation 관련 업데이트가 지속적으로 언급됨",
-      "articleCount": 4
+      "title": "Continued Advancements in Multimodal AI",
+      "summary": "Ongoing updates show a concentrated effort in Multimodal AI research, highlighting continuous progress in integrating and processing various data types for more comprehensive AI models.",
+      "articleCount": 2
     },
     {
-      "id": "issue_002",
-      "status": "NEW",
-      "title": "Inference 업데이트 집중",
-      "summary": "최근 Inference 관련 업데이트가 지속적으로 언급됨",
-      "articleCount": 4
+      "id": "tooluse-api-streamlining",
+      "status": "SHIFTING",
+      "title": "Shifting Focus Towards Streamlined AI Tool Use",
+      "summary": "The landscape for AI Tool Use is evolving, with updates indicating a shift towards streamlining API interactions and enhancing ease of integration, exemplified by new single-call API approaches.",
+      "articleCount": 1
     },
     {
-      "id": "issue_003",
-      "status": "NEW",
-      "title": "Multimodal 업데이트 집중",
-      "summary": "최근 Multimodal 관련 업데이트가 지속적으로 언급됨",
-      "articleCount": 4
+      "id": "inference-optimization-evolution",
+      "status": "SHIFTING",
+      "title": "Evolving Strategies in AI Inference Optimization",
+      "summary": "AI inference is seeing significant updates, signaling a shift in optimization strategies focused on improving speed, efficiency, and resource utilization for deployed models.",
+      "articleCount": 1
     },
     {
-      "id": "issue_004",
+      "id": "new-ai-benchmarking-initiatives",
       "status": "NEW",
-      "title": "Agent 업데이트 집중",
-      "summary": "최근 Agent 관련 업데이트가 지속적으로 언급됨",
-      "articleCount": 3
+      "title": "New Initiatives for AI Benchmarking Standards",
+      "summary": "New updates highlight emerging initiatives in AI benchmarking, aiming to establish more robust and reliable standards for evaluating model performance and capabilities.",
+      "articleCount": 1
+    },
+    {
+      "id": "novel-ai-evaluation-techniques",
+      "status": "NEW",
+      "title": "Novel Techniques in AI Model Evaluation",
+      "summary": "Recent updates introduce new developments in AI evaluation, pointing towards innovative techniques for assessing model performance, reliability, and fairness beyond traditional metrics.",
+      "articleCount": 1
     }
   ]
 }

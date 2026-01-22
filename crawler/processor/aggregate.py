@@ -9,23 +9,30 @@ def filter_by_range(items, start, end):
 
 
 def build_top_topics(items, limit=4):
-    counter = Counter()
+    counts = Counter()
+    scores = Counter()
     for item in items:
+        weight = item.get("importanceScore") or 1
         for topic in item.get("topics", []):
-            counter[topic] += 1
-    return counter.most_common(limit)
+            counts[topic] += 1
+            scores[topic] += weight
+    ranked = sorted(scores.items(), key=lambda x: (x[1], counts[x[0]]), reverse=True)
+    result = []
+    for topic, score in ranked[:limit]:
+        result.append((topic, counts[topic], score))
+    return result
 
 
 def build_daily_summary(items, raw_count):
     top_topics = build_top_topics(items, limit=4)
     bullets = []
-    for topic, count in top_topics[:3]:
+    for topic, count, _score in top_topics[:3]:
         bullets.append(f"{topic} 관련 업데이트가 {count}건 감지됨")
     while len(bullets) < 3:
         bullets.append("AI 개발 업데이트가 꾸준히 이어지고 있음")
     return {
         "bullets": bullets[:3],
-        "topTopics": [topic for topic, _ in top_topics],
+        "topTopics": [topic for topic, _count, _score in top_topics],
         "stats": {
             "collected": raw_count,
             "deduped": len(items),
@@ -57,7 +64,7 @@ def build_cards(items):
 
 
 def build_topic_trend(items, start, end, top_topics):
-    topic_names = [topic for topic, _ in top_topics]
+    topic_names = [topic for topic, _count, _score in top_topics]
     per_day = defaultdict(lambda: Counter())
     current = start
     while current <= end:
@@ -87,7 +94,7 @@ def build_topic_trend(items, start, end, top_topics):
 
 def build_top_issues(top_topics):
     issues = []
-    for idx, (topic, count) in enumerate(top_topics[:4], start=1):
+    for idx, (topic, count, _score) in enumerate(top_topics[:4], start=1):
         issues.append(
             {
                 "id": f"issue_{idx:03d}",
@@ -100,7 +107,7 @@ def build_top_issues(top_topics):
     return issues
 
 
-def build_weekly_data(items, raw_count, start, end):
+def build_weekly_data(items, raw_count, start, end, issues=None):
     top_topics = build_top_topics(items, limit=4)
     return {
         "range": {
@@ -112,14 +119,14 @@ def build_weekly_data(items, raw_count, start, end):
             "deduped": len(items),
             "uniqueTopics": len({topic for item in items for topic in item.get("topics", [])}),
         },
-        "topTopics": [{"name": topic, "count": count} for topic, count in top_topics],
+        "topTopics": [{"name": topic, "count": count} for topic, count, _score in top_topics],
         "topicTrend": build_topic_trend(items, start, end, top_topics),
-        "topIssues": build_top_issues(top_topics),
+        "topIssues": issues or build_top_issues(top_topics),
     }
 
 
 def build_weekly_breakdown(items, start, end, top_topics):
-    topic_names = [topic for topic, _ in top_topics]
+    topic_names = [topic for topic, _count, _score in top_topics]
     weekly = []
     current = start
     while current <= end:
@@ -141,9 +148,9 @@ def build_weekly_breakdown(items, start, end, top_topics):
     return weekly
 
 
-def build_monthly_data(items, raw_count, start, end):
+def build_monthly_data(items, raw_count, start, end, issues=None):
     top_topics = build_top_topics(items, limit=5)
-    topic_names = [topic for topic, _ in top_topics]
+    topic_names = [topic for topic, _count, _score in top_topics]
     counts = Counter()
     for item in items:
         for topic in item.get("topics", []):
@@ -167,5 +174,5 @@ def build_monthly_data(items, raw_count, start, end):
             "marketShare": market_share,
         },
         "weeklyData": build_weekly_breakdown(items, start, end, top_topics),
-        "topIssues": build_top_issues(top_topics),
+        "topIssues": issues or build_top_issues(top_topics),
     }

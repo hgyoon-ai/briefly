@@ -8,11 +8,11 @@
     "deduped": 116,
     "uniqueTopics": 7,
     "marketShare": {
-      "RAG": 20,
-      "Tool Use": 20,
-      "Benchmark": 20,
       "Multimodal": 20,
-      "Agent": 19,
+      "Benchmark": 20,
+      "Tool Use": 20,
+      "RAG": 20,
+      "Inference": 19,
       "Other": 1
     }
   },
@@ -20,82 +20,89 @@
     {
       "week": "Week 1 (12/24-12/30)",
       "topicCounts": {
-        "RAG": 4,
-        "Tool Use": 3,
-        "Benchmark": 3,
         "Multimodal": 3,
-        "Agent": 4
+        "Benchmark": 3,
+        "Tool Use": 3,
+        "RAG": 4,
+        "Inference": 3
       }
     },
     {
       "week": "Week 2 (12/31-01/06)",
       "topicCounts": {
-        "RAG": 4,
-        "Tool Use": 3,
-        "Benchmark": 3,
         "Multimodal": 3,
-        "Agent": 4
+        "Benchmark": 3,
+        "Tool Use": 3,
+        "RAG": 4,
+        "Inference": 3
       }
     },
     {
       "week": "Week 3 (01/07-01/13)",
       "topicCounts": {
-        "RAG": 4,
-        "Tool Use": 3,
-        "Benchmark": 3,
         "Multimodal": 3,
-        "Agent": 4
+        "Benchmark": 3,
+        "Tool Use": 3,
+        "RAG": 4,
+        "Inference": 3
       }
     },
     {
       "week": "Week 4 (01/14-01/20)",
       "topicCounts": {
-        "RAG": 4,
-        "Tool Use": 3,
-        "Benchmark": 3,
         "Multimodal": 3,
-        "Agent": 4
+        "Benchmark": 3,
+        "Tool Use": 3,
+        "RAG": 4,
+        "Inference": 3
       }
     },
     {
       "week": "Week 5 (01/21-01/22)",
       "topicCounts": {
-        "RAG": 1,
-        "Tool Use": 1,
-        "Benchmark": 1,
         "Multimodal": 1,
-        "Agent": 0
+        "Benchmark": 1,
+        "Tool Use": 1,
+        "RAG": 1,
+        "Inference": 0
       }
     }
   ],
   "topIssues": [
     {
-      "id": "issue_001",
+      "id": 1,
       "status": "ONGOING",
-      "title": "RAG 업데이트 집중",
-      "summary": "최근 RAG 관련 업데이트가 지속적으로 언급됨",
-      "articleCount": 17
+      "title": "Multimodal AI Continues to Advance",
+      "summary": "Multimodal AI 관련 업데이트가 집중적으로 관찰되었으며, 다양한 데이터 유형을 통합하는 기술 발전이 지속되고 있습니다.",
+      "articleCount": 2
     },
     {
-      "id": "issue_002",
-      "status": "NEW",
-      "title": "Tool Use 업데이트 집중",
-      "summary": "최근 Tool Use 관련 업데이트가 지속적으로 언급됨",
-      "articleCount": 17
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "Efficiency Gains in AI Tool Use APIs",
+      "summary": "AI 모델의 Tool Use 관련 업데이트가 집중되며, 단일 호출 API를 통해 CUB와 같은 라이브러리의 효율성이 증대되는 추세입니다.",
+      "articleCount": 1
     },
     {
-      "id": "issue_003",
-      "status": "NEW",
-      "title": "Benchmark 업데이트 집중",
-      "summary": "최근 Benchmark 관련 업데이트가 지속적으로 언급됨",
-      "articleCount": 17
+      "id": 3,
+      "status": "ONGOING",
+      "title": "RAG Powers Creative Video Generation",
+      "summary": "RAG (Retrieval-Augmented Generation) 관련 업데이트가 지속적으로 나타나며, Higgsfield가 RAG를 활용하여 아이디어를 cinematic social video로 전환하는 사례가 주목받고 있습니다.",
+      "articleCount": 1
     },
     {
-      "id": "issue_004",
+      "id": 4,
+      "status": "SHIFTING",
+      "title": "Evolving Strategies in AI Inference",
+      "summary": "AI Inference 관련 기술 업데이트가 집중적으로 관찰되었으며, 모델 추론의 효율성과 방식에 대한 변화가 감지되고 있습니다.",
+      "articleCount": 1
+    },
+    {
+      "id": 5,
       "status": "NEW",
-      "title": "Multimodal 업데이트 집중",
-      "summary": "최근 Multimodal 관련 업데이트가 지속적으로 언급됨",
-      "articleCount": 17
+      "title": "New Approaches to AI Benchmarking Emerge",
+      "summary": "AI 모델의 성능을 측정하는 Benchmark 관련 새로운 업데이트들이 보고되었으며, 평가 방법론에 대한 혁신적인 접근이 시도되고 있습니다.",
+      "articleCount": 1
     }
   ]
 }

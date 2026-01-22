@@ -32,6 +32,7 @@ def build_cards(base_cards, day_offset, current_date):
         published = current_date.replace(hour=9 + idx, minute=10 + idx, second=0)
         key = card.get("url") or card.get("title") or ""
         signature = make_hash(normalize_text(f"{key}-{current_date.date()}"))
+        importance = 5 + (day_offset + idx) % 5
         cards.append(
             {
                 **card,
@@ -45,6 +46,7 @@ def build_cards(base_cards, day_offset, current_date):
                 "topics": [topic],
                 "status": STATUSES[(idx + day_offset) % len(STATUSES)],
                 "hash": signature,
+                "importanceScore": importance,
             }
         )
     return cards
