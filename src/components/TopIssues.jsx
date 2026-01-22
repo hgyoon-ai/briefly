@@ -29,6 +29,13 @@ function TopIssues({ title = '주요 이슈', issues, onIssueSelect }) {
               <div className="issue-summary">{issue.summary}</div>
               <div className="issue-meta">{issue.articleCount}개 관련 기사</div>
             </div>
+            <span className="issue-link-icon" aria-hidden>
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M14 3h7v7" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+                <path d="M10 14L21 3" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+                <path d="M21 21H3V3" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+              </svg>
+            </span>
           </button>
         ))}
       </div>

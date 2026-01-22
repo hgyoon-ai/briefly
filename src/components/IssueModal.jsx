@@ -44,7 +44,7 @@ function IssueModal({ issue, onClose }) {
                 rel="noopener noreferrer"
                 className="issue-modal-link"
               >
-                <span className="issue-modal-source">({article.source})</span>
+                <span className="issue-modal-source">{article.source}</span>
                 <span className="issue-modal-link-title">{article.title}</span>
               </a>
             ))}

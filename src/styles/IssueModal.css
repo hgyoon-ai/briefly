@@ -90,6 +90,10 @@
   font-size: 11px;
   color: #c65c7a;
   font-weight: 700;
+  background: rgba(255, 107, 157, 0.14);
+  padding: 2px 8px;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 107, 157, 0.3);
 }
 
 .issue-modal-link-title {
