@@ -641,10 +641,10 @@
   border-radius: 12px;
   padding: 16px;
   box-shadow: 0 2px 8px rgba(255, 107, 157, 0.12);
+  border: 2px solid transparent;
   border-left: 4px solid #ff6b9d;
   display: flex;
   gap: 12px;
-  border: none;
   width: 100%;
   text-align: left;
   cursor: pointer;
@@ -652,8 +652,9 @@
 }
 
 .issue-card:hover {
-  box-shadow: 0 6px 16px rgba(255, 107, 157, 0.2);
-  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(255, 107, 157, 0.2);
+  transform: translateY(-2px);
+  border-color: #ff6b9d;
 }
 
 .issue-link-icon {
