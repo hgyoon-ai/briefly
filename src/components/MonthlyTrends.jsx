@@ -3,28 +3,8 @@ import TopIssues from './TopIssues';
 import '../styles/MonthlyTrends.css';
 
 function MonthlyTrends({ data, selectedTopic, onTopicSelect }) {
-  const { topTopics, topicTrend, topIssues, kpis, weeklyData } = data;
+  const { topIssues, kpis, weeklyData } = data;
   const [hoveredSegment, setHoveredSegment] = useState(null);
-
-  // 날짜별로 트렌드 데이터 정렬
-  const trendByDate = topicTrend.reduce((acc, item) => {
-    if (!acc[item.date]) {
-      acc[item.date] = [];
-    }
-    acc[item.date].push(item);
-    return acc;
-  }, {});
-
-  // 선택된 토픽의 데이터만 필터링
-  const filteredTrend = selectedTopic
-    ? topicTrend.filter(item => item.topic === selectedTopic)
-    : topicTrend;
-
-  // 최대값 계산
-  const maxCount = Math.max(...filteredTrend.map(item => item.count), 1);
-
-  // 날짜 객체 배열로 변환 후 정렬
-  const sortedDates = Object.keys(trendByDate).sort();
 
   return (
     <section className="monthly-trends">

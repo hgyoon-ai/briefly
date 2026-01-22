@@ -21,9 +21,9 @@ briefly/
 │   └── main.jsx
 ├── public/
 │   └── latest/             # 최신 데이터 (웹에서 사용)
-│       ├── dummy_today.json
-│       ├── dummy_7d.json
-│       └── dummy_30d.json
+│       ├── daily.json
+│       ├── weekly.json
+│       └── monthly.json
 ├── archive/                # 아카이브 데이터 (웹 비공개)
 ├── index.html
 ├── package.json
