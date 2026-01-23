@@ -7,7 +7,7 @@ from ..utils import normalize_text, parse_datetime
 
 
 def build_headers():
-    token = os.getenv("GITHUB_TOKEN")
+    token = os.getenv("MY_GITHUB_TOKEN")
     headers = {
         "Accept": "application/vnd.github+json",
     }

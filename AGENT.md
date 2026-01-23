@@ -24,7 +24,7 @@ Briefly는 AI/반도체/EV 등 산업 트렌드를 일간·주간·월간 이슈
 - 테스트용 아카이브 생성: `scripts/generate_test_archives.py`
 - Python 의존성: `requirements.txt`
 - LLM 요약: OpenAI (환경 변수 `OPENAI_API_KEY` 필요)
-- GitHub API: `GITHUB_TOKEN` 사용 가능 (rate limit 완화)
+- GitHub API: `MY_GITHUB_TOKEN` 사용 가능 (rate limit 완화)
 - 환경 변수 로딩: `.env` (python-dotenv)
 
 ## 3-2. 크롤링 소스 (최소 셋업)
