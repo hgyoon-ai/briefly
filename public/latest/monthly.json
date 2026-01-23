@@ -6,13 +6,13 @@
   "kpis": {
     "collected": 5,
     "deduped": 5,
-    "uniqueTopics": 23,
+    "uniqueTopics": 20,
     "marketShare": {
+      "release": 20,
+      "changelog": 20,
+      "ccyolo": 20,
+      "upgrade": 20,
       "FlashAttention-4": 20,
-      "NVIDIA Blackwell": 20,
-      "LLM 최적화": 20,
-      "메모리 효율성": 20,
-      "추론": 20,
       "Other": 0
     }
   },
@@ -20,93 +20,60 @@
     {
       "week": "Week 1 (12/25-12/31)",
       "topicCounts": {
-        "FlashAttention-4": 0,
-        "NVIDIA Blackwell": 0,
-        "LLM 최적화": 0,
-        "메모리 효율성": 0,
-        "추론": 0
+        "release": 0,
+        "changelog": 0,
+        "ccyolo": 0,
+        "upgrade": 0,
+        "FlashAttention-4": 0
       }
     },
     {
       "week": "Week 2 (01/01-01/07)",
       "topicCounts": {
-        "FlashAttention-4": 0,
-        "NVIDIA Blackwell": 0,
-        "LLM 최적화": 0,
-        "메모리 효율성": 0,
-        "추론": 0
+        "release": 0,
+        "changelog": 0,
+        "ccyolo": 0,
+        "upgrade": 0,
+        "FlashAttention-4": 0
       }
     },
     {
       "week": "Week 3 (01/08-01/14)",
       "topicCounts": {
-        "FlashAttention-4": 0,
-        "NVIDIA Blackwell": 0,
-        "LLM 최적화": 0,
-        "메모리 효율성": 0,
-        "추론": 0
+        "release": 0,
+        "changelog": 0,
+        "ccyolo": 0,
+        "upgrade": 0,
+        "FlashAttention-4": 0
       }
     },
     {
       "week": "Week 4 (01/15-01/21)",
       "topicCounts": {
-        "FlashAttention-4": 0,
-        "NVIDIA Blackwell": 0,
-        "LLM 최적화": 0,
-        "메모리 효율성": 0,
-        "추론": 0
+        "release": 0,
+        "changelog": 0,
+        "ccyolo": 0,
+        "upgrade": 0,
+        "FlashAttention-4": 0
       }
     },
     {
       "week": "Week 5 (01/22-01/23)",
       "topicCounts": {
-        "FlashAttention-4": 1,
-        "NVIDIA Blackwell": 1,
-        "LLM 최적화": 1,
-        "메모리 효율성": 1,
-        "추론": 1
+        "release": 1,
+        "changelog": 1,
+        "ccyolo": 1,
+        "upgrade": 1,
+        "FlashAttention-4": 1
       }
     }
   ],
   "topIssues": [
     {
       "id": 1,
-      "status": "NEW",
-      "title": "NVIDIA Blackwell 기반 LLM 효율화: FlashAttention-4와 NVFP4 추론 확장",
-      "summary": "NVIDIA가 Blackwell 아키텍처에서 FlashAttention-4와 NVFP4(FP4) 추론을 도입해 대형 모델의 연산·메모리 병목을 줄이고 이미지·텍스트 생성 처리량을 동시에 끌어올리고 있습니다. FlashAttention-4는 긴 컨텍스트에서도 메모리 사용을 낮추면서 고속 어텐션을 가능하게 하고, NVFP4는 FLUX.2 등 생성 모델을 4비트 정밀도로 안정적으로 구동해 데이터센터 GPU 당 처리 효율을 극대화하는 방향으로 발전하고 있습니다.",
-      "articleCount": 2,
-      "relatedArticles": [
-        {
-          "source": "NVIDIA Developer Blog",
-          "title": "Overcoming Compute and Memory Bottlenecks with FlashAttention-4 on NVIDIA Blackwell",
-          "url": "https://developer.nvidia.com/blog/overcoming-compute-and-memory-bottlenecks-with-flashattention-4-on-nvidia-blackwell/"
-        },
-        {
-          "source": "NVIDIA Developer Blog",
-          "title": "Scaling NVFP4 Inference for FLUX.2 on NVIDIA Blackwell Data Center GPUs",
-          "url": "https://developer.nvidia.com/blog/scaling-nvfp4-inference-for-flux-2-on-nvidia-blackwell-data-center-gpus/"
-        }
-      ]
-    },
-    {
-      "id": 2,
       "status": "ONGOING",
-      "title": "새 언어 런타임의 안정화: rufflang 0.2.0 품질·언어 기능 개선",
-      "summary": "rufflang 0.2.0 릴리스에서 구조체·컬렉션 필드에 대한 `:=` 변경 지원, truthy/falsy 규칙 정교화 등 언어 의미가 다듬어지고 있습니다. 통합 테스트 확대와 컴파일러 경고 제거를 통해 런타임 신뢰성과 품질을 높이는 방향으로 지속적인 안정화 작업이 진행 중입니다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "GitHub/rufflang/ruff",
-          "title": "0.2.0",
-          "url": "https://github.com/rufflang/ruff/releases/tag/0.2.0"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "status": "ONGOING",
-      "title": "초대형 AI 서비스 인프라: PostgreSQL로 8억 ChatGPT 사용자 지원",
-      "summary": "OpenAI는 ChatGPT의 폭증하는 트래픽을 감당하기 위해 PostgreSQL을 중심으로 읽기 복제, 캐시 계층, 속도 제한, 워크로드 분리 등을 결합한 아키텍처를 운용하고 있습니다. 데이터베이스를 수평·수직으로 세분화하고, 핫 경로를 캐시와 리드 레플리카로 분산해 대규모 AI 서비스에서도 전통적인 RDBMS를 확장 가능하게 쓰는 모범 사례를 제시하고 있습니다.",
+      "title": "초대형 AI 서비스 인프라: OpenAI의 PostgreSQL 기반 8억 사용자 확장 전략",
+      "summary": "OpenAI는 PostgreSQL을 기반으로 복제, 캐시, 속도 제한, 워크로드 분리를 조합해 최대 수백만 QPS를 처리하는 데이터베이스 아키텍처를 구축했다. 이는 ChatGPT와 같은 초대형 AI 서비스에서 일관된 성능과 높은 가용성을 확보하기 위한 핵심 인프라 전략으로, AI 모델 성능뿐 아니라 데이터 계층 확장이 경쟁력이 되고 있음을 보여준다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -117,16 +84,58 @@
       ]
     },
     {
-      "id": 4,
-      "status": "ONGOING",
-      "title": "적응형 AI 튜터 확산: GPT 기반 개인화 언어 학습 서비스",
-      "summary": "Praktika는 GPT-4.1과 GPT-5.2를 결합해 학습자의 수준과 목표에 맞춰 대화를 설계하는 적응형 AI 튜터를 제공하고 있습니다. 실시간 회화 피드백, 진도 추적, 시나리오 기반 연습을 통해 전통적인 언어 교육을 보완하는 AI 에듀테크 사례로, 대규모 언어 모델의 맞춤형 교육 활용이 계속 확산되는 흐름을 보여줍니다.",
+      "id": 2,
+      "status": "NEW",
+      "title": "NVIDIA Blackwell와 FlashAttention-4를 통한 LLM 연산·메모리 최적화",
+      "summary": "NVIDIA는 Blackwell GPU 아키텍처에서 FlashAttention-4를 도입해 트랜스포머 기반 LLM의 연산 및 메모리 병목을 완화하는 고성능 최적화를 선보였다. 이를 통해 학습과 추론 모두에서 처리 속도를 높이고 메모리 사용량을 줄여, 대규모 모델의 효율적인 배포와 비용 절감을 동시에 노린다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "OpenAI Blog",
-          "title": "Inside Praktika's conversational approach to language learning",
-          "url": "https://openai.com/index/praktika"
+          "source": "NVIDIA Developer Blog",
+          "title": "Overcoming Compute and Memory Bottlenecks with FlashAttention-4 on NVIDIA Blackwell",
+          "url": "https://developer.nvidia.com/blog/overcoming-compute-and-memory-bottlenecks-with-flashattention-4-on-nvidia-blackwell/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "Blackwell 데이터센터 GPU와 NVFP4로 FP4 이미지 생성 추론 스케일링",
+      "summary": "NVIDIA는 Blackwell 데이터센터 GPU에서 FLUX.2 모델의 NVFP4 추론을 스케일링해, Black Forest Labs와 협업해 확보한 FP4 기반 이미지 생성 성능을 한층 개선했다. 저정밀도(FP4) 연산 최적화로 추론 효율을 극대화하면서도 품질을 유지하려는 시도로, 생성형 AI 워크로드의 비용·성능 균형을 재조정하는 움직임이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Scaling NVFP4 Inference for FLUX.2 on NVIDIA Blackwell Data Center GPUs",
+          "url": "https://developer.nvidia.com/blog/scaling-nvfp4-inference-for-flux-2-on-nvidia-blackwell-data-center-gpus/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "경량·전용 모델을 위한 ccyolo v0.19.0 릴리스",
+      "summary": "ccyolo v0.19.0이 공개되며 변경사항과 개선점이 포함된 새 버전이 배포되었다. 경량 객체 감지·추적 등 특화된 활용을 염두에 둔 프로젝트로, 릴리스 노트에서는 이전 버전(v0.18.0) 대비 성능·기능 변화와 업그레이드 경로를 제공한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "GitHub/ccdevkit/ccyolo",
+          "title": "v0.19.0",
+          "url": "https://github.com/ccdevkit/ccyolo/releases/tag/v0.19.0"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "개발 워크플로우 자동화를 위한 GSD v1.9.6 설치·런타임 선택 개선",
+      "summary": "get-shit-done(GSD) v1.9.6에서는 설치 과정에서 Claude Code와 OpenCode 런타임을 대화형으로 선택할 수 있게 되었고, `--opencode` 및 `--both` 플래그로 자동 변환·동시 설치를 지원한다. 이는 AI 코딩 어시스턴트 환경을 손쉽게 구성하고 전환할 수 있도록 하여, 개발 생산성 도구의 사용성을 높이는 업데이트다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "GitHub/glittercowboy/get-shit-done",
+          "title": "v1.9.6",
+          "url": "https://github.com/glittercowboy/get-shit-done/releases/tag/v1.9.6"
         }
       ]
     }
