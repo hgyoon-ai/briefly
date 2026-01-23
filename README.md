@@ -48,6 +48,13 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
+### 1-2. 환경 변수 설정
+```bash
+cp .env.example .env
+```
+
+`.env`에 `OPENAI_API_KEY`, `MY_GITHUB_TOKEN`을 채워주세요.
+
 ### 2. 개발 서버 실행
 ```bash
 npm run dev
@@ -91,7 +98,7 @@ npm run preview
 - **Framework**: React 18
 - **Build Tool**: Vite
 - **Styling**: CSS3 (Mobile-First Responsive Design)
-- **Crawler**: Python + Gemini API
+- **Crawler**: Python + OpenAI API
 
 ## ✨ 특징
 
