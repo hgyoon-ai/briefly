@@ -52,7 +52,7 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           MY_GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
-        run: python scripts/run_pipeline.py
+        run: python3 -m scripts.run_pipeline
 
       - name: Commit updates
         run: |
