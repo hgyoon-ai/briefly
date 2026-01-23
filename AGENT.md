@@ -20,8 +20,10 @@ Briefly는 AI/반도체/EV 등 산업 트렌드를 일간·주간·월간 이슈
 
 ## 3-1. 크롤링 실행
 - 파이프라인 스크립트: `scripts/run_pipeline.py`
+- 롤업 전용 스크립트: `scripts/build_rollups_from_archive.py`
+- 테스트용 아카이브 생성: `scripts/generate_test_archives.py`
 - Python 의존성: `requirements.txt`
-- LLM 요약: Gemini (환경 변수 `GEMINI_API_KEY` 필요)
+- LLM 요약: OpenAI (환경 변수 `OPENAI_API_KEY` 필요)
 - GitHub API: `GITHUB_TOKEN` 사용 가능 (rate limit 완화)
 - 환경 변수 로딩: `.env` (python-dotenv)
 
@@ -35,6 +37,7 @@ Briefly는 AI/반도체/EV 등 산업 트렌드를 일간·주간·월간 이슈
 - 소스별 수집 제한: RSS 15 / GitHub 40 / HF 30 (총 150)
 - 롤링 윈도우: daily 24h / weekly 7d / monthly 30d
 - 타임존: KST 기준
+ - Weekly/Monthly: daily 아카이브 기반 + 중요도(importanceScore) 가중치 반영
 
 ## 4. 수집 규칙
 - 소스 우선순위: 공식 리포트 > 주요 매체 > 블로그/커뮤니티
@@ -42,15 +45,16 @@ Briefly는 AI/반도체/EV 등 산업 트렌드를 일간·주간·월간 이슈
 - 시간 범위: 일간(24h), 주간(7d), 월간(30d)
 
 ## 5. 분류/요약 규칙
-- 일간: 최신 이슈 중심, 핵심 3줄 요약
-- 주간: Top 토픽 + 주요 이슈 목록 + 일별 트렌드
-- 월간: 통계 요약 + 떠오르는 주제 + 월별 추세
+- 일간: 중요도(importanceScore) 기반 주요 이슈 2~5개 노출
+- 주간: daily 아카이브 기반 롤업 + LLM 재요약 주요 이슈
+- 월간: daily 아카이브 기반 롤업 + LLM 재요약 주요 이슈
 - 모든 요약은 사실 중심, 과장/추측 금지
 
 ## 6. 데이터 저장 구조
 - 운영 데이터: `public/latest/` (웹에서 사용하는 최신 JSON)
 - 아카이브: `archive/YYYY/MM/YYYY-MM-DD_{period}.json`
 - 크롤링 직후 `archive`에 저장하고, 최신 데이터는 `public/latest`에 반영
+- daily 카드 필드: `status`, `hash`, `importanceScore` 포함
 
 ## 7. 출력 포맷 (초안)
 ```
@@ -79,6 +83,7 @@ Briefly는 AI/반도체/EV 등 산업 트렌드를 일간·주간·월간 이슈
 - UI: 일/주/월 섹션 구조 구현 (React/Vite)
 - 데이터: `public/latest` JSON 사용 중, 아카이브는 `archive`에 저장
 - 크롤링/요약 파이프라인: Python 스크립트 추가 완료
+- weekly/monthly 이슈: 모달에서 관련 기사 링크(최대 3개) 표시
 
 ## 11. 다음 액션
 - Gemini API 키 설정 후 파이프라인 실행

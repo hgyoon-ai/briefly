@@ -8,7 +8,7 @@ from crawler.config import ARCHIVE_DIR, ARCHIVE_FILENAME_FORMAT, TIMEZONE, WEEKL
 from crawler.processor.aggregate import build_monthly_data, build_weekly_data, filter_by_range
 from crawler.utils import parse_datetime
 from crawler.writer import write_archive, write_latest
-from crawler.llm.gemini_client import summarize_issues
+from crawler.llm.openai_client import summarize_issues
 
 
 def iter_dates(start, end):

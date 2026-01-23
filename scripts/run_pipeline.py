@@ -17,7 +17,7 @@ from crawler.config import (
 from crawler.fetchers.github import fetch_github_releases
 from crawler.fetchers.huggingface import fetch_huggingface_trending
 from crawler.fetchers.rss import fetch_rss_sources
-from crawler.llm.gemini_client import summarize_item, summarize_issues
+from crawler.llm.openai_client import summarize_item, summarize_issues
 from crawler.processor.aggregate import (
     build_cards,
     build_daily_summary,
