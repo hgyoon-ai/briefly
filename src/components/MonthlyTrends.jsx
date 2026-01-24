@@ -13,7 +13,7 @@ function MonthlyTrends({ data, selectedTopic, onTopicSelect }) {
       {/* 주간별 토픽 분석 - 가로 누적 막대 그래프 */}
       {weeklyData && weeklyData.length > 0 && (
         <div className="weekly-analysis-section">
-          <h3>주간별 토픽 분석 - 점유율 추이</h3>
+          <h3>주간 점유율 추이</h3>
           <div className="weekly-chart-html">
             {(() => {
               // 데이터 변환

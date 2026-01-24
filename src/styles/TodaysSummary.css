@@ -51,7 +51,7 @@
   background: white;
   border-radius: 12px;
   padding: 20px;
-  margin-bottom: 20px;
+  margin-bottom: 12px;
   box-shadow: 0 2px 8px rgba(255, 107, 157, 0.12);
   border-left: 4px solid #ffa500;
 }
@@ -108,13 +108,13 @@
 
 /* 주요 뉴스 카드 */
 .news-cards-section {
-  margin-bottom: 20px;
+  margin-bottom: 16px;
 }
 
 .news-cards-section h3 {
   font-size: 14px;
   color: #ffa500;
-  margin: 0 0 12px 0;
+  margin: 0 0 8px 0;
   font-weight: 600;
 }
 
