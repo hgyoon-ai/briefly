@@ -31,9 +31,9 @@ function IssueModal({ issue, onClose }) {
           </button>
         </div>
         <div className="issue-modal-summary">{issue.summary}</div>
-        <div className="issue-modal-section">주요 기사</div>
+        <div className="issue-modal-section">주요 소식</div>
         {related.length === 0 ? (
-          <div className="issue-modal-empty">관련 기사가 아직 정리되지 않았어요.</div>
+          <div className="issue-modal-empty">관련 소식이 아직 정리되지 않았어요.</div>
         ) : (
           <div className="issue-modal-links">
             {related.slice(0, 3).map((article, idx) => (
