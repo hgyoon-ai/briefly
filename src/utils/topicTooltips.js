@@ -9,6 +9,13 @@ export const TOPIC_TOOLTIPS = {
   Product: '제품/기능 출시/서비스 업데이트',
   Business: '투자/파트너십/인수합병',
   Data: '데이터셋/라이선스/데이터 거버넌스',
+  Earnings: '실적/가이던스/수익성',
+  Demand: '수요·공급/출하량/재고',
+  Manufacturing: '생산·공정/수율/공장',
+  Policy: '정책/규제/보조금',
+  Investment: '투자/CapEx/증설',
+  Competition: '경쟁/시장점유율',
+  Roadmap: '기술·제품 로드맵',
 };
 
 export const getTopicTooltip = (topic) => TOPIC_TOOLTIPS[topic] || '';

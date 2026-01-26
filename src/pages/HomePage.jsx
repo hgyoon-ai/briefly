@@ -7,7 +7,8 @@ import MonthlyTrends from '../components/MonthlyTrends';
 import useMockData from '../hooks/useMockData';
 
 function HomePage() {
-  const { today, weekly, monthly, loading, error } = useMockData();
+  const [activeTab, setActiveTab] = useState('ai');
+  const { today, weekly, monthly, loading, error } = useMockData(activeTab);
   const [activePeriodTab, setActivePeriodTab] = useState('weekly');
   const [selectedWeeklyTopic, setSelectedWeeklyTopic] = useState(null);
   const [selectedMonthlyTopic, setSelectedMonthlyTopic] = useState(null);
@@ -34,31 +35,43 @@ function HomePage() {
       {/* 탭 네비게이션 */}
       <nav className="tab-navigation">
         <button
-          className="tab-button active"
+          className={`tab-button ${activeTab === 'ai' ? 'active' : ''}`}
           onClick={() => {
+            setActiveTab('ai');
             setSelectedWeeklyTopic(null);
             setSelectedMonthlyTopic(null);
+            setActivePeriodTab('weekly');
           }}
         >
           🤖 AI
         </button>
         <button
-          className="tab-button disabled"
-          disabled
+          className={`tab-button ${activeTab === 'semiconductor' ? 'active' : ''}`}
+          onClick={() => {
+            setActiveTab('semiconductor');
+            setSelectedWeeklyTopic(null);
+            setSelectedMonthlyTopic(null);
+            setActivePeriodTab('weekly');
+          }}
         >
-          🔌 반도체 <span className="coming-soon">(예정)</span>
+          🔌 반도체
         </button>
         <button
-          className="tab-button disabled"
-          disabled
+          className={`tab-button ${activeTab === 'ev' ? 'active' : ''}`}
+          onClick={() => {
+            setActiveTab('ev');
+            setSelectedWeeklyTopic(null);
+            setSelectedMonthlyTopic(null);
+            setActivePeriodTab('weekly');
+          }}
         >
-          ⚡ 전기차 <span className="coming-soon">(예정)</span>
+          ⚡ 전기차
         </button>
       </nav>
 
       <main className="main-content">
         {/* 오늘 내용 요약 */}
-        <TodaysSummary data={today} />
+        <TodaysSummary data={today} tab={activeTab} />
 
         {/* 주간/월간 탭 */}
         <div className="period-tabs-section">

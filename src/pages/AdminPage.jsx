@@ -1,10 +1,11 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import '../styles/AdminPage.css';
 import useMockData from '../hooks/useMockData';
 
 function AdminPage() {
-  const { today, weekly, monthly, loading, error } = useMockData();
+  const [activeTab, setActiveTab] = useState('ai');
+  const { today, weekly, monthly, loading, error } = useMockData(activeTab);
 
   // 변화 계산 함수 (절대값으로 변환)
   const calculateChange = (current, previous) => {
@@ -68,6 +69,27 @@ function AdminPage() {
           <div className="last-updated">최근 업데이트: {lastUpdated}</div>
         )}
       </header>
+
+      <nav className="tab-navigation">
+        <button
+          className={`tab-button ${activeTab === 'ai' ? 'active' : ''}`}
+          onClick={() => setActiveTab('ai')}
+        >
+          🤖 AI
+        </button>
+        <button
+          className={`tab-button ${activeTab === 'semiconductor' ? 'active' : ''}`}
+          onClick={() => setActiveTab('semiconductor')}
+        >
+          🔌 반도체
+        </button>
+        <button
+          className={`tab-button ${activeTab === 'ev' ? 'active' : ''}`}
+          onClick={() => setActiveTab('ev')}
+        >
+          ⚡ 전기차
+        </button>
+      </nav>
 
       <main className="admin-content">
         {/* 일간 통계 */}

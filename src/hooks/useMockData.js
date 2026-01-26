@@ -1,10 +1,10 @@
 import { useEffect, useState } from 'react';
 
-const mockEndpoints = {
-  today: `${import.meta.env.BASE_URL}latest/daily.json`,
-  weekly: `${import.meta.env.BASE_URL}latest/weekly.json`,
-  monthly: `${import.meta.env.BASE_URL}latest/monthly.json`
-};
+const buildEndpoints = (tab) => ({
+  today: `${import.meta.env.BASE_URL}latest/${tab}/daily.json`,
+  weekly: `${import.meta.env.BASE_URL}latest/${tab}/weekly.json`,
+  monthly: `${import.meta.env.BASE_URL}latest/${tab}/monthly.json`
+});
 
 const fetchJson = async (url) => {
   const response = await fetch(url);
@@ -14,20 +14,24 @@ const fetchJson = async (url) => {
   return response.json();
 };
 
-const useMockData = () => {
+const useMockData = (tab = 'ai') => {
   const [data, setData] = useState({ today: null, weekly: null, monthly: null });
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
   useEffect(() => {
     let isMounted = true;
+    const endpoints = buildEndpoints(tab);
 
     const load = async () => {
       try {
+        if (isMounted) {
+          setLoading(true);
+        }
         const [today, weekly, monthly] = await Promise.all([
-          fetchJson(mockEndpoints.today),
-          fetchJson(mockEndpoints.weekly),
-          fetchJson(mockEndpoints.monthly)
+          fetchJson(endpoints.today),
+          fetchJson(endpoints.weekly),
+          fetchJson(endpoints.monthly)
         ]);
 
         if (isMounted) {
@@ -50,7 +54,7 @@ const useMockData = () => {
     return () => {
       isMounted = false;
     };
-  }, []);
+  }, [tab]);
 
   return { ...data, loading, error };
 };

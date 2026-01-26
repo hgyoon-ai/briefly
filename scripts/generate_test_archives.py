@@ -24,7 +24,7 @@ STATUSES = ["NEW", "ONGOING", "SHIFTING"]
 
 
 def load_base_daily():
-    base_path = Path("public/latest/daily.json")
+    base_path = Path("public/latest/ai/daily.json")
     return json.loads(base_path.read_text(encoding="utf-8"))
 
 
@@ -77,9 +77,9 @@ def build_highlights(day_offset, cards):
     }
 
 
-def write_archive(date_str, payload):
+def write_archive(tab, date_str, payload):
     year, month, _ = date_str.split("-")
-    target_dir = ARCHIVE_DIR / year / month
+    target_dir = ARCHIVE_DIR / tab / year / month
     target_dir.mkdir(parents=True, exist_ok=True)
     filename = ARCHIVE_FILENAME_FORMAT.format(date=date_str, period="daily")
     target_path = target_dir / filename
@@ -100,10 +100,10 @@ def main():
             "highlights": build_highlights(offset, cards),
             "cards": cards,
         }
-        write_archive(date_str, payload)
+        write_archive("ai", date_str, payload)
 
         if offset == 0:
-            Path("public/latest/daily.json").write_text(
+            Path("public/latest/ai/daily.json").write_text(
                 json.dumps(payload, ensure_ascii=False, indent=2),
                 encoding="utf-8",
             )

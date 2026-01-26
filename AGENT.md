@@ -50,9 +50,9 @@ Briefly는 AI/반도체/EV 등 산업 트렌드를 일간·주간·월간 이슈
 - 모든 요약은 사실 중심, 과장/추측 금지
 
 ## 6. 데이터 저장 구조
-- 운영 데이터: `public/latest/` (웹에서 사용하는 최신 JSON)
-- 아카이브: `archive/YYYY/MM/YYYY-MM-DD_{period}.json`
-- 크롤링 직후 `archive`에 저장하고, 최신 데이터는 `public/latest`에 반영
+- 운영 데이터: `public/latest/{tab}/` (웹에서 사용하는 최신 JSON)
+- 아카이브: `archive/{tab}/YYYY/MM/YYYY-MM-DD_{period}.json`
+- 크롤링 직후 `archive`에 저장하고, 최신 데이터는 `public/latest/{tab}`에 반영
 - daily 카드 필드: `status`, `hash`, `importanceScore` 포함
 
 ## 7. 출력 포맷 (초안)
@@ -79,8 +79,8 @@ Briefly는 AI/반도체/EV 등 산업 트렌드를 일간·주간·월간 이슈
 - Monthly: 소스 품질 점검, 테마 확장 필요성 평가
 
 ## 10. 현재 상태
-- UI: 일/주/월 섹션 구조 구현 (React/Vite)
-- 데이터: `public/latest` JSON 사용 중, 아카이브는 `archive`에 저장
+- UI: 탭별 일/주/월 섹션 구조 구현 (React/Vite)
+- 데이터: `public/latest/{tab}` JSON 사용, 아카이브는 `archive/{tab}`에 저장
 - 크롤링/요약 파이프라인: Python 스크립트 추가 완료
 - weekly/monthly 이슈: 모달에서 관련 기사 링크(최대 3개) 표시
 

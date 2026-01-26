@@ -4,7 +4,14 @@ from zoneinfo import ZoneInfo
 
 from dotenv import load_dotenv
 
-from crawler.config import ARCHIVE_DIR, ARCHIVE_FILENAME_FORMAT, TIMEZONE, WEEKLY_DAYS, MONTHLY_DAYS
+from crawler.config import (
+    ARCHIVE_DIR,
+    ARCHIVE_FILENAME_FORMAT,
+    TIMEZONE,
+    WEEKLY_DAYS,
+    MONTHLY_DAYS,
+    TABS,
+)
 from crawler.processor.aggregate import build_monthly_data, build_weekly_data, filter_by_range
 from crawler.utils import parse_datetime
 from crawler.writer import write_archive, write_latest
@@ -19,12 +26,13 @@ def iter_dates(start, end):
         current += timedelta(days=1)
 
 
-def load_archive_daily_items(start, end, timezone):
+def load_archive_daily_items(start, end, timezone, tab):
     items = []
     for date in iter_dates(start, end):
         date_str = date.strftime("%Y-%m-%d")
         archive_path = (
             ARCHIVE_DIR
+            / tab
             / date_str.split("-")[0]
             / date_str.split("-")[1]
             / ARCHIVE_FILENAME_FORMAT.format(date=date_str, period="daily")
@@ -94,42 +102,43 @@ def main():
     weekly_start = now - timedelta(days=WEEKLY_DAYS - 1)
     monthly_start = now - timedelta(days=MONTHLY_DAYS - 1)
 
-    archive_items = load_archive_daily_items(monthly_start, now, TIMEZONE)
-    weekly_items = filter_by_range(archive_items, weekly_start, now)
-    monthly_items = filter_by_range(archive_items, monthly_start, now)
-    weekly_items = sort_by_importance(weekly_items)
-    monthly_items = sort_by_importance(monthly_items)
-
-    print(f"Archive items loaded: {len(archive_items)}")
-    print(f"Weekly items: {len(weekly_items)}")
-    print(f"Monthly items: {len(monthly_items)}")
-
-    weekly_issue_items = pick_diverse_items(weekly_items, max_items=8)
-    monthly_issue_items = pick_diverse_items(monthly_items, max_items=8)
-    weekly_issues = summarize_issues(weekly_issue_items, max_items=5)
-    monthly_issues = summarize_issues(monthly_issue_items, max_items=5)
-
-    weekly_payload = build_weekly_data(
-        weekly_items,
-        len(weekly_items),
-        weekly_start,
-        now,
-        issues=weekly_issues,
-    )
-    monthly_payload = build_monthly_data(
-        monthly_items,
-        len(monthly_items),
-        monthly_start,
-        now,
-        issues=monthly_issues,
-    )
-
-    write_latest("weekly.json", weekly_payload)
-    write_latest("monthly.json", monthly_payload)
-
     today_str = now.strftime("%Y-%m-%d")
-    write_archive(today_str, "weekly", weekly_payload)
-    write_archive(today_str, "monthly", monthly_payload)
+
+    for tab in TABS:
+        archive_items = load_archive_daily_items(monthly_start, now, TIMEZONE, tab)
+        weekly_items = filter_by_range(archive_items, weekly_start, now)
+        monthly_items = filter_by_range(archive_items, monthly_start, now)
+        weekly_items = sort_by_importance(weekly_items)
+        monthly_items = sort_by_importance(monthly_items)
+
+        print(f"[{tab}] Archive items loaded: {len(archive_items)}")
+        print(f"[{tab}] Weekly items: {len(weekly_items)}")
+        print(f"[{tab}] Monthly items: {len(monthly_items)}")
+
+        weekly_issue_items = pick_diverse_items(weekly_items, max_items=8)
+        monthly_issue_items = pick_diverse_items(monthly_items, max_items=8)
+        weekly_issues = summarize_issues(weekly_issue_items, max_items=5, tab=tab)
+        monthly_issues = summarize_issues(monthly_issue_items, max_items=5, tab=tab)
+
+        weekly_payload = build_weekly_data(
+            weekly_items,
+            len(weekly_items),
+            weekly_start,
+            now,
+            issues=weekly_issues,
+        )
+        monthly_payload = build_monthly_data(
+            monthly_items,
+            len(monthly_items),
+            monthly_start,
+            now,
+            issues=monthly_issues,
+        )
+
+        write_latest(tab, "weekly.json", weekly_payload)
+        write_latest(tab, "monthly.json", monthly_payload)
+        write_archive(tab, today_str, "weekly", weekly_payload)
+        write_archive(tab, today_str, "monthly", monthly_payload)
 
     print("Archive rollups completed.")
 

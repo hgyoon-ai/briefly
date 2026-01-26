@@ -26,18 +26,46 @@ OPENAI_ITEM_MODEL_THRESHOLD = 600
 
 HF_IMPORTANCE_PENALTY = 2
 
+TABS = ["ai", "semiconductor", "ev"]
+
 TOPIC_TAXONOMY = [
-  "Models",
-  "Training",
-  "Inference",
-  "Tooling",
-  "Infra",
-  "Safety",
-  "Research",
-  "Product",
-  "Business",
-  "Data",
+    "Models",
+    "Training",
+    "Inference",
+    "Tooling",
+    "Infra",
+    "Safety",
+    "Research",
+    "Product",
+    "Business",
+    "Data",
 ]
+
+SEMICONDUCTOR_TAXONOMY = [
+    "Earnings",
+    "Demand",
+    "Manufacturing",
+    "Policy",
+    "Investment",
+    "Competition",
+    "Roadmap",
+]
+
+EV_TAXONOMY = [
+    "Earnings",
+    "Demand",
+    "Manufacturing",
+    "Policy",
+    "Investment",
+    "Competition",
+    "Roadmap",
+]
+
+TOPIC_TAXONOMY_BY_TAB = {
+    "ai": TOPIC_TAXONOMY,
+    "semiconductor": SEMICONDUCTOR_TAXONOMY,
+    "ev": EV_TAXONOMY,
+}
 
 OPENAI_TEMPERATURE_ITEM = None
 OPENAI_TEMPERATURE_ISSUE = None
@@ -80,26 +108,86 @@ RSS_SOURCES = [
         "tab": "ai",
     },
     {
-      "name": "PyTorch Blog",
-      "url": "https://pytorch.org/feed.xml",
-      "tab": "ai",
+        "name": "PyTorch Blog",
+        "url": "https://pytorch.org/feed.xml",
+        "tab": "ai",
     },
     {
-      "name": "Mistral AI Blog",
-      "url": "https://mistral.ai/news/rss.xml",
-      "tab": "ai",
+        "name": "Mistral AI Blog",
+        "url": "https://mistral.ai/news/rss.xml",
+        "tab": "ai",
     },
     {
-      "name": "Cohere Blog",
-      "url": "https://cohere.com/blog/rss.xml",
-      "tab": "ai",
+        "name": "Cohere Blog",
+        "url": "https://cohere.com/blog/rss.xml",
+        "tab": "ai",
     },
     {
-      "name": "Stability AI News",
-      "url": "https://stability.ai/news/rss.xml",
-      "tab": "ai",
+        "name": "Stability AI News",
+        "url": "https://stability.ai/news/rss.xml",
+        "tab": "ai",
     },
-  ]
+    {
+        "name": "Samsung Newsroom",
+        "url": "https://news.samsung.com/global/feed",
+        "tab": "semiconductor",
+    },
+    {
+        "name": "SK hynix Newsroom",
+        "url": "https://news.skhynix.com/feed/",
+        "tab": "semiconductor",
+    },
+    {
+        "name": "Samsung Semiconductor Newsroom",
+        "url": "https://news.samsungsemi.com/global/feed/",
+        "tab": "semiconductor",
+    },
+    {
+        "name": "SEMI News",
+        "url": "https://www.semi.org/en/rss",
+        "tab": "semiconductor",
+    },
+    {
+        "name": "EE Times",
+        "url": "https://www.eetimes.com/feed/",
+        "tab": "semiconductor",
+    },
+    {
+        "name": "TechInsights",
+        "url": "https://www.techinsights.com/rss.xml",
+        "tab": "semiconductor",
+    },
+    {
+        "name": "Tesla Blog",
+        "url": "https://www.tesla.com/blog/rss",
+        "tab": "ev",
+    },
+    {
+        "name": "Tesla Investor Relations",
+        "url": "https://ir.tesla.com/press-releases/rss.xml",
+        "tab": "ev",
+    },
+    {
+        "name": "NHTSA Recalls",
+        "url": "https://www.nhtsa.gov/feeds/recalls.xml",
+        "tab": "ev",
+    },
+    {
+        "name": "Electrek",
+        "url": "https://electrek.co/feed/",
+        "tab": "ev",
+    },
+    {
+        "name": "InsideEVs",
+        "url": "https://insideevs.com/rss/news/",
+        "tab": "ev",
+    },
+    {
+        "name": "Reuters Tesla",
+        "url": "https://feeds.reuters.com/reuters/companyNews?format=xml&company=TSLA.O",
+        "tab": "ev",
+    },
+]
 
 HF_TRENDING_URL = "https://huggingface.co/api/models"
 

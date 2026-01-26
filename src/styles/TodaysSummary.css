@@ -150,6 +150,14 @@
   color: #7a6a6a;
 }
 
+.highlight-empty {
+  margin: 0;
+  padding: 20px 16px;
+  border-style: dashed;
+  border-color: rgba(255, 165, 0, 0.35);
+  box-shadow: inset 0 1px 10px rgba(255, 183, 117, 0.18);
+}
+
 .news-card {
   display: block;
   background: white;

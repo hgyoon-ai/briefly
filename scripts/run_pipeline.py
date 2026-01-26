@@ -11,6 +11,7 @@ from crawler.config import (
     MAX_PER_SOURCE,
     MONTHLY_DAYS,
     RSS_SOURCES,
+    TABS,
     TIMEZONE,
     WEEKLY_DAYS,
 )
@@ -41,7 +42,8 @@ def load_items():
 def enrich_items(items):
     enriched = []
     for item in items:
-        summary = summarize_item(item)
+        tab = item.get("tab", "ai")
+        summary = summarize_item(item, tab=tab)
         enriched.append(
             {
                 **item,
@@ -61,11 +63,11 @@ def clamp_total(items):
     return items[: MAX_PER_SOURCE["total"]]
 
 
-def build_daily_payload(items, raw_count, now):
+def build_daily_payload(items, raw_count, now, tab="ai"):
     daily = {
         "date": now.strftime("%Y-%m-%d"),
         "highlights": build_daily_summary(items, raw_count),
-        "cards": build_cards(items[:5]),
+        "cards": build_cards(items[:5], tab=tab),
     }
     return daily
 
@@ -111,12 +113,13 @@ def iter_dates(start, end):
         current += timedelta(days=1)
 
 
-def load_archive_daily_items(start, end, timezone):
+def load_archive_daily_items(start, end, timezone, tab):
     items = []
     for date in iter_dates(start, end):
         date_str = date.strftime("%Y-%m-%d")
         archive_path = (
             ARCHIVE_DIR
+            / tab
             / date_str.split("-")[0]
             / date_str.split("-")[1]
             / ARCHIVE_FILENAME_FORMAT.format(date=date_str, period="daily")
@@ -146,6 +149,14 @@ def load_archive_daily_items(start, end, timezone):
     return items
 
 
+def group_by_tab(items):
+    grouped = {tab: [] for tab in TABS}
+    for item in items:
+        tab = item.get("tab", "ai")
+        grouped.setdefault(tab, []).append(item)
+    return grouped
+
+
 def main():
     load_dotenv()
     timezone = ZoneInfo(TIMEZONE)
@@ -164,48 +175,52 @@ def main():
     weekly_start = now - timedelta(days=WEEKLY_DAYS - 1)
     monthly_start = now - timedelta(days=MONTHLY_DAYS - 1)
 
-    daily_items = filter_by_range(enriched, daily_start, now)
-    daily_items = sort_by_importance(daily_items)
-    raw_daily_count = len(filter_by_range(raw_items, daily_start, now))
-
-    daily_payload = build_daily_payload(daily_items, raw_daily_count, now)
-    write_latest("daily.json", daily_payload)
-
     today_str = now.strftime("%Y-%m-%d")
-    write_archive(today_str, "daily", daily_payload)
+    raw_by_tab = group_by_tab(raw_items)
+    enriched_by_tab = group_by_tab(enriched)
 
-    archive_items = load_archive_daily_items(monthly_start, now, TIMEZONE)
-    weekly_items = filter_by_range(archive_items, weekly_start, now)
-    monthly_items = filter_by_range(archive_items, monthly_start, now)
-    weekly_items = sort_by_importance(weekly_items)
-    monthly_items = sort_by_importance(monthly_items)
-    print(f"Weekly items from archive: {len(weekly_items)}")
-    print(f"Monthly items from archive: {len(monthly_items)}")
+    for tab in TABS:
+        tab_items = enriched_by_tab.get(tab, [])
+        daily_items = filter_by_range(tab_items, daily_start, now)
+        daily_items = sort_by_importance(daily_items)
+        raw_daily_count = len(filter_by_range(raw_by_tab.get(tab, []), daily_start, now))
 
-    weekly_issue_items = pick_diverse_items(weekly_items, max_items=8)
-    monthly_issue_items = pick_diverse_items(monthly_items, max_items=8)
-    weekly_issues = summarize_issues(weekly_issue_items, max_items=5)
-    monthly_issues = summarize_issues(monthly_issue_items, max_items=5)
+        daily_payload = build_daily_payload(daily_items, raw_daily_count, now, tab=tab)
+        write_latest(tab, "daily.json", daily_payload)
+        write_archive(tab, today_str, "daily", daily_payload)
 
-    weekly_payload = build_weekly_data(
-        weekly_items,
-        len(weekly_items),
-        weekly_start,
-        now,
-        issues=weekly_issues,
-    )
-    monthly_payload = build_monthly_data(
-        monthly_items,
-        len(monthly_items),
-        monthly_start,
-        now,
-        issues=monthly_issues,
-    )
+        archive_items = load_archive_daily_items(monthly_start, now, TIMEZONE, tab)
+        weekly_items = filter_by_range(archive_items, weekly_start, now)
+        monthly_items = filter_by_range(archive_items, monthly_start, now)
+        weekly_items = sort_by_importance(weekly_items)
+        monthly_items = sort_by_importance(monthly_items)
+        print(f"[{tab}] Weekly items from archive: {len(weekly_items)}")
+        print(f"[{tab}] Monthly items from archive: {len(monthly_items)}")
 
-    write_latest("weekly.json", weekly_payload)
-    write_latest("monthly.json", monthly_payload)
-    write_archive(today_str, "weekly", weekly_payload)
-    write_archive(today_str, "monthly", monthly_payload)
+        weekly_issue_items = pick_diverse_items(weekly_items, max_items=8)
+        monthly_issue_items = pick_diverse_items(monthly_items, max_items=8)
+        weekly_issues = summarize_issues(weekly_issue_items, max_items=5, tab=tab)
+        monthly_issues = summarize_issues(monthly_issue_items, max_items=5, tab=tab)
+
+        weekly_payload = build_weekly_data(
+            weekly_items,
+            len(weekly_items),
+            weekly_start,
+            now,
+            issues=weekly_issues,
+        )
+        monthly_payload = build_monthly_data(
+            monthly_items,
+            len(monthly_items),
+            monthly_start,
+            now,
+            issues=monthly_issues,
+        )
+
+        write_latest(tab, "weekly.json", weekly_payload)
+        write_latest(tab, "monthly.json", monthly_payload)
+        write_archive(tab, today_str, "weekly", weekly_payload)
+        write_archive(tab, today_str, "monthly", monthly_payload)
 
     print("Pipeline completed.")
 

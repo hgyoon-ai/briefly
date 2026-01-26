@@ -27,12 +27,23 @@ def build_top_topics(items, limit=4):
 
 
 def build_daily_summary(items, raw_count):
+    if len(items) == 0:
+        return {
+            "bullets": [
+                "오늘은 소식이 드문 날이에요. 주간/월간 탭에서 전체 흐름을 확인해 보세요.",
+            ],
+            "topTopics": [],
+            "stats": {
+                "collected": raw_count,
+                "deduped": len(items),
+            },
+        }
     top_topics = build_top_topics(items, limit=4)
     bullets = []
     for topic, count, _score in top_topics[:3]:
         bullets.append(f"{topic} 관련 업데이트가 {count}건 감지됨")
-    while len(bullets) < 3:
-        bullets.append("AI 개발 업데이트가 꾸준히 이어지고 있음")
+    if not bullets:
+        bullets.append(f"오늘 {len(items)}건의 업데이트가 수집됨")
     return {
         "bullets": bullets[:3],
         "topTopics": [topic for topic, _count, _score in top_topics],
@@ -43,15 +54,15 @@ def build_daily_summary(items, raw_count):
     }
 
 
-def build_cards(items):
+def build_cards(items, tab="ai"):
     cards = []
     for idx, item in enumerate(items, start=1):
         key = item.get("url") or item.get("title") or ""
         signature = make_hash(normalize_text(key))
         cards.append(
             {
-                "id": f"ai_{idx:04d}",
-                "tab": item.get("tab", "ai"),
+                "id": f"{tab}_{idx:04d}",
+                "tab": item.get("tab", tab),
                 "publishedAt": item["published_at"].isoformat(),
                 "source": item.get("source"),
                 "title": item.get("title"),

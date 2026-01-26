@@ -1,11 +1,19 @@
 import React from 'react';
 import '../styles/TodaysSummary.css';
 
-function TodaysSummary({ data }) {
+function TodaysSummary({ data, tab = 'ai' }) {
   const { highlights, cards } = data;
 
-  // AI 탭만 필터링 (나중에 탭 기능 추가 시 동적으로 변경)
-  const aiCards = cards.filter(card => card.tab === 'ai');
+  const filteredCards = cards.filter(card => card.tab === tab);
+  const hasCards = filteredCards.length > 0;
+
+  const EmptyState = () => (
+    <div className="empty-issues highlight-empty">
+      <div className="empty-icon">✨</div>
+      <div className="empty-title">오늘은 소식이 드문 날이에요</div>
+      <div className="empty-desc">주간/월간 탭에서 전체 흐름을 확인해 보세요.</div>
+    </div>
+  );
 
   return (
     <section className="todays-summary">
@@ -15,29 +23,27 @@ function TodaysSummary({ data }) {
       <div className="news-cards-section">
         <h3>핵심 내용</h3>
         <div className="three-line-summary">
-          {highlights.bullets.map((bullet, idx) => (
-            <div key={idx} className="summary-item">
-              <div className="summary-number">{idx + 1}.</div>
-              <div className="summary-content">
-                <div className="summary-text">{bullet}</div>
+          {!hasCards ? (
+            <EmptyState />
+          ) : (
+            highlights.bullets.map((bullet, idx) => (
+              <div key={idx} className="summary-item">
+                <div className="summary-number">{idx + 1}.</div>
+                <div className="summary-content">
+                  <div className="summary-text">{bullet}</div>
+                </div>
               </div>
-            </div>
-          ))}
+            ))
+          )}
         </div>
       </div>
 
       {/* 주요 뉴스 카드 */}
-      <div className="news-cards-section">
-        <h3>주요 이슈</h3>
-        {aiCards.length === 0 ? (
-          <div className="empty-issues">
-            <div className="empty-icon">✨</div>
-            <div className="empty-title">오늘은 수집된 이슈가 없습니다</div>
-            <div className="empty-desc">조금 뒤 다시 확인해 주세요. 최신 업데이트를 준비 중이에요.</div>
-          </div>
-        ) : (
+      {hasCards && (
+        <div className="news-cards-section">
+          <h3>주요 이슈</h3>
           <div className="news-cards">
-            {aiCards.map((card) => (
+            {filteredCards.map((card) => (
               <a
                 key={card.id}
                 href={card.url}
@@ -76,8 +82,8 @@ function TodaysSummary({ data }) {
               </a>
             ))}
           </div>
-        )}
-      </div>
+        </div>
+      )}
 
     </section>
   );
