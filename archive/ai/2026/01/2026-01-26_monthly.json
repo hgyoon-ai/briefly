@@ -50,11 +50,11 @@
     {
       "week": "Week 4 (01/18-01/24)",
       "topicCounts": {
-        "CLI-도구": 0,
-        "Git-워크플로우": 0,
-        "릴리스-자동화": 0,
-        "플러그인-시스템": 0,
-        "개발자-생산성": 0
+        "CLI-도구": 1,
+        "Git-워크플로우": 1,
+        "릴리스-자동화": 1,
+        "플러그인-시스템": 1,
+        "개발자-생산성": 1
       }
     },
     {
@@ -70,10 +70,38 @@
   ],
   "topIssues": [
     {
-      "id": "topic-1",
+      "id": 1,
+      "status": "ONGOING",
+      "title": "Codex 에이전트 루프 및 Responses API 기반 도구 오케스트레이션",
+      "summary": "OpenAI Codex 에이전트 루프의 내부 동작이 공개되며, 모델·도구·프롬프트·성능을 Responses API로 통합 조율하는 방식이 기술적으로 정리되고 있습니다. 에이전트형 AI 개발을 위한 레퍼런스 아키텍처로, 추후 다양한 코드·도구 자동화 에이전트 설계에 계속 활용될 이슈입니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "Unrolling the Codex agent loop",
+          "url": "https://openai.com/index/unrolling-the-codex-agent-loop"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "AI 워크로드용 Kubernetes·LLM 인프라 최적화 패치",
+      "summary": "Dynamo v0.8.1이 Kubernetes 프로파일러용 모델 캐시 PVC 마운트를 지원하고, SGLang 관련 YAML 플래그 파싱 오류 및 CUDA 13 컨테이너의 CuDNN 설치 문제를 수정했습니다. AI 모델 프로파일링과 운영 환경에서의 성능·안정성을 단계적으로 개선하는 흐름이 이어지고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "GitHub/ai-dynamo/dynamo",
+          "title": "Dynamo v0.8.1",
+          "url": "https://github.com/ai-dynamo/dynamo/releases/tag/v0.8.1"
+        }
+      ]
+    },
+    {
+      "id": 3,
       "status": "NEW",
-      "title": "개발 워크플로우용 AI·CLI 도구 기능 고도화",
-      "summary": "devflow-cli v0.4.0 출시로 릴리스 자동화, PR 리뷰, Git stash·worktree·log 관리 등 개발 플로우 전반을 AI 친화적으로 통합하는 신규 명령이 대거 추가되었고, BREAKING CHANGE·Refs 푸터 지원으로 변경 이력 관리와 추적성이 강화되었습니다. 이와 함께 Linear CLI v1.2.3은 이슈 업데이트 시 발생하던 순환 해결(cycle resolution) 버그를 수정해 안정성을 높였습니다.",
+      "title": "AI 개발 생산성을 높이는 CLI 워크플로우 업데이트",
+      "summary": "devflow-cli v0.4.0이 릴리스 자동화, PR 리뷰, stash·worktree·log 관리 등 Git 기반 개발 플로우를 통합하려는 대규모 CLI 개선을 도입했습니다. 커밋 메시지에 BREAKING CHANGE와 Refs 푸터를 지원해 변경 이력 추적성을 높였고, Linear CLI v1.2.3은 이슈 업데이트 시 발생하던 순환 해결 버그를 패치해 AI·소프트웨어 프로젝트 이슈 관리의 안정성을 강화했습니다.",
       "articleCount": 2,
       "relatedArticles": [
         {
@@ -89,38 +117,10 @@
       ]
     },
     {
-      "id": "topic-2",
-      "status": "ONGOING",
-      "title": "Codex 에이전트 루프와 Responses API 기반 오케스트레이션",
-      "summary": "OpenAI가 Codex 에이전트 루프의 내부 구조를 공개하며, Codex CLI가 모델·도구·프롬프트·성능 최적화를 Responses API를 통해 어떻게 조율하는지 기술적으로 설명했습니다. 이는 에이전트형 개발 도구와 자동화 워크플로우 설계 시 참고할 수 있는 아키텍처·성능 인사이트를 제공합니다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "OpenAI Blog",
-          "title": "Unrolling the Codex agent loop",
-          "url": "https://openai.com/index/unrolling-the-codex-agent-loop"
-        }
-      ]
-    },
-    {
-      "id": "topic-3",
-      "status": "ONGOING",
-      "title": "Kubernetes 기반 AI 워크로드에서 모델 캐시·호환성 개선",
-      "summary": "Dynamo v0.8.1 패치로 Kubernetes 프로파일러에 모델 캐시 PVC 마운트를 지원해 반복 프로파일링 시 I/O 부담을 줄이고, SGLang 관련 YAML 불리언 플래그 파싱 오류 및 CUDA 13 컨테이너의 CuDNN 설치 문제를 해결해 AI 워크로드의 성능과 호환성을 동시에 개선했습니다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "GitHub/ai-dynamo/dynamo",
-          "title": "Dynamo v0.8.1",
-          "url": "https://github.com/ai-dynamo/dynamo/releases/tag/v0.8.1"
-        }
-      ]
-    },
-    {
-      "id": "topic-4",
+      "id": 4,
       "status": "NEW",
-      "title": "NVIDIA Blackwell 기반 LLM·이미지 모델 최적화 가속",
-      "summary": "NVIDIA는 Blackwell GPU에서 FlashAttention-4를 적용해 트랜스포머 LLM의 연산·메모리 병목을 줄이고 학습·추론 속도를 높이는 최적화를 발표했습니다. 동시에 Black Forest Labs와 협업해 Blackwell 데이터센터 GPU에서 FLUX.2 모델의 NVFP4 추론 스케일링을 공개하며, FP4 기반 이미지 생성 모델의 성능·효율을 한층 끌어올렸습니다.",
+      "title": "NVIDIA Blackwell 기반 LLM·이미지 생성 성능 최적화",
+      "summary": "NVIDIA는 Blackwell GPU에서 FlashAttention-4를 적용해 트랜스포머 기반 LLM의 연산·메모리 병목을 줄이고, FLUX.2 모델에 NVFP4 추론을 스케일링해 FP4 정밀도에서의 이미지 생성 효율을 높였습니다. Blackwell 세대에서 LLM과 멀티모달 모델의 학습·추론을 동시에 가속하는 하드웨어·소프트웨어 최적화가 본격화되고 있습니다.",
       "articleCount": 2,
       "relatedArticles": [
         {
@@ -136,10 +136,10 @@
       ]
     },
     {
-      "id": "topic-5",
+      "id": 5,
       "status": "NEW",
-      "title": "AI 관련 오픈소스 툴체인 릴리스 및 설치 경험 개선",
-      "summary": "ccyolo v0.19.0이 릴리스되어 AI 비전·검출용 툴체인의 기능 업데이트가 이뤄졌으며, get-shit-done v1.9.6은 인스톨러에서 Claude Code와 OpenCode 런타임을 대화형 또는 플래그(--opencode, --both)를 통해 선택 설치할 수 있게 해 개발자의 AI 워크플로우 구성과 권한 설정 자동화를 개선했습니다.",
+      "title": "AI·코드 워크플로우용 도구 체인 업데이트",
+      "summary": "ccyolo v0.19.0 릴리스와 get-shit-done v1.9.6 업데이트를 통해 모델·도구 체인의 버전 업그레이드와 런타임 선택 유연성이 확대되었습니다. 특히 GSD 인스톨러는 Claude Code와 OpenCode 런타임을 대화형 또는 동시 설치로 지원해 AI 코딩·자동화 환경 구성을 쉽게 합니다.",
       "articleCount": 2,
       "relatedArticles": [
         {

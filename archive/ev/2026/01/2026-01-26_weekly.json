@@ -1,0 +1,257 @@
+{
+  "range": {
+    "from": "2026-01-20",
+    "to": "2026-01-26"
+  },
+  "kpis": {
+    "collected": 4,
+    "deduped": 4,
+    "uniqueTopics": 6
+  },
+  "topTopics": [
+    {
+      "name": "Roadmap",
+      "count": 4
+    },
+    {
+      "name": "Demand",
+      "count": 3
+    },
+    {
+      "name": "Investment",
+      "count": 3
+    },
+    {
+      "name": "Competition",
+      "count": 2
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-01-20",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-01-20",
+      "dayOfWeek": "Tue",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-01-20",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-01-20",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-01-21",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-01-21",
+      "dayOfWeek": "Wed",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-01-21",
+      "dayOfWeek": "Wed",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-01-21",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-01-22",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-01-22",
+      "dayOfWeek": "Thu",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-01-22",
+      "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-01-22",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-01-23",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-01-23",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-01-23",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-01-23",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-01-24",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-01-24",
+      "dayOfWeek": "Sat",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-01-24",
+      "dayOfWeek": "Sat",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-01-24",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-01-25",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-01-25",
+      "dayOfWeek": "Sun",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-01-25",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-01-25",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-01-26",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 3
+    },
+    {
+      "date": "2026-01-26",
+      "dayOfWeek": "Mon",
+      "topic": "Demand",
+      "count": 2
+    },
+    {
+      "date": "2026-01-26",
+      "dayOfWeek": "Mon",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-01-26",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 2
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "전기 건설장비 보급 가속: 볼보 EC230 전기 굴착기 0% 금리 금융",
+      "summary": "볼보가 EC230 전기 굴착기 구매 고객에게 0% 금리 금융을 제공하며 전기 건설장비 도입을 적극적으로 촉진하고 있다. 이미 성능과 경제성이 검증된 모델에 금융 부담 완화까지 더해져, 중대형 공사 현장의 전동화 수요 확대와 상용 EV 영역 다변화에 영향을 줄 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Dig it: Volvo is offering 0% interest financing on EC230 Electric excavator",
+          "url": "https://electrek.co/2026/01/25/dig-it-volvo-is-offering-0-interest-financing-on-ec230-electric-excavator/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "지리(Geely)의 고체전지 양산 추진과 EV 배터리 경쟁 심화",
+      "summary": "볼보 모회사 지리가 2026년 첫 고체전지 팩 생산 완료를 목표로 하며 차세대 배터리 상용화 경쟁에 본격 가세하고 있다. 중국 전기차 업체 전반의 기술·원가 경쟁이 강화될 것으로 예상되며, 고에너지밀도·안전성을 앞세운 고체전지가 향후 전기차 성능과 제품 포트폴리오 전략에 핵심 변수가 되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Volvo parent Geely set to produce its first solid-state battery this year",
+          "url": "https://electrek.co/2026/01/25/volvo-parent-geely-set-to-produce-its-first-solid-state-battery-this-year/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "미국 통학 교통의 전동화: 롱아일랜드 전기 스쿨버스 도입 확대",
+      "summary": "영국계 에너지·차량 전환 기업 Zenobē가 뉴욕 롱아일랜드 코피에그 공립학교와 협력해 디젤 스쿨버스를 전기버스로 전환하고 있다. 약 4,500명의 학생 통학에 사용될 차량이 친환경 전기버스로 대체되며, 학교·지자체 중심의 버스 전동화 모델과 공기질 개선, 소음 저감 효과를 검증하는 파일럿로 주목된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Electric school buses arrive in Long Island with latest Zenobē launch",
+          "url": "https://electrek.co/2026/01/25/electric-school-buses-arrive-in-long-island-with-latest-zenobe-launch/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "마이크로 모빌리티 배터리의 확장 활용: e-바이크 배터리를 쓰는 푸드카트",
+      "summary": "뉴욕 일부 푸드카트가 소형 가스 발전기 대신 e-바이크용 배터리로 전기를 공급하며 배출가스와 소음을 줄이고 있다. 소형 상점·이동식 판매 시설까지 전기화가 확산되는 사례로, 도심 공기질 개선과 상권 환경 개선, 그리고 마이크로 모빌리티 배터리의 새로운 비차량용 수요 창출 가능성을 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "The clever way food trucks are now using e-bike batteries",
+          "url": "https://electrek.co/2026/01/25/the-clever-way-food-trucks-are-now-using-e-bike-batteries/"
+        }
+      ]
+    }
+  ]
+}

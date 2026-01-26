@@ -1,0 +1,129 @@
+{
+  "range": {
+    "from": "2025-12-28",
+    "to": "2026-01-26"
+  },
+  "kpis": {
+    "collected": 4,
+    "deduped": 4,
+    "uniqueTopics": 6,
+    "marketShare": {
+      "Roadmap": 31,
+      "Demand": 23,
+      "Investment": 23,
+      "Competition": 15,
+      "Manufacturing": 8,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (12/28-01/03)",
+      "topicCounts": {
+        "Roadmap": 0,
+        "Demand": 0,
+        "Investment": 0,
+        "Competition": 0,
+        "Manufacturing": 0
+      }
+    },
+    {
+      "week": "Week 2 (01/04-01/10)",
+      "topicCounts": {
+        "Roadmap": 0,
+        "Demand": 0,
+        "Investment": 0,
+        "Competition": 0,
+        "Manufacturing": 0
+      }
+    },
+    {
+      "week": "Week 3 (01/11-01/17)",
+      "topicCounts": {
+        "Roadmap": 0,
+        "Demand": 0,
+        "Investment": 0,
+        "Competition": 0,
+        "Manufacturing": 0
+      }
+    },
+    {
+      "week": "Week 4 (01/18-01/24)",
+      "topicCounts": {
+        "Roadmap": 0,
+        "Demand": 0,
+        "Investment": 0,
+        "Competition": 0,
+        "Manufacturing": 0
+      }
+    },
+    {
+      "week": "Week 5 (01/25-01/26)",
+      "topicCounts": {
+        "Roadmap": 4,
+        "Demand": 3,
+        "Investment": 3,
+        "Competition": 2,
+        "Manufacturing": 1
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "건설 장비 전기화 가속: 볼보 EC230 전기 굴착기 0% 할부 금융 프로그램",
+      "summary": "볼보가 EC230 전기 굴착기 구매 고객에게 0% 금리 금융을 제공하며 건설·중장비 분야 전동화 확산을 본격적으로 유도하고 있다. 이미 다양한 현장에서 성능과 경제성이 검증된 모델에 금융 인센티브를 더해, 디젤 장비에서 전기 장비로의 전환 장벽을 낮추고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Dig it: Volvo is offering 0% interest financing on EC230 Electric excavator",
+          "url": "https://electrek.co/2026/01/25/dig-it-volvo-is-offering-0-interest-financing-on-ec230-electric-excavator/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "지리의 고체전지 양산 준비: 전기차 배터리 경쟁 구도 변화",
+      "summary": "볼보 모회사 지리가 2026년 첫 고체전지 팩 생산을 목표로 하면서, 중국 완성차 업체 중심의 차세대 배터리 상용화 경쟁이 본격화되고 있다. 고체전지는 주행거리·안전성·충전 속도 향상을 통해 EV 성능 판도를 바꿀 수 있어, 기술·투자·공급망 전반에 중장기 변화를 예고한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Volvo parent Geely set to produce its first solid-state battery this year",
+          "url": "https://electrek.co/2026/01/25/volvo-parent-geely-set-to-produce-its-first-solid-state-battery-this-year/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "전기 스쿨버스로의 전환: 롱아일랜드 학생 통학 전동화",
+      "summary": "Zenobē가 Trans Group 및 EBT와 협력해 뉴욕 롱아일랜드 코피에그 공립학교 스쿨버스를 전기버스로 교체하면서, 약 4,500명의 학생을 대상으로 한 통학 교통 전동화 사례가 확대되고 있다. 이는 배출가스·소음 저감과 함께 교육 분야에서의 친환경 교통 인프라 전환을 가속하는 신호로 해석된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Electric school buses arrive in Long Island with latest Zenobē launch",
+          "url": "https://electrek.co/2026/01/25/electric-school-buses-arrive-in-long-island-with-latest-zenobe-launch/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "도시 상업용 전력의 소형 전기화: e-바이크 배터리를 활용한 푸드카트 전기 공급",
+      "summary": "뉴욕 일부 푸드카트가 소형 가스 발전기 대신 e-바이크용 배터리로 전력을 공급하기 시작하며, 소상공인·이동식 상점 영역에서의 전기화가 새로운 수요처로 부상하고 있다. 이 전환은 배기가스·소음 감소를 통해 도심 환경 개선과 상권 경쟁력 제고에 기여할 수 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "The clever way food trucks are now using e-bike batteries",
+          "url": "https://electrek.co/2026/01/25/the-clever-way-food-trucks-are-now-using-e-bike-batteries/"
+        }
+      ]
+    }
+  ]
+}

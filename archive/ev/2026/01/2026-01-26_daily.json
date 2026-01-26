@@ -1,0 +1,108 @@
+{
+  "date": "2026-01-26",
+  "highlights": {
+    "bullets": [
+      "Roadmap 관련 업데이트가 4건 감지됨",
+      "Demand 관련 업데이트가 3건 감지됨",
+      "Investment 관련 업데이트가 3건 감지됨"
+    ],
+    "topTopics": [
+      "Roadmap",
+      "Demand",
+      "Investment",
+      "Competition"
+    ],
+    "stats": {
+      "collected": 4,
+      "deduped": 4
+    }
+  },
+  "cards": [
+    {
+      "id": "ev_0001",
+      "tab": "ev",
+      "publishedAt": "2026-01-26T05:40:46+09:00",
+      "source": "Electrek",
+      "title": "Volvo parent Geely set to produce its first solid-state battery this year",
+      "summary": [
+        "지리(Geely)가 2026년 자사 첫 고체전지 팩 생산 완료를 목표로 하고 있다.",
+        "이는 중국 전기차 기업들 사이에서 고체전지 상용화 경쟁을 촉진할 전망이다.",
+        "상용화 성공 시 주행거리·안전성 개선과 공급망 및 제조 역량 재편이 예상된다."
+      ],
+      "whyItMatters": "실제 생산 전환은 기술 검증을 넘어 제품 상용화와 시장 경쟁에 직접적인 영향을 미치기 때문이다.",
+      "topics": [
+        "Manufacturing",
+        "Competition",
+        "Roadmap"
+      ],
+      "status": "ONGOING",
+      "hash": "2ff2fb1086665bff000b911185628ec1c4000dea926e9402412047630d729089",
+      "url": "https://electrek.co/2026/01/25/volvo-parent-geely-set-to-produce-its-first-solid-state-battery-this-year/"
+    },
+    {
+      "id": "ev_0002",
+      "tab": "ev",
+      "publishedAt": "2026-01-26T11:03:17+09:00",
+      "source": "Electrek",
+      "title": "Dig it: Volvo is offering 0% interest financing on EC230 Electric excavator",
+      "summary": [
+        "볼보가 EC230 전기 굴착기 구매 고객을 대상으로 0% 금리 금융 프로그램을 제공하기 시작했습니다.",
+        "EC230 전기 굴착기는 지난 몇 년간 전 세계 다양한 공사 현장에서 성능과 경제성을 입증해 온 모델입니다.",
+        "이번 공격적인 금융 조건은 고객사의 전기 굴착기 도입 문턱을 낮춰 채택 확대를 노린 전략으로 보입니다."
+      ],
+      "whyItMatters": "전기 건설장비 보급을 가속화해 볼보의 시장 점유율과 전동화 전환 속도에 직접적인 영향을 줄 수 있는 조건 변화이기 때문입니다.",
+      "topics": [
+        "Demand",
+        "Investment",
+        "Competition",
+        "Roadmap"
+      ],
+      "status": "NEW",
+      "hash": "3e7a27c6e127811593328672de86e0e5af280cd79547701089b05b671d2612e9",
+      "url": "https://electrek.co/2026/01/25/dig-it-volvo-is-offering-0-interest-financing-on-ec230-electric-excavator/"
+    },
+    {
+      "id": "ev_0003",
+      "tab": "ev",
+      "publishedAt": "2026-01-26T04:44:06+09:00",
+      "source": "Electrek",
+      "title": "Electric school buses arrive in Long Island with latest Zenobē launch",
+      "summary": [
+        "Zenobē가 Trans Group 및 EBT와 협력해 뉴욕 롱아일랜드 코피에그 공립학교의 스쿨버스 차량을 전기버스로 전환한다.",
+        "이번 전기버스 도입은 약 4,500명의 학생들에게 더 깨끗하고 건강한 통학 환경을 제공하는 것을 목표로 한다.",
+        "미국 내 스쿨버스 전기화 사례가 추가되며 전기 상용차 수요 확대 가능성을 시사한다."
+      ],
+      "whyItMatters": "미국 공교육 시스템 내 전기 스쿨버스 도입이 확대되면 전기 상용차 수요와 관련 인프라 투자가 구조적으로 증가할 수 있어서 중요하다.",
+      "topics": [
+        "Demand",
+        "Investment",
+        "Roadmap",
+        "Policy"
+      ],
+      "status": "ONGOING",
+      "hash": "4b45216873d90e01d92da63b79a5583487e895734010a634458f11d4f40835c1",
+      "url": "https://electrek.co/2026/01/25/electric-school-buses-arrive-in-long-island-with-latest-zenobe-launch/"
+    },
+    {
+      "id": "ev_0004",
+      "tab": "ev",
+      "publishedAt": "2026-01-25T17:03:28+09:00",
+      "source": "Electrek",
+      "title": "The clever way food trucks are now using e-bike batteries",
+      "summary": [
+        "뉴욕시 일부 푸드카트가 기존 소형 가스 발전기 대신 e-바이크용 배터리로 전력을 공급하기 시작했다.",
+        "이 전환으로 소음과 배기가스가 줄어들어 도심 환경·주변 상권에 긍정적 영향을 줄 수 있다.",
+        "배달용 e-바이크와 푸드카트가 동일 배터리 인프라를 공유하는 새로운 활용 모델이 실험되고 있다."
+      ],
+      "whyItMatters": "도심 모빌리티용 배터리 인프라가 이동식 소상공인 비즈니스(푸드카트) 에너지 수요까지 흡수하는 사례로, 도시 에너지·모빌리티 생태계 변화 가능성을 보여준다.",
+      "topics": [
+        "Demand",
+        "Roadmap",
+        "Investment"
+      ],
+      "status": "NEW",
+      "hash": "dcde679a8ff09b9550798f286604fbb8e89167a2bab1bfe3fdd58f6f8205a995",
+      "url": "https://electrek.co/2026/01/25/the-clever-way-food-trucks-are-now-using-e-bike-batteries/"
+    }
+  ]
+}

@@ -198,11 +198,67 @@
   ],
   "topIssues": [
     {
-      "id": 1,
+      "id": "ai-1",
+      "status": "ONGOING",
+      "title": "Codex 에이전트 루프와 Responses API 기반 도구 오케스트레이션",
+      "summary": "OpenAI Codex CLI의 에이전트 루프 구조가 공개되며, 모델·도구·프롬프트·성능을 Responses API로 통합 조율하는 방식이 기술적으로 정리되고 있습니다. 이는 코드 생성/수정형 에이전트 구축에 참고할 수 있는 아키텍처 가이드로, 추후 유사 에이전트 프레임워크 설계에 지속적인 영향을 줄 주제로 보입니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "Unrolling the Codex agent loop",
+          "url": "https://openai.com/index/unrolling-the-codex-agent-loop"
+        }
+      ]
+    },
+    {
+      "id": "ai-2",
+      "status": "ONGOING",
+      "title": "AI 모델 서빙용 Kubernetes/프로파일링 스택의 안정성·성능 개선",
+      "summary": "Dynamo v0.8.1에서는 Kubernetes 프로파일러용 모델 캐시 PVC 마운트 지원이 추가되고, SGLang 관련 YAML boolean 파싱 오류와 CUDA 13 컨테이너의 CuDNN 설치 문제를 해결해 LLM/AI 워크로드의 안정적 서빙과 성능 최적화를 강화했습니다. 이는 쿠버네티스 기반 AI 인프라 운영 품질을 점진적으로 높이는 흐름으로 이어지고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "GitHub/ai-dynamo/dynamo",
+          "title": "Dynamo v0.8.1",
+          "url": "https://github.com/ai-dynamo/dynamo/releases/tag/v0.8.1"
+        }
+      ]
+    },
+    {
+      "id": "ai-3",
       "status": "NEW",
-      "title": "개발 워크플로우용 AI 중심 Git/CLI 자동화 도구 고도화",
-      "summary": "Devflow CLI v0.4.0, Linear CLI v1.2.3, GSD v1.9.6 등 개발 지원 CLI가 연달아 업데이트되며, 릴리스 자동화·PR 리뷰·이슈 관리·런타임 선택 등 개발 전 과정을 AI 및 자동화 중심으로 재편하는 흐름이 강화되고 있다.",
-      "articleCount": 3,
+      "title": "FlashAttention-4로 NVIDIA Blackwell 상 트랜스포머 연산·메모리 병목 해소",
+      "summary": "NVIDIA가 Blackwell GPU 아키텍처에서 FlashAttention-4를 도입해 트랜스포머 기반 LLM의 학습·추론 시 연산량과 메모리 병목을 줄이는 최적화를 발표했습니다. 이는 동일한 하드웨어에서 더 큰 모델 또는 더 높은 처리량을 가능하게 해, 차세대 데이터센터 LLM 워크로드의 성능·비용 구조에 직접적인 영향을 줄 전망입니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Overcoming Compute and Memory Bottlenecks with FlashAttention-4 on NVIDIA Blackwell",
+          "url": "https://developer.nvidia.com/blog/overcoming-compute-and-memory-bottlenecks-with-flashattention-4-on-nvidia-blackwell/"
+        }
+      ]
+    },
+    {
+      "id": "ai-4",
+      "status": "NEW",
+      "title": "Blackwell 데이터센터 GPU에서 FLUX.2 NVFP4 이미지 생성 추론 스케일링",
+      "summary": "NVIDIA가 Blackwell 데이터센터 GPU에서 FLUX.2 모델에 NVFP4 포맷을 적용해 초저정밀 이미지 생성 추론 성능을 스케일링하는 방법을 공개했습니다. Black Forest Labs와의 협업으로 FLUX.1에서 검증된 FP4 기반 이미지 생성 효율을 한 단계 확장해, 고해상도 생성 모델의 대규모 배포와 비용 절감에 기여하는 방향입니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Scaling NVFP4 Inference for FLUX.2 on NVIDIA Blackwell Data Center GPUs",
+          "url": "https://developer.nvidia.com/blog/scaling-nvfp4-inference-for-flux-2-on-nvidia-blackwell-data-center-gpus/"
+        }
+      ]
+    },
+    {
+      "id": "ai-5",
+      "status": "NEW",
+      "title": "개발자 AI 워크플로우용 CLI 도구 생태계 업데이트",
+      "summary": "devflow-cli v0.4.0, Linear CLI v1.2.3, get-shit-done v1.9.6, ccyolo v0.19.0 등 개발·이슈 관리·설치·모델 운영을 지원하는 CLI 도구들이 연이어 업데이트되었습니다. 릴리스 자동화·Git 워크플로우 통합, 이슈 업데이트 버그 수정, AI 코드 러너 선택적 설치, 모델 관련 프로젝트 업그레이드 등이 포함되어 AI 중심 개발 생산성을 높이는 방향으로 정비되고 있습니다.",
+      "articleCount": 4,
       "relatedArticles": [
         {
           "source": "GitHub/alejandrochvs/devflow-cli",
@@ -218,67 +274,6 @@
           "source": "GitHub/glittercowboy/get-shit-done",
           "title": "v1.9.6",
           "url": "https://github.com/glittercowboy/get-shit-done/releases/tag/v1.9.6"
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "status": "ONGOING",
-      "title": "에이전트형 AI를 위한 Codex 에이전트 루프와 도구 오케스트레이션 심화",
-      "summary": "OpenAI가 Codex 에이전트 루프의 내부 구조와 Responses API 기반 도구·프롬프트·모델 조율 방식을 공개하며, 복합 작업을 수행하는 에이전트형 AI의 설계와 성능 최적화 방법론이 구체화되고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "OpenAI Blog",
-          "title": "Unrolling the Codex agent loop",
-          "url": "https://openai.com/index/unrolling-the-codex-agent-loop"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "status": "ONGOING",
-      "title": "AI 인프라 관측·운영을 위한 Kubernetes 기반 LLM 플랫폼 안정화",
-      "summary": "Dynamo v0.8.1에서 Kubernetes 프로파일러용 모델 캐시 PVC 마운트 지원과 SGLang·CUDA 관련 버그 수정이 이루어지며, 클러스터 환경에서 LLM을 운영·튜닝하기 위한 인프라 레벨의 안정성과 성능이 지속적으로 개선되고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "GitHub/ai-dynamo/dynamo",
-          "title": "Dynamo v0.8.1",
-          "url": "https://github.com/ai-dynamo/dynamo/releases/tag/v0.8.1"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "status": "NEW",
-      "title": "NVIDIA Blackwell 기반 LLM·이미지 모델 최적화를 위한 신형 어텐션·저정밀 추론",
-      "summary": "NVIDIA가 Blackwell GPU에서 FlashAttention-4와 NVFP4 추론 스케일링을 공개하며, 트랜스포머 LLM과 FLUX.2 이미지 모델의 연산·메모리 병목을 줄이고 FP4 기반 초고속 추론을 실현하려는 하드웨어-소프트웨어 통합 최적화 전략을 강화하고 있다.",
-      "articleCount": 2,
-      "relatedArticles": [
-        {
-          "source": "NVIDIA Developer Blog",
-          "title": "Overcoming Compute and Memory Bottlenecks with FlashAttention-4 on NVIDIA Blackwell",
-          "url": "https://developer.nvidia.com/blog/overcoming-compute-and-memory-bottlenecks-with-flashattention-4-on-nvidia-blackwell/"
-        },
-        {
-          "source": "NVIDIA Developer Blog",
-          "title": "Scaling NVFP4 Inference for FLUX.2 on NVIDIA Blackwell Data Center GPUs",
-          "url": "https://developer.nvidia.com/blog/scaling-nvfp4-inference-for-flux-2-on-nvidia-blackwell-data-center-gpus/"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "status": "NEW",
-      "title": "AI 활용 가능성이 커지는 범용 모델·툴체인 릴리스",
-      "summary": "ccyolo v0.19.0 등 범용 모델·툴체인 릴리스가 이어지며, 세부 변경사항 공개와 버전 업그레이드를 통해 AI·비전 워크로드에 바로 적용 가능한 기반 도구 생태계가 점진적으로 확장되고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "GitHub/ccdevkit/ccyolo",
-          "title": "v0.19.0",
-          "url": "https://github.com/ccdevkit/ccyolo/releases/tag/v0.19.0"
         }
       ]
     }
