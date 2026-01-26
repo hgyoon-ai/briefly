@@ -1,26 +1,47 @@
-import React, { useState } from 'react';
+import React, { useEffect, useMemo, useState } from 'react';
 import { Link } from 'react-router-dom';
 import '../styles/HomePage.css';
-import TodaysSummary from '../components/TodaysSummary';
-import WeeklyTrends from '../components/WeeklyTrends';
-import MonthlyTrends from '../components/MonthlyTrends';
-import useMockData from '../hooks/useMockData';
+import IndustryHome from '../components/IndustryHome';
+import SecuritiesAIMarket from '../components/SecuritiesAIMarket';
 import { ADMIN_ICON } from '../constants/ui';
 
+const STORAGE_KEY = 'briefly.homeTabs';
+const DEFAULT_STATE = {
+  mode: 'market',
+  briefingTab: 'ai',
+  marketTab: 'securities'
+};
+
+const loadHomeState = () => {
+  try {
+    const raw = localStorage.getItem(STORAGE_KEY);
+    if (!raw) return DEFAULT_STATE;
+    const parsed = JSON.parse(raw);
+    return {
+      mode: parsed.mode === 'briefing' ? 'briefing' : 'market',
+      briefingTab:
+        parsed.briefingTab === 'semiconductor' || parsed.briefingTab === 'ev'
+          ? parsed.briefingTab
+          : 'ai',
+      marketTab: parsed.marketTab === 'securities' ? parsed.marketTab : 'securities'
+    };
+  } catch (error) {
+    return DEFAULT_STATE;
+  }
+};
+
 function HomePage() {
-  const [activeTab, setActiveTab] = useState('ai');
-  const { today, weekly, monthly, loading, error } = useMockData(activeTab);
-  const [activePeriodTab, setActivePeriodTab] = useState('weekly');
-  const [selectedWeeklyTopic, setSelectedWeeklyTopic] = useState(null);
-  const [selectedMonthlyTopic, setSelectedMonthlyTopic] = useState(null);
+  const [homeState, setHomeState] = useState(loadHomeState);
+  const { mode, briefingTab, marketTab } = homeState;
 
-  if (loading) {
-    return <div className="loading">데이터를 불러오는 중...</div>;
-  }
+  useEffect(() => {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(homeState));
+  }, [homeState]);
 
-  if (error || !today || !weekly || !monthly) {
-    return <div className="error">데이터를 불러올 수 없습니다.</div>;
-  }
+  const activeTab = useMemo(
+    () => (mode === 'market' ? marketTab : briefingTab),
+    [mode, marketTab, briefingTab]
+  );
 
   return (
     <div className="home-page">
@@ -33,89 +54,90 @@ function HomePage() {
         </div>
       </header>
 
-      {/* 탭 네비게이션 */}
-      <nav className="tab-navigation">
-        <button
-          className={`tab-button ${activeTab === 'ai' ? 'active' : ''}`}
-          onClick={() => {
-            setActiveTab('ai');
-            setSelectedWeeklyTopic(null);
-            setSelectedMonthlyTopic(null);
-            setActivePeriodTab('weekly');
-          }}
-        >
-          🤖 AI
-        </button>
-        <button
-          className={`tab-button ${activeTab === 'semiconductor' ? 'active' : ''}`}
-          onClick={() => {
-            setActiveTab('semiconductor');
-            setSelectedWeeklyTopic(null);
-            setSelectedMonthlyTopic(null);
-            setActivePeriodTab('weekly');
-          }}
-        >
-          🔌 반도체
-        </button>
-        <button
-          className={`tab-button ${activeTab === 'ev' ? 'active' : ''}`}
-          onClick={() => {
-            setActiveTab('ev');
-            setSelectedWeeklyTopic(null);
-            setSelectedMonthlyTopic(null);
-            setActivePeriodTab('weekly');
-          }}
-        >
-          ⚡ 전기차
-        </button>
-      </nav>
-
-      <main className="main-content">
-        {/* 오늘 내용 요약 */}
-        <TodaysSummary data={today} tab={activeTab} />
-
-        {/* 주간/월간 탭 */}
-        <div className="period-tabs-section">
-          <div className="period-tabs">
+      <div className="home-container">
+        <nav className="home-nav-shell">
+          <div className="home-mode-row">
+          <div className="home-mode-label">모드</div>
+          <div className="home-mode-switch">
             <button
-              className={`period-tab ${activePeriodTab === 'weekly' ? 'active' : ''}`}
+              className={`tab-button mode-button ${mode === 'market' ? 'active' : ''}`}
+              title="마켓"
+              aria-label="마켓"
               onClick={() => {
-                setActivePeriodTab('weekly');
-                setSelectedWeeklyTopic(null);
+                setHomeState((prev) => ({ ...prev, mode: 'market' }));
               }}
             >
-              주간 ({weekly.range.from} ~ {weekly.range.to})
+              <span className="mode-icon" aria-hidden>
+                🧭
+              </span>
+              <span className="mode-text">마켓</span>
             </button>
             <button
-              className={`period-tab ${activePeriodTab === 'monthly' ? 'active' : ''}`}
+              className={`tab-button mode-button ${mode === 'briefing' ? 'active' : ''}`}
+              title="브리핑"
+              aria-label="브리핑"
               onClick={() => {
-                setActivePeriodTab('monthly');
-                setSelectedMonthlyTopic(null);
+                setHomeState((prev) => ({ ...prev, mode: 'briefing' }));
               }}
             >
-              월간 ({monthly.range.from} ~ {monthly.range.to})
+              <span className="mode-icon" aria-hidden>
+                📌
+              </span>
+              <span className="mode-text">브리핑</span>
             </button>
           </div>
-
-          {/* 주간 트렌드 */}
-          {activePeriodTab === 'weekly' && (
-            <WeeklyTrends 
-              data={weekly} 
-              selectedTopic={selectedWeeklyTopic}
-              onTopicSelect={setSelectedWeeklyTopic}
-            />
-          )}
-
-          {/* 월간 트렌드 */}
-          {activePeriodTab === 'monthly' && (
-            <MonthlyTrends 
-              data={monthly} 
-              selectedTopic={selectedMonthlyTopic}
-              onTopicSelect={setSelectedMonthlyTopic}
-            />
-          )}
+          <div className="home-mode-status">{mode === 'market' ? '마켓' : '브리핑'}</div>
         </div>
-      </main>
+          <div className="home-nav-divider" />
+          <div className="home-tabs-row">
+            {mode === 'market' ? (
+              <button
+                className={`tab-button ${activeTab === 'securities' ? 'active' : ''}`}
+                onClick={() => {
+                  setHomeState((prev) => ({ ...prev, marketTab: 'securities' }));
+                }}
+              >
+                🏦 증권사 AI
+              </button>
+            ) : (
+              <>
+                <button
+                  className={`tab-button ${activeTab === 'ai' ? 'active' : ''}`}
+                  onClick={() => {
+                    setHomeState((prev) => ({ ...prev, briefingTab: 'ai' }));
+                  }}
+                >
+                  🤖 AI
+                </button>
+                <button
+                  className={`tab-button ${activeTab === 'semiconductor' ? 'active' : ''}`}
+                  onClick={() => {
+                    setHomeState((prev) => ({ ...prev, briefingTab: 'semiconductor' }));
+                  }}
+                >
+                  🔌 반도체
+                </button>
+                <button
+                  className={`tab-button ${activeTab === 'ev' ? 'active' : ''}`}
+                  onClick={() => {
+                    setHomeState((prev) => ({ ...prev, briefingTab: 'ev' }));
+                  }}
+                >
+                  ⚡ 전기차
+                </button>
+              </>
+            )}
+          </div>
+        </nav>
+
+        <main className="main-content">
+          {mode === 'market' ? (
+            <SecuritiesAIMarket />
+          ) : (
+            <IndustryHome tab={activeTab} />
+          )}
+        </main>
+      </div>
     </div>
   );
 }

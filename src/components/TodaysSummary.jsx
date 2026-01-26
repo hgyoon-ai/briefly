@@ -43,44 +43,51 @@ function TodaysSummary({ data, tab = 'ai' }) {
         <div className="news-cards-section">
           <h3>주요 이슈</h3>
           <div className="news-cards">
-            {filteredCards.map((card) => (
-              <a
-                key={card.id}
-                href={card.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="news-card"
-              >
-                <div className="card-source">{card.source}</div>
-                <span className="external-icon" aria-hidden>
-                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M14 3h7v7" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
-                    <path d="M10 14L21 3" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
-                    <path d="M21 21H3V3" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
-                  </svg>
-                </span>
-                <div className="card-title">{card.title}</div>
-                <div className="card-time-below">
-                  {new Date(card.publishedAt).toLocaleTimeString('ko-KR', {
-                    hour: '2-digit',
-                    minute: '2-digit'
-                  })}
-                </div>
-                <div className="card-summary">
-                  {card.summary.map((line, idx) => (
-                    <div key={idx} className="summary-line">• {line}</div>
-                  ))}
-                </div>
-                <div className="card-footer">
-                  <div className="card-why">{card.whyItMatters}</div>
-                  <div className="card-topics">
-                    {card.topics.map((topic) => (
-                      <span key={topic} className="topic-tag">{topic}</span>
+            {filteredCards.map((card) => {
+              const hasLink = Boolean(card.url);
+              const CardTag = hasLink ? 'a' : 'div';
+
+              return (
+                <CardTag
+                  key={card.id}
+                  href={hasLink ? card.url : undefined}
+                  target={hasLink ? "_blank" : undefined}
+                  rel={hasLink ? "noopener noreferrer" : undefined}
+                  className={`news-card ${hasLink ? 'has-link' : ''}`}
+                >
+                  <div className="card-source">{card.source}</div>
+                  {hasLink && (
+                    <span className="external-icon" aria-hidden>
+                      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M14 3h7v7" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+                        <path d="M10 14L21 3" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+                        <path d="M21 21H3V3" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+                      </svg>
+                    </span>
+                  )}
+                  <div className="card-title">{card.title}</div>
+                  <div className="card-time-below">
+                    {new Date(card.publishedAt).toLocaleTimeString('ko-KR', {
+                      hour: '2-digit',
+                      minute: '2-digit'
+                    })}
+                  </div>
+                  <div className="card-summary">
+                    {card.summary.map((line, idx) => (
+                      <div key={idx} className="summary-line">• {line}</div>
                     ))}
                   </div>
-                </div>
-              </a>
-            ))}
+                  <div className="card-footer">
+                    <div className="card-why">{card.whyItMatters}</div>
+                    <div className="card-topics">
+                      {card.topics.map((topic) => (
+                        <span key={topic} className="topic-tag">{topic}</span>
+                      ))}
+                    </div>
+                  </div>
+                </CardTag>
+              );
+            })}
           </div>
         </div>
       )}

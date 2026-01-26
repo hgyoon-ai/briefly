@@ -180,6 +180,11 @@
   min-width: 0;
 }
 
+.news-card.has-link .card-title,
+.news-card.has-link .card-source {
+  padding-right: 28px;
+}
+
 .news-card:hover {
   transform: translateY(-2px);
   box-shadow: 0 4px 12px rgba(255, 107, 157, 0.2);

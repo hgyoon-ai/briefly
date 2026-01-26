@@ -1,7 +1,7 @@
 .admin-page {
-  max-width: 1200px;
+  max-width: 900px;
   margin: 0 auto;
-  padding: 16px;
+  padding: 0 12px 24px;
 }
 
 .admin-header {
@@ -10,19 +10,77 @@
   border-bottom: 2px solid #ff6b9d;
 }
 
-.tab-navigation {
+/* 관리자 네비게이션 */
+.admin-nav-shell {
   display: flex;
-  gap: 10px;
-  padding: 12px;
-  max-width: 600px;
+  flex-direction: column;
+  gap: 12px;
+  padding: 14px 12px;
+  width: 100%;
+  max-width: 900px;
   margin: 0 auto 20px;
+  background: rgba(255, 255, 255, 0.5);
+  backdrop-filter: blur(10px);
+  border-radius: 20px;
+  border: 1px solid rgba(255, 190, 210, 0.4);
+  box-shadow: 0 10px 22px rgba(255, 107, 157, 0.1);
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.admin-nav-shell::-webkit-scrollbar {
+  display: none;
+}
+
+.admin-mode-row {
+  display: flex;
+  align-items: center;
   justify-content: center;
-  flex-wrap: wrap;
-  background: rgba(255, 255, 255, 0.4);
-  backdrop-filter: blur(8px);
-  border-radius: 18px;
-  border: 1px solid rgba(255, 190, 210, 0.45);
-  box-shadow: 0 8px 20px rgba(255, 107, 157, 0.08);
+  gap: 12px;
+}
+
+.admin-mode-label {
+  font-size: 12px;
+  font-weight: 700;
+  color: #8b7b7b;
+  letter-spacing: 0.4px;
+}
+
+.admin-mode-switch {
+  display: inline-flex;
+  gap: 6px;
+  padding: 4px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(255, 190, 210, 0.35);
+}
+
+.admin-mode-status {
+  font-size: 12px;
+  font-weight: 700;
+  color: #c95b7a;
+  background: rgba(255, 107, 157, 0.12);
+  padding: 4px 10px;
+  border-radius: 999px;
+}
+
+.admin-nav-divider {
+  width: 100%;
+  height: 1px;
+  background: linear-gradient(90deg, rgba(255, 107, 157, 0.12), rgba(255, 165, 0, 0.18), rgba(255, 107, 157, 0.12));
+}
+
+.admin-tabs-row {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 10px;
+  justify-content: center;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.admin-tabs-row::-webkit-scrollbar {
+  display: none;
 }
 
 .tab-button {
@@ -39,6 +97,7 @@
   cursor: pointer;
   transition: all 0.3s ease;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
+  white-space: nowrap;
 }
 
 .tab-button:hover {
@@ -102,6 +161,112 @@
   display: flex;
   flex-direction: column;
   gap: 20px;
+}
+
+.admin-section-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.admin-month-select {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 12px;
+  color: #7a6a6a;
+  font-weight: 600;
+}
+
+.admin-month-select select {
+  border: 1px solid rgba(255, 107, 157, 0.2);
+  border-radius: 10px;
+  padding: 6px 10px;
+  font-size: 12px;
+  background: white;
+  color: #3a2d2d;
+}
+
+.admin-list {
+  display: grid;
+  gap: 12px;
+}
+
+.admin-list-item {
+  background: #fff;
+  border-radius: 12px;
+  padding: 14px;
+  border: 1px solid rgba(255, 107, 157, 0.12);
+  box-shadow: 0 2px 8px rgba(255, 107, 157, 0.08);
+}
+
+.admin-list-item.compact {
+  padding: 10px 12px;
+  border-radius: 10px;
+}
+
+.admin-list-meta {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  font-size: 12px;
+  color: #8b7b7b;
+  margin-bottom: 6px;
+}
+
+.admin-list-title {
+  font-size: 14px;
+  font-weight: 700;
+  color: #2d2525;
+  margin-bottom: 6px;
+}
+
+.admin-list-summary {
+  font-size: 12px;
+  color: #6f5f5f;
+  line-height: 1.4;
+}
+
+.admin-issue-grid {
+  display: grid;
+  gap: 12px;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+}
+
+.admin-issue-card {
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 12px;
+  padding: 12px;
+  border: 1px solid rgba(255, 190, 210, 0.35);
+  box-shadow: 0 6px 14px rgba(255, 107, 157, 0.08);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.admin-issue-title {
+  font-size: 13px;
+  font-weight: 700;
+  color: #2d2525;
+}
+
+.admin-issue-count {
+  font-size: 12px;
+  color: #c95b7a;
+  font-weight: 700;
+  background: rgba(255, 107, 157, 0.12);
+  padding: 4px 8px;
+  border-radius: 10px;
+  align-self: flex-start;
+}
+
+.admin-empty {
+  font-size: 12px;
+  color: #8b7b7b;
+  text-align: center;
+  padding: 12px 0;
 }
 
 /* 통계 섹션 */
@@ -226,7 +391,7 @@
 /* 반응형 */
 @media (max-width: 768px) {
   .admin-page {
-    padding: 12px;
+    padding: 0 12px 20px;
   }
 
   .admin-header h1 {
@@ -254,4 +419,111 @@
     gap: 4px;
     font-size: 11px;
   }
+  .admin-nav-shell {
+    max-width: 100%;
+    margin: 0 0 16px;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: nowrap;
+    gap: 10px;
+  }
+
+  .admin-mode-row {
+    flex: 0 0 auto;
+    justify-content: flex-start;
+  }
+
+  .admin-mode-label {
+    display: none;
+  }
+
+  .admin-nav-divider {
+    width: 1px;
+    height: 28px;
+    background: linear-gradient(180deg, rgba(255, 107, 157, 0.12), rgba(255, 165, 0, 0.18), rgba(255, 107, 157, 0.12));
+  }
+
+  .admin-tabs-row {
+    flex: 0 0 auto;
+    justify-content: flex-start;
+    overflow: visible;
+  }
+
+  .mode-text {
+    display: none;
+  }
+
+  .admin-mode-status {
+    display: inline-flex;
+  }
+
+  .admin-section-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+@media (min-width: 769px) {
+  .admin-page {
+    padding: 0 24px 32px;
+  }
+
+  .admin-nav-shell {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 24px;
+    max-width: 900px;
+    margin: 0 auto 24px;
+    overflow: visible;
+  }
+
+  .admin-mode-row {
+    flex: 0 0 auto;
+    gap: 14px;
+    justify-content: flex-start;
+  }
+
+  .admin-tabs-row {
+    justify-content: flex-end;
+    flex: 1;
+    overflow: visible;
+  }
+
+  .admin-nav-divider {
+    width: 1px;
+    height: 32px;
+    background: linear-gradient(180deg, rgba(255, 107, 157, 0.12), rgba(255, 165, 0, 0.18), rgba(255, 107, 157, 0.12));
+  }
+
+  .admin-mode-label {
+    display: none;
+  }
+}
+.mode-button {
+  padding: 6px 10px;
+  font-size: 12px;
+  font-weight: 700;
+  border-radius: 999px;
+  box-shadow: none;
+  border: 1px solid transparent;
+  background: transparent;
+  color: #6a5a5a;
+  gap: 6px;
+}
+
+.mode-button.active {
+  background: rgba(255, 107, 157, 0.12);
+  color: #c95b7a;
+  border-color: rgba(255, 107, 157, 0.4);
+  box-shadow: none;
+}
+
+.mode-icon {
+  font-size: 14px;
+  line-height: 1;
+}
+
+.mode-text {
+  display: none;
 }

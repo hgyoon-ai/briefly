@@ -54,20 +54,81 @@
   opacity: 0.95;
 }
 
-/* 탭 네비게이션 */
-.tab-navigation {
-  display: flex;
-  gap: 10px;
-  padding: 12px 12px;
+/* 홈 네비게이션 */
+.home-container {
   max-width: 600px;
   margin: 0 auto;
+  padding: 0 12px;
+}
+
+.home-nav-shell {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 14px 12px;
+  width: 100%;
+  overflow-x: auto;
+  background: rgba(255, 255, 255, 0.5);
+  backdrop-filter: blur(10px);
+  border-radius: 20px;
+  border: 1px solid rgba(255, 190, 210, 0.4);
+  box-shadow: 0 10px 22px rgba(255, 107, 157, 0.1);
+  scrollbar-width: none;
+}
+
+.home-nav-shell::-webkit-scrollbar {
+  display: none;
+}
+
+.home-mode-row {
+  display: flex;
+  align-items: center;
   justify-content: center;
-  flex-wrap: wrap;
-  background: rgba(255, 255, 255, 0.4);
-  backdrop-filter: blur(8px);
-  border-radius: 18px;
-  border: 1px solid rgba(255, 190, 210, 0.45);
-  box-shadow: 0 8px 20px rgba(255, 107, 157, 0.08);
+  gap: 12px;
+}
+
+.home-mode-label {
+  font-size: 12px;
+  font-weight: 700;
+  color: #8b7b7b;
+  letter-spacing: 0.4px;
+}
+
+.home-mode-switch {
+  display: inline-flex;
+  gap: 6px;
+  padding: 4px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(255, 190, 210, 0.35);
+}
+
+.home-mode-status {
+  font-size: 12px;
+  font-weight: 700;
+  color: #c95b7a;
+  background: rgba(255, 107, 157, 0.12);
+  padding: 4px 10px;
+  border-radius: 999px;
+}
+
+.home-nav-divider {
+  width: 100%;
+  height: 1px;
+  background: linear-gradient(90deg, rgba(255, 107, 157, 0.12), rgba(255, 165, 0, 0.18), rgba(255, 107, 157, 0.12));
+}
+
+.home-tabs-row {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 10px;
+  justify-content: center;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.home-tabs-row::-webkit-scrollbar {
+  display: none;
 }
 
 .tab-button {
@@ -84,6 +145,35 @@
   cursor: pointer;
   transition: all 0.3s ease;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
+  white-space: nowrap;
+}
+
+.mode-button {
+  padding: 6px 10px;
+  font-size: 12px;
+  font-weight: 700;
+  border-radius: 999px;
+  box-shadow: none;
+  border: 1px solid transparent;
+  background: transparent;
+  color: #6a5a5a;
+  gap: 6px;
+}
+
+.mode-button.active {
+  background: rgba(255, 107, 157, 0.12);
+  color: #c95b7a;
+  border-color: rgba(255, 107, 157, 0.4);
+  box-shadow: none;
+}
+
+.mode-icon {
+  font-size: 14px;
+  line-height: 1;
+}
+
+.mode-text {
+  display: none;
 }
 
 .tab-button:hover:not(.disabled) {
@@ -113,9 +203,7 @@
 }
 
 .main-content {
-  max-width: 600px;
-  margin: 0 auto;
-  padding: 20px 12px;
+  padding: 20px 0;
 }
 
 /* 주간/월간 탭 */
@@ -183,18 +271,77 @@
     font-size: 40px;
   }
 
-  .tab-navigation {
-    padding: 14px 16px;
+  .home-container {
     max-width: 900px;
+    padding: 0 24px;
+  }
+
+  .home-nav-shell {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 24px;
+    overflow: visible;
+  }
+
+  .home-mode-row {
+    flex: 0 0 auto;
+    gap: 14px;
+    justify-content: flex-start;
+  }
+
+  .home-tabs-row {
+    justify-content: flex-end;
+    flex: 1;
+    overflow: visible;
+  }
+
+  .home-nav-divider {
+    width: 1px;
+    height: 32px;
+    background: linear-gradient(180deg, rgba(255, 107, 157, 0.12), rgba(255, 165, 0, 0.18), rgba(255, 107, 157, 0.12));
+  }
+
+  .home-mode-label {
+    display: none;
   }
 
   .main-content {
-    max-width: 900px;
-    padding: 32px 24px;
+    padding: 32px 0;
   }
 
   .period-tab {
     font-size: 15px;
+  }
+}
+
+@media (max-width: 767px) {
+  .home-nav-shell {
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: nowrap;
+    gap: 10px;
+  }
+
+  .home-mode-row {
+    flex: 0 0 auto;
+    justify-content: flex-start;
+  }
+
+  .home-mode-label {
+    display: none;
+  }
+
+  .home-nav-divider {
+    width: 1px;
+    height: 28px;
+    background: linear-gradient(180deg, rgba(255, 107, 157, 0.12), rgba(255, 165, 0, 0.18), rgba(255, 107, 157, 0.12));
+  }
+
+  .home-tabs-row {
+    flex: 0 0 auto;
+    justify-content: flex-start;
+    overflow: visible;
   }
 }
 
