@@ -18,19 +18,19 @@
   margin: 0 auto 20px;
   justify-content: center;
   flex-wrap: wrap;
-  background: rgba(255, 255, 255, 0.5);
-  backdrop-filter: blur(10px);
-  border-radius: 999px;
-  border: 1px solid rgba(255, 255, 255, 0.65);
-  box-shadow: 0 10px 30px rgba(255, 107, 157, 0.08);
+  background: rgba(255, 255, 255, 0.4);
+  backdrop-filter: blur(8px);
+  border-radius: 18px;
+  border: 1px solid rgba(255, 190, 210, 0.45);
+  box-shadow: 0 8px 20px rgba(255, 107, 157, 0.08);
 }
 
 .tab-button {
   display: inline-flex;
   align-items: center;
-  gap: 8px;
-  padding: 10px 18px;
-  border: 1px solid rgba(255, 107, 157, 0.12);
+  gap: 10px;
+  padding: 9px 18px;
+  border: 1px solid rgba(255, 107, 157, 0.18);
   border-radius: 20px;
   background: rgba(255, 255, 255, 0.85);
   color: #3a2d2d;
@@ -38,12 +38,12 @@
   font-weight: 600;
   cursor: pointer;
   transition: all 0.3s ease;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
 }
 
 .tab-button:hover {
   transform: translateY(-2px);
-  box-shadow: 0 6px 14px rgba(255, 107, 157, 0.2);
+  box-shadow: 0 6px 12px rgba(255, 107, 157, 0.18);
   border-color: rgba(255, 107, 157, 0.4);
 }
 
@@ -51,7 +51,7 @@
   background: linear-gradient(135deg, #ff6b9d 0%, #ffa500 100%);
   color: white;
   border-color: transparent;
-  box-shadow: 0 8px 18px rgba(255, 107, 157, 0.3);
+  box-shadow: 0 6px 14px rgba(255, 107, 157, 0.25);
 }
 
 .admin-header-content {

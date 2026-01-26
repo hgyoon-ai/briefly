@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import '../styles/AdminPage.css';
 import useMockData from '../hooks/useMockData';
+import { ADMIN_ICON } from '../constants/ui';
 
 function AdminPage() {
   const [activeTab, setActiveTab] = useState('ai');
@@ -62,7 +63,7 @@ function AdminPage() {
         <div className="admin-header-content">
           <h1>✨ 관리자 페이지</h1>
           <Link to="/" className="back-link" title="홈으로">
-            <span>✨</span>
+            <span>{ADMIN_ICON}</span>
           </Link>
         </div>
         {today && (

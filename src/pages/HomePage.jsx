@@ -5,6 +5,7 @@ import TodaysSummary from '../components/TodaysSummary';
 import WeeklyTrends from '../components/WeeklyTrends';
 import MonthlyTrends from '../components/MonthlyTrends';
 import useMockData from '../hooks/useMockData';
+import { ADMIN_ICON } from '../constants/ui';
 
 function HomePage() {
   const [activeTab, setActiveTab] = useState('ai');
@@ -27,7 +28,7 @@ function HomePage() {
         <div className="header-content">
           <h1>Briefly</h1>
           <Link to="/admin" className="admin-link" title="관리자 페이지">
-            <span>⚡</span>
+            <span>{ADMIN_ICON}</span>
           </Link>
         </div>
       </header>
