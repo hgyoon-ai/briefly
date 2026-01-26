@@ -16,6 +16,7 @@ from crawler.config import (
     WEEKLY_DAYS,
 )
 from crawler.fetchers.huggingface import fetch_huggingface_trending
+from crawler.fetchers.hn import fetch_hacker_news_trending
 from crawler.fetchers.rss import fetch_rss_sources
 from crawler.llm.openai_client import summarize_item, summarize_issues
 from crawler.processor.aggregate import (
@@ -34,9 +35,11 @@ def load_items():
     timezone = TIMEZONE
     rss_items = fetch_rss_sources(RSS_SOURCES, timezone)
     hf_items = fetch_huggingface_trending(timezone)
+    hn_items = fetch_hacker_news_trending(timezone)
     print(f"RSS items: {len(rss_items)}")
     print(f"Hugging Face models: {len(hf_items)}")
-    return rss_items + hf_items
+    print(f"Hacker News items: {len(hn_items)}")
+    return rss_items + hf_items + hn_items
 
 
 def enrich_items(items):
@@ -64,10 +67,11 @@ def clamp_total(items):
 
 
 def build_daily_payload(items, raw_count, now, tab="ai"):
+    selected = select_diverse_by_source(items, max_total=5, max_per_source=2)
     daily = {
         "date": now.strftime("%Y-%m-%d"),
         "highlights": build_daily_summary(items, raw_count),
-        "cards": build_cards(items[:5], tab=tab),
+        "cards": build_cards(selected, tab=tab),
     }
     return daily
 
@@ -101,6 +105,21 @@ def pick_diverse_items(items, max_items=8):
             continue
         selected.append(item)
         if len(selected) >= max_items:
+            break
+    return selected
+
+
+def select_diverse_by_source(items, max_total=5, max_per_source=2):
+    selected = []
+    counts = {}
+    for item in items:
+        source = item.get("source") or "Unknown"
+        current = counts.get(source, 0)
+        if current >= max_per_source:
+            continue
+        selected.append(item)
+        counts[source] = current + 1
+        if len(selected) >= max_total:
             break
     return selected
 

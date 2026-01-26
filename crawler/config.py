@@ -9,10 +9,12 @@ MONTHLY_DAYS = 30
 MAX_RSS_ITEMS = 15
 MAX_HF_ITEMS = 30
 MAX_TOTAL_ITEMS = 150
+MAX_HN_ITEMS = 15
 
 MAX_PER_SOURCE = {
   "rss": MAX_RSS_ITEMS,
   "huggingface": MAX_HF_ITEMS,
+  "hn": MAX_HN_ITEMS,
   "total": MAX_TOTAL_ITEMS,
 }
 
@@ -190,6 +192,11 @@ RSS_SOURCES = [
 ]
 
 HF_TRENDING_URL = "https://huggingface.co/api/models"
+
+HN_API_URL = "https://hn.algolia.com/api/v1/search"
+HN_WINDOW_HOURS = 24
+HN_POINTS_MIN = 30
+HN_COMMENTS_MIN = 20
 
 PUBLIC_LATEST_DIR = Path("public/latest")
 ARCHIVE_DIR = Path("archive")
