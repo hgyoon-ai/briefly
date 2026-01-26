@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import IssueModal from './IssueModal';
 import TopIssues from './TopIssues';
+import { getTopicTooltip } from '../utils/topicTooltips';
 import '../styles/MonthlyTrends.css';
 
 function MonthlyTrends({ data, selectedTopic, onTopicSelect }) {
@@ -58,6 +59,10 @@ function MonthlyTrends({ data, selectedTopic, onTopicSelect }) {
                             const percentage = topicPercentages[topic];
                             const segmentId = `${idx}-${topic}`;
                             const isHovered = hoveredSegment === segmentId;
+                            const tooltip = getTopicTooltip(topic);
+                            const segmentTitle = tooltip
+                              ? `${topic}: ${tooltip} (${percentage}%)`
+                              : `${topic} (${percentage}%)`;
                             
                             return (
                               <div
@@ -69,7 +74,7 @@ function MonthlyTrends({ data, selectedTopic, onTopicSelect }) {
                                   opacity: percentage > 0 ? 1 : 0.3,
                                   minWidth: percentage > 3 ? 'auto' : '0'
                                 }}
-                                title={`${topic} (${percentage}%)`}
+                                title={segmentTitle}
                                 onMouseEnter={() => setHoveredSegment(segmentId)}
                                 onMouseLeave={() => setHoveredSegment(null)}
                                 onTouchStart={(e) => {
@@ -99,7 +104,7 @@ function MonthlyTrends({ data, selectedTopic, onTopicSelect }) {
                   {/* 범례 */}
                   <div className="chart-legend">
                     {[...topicArray, 'Other'].map((topic, idx) => (
-                      <div key={topic} className="legend-item">
+                      <div key={topic} className="legend-item" title={getTopicTooltip(topic) || topic}>
                         <div
                           className="legend-color"
                           style={{ backgroundColor: colors[idx] }}

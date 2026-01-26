@@ -53,7 +53,7 @@ pip install -r requirements.txt
 cp .env.example .env
 ```
 
-`.env`에 `OPENAI_API_KEY`, `MY_GITHUB_TOKEN`을 채워주세요.
+`.env`에 `OPENAI_API_KEY`를 채워주세요.
 
 ### 2. 개발 서버 실행
 ```bash

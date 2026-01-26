@@ -28,7 +28,6 @@ jobs:
       - name: Check OpenAI connection
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          MY_GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
         run: python3 -m scripts.check_openai_connection
 
   crawl:
@@ -51,7 +50,6 @@ jobs:
       - name: Run pipeline
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          MY_GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
         run: python3 -m scripts.run_pipeline
 
       - name: Commit updates

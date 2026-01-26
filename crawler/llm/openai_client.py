@@ -11,34 +11,105 @@ from ..config import (
     OPENAI_ITEM_MODEL,
     OPENAI_TEMPERATURE_ISSUE,
     OPENAI_TEMPERATURE_ITEM,
+    TOPIC_TAXONOMY,
 )
 from ..utils import normalize_text
 
 
-KEYWORDS = {
-    "agent": "Agent",
-    "rag": "RAG",
-    "tool": "Tool Use",
-    "function": "Function Calling",
-    "benchmark": "Benchmark",
-    "multimodal": "Multimodal",
-    "vision": "Multimodal",
-    "audio": "Multimodal",
+TOPIC_KEYWORDS = {
+    "model": "Models",
+    "llm": "Models",
+    "foundation model": "Models",
+    "training": "Training",
+    "train": "Training",
+    "finetune": "Training",
+    "fine-tuning": "Training",
+    "pretrain": "Training",
     "inference": "Inference",
-    "eval": "Evaluation",
-    "fine-tuning": "Fine-tuning",
-    "finetune": "Fine-tuning",
-    "alignment": "Alignment",
+    "serving": "Inference",
+    "latency": "Inference",
+    "throughput": "Inference",
+    "quantization": "Inference",
+    "tool": "Tooling",
+    "agent": "Tooling",
+    "rag": "Tooling",
+    "sdk": "Tooling",
+    "workflow": "Tooling",
+    "platform": "Tooling",
+    "infra": "Infra",
+    "gpu": "Infra",
+    "accelerator": "Infra",
+    "hardware": "Infra",
+    "cloud": "Infra",
+    "datacenter": "Infra",
+    "safety": "Safety",
+    "alignment": "Safety",
+    "policy": "Safety",
+    "regulation": "Safety",
+    "security": "Safety",
+    "privacy": "Safety",
+    "research": "Research",
+    "paper": "Research",
+    "benchmark": "Research",
+    "evaluation": "Research",
+    "eval": "Research",
+    "product": "Product",
+    "release": "Product",
+    "launch": "Product",
+    "feature": "Product",
+    "business": "Business",
+    "partnership": "Business",
+    "investment": "Business",
+    "funding": "Business",
+    "acquisition": "Business",
+    "merger": "Business",
+    "data": "Data",
+    "dataset": "Data",
+    "licensing": "Data",
 }
 
 
-def default_topics(text):
+def map_topics_from_text(text):
     lowered = text.lower()
     found = []
-    for key, label in KEYWORDS.items():
+    for key, label in TOPIC_KEYWORDS.items():
         if key in lowered and label not in found:
             found.append(label)
-    return found or ["AI"]
+    return found
+
+
+def default_topics(text):
+    topics = map_topics_from_text(text)
+    return topics or ["Models"]
+
+
+def normalize_topic(topic):
+    if not topic:
+        return None
+    cleaned = normalize_text(topic).lower()
+    for category in TOPIC_TAXONOMY:
+        if cleaned == category.lower():
+            return category
+    for category in TOPIC_TAXONOMY:
+        if category.lower() in cleaned:
+            return category
+    for key, label in TOPIC_KEYWORDS.items():
+        if key in cleaned:
+            return label
+    return None
+
+
+def normalize_topics(topics, fallback_text):
+    normalized = []
+    for topic in topics or []:
+        mapped = normalize_topic(topic)
+        if mapped and mapped not in normalized:
+            normalized.append(mapped)
+    if not normalized:
+        normalized = map_topics_from_text(fallback_text)
+    if not normalized:
+        normalized = ["Models"]
+    return normalized[:5]
 
 
 def fallback_summary(item):
@@ -129,11 +200,14 @@ def summarize_item(item, model=None):
             model_name = OPENAI_ITEM_MODEL_LONG
         else:
             model_name = OPENAI_ITEM_MODEL_SHORT or OPENAI_ITEM_MODEL
+    topic_list = ", ".join(TOPIC_TAXONOMY)
     prompt = (
         "AI 제품/개발 업데이트를 요약하는 분석가입니다. "
         "한국어로만 응답하세요. JSON만 반환하세요. "
         "키: summary(짧은 문장 3개 배열), why(한 문장), topics(2-5개 태그), "
         "status(NEW|ONGOING|SHIFTING), importanceScore(1-10 정수). "
+        "topics는 반드시 다음 목록에서만 선택하세요: "
+        f"{topic_list}. "
         "importanceScore는 중요도/영향도를 반영하세요. "
         f"Input: {json.dumps(payload, ensure_ascii=False)}"
     )
@@ -158,10 +232,14 @@ def summarize_item(item, model=None):
         result = json.loads(extracted)
         if not isinstance(result.get("summary"), list):
             raise ValueError("Invalid summary")
+        topics = normalize_topics(
+            result.get("topics"),
+            f"{payload.get('title', '')} {payload.get('snippet', '')}",
+        )
         return {
             "summary": result.get("summary")[:3],
             "why": result.get("why") or "",
-            "topics": result.get("topics") or default_topics(payload["title"]),
+            "topics": topics,
             "status": result.get("status") or "NEW",
             "importanceScore": int(result.get("importanceScore") or 5),
         }

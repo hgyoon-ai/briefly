@@ -8,13 +8,16 @@ from crawler.utils import make_hash, normalize_text
 
 
 TOPICS = [
-    "Agent",
-    "RAG",
-    "Tool Use",
-    "Benchmark",
-    "Multimodal",
+    "Models",
+    "Training",
     "Inference",
-    "Evaluation",
+    "Tooling",
+    "Infra",
+    "Safety",
+    "Research",
+    "Product",
+    "Business",
+    "Data",
 ]
 
 STATUSES = ["NEW", "ONGOING", "SHIFTING"]

@@ -1,6 +1,7 @@
 import React, { useRef, useEffect, useState } from 'react';
 import IssueModal from './IssueModal';
 import TopIssues from './TopIssues';
+import { getTopicTooltip } from '../utils/topicTooltips';
 import '../styles/WeeklyTrends.css';
 
 function WeeklyTrends({ data, selectedTopic, onTopicSelect }) {
@@ -64,6 +65,10 @@ function WeeklyTrends({ data, selectedTopic, onTopicSelect }) {
               <button
                 key={idx}
                 className={`topic-badge ${selectedTopic === topic.name ? 'active' : ''}`}
+                title={(() => {
+                  const tooltip = getTopicTooltip(topic.name);
+                  return tooltip ? `${topic.name}: ${tooltip}` : topic.name;
+                })()}
                 onClick={() => {
                   setIsUserInitiated(true);
                   onTopicSelect(selectedTopic === topic.name ? null : topic.name);

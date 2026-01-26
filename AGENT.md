@@ -24,17 +24,16 @@ Briefly는 AI/반도체/EV 등 산업 트렌드를 일간·주간·월간 이슈
 - 테스트용 아카이브 생성: `scripts/generate_test_archives.py`
 - Python 의존성: `requirements.txt`
 - LLM 요약: OpenAI (환경 변수 `OPENAI_API_KEY` 필요)
-- GitHub API: `MY_GITHUB_TOKEN` 사용 가능 (rate limit 완화)
 - 환경 변수 로딩: `.env` (python-dotenv)
 
 ## 3-2. 크롤링 소스 (최소 셋업)
 - OpenAI Blog, Anthropic Blog, Google DeepMind Blog, Meta AI Blog
 - Microsoft Research Blog, NVIDIA Developer Blog, Hugging Face Blog, PyTorch Blog
-- GitHub Releases (동적 검색)
+- Mistral AI Blog, Cohere Blog, Stability AI News
 - Hugging Face Hub Trending
 
 ## 3-3. 수집 제한 및 윈도우
-- 소스별 수집 제한: RSS 15 / GitHub 40 / HF 30 (총 150)
+- 소스별 수집 제한: RSS 15 / HF 30 (총 150)
 - 롤링 윈도우: daily 24h / weekly 7d / monthly 30d
 - 타임존: KST 기준
  - Weekly/Monthly: daily 아카이브 기반 + 중요도(importanceScore) 가중치 반영

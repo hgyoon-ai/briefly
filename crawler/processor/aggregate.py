@@ -1,7 +1,7 @@
 from collections import Counter, defaultdict
 from datetime import datetime, timedelta
 
-from ..config import GITHUB_IMPORTANCE_PENALTY, HF_IMPORTANCE_PENALTY
+from ..config import HF_IMPORTANCE_PENALTY
 from ..utils import day_label, format_date, make_hash, normalize_text
 
 
@@ -14,8 +14,6 @@ def build_top_topics(items, limit=4):
     scores = Counter()
     for item in items:
         weight = item.get("importanceScore") or 1
-        if item.get("kind") == "github" or str(item.get("source", "")).startswith("GitHub/"):
-            weight = max(1, weight - GITHUB_IMPORTANCE_PENALTY)
         if item.get("kind") == "huggingface" or item.get("source") == "Hugging Face Hub":
             weight = max(1, weight - HF_IMPORTANCE_PENALTY)
         for topic in item.get("topics", []):

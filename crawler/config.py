@@ -7,15 +7,13 @@ WEEKLY_DAYS = 7
 MONTHLY_DAYS = 30
 
 MAX_RSS_ITEMS = 15
-MAX_GITHUB_ITEMS = 40
 MAX_HF_ITEMS = 30
 MAX_TOTAL_ITEMS = 150
 
 MAX_PER_SOURCE = {
-    "rss": MAX_RSS_ITEMS,
-    "github": MAX_GITHUB_ITEMS,
-    "huggingface": MAX_HF_ITEMS,
-    "total": MAX_TOTAL_ITEMS,
+  "rss": MAX_RSS_ITEMS,
+  "huggingface": MAX_HF_ITEMS,
+  "total": MAX_TOTAL_ITEMS,
 }
 
 OPENAI_ITEM_MODEL = "gpt-5-mini"
@@ -26,8 +24,20 @@ OPENAI_ITEM_MODEL_SHORT = "gpt-5-mini"
 OPENAI_ITEM_MODEL_LONG = "gpt-5.1"
 OPENAI_ITEM_MODEL_THRESHOLD = 600
 
-GITHUB_IMPORTANCE_PENALTY = 2
 HF_IMPORTANCE_PENALTY = 2
+
+TOPIC_TAXONOMY = [
+  "Models",
+  "Training",
+  "Inference",
+  "Tooling",
+  "Infra",
+  "Safety",
+  "Research",
+  "Product",
+  "Business",
+  "Data",
+]
 
 OPENAI_TEMPERATURE_ITEM = None
 OPENAI_TEMPERATURE_ISSUE = None
@@ -70,22 +80,26 @@ RSS_SOURCES = [
         "tab": "ai",
     },
     {
-        "name": "PyTorch Blog",
-        "url": "https://pytorch.org/feed.xml",
-        "tab": "ai",
+      "name": "PyTorch Blog",
+      "url": "https://pytorch.org/feed.xml",
+      "tab": "ai",
     },
-]
-
-GITHUB_KEYWORDS = [
-    "agent",
-    "rag",
-    "llm",
-    "inference",
-    "transformer",
-    "vector",
-    "eval",
-    "multimodal",
-]
+    {
+      "name": "Mistral AI Blog",
+      "url": "https://mistral.ai/news/rss.xml",
+      "tab": "ai",
+    },
+    {
+      "name": "Cohere Blog",
+      "url": "https://cohere.com/blog/rss.xml",
+      "tab": "ai",
+    },
+    {
+      "name": "Stability AI News",
+      "url": "https://stability.ai/news/rss.xml",
+      "tab": "ai",
+    },
+  ]
 
 HF_TRENDING_URL = "https://huggingface.co/api/models"
 

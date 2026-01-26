@@ -14,7 +14,6 @@ from crawler.config import (
     TIMEZONE,
     WEEKLY_DAYS,
 )
-from crawler.fetchers.github import fetch_github_releases
 from crawler.fetchers.huggingface import fetch_huggingface_trending
 from crawler.fetchers.rss import fetch_rss_sources
 from crawler.llm.openai_client import summarize_item, summarize_issues
@@ -33,12 +32,10 @@ from crawler.writer import write_archive, write_latest
 def load_items():
     timezone = TIMEZONE
     rss_items = fetch_rss_sources(RSS_SOURCES, timezone)
-    github_items = fetch_github_releases(timezone)
     hf_items = fetch_huggingface_trending(timezone)
     print(f"RSS items: {len(rss_items)}")
-    print(f"GitHub releases: {len(github_items)}")
     print(f"Hugging Face models: {len(hf_items)}")
-    return rss_items + github_items + hf_items
+    return rss_items + hf_items
 
 
 def enrich_items(items):
