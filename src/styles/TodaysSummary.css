@@ -56,6 +56,13 @@
   border-left: 4px solid #ffa500;
 }
 
+.three-line-summary.is-empty {
+  background: transparent;
+  box-shadow: none;
+  border-left: none;
+  padding: 0;
+}
+
 .three-line-summary h3 {
   margin: 0 0 16px 0;
   font-size: 14px;

@@ -22,7 +22,7 @@ function TodaysSummary({ data, tab = 'ai' }) {
       {/* 3줄 요약 - Highlights */}
       <div className="news-cards-section">
         <h3>핵심 내용</h3>
-        <div className="three-line-summary">
+        <div className={`three-line-summary ${!hasCards ? 'is-empty' : ''}`}>
           {!hasCards ? (
             <EmptyState />
           ) : (

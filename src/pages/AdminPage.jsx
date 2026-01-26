@@ -62,7 +62,7 @@ function AdminPage() {
         <div className="admin-header-content">
           <h1>✨ 관리자 페이지</h1>
           <Link to="/" className="back-link" title="홈으로">
-            <span>⚡</span>
+            <span>✨</span>
           </Link>
         </div>
         {today && (

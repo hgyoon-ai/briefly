@@ -20,14 +20,20 @@
   flex-wrap: wrap;
   background: rgba(255, 255, 255, 0.5);
   backdrop-filter: blur(10px);
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.65);
+  box-shadow: 0 10px 30px rgba(255, 107, 157, 0.08);
 }
 
 .tab-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
   padding: 10px 18px;
-  border: 2px solid transparent;
+  border: 1px solid rgba(255, 107, 157, 0.12);
   border-radius: 20px;
-  background: white;
-  color: #333;
+  background: rgba(255, 255, 255, 0.85);
+  color: #3a2d2d;
   font-size: 13px;
   font-weight: 600;
   cursor: pointer;
@@ -37,13 +43,15 @@
 
 .tab-button:hover {
   transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(255, 107, 157, 0.2);
+  box-shadow: 0 6px 14px rgba(255, 107, 157, 0.2);
+  border-color: rgba(255, 107, 157, 0.4);
 }
 
 .tab-button.active {
   background: linear-gradient(135deg, #ff6b9d 0%, #ffa500 100%);
   color: white;
-  border-color: #ff6b9d;
+  border-color: transparent;
+  box-shadow: 0 8px 18px rgba(255, 107, 157, 0.3);
 }
 
 .admin-header-content {
