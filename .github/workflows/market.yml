@@ -1,0 +1,57 @@
+name: Crawl market data
+
+on:
+  schedule:
+    - cron: "0 22 * * *"
+  workflow_dispatch:
+    inputs:
+      lookback_days:
+        description: "Lookback days for market crawl"
+        required: false
+        default: "3"
+      month:
+        description: "Specific month (YYYY-MM) to backfill"
+        required: false
+
+permissions:
+  contents: write
+
+jobs:
+  market:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run market pipeline
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          DART_API_KEY: ${{ secrets.DART_API_KEY }}
+        run: |
+          MONTH="${{ github.event.inputs.month }}"
+          LOOKBACK="${{ github.event.inputs.lookback_days }}"
+          if [ -n "$MONTH" ]; then
+            python3 -m scripts.run_market_pipeline --month "$MONTH"
+          else
+            if [ -z "$LOOKBACK" ]; then LOOKBACK=3; fi
+            python3 -m scripts.run_market_pipeline --lookback-days "$LOOKBACK"
+          fi
+
+      - name: Commit updates
+        run: |
+          git status --porcelain
+          if [ -n "$(git status --porcelain)" ]; then
+            git add public/market archive/market
+            git -c user.name="github-actions[bot]" -c user.email="github-actions[bot]@users.noreply.github.com" commit -m "Update market data $(date +'%Y-%m-%d')"
+            git push
+          fi
