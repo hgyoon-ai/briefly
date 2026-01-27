@@ -91,14 +91,14 @@ function HomePage() {
           <div className="home-nav-divider" />
           <div className="home-tabs-row">
             {mode === 'market' ? (
-              <button
-                className={`tab-button ${activeTab === 'securities' ? 'active' : ''}`}
-                onClick={() => {
-                  setHomeState((prev) => ({ ...prev, marketTab: 'securities' }));
-                }}
-              >
-                🏦 증권사 AI
-              </button>
+            <button
+              className={`tab-button ${activeTab === 'securities' ? 'active' : ''}`}
+              onClick={() => {
+                setHomeState((prev) => ({ ...prev, marketTab: 'securities' }));
+              }}
+            >
+              🏦 증권AI
+            </button>
             ) : (
               <>
                 <button

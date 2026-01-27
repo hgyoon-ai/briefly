@@ -98,7 +98,7 @@ function AdminPage() {
     <div className="admin-page">
       <header className="admin-header">
         <div className="admin-header-content">
-          <h1>✨ 관리자 페이지</h1>
+          <h1>🛠️ 관리자 페이지</h1>
           <Link to="/" className="back-link" title="홈으로">
             <span>{ADMIN_ICON}</span>
           </Link>
@@ -150,7 +150,7 @@ function AdminPage() {
                 setAdminState((prev) => ({ ...prev, marketTab: 'securities' }));
               }}
             >
-              🏦 증권사 AI
+              🏦 증권AI
             </button>
           ) : (
             <>

@@ -367,6 +367,8 @@
   align-items: center;
   justify-content: space-between;
   margin-bottom: 10px;
+  gap: 12px;
+  flex-wrap: wrap;
 }
 
 .timeline-header h4 {
@@ -383,6 +385,36 @@
 .timeline-scroll {
   overflow-x: auto;
   padding-bottom: 6px;
+}
+
+.timeline-legend {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.legend-item {
+  border: 1px solid rgba(255, 190, 210, 0.35);
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 999px;
+  padding: 4px 8px;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 11px;
+  color: #5a4b4b;
+  cursor: pointer;
+}
+
+.legend-item.inactive {
+  opacity: 0.45;
+}
+
+.legend-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 999px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.08);
 }
 
 .timeline-svg {
@@ -411,6 +443,26 @@
   text-anchor: middle;
 }
 
+.timeline-grid {
+  stroke: rgba(255, 190, 210, 0.2);
+  stroke-width: 1;
+}
+
+.timeline-band {
+  fill: rgba(255, 214, 232, 0.35);
+}
+
+.timeline-now {
+  stroke: rgba(255, 107, 157, 0.65);
+  stroke-width: 1.5;
+  stroke-dasharray: 4 4;
+}
+
+.timeline-selected-line {
+  stroke: rgba(255, 107, 157, 0.8);
+  stroke-width: 1.5;
+}
+
 .timeline-point {
   cursor: pointer;
   stroke: white;
@@ -418,9 +470,19 @@
   transition: opacity 0.2s ease, filter 0.2s ease;
 }
 
-.timeline-point:hover {
+.timeline-point.active:hover {
   opacity: 0.85;
   filter: drop-shadow(0 2px 6px rgba(255, 107, 157, 0.35));
+}
+
+.timeline-point.inactive {
+  opacity: 0.18;
+}
+
+.timeline-point.selected {
+  stroke: #ffffff;
+  stroke-width: 2.5;
+  filter: drop-shadow(0 2px 8px rgba(255, 107, 157, 0.5));
 }
 
 .analysis-distribution {
@@ -435,6 +497,14 @@
   padding: 14px;
   border: 1px solid rgba(255, 190, 210, 0.35);
   box-shadow: 0 6px 14px rgba(255, 107, 157, 0.08);
+}
+
+.distribution-card.type {
+  border-left: 4px solid rgba(255, 165, 0, 0.45);
+}
+
+.distribution-card.area {
+  border-left: 4px solid rgba(78, 205, 196, 0.45);
 }
 
 .distribution-card h4 {
@@ -463,6 +533,14 @@
   overflow: hidden;
 }
 
+.distribution-card.type .distribution-bar {
+  background: rgba(255, 165, 0, 0.12);
+}
+
+.distribution-card.area .distribution-bar {
+  background: rgba(78, 205, 196, 0.12);
+}
+
 .distribution-fill {
   height: 100%;
   border-radius: 999px;
@@ -470,6 +548,10 @@
 
 .distribution-fill.secondary {
   background: linear-gradient(135deg, rgba(255, 107, 157, 0.35) 0%, rgba(255, 165, 0, 0.35) 100%);
+}
+
+.distribution-card.area .distribution-fill.secondary {
+  background: linear-gradient(135deg, rgba(78, 205, 196, 0.35) 0%, rgba(60, 179, 113, 0.35) 100%);
 }
 
 .distribution-count {

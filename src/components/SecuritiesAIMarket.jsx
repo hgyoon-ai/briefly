@@ -87,6 +87,12 @@ const TYPE_COLORS = {
   '운영/시스템': '#4ecdc4',
   '대외/인사이트': '#6a5acd'
 };
+const TYPE_KEYS = {
+  '제품/기능': 'product',
+  '제휴/협업': 'partner',
+  '운영/시스템': 'ops',
+  '대외/인사이트': 'external'
+};
 
 const toDateOnly = (value) => {
   const date = new Date(value);
@@ -148,6 +154,12 @@ function SecuritiesAIMarket() {
   const [viewMode, setViewMode] = useState('timeline');
   const [analysisFiltersOpen, setAnalysisFiltersOpen] = useState(false);
   const [selectedEvent, setSelectedEvent] = useState(null);
+  const [activeTypes, setActiveTypes] = useState({
+    product: true,
+    partner: true,
+    ops: true,
+    external: true
+  });
 
   const companyOptions = useMemo(() => {
     const base = index?.companies || [];
@@ -279,6 +291,24 @@ function SecuritiesAIMarket() {
     const height = 140;
     return { padding, viewWidth, height, totalDays };
   }, [timelineRange, period]);
+
+  const nowMarker = useMemo(() => {
+    if (!timelineRange || !timelineLayout) return null;
+    const end = timelineRange.end;
+    const start = timelineRange.start;
+    const ratio = daysBetween(start, end) / timelineLayout.totalDays;
+    const x =
+      timelineLayout.padding +
+      ratio * (timelineLayout.viewWidth - timelineLayout.padding * 2);
+    const bandStartDate = new Date(end);
+    bandStartDate.setDate(bandStartDate.getDate() - 29);
+    const bandStartRatio =
+      daysBetween(start, bandStartDate) / timelineLayout.totalDays;
+    const bandStartX =
+      timelineLayout.padding +
+      Math.max(0, bandStartRatio) * (timelineLayout.viewWidth - timelineLayout.padding * 2);
+    return { x, bandStartX };
+  }, [timelineRange, timelineLayout]);
 
   const periodLabel = useMemo(() => {
     const found = PERIOD_OPTIONS.find((option) => option.value === period);
@@ -598,6 +628,31 @@ function SecuritiesAIMarket() {
                         <h4>이벤트 타임라인</h4>
                         <p>점 클릭 시 상세가 표시됩니다.</p>
                       </div>
+                      <div className="timeline-legend">
+                        {TYPE_OPTIONS.filter((item) => item !== '전체').map((label) => {
+                          const key = TYPE_KEYS[label];
+                          const isActive = activeTypes[key];
+                          return (
+                            <button
+                              key={label}
+                              type="button"
+                              className={`legend-item ${isActive ? 'active' : 'inactive'}`}
+                              onClick={() =>
+                                setActiveTypes((prev) => ({
+                                  ...prev,
+                                  [key]: !prev[key]
+                                }))
+                              }
+                            >
+                              <span
+                                className="legend-dot"
+                                style={{ backgroundColor: TYPE_COLORS[label] }}
+                              />
+                              <span className="legend-label">{label}</span>
+                            </button>
+                          );
+                        })}
+                      </div>
                     </div>
                     {!timelineRange || analysisPointsInRange.length === 0 ? (
                       <div className="chart-empty">표시할 이벤트가 없습니다.</div>
@@ -610,6 +665,35 @@ function SecuritiesAIMarket() {
                           viewBox={`0 0 ${timelineLayout.viewWidth} ${timelineLayout.height}`}
                           role="img"
                         >
+                          <defs>
+                            <radialGradient id="grad-product" cx="35%" cy="35%" r="70%">
+                              <stop offset="0%" stopColor="#ffd1e1" />
+                              <stop offset="100%" stopColor="#ff6b9d" />
+                            </radialGradient>
+                            <radialGradient id="grad-partner" cx="35%" cy="35%" r="70%">
+                              <stop offset="0%" stopColor="#ffe3b3" />
+                              <stop offset="100%" stopColor="#ffa500" />
+                            </radialGradient>
+                            <radialGradient id="grad-ops" cx="35%" cy="35%" r="70%">
+                              <stop offset="0%" stopColor="#c9f2ee" />
+                              <stop offset="100%" stopColor="#4ecdc4" />
+                            </radialGradient>
+                            <radialGradient id="grad-external" cx="35%" cy="35%" r="70%">
+                              <stop offset="0%" stopColor="#d9d2ff" />
+                              <stop offset="100%" stopColor="#6a5acd" />
+                            </radialGradient>
+                          </defs>
+
+                          {nowMarker && (
+                            <rect
+                              x={nowMarker.bandStartX}
+                              y={18}
+                              width={nowMarker.x - nowMarker.bandStartX}
+                              height={timelineLayout.height - 68}
+                              className="timeline-band"
+                            />
+                          )}
+
                           <line
                             x1={timelineLayout.padding}
                             x2={timelineLayout.viewWidth - timelineLayout.padding}
@@ -641,13 +725,17 @@ function SecuritiesAIMarket() {
                               const x =
                                 timelineLayout.padding +
                                 ratio * (timelineLayout.viewWidth - timelineLayout.padding * 2);
+                              const shouldLabel =
+                                period === 'all'
+                                  ? tick.getMonth() % 2 === 0
+                                  : true;
                               return (
                                 <g key={tick.toISOString()}>
                                   <line
                                     x1={x}
                                     x2={x}
                                     y1={timelineLayout.height - 50}
-                                    y2={20}
+                                    y2={18}
                                     className="timeline-grid"
                                   />
                                   <line
@@ -657,13 +745,39 @@ function SecuritiesAIMarket() {
                                     y2={timelineLayout.height - 44}
                                     className="timeline-tick"
                                   />
-                                  <text x={x} y={timelineLayout.height - 28} className="timeline-tick-label">
-                                    {period === 'all' ? formatMonth(tick) : formatShortDate(tick)}
-                                  </text>
+                                  {shouldLabel && (
+                                    <text
+                                      x={x}
+                                      y={timelineLayout.height - 28}
+                                      className="timeline-tick-label"
+                                    >
+                                      {period === 'all' ? formatMonth(tick) : formatShortDate(tick)}
+                                    </text>
+                                  )}
                                 </g>
                               );
                             });
                           })()}
+
+                          {selectedEvent && timelineRange && (
+                            (() => {
+                              const xRatio =
+                                daysBetween(timelineRange.start, toDateOnly(selectedEvent.date)) /
+                                timelineLayout.totalDays;
+                              const x =
+                                timelineLayout.padding +
+                                xRatio * (timelineLayout.viewWidth - timelineLayout.padding * 2);
+                              return (
+                                <line
+                                  x1={x}
+                                  x2={x}
+                                  y1={18}
+                                  y2={timelineLayout.height - 50}
+                                  className="timeline-selected-line"
+                                />
+                              );
+                            })()
+                          )}
 
                           {analysisPointsInRange.map((event) => {
                             const xRatio =
@@ -671,26 +785,43 @@ function SecuritiesAIMarket() {
                             const x =
                               timelineLayout.padding +
                               xRatio * (timelineLayout.viewWidth - timelineLayout.padding * 2);
-                            const color = TYPE_COLORS[event.typeGroup] || '#ff6b9d';
+                            const key = TYPE_KEYS[event.typeGroup] || 'product';
+                            const isActive = activeTypes[key];
+                            const gradientId = `grad-${key}`;
                             return (
                               <circle
                                 key={event.id}
                                 cx={x}
                                 cy={timelineLayout.height - 70}
                                 r={selectedEvent?.id === event.id ? 6 : 5}
-                                fill={color}
-                                className="timeline-point"
-                                onClick={() => setSelectedEvent(event)}
+                                fill={`url(#${gradientId})`}
+                                className={`timeline-point ${isActive ? 'active' : 'inactive'} ${
+                                  selectedEvent?.id === event.id ? 'selected' : ''
+                                }`}
+                                onClick={() => {
+                                  if (isActive) {
+                                    setSelectedEvent(event);
+                                  }
+                                }}
                               />
                             );
                           })}
+                          {nowMarker && (
+                            <line
+                              x1={nowMarker.x}
+                              x2={nowMarker.x}
+                              y1={18}
+                              y2={timelineLayout.height - 50}
+                              className="timeline-now"
+                            />
+                          )}
                         </svg>
                       </div>
                     )}
                   </div>
 
                   <div className="analysis-distribution">
-                    <div className="distribution-card">
+                    <div className="distribution-card type">
                       <h4>유형 분포</h4>
                       {Object.entries(typeDistribution).map(([label, count]) => {
                         const total = analysisKpis.total || 1;
@@ -709,7 +840,7 @@ function SecuritiesAIMarket() {
                         );
                       })}
                     </div>
-                    <div className="distribution-card">
+                    <div className="distribution-card area">
                       <h4>영역 분포</h4>
                       {Object.entries(areaDistribution).map(([label, count]) => {
                         const total = analysisKpis.total || 1;
