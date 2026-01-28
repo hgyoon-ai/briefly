@@ -19,7 +19,8 @@ Briefly는 AI/반도체/EV 등 산업 트렌드를 일간·주간·월간 이슈
 6) 주간/월간 집계: `archive`에 저장된 daily 데이터 기반 롤링 집계
 
 ## 3-1. 크롤링 실행
-- 파이프라인 스크립트: `scripts/run_pipeline.py`
+- 브리핑 파이프라인 스크립트: `scripts/run_briefing_pipeline.py`
+- 마켓 파이프라인 스크립트: `scripts/run_market_pipeline.py`
 - 롤업 전용 스크립트: `scripts/build_rollups_from_archive.py`
 - 테스트용 아카이브 생성: `scripts/generate_test_archives.py`
 - Python 의존성: `requirements.txt`

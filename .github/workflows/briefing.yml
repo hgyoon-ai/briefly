@@ -1,4 +1,4 @@
-name: Crawl and update data
+name: Crawl briefing data
 
 on:
   schedule:
@@ -30,7 +30,7 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python3 -m scripts.check_openai_connection
 
-  crawl:
+  briefing:
     needs: check
     runs-on: ubuntu-latest
     steps:
@@ -47,16 +47,16 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run pipeline
+      - name: Run briefing pipeline
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: python3 -m scripts.run_pipeline
+        run: python3 -m scripts.run_briefing_pipeline
 
       - name: Commit updates
         run: |
           git status --porcelain
           if [ -n "$(git status --porcelain)" ]; then
             git add public/latest archive
-            git -c user.name="github-actions[bot]" -c user.email="github-actions[bot]@users.noreply.github.com" commit -m "Update crawl data $(date +'%Y-%m-%d')"
+            git -c user.name="github-actions[bot]" -c user.email="github-actions[bot]@users.noreply.github.com" commit -m "Update briefing data $(date +'%Y-%m-%d')"
             git push
           fi
