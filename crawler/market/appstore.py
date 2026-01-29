@@ -1,16 +1,10 @@
-import hashlib
-
 import requests
 
 from crawler.config import TIMEZONE
-from crawler.utils import format_date, normalize_text, parse_datetime
+from crawler.utils import format_date, normalize_text, parse_datetime, sha1_text
 
 
 LOOKUP_URL = "https://itunes.apple.com/lookup"
-
-
-def sha1(value):
-    return hashlib.sha1(value.encode("utf-8")).hexdigest()
 
 
 def fetch_app(track_id, country="kr"):
@@ -37,7 +31,7 @@ def _in_range(dt, start, end):
     return True
 
 
-def build_items(apps, start, end, now, country="kr"):
+def build_items(apps, start, end, now, country="kr", on_failure=None):
     items = []
     for app in apps:
         track_id = app.get("trackId")
@@ -45,7 +39,12 @@ def build_items(apps, start, end, now, country="kr"):
         if not track_id or not company:
             continue
 
-        entry = fetch_app(track_id, country=country)
+        try:
+            entry = fetch_app(track_id, country=country)
+        except Exception as exc:
+            if on_failure:
+                on_failure(company, track_id, exc)
+            continue
         version = normalize_text(entry.get("version"))
         release_date = entry.get("currentVersionReleaseDate")
         dt = parse_datetime(release_date, TIMEZONE)
@@ -60,7 +59,7 @@ def build_items(apps, start, end, now, country="kr"):
         if not date_str:
             continue
 
-        item_id = sha1(f"{company}-appstore-{track_id}-{version}-{date_str}")
+        item_id = sha1_text(f"{company}-appstore-{track_id}-{version}-{date_str}")
         title = f"{company} iOS 앱 업데이트 v{version}" if version else f"{company} iOS 앱 업데이트"
         snippet = notes[:1000]
         items.append(

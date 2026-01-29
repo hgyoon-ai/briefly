@@ -1,5 +1,4 @@
 import argparse
-import hashlib
 import json
 from datetime import datetime, timedelta
 from pathlib import Path
@@ -24,16 +23,13 @@ from crawler.market.taxonomy import (
     TYPE_RAW_CHOICES,
 )
 from crawler.market.writer import build_index, upsert_month_file, write_json
+from crawler.utils import sha1_text
 
 
 MARKET_DIR = Path("public/market/securities-ai")
 ARCHIVE_DIR = Path("archive/market/securities-ai")
 CACHE_PATH = ARCHIVE_DIR / "cache.jsonl"
 FAILURES_PATH = ARCHIVE_DIR / "source_failures.jsonl"
-
-
-def sha1(value):
-    return hashlib.sha1(value.encode("utf-8")).hexdigest()
 
 
 def load_index_companies():
@@ -48,11 +44,14 @@ def load_cache():
     if not CACHE_PATH.exists():
         return {}
     cache = {}
-    for line in CACHE_PATH.read_text(encoding="utf-8").splitlines():
-        if not line.strip():
-            continue
-        payload = json.loads(line)
-        cache[payload["id"]] = payload
+    with CACHE_PATH.open("r", encoding="utf-8") as file:
+        for line in file:
+            if not line.strip():
+                continue
+            payload = json.loads(line)
+            entry_id = payload.get("id")
+            if entry_id:
+                cache[entry_id] = payload
     return cache
 
 
@@ -72,8 +71,8 @@ def to_month(date_str):
 def get_time_range(args, now):
     if args.month:
         start = datetime.strptime(args.month, "%Y-%m")
-        end = start.replace(day=28) + timedelta(days=4)
-        end = end.replace(day=1) - timedelta(days=1)
+        next_month = (start.replace(day=28) + timedelta(days=4)).replace(day=1)
+        end = next_month - timedelta(seconds=1)
         return start, end
     end = now
     start = end - timedelta(days=args.lookback_days)
@@ -87,7 +86,9 @@ def build_item(company, corp_code, entry):
     date_obj = parse_rcept_date(rcept_dt)
     date_str = date_obj.strftime("%Y-%m-%d") if date_obj else None
     url = build_disclosure_url(rcept_no)
-    item_id = sha1(f"{company}-{rcept_no}" if rcept_no else f"{company}-{report_nm}-{date_str}")
+    item_id = sha1_text(
+        f"{company}-{rcept_no}" if rcept_no else f"{company}-{report_nm}-{date_str}"
+    )
     return {
         "id": item_id,
         "company": company,
@@ -149,7 +150,19 @@ def main():
     raw_items = []
 
     try:
-        appstore_items = build_appstore_items(APPSTORE_APPS, start, end, now)
+        appstore_items = build_appstore_items(
+            APPSTORE_APPS,
+            start,
+            end,
+            now,
+            on_failure=lambda company, track_id, exc: log_failure(
+                "app_store",
+                now,
+                "App Store fetch failed",
+                detail=f"trackId={track_id} err={repr(exc)}",
+                company=company,
+            ),
+        )
         raw_items.extend(appstore_items)
     except Exception as exc:
         log_failure("app_store", now, "App Store fetch failed", detail=repr(exc))
