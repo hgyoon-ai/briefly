@@ -3,10 +3,11 @@
 이 문서는 에이전트가 세션이 끊겨도 Briefly 프로젝트의 목적, 범위, 규칙, 현재 상태를 빠르게 이해하도록 돕는다.
 
 ## 1. 프로젝트 한 줄 요약
-Briefly는 AI/반도체/EV 등 산업 트렌드를 일간·주간·월간 이슈로 요약해 제공하는 서비스다.
+Briefly는 브리핑(산업 트렌드)과 마켓(증권사 이벤트)을 자동 수집/요약해 제공하는 서비스다.
 
 ## 2. 현재 범위
-- 테마: AI, 반도체, EV (추후 확장 가능)
+- 브리핑 테마: AI, 금융/규제, 반도체, EV (추후 확장 가능)
+- 마켓(증권사): 이벤트(앱 업데이트/공시/뉴스) 수집 + 데이터셋별 필터링
 - 주기: 일간/주간/월간 요약
 - 제외: 신뢰도 낮은 출처, 중복 기사, 광고성 콘텐츠
 
@@ -27,6 +28,13 @@ Briefly는 AI/반도체/EV 등 산업 트렌드를 일간·주간·월간 이슈
 - LLM 요약: OpenAI (환경 변수 `OPENAI_API_KEY` 필요)
 - 환경 변수 로딩: `.env` (python-dotenv)
 
+### 브리핑 탭 실행
+- 전체 탭 실행: `python3 -m scripts.run_briefing_pipeline`
+- 특정 탭만 실행(복수/콤마 지원):
+  - `python3 -m scripts.run_briefing_pipeline --tab finance`
+  - `python3 -m scripts.run_briefing_pipeline --tab ai --tab finance`
+  - `python3 -m scripts.run_briefing_pipeline --tab ai,finance`
+
 ### 마켓(증권사) 소스
 - 1순위: iOS App Store 앱 업데이트(릴리즈 노트) - API 키 불필요 (`crawler/market/appstore_apps.py`)
 - 2순위: DART 공시 - 환경 변수 `DART_API_KEY` 필요
@@ -35,6 +43,9 @@ Briefly는 AI/반도체/EV 등 산업 트렌드를 일간·주간·월간 이슈
 ### 마켓 데이터셋
 - `public/market/securities-ai`: 증권사 AI 관련 이벤트(강한 AI 신호 중심)
 - `public/market/securities-updates`: 증권사 업데이트 이벤트(AI는 제외)
+
+### 마켓 실행
+- 데이터셋 선택 실행: `python3 -m scripts.run_market_pipeline --dataset securities-ai|securities-updates`
 
 ## 3-2. 크롤링 소스 (최소 셋업)
 - OpenAI Blog, Anthropic Blog, Google DeepMind Blog, Meta AI Blog
@@ -65,6 +76,10 @@ Briefly는 AI/반도체/EV 등 산업 트렌드를 일간·주간·월간 이슈
 - 크롤링 직후 `archive`에 저장하고, 최신 데이터는 `public/briefing/{tab}`에 반영
 - daily 카드 필드: `status`, `hash`, `importanceScore` 포함
 
+### 마켓 저장/커밋 정책
+- 커밋/배포 대상: `public/market/**`
+- 비커밋(캐시/로그): `archive/market/**` (Actions cache/artifact로만 유지)
+
 ## 7. 출력 포맷 (초안)
 ```
 {
@@ -88,6 +103,12 @@ Briefly는 AI/반도체/EV 등 산업 트렌드를 일간·주간·월간 이슈
 - Weekly: 중복 규칙 점검, 트렌드 급변 테마 검토
 - Monthly: 소스 품질 점검, 테마 확장 필요성 평가
 
+### Admin 런 모니터링
+- AdminPage는 최근 7회 실행을 리스트 + 3줄 스파크라인으로 보여준다.
+  - 브리핑: rawTotal / dedupedSelected(deduped fallback) / llm.itemCalls
+  - 마켓: rawItems / candidates / llm.sent
+  - `--tab`으로 부분 실행하면 런 메타에 `selectedTabs`가 남아 구분 가능
+
 ## 10. 현재 상태
 - UI: 탭별 일/주/월 섹션 구조 구현 (React/Vite)
 - 데이터: `public/briefing/{tab}` JSON 사용, 아카이브는 `archive/{tab}`에 저장
@@ -101,3 +122,7 @@ Briefly는 AI/반도체/EV 등 산업 트렌드를 일간·주간·월간 이슈
 
 ## 12. 결정 로그
 - 2026-01-22: 에이전트 세션 복구를 위해 AGENT.md 도입
+- 2026-01-29: 브리핑 탭 `finance`(금융/규제) 추가, RSS 최소 allowlist 적용
+- 2026-01-29: 브리핑 파이프라인에 `--tab` 옵션 추가(탭 단위 실행/비용 절감)
+- 2026-01-29: RSS fetcher에 보안뉴스(EUC-KR) 디코딩 fallback 추가
+- 2026-01-29: AdminPage 최근 7회 실행에 3줄 스파크라인 + selectedTabs 표시 추가
