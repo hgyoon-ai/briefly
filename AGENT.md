@@ -32,6 +32,10 @@ Briefly는 AI/반도체/EV 등 산업 트렌드를 일간·주간·월간 이슈
 - 2순위: DART 공시 - 환경 변수 `DART_API_KEY` 필요
 - 3순위: 뉴스(RSS) - allowlist는 `crawler/market/news_rss.py`
 
+### 마켓 데이터셋
+- `public/market/securities-ai`: 증권사 AI 관련 이벤트(강한 AI 신호 중심)
+- `public/market/securities-updates`: 증권사 업데이트 이벤트(AI는 제외)
+
 ## 3-2. 크롤링 소스 (최소 셋업)
 - OpenAI Blog, Anthropic Blog, Google DeepMind Blog, Meta AI Blog
 - Microsoft Research Blog, NVIDIA Developer Blog, Hugging Face Blog, PyTorch Blog

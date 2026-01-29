@@ -32,15 +32,27 @@ def build_client():
     return OpenAI(api_key=api_key)
 
 
-def build_prompt(items):
+def build_prompt(items, profile="ai"):
     type_list = ", ".join(TYPE_RAW_CHOICES)
     area_list = ", ".join(AREA_RAW_CHOICES)
+
+    if profile == "updates":
+        keep_rule = (
+            "증권사 제품/기능/정책/운영/보안/인증/장애/점검/제휴/규제 대응 등 변화가 있는 항목은 keep=true로 두어라. "
+            "단순 안내/마케팅성 문구, 의미 없는 문장, 주가/시황 자체, 버그 수정만 반복되는 릴리즈노트는 keep=false로 두어라. "
+            "AI/생성형/LLM/챗봇 등 AI 관련 항목은 이 데이터셋에서 제외하므로 keep=false로 두어라. "
+        )
+    else:
+        keep_rule = (
+            "AI/데이터/자동화/리스크/AML/챗봇/요약/추천 등과 직접 관련 없는 항목은 keep=false로 두어라. "
+        )
+
     prompt = (
         "너는 증권사 관련 이벤트(공시, 앱 업데이트 릴리즈노트, 뉴스)를 분류하는 분석가다. "
         "한국어로만 응답하고 JSON 배열만 반환해라. "
         "각 항목은 id, keep(true/false), oneLiner(한두 문장), "
         f"type_raw({type_list}), areas_raw(배열, {area_list}), confidence(0~1) 키를 포함해야 한다. "
-        "AI/데이터/자동화/리스크/AML/챗봇/요약/추천 등과 직접 관련 없는 항목은 keep=false로 두어라. "
+        f"{keep_rule}"
         "타입/영역은 반드시 목록에서만 선택한다. "
         f"Input: {json.dumps(items, ensure_ascii=False)}"
     )
@@ -65,8 +77,8 @@ def parse_response(content):
     return parsed
 
 
-def enrich_batch(items, model="gpt-5-mini"):
-    prompt = build_prompt(items)
+def enrich_batch(items, model="gpt-5-mini", profile="ai"):
+    prompt = build_prompt(items, profile=profile)
     response = call_openai(
         messages=[
             {"role": "system", "content": "You output only valid JSON."},
@@ -91,6 +103,40 @@ def enrich_items(items, model="gpt-5-mini", batch_size=12):
                     **results,
                     **enrich_items(batch, model=model, batch_size=max(1, batch_size // 2)),
                     **enrich_items(items[index + batch_size :], model=model, batch_size=batch_size),
+                }
+            raise
+        for entry in enriched:
+            entry_id = entry.get("id")
+            if entry_id:
+                results[entry_id] = entry
+        index += batch_size
+    return results
+
+
+def enrich_items_profile(items, profile, model="gpt-5-mini", batch_size=12):
+    # Keep a separate function to avoid touching the existing call sites too much.
+    results = {}
+    index = 0
+    while index < len(items):
+        batch = items[index : index + batch_size]
+        try:
+            enriched = enrich_batch(batch, model=model, profile=profile)
+        except Exception:
+            if batch_size > 1:
+                return {
+                    **results,
+                    **enrich_items_profile(
+                        batch,
+                        profile,
+                        model=model,
+                        batch_size=max(1, batch_size // 2),
+                    ),
+                    **enrich_items_profile(
+                        items[index + batch_size :],
+                        profile,
+                        model=model,
+                        batch_size=batch_size,
+                    ),
                 }
             raise
         for entry in enriched:

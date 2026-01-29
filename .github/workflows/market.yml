@@ -26,7 +26,9 @@ jobs:
           fetch-depth: 0
 
       - name: Prepare market archive dir
-        run: mkdir -p archive/market/securities-ai
+        run: |
+          mkdir -p archive/market/securities-ai
+          mkdir -p archive/market/securities-updates
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -39,7 +41,9 @@ jobs:
       - name: Restore market cache
         uses: actions/cache@v4
         with:
-          path: archive/market/securities-ai/cache.jsonl
+          path: |
+            archive/market/securities-ai/cache.jsonl
+            archive/market/securities-updates/cache.jsonl
           key: market-cache-${{ runner.os }}-${{ github.run_id }}
           restore-keys: |
             market-cache-${{ runner.os }}-
@@ -52,10 +56,12 @@ jobs:
           MONTH="${{ github.event.inputs.month }}"
           LOOKBACK="${{ github.event.inputs.lookback_days }}"
           if [ -n "$MONTH" ]; then
-            python3 -m scripts.run_market_pipeline --month "$MONTH"
+            python3 -m scripts.run_market_pipeline --dataset securities-ai --month "$MONTH"
+            python3 -m scripts.run_market_pipeline --dataset securities-updates --month "$MONTH"
           else
             if [ -z "$LOOKBACK" ]; then LOOKBACK=3; fi
-            python3 -m scripts.run_market_pipeline --lookback-days "$LOOKBACK"
+            python3 -m scripts.run_market_pipeline --dataset securities-ai --lookback-days "$LOOKBACK"
+            python3 -m scripts.run_market_pipeline --dataset securities-updates --lookback-days "$LOOKBACK"
           fi
 
       - name: Upload market logs
@@ -66,6 +72,8 @@ jobs:
           path: |
             archive/market/securities-ai/source_failures.jsonl
             archive/market/securities-ai/unmatched_companies.json
+            archive/market/securities-updates/source_failures.jsonl
+            archive/market/securities-updates/unmatched_companies.json
           if-no-files-found: ignore
 
       - name: Commit updates

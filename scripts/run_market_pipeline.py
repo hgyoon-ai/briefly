@@ -16,8 +16,9 @@ from crawler.market.dart import (
 )
 from crawler.market.failures import append_failure
 from crawler.market.keywords import is_ai_candidate, is_soft_candidate
-from crawler.market.llm_batch import enrich_items
+from crawler.market.llm_batch import enrich_items, enrich_items_profile
 from crawler.market.news_rss import build_items as build_news_items
+from crawler.market.updates_keywords import is_updates_candidate
 from crawler.market.taxonomy import (
     AREA_RAW_CHOICES,
     TYPE_RAW_CHOICES,
@@ -27,28 +28,30 @@ from crawler.utils import sha1_text
 from crawler.run_stats import write_run_and_history
 
 
-MARKET_DIR = Path("public/market/securities-ai")
-ARCHIVE_DIR = Path("archive/market/securities-ai")
-CACHE_PATH = ARCHIVE_DIR / "cache.jsonl"
-FAILURES_PATH = ARCHIVE_DIR / "source_failures.jsonl"
-
-RUN_PATH = MARKET_DIR / "run.json"
-RUN_HISTORY_PATH = MARKET_DIR / "run_history.json"
+DEFAULT_DATASET = "securities-ai"
+DATASET_CHOICES = ["securities-ai", "securities-updates"]
 
 
-def load_index_companies():
-    index_path = MARKET_DIR / "index.json"
+def dataset_dirs(dataset):
+    market_dir = Path(f"public/market/{dataset}")
+    archive_dir = Path(f"archive/market/{dataset}")
+    return market_dir, archive_dir
+
+
+def load_index_companies(market_dir):
+    index_path = Path(market_dir) / "index.json"
     if not index_path.exists():
-        raise RuntimeError("index.json not found in public/market/securities-ai")
+        raise RuntimeError(f"index.json not found in {index_path}")
     payload = json.loads(index_path.read_text(encoding="utf-8"))
     return payload.get("companies", [])
 
 
-def load_cache():
-    if not CACHE_PATH.exists():
+def load_cache(cache_path):
+    cache_path = Path(cache_path)
+    if not cache_path.exists():
         return {}
     cache = {}
-    with CACHE_PATH.open("r", encoding="utf-8") as file:
+    with cache_path.open("r", encoding="utf-8") as file:
         for line in file:
             if not line.strip():
                 continue
@@ -59,11 +62,13 @@ def load_cache():
     return cache
 
 
-def append_cache(items):
+def append_cache(items, cache_path, archive_dir):
     if not items:
         return
-    ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
-    with CACHE_PATH.open("a", encoding="utf-8") as file:
+    archive_dir = Path(archive_dir)
+    cache_path = Path(cache_path)
+    archive_dir.mkdir(parents=True, exist_ok=True)
+    with cache_path.open("a", encoding="utf-8") as file:
         for item in items:
             file.write(json.dumps(item, ensure_ascii=False) + "\n")
 
@@ -107,7 +112,7 @@ def build_item(company, corp_code, entry):
     }
 
 
-def log_failure(source_type, now, message, detail=None, company=None):
+def log_failure(failures_path, source_type, now, message, detail=None, company=None):
     payload = {
         "ts": now.strftime("%Y-%m-%dT%H:%M:%S"),
         "sourceType": source_type,
@@ -117,19 +122,20 @@ def log_failure(source_type, now, message, detail=None, company=None):
         payload["company"] = company
     if detail:
         payload["detail"] = detail
-    append_failure(FAILURES_PATH, payload)
+    append_failure(failures_path, payload)
 
 
-def write_unmatched(unmatched):
+def write_unmatched(unmatched, archive_dir):
     if not unmatched:
         return
-    path = ARCHIVE_DIR / "unmatched_companies.json"
+    path = Path(archive_dir) / "unmatched_companies.json"
     write_json(path, {"unmatched": unmatched})
 
 
 def main():
     load_dotenv()
     parser = argparse.ArgumentParser()
+    parser.add_argument("--dataset", type=str, default=DEFAULT_DATASET, choices=DATASET_CHOICES)
     parser.add_argument("--lookback-days", type=int, default=3)
     parser.add_argument("--month", type=str, default=None)
     parser.add_argument("--model", type=str, default="gpt-5-mini")
@@ -150,7 +156,14 @@ def main():
     if end.tzinfo is None:
         end = end.replace(tzinfo=ZoneInfo(TIMEZONE))
 
-    companies = load_index_companies()
+    dataset = args.dataset
+    market_dir, archive_dir = dataset_dirs(dataset)
+    cache_path = archive_dir / "cache.jsonl"
+    failures_path = archive_dir / "source_failures.jsonl"
+    run_path = market_dir / "run.json"
+    run_history_path = market_dir / "run_history.json"
+
+    companies = load_index_companies(market_dir)
     raw_items = []
 
     run_errors = []
@@ -158,6 +171,7 @@ def main():
         "id": now.isoformat(),
         "ts": now.isoformat(),
         "timezone": TIMEZONE,
+        "dataset": dataset,
         "range": {
             "mode": "month" if args.month else "lookback",
             "lookbackDays": args.lookback_days,
@@ -181,6 +195,7 @@ def main():
                 {"company": company, "trackId": track_id, "error": repr(exc)}
             )
             log_failure(
+                failures_path,
                 "app_store",
                 now,
                 "App Store fetch failed",
@@ -202,7 +217,7 @@ def main():
             )
             raw_items.extend(appstore_items)
         except Exception as exc:
-            log_failure("app_store", now, "App Store fetch failed", detail=repr(exc))
+            log_failure(failures_path, "app_store", now, "App Store fetch failed", detail=repr(exc))
             run_errors.append({"source": "app_store", "message": repr(exc)})
 
         run_stats["sources"]["app_store"] = {
@@ -215,18 +230,18 @@ def main():
         if dart_key:
             try:
                 corp_map, unmatched = build_corp_code_map(companies, dart_key)
-                write_unmatched(unmatched)
+                write_unmatched(unmatched, archive_dir)
                 run_stats["sources"]["dart"] = {
                     "companiesTotal": len(companies),
                     "matched": len(corp_map),
                     "unmatched": len(unmatched),
                 }
             except Exception as exc:
-                log_failure("dart", now, "DART fetch failed", detail=repr(exc))
+                log_failure(failures_path, "dart", now, "DART fetch failed", detail=repr(exc))
                 run_errors.append({"source": "dart", "message": repr(exc)})
                 corp_map = {}
         else:
-            log_failure("dart", now, "DART_API_KEY not set; skipping DART")
+            log_failure(failures_path, "dart", now, "DART_API_KEY not set; skipping DART")
             run_stats["sources"]["dart"] = {"skipped": True}
 
         for company, corp_code in corp_map.items():
@@ -247,7 +262,7 @@ def main():
             raw_items.extend(news_items)
             run_stats["sources"]["news"] = {"rssLimit": 50, **news_meta}
         except Exception as exc:
-            log_failure("news", now, "News fetch failed", detail=repr(exc))
+            log_failure(failures_path, "news", now, "News fetch failed", detail=repr(exc))
             run_errors.append({"source": "news", "message": repr(exc)})
 
         seen = {}
@@ -265,6 +280,13 @@ def main():
             snippet = item.get("snippet") or ""
             text = f"{title} {snippet}".strip()
             source_type = item.get("sourceType")
+            if dataset == "securities-updates":
+                if is_updates_candidate(text):
+                    keyword_passed += 1
+                    candidates.append(item)
+                continue
+
+            # securities-ai
             if source_type in ("app_store", "news"):
                 if is_ai_candidate(text):
                     keyword_passed += 1
@@ -277,7 +299,7 @@ def main():
         run_stats["filters"]["keywordPassed"] = keyword_passed
         run_stats["filters"]["candidates"] = len(candidates)
 
-        cache = load_cache()
+        cache = load_cache(cache_path)
         to_enrich = []
         enriched = {}
         cache_hit = 0
@@ -301,15 +323,27 @@ def main():
 
         if to_enrich:
             if not openai_key:
-                log_failure("llm", now, "OPENAI_API_KEY not set; skipping enrichment")
+                log_failure(failures_path, "llm", now, "OPENAI_API_KEY not set; skipping enrichment")
                 run_stats["llm"]["skippedNoKey"] = True
             else:
                 try:
-                    enriched.update(
-                        enrich_items(to_enrich, model=args.model, batch_size=args.batch_size)
-                    )
+                    if dataset == "securities-updates":
+                        enriched.update(
+                            enrich_items_profile(
+                                to_enrich,
+                                "updates",
+                                model=args.model,
+                                batch_size=args.batch_size,
+                            )
+                        )
+                    else:
+                        enriched.update(
+                            enrich_items(
+                                to_enrich, model=args.model, batch_size=args.batch_size
+                            )
+                        )
                 except Exception as exc:
-                    log_failure("llm", now, "LLM enrichment failed", detail=repr(exc))
+                    log_failure(failures_path, "llm", now, "LLM enrichment failed", detail=repr(exc))
                     run_errors.append({"source": "llm", "message": repr(exc)})
 
         run_stats["llm"].update(
@@ -364,7 +398,7 @@ def main():
             )
             cache_updates.append({"id": item["id"], **result})
 
-        append_cache(cache_updates)
+        append_cache(cache_updates, cache_path, archive_dir)
 
         events_by_month = {}
         for event in kept:
@@ -372,15 +406,15 @@ def main():
             events_by_month.setdefault(month, []).append(event)
 
         for month, events in events_by_month.items():
-            upsert_month_file(MARKET_DIR, month, events)
+            upsert_month_file(market_dir, month, events)
 
         run_stats["output"] = {
             "kept": len(kept),
             "monthsUpdated": sorted(events_by_month.keys()),
         }
 
-        index_payload = build_index(MARKET_DIR, companies, now)
-        write_json(MARKET_DIR / "index.json", index_payload)
+        index_payload = build_index(market_dir, companies, now)
+        write_json(Path(market_dir) / "index.json", index_payload)
 
         print(f"Market pipeline completed. Events kept: {len(kept)}")
     except Exception as exc:
@@ -388,7 +422,7 @@ def main():
         raise
     finally:
         try:
-            write_run_and_history(RUN_PATH, RUN_HISTORY_PATH, run_stats, limit=7)
+            write_run_and_history(run_path, run_history_path, run_stats, limit=7)
         except Exception:
             pass
 
