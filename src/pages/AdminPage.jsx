@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import '../styles/AdminPage.css';
 import useMockData from '../hooks/useMockData';
 import useMarketAdminData from '../hooks/useMarketAdminData';
+import useRunHistory from '../hooks/useRunHistory';
 import { ADMIN_ICON } from '../constants/ui';
 
 const STORAGE_KEY = 'briefly.adminTabs';
@@ -35,6 +36,8 @@ function AdminPage() {
   const { mode, briefingTab, marketTab } = adminState;
   const { today, weekly, monthly, loading, error } = useMockData(briefingTab);
   const marketData = useMarketAdminData();
+  const briefingRuns = useRunHistory('briefing/run_history.json');
+  const marketRuns = useRunHistory('market/securities-ai/run_history.json');
 
   useEffect(() => {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(adminState));
@@ -85,6 +88,7 @@ function AdminPage() {
   };
 
   const lastUpdated = getLastUpdated();
+  const latestBriefingRun = briefingRuns.history?.[0];
 
   if (mode === 'briefing' && loading) {
     return <div className="loading">데이터를 불러오는 중...</div>;
@@ -103,8 +107,11 @@ function AdminPage() {
             <span>{ADMIN_ICON}</span>
           </Link>
         </div>
-        {mode === 'briefing' && today && (
-          <div className="last-updated">최근 업데이트: {lastUpdated}</div>
+        {mode === 'briefing' && (
+          <div className="last-updated">
+            최근 실행: {latestBriefingRun?.ts ? new Date(latestBriefingRun.ts).toLocaleString('ko-KR') : '-'}
+            {today && lastUpdated ? ` · 카드 최신: ${lastUpdated}` : ''}
+          </div>
         )}
       </header>
 
@@ -186,6 +193,13 @@ function AdminPage() {
       <main className="admin-content">
         {mode === 'briefing' ? (
           <>
+            <RunHistoryPanel
+              title="🧾 최근 7회 실행(브리핑)"
+              runs={briefingRuns.history}
+              loading={briefingRuns.loading}
+              error={briefingRuns.error}
+              kind="briefing"
+            />
             {/* 일간 통계 */}
             {today && (
               <section className="stats-section">
@@ -316,14 +330,81 @@ function AdminPage() {
             )}
           </>
         ) : (
-          <MarketAdminPanel marketData={marketData} />
+          <MarketAdminPanel marketData={marketData} marketRuns={marketRuns} />
         )}
       </main>
     </div>
   );
 }
 
-function MarketAdminPanel({ marketData }) {
+function RunHistoryPanel({ title, runs, loading, error, kind }) {
+  if (loading) {
+    return (
+      <section className="stats-section">
+        <h2>{title}</h2>
+        <div className="admin-empty">불러오는 중...</div>
+      </section>
+    );
+  }
+
+  if (error) {
+    return (
+      <section className="stats-section">
+        <h2>{title}</h2>
+        <div className="admin-empty">실행 로그를 불러올 수 없습니다.</div>
+      </section>
+    );
+  }
+
+  if (!runs || runs.length === 0) {
+    return (
+      <section className="stats-section">
+        <h2>{title}</h2>
+        <div className="admin-empty">아직 기록이 없습니다.</div>
+      </section>
+    );
+  }
+
+  return (
+    <section className="stats-section">
+      <h2>{title}</h2>
+      <div className="admin-list">
+        {runs.slice(0, 7).map((run) => {
+          const ts = run?.ts ? new Date(run.ts).toLocaleString('ko-KR') : '-';
+          const errorsCount = Array.isArray(run?.errors) ? run.errors.length : 0;
+
+          let summary = '';
+          if (kind === 'briefing') {
+            summary = `raw ${run?.pipeline?.rawTotal ?? '-'} → dedupe ${run?.pipeline?.deduped ?? '-'} → enrich ${run?.pipeline?.enriched ?? '-'}`;
+          } else {
+            summary = `raw ${run?.filters?.rawItems ?? '-'} → cand ${run?.filters?.candidates ?? '-'} → kept ${run?.output?.kept ?? '-'}`;
+          }
+
+          return (
+            <div key={run.id || ts} className="admin-list-item compact">
+              <div className="admin-list-meta">
+                <span>{ts}</span>
+                <span>errors {errorsCount}</span>
+              </div>
+              <div className="admin-list-title">{summary}</div>
+              {kind === 'briefing' ? (
+                <div className="admin-list-summary">
+                  RSS {run?.sources?.rss?.total ?? '-'} · HF {run?.sources?.hf?.total ?? '-'} · HN {run?.sources?.hn?.total ?? '-'} · LLM(item) {run?.llm?.itemCalls ?? '-'}
+                </div>
+              ) : (
+                <div className="admin-list-summary">
+                  App Store fetched {run?.sources?.app_store?.fetchedOk ?? '-'} · DART matched {run?.sources?.dart?.matched ?? (run?.sources?.dart?.skipped ? 'skipped' : '-')} · News entries {run?.sources?.news?.entriesFetched ?? '-'} · LLM sent {run?.llm?.sent ?? '-'} (cache {run?.llm?.cacheHit ?? '-'})
+                </div>
+              )}
+            </div>
+          );
+        })}
+      </div>
+    </section>
+  );
+}
+
+function MarketAdminPanel({ marketData, marketRuns }) {
   const { index, events, selectedMonth, setSelectedMonth, loading, error } = marketData;
 
   const sortedEvents = useMemo(() => {
@@ -400,6 +481,13 @@ function MarketAdminPanel({ marketData }) {
 
   return (
     <>
+      <RunHistoryPanel
+        title="🧾 최근 7회 실행(마켓)"
+        runs={marketRuns.history}
+        loading={marketRuns.loading}
+        error={marketRuns.error}
+        kind="market"
+      />
       <section className="stats-section">
         <h2>🏦 증권사 AI 데이터</h2>
         <div className="date-label">최근 업데이트: {index.lastUpdated || '-'}</div>
