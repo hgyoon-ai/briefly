@@ -1,0 +1,55 @@
+[
+  {
+    "id": "2026-01-29T16:29:52.086234+09:00",
+    "ts": "2026-01-29T16:29:52.086234+09:00",
+    "timezone": "Asia/Seoul",
+    "selectedTabs": [
+      "finance"
+    ],
+    "pipeline": {
+      "rawTotal": 41,
+      "rawClamped": 41,
+      "deduped": 41,
+      "dedupedSelected": 41,
+      "enriched": 41
+    },
+    "sources": {
+      "rss": {
+        "total": 41,
+        "bySource": {
+          "정책브리핑": 1,
+          "매일경제(증권)": 15,
+          "보안뉴스": 10,
+          "벤처스퀘어": 15
+        }
+      },
+      "hf": {
+        "total": 0
+      },
+      "hn": {
+        "total": 0
+      }
+    },
+    "llm": {
+      "itemCalls": 41,
+      "issueCalls": 2
+    },
+    "errors": [],
+    "tabs": {
+      "finance": {
+        "daily": {
+          "raw": 41,
+          "cards": 5
+        },
+        "weekly": {
+          "items": 5,
+          "issues": 5
+        },
+        "monthly": {
+          "items": 5,
+          "issues": 5
+        }
+      }
+    }
+  }
+]

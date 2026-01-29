@@ -1,0 +1,130 @@
+{
+  "date": "2026-01-29",
+  "highlights": {
+    "bullets": [
+      "MarketInfra 관련 업데이트가 29건 감지됨",
+      "Compliance 관련 업데이트가 19건 감지됨",
+      "Security 관련 업데이트가 18건 감지됨"
+    ],
+    "topTopics": [
+      "MarketInfra",
+      "Compliance",
+      "Security",
+      "Privacy"
+    ],
+    "stats": {
+      "collected": 41,
+      "deduped": 41
+    }
+  },
+  "cards": [
+    {
+      "id": "finance_0001",
+      "tab": "finance",
+      "publishedAt": "2026-01-29T15:52:45+09:00",
+      "source": "매일경제(증권)",
+      "title": "특금법 개정안 국회 통과… 코인 거래소 대주주 범죄이력·재무상태 정밀 검증",
+      "summary": [
+        "특금법 개정안이 국회 본회의를 통과해 가상자산사업자(VASP) 대주주에 대한 범죄경력·재무상태·사회적 신용 검증 의무가 도입됐다.",
+        "벌금형 이상 전과자는 거래소 지배 진입이 금지되며 공정거래법·조세범처벌법 위반 내역도 심사 대상에 포함됐다.",
+        "개정안은 8월부터 시행 예정으로 거래소 허가·운영에 즉각적이고 광범위한 영향을 미칠 전망이다."
+      ],
+      "whyItMatters": "대주주 심사 강화로 신규 진입장벽과 규제비용이 상승해 거래소 구조조정·시장 신뢰 회복 등 산업 전반에 큰 파급효과가 발생하기 때문이다.",
+      "topics": [
+        "Regulation",
+        "Crypto",
+        "Compliance",
+        "Enforcement"
+      ],
+      "status": "NEW",
+      "hash": "076ad5b92004a33034e233b54af58778d8cc799a80ad5db8d6b13068936b74d3",
+      "url": "https://www.mk.co.kr/news/stock/11947141"
+    },
+    {
+      "id": "finance_0002",
+      "tab": "finance",
+      "publishedAt": "2026-01-29T15:40:00+09:00",
+      "source": "보안뉴스",
+      "title": "“양자 칩 제조 세계 1등 국가 되겠다”... 양자 기술 및 산업 육성 종합계획 공개",
+      "summary": [
+        "정부가 2035년까지 양자 칩 제조 세계 1위를 목표로 하는 양자 기술·산업 육성 종합계획을 발표했다.",
+        "양자기업 2000개 육성, 지역별 '양자클러스터' 조성 등 생태계 조성 방안이 포함되었다.",
+        "삼성·LG·SK 등 대기업과 아이온큐의 투자·협력 참여로 민관 협력체계가 가시화되었다."
+      ],
+      "whyItMatters": "양자 기술은 산업 경쟁력과 안보(암호·인프라)에 중대한 영향을 미쳐 국가 차원의 전략적 선점이 필요하기 때문입니다.",
+      "topics": [
+        "MarketInfra",
+        "Policy",
+        "Security"
+      ],
+      "status": "NEW",
+      "hash": "0f828018cb5ecb279a27c6537a0b4d80e7c53ad98df5916db3a07d03618a089b",
+      "url": "http://www.boannews.com/media/view.asp?idx=141753&kind=&sub_kind="
+    },
+    {
+      "id": "finance_0003",
+      "tab": "finance",
+      "publishedAt": "2026-01-29T15:09:00+09:00",
+      "source": "보안뉴스",
+      "title": "[김정덕의 AI 시대 보안 패러다임-7] AI 도입의 딜레마: 혁신의 속도와 리스크의 균형",
+      "summary": [
+        "빠른 AI 도입은 혁신을 촉진하지만 딥페이크 사기, 편향, 번아웃 등 새로운 리스크를 증대시킨다.",
+        "설명가능성 확보와 인간의 최종 판단 필요성으로 안전과 보안의 경계가 모호해지며 책임소재가 복잡해졌다.",
+        "신뢰 기반의 통합 거버넌스와 규제·컴플라이언스 강화를 통해 혁신 속도와 리스크를 균형있게 관리해야 한다."
+      ],
+      "whyItMatters": "AI 확산이 보안·윤리·운영 리스크를 동시에 증대시켜 즉각적이고 포괄적인 거버넌스 대응이 필요하기 때문입니다.",
+      "topics": [
+        "Security",
+        "Policy",
+        "Compliance",
+        "Regulation"
+      ],
+      "status": "ONGOING",
+      "hash": "ec757835293bfa74fea55354dc335996eaf1f848ef44f254af150dfb4f0e4059",
+      "url": "http://www.boannews.com/media/view.asp?idx=141756&kind=&sub_kind="
+    },
+    {
+      "id": "finance_0004",
+      "tab": "finance",
+      "publishedAt": "2026-01-29T16:02:49+09:00",
+      "source": "매일경제(증권)",
+      "title": "뮤직카우, 스테이블코인 STO 결제 실증 성공",
+      "summary": [
+        "뮤직카우가 NH농협·아톤과 함께 스테이블코인 기반 STO 결제의 개념검증(POC)을 성공적으로 완료했다.",
+        "청약부터 정산까지 블록체인 위에서 원스톱으로 처리되는 결제 흐름을 시연했으며 2차 실증에 착수했다.",
+        "회사 측은 K콘텐츠를 한국 디지털금융의 핵심 자산으로 입증했다고 강조했다."
+      ],
+      "whyItMatters": "이는 스테이블코인·블록체인 기반 정산이 규제형 증권(STO) 결제의 현실적 대안으로 자리잡을 가능성을 보여주어 국내 결제·시장인프라와 핀테크 확산에 영향을 미칠 수 있기 때문이다.",
+      "topics": [
+        "Fintech",
+        "Payments",
+        "Crypto",
+        "MarketInfra",
+        "Compliance"
+      ],
+      "status": "ONGOING",
+      "hash": "f2b761e461990b0939f9af2f724852e5d4c45971cc35bb81eb46237b980b5ceb",
+      "url": "https://www.mk.co.kr/news/stock/11947154"
+    },
+    {
+      "id": "finance_0005",
+      "tab": "finance",
+      "publishedAt": "2026-01-29T16:06:35+09:00",
+      "source": "벤처스퀘어",
+      "title": "패스트파이브, 에셋라이트 전략 기반 오피스 플랫폼 사업 확장 본격화",
+      "summary": [
+        "패스트파이브가 에셋라이트 전략을 기반으로 오피스 플랫폼 사업 확장을 본격화한다.",
+        "건물주와의 파트너십으로 초기 투자 부담을 낮추고 입주사 유치·운영·서비스 중심으로 수익 구조를 다각화한다.",
+        "운영 품질 개선과 수요 변화 대응을 통해 시장 점유율 확대를 목표로 한다."
+      ],
+      "whyItMatters": "초기 투자 리스크를 줄이면서 사업 확장과 수익 다각화를 빠르게 추진하기 위해 에셋라이트 파트너십 모델을 채택했다.",
+      "topics": [
+        "MarketInfra",
+        "Compliance"
+      ],
+      "status": "ONGOING",
+      "hash": "e834d075cd650077223823947f009596260655e8403fbd9ef423e97524050630",
+      "url": "https://www.venturesquare.net/1036005/"
+    }
+  ]
+}
