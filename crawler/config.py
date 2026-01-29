@@ -198,7 +198,7 @@ HN_WINDOW_HOURS = 24
 HN_POINTS_MIN = 30
 HN_COMMENTS_MIN = 20
 
-PUBLIC_LATEST_DIR = Path("public/latest")
+PUBLIC_LATEST_DIR = Path("public/briefing")
 ARCHIVE_DIR = Path("archive")
 
 ARCHIVE_FILENAME_FORMAT = "{date}_{period}.json"

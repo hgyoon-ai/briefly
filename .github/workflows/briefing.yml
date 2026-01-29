@@ -56,7 +56,7 @@ jobs:
         run: |
           git status --porcelain
           if [ -n "$(git status --porcelain)" ]; then
-            git add public/latest archive
+            git add public/briefing archive
             git -c user.name="github-actions[bot]" -c user.email="github-actions[bot]@users.noreply.github.com" commit -m "Update briefing data $(date +'%Y-%m-%d')"
             git push
           fi

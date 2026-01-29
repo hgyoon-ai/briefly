@@ -22,10 +22,10 @@ briefly/
 │   │   └── MonthlyTrends.css
 │   └── main.jsx
 ├── public/
-│   └── latest/             # 최신 데이터 (웹에서 사용)
-│       ├── daily.json
-│       ├── weekly.json
-│       └── monthly.json
+│   └── briefing/           # 최신 브리핑 데이터 (웹에서 사용)
+│       ├── ai/
+│       ├── semiconductor/
+│       └── ev/
 ├── archive/                # 아카이브 데이터 (웹 비공개)
 ├── crawler/                # 크롤링/요약 파이프라인
 ├── scripts/                # 실행 스크립트

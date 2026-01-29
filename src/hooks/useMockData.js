@@ -1,9 +1,9 @@
 import { useEffect, useState } from 'react';
 
 const buildEndpoints = (tab) => ({
-  today: `${import.meta.env.BASE_URL}latest/${tab}/daily.json`,
-  weekly: `${import.meta.env.BASE_URL}latest/${tab}/weekly.json`,
-  monthly: `${import.meta.env.BASE_URL}latest/${tab}/monthly.json`
+  today: `${import.meta.env.BASE_URL}briefing/${tab}/daily.json`,
+  weekly: `${import.meta.env.BASE_URL}briefing/${tab}/weekly.json`,
+  monthly: `${import.meta.env.BASE_URL}briefing/${tab}/monthly.json`
 });
 
 const fetchJson = async (url) => {

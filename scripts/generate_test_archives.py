@@ -24,7 +24,7 @@ STATUSES = ["NEW", "ONGOING", "SHIFTING"]
 
 
 def load_base_daily():
-    base_path = Path("public/latest/ai/daily.json")
+    base_path = Path("public/briefing/ai/daily.json")
     return json.loads(base_path.read_text(encoding="utf-8"))
 
 
@@ -103,7 +103,7 @@ def main():
         write_archive("ai", date_str, payload)
 
         if offset == 0:
-            Path("public/latest/ai/daily.json").write_text(
+            Path("public/briefing/ai/daily.json").write_text(
                 json.dumps(payload, ensure_ascii=False, indent=2),
                 encoding="utf-8",
             )
