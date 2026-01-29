@@ -20,7 +20,9 @@ const loadHomeState = () => {
     return {
       mode: parsed.mode === 'briefing' ? 'briefing' : 'market',
       briefingTab:
-        parsed.briefingTab === 'semiconductor' || parsed.briefingTab === 'ev'
+        parsed.briefingTab === 'finance' ||
+        parsed.briefingTab === 'semiconductor' ||
+        parsed.briefingTab === 'ev'
           ? parsed.briefingTab
           : 'ai',
       marketTab:
@@ -123,6 +125,14 @@ function HomePage() {
                   }}
                 >
                   🤖 AI
+                </button>
+                <button
+                  className={`tab-button ${activeTab === 'finance' ? 'active' : ''}`}
+                  onClick={() => {
+                    setHomeState((prev) => ({ ...prev, briefingTab: 'finance' }));
+                  }}
+                >
+                  💼 금융/규제
                 </button>
                 <button
                   className={`tab-button ${activeTab === 'semiconductor' ? 'active' : ''}`}
