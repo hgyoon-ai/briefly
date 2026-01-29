@@ -186,6 +186,8 @@ function SecuritiesAIMarket() {
     });
   }, [baseEvents, timelineCompany]);
 
+  const hasAnyEvents = events.length > 0;
+
   const analysisEvents = useMemo(() => {
     return baseEvents.filter((event) => {
       if (!analysisCompany) return false;
@@ -455,8 +457,14 @@ function SecuritiesAIMarket() {
 
       {viewMode === 'timeline' && timelineEvents.length === 0 ? (
         <div className="market-empty">
-          <div className="empty-title">조건에 맞는 업데이트가 없어요</div>
-          <div className="empty-desc">필터를 줄이거나 기간을 넓혀보세요.</div>
+          <div className="empty-title">
+            {hasAnyEvents ? '현재 필터 조건에 맞는 이벤트가 없어요' : '표시할 이벤트가 아직 없어요'}
+          </div>
+          <div className="empty-desc">
+            {hasAnyEvents
+              ? "필터를 완화하거나 '전체'로 돌아가면 이벤트를 볼 수 있어요."
+              : '공시/앱 업데이트/기사에서 AI 관련 신호가 잡히면 자동으로 여기에 쌓입니다.'}
+          </div>
         </div>
       ) : viewMode === 'timeline' ? (
         <div className="event-list">
@@ -655,7 +663,11 @@ function SecuritiesAIMarket() {
                       </div>
                     </div>
                     {!timelineRange || analysisPointsInRange.length === 0 ? (
-                      <div className="chart-empty">표시할 이벤트가 없습니다.</div>
+                      <div className="chart-empty">
+                        {analysisEvents.length === 0
+                          ? '해당 회사의 이벤트가 아직 없어요.'
+                          : '현재 조건에 맞는 이벤트가 없습니다.'}
+                      </div>
                     ) : (
                       <div className="timeline-scroll">
                         <svg
