@@ -1,6 +1,8 @@
 {
-  "lastUpdated": null,
-  "months": [],
+  "lastUpdated": "2026-01-29",
+  "months": [
+    "2026-01"
+  ],
   "companies": [
     "미래에셋증권",
     "한국투자증권",
@@ -13,6 +15,17 @@
     "메리츠증권",
     "토스증권"
   ],
-  "counts": {"total": 0, "last30d": 0},
-  "qualityByMonth": {}
+  "counts": {
+    "total": 46,
+    "last30d": 46
+  },
+  "qualityByMonth": {
+    "2026-01": {
+      "total": 46,
+      "missingLink": 0,
+      "missingSummary": 0,
+      "missingType": 0,
+      "missingArea": 0
+    }
+  }
 }
