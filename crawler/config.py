@@ -28,7 +28,7 @@ OPENAI_ITEM_MODEL_THRESHOLD = 600
 
 HF_IMPORTANCE_PENALTY = 2
 
-TABS = ["ai", "semiconductor", "ev"]
+TABS = ["ai", "finance", "semiconductor", "ev"]
 
 TOPIC_TAXONOMY = [
     "Models",
@@ -63,8 +63,22 @@ EV_TAXONOMY = [
     "Roadmap",
 ]
 
+FINANCE_TAXONOMY = [
+    "Regulation",
+    "Enforcement",
+    "Privacy",
+    "Security",
+    "Fintech",
+    "Payments",
+    "Crypto",
+    "Compliance",
+    "MarketInfra",
+    "Policy",
+]
+
 TOPIC_TAXONOMY_BY_TAB = {
     "ai": TOPIC_TAXONOMY,
+    "finance": FINANCE_TAXONOMY,
     "semiconductor": SEMICONDUCTOR_TAXONOMY,
     "ev": EV_TAXONOMY,
 }
@@ -188,6 +202,28 @@ RSS_SOURCES = [
         "name": "Reuters Tesla",
         "url": "https://feeds.reuters.com/reuters/companyNews?format=xml&company=TSLA.O",
         "tab": "ev",
+    },
+
+    # Korea-focused finance/regulation/security signals (minimal allowlist).
+    {
+        "name": "정책브리핑",
+        "url": "https://www.korea.kr/rss/policy.xml",
+        "tab": "finance",
+    },
+    {
+        "name": "매일경제(증권)",
+        "url": "https://www.mk.co.kr/rss/50200011/",
+        "tab": "finance",
+    },
+    {
+        "name": "보안뉴스",
+        "url": "http://www.boannews.com/media/news_rss.xml",
+        "tab": "finance",
+    },
+    {
+        "name": "벤처스퀘어",
+        "url": "https://www.venturesquare.net/feed",
+        "tab": "finance",
     },
 ]
 
