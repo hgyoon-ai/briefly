@@ -28,6 +28,12 @@ def make_hash(value):
     return hashlib.sha256(value.encode("utf-8")).hexdigest()
 
 
+def sha1_text(value):
+    if value is None:
+        value = ""
+    return hashlib.sha1(value.encode("utf-8")).hexdigest()
+
+
 def normalize_text(value):
     if not value:
         return ""

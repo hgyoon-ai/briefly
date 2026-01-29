@@ -34,7 +34,7 @@ SOFT_KEYWORDS = [
 ]
 
 
-def normalize_text(value):
+def normalize_for_match(value):
     if not value:
         return ""
     cleaned = re.sub(r"\s+", " ", value)
@@ -42,10 +42,10 @@ def normalize_text(value):
 
 
 def is_ai_candidate(text):
-    lowered = normalize_text(text)
+    lowered = normalize_for_match(text)
     return any(keyword in lowered for keyword in STRONG_KEYWORDS)
 
 
 def is_soft_candidate(text):
-    lowered = normalize_text(text)
+    lowered = normalize_for_match(text)
     return any(keyword in lowered for keyword in SOFT_KEYWORDS)
