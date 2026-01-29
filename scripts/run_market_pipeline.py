@@ -7,19 +7,21 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 from crawler.config import TIMEZONE
+from crawler.market.appstore import build_items as build_appstore_items
+from crawler.market.appstore_apps import APPS as APPSTORE_APPS
 from crawler.market.dart import (
     build_corp_code_map,
     build_disclosure_url,
     list_disclosures,
     parse_rcept_date,
 )
+from crawler.market.failures import append_failure
 from crawler.market.keywords import is_ai_candidate, is_soft_candidate
 from crawler.market.llm_batch import enrich_items
+from crawler.market.news_rss import build_items as build_news_items
 from crawler.market.taxonomy import (
     AREA_RAW_CHOICES,
     TYPE_RAW_CHOICES,
-    map_area_groups,
-    map_type_group,
 )
 from crawler.market.writer import build_index, upsert_month_file, write_json
 
@@ -27,6 +29,7 @@ from crawler.market.writer import build_index, upsert_month_file, write_json
 MARKET_DIR = Path("public/market/securities-ai")
 ARCHIVE_DIR = Path("archive/market/securities-ai")
 CACHE_PATH = ARCHIVE_DIR / "cache.jsonl"
+FAILURES_PATH = ARCHIVE_DIR / "source_failures.jsonl"
 
 
 def sha1(value):
@@ -90,11 +93,26 @@ def build_item(company, corp_code, entry):
         "company": company,
         "corp_code": corp_code,
         "title": report_nm,
+        "snippet": "",
         "date": date_str,
         "url": url,
         "source": "DART",
+        "sourceType": "dart",
         "rcept_no": rcept_no,
     }
+
+
+def log_failure(source_type, now, message, detail=None, company=None):
+    payload = {
+        "ts": now.strftime("%Y-%m-%dT%H:%M:%S"),
+        "sourceType": source_type,
+        "message": message,
+    }
+    if company:
+        payload["company"] = company
+    if detail:
+        payload["detail"] = detail
+    append_failure(FAILURES_PATH, payload)
 
 
 def write_unmatched(unmatched):
@@ -116,19 +134,37 @@ def main():
     import os
 
     dart_key = os.getenv("DART_API_KEY")
-    if not dart_key:
-        raise RuntimeError("DART_API_KEY not set")
+    openai_key = os.getenv("OPENAI_API_KEY")
 
     from zoneinfo import ZoneInfo
 
     now = datetime.now(ZoneInfo(TIMEZONE))
     start, end = get_time_range(args, now)
+    if start.tzinfo is None:
+        start = start.replace(tzinfo=ZoneInfo(TIMEZONE))
+    if end.tzinfo is None:
+        end = end.replace(tzinfo=ZoneInfo(TIMEZONE))
 
     companies = load_index_companies()
-    corp_map, unmatched = build_corp_code_map(companies, dart_key)
-    write_unmatched(unmatched)
-
     raw_items = []
+
+    try:
+        appstore_items = build_appstore_items(APPSTORE_APPS, start, end, now)
+        raw_items.extend(appstore_items)
+    except Exception as exc:
+        log_failure("app_store", now, "App Store fetch failed", detail=repr(exc))
+
+    corp_map = {}
+    if dart_key:
+        try:
+            corp_map, unmatched = build_corp_code_map(companies, dart_key)
+            write_unmatched(unmatched)
+        except Exception as exc:
+            log_failure("dart", now, "DART fetch failed", detail=repr(exc))
+            corp_map = {}
+    else:
+        log_failure("dart", now, "DART_API_KEY not set; skipping DART")
+
     for company, corp_code in corp_map.items():
         entries = list_disclosures(dart_key, corp_code, start, end)
         for entry in entries:
@@ -136,6 +172,12 @@ def main():
             if not item.get("date"):
                 continue
             raw_items.append(item)
+
+    try:
+        news_items = build_news_items(companies, start, end)
+        raw_items.extend(news_items)
+    except Exception as exc:
+        log_failure("news", now, "News fetch failed", detail=repr(exc))
 
     seen = {}
     for item in raw_items:
@@ -145,7 +187,14 @@ def main():
     candidates = []
     for item in deduped:
         title = item.get("title") or ""
-        if is_ai_candidate(title) or is_soft_candidate(title):
+        snippet = item.get("snippet") or ""
+        text = f"{title} {snippet}".strip()
+        source_type = item.get("sourceType")
+        if source_type in ("app_store", "news"):
+            if is_ai_candidate(text):
+                candidates.append(item)
+            continue
+        if is_ai_candidate(text) or is_soft_candidate(text):
             candidates.append(item)
 
     cache = load_cache()
@@ -161,7 +210,7 @@ def main():
                     "id": item["id"],
                     "company": item["company"],
                     "title": item["title"],
-                    "snippet": "",
+                    "snippet": item.get("snippet") or "",
                     "source": item["source"],
                     "date": item["date"],
                     "url": item["url"],
@@ -169,7 +218,15 @@ def main():
             )
 
     if to_enrich:
-        enriched.update(enrich_items(to_enrich, model=args.model, batch_size=args.batch_size))
+        if not openai_key:
+            log_failure("llm", now, "OPENAI_API_KEY not set; skipping enrichment")
+        else:
+            try:
+                enriched.update(
+                    enrich_items(to_enrich, model=args.model, batch_size=args.batch_size)
+                )
+            except Exception as exc:
+                log_failure("llm", now, "LLM enrichment failed", detail=repr(exc))
 
     cache_updates = []
     kept = []
@@ -187,8 +244,6 @@ def main():
         areas_raw = [item for item in (result.get("areas_raw") or []) if item in AREA_RAW_CHOICES]
         if not areas_raw:
             areas_raw = ["기타"]
-        type_group = map_type_group(type_raw)
-        areas_group = map_area_groups(areas_raw)
         kept.append(
             {
                 "id": item["id"],
@@ -196,10 +251,10 @@ def main():
                 "company": item["company"],
                 "title": item["title"],
                 "oneLiner": result.get("oneLiner") or "",
-                "type_raw": type_raw,
-                "areas_raw": areas_raw,
-                "type_group": type_group,
-                "areas_group": areas_group,
+                "type": type_raw,
+                "areas": areas_raw,
+                "region": "국내",
+                "sourceType": item.get("sourceType") or "dart",
                 "sources": [
                     {
                         "source": item["source"],
@@ -207,6 +262,7 @@ def main():
                         "url": item["url"],
                     }
                 ],
+                "tags": [],
                 "confidence": result.get("confidence"),
                 "updatedAt": now.strftime("%Y-%m-%d"),
             }

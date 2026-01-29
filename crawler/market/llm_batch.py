@@ -36,7 +36,7 @@ def build_prompt(items):
     type_list = ", ".join(TYPE_RAW_CHOICES)
     area_list = ", ".join(AREA_RAW_CHOICES)
     prompt = (
-        "너는 증권사 공식 공시/보도자료를 분류하는 분석가다. "
+        "너는 증권사 관련 이벤트(공시, 앱 업데이트 릴리즈노트, 뉴스)를 분류하는 분석가다. "
         "한국어로만 응답하고 JSON 배열만 반환해라. "
         "각 항목은 id, keep(true/false), oneLiner(한두 문장), "
         f"type_raw({type_list}), areas_raw(배열, {area_list}), confidence(0~1) 키를 포함해야 한다. "

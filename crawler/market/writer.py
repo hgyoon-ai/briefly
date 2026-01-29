@@ -41,9 +41,9 @@ def compute_quality(events):
             stats["missingLink"] += 1
         if not event.get("oneLiner"):
             stats["missingSummary"] += 1
-        if not event.get("type_raw"):
+        if not (event.get("type") or event.get("type_raw")):
             stats["missingType"] += 1
-        if not event.get("areas_raw"):
+        if not (event.get("areas") or event.get("areas_raw")):
             stats["missingArea"] += 1
     return stats
 

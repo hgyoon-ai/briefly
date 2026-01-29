@@ -4,11 +4,12 @@ from ..config import MAX_PER_SOURCE
 from ..utils import normalize_text, parse_datetime
 
 
-def fetch_rss_sources(sources, timezone):
+def fetch_rss_sources(sources, timezone, max_items=None):
     items = []
+    limit = max_items if isinstance(max_items, int) and max_items > 0 else MAX_PER_SOURCE["rss"]
     for source in sources:
         feed = feedparser.parse(source["url"])
-        for entry in feed.entries[: MAX_PER_SOURCE["rss"]]:
+        for entry in feed.entries[:limit]:
             published = (
                 entry.get("published")
                 or entry.get("updated")
