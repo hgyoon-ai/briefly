@@ -39,8 +39,13 @@ def _match_company(text, companies):
 
 def build_items(companies, start, end):
     if not NEWS_RSS_SOURCES:
-        return []
+        return [], {"entriesFetched": 0, "bySource": {}}
     raw = fetch_rss_sources(NEWS_RSS_SOURCES, TIMEZONE, max_items=50)
+
+    by_source = {}
+    for entry in raw:
+        name = entry.get("source") or "Unknown"
+        by_source[name] = by_source.get(name, 0) + 1
 
     items = []
     for entry in raw:
@@ -74,4 +79,4 @@ def build_items(companies, start, end):
                 "url": url,
             }
         )
-    return items
+    return items, {"entriesFetched": len(raw), "bySource": by_source}

@@ -31,7 +31,7 @@ def _in_range(dt, start, end):
     return True
 
 
-def build_items(apps, start, end, now, country="kr", on_failure=None):
+def build_items(apps, start, end, now, country="kr", on_failure=None, on_fetched=None):
     items = []
     for app in apps:
         track_id = app.get("trackId")
@@ -45,6 +45,9 @@ def build_items(apps, start, end, now, country="kr", on_failure=None):
             if on_failure:
                 on_failure(company, track_id, exc)
             continue
+
+        if on_fetched:
+            on_fetched(company, track_id)
         version = normalize_text(entry.get("version"))
         release_date = entry.get("currentVersionReleaseDate")
         dt = parse_datetime(release_date, TIMEZONE)
