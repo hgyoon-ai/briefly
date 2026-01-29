@@ -1,10 +1,10 @@
 import { useEffect, useMemo, useState } from 'react';
 
-const buildUrls = () => {
+const buildUrls = (dataset) => {
   const base = import.meta.env.BASE_URL;
   return {
-    index: `${base}market/securities-ai/index.json`,
-    month: (month) => `${base}market/securities-ai/${month}.json`
+    index: `${base}market/${dataset}/index.json`,
+    month: (month) => `${base}market/${dataset}/${month}.json`
   };
 };
 
@@ -21,7 +21,7 @@ const sortEvents = (events) =>
     .slice()
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 
-const useSecuritiesAIMarket = () => {
+const useSecuritiesAIMarket = (dataset = 'securities-ai') => {
   const [index, setIndex] = useState(null);
   const [events, setEvents] = useState([]);
   const [loading, setLoading] = useState(true);
@@ -29,7 +29,7 @@ const useSecuritiesAIMarket = () => {
 
   useEffect(() => {
     let isMounted = true;
-    const urls = buildUrls();
+    const urls = buildUrls(dataset);
 
     const load = async () => {
       try {
@@ -67,7 +67,7 @@ const useSecuritiesAIMarket = () => {
     return () => {
       isMounted = false;
     };
-  }, []);
+  }, [dataset]);
 
   const lastUpdated = useMemo(() => {
     if (index?.lastUpdated) {

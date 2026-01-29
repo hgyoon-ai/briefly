@@ -1,10 +1,10 @@
 import { useEffect, useState } from 'react';
 
-const buildUrls = () => {
+const buildUrls = (dataset) => {
   const base = import.meta.env.BASE_URL;
   return {
-    index: `${base}market/securities-ai/index.json`,
-    month: (month) => `${base}market/securities-ai/${month}.json`
+    index: `${base}market/${dataset}/index.json`,
+    month: (month) => `${base}market/${dataset}/${month}.json`
   };
 };
 
@@ -16,7 +16,7 @@ const fetchJson = async (url) => {
   return response.json();
 };
 
-const useMarketAdminData = () => {
+const useMarketAdminData = (dataset = 'securities-ai') => {
   const [index, setIndex] = useState(null);
   const [events, setEvents] = useState([]);
   const [selectedMonth, setSelectedMonth] = useState('');
@@ -24,8 +24,12 @@ const useMarketAdminData = () => {
   const [error, setError] = useState(null);
 
   useEffect(() => {
+    setSelectedMonth('');
+  }, [dataset]);
+
+  useEffect(() => {
     let isMounted = true;
-    const urls = buildUrls();
+    const urls = buildUrls(dataset);
 
     const loadIndex = async () => {
       try {
@@ -53,11 +57,11 @@ const useMarketAdminData = () => {
     return () => {
       isMounted = false;
     };
-  }, []);
+  }, [dataset]);
 
   useEffect(() => {
     let isMounted = true;
-    const urls = buildUrls();
+    const urls = buildUrls(dataset);
 
     if (!selectedMonth) {
       setEvents([]);
@@ -87,7 +91,7 @@ const useMarketAdminData = () => {
     return () => {
       isMounted = false;
     };
-  }, [selectedMonth]);
+  }, [selectedMonth, dataset]);
 
   return {
     index,

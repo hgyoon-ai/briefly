@@ -9,7 +9,7 @@ const STORAGE_KEY = 'briefly.homeTabs';
 const DEFAULT_STATE = {
   mode: 'market',
   briefingTab: 'ai',
-  marketTab: 'securities'
+  marketTab: 'securities-ai'
 };
 
 const loadHomeState = () => {
@@ -23,7 +23,12 @@ const loadHomeState = () => {
         parsed.briefingTab === 'semiconductor' || parsed.briefingTab === 'ev'
           ? parsed.briefingTab
           : 'ai',
-      marketTab: parsed.marketTab === 'securities' ? parsed.marketTab : 'securities'
+      marketTab:
+        parsed.marketTab === 'securities-updates' || parsed.marketTab === 'securities-ai'
+          ? parsed.marketTab
+          : parsed.marketTab === 'securities'
+            ? 'securities-ai'
+            : 'securities-ai'
     };
   } catch (error) {
     return DEFAULT_STATE;
@@ -91,14 +96,24 @@ function HomePage() {
           <div className="home-nav-divider" />
           <div className="home-tabs-row">
             {mode === 'market' ? (
-            <button
-              className={`tab-button ${activeTab === 'securities' ? 'active' : ''}`}
-              onClick={() => {
-                setHomeState((prev) => ({ ...prev, marketTab: 'securities' }));
-              }}
-            >
-              🏦 증권AI
-            </button>
+              <>
+                <button
+                  className={`tab-button ${activeTab === 'securities-ai' ? 'active' : ''}`}
+                  onClick={() => {
+                    setHomeState((prev) => ({ ...prev, marketTab: 'securities-ai' }));
+                  }}
+                >
+                  🏦 증권AI
+                </button>
+                <button
+                  className={`tab-button ${activeTab === 'securities-updates' ? 'active' : ''}`}
+                  onClick={() => {
+                    setHomeState((prev) => ({ ...prev, marketTab: 'securities-updates' }));
+                  }}
+                >
+                  🧩 증권 업데이트
+                </button>
+              </>
             ) : (
               <>
                 <button
@@ -132,7 +147,14 @@ function HomePage() {
 
         <main className="main-content">
           {mode === 'market' ? (
-            <SecuritiesAIMarket />
+            <SecuritiesAIMarket
+              dataset={activeTab}
+              title={
+                activeTab === 'securities-updates'
+                  ? '🧩 국내 증권사 업데이트'
+                  : '🏦 국내 증권사 AI 동향'
+              }
+            />
           ) : (
             <IndustryHome tab={activeTab} />
           )}

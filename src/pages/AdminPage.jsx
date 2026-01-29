@@ -10,7 +10,7 @@ const STORAGE_KEY = 'briefly.adminTabs';
 const DEFAULT_STATE = {
   mode: 'market',
   briefingTab: 'ai',
-  marketTab: 'securities'
+  marketTab: 'securities-ai'
 };
 
 const loadAdminState = () => {
@@ -24,7 +24,12 @@ const loadAdminState = () => {
         parsed.briefingTab === 'semiconductor' || parsed.briefingTab === 'ev'
           ? parsed.briefingTab
           : 'ai',
-      marketTab: parsed.marketTab === 'securities' ? parsed.marketTab : 'securities'
+      marketTab:
+        parsed.marketTab === 'securities-updates' || parsed.marketTab === 'securities-ai'
+          ? parsed.marketTab
+          : parsed.marketTab === 'securities'
+            ? 'securities-ai'
+            : 'securities-ai'
     };
   } catch (error) {
     return DEFAULT_STATE;
@@ -35,9 +40,9 @@ function AdminPage() {
   const [adminState, setAdminState] = useState(loadAdminState);
   const { mode, briefingTab, marketTab } = adminState;
   const { today, weekly, monthly, loading, error } = useMockData(briefingTab);
-  const marketData = useMarketAdminData();
+  const marketData = useMarketAdminData(marketTab);
   const briefingRuns = useRunHistory('briefing/run_history.json');
-  const marketRuns = useRunHistory('market/securities-ai/run_history.json');
+  const marketRuns = useRunHistory(`market/${marketTab}/run_history.json`);
 
   useEffect(() => {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(adminState));
@@ -151,14 +156,24 @@ function AdminPage() {
         <div className="admin-nav-divider" />
         <div className="admin-tabs-row">
           {mode === 'market' ? (
-            <button
-              className={`tab-button ${activeTab === 'securities' ? 'active' : ''}`}
-              onClick={() => {
-                setAdminState((prev) => ({ ...prev, marketTab: 'securities' }));
-              }}
-            >
-              🏦 증권AI
-            </button>
+            <>
+              <button
+                className={`tab-button ${activeTab === 'securities-ai' ? 'active' : ''}`}
+                onClick={() => {
+                  setAdminState((prev) => ({ ...prev, marketTab: 'securities-ai' }));
+                }}
+              >
+                🏦 증권AI
+              </button>
+              <button
+                className={`tab-button ${activeTab === 'securities-updates' ? 'active' : ''}`}
+                onClick={() => {
+                  setAdminState((prev) => ({ ...prev, marketTab: 'securities-updates' }));
+                }}
+              >
+                🧩 증권 업데이트
+              </button>
+            </>
           ) : (
             <>
               <button
@@ -330,7 +345,7 @@ function AdminPage() {
             )}
           </>
         ) : (
-          <MarketAdminPanel marketData={marketData} marketRuns={marketRuns} />
+          <MarketAdminPanel marketData={marketData} marketRuns={marketRuns} dataset={marketTab} />
         )}
       </main>
     </div>
@@ -404,7 +419,7 @@ function RunHistoryPanel({ title, runs, loading, error, kind }) {
   );
 }
 
-function MarketAdminPanel({ marketData, marketRuns }) {
+function MarketAdminPanel({ marketData, marketRuns, dataset }) {
   const { index, events, selectedMonth, setSelectedMonth, loading, error } = marketData;
 
   const sortedEvents = useMemo(() => {
@@ -489,7 +504,9 @@ function MarketAdminPanel({ marketData, marketRuns }) {
         kind="market"
       />
       <section className="stats-section">
-        <h2>🏦 증권사 AI 데이터</h2>
+        <h2>
+          {dataset === 'securities-updates' ? '🧩 증권 업데이트' : '🏦 증권사 AI 데이터'}
+        </h2>
         <div className="date-label">최근 업데이트: {index.lastUpdated || '-'}</div>
         <div className="stats-grid">
           <div className="stat-card">

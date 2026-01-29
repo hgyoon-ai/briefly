@@ -143,8 +143,8 @@ const handleCardKeyDown = (event, url) => {
   }
 };
 
-function SecuritiesAIMarket() {
-  const { index, events, loading, error, lastUpdated } = useSecuritiesAIMarket();
+function SecuritiesAIMarket({ dataset = 'securities-ai', title = '🏦 국내 증권사 AI 동향' }) {
+  const { index, events, loading, error, lastUpdated } = useSecuritiesAIMarket(dataset);
   const [search, setSearch] = useState('');
   const [timelineCompany, setTimelineCompany] = useState('전체');
   const [analysisCompany, setAnalysisCompany] = useState('');
@@ -361,7 +361,7 @@ function SecuritiesAIMarket() {
     <section className="securities-market">
       <div className="market-header">
         <div>
-          <h2 className="section-title">🏦 국내 증권사 AI 동향</h2>
+          <h2 className="section-title">{title}</h2>
           <div className="market-subtitle">
             최근 업데이트 {lastUpdated ? formatDate(lastUpdated) : '-'} · {periodLabel} {displayCount}건
           </div>
