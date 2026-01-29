@@ -21,7 +21,7 @@ const loadAdminState = () => {
     return {
       mode: parsed.mode === 'briefing' ? 'briefing' : 'market',
       briefingTab:
-        parsed.briefingTab === 'semiconductor' || parsed.briefingTab === 'ev'
+        parsed.briefingTab === 'finance' || parsed.briefingTab === 'semiconductor' || parsed.briefingTab === 'ev'
           ? parsed.briefingTab
           : 'ai',
       marketTab:
@@ -183,6 +183,14 @@ function AdminPage() {
                 }}
               >
                 🤖 AI
+              </button>
+              <button
+                className={`tab-button ${activeTab === 'finance' ? 'active' : ''}`}
+                onClick={() => {
+                  setAdminState((prev) => ({ ...prev, briefingTab: 'finance' }));
+                }}
+              >
+                💼 금융/규제
               </button>
               <button
                 className={`tab-button ${activeTab === 'semiconductor' ? 'active' : ''}`}
@@ -353,6 +361,90 @@ function AdminPage() {
 }
 
 function RunHistoryPanel({ title, runs, loading, error, kind }) {
+  const formatNumber = (value) => {
+    if (typeof value !== 'number' || Number.isNaN(value)) return '-';
+    return value.toLocaleString('ko-KR');
+  };
+
+  const getLatestNumber = (series) => {
+    for (let i = series.length - 1; i >= 0; i -= 1) {
+      const value = series[i];
+      if (typeof value === 'number' && !Number.isNaN(value)) return value;
+    }
+    return null;
+  };
+
+  const buildSeries = (metricGetter) => {
+    if (!Array.isArray(runs) || runs.length === 0) return [];
+
+    // runs are stored newest-first; sparkline should read left->right (oldest->newest)
+    return runs
+      .slice(0, 7)
+      .slice()
+      .reverse()
+      .map((run) => {
+        try {
+          const value = metricGetter(run);
+          const asNumber = typeof value === 'number' ? value : Number(value);
+          return Number.isFinite(asNumber) ? asNumber : null;
+        } catch (e) {
+          return null;
+        }
+      });
+  };
+
+  const Sparkline = ({ series, stroke, ariaLabel }) => {
+    const width = 180;
+    const height = 24;
+    const padX = 2;
+    const padY = 3;
+
+    const points = series.length ? series : [];
+    const numeric = points.filter((v) => typeof v === 'number' && !Number.isNaN(v));
+    const min = numeric.length ? Math.min(...numeric) : 0;
+    const max = numeric.length ? Math.max(...numeric) : 0;
+    const range = max - min;
+
+    const stepX = points.length > 1 ? (width - padX * 2) / (points.length - 1) : 0;
+
+    const toY = (v) => {
+      if (typeof v !== 'number' || Number.isNaN(v)) return height - padY;
+      if (range === 0) return Math.round(height / 2);
+      const ratio = (v - min) / range;
+      return Math.round(height - padY - ratio * (height - padY * 2));
+    };
+
+    const coords = points
+      .map((v, idx) => {
+        const x = Math.round(padX + idx * stepX);
+        const y = toY(v);
+        return `${x},${y}`;
+      })
+      .join(' ');
+
+    return (
+      <svg
+        className="admin-spark-svg"
+        viewBox={`0 0 ${width} ${height}`}
+        width={width}
+        height={height}
+        role="img"
+        aria-label={ariaLabel}
+        preserveAspectRatio="none"
+      >
+        <polyline
+          fill="none"
+          stroke={stroke}
+          strokeWidth="2"
+          strokeLinejoin="round"
+          strokeLinecap="round"
+          points={coords}
+          opacity={numeric.length ? 1 : 0.35}
+        />
+      </svg>
+    );
+  };
+
   if (loading) {
     return (
       <section className="stats-section">
@@ -380,17 +472,80 @@ function RunHistoryPanel({ title, runs, loading, error, kind }) {
     );
   }
 
+  const metrics =
+    kind === 'briefing'
+      ? [
+          {
+            key: 'raw',
+            label: 'raw',
+            stroke: '#ff6b9d',
+            getter: (run) => run?.pipeline?.rawTotal
+          },
+          {
+            key: 'dedupe',
+            label: 'dedupe',
+            stroke: '#ffa500',
+            getter: (run) => run?.pipeline?.dedupedSelected ?? run?.pipeline?.deduped
+          },
+          {
+            key: 'llm',
+            label: 'llm(item)',
+            stroke: '#4a90e2',
+            getter: (run) => run?.llm?.itemCalls
+          }
+        ]
+      : [
+          {
+            key: 'raw',
+            label: 'raw',
+            stroke: '#ff6b9d',
+            getter: (run) => run?.filters?.rawItems
+          },
+          {
+            key: 'cand',
+            label: 'cand',
+            stroke: '#ffa500',
+            getter: (run) => run?.filters?.candidates
+          },
+          {
+            key: 'llm',
+            label: 'llm(sent)',
+            stroke: '#4a90e2',
+            getter: (run) => run?.llm?.sent
+          }
+        ];
+
+  const seriesByMetric = Object.fromEntries(metrics.map((m) => [m.key, buildSeries(m.getter)]));
+
   return (
     <section className="stats-section">
       <h2>{title}</h2>
+      <div className="admin-run-trends" aria-label="최근 7회 추이">
+        {metrics.map((metric) => {
+          const series = seriesByMetric[metric.key] || [];
+          const latest = getLatestNumber(series);
+          return (
+            <div key={metric.key} className="admin-spark-row">
+              <div className="admin-spark-label">{metric.label}</div>
+              <Sparkline
+                series={series}
+                stroke={metric.stroke}
+                ariaLabel={`${metric.label} trend: ${series.map((v) => (typeof v === 'number' ? v : '-')).join(', ')}`}
+              />
+              <div className="admin-spark-value">{formatNumber(latest)}</div>
+            </div>
+          );
+        })}
+      </div>
       <div className="admin-list">
         {runs.slice(0, 7).map((run) => {
           const ts = run?.ts ? new Date(run.ts).toLocaleString('ko-KR') : '-';
           const errorsCount = Array.isArray(run?.errors) ? run.errors.length : 0;
+          const selectedTabs = Array.isArray(run?.selectedTabs) ? run.selectedTabs : null;
 
           let summary = '';
           if (kind === 'briefing') {
-            summary = `raw ${run?.pipeline?.rawTotal ?? '-'} → dedupe ${run?.pipeline?.deduped ?? '-'} → enrich ${run?.pipeline?.enriched ?? '-'}`;
+            summary = `raw ${run?.pipeline?.rawTotal ?? '-'} → dedupe ${run?.pipeline?.dedupedSelected ?? run?.pipeline?.deduped ?? '-'} → enrich ${run?.pipeline?.enriched ?? '-'}`;
           } else {
             summary = `raw ${run?.filters?.rawItems ?? '-'} → cand ${run?.filters?.candidates ?? '-'} → kept ${run?.output?.kept ?? '-'}`;
           }
@@ -399,6 +554,7 @@ function RunHistoryPanel({ title, runs, loading, error, kind }) {
             <div key={run.id || ts} className="admin-list-item compact">
               <div className="admin-list-meta">
                 <span>{ts}</span>
+                {selectedTabs ? <span>tabs {selectedTabs.join(',')}</span> : null}
                 <span>errors {errorsCount}</span>
               </div>
               <div className="admin-list-title">{summary}</div>
