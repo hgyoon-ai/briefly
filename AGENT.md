@@ -30,7 +30,7 @@ Briefly는 AI/반도체/EV 등 산업 트렌드를 일간·주간·월간 이슈
 ### 마켓(증권사) 소스
 - 1순위: iOS App Store 앱 업데이트(릴리즈 노트) - API 키 불필요 (`crawler/market/appstore_apps.py`)
 - 2순위: DART 공시 - 환경 변수 `DART_API_KEY` 필요
-- 3순위: 뉴스(RSS) - 기본은 비활성(소스 리스트를 추가해야 동작)
+- 3순위: 뉴스(RSS) - allowlist는 `crawler/market/news_rss.py`
 
 ## 3-2. 크롤링 소스 (최소 셋업)
 - OpenAI Blog, Anthropic Blog, Google DeepMind Blog, Meta AI Blog

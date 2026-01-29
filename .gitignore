@@ -2,3 +2,6 @@
 .env
 __pycache__/
 *.pyc
+
+# Keep market pipeline cache/logs out of git
+archive/market/

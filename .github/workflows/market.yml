@@ -25,6 +25,9 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Prepare market archive dir
+        run: mkdir -p archive/market/securities-ai
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
@@ -32,6 +35,14 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r requirements.txt
+
+      - name: Restore market cache
+        uses: actions/cache@v4
+        with:
+          path: archive/market/securities-ai/cache.jsonl
+          key: market-cache-${{ runner.os }}-${{ github.run_id }}
+          restore-keys: |
+            market-cache-${{ runner.os }}-
 
       - name: Run market pipeline
         env:
@@ -47,11 +58,21 @@ jobs:
             python3 -m scripts.run_market_pipeline --lookback-days "$LOOKBACK"
           fi
 
+      - name: Upload market logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: market-logs-${{ github.run_id }}
+          path: |
+            archive/market/securities-ai/source_failures.jsonl
+            archive/market/securities-ai/unmatched_companies.json
+          if-no-files-found: ignore
+
       - name: Commit updates
         run: |
           git status --porcelain
           if [ -n "$(git status --porcelain)" ]; then
-            git add public/market archive/market
+            git add public/market
             git -c user.name="github-actions[bot]" -c user.email="github-actions[bot]@users.noreply.github.com" commit -m "Update market data $(date +'%Y-%m-%d')"
             git push
           fi
