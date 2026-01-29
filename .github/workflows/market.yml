@@ -86,7 +86,7 @@ jobs:
           git status --porcelain
           if [ -n "$(git status --porcelain)" ]; then
             git add public/market
-            git -c user.name="github-actions[bot]" -c user.email="github-actions[bot]@users.noreply.github.com" commit -m "Update market data $(date +'%Y-%m-%d')"
+            git -c user.name="github-actions[bot]" -c user.email="github-actions[bot]@users.noreply.github.com" commit -m "Update market data $(TZ=Asia/Seoul date +'%Y-%m-%d')"
             for attempt in 1 2 3; do
               git fetch origin main
               if git pull --rebase origin main && git push; then
