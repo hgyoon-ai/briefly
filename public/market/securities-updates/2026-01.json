@@ -6,7 +6,7 @@
       "date": "2026-01-30",
       "company": "KB증권",
       "title": "“포스코퓨처엠, ESS향 LFP에 달린 실적 회복 속도”…목표가↑",
-      "oneLiner": "KB증권이 포스코퓨처엠의 실적 회복을 근거로 목표주가를 기존 27만원에서 28만원으로 상향했다는 리서치 보도이다.",
+      "oneLiner": "KB증권이 포스코퓨처엠에 대한 리서치에서 목표가를 상향(27만→28만원)한 리포트를 공개함 — 리서치 기반 의견 업데이트.",
       "type": "리서치",
       "areas": [
         "리서치"
@@ -21,15 +21,15 @@
         }
       ],
       "tags": [],
-      "confidence": 0.8,
-      "updatedAt": "2026-01-30"
+      "confidence": 0.9,
+      "updatedAt": "2026-01-31"
     },
     {
       "id": "news:KB증권:https://www.fnnews.com/news/202601300730500311",
       "date": "2026-01-30",
       "company": "KB증권",
       "title": "포스코인터내셔널, 올해 영업익 1.3조 추정...목표가↑-KB증권",
-      "oneLiner": "KB증권이 포스코인터내셔널의 올해 영업이익 전망을 상향하며 목표주가를 올렸다는 리서치 리포트 보도이다.",
+      "oneLiner": "KB증권이 포스코인터내셔널에 대해 목표주가를 상향하고 투자의견을 유지한 리서치 내용을 발표함 — 리서치 업데이트.",
       "type": "리서치",
       "areas": [
         "리서치"
@@ -44,18 +44,19 @@
         }
       ],
       "tags": [],
-      "confidence": 0.8,
-      "updatedAt": "2026-01-30"
+      "confidence": 0.9,
+      "updatedAt": "2026-01-31"
     },
     {
       "id": "news:NH투자증권:https://www.fnnews.com/news/202601301333186238",
       "date": "2026-01-30",
       "company": "NH투자증권",
       "title": "NH투자증권, RIA 사전 알림신청 이벤트 진행",
-      "oneLiner": "NH투자증권이 RIA(국내시장 복귀계좌) 제도 시행을 앞두고 사전 알림신청 이벤트를 진행한다고 공지했다.",
+      "oneLiner": "NH투자증권이 RIA 제도 시행을 앞두고 사전 알림신청 이벤트를 진행 — 제도 대응 및 고객 대상 계좌 안내·유치 활동.",
       "type": "규제",
       "areas": [
-        "브로커리지"
+        "브로커리지",
+        "상담"
       ],
       "region": "국내",
       "sourceType": "news",
@@ -67,18 +68,64 @@
         }
       ],
       "tags": [],
-      "confidence": 0.85,
-      "updatedAt": "2026-01-30"
+      "confidence": 0.9,
+      "updatedAt": "2026-01-31"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/11948478",
+      "date": "2026-01-30",
+      "company": "한국투자증권",
+      "title": "한투운용, 한국투자K지수&테마로테이션 펀드 출시",
+      "oneLiner": "한국투자신탁운용이 '한국투자K지수&테마로테이션 펀드'를 출시했다고 발표 — 모멘텀 기반 테마투자 신상품 출시.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한투운용, 한국투자K지수&테마로테이션 펀드 출시",
+          "url": "https://www.mk.co.kr/news/stock/11948478"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-01-31"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202601301546420269",
+      "date": "2026-01-30",
+      "company": "한국투자증권",
+      "title": "“손실 15%까지 회사 부담”…한투밸류 K파워2 펀드 1100억 모아",
+      "oneLiner": "한국투자증권이 손익차등형 공모펀드 '한국밸류 K파워2'를 설정·모집 완료(1114억원)하며 손실 일부를 회사가 부담하는 구조를 도입함.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "“손실 15%까지 회사 부담”…한투밸류 K파워2 펀드 1100억 모아",
+          "url": "https://www.fnnews.com/news/202601301546420269"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-01-31"
     },
     {
       "id": "550c92c389aa962b5356fcdb845d8ae6a8055871",
       "date": "2026-01-29",
       "company": "NH투자증권",
       "title": "기업설명회(IR)개최(안내공시)              ",
-      "oneLiner": "NH투자증권이 기업설명회(IR) 개최를 알리는 공시를 냈다.",
-      "type": "기타",
+      "oneLiner": "NH투자증권이 기업설명회(IR) 개최를 DART 공시로 알림 — 투자자 대상 공식 설명회 일정·내용 관련 규제 공시 건.",
+      "type": "규제",
       "areas": [
-        "리서치"
+        "기타"
       ],
       "region": "국내",
       "sourceType": "dart",
@@ -90,18 +137,19 @@
         }
       ],
       "tags": [],
-      "confidence": 0.9,
-      "updatedAt": "2026-01-30"
+      "confidence": 0.85,
+      "updatedAt": "2026-01-31"
     },
     {
       "id": "8772e6a8e8baace1315af22beefebaddb5467fb9",
       "date": "2026-01-29",
       "company": "NH투자증권",
       "title": "매출액또는손익구조30%(대규모법인은15%)이상변경              ",
-      "oneLiner": "NH투자증권이 매출액 또는 손익구조가 30% 이상 변경(대규모법인 15% 기준)에 해당함을 공시했다.",
+      "oneLiner": "NH투자증권이 매출액 또는 손익구조 30%(대규모법인은 15%) 이상 변경 관련 공시를 제출했다. 중요한 재무구조 변화로 리스크·투자자 공시 이슈에 해당한다.",
       "type": "규제",
       "areas": [
-        "리스크"
+        "리스크",
+        "브로커리지"
       ],
       "region": "국내",
       "sourceType": "dart",
@@ -113,8 +161,8 @@
         }
       ],
       "tags": [],
-      "confidence": 0.95,
-      "updatedAt": "2026-01-30"
+      "confidence": 0.9,
+      "updatedAt": "2026-01-31"
     },
     {
       "id": "news:미래에셋증권:https://www.fnnews.com/news/202601291821332324",
