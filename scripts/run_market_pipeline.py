@@ -28,8 +28,8 @@ from crawler.utils import sha1_text
 from crawler.run_stats import write_run_and_history
 
 
-DEFAULT_DATASET = "securities-ai"
-DATASET_CHOICES = ["securities-ai", "securities-updates"]
+DEFAULT_DATASET = "all"
+DATASET_CHOICES = ["all", "securities-ai", "securities-updates"]
 
 
 def dataset_dirs(dataset):
@@ -135,31 +135,7 @@ def write_unmatched(unmatched, archive_dir):
     write_json(path, {"unmatched": unmatched})
 
 
-def main():
-    load_dotenv()
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--dataset", type=str, default=DEFAULT_DATASET, choices=DATASET_CHOICES)
-    parser.add_argument("--lookback-days", type=int, default=3)
-    parser.add_argument("--month", type=str, default=None)
-    parser.add_argument("--model", type=str, default="gpt-5-mini")
-    parser.add_argument("--batch-size", type=int, default=12)
-    args = parser.parse_args()
-
-    import os
-
-    dart_key = os.getenv("DART_API_KEY")
-    openai_key = os.getenv("OPENAI_API_KEY")
-
-    from zoneinfo import ZoneInfo
-
-    now = datetime.now(ZoneInfo(TIMEZONE))
-    start, end = get_time_range(args, now)
-    if start.tzinfo is None:
-        start = start.replace(tzinfo=ZoneInfo(TIMEZONE))
-    if end.tzinfo is None:
-        end = end.replace(tzinfo=ZoneInfo(TIMEZONE))
-
-    dataset = args.dataset
+def run_dataset(args, now, start, end, dataset, *, openai_key, dart_key):
     market_dir, archive_dir = dataset_dirs(dataset)
     cache_path = archive_dir / "cache.jsonl"
     failures_path = archive_dir / "source_failures.jsonl"
@@ -440,6 +416,48 @@ def main():
             write_run_and_history(run_path, run_history_path, run_stats, limit=7)
         except Exception:
             pass
+
+
+def main():
+    load_dotenv()
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--dataset", type=str, default=DEFAULT_DATASET, choices=DATASET_CHOICES)
+    parser.add_argument("--lookback-days", type=int, default=3)
+    parser.add_argument("--month", type=str, default=None)
+    parser.add_argument("--model", type=str, default="gpt-5-mini")
+    parser.add_argument("--batch-size", type=int, default=12)
+    args = parser.parse_args()
+
+    import os
+
+    dart_key = os.getenv("DART_API_KEY")
+    openai_key = os.getenv("OPENAI_API_KEY")
+
+    from zoneinfo import ZoneInfo
+
+    now = datetime.now(ZoneInfo(TIMEZONE))
+    start, end = get_time_range(args, now)
+    if start.tzinfo is None:
+        start = start.replace(tzinfo=ZoneInfo(TIMEZONE))
+    if end.tzinfo is None:
+        end = end.replace(tzinfo=ZoneInfo(TIMEZONE))
+
+    datasets = (
+        ["securities-ai", "securities-updates"]
+        if args.dataset == "all"
+        else [args.dataset]
+    )
+
+    for dataset in datasets:
+        run_dataset(
+            args,
+            now,
+            start,
+            end,
+            dataset,
+            openai_key=openai_key,
+            dart_key=dart_key,
+        )
 
 
 if __name__ == "__main__":

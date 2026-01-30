@@ -6,6 +6,15 @@ on:
     - cron: "30 21 * * *"
   workflow_dispatch:
     inputs:
+      dataset:
+        description: "Dataset to crawl"
+        required: false
+        default: "all"
+        type: choice
+        options:
+          - all
+          - securities-ai
+          - securities-updates
       lookback_days:
         description: "Lookback days for market crawl"
         required: false
@@ -60,13 +69,13 @@ jobs:
         run: |
           MONTH="${{ github.event.inputs.month }}"
           LOOKBACK="${{ github.event.inputs.lookback_days }}"
+          DATASET="${{ github.event.inputs.dataset }}"
+          if [ -z "$DATASET" ]; then DATASET=all; fi
           if [ -n "$MONTH" ]; then
-            python3 -m scripts.run_market_pipeline --dataset securities-ai --month "$MONTH"
-            python3 -m scripts.run_market_pipeline --dataset securities-updates --month "$MONTH"
+            python3 -m scripts.run_market_pipeline --dataset "$DATASET" --month "$MONTH"
           else
             if [ -z "$LOOKBACK" ]; then LOOKBACK=3; fi
-            python3 -m scripts.run_market_pipeline --dataset securities-ai --lookback-days "$LOOKBACK"
-            python3 -m scripts.run_market_pipeline --dataset securities-updates --lookback-days "$LOOKBACK"
+            python3 -m scripts.run_market_pipeline --dataset "$DATASET" --lookback-days "$LOOKBACK"
           fi
 
       - name: Upload market logs
