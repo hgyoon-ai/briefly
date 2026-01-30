@@ -15,7 +15,7 @@ from crawler.market.dart import (
     parse_rcept_date,
 )
 from crawler.market.failures import append_failure
-from crawler.market.keywords import is_ai_candidate, is_soft_candidate
+from crawler.market.keywords import is_ai_candidate
 from crawler.market.llm_batch import enrich_items, enrich_items_profile
 from crawler.market.news_rss import build_items as build_news_items
 from crawler.market.updates_keywords import is_updates_candidate
@@ -92,6 +92,7 @@ def build_item(company, corp_code, entry):
     rcept_no = entry.get("rcept_no")
     report_nm = entry.get("report_nm")
     rcept_dt = entry.get("rcept_dt")
+    pblntf_ty = entry.get("_pblntf_ty") or entry.get("pblntf_ty")
     date_obj = parse_rcept_date(rcept_dt)
     date_str = date_obj.strftime("%Y-%m-%d") if date_obj else None
     url = build_disclosure_url(rcept_no)
@@ -103,12 +104,14 @@ def build_item(company, corp_code, entry):
         "company": company,
         "corp_code": corp_code,
         "title": report_nm,
-        "snippet": "",
+        # DART list.json includes `rm` (비고). Use it as a lightweight snippet for filtering.
+        "snippet": entry.get("rm") or "",
         "date": date_str,
         "url": url,
         "source": "DART",
         "sourceType": "dart",
         "rcept_no": rcept_no,
+        "pblntf_ty": pblntf_ty,
     }
 
 
@@ -227,6 +230,7 @@ def main():
         }
 
         corp_map = {}
+        dart_filters = {"pblntf_ty": ["B", "E", "I"], "last_reprt_at": "Y"}
         if dart_key:
             try:
                 corp_map, unmatched = build_corp_code_map(companies, dart_key)
@@ -235,6 +239,7 @@ def main():
                     "companiesTotal": len(companies),
                     "matched": len(corp_map),
                     "unmatched": len(unmatched),
+                    "filters": dart_filters,
                 }
             except Exception as exc:
                 log_failure(failures_path, "dart", now, "DART fetch failed", detail=repr(exc))
@@ -242,10 +247,17 @@ def main():
                 corp_map = {}
         else:
             log_failure(failures_path, "dart", now, "DART_API_KEY not set; skipping DART")
-            run_stats["sources"]["dart"] = {"skipped": True}
+            run_stats["sources"]["dart"] = {"skipped": True, "filters": dart_filters}
 
         for company, corp_code in corp_map.items():
-            entries = list_disclosures(dart_key, corp_code, start, end)
+            entries = list_disclosures(
+                dart_key,
+                corp_code,
+                start,
+                end,
+                pblntf_ty=dart_filters["pblntf_ty"],
+                last_reprt_at=dart_filters["last_reprt_at"],
+            )
             for entry in entries:
                 item = build_item(company, corp_code, entry)
                 if not item.get("date"):
@@ -281,18 +293,21 @@ def main():
             text = f"{title} {snippet}".strip()
             source_type = item.get("sourceType")
             if dataset == "securities-updates":
-                if is_updates_candidate(text):
+                # Always exclude AI-related items from the updates dataset.
+                if is_ai_candidate(text):
+                    continue
+
+                # DART is an official channel; avoid over-filtering by update keywords.
+                if source_type == "dart":
+                    keyword_passed += 1
+                    candidates.append(item)
+                elif is_updates_candidate(text):
                     keyword_passed += 1
                     candidates.append(item)
                 continue
 
             # securities-ai
-            if source_type in ("app_store", "news"):
-                if is_ai_candidate(text):
-                    keyword_passed += 1
-                    candidates.append(item)
-                continue
-            if is_ai_candidate(text) or is_soft_candidate(text):
+            if is_ai_candidate(text):
                 keyword_passed += 1
                 candidates.append(item)
 

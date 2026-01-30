@@ -1,4 +1,4 @@
-from crawler.market.keywords import is_ai_candidate, is_soft_candidate, normalize_for_match
+from crawler.market.keywords import is_ai_candidate, normalize_for_match
 
 
 STRONG_UPDATE_KEYWORDS = [
@@ -76,7 +76,7 @@ def is_updates_candidate(text):
         return False
 
     # Exclude AI-related items from this dataset.
-    if is_ai_candidate(lowered) or is_soft_candidate(lowered):
+    if is_ai_candidate(lowered):
         return False
 
     return any(keyword.lower() in lowered for keyword in STRONG_UPDATE_KEYWORDS) or any(

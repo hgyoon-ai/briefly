@@ -79,33 +79,71 @@ def build_corp_code_map(companies, api_key, overrides=None):
     return result, unmatched
 
 
-def list_disclosures(api_key, corp_code, start_date, end_date):
-    items = []
-    page_no = 1
-    while True:
-        params = {
-            "crtfc_key": api_key,
-            "corp_code": corp_code,
-            "bgn_de": start_date.strftime("%Y%m%d"),
-            "end_de": end_date.strftime("%Y%m%d"),
-            "page_no": page_no,
-            "page_count": 100,
-        }
-        response = requests.get(LIST_URL, params=params, timeout=30)
-        response.raise_for_status()
-        payload = response.json()
-        if payload.get("status") == "013":
-            break
-        if payload.get("status") != "000":
-            raise RuntimeError(f"DART list error: {payload}")
-        page_items = payload.get("list", [])
-        items.extend(page_items)
+def list_disclosures(
+    api_key,
+    corp_code,
+    start_date,
+    end_date,
+    *,
+    pblntf_ty=None,
+    last_reprt_at=None,
+):
+    """List disclosures for a corp within a date range.
 
-        total_page = int(payload.get("total_page") or 1)
-        if page_no >= total_page:
-            break
-        page_no += 1
-    return items
+    Notes:
+    - OpenDART list.json supports filtering by pblntf_ty (A..J) and last_reprt_at (Y/N).
+    - The API accepts a single pblntf_ty per request, so when a list is provided, we fan out
+      and merge results.
+    """
+
+    def _list_one(p_ty):
+        items = []
+        page_no = 1
+        while True:
+            params = {
+                "crtfc_key": api_key,
+                "corp_code": corp_code,
+                "bgn_de": start_date.strftime("%Y%m%d"),
+                "end_de": end_date.strftime("%Y%m%d"),
+                "page_no": page_no,
+                "page_count": 100,
+            }
+            if p_ty:
+                params["pblntf_ty"] = p_ty
+            if last_reprt_at:
+                params["last_reprt_at"] = last_reprt_at
+
+            response = requests.get(LIST_URL, params=params, timeout=30)
+            response.raise_for_status()
+            payload = response.json()
+            if payload.get("status") == "013":
+                break
+            if payload.get("status") != "000":
+                raise RuntimeError(f"DART list error: {payload}")
+
+            page_items = payload.get("list", [])
+            for entry in page_items:
+                # Keep track of which disclosure group this came from for downstream filtering/debug.
+                if p_ty:
+                    entry["_pblntf_ty"] = p_ty
+                items.append(entry)
+
+            total_page = int(payload.get("total_page") or 1)
+            if page_no >= total_page:
+                break
+            page_no += 1
+        return items
+
+    if not pblntf_ty:
+        return _list_one(None)
+
+    if isinstance(pblntf_ty, (list, tuple, set)):
+        merged = []
+        for ty in pblntf_ty:
+            merged.extend(_list_one(ty))
+        return merged
+
+    return _list_one(pblntf_ty)
 
 
 def build_disclosure_url(rcept_no):
