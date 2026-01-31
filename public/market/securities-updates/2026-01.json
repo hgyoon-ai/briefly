@@ -2,6 +2,53 @@
   "month": "2026-01",
   "events": [
     {
+      "id": "ac7e7ee5af79d0f2abc3d2ffa6e0a21f267cacf6",
+      "date": "2026-01-31",
+      "company": "한국투자증권",
+      "title": "한국투자증권 iOS 앱 업데이트 v2.19.00",
+      "oneLiner": "한국투자증권 iOS 앱에서 실현손익 화면이 새롭게 개편된 업데이트입니다.",
+      "type": "출시",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "app_store",
+      "sources": [
+        {
+          "source": "App Store",
+          "title": "한국투자증권 iOS 앱 업데이트 v2.19.00",
+          "url": "https://apps.apple.com/kr/app/%ED%95%9C%ED%88%AC-%ED%95%9C%EA%B5%AD%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C-mts-%ED%88%AC%EC%9E%90-%EC%A6%9D%EA%B6%8C-%ED%95%B4%EC%99%B8%EC%A3%BC%EC%8B%9D-%EC%A3%BC%EC%8B%9D%EC%96%B4%ED%94%8C/id1621986905?uo=4"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-01"
+    },
+    {
+      "id": "1bd0cb86cd173e9bbaa97478e7a83ef27ac397ce",
+      "date": "2026-01-31",
+      "company": "삼성증권",
+      "title": "삼성증권 iOS 앱 업데이트 v3.0.90",
+      "oneLiner": "삼성증권 iOS 앱 업데이트로 VoiceOver 접근성이 개선되고 계좌번호 마스킹 기능이 추가되었습니다.",
+      "type": "출시",
+      "areas": [
+        "기타",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "app_store",
+      "sources": [
+        {
+          "source": "App Store",
+          "title": "삼성증권 iOS 앱 업데이트 v3.0.90",
+          "url": "https://apps.apple.com/kr/app/%EC%82%BC%EC%84%B1%EC%A6%9D%EA%B6%8C-mpop/id1150231646?uo=4"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-01"
+    },
+    {
       "id": "news:KB증권:https://www.mk.co.kr/news/stock/11947970",
       "date": "2026-01-30",
       "company": "KB증권",
@@ -22,7 +69,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-01-31"
+      "updatedAt": "2026-02-01"
     },
     {
       "id": "news:KB증권:https://www.fnnews.com/news/202601300730500311",
@@ -92,7 +139,7 @@
       ],
       "tags": [],
       "confidence": 0.95,
-      "updatedAt": "2026-01-31"
+      "updatedAt": "2026-02-01"
     },
     {
       "id": "news:한국투자증권:https://www.fnnews.com/news/202601301546420269",
@@ -138,7 +185,7 @@
       ],
       "tags": [],
       "confidence": 0.85,
-      "updatedAt": "2026-01-31"
+      "updatedAt": "2026-02-01"
     },
     {
       "id": "8772e6a8e8baace1315af22beefebaddb5467fb9",
@@ -162,7 +209,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-01-31"
+      "updatedAt": "2026-02-01"
     },
     {
       "id": "news:미래에셋증권:https://www.fnnews.com/news/202601291821332324",
