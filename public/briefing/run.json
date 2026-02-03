@@ -1,6 +1,6 @@
 {
-  "id": "2026-02-03T09:26:55.762635+09:00",
-  "ts": "2026-02-03T09:26:55.762635+09:00",
+  "id": "2026-02-04T07:21:43.898379+09:00",
+  "ts": "2026-02-04T07:21:43.898379+09:00",
   "timezone": "Asia/Seoul",
   "selectedTabs": [
     "ai",
@@ -9,7 +9,7 @@
     "ev"
   ],
   "pipeline": {
-    "rawTotal": 229,
+    "rawTotal": 230,
     "rawClamped": 150,
     "deduped": 150,
     "dedupedSelected": 150,
@@ -40,7 +40,7 @@
       "total": 0
     },
     "hn": {
-      "total": 14
+      "total": 15
     }
   },
   "llm": {
@@ -51,15 +51,15 @@
   "tabs": {
     "ai": {
       "daily": {
-        "raw": 2,
-        "cards": 2
+        "raw": 5,
+        "cards": 4
       },
       "weekly": {
-        "items": 12,
+        "items": 11,
         "issues": 5
       },
       "monthly": {
-        "items": 25,
+        "items": 29,
         "issues": 5
       }
     },
@@ -69,25 +69,25 @@
         "cards": 3
       },
       "weekly": {
-        "items": 20,
+        "items": 23,
         "issues": 5
       },
       "monthly": {
-        "items": 20,
+        "items": 23,
         "issues": 5
       }
     },
     "semiconductor": {
       "daily": {
         "raw": 5,
-        "cards": 4
+        "cards": 3
       },
       "weekly": {
-        "items": 17,
+        "items": 15,
         "issues": 5
       },
       "monthly": {
-        "items": 20,
+        "items": 23,
         "issues": 5
       }
     },
@@ -101,7 +101,7 @@
         "issues": 5
       },
       "monthly": {
-        "items": 17,
+        "items": 19,
         "issues": 5
       }
     }
