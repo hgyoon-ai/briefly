@@ -45,7 +45,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-02-03"
+      "updatedAt": "2026-02-04"
     },
     {
       "id": "news:NH투자증권:https://www.fnnews.com/news/202602030933455200",
@@ -69,7 +69,122 @@
       ],
       "tags": [],
       "confidence": 0.85,
-      "updatedAt": "2026-02-03"
+      "updatedAt": "2026-02-04"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.hankyung.com/article/202602030980i",
+      "date": "2026-02-03",
+      "company": "미래에셋증권",
+      "title": "중국인 주식 투자 열풍 불자…미래에셋, TIGER 차이나증권 ETF 내놨다",
+      "oneLiner": "미래에셋이 TIGER 차이나증권 ETF를 출시해 중국 주식에 투자하는 신규 상장 ETF 상품을 내놓았습니다. ETF 출시로 상품 라인업 확대와 고객 투자 선택지가 늘어납니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "중국인 주식 투자 열풍 불자…미래에셋, TIGER 차이나증권 ETF 내놨다",
+          "url": "https://www.hankyung.com/article/202602030980i"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-04"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202602031025098068",
+      "date": "2026-02-03",
+      "company": "한국투자증권",
+      "title": "한투운용, ACE 미국SMR원자력TOP10 ETF 신규 상장 \"SMR 핵심 기업 집중\"",
+      "oneLiner": "한국투자신탁운용이 소형모듈원자로(SMR) 관련주에 투자하는 'ACE 미국SMR원자력TOP10 ETF'를 신규 상장했습니다. 해당 ETF는 SMR 설계·연료 기업 비중이 높아 상품 특화 포지셔닝을 가집니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투운용, ACE 미국SMR원자력TOP10 ETF 신규 상장 \"SMR 핵심 기업 집중\"",
+          "url": "https://www.fnnews.com/news/202602031025098068"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-02-04"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202602030916599813",
+      "date": "2026-02-03",
+      "company": "NH투자증권",
+      "title": "\"영업익 85% 급증\" SK텔레콤 목표가 8.1만↑... 삼성SDI, 적자폭 축소 전망 [株토피아]",
+      "oneLiner": "NH투자증권이 SK텔레콤 등 종목에 대한 리포트에서 목표주가 및 실적 전망을 상향 조정했습니다. 증권사 리서치의 투자의견·목표가 변경을 알리는 내용입니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"영업익 85% 급증\" SK텔레콤 목표가 8.1만↑... 삼성SDI, 적자폭 축소 전망 [株토피아]",
+          "url": "https://www.fnnews.com/news/202602030916599813"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-04"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202602031807424102",
+      "date": "2026-02-03",
+      "company": "한국투자증권",
+      "title": "'AAA등급' KT 공모채 3000억 풀리나",
+      "oneLiner": "KT가 공모 회사채 발행을 준비 중이며 NH투자증권·KB증권·신한투자증권·한국투자증권·하나증권 등 5개사가 대표주관을 맡기로 한 딜 소식입니다. 증권사들의 인수·주관 참여는 자금조달 업무(브로커리지·IB)와 관련된 실무 이벤트입니다.",
+      "type": "기타",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "'AAA등급' KT 공모채 3000억 풀리나",
+          "url": "https://www.fnnews.com/news/202602031807424102"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-02-04"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202602031809144270",
+      "date": "2026-02-03",
+      "company": "한국투자증권",
+      "title": "한투운용, 美SMR원자력 ETF 상장",
+      "oneLiner": "한투운용이 ACE 미국SMR원자력TOP10 ETF를 유가증권시장에 상장했습니다. SMR 관련 핵심기업에 집중 편입한 신규 ETF 출시입니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투운용, 美SMR원자력 ETF 상장",
+          "url": "https://www.fnnews.com/news/202602031809144270"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-02-04"
     },
     {
       "id": "news:NH투자증권:https://www.mk.co.kr/news/stock/11950497",
