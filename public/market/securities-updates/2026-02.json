@@ -2,6 +2,54 @@
   "month": "2026-02",
   "events": [
     {
+      "id": "news:삼성증권:https://www.hankyung.com/article/2026020427911",
+      "date": "2026-02-04",
+      "company": "삼성증권",
+      "title": "삼성증권 중개형 ISA, 절세 계좌 8조 몰려…신규 고객 수수료 평생 혜택",
+      "oneLiner": "삼성증권이 중개형 ISA에 대해 신규 고객에게 수수료 평생 혜택을 제공하는 상품·수수료 정책 혜택을 발표했습니다.",
+      "type": "기타",
+      "areas": [
+        "브로커리지",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "삼성증권 중개형 ISA, 절세 계좌 8조 몰려…신규 고객 수수료 평생 혜택",
+          "url": "https://www.hankyung.com/article/2026020427911"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-02-05"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202602041040451599",
+      "date": "2026-02-04",
+      "company": "NH투자증권",
+      "title": "NH투자증권, ‘N2, 찾아가는 인생대학’ 진행",
+      "oneLiner": "NH투자증권이 법인 고객 대상 맞춤형 교육 프로그램 'N2, 찾아가는 인생대학'을 도입해 고객 밀착형 금융교육 서비스를 확대합니다.",
+      "type": "출시",
+      "areas": [
+        "WM",
+        "상담"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "NH투자증권, ‘N2, 찾아가는 인생대학’ 진행",
+          "url": "https://www.fnnews.com/news/202602041040451599"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-02-05"
+    },
+    {
       "id": "news:NH투자증권:https://www.hankyung.com/article/2026020396956",
       "date": "2026-02-03",
       "company": "NH투자증권",
