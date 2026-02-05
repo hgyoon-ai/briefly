@@ -41,6 +41,34 @@ def format_date(value):
         return None
 
 
+def write_archive_developer(date_str, payload):
+    year = date_str.split("-")[0]
+    month = date_str.split("-")[1]
+    archive_dir = Path("archive/developer") / year / month
+    archive_dir.mkdir(parents=True, exist_ok=True)
+    filename = f"{date_str}_daily.json"
+    target = archive_dir / filename
+    target.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+def load_previous_ids_from_archive(date_str):
+    try:
+        date_obj = datetime.strptime(date_str, "%Y-%m-%d")
+    except ValueError:
+        return set()
+    prev_date = (date_obj - timedelta(days=1)).strftime("%Y-%m-%d")
+    year = prev_date.split("-")[0]
+    month = prev_date.split("-")[1]
+    path = Path("archive/developer") / year / month / f"{prev_date}_daily.json"
+    if not path.exists():
+        return set()
+    try:
+        payload = json.loads(path.read_text(encoding="utf-8"))
+    except Exception:
+        return set()
+    return {item.get("id") for item in payload.get("clusters", []) if item.get("id")}
+
+
 def build_repo_cluster(repo, release, hn_items, now):
     full_name = repo.get("full_name") or repo.get("name") or "Unknown"
     description = repo.get("description") or ""
@@ -166,16 +194,6 @@ def build_hn_cluster(item):
     }
 
 
-def load_previous_ids(path):
-    if not path.exists():
-        return set()
-    try:
-        payload = json.loads(path.read_text(encoding="utf-8"))
-    except Exception:
-        return set()
-    return {item.get("id") for item in payload.get("clusters", []) if item.get("id")}
-
-
 def main():
     load_dotenv()
     now = datetime.now(ZoneInfo(TIMEZONE))
@@ -246,7 +264,8 @@ def main():
     clusters.sort(key=lambda item: item.get("score") or 0, reverse=True)
     clusters = clusters[:DEVELOPER_MAX_CLUSTERS]
 
-    prev_ids = load_previous_ids(output_dir / "daily.json")
+    today_str = now.strftime("%Y-%m-%d")
+    prev_ids = load_previous_ids_from_archive(today_str)
     new_count = 0
     for cluster in clusters:
         if cluster["id"] not in prev_ids:
@@ -260,7 +279,7 @@ def main():
                 sources_used.add(item.get("source"))
 
     payload = {
-        "date": now.strftime("%Y-%m-%d"),
+        "date": today_str,
         "kpis": {
             "clusters": len(clusters),
             "sources": len(sources_used),
@@ -272,6 +291,7 @@ def main():
     (output_dir / "daily.json").write_text(
         json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8"
     )
+    write_archive_developer(today_str, payload)
 
     run_stats["output"] = {
         "clusters": len(clusters),
