@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-01-27",
+    "to": "2026-02-02"
+  },
+  "kpis": {
+    "collected": 16,
+    "deduped": 16,
+    "uniqueTopics": 7
+  },
+  "topTopics": [
+    {
+      "name": "Roadmap",
+      "count": 13
+    },
+    {
+      "name": "Competition",
+      "count": 11
+    },
+    {
+      "name": "Investment",
+      "count": 9
+    },
+    {
+      "name": "Manufacturing",
+      "count": 7
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-01-27",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-01-27",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-01-27",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-01-27",
+      "dayOfWeek": "Tue",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 3
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 3
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Investment",
+      "count": 4
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Manufacturing",
+      "count": 2
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 4
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 3
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Manufacturing",
+      "count": 2
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Manufacturing",
+      "count": 2
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Manufacturing",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "NIST 워크숍에서 부각된 반도체 추적성 강화 논의",
+      "summary": "NIST 워크숍에서 웨이퍼부터 완제품·최종 고객까지 이어지는 반도체 추적성이 핵심 이슈로 다뤄졌다. 공급망 전 단계에 걸친 데이터 연계와 표준화가 필요하지만 이해관계자가 복잡해 개별 기업 단위 해결이 어렵다는 인식이 공유되었고, 정부·표준기구·산업계가 함께 참여하는 협력 프레임워크 필요성이 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Semiconductor Traceability Takes Center Stage at NIST Workshop",
+          "url": "https://www.eetimes.com/semiconductor-traceability-takes-center-stage-at-nist-workshop/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "삼성전자 2025년 4분기 및 연간 실적 발표 동향",
+      "summary": "삼성전자가 2025년 12월 31일로 종료된 4분기 및 회계연도 실적을 공개하며 메모리·파운드리 등 반도체 사업 성과를 포함한 전체 사업 현황을 업데이트했다. 이는 AI·고대역폭 메모리(HBM), 첨단 공정 투자 기조를 가늠할 지표로, 향후 설비투자와 생산능력 조정, 고객사 수요 대응 전략에 영향을 줄 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung Electronics Announces Fourth Quarter and FY 2025 Results",
+          "url": "https://news.samsung.com/global/samsung-electronics-announces-fourth-quarter-and-fy-2025-results"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "Ainekko–Veevx 합병과 MRAM 지원 오픈소스 스택 부상",
+      "summary": "Ainekko와 Veevx가 합병하며 차세대 비휘발성 메모리인 MRAM을 지원하는 오픈소스 소프트웨어 스택을 공개했다. 이는 MRAM 기반 설계·제조 생태계 확산을 촉진해 메모리 계층 구조와 시스템 아키텍처 변화, 저전력·고신뢰성 애플리케이션에서의 채택을 가속할 수 있는 기반을 마련하는 움직임이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Ainekko Merges With Veevx, Adds MRAM To Open-Source Stack",
+          "url": "https://www.eetimes.com/ainekko-merges-with-veevx-adds-mram-to-open-source-stack/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "캐나다의 양자컴퓨팅 투자 확대와 반도체·퀀텀 생태계 강화",
+      "summary": "캐나다가 정부 주도 지원과 연구기관·기업 간 협업을 통해 양자컴퓨팅 역량을 강화하고 있다. 이는 양자칩, 극저온 제어용 반도체, 관련 소재·장비 분야 투자를 동반하며, 중장기적으로는 북미 퀀텀 반도체 공급망에서 캐나다의 역할과 기술 자립도를 높이는 방향으로 전개되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Canada Accelerates Quantum Aspirations",
+          "url": "https://www.eetimes.com/canada-accelerates-quantum-aspirations/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "SHIFTING",
+      "title": "유럽 디지털 주권 논쟁과 반도체·클라우드 인프라 전략 재조정",
+      "summary": "HiPEAC 2026에서 미국 클라우드 의존에 대한 유럽의 우려가 재부각되며, 디지털 주권 확보가 핵심 의제로 부상했다. 데이터 통제와 비용 문제를 계기로 유럽 내 데이터센터·AI 인프라와 함께 엣지·전용 가속기용 반도체 역량을 강화하려는 정책 논의가 확산되고 있어, 향후 유럽 반도체 투자 및 인센티브 구조에 변화가 예상된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "HiPEAC 2026: Reclaiming European Digital Sovereignty",
+          "url": "https://www.eetimes.com/hipeac-2026-reclaiming-european-digital-sovereignty/"
+        }
+      ]
+    }
+  ]
+}

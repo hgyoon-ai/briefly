@@ -1,0 +1,64 @@
+{
+  "date": "2026-01-31",
+  "highlights": {
+    "bullets": [
+      "Tooling 관련 업데이트가 3건 감지됨",
+      "Infra 관련 업데이트가 3건 감지됨",
+      "Inference 관련 업데이트가 1건 감지됨"
+    ],
+    "topTopics": [
+      "Tooling",
+      "Infra",
+      "Inference",
+      "Models"
+    ],
+    "stats": {
+      "collected": 3,
+      "deduped": 3
+    }
+  },
+  "cards": [
+    {
+      "id": "ai_0001",
+      "tab": "ai",
+      "publishedAt": "2026-01-31T05:01:47+09:00",
+      "source": "NVIDIA Developer Blog",
+      "title": "Advancing GPU Programming with the CUDA Tile IR Backend for OpenAI Triton",
+      "summary": [
+        "CUDA Tile IR 백엔드가 OpenAI Triton과 통합되어 NVIDIA Tensor Core의 성능을 활용합니다.",
+        "이 접근법은 GPU 코드의 이식성과 Tensor Core 최적화로 최고 성능을 끌어내는 것을 목표로 합니다.",
+        "Triton 사용자와 딥러닝 워크로드에서 추론·학습 성능을 개선할 가능성이 큽니다."
+      ],
+      "whyItMatters": "Tensor Core에 대한 효율적 접근으로 대규모 모델의 처리 속도와 자원 효율을 크게 향상시킬 수 있기 때문입니다.",
+      "topics": [
+        "Tooling",
+        "Infra",
+        "Inference"
+      ],
+      "status": "ONGOING",
+      "hash": "649309bae788325e691914bd8c1623dbbde612c2c8fb215b8474cf4e61287aad",
+      "url": "https://developer.nvidia.com/blog/advancing-gpu-programming-with-the-cuda-tile-ir-backend-for-openai-triton/"
+    },
+    {
+      "id": "ai_0002",
+      "tab": "ai",
+      "publishedAt": "2026-01-31T03:00:00+09:00",
+      "source": "NVIDIA Developer Blog",
+      "title": "Establishing a Scalable Sparse Ecosystem with the Universal Sparse Tensor",
+      "summary": [
+        "NVIDIA가 범용 Sparse Tensor(Universal Sparse Tensor)를 제안해 희소 표현의 표준화를 추진합니다.",
+        "이 접근은 과학 연산과 머신러닝에서 희소 연산을 확장 가능하고 효율적으로 수행하도록 인프라와 툴체인을 통합합니다.",
+        "프레임워크·하드웨어 간 상호운용성 및 성능 향상을 목표로 하는 생태계 구축을 지원합니다."
+      ],
+      "whyItMatters": "희소 데이터의 표준화된 표현은 성능 최적화와 상호운용성 개선을 통해 광범위한 워크로드에 즉각적이고 중요한 영향을 줍니다.",
+      "topics": [
+        "Tooling",
+        "Infra",
+        "Models"
+      ],
+      "status": "ONGOING",
+      "hash": "7173f04054f9ea30b2aa8d4fa8441347b2bbd85190b52fa5940232810949a3f8",
+      "url": "https://developer.nvidia.com/blog/establishing-a-scalable-sparse-ecosystem-with-the-universal-sparse-tensor/"
+    }
+  ]
+}

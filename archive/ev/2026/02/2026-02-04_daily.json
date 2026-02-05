@@ -1,0 +1,66 @@
+{
+  "date": "2026-02-04",
+  "highlights": {
+    "bullets": [
+      "Competition 관련 업데이트가 12건 감지됨",
+      "Demand 관련 업데이트가 12건 감지됨",
+      "Roadmap 관련 업데이트가 10건 감지됨"
+    ],
+    "topTopics": [
+      "Competition",
+      "Demand",
+      "Roadmap",
+      "Investment"
+    ],
+    "stats": {
+      "collected": 15,
+      "deduped": 15
+    }
+  },
+  "cards": [
+    {
+      "id": "ev_0001",
+      "tab": "ev",
+      "publishedAt": "2026-02-03T08:18:58+09:00",
+      "source": "Electrek",
+      "title": "Waymo raises massive $16 billion round at $126 billion valuation, plans expansion to 20+ cities",
+      "summary": [
+        "웨이모가 자율주행 기업 사상 최대 규모인 160억 달러 투자를 유치하며 기업가치 1,260억 달러를 인정받았다.",
+        "알파벳 산하 로보택시 선도 기업인 웨이모는 이번 자금을 바탕으로 올해 20개 이상 신규 도시에 진출할 계획이다.",
+        "이번 확장에는 웨이모의 최초 해외 진출도 포함되어 글로벌 로보택시 시장 공세가 본격화될 전망이다."
+      ],
+      "whyItMatters": "자율주행·로보택시 분야의 최대 규모 투자와 공격적인 글로벌 도시 확장은 산업 표준, 경쟁 구도, 규제·인프라 환경 전반에 중대한 변화를 촉발할 가능성이 높기 때문이다.",
+      "topics": [
+        "Investment",
+        "Roadmap",
+        "Competition",
+        "Policy"
+      ],
+      "status": "NEW",
+      "hash": "20e6d91f7e7c5d7a146215adc1ff9c567c4de8a09abe40407966d08aeddd62c1",
+      "url": "https://electrek.co/2026/02/02/waymo-raises-16-billion-round-at-126-billion-valuation-plans-expansion/"
+    },
+    {
+      "id": "ev_0002",
+      "tab": "ev",
+      "publishedAt": "2026-02-04T04:25:07+09:00",
+      "source": "Electrek",
+      "title": "Even after cutting EV incentives, Norway only sold 98 diesel cars in January",
+      "summary": [
+        "노르웨이는 전기차 인센티브를 축소한 이후에도 EV 중심 시장 구조를 유지하고 있다.",
+        "인센티브 감소에도 1월 디젤차 판매량은 98대에 그치며 내연기관 수요가 급격히 위축된 모습이다.",
+        "이는 전기차 전환이 보조금 의존 단계를 넘어 구조적으로 고착화됐음을 시사한다."
+      ],
+      "whyItMatters": "보조금 축소 후에도 EV 비중이 높게 유지되는 노르웨이 사례는 전 세계 자동차 전동화 정책·수요 구조 변화의 성숙 단계를 보여주는 핵심 지표이기 때문이다.",
+      "topics": [
+        "Demand",
+        "Policy",
+        "Competition",
+        "Roadmap"
+      ],
+      "status": "ONGOING",
+      "hash": "dee96e06d5f99b179e44796dd09a8d5b338562577793e9a5db56474b395a3521",
+      "url": "https://electrek.co/2026/02/03/even-after-cutting-ev-incentives-norway-only-sold-98-diesel-cars-in-january/"
+    }
+  ]
+}

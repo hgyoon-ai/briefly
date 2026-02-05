@@ -1,0 +1,65 @@
+{
+  "date": "2026-02-01",
+  "highlights": {
+    "bullets": [
+      "Demand 관련 업데이트가 5건 감지됨",
+      "Competition 관련 업데이트가 5건 감지됨",
+      "Roadmap 관련 업데이트가 4건 감지됨"
+    ],
+    "topTopics": [
+      "Demand",
+      "Competition",
+      "Roadmap",
+      "Investment"
+    ],
+    "stats": {
+      "collected": 7,
+      "deduped": 7
+    }
+  },
+  "cards": [
+    {
+      "id": "ev_0001",
+      "tab": "ev",
+      "publishedAt": "2026-01-31T09:24:34+09:00",
+      "source": "Electrek",
+      "title": "Report: humanoid robots set to drive demand for solid-state batteries",
+      "summary": [
+        "보고서는 휴머노이드 로봇이 2035년까지 전고체 배터리 약 75GWh의 수요를 창출해 약 1500배 성장할 수 있다고 전망합니다.",
+        "이 전망은 전고체 배터리에 대한 수요 급증으로 제조능력 확대와 공급망 재편을 촉발할 가능성이 큽니다.",
+        "배터리 제조사와 투자자는 생산 확대, R&D 강화, 제품 로드맵 재조정이 필요합니다."
+      ],
+      "whyItMatters": "휴머노이드 로봇의 대규모 수요 전망(2035년까지 약 75GWh, 약 1500배 성장)이 배터리 공급망과 투자 우선순위를 재편할 가능성이 높기 때문입니다.",
+      "topics": [
+        "Demand",
+        "Manufacturing",
+        "Investment",
+        "Roadmap"
+      ],
+      "status": "SHIFTING",
+      "hash": "acedaca646b560e461a7fe62c6d27234945d9b608712018715162b70c75148d9",
+      "url": "https://electrek.co/2026/01/30/report-humanoid-robots-set-to-drive-demand-for-solid-state-batteries/"
+    },
+    {
+      "id": "ev_0002",
+      "tab": "ev",
+      "publishedAt": "2026-02-01T05:36:44+09:00",
+      "source": "Electrek",
+      "title": "Act fast: all-new, all-electric 2027 BMW iX3 is almost all gone",
+      "summary": [
+        "BMW가 Neue Klasse 시대를 알리는 완전 변경 2027년형 전기 SUV iX3를 공개했다.",
+        "신형 iX3에 대한 수요가 매우 높아 BMW는 2026년 말까지 이미 판매가 매진됐다고 보도되었다.",
+        "이는 초기 생산 물량 부족과 강한 시장 수요를 시사한다."
+      ],
+      "whyItMatters": "신모델의 디자인 전환과 높은 수요, 제한된 초기 공급이 매진을 초래했기 때문이다.",
+      "topics": [
+        "Demand",
+        "Manufacturing",
+        "Roadmap"
+      ],
+      "status": "ONGOING",
+      "hash": "41d41b25f8fc9f207cdc187fbd22e9916700e63a07951a0419a66a322d51690e",
+      "url": "https://electrek.co/2026/01/31/act-fast-all-electric-2027-bmw-ix3-is-almost-all-gone/"
+    }
+  ]
+}

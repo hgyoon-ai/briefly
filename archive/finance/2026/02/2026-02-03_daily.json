@@ -1,0 +1,84 @@
+{
+  "date": "2026-02-03",
+  "highlights": {
+    "bullets": [
+      "MarketInfra 관련 업데이트가 6건 감지됨",
+      "Fintech 관련 업데이트가 4건 감지됨",
+      "Policy 관련 업데이트가 2건 감지됨"
+    ],
+    "topTopics": [
+      "MarketInfra",
+      "Fintech",
+      "Policy",
+      "Enforcement"
+    ],
+    "stats": {
+      "collected": 6,
+      "deduped": 6
+    }
+  },
+  "cards": [
+    {
+      "id": "finance_0001",
+      "tab": "finance",
+      "publishedAt": "2026-02-03T08:56:55+09:00",
+      "source": "매일경제(증권)",
+      "title": "“워시, 파월보다 비둘기…긴축공포 과도·금리인하 사이클 지속” [오늘 나온 보고서]",
+      "summary": [
+        "케빈 워시 연준 의장 지명자가 파월보다 더 비둘기적일 것이라는 증권가 분석이 제기됐다.",
+        "보고서는 시장의 긴축 공포가 과도하며 금리 인하 사이클이 지속될 것으로 전망했다.",
+        "연준 완화 기대가 강화되며 글로벌 금융시장과 자산가격에 영향을 미칠 가능성이 크다."
+      ],
+      "whyItMatters": "지명자와 보고서 분석이 금리 전망과 시장 심리를 바꿔 금융시장 전반에 직접적 영향을 미치기 때문이다.",
+      "topics": [
+        "Policy",
+        "MarketInfra"
+      ],
+      "status": "SHIFTING",
+      "hash": "a1f631e51e23e127ee28956f89067137bdefadd05563e65667c4445dc6d78f5f",
+      "url": "https://www.mk.co.kr/news/stock/11951027"
+    },
+    {
+      "id": "finance_0002",
+      "tab": "finance",
+      "publishedAt": "2026-02-03T09:13:12+09:00",
+      "source": "매일경제(증권)",
+      "title": "코스피, 저가 매수세 유입에 ‘5000피’ 재탈환…코스닥도 올라",
+      "summary": [
+        "코스피가 저가 매수세 유입으로 5000선을 재탈환했다.",
+        "코스닥도 1100선을 회복하며 동반 상승했다.",
+        "3일 오전 장중 코스피는 전일 대비 약 3.25% 상승해 5110.54를 기록했다."
+      ],
+      "whyItMatters": "주요 지수의 빠른 반등은 투자심리 회복과 시장 위험선호 증가를 시사해 단기 자금 흐름과 포트폴리오 조정에 영향을 줄 가능성이 크다.",
+      "topics": [
+        "MarketInfra",
+        "Fintech"
+      ],
+      "status": "ONGOING",
+      "hash": "96cf8aa51de52bad989cec61c0226b48166809c8c568e6c3b8cb72dd026033cf",
+      "url": "https://www.mk.co.kr/news/stock/11951053"
+    },
+    {
+      "id": "finance_0003",
+      "tab": "finance",
+      "publishedAt": "2026-02-02T15:10:00+09:00",
+      "source": "정책브리핑",
+      "title": "주가 조작 조기 차단…'사이버 이상거래 탐지 AI 시스템' 가동",
+      "summary": [
+        "한국거래소가 온라인 게시글·SNS·유튜브·스팸문자 등 사이버 정보를 분석해 주가조작 등 불공정거래를 조기 탐지하는 AI 시스템을 3일부터 가동한다.",
+        "AI는 과거 이상거래 의심 종목의 사이버 정보와 주가 데이터를 학습해 위험 점수를 산출하고, 점수가 높은 상장종목을 자동으로 포착한다.",
+        "이를 통해 사이버 기반 시세조종에 대한 초기 분석 기간이 단축되고, 자본시장 불공정거래 초동 대응 역량이 강화될 것으로 예상된다."
+      ],
+      "whyItMatters": "자본시장 신뢰와 개인투자자 보호에 직접적인 영향을 미치는 사이버 기반 시세조종·허위정보 유포 대응 역량을 제도권 인프라와 AI 기술 결합으로 크게 강화하는 조치이기 때문이다.",
+      "topics": [
+        "Enforcement",
+        "MarketInfra",
+        "Compliance",
+        "Policy"
+      ],
+      "status": "NEW",
+      "hash": "282fc4e1a954a9aaf186f075c34ef14abc508f18d56218a0983d0282acdba0be",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148958931&call_from=rsslink"
+    }
+  ]
+}

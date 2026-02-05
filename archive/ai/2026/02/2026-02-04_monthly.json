@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-01-06",
+    "to": "2026-02-04"
+  },
+  "kpis": {
+    "collected": 29,
+    "deduped": 29,
+    "uniqueTopics": 49,
+    "marketShare": {
+      "Tooling": 25,
+      "Models": 21,
+      "Infra": 21,
+      "Product": 19,
+      "Research": 15,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (01/06-01/12)",
+      "topicCounts": {
+        "Tooling": 0,
+        "Models": 0,
+        "Infra": 0,
+        "Product": 0,
+        "Research": 0
+      }
+    },
+    {
+      "week": "Week 2 (01/13-01/19)",
+      "topicCounts": {
+        "Tooling": 0,
+        "Models": 0,
+        "Infra": 0,
+        "Product": 0,
+        "Research": 0
+      }
+    },
+    {
+      "week": "Week 3 (01/20-01/26)",
+      "topicCounts": {
+        "Tooling": 0,
+        "Models": 0,
+        "Infra": 0,
+        "Product": 0,
+        "Research": 0
+      }
+    },
+    {
+      "week": "Week 4 (01/27-02/02)",
+      "topicCounts": {
+        "Tooling": 9,
+        "Models": 7,
+        "Infra": 7,
+        "Product": 7,
+        "Research": 6
+      }
+    },
+    {
+      "week": "Week 5 (02/03-02/04)",
+      "topicCounts": {
+        "Tooling": 3,
+        "Models": 3,
+        "Infra": 2,
+        "Product": 2,
+        "Research": 1
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "UI 현지화 특화 대형 모델 경쟁 심화",
+      "summary": "H사의 Holo2 모델이 다국어 컨텍스트 유지와 번역 정확도를 크게 개선하며 UI 현지화 특화 LLM 영역에서 선도 사례로 부상했습니다. 제품 내 텍스트 일관성, 품질 관리 효율, 글로벌 출시 속도 향상 등 실무 중심의 현지화 자동화 경쟁이 가속화되는 흐름을 보여줍니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "H Company's new Holo2 model takes the lead in UI Localization",
+          "url": "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "생성형 영상 플랫폼의 피드·안전 철학 정교화",
+      "summary": "Sora 피드는 창의성 촉진과 사용자 간 연결을 중심 목표로 삼으면서, 개인화 추천과 부모 통제 기능을 결합해 안전한 사용자 경험을 설계하고 있습니다. 생성형 영상·멀티모달 서비스 전반에서 콘텐츠 추천, 이용 연령대 관리, 안전 정책을 제품 수준에서 녹여내려는 흐름이 이어지고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "The Sora feed philosophy",
+          "url": "https://openai.com/index/sora-feed-philosophy"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "CUDA Tile IR와 Triton으로 GPU 프로그래밍 고도화",
+      "summary": "CUDA Tile IR 백엔드가 OpenAI Triton과 통합되면서 NVIDIA Tensor Core를 보다 직접적으로 활용할 수 있는 경로가 열렸습니다. 고성능 커스텀 커널을 비교적 선언적으로 작성하면서도 하드웨어 최적화를 유지하려는 시도가 본격화되어, 추론·훈련 워크로드 모두에서 GPU 코드 이식성과 성능을 동시에 추구하는 흐름이 강화되고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Advancing GPU Programming with the CUDA Tile IR Backend for OpenAI Triton",
+          "url": "https://developer.nvidia.com/blog/advancing-gpu-programming-with-the-cuda-tile-ir-backend-for-openai-triton/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "무한·상호작용 세계 생성형 AI 실험",
+      "summary": "Google의 Project Genie는 구독자를 대상으로 무한에 가까운 상호작용 세계를 생성·탐험할 수 있는 프로토타입을 공개했습니다. 게임·시뮬레이션·교육 등에서 AI가 전체 환경을 동적으로 구성하는 실험으로, 창작 도구를 넘어 ‘세계 생성 엔진’으로의 확장을 탐색하는 단계로 볼 수 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Google DeepMind Blog",
+          "title": "Project Genie: Experimenting with infinite, interactive worlds",
+          "url": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "Kubernetes GPU 자원 공정 배분 기법 진화",
+      "summary": "NVIDIA Run:ai v2.24는 시간 기반 페어셰어 스케줄링을 도입해 클러스터 내 할당량 초과 GPU 사용에 시간 가중치를 반영, 팀·워크로드 간 보다 공정한 자원 배분을 제공합니다. 대규모 AI 인프라에서 GPU 점유 불균형과 유휴 자원을 줄이려는 스케줄러·오케스트레이션 레벨의 최적화가 계속되고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Ensuring Balanced GPU Allocation in Kubernetes Clusters with Time-Based Fairshare",
+          "url": "https://developer.nvidia.com/blog/ensuring-balanced-gpu-allocation-in-kubernetes-clusters-with-time-based-fairshare/"
+        }
+      ]
+    }
+  ]
+}

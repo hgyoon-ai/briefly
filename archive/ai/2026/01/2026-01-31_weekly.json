@@ -1,0 +1,281 @@
+{
+  "range": {
+    "from": "2026-01-25",
+    "to": "2026-01-31"
+  },
+  "kpis": {
+    "collected": 14,
+    "deduped": 14,
+    "uniqueTopics": 10
+  },
+  "topTopics": [
+    {
+      "name": "Tooling",
+      "count": 9
+    },
+    {
+      "name": "Infra",
+      "count": 7
+    },
+    {
+      "name": "Models",
+      "count": 7
+    },
+    {
+      "name": "Product",
+      "count": 7
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-01-25",
+      "dayOfWeek": "Sun",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-01-25",
+      "dayOfWeek": "Sun",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-01-25",
+      "dayOfWeek": "Sun",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-01-25",
+      "dayOfWeek": "Sun",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-01-26",
+      "dayOfWeek": "Mon",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-01-26",
+      "dayOfWeek": "Mon",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-01-26",
+      "dayOfWeek": "Mon",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-01-26",
+      "dayOfWeek": "Mon",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-01-27",
+      "dayOfWeek": "Tue",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-01-27",
+      "dayOfWeek": "Tue",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-01-27",
+      "dayOfWeek": "Tue",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-01-27",
+      "dayOfWeek": "Tue",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Tooling",
+      "count": 3
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Infra",
+      "count": 2
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Models",
+      "count": 3
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Product",
+      "count": 4
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Tooling",
+      "count": 3
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Infra",
+      "count": 3
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Models",
+      "count": 1
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Product",
+      "count": 1
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Tooling",
+      "count": 1
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Models",
+      "count": 2
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Product",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Tooling",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Infra",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Models",
+      "count": 1
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Product",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "CUDA Tile IR·Megatron·Run:ai로 진화하는 GPU·클러스터 효율화",
+      "summary": "NVIDIA가 CUDA Tile IR를 Triton에 통합하고, Megatron Core의 Dynamic Context Parallelism, Run:ai의 시간 기반 페어셰어 스케줄링을 도입하면서 GPU 프로그래밍·학습·Kubernetes 자원 배분 전반에서 성능과 공정성을 동시에 높이려는 흐름이 이어지고 있습니다.",
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Advancing GPU Programming with the CUDA Tile IR Backend for OpenAI Triton",
+          "url": "https://developer.nvidia.com/blog/advancing-gpu-programming-with-the-cuda-tile-ir-backend-for-openai-triton/"
+        },
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Speeding Up Variable-Length Training with Dynamic Context Parallelism and NVIDIA Megatron Core",
+          "url": "https://developer.nvidia.com/blog/speeding-up-variable-length-training-with-dynamic-context-parallelism-and-nvidia-megatron-core/"
+        },
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Ensuring Balanced GPU Allocation in Kubernetes Clusters with Time-Based Fairshare",
+          "url": "https://developer.nvidia.com/blog/ensuring-balanced-gpu-allocation-in-kubernetes-clusters-with-time-based-fairshare/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "로봇 제어를 위한 NVIDIA Cosmos Policy 공개",
+      "summary": "NVIDIA가 Hugging Face를 통해 로봇 제어 특화 ‘Cosmos Policy’를 공개하며, 로보틱스 개발자와 연구자가 고급 제어 정책을 손쉽게 실험·활용할 수 있는 기반을 확장하고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "Introducing NVIDIA Cosmos Policy for Advanced Robot Control",
+          "url": "https://huggingface.co/blog/nvidia/cosmos-policy-for-robot-control"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "생성형 인터랙티브 세계: Google Project Genie 실험",
+      "summary": "Google DeepMind가 Project Genie를 통해 사용자가 무한한 상호작용형 세계를 생성·탐험할 수 있는 프로토타입을 공개하며, 생성형 AI를 활용한 새로운 사용자 경험과 연구 방향을 시험하고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Google DeepMind Blog",
+          "title": "Project Genie: Experimenting with infinite, interactive worlds",
+          "url": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "EU를 겨냥한 OpenAI의 AI 경제·생태계 전략 강화",
+      "summary": "OpenAI가 ‘Economic Blueprint 2.0’을 통해 데이터·파트너십·이니셔티브를 확대하며 EU 내 AI 도입과 역량 강화를 위한 장기적 정책·비즈니스 전략을 구체화하고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "The next chapter for AI in the EU",
+          "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "데이터 주권을 반영한 브라질어 페르소나 데이터셋 구축",
+      "summary": "Nemotron-Personas-Brazil 프로젝트가 현지 이해관계자와의 공동 설계를 통해 브라질어 페르소나 데이터셋을 공개하며, 주권 데이터·다양성·투명성을 중시한 언어·문화 특화 AI 개발 흐름을 보여줍니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "Nemotron-Personas-Brazil: Co-Designed Data for Sovereign AI",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-personas-brazil"
+        }
+      ]
+    }
+  ]
+}

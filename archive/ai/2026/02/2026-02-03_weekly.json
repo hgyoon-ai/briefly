@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-01-28",
+    "to": "2026-02-03"
+  },
+  "kpis": {
+    "collected": 12,
+    "deduped": 12,
+    "uniqueTopics": 10
+  },
+  "topTopics": [
+    {
+      "name": "Infra",
+      "count": 7
+    },
+    {
+      "name": "Tooling",
+      "count": 7
+    },
+    {
+      "name": "Product",
+      "count": 6
+    },
+    {
+      "name": "Models",
+      "count": 5
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Product",
+      "count": 2
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Infra",
+      "count": 3
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Tooling",
+      "count": 3
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Product",
+      "count": 1
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Models",
+      "count": 1
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Tooling",
+      "count": 1
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Product",
+      "count": 2
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Models",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Infra",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Tooling",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Models",
+      "count": 1
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Infra",
+      "count": 1
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Product",
+      "count": 1
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-02-03",
+      "dayOfWeek": "Tue",
+      "topic": "Infra",
+      "count": 1
+    },
+    {
+      "date": "2026-02-03",
+      "dayOfWeek": "Tue",
+      "topic": "Tooling",
+      "count": 1
+    },
+    {
+      "date": "2026-02-03",
+      "dayOfWeek": "Tue",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-02-03",
+      "dayOfWeek": "Tue",
+      "topic": "Models",
+      "count": 1
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "ai-1",
+      "status": "ONGOING",
+      "title": "Mixture-of-Experts 대규모 모델 훈련을 위한 통신 최적화",
+      "summary": "NVIDIA가 Hybrid Expert Parallel 기법을 제안해 MoE 모델 훈련 시 발생하는 all-to-all 통신 병목을 줄이고자 한다. 계층적 라우팅, 통신·계산 중첩, 네트워크 토폴로지 최적화 등을 결합해 대규모 MoE 훈련 효율과 확장성을 높이는 것이 핵심이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Optimizing Communication for Mixture-of-Experts Training with Hybrid Expert Parallel",
+          "url": "https://developer.nvidia.com/blog/optimizing-communication-for-mixture-of-experts-training-with-hybrid-expert-parallel/"
+        }
+      ]
+    },
+    {
+      "id": "ai-2",
+      "status": "ONGOING",
+      "title": "엔터프라이즈 데이터와 프론티어 모델을 결합하는 OpenAI–Snowflake 전략 제휴",
+      "summary": "OpenAI와 Snowflake가 2억 달러 규모의 파트너십을 맺고 Snowflake 플랫폼 내에서 직접 AI 에이전트와 인사이트를 제공하는 통합을 추진한다. 기업이 보유한 데이터 위에 OpenAI의 프론티어 인텔리전스를 결합해 분석·자동화·애플리케이션 개발을 가속하는 것이 목표다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data",
+          "url": "https://openai.com/index/snowflake-partnership"
+        }
+      ]
+    },
+    {
+      "id": "ai-3",
+      "status": "ONGOING",
+      "title": "OpenAI Triton과 CUDA Tile IR 연동을 통한 GPU 프로그래밍 고도화",
+      "summary": "NVIDIA가 CUDA Tile IR 백엔드를 OpenAI Triton과 통합해 Tensor Core 최적화를 자동화하고, 고성능 GPU 커널을 더 이식성 있게 개발할 수 있는 기반을 제공한다. 이를 통해 연구자와 개발자는 로우레벨 CUDA 코드 작성 없이도 하드웨어 성능을 보다 쉽게 끌어낼 수 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Advancing GPU Programming with the CUDA Tile IR Backend for OpenAI Triton",
+          "url": "https://developer.nvidia.com/blog/advancing-gpu-programming-with-the-cuda-tile-ir-backend-for-openai-triton/"
+        }
+      ]
+    },
+    {
+      "id": "ai-4",
+      "status": "NEW",
+      "title": "Project Genie: 무한·상호작용 세계 생성을 향한 생성형 AI 실험",
+      "summary": "Google DeepMind가 Project Genie 프로토타입을 공개해 사용자가 무한하고 상호작용적인 가상 세계를 생성·탐험할 수 있는 기능을 시험하고 있다. 미국 내 Google AI Ultra 구독자를 대상으로, 차세대 인터랙티브 콘텐츠와 에이전트 기반 환경을 탐색하는 연구적 성격이 강하다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Google DeepMind Blog",
+          "title": "Project Genie: Experimenting with infinite, interactive worlds",
+          "url": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/"
+        }
+      ]
+    },
+    {
+      "id": "ai-5",
+      "status": "NEW",
+      "title": "Kubernetes 클러스터에서 GPU 공정 분배를 위한 시간 기반 페어셰어",
+      "summary": "NVIDIA Run:ai v2.24가 시간 기반 페어셰어 스케줄링을 도입해, Kubernetes 환경에서 할당량 초과 GPU 리소스를 시간 가중치에 따라 공정하게 배분한다. 장기·단기 워크로드가 섞인 AI 클러스터에서 자원 쏠림을 줄이고 활용도를 높이려는 인프라 측 업데이트다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Ensuring Balanced GPU Allocation in Kubernetes Clusters with Time-Based Fairshare",
+          "url": "https://developer.nvidia.com/blog/ensuring-balanced-gpu-allocation-in-kubernetes-clusters-with-time-based-fairshare/"
+        }
+      ]
+    }
+  ]
+}

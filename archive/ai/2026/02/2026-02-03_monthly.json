@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-01-05",
+    "to": "2026-02-03"
+  },
+  "kpis": {
+    "collected": 25,
+    "deduped": 25,
+    "uniqueTopics": 49,
+    "marketShare": {
+      "Tooling": 24,
+      "Infra": 21,
+      "Models": 19,
+      "Product": 19,
+      "Research": 17,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (01/05-01/11)",
+      "topicCounts": {
+        "Tooling": 0,
+        "Infra": 0,
+        "Models": 0,
+        "Product": 0,
+        "Research": 0
+      }
+    },
+    {
+      "week": "Week 2 (01/12-01/18)",
+      "topicCounts": {
+        "Tooling": 0,
+        "Infra": 0,
+        "Models": 0,
+        "Product": 0,
+        "Research": 0
+      }
+    },
+    {
+      "week": "Week 3 (01/19-01/25)",
+      "topicCounts": {
+        "Tooling": 0,
+        "Infra": 0,
+        "Models": 0,
+        "Product": 0,
+        "Research": 0
+      }
+    },
+    {
+      "week": "Week 4 (01/26-02/01)",
+      "topicCounts": {
+        "Tooling": 9,
+        "Infra": 7,
+        "Models": 7,
+        "Product": 7,
+        "Research": 6
+      }
+    },
+    {
+      "week": "Week 5 (02/02-02/03)",
+      "topicCounts": {
+        "Tooling": 1,
+        "Infra": 2,
+        "Models": 1,
+        "Product": 1,
+        "Research": 1
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "대규모 MoE 모델을 위한 통신 최적화 및 하이브리드 전문가 병렬화",
+      "summary": "Mixture-of-Experts 모델 훈련에서 발생하는 all-to-all 통신 병목을 줄이기 위해 하이브리드 전문가 병렬(Hybrid Expert Parallel) 기법이 제안되었다. 계층적 라우팅, 통신·계산 중첩, 네트워크 토폴로지 최적화를 결합해 대규모 분산 훈련의 효율과 확장성을 동시에 높이는 것이 핵심이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Optimizing Communication for Mixture-of-Experts Training with Hybrid Expert Parallel",
+          "url": "https://developer.nvidia.com/blog/optimizing-communication-for-mixture-of-experts-training-with-hybrid-expert-parallel/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "Variable-Length 입력을 위한 Dynamic Context Parallelism 기반 훈련 가속",
+      "summary": "NVIDIA Megatron Core에 도입된 Dynamic Context Parallelism(Dynamic-CP)은 길이가 제각각인 입력 시퀀스를 더 효율적으로 스케줄링해 GPU 활용도를 높인다. 이를 통해 컨텍스트 길이가 큰 최신 LLM 훈련에서 처리량을 개선하고 리소스 낭비를 줄이는 훈련 패턴이 부상하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Speeding Up Variable-Length Training with Dynamic Context Parallelism and NVIDIA Megatron Core",
+          "url": "https://developer.nvidia.com/blog/speeding-up-variable-length-training-with-dynamic-context-parallelism-and-nvidia-megatron-core/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "CUDA Tile IR와 Triton 통합을 통한 차세대 GPU 커널 최적화",
+      "summary": "CUDA Tile IR 백엔드가 OpenAI Triton과 통합되면서 텐서 코어 활용을 극대화한 GPU 커널 튜닝이 쉬워지고 있다. 개발자는 고수준 Triton 코드를 유지하면서도 아키텍처별 최적화와 이식성을 동시에 확보해 추론·훈련 워크로드의 성능을 끌어올릴 수 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Advancing GPU Programming with the CUDA Tile IR Backend for OpenAI Triton",
+          "url": "https://developer.nvidia.com/blog/advancing-gpu-programming-with-the-cuda-tile-ir-backend-for-openai-triton/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "Kubernetes GPU 클러스터를 위한 시간 기반 페어셰어 스케줄링",
+      "summary": "NVIDIA Run:ai v2.24는 시간 기반 페어셰어 스케줄링을 도입해 Kubernetes 클러스터의 GPU를 보다 공정하게 분배한다. 특히 조직별·팀별 할당량을 넘는 오버쿼터 자원에 대해 사용 시간 가중치를 반영함으로써, 연구팀 간 AI 인프라 공유 효율성과 거버넌스를 강화하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Ensuring Balanced GPU Allocation in Kubernetes Clusters with Time-Based Fairshare",
+          "url": "https://developer.nvidia.com/blog/ensuring-balanced-gpu-allocation-in-kubernetes-clusters-with-time-based-fairshare/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "무한·상호작용형 AI 생성 세계: Project Genie 실험",
+      "summary": "Google DeepMind의 Project Genie는 사용자 조작이 가능한 무한한 상호작용 세계를 생성하는 연구용 프로토타입이다. 미국 내 Google AI Ultra 구독자가 실험에 참여할 수 있으며, 생성형 모델을 게임·시뮬레이션·창작 도구로 확장하는 인터랙티브 AI 연구 흐름을 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Google DeepMind Blog",
+          "title": "Project Genie: Experimenting with infinite, interactive worlds",
+          "url": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/"
+        }
+      ]
+    }
+  ]
+}

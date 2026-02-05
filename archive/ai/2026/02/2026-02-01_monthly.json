@@ -1,0 +1,140 @@
+{
+  "range": {
+    "from": "2026-01-03",
+    "to": "2026-02-01"
+  },
+  "kpis": {
+    "collected": 23,
+    "deduped": 23,
+    "uniqueTopics": 49,
+    "marketShare": {
+      "Tooling": 25,
+      "Infra": 19,
+      "Models": 19,
+      "Product": 19,
+      "Research": 17,
+      "Other": 1
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (01/03-01/09)",
+      "topicCounts": {
+        "Tooling": 0,
+        "Infra": 0,
+        "Models": 0,
+        "Product": 0,
+        "Research": 0
+      }
+    },
+    {
+      "week": "Week 2 (01/10-01/16)",
+      "topicCounts": {
+        "Tooling": 0,
+        "Infra": 0,
+        "Models": 0,
+        "Product": 0,
+        "Research": 0
+      }
+    },
+    {
+      "week": "Week 3 (01/17-01/23)",
+      "topicCounts": {
+        "Tooling": 0,
+        "Infra": 0,
+        "Models": 0,
+        "Product": 0,
+        "Research": 0
+      }
+    },
+    {
+      "week": "Week 4 (01/24-01/30)",
+      "topicCounts": {
+        "Tooling": 7,
+        "Infra": 5,
+        "Models": 6,
+        "Product": 7,
+        "Research": 6
+      }
+    },
+    {
+      "week": "Week 5 (01/31-02/01)",
+      "topicCounts": {
+        "Tooling": 0,
+        "Infra": 0,
+        "Models": 0,
+        "Product": 0,
+        "Research": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "ai-1",
+      "status": "ONGOING",
+      "title": "GPU 프로그래밍·클러스터 자원 관리를 통한 AI 인프라 최적화 가속",
+      "summary": "NVIDIA가 CUDA Tile IR를 Triton에 통합해 텐서 코어 최적화와 GPU 코드 이식성을 강화하고, Run:ai v2.24에서는 시간 기반 페어셰어 스케줄링으로 Kubernetes 클러스터의 GPU 할당 공정성을 높이고 있다. 동시에 Megatron Core의 Dynamic Context Parallelism으로 가변 길이 컨텍스트 학습 효율을 개선해, 학습·추론 전 구간에서 GPU 활용 극대화를 노리는 인프라·툴체인 업그레이드가 이어지는 추세다.",
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Advancing GPU Programming with the CUDA Tile IR Backend for OpenAI Triton",
+          "url": "https://developer.nvidia.com/blog/advancing-gpu-programming-with-the-cuda-tile-ir-backend-for-openai-triton/"
+        },
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Ensuring Balanced GPU Allocation in Kubernetes Clusters with Time-Based Fairshare",
+          "url": "https://developer.nvidia.com/blog/ensuring-balanced-gpu-allocation-in-kubernetes-clusters-with-time-based-fairshare/"
+        },
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Speeding Up Variable-Length Training with Dynamic Context Parallelism and NVIDIA Megatron Core",
+          "url": "https://developer.nvidia.com/blog/speeding-up-variable-length-training-with-dynamic-context-parallelism-and-nvidia-megatron-core/"
+        }
+      ]
+    },
+    {
+      "id": "ai-2",
+      "status": "NEW",
+      "title": "로봇 제어와 상호작용 세계 생성: 차세대 AI 활용 사례 실험",
+      "summary": "NVIDIA의 Cosmos Policy는 고급 로봇 제어를 위한 정책 기반 모델을 공개해 실제 물리 환경 제어에 특화된 AI 연구·개발을 촉진하고, 구글의 Project Genie는 무한·상호작용형 가상 세계를 생성·탐험할 수 있는 연구용 프로토타입을 통해 에이전트 시뮬레이션과 사용자 인터랙션 실험을 확장하고 있다. 두 프로젝트 모두 기존 텍스트·이미지 중심을 넘어 물리·가상 환경 전반으로 AI 적용 범위를 넓히는 방향을 보여준다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "Introducing NVIDIA Cosmos Policy for Advanced Robot Control",
+          "url": "https://huggingface.co/blog/nvidia/cosmos-policy-for-robot-control"
+        },
+        {
+          "source": "Google DeepMind Blog",
+          "title": "Project Genie: Experimenting with infinite, interactive worlds",
+          "url": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/"
+        }
+      ]
+    },
+    {
+      "id": "ai-3",
+      "status": "ONGOING",
+      "title": "데이터 주권·안전성을 강화하는 AI 거버넌스와 보호 기술",
+      "summary": "OpenAI는 EU를 위한 Economic Blueprint 2.0을 통해 파트너십과 데이터 이니셔티브를 확대하며 지역 맞춤형 AI 생태계 조성을 추진하는 동시에, 에이전트가 링크를 클릭할 때 발생할 수 있는 데이터 유출·프롬프트 인젝션을 막는 URL 안전 보호 기능을 도입했다. Hugging Face와 NVIDIA는 브라질 이해관계자와 공동 설계한 Nemotron-Personas-Brazil 데이터셋을 공개해 데이터 주권과 다양성, 투명성을 중시하는 방향을 보여주며, 규제·정책·기술이 결합된 AI 거버넌스 흐름이 강화되고 있다.",
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "The next chapter for AI in the EU",
+          "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu"
+        },
+        {
+          "source": "OpenAI Blog",
+          "title": "Keeping your data safe when an AI agent clicks a link",
+          "url": "https://openai.com/index/ai-agent-link-safety"
+        },
+        {
+          "source": "Hugging Face Blog",
+          "title": "Nemotron-Personas-Brazil: Co-Designed Data for Sovereign AI",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-personas-brazil"
+        }
+      ]
+    }
+  ]
+}

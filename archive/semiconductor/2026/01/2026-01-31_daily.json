@@ -1,0 +1,64 @@
+{
+  "date": "2026-01-31",
+  "highlights": {
+    "bullets": [
+      "Policy 관련 업데이트가 2건 감지됨",
+      "Manufacturing 관련 업데이트가 1건 감지됨",
+      "Roadmap 관련 업데이트가 1건 감지됨"
+    ],
+    "topTopics": [
+      "Policy",
+      "Manufacturing",
+      "Roadmap",
+      "Investment"
+    ],
+    "stats": {
+      "collected": 2,
+      "deduped": 2
+    }
+  },
+  "cards": [
+    {
+      "id": "semiconductor_0001",
+      "tab": "semiconductor",
+      "publishedAt": "2026-01-31T01:53:23+09:00",
+      "source": "EE Times",
+      "title": "Semiconductor Traceability Takes Center Stage at NIST Workshop",
+      "summary": [
+        "NIST 워크숍에서 반도체 추적성(traceability)이 핵심 논제로 부상했다.",
+        "추적성 문제는 범위가 크고 여러 이해관계자가 얽혀 있어 단독 대응으로는 해결되기 어렵다.",
+        "표준화와 협력 기반의 통합적 접근을 통해 종단간 가시성 확보가 필요하다고 강조되었다."
+      ],
+      "whyItMatters": "반도체 공급망의 보안·투명성·신뢰성 확보를 위해 정책·제조·표준 차원의 협력이 시급하기 때문이다.",
+      "topics": [
+        "Manufacturing",
+        "Policy",
+        "Roadmap"
+      ],
+      "status": "ONGOING",
+      "hash": "14d6925a41c94f4100320956c7d86dc2ca30e1524766d7491199e3304eb9e878",
+      "url": "https://www.eetimes.com/semiconductor-traceability-takes-center-stage-at-nist-workshop/"
+    },
+    {
+      "id": "semiconductor_0002",
+      "tab": "semiconductor",
+      "publishedAt": "2026-01-30T17:05:09+09:00",
+      "source": "EE Times",
+      "title": "HiPEAC 2026: Reclaiming European Digital Sovereignty",
+      "summary": [
+        "HiPEAC 2026에서 유럽의 미국 클라우드 사업자 의존 문제가 부각되었다.",
+        "회의에서는 디지털 주권, 가격 문제, 데이터 통제 우려가 제기되었다.",
+        "유럽 내 인프라 확충과 기술 자립을 통한 대안 마련 필요성이 논의되었다."
+      ],
+      "whyItMatters": "이는 데이터 보호·안보·비용·경쟁력에 직접적인 영향을 미치기 때문에 중요하다.",
+      "topics": [
+        "Policy",
+        "Investment",
+        "Competition"
+      ],
+      "status": "SHIFTING",
+      "hash": "9a1064ff06a03c8a1a809882f04c96b416efb26b5a630325a81f7fcbea0621bd",
+      "url": "https://www.eetimes.com/hipeac-2026-reclaiming-european-digital-sovereignty/"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "date": "2026-02-03",
+  "highlights": {
+    "bullets": [
+      "Roadmap 관련 업데이트가 5건 감지됨",
+      "Competition 관련 업데이트가 4건 감지됨",
+      "Manufacturing 관련 업데이트가 3건 감지됨"
+    ],
+    "topTopics": [
+      "Roadmap",
+      "Competition",
+      "Manufacturing",
+      "Demand"
+    ],
+    "stats": {
+      "collected": 5,
+      "deduped": 5
+    }
+  },
+  "cards": [
+    {
+      "id": "semiconductor_0001",
+      "tab": "semiconductor",
+      "publishedAt": "2026-02-02T23:57:33+09:00",
+      "source": "EE Times",
+      "title": "Volkswagen Group China Shows Legacy OEMs Can Clear SDV Adoption Hurdles",
+      "summary": [
+        "폭스바겐 중국이 존(zonal) 기반 SDV 기술을 출시했다.",
+        "이 기술로 개발 기간을 약 30% 단축했다.",
+        "레거시 OEM들도 SDV 도입 장벽을 극복할 수 있음을 보여준다."
+      ],
+      "whyItMatters": "이번 발표는 아키텍처 재설계로 기존 제조사가 소프트웨어 정의 차량 전환을 가속화할 수 있음을 입증해 업계 지형을 바꿀 가능성이 있다.",
+      "topics": [
+        "Roadmap",
+        "Manufacturing",
+        "Competition"
+      ],
+      "status": "SHIFTING",
+      "hash": "7ad510e19472c556a81f16468d8f9ba711c5c7ae2c0c4bf226b589df00e55d55",
+      "url": "https://www.eetimes.com/volkswagen-group-china-shows-legacy-oems-can-clear-sdv-adoption-hurdles/"
+    },
+    {
+      "id": "semiconductor_0002",
+      "tab": "semiconductor",
+      "publishedAt": "2026-02-02T23:00:00+09:00",
+      "source": "EE Times",
+      "title": "Thermal Advances Driving Next-Gen AI Chip Design",
+      "summary": [
+        "AI 칩 설계에서 열관리가 핵심 제약 요소로 부각되고 있다.",
+        "3D IC 패키징, 고급 냉각 기술, AI 기반 열 최적화 등 5대 트렌드가 제시되었다.",
+        "이들 기술은 성능·전력 효율·신뢰성 개선을 위해 제조 공정과 제품 로드맵에 직접적 영향을 준다."
+      ],
+      "whyItMatters": "열 한계가 성능과 전력 스케일링을 제약하므로 열관리 혁신이 차세대 AI 칩 설계 방향을 결정한다.",
+      "topics": [
+        "Manufacturing",
+        "Roadmap"
+      ],
+      "status": "ONGOING",
+      "hash": "fdc16fc046a1740756f70738baa6917d81d82aa081470332526479823a73b0d2",
+      "url": "https://www.eetimes.com/thermal-advances-driving-next-gen-ai-chip-design/"
+    },
+    {
+      "id": "semiconductor_0003",
+      "tab": "semiconductor",
+      "publishedAt": "2026-02-03T03:48:00+09:00",
+      "source": "Samsung Newsroom",
+      "title": "Samsung’s “Open Always Wins” Campaign Comes to Life in Milan",
+      "summary": [
+        "삼성의 'Open Always Wins' 캠페인이 밀라노에서 실제 행사와 체험으로 구현되었다.",
+        "올림픽·패럴림픽 파트너십을 활용해 현장 브랜드 노출과 소비자 참여를 확대하고 있다.",
+        "제품 시연과 팬 참여 프로그램을 통해 현지 마케팅과 글로벌 메시지 확산을 목표로 한다."
+      ],
+      "whyItMatters": "올림픽 플랫폼을 통한 대규모 노출로 브랜드 인지도와 단기 수요 확대 가능성이 높아 마케팅 전략에 중요한 영향을 주기 때문.",
+      "topics": [
+        "Roadmap",
+        "Competition",
+        "Demand"
+      ],
+      "status": "ONGOING",
+      "hash": "62ee83952696859d5a2e64cc917aad1e6891a764ea74260e2a3ba3f15c85324d",
+      "url": "https://news.samsung.com/global/samsungs-open-always-wins-campaign-comes-to-life-in-milan"
+    },
+    {
+      "id": "semiconductor_0004",
+      "tab": "semiconductor",
+      "publishedAt": "2026-02-02T17:00:00+09:00",
+      "source": "Samsung Newsroom",
+      "title": "Samsung 2026 OLED TVs and Monitors Are NVIDIA® G-SYNC™ Compatible for Elite Gaming Performance",
+      "summary": [
+        "삼성전자가 2026년형 OLED TV와 차세대 오디세이 게이밍 모니터가 NVIDIA G-SYNC 호환을 지원한다고 발표했다.",
+        "G-SYNC 호환으로 화면 찢김과 입력 지연이 감소해 고사양 게임에서 부드러운 화면 출력이 가능해진다.",
+        "이 발표는 게이밍 TV·모니터 시장에서 삼성의 제품 경쟁력과 소비자 호감도를 높일 잠재력이 있다."
+      ],
+      "whyItMatters": "글로벌 게이머 수요를 공략하고 경쟁사 대비 기술적 차별화를 통해 판매와 브랜드 가치를 제고하려는 전략적 결정이다.",
+      "topics": [
+        "Competition",
+        "Roadmap",
+        "Demand"
+      ],
+      "status": "NEW",
+      "hash": "da6579d2119531de0ab4fdf3462849b20f18eebde9ed229912cf3000079aeda7",
+      "url": "https://news.samsung.com/global/samsung-2026-oled-tvs-and-monitors-are-nvidia-g-sync-compatible-for-elite-gaming-performance"
+    }
+  ]
+}

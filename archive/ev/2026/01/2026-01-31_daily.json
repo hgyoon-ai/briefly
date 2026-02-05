@@ -1,0 +1,66 @@
+{
+  "date": "2026-01-31",
+  "highlights": {
+    "bullets": [
+      "Roadmap 관련 업데이트가 11건 감지됨",
+      "Investment 관련 업데이트가 11건 감지됨",
+      "Competition 관련 업데이트가 10건 감지됨"
+    ],
+    "topTopics": [
+      "Roadmap",
+      "Investment",
+      "Competition",
+      "Demand"
+    ],
+    "stats": {
+      "collected": 13,
+      "deduped": 13
+    }
+  },
+  "cards": [
+    {
+      "id": "ev_0001",
+      "tab": "ev",
+      "publishedAt": "2026-01-31T05:48:16+09:00",
+      "source": "Electrek",
+      "title": "Podcast: Tesla’s auto suicide, Model S/X dead, Cybercab fiasco, and more",
+      "summary": [
+        "Electrek 팟캐스트에서 테슬라의 ‘자동차 사업 자살’로 표현되는 최근 전략과 상황을 다룬 에피소드가 공개되었습니다.",
+        "이 논의에는 테슬라의 고급 세단인 모델 S/X 단종(또는 축소) 가능성과 그 영향이 포함됩니다.",
+        "또한 논란이 되는 사이버캡(Cybercab) 관련 실패·혼선 이슈와 기타 전기차·에너지 분야 소식이 함께 논의됩니다."
+      ],
+      "whyItMatters": "테슬라의 핵심 차량 라인업 조정과 사이버캡 전략 혼선은 향후 수요, 경쟁 구도, 투자 심리에 중대한 영향을 줄 수 있는 이슈입니다.",
+      "topics": [
+        "Roadmap",
+        "Competition",
+        "Demand",
+        "Investment"
+      ],
+      "status": "ONGOING",
+      "hash": "751c8e8516f83a143c9998453091f82ba4aa520528bd369cdc1ce850365f02d8",
+      "url": "https://electrek.co/2026/01/30/podcast-teslas-auto-suicide-model-s-x-dead-cybercab-fiasco-and-more/"
+    },
+    {
+      "id": "ev_0002",
+      "tab": "ev",
+      "publishedAt": "2026-01-31T04:47:13+09:00",
+      "source": "Electrek",
+      "title": "Toyota partner breaks ground on solid electrolyes plant for all-solid-state EV batteries",
+      "summary": [
+        "일본 이데미츠 코산이 토요타와 협력해 전고체 배터리용 고체 전해질 파일럿 플랜트 건설을 시작했습니다.",
+        "해당 공장에서 생산되는 고체 전해질은 토요타가 개발 중인 전고체 전기차 배터리에 사용될 예정입니다.",
+        "이는 전고체 배터리 상용화를 위한 핵심 생산 인프라 구축 단계로 해석됩니다."
+      ],
+      "whyItMatters": "토요타-이데미츠의 전고체 배터리용 소재 생산 착공은 향후 EV 성능·원가 경쟁 구도와 배터리 기술 로드맵에 중대한 변곡점이 될 수 있기 때문입니다.",
+      "topics": [
+        "Manufacturing",
+        "Roadmap",
+        "Investment",
+        "Competition"
+      ],
+      "status": "ONGOING",
+      "hash": "fa4e469aaab97e9763b62194d90ad3ecd56970e4ab9c53a09dab3cca56d76623",
+      "url": "https://electrek.co/2026/01/30/toyota-partner-breaks-ground-on-all-solid-state-ev-battery-plant/"
+    }
+  ]
+}

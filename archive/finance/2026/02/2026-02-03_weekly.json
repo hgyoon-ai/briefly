@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-01-28",
+    "to": "2026-02-03"
+  },
+  "kpis": {
+    "collected": 20,
+    "deduped": 20,
+    "uniqueTopics": 9
+  },
+  "topTopics": [
+    {
+      "name": "MarketInfra",
+      "count": 17
+    },
+    {
+      "name": "Policy",
+      "count": 12
+    },
+    {
+      "name": "Compliance",
+      "count": 9
+    },
+    {
+      "name": "Fintech",
+      "count": 8
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Fintech",
+      "count": 0
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "MarketInfra",
+      "count": 5
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 4
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Compliance",
+      "count": 4
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Fintech",
+      "count": 3
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "MarketInfra",
+      "count": 5
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 3
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Compliance",
+      "count": 3
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Fintech",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Compliance",
+      "count": 1
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Fintech",
+      "count": 1
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Fintech",
+      "count": 0
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "MarketInfra",
+      "count": 3
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Compliance",
+      "count": 1
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Fintech",
+      "count": 1
+    },
+    {
+      "date": "2026-02-03",
+      "dayOfWeek": "Tue",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-02-03",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-02-03",
+      "dayOfWeek": "Tue",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-02-03",
+      "dayOfWeek": "Tue",
+      "topic": "Fintech",
+      "count": 1
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "한국거래소, AI 기반 사이버 이상거래 탐지 시스템 본격 가동",
+      "summary": "한국거래소가 온라인 게시글·SNS·유튜브·스팸문자 등을 분석해 주가조작 등 불공정거래를 조기 포착하는 AI 이상거래 탐지 시스템을 가동했다. 과거 사례 학습을 통해 위험 점수를 부여하고 자동 모니터링함으로써 자본시장의 감시·제재 인프라가 한 단계 고도화되는 흐름이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "정책브리핑",
+          "title": "주가 조작 조기 차단…'사이버 이상거래 탐지 AI 시스템' 가동",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148958931&call_from=rsslink"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "차기 연준 의장 후보 워시 발언으로 재부각된 완화적 통화정책 기대",
+      "summary": "케빈 워시 연준 의장 지명자가 파월보다 완화적인 통화정책 기조를 펼칠 것이란 분석이 나오며 긴축 공포가 과도했다는 인식이 확산되고 있다. 시장에서는 금리 인하 사이클이 이어질 것이란 기대가 다시 반영되며 글로벌 자산배분 전략과 환율·채권 시장 센티먼트에 변곡점 가능성이 제기된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“워시, 파월보다 비둘기…긴축공포 과도·금리인하 사이클 지속” [오늘 나온 보고서]",
+          "url": "https://www.mk.co.kr/news/stock/11951027"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "저가 매수세 유입 속 코스피·코스닥 동반 반등",
+      "summary": "최근 급락으로 밸류에이션 매력이 부각된 가운데 저가 매수세가 유입되며 코스피가 5000선을, 코스닥이 1100선을 회복했다. 단기 기술적 반등 성격이 강하지만, 개인·기관의 매수 균형과 대외 변수에 따라 추세 전환 여부가 판가름 날 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "코스피, 저가 매수세 유입에 ‘5000피’ 재탈환…코스닥도 올라",
+          "url": "https://www.mk.co.kr/news/stock/11951053"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "CMA 잔고 100조 돌파…단기 유동성 운용 수단으로 급부상",
+      "summary": "CMA 잔고가 100조 원을 넘기고 연 2%대 수익률이 유지되면서, 특히 2030 세대를 중심으로 월급·청약·비상자금 등을 CMA에 두는 흐름이 확산되고 있다. 예금 대비 유연한 출금과 이자 수취가 가능해 단기 유동성 관리 방식이 예·적금 위주에서 CMA 중심으로 재편되는 모습이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“하루만 맡겨도 이자 붙는다”…노는 돈 줄이는 ‘이것’의 힘 [캥거루족 탈출기③]",
+          "url": "https://www.mk.co.kr/news/stock/11949142"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "ALT5 대규모 자사주·토큰 매입으로 ‘트럼프 코인’ 테마 변동성 확대",
+      "summary": "ALT5가 발행주식의 40%에 달하는 1억 달러 규모 자사주 매입 계획을 발표하고, 트럼프 가문이 주도하는 WLFI 토큰도 추가 매입을 예고하며 주가가 급반등했다. 정치 테마와 암호화폐 연계 이슈가 결합되면서 관련 종목·토큰의 변동성이 확대되는 양상이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "‘트럼프 코인’ 테마주 ALT5, 1억 달러 자사주 매입… “주가 저평가” 승부수",
+          "url": "https://www.mk.co.kr/news/stock/11947989"
+        }
+      ]
+    }
+  ]
+}

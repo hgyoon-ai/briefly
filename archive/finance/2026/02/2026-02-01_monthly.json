@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-01-03",
+    "to": "2026-02-01"
+  },
+  "kpis": {
+    "collected": 15,
+    "deduped": 15,
+    "uniqueTopics": 9,
+    "marketShare": {
+      "MarketInfra": 29,
+      "Policy": 22,
+      "Compliance": 20,
+      "Regulation": 15,
+      "Fintech": 15,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (01/03-01/09)",
+      "topicCounts": {
+        "MarketInfra": 0,
+        "Policy": 0,
+        "Compliance": 0,
+        "Regulation": 0,
+        "Fintech": 0
+      }
+    },
+    {
+      "week": "Week 2 (01/10-01/16)",
+      "topicCounts": {
+        "MarketInfra": 0,
+        "Policy": 0,
+        "Compliance": 0,
+        "Regulation": 0,
+        "Fintech": 0
+      }
+    },
+    {
+      "week": "Week 3 (01/17-01/23)",
+      "topicCounts": {
+        "MarketInfra": 0,
+        "Policy": 0,
+        "Compliance": 0,
+        "Regulation": 0,
+        "Fintech": 0
+      }
+    },
+    {
+      "week": "Week 4 (01/24-01/30)",
+      "topicCounts": {
+        "MarketInfra": 5,
+        "Policy": 4,
+        "Compliance": 4,
+        "Regulation": 2,
+        "Fintech": 3
+      }
+    },
+    {
+      "week": "Week 5 (01/31-02/01)",
+      "topicCounts": {
+        "MarketInfra": 1,
+        "Policy": 1,
+        "Compliance": 1,
+        "Regulation": 1,
+        "Fintech": 1
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "소규모 전자폐기물 재활용 투자 기대와 현실",
+      "summary": "중국에서 폐휴대폰 유심 등 칩에서 금을 추출해 수천만 원어치 수익을 냈다는 사례가 화제지만, 실제로는 회수·정제 비용, 환경 규제, 규모의 경제 한계로 개인 투자 차원의 수익성은 불확실하다는 지적이 나온다. 금값 상승으로 전자폐기물 재활용 비즈니스에 대한 관심은 커지나, 금융·투자 관점에선 전문 설비와 합법적 처리 역량을 갖춘 사업자 위주로 옥석 가리기가 진행될 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "‘폐기 휴대폰 유심 카드’로 5천만원어치 금 모았다…전문가들은 글쎄?",
+          "url": "https://www.mk.co.kr/news/stock/11949168"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "단기자금 관리 수단으로 CMA 급부상",
+      "summary": "CMA 잔고가 100조 원을 돌파하며 단기 부동자금 관리의 대표 계좌로 자리 잡고 있다. 금리 인상기 이후 예·적금 대신 연 2%대 CMA를 활용해 월급, 청약, 투자 대기자금 등 ‘대기성 현금’을 효율적으로 굴리려는 2030 세대의 수요가 확대되고 있어 증권사 초단기금융 상품 경쟁이 계속될 것으로 보인다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“하루만 맡겨도 이자 붙는다”…노는 돈 줄이는 ‘이것’의 힘 [캥거루족 탈출기③]",
+          "url": "https://www.mk.co.kr/news/stock/11949142"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "조이하비 매각 추진과 취미·피규어 리테일 시장 재편",
+      "summary": "프라모델·피규어 전문 매장 ‘조이하비’가 매물로 나오며 관련 오프라인 리테일 시장 구조조정 가능성이 제기된다. 온라인 직구·플랫폼 중심으로 소비 패턴이 이동한 가운데, 수집·취미 관련 소매업체의 기업가치 산정, M&A, 브랜드 재편 이슈가 투자자들의 관심사가 되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[단독] 프라모델 숍 조이하비 매물로",
+          "url": "https://www.mk.co.kr/news/stock/11948760"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "공공기관 지정 조정과 금융감독원 유보가 금융시장에 미치는 영향",
+      "summary": "정부가 공공기관을 342개로 재지정하면서 일부 기관의 유형 변경과 신규 지정이 이뤄졌고, 금융감독원은 요건을 충족했음에도 1년간 공공기관 지정이 유보됐다. 이는 공공기관 관리·감독 강화, 인건비·투자 집행 등 재무 구조에 영향을 줄 수 있어 채권·공공부문 투자와 함께 금융감독 체계 변화에 대한 시장의 모니터링이 이어지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "정책브리핑",
+          "title": "올해 공공기관 11개 늘어난 342개 지정…금감원은 지정 유보",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148958850&call_from=rsslink"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "ALT5 대규모 자사주 매입과 정치 테마·암호화폐 연계 리스크",
+      "summary": "‘트럼프 코인’ 테마주로 불리는 ALT5가 전체 발행주식 40% 규모, 1억 달러에 달하는 대규모 자사주 매입 계획을 발표하며 저평가 인식을 앞세운 주가 부양에 나섰다. 트럼프 가문이 주도하는 WLFI 토큰 추가 매입 계획까지 더해지며 정치·암호화폐 테마성이 강화됐지만, 변동성 확대와 규제 리스크, 실적 대비 밸류에이션 부담 등 투자 위험 또한 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "‘트럼프 코인’ 테마주 ALT5, 1억 달러 자사주 매입… “주가 저평가” 승부수",
+          "url": "https://www.mk.co.kr/news/stock/11947989"
+        }
+      ]
+    }
+  ]
+}

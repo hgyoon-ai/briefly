@@ -1,0 +1,148 @@
+{
+  "range": {
+    "from": "2026-01-05",
+    "to": "2026-02-03"
+  },
+  "kpis": {
+    "collected": 17,
+    "deduped": 17,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 28,
+      "Investment": 25,
+      "Competition": 18,
+      "Demand": 18,
+      "Policy": 12,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (01/05-01/11)",
+      "topicCounts": {
+        "Roadmap": 0,
+        "Investment": 0,
+        "Competition": 0,
+        "Demand": 0,
+        "Policy": 0
+      }
+    },
+    {
+      "week": "Week 2 (01/12-01/18)",
+      "topicCounts": {
+        "Roadmap": 0,
+        "Investment": 0,
+        "Competition": 0,
+        "Demand": 0,
+        "Policy": 0
+      }
+    },
+    {
+      "week": "Week 3 (01/19-01/25)",
+      "topicCounts": {
+        "Roadmap": 0,
+        "Investment": 0,
+        "Competition": 0,
+        "Demand": 0,
+        "Policy": 0
+      }
+    },
+    {
+      "week": "Week 4 (01/26-02/01)",
+      "topicCounts": {
+        "Roadmap": 10,
+        "Investment": 9,
+        "Competition": 7,
+        "Demand": 7,
+        "Policy": 4
+      }
+    },
+    {
+      "week": "Week 5 (02/02-02/03)",
+      "topicCounts": {
+        "Roadmap": 2,
+        "Investment": 2,
+        "Competition": 2,
+        "Demand": 0,
+        "Policy": 1
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "Waymo, 160억 달러 투자 유치로 로보택시 확장 가속",
+      "summary": "Waymo가 160억 달러를 신규 조달해 기업가치 1,260억 달러에 도달하면서, 북미 20개 이상 도시로 로보택시 서비스를 공격적으로 확장할 계획이다. 이는 자율주행 기반 승차 서비스 모델에 대한 투자자 신뢰를 재확인시키며, EV·로보택시 시장에서 테슬라 등 경쟁사 대비 기술·자본 우위를 강화하는 신호다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Waymo raises massive $16 billion round at $126 billion valuation, plans expansion to 20+ cities",
+          "url": "https://electrek.co/2026/02/02/waymo-raises-16-billion-round-at-126-billion-valuation-plans-expansion/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "SpaceX의 xAI 인수, 테슬라와 EV 전략에 미치는 간접 영향",
+      "summary": "SpaceX가 xAI를 인수하며 합산 기업가치 1.25조 달러 규모의 AI·우주·테크 복합 그룹으로 재편되고 있다. 테슬라는 이번 초대형 딜에 포함되지 않아, 자율주행·AI 역량을 외부 그룹과 어떻게 연계할지 불확실성이 커졌고, 향후 테슬라의 로보택시·EV 전략이 그룹 내에서 상대적으로 고립될 수 있다는 해석이 나온다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "SpaceX bails out xAI in mega-deal — here’s what it means for Tesla",
+          "url": "https://electrek.co/2026/02/02/spacex-bails-out-xai-in-mega-deal-heres-what-it-means-for-tesla/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "테슬라, 모델 S/X 단종과 ‘서비스로서의 운송’ 전환으로 EV 전략 대변곡점",
+      "summary": "테슬라는 2025년 4분기 실적 발표에서 모델 S와 X 단종을 공식화하고, 신규 대중형 승용 전기차 출시 계획을 보류한 채 로보택시 중심 ‘서비스로서의 운송’ 모델로 선회하고 있다. 이로 인해 기존 자동차 제조사로서의 성장 스토리가 약화되며, 브랜드·수요·경쟁 구도 측면에서 ‘자동차 사업 자살’ 논란이 커지는 등 중장기 EV 로드맵이 근본적으로 재평가되는 국면이다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla is committing automotive suicide",
+          "url": "https://electrek.co/2026/01/29/tesla-committing-automotive-suicide/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Podcast: Tesla’s auto suicide, Model S/X dead, Cybercab fiasco, and more",
+          "url": "https://electrek.co/2026/01/30/podcast-teslas-auto-suicide-model-s-x-dead-cybercab-fiasco-and-more/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "토요타-이데미츠, 전고체 배터리용 고체 전해질 공장 착공으로 차세대 EV 기술 상용화 가속",
+      "summary": "이데미츠 코산이 토요타와 협력해 전고체 배터리용 고체 전해질 파일럿 플랜트 건설을 시작했다. 해당 생산 거점은 토요타가 계획 중인 차세대 전고체 EV의 핵심 공급 기반으로, 에너지 밀도·충전속도 개선과 더불어 일본 완성차·배터리 생태계의 기술 주도권 회복을 노리는 중장기 전략의 일환이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Toyota partner breaks ground on solid electrolyes plant for all-solid-state EV batteries",
+          "url": "https://electrek.co/2026/01/30/toyota-partner-breaks-ground-on-all-solid-state-ev-battery-plant/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "BMW 2027년형 전기 SUV iX3 조기 완판, 프리미엄 EV 수요 견조",
+      "summary": "BMW가 Neue Klasse 플랫폼을 적용한 2027년형 순수 전기 SUV iX3를 공개하자, 2026년 말까지의 생산 물량이 사실상 조기 매진됐다. 이는 경기 불확실성과 일부 브랜드의 EV 수요 둔화 논란에도 불구하고, 프리미엄 세그먼트에서는 성능·디자인이 개선된 차세대 EV에 대한 수요가 여전히 강하다는 점을 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Act fast: all-new, all-electric 2027 BMW iX3 is almost all gone",
+          "url": "https://electrek.co/2026/01/31/act-fast-all-electric-2027-bmw-ix3-is-almost-all-gone/"
+        }
+      ]
+    }
+  ]
+}

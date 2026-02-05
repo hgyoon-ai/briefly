@@ -1,0 +1,276 @@
+{
+  "range": {
+    "from": "2026-01-25",
+    "to": "2026-01-31"
+  },
+  "kpis": {
+    "collected": 13,
+    "deduped": 13,
+    "uniqueTopics": 9
+  },
+  "topTopics": [
+    {
+      "name": "MarketInfra",
+      "count": 11
+    },
+    {
+      "name": "Policy",
+      "count": 8
+    },
+    {
+      "name": "Compliance",
+      "count": 7
+    },
+    {
+      "name": "Regulation",
+      "count": 5
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-01-25",
+      "dayOfWeek": "Sun",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-01-25",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-01-25",
+      "dayOfWeek": "Sun",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-01-25",
+      "dayOfWeek": "Sun",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-01-26",
+      "dayOfWeek": "Mon",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-01-26",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-01-26",
+      "dayOfWeek": "Mon",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-01-26",
+      "dayOfWeek": "Mon",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-01-27",
+      "dayOfWeek": "Tue",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-01-27",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-01-27",
+      "dayOfWeek": "Tue",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-01-27",
+      "dayOfWeek": "Tue",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "MarketInfra",
+      "count": 5
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 4
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Compliance",
+      "count": 4
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Regulation",
+      "count": 2
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "MarketInfra",
+      "count": 5
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 3
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Compliance",
+      "count": 3
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Regulation",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Regulation",
+      "count": 1
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "국내 우량주 단일 레버리지 ETF·ETN 도입 및 파생·ETF 규제 완화",
+      "summary": "금융위가 자본시장법 시행령·금투업규정 개정안을 입법예고하며 삼성전자·SK하이닉스 등 국내 우량주를 기초로 한 단일종목 2배 레버리지 ETF·ETN 상장을 허용하고, 위클리 옵션 만기 확대·개별주·ETF 기초 신규 옵션 도입 등으로 커버드콜 등 다양한 ETF 전략 상품 출시 기반을 마련했다. 이는 개인 투자자의 레버리지·파생상품 접근성을 높이는 동시에 시장 변동성·투자자 보호 이슈를 동반해 향후 세부 규제와 상품 구조가 핵심 점검 포인트로 부상하고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "삼성전자·하이닉스 ‘2배’ ETF, 이르면 2분기에 나온다",
+          "url": "https://www.mk.co.kr/news/stock/11949038"
+        },
+        {
+          "source": "정책브리핑",
+          "title": "국내 우량주 레버리지 ETF 첫 도입…금융위, 시행령 등 입법예고",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148958854&call_from=rsslink"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "금융감독원 공공기관 지정 1년 유보와 공공부문 지배구조 재정비",
+      "summary": "정부가 올해 공공기관을 342개로 재편하며 11개 기관을 새로 지정하고 일부 유형을 조정한 가운데, 금융감독원은 지정 요건을 충족했음에도 경영관리 강화·투명성 제고를 조건으로 공공기관 지정이 1년간 유보됐다. 금융감독 기능의 독립성과 공공성 사이의 균형, 향후 경영평가·인사·예산 통제 강도 등이 금융정책·감독 환경과 금융회사 규제 수위에 중장기 영향을 줄 수 있는 구조적 이슈로 부각되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "정책브리핑",
+          "title": "올해 공공기관 11개 늘어난 342개 지정…금감원은 지정 유보",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148958850&call_from=rsslink"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "스테이블코인 기반 STO 결제 인프라 실증과 자본시장 토큰화 진전",
+      "summary": "뮤직카우가 NH농협·아톤과 함께 스테이블코인 기반 증권형토큰(STO) 결제 POC를 성공하며 청약·결제·정산 전 과정을 블록체인상에서 처리하는 원스톱 구조를 시연했다. 2차 실증에 착수하면서 국내 금융권·핀테크 업계의 자산 토큰화 및 온체인 결제 인프라 구축이 가속화될 전망이며, 향후 가상자산 회계·자금세탁방지(AML)·예치금 보호 체계 등 규제 정비와 상용화 모델의 수익성이 핵심 변수가 되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "뮤직카우, 스테이블코인 STO 결제 실증 성공",
+          "url": "https://www.mk.co.kr/news/stock/11947154"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "미 대선·트럼프 이슈 연계 ‘트럼프 코인’ 테마주 변동성과 크립토·주식 결합 리스크",
+      "summary": "ALT5가 전체 발행주의 40% 규모인 1억 달러 자사주 매입 계획을 발표하고 트럼프 가문이 주도하는 월드 리버티 파이낸셜(WLFI) 토큰을 추가 매입하겠다고 밝히면서 ‘트럼프 코인’ 테마와 함께 주가가 급등·급락을 반복하고 있다. 정치 이벤트·암호화폐·소형 성장주의 결합으로 변동성이 극단적으로 커지는 구조가 재확인됐으며, 정보 비대칭·테마 과열·규제 리스크가 동반되는 해외 정치 테마주 투자의 위험성 관리가 투자자 보호 측면에서 이슈가 되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "‘트럼프 코인’ 테마주 ALT5, 1억 달러 자사주 매입… “주가 저평가” 승부수",
+          "url": "https://www.mk.co.kr/news/stock/11947989"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "AI 도입 가속화에 따른 금융·핀테크 보안·책임 리스크 논쟁",
+      "summary": "기업 전반의 AI 도입이 빨라지면서 딥페이크 금융사기, 의사결정 알고리즘 편향, 직원 번아웃 등 새로운 리스크가 부각되고 있으며, 설명가능성 확보와 ‘인간 최종 판단’ 장치 요구로 인해 금융·핀테크 분야에서 책임 소재와 규제 범위가 복잡해지고 있다. 보안·내부통제·개인정보보호·소비자 보호 규제를 어떻게 설계하느냐에 따라 AI 활용 기반의 신용평가·리스크관리·자산운용 모델의 성장 속도와 비용 구조가 크게 달라질 수 있다는 점에서 정책·컴플라이언스 이슈로 지속 주목받고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "보안뉴스",
+          "title": "[김정덕의 AI 시대 보안 패러다임-7] AI 도입의 딜레마: 혁신의 속도와 리스크의 균형",
+          "url": "http://www.boannews.com/media/view.asp?idx=141756&kind=&sub_kind="
+        }
+      ]
+    }
+  ]
+}

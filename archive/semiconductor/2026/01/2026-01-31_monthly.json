@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-01-02",
+    "to": "2026-01-31"
+  },
+  "kpis": {
+    "collected": 14,
+    "deduped": 14,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 28,
+      "Investment": 23,
+      "Competition": 23,
+      "Manufacturing": 13,
+      "Demand": 13,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (01/02-01/08)",
+      "topicCounts": {
+        "Roadmap": 0,
+        "Investment": 0,
+        "Competition": 0,
+        "Manufacturing": 0,
+        "Demand": 0
+      }
+    },
+    {
+      "week": "Week 2 (01/09-01/15)",
+      "topicCounts": {
+        "Roadmap": 0,
+        "Investment": 0,
+        "Competition": 0,
+        "Manufacturing": 0,
+        "Demand": 0
+      }
+    },
+    {
+      "week": "Week 3 (01/16-01/22)",
+      "topicCounts": {
+        "Roadmap": 0,
+        "Investment": 0,
+        "Competition": 0,
+        "Manufacturing": 0,
+        "Demand": 0
+      }
+    },
+    {
+      "week": "Week 4 (01/23-01/29)",
+      "topicCounts": {
+        "Roadmap": 7,
+        "Investment": 5,
+        "Competition": 7,
+        "Manufacturing": 3,
+        "Demand": 4
+      }
+    },
+    {
+      "week": "Week 5 (01/30-01/31)",
+      "topicCounts": {
+        "Roadmap": 1,
+        "Investment": 1,
+        "Competition": 1,
+        "Manufacturing": 1,
+        "Demand": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "NIST 워크숍, 반도체 공급망 전반에 ‘추적성’ 요구 강화",
+      "summary": "NIST 워크숍에서 반도체 추적성이 제조·장비·고객사·정부까지 아우르는 핵심 이슈로 부상했다. 복잡한 글로벌 공급망에서 품질·보안·리콜 대응을 위해 칩 단위까지 이력을 추적해야 한다는 공감대가 형성됐으며, 개별 기업이 아닌 업계 차원의 표준·데이터 공유 체계 구축이 필요하다는 논의가 이어지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Semiconductor Traceability Takes Center Stage at NIST Workshop",
+          "url": "https://www.eetimes.com/semiconductor-traceability-takes-center-stage-at-nist-workshop/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "HiPEAC 2026, 유럽 디지털 주권 논쟁과 반도체·컴퓨팅 인프라 재편",
+      "summary": "HiPEAC 2026에서 미국 클라우드 의존을 줄이고 유럽 내 데이터·연산 인프라를 강화해야 한다는 디지털 주권 논쟁이 가속화되고 있다. 이는 유럽의 장기적인 반도체·가속기·엣지 컴퓨팅 투자 방향과 직결되며, 가격 경쟁력과 데이터 통제 사이에서 새로운 규제·지원 정책 조합을 모색하는 단계로 전환되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "HiPEAC 2026: Reclaiming European Digital Sovereignty",
+          "url": "https://www.eetimes.com/hipeac-2026-reclaiming-european-digital-sovereignty/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "캐나다, 양자·반도체 연계 생태계 구축 가속",
+      "summary": "캐나다가 정부·연구기관·기업 협력을 기반으로 양자컴퓨팅 역량을 확대하며 차세대 연산용 칩과 관련 소자 개발을 촉진하고 있다. 국가 전략과 자금 지원을 통해 양자 알고리즘부터 하드웨어, 소재까지 전방위 투자가 이어지면서 향후 양자·반도체 융합 분야에서 북미 내 경쟁 구도가 재편될 가능성이 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Canada Accelerates Quantum Aspirations",
+          "url": "https://www.eetimes.com/canada-accelerates-quantum-aspirations/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "삼성전자 2025년 4분기 실적, 메모리·파운드리 수요 회복 신호",
+      "summary": "삼성전자가 2025 회계연도 4분기 및 연간 실적을 발표하며 메모리와 파운드리 수요 회복이 본격화되고 있음을 시사했다. AI·고대역폭 메모리(HBM)와 첨단 공정 수요가 실적을 견인한 가운데, 향후 설비투자와 공정 전환 속도가 글로벌 반도체 경기 사이클을 가늠하는 핵심 지표로 부각되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung Electronics Announces Fourth Quarter and FY 2025 Results",
+          "url": "https://news.samsung.com/global/samsung-electronics-announces-fourth-quarter-and-fy-2025-results"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "HiPEAC 2026, AI 최적화 압박 속 반도체 아키텍처 혁신 요구",
+      "summary": "HiPEAC 2026에서는 소프트웨어·컴파일러·하드웨어 전 계층에서 AI 워크로드 최적화가 부족하다는 비판과 함께, 전력 효율과 성능을 동시에 높일 수 있는 새로운 반도체 아키텍처와 시스템 설계가 요구되고 있다. 범용 GPU 의존을 줄이고 특화형 가속기, 메모리 계층 구조 혁신 등이 중장기 로드맵의 핵심 과제로 제시됐다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "HiPEAC 2026: Don’t Get Lazy with AI Optimization",
+          "url": "https://www.eetimes.com/hipeac-2026-dont-get-lazy-with-ai-optimization/"
+        }
+      ]
+    }
+  ]
+}

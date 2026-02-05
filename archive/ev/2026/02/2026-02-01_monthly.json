@@ -1,0 +1,153 @@
+{
+  "range": {
+    "from": "2026-01-03",
+    "to": "2026-02-01"
+  },
+  "kpis": {
+    "collected": 14,
+    "deduped": 14,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 28,
+      "Investment": 24,
+      "Demand": 20,
+      "Competition": 17,
+      "Policy": 11,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (01/03-01/09)",
+      "topicCounts": {
+        "Roadmap": 0,
+        "Investment": 0,
+        "Demand": 0,
+        "Competition": 0,
+        "Policy": 0
+      }
+    },
+    {
+      "week": "Week 2 (01/10-01/16)",
+      "topicCounts": {
+        "Roadmap": 0,
+        "Investment": 0,
+        "Demand": 0,
+        "Competition": 0,
+        "Policy": 0
+      }
+    },
+    {
+      "week": "Week 3 (01/17-01/23)",
+      "topicCounts": {
+        "Roadmap": 0,
+        "Investment": 0,
+        "Demand": 0,
+        "Competition": 0,
+        "Policy": 0
+      }
+    },
+    {
+      "week": "Week 4 (01/24-01/30)",
+      "topicCounts": {
+        "Roadmap": 8,
+        "Investment": 7,
+        "Demand": 6,
+        "Competition": 5,
+        "Policy": 4
+      }
+    },
+    {
+      "week": "Week 5 (01/31-02/01)",
+      "topicCounts": {
+        "Roadmap": 2,
+        "Investment": 1,
+        "Demand": 2,
+        "Competition": 0,
+        "Policy": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "ev-1",
+      "status": "ONGOING",
+      "title": "BMW, 2027년형 iX3로 전기 SUV 수요 폭발 재확인",
+      "summary": "BMW가 누에클라세(Neue Klasse) 플랫폼 기반의 완전 전기 SUV 2027년형 iX3를 공개했으며, 높은 초기 수요로 2026년 말까지 생산분이 사실상 완판된 상태다. 이는 프리미엄 EV 시장에서 독일 브랜드의 경쟁력이 여전히 견조하며, 장기 생산·공급 계획이 시장 수요를 따라가야 하는 과제를 안고 있음을 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Act fast: all-new, all-electric 2027 BMW iX3 is almost all gone",
+          "url": "https://electrek.co/2026/01/31/act-fast-all-electric-2027-bmw-ix3-is-almost-all-gone/"
+        }
+      ]
+    },
+    {
+      "id": "ev-2",
+      "status": "SHIFTING",
+      "title": "테슬라, 모델 S/X 단종 및 로보택시 전환으로 사업 전략 급선회",
+      "summary": "테슬라는 2025년 4분기 실적 발표에서 모델 S와 X를 공식 단종하고, 신규 대중형 승용 EV 출시 계획을 접은 대신 로보택시 중심의 ‘서비스로서의 운송’ 모델로 전환하겠다고 밝혔다. 그러나 자사 로보택시 데이터가 인간 운전자 대비 약 3배 높은 사고율을 보여 안전성과 규제 리스크가 부각되면서, 전통적인 자동차 제조에서 모빌리티 서비스로의 급격한 피벗이 ‘자동차 사업 자살’이라는 비판에 직면해 있다.",
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla is committing automotive suicide",
+          "url": "https://electrek.co/2026/01/29/tesla-committing-automotive-suicide/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Tesla’s own Robotaxi data confirms crash rate 3x worse than humans even with monitor",
+          "url": "https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Podcast: Tesla’s auto suicide, Model S/X dead, Cybercab fiasco, and more",
+          "url": "https://electrek.co/2026/01/30/podcast-teslas-auto-suicide-model-s-x-dead-cybercab-fiasco-and-more/"
+        }
+      ]
+    },
+    {
+      "id": "ev-3",
+      "status": "ONGOING",
+      "title": "토요타·이데미츠, 전고체 배터리용 고체 전해질 공장 착공",
+      "summary": "이데미츠 코산이 토요타와 협력해 전고체 전기차 배터리용 고체 전해질 파일럿 플랜트 건설을 시작했다. 이는 토요타가 추진하는 전고체 배터리 상용화를 위한 핵심 제조 인프라 확대로, 향후 EV 주행거리·충전속도 경쟁에서 일본 업체의 반격 기반을 마련하는 움직임이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Toyota partner breaks ground on solid electrolyes plant for all-solid-state EV batteries",
+          "url": "https://electrek.co/2026/01/30/toyota-partner-breaks-ground-on-all-solid-state-ev-battery-plant/"
+        }
+      ]
+    },
+    {
+      "id": "ev-4",
+      "status": "SHIFTING",
+      "title": "휴머노이드 로봇, 전고체 배터리 신규 수요원으로 부상",
+      "summary": "한 보고서는 휴머노이드 로봇이 2035년까지 약 75GWh 규모의 전고체 배터리 수요를 창출해 관련 시장이 약 1500배 성장할 수 있다고 전망한다. 이는 EV를 넘어 로봇·자동화 분야가 전고체 배터리 제조 능력 확충과 공급망 재편의 또 다른 촉매가 될 수 있음을 시사한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Report: humanoid robots set to drive demand for solid-state batteries",
+          "url": "https://electrek.co/2026/01/30/report-humanoid-robots-set-to-drive-demand-for-solid-state-batteries/"
+        }
+      ]
+    },
+    {
+      "id": "ev-5",
+      "status": "NEW",
+      "title": "미국 2026년 신규 발전설비, 99% 이상이 태양광·풍력·배터리로 전환",
+      "summary": "EIA에 따르면 2026년 미국 신규 발전설비 순증의 99% 이상이 태양광, 풍력, 에너지저장장치(배터리)에서 나올 전망이다. 이는 재생에너지와 대규모 배터리 저장 설비가 전력 인프라 투자의 사실상 표준으로 자리잡고 있으며, 전력 탈탄소화와 EV 충전 수요 대응을 위한 기반 확대가 동시에 진행되고 있음을 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "EIA: 99%+ of new US capacity in 2026 will be solar, wind + storage",
+          "url": "https://electrek.co/2026/01/28/eia-99-of-new-us-capacity-in-2026-will-be-solar-wind-storage/"
+        }
+      ]
+    }
+  ]
+}

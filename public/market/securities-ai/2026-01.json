@@ -6,11 +6,10 @@
       "date": "2026-01-30",
       "company": "NH투자증권",
       "title": "NH證 퇴직연금 로보어드바이저, 1년 수익률 60% 돌파",
-      "oneLiner": "NH투자증권의 퇴직연금 로보어드바이저(자체 알고리즘)가 1년 수익률 60%를 기록했다는 보도로, AI 기반 자산관리·자동화 서비스의 성과에 관한 직접적인 이벤트임.",
+      "oneLiner": "NH투자증권의 AI 기반 퇴직연금 로보어드바이저 전략이 최근 1년 수익률 60%를 돌파하며 운용 알고리즘 경쟁력을 입증함.",
       "type": "시스템",
       "areas": [
-        "WM",
-        "리서치"
+        "WM"
       ],
       "region": "국내",
       "sourceType": "news",
@@ -23,7 +22,145 @@
       ],
       "tags": [],
       "confidence": 0.95,
-      "updatedAt": "2026-01-30"
+      "updatedAt": "2026-01-31"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/11948724",
+      "date": "2026-01-30",
+      "company": "미래에셋증권",
+      "title": "박현주 회장 “AI 격변기, 이익 재투자로 글로벌 경쟁 초격차 확보”",
+      "oneLiner": "박현주 미래에셋그룹 회장이 AI 격변기에 대응해 이익을 적극 재투자해 글로벌 경쟁에서 초격차를 확보하겠다는 전략 방향을 발표함.",
+      "type": "기타",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "박현주 회장 “AI 격변기, 이익 재투자로 글로벌 경쟁 초격차 확보”",
+          "url": "https://www.mk.co.kr/news/stock/11948724"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-02"
+    },
+    {
+      "id": "news:KB증권:https://www.mk.co.kr/news/stock/11948382",
+      "date": "2026-01-30",
+      "company": "KB증권",
+      "title": "KB운용 RISE AI&로봇 ETF, 순자산 5000억원 돌파",
+      "oneLiner": "KB자산운용의 RISE AI&로봇 ETF가 순자산 5000억원을 돌파하며 AI·로봇 테마 ETF로서의 자금 유입이 가속화되고 있음.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "KB운용 RISE AI&로봇 ETF, 순자산 5000억원 돌파",
+          "url": "https://www.mk.co.kr/news/stock/11948382"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-02"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/11947974",
+      "date": "2026-01-30",
+      "company": "한국투자증권",
+      "title": "‘130만닉스’ 간다?…SK하이닉스, AI 메모리 초호황에 목표가 ‘쑥’",
+      "oneLiner": "한국투자증권은 AI 메모리 수요 호조로 SK하이닉스의 DRAM·NAND 평균판매가격(ASP)이 상승해 수익성이 개선됐다며 목표주가를 상향 조정함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "‘130만닉스’ 간다?…SK하이닉스, AI 메모리 초호황에 목표가 ‘쑥’",
+          "url": "https://www.mk.co.kr/news/stock/11947974"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-01"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202601300844045816",
+      "date": "2026-01-30",
+      "company": "한국투자증권",
+      "title": "한투운용, '한국투자K지수&테마로테이션 펀드' 출시",
+      "oneLiner": "한국투자신탁운용이 AI 등 K-성장 테마에 투자하는 '한국투자K지수&테마로테이션 펀드'를 출시해 AI·반도체·2차전지 등 테마 기반 포트폴리오를 제공함.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투운용, '한국투자K지수&테마로테이션 펀드' 출시",
+          "url": "https://www.fnnews.com/news/202601300844045816"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-01-31"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202601301038364457",
+      "date": "2026-01-30",
+      "company": "미래에셋증권",
+      "title": "'90만닉스' 넘어 '100만닉스'까지?...증권가 \"반도체株 재점화\"",
+      "oneLiner": "SK하이닉스가 AI 서버용 HBM 수요 확대와 메모리 가격 상승으로 급등하며 증권사들이 목표주가를 대폭 상향 조정하고 있음.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "'90만닉스' 넘어 '100만닉스'까지?...증권가 \"반도체株 재점화\"",
+          "url": "https://www.fnnews.com/news/202601301038364457"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-01-31"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202601301043585909",
+      "date": "2026-01-30",
+      "company": "KB증권",
+      "title": "KB자산운용, 'RISE AI&로봇 ETF' 5000억원 돌파...\"정책 모멘텀 본격화\"",
+      "oneLiner": "KB자산운용의 'RISE AI&로봇 ETF'가 순자산 5000억원을 돌파하며 AI·로봇 테마 대표 상품으로 자리매김하고 있다는 평가가 나옴.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "KB자산운용, 'RISE AI&로봇 ETF' 5000억원 돌파...\"정책 모멘텀 본격화\"",
+          "url": "https://www.fnnews.com/news/202601301043585909"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-01-31"
     }
   ]
 }

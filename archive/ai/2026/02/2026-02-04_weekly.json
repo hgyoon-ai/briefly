@@ -1,0 +1,291 @@
+{
+  "range": {
+    "from": "2026-01-29",
+    "to": "2026-02-04"
+  },
+  "kpis": {
+    "collected": 11,
+    "deduped": 11,
+    "uniqueTopics": 10
+  },
+  "topTopics": [
+    {
+      "name": "Models",
+      "count": 8
+    },
+    {
+      "name": "Tooling",
+      "count": 8
+    },
+    {
+      "name": "Infra",
+      "count": 7
+    },
+    {
+      "name": "Product",
+      "count": 5
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Models",
+      "count": 1
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Tooling",
+      "count": 1
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Infra",
+      "count": 1
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Models",
+      "count": 2
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Tooling",
+      "count": 1
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Product",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Models",
+      "count": 1
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Tooling",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Infra",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Infra",
+      "count": 1
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Product",
+      "count": 1
+    },
+    {
+      "date": "2026-02-03",
+      "dayOfWeek": "Tue",
+      "topic": "Models",
+      "count": 1
+    },
+    {
+      "date": "2026-02-03",
+      "dayOfWeek": "Tue",
+      "topic": "Tooling",
+      "count": 1
+    },
+    {
+      "date": "2026-02-03",
+      "dayOfWeek": "Tue",
+      "topic": "Infra",
+      "count": 1
+    },
+    {
+      "date": "2026-02-03",
+      "dayOfWeek": "Tue",
+      "topic": "Product",
+      "count": 1
+    },
+    {
+      "date": "2026-02-04",
+      "dayOfWeek": "Wed",
+      "topic": "Models",
+      "count": 3
+    },
+    {
+      "date": "2026-02-04",
+      "dayOfWeek": "Wed",
+      "topic": "Tooling",
+      "count": 3
+    },
+    {
+      "date": "2026-02-04",
+      "dayOfWeek": "Wed",
+      "topic": "Infra",
+      "count": 2
+    },
+    {
+      "date": "2026-02-04",
+      "dayOfWeek": "Wed",
+      "topic": "Product",
+      "count": 1
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "Holo2와 Genie: 생성형 모델의 UI 현지화·상호작용성 진화",
+      "summary": "H사의 Holo2는 다국어 컨텍스트 유지와 번역 정확도를 강화해 UI 현지화 품질을 끌어올렸고, 구글의 Project Genie는 무한·상호작용 세계 생성을 통해 사용자가 직접 탐험·조작하는 새로운 모델 활용 방식을 제시하며 인터랙티브 생성형 AI의 가능성을 확대한다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "H Company's new Holo2 model takes the lead in UI Localization",
+          "url": "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b"
+        },
+        {
+          "source": "Google DeepMind Blog",
+          "title": "Project Genie: Experimenting with infinite, interactive worlds",
+          "url": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "Triton·장문 컨텍스트·MoE: GPU 최적화로 대규모 LLM 성능 가속",
+      "summary": "CUDA Tile IR를 활용한 Triton 백엔드 통합, JAX·XLA 기반 장문 컨텍스트 모델 학습 최적화, 하이브리드 전문가 병렬을 통한 MoE 통신 병목 완화까지, GPU 프로그램 이식성과 Tensor Core 활용을 극대화해 대규모·장문·전문가혼합 LLM의 학습·추론 효율을 전방위로 끌어올리는 최적화 흐름이 이어지고 있다.",
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Advancing GPU Programming with the CUDA Tile IR Backend for OpenAI Triton",
+          "url": "https://developer.nvidia.com/blog/advancing-gpu-programming-with-the-cuda-tile-ir-backend-for-openai-triton/"
+        },
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Accelerating Long-Context Model Training in JAX and XLA",
+          "url": "https://developer.nvidia.com/blog/accelerating-long-context-model-training-in-jax-and-xla/"
+        },
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Optimizing Communication for Mixture-of-Experts Training with Hybrid Expert Parallel",
+          "url": "https://developer.nvidia.com/blog/optimizing-communication-for-mixture-of-experts-training-with-hybrid-expert-parallel/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "Sora 피드와 Project Genie: 안전한 창의적 AI 경험 설계",
+      "summary": "Sora 피드는 개인화 추천과 부모 통제 기능으로 창의성과 사용자 연결을 지원하며, Genie는 연구용으로 무한·상호작용 세계를 제공하면서도 안전 장치를 포함해 실험적 환경에서의 책임 있는 사용을 강조하는 등, 생성형 AI 서비스 전반에서 ‘재미·창의성’과 ‘안전·통제’의 균형을 맞추는 설계가 중요해지고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "The Sora feed philosophy",
+          "url": "https://openai.com/index/sora-feed-philosophy"
+        },
+        {
+          "source": "Google DeepMind Blog",
+          "title": "Project Genie: Experimenting with infinite, interactive worlds",
+          "url": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "SHIFTING",
+      "title": "오픈소스 AI 생태계 재편: 연구 중심에서 제품·플랫폼 중심으로",
+      "summary": "DeepSeek 이후 글로벌 오픈소스 AI는 단일 모델·연구 성과를 넘어, 표준화·상호운용성·지속 가능한 인프라와 툴체인을 갖춘 제품·플랫폼 생태계로 전환되고 있으며, 장기적으로 상용 클라우드·엔터프라이즈 스택과의 연계가 핵심 경쟁 요소로 부상하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+",
+          "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "엔터프라이즈 데이터와 프런티어 모델 결합: OpenAI–Snowflake 전략 제휴",
+      "summary": "OpenAI와 Snowflake는 2억 달러 규모 파트너십을 통해 Snowflake 내에서 AI 에이전트와 분석 인사이트를 직접 제공하는 통합 경험을 구축해, 기업 데이터 거버넌스 체계 안에서 프런티어 모델을 활용하는 엔터프라이즈 AI 도입을 가속화하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data",
+          "url": "https://openai.com/index/snowflake-partnership"
+        }
+      ]
+    }
+  ]
+}

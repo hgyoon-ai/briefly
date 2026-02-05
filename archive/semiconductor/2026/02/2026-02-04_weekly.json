@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-01-29",
+    "to": "2026-02-04"
+  },
+  "kpis": {
+    "collected": 15,
+    "deduped": 15,
+    "uniqueTopics": 7
+  },
+  "topTopics": [
+    {
+      "name": "Roadmap",
+      "count": 12
+    },
+    {
+      "name": "Manufacturing",
+      "count": 8
+    },
+    {
+      "name": "Competition",
+      "count": 8
+    },
+    {
+      "name": "Investment",
+      "count": 5
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Manufacturing",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 3
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Manufacturing",
+      "count": 2
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-02-03",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-02-03",
+      "dayOfWeek": "Tue",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-02-03",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-02-03",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-02-04",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-02-04",
+      "dayOfWeek": "Wed",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-02-04",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-02-04",
+      "dayOfWeek": "Wed",
+      "topic": "Investment",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "인도 2026-2027 예산, 반도체·전자 제조 중심으로 산업 구조 재편 가속",
+      "summary": "인도 정부가 2026-2027년 예산에서 세제 개편과 인센티브를 통해 국내 반도체·전자 제조 투자를 대폭 유도하는 정책을 제시했다. 팹·패키징·부품 공급망을 동시에 끌어올려 글로벌 반도체 생산 허브를 노리는 방향으로, 장기적으로 한국·대만·미국과의 공급망 재편 및 경쟁 구도 변화가 예상된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "India Budget 2026-2027: Semiconductors, Manufacturing, and Tax Reforms",
+          "url": "https://www.eetimes.com/india-budget-2026-2027-semiconductors-manufacturing-and-tax-reforms/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "유럽 디지털 주권 논쟁 심화, 미국 클라우드·반도체 의존도 축소 요구 확대",
+      "summary": "HiPEAC 2026에서 유럽이 미국 클라우드 사업자와 인프라에 과도하게 의존하고 있다는 문제의식이 강화됐다. 데이터 통제, 가격 결정권, 핵심 반도체·컴퓨팅 자원의 자급화 필요성이 함께 제기되면서, 향후 유럽 내 자체 클라우드·반도체 인프라 투자 및 규제 강화로 글로벌 공급망과 수요 지형이 점진적으로 이동할 가능성이 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "HiPEAC 2026: Reclaiming European Digital Sovereignty",
+          "url": "https://www.eetimes.com/hipeac-2026-reclaiming-european-digital-sovereignty/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "캐나다, 양자컴퓨팅 생태계 투자 확대로 차세대 반도체·연산 인프라 기반 구축",
+      "summary": "캐나다가 정부·연구기관·기업 간 협력을 강화하며 양자컴퓨팅 역량 확대에 속도를 내고 있다. 양자 하드웨어, 제어 칩, 관련 알고리즘 연구 투자가 늘어나면서, 중장기적으로 메모리·인터커넥트·저온 전자 등 반도체 수요와 기술 로드맵에 영향을 줄 수 있는 전략적 인프라 구축이 진행 중이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Canada Accelerates Quantum Aspirations",
+          "url": "https://www.eetimes.com/canada-accelerates-quantum-aspirations/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "우주 데이터센터 개념 부상, 열관리 이슈가 우주용 반도체·패키징 설계 과제로 부각",
+      "summary": "궤도상 데이터센터 논의에서 발사 비용보다 진공·마이크로중력 환경의 열관리 문제가 핵심 병목으로 떠오르고 있다. 대형 방열판, 유체 루프, 방사 냉각 등을 고려한 신규 설계가 필요해지면서, 우주 방사선·온도 특성을 견디는 전력 반도체·고집적 패키징·재료 기술의 차별화 수요가 확대될 수 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "The Hidden Physics of Running Data Centers in Orbit",
+          "url": "https://www.eetimes.com/the-hidden-physics-of-running-data-centers-in-orbit/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "삼성전자 FY2025 실적 발표, 메모리·파운드리 투자와 수요 회복 방향성 주목",
+      "summary": "삼성전자가 2025년 4분기 및 연간 실적을 공시하며, 메모리 가격 회복과 AI·고대역폭 메모리(HBM), 파운드리 수주 동향이 시장의 핵심 관심사로 부상했다. 이에 따라 2026년 이후 설비투자(Capex), 공정 미세화, 패키징 고도화 전략이 글로벌 반도체 공급 능력과 가격 사이클에 직접적인 영향을 줄 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung Electronics Announces Fourth Quarter and FY 2025 Results",
+          "url": "https://news.samsung.com/global/samsung-electronics-announces-fourth-quarter-and-fy-2025-results"
+        }
+      ]
+    }
+  ]
+}

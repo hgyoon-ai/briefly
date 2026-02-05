@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-01-05",
+    "to": "2026-02-03"
+  },
+  "kpis": {
+    "collected": 20,
+    "deduped": 20,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 30,
+      "Competition": 25,
+      "Manufacturing": 16,
+      "Investment": 16,
+      "Demand": 12,
+      "Other": 1
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (01/05-01/11)",
+      "topicCounts": {
+        "Roadmap": 0,
+        "Competition": 0,
+        "Manufacturing": 0,
+        "Investment": 0,
+        "Demand": 0
+      }
+    },
+    {
+      "week": "Week 2 (01/12-01/18)",
+      "topicCounts": {
+        "Roadmap": 0,
+        "Competition": 0,
+        "Manufacturing": 0,
+        "Investment": 0,
+        "Demand": 0
+      }
+    },
+    {
+      "week": "Week 3 (01/19-01/25)",
+      "topicCounts": {
+        "Roadmap": 0,
+        "Competition": 0,
+        "Manufacturing": 0,
+        "Investment": 0,
+        "Demand": 0
+      }
+    },
+    {
+      "week": "Week 4 (01/26-02/01)",
+      "topicCounts": {
+        "Roadmap": 12,
+        "Competition": 10,
+        "Manufacturing": 6,
+        "Investment": 9,
+        "Demand": 5
+      }
+    },
+    {
+      "week": "Week 5 (02/02-02/03)",
+      "topicCounts": {
+        "Roadmap": 4,
+        "Competition": 3,
+        "Manufacturing": 2,
+        "Investment": 0,
+        "Demand": 2
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "차세대 AI 칩 설계의 열관리 혁신",
+      "summary": "AI 연산 집약적 칩과 첨단 패키징 확산으로 열이 반도체 설계·제조의 핵심 제약으로 부상했다. 3D IC 패키징, 고급 냉각 솔루션, AI 기반 열 최적화 등 열관리 기술이 차세대 AI 반도체 성능과 전력 효율, 신뢰성을 좌우하는 전략 축으로 자리 잡고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Thermal Advances Driving Next-Gen AI Chip Design",
+          "url": "https://www.eetimes.com/thermal-advances-driving-next-gen-ai-chip-design/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "삼성 2026년형 OLED·게이밍 디스플레이와 AI·GPU 생태계 연계 강화",
+      "summary": "삼성전자가 2026년형 OLED TV와 차세대 오디세이 게이밍 모니터에 NVIDIA G-SYNC 호환을 적용하며 고성능 GPU·게이밍 생태계와의 연계를 강화하고 있다. 이는 고프레임레이트, 저지연 디스플레이 수요 확대에 대응하는 한편, 시스템·디스플레이용 반도체 성능 요구 수준을 끌어올려 관련 부품·칩 수요에도 영향을 줄 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung 2026 OLED TVs and Monitors Are NVIDIA® G-SYNC™ Compatible for Elite Gaming Performance",
+          "url": "https://news.samsung.com/global/samsung-2026-oled-tvs-and-monitors-are-nvidia-g-sync-compatible-for-elite-gaming-performance"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "삼성전자 2025년 4분기 및 연간 실적을 통한 반도체 수요·투자 흐름 확인",
+      "summary": "삼성전자가 2025 회계연도 4분기 및 연간 실적을 발표하며 메모리·파운드리 등 주요 반도체 사업의 수요 회복 속도와 투자 기조를 드러냈다. 해당 실적은 재고 조정 국면 이후 서버·모바일·AI 관련 수요 구조 변화와 설비·CAPEX 방향성을 가늠하는 핵심 지표로 활용될 수 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung Electronics Announces Fourth Quarter and FY 2025 Results",
+          "url": "https://news.samsung.com/global/samsung-electronics-announces-fourth-quarter-and-fy-2025-results"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "SHIFTING",
+      "title": "유럽 디지털 주권 논쟁과 반도체·클라우드 인프라 전략 재편",
+      "summary": "HiPEAC 2026에서 미국 클라우드 의존도, 데이터 통제, 비용 문제를 둘러싼 유럽의 디지털 주권 이슈가 부각되었다. 자국·역내 데이터센터와 HPC·AI 인프라에 대한 요구가 커지며, 장기적으로 유럽 내 반도체 투자, 서버·스토리지용 칩 수요, 국산화·공급망 재편 논의에 영향을 줄 수 있는 방향으로 논점이 이동하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "HiPEAC 2026: Reclaiming European Digital Sovereignty",
+          "url": "https://www.eetimes.com/hipeac-2026-reclaiming-european-digital-sovereignty/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "캐나다의 양자 컴퓨팅 전략 가속과 차세대 연산용 반도체 생태계 확장",
+      "summary": "캐나다가 정부·연구기관·기업 협업을 통해 양자컴퓨팅 역량 강화를 본격화하고 있다. 이는 양자 프로세서, 극저온 제어칩, 특수 소재·디바이스 등 차세대 연산용 반도체 분야에서 연구개발 및 투자 확대를 유도해 장기적 기술 주도권 경쟁에 가세하는 흐름으로 볼 수 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Canada Accelerates Quantum Aspirations",
+          "url": "https://www.eetimes.com/canada-accelerates-quantum-aspirations/"
+        }
+      ]
+    }
+  ]
+}

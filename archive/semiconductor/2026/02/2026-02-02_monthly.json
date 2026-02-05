@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-01-04",
+    "to": "2026-02-02"
+  },
+  "kpis": {
+    "collected": 16,
+    "deduped": 16,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 29,
+      "Competition": 24,
+      "Investment": 20,
+      "Manufacturing": 16,
+      "Demand": 11,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (01/04-01/10)",
+      "topicCounts": {
+        "Roadmap": 0,
+        "Competition": 0,
+        "Investment": 0,
+        "Manufacturing": 0,
+        "Demand": 0
+      }
+    },
+    {
+      "week": "Week 2 (01/11-01/17)",
+      "topicCounts": {
+        "Roadmap": 0,
+        "Competition": 0,
+        "Investment": 0,
+        "Manufacturing": 0,
+        "Demand": 0
+      }
+    },
+    {
+      "week": "Week 3 (01/18-01/24)",
+      "topicCounts": {
+        "Roadmap": 0,
+        "Competition": 0,
+        "Investment": 0,
+        "Manufacturing": 0,
+        "Demand": 0
+      }
+    },
+    {
+      "week": "Week 4 (01/25-01/31)",
+      "topicCounts": {
+        "Roadmap": 11,
+        "Competition": 9,
+        "Investment": 9,
+        "Manufacturing": 5,
+        "Demand": 5
+      }
+    },
+    {
+      "week": "Week 5 (02/01-02/02)",
+      "topicCounts": {
+        "Roadmap": 1,
+        "Competition": 1,
+        "Investment": 0,
+        "Manufacturing": 1,
+        "Demand": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "반도체 공급망에서 재고·추적 관리 고도화 필요성 부각",
+      "summary": "제조업 전반에서 스프레드시트 기반 재고 관리의 한계를 인식하고 ERP·디지털 시스템으로 전환하는 흐름이 강화되고 있다. 이는 반도체 원자재·완제품 재고 오류와 다거점 운영 리스크를 줄이고, 공급망 가시성과 비용 효율성을 높이기 위한 방향성과 맞물려 반도체 제조·패키징 업계에도 동형의 시스템 전환 필요성을 시사한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "How a Ball Machine Manufacturer Tracks Inventory Across 8 Locations",
+          "url": "https://www.eetimes.com/how-a-ball-machine-manufacturer-tracks-inventory-across-8-locations/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "MRAM 포함 오픈소스 반도체 설계 스택 확장",
+      "summary": "Ainekko와 Veevx 합병을 통해 MRAM 지원이 오픈소스 설계 스택에 추가되면서, 차세대 비휘발성 메모리를 활용한 설계 접근성이 높아지고 있다. 이는 반도체 스타트업과 학계가 저비용으로 MRAM 기반 SoC와 저장장치 아키텍처를 실험·개발할 수 있는 기반을 제공해, 메모리 구조 혁신과 생태계 다변화를 가속할 수 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Ainekko Merges With Veevx, Adds MRAM To Open-Source Stack",
+          "url": "https://www.eetimes.com/ainekko-merges-with-veevx-adds-mram-to-open-source-stack/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "디지털 주권 이슈 속 유럽 반도체·클라우드 전략 재정렬",
+      "summary": "HiPEAC 2026에서 미국 클라우드 사업자 의존도, 가격, 데이터 통제에 대한 우려가 제기되며 유럽의 디지털 주권 확보가 핵심 의제로 부상했다. 이는 클라우드 인프라와 함께 엣지·가속기 반도체, 설계 IP, 데이터센터용 칩 공급망을 자국·역내 중심으로 재편하려는 정책·투자 방향에 직접적인 영향을 줄 수 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "HiPEAC 2026: Reclaiming European Digital Sovereignty",
+          "url": "https://www.eetimes.com/hipeac-2026-reclaiming-european-digital-sovereignty/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "양자컴퓨팅 투자 확대가 차세대 반도체 로드맵에 미치는 영향",
+      "summary": "캐나다가 연구기관·기업·정부 협업을 통해 양자컴퓨팅 역량을 강화하면서, 양자 칩·저온 전자·특수 패키징 등 관련 반도체 기술 수요가 커지고 있다. 국가 차원의 양자 투자 확대는 기존 CMOS 공정과 양자 디바이스 공정을 결합하는 하이브리드 로드맵을 자극하며, 장기적으로는 반도체 장비·소재 및 설계 생태계의 새로운 성장축이 될 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Canada Accelerates Quantum Aspirations",
+          "url": "https://www.eetimes.com/canada-accelerates-quantum-aspirations/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "삼성전자 실적을 통한 메모리·파운드리 수요 사이클 점검",
+      "summary": "삼성전자의 2025년 4분기 및 연간 실적 발표는 메모리(DDR, HBM 등)와 파운드리 수요 회복 속도, 설비투자(CapEx) 방향, AI·모바일·서버용 반도체 수요 구조를 가늠할 수 있는 핵심 지표다. 투자와 수요 전망에 따라 글로벌 반도체 공급망의 증설·공정 전환 타이밍과 가격 전략에 영향이 예상된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung Electronics Announces Fourth Quarter and FY 2025 Results",
+          "url": "https://news.samsung.com/global/samsung-electronics-announces-fourth-quarter-and-fy-2025-results"
+        }
+      ]
+    }
+  ]
+}

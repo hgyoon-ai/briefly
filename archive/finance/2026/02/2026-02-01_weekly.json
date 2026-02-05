@@ -1,0 +1,276 @@
+{
+  "range": {
+    "from": "2026-01-26",
+    "to": "2026-02-01"
+  },
+  "kpis": {
+    "collected": 15,
+    "deduped": 15,
+    "uniqueTopics": 9
+  },
+  "topTopics": [
+    {
+      "name": "MarketInfra",
+      "count": 12
+    },
+    {
+      "name": "Policy",
+      "count": 9
+    },
+    {
+      "name": "Compliance",
+      "count": 8
+    },
+    {
+      "name": "Regulation",
+      "count": 6
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-01-26",
+      "dayOfWeek": "Mon",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-01-26",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-01-26",
+      "dayOfWeek": "Mon",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-01-26",
+      "dayOfWeek": "Mon",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-01-27",
+      "dayOfWeek": "Tue",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-01-27",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-01-27",
+      "dayOfWeek": "Tue",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-01-27",
+      "dayOfWeek": "Tue",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "MarketInfra",
+      "count": 5
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 4
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Compliance",
+      "count": 4
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Regulation",
+      "count": 2
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "MarketInfra",
+      "count": 5
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 3
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Compliance",
+      "count": 3
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Regulation",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Compliance",
+      "count": 1
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Regulation",
+      "count": 2
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Regulation",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "전자폐기물에서 금 추출 투자 관심 급증",
+      "summary": "중국 사례를 계기로 폐휴대폰·유심 등 전자폐기물에서 금을 추출해 수익을 내는 방식이 화제가 되며, 금값 상승과 맞물려 소규모 리사이클링 투자·채굴형 비즈니스 모델에 대한 관심이 확대되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "‘폐기 휴대폰 유심 카드’로 5천만원어치 금 모았다…전문가들은 글쎄?",
+          "url": "https://www.mk.co.kr/news/stock/11949168"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "2030 중심 CMA 확산과 단기자금 운용 트렌드",
+      "summary": "연 2%대 수익률과 일 단위 이자 지급을 앞세운 CMA 잔고가 100조 원을 돌파하며, 월급·청약 대기자금 등 유동성을 CMA로 옮기는 흐름이 강화되고 있다. 이는 개인투자자의 현금관리 방식과 단기자금 시장 구조에 변화를 주고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“하루만 맡겨도 이자 붙는다”…노는 돈 줄이는 ‘이것’의 힘 [캥거루족 탈출기③]",
+          "url": "https://www.mk.co.kr/news/stock/11949142"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "공공기관 지정 조정과 금융감독원 유보 결정",
+      "summary": "정부가 공공기관을 342개로 재조정하며 11개를 새로 지정하는 한편, 금융감독원은 요건 충족에도 경영관리·투명성 강화 조건을 달아 1년간 공공기관 지정이 유보됐다. 이는 향후 금융감독 체계와 공공부문 지배구조 개편 논의에 영향을 줄 수 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "정책브리핑",
+          "title": "올해 공공기관 11개 늘어난 342개 지정…금감원은 지정 유보",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148958850&call_from=rsslink"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "국내 우량주 레버리지 ETF·ETN 전면 도입 추진",
+      "summary": "금융당국이 자본시장법 시행령·금투업규정 개정을 통해 삼성전자·하이닉스 등 국내 우량주를 기초로 한 단일종목 2배 레버리지 ETF·ETN 도입을 추진하고, 위클리 옵션 만기 확대 및 개별주·ETF 기초 신규 옵션 허용 등으로 파생·ETF 시장을 고도화하려 하고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "삼성전자·하이닉스 ‘2배’ ETF, 이르면 2분기에 나온다",
+          "url": "https://www.mk.co.kr/news/stock/11949038"
+        },
+        {
+          "source": "정책브리핑",
+          "title": "국내 우량주 레버리지 ETF 첫 도입…금융위, 시행령 등 입법예고",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148958854&call_from=rsslink"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "암호화폐 연계 테마주의 자사주 매입 확대",
+      "summary": "트럼프 관련 코인 테마주로 분류되는 ALT5가 전체 발행주식의 40% 규모에 달하는 1억 달러 자사주 매입 프로그램을 발표하고, 트럼프 가문이 주도하는 WLFI 토큰 추가 매입 계획까지 더해지며 암호화폐 연계 종목의 변동성과 투기적 수요가 다시 부각되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "‘트럼프 코인’ 테마주 ALT5, 1억 달러 자사주 매입… “주가 저평가” 승부수",
+          "url": "https://www.mk.co.kr/news/stock/11947989"
+        }
+      ]
+    }
+  ]
+}

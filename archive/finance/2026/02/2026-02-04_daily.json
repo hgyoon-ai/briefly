@@ -1,0 +1,81 @@
+{
+  "date": "2026-02-04",
+  "highlights": {
+    "bullets": [
+      "MarketInfra 관련 업데이트가 6건 감지됨",
+      "Policy 관련 업데이트가 5건 감지됨",
+      "Fintech 관련 업데이트가 2건 감지됨"
+    ],
+    "topTopics": [
+      "MarketInfra",
+      "Policy",
+      "Fintech"
+    ],
+    "stats": {
+      "collected": 6,
+      "deduped": 6
+    }
+  },
+  "cards": [
+    {
+      "id": "finance_0001",
+      "tab": "finance",
+      "publishedAt": "2026-02-03T20:24:46+09:00",
+      "source": "매일경제(증권)",
+      "title": "국내 증시 시가총액 5천조 첫 돌파…삼성전자 1천조 눈앞",
+      "summary": [
+        "코스피 시가총액이 사상 처음으로 5,000조원을 돌파했다.",
+        "주가 급등으로 국내 증시 총액이 역대 최고치를 기록했다.",
+        "삼성전자의 시가총액은 1,000조원 돌파를 목전에 두고 있다."
+      ],
+      "whyItMatters": "국내 증시의 유동성 확대와 대형주 강세로 투자 심리가 개선되고 기업가치 집중 현상이 심화되고 있기 때문이다.",
+      "topics": [
+        "MarketInfra",
+        "Policy"
+      ],
+      "status": "ONGOING",
+      "hash": "2d096e046f05f443c0e9df0d827bd9e1980aebf48e3dfdac16818d18c7613a5c",
+      "url": "https://www.mk.co.kr/news/stock/11951900"
+    },
+    {
+      "id": "finance_0002",
+      "tab": "finance",
+      "publishedAt": "2026-02-03T20:23:41+09:00",
+      "source": "매일경제(증권)",
+      "title": "“어제 못버틴 개미님들 다 털고 갑니다”…코스피 338포인트 폭등",
+      "summary": [
+        "코스피가 338포인트 급등해 5288로 사상 최고치를 기록했다.",
+        "미국 제조업지수 호조가 반도체 사이클 재확인을 시사하며 증시 강세를 유도했다.",
+        "JP모건의 코스피 7500 전망과 케빈 워시 연준 의장 지명 소식이 투자심리를 끌어올렸다."
+      ],
+      "whyItMatters": "글로벌 경기 회복 신호와 통화정책 불확실성 축소 기대가 국내 증시의 추가 상승 가능성을 높여 투자자 포지셔닝에 영향을 미치기 때문입니다.",
+      "topics": [
+        "MarketInfra",
+        "Policy"
+      ],
+      "status": "ONGOING",
+      "hash": "3d15e9452dbb8664f74a4049e90816f03a70279ff8d0cc6a39ddab56a746160b",
+      "url": "https://www.mk.co.kr/news/stock/11951898"
+    },
+    {
+      "id": "finance_0003",
+      "tab": "finance",
+      "publishedAt": "2026-02-03T14:31:00+09:00",
+      "source": "정책브리핑",
+      "title": "중소기업 연구인력 인건비 50% 지원…비수도권 우대 지원",
+      "summary": [
+        "중소벤처기업부가 중소기업 연구인력 채용·파견 시 인건비의 최대 50%를 3년간 지원하는 2026년도 중소기업 연구인력 지원사업을 공고했다.",
+        "신규 선정 인력의 60%를 비수도권에 배정하고, 제조AI 중소기업에는 신진·고경력 연구인력 각 1명씩 최대 2명 채용을 별도 지원한다.",
+        "공공연구기관 파견 연구인력 및 권역별 연구인력혁신센터를 통해 기술 애로 해소, 인턴·R&D 프로젝트, 산학협력 교육 등 현장 맞춤형 인력 양성도 병행한다."
+      ],
+      "whyItMatters": "중소기업, 특히 비수도권 및 제조AI 기업의 연구인력 수급난을 완화해 지역 격차를 줄이고 디지털·AI 전환 경쟁력을 높이는 정책이기 때문이다.",
+      "topics": [
+        "Policy",
+        "MarketInfra"
+      ],
+      "status": "NEW",
+      "hash": "da266d77443a42bc058737e0140ec08325794c911d3efc3f07777478b59801d1",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148958994&call_from=rsslink"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-01-25",
+    "to": "2026-01-31"
+  },
+  "kpis": {
+    "collected": 14,
+    "deduped": 14,
+    "uniqueTopics": 7
+  },
+  "topTopics": [
+    {
+      "name": "Roadmap",
+      "count": 11
+    },
+    {
+      "name": "Investment",
+      "count": 9
+    },
+    {
+      "name": "Competition",
+      "count": 9
+    },
+    {
+      "name": "Manufacturing",
+      "count": 5
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-01-25",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-01-25",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-01-25",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-01-25",
+      "dayOfWeek": "Sun",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-01-26",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-01-26",
+      "dayOfWeek": "Mon",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-01-26",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-01-26",
+      "dayOfWeek": "Mon",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-01-27",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-01-27",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-01-27",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-01-27",
+      "dayOfWeek": "Tue",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 3
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Investment",
+      "count": 4
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 3
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Manufacturing",
+      "count": 2
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 4
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 3
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Manufacturing",
+      "count": 2
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Manufacturing",
+      "count": 1
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "반도체 공급망 전 단계 추적성 강화 논의 가속",
+      "summary": "NIST 워크숍에서 웨이퍼·패키징·완제품까지 전 공정을 아우르는 반도체 추적성 확보가 핵심 의제로 부상했다. 다수의 글로벌 이해관계자가 얽힌 만큼, 개별 기업이 아닌 업계 공동 표준과 규제·정책 연계를 통한 장기 과제로 다뤄지는 흐름이 이어지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Semiconductor Traceability Takes Center Stage at NIST Workshop",
+          "url": "https://www.eetimes.com/semiconductor-traceability-takes-center-stage-at-nist-workshop/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "유럽, 디지털 주권 강화를 통한 반도체·클라우드 의존도 재조정",
+      "summary": "HiPEAC 2026에서는 미국 클라우드·플랫폼에 대한 유럽의 과도한 의존이 핵심 이슈로 부각되며, 데이터 주권과 가격, 인프라 통제권을 둘러싼 정책·투자 재편 논의가 심화되고 있다. 이는 장기적으로 유럽 내 반도체·컴퓨팅 인프라 투자 확대와 기술 주권 전략과 직결되는 방향으로 흐르고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "HiPEAC 2026: Reclaiming European Digital Sovereignty",
+          "url": "https://www.eetimes.com/hipeac-2026-reclaiming-european-digital-sovereignty/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "캐나다, 양자컴퓨팅 생태계에 대한 국가 단위 투자·연구 협업 확대",
+      "summary": "캐나다가 정부, 연구기관, 스타트업·대기업 간 협력을 바탕으로 양자컴퓨팅 기술 역량을 빠르게 끌어올리고 있다. 양자 하드웨어와 소프트웨어, 인력 양성까지 포괄하는 중장기 로드맵이 가속되며, 북미 내 차세대 연산·반도체 경쟁 구도에 캐나다의 존재감이 커지는 추세다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Canada Accelerates Quantum Aspirations",
+          "url": "https://www.eetimes.com/canada-accelerates-quantum-aspirations/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "삼성전자 2025년 4분기 및 연간 실적, 메모리·파운드리 수요 회복 추세 반영",
+      "summary": "삼성전자가 2025년 12월 결산 기준 4분기 및 연간 실적을 발표하며, 메모리와 시스템 반도체 전반의 수요 회복, AI·고대역폭 메모리 투자 확대 등 반도체 사이클 개선 흐름을 수치로 확인시켰다. 향후 설비투자와 기술 고도화 전략 역시 시장 주목을 받고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung Electronics Announces Fourth Quarter and FY 2025 Results",
+          "url": "https://news.samsung.com/global/samsung-electronics-announces-fourth-quarter-and-fy-2025-results"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "AI 성능·전력 효율 극대화를 위한 전 스택 최적화 요구 증대",
+      "summary": "HiPEAC 2026에서는 모델·컴파일러·런타임·하드웨어를 아우르는 AI 전체 스택에서의 최적화 필요성이 강조되었다. 반도체 설계와 아키텍처 수준에서 비효율을 줄여야 데이터센터 전력 문제와 비용 부담을 완화할 수 있다는 공감대가 형성되며, 관련 투자가 이어지는 추세다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "HiPEAC 2026: Don’t Get Lazy with AI Optimization",
+          "url": "https://www.eetimes.com/hipeac-2026-dont-get-lazy-with-ai-optimization/"
+        }
+      ]
+    }
+  ]
+}

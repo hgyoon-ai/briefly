@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-01-04",
+    "to": "2026-02-02"
+  },
+  "kpis": {
+    "collected": 23,
+    "deduped": 23,
+    "uniqueTopics": 49,
+    "marketShare": {
+      "Tooling": 25,
+      "Infra": 19,
+      "Models": 19,
+      "Product": 19,
+      "Research": 17,
+      "Other": 1
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (01/04-01/10)",
+      "topicCounts": {
+        "Tooling": 0,
+        "Infra": 0,
+        "Models": 0,
+        "Product": 0,
+        "Research": 0
+      }
+    },
+    {
+      "week": "Week 2 (01/11-01/17)",
+      "topicCounts": {
+        "Tooling": 0,
+        "Infra": 0,
+        "Models": 0,
+        "Product": 0,
+        "Research": 0
+      }
+    },
+    {
+      "week": "Week 3 (01/18-01/24)",
+      "topicCounts": {
+        "Tooling": 0,
+        "Infra": 0,
+        "Models": 0,
+        "Product": 0,
+        "Research": 0
+      }
+    },
+    {
+      "week": "Week 4 (01/25-01/31)",
+      "topicCounts": {
+        "Tooling": 9,
+        "Infra": 7,
+        "Models": 7,
+        "Product": 7,
+        "Research": 6
+      }
+    },
+    {
+      "week": "Week 5 (02/01-02/02)",
+      "topicCounts": {
+        "Tooling": 0,
+        "Infra": 0,
+        "Models": 0,
+        "Product": 0,
+        "Research": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "ai-1",
+      "status": "ONGOING",
+      "title": "CUDA Tile IR 통합으로 Triton 기반 GPU·Tensor Core 최적화 가속",
+      "summary": "NVIDIA가 OpenAI Triton에 CUDA Tile IR 백엔드를 통합해 Tensor Core를 더 효율적으로 활용할 수 있게 했다. 이를 통해 고성능 커널을 더 이식성 있게 작성하고, 다양한 GPU 아키텍처에서 추론·연산 성능을 극대화하는 생태계 강화 흐름이 지속되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Advancing GPU Programming with the CUDA Tile IR Backend for OpenAI Triton",
+          "url": "https://developer.nvidia.com/blog/advancing-gpu-programming-with-the-cuda-tile-ir-backend-for-openai-triton/"
+        }
+      ]
+    },
+    {
+      "id": "ai-2",
+      "status": "NEW",
+      "title": "NVIDIA Cosmos Policy로 고급 로봇 제어용 생성·강화 학습 정책 공개",
+      "summary": "NVIDIA가 Cosmos Policy를 통해 복잡한 로봇 제어 정책을 오픈해 개발자와 연구자가 고난도 조작·제어 작업을 학습·응용할 수 있게 했다. Hugging Face를 통한 배포로 재현성과 접근성이 높아져 실제 로봇 및 시뮬레이션 환경에서의 활용이 확장될 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "Introducing NVIDIA Cosmos Policy for Advanced Robot Control",
+          "url": "https://huggingface.co/blog/nvidia/cosmos-policy-for-robot-control"
+        }
+      ]
+    },
+    {
+      "id": "ai-3",
+      "status": "NEW",
+      "title": "Google Project Genie: 무한 상호작용 세계 생성형 에이전트 실험",
+      "summary": "Google이 Project Genie를 통해 사용자가 텍스트·지시를 바탕으로 무한에 가까운 상호작용 가상 세계를 생성·탐험할 수 있는 연구용 프로토타입을 공개했다. 이는 생성형 에이전트와 시뮬레이션 환경을 결합해 게임·UX·안전 연구 등 새로운 응용 실험을 촉진한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Google DeepMind Blog",
+          "title": "Project Genie: Experimenting with infinite, interactive worlds",
+          "url": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/"
+        }
+      ]
+    },
+    {
+      "id": "ai-4",
+      "status": "NEW",
+      "title": "Run:ai v2.24, 시간 기반 페어셰어로 Kubernetes GPU 자원 공정 할당",
+      "summary": "NVIDIA Run:ai v2.24가 시간 기반 페어셰어 스케줄링 모드를 도입해, 할당량을 초과하는 GPU 사용 시에도 사용 시간에 비례한 공정한 자원 배분을 지원한다. 이를 통해 여러 팀·워크로드가 혼재된 클러스터 환경에서 AI 학습·추론 작업의 효율과 예측 가능성이 개선된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Ensuring Balanced GPU Allocation in Kubernetes Clusters with Time-Based Fairshare",
+          "url": "https://developer.nvidia.com/blog/ensuring-balanced-gpu-allocation-in-kubernetes-clusters-with-time-based-fairshare/"
+        }
+      ]
+    },
+    {
+      "id": "ai-5",
+      "status": "NEW",
+      "title": "Dynamic Context Parallelism으로 가변 길이 입력 LLM 학습 효율 개선",
+      "summary": "NVIDIA가 Megatron Core에 Dynamic Context Parallelism을 도입해 문장·토큰 길이가 들쭉날쭉한 입력을 더 효율적으로 배치하고 병렬화할 수 있게 했다. 이 방식은 GPU 활용도를 높이고, 장문 중심 LLM 학습 시 처리 속도와 비용 효율을 동시에 개선하는 데 초점을 둔다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Speeding Up Variable-Length Training with Dynamic Context Parallelism and NVIDIA Megatron Core",
+          "url": "https://developer.nvidia.com/blog/speeding-up-variable-length-training-with-dynamic-context-parallelism-and-nvidia-megatron-core/"
+        }
+      ]
+    }
+  ]
+}

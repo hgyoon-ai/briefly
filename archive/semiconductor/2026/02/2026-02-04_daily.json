@@ -1,0 +1,84 @@
+{
+  "date": "2026-02-04",
+  "highlights": {
+    "bullets": [
+      "Manufacturing 관련 업데이트가 3건 감지됨",
+      "Policy 관련 업데이트가 3건 감지됨",
+      "Roadmap 관련 업데이트가 3건 감지됨"
+    ],
+    "topTopics": [
+      "Manufacturing",
+      "Policy",
+      "Roadmap",
+      "Investment"
+    ],
+    "stats": {
+      "collected": 5,
+      "deduped": 5
+    }
+  },
+  "cards": [
+    {
+      "id": "semiconductor_0001",
+      "tab": "semiconductor",
+      "publishedAt": "2026-02-03T10:00:00+09:00",
+      "source": "EE Times",
+      "title": "India Budget 2026-2027: Semiconductors, Manufacturing, and Tax Reforms",
+      "summary": [
+        "인도 2026-2027년 예산이 반도체 및 전자정책을 재편했습니다.",
+        "세제 개편과 인센티브로 국내 제조와 반도체 투자를 촉진하려는 조치가 포함됐습니다.",
+        "글로벌 공급망 참여 확대와 기술 자립 가속을 목표로 합니다."
+      ],
+      "whyItMatters": "반도체를 중심으로 한 세제·정책 변화가 제조투자와 공급망 재편에 즉각적이고 광범위한 영향을 미치기 때문입니다.",
+      "topics": [
+        "Manufacturing",
+        "Policy",
+        "Investment"
+      ],
+      "status": "NEW",
+      "hash": "0cdcef449127464e5a83ba504d4c24e1e006afc75a9c7621563bb2699e621caa",
+      "url": "https://www.eetimes.com/india-budget-2026-2027-semiconductors-manufacturing-and-tax-reforms/"
+    },
+    {
+      "id": "semiconductor_0002",
+      "tab": "semiconductor",
+      "publishedAt": "2026-02-04T05:00:00+09:00",
+      "source": "EE Times",
+      "title": "The Hidden Physics of Running Data Centers in Orbit",
+      "summary": [
+        "우주에 데이터센터를 운영할 때 진짜 문제는 발사가 아니라 열관리다.",
+        "진공과 마이크로중력 환경에서는 폐열 방출을 위해 대형 방열판, 유체 루프, 방사 냉각 등 새로운 설계가 필요하다.",
+        "열관리 한계가 설계·비용·신뢰성에 직접 영향을 미쳐 상업적 실현 가능성을 좌우한다."
+      ],
+      "whyItMatters": "열관리 문제는 장비 수명, 에너지 효율, 운용 비용을 결정하므로 우주 데이터센터의 실현 가능성과 비즈니스 모델을 좌우한다.",
+      "topics": [
+        "Manufacturing",
+        "Roadmap"
+      ],
+      "status": "NEW",
+      "hash": "72b97f5d60655d16ce2c7aee50ae64c6441aad4225cb4cc803331fd6ed799a44",
+      "url": "https://www.eetimes.com/the-hidden-physics-of-running-data-centers-in-orbit/"
+    },
+    {
+      "id": "semiconductor_0003",
+      "tab": "semiconductor",
+      "publishedAt": "2026-02-04T01:00:00+09:00",
+      "source": "Samsung Newsroom",
+      "title": "Samsung Launches Glasses-Free 3D Digital Signage Globally at ISE 2026, Defining a New Direction in Immersive Commercial Displays",
+      "summary": [
+        "삼성전자가 ISE 2026에서 안경 없는 3D 디지털 사이니지 'Samsung Spatial Signage'를 글로벌 출시했다.",
+        "무안경 3D와 몰입형 콘텐츠 지원으로 상업용 디스플레이의 새로운 방향을 제시한다.",
+        "리테일·전시·공공 공간에서 경쟁 구도를 변화시킬 잠재력을 갖췄다."
+      ],
+      "whyItMatters": "글로벌 출시와 기술적 차별화가 업계 경쟁과 고객 수요에 직접적인 영향을 미치기 때문이다.",
+      "topics": [
+        "Roadmap",
+        "Competition",
+        "Demand"
+      ],
+      "status": "NEW",
+      "hash": "96087a1c455a3133f96edce57294dbcf9a7d23bb2427fef180287712403f1160",
+      "url": "https://news.samsung.com/global/samsung-launches-glasses-free-3d-digital-signage-globally-at-ise-2026-defining-a-new-direction-in-immersive-commercial-displays"
+    }
+  ]
+}

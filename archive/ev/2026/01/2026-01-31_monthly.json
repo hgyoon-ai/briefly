@@ -1,0 +1,153 @@
+{
+  "range": {
+    "from": "2026-01-02",
+    "to": "2026-01-31"
+  },
+  "kpis": {
+    "collected": 12,
+    "deduped": 12,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 27,
+      "Investment": 24,
+      "Competition": 20,
+      "Demand": 17,
+      "Policy": 12,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (01/02-01/08)",
+      "topicCounts": {
+        "Roadmap": 0,
+        "Investment": 0,
+        "Competition": 0,
+        "Demand": 0,
+        "Policy": 0
+      }
+    },
+    {
+      "week": "Week 2 (01/09-01/15)",
+      "topicCounts": {
+        "Roadmap": 0,
+        "Investment": 0,
+        "Competition": 0,
+        "Demand": 0,
+        "Policy": 0
+      }
+    },
+    {
+      "week": "Week 3 (01/16-01/22)",
+      "topicCounts": {
+        "Roadmap": 0,
+        "Investment": 0,
+        "Competition": 0,
+        "Demand": 0,
+        "Policy": 0
+      }
+    },
+    {
+      "week": "Week 4 (01/23-01/29)",
+      "topicCounts": {
+        "Roadmap": 7,
+        "Investment": 7,
+        "Competition": 4,
+        "Demand": 5,
+        "Policy": 4
+      }
+    },
+    {
+      "week": "Week 5 (01/30-01/31)",
+      "topicCounts": {
+        "Roadmap": 3,
+        "Investment": 3,
+        "Competition": 3,
+        "Demand": 1,
+        "Policy": 1
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "ev-1",
+      "status": "SHIFTING",
+      "title": "테슬라, 모델 S/X 단종 및 로보택시 전환으로 ‘자동차 사업 자살’ 논란",
+      "summary": "테슬라는 2025년 4분기 실적 발표에서 모델 S와 X 단종을 공식화하고, 전통적인 완성차 생산보다 로보택시 중심의 ‘서비스로서의 운송’으로 전략 전환을 선언했다. 동시에 공개된 로보택시 안전 데이터에서는, 안전 모니터를 탑승시킨 상태에서도 사고율이 인간 운전자 대비 약 3배 높게 나타나 규제·평판 리스크가 커지고 있다. 이로 인해 기존 프리미엄 EV 라인업 약화, 신형 대중형 EV 개발 중단, 고위험 자율주행 베팅이라는 조합이 ‘자동차 사업 자살’이라는 비판으로 이어지고 있다.",
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla is committing automotive suicide",
+          "url": "https://electrek.co/2026/01/29/tesla-committing-automotive-suicide/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Tesla’s own Robotaxi data confirms crash rate 3x worse than humans even with monitor",
+          "url": "https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Podcast: Tesla’s auto suicide, Model S/X dead, Cybercab fiasco, and more",
+          "url": "https://electrek.co/2026/01/30/podcast-teslas-auto-suicide-model-s-x-dead-cybercab-fiasco-and-more/"
+        }
+      ]
+    },
+    {
+      "id": "ev-2",
+      "status": "NEW",
+      "title": "테슬라, 일론 머스크 개인 AI 기업 xAI에 20억 달러 투자",
+      "summary": "테슬라는 2025년 4분기 실적과 함께 일론 머스크의 개인 AI 회사 xAI에 20억 달러를 투자했다고 밝혔다. 머스크의 xAI 설립과 테슬라와의 이해상충 문제를 둘러싸고 이미 주주 소송이 진행 중인 상황에서, 회사 자금을 대규모로 투입한 결정이 지배구조와 신의성실의무 위반 논란을 더욱 키우고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla invests $2 billion in Elon Musk’s xAI cash furnace",
+          "url": "https://electrek.co/2026/01/28/tesla-invests-2-billion-in-elon-musk-xai-cash-furnace/"
+        }
+      ]
+    },
+    {
+      "id": "ev-3",
+      "status": "ONGOING",
+      "title": "토요타 파트너 이데미츠, 전고체 EV 배터리용 고체 전해질 공장 착공",
+      "summary": "일본 이데미츠 코산이 토요타와 협력해 전고체 전기차 배터리용 고체 전해질 파일럿 플랜트 건설을 시작했다. 이 설비는 토요타가 개발 중인 전고체 배터리 상용화를 뒷받침할 핵심 인프라로, 향후 고에너지밀도·고속충전 EV 경쟁에서 토요타의 우위를 노리는 중장기 투자로 평가된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Toyota partner breaks ground on solid electrolyes plant for all-solid-state EV batteries",
+          "url": "https://electrek.co/2026/01/30/toyota-partner-breaks-ground-on-all-solid-state-ev-battery-plant/"
+        }
+      ]
+    },
+    {
+      "id": "ev-4",
+      "status": "NEW",
+      "title": "미국 2026년 신규 발전, 99% 이상이 태양광·풍력·저장으로 전환",
+      "summary": "EIA 전망에 따르면 2026년 미국 신규 발전 설비 순증의 99% 이상이 태양광, 풍력, 배터리 저장에서 나올 것으로 예상된다. 이는 2025년에 이어 재생에너지와 저장 장치 중심의 전원 믹스 전환이 가속화되고 있음을 의미하며, EV 보급 확대에 필요한 저탄소 전력 공급 기반을 크게 강화하는 요인으로 작용한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "EIA: 99%+ of new US capacity in 2026 will be solar, wind + storage",
+          "url": "https://electrek.co/2026/01/28/eia-99-of-new-us-capacity-in-2026-will-be-solar-wind-storage/"
+        }
+      ]
+    },
+    {
+      "id": "ev-5",
+      "status": "SHIFTING",
+      "title": "미 연방법원, 트럼프 행정부의 해상풍력 중단 조치 제동…Vineyard Wind 재개",
+      "summary": "연방법원이 해상풍력 프로젝트 Vineyard Wind의 공사 재개를 허가하면서, 트럼프 행정부가 내렸던 해상풍력 일시중단 조치에 또 한 번 제동이 걸렸다. 이는 미국 동부 해상풍력 개발 불확실성을 일부 해소하고 장기적으로 재생에너지 전력과 그리드 탈탄소화, EV 간접 탄소배출 감소에 긍정적으로 작용할 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Trump’s offshore wind pause just lost again – Vineyard Wind is back to work [update]",
+          "url": "https://electrek.co/2026/01/27/us-offshore-wind-backlash-grows-as-empire-revolution-wind-sue-trump-admin/"
+        }
+      ]
+    }
+  ]
+}

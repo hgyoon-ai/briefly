@@ -1,0 +1,61 @@
+{
+  "date": "2026-02-02",
+  "highlights": {
+    "bullets": [
+      "MarketInfra 관련 업데이트가 2건 감지됨",
+      "Policy 관련 업데이트가 1건 감지됨",
+      "Fintech 관련 업데이트가 1건 감지됨"
+    ],
+    "topTopics": [
+      "MarketInfra",
+      "Policy",
+      "Fintech"
+    ],
+    "stats": {
+      "collected": 2,
+      "deduped": 2
+    }
+  },
+  "cards": [
+    {
+      "id": "finance_0001",
+      "tab": "finance",
+      "publishedAt": "2026-02-02T06:03:59+09:00",
+      "source": "매일경제(증권)",
+      "title": "실적발표 잔칫날 주가는 역대급 폭락…‘살얼음판’ 걷는 美 대형주",
+      "summary": [
+        "실적 발표 후 마이크로소프트 등 대형 기술주의 주가가 하루 만에 역대급으로 하락했다.",
+        "MS는 실적 발표 직후 주가가 10% 급락했고 인텔·유나이티드헬스 등도 큰 폭으로 떨어졌다.",
+        "매출 전망이 기대에 못 미치고 AI 발전으로 소프트웨어의 서비스 대체 우려가 투자 심리를 약화시켰다."
+      ],
+      "whyItMatters": "매출 전망 부진과 AI로 인한 서비스 대체 우려가 실적 시즌 중 투자 심리를 급격히 악화시켰기 때문입니다.",
+      "topics": [
+        "MarketInfra",
+        "Policy"
+      ],
+      "status": "ONGOING",
+      "hash": "ea993aa874651e3cdd4c8ecda9c2c2c3b002c9b8affdebc5608e2bbef3dc21a5",
+      "url": "https://www.mk.co.kr/news/stock/11949791"
+    },
+    {
+      "id": "finance_0002",
+      "tab": "finance",
+      "publishedAt": "2026-02-02T06:03:38+09:00",
+      "source": "매일경제(증권)",
+      "title": "“들고 있으면 짭짤합니다”…호실적 날개 단 증권사 회사채, 경쟁률이 무려",
+      "summary": [
+        "증권사가 발행한 회사채에 투자수요가 대거 몰리며 경쟁률이 급등하고 있다.",
+        "한투 수요모집에서 최대 약 5배의 뭉칫돈이 유입됐고 이달 채권 발행은 7곳으로 급증했다.",
+        "실적 개선 전망과 증시 회복세가 투자수요 확대를 견인하고 있다."
+      ],
+      "whyItMatters": "증권사 실적 개선 기대와 증시 회복으로 상대적으로 안정적 수익을 노리는 자금이 회사채로 집중되고 있기 때문입니다.",
+      "topics": [
+        "MarketInfra",
+        "Fintech"
+      ],
+      "status": "ONGOING",
+      "hash": "8da12042d8ee3e4c9b9de249e7c522861cdd11f49ad9dd48f71b15b55c3f5cb2",
+      "url": "https://www.mk.co.kr/news/stock/11949790"
+    }
+  ]
+}

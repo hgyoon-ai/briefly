@@ -1,0 +1,281 @@
+{
+  "range": {
+    "from": "2026-01-26",
+    "to": "2026-02-01"
+  },
+  "kpis": {
+    "collected": 11,
+    "deduped": 11,
+    "uniqueTopics": 7
+  },
+  "topTopics": [
+    {
+      "name": "Roadmap",
+      "count": 10
+    },
+    {
+      "name": "Investment",
+      "count": 9
+    },
+    {
+      "name": "Demand",
+      "count": 7
+    },
+    {
+      "name": "Competition",
+      "count": 7
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-01-26",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-01-26",
+      "dayOfWeek": "Mon",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-01-26",
+      "dayOfWeek": "Mon",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-01-26",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-01-27",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-01-27",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-01-27",
+      "dayOfWeek": "Tue",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-01-27",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 3
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Investment",
+      "count": 3
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Demand",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "ev-1",
+      "status": "ONGOING",
+      "title": "BMW, 2027년형 전기 SUV iX3 조기 완판으로 EV 수요 재확인",
+      "summary": "BMW가 누에클라세(Neue Klasse) 플랫폼 기반의 2027년형 순수 전기 SUV iX3를 공개했으며, 초기 생산 물량이 2026년 말까지 이미 사실상 매진된 것으로 알려졌다. 프리미엄 전기 SUV 시장에서 전동화 전환 모델에 대한 수요가 여전히 매우 강하다는 신호로, 타 브랜드의 전략 조정과 생산능력 확대 경쟁을 촉발할 가능성이 크다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Act fast: all-new, all-electric 2027 BMW iX3 is almost all gone",
+          "url": "https://electrek.co/2026/01/31/act-fast-all-electric-2027-bmw-ix3-is-almost-all-gone/"
+        }
+      ]
+    },
+    {
+      "id": "ev-2",
+      "status": "SHIFTING",
+      "title": "테슬라, 모델 S/X 단종·로보택시 전환으로 ‘자동차 사업 자살’ 논란",
+      "summary": "테슬라는 2025년 4분기 실적 발표에서 모델 S와 모델 X 단종을 공식화하고, 신규 대중형 승용 EV 출시 계획을 부재하다고 밝히며 로보택시 중심의 ‘서비스로서의 운송’ 사업으로 선회하고 있다. 동시에 내부 로보택시 데이터에서 인간 대비 3배 높은 사고율이 드러나 안전성과 규제 리스크가 부각되며, 팟캐스트와 분석 기사에서 테슬라의 전략을 ‘자동차 사업 자살’로 규정하는 비판이 커지고 있다.",
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla is committing automotive suicide",
+          "url": "https://electrek.co/2026/01/29/tesla-committing-automotive-suicide/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Tesla’s own Robotaxi data confirms crash rate 3x worse than humans even with monitor",
+          "url": "https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Podcast: Tesla’s auto suicide, Model S/X dead, Cybercab fiasco, and more",
+          "url": "https://electrek.co/2026/01/30/podcast-teslas-auto-suicide-model-s-x-dead-cybercab-fiasco-and-more/"
+        }
+      ]
+    },
+    {
+      "id": "ev-3",
+      "status": "ONGOING",
+      "title": "토요타·이데미츠, 전고체 배터리용 고체 전해질 공장 착공으로 차세대 EV 배터리 상용화 가속",
+      "summary": "일본 이데미츠 코산이 토요타와 협력해 전고체 배터리용 고체 전해질 파일럿 플랜트 건설을 시작했다. 이는 토요타가 개발 중인 전고체 EV 배터리의 양산성을 검증하고 공급망을 선제적으로 확보하기 위한 조치로, 향후 전기차 주행거리·충전 속도 경쟁에서 기술 판도를 바꿀 수 있는 기반 투자로 평가된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Toyota partner breaks ground on solid electrolyes plant for all-solid-state EV batteries",
+          "url": "https://electrek.co/2026/01/30/toyota-partner-breaks-ground-on-all-solid-state-ev-battery-plant/"
+        }
+      ]
+    },
+    {
+      "id": "ev-4",
+      "status": "SHIFTING",
+      "title": "휴머노이드 로봇, 전고체 배터리 수요 폭증의 신규 동력으로 부상",
+      "summary": "최근 보고서에 따르면 휴머노이드 로봇이 2035년까지 약 75GWh 규모의 전고체 배터리 수요를 창출해 현재 대비 약 1500배의 시장 성장을 이끌 수 있는 것으로 전망된다. 이는 전기차 중심이던 전고체 배터리 수요원이 로봇 등 비자동차 분야로 다변화되며, 생산능력 확대와 소재·공급망 재편을 가속할 잠재력이 있음을 시사한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Report: humanoid robots set to drive demand for solid-state batteries",
+          "url": "https://electrek.co/2026/01/30/report-humanoid-robots-set-to-drive-demand-for-solid-state-batteries/"
+        }
+      ]
+    },
+    {
+      "id": "ev-5",
+      "status": "NEW",
+      "title": "미국 2026년 신규 발전설비 99% 이상이 태양광·풍력·저장…EV 전환 환경 강화",
+      "summary": "EIA에 따르면 2026년 미국 신규 발전설비 순증의 99% 이상이 태양광·풍력과 배터리 저장장치에서 나올 전망이다. 재생에너지와 저장 설비 중심의 전력 믹스 전환이 지속되며, 전기차 보급 확대에 필요한 저탄소 전력 기반과 충전 인프라 전력 안정성이 함께 강화되는 구조가 가속되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "EIA: 99%+ of new US capacity in 2026 will be solar, wind + storage",
+          "url": "https://electrek.co/2026/01/28/eia-99-of-new-us-capacity-in-2026-will-be-solar-wind-storage/"
+        }
+      ]
+    }
+  ]
+}

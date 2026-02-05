@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-01-28",
+    "to": "2026-02-03"
+  },
+  "kpis": {
+    "collected": 17,
+    "deduped": 17,
+    "uniqueTopics": 7
+  },
+  "topTopics": [
+    {
+      "name": "Roadmap",
+      "count": 14
+    },
+    {
+      "name": "Competition",
+      "count": 12
+    },
+    {
+      "name": "Manufacturing",
+      "count": 8
+    },
+    {
+      "name": "Investment",
+      "count": 7
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 3
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Investment",
+      "count": 3
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 4
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 3
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Manufacturing",
+      "count": 2
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Manufacturing",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 3
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Manufacturing",
+      "count": 2
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-02-03",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-02-03",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-02-03",
+      "dayOfWeek": "Tue",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-02-03",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "차세대 AI 칩 설계의 핵심 이슈로 부상한 열 관리·패키징 기술",
+      "summary": "고성능 AI 반도체에서 전력 밀도와 발열이 급증하면서, 3D IC 패키징·첨단 냉각·AI 기반 열 최적화 등 열 관리 기술이 설계 및 제조의 최우선 과제로 부상하고 있다. 이는 패키지 구조, 소재, 공정 투자 방향에 직접적인 변화를 촉발하며 차세대 AI 가속기와 데이터센터용 칩의 경쟁력을 좌우하는 핵심 변수가 되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Thermal Advances Driving Next-Gen AI Chip Design",
+          "url": "https://www.eetimes.com/thermal-advances-driving-next-gen-ai-chip-design/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "삼성전자의 2025년 실적 발표와 메모리·파운드리 수요 사이클",
+      "summary": "삼성전자가 2025 회계연도 4분기 및 연간 실적을 공개하며 메모리·시스템반도체·파운드리 사업의 수요 및 투자 흐름을 제시했다. AI 서버, 고대역폭 메모리, 첨단 공정 수요가 실적과 향후 투자 전략에 어떤 영향을 주는지가 반도체 시장 사이클과 설비 투자 계획을 가늠하는 핵심 지표가 되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung Electronics Announces Fourth Quarter and FY 2025 Results",
+          "url": "https://news.samsung.com/global/samsung-electronics-announces-fourth-quarter-and-fy-2025-results"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "고성능 게이밍·디스플레이용 OLED와 GPU 생태계의 결합 가속",
+      "summary": "삼성전자가 2026년형 OLED TV와 차세대 게이밍 모니터에 NVIDIA G-SYNC 호환을 적용하며 고주사율·저지연 디스플레이 수요를 겨냥하고 있다. 이는 GPU·디스플레이 간 최적화 요구를 높여 고성능 드라이버 IC, 고속 인터페이스, 영상 처리용 반도체에 대한 수요 확대와 함께 프리미엄 게이밍·그래픽 시장에서의 경쟁 구도를 재편할 요소로 작용하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung 2026 OLED TVs and Monitors Are NVIDIA® G-SYNC™ Compatible for Elite Gaming Performance",
+          "url": "https://news.samsung.com/global/samsung-2026-oled-tvs-and-monitors-are-nvidia-g-sync-compatible-for-elite-gaming-performance"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "SHIFTING",
+      "title": "유럽 디지털 주권 논쟁과 반도체·클라우드 인프라 자립 전략",
+      "summary": "HiPEAC 2026에서 유럽의 미국 클라우드 사업자 의존도가 문제로 떠오르며 디지털 주권과 데이터 통제 이슈가 부각되고 있다. 이는 자체 클라우드·엣지 인프라와 이를 뒷받침하는 서버·네트워크·보안용 반도체에 대한 독자 생태계 구축 필요성을 키우고, 향후 반도체 보조금·인프라 투자 정책에 변화를 예고한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "HiPEAC 2026: Reclaiming European Digital Sovereignty",
+          "url": "https://www.eetimes.com/hipeac-2026-reclaiming-european-digital-sovereignty/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "캐나다의 양자컴퓨팅 투자 확대와 차세대 연산용 반도체 생태계",
+      "summary": "캐나다가 정부·연구기관·기업 협력을 통해 양자컴퓨팅 역량을 빠르게 키우며 관련 하드웨어·소프트웨어 생태계를 확장하고 있다. 초전도·광자·스핀 큐비트 등 양자 디바이스와 전용 제어·인터페이스 칩 개발을 향한 투자가 늘어나면서, 장기적으로 반도체 공정·패키징·측정 인프라에 새로운 수요를 창출하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Canada Accelerates Quantum Aspirations",
+          "url": "https://www.eetimes.com/canada-accelerates-quantum-aspirations/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-01-05",
+    "to": "2026-02-03"
+  },
+  "kpis": {
+    "collected": 20,
+    "deduped": 20,
+    "uniqueTopics": 9,
+    "marketShare": {
+      "MarketInfra": 33,
+      "Policy": 23,
+      "Compliance": 17,
+      "Fintech": 15,
+      "Regulation": 12,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (01/05-01/11)",
+      "topicCounts": {
+        "MarketInfra": 0,
+        "Policy": 0,
+        "Compliance": 0,
+        "Fintech": 0,
+        "Regulation": 0
+      }
+    },
+    {
+      "week": "Week 2 (01/12-01/18)",
+      "topicCounts": {
+        "MarketInfra": 0,
+        "Policy": 0,
+        "Compliance": 0,
+        "Fintech": 0,
+        "Regulation": 0
+      }
+    },
+    {
+      "week": "Week 3 (01/19-01/25)",
+      "topicCounts": {
+        "MarketInfra": 0,
+        "Policy": 0,
+        "Compliance": 0,
+        "Fintech": 0,
+        "Regulation": 0
+      }
+    },
+    {
+      "week": "Week 4 (01/26-02/01)",
+      "topicCounts": {
+        "MarketInfra": 12,
+        "Policy": 9,
+        "Compliance": 8,
+        "Fintech": 6,
+        "Regulation": 6
+      }
+    },
+    {
+      "week": "Week 5 (02/02-02/03)",
+      "topicCounts": {
+        "MarketInfra": 3,
+        "Policy": 2,
+        "Compliance": 1,
+        "Fintech": 1,
+        "Regulation": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "국내 주식시장 저가 매수세 유입과 지수 회복",
+      "summary": "최근 국내 증시에 저가 매수세가 유입되며 코스피가 5000선을, 코스닥이 1100선을 재탈환했다. 실적 변동성과 대외 변수 속에서도 풍부한 유동성과 가격 매력이 부각되며 지수 회복세가 나타나고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "코스피, 저가 매수세 유입에 ‘5000피’ 재탈환…코스닥도 올라",
+          "url": "https://www.mk.co.kr/news/stock/11951053"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "연준 의장 교체 구도 속 완화적 통화정책 기대 확대",
+      "summary": "케빈 워시 연준 의장 지명자가 파월보다 비둘기적일 것이란 평가가 나오며 긴축 공포가 완화되고 있다. 시장은 금리 인하 사이클이 예상보다 길게 이어질 수 있다는 전망을 반영해 위험자산 선호도와 금리 전망을 재조정 중이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“워시, 파월보다 비둘기…긴축공포 과도·금리인하 사이클 지속” [오늘 나온 보고서]",
+          "url": "https://www.mk.co.kr/news/stock/11951027"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "AI 기반 사이버 이상거래 탐지로 주가조작 조기 차단 시도",
+      "summary": "한국거래소가 온라인 게시글·SNS·유튜브·스팸문자 등 사이버 정보를 분석하는 AI 이상거래 탐지 시스템을 가동했다. 과거 의심 종목 패턴을 학습해 위험 점수를 산출하고 자동 모니터링함으로써 주가조작 및 불공정거래를 선제적으로 차단하는 것이 목표다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "정책브리핑",
+          "title": "주가 조작 조기 차단…'사이버 이상거래 탐지 AI 시스템' 가동",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148958931&call_from=rsslink"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "전자폐기물 금 추출 투자 이슈와 수익성 논쟁",
+      "summary": "폐휴대폰 유심 등 전자폐기물에서 금을 추출해 상당한 금액을 모았다는 사례가 확산되며 개인 단위 금 회수 투자에 관심이 커지고 있다. 그러나 전문가들은 회수 효율과 환경 비용, 규제 리스크를 감안하면 과도한 기대는 위험하다고 경고한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "‘폐기 휴대폰 유심 카드’로 5천만원어치 금 모았다…전문가들은 글쎄?",
+          "url": "https://www.mk.co.kr/news/stock/11949168"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "CMA 잔고 100조 원 돌파와 단기 유동성 관리 수단 부상",
+      "summary": "CMA 잔고가 100조 원을 넘어서며 연 2%대 금리를 제공하는 대표적 단기 자금 운용 수단으로 자리잡고 있다. 2030 세대 중심으로 월급·청약 등 대기자금을 CMA에 예치해 ‘노는 돈’을 최소화하려는 자금 관리 트렌드가 확산 중이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“하루만 맡겨도 이자 붙는다”…노는 돈 줄이는 ‘이것’의 힘 [캥거루족 탈출기③]",
+          "url": "https://www.mk.co.kr/news/stock/11949142"
+        }
+      ]
+    }
+  ]
+}

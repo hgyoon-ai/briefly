@@ -1,0 +1,109 @@
+{
+  "date": "2026-02-04",
+  "highlights": {
+    "bullets": [
+      "Models 관련 업데이트가 4건 감지됨",
+      "Tooling 관련 업데이트가 4건 감지됨",
+      "Infra 관련 업데이트가 2건 감지됨"
+    ],
+    "topTopics": [
+      "Models",
+      "Tooling",
+      "Infra",
+      "Research"
+    ],
+    "stats": {
+      "collected": 5,
+      "deduped": 5
+    }
+  },
+  "cards": [
+    {
+      "id": "ai_0001",
+      "tab": "ai",
+      "publishedAt": "2026-02-04T00:03:19+09:00",
+      "source": "Hugging Face Blog",
+      "title": "The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+",
+      "summary": [
+        "글로벌 오픈소스 AI 생태계가 연구 중심에서 제품·플랫폼 중심으로 빠르게 확장되고 있다.",
+        "표준화, 상호운용성, 지속 가능한 인프라와 툴체인이 향후 성장의 핵심 과제로 제시된다.",
+        "커뮤니티·기업·규제 주체 간 협력과 신규 비즈니스 모델(AI+)이 생태계 판도를 바꿀 전망이다."
+      ],
+      "whyItMatters": "오픈소스는 혁신 가속과 접근성 향상, 시장 경쟁을 동시에 촉진해 기술·경제적 영향력이 커지기 때문입니다.",
+      "topics": [
+        "Models",
+        "Tooling",
+        "Infra",
+        "Research",
+        "Business"
+      ],
+      "status": "SHIFTING",
+      "hash": "5de818201044ab2fe6cd072f9f097a1527b8c91fb840b981745451c630badbff",
+      "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3"
+    },
+    {
+      "id": "ai_0002",
+      "tab": "ai",
+      "publishedAt": "2026-02-04T02:40:14+09:00",
+      "source": "Hugging Face Blog",
+      "title": "H Company's new Holo2 model takes the lead in UI Localization",
+      "summary": [
+        "H사의 신형 Holo2 모델이 UI 현지화 분야에서 주도권을 잡았습니다.",
+        "다국어 컨텍스트 유지와 번역 정확도가 개선되어 현지화 품질과 일관성이 향상됩니다.",
+        "개발자 도구와의 통합으로 제품 다국어 출시 시간과 비용을 줄일 수 있습니다."
+      ],
+      "whyItMatters": "자동화된 고품질 UI 현지화로 제품 국제화 속도가 빨라지고 비용·리스크가 감소하기 때문입니다.",
+      "topics": [
+        "Models",
+        "Tooling",
+        "Product"
+      ],
+      "status": "NEW",
+      "hash": "32b1a88e079e5f29124b03fedf028a23061ddbfb1767974c2ea548d3e6175264",
+      "url": "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b"
+    },
+    {
+      "id": "ai_0003",
+      "tab": "ai",
+      "publishedAt": "2026-02-04T02:30:00+09:00",
+      "source": "NVIDIA Developer Blog",
+      "title": "Accelerating Long-Context Model Training in JAX and XLA",
+      "summary": [
+        "LLM의 컨텍스트 창이 128K·256K 이상으로 빠르게 확대되고 있습니다.",
+        "JAX와 XLA에서 장문 컨텍스트 모델 학습을 가속화하기 위한 컴파일 및 런타임 최적화와 메모리 절약 기법을 소개합니다.",
+        "이를 통해 대규모 컨텍스트를 가진 모델을 더 빠르고 비용효율적으로 학습할 수 있게 됩니다."
+      ],
+      "whyItMatters": "컨텍스트 확장에 따른 메모리·연산 병목을 줄여 연구와 생산 적용을 가속화하기 때문입니다.",
+      "topics": [
+        "Models",
+        "Training",
+        "Tooling",
+        "Infra"
+      ],
+      "status": "ONGOING",
+      "hash": "b93d9467cb6e57edeafc35c5b8420c5ee0ee8e24f22beaf5debddcf80ffe3b8f",
+      "url": "https://developer.nvidia.com/blog/accelerating-long-context-model-training-in-jax-and-xla/"
+    },
+    {
+      "id": "ai_0004",
+      "tab": "ai",
+      "publishedAt": "2026-02-03T09:00:00+09:00",
+      "source": "OpenAI Blog",
+      "title": "The Sora feed philosophy",
+      "summary": [
+        "Sora 피드는 창의성 촉진과 사용자 간 연결을 목표로 설계되었습니다.",
+        "개인화 추천과 부모 통제 기능으로 맞춤형 경험을 제공합니다.",
+        "강력한 가드레일로 안전한 이용 환경을 보장하는 것이 핵심 원칙입니다."
+      ],
+      "whyItMatters": "개인화된 추천과 안전 장치의 결합은 사용자 경험을 향상시키면서 책임 있는 플랫폼 운영을 가능하게 하기 때문입니다.",
+      "topics": [
+        "Product",
+        "Safety",
+        "Data"
+      ],
+      "status": "ONGOING",
+      "hash": "96d26eaa8234f2f9685883322ecfecdcaeb86fe70183ec4e171bad4d29d969f4",
+      "url": "https://openai.com/index/sora-feed-philosophy"
+    }
+  ]
+}

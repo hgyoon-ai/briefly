@@ -1,0 +1,42 @@
+{
+  "date": "2026-02-02",
+  "highlights": {
+    "bullets": [
+      "Manufacturing 관련 업데이트가 1건 감지됨",
+      "Roadmap 관련 업데이트가 1건 감지됨",
+      "Competition 관련 업데이트가 1건 감지됨"
+    ],
+    "topTopics": [
+      "Manufacturing",
+      "Roadmap",
+      "Competition"
+    ],
+    "stats": {
+      "collected": 1,
+      "deduped": 1
+    }
+  },
+  "cards": [
+    {
+      "id": "semiconductor_0001",
+      "tab": "semiconductor",
+      "publishedAt": "2026-02-01T23:00:00+09:00",
+      "source": "EE Times",
+      "title": "How a Ball Machine Manufacturer Tracks Inventory Across 8 Locations",
+      "summary": [
+        "Hydrogen Sports는 8개 지점에서 잦은 재고 오류를 겪어 스프레드시트 기반 관리를 중단하기로 했다.",
+        "회사는 제조 ERP 시스템을 도입해 지점 간 재고 추적과 정확성을 개선하려 한다.",
+        "목표는 재고 오차 감소와 통합된 재고 가시성 확보다."
+      ],
+      "whyItMatters": "정확한 재고 관리는 생산 효율과 납기 신뢰성을 높여 경쟁력에 직접적 영향을 미치기 때문이다.",
+      "topics": [
+        "Manufacturing",
+        "Roadmap",
+        "Competition"
+      ],
+      "status": "ONGOING",
+      "hash": "903b037ba41fe7e03d3ef6cab5160e35d1af9f69b07349c8ec41658cbe6dfc69",
+      "url": "https://www.eetimes.com/how-a-ball-machine-manufacturer-tracks-inventory-across-8-locations/"
+    }
+  ]
+}

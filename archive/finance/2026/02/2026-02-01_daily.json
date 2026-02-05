@@ -1,0 +1,65 @@
+{
+  "date": "2026-02-01",
+  "highlights": {
+    "bullets": [
+      "Fintech 관련 업데이트가 1건 감지됨",
+      "MarketInfra 관련 업데이트가 1건 감지됨",
+      "Payments 관련 업데이트가 1건 감지됨"
+    ],
+    "topTopics": [
+      "Fintech",
+      "MarketInfra",
+      "Payments",
+      "Regulation"
+    ],
+    "stats": {
+      "collected": 2,
+      "deduped": 2
+    }
+  },
+  "cards": [
+    {
+      "id": "finance_0001",
+      "tab": "finance",
+      "publishedAt": "2026-01-31T13:05:23+09:00",
+      "source": "매일경제(증권)",
+      "title": "“하루만 맡겨도 이자 붙는다”…노는 돈 줄이는 ‘이것’의 힘 [캥거루족 탈출기③]",
+      "summary": [
+        "CMA 잔고가 100조 원을 돌파하며 연 2%대 수익률로 주목받고 있다.",
+        "2030 세대를 중심으로 월급·청약 등 대기 자금을 CMA로 운용해 ‘노는 돈’을 줄이는 흐름이 확산되고 있다.",
+        "단기 예치로도 이자가 붙는 특성 때문에 재테크 입문자들이 먼저 선택하는 상품이 되고 있다."
+      ],
+      "whyItMatters": "단기 유동성 관리 방식 변화가 개인 자산운용과 증권사 자금 흡수 구조에 실질적 영향을 주기 때문이다.",
+      "topics": [
+        "Fintech",
+        "MarketInfra",
+        "Payments"
+      ],
+      "status": "ONGOING",
+      "hash": "54f8ad26a64bcac7e51bf7ce3fba1b28f6cf0c95f555df85fedb42f3598dee4c",
+      "url": "https://www.mk.co.kr/news/stock/11949142"
+    },
+    {
+      "id": "finance_0002",
+      "tab": "finance",
+      "publishedAt": "2026-01-31T14:47:20+09:00",
+      "source": "매일경제(증권)",
+      "title": "‘폐기 휴대폰 유심 카드’로 5천만원어치 금 모았다…전문가들은 글쎄?",
+      "summary": [
+        "중국 광둥성에서 폐휴대폰 칩(유심 포함)에서 금을 추출해 5천만원어치 금을 모았다는 영상이 SNS에서 화제다.",
+        "최근 금값 상승으로 소규모 전자폐기물 재활용을 통한 수익 가능성이 주목받고 있다.",
+        "전문가들은 실효성·안전성·환경·법적 문제 등에 대해 의문을 제기하고 있다."
+      ],
+      "whyItMatters": "금값 급등이 비정상적 회수·재활용 행위를 촉발해 환경·안전·규제 문제를 불러일으킬 가능성이 있어 주목된다.",
+      "topics": [
+        "Regulation",
+        "Enforcement",
+        "Compliance",
+        "Policy"
+      ],
+      "status": "NEW",
+      "hash": "9bc6b9cfd4b0bfa1842f4a37043eb8ab0a5fda99fc97db65f8c357b19c368b2c",
+      "url": "https://www.mk.co.kr/news/stock/11949168"
+    }
+  ]
+}

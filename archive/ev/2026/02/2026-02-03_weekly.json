@@ -1,0 +1,276 @@
+{
+  "range": {
+    "from": "2026-01-28",
+    "to": "2026-02-03"
+  },
+  "kpis": {
+    "collected": 11,
+    "deduped": 11,
+    "uniqueTopics": 7
+  },
+  "topTopics": [
+    {
+      "name": "Roadmap",
+      "count": 11
+    },
+    {
+      "name": "Investment",
+      "count": 9
+    },
+    {
+      "name": "Competition",
+      "count": 6
+    },
+    {
+      "name": "Demand",
+      "count": 6
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 3
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Investment",
+      "count": 3
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Demand",
+      "count": 2
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-02-03",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-02-03",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-02-03",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-02-03",
+      "dayOfWeek": "Tue",
+      "topic": "Demand",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "ev-1",
+      "status": "NEW",
+      "title": "Waymo, 160억 달러 투자 유치로 로보택시 대규모 확장 시동",
+      "summary": "Waymo가 160억 달러 투자 라운드로 1,260억 달러 기업가치를 인정받으며 자율주행 로보택시 리더십을 공고히 했다. 이번 자금은 20개 이상 도시로 서비스 지역을 공격적으로 확대하고, 경쟁사 대비 기술·운영 우위를 강화하는 데 활용될 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Waymo raises massive $16 billion round at $126 billion valuation, plans expansion to 20+ cities",
+          "url": "https://electrek.co/2026/02/02/waymo-raises-16-billion-round-at-126-billion-valuation-plans-expansion/"
+        }
+      ]
+    },
+    {
+      "id": "ev-2",
+      "status": "NEW",
+      "title": "SpaceX의 xAI 인수, 테슬라와 모빌리티·AI 경쟁 구도에 새 변수",
+      "summary": "SpaceX가 xAI를 인수해 합산 기업가치 1.25조 달러 규모의 초대형 AI·우주 기술 그룹을 형성했으나, 테슬라는 거래에서 배제됐다. 이는 머스크 생태계 내 AI 역량이 테슬라 밖으로 분산되며, 자율주행·로보택시 경쟁에서 테슬라의 전략 불확실성을 키우는 요인으로 작용할 수 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "SpaceX bails out xAI in mega-deal — here’s what it means for Tesla",
+          "url": "https://electrek.co/2026/02/02/spacex-bails-out-xai-in-mega-deal-heres-what-it-means-for-tesla/"
+        }
+      ]
+    },
+    {
+      "id": "ev-3",
+      "status": "SHIFTING",
+      "title": "테슬라, 모델 S/X 단종 및 로보택시 중심 피벗으로 ‘자동차 사업 자살’ 논란",
+      "summary": "테슬라는 2025년 4분기 실적에서 모델 S·X 단종과 함께 신규 대중형 EV 계획 부재를 공식화하고, 로보택시 등 ‘서비스로서의 운송’에 집중하겠다고 밝혔다. 이 전략 전환은 기존 완성차 사업 축소로 해석되며, 시장에서는 브랜드 약화와 EV 리더십 상실 가능성을 두고 ‘자동차 사업 자살’ 논쟁이 이어지고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla is committing automotive suicide",
+          "url": "https://electrek.co/2026/01/29/tesla-committing-automotive-suicide/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Podcast: Tesla’s auto suicide, Model S/X dead, Cybercab fiasco, and more",
+          "url": "https://electrek.co/2026/01/30/podcast-teslas-auto-suicide-model-s-x-dead-cybercab-fiasco-and-more/"
+        }
+      ]
+    },
+    {
+      "id": "ev-4",
+      "status": "ONGOING",
+      "title": "토요타-이데미츠, 전고체 배터리 전해질 공장 착공으로 차세대 EV 경쟁 본격화",
+      "summary": "이데미츠 코산이 토요타와 협력해 전고체 배터리용 고체 전해질 파일럿 플랜트 건설을 시작하면서, 토요타의 전고체 EV 양산 로드맵이 구체화되고 있다. 이는 일본 업계가 배터리 제조·소재 단계에서 주도권을 확보하려는 움직임으로, 향후 글로벌 EV 성능·원가 경쟁 구도를 재편할 수 있는 분기점이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Toyota partner breaks ground on solid electrolyes plant for all-solid-state EV batteries",
+          "url": "https://electrek.co/2026/01/30/toyota-partner-breaks-ground-on-all-solid-state-ev-battery-plant/"
+        }
+      ]
+    },
+    {
+      "id": "ev-5",
+      "status": "SHIFTING",
+      "title": "휴머노이드 로봇, 전고체 배터리 수요 폭발로 EV 배터리 생태계에 새 성장 축 형성",
+      "summary": "보고서에 따르면 휴머노이드 로봇이 2035년까지 약 75GWh 규모의 전고체 배터리 수요를 창출하며 1500배 성장을 이끌 것으로 전망된다. 이로 인해 전고체 배터리 생산능력 확대와 공급망 재편이 가속화되고, EV용 배터리 기술·설비 투자가 로봇·모빌리티 간 크로스오버 산업으로 확장되는 추세가 강화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Report: humanoid robots set to drive demand for solid-state batteries",
+          "url": "https://electrek.co/2026/01/30/report-humanoid-robots-set-to-drive-demand-for-solid-state-batteries/"
+        }
+      ]
+    }
+  ]
+}

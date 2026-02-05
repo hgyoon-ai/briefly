@@ -1,0 +1,148 @@
+{
+  "range": {
+    "from": "2026-01-06",
+    "to": "2026-02-04"
+  },
+  "kpis": {
+    "collected": 23,
+    "deduped": 23,
+    "uniqueTopics": 9,
+    "marketShare": {
+      "MarketInfra": 34,
+      "Policy": 26,
+      "Compliance": 16,
+      "Fintech": 14,
+      "Regulation": 10,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (01/06-01/12)",
+      "topicCounts": {
+        "MarketInfra": 0,
+        "Policy": 0,
+        "Compliance": 0,
+        "Fintech": 0,
+        "Regulation": 0
+      }
+    },
+    {
+      "week": "Week 2 (01/13-01/19)",
+      "topicCounts": {
+        "MarketInfra": 0,
+        "Policy": 0,
+        "Compliance": 0,
+        "Fintech": 0,
+        "Regulation": 0
+      }
+    },
+    {
+      "week": "Week 3 (01/20-01/26)",
+      "topicCounts": {
+        "MarketInfra": 0,
+        "Policy": 0,
+        "Compliance": 0,
+        "Fintech": 0,
+        "Regulation": 0
+      }
+    },
+    {
+      "week": "Week 4 (01/27-02/02)",
+      "topicCounts": {
+        "MarketInfra": 14,
+        "Policy": 10,
+        "Compliance": 8,
+        "Fintech": 7,
+        "Regulation": 6
+      }
+    },
+    {
+      "week": "Week 5 (02/03-02/04)",
+      "topicCounts": {
+        "MarketInfra": 5,
+        "Policy": 4,
+        "Compliance": 0,
+        "Fintech": 1,
+        "Regulation": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "국내 증시 시가총액 5000조·코스피 사상 최고치 랠리",
+      "summary": "코스피 지수가 5200선 중반까지 폭등하고 시가총액이 처음으로 5000조원을 돌파하며 유동성·반도체 호황에 힘입은 강세장이 이어지고 있다. 미국 경기 지표 개선과 반도체 업황 회복 기대가 외국인 매수로 연결되며 국내 증시 체력 개선이 확인되는 국면이다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "국내 증시 시가총액 5천조 첫 돌파…삼성전자 1천조 눈앞",
+          "url": "https://www.mk.co.kr/news/stock/11951900"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "“어제 못버틴 개미님들 다 털고 갑니다”…코스피 338포인트 폭등",
+          "url": "https://www.mk.co.kr/news/stock/11951898"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "중소기업 연구인력 인건비 최대 50% 지원, 비수도권·제조AI 우대",
+      "summary": "정부가 2026년도 중소기업 연구인력 지원사업을 통해 채용·파견 인건비의 최대 50%를 3년간 보조하고, 신규 인력의 60%를 비수도권에 배정하는 등 지방·제조AI 기업을 우대한다. 이는 기술 경쟁력 확충과 지역 불균형 완화를 통한 중소기업 성장 기반 강화를 목표로 한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "정책브리핑",
+          "title": "중소기업 연구인력 인건비 50% 지원…비수도권 우대 지원",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148958994&call_from=rsslink"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "한국거래소, AI 기반 사이버 이상거래 탐지 시스템 가동",
+      "summary": "한국거래소가 온라인 게시글·SNS·유튜브·스팸문자 등 사이버 정보를 학습한 AI를 활용해 주가조작 등 이상거래를 조기에 포착하는 시스템을 가동한다. 과거 의심 종목 데이터를 기반으로 위험 점수를 산출해 고위험 종목을 자동 식별함으로써 불공정거래 차단과 시장 신뢰도 제고를 노린다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "정책브리핑",
+          "title": "주가 조작 조기 차단…'사이버 이상거래 탐지 AI 시스템' 가동",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148958931&call_from=rsslink"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "CMA 잔고 100조 돌파, 단기 유동성 운용 수단으로 부상",
+      "summary": "연 2%대 수익률을 내세운 CMA 잔고가 100조원을 넘어서며 월급·청약 대기 자금 등 단기 여유자금의 핵심 운용처로 자리 잡고 있다. 특히 2030 세대를 중심으로 ‘노는 돈’을 줄여 자동이체·주식·펀드 투자와 연계하는 계좌 관리 전략이 확산 중이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“하루만 맡겨도 이자 붙는다”…노는 돈 줄이는 ‘이것’의 힘 [캥거루족 탈출기③]",
+          "url": "https://www.mk.co.kr/news/stock/11949142"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "ALT5, 대규모 자사주 매입으로 ‘트럼프 코인’ 테마주 변동성 확대",
+      "summary": "ALT5가 발행주의 40%에 해당하는 1억 달러 규모 자사주 매입을 발표하며 주가 저평가 인식 부각과 함께 급등세를 보이고 있다. 트럼프 가문이 주도하는 WLFI 토큰 추가 매입 계획까지 더해지며 정치·암호화폐 테마가 결합된 고위험 테마주 변동성이 커지는 양상이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "‘트럼프 코인’ 테마주 ALT5, 1억 달러 자사주 매입… “주가 저평가” 승부수",
+          "url": "https://www.mk.co.kr/news/stock/11947989"
+        }
+      ]
+    }
+  ]
+}

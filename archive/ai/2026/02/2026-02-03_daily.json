@@ -1,0 +1,67 @@
+{
+  "date": "2026-02-03",
+  "highlights": {
+    "bullets": [
+      "Infra 관련 업데이트가 2건 감지됨",
+      "Models 관련 업데이트가 1건 감지됨",
+      "Training 관련 업데이트가 1건 감지됨"
+    ],
+    "topTopics": [
+      "Infra",
+      "Models",
+      "Training",
+      "Tooling"
+    ],
+    "stats": {
+      "collected": 2,
+      "deduped": 2
+    }
+  },
+  "cards": [
+    {
+      "id": "ai_0001",
+      "tab": "ai",
+      "publishedAt": "2026-02-03T03:43:08+09:00",
+      "source": "NVIDIA Developer Blog",
+      "title": "Optimizing Communication for Mixture-of-Experts Training with Hybrid Expert Parallel",
+      "summary": [
+        "하이브리드 전문가 병렬(Hybrid Expert Parallel) 접근으로 MoE 훈련의 통신 병목을 줄이는 방법을 제시한다.",
+        "EP의 all-to-all 통신 비용을 계층적 라우팅, 통신·계산 중첩 및 토폴로지 최적화로 완화한다.",
+        "대규모 클러스터에서 처리량과 확장성, 메모리 효율이 개선되어 MoE 훈련 비용을 절감한다."
+      ],
+      "whyItMatters": "MoE 기반 초대형 LLM 훈련에서 통신 비용을 줄이는 것은 성능, 확장성 및 비용에 직접적인 영향을 미치기 때문이다.",
+      "topics": [
+        "Models",
+        "Training",
+        "Infra",
+        "Tooling",
+        "Research"
+      ],
+      "status": "ONGOING",
+      "hash": "62a095a0b3cc0f13be2fbaa77cc0a452a0499bc7abadc883cea947c15b89efca",
+      "url": "https://developer.nvidia.com/blog/optimizing-communication-for-mixture-of-experts-training-with-hybrid-expert-parallel/"
+    },
+    {
+      "id": "ai_0002",
+      "tab": "ai",
+      "publishedAt": "2026-02-02T15:00:00+09:00",
+      "source": "OpenAI Blog",
+      "title": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data",
+      "summary": [
+        "OpenAI와 Snowflake가 2억 달러 규모의 파트너십을 발표했다.",
+        "Snowflake 플랫폼 내에서 AI 에이전트와 인사이트를 직접 제공해 엔터프라이즈 데이터에 최첨단 인텔리전스를 통합한다.",
+        "기업의 데이터 분석·자동화 역량과 플랫폼 경쟁력에 즉각적인 영향이 예상된다."
+      ],
+      "whyItMatters": "엔터프라이즈 데이터 플랫폼에 직접 연결된 최첨단 AI는 분석 속도와 활용도를 크게 개선해 비즈니스 가치 창출을 가속하기 때문입니다.",
+      "topics": [
+        "Product",
+        "Business",
+        "Data",
+        "Infra"
+      ],
+      "status": "ONGOING",
+      "hash": "f4bbf1c3572c46ac2aa8413ca1cd4c5f93364b93929d77fdec72e3f0bd5c0b0a",
+      "url": "https://openai.com/index/snowflake-partnership"
+    }
+  ]
+}

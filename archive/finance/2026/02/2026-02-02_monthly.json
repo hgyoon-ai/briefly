@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-01-04",
+    "to": "2026-02-02"
+  },
+  "kpis": {
+    "collected": 17,
+    "deduped": 17,
+    "uniqueTopics": 9,
+    "marketShare": {
+      "MarketInfra": 31,
+      "Policy": 22,
+      "Compliance": 18,
+      "Fintech": 16,
+      "Regulation": 13,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (01/04-01/10)",
+      "topicCounts": {
+        "MarketInfra": 0,
+        "Policy": 0,
+        "Compliance": 0,
+        "Fintech": 0,
+        "Regulation": 0
+      }
+    },
+    {
+      "week": "Week 2 (01/11-01/17)",
+      "topicCounts": {
+        "MarketInfra": 0,
+        "Policy": 0,
+        "Compliance": 0,
+        "Fintech": 0,
+        "Regulation": 0
+      }
+    },
+    {
+      "week": "Week 3 (01/18-01/24)",
+      "topicCounts": {
+        "MarketInfra": 0,
+        "Policy": 0,
+        "Compliance": 0,
+        "Fintech": 0,
+        "Regulation": 0
+      }
+    },
+    {
+      "week": "Week 4 (01/25-01/31)",
+      "topicCounts": {
+        "MarketInfra": 11,
+        "Policy": 8,
+        "Compliance": 7,
+        "Fintech": 5,
+        "Regulation": 5
+      }
+    },
+    {
+      "week": "Week 5 (02/01-02/02)",
+      "topicCounts": {
+        "MarketInfra": 2,
+        "Policy": 1,
+        "Compliance": 0,
+        "Fintech": 1,
+        "Regulation": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "issue-1",
+      "status": "ONGOING",
+      "title": "실적발표 후 미국 대형기술주 급락과 글로벌 증시 변동성 확대",
+      "summary": "마이크로소프트, 인텔, 유나이티드헬스 등 미국 대형주가 호실적에도 불구하고 실적발표 직후 주가가 하루 만에 두 자릿수 급락을 기록하는 등 변동성이 극단적으로 커지고 있다. 기업 펀더멘털보다 기대·가이던스·밸류에이션에 주가가 과민 반응하면서 실적 시즌마다 글로벌 증시에 단기 충격이 반복되는 국면이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "실적발표 잔칫날 주가는 역대급 폭락…‘살얼음판’ 걷는 美 대형주",
+          "url": "https://www.mk.co.kr/news/stock/11949791"
+        }
+      ]
+    },
+    {
+      "id": "issue-2",
+      "status": "ONGOING",
+      "title": "CMA·단기금융상품으로 이동하는 대기성 자금과 개인재무 습관 변화",
+      "summary": "CMA 잔고가 100조 원을 돌파하며 연 2%대 이자를 제공하는 단기금융상품으로 급여·청약·생활비 대기자금이 이동하고 있다. 2030 세대를 중심으로 ‘노는 돈’을 최소화해 유동성을 유지하면서도 예금보다 유연한 운용을 선호하는 흐름이 강해지며, 증권사·핀테크의 고객 유치 경쟁도 심화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“하루만 맡겨도 이자 붙는다”…노는 돈 줄이는 ‘이것’의 힘 [캥거루족 탈출기③]",
+          "url": "https://www.mk.co.kr/news/stock/11949142"
+        }
+      ]
+    },
+    {
+      "id": "issue-3",
+      "status": "ONGOING",
+      "title": "한국 공공기관 지정 조정과 금융감독원 공공기관 지정 유보",
+      "summary": "정부가 올해 공공기관을 342개로 재조정하며 11개를 신규 지정하고 일부 유형을 변경하는 한편, 금융감독원은 요건을 충족했음에도 경영관리 및 투명성 강화 계획을 전제로 1년간 공공기관 지정이 유보됐다. 공공부문 거버넌스와 재정 부담, 금융감독 독립성·책임성 간 균형을 둘러싼 논의가 이어지는 중이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "정책브리핑",
+          "title": "올해 공공기관 11개 늘어난 342개 지정…금감원은 지정 유보",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148958850&call_from=rsslink"
+        }
+      ]
+    },
+    {
+      "id": "issue-4",
+      "status": "ONGOING",
+      "title": "미국 ‘트럼프 코인’ 테마와 ALT5 자사주 매입에 따른 정치·암호화폐 연계 투자 열풍",
+      "summary": "ALT5가 전체 발행주식의 40%에 달하는 1억 달러 규모 자사주 매입 프로그램을 발표하며 주가가 급반등했다. 트럼프 가문 주도의 WLFI 토큰 추가 매입 계획까지 부각되며 정치 테마와 암호화폐가 결합된 고위험 투기 수요가 확대되고, 규제 리스크와 시장 왜곡 가능성도 함께 제기되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "‘트럼프 코인’ 테마주 ALT5, 1억 달러 자사주 매입… “주가 저평가” 승부수",
+          "url": "https://www.mk.co.kr/news/stock/11947989"
+        }
+      ]
+    },
+    {
+      "id": "issue-5",
+      "status": "NEW",
+      "title": "전자폐기물에서의 금 회수 열풍과 소규모 금 채굴 투자 논쟁",
+      "summary": "중국에서 폐휴대폰 유심카드 등 전자폐기물에서 금을 추출해 수천만 원대 자산을 모았다는 사례가 SNS를 통해 확산되며, 개인이 소규모로 금을 회수·매각하는 ‘생활 금 채굴’이 주목받고 있다. 그러나 실제 회수 효율과 환경·안전 비용, 금 시세 변동을 고려하면 수익성·지속가능성에 대한 전문가 회의론도 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "‘폐기 휴대폰 유심 카드’로 5천만원어치 금 모았다…전문가들은 글쎄?",
+          "url": "https://www.mk.co.kr/news/stock/11949168"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "range": {
+    "from": "2026-01-29",
+    "to": "2026-02-04"
+  },
+  "kpis": {
+    "collected": 23,
+    "deduped": 23,
+    "uniqueTopics": 9
+  },
+  "topTopics": [
+    {
+      "name": "MarketInfra",
+      "count": 20
+    },
+    {
+      "name": "Policy",
+      "count": 15
+    },
+    {
+      "name": "Compliance",
+      "count": 9
+    },
+    {
+      "name": "Fintech",
+      "count": 8
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "MarketInfra",
+      "count": 5
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 4
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Compliance",
+      "count": 4
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Fintech",
+      "count": 3
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "MarketInfra",
+      "count": 5
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 3
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Compliance",
+      "count": 3
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Fintech",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Compliance",
+      "count": 1
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Fintech",
+      "count": 1
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Fintech",
+      "count": 0
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "MarketInfra",
+      "count": 3
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Compliance",
+      "count": 1
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Fintech",
+      "count": 1
+    },
+    {
+      "date": "2026-02-03",
+      "dayOfWeek": "Tue",
+      "topic": "MarketInfra",
+      "count": 5
+    },
+    {
+      "date": "2026-02-03",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 4
+    },
+    {
+      "date": "2026-02-03",
+      "dayOfWeek": "Tue",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-02-03",
+      "dayOfWeek": "Tue",
+      "topic": "Fintech",
+      "count": 1
+    },
+    {
+      "date": "2026-02-04",
+      "dayOfWeek": "Wed",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-02-04",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-02-04",
+      "dayOfWeek": "Wed",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-02-04",
+      "dayOfWeek": "Wed",
+      "topic": "Fintech",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "국내 증시 사상 최고치·시가총액 5,000조 돌파",
+      "summary": "코스피가 5,288포인트로 급등하고 국내 증시 시가총액이 처음 5,000조원을 돌파했다. 삼성전자가 1,000조원 시총을 눈앞에 두는 등 반도체 호황과 글로벌 제조업 회복 기대가 동반되며, 유동성·외국인 수급이 맞물린 강세장이 이어지고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "국내 증시 시가총액 5천조 첫 돌파…삼성전자 1천조 눈앞",
+          "url": "https://www.mk.co.kr/news/stock/11951900"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "“어제 못버틴 개미님들 다 털고 갑니다”…코스피 338포인트 폭등",
+          "url": "https://www.mk.co.kr/news/stock/11951898"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "중소기업 연구인력 인건비 최대 50% 지원 확대",
+      "summary": "중기부가 2026년도 중소기업 연구인력 지원사업을 통해 채용·파견 인력 인건비의 최대 50%를 3년간 보조한다. 신규 인력의 60%를 비수도권에 배정하고, 제조AI 중소기업에는 신진·고경력 연구인력 각 1명씩 최대 2명까지 별도 지원해 지역·산업 구조 전환과 기술혁신을 촉진한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "정책브리핑",
+          "title": "중소기업 연구인력 인건비 50% 지원…비수도권 우대 지원",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148958994&call_from=rsslink"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "AI 기반 사이버 이상거래 탐지로 주가조작 조기 차단 시도",
+      "summary": "한국거래소가 온라인 게시글·SNS·유튜브·스팸문자 등 데이터를 AI로 분석해 주가조작 징후를 조기 포착하는 이상거래 탐지 시스템을 가동했다. 과거 의심 종목의 사이버 정보와 시세 패턴을 학습해 위험 점수를 산출함으로써, 개인투자자 보호와 시장 신뢰도 제고가 기대된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "정책브리핑",
+          "title": "주가 조작 조기 차단…'사이버 이상거래 탐지 AI 시스템' 가동",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148958931&call_from=rsslink"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "단기자금 운용 수단으로 CMA 100조 시대",
+      "summary": "CMA 잔고가 100조원을 돌파하며 하루만 맡겨도 이자가 붙는 단기 금융상품으로 재조명되고 있다. 2030 세대를 중심으로 월급·청약·생활비 대기 자금을 CMA로 옮겨 ‘놀고 있는 돈’을 최소화하는 흐름이 확산되며, 은행 예금·수시입출금 통장과의 경쟁이 심화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“하루만 맡겨도 이자 붙는다”…노는 돈 줄이는 ‘이것’의 힘 [캥거루족 탈출기③]",
+          "url": "https://www.mk.co.kr/news/stock/11949142"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "트럼프 테마주 ALT5, 대규모 자사주 매입으로 주가 부양 시도",
+      "summary": "‘트럼프 코인’ 테마주로 주목받는 ALT5가 발행주식 40% 규모, 1억 달러에 달하는 자사주 매입 프로그램을 발표하며 저평가 해소 의지를 표했다. 트럼프 가문이 주도하는 WLFI 토큰 추가 매입 계획도 겹치며, 암호화폐 연계 금융상품과 정치테마주의 변동성이 다시 부각되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "‘트럼프 코인’ 테마주 ALT5, 1억 달러 자사주 매입… “주가 저평가” 승부수",
+          "url": "https://www.mk.co.kr/news/stock/11947989"
+        }
+      ]
+    }
+  ]
+}

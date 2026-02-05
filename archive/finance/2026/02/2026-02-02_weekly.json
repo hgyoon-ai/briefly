@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-01-27",
+    "to": "2026-02-02"
+  },
+  "kpis": {
+    "collected": 17,
+    "deduped": 17,
+    "uniqueTopics": 9
+  },
+  "topTopics": [
+    {
+      "name": "MarketInfra",
+      "count": 14
+    },
+    {
+      "name": "Policy",
+      "count": 10
+    },
+    {
+      "name": "Compliance",
+      "count": 8
+    },
+    {
+      "name": "Fintech",
+      "count": 7
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-01-27",
+      "dayOfWeek": "Tue",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-01-27",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-01-27",
+      "dayOfWeek": "Tue",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-01-27",
+      "dayOfWeek": "Tue",
+      "topic": "Fintech",
+      "count": 0
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Fintech",
+      "count": 0
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "MarketInfra",
+      "count": 5
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 4
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Compliance",
+      "count": 4
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Fintech",
+      "count": 3
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "MarketInfra",
+      "count": 5
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 3
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Compliance",
+      "count": 3
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Fintech",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Compliance",
+      "count": 1
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Fintech",
+      "count": 1
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Fintech",
+      "count": 0
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Fintech",
+      "count": 1
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "미 대형 기술주 실적발표 후 주가 급락, 변동성 재부각",
+      "summary": "마이크로소프트를 비롯한 미국 대형 기술주들이 호실적 발표 직후 주가가 하루 만에 두 자릿수 급락을 기록하는 등 ‘어닝 데이 변동성’이 극단적으로 확대되고 있다. 실적의 질보다 향후 가이던스와 밸류에이션 부담에 시장이 민감하게 반응하면서, 빅테크 중심으로 단기 조정 리스크와 변동성 관리가 투자 전략의 핵심 이슈로 부상했다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "실적발표 잔칫날 주가는 역대급 폭락…‘살얼음판’ 걷는 美 대형주",
+          "url": "https://www.mk.co.kr/news/stock/11949791"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "전자폐기물에서 금 회수 이슈와 금 가격 상승이 만든 ‘마이크 리사이클’ 투자 논쟁",
+      "summary": "중국에서 폐휴대폰 유심·칩에서 금을 추출해 수천만 원대 금을 모았다는 사례가 확산되며, 금값 상승과 맞물려 소규모 전자폐기물 재활용의 수익성에 대한 관심이 커지고 있다. 다만 회수 효율·환경오염·규제 리스크 등으로 실제 투자 수단으로는 한계가 크다는 전문가 판단이 이어지며, 관련 테마의 과열과 정보 비대칭에 대한 경계 역시 함께 제기되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "‘폐기 휴대폰 유심 카드’로 5천만원어치 금 모았다…전문가들은 글쎄?",
+          "url": "https://www.mk.co.kr/news/stock/11949168"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "CMA 100조 시대, 단기 유동성 관리 수단으로 부상하는 간편 투자계좌",
+      "summary": "CMA 잔고가 100조 원을 돌파하며, 2030 세대를 중심으로 월급·청약·예비 자금을 CMA로 옮겨 ‘대기성 자금’에 이자를 붙이는 흐름이 확산되고 있다. 연 2%대 수익률과 결제·이체 편의성을 앞세운 CMA가 예·적금과 머니마켓펀드(MMF)를 대체하는 준현금성 자산으로 자리 잡으며, 가계의 단기 자산 배분과 금융사의 예금·수신 경쟁 구도에도 영향을 주고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“하루만 맡겨도 이자 붙는다”…노는 돈 줄이는 ‘이것’의 힘 [캥거루족 탈출기③]",
+          "url": "https://www.mk.co.kr/news/stock/11949142"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "공공기관 342곳 재편과 금감원 지정 유보가 가져올 금융지배구조 변화",
+      "summary": "정부가 공공기관을 342개로 늘리고 일부 기관의 유형과 관리 체계를 손질하는 가운데, 금융감독원은 요건을 충족하고도 1년간 공공기관 지정을 유보했다. 금감원의 독립성과 책임성을 둘러싼 논의 속에서 향후 재지정 여부와 함께, 공공기관 관리 기준 강화가 금융 공기업의 경영 투명성·인사·보수 체계에 어떤 재무적 영향을 미칠지 주목되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "정책브리핑",
+          "title": "올해 공공기관 11개 늘어난 342개 지정…금감원은 지정 유보",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148958850&call_from=rsslink"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "트럼프 테마주 ALT5의 대규모 자사주 매입과 암호화폐 연계 리스크",
+      "summary": "‘트럼프 코인’ 테마로 부각된 ALT5가 발행주식의 최대 40%에 해당하는 1억 달러 규모 자사주 매입 계획을 발표하며 급락한 주가 방어에 나섰다. 동시에 트럼프 가문이 이끄는 WLFI 토큰을 추가 매입하며 암호화폐와 주식이 결합된 고위험 투기 구조가 강화되고 있어, 정치 테마·크립토 연계 종목에 대한 변동성·규제 리스크 관리가 핵심 이슈로 떠오르고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "‘트럼프 코인’ 테마주 ALT5, 1억 달러 자사주 매입… “주가 저평가” 승부수",
+          "url": "https://www.mk.co.kr/news/stock/11947989"
+        }
+      ]
+    }
+  ]
+}

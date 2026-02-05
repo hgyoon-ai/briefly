@@ -1,0 +1,65 @@
+{
+  "date": "2026-02-03",
+  "highlights": {
+    "bullets": [
+      "Competition 관련 업데이트가 12건 감지됨",
+      "Demand 관련 업데이트가 10건 감지됨",
+      "Roadmap 관련 업데이트가 9건 감지됨"
+    ],
+    "topTopics": [
+      "Competition",
+      "Demand",
+      "Roadmap",
+      "Investment"
+    ],
+    "stats": {
+      "collected": 15,
+      "deduped": 15
+    }
+  },
+  "cards": [
+    {
+      "id": "ev_0001",
+      "tab": "ev",
+      "publishedAt": "2026-02-03T08:18:58+09:00",
+      "source": "Electrek",
+      "title": "Waymo raises massive $16 billion round at $126 billion valuation, plans expansion to 20+ cities",
+      "summary": [
+        "Waymo가 160억 달러 규모의 투자 라운드를 유치하며 기업가치 1,260억 달러를 기록했다.",
+        "이는 자율주행 차량 기업 역사상 최대 규모의 투자로, Alphabet이 지원하는 로보택시 리더십을 재확인했다.",
+        "Waymo는 이번 자금을 바탕으로 올해 20개 이상 신규 도시에 진출하고 첫 해외 시장에도 진입할 계획이다."
+      ],
+      "whyItMatters": "대규모 자금 조달과 공격적인 도시·해외 확장은 자율주행 모빌리티 시장의 경쟁 구도를 변화시키고 관련 산업 전반의 성장 기대를 키우기 때문이다.",
+      "topics": [
+        "Investment",
+        "Roadmap",
+        "Competition"
+      ],
+      "status": "NEW",
+      "hash": "20e6d91f7e7c5d7a146215adc1ff9c567c4de8a09abe40407966d08aeddd62c1",
+      "url": "https://electrek.co/2026/02/02/waymo-raises-16-billion-round-at-126-billion-valuation-plans-expansion/"
+    },
+    {
+      "id": "ev_0002",
+      "tab": "ev",
+      "publishedAt": "2026-02-03T07:36:10+09:00",
+      "source": "Electrek",
+      "title": "SpaceX bails out xAI in mega-deal — here’s what it means for Tesla",
+      "summary": [
+        "SpaceX가 일론 머스크의 AI 회사 xAI를 인수하며 합산 기업가치가 약 1.25조 달러로 평가되었고 IPO를 준비 중입니다.",
+        "이번 초대형 거래에서 테슬라는 인수 대상에 포함되지 않았습니다.",
+        "테슬라는 불과 한 달 전 xAI에 20억 달러를 투자한 상황이라 이해상충·지분가치 및 전략적 역할에 대한 의문이 제기됩니다."
+      ],
+      "whyItMatters": "머스크 생태계 내 자본·지배 구조가 재편되면서 테슬라의 AI 전략, 투자 회수 가능성, 지분 희석 및 거버넌스 리스크에 대한 시장의 재평가가 불가피하기 때문입니다.",
+      "topics": [
+        "Investment",
+        "Competition",
+        "Roadmap",
+        "Policy"
+      ],
+      "status": "NEW",
+      "hash": "b9ba4054edbfdfa0461bdc2b401ac992168dd28b2bfd6d0f5ff467b9a57594a7",
+      "url": "https://electrek.co/2026/02/02/spacex-bails-out-xai-in-mega-deal-heres-what-it-means-for-tesla/"
+    }
+  ]
+}

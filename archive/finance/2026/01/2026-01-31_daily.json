@@ -1,0 +1,107 @@
+{
+  "date": "2026-01-31",
+  "highlights": {
+    "bullets": [
+      "Policy 관련 업데이트가 6건 감지됨",
+      "MarketInfra 관련 업데이트가 5건 감지됨",
+      "Regulation 관련 업데이트가 4건 감지됨"
+    ],
+    "topTopics": [
+      "Policy",
+      "MarketInfra",
+      "Regulation",
+      "Compliance"
+    ],
+    "stats": {
+      "collected": 6,
+      "deduped": 6
+    }
+  },
+  "cards": [
+    {
+      "id": "finance_0001",
+      "tab": "finance",
+      "publishedAt": "2026-01-31T06:36:44+09:00",
+      "source": "매일경제(증권)",
+      "title": "삼성전자·하이닉스 ‘2배’ ETF, 이르면 2분기에 나온다",
+      "summary": [
+        "단일 우량주를 기초로 한 2배 레버리지 ETF·ETN 도입이 이르면 2분기에 추진됩니다.",
+        "금융당국은 액티브 ETF 규제완화도 함께 검토하고 있습니다.",
+        "삼성전자·SK하이닉스 등 국내 대형주를 대상으로 한 상품 출시가 예상됩니다."
+      ],
+      "whyItMatters": "시장 변동성과 투자자 보호 이슈를 동반해 증시 구조와 규제 방향에 중요한 영향을 미치기 때문입니다.",
+      "topics": [
+        "Regulation",
+        "MarketInfra",
+        "Policy"
+      ],
+      "status": "ONGOING",
+      "hash": "24109cfdb77d794f6e3d780f24b32b94ef75f5e590a883d9cfab426bd61e558d",
+      "url": "https://www.mk.co.kr/news/stock/11949038"
+    },
+    {
+      "id": "finance_0002",
+      "tab": "finance",
+      "publishedAt": "2026-01-30T15:36:00+09:00",
+      "source": "정책브리핑",
+      "title": "국내 우량주 레버리지 ETF 첫 도입…금융위, 시행령 등 입법예고",
+      "summary": [
+        "금융위가 자본시장법 시행령·금투업규정 개정을 입법예고하며 국내 우량주 기반 단일종목 레버리지 ETF·ETN 상장을 허용한다.",
+        "위클리 옵션 만기 확대 및 개별주·ETF 기초 신규 옵션 도입으로 커버드콜 등 다양한 ETF 전략 상품 개발 기반을 마련한다.",
+        "지수연동 요건을 제거한 완전한 액티브 ETF 도입을 위해 자본시장법 개정을 추진해 상반기 중 국회 발의를 지원할 계획이다."
+      ],
+      "whyItMatters": "국내 ETF 규제를 글로벌 수준에 맞춰 완화하면서도 레버리지 상품에 대한 추가 교육 의무 등 투자자 보호 장치를 병행해 자본시장 경쟁력과 코리아 프리미엄을 제고하려는 조치다.",
+      "topics": [
+        "Regulation",
+        "Policy",
+        "MarketInfra",
+        "Compliance"
+      ],
+      "status": "ONGOING",
+      "hash": "5f3c39825928de3408118fb3ea807982394f3600389a0476dae5c09c40324ead",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148958854&call_from=rsslink"
+    },
+    {
+      "id": "finance_0003",
+      "tab": "finance",
+      "publishedAt": "2026-01-30T14:44:00+09:00",
+      "source": "정책브리핑",
+      "title": "올해 공공기관 11개 늘어난 342개 지정…금감원은 지정 유보",
+      "summary": [
+        "정부는 올해 공공기관을 총 342개로 지정하며 11개 기관을 새로 포함하고 일부 기관의 유형을 재분류했다.",
+        "금융감독원은 공공기관 지정 요건을 충족했지만 경영관리 강화와 투명성 제고를 전제로 공공기관 지정이 1년간 유보됐다.",
+        "공공기관 지정의 투명성을 높이기 위해 요건을 충족했으나 미지정된 기관 목록과 미지정 사유, 주요 경영공시 분석 결과를 최초로 공개하기로 했다."
+      ],
+      "whyItMatters": "공공기관 범위와 관리체계, 특히 금융감독원의 지위와 통제 구조에 대한 조정은 금융·공공부문 거버넌스와 시장 신뢰에 중대한 영향을 미칠 수 있기 때문이다.",
+      "topics": [
+        "Policy",
+        "Regulation",
+        "Compliance",
+        "MarketInfra"
+      ],
+      "status": "ONGOING",
+      "hash": "73562c83014256c32f8ad413cb0dc50dc0d923b2b0d715aa928e7f9c70727280",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148958850&call_from=rsslink"
+    },
+    {
+      "id": "finance_0004",
+      "tab": "finance",
+      "publishedAt": "2026-01-30T19:49:44+09:00",
+      "source": "매일경제(증권)",
+      "title": "[단독] 프라모델 숍 조이하비 매물로",
+      "summary": [
+        "프라모델 숍 '조이하비'가 매물로 나왔다.",
+        "반다이 건담 등 실물 피규어를 직접 볼 수 있어 인기 있는 매장이다.",
+        "점주 고령화로 가업승계형 M&A로 매각되는 것으로 전해졌다."
+      ],
+      "whyItMatters": "중소 소매업의 가업승계 문제와 소규모 M&A 수요 변화를 시사하기 때문입니다.",
+      "topics": [
+        "MarketInfra",
+        "Policy"
+      ],
+      "status": "NEW",
+      "hash": "3fb61daa5b6e57d63dcdb71802abcef17b7b81a0f3eb40cb708c67afb8a45507",
+      "url": "https://www.mk.co.kr/news/stock/11948760"
+    }
+  ]
+}

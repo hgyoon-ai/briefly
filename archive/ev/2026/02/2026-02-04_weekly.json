@@ -1,0 +1,276 @@
+{
+  "range": {
+    "from": "2026-01-29",
+    "to": "2026-02-04"
+  },
+  "kpis": {
+    "collected": 11,
+    "deduped": 11,
+    "uniqueTopics": 7
+  },
+  "topTopics": [
+    {
+      "name": "Roadmap",
+      "count": 11
+    },
+    {
+      "name": "Competition",
+      "count": 8
+    },
+    {
+      "name": "Investment",
+      "count": 8
+    },
+    {
+      "name": "Demand",
+      "count": 6
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 3
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Investment",
+      "count": 3
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Demand",
+      "count": 2
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-02-03",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 3
+    },
+    {
+      "date": "2026-02-03",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 3
+    },
+    {
+      "date": "2026-02-03",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 3
+    },
+    {
+      "date": "2026-02-03",
+      "dayOfWeek": "Tue",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-02-04",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-02-04",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-02-04",
+      "dayOfWeek": "Wed",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-02-04",
+      "dayOfWeek": "Wed",
+      "topic": "Demand",
+      "count": 1
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "노르웨이, 보조금 축소 후에도 EV 중심 시장 구조 고착",
+      "summary": "노르웨이는 EV 인센티브를 줄였음에도 1월 디젤차 판매가 98대에 그치며 내연기관 수요가 사실상 붕괴된 수준을 보이고 있다. 보조금이 축소돼도 EV 전환이 되돌아가지 않는 ‘포인트 오브 노 리턴’ 상태에 진입했음을 시사하며, 다른 국가의 정책 설계와 수요 예측에 참고 사례가 될 수 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Even after cutting EV incentives, Norway only sold 98 diesel cars in January",
+          "url": "https://electrek.co/2026/02/03/even-after-cutting-ev-incentives-norway-only-sold-98-diesel-cars-in-january/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "Waymo, 160억 달러 조달로 로보택시 확장 가속",
+      "summary": "웨이모는 160억 달러 투자 유치와 1,260억 달러 기업가치를 기반으로 자율주행 로보택시 서비스를 20개 이상 도시로 확대할 계획이다. 이는 자율주행 모빌리티가 완성차 중심 EV 비즈니스와 다른 성장 축으로 부상하고 있음을 보여주며, 향후 도심 교통·차량 소유 패턴에 구조적 변화를 예고한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Waymo raises massive $16 billion round at $126 billion valuation, plans expansion to 20+ cities",
+          "url": "https://electrek.co/2026/02/02/waymo-raises-16-billion-round-at-126-billion-valuation-plans-expansion/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "테슬라, 모델 S/X 단종 및 ‘서비스로서의 운송’ 전환 논란",
+      "summary": "테슬라는 2025년 4분기 실적 발표에서 모델 S/X 단종과 신규 대중형 EV 출시 계획 부재를 공식화하고, 차량 판매보다 모빌리티 서비스 중심 전략으로 선회하고 있다. 이 같은 방향 전환은 기존 EV 제조업 강자로서의 입지를 약화시키고, 투자자와 시장에서 ‘자동차 사업 자살’이라는 비판을 받으며 EV·자율주행 경쟁 구도 재편을 촉발하고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla is committing automotive suicide",
+          "url": "https://electrek.co/2026/01/29/tesla-committing-automotive-suicide/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Podcast: Tesla’s auto suicide, Model S/X dead, Cybercab fiasco, and more",
+          "url": "https://electrek.co/2026/01/30/podcast-teslas-auto-suicide-model-s-x-dead-cybercab-fiasco-and-more/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "토요타, 전고체 배터리 상용화를 향한 고체 전해질 플랜트 착공",
+      "summary": "토요타 파트너 이데미츠 코산이 전고체 배터리용 고체 전해질 파일럿 플랜트를 착공하며 차세대 EV 배터리 경쟁이 본격화되고 있다. 전고체 배터리는 주행거리·충전 속도·안전성 측면에서 기존 리튬이온 대비 우위를 목표로 하며, 상용화 시점에 따라 EV 성능·원가 구조와 업체 간 기술 격차를 크게 뒤바꿀 수 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Toyota partner breaks ground on solid electrolyes plant for all-solid-state EV batteries",
+          "url": "https://electrek.co/2026/01/30/toyota-partner-breaks-ground-on-all-solid-state-ev-battery-plant/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "SpaceX-xAI 초대형 딜, 테슬라의 EV·AI 전략에 미치는 영향",
+      "summary": "SpaceX가 xAI를 인수하며 합산 기업가치가 약 1.25조 달러에 이르는 AI·우주 기업 블록이 형성됐지만, 테슬라는 거래에서 배제됐다. 일론 머스크의 자원·기술·AI 역량이 테슬라보다 SpaceX-xAI 축에 더 집중될 가능성이 제기되며, 테슬라의 자율주행·로보택시·AI 기반 EV 서비스 경쟁력이 중장기적으로 상대적 열위에 놓일 수 있다는 우려가 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "SpaceX bails out xAI in mega-deal — here’s what it means for Tesla",
+          "url": "https://electrek.co/2026/02/02/spacex-bails-out-xai-in-mega-deal-heres-what-it-means-for-tesla/"
+        }
+      ]
+    }
+  ]
+}

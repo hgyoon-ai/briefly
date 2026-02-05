@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-01-27",
+    "to": "2026-02-02"
+  },
+  "kpis": {
+    "collected": 14,
+    "deduped": 14,
+    "uniqueTopics": 10
+  },
+  "topTopics": [
+    {
+      "name": "Tooling",
+      "count": 9
+    },
+    {
+      "name": "Infra",
+      "count": 7
+    },
+    {
+      "name": "Models",
+      "count": 7
+    },
+    {
+      "name": "Product",
+      "count": 7
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-01-27",
+      "dayOfWeek": "Tue",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-01-27",
+      "dayOfWeek": "Tue",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-01-27",
+      "dayOfWeek": "Tue",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-01-27",
+      "dayOfWeek": "Tue",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Tooling",
+      "count": 3
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Infra",
+      "count": 2
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Models",
+      "count": 3
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Product",
+      "count": 4
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Tooling",
+      "count": 3
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Infra",
+      "count": 3
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Models",
+      "count": 1
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Product",
+      "count": 1
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Tooling",
+      "count": 1
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Models",
+      "count": 2
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Product",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Tooling",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Infra",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Models",
+      "count": 1
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": "Sun",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": "Mon",
+      "topic": "Product",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "ai-1",
+      "status": "ONGOING",
+      "title": "CUDA Tile IR + Triton으로 Tensor Core 최적화 가속",
+      "summary": "NVIDIA가 CUDA Tile IR 백엔드를 OpenAI Triton과 통합해 Tensor Core를 더 직접적으로 활용할 수 있게 했다. 고성능 커스텀 커널을 Triton에서 작성하면서도 하드웨어별 최적화를 유지해, 추론·훈련용 GPU 코드의 이식성과 성능을 동시에 노린 장기적 최적화 흐름이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Advancing GPU Programming with the CUDA Tile IR Backend for OpenAI Triton",
+          "url": "https://developer.nvidia.com/blog/advancing-gpu-programming-with-the-cuda-tile-ir-backend-for-openai-triton/"
+        }
+      ]
+    },
+    {
+      "id": "ai-2",
+      "status": "NEW",
+      "title": "NVIDIA Cosmos Policy로 로봇 제어용 고급 정책 모델 공개",
+      "summary": "NVIDIA가 로봇 제어를 위한 Cosmos Policy를 공개하며 시뮬레이션·현실 세계에서 활용 가능한 고급 정책 학습 결과물을 배포했다. Hugging Face를 통해 공유해 연구자·개발자의 재현성과 확장성을 높이고, 로보틱스용 AI 정책 모델의 개방형 생태계를 키우는 움직임이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "Introducing NVIDIA Cosmos Policy for Advanced Robot Control",
+          "url": "https://huggingface.co/blog/nvidia/cosmos-policy-for-robot-control"
+        }
+      ]
+    },
+    {
+      "id": "ai-3",
+      "status": "NEW",
+      "title": "Project Genie: 생성형 AI 기반 무한·상호작용 세계 실험",
+      "summary": "Google DeepMind가 Project Genie 프로토타입을 공개해, 미국 내 Google AI Ultra 구독자를 대상으로 텍스트·명령을 기반으로 한 무한에 가까운 상호작용 가상 세계 생성을 실험한다. 생성형 모델을 게임·시뮬레이션·창작 도구로 확장하는 소비자 지향형 연구 프로젝트다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Google DeepMind Blog",
+          "title": "Project Genie: Experimenting with infinite, interactive worlds",
+          "url": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/"
+        }
+      ]
+    },
+    {
+      "id": "ai-4",
+      "status": "NEW",
+      "title": "Kubernetes GPU 공정 배분을 위한 Run:ai 시간 기반 페어셰어",
+      "summary": "NVIDIA Run:ai v2.24가 시간 기반 페어셰어 스케줄링을 도입해, Kubernetes 클러스터에서 할당량 초과 GPU를 시간 가중치 기준으로 나누는 기능을 제공한다. 팀·워크로드 간 GPU 선점 불균형을 줄이고 장기적으로 더 공정한 AI 인프라 자원 운영을 지원한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Ensuring Balanced GPU Allocation in Kubernetes Clusters with Time-Based Fairshare",
+          "url": "https://developer.nvidia.com/blog/ensuring-balanced-gpu-allocation-in-kubernetes-clusters-with-time-based-fairshare/"
+        }
+      ]
+    },
+    {
+      "id": "ai-5",
+      "status": "NEW",
+      "title": "Dynamic Context Parallelism으로 가변 길이 학습 효율 개선",
+      "summary": "NVIDIA Megatron Core에 Dynamic Context Parallelism이 추가되어, 길이가 다른 시퀀스를 섞어 학습할 때 GPU 사용률과 처리량을 높이도록 설계됐다. LLM·멀티모달 모델 등 컨텍스트 길이 변동이 큰 워크로드에서 학습 비용을 줄이고 스케일링 효율을 개선하는 방향의 업데이트다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Speeding Up Variable-Length Training with Dynamic Context Parallelism and NVIDIA Megatron Core",
+          "url": "https://developer.nvidia.com/blog/speeding-up-variable-length-training-with-dynamic-context-parallelism-and-nvidia-megatron-core/"
+        }
+      ]
+    }
+  ]
+}

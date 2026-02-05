@@ -1,0 +1,44 @@
+{
+  "date": "2026-02-02",
+  "highlights": {
+    "bullets": [
+      "Demand 관련 업데이트가 1건 감지됨",
+      "Policy 관련 업데이트가 1건 감지됨",
+      "Investment 관련 업데이트가 1건 감지됨"
+    ],
+    "topTopics": [
+      "Demand",
+      "Policy",
+      "Investment",
+      "Roadmap"
+    ],
+    "stats": {
+      "collected": 1,
+      "deduped": 1
+    }
+  },
+  "cards": [
+    {
+      "id": "ev_0001",
+      "tab": "ev",
+      "publishedAt": "2026-02-02T06:28:13+09:00",
+      "source": "Electrek",
+      "title": "The Bronx will be breathing a little easier with new Volvo VNR Electric",
+      "summary": [
+        "뉴욕 최대 식품 구조 단체가 볼보 VNR 전기 대형 트럭 3대를 새로 도입한다.",
+        "이 전기 트럭들은 브롱크스 지역에서 운행되며 배출가스를 줄여 대기 질 개선에 기여할 예정이다.",
+        "해당 도입은 물류·배송 분야에서 제로 에미션 상용차 채택이 확대되는 사례로 볼 수 있다."
+      ],
+      "whyItMatters": "전기 대형 트럭의 실제 운용 사례 확대는 상용차 전동화 수요와 관련 정책·투자 방향에 영향을 줄 수 있는 신호다.",
+      "topics": [
+        "Demand",
+        "Policy",
+        "Investment",
+        "Roadmap"
+      ],
+      "status": "NEW",
+      "hash": "14d303ab65aa766240497f99b08d727f2c9a0032da7771e2369fbcaba8b423fb",
+      "url": "https://electrek.co/2026/02/01/the-bronx-will-be-breathing-a-little-easier-with-new-volvo-vnr-electric/"
+    }
+  ]
+}

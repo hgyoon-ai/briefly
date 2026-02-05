@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-01-06",
+    "to": "2026-02-04"
+  },
+  "kpis": {
+    "collected": 23,
+    "deduped": 23,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 30,
+      "Competition": 24,
+      "Manufacturing": 17,
+      "Investment": 16,
+      "Demand": 13,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (01/06-01/12)",
+      "topicCounts": {
+        "Roadmap": 0,
+        "Competition": 0,
+        "Manufacturing": 0,
+        "Investment": 0,
+        "Demand": 0
+      }
+    },
+    {
+      "week": "Week 2 (01/13-01/19)",
+      "topicCounts": {
+        "Roadmap": 0,
+        "Competition": 0,
+        "Manufacturing": 0,
+        "Investment": 0,
+        "Demand": 0
+      }
+    },
+    {
+      "week": "Week 3 (01/20-01/26)",
+      "topicCounts": {
+        "Roadmap": 0,
+        "Competition": 0,
+        "Manufacturing": 0,
+        "Investment": 0,
+        "Demand": 0
+      }
+    },
+    {
+      "week": "Week 4 (01/27-02/02)",
+      "topicCounts": {
+        "Roadmap": 13,
+        "Competition": 11,
+        "Manufacturing": 7,
+        "Investment": 9,
+        "Demand": 5
+      }
+    },
+    {
+      "week": "Week 5 (02/03-02/04)",
+      "topicCounts": {
+        "Roadmap": 2,
+        "Competition": 1,
+        "Manufacturing": 2,
+        "Investment": 1,
+        "Demand": 1
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "궤도 데이터센터용 열관리·패키징 물리 한계 이슈 부상",
+      "summary": "우주 궤도 데이터센터 구상이 본격화되며 진공·마이크로중력 환경에서의 열관리, 방열판·유체 루프 설계 등 신규 패키징·냉각 아키텍처 요구가 부각되고 있다. 고전력 반도체(가속기·메모리) 밀집 탑재 시 신뢰성·수명·전력 효율을 어떻게 확보할지가 차세대 우주·지상 데이터센터 반도체 설계 로드맵의 핵심 쟁점으로 떠오르고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "The Hidden Physics of Running Data Centers in Orbit",
+          "url": "https://www.eetimes.com/the-hidden-physics-of-running-data-centers-in-orbit/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "무안경 3D 상업용 디스플레이 확산과 SoC·메모리 수요 변화",
+      "summary": "삼성의 무안경 3D 디지털 사이니지 글로벌 출시는 3D 렌더링용 GPU·디스플레이 구동 IC·고대역폭 메모리 수요를 동반해 상업용 디스플레이용 시스템 반도체 시장 확대를 예고한다. 고해상도·실시간 렌더링 기반 공간형 사이니지 채택이 늘면 엣지 AI 연산과 그래픽 처리용 반도체 스펙 상향이 가속될 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung Launches Glasses-Free 3D Digital Signage Globally at ISE 2026, Defining a New Direction in Immersive Commercial Displays",
+          "url": "https://news.samsung.com/global/samsung-launches-glasses-free-3d-digital-signage-globally-at-ise-2026-defining-a-new-direction-in-immersive-commercial-displays"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "게이밍 디스플레이 G-SYNC 호환 확산에 따른 고성능 패널·구동IC 경쟁",
+      "summary": "삼성 2026년형 OLED TV·게이밍 모니터의 NVIDIA G-SYNC 호환 확대는 초고주사율·저지연 디스플레이 구현을 위한 패널, TCON, 구동IC, 인터페이스 칩의 고성능화를 자극한다. 게이밍·콘솔 시장에서 지연·티어링 최소화를 위해 GPU-디스플레이 간 동기화 기술 채택이 보편화될수록 관련 반도체 사양 상향과 차별화 경쟁이 심화될 것으로 보인다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung 2026 OLED TVs and Monitors Are NVIDIA® G-SYNC™ Compatible for Elite Gaming Performance",
+          "url": "https://news.samsung.com/global/samsung-2026-oled-tvs-and-monitors-are-nvidia-g-sync-compatible-for-elite-gaming-performance"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "SHIFTING",
+      "title": "유럽 디지털 주권 논쟁과 비미국계 반도체·클라우드 인프라 육성 기조",
+      "summary": "HiPEAC 2026에서 미국 클라우드 의존도와 데이터 통제 이슈가 부각되며 유럽 자국·역내 데이터센터, HPC, AI 인프라를 뒷받침할 서버·가속기·보안 칩 등 반도체 생태계 자립 필요성이 강화되고 있다. 정책·규제로 미국 의존을 줄이고 유럽 설계사·파운드리·클라우드 사업자에 대한 지원을 확대하는 방향으로 논의가 이동 중이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "HiPEAC 2026: Reclaiming European Digital Sovereignty",
+          "url": "https://www.eetimes.com/hipeac-2026-reclaiming-european-digital-sovereignty/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "캐나다 양자컴퓨팅 투자 가속과 양자칩 생태계 형성",
+      "summary": "캐나다가 정부·연구기관·기업 협력을 바탕으로 양자컴퓨팅 인프라와 기술 투자를 확대하며 초전도·이온트랩 등 양자 프로세서, 제어·읽기 반도체, 극저온 패키징 기술 생태계를 구축하고 있다. 중장기적으로는 양자·고성능 컴퓨팅이 결합된 하이브리드 아키텍처 수요가 늘며 특화 반도체 설계·제조 기회가 확대될 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Canada Accelerates Quantum Aspirations",
+          "url": "https://www.eetimes.com/canada-accelerates-quantum-aspirations/"
+        }
+      ]
+    }
+  ]
+}

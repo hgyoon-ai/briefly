@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-01-03",
+    "to": "2026-02-01"
+  },
+  "kpis": {
+    "collected": 15,
+    "deduped": 15,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 29,
+      "Competition": 24,
+      "Investment": 21,
+      "Manufacturing": 14,
+      "Demand": 12,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (01/03-01/09)",
+      "topicCounts": {
+        "Roadmap": 0,
+        "Competition": 0,
+        "Investment": 0,
+        "Manufacturing": 0,
+        "Demand": 0
+      }
+    },
+    {
+      "week": "Week 2 (01/10-01/16)",
+      "topicCounts": {
+        "Roadmap": 0,
+        "Competition": 0,
+        "Investment": 0,
+        "Manufacturing": 0,
+        "Demand": 0
+      }
+    },
+    {
+      "week": "Week 3 (01/17-01/23)",
+      "topicCounts": {
+        "Roadmap": 0,
+        "Competition": 0,
+        "Investment": 0,
+        "Manufacturing": 0,
+        "Demand": 0
+      }
+    },
+    {
+      "week": "Week 4 (01/24-01/30)",
+      "topicCounts": {
+        "Roadmap": 10,
+        "Competition": 8,
+        "Investment": 8,
+        "Manufacturing": 4,
+        "Demand": 5
+      }
+    },
+    {
+      "week": "Week 5 (01/31-02/01)",
+      "topicCounts": {
+        "Roadmap": 1,
+        "Competition": 1,
+        "Investment": 0,
+        "Manufacturing": 1,
+        "Demand": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "오픈소스 반도체 스택에 MRAM 결합…Ainekko–Veevx 합병",
+      "summary": "Ainekko와 Veevx가 합병하며 오픈소스 반도체 설계·제조 스택에 MRAM 지원을 추가했다. 비휘발성 메모리를 오픈 생태계에 통합함으로써 차세대 임베디드·저전력 응용에서 상용 EDA/공정 의존도를 낮추고, 스타트업·학계 중심의 개방형 칩 개발 경쟁이 가속화될 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Ainekko Merges With Veevx, Adds MRAM To Open-Source Stack",
+          "url": "https://www.eetimes.com/ainekko-merges-with-veevx-adds-mram-to-open-source-stack/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "NIST 워크숍에서 부각된 반도체 추적성 이슈",
+      "summary": "NIST 주최 워크숍에서 웨이퍼부터 최종 시스템까지 전 공정을 아우르는 반도체 추적성 확보가 핵심 의제로 떠올랐다. 공급망 보안, 품질, 리콜 대응, 규제 준수를 위해 칩 단위 데이터 표준화와 업계·정부·장비업체 간 공동 대응 필요성이 커지고 있으며, 향후 미국 및 글로벌 정책·표준 논의에 지속적인 영향을 줄 사안으로 평가된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Semiconductor Traceability Takes Center Stage at NIST Workshop",
+          "url": "https://www.eetimes.com/semiconductor-traceability-takes-center-stage-at-nist-workshop/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "유럽 디지털 주권과 반도체·클라우드 경쟁 구도 재편",
+      "summary": "HiPEAC 2026에서 미국 클라우드 의존에 대한 우려와 함께 유럽의 디지털 주권 확보 전략이 논의됐다. 데이터 통제권, 인프라 비용, 국가 안보 차원에서 자체 반도체·클라우드 역량 강화 필요성이 제기되면서, 향후 유럽의 반도체 투자·인센티브 정책, 설계·HPC 인프라 육성 방향이 점진적으로 전환되는 흐름을 보이고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "HiPEAC 2026: Reclaiming European Digital Sovereignty",
+          "url": "https://www.eetimes.com/hipeac-2026-reclaiming-european-digital-sovereignty/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "캐나다의 양자컴퓨팅·양자반도체 국가 역량 강화",
+      "summary": "캐나다가 연구기관·기업·정부 협력을 확대하며 양자컴퓨팅 역량을 빠르게 키우고 있다. 양자 칩, 저온·제어용 반도체, 관련 소프트웨어 생태계에 대한 투자가 늘어나면서 중장기적으로 북미 양자 인프라 및 반도체 공급망에서 캐나다의 역할이 확대될 가능성이 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Canada Accelerates Quantum Aspirations",
+          "url": "https://www.eetimes.com/canada-accelerates-quantum-aspirations/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "삼성전자 2025년 4분기·연간 실적이 반영하는 메모리·파운드리 수요 회복",
+      "summary": "삼성전자가 2025 회계연도 4분기 및 연간 실적을 발표하며 메모리와 시스템반도체, 파운드리 사업의 수요·투자 흐름을 제시했다. AI 서버, 모바일, 차량용 수요에 따른 제품 믹스 변화와 설비·R&D 투자 방향이 드러나면서 글로벌 반도체 경기의 국면 전환 여부를 가늠할 주요 지표로 작용하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung Electronics Announces Fourth Quarter and FY 2025 Results",
+          "url": "https://news.samsung.com/global/samsung-electronics-announces-fourth-quarter-and-fy-2025-results"
+        }
+      ]
+    }
+  ]
+}

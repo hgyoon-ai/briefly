@@ -1,0 +1,42 @@
+{
+  "date": "2026-02-01",
+  "highlights": {
+    "bullets": [
+      "Roadmap 관련 업데이트가 1건 감지됨",
+      "Manufacturing 관련 업데이트가 1건 감지됨",
+      "Competition 관련 업데이트가 1건 감지됨"
+    ],
+    "topTopics": [
+      "Roadmap",
+      "Manufacturing",
+      "Competition"
+    ],
+    "stats": {
+      "collected": 1,
+      "deduped": 1
+    }
+  },
+  "cards": [
+    {
+      "id": "semiconductor_0001",
+      "tab": "semiconductor",
+      "publishedAt": "2026-01-31T08:00:00+09:00",
+      "source": "EE Times",
+      "title": "Ainekko Merges With Veevx, Adds MRAM To Open-Source Stack",
+      "summary": [
+        "Ainekko가 Veevx와 합병했다.",
+        "양사는 오픈소스 스택에 MRAM 지원을 추가했다.",
+        "목표는 AI 설계 에이전트와 쉽게 연동되는 오픈 소스 스택 구축이다."
+      ],
+      "whyItMatters": "합병과 MRAM 통합은 오픈소스 기반 AI 설계 툴의 기능 확대와 메모리 기술 채택을 가속할 수 있기 때문입니다.",
+      "topics": [
+        "Roadmap",
+        "Manufacturing",
+        "Competition"
+      ],
+      "status": "NEW",
+      "hash": "95880cf44136c1e82758aff051d75112090ab24c65dd5d9d58da58f7fd4af090",
+      "url": "https://www.eetimes.com/ainekko-merges-with-veevx-adds-mram-to-open-source-stack/"
+    }
+  ]
+}

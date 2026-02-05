@@ -1,0 +1,281 @@
+{
+  "range": {
+    "from": "2026-01-25",
+    "to": "2026-01-31"
+  },
+  "kpis": {
+    "collected": 12,
+    "deduped": 12,
+    "uniqueTopics": 7
+  },
+  "topTopics": [
+    {
+      "name": "Roadmap",
+      "count": 11
+    },
+    {
+      "name": "Investment",
+      "count": 10
+    },
+    {
+      "name": "Competition",
+      "count": 8
+    },
+    {
+      "name": "Demand",
+      "count": 7
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-01-25",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-01-25",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-01-25",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-01-25",
+      "dayOfWeek": "Sun",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-01-26",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 3
+    },
+    {
+      "date": "2026-01-26",
+      "dayOfWeek": "Mon",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-01-26",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-01-26",
+      "dayOfWeek": "Mon",
+      "topic": "Demand",
+      "count": 2
+    },
+    {
+      "date": "2026-01-27",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-01-27",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-01-27",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-01-27",
+      "dayOfWeek": "Tue",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "Wed",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "Thu",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "Sat",
+      "topic": "Demand",
+      "count": 1
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "ev-1",
+      "status": "SHIFTING",
+      "title": "테슬라, 모델 S/X 단종 및 로보택시 전환으로 자동차 사업 전략 급변",
+      "summary": "테슬라는 2025년 4분기 실적에서 모델 S와 X 단종을 공식화하고, 향후 대중형 전기차 신차 계획을 사실상 접으면서 ‘서비스로서의 운송’(로보택시·사이버캡) 중심으로 방향 전환을 선언했다. 동시에 로보택시 주행 데이터에서는 인간 운전자보다 약 3배 높은 사고율이 확인돼 안전성과 규제 리스크가 부각되고 있으며, 이러한 전략 변화는 Electrek 팟캐스트에서도 ‘자동차 사업 자살’ 수준의 고위험 전환으로 평가되고 있다.",
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla is committing automotive suicide",
+          "url": "https://electrek.co/2026/01/29/tesla-committing-automotive-suicide/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Podcast: Tesla’s auto suicide, Model S/X dead, Cybercab fiasco, and more",
+          "url": "https://electrek.co/2026/01/30/podcast-teslas-auto-suicide-model-s-x-dead-cybercab-fiasco-and-more/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Tesla’s own Robotaxi data confirms crash rate 3x worse than humans even with monitor",
+          "url": "https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/"
+        }
+      ]
+    },
+    {
+      "id": "ev-2",
+      "status": "NEW",
+      "title": "테슬라, 일론 머스크의 xAI에 20억 달러 투자로 거버넌스 논란 심화",
+      "summary": "테슬라는 2025년 4분기 실적 발표와 함께 일론 머스크가 설립한 개인 AI 회사 xAI에 20억 달러를 투자했다고 밝혔다. 이미 주주들이 xAI 설립과 관련해 신의성실의무 위반 소송을 진행 중인 상황에서 대규모 내부자 연계 투자가 단행되면서, 자본 배분의 적정성과 지배구조 리스크가 재점검되는 계기가 되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla invests $2 billion in Elon Musk’s xAI cash furnace",
+          "url": "https://electrek.co/2026/01/28/tesla-invests-2-billion-in-elon-musk-xai-cash-furnace/"
+        }
+      ]
+    },
+    {
+      "id": "ev-3",
+      "status": "ONGOING",
+      "title": "토요타-이데미츠, 전고체 배터리용 고체 전해질 플랜트 착공으로 차세대 EV 경쟁 본격화",
+      "summary": "이데미츠 코산이 토요타와 협력해 전고체 전기차 배터리에 들어갈 고체 전해질 생산을 위한 파일럿 플랜트 건설을 시작했다. 토요타는 전고체 배터리를 차세대 주력 기술로 삼고 있어, 이번 착공은 대량 생산 체제와 상용화 시점을 앞당기는 신호로 해석되며 글로벌 EV 배터리 경쟁 구도가 재편될 가능성을 키우고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Toyota partner breaks ground on solid electrolyes plant for all-solid-state EV batteries",
+          "url": "https://electrek.co/2026/01/30/toyota-partner-breaks-ground-on-all-solid-state-ev-battery-plant/"
+        }
+      ]
+    },
+    {
+      "id": "ev-4",
+      "status": "NEW",
+      "title": "미국 2026년 신규 발전용량 99% 이상이 태양광·풍력·저장으로, 전기화 인프라 가속",
+      "summary": "미 에너지정보청(EIA)에 따르면 2026년 미국에서 순증되는 신규 발전설비의 99% 이상이 태양광·풍력과 배터리 저장장치에서 나올 전망이다. 이는 2025년에 이어 재생에너지와 저장 설비 투자가 폭발적으로 늘고 있음을 의미하며, 전기차 충전 인프라와 전동화 수요를 뒷받침하는 장기 전력 믹스 전환이 가속화되고 있음을 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "EIA: 99%+ of new US capacity in 2026 will be solar, wind + storage",
+          "url": "https://electrek.co/2026/01/28/eia-99-of-new-us-capacity-in-2026-will-be-solar-wind-storage/"
+        }
+      ]
+    },
+    {
+      "id": "ev-5",
+      "status": "SHIFTING",
+      "title": "미국 해상풍력, 트럼프 행정부 규제에도 법원 판결로 프로젝트 재가동",
+      "summary": "연방 법원이 Vineyard Wind 프로젝트의 공사 재개를 허가하면서 트럼프 행정부가 내렸던 해상풍력 작업 중단 조치가 또다시 제동이 걸렸다. 이번 판결은 해상풍력 규제 공세 속에서도 사법부 판단을 통해 대형 프로젝트들이 재가동될 수 있음을 보여주며, 장기적으로 동부 연안 해상풍력·전기화 전력 수급 계획에 중요한 변수를 제공하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Trump’s offshore wind pause just lost again – Vineyard Wind is back to work [update]",
+          "url": "https://electrek.co/2026/01/27/us-offshore-wind-backlash-grows-as-empire-revolution-wind-sue-trump-admin/"
+        }
+      ]
+    }
+  ]
+}

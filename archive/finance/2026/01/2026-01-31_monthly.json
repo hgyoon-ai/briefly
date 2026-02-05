@@ -1,0 +1,148 @@
+{
+  "range": {
+    "from": "2026-01-02",
+    "to": "2026-01-31"
+  },
+  "kpis": {
+    "collected": 13,
+    "deduped": 13,
+    "uniqueTopics": 9,
+    "marketShare": {
+      "MarketInfra": 31,
+      "Policy": 22,
+      "Compliance": 19,
+      "Regulation": 14,
+      "Fintech": 14,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (01/02-01/08)",
+      "topicCounts": {
+        "MarketInfra": 0,
+        "Policy": 0,
+        "Compliance": 0,
+        "Regulation": 0,
+        "Fintech": 0
+      }
+    },
+    {
+      "week": "Week 2 (01/09-01/15)",
+      "topicCounts": {
+        "MarketInfra": 0,
+        "Policy": 0,
+        "Compliance": 0,
+        "Regulation": 0,
+        "Fintech": 0
+      }
+    },
+    {
+      "week": "Week 3 (01/16-01/22)",
+      "topicCounts": {
+        "MarketInfra": 0,
+        "Policy": 0,
+        "Compliance": 0,
+        "Regulation": 0,
+        "Fintech": 0
+      }
+    },
+    {
+      "week": "Week 4 (01/23-01/29)",
+      "topicCounts": {
+        "MarketInfra": 0,
+        "Policy": 0,
+        "Compliance": 0,
+        "Regulation": 0,
+        "Fintech": 0
+      }
+    },
+    {
+      "week": "Week 5 (01/30-01/31)",
+      "topicCounts": {
+        "MarketInfra": 6,
+        "Policy": 4,
+        "Compliance": 3,
+        "Regulation": 3,
+        "Fintech": 2
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "국내 우량주 단일종목 레버리지 ETF·ETN 도입 및 파생상품 인프라 개편",
+      "summary": "금융위가 자본시장법 시행령과 금투업규정 개정을 추진하며 삼성전자·SK하이닉스 등 국내 우량주를 기초자산으로 하는 2배 레버리지 ETF·ETN 상장을 허용하고, 위클리 옵션 만기 확대 및 개별주·ETF 기초 신규 옵션 도입으로 커버드콜 등 다양한 전략형 ETF 출시 기반을 마련 중이다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "삼성전자·하이닉스 ‘2배’ ETF, 이르면 2분기에 나온다",
+          "url": "https://www.mk.co.kr/news/stock/11949038"
+        },
+        {
+          "source": "정책브리핑",
+          "title": "국내 우량주 레버리지 ETF 첫 도입…금융위, 시행령 등 입법예고",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148958854&call_from=rsslink"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "공공기관 지정 재편과 금융감독원의 공공기관 지정 유보",
+      "summary": "정부가 2024년 공공기관을 342개로 재지정하면서 11개 기관을 새로 포함하고 일부 유형을 조정했으며, 금융감독원은 지정 요건을 충족했음에도 경영관리 강화 및 투명성 제고를 조건으로 1년간 공공기관 지정이 유보되어 금융감독 체계와 거버넌스 변화 가능성이 부각되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "정책브리핑",
+          "title": "올해 공공기관 11개 늘어난 342개 지정…금감원은 지정 유보",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148958850&call_from=rsslink"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "스테이블코인 기반 STO 결제 인프라 실증과 디지털 증권화 확산",
+      "summary": "뮤직카우가 NH농협, 아톤과 함께 스테이블코인 기반 STO 결제 POC를 성공하며 청약부터 정산까지 전 과정을 블록체인에서 처리하는 구조를 시연했고, 후속 실증에 착수하면서 디지털 자산·증권 결제 인프라 고도화와 규제 정비 필요성이 함께 대두되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "뮤직카우, 스테이블코인 STO 결제 실증 성공",
+          "url": "https://www.mk.co.kr/news/stock/11947154"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "AI 도입 가속과 금융·보안 분야 리스크 관리 패러다임 변화",
+      "summary": "기업들의 AI 도입이 빨라지면서 생산성·혁신 효과와 함께 딥페이크 금융사기, 알고리즘 편향, 책임소재 불명확 등 새로운 리스크가 확대되고 있으며, 설명가능한 AI, 내부통제 및 규제 준수 체계 강화가 투자·리스크 관리의 핵심 과제로 부상하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "보안뉴스",
+          "title": "[김정덕의 AI 시대 보안 패러다임-7] AI 도입의 딜레마: 혁신의 속도와 리스크의 균형",
+          "url": "http://www.boannews.com/media/view.asp?idx=141756&kind=&sub_kind="
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "정치 테마주·암호화폐 연계 종목의 자사주 매입과 변동성 확대",
+      "summary": "트럼프 코인 테마주로 분류되는 ALT5가 발행주식 40% 규모에 달하는 1억 달러 자사주 매입 프로그램을 발표하고 WLFI 토큰 추가 매입 계획을 밝히며 주가가 급반등하는 등 정치 테마와 암호화폐 노출이 결합된 종목의 가격 변동성과 규제 리스크가 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "‘트럼프 코인’ 테마주 ALT5, 1억 달러 자사주 매입… “주가 저평가” 승부수",
+          "url": "https://www.mk.co.kr/news/stock/11947989"
+        }
+      ]
+    }
+  ]
+}

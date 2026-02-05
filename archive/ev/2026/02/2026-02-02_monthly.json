@@ -1,0 +1,153 @@
+{
+  "range": {
+    "from": "2026-01-04",
+    "to": "2026-02-02"
+  },
+  "kpis": {
+    "collected": 15,
+    "deduped": 15,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 28,
+      "Investment": 24,
+      "Demand": 20,
+      "Competition": 16,
+      "Policy": 12,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (01/04-01/10)",
+      "topicCounts": {
+        "Roadmap": 0,
+        "Investment": 0,
+        "Demand": 0,
+        "Competition": 0,
+        "Policy": 0
+      }
+    },
+    {
+      "week": "Week 2 (01/11-01/17)",
+      "topicCounts": {
+        "Roadmap": 0,
+        "Investment": 0,
+        "Demand": 0,
+        "Competition": 0,
+        "Policy": 0
+      }
+    },
+    {
+      "week": "Week 3 (01/18-01/24)",
+      "topicCounts": {
+        "Roadmap": 0,
+        "Investment": 0,
+        "Demand": 0,
+        "Competition": 0,
+        "Policy": 0
+      }
+    },
+    {
+      "week": "Week 4 (01/25-01/31)",
+      "topicCounts": {
+        "Roadmap": 11,
+        "Investment": 10,
+        "Demand": 7,
+        "Competition": 8,
+        "Policy": 5
+      }
+    },
+    {
+      "week": "Week 5 (02/01-02/02)",
+      "topicCounts": {
+        "Roadmap": 1,
+        "Investment": 1,
+        "Demand": 1,
+        "Competition": 0,
+        "Policy": 1
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "테슬라의 모델 S/X 단종과 ‘서비스로서의 운송’ 전환",
+      "summary": "테슬라는 2025년 4분기 실적 발표에서 모델 S와 X 단종을 공식화하고, 향후 신규 대중형 승용 전기차 출시 계획이 없다고 밝혔다. 대신 로보택시·사설 모빌리티 등 ‘서비스로서의 운송’ 비즈니스로 중심축을 옮기며 기존 자동차 제조 중심 전략에서의 급격한 전환을 시도하고 있다. 이로 인해 전통 EV 라인업 축소, 수요 구조 변화, 경쟁사에게 프리미엄·대중형 EV 시장 점유 기회 확대 등 산업 전반의 판도 변화가 예상된다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla is committing automotive suicide",
+          "url": "https://electrek.co/2026/01/29/tesla-committing-automotive-suicide/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Podcast: Tesla’s auto suicide, Model S/X dead, Cybercab fiasco, and more",
+          "url": "https://electrek.co/2026/01/30/podcast-teslas-auto-suicide-model-s-x-dead-cybercab-fiasco-and-more/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "토요타 전고체 배터리용 고체 전해질 공장 착공과 신규 수요 전망",
+      "summary": "일본 이데미츠 코산이 토요타와 협력해 전고체 전기차 배터리용 고체 전해질 파일럿 플랜트 건설을 시작했다. 동시에 별도 보고서는 휴머노이드 로봇이 2035년까지 전고체 배터리 약 75GWh 수요를 창출할 것으로 전망하며, 전고체 기술이 자동차를 넘어 로봇·산업용까지 확장될 시장임을 시사한다. 이에 따라 전고체 소재·제조 설비 투자, 공급망 재편, 장기 수요 대응 전략이 EV 업계 핵심 이슈로 부상하고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Toyota partner breaks ground on solid electrolyes plant for all-solid-state EV batteries",
+          "url": "https://electrek.co/2026/01/30/toyota-partner-breaks-ground-on-all-solid-state-ev-battery-plant/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Report: humanoid robots set to drive demand for solid-state batteries",
+          "url": "https://electrek.co/2026/01/30/report-humanoid-robots-set-to-drive-demand-for-solid-state-batteries/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "미국 전력 신규 설비의 재생에너지·저장 편중 가속",
+      "summary": "EIA에 따르면 2026년 미국 신규 발전설비 순증의 99% 이상이 태양광·풍력·배터리 저장장치에서 나올 것으로 예상된다. 2025년에 이어 재생에너지와 저장 설비 중심의 설비 증설이 이어지면서, 향후 EV 충전 인프라 전력의 탈탄소화, 전력시장 구조 변화, 배터리 수요 확대가 중장기적으로 더욱 강화될 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "EIA: 99%+ of new US capacity in 2026 will be solar, wind + storage",
+          "url": "https://electrek.co/2026/01/28/eia-99-of-new-us-capacity-in-2026-will-be-solar-wind-storage/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "SHIFTING",
+      "title": "미국 해상풍력 규제 공방 속 Vineyard Wind 공사 재개",
+      "summary": "연방 법원이 Vineyard Wind 프로젝트의 공사 재개를 허가하면서, 트럼프 행정부가 내렸던 해상풍력 작업 중단 조치가 또다시 제동을 걸렸다. 이는 미국 해상풍력 개발을 둘러싼 정책·법적 불확실성이 여전히 크지만, 동시에 프로젝트가 단계적으로 재가동되며 재생에너지 인프라 확대와 관련 장기 투자 계획이 되살아날 수 있음을 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Trump’s offshore wind pause just lost again – Vineyard Wind is back to work [update]",
+          "url": "https://electrek.co/2026/01/27/us-offshore-wind-backlash-grows-as-empire-revolution-wind-sue-trump-admin/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "BMW 신형 2027 iX3 조기 매진으로 본 프리미엄 EV 수요 탄력",
+      "summary": "BMW가 Neue Klasse 플랫폼 기반 완전 변경 2027년형 전기 SUV iX3를 공개한 뒤, 2026년 말까지 생산분이 이미 사실상 매진된 것으로 전해졌다. 이는 고급 SUV 세그먼트에서 전기차에 대한 수요가 여전히 강하고, 장기 선주문을 통한 생산 계획 확정과 수익성 관리가 가능함을 보여주며, 프리미엄 EV 시장 경쟁 심화를 예고한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Act fast: all-new, all-electric 2027 BMW iX3 is almost all gone",
+          "url": "https://electrek.co/2026/01/31/act-fast-all-electric-2027-bmw-ix3-is-almost-all-gone/"
+        }
+      ]
+    }
+  ]
+}
