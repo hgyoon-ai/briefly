@@ -1,0 +1,114 @@
+.mode-hero {
+  padding: 14px 16px;
+  border-radius: 20px;
+  background: var(--mode-hero-bg, #f7fafc);
+  border: 1px solid rgba(15, 23, 42, 0.08);
+  box-shadow: 0 10px 24px rgba(15, 23, 42, 0.08);
+}
+
+.mode-hero-row {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.mode-hero-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.mode-hero-title {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--mode-ink, #1b1e29);
+}
+
+.mode-hero-icon {
+  font-size: 20px;
+}
+
+.mode-hero-summary-text {
+  color: var(--mode-muted, #5a6473);
+  font-size: 13px;
+  line-height: 1.4;
+  flex: 1;
+  min-width: 0;
+}
+
+.mode-hero-right {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  align-items: flex-start;
+}
+
+.mode-hero-bottom {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.mode-hero-meta {
+  background: var(--mode-accent-soft, rgba(14, 124, 134, 0.12));
+  color: var(--mode-ink, #1b1e29);
+  padding: 6px 10px;
+  border-radius: 999px;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  flex-wrap: nowrap;
+}
+
+.mode-hero-meta-label {
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--mode-muted, #5a6473);
+}
+
+.mode-hero-meta-value {
+  font-weight: 700;
+  font-size: 12px;
+}
+
+.mode-hero-actions-slot {
+  display: inline-flex;
+}
+
+.mode-hero-toggle {
+  border: 1px solid var(--mode-line, rgba(15, 23, 42, 0.12));
+  background: var(--mode-accent-soft, rgba(14, 124, 134, 0.12));
+  color: var(--mode-accent, #0e7c86);
+  font-size: 11px;
+  font-weight: 700;
+  padding: 4px 10px;
+  border-radius: 999px;
+  cursor: pointer;
+  flex: 0 0 auto;
+}
+
+.mode-hero-help {
+  margin: 4px 0 0 0;
+  padding-left: 18px;
+  color: var(--mode-muted, #5a6473);
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.mode-hero-help li {
+  margin: 2px 0;
+}
+
+
+@media (min-width: 768px) {
+  .mode-hero-right {
+    align-items: flex-end;
+    text-align: right;
+  }
+}

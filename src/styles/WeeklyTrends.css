@@ -11,22 +11,22 @@
   margin-bottom: 24px;
 }
 
-.stat-card {
+.weekly-trends .stat-card {
   background: white;
   border-radius: 12px;
   padding: 16px;
   text-align: center;
-  box-shadow: 0 2px 8px rgba(255, 107, 157, 0.1);
+  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.08);
   border-left: 4px solid;
-  border-image: linear-gradient(135deg, #ff6b9d 0%, #ffa500 100%) 1;
+  border-image: linear-gradient(135deg, var(--mode-accent, #d94b7d) 0%, var(--mode-accent-2, #f29a4b) 100%) 1;
   transition: all 0.3s ease;
 }
 
-.stat-card:active {
+.weekly-trends .stat-card:active {
   transform: scale(0.98);
 }
 
-.stat-label {
+.weekly-trends .stat-label {
   font-size: 12px;
   color: #999;
   font-weight: 600;
@@ -35,17 +35,17 @@
   letter-spacing: 0.5px;
 }
 
-.stat-value {
+.weekly-trends .stat-value {
   font-size: 28px;
   font-weight: 700;
-  background: linear-gradient(135deg, #ff6b9d 0%, #ffa500 100%);
+  background: linear-gradient(135deg, var(--mode-accent, #d94b7d) 0%, var(--mode-accent-2, #f29a4b) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
   margin: 4px 0;
 }
 
-.stat-desc {
+.weekly-trends .stat-desc {
   font-size: 11px;
   color: #ccc;
 }
@@ -92,7 +92,7 @@
   display: flex;
   align-items: center;
   gap: 8px;
-  box-shadow: 0 2px 8px rgba(255, 107, 157, 0.12);
+  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.08);
   border: 2px solid transparent;
   cursor: pointer;
   transition: all 0.3s ease;
@@ -101,20 +101,20 @@
 
 .topic-badge:hover {
   transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(255, 107, 157, 0.2);
-  border-color: #ff6b9d;
+  box-shadow: 0 4px 12px rgba(15, 23, 42, 0.12);
+  border-color: var(--mode-accent, #d94b7d);
 }
 
 .topic-badge.active {
-  background: linear-gradient(135deg, #ff6b9d 0%, #ffa500 100%);
+  background: linear-gradient(135deg, var(--mode-accent, #d94b7d) 0%, var(--mode-accent-2, #f29a4b) 100%);
   color: white;
-  border-color: #ff6b9d;
+  border-color: var(--mode-accent, #d94b7d);
 }
 
 .topic-badge .topic-rank {
   font-size: 12px;
   font-weight: 700;
-  background: linear-gradient(135deg, #ff6b9d 0%, #ffa500 100%);
+  background: linear-gradient(135deg, var(--mode-accent, #d94b7d) 0%, var(--mode-accent-2, #f29a4b) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -155,7 +155,7 @@
 /* 짧은 제목 */
 .section-title-small {
   font-size: 14px;
-  color: #ffa500;
+  color: var(--mode-accent-2, #f29a4b);
   margin: 0 0 12px 0;
   font-weight: 600;
 }
@@ -163,10 +163,10 @@
 /* 떠오르는 주제들 섹션 */
 .rising-topics-section {
   margin-bottom: 24px;
-  background: linear-gradient(135deg, rgba(255, 107, 157, 0.08) 0%, rgba(255, 165, 0, 0.04) 100%);
+  background: linear-gradient(135deg, var(--mode-accent-soft, rgba(217, 75, 125, 0.12)) 0%, rgba(255, 255, 255, 0.8) 100%);
   border-radius: 16px;
   padding: 20px;
-  border: 2px solid rgba(255, 107, 157, 0.15);
+  border: 2px solid var(--mode-accent-soft, rgba(217, 75, 125, 0.2));
   position: relative;
   overflow: hidden;
 }
@@ -178,7 +178,7 @@
   right: -50%;
   width: 200%;
   height: 200%;
-  background: radial-gradient(circle, rgba(255, 107, 157, 0.1) 0%, transparent 70%);
+  background: radial-gradient(circle, var(--mode-accent-soft, rgba(217, 75, 125, 0.2)) 0%, transparent 70%);
   pointer-events: none;
   animation: glow 3s ease-in-out infinite;
 }
@@ -205,9 +205,9 @@
   align-items: center;
   gap: 8px;
   padding: 10px 16px;
-  background: linear-gradient(135deg, #ff6b9d 0%, #ff8fb3 50%, #ffa500 100%);
+  background: linear-gradient(135deg, var(--mode-accent, #d94b7d) 0%, var(--mode-accent, #d94b7d) 50%, var(--mode-accent-2, #f29a4b) 100%);
   border-radius: 24px;
-  box-shadow: 0 8px 24px rgba(255, 107, 157, 0.4), inset 0 1px 0 rgba(255, 255, 255, 0.3);
+  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.18), inset 0 1px 0 rgba(255, 255, 255, 0.3);
   transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
   cursor: default;
   position: relative;
@@ -226,7 +226,7 @@
 
 .rising-item:hover {
   transform: translateY(-6px) scale(1.08);
-  box-shadow: 0 12px 32px rgba(255, 107, 157, 0.5), inset 0 1px 0 rgba(255, 255, 255, 0.4);
+  box-shadow: 0 12px 32px rgba(15, 23, 42, 0.22), inset 0 1px 0 rgba(255, 255, 255, 0.4);
 }
 
 .rising-item:hover::before {
@@ -278,7 +278,7 @@
 
 .top-issues-section h3 {
   font-size: 14px;
-  color: #ffa500;
+  color: var(--mode-accent-2, #f29a4b);
   margin: 0 0 12px 0;
   font-weight: 600;
 }
@@ -292,7 +292,7 @@
   background: white;
   border-radius: 12px;
   padding: 16px;
-  box-shadow: 0 2px 8px rgba(255, 107, 157, 0.12);
+  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.08);
   border: 2px solid transparent;
   display: flex;
   gap: 12px;
@@ -303,16 +303,16 @@
 }
 
 .issue-card:hover {
-  box-shadow: 0 4px 12px rgba(255, 107, 157, 0.2);
+  box-shadow: 0 4px 12px rgba(15, 23, 42, 0.12);
   transform: translateY(-2px);
-  border-color: #ff6b9d;
+  border-color: var(--mode-accent, #d94b7d);
 }
 
 .issue-link-icon {
   position: absolute;
   right: 14px;
   top: 14px;
-  color: #ff6b9d;
+  color: var(--mode-accent, #d94b7d);
   opacity: 0.7;
 }
 
@@ -330,7 +330,7 @@
 .issue-rank {
   font-size: 18px;
   font-weight: 700;
-  background: linear-gradient(135deg, #ff6b9d 0%, #ffa500 100%);
+  background: linear-gradient(135deg, var(--mode-accent, #d94b7d) 0%, var(--mode-accent-2, #f29a4b) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -363,12 +363,12 @@
 }
 
 .issue-status-new {
-  background: #ff6b9d;
+  background: var(--mode-accent, #d94b7d);
   color: white;
 }
 
 .issue-status-ongoing {
-  background: #ffa500;
+  background: var(--mode-accent-2, #f29a4b);
   color: white;
 }
 
@@ -396,8 +396,8 @@
   background: white;
   border-radius: 12px;
   padding: 20px;
-  box-shadow: 0 2px 8px rgba(255, 107, 157, 0.12);
-  border-left: 4px solid #ff6b9d;
+  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.08);
+  border-left: 4px solid var(--mode-accent, #d94b7d);
   animation: slideInUp 0.4s ease-out;
 }
 
@@ -443,7 +443,7 @@
 }
 
 .close-button:hover {
-  color: #ff6b9d;
+  color: var(--mode-accent, #d94b7d);
 }
 
 .trend-chart {
@@ -493,20 +493,20 @@
   border-radius: 6px 6px 0 0;
   transition: all 0.3s ease;
   cursor: pointer;
-  box-shadow: 0 2px 8px rgba(255, 107, 157, 0.2);
+  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.12);
 }
 
 .trend-count {
   font-size: 13px;
   font-weight: 600;
-  color: #ff6b9d;
+  color: var(--mode-accent, #d94b7d);
   margin-bottom: 4px;
   order: 2;
 }
 
 .trend-bar:hover {
   opacity: 0.8;
-  box-shadow: 0 4px 12px rgba(255, 107, 157, 0.3);
+  box-shadow: 0 4px 12px rgba(15, 23, 42, 0.18);
   transform: scaleY(1.05);
 }
 
@@ -528,10 +528,10 @@
 .trend-count {
   font-size: 13px;
   font-weight: 700;
-  color: #ff6b9d;
+  color: var(--mode-accent, #d94b7d);
   order: 2;
   margin: 6px 0 2px 0;
-  background: rgba(255, 107, 157, 0.08);
+  background: var(--mode-accent-soft, rgba(217, 75, 125, 0.14));
   padding: 4px 8px;
   border-radius: 4px;
   min-width: 28px;

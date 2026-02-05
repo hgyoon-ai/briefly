@@ -4,11 +4,12 @@ import '../styles/AdminPage.css';
 import useMockData from '../hooks/useMockData';
 import useMarketAdminData from '../hooks/useMarketAdminData';
 import useRunHistory from '../hooks/useRunHistory';
+import useDeveloperRadar from '../hooks/useDeveloperRadar';
 import { ADMIN_ICON } from '../constants/ui';
 
 const STORAGE_KEY = 'briefly.adminTabs';
 const DEFAULT_STATE = {
-  mode: 'market',
+  mode: 'securities',
   briefingTab: 'ai',
   marketTab: 'securities-ai'
 };
@@ -18,8 +19,16 @@ const loadAdminState = () => {
     const raw = localStorage.getItem(STORAGE_KEY);
     if (!raw) return DEFAULT_STATE;
     const parsed = JSON.parse(raw);
+    const mode =
+      parsed.mode === 'industry' || parsed.mode === 'developer' || parsed.mode === 'securities'
+        ? parsed.mode
+        : parsed.mode === 'briefing'
+          ? 'industry'
+          : parsed.mode === 'market'
+            ? 'securities'
+            : 'securities';
     return {
-      mode: parsed.mode === 'briefing' ? 'briefing' : 'market',
+      mode,
       briefingTab:
         parsed.briefingTab === 'finance' || parsed.briefingTab === 'semiconductor' || parsed.briefingTab === 'ev'
           ? parsed.briefingTab
@@ -43,15 +52,18 @@ function AdminPage() {
   const marketData = useMarketAdminData(marketTab);
   const briefingRuns = useRunHistory('briefing/run_history.json');
   const marketRuns = useRunHistory(`market/${marketTab}/run_history.json`);
+  const developerData = useDeveloperRadar();
+  const developerRuns = useRunHistory('developer/run_history.json');
 
   useEffect(() => {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(adminState));
   }, [adminState]);
 
-  const activeTab = useMemo(
-    () => (mode === 'market' ? marketTab : briefingTab),
-    [mode, marketTab, briefingTab]
-  );
+  const activeTab = useMemo(() => {
+    if (mode === 'securities') return marketTab;
+    if (mode === 'industry') return briefingTab;
+    return 'developer';
+  }, [mode, marketTab, briefingTab]);
 
   // 변화 계산 함수 (절대값으로 변환)
   const calculateChange = (current, previous) => {
@@ -94,12 +106,21 @@ function AdminPage() {
 
   const lastUpdated = getLastUpdated();
   const latestBriefingRun = briefingRuns.history?.[0];
+  const latestDeveloperRun = developerRuns.history?.[0];
+  const latestMarketRun = marketRuns.history?.[0];
 
-  if (mode === 'briefing' && loading) {
+  const formatDateTime = (value) => {
+    if (!value) return '-';
+    const date = new Date(value);
+    if (Number.isNaN(date.getTime())) return value;
+    return date.toLocaleString('ko-KR');
+  };
+
+  if (mode === 'industry' && loading) {
     return <div className="loading">데이터를 불러오는 중...</div>;
   }
 
-  if (mode === 'briefing' && (error || !today || !weekly || !monthly)) {
+  if (mode === 'industry' && (error || !today || !weekly || !monthly)) {
     return <div className="error">데이터를 불러올 수 없습니다.</div>;
   }
 
@@ -112,10 +133,22 @@ function AdminPage() {
             <span>{ADMIN_ICON}</span>
           </Link>
         </div>
-        {mode === 'briefing' && (
+        {mode === 'industry' && (
           <div className="last-updated">
             최근 실행: {latestBriefingRun?.ts ? new Date(latestBriefingRun.ts).toLocaleString('ko-KR') : '-'}
             {today && lastUpdated ? ` · 카드 최신: ${lastUpdated}` : ''}
+          </div>
+        )}
+        {mode === 'securities' && (
+          <div className="last-updated">
+            최근 실행: {latestMarketRun?.ts ? new Date(latestMarketRun.ts).toLocaleString('ko-KR') : '-'}
+            {marketData.index?.lastUpdated ? ` · 카드 최신: ${formatDateTime(marketData.index.lastUpdated)}` : ''}
+          </div>
+        )}
+        {mode === 'developer' && (
+          <div className="last-updated">
+            최근 실행: {latestDeveloperRun?.ts ? new Date(latestDeveloperRun.ts).toLocaleString('ko-KR') : '-'}
+            {developerData.daily?.date ? ` · 카드 최신: ${formatDateTime(developerData.daily.date)}` : ''}
           </div>
         )}
       </header>
@@ -125,37 +158,52 @@ function AdminPage() {
           <div className="admin-mode-label">모드</div>
           <div className="admin-mode-switch">
             <button
-              className={`tab-button mode-button ${mode === 'market' ? 'active' : ''}`}
-              title="마켓"
-              aria-label="마켓"
+              className={`tab-button mode-button ${mode === 'securities' ? 'active' : ''}`}
+              title="증권사"
+              aria-label="증권사"
               onClick={() => {
-                setAdminState((prev) => ({ ...prev, mode: 'market' }));
+                setAdminState((prev) => ({ ...prev, mode: 'securities' }));
+              }}
+            >
+              <span className="mode-icon" aria-hidden>
+                🏦
+              </span>
+              <span className="mode-text">증권사</span>
+            </button>
+            <button
+              className={`tab-button mode-button ${mode === 'industry' ? 'active' : ''}`}
+              title="산업"
+              aria-label="산업"
+              onClick={() => {
+                setAdminState((prev) => ({ ...prev, mode: 'industry' }));
+              }}
+            >
+              <span className="mode-icon" aria-hidden>
+                🏭
+              </span>
+              <span className="mode-text">산업</span>
+            </button>
+            <button
+              className={`tab-button mode-button ${mode === 'developer' ? 'active' : ''}`}
+              title="개발"
+              aria-label="개발"
+              onClick={() => {
+                setAdminState((prev) => ({ ...prev, mode: 'developer' }));
               }}
             >
               <span className="mode-icon" aria-hidden>
                 🧭
               </span>
-              <span className="mode-text">마켓</span>
-            </button>
-            <button
-              className={`tab-button mode-button ${mode === 'briefing' ? 'active' : ''}`}
-              title="브리핑"
-              aria-label="브리핑"
-              onClick={() => {
-                setAdminState((prev) => ({ ...prev, mode: 'briefing' }));
-              }}
-            >
-              <span className="mode-icon" aria-hidden>
-                📌
-              </span>
-              <span className="mode-text">브리핑</span>
+              <span className="mode-text">개발</span>
             </button>
           </div>
-          <div className="admin-mode-status">{mode === 'market' ? '마켓' : '브리핑'}</div>
+          <div className="admin-mode-status">
+            {mode === 'securities' ? '증권사' : mode === 'industry' ? '산업' : '개발'}
+          </div>
         </div>
         <div className="admin-nav-divider" />
         <div className="admin-tabs-row">
-          {mode === 'market' ? (
+          {mode === 'securities' ? (
             <>
               <button
                 className={`tab-button ${activeTab === 'securities-ai' ? 'active' : ''}`}
@@ -174,7 +222,7 @@ function AdminPage() {
                 🧩 증권 업데이트
               </button>
             </>
-          ) : (
+          ) : mode === 'industry' ? (
             <>
               <button
                 className={`tab-button ${activeTab === 'ai' ? 'active' : ''}`}
@@ -209,12 +257,17 @@ function AdminPage() {
                 ⚡ 전기차
               </button>
             </>
+          ) : (
+            <button className="tab-button disabled" disabled>
+              🌐 글로벌 레이더
+              <span className="coming-soon">Daily</span>
+            </button>
           )}
         </div>
       </nav>
 
       <main className="admin-content">
-        {mode === 'briefing' ? (
+        {mode === 'industry' ? (
           <>
             <RunHistoryPanel
               title="🧾 최근 7회 실행(브리핑)"
@@ -352,8 +405,10 @@ function AdminPage() {
               </section>
             )}
           </>
-        ) : (
+        ) : mode === 'securities' ? (
           <MarketAdminPanel marketData={marketData} marketRuns={marketRuns} dataset={marketTab} />
+        ) : (
+          <DeveloperAdminPanel radar={developerData} />
         )}
       </main>
     </div>
@@ -791,6 +846,64 @@ function MarketAdminPanel({ marketData, marketRuns, dataset }) {
                 ))}
               </div>
             </div>
+          </div>
+        )}
+      </section>
+    </>
+  );
+}
+
+function DeveloperAdminPanel({ radar }) {
+  const { daily, loading, error } = radar;
+
+  if (loading) {
+    return <div className="loading">개발 레이더 데이터를 불러오는 중...</div>;
+  }
+
+  if (error || !daily) {
+    return <div className="error">개발 레이더 데이터를 불러올 수 없습니다.</div>;
+  }
+
+  return (
+    <>
+      <section className="stats-section">
+        <h2>🧭 개발 레이더</h2>
+        <div className="date-label">최근 업데이트: {daily.date || '-'}</div>
+        <div className="stats-grid">
+          <div className="stat-card">
+            <div className="stat-label">감지 엔티티</div>
+            <div className="stat-value">{daily.kpis?.clusters ?? 0}</div>
+            <div className="stat-desc">개</div>
+          </div>
+          <div className="stat-card">
+            <div className="stat-label">활성 소스</div>
+            <div className="stat-value">{daily.kpis?.sources ?? 0}</div>
+            <div className="stat-desc">개</div>
+          </div>
+          <div className="stat-card">
+            <div className="stat-label">신규 감지</div>
+            <div className="stat-value">{daily.kpis?.new ?? 0}</div>
+            <div className="stat-desc">개</div>
+          </div>
+        </div>
+      </section>
+      <section className="stats-section">
+        <h2>🧪 상위 엔티티</h2>
+        {!daily.clusters?.length ? (
+          <div className="admin-empty">아직 감지된 엔티티가 없습니다.</div>
+        ) : (
+          <div className="admin-list">
+            {daily.clusters.slice(0, 6).map((cluster) => (
+              <div key={cluster.id} className="admin-list-item compact">
+                <div className="admin-list-meta">
+                  <span>{cluster.section || 'trending'}</span>
+                  <span>{cluster.status || 'ONGOING'}</span>
+                  <span>score {cluster.score ?? '-'}</span>
+                </div>
+                <div className="admin-list-title">{cluster.name}</div>
+                <div className="admin-list-summary">{cluster.oneLiner}</div>
+              </div>
+            ))}
           </div>
         )}
       </section>

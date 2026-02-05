@@ -15,7 +15,7 @@
   padding: 20px 22px;
   width: min(520px, 92vw);
   box-shadow: 0 18px 40px rgba(0, 0, 0, 0.18);
-  border: 1px solid rgba(255, 107, 157, 0.2);
+  border: 1px solid var(--mode-accent-soft, rgba(217, 75, 125, 0.2));
 }
 
 .issue-modal-header {
@@ -35,14 +35,14 @@
 .issue-modal-status {
   font-size: 11px;
   font-weight: 700;
-  color: #ff6b9d;
+  color: var(--mode-accent, #d94b7d);
   margin-top: 4px;
 }
 
 .issue-modal-close {
   border: none;
-  background: #ffe6ef;
-  color: #c95b7a;
+  background: var(--mode-accent-soft, rgba(217, 75, 125, 0.14));
+  color: var(--mode-accent, #d94b7d);
   width: 32px;
   height: 32px;
   border-radius: 50%;
@@ -66,7 +66,7 @@
 .issue-modal-section {
   font-size: 12px;
   font-weight: 700;
-  color: #ff7aa6;
+  color: var(--mode-accent, #d94b7d);
   margin-bottom: 8px;
 }
 
@@ -81,24 +81,24 @@
   align-items: baseline;
   padding: 8px 10px;
   border-radius: 10px;
-  background: #fff6f9;
+  background: rgba(255, 255, 255, 0.9);
   text-decoration: none;
   color: #3b2e31;
-  border: 1px solid rgba(255, 107, 157, 0.18);
+  border: 1px solid var(--mode-accent-soft, rgba(217, 75, 125, 0.2));
 }
 
 .issue-modal-link:hover {
-  border-color: rgba(255, 107, 157, 0.45);
+  border-color: var(--mode-accent, #d94b7d);
 }
 
 .issue-modal-source {
   font-size: 11px;
-  color: #c65c7a;
+  color: var(--mode-accent, #d94b7d);
   font-weight: 700;
-  background: rgba(255, 107, 157, 0.14);
+  background: var(--mode-accent-soft, rgba(217, 75, 125, 0.14));
   padding: 2px 8px;
   border-radius: 999px;
-  border: 1px solid rgba(255, 107, 157, 0.3);
+  border: 1px solid var(--mode-accent-soft, rgba(217, 75, 125, 0.2));
 }
 
 .issue-modal-link-title {
@@ -108,7 +108,7 @@
 .issue-modal-empty {
   font-size: 12px;
   color: #8b7a7f;
-  background: #faf3f6;
+  background: rgba(255, 255, 255, 0.85);
   padding: 10px;
   border-radius: 10px;
 }

@@ -14,11 +14,12 @@
 
 .header-content {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   max-width: 1200px;
   margin: 0 auto;
   position: relative;
+  width: 100%;
 }
 
 .header h1 {
@@ -30,22 +31,28 @@
 }
 
 .admin-link {
-  font-size: 24px;
+  font-size: 20px;
   text-decoration: none;
   color: white;
-  transition: all 0.3s ease;
-  padding: 8px 12px;
-  border-radius: 8px;
-  display: flex;
+  transition: all 0.2s ease;
+  padding: 4px;
+  display: inline-flex;
   align-items: center;
   justify-content: center;
-  position: absolute;
-  right: 0;
+  background: none;
+  border: none;
+  opacity: 0.7;
+  margin-right: 6px;
 }
 
 .admin-link:hover {
-  background: rgba(255, 255, 255, 0.2);
-  transform: scale(1.1);
+  opacity: 1;
+  transform: translateY(-1px);
+}
+
+.admin-spacer {
+  width: 28px;
+  height: 1px;
 }
 
 .header .date-range {
@@ -204,6 +211,36 @@
 
 .main-content {
   padding: 20px 0;
+  --mode-ink: #1b1e29;
+  --mode-muted: #5a6473;
+  --mode-line: rgba(15, 23, 42, 0.08);
+  --mode-card: rgba(255, 255, 255, 0.92);
+  --mode-shadow: 0 14px 30px rgba(15, 23, 42, 0.12);
+  --mode-accent: #d94b7d;
+  --mode-accent-2: #f29a4b;
+  --mode-accent-soft: rgba(217, 75, 125, 0.14);
+  --mode-hero-bg: linear-gradient(120deg, #fff4f8 0%, #ffeedd 45%, #fff6f0 100%);
+}
+
+.main-content.mode-securities {
+  --mode-accent: #c27a2c;
+  --mode-accent-2: #f0b15a;
+  --mode-accent-soft: rgba(194, 122, 44, 0.14);
+  --mode-hero-bg: linear-gradient(120deg, #fff8e8 0%, #ffe8c6 45%, #f1faff 100%);
+}
+
+.main-content.mode-industry {
+  --mode-accent: #d94b7d;
+  --mode-accent-2: #f29a4b;
+  --mode-accent-soft: rgba(217, 75, 125, 0.14);
+  --mode-hero-bg: linear-gradient(120deg, #fff0f6 0%, #ffdde9 45%, #fff3e1 100%);
+}
+
+.main-content.mode-developer {
+  --mode-accent: #0e7c86;
+  --mode-accent-2: #2bb673;
+  --mode-accent-soft: rgba(14, 124, 134, 0.14);
+  --mode-hero-bg: linear-gradient(120deg, #f7fafc 0%, #e7f6f4 45%, #fff2e0 100%);
 }
 
 /* 주간/월간 탭 */
@@ -240,13 +277,13 @@
 
 .period-tab:hover {
   transform: translateY(-1px);
-  box-shadow: 0 3px 10px rgba(255, 107, 157, 0.15);
+  box-shadow: 0 3px 10px rgba(15, 23, 42, 0.12);
 }
 
 .period-tab.active {
-  background: linear-gradient(135deg, #ff6b9d 0%, #ffa500 100%);
+  background: linear-gradient(135deg, var(--mode-accent, #d94b7d) 0%, var(--mode-accent-2, #f29a4b) 100%);
   color: white;
-  border-color: #ff6b9d;
+  border-color: var(--mode-accent, #d94b7d);
 }
 
 .loading,
@@ -265,6 +302,14 @@
 
   .header {
     padding: 32px 24px;
+  }
+
+  .admin-link {
+    margin-right: 18px;
+  }
+
+  .admin-spacer {
+    width: 32px;
   }
 
   .header h1 {
@@ -350,7 +395,7 @@
   font-size: 18px;
   font-weight: 700;
   margin: 0 0 20px 0;
-  background: linear-gradient(135deg, #ff6b9d 0%, #ffa500 100%);
+  background: linear-gradient(135deg, var(--mode-accent, #d94b7d) 0%, var(--mode-accent-2, #f29a4b) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;

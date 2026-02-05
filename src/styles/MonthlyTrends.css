@@ -11,22 +11,22 @@
   margin-bottom: 24px;
 }
 
-.stat-card {
+.monthly-trends .stat-card {
   background: white;
   border-radius: 12px;
   padding: 16px;
   text-align: center;
-  box-shadow: 0 2px 8px rgba(255, 107, 157, 0.1);
+  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.08);
   border-left: 4px solid;
-  border-image: linear-gradient(135deg, #ff6b9d 0%, #ffa500 100%) 1;
+  border-image: linear-gradient(135deg, var(--mode-accent, #d94b7d) 0%, var(--mode-accent-2, #f29a4b) 100%) 1;
   transition: all 0.3s ease;
 }
 
-.stat-card:active {
+.monthly-trends .stat-card:active {
   transform: scale(0.98);
 }
 
-.stat-label {
+.monthly-trends .stat-label {
   font-size: 12px;
   color: #999;
   margin-bottom: 6px;
@@ -35,17 +35,17 @@
   font-weight: 600;
 }
 
-.stat-value {
+.monthly-trends .stat-value {
   font-size: 28px;
   font-weight: 700;
-  background: linear-gradient(135deg, #ff6b9d 0%, #ffa500 100%);
+  background: linear-gradient(135deg, var(--mode-accent, #d94b7d) 0%, var(--mode-accent-2, #f29a4b) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
   margin: 4px 0;
 }
 
-.stat-desc {
+.monthly-trends .stat-desc {
   font-size: 11px;
   color: #ccc;
 }
@@ -56,12 +56,12 @@
   background: white;
   border-radius: 12px;
   padding: 16px;
-  box-shadow: 0 2px 8px rgba(255, 107, 157, 0.1);
+  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.08);
 }
 
 .market-share-section h3 {
   font-size: 14px;
-  color: #ffa500;
+  color: var(--mode-accent-2, #f29a4b);
   margin: 0 0 16px 0;
   font-weight: 600;
 }
@@ -118,7 +118,7 @@
 
 .weekly-analysis-section h3 {
   font-size: 14px;
-  color: #ffa500;
+  color: var(--mode-accent-2, #f29a4b);
   margin: 0 0 12px 0;
   font-weight: 600;
 }
@@ -129,7 +129,7 @@
   background: white;
   border-radius: 12px;
   padding: 16px;
-  box-shadow: 0 2px 8px rgba(255, 107, 157, 0.1);
+  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.08);
 }
 
 .weekly-bars-container {
@@ -261,14 +261,14 @@
   background: white;
   border-radius: 12px;
   padding: 24px;
-  box-shadow: 0 2px 8px rgba(255, 107, 157, 0.1);
+  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.08);
 }
 
 .recharts-wrapper {
   background: white;
   border-radius: 12px;
   padding: 24px;
-  box-shadow: 0 2px 8px rgba(255, 107, 157, 0.1);
+  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.08);
   margin-bottom: 24px;
 }
 
@@ -288,7 +288,7 @@
   background: white;
   border-radius: 12px;
   padding: 24px;
-  box-shadow: 0 2px 8px rgba(255, 107, 157, 0.1);
+  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.08);
 }
 
 .weekly-line-chart-svg {
@@ -522,7 +522,7 @@
 }
 
 .week-stat-item .stat-value {
-  color: #ff6b9d;
+  color: var(--mode-accent, #d94b7d);
   font-weight: 600;
 }
 
@@ -566,7 +566,7 @@
 
 .rising-topics-section h3 {
   font-size: 14px;
-  color: #ffa500;
+  color: var(--mode-accent-2, #f29a4b);
   margin: 0 0 12px 0;
   font-weight: 600;
 }
@@ -575,8 +575,8 @@
   background: white;
   border-radius: 12px;
   padding: 12px;
-  box-shadow: 0 2px 8px rgba(255, 107, 157, 0.12);
-  border-left: 4px solid #ff6b9d;
+  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.08);
+  border-left: 4px solid var(--mode-accent, #d94b7d);
 }
 
 .rising-item {
@@ -592,7 +592,7 @@
 .rising-rank {
   font-size: 14px;
   font-weight: 700;
-  background: linear-gradient(135deg, #ff6b9d 0%, #ffa500 100%);
+  background: linear-gradient(135deg, var(--mode-accent, #d94b7d) 0%, var(--mode-accent-2, #f29a4b) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -616,7 +616,7 @@
 .rising-change {
   font-size: 13px;
   font-weight: 700;
-  color: #ff6b9d;
+  color: var(--mode-accent, #d94b7d);
 }
 
 /* Top Issues */
@@ -626,7 +626,7 @@
 
 .top-issues-section h3 {
   font-size: 14px;
-  color: #ffa500;
+  color: var(--mode-accent-2, #f29a4b);
   margin: 0 0 12px 0;
   font-weight: 600;
 }
@@ -640,7 +640,7 @@
   background: white;
   border-radius: 12px;
   padding: 16px;
-  box-shadow: 0 2px 8px rgba(255, 107, 157, 0.12);
+  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.08);
   border: 2px solid transparent;
   display: flex;
   gap: 12px;
@@ -651,16 +651,16 @@
 }
 
 .issue-card:hover {
-  box-shadow: 0 4px 12px rgba(255, 107, 157, 0.2);
+  box-shadow: 0 4px 12px rgba(15, 23, 42, 0.12);
   transform: translateY(-2px);
-  border-color: #ff6b9d;
+  border-color: var(--mode-accent, #d94b7d);
 }
 
 .issue-link-icon {
   position: absolute;
   right: 14px;
   top: 14px;
-  color: #ff6b9d;
+  color: var(--mode-accent, #d94b7d);
   opacity: 0.7;
 }
 
@@ -678,7 +678,7 @@
 .issue-rank {
   font-size: 18px;
   font-weight: 700;
-  background: linear-gradient(135deg, #ff6b9d 0%, #ffa500 100%);
+  background: linear-gradient(135deg, var(--mode-accent, #d94b7d) 0%, var(--mode-accent-2, #f29a4b) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -711,12 +711,12 @@
 }
 
 .issue-status-new {
-  background: #ff6b9d;
+  background: var(--mode-accent, #d94b7d);
   color: white;
 }
 
 .issue-status-ongoing {
-  background: #ffa500;
+  background: var(--mode-accent-2, #f29a4b);
   color: white;
 }
 
@@ -746,8 +746,8 @@
   background: white;
   border-radius: 12px;
   padding: 20px;
-  box-shadow: 0 2px 8px rgba(255, 107, 157, 0.12);
-  border-left: 4px solid #ff6b9d;
+  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.08);
+  border-left: 4px solid var(--mode-accent, #d94b7d);
 }
 
 .trend-header {
@@ -781,7 +781,7 @@
 }
 
 .close-button:hover {
-  color: #ff6b9d;
+  color: var(--mode-accent, #d94b7d);
 }
 
 .trend-chart {
@@ -831,12 +831,12 @@
   border-radius: 4px 4px 0 0;
   transition: all 0.3s ease;
   cursor: pointer;
-  box-shadow: 0 2px 8px rgba(255, 107, 157, 0.2);
+  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.12);
 }
 
 .trend-bar:hover {
   opacity: 0.8;
-  box-shadow: 0 4px 12px rgba(255, 107, 157, 0.3);
+  box-shadow: 0 4px 12px rgba(15, 23, 42, 0.18);
   transform: scaleY(1.05);
 }
 
@@ -858,7 +858,7 @@
 .trend-count {
   font-size: 10px;
   font-weight: 700;
-  color: #ff6b9d;
+  color: var(--mode-accent, #d94b7d);
   order: 2;
   margin-bottom: 4px;
 }
@@ -877,7 +877,7 @@
 
 .trend-header h3 {
   font-size: 14px;
-  color: #ffa500;
+  color: var(--mode-accent-2, #f29a4b);
   margin: 0;
   font-weight: 600;
 }
@@ -886,7 +886,7 @@
   background: white;
   border-radius: 12px;
   padding: 16px;
-  box-shadow: 0 2px 8px rgba(255, 107, 157, 0.1);
+  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.08);
 }
 
 .close-button {
@@ -901,7 +901,7 @@
 }
 
 .close-button:hover {
-  color: #ff6b9d;
+  color: var(--mode-accent, #d94b7d);
   background: #f5f5f5;
 }
 
@@ -912,7 +912,7 @@
   background: white;
   border-radius: 12px;
   padding: 16px;
-  box-shadow: 0 2px 8px rgba(255, 107, 157, 0.1);
+  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.08);
 }
 
 .comparison-item {
@@ -959,11 +959,11 @@
     gap: 16px;
   }
 
-  .stat-card {
+  .monthly-trends .stat-card {
     padding: 20px 16px;
   }
 
-  .stat-value {
+  .monthly-trends .stat-value {
     font-size: 32px;
   }
 

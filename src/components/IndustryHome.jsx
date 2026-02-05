@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import TodaysSummary from './TodaysSummary';
+import ModeHero from './ModeHero';
 import WeeklyTrends from './WeeklyTrends';
 import MonthlyTrends from './MonthlyTrends';
 import useMockData from '../hooks/useMockData';
@@ -26,7 +27,20 @@ function IndustryHome({ tab }) {
 
   return (
     <>
-      <TodaysSummary data={today} tab={tab} />
+      <ModeHero
+        icon="🏭"
+        title="산업 브리핑"
+        summary="산업별 주요 업데이트를 일간·주간·월간으로 요약합니다."
+        help={[
+          '오늘의 요약은 핵심 3줄과 주요 이슈 카드로 구성됩니다.',
+          '주간/월간은 토픽을 눌러 추세와 관련 이슈를 확인합니다.',
+          '이슈 카드를 클릭하면 관련 기사 모달이 열립니다.'
+        ]}
+        metaLabel="기준 날짜"
+        metaValue={today.date}
+        modeKey="industry"
+      />
+      <TodaysSummary data={today} tab={tab} showTitle={false} compact />
 
       <div className="period-tabs-section">
         <div className="period-tabs">

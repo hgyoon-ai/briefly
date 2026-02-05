@@ -3,6 +3,10 @@
   margin-bottom: 32px;
 }
 
+.todays-summary.compact {
+  margin-top: 10px;
+}
+
 /* 하이라이트 카드들 */
 .highlights {
   display: grid;
@@ -16,8 +20,8 @@
   border-radius: 12px;
   padding: 16px 12px;
   text-align: center;
-  box-shadow: 0 2px 8px rgba(255, 107, 157, 0.12);
-  border-top: 3px solid #ff6b9d;
+  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.08);
+  border-top: 3px solid var(--mode-accent, #d94b7d);
   cursor: default;
 }
 
@@ -34,7 +38,7 @@
 .highlight-value {
   font-size: 28px;
   font-weight: 700;
-  background: linear-gradient(135deg, #ff6b9d 0%, #ffa500 100%);
+  background: linear-gradient(135deg, var(--mode-accent, #d94b7d) 0%, var(--mode-accent-2, #f29a4b) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -52,8 +56,8 @@
   border-radius: 12px;
   padding: 20px;
   margin-bottom: 12px;
-  box-shadow: 0 2px 8px rgba(255, 107, 157, 0.12);
-  border-left: 4px solid #ffa500;
+  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.08);
+  border-left: 4px solid var(--mode-accent-2, #f29a4b);
 }
 
 .three-line-summary.is-empty {
@@ -66,7 +70,7 @@
 .three-line-summary h3 {
   margin: 0 0 16px 0;
   font-size: 14px;
-  color: #ffa500;
+  color: var(--mode-accent-2, #f29a4b);
   font-weight: 600;
 }
 
@@ -82,7 +86,7 @@
 .summary-number {
   font-size: 14px;
   font-weight: 700;
-  background: linear-gradient(135deg, #ff6b9d 0%, #ffa500 100%);
+  background: linear-gradient(135deg, var(--mode-accent, #d94b7d) 0%, var(--mode-accent-2, #f29a4b) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -120,7 +124,7 @@
 
 .news-cards-section h3 {
   font-size: 14px;
-  color: #ffa500;
+  color: var(--mode-accent-2, #f29a4b);
   margin: 0 0 8px 0;
   font-weight: 600;
 }
@@ -131,13 +135,13 @@
 }
 
 .empty-issues {
-  background: linear-gradient(135deg, #fff4f8 0%, #fff8ed 100%);
+  background: linear-gradient(135deg, var(--mode-accent-soft, rgba(217, 75, 125, 0.12)) 0%, rgba(255, 255, 255, 0.95) 100%);
   border-radius: 16px;
   padding: 24px 20px;
   text-align: center;
   color: #5a4b4b;
-  border: 1px dashed rgba(255, 107, 157, 0.35);
-  box-shadow: inset 0 1px 8px rgba(255, 155, 199, 0.15);
+  border: 1px dashed var(--mode-accent-soft, rgba(217, 75, 125, 0.2));
+  box-shadow: inset 0 1px 8px rgba(15, 23, 42, 0.08);
 }
 
 .empty-icon {
@@ -148,7 +152,7 @@
 .empty-title {
   font-size: 14px;
   font-weight: 700;
-  color: #c95b7a;
+  color: var(--mode-accent, #d94b7d);
   margin-bottom: 6px;
 }
 
@@ -161,8 +165,8 @@
   margin: 0;
   padding: 20px 16px;
   border-style: dashed;
-  border-color: rgba(255, 165, 0, 0.35);
-  box-shadow: inset 0 1px 10px rgba(255, 183, 117, 0.18);
+  border-color: var(--mode-accent-soft, rgba(217, 75, 125, 0.2));
+  box-shadow: inset 0 1px 10px rgba(15, 23, 42, 0.08);
 }
 
 .news-card {
@@ -170,7 +174,7 @@
   background: white;
   border-radius: 12px;
   padding: 16px 16px 48px 16px;
-  box-shadow: 0 2px 8px rgba(255, 107, 157, 0.12);
+  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.08);
   text-decoration: none;
   color: inherit;
   transition: all 0.3s ease;
@@ -187,14 +191,14 @@
 
 .news-card:hover {
   transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(255, 107, 157, 0.2);
-  border-color: #ff6b9d;
+  box-shadow: 0 4px 12px rgba(15, 23, 42, 0.12);
+  border-color: var(--mode-accent, #d94b7d);
 }
 
 .card-source {
   font-size: 12px;
   font-weight: 600;
-  color: #ff6b9d;
+  color: var(--mode-accent, #d94b7d);
   margin-bottom: 6px;
 }
 
@@ -202,7 +206,7 @@
   position: absolute;
   right: 12px;
   top: 12px;
-  color: #ff6b9d;
+  color: var(--mode-accent, #d94b7d);
   opacity: 0.75;
   width: 16px;
   height: 16px;
@@ -268,20 +272,20 @@
 
 .topic-tag {
   display: inline-block;
-  background: linear-gradient(135deg, #ff6b9d15 0%, #ffa50015 100%);
-  color: #ff6b9d;
+  background: linear-gradient(135deg, var(--mode-accent-soft, rgba(217, 75, 125, 0.12)) 0%, var(--mode-accent-soft, rgba(217, 75, 125, 0.12)) 100%);
+  color: var(--mode-accent, #d94b7d);
   padding: 4px 10px;
   border-radius: 12px;
   font-size: 11px;
   font-weight: 600;
 }
 .recommendation-card {
-  background: linear-gradient(135deg, #ff6b9d 0%, #ffa500 100%);
+  background: linear-gradient(135deg, var(--mode-accent, #d94b7d) 0%, var(--mode-accent-2, #f29a4b) 100%);
   border-radius: 12px;
   padding: 24px;
   color: white;
   position: relative;
-  box-shadow: 0 4px 16px rgba(255, 107, 157, 0.3);
+  box-shadow: 0 4px 16px rgba(15, 23, 42, 0.18);
 }
 
 .rec-badge {

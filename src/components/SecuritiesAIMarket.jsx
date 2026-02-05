@@ -1,5 +1,6 @@
 import React, { useEffect, useMemo, useState } from 'react';
 import useSecuritiesAIMarket from '../hooks/useSecuritiesAIMarket';
+import ModeHero from './ModeHero';
 import '../styles/SecuritiesAIMarket.css';
 
 const TYPE_OPTIONS = ['전체', '제품/기능', '제휴/협업', '운영/시스템', '대외/인사이트'];
@@ -10,12 +11,14 @@ const PERIOD_OPTIONS = [
   { label: '전체', value: 'all' }
 ];
 
-const formatDate = (dateString) =>
-  new Date(dateString).toLocaleDateString('ko-KR', {
+const formatDate = (dateString) => {
+  if (!dateString) return '-';
+  return new Date(dateString).toLocaleDateString('ko-KR', {
     year: 'numeric',
     month: '2-digit',
     day: '2-digit'
   });
+};
 
 const matchesSearch = (event, keyword) => {
   if (!keyword) return true;
@@ -312,11 +315,6 @@ function SecuritiesAIMarket({ dataset = 'securities-ai', title = '🏦 국내 �
     return { x, bandStartX };
   }, [timelineRange, timelineLayout]);
 
-  const periodLabel = useMemo(() => {
-    const found = PERIOD_OPTIONS.find((option) => option.value === period);
-    return found ? found.label : '선택 기간';
-  }, [period]);
-
   useEffect(() => {
     const analysisOptions = companyOptions.filter((option) => option !== '전체');
     if (viewMode === 'company' && analysisOptions.length > 0) {
@@ -342,13 +340,6 @@ function SecuritiesAIMarket({ dataset = 'securities-ai', title = '🏦 국내 �
     }
   }, [analysisPointsInRange, selectedEvent]);
 
-  const displayCount = useMemo(() => {
-    if (viewMode === 'company') {
-      return analysisCompany ? analysisPointsInRange.length : 0;
-    }
-    return timelineEvents.length;
-  }, [viewMode, analysisCompany, analysisPointsInRange.length, timelineEvents.length]);
-
   if (loading) {
     return <div className="loading">데이터를 불러오는 중...</div>;
   }
@@ -359,29 +350,35 @@ function SecuritiesAIMarket({ dataset = 'securities-ai', title = '🏦 국내 �
 
   return (
     <section className="securities-market">
-      <div className="market-header">
-        <div>
-          <h2 className="section-title">{title}</h2>
-          <div className="market-subtitle">
-            최근 업데이트 {lastUpdated ? formatDate(lastUpdated) : '-'} · {periodLabel} {displayCount}건
-          </div>
-        </div>
-        <div className="view-toggle">
-          <button
-            type="button"
-            className={`toggle-button ${viewMode === 'timeline' ? 'active' : ''}`}
-            onClick={() => setViewMode('timeline')}
-          >
-            전체 타임라인
-          </button>
-          <button
-            type="button"
-            className={`toggle-button ${viewMode === 'company' ? 'active' : ''}`}
-            onClick={() => setViewMode('company')}
-          >
-            회사 분석
-          </button>
-        </div>
+      <ModeHero
+        icon="🏦"
+        title={title}
+        summary="국내 증권사 이벤트를 타임라인과 회사 분석으로 확인합니다."
+        help={[
+          '전체 타임라인은 모든 이벤트를 날짜순으로 보여줍니다.',
+          '회사 분석은 특정 증권사 기준으로 분포와 추이를 확인합니다.',
+          '필터는 현재 화면에만 적용되며 결과 건수도 함께 반영됩니다.'
+        ]}
+        metaLabel="기준 날짜"
+        metaValue={formatDate(lastUpdated)}
+        modeKey="securities"
+      />
+
+      <div className="securities-view-switch">
+        <button
+          type="button"
+          className={`securities-view-button ${viewMode === 'timeline' ? 'active' : ''}`}
+          onClick={() => setViewMode('timeline')}
+        >
+          전체 타임라인
+        </button>
+        <button
+          type="button"
+          className={`securities-view-button ${viewMode === 'company' ? 'active' : ''}`}
+          onClick={() => setViewMode('company')}
+        >
+          회사 분석
+        </button>
       </div>
 
       {viewMode === 'timeline' && (

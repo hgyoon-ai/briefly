@@ -1,7 +1,7 @@
 import React from 'react';
 import '../styles/TodaysSummary.css';
 
-function TodaysSummary({ data, tab = 'ai' }) {
+function TodaysSummary({ data, tab = 'ai', showTitle = true, compact = false }) {
   const { highlights, cards } = data;
 
   const filteredCards = cards.filter(card => card.tab === tab);
@@ -16,8 +16,8 @@ function TodaysSummary({ data, tab = 'ai' }) {
   );
 
   return (
-    <section className="todays-summary">
-      <h2 className="section-title">📌 오늘의 요약</h2>
+    <section className={`todays-summary ${compact ? 'compact' : ''}`.trim()}>
+      {showTitle ? <h2 className="section-title">📌 오늘의 요약</h2> : null}
 
       {/* 3줄 요약 - Highlights */}
       <div className="news-cards-section">
