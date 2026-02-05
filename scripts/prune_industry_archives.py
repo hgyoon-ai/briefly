@@ -9,11 +9,11 @@ DEFAULT_TABS = ["ai", "finance", "semiconductor", "ev"]
 
 def parse_args():
     parser = argparse.ArgumentParser(
-        description="Prune briefing archive JSON files older than N days."
+        description="Prune industry archive JSON files older than N days."
     )
     parser.add_argument("--keep-days", type=int, default=90)
     parser.add_argument("--tz", type=str, default="Asia/Seoul")
-    parser.add_argument("--archive-root", type=str, default="archive")
+    parser.add_argument("--archive-root", type=str, default="archive/industry")
     parser.add_argument(
         "--tabs",
         type=str,

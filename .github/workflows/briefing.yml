@@ -1,4 +1,4 @@
-name: Crawl briefing
+name: Crawl industry
 
 on:
   schedule:
@@ -51,20 +51,20 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run briefing pipeline
+      - name: Run industry pipeline
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: python3 -m scripts.run_briefing_pipeline
+        run: python3 -m scripts.run_industry_pipeline
 
-      - name: Prune old briefing archives (keep 90d)
-        run: python3 scripts/prune_briefing_archives.py --keep-days 90
+      - name: Prune old industry archives (keep 90d)
+        run: python3 scripts/prune_industry_archives.py --keep-days 90
 
       - name: Commit updates
         run: |
           git status --porcelain
           if [ -n "$(git status --porcelain)" ]; then
-            git add public/briefing archive
-            git -c user.name="github-actions[bot]" -c user.email="github-actions[bot]@users.noreply.github.com" commit -m "Update briefing data $(TZ=Asia/Seoul date +'%Y-%m-%d')"
+            git add public/industry archive/industry
+            git -c user.name="github-actions[bot]" -c user.email="github-actions[bot]@users.noreply.github.com" commit -m "Update industry data $(TZ=Asia/Seoul date +'%Y-%m-%d')"
             for attempt in 1 2 3; do
               git fetch origin main
               if git pull --rebase origin main && git push; then

@@ -79,33 +79,33 @@ npm run preview
 
 ## 🧭 탭/데이터셋
 
-### 브리핑 탭
+### 산업 탭
 - `ai` (AI)
 - `finance` (금융/규제)
 - `semiconductor` (반도체)
 - `ev` (전기차)
 
-### 마켓 데이터셋
+### 증권사 데이터셋
 - `securities-ai`: 국내 증권사 AI 신호 중심
 - `securities-updates`: 국내 증권사 업데이트 신호(AI 제외)
 
 ## 🏃 파이프라인 실행 (로컬)
 
-### 브리핑
+### 산업
 - 전체 탭 실행:
 ```bash
-OPENAI_API_KEY=... python3 -m scripts.run_briefing_pipeline
+OPENAI_API_KEY=... python3 -m scripts.run_industry_pipeline
 ```
 
 - 특정 탭만 실행(예: 금융/규제):
 ```bash
-OPENAI_API_KEY=... python3 -m scripts.run_briefing_pipeline --tab finance
+OPENAI_API_KEY=... python3 -m scripts.run_industry_pipeline --tab finance
 ```
 
-### 마켓
+### 증권사
 - 데이터셋별 실행(예: 업데이트):
 ```bash
-OPENAI_API_KEY=... python3 -m scripts.run_market_pipeline --dataset securities-updates
+OPENAI_API_KEY=... python3 -m scripts.run_securities_pipeline --dataset securities-updates
 ```
 
 ## 📱 페이지 구성

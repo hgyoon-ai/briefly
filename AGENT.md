@@ -3,11 +3,11 @@
 이 문서는 에이전트가 세션이 끊겨도 Briefly 프로젝트의 목적, 범위, 규칙, 현재 상태를 빠르게 이해하도록 돕는다.
 
 ## 1. 프로젝트 한 줄 요약
-Briefly는 브리핑(산업 트렌드)과 마켓(증권사 이벤트)을 자동 수집/요약해 제공하는 서비스다.
+Briefly는 산업(산업 트렌드)과 증권사(증권사 이벤트)를 자동 수집/요약해 제공하는 서비스다.
 
 ## 2. 현재 범위
-- 브리핑 테마: AI, 금융/규제, 반도체, EV (추후 확장 가능)
-- 마켓(증권사): 이벤트(앱 업데이트/공시/뉴스) 수집 + 데이터셋별 필터링
+- 산업 테마: AI, 금융/규제, 반도체, EV (추후 확장 가능)
+- 증권사: 이벤트(앱 업데이트/공시/뉴스) 수집 + 데이터셋별 필터링
 - 주기: 일간/주간/월간 요약
 - 제외: 신뢰도 낮은 출처, 중복 기사, 광고성 콘텐츠
 
@@ -20,32 +20,32 @@ Briefly는 브리핑(산업 트렌드)과 마켓(증권사 이벤트)을 자동 
 6) 주간/월간 집계: `archive`에 저장된 daily 데이터 기반 롤링 집계
 
 ## 3-1. 크롤링 실행
-- 브리핑 파이프라인 스크립트: `scripts/run_briefing_pipeline.py`
-- 마켓 파이프라인 스크립트: `scripts/run_market_pipeline.py`
+- 산업 파이프라인 스크립트: `scripts/run_industry_pipeline.py`
+- 증권사 파이프라인 스크립트: `scripts/run_securities_pipeline.py`
 - 롤업 전용 스크립트: `scripts/build_rollups_from_archive.py`
 - 테스트용 아카이브 생성: `scripts/generate_test_archives.py`
 - Python 의존성: `requirements.txt`
 - LLM 요약: OpenAI (환경 변수 `OPENAI_API_KEY` 필요)
 - 환경 변수 로딩: `.env` (python-dotenv)
 
-### 브리핑 탭 실행
-- 전체 탭 실행: `python3 -m scripts.run_briefing_pipeline`
+### 산업 탭 실행
+- 전체 탭 실행: `python3 -m scripts.run_industry_pipeline`
 - 특정 탭만 실행(복수/콤마 지원):
-  - `python3 -m scripts.run_briefing_pipeline --tab finance`
-  - `python3 -m scripts.run_briefing_pipeline --tab ai --tab finance`
-  - `python3 -m scripts.run_briefing_pipeline --tab ai,finance`
+  - `python3 -m scripts.run_industry_pipeline --tab finance`
+  - `python3 -m scripts.run_industry_pipeline --tab ai --tab finance`
+  - `python3 -m scripts.run_industry_pipeline --tab ai,finance`
 
-### 마켓(증권사) 소스
+### 증권사 소스
 - 1순위: iOS App Store 앱 업데이트(릴리즈 노트) - API 키 불필요 (`crawler/market/appstore_apps.py`)
 - 2순위: DART 공시 - 환경 변수 `DART_API_KEY` 필요
 - 3순위: 뉴스(RSS) - allowlist는 `crawler/market/news_rss.py`
 
-### 마켓 데이터셋
-- `public/market/securities-ai`: 증권사 AI 관련 이벤트(강한 AI 신호 중심)
-- `public/market/securities-updates`: 증권사 업데이트 이벤트(AI는 제외)
+### 증권사 데이터셋
+- `public/securities/securities-ai`: 증권사 AI 관련 이벤트(강한 AI 신호 중심)
+- `public/securities/securities-updates`: 증권사 업데이트 이벤트(AI는 제외)
 
-### 마켓 실행
-- 데이터셋 선택 실행: `python3 -m scripts.run_market_pipeline --dataset securities-ai|securities-updates`
+### 증권사 실행
+- 데이터셋 선택 실행: `python3 -m scripts.run_securities_pipeline --dataset securities-ai|securities-updates`
 
 ## 3-2. 크롤링 소스 (최소 셋업)
 - OpenAI Blog, Anthropic Blog, Google DeepMind Blog, Meta AI Blog
@@ -71,14 +71,14 @@ Briefly는 브리핑(산업 트렌드)과 마켓(증권사 이벤트)을 자동 
 - 모든 요약은 사실 중심, 과장/추측 금지
 
 ## 6. 데이터 저장 구조
-- 운영 데이터: `public/briefing/{tab}/` (웹에서 사용하는 최신 JSON)
-- 아카이브: `archive/{tab}/YYYY/MM/YYYY-MM-DD_{period}.json`
-- 크롤링 직후 `archive`에 저장하고, 최신 데이터는 `public/briefing/{tab}`에 반영
+- 운영 데이터: `public/industry/{tab}/` (웹에서 사용하는 최신 JSON)
+- 아카이브: `archive/industry/{tab}/YYYY/MM/YYYY-MM-DD_{period}.json`
+- 크롤링 직후 `archive/industry`에 저장하고, 최신 데이터는 `public/industry/{tab}`에 반영
 - daily 카드 필드: `status`, `hash`, `importanceScore` 포함
 
-### 마켓 저장/커밋 정책
-- 커밋/배포 대상: `public/market/**`
-- 비커밋(캐시/로그): `archive/market/**` (Actions cache/artifact로만 유지)
+### 증권사 저장/커밋 정책
+- 커밋/배포 대상: `public/securities/**`
+- 비커밋(캐시/로그): `archive/securities/**` (Actions cache/artifact로만 유지)
 
 ## 7. 출력 포맷 (초안)
 ```
@@ -111,7 +111,7 @@ Briefly는 브리핑(산업 트렌드)과 마켓(증권사 이벤트)을 자동 
 
 ## 10. 현재 상태
 - UI: 탭별 일/주/월 섹션 구조 구현 (React/Vite)
-- 데이터: `public/briefing/{tab}` JSON 사용, 아카이브는 `archive/{tab}`에 저장
+- 데이터: `public/industry/{tab}` JSON 사용, 아카이브는 `archive/industry/{tab}`에 저장
 - 크롤링/요약 파이프라인: Python 스크립트 추가 완료
 - weekly/monthly 이슈: 모달에서 관련 기사 링크(최대 3개) 표시
 

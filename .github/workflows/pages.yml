@@ -4,7 +4,7 @@ on:
   push:
     branches: ["main"]
   workflow_run:
-    workflows: ["Crawl briefing", "Crawl market"]
+    workflows: ["Crawl industry", "Crawl securities"]
     types: [completed]
   workflow_dispatch:
 

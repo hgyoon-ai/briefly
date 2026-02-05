@@ -50,8 +50,8 @@ function AdminPage() {
   const { mode, briefingTab, marketTab } = adminState;
   const { today, weekly, monthly, loading, error } = useMockData(briefingTab);
   const marketData = useMarketAdminData(marketTab);
-  const briefingRuns = useRunHistory('briefing/run_history.json');
-  const marketRuns = useRunHistory(`market/${marketTab}/run_history.json`);
+  const briefingRuns = useRunHistory('industry/run_history.json');
+  const marketRuns = useRunHistory(`securities/${marketTab}/run_history.json`);
   const developerData = useDeveloperRadar();
   const developerRuns = useRunHistory('developer/run_history.json');
 

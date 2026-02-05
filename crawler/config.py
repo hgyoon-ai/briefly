@@ -242,7 +242,7 @@ GITHUB_SEARCH_PER_PAGE = 30
 GITHUB_RELEASE_DAYS = 7
 DEVELOPER_MAX_CLUSTERS = 20
 
-PUBLIC_LATEST_DIR = Path("public/briefing")
+PUBLIC_LATEST_DIR = Path("public/industry")
 ARCHIVE_DIR = Path("archive")
 
 ARCHIVE_FILENAME_FORMAT = "{date}_{period}.json"

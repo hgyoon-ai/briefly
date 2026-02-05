@@ -1,4 +1,4 @@
-name: Crawl market
+name: Crawl securities
 
 on:
   schedule:
@@ -39,10 +39,10 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Prepare market archive dir
+      - name: Prepare securities archive dir
         run: |
-          mkdir -p archive/market/securities-ai
-          mkdir -p archive/market/securities-updates
+          mkdir -p archive/securities/securities-ai
+          mkdir -p archive/securities/securities-updates
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -52,17 +52,17 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Restore market cache
+      - name: Restore securities cache
         uses: actions/cache@v4
         with:
           path: |
-            archive/market/securities-ai/cache.jsonl
-            archive/market/securities-updates/cache.jsonl
-          key: market-cache-${{ runner.os }}-${{ github.run_id }}
+            archive/securities/securities-ai/cache.jsonl
+            archive/securities/securities-updates/cache.jsonl
+          key: securities-cache-${{ runner.os }}-${{ github.run_id }}
           restore-keys: |
-            market-cache-${{ runner.os }}-
+            securities-cache-${{ runner.os }}-
 
-      - name: Run market pipeline
+      - name: Run securities pipeline
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           DART_API_KEY: ${{ secrets.DART_API_KEY }}
@@ -72,30 +72,30 @@ jobs:
           DATASET="${{ github.event.inputs.dataset }}"
           if [ -z "$DATASET" ]; then DATASET=all; fi
           if [ -n "$MONTH" ]; then
-            python3 -m scripts.run_market_pipeline --dataset "$DATASET" --month "$MONTH"
+            python3 -m scripts.run_securities_pipeline --dataset "$DATASET" --month "$MONTH"
           else
             if [ -z "$LOOKBACK" ]; then LOOKBACK=3; fi
-            python3 -m scripts.run_market_pipeline --dataset "$DATASET" --lookback-days "$LOOKBACK"
+            python3 -m scripts.run_securities_pipeline --dataset "$DATASET" --lookback-days "$LOOKBACK"
           fi
 
-      - name: Upload market logs
+      - name: Upload securities logs
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: market-logs-${{ github.run_id }}
+          name: securities-logs-${{ github.run_id }}
           path: |
-            archive/market/securities-ai/source_failures.jsonl
-            archive/market/securities-ai/unmatched_companies.json
-            archive/market/securities-updates/source_failures.jsonl
-            archive/market/securities-updates/unmatched_companies.json
+            archive/securities/securities-ai/source_failures.jsonl
+            archive/securities/securities-ai/unmatched_companies.json
+            archive/securities/securities-updates/source_failures.jsonl
+            archive/securities/securities-updates/unmatched_companies.json
           if-no-files-found: ignore
 
       - name: Commit updates
         run: |
           git status --porcelain
           if [ -n "$(git status --porcelain)" ]; then
-            git add public/market
-            git -c user.name="github-actions[bot]" -c user.email="github-actions[bot]@users.noreply.github.com" commit -m "Update market data $(TZ=Asia/Seoul date +'%Y-%m-%d')"
+            git add public/securities archive/securities
+            git -c user.name="github-actions[bot]" -c user.email="github-actions[bot]@users.noreply.github.com" commit -m "Update securities data $(TZ=Asia/Seoul date +'%Y-%m-%d')"
             for attempt in 1 2 3; do
               git fetch origin main
               if git pull --rebase origin main && git push; then

@@ -3,8 +3,8 @@ import { useEffect, useMemo, useState } from 'react';
 const buildUrls = (dataset) => {
   const base = import.meta.env.BASE_URL;
   return {
-    index: `${base}market/${dataset}/index.json`,
-    month: (month) => `${base}market/${dataset}/${month}.json`
+    index: `${base}securities/${dataset}/index.json`,
+    month: (month) => `${base}securities/${dataset}/${month}.json`
   };
 };
 

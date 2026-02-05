@@ -1,11 +1,11 @@
 import json
 from datetime import datetime, timedelta
+from pathlib import Path
 from zoneinfo import ZoneInfo
 
 from dotenv import load_dotenv
 
 from crawler.config import (
-    ARCHIVE_DIR,
     ARCHIVE_FILENAME_FORMAT,
     TIMEZONE,
     WEEKLY_DAYS,
@@ -14,8 +14,28 @@ from crawler.config import (
 )
 from crawler.processor.aggregate import build_monthly_data, build_weekly_data, filter_by_range
 from crawler.utils import parse_datetime
-from crawler.writer import write_archive, write_latest
 from crawler.llm.openai_client import summarize_issues
+
+
+INDUSTRY_PUBLIC_DIR = Path("public/industry")
+INDUSTRY_ARCHIVE_DIR = Path("archive/industry")
+
+
+def write_latest_industry(tab, filename, payload):
+    target_dir = INDUSTRY_PUBLIC_DIR / tab
+    target_dir.mkdir(parents=True, exist_ok=True)
+    target = target_dir / filename
+    target.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+def write_archive_industry(tab, date_str, period, payload):
+    year = date_str.split("-")[0]
+    month = date_str.split("-")[1]
+    archive_dir = INDUSTRY_ARCHIVE_DIR / tab / year / month
+    archive_dir.mkdir(parents=True, exist_ok=True)
+    filename = ARCHIVE_FILENAME_FORMAT.format(date=date_str, period=period)
+    target = archive_dir / filename
+    target.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
 def iter_dates(start, end):
@@ -31,7 +51,7 @@ def load_archive_daily_items(start, end, timezone, tab):
     for date in iter_dates(start, end):
         date_str = date.strftime("%Y-%m-%d")
         archive_path = (
-            ARCHIVE_DIR
+            INDUSTRY_ARCHIVE_DIR
             / tab
             / date_str.split("-")[0]
             / date_str.split("-")[1]
@@ -135,10 +155,10 @@ def main():
             issues=monthly_issues,
         )
 
-        write_latest(tab, "weekly.json", weekly_payload)
-        write_latest(tab, "monthly.json", monthly_payload)
-        write_archive(tab, today_str, "weekly", weekly_payload)
-        write_archive(tab, today_str, "monthly", monthly_payload)
+        write_latest_industry(tab, "weekly.json", weekly_payload)
+        write_latest_industry(tab, "monthly.json", monthly_payload)
+        write_archive_industry(tab, today_str, "weekly", weekly_payload)
+        write_archive_industry(tab, today_str, "monthly", monthly_payload)
 
     print("Archive rollups completed.")
 
