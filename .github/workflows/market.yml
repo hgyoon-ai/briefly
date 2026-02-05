@@ -1,9 +1,6 @@
 name: Crawl securities
 
 on:
-  schedule:
-    # 06:30 KST (UTC+9)
-    - cron: "30 21 * * *"
   workflow_dispatch:
     inputs:
       dataset:

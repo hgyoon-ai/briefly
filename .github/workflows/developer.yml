@@ -1,0 +1,49 @@
+name: Crawl developer
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-pipelines-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  developer:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run developer pipeline
+        env:
+          MY_GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+        run: python3 -m scripts.run_developer_pipeline
+
+      - name: Commit updates
+        run: |
+          git status --porcelain
+          if [ -n "$(git status --porcelain)" ]; then
+            git add public/developer archive/developer
+            git -c user.name="github-actions[bot]" -c user.email="github-actions[bot]@users.noreply.github.com" commit -m "Update developer data $(TZ=Asia/Seoul date +'%Y-%m-%d')"
+            for attempt in 1 2 3; do
+              git fetch origin main
+              if git pull --rebase origin main && git push; then
+                break
+              fi
+              echo "Push failed (attempt $attempt/3); retrying..."
+              sleep $((attempt * 5))
+            done
+          fi

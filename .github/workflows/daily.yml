@@ -1,0 +1,171 @@
+name: Crawl daily data
+
+on:
+  schedule:
+    - cron: "30 21 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-pipelines-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Check OpenAI connection
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python3 -m scripts.check_openai_connection
+
+  industry:
+    needs: check
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run industry pipeline
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python3 -m scripts.run_industry_pipeline
+
+      - name: Prune old industry archives (keep 90d)
+        run: python3 scripts/prune_industry_archives.py --keep-days 90
+
+      - name: Commit updates
+        run: |
+          git status --porcelain
+          if [ -n "$(git status --porcelain)" ]; then
+            git add public/industry archive/industry
+            git -c user.name="github-actions[bot]" -c user.email="github-actions[bot]@users.noreply.github.com" commit -m "Update industry data $(TZ=Asia/Seoul date +'%Y-%m-%d')"
+            for attempt in 1 2 3; do
+              git fetch origin main
+              if git pull --rebase origin main && git push; then
+                break
+              fi
+              echo "Push failed (attempt $attempt/3); retrying..."
+              sleep $((attempt * 5))
+            done
+          fi
+
+  securities:
+    needs: industry
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Prepare securities archive dir
+        run: |
+          mkdir -p archive/securities/securities-ai
+          mkdir -p archive/securities/securities-updates
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run securities pipeline
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          DART_API_KEY: ${{ secrets.DART_API_KEY }}
+        run: |
+          python3 -m scripts.run_securities_pipeline --dataset all --lookback-days 3
+
+      - name: Upload securities logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: securities-logs-${{ github.run_id }}
+          path: |
+            archive/securities/securities-ai/source_failures.jsonl
+            archive/securities/securities-ai/unmatched_companies.json
+            archive/securities/securities-updates/source_failures.jsonl
+            archive/securities/securities-updates/unmatched_companies.json
+          if-no-files-found: ignore
+
+      - name: Commit updates
+        run: |
+          git status --porcelain
+          if [ -n "$(git status --porcelain)" ]; then
+            git add public/securities archive/securities
+            git -c user.name="github-actions[bot]" -c user.email="github-actions[bot]@users.noreply.github.com" commit -m "Update securities data $(TZ=Asia/Seoul date +'%Y-%m-%d')"
+            for attempt in 1 2 3; do
+              git fetch origin main
+              if git pull --rebase origin main && git push; then
+                break
+              fi
+              echo "Push failed (attempt $attempt/3); retrying..."
+              sleep $((attempt * 5))
+            done
+          fi
+
+  developer:
+    needs: securities
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run developer pipeline
+        env:
+          MY_GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+        run: python3 -m scripts.run_developer_pipeline
+
+      - name: Commit updates
+        run: |
+          git status --porcelain
+          if [ -n "$(git status --porcelain)" ]; then
+            git add public/developer archive/developer
+            git -c user.name="github-actions[bot]" -c user.email="github-actions[bot]@users.noreply.github.com" commit -m "Update developer data $(TZ=Asia/Seoul date +'%Y-%m-%d')"
+            for attempt in 1 2 3; do
+              git fetch origin main
+              if git pull --rebase origin main && git push; then
+                break
+              fi
+              echo "Push failed (attempt $attempt/3); retrying..."
+              sleep $((attempt * 5))
+            done
+          fi
