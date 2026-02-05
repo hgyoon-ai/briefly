@@ -13,11 +13,13 @@ const PERIOD_OPTIONS = [
 
 const formatDate = (dateString) => {
   if (!dateString) return '-';
-  return new Date(dateString).toLocaleDateString('ko-KR', {
-    year: 'numeric',
-    month: '2-digit',
-    day: '2-digit'
-  });
+  if (/^\d{4}-\d{2}-\d{2}$/.test(dateString)) return dateString;
+  const date = new Date(dateString);
+  if (Number.isNaN(date.getTime())) return dateString;
+  const year = date.getFullYear();
+  const month = String(date.getMonth() + 1).padStart(2, '0');
+  const day = String(date.getDate()).padStart(2, '0');
+  return `${year}-${month}-${day}`;
 };
 
 const matchesSearch = (event, keyword) => {
@@ -359,7 +361,7 @@ function SecuritiesAIMarket({ dataset = 'securities-ai', title = '🏦 국내 �
           '회사 분석은 특정 증권사 기준으로 분포와 추이를 확인합니다.',
           '필터는 현재 화면에만 적용되며 결과 건수도 함께 반영됩니다.'
         ]}
-        metaLabel="기준 날짜"
+        metaLabel="최근 업데이트"
         metaValue={formatDate(lastUpdated)}
         modeKey="securities"
       />

@@ -280,7 +280,7 @@ function AdminPage() {
             {today && (
               <section className="stats-section">
                 <h2>📅 일간</h2>
-                <div className="date-label">기준 날짜: {today.date}</div>
+                <div className="date-label">최근 업데이트: {today.date}</div>
                 <div className="stats-grid">
                   <div className="stat-card">
                     <div className="stat-label">수집</div>

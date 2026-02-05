@@ -13,12 +13,13 @@ const SECTION_ORDER = ['trending', 'releases', 'discussions'];
 
 const formatDate = (value) => {
   if (!value) return '-';
+  if (/^\d{4}-\d{2}-\d{2}$/.test(value)) return value;
   const date = new Date(value);
-  return date.toLocaleDateString('ko-KR', {
-    year: 'numeric',
-    month: '2-digit',
-    day: '2-digit'
-  });
+  if (Number.isNaN(date.getTime())) return value;
+  const year = date.getFullYear();
+  const month = String(date.getMonth() + 1).padStart(2, '0');
+  const day = String(date.getDate()).padStart(2, '0');
+  return `${year}-${month}-${day}`;
 };
 
 function DeveloperRadarHome() {
@@ -63,13 +64,13 @@ function DeveloperRadarHome() {
       <ModeHero
         icon="🧭"
         title="개발 레이더"
-        summary="개발자 커뮤니티에서 올라오는 신기술 신호를 엔티티 단위로 묶었습니다."
+        summary="개발자 커뮤니티 신기술을 포착합니다."
         help={[
           '카드 하나는 하나의 엔티티(프로젝트/툴) 클러스터입니다.',
           '근거 배지는 소스별 상승 지표를 요약해 보여줍니다.',
           '태그로 분야별로 빠르게 필터링할 수 있습니다.'
         ]}
-        metaLabel="기준 날짜"
+        metaLabel="최근 업데이트"
         metaValue={formatDate(daily.date)}
         modeKey="developer"
       />

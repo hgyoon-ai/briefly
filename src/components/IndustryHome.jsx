@@ -5,6 +5,17 @@ import WeeklyTrends from './WeeklyTrends';
 import MonthlyTrends from './MonthlyTrends';
 import useMockData from '../hooks/useMockData';
 
+const formatDate = (value) => {
+  if (!value) return '-';
+  if (/^\d{4}-\d{2}-\d{2}$/.test(value)) return value;
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return value;
+  const year = date.getFullYear();
+  const month = String(date.getMonth() + 1).padStart(2, '0');
+  const day = String(date.getDate()).padStart(2, '0');
+  return `${year}-${month}-${day}`;
+};
+
 function IndustryHome({ tab }) {
   const { today, weekly, monthly, loading, error } = useMockData(tab);
   const [activePeriodTab, setActivePeriodTab] = useState('weekly');
@@ -36,8 +47,8 @@ function IndustryHome({ tab }) {
           '주간/월간은 토픽을 눌러 추세와 관련 이슈를 확인합니다.',
           '이슈 카드를 클릭하면 관련 기사 모달이 열립니다.'
         ]}
-        metaLabel="기준 날짜"
-        metaValue={today.date}
+        metaLabel="최근 업데이트"
+        metaValue={formatDate(today.date)}
         modeKey="industry"
       />
       <TodaysSummary data={today} tab={tab} showTitle={false} compact />
