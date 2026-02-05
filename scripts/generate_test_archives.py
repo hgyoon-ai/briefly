@@ -107,6 +107,11 @@ def main():
                 json.dumps(payload, ensure_ascii=False, indent=2),
                 encoding="utf-8",
             )
+            Path("public/industry/ai").mkdir(parents=True, exist_ok=True)
+            Path("public/industry/ai/daily.json").write_text(
+                json.dumps(payload, ensure_ascii=False, indent=2),
+                encoding="utf-8",
+            )
 
     print("Generated 30 daily archive files.")
 

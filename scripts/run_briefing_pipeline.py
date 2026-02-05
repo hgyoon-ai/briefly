@@ -3,6 +3,7 @@ import json
 import html
 import re
 from datetime import datetime, timedelta
+from pathlib import Path
 from zoneinfo import ZoneInfo
 
 from dotenv import load_dotenv
@@ -33,6 +34,27 @@ from crawler.processor.dedupe import dedupe_items
 from crawler.utils import parse_datetime
 from crawler.writer import write_archive, write_latest
 from crawler.run_stats import write_run_and_history
+
+
+INDUSTRY_PUBLIC_DIR = Path("public/industry")
+INDUSTRY_ARCHIVE_DIR = Path("archive/industry")
+
+
+def write_latest_industry(tab, filename, payload):
+    target_dir = INDUSTRY_PUBLIC_DIR / tab
+    target_dir.mkdir(parents=True, exist_ok=True)
+    target = target_dir / filename
+    target.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+def write_archive_industry(tab, date_str, period, payload):
+    year = date_str.split("-")[0]
+    month = date_str.split("-")[1]
+    archive_dir = INDUSTRY_ARCHIVE_DIR / tab / year / month
+    archive_dir.mkdir(parents=True, exist_ok=True)
+    filename = ARCHIVE_FILENAME_FORMAT.format(date=date_str, period=period)
+    target = archive_dir / filename
+    target.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
 def load_items(selected_tabs=None):
@@ -271,6 +293,12 @@ def write_briefing_run_stats(payload):
         payload,
         limit=7,
     )
+    write_run_and_history(
+        "public/industry/run.json",
+        "public/industry/run_history.json",
+        payload,
+        limit=7,
+    )
 
 
 def clamp_total(items):
@@ -499,7 +527,9 @@ def main():
 
             daily_payload = build_daily_payload(daily_items, raw_daily_count, now, tab=tab)
             write_latest(tab, "daily.json", daily_payload)
+            write_latest_industry(tab, "daily.json", daily_payload)
             write_archive(tab, today_str, "daily", daily_payload)
+            write_archive_industry(tab, today_str, "daily", daily_payload)
 
             archive_items = load_archive_daily_items(monthly_start, now, TIMEZONE, tab)
             weekly_items = filter_by_range(archive_items, weekly_start, now)
@@ -534,8 +564,12 @@ def main():
 
             write_latest(tab, "weekly.json", weekly_payload)
             write_latest(tab, "monthly.json", monthly_payload)
+            write_latest_industry(tab, "weekly.json", weekly_payload)
+            write_latest_industry(tab, "monthly.json", monthly_payload)
             write_archive(tab, today_str, "weekly", weekly_payload)
             write_archive(tab, today_str, "monthly", monthly_payload)
+            write_archive_industry(tab, today_str, "weekly", weekly_payload)
+            write_archive_industry(tab, today_str, "monthly", monthly_payload)
 
             run_stats["tabs"][tab] = {
                 "daily": {"raw": raw_daily_count, "cards": len(daily_payload.get("cards") or [])},

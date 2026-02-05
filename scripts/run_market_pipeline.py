@@ -35,7 +35,8 @@ DATASET_CHOICES = ["all", "securities-ai", "securities-updates"]
 def dataset_dirs(dataset):
     market_dir = Path(f"public/market/{dataset}")
     archive_dir = Path(f"archive/market/{dataset}")
-    return market_dir, archive_dir
+    securities_dir = Path(f"public/securities/{dataset}")
+    return market_dir, archive_dir, securities_dir
 
 
 def load_index_companies(market_dir):
@@ -136,11 +137,13 @@ def write_unmatched(unmatched, archive_dir):
 
 
 def run_dataset(args, now, start, end, dataset, *, openai_key, dart_key):
-    market_dir, archive_dir = dataset_dirs(dataset)
+    market_dir, archive_dir, securities_dir = dataset_dirs(dataset)
     cache_path = archive_dir / "cache.jsonl"
     failures_path = archive_dir / "source_failures.jsonl"
     run_path = market_dir / "run.json"
     run_history_path = market_dir / "run_history.json"
+    securities_run_path = securities_dir / "run.json"
+    securities_run_history_path = securities_dir / "run_history.json"
 
     companies = load_index_companies(market_dir)
     raw_items = []
@@ -398,6 +401,7 @@ def run_dataset(args, now, start, end, dataset, *, openai_key, dart_key):
 
         for month, events in events_by_month.items():
             upsert_month_file(market_dir, month, events)
+            upsert_month_file(securities_dir, month, events)
 
         run_stats["output"] = {
             "kept": len(kept),
@@ -406,6 +410,8 @@ def run_dataset(args, now, start, end, dataset, *, openai_key, dart_key):
 
         index_payload = build_index(market_dir, companies, now)
         write_json(Path(market_dir) / "index.json", index_payload)
+        securities_index = build_index(securities_dir, companies, now)
+        write_json(Path(securities_dir) / "index.json", securities_index)
 
         print(f"Market pipeline completed. Events kept: {len(kept)}")
     except Exception as exc:
@@ -414,6 +420,12 @@ def run_dataset(args, now, start, end, dataset, *, openai_key, dart_key):
     finally:
         try:
             write_run_and_history(run_path, run_history_path, run_stats, limit=7)
+            write_run_and_history(
+                securities_run_path,
+                securities_run_history_path,
+                run_stats,
+                limit=7,
+            )
         except Exception:
             pass
 
