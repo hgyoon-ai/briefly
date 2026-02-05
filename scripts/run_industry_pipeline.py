@@ -19,7 +19,6 @@ from crawler.config import (
     WEEKLY_DAYS,
 )
 from crawler.fetchers.huggingface import fetch_huggingface_trending
-from crawler.fetchers.hn import fetch_hacker_news_trending
 from crawler.fetchers.rss import fetch_rss_sources
 from crawler.llm.openai_client import summarize_item, summarize_issues
 from crawler.processor.aggregate import (
@@ -251,11 +250,9 @@ def load_items(selected_tabs=None):
             print(f"[finance] korea.kr policy kept: {policy_kept}/{policy_total}")
 
     hf_items = fetch_huggingface_trending(timezone) if (selected_set is None or "ai" in selected_set) else []
-    hn_items = fetch_hacker_news_trending(timezone) if (selected_set is None or "ai" in selected_set) else []
     print(f"RSS items: {len(rss_items)}")
     print(f"Hugging Face models: {len(hf_items)}")
-    print(f"Hacker News items: {len(hn_items)}")
-    return rss_items + hf_items + hn_items
+    return rss_items + hf_items
 
 
 def count_by_source(items):
