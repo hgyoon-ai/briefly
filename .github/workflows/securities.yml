@@ -28,7 +28,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  market:
+  securities:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout

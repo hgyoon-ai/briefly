@@ -32,7 +32,7 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python3 -m scripts.check_openai_connection
 
-  briefing:
+  industry:
     needs: check
     runs-on: ubuntu-latest
     steps:
