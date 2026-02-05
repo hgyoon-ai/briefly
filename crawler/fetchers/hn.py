@@ -38,6 +38,7 @@ def fetch_hacker_news_trending(timezone):
         published_at = datetime.fromtimestamp(created_at, tz=ZoneInfo(timezone)) if created_at else None
         title = hit.get("title") or hit.get("story_title") or ""
         snippet = f"{points} points · {comments} comments"
+        hn_id = hit.get("objectID")
         items.append(
             {
                 "title": normalize_text(title),
@@ -45,6 +46,10 @@ def fetch_hacker_news_trending(timezone):
                 "source": "Hacker News",
                 "published_at": published_at,
                 "snippet": snippet,
+                "points": points,
+                "comments": comments,
+                "hn_id": hn_id,
+                "hn_url": f"https://news.ycombinator.com/item?id={hn_id}" if hn_id else None,
                 "tab": "ai",
                 "kind": "hn",
             }

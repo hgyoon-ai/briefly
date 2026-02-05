@@ -1,0 +1,225 @@
+{
+  "date": "2026-02-05",
+  "kpis": {
+    "clusters": 6,
+    "sources": 4,
+    "new": 3
+  },
+  "clusters": [
+    {
+      "id": "openclaw",
+      "name": "OpenClaw",
+      "section": "trending",
+      "status": "NEW",
+      "score": 92,
+      "oneLiner": "에이전트 작업을 빠르게 오케스트레이션하는 초경량 개발 툴킷.",
+      "whyNow": "HN 토론 급증과 함께 GitHub 스타 증가 속도가 24시간 기준 최고치를 기록했습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "comments/hr",
+          "value": "120/h"
+        },
+        {
+          "source": "GitHub",
+          "metric": "stars/day",
+          "value": "+820"
+        },
+        {
+          "source": "Cross",
+          "metric": "sources",
+          "value": "3"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://example.com/openclaw/hn"
+        },
+        {
+          "label": "GitHub",
+          "url": "https://example.com/openclaw/github"
+        }
+      ],
+      "tags": [
+        "agent tooling",
+        "infra"
+      ]
+    },
+    {
+      "id": "opencode",
+      "name": "OpenCode",
+      "section": "trending",
+      "status": "ONGOING",
+      "score": 84,
+      "oneLiner": "코드 편집에 특화된 오픈형 LLM 에디터 런타임.",
+      "whyNow": "릴리즈 노트가 확산되며 실사용자 리뷰가 빠르게 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars/day",
+          "value": "+430"
+        },
+        {
+          "source": "Reddit",
+          "metric": "posts/day",
+          "value": "18"
+        }
+      ],
+      "links": [
+        {
+          "label": "Release Notes",
+          "url": "https://example.com/opencode/releases"
+        },
+        {
+          "label": "Repo",
+          "url": "https://example.com/opencode/repo"
+        }
+      ],
+      "tags": [
+        "editor",
+        "codegen"
+      ]
+    },
+    {
+      "id": "graphpilot",
+      "name": "GraphPilot",
+      "section": "releases",
+      "status": "NEW",
+      "score": 76,
+      "oneLiner": "그래프 기반 실행 추적을 제공하는 LLM 에이전트 옵저버빌리티.",
+      "whyNow": "v1.0 출시 이후 문제 재현 속도가 빨라졌다는 리뷰가 집중되고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "releases",
+          "value": "v1.0"
+        },
+        {
+          "source": "HN",
+          "metric": "points",
+          "value": "230"
+        }
+      ],
+      "links": [
+        {
+          "label": "Release",
+          "url": "https://example.com/graphpilot/release"
+        },
+        {
+          "label": "Docs",
+          "url": "https://example.com/graphpilot/docs"
+        }
+      ],
+      "tags": [
+        "observability",
+        "agent tooling"
+      ]
+    },
+    {
+      "id": "vectorlane",
+      "name": "VectorLane",
+      "section": "releases",
+      "status": "ONGOING",
+      "score": 64,
+      "oneLiner": "로컬 우선 벡터 DB 워크플로우를 묶는 데스크톱 툴.",
+      "whyNow": "오프라인 워크플로우 사례가 공유되며 개발자 생산성 이슈로 연결되고 있습니다.",
+      "evidence": [
+        {
+          "source": "Dev.to",
+          "metric": "posts",
+          "value": "14"
+        },
+        {
+          "source": "GitHub",
+          "metric": "stars/day",
+          "value": "+210"
+        }
+      ],
+      "links": [
+        {
+          "label": "Case Study",
+          "url": "https://example.com/vectorlane/case"
+        },
+        {
+          "label": "Repo",
+          "url": "https://example.com/vectorlane/repo"
+        }
+      ],
+      "tags": [
+        "vector db",
+        "local-first"
+      ]
+    },
+    {
+      "id": "promptforge",
+      "name": "PromptForge",
+      "section": "discussions",
+      "status": "ONGOING",
+      "score": 58,
+      "oneLiner": "프롬프트 체인 테스트를 자동화하는 실험 프레임워크.",
+      "whyNow": "실험 재현성과 회귀 테스트에 대한 커뮤니티 논쟁이 계속되고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "comments",
+          "value": "310"
+        },
+        {
+          "source": "GitHub",
+          "metric": "issues",
+          "value": "42"
+        }
+      ],
+      "links": [
+        {
+          "label": "Discussion",
+          "url": "https://example.com/promptforge/hn"
+        },
+        {
+          "label": "Repo",
+          "url": "https://example.com/promptforge/repo"
+        }
+      ],
+      "tags": [
+        "eval",
+        "testing"
+      ]
+    },
+    {
+      "id": "agentmesh",
+      "name": "AgentMesh",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 52,
+      "oneLiner": "멀티에이전트 메시 구조를 위한 경량 런타임.",
+      "whyNow": "성능과 안정성 trade-off에 대한 설계 논의가 빠르게 확산되었습니다.",
+      "evidence": [
+        {
+          "source": "Reddit",
+          "metric": "comments",
+          "value": "240"
+        },
+        {
+          "source": "HN",
+          "metric": "posts/day",
+          "value": "6"
+        }
+      ],
+      "links": [
+        {
+          "label": "Overview",
+          "url": "https://example.com/agentmesh/overview"
+        },
+        {
+          "label": "Repo",
+          "url": "https://example.com/agentmesh/repo"
+        }
+      ],
+      "tags": [
+        "runtime",
+        "infra"
+      ]
+    }
+  ]
+}
