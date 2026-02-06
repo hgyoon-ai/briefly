@@ -1,0 +1,23 @@
+[
+  {
+    "id": "2026-02-06T09:19:04.104736+09:00",
+    "ts": "2026-02-06T09:19:04.104736+09:00",
+    "timezone": "Asia/Seoul",
+    "sources": {
+      "hn": {
+        "items": 15
+      },
+      "github_search": {
+        "items": 60,
+        "since": "2026-01-30",
+        "minStars": 50
+      }
+    },
+    "filters": {},
+    "output": {
+      "clusters": 20,
+      "new": 20
+    },
+    "errors": []
+  }
+]
