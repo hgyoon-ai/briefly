@@ -375,6 +375,50 @@ def summarize_item(item, model=None, tab="ai"):
         return fallback_summary(item, taxonomy, keywords)
 
 
+def summarize_developer_oneliners(items, model=None):
+    if not items:
+        return {}
+
+    model_name = model or OPENAI_ITEM_MODEL_SHORT or OPENAI_ITEM_MODEL
+    prompt = (
+        "개발자 레이더 카드의 한 줄 설명을 생성하세요. "
+        "한국어로만 응답하고 JSON 객체만 반환하세요. "
+        "형식: {\"<id>\": \"한 문장\", ...}. "
+        "각 문장은 1문장, 60자 내외, 따옴표/이모지 금지. "
+        "입력에 없는 사실, 수치, 비교, 과장 표현을 추가하지 마세요. "
+        "title/name/description/url/tags/section 정보만 사용하세요. "
+        f"Input: {json.dumps(items, ensure_ascii=False)}"
+    )
+
+    response, error = call_openai(
+        messages=[
+            {"role": "system", "content": "You output only valid JSON."},
+            {"role": "user", "content": prompt},
+        ],
+        model=model_name,
+    )
+    if error or response is None:
+        print(f"[LLM] OpenAI oneliner failed, using fallback: {error}")
+        return {}
+
+    try:
+        content = response.choices[0].message.content or ""
+        extracted = extract_json(content)
+        if not extracted:
+            raise ValueError("Empty or invalid JSON payload")
+        result = json.loads(extracted)
+        if not isinstance(result, dict):
+            raise ValueError("Invalid oneliner result")
+        cleaned = {}
+        for key, value in result.items():
+            if isinstance(value, str) and value.strip():
+                cleaned[key] = normalize_text(value)
+        return cleaned
+    except Exception as exc:
+        print(f"[LLM] OpenAI oneliner failed, using fallback: {exc}")
+        return {}
+
+
 def fallback_issue_summary(items, max_items=5):
     issues = []
     for idx, item in enumerate(items[:max_items], start=1):

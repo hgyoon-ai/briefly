@@ -11,14 +11,14 @@
       "name": "Claude Opus 4.6",
       "section": "discussions",
       "status": "NEW",
-      "score": 1593.6,
-      "oneLiner": "개발자 커뮤니티에서 화제가 되는 신규 토픽입니다.",
-      "whyNow": "HN 토론이 빠르게 늘고 있습니다.",
+      "score": 1729.2,
+      "oneLiner": "Claude Opus 4.6에 대한 소식과 논의를 담은 페이지",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "1416p · 620c"
+          "value": "1548p · 667c"
         }
       ],
       "links": [
@@ -38,14 +38,14 @@
       "name": "Don't rent the cloud, own instead",
       "section": "discussions",
       "status": "NEW",
-      "score": 1171.8,
-      "oneLiner": "개발자 커뮤니티에서 화제가 되는 신규 토픽입니다.",
-      "whyNow": "HN 토론이 빠르게 늘고 있습니다.",
+      "score": 1182.6,
+      "oneLiner": "클라우드를 임대하지 말고 직접 소유하라는 인프라 관련 글",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 블로그 해석과 후기가 빠르게 붙는 흐름입니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "1063p · 445c"
+          "value": "1073p · 449c"
         }
       ],
       "links": [
@@ -67,14 +67,14 @@
       "name": "GPT-5.3-Codex",
       "section": "discussions",
       "status": "NEW",
-      "score": 1012.2,
-      "oneLiner": "개발자 커뮤니티에서 화제가 되는 신규 토픽입니다.",
-      "whyNow": "HN 토론이 빠르게 늘고 있습니다.",
+      "score": 1088.4,
+      "oneLiner": "GPT-5.3-Codex에 대한 소개와 관련 정보를 다룬 페이지",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "947p · 370c"
+          "value": "1026p · 394c"
         }
       ],
       "links": [
@@ -90,45 +90,18 @@
       "tags": []
     },
     {
-      "id": "1c1f572347f8cd544d774cda7510bebc1ec72529",
-      "name": "OpenClaw is what Apple intelligence should have been",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 774.0,
-      "oneLiner": "개발자 커뮤니티에서 화제가 되는 신규 토픽입니다.",
-      "whyNow": "HN 토론이 빠르게 늘고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "486p · 402c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=46893970"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been"
-        }
-      ],
-      "tags": []
-    },
-    {
       "id": "7537a15d5d25de16d96f4c21c31972327f147771",
       "name": "Flock CEO calls Deflock a “terrorist organization” (2025) [video]",
       "section": "discussions",
       "status": "NEW",
-      "score": 560.4,
-      "oneLiner": "개발자 커뮤니티에서 화제가 되는 신규 토픽입니다.",
-      "whyNow": "HN 토론이 빠르게 늘고 있습니다.",
+      "score": 639.6,
+      "oneLiner": "Flock CEO가 Deflock을 강하게 비난하는 동영상을 다룬 글",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "392p · 271c"
+          "value": "458p · 304c"
         }
       ],
       "links": [
@@ -146,47 +119,18 @@
       ]
     },
     {
-      "id": "3a8799d157ec7d2784dcd7dd558f44d83836d924",
-      "name": "ICE seeks industry input on ad tech location data for investigative use",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 546.6,
-      "oneLiner": "개발자 커뮤니티에서 화제가 되는 신규 토픽입니다.",
-      "whyNow": "HN 토론이 빠르게 늘고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "275p · 318c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=46895860"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.biometricupdate.com/202602/ice-seeks-industry-input-on-ad-tech-location-data-for-investigative-use"
-        }
-      ],
-      "tags": [
-        "data"
-      ]
-    },
-    {
       "id": "4c60b3d4274c22994a35a9dd00b31448637120a4",
       "name": "We tasked Opus 4.6 using agent teams to build a C Compiler",
       "section": "discussions",
       "status": "NEW",
-      "score": 546.0,
-      "oneLiner": "개발자 커뮤니티에서 화제가 되는 신규 토픽입니다.",
-      "whyNow": "HN 토론이 빠르게 늘고 있습니다.",
+      "score": 630.0,
+      "oneLiner": "Opus 4.6을 에이전트 팀으로 사용해 C 컴파일러를 만든 사례",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "320p · 295c"
+          "value": "366p · 342c"
         }
       ],
       "links": [
@@ -204,18 +148,47 @@
       ]
     },
     {
-      "id": "caad00afaf793f1f8725df948538e9284faeaf23",
-      "name": "When internal hostnames are leaked to the clown",
+      "id": "3a8799d157ec7d2784dcd7dd558f44d83836d924",
+      "name": "ICE seeks industry input on ad tech location data for investigative use",
       "section": "discussions",
       "status": "NEW",
-      "score": 532.2,
-      "oneLiner": "개발자 커뮤니티에서 화제가 되는 신규 토픽입니다.",
-      "whyNow": "HN 토론이 빠르게 늘고 있습니다.",
+      "score": 549.0,
+      "oneLiner": "수사 목적의 광고 기술 위치 데이터에 대해 업계 의견을 구하는 내용",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 데이터 품질/거버넌스 관점 논의가 늘고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "425p · 231c"
+          "value": "275p · 320c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=46895860"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.biometricupdate.com/202602/ice-seeks-industry-input-on-ad-tech-location-data-for-investigative-use"
+        }
+      ],
+      "tags": [
+        "data"
+      ]
+    },
+    {
+      "id": "caad00afaf793f1f8725df948538e9284faeaf23",
+      "name": "When internal hostnames are leaked to the clown",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 538.8,
+      "oneLiner": "내부 호스트명이 외부로 유출될 때 상황을 설명하는 기술 글",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "428p · 235c"
         }
       ],
       "links": [
@@ -235,14 +208,14 @@
       "name": "CIA to Sunset the World Factbook",
       "section": "discussions",
       "status": "NEW",
-      "score": 488.4,
-      "oneLiner": "개발자 커뮤니티에서 화제가 되는 신규 토픽입니다.",
-      "whyNow": "HN 토론이 빠르게 늘고 있습니다.",
+      "score": 493.8,
+      "oneLiner": "CIA의 World Factbook 공개 중단 소식을 다룬 기사",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "334p · 240c"
+          "value": "343p · 240c"
         }
       ],
       "links": [
@@ -258,23 +231,50 @@
       "tags": []
     },
     {
+      "id": "b48b62ee0304a0f445da1fb697a72132586d0dba",
+      "name": "It's 2026, Just Use Postgres",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 453.6,
+      "oneLiner": "2026년을 배경으로 Postgres 사용을 권하는 기술 칼럼",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "356p · 200c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=46905555"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.tigerdata.com/blog/its-2026-just-use-postgres"
+        }
+      ],
+      "tags": []
+    },
+    {
       "id": "701ac1369dc464d8a56a3ba0230d261c30eefb3a",
       "name": "HKUDS/nanobot",
       "section": "releases",
       "status": "NEW",
-      "score": 397.16,
-      "oneLiner": "\"🐈 nanobot: The Ultra-Lightweight Clawdbot\"",
-      "whyNow": "최근 릴리즈가 발표되어 빠르게 확산되고 있습니다.",
+      "score": 406.48,
+      "oneLiner": "초경량 클로우봇 nanobot을 소개하는 저장소",
+      "whyNow": "버전 업데이트 이후 재확산이 시작된 흐름입니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "8,867"
+          "value": "9,084"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "1,124"
+          "value": "1,156"
         },
         {
           "source": "GitHub",
@@ -304,14 +304,14 @@
       "name": "European Commission Trials Matrix to Replace Teams",
       "section": "discussions",
       "status": "NEW",
-      "score": 378.0,
-      "oneLiner": "개발자 커뮤니티에서 화제가 되는 신규 토픽입니다.",
-      "whyNow": "HN 토론이 빠르게 늘고 있습니다.",
+      "score": 385.8,
+      "oneLiner": "유럽연합 집행위원회가 Teams 대신 Matrix를 시험하는 소식을 전하는 글",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "310p · 160c"
+          "value": "315p · 164c"
         }
       ],
       "links": [
@@ -331,14 +331,14 @@
       "name": "Orchestrate teams of Claude Code sessions",
       "section": "discussions",
       "status": "NEW",
-      "score": 359.4,
-      "oneLiner": "개발자 커뮤니티에서 화제가 되는 신규 토픽입니다.",
-      "whyNow": "HN 토론이 빠르게 늘고 있습니다.",
+      "score": 384.0,
+      "oneLiner": "Claude Code 세션 팀을 오케스트레이션하는 방법을 안내하는 문서",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "295p · 152c"
+          "value": "304p · 168c"
         }
       ],
       "links": [
@@ -354,45 +354,18 @@
       "tags": []
     },
     {
-      "id": "dc478d0d7030009404a304c5bcc6bb7e93821baa",
-      "name": "Top downloaded skill in ClawHub contains malware",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 345.0,
-      "oneLiner": "개발자 커뮤니티에서 화제가 되는 신규 토픽입니다.",
-      "whyNow": "HN 토론이 빠르게 늘고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "299p · 138c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=46898615"
-        },
-        {
-          "label": "Source",
-          "url": "https://1password.com/blog/from-magic-to-malware-how-openclaws-agent-skills-become-an-attack-surface"
-        }
-      ],
-      "tags": []
-    },
-    {
       "id": "14e5e9e308c6155b030abe23405575a7305d6eb4",
       "name": "CIA suddenly stops publishing, removes archives of The World Factbook",
       "section": "discussions",
       "status": "NEW",
-      "score": 340.2,
-      "oneLiner": "개발자 커뮤니티에서 화제가 되는 신규 토픽입니다.",
-      "whyNow": "HN 토론이 빠르게 늘고 있습니다.",
+      "score": 363.0,
+      "oneLiner": "CIA의 World Factbook 공개 중단과 아카이브 삭제를 정리한 글",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 운영/비용 관점 해석이 갈리며 논의가 이어지고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "307p · 130c"
+          "value": "323p · 141c"
         }
       ],
       "links": [
@@ -410,28 +383,70 @@
       ]
     },
     {
-      "id": "4ea8fa34f3067f66c03a2f2fd711864beae49309",
-      "name": "Unsealed court documents show teen addiction was big tech's \"top priority\"",
+      "id": "dc478d0d7030009404a304c5bcc6bb7e93821baa",
+      "name": "Top downloaded skill in ClawHub contains malware",
       "section": "discussions",
       "status": "NEW",
-      "score": 312.0,
-      "oneLiner": "개발자 커뮤니티에서 화제가 되는 신규 토픽입니다.",
-      "whyNow": "HN 토론이 빠르게 늘고 있습니다.",
+      "score": 346.2,
+      "oneLiner": "ClawHub의 인기 스킬에 악성코드가 포함되었다는 보도를 다룬 글",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "242p · 139c"
+          "value": "301p · 138c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=46902512"
+          "url": "https://news.ycombinator.com/item?id=46898615"
         },
         {
           "label": "Source",
-          "url": "https://techoversight.org/2026/01/25/top-report-mdl-jan-25/"
+          "url": "https://1password.com/blog/from-magic-to-malware-how-openclaws-agent-skills-become-an-attack-surface"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "13568fc131c6e7d4d33fe242b56a6c90a3fb779c",
+      "name": "mdp/linkedin-extension-fingerprinting",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 332.54,
+      "oneLiner": "오픈 소스 개발 도구/프로젝트입니다.",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "48"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "1"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-02-06"
+        },
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "277p · 137c"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/mdp/linkedin-extension-fingerprinting"
+        },
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=46904361"
         }
       ],
       "tags": []
@@ -441,14 +456,14 @@
       "name": "My AI Adoption Journey",
       "section": "trending",
       "status": "NEW",
-      "score": 233.4,
-      "oneLiner": "개발자 커뮤니티에서 화제가 되는 신규 토픽입니다.",
-      "whyNow": "HN에서 관심이 빠르게 올라가고 있습니다.",
+      "score": 285.0,
+      "oneLiner": "작성자의 AI 도입 경험과 과정을 담은 개인 에세이",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "247p · 71c"
+          "value": "315p · 80c"
         }
       ],
       "links": [
@@ -468,19 +483,19 @@
       "name": "gavrielc/nanoclaw",
       "section": "trending",
       "status": "NEW",
-      "score": 221.02,
-      "oneLiner": "My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs.",
-      "whyNow": "GitHub 스타 증가와 업데이트가 동시에 관측되고 있습니다.",
+      "score": 223.2,
+      "oneLiner": "애플 컨테이너에서 동작하는 개인 Claude 어시스턴트 저장소",
+      "whyNow": "커밋/업데이트가 이어져 당분간 추이를 보기에 좋습니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "5,246"
+          "value": "5,297"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "559"
+          "value": "566"
         },
         {
           "source": "GitHub",
@@ -501,19 +516,19 @@
       "name": "Leey21/awesome-ai-research-writing",
       "section": "trending",
       "status": "NEW",
-      "score": 140.32,
-      "oneLiner": "Elevate your AI research writing, no more tedious polishing ✨ ",
-      "whyNow": "GitHub 스타 증가와 업데이트가 동시에 관측되고 있습니다.",
+      "score": 141.06,
+      "oneLiner": "AI 연구 글쓰기를 개선하기 위한 유용한 자료 모음 저장소",
+      "whyNow": "업데이트가 유지되며 관심이 꾸준히 쌓이는 흐름입니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "3,370"
+          "value": "3,387"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "276"
+          "value": "279"
         },
         {
           "source": "GitHub",
@@ -530,18 +545,51 @@
       "tags": []
     },
     {
-      "id": "c535b55599080467c3d497f781d3a2b3be1259f6",
-      "name": "sheeki03/tirith",
-      "section": "releases",
+      "id": "c19d977b43a6f554cd05f5bd228b7fc0f0052388",
+      "name": "dwzhu-pku/PaperBanana",
+      "section": "trending",
       "status": "NEW",
-      "score": 74.24,
-      "oneLiner": "Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.",
-      "whyNow": "최근 릴리즈가 발표되어 빠르게 확산되고 있습니다.",
+      "score": 75.62,
+      "oneLiner": "AI 연구자를 위한 학술 일러스트 자동화 도구 PaperBanana 저장소",
+      "whyNow": "업데이트가 유지되며 관심이 꾸준히 쌓이는 흐름입니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "1,338"
+          "value": "1,849"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "83"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-02-06"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/dwzhu-pku/PaperBanana"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "c535b55599080467c3d497f781d3a2b3be1259f6",
+      "name": "sheeki03/tirith",
+      "section": "releases",
+      "status": "NEW",
+      "score": 74.52,
+      "oneLiner": "의심스러운 URL과 ANSI 인젝션 등을 차단하는 보안 도구 Tirith 저장소",
+      "whyNow": "릴리즈 직후라 적용/마이그레이션 경험이 모이고 있습니다. 보안 관점에서 재점검 흐름이 이어지고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "1,345"
         },
         {
           "source": "GitHub",
@@ -551,7 +599,7 @@
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-02-05"
+          "value": "2026-02-06"
         },
         {
           "source": "GitHub",
@@ -572,39 +620,6 @@
       "tags": [
         "security"
       ]
-    },
-    {
-      "id": "c19d977b43a6f554cd05f5bd228b7fc0f0052388",
-      "name": "dwzhu-pku/PaperBanana",
-      "section": "trending",
-      "status": "NEW",
-      "score": 73.88,
-      "oneLiner": "PaperBanana: Automating Academic Illustration For AI Scientists",
-      "whyNow": "GitHub 스타 증가와 업데이트가 동시에 관측되고 있습니다.",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "metric": "stars",
-          "value": "1,807"
-        },
-        {
-          "source": "GitHub",
-          "metric": "forks",
-          "value": "80"
-        },
-        {
-          "source": "GitHub",
-          "metric": "updated",
-          "value": "2026-02-06"
-        }
-      ],
-      "links": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/dwzhu-pku/PaperBanana"
-        }
-      ],
-      "tags": []
     }
   ]
 }
