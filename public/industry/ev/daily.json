@@ -2,9 +2,9 @@
   "date": "2026-02-06",
   "highlights": {
     "bullets": [
-      "Roadmap 관련 업데이트가 15건 감지됨",
+      "Roadmap 관련 업데이트가 14건 감지됨",
       "Competition 관련 업데이트가 13건 감지됨",
-      "Investment 관련 업데이트가 8건 감지됨"
+      "Investment 관련 업데이트가 11건 감지됨"
     ],
     "topTopics": [
       "Roadmap",
@@ -21,45 +21,44 @@
     {
       "id": "ev_0001",
       "tab": "ev",
-      "publishedAt": "2026-02-06T01:29:30+09:00",
+      "publishedAt": "2026-02-05T23:00:00+09:00",
       "source": "Electrek",
-      "title": "QuantumScape inaugurates Eagle Line pilot for solid-state battery production [Video]",
+      "title": "Solid-state EV batteries hit a milestone in the US",
       "summary": [
-        "퀀텀스케이프가 고체전지 파일럿 생산을 위한 이글 라인(Eagle Line)을 가동했습니다.",
-        "이 파일럿 라인은 향후 대규모 고체전지 양산을 위한 생산 인프라와 공정 기반을 구축합니다.",
-        "이글 라인에서 생산된 셀은 주요 완성차(OEM) 고객사 샘플링 및 검증용으로 공급될 예정입니다."
+        "미국에서 전고체 전기차 배터리가 연구실을 벗어나 실증(마일스톤)에 도달했다.",
+        "상용화를 위한 파일럿 생산과 제조 확장 가능성이 구체화되고 있다.",
+        "안전성·에너지 밀도 개선 기대와 함께 공급망 재편 및 투자 유입이 가속될 전망이다."
       ],
-      "whyItMatters": "고체전지 상용화를 향한 파일럿 라인 가동은 기술 검증과 고객 채택 가능성을 높여 중장기 전기차 배터리 시장 판도에 영향을 줄 수 있습니다.",
+      "whyItMatters": "전고체 배터리의 실증 전환은 전기차 성능·안전성 개선과 산업 전반의 경쟁·투자 지형 변화를 촉발할 핵심 계기이기 때문이다.",
       "topics": [
         "Manufacturing",
         "Roadmap",
-        "Investment",
-        "Competition"
+        "Investment"
       ],
-      "status": "NEW",
-      "hash": "6a96e77f83b28e41df0a3fe4b439f20a82eba51da5c6a1f99dbedb11a492c72f",
-      "url": "https://electrek.co/2026/02/05/quantumscape-inaugurates-eagle-line-pilot-solid-state-battery-production/"
+      "status": "SHIFTING",
+      "hash": "9bce2634d46416ecb605f7e2927d67385423e8d43233600072ed6fcb0dd0abff",
+      "url": "https://electrek.co/2026/02/05/solid-state-ev-batteries-hit-milestone-in-the-us/"
     },
     {
       "id": "ev_0002",
       "tab": "ev",
-      "publishedAt": "2026-02-06T00:55:44+09:00",
+      "publishedAt": "2026-02-06T07:32:42+09:00",
       "source": "Electrek",
-      "title": "San Bernadino hub can now charge 200 electric semi trucks per day",
+      "title": "The world’s first sodium-ion battery EV is here and it could be a game changer",
       "summary": [
-        "샌버나디노 허브가 하루 최대 200대의 전기 대형 트럭을 충전할 수 있도록 업그레이드되었습니다.",
-        "메가와트급 충전을 제공해 고출력 충전이 가능한 트럭에도 대응합니다.",
-        "미국 내 바쁜 대형 전기차 충전소의 인프라 확장 사례로 전기트럭 보급 가속 신호입니다."
+        "CATL과 장안자동차가 세계 최초 소듐-이온 배터리 탑재 승용 EV를 공개했다.",
+        "소듐-이온은 나트륨 기반으로 원자재 비용·공급 리스크를 낮추고 안전성과 충전 특성에서 이점이 있다.",
+        "에너지 밀도 제한은 존재하지만 비용·공급 측면에서 전기차 시장 판도를 바꿀 잠재력이 있다."
       ],
-      "whyItMatters": "이 업그레이드는 장거리 화물 전기화의 실현 가능성을 높여 전기트럭 채택과 운영 효율을 촉진하기 때문입니다.",
+      "whyItMatters": "리튬 의존도를 낮추고 비용을 줄여 전기차 보급 확대와 공급망 재편을 촉발할 가능성이 있기 때문입니다.",
       "topics": [
-        "Roadmap",
-        "Investment",
-        "Demand"
+        "Manufacturing",
+        "Competition",
+        "Roadmap"
       ],
-      "status": "ONGOING",
-      "hash": "03846f7c76f0d5047a977910220723946c1c40c3f638ab4986673e1b4a6e2ec3",
-      "url": "https://electrek.co/2026/02/05/san-bernadino-hub-can-now-charge-200-electric-semi-trucks-per-day/"
+      "status": "NEW",
+      "hash": "b77b83d07d0e69cc6f58eeaef1448c53e247e1c52046ccebf512f28cc34ceccf",
+      "url": "https://electrek.co/2026/02/05/first-sodium-ion-battery-ev-debuts-game-changer/"
     }
   ]
 }

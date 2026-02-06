@@ -15,14 +15,14 @@
     },
     {
       "name": "Investment",
-      "count": 9
+      "count": 8
     },
     {
       "name": "Competition",
       "count": 7
     },
     {
-      "name": "Demand",
+      "name": "Manufacturing",
       "count": 5
     }
   ],
@@ -48,7 +48,7 @@
     {
       "date": "2026-01-31",
       "dayOfWeek": "Sat",
-      "topic": "Demand",
+      "topic": "Manufacturing",
       "count": 1
     },
     {
@@ -72,7 +72,7 @@
     {
       "date": "2026-02-01",
       "dayOfWeek": "Sun",
-      "topic": "Demand",
+      "topic": "Manufacturing",
       "count": 1
     },
     {
@@ -96,8 +96,8 @@
     {
       "date": "2026-02-02",
       "dayOfWeek": "Mon",
-      "topic": "Demand",
-      "count": 1
+      "topic": "Manufacturing",
+      "count": 0
     },
     {
       "date": "2026-02-03",
@@ -120,7 +120,7 @@
     {
       "date": "2026-02-03",
       "dayOfWeek": "Tue",
-      "topic": "Demand",
+      "topic": "Manufacturing",
       "count": 0
     },
     {
@@ -144,20 +144,20 @@
     {
       "date": "2026-02-04",
       "dayOfWeek": "Wed",
-      "topic": "Demand",
-      "count": 1
+      "topic": "Manufacturing",
+      "count": 0
     },
     {
       "date": "2026-02-05",
       "dayOfWeek": "Thu",
       "topic": "Roadmap",
-      "count": 1
+      "count": 2
     },
     {
       "date": "2026-02-05",
       "dayOfWeek": "Thu",
       "topic": "Investment",
-      "count": 2
+      "count": 3
     },
     {
       "date": "2026-02-05",
@@ -168,82 +168,68 @@
     {
       "date": "2026-02-05",
       "dayOfWeek": "Thu",
-      "topic": "Demand",
+      "topic": "Manufacturing",
+      "count": 2
+    },
+    {
+      "date": "2026-02-06",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-02-06",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
       "count": 0
     },
     {
       "date": "2026-02-06",
       "dayOfWeek": "Fri",
-      "topic": "Roadmap",
-      "count": 2
-    },
-    {
-      "date": "2026-02-06",
-      "dayOfWeek": "Fri",
-      "topic": "Investment",
-      "count": 2
-    },
-    {
-      "date": "2026-02-06",
-      "dayOfWeek": "Fri",
       "topic": "Competition",
       "count": 1
     },
     {
       "date": "2026-02-06",
       "dayOfWeek": "Fri",
-      "topic": "Demand",
+      "topic": "Manufacturing",
       "count": 1
     }
   ],
   "topIssues": [
     {
-      "id": "ev-1",
+      "id": 1,
       "status": "NEW",
-      "title": "퀀텀스케이프 고체전지 파일럿 라인 가동으로 차세대 배터리 양산 준비 가속",
-      "summary": "퀀텀스케이프가 이글 라인(Eagle Line) 파일럿 생산을 시작하며 고체전지 상용화를 위한 대규모 양산 공정·인프라를 검증하는 단계에 들어갔다. 이는 EV 배터리 에너지밀도·안전성 경쟁에서 게임체인저가 될 수 있는 기술의 생산 전환을 의미해 글로벌 완성차 및 배터리 밸류체인에 중장기적 파급효과가 예상된다.",
+      "title": "소듐-이온 배터리 탑재 첫 양산형 EV 등장",
+      "summary": "CATL과 장안자동차가 세계 최초로 소듐-이온 배터리를 탑재한 승용 전기차를 공개했다. 리튬 대신 나트륨을 사용해 원자재 비용과 공급 리스크를 낮추면서, 안전성과 저온 충전 특성 측면에서 상용화 가능한 수준의 성능을 입증해 향후 EV 배터리 포트폴리오 다각화의 분수령이 될 수 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
-          "title": "QuantumScape inaugurates Eagle Line pilot for solid-state battery production [Video]",
-          "url": "https://electrek.co/2026/02/05/quantumscape-inaugurates-eagle-line-pilot-solid-state-battery-production/"
+          "title": "The world’s first sodium-ion battery EV is here and it could be a game changer",
+          "url": "https://electrek.co/2026/02/05/first-sodium-ion-battery-ev-debuts-game-changer/"
         }
       ]
     },
     {
-      "id": "ev-2",
-      "status": "ONGOING",
-      "title": "전기 상용차 확산 가속: 샌버나디노 허브, 전기 대형 트럭 일 200대 고속충전 인프라 구축",
-      "summary": "미국 샌버나디노 물류 허브가 하루 최대 200대 전기 대형 트럭을 지원하는 메가와트급 충전소로 업그레이드되며 전기 트럭의 운행 효율성과 대형 물류망 전동화의 실현 가능성이 크게 높아졌다. 이는 장거리·대형 화물 EV의 TCO 경쟁력 향상과 상용차 충전 표준·규모 확대 추세를 보여주는 핵심 사례다.",
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "미국 전고체 EV 배터리, 실증 단계 진입으로 상용화 가속",
+      "summary": "미국에서 전고체 전기차 배터리가 연구실 단계를 넘어 실증·파일럿 생산 단계에 진입했다. 이에 따라 양산용 생산공정 검증과 제조 확장 로드맵이 구체화되고 있어, 중장기적으로 EV 주행거리·안전성·충전 속도에서 세대 교체를 이끌 핵심 기술로 부상하고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
-          "title": "San Bernadino hub can now charge 200 electric semi trucks per day",
-          "url": "https://electrek.co/2026/02/05/san-bernadino-hub-can-now-charge-200-electric-semi-trucks-per-day/"
+          "title": "Solid-state EV batteries hit a milestone in the US",
+          "url": "https://electrek.co/2026/02/05/solid-state-ev-batteries-hit-milestone-in-the-us/"
         }
       ]
     },
     {
-      "id": "ev-3",
+      "id": 3,
       "status": "ONGOING",
-      "title": "테슬라 거버넌스 리스크 부각: 이사회 구성원의 에프스타인 연루 이슈",
-      "summary": "새로 공개된 에프스타인 문건에 테슬라 이사인 일론·킴벌 머스크 형제가 깊이 연루된 정황이 드러나면서, 기존 공개 발언과의 모순 및 비윤리적 행위 의혹이 테슬라의 이사회 독립성·지배구조 리스크로 부각되고 있다. 이는 ESG 투자, 기관투자가의 스튜어드십 활동, 규제 당국의 감시 강화 가능성과 맞물려 EV 대표 기업의 평판 및 자본비용에 중기적 영향을 줄 수 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "Two Tesla board members are all over the Epstein files: what happens next?",
-          "url": "https://electrek.co/2026/02/04/two-tesla-board-members-are-all-over-the-epstein-files-what-happens-next/"
-        }
-      ]
-    },
-    {
-      "id": "ev-4",
-      "status": "ONGOING",
-      "title": "노르웨이 사례로 본 EV 전환의 비가역성: 인센티브 축소 후에도 디젤차 판매 98대로 급감",
-      "summary": "노르웨이가 전기차 인센티브를 축소했음에도 1월 디젤차 판매가 98대에 그치며, EV가 내연기관 대비 구조적 경쟁우위를 확보한 시장에서는 보조금 축소 이후에도 전동화 흐름이 되돌리기 어렵다는 점이 확인됐다. 이는 글로벌 정책 설계에서 초기 보조금은 전환 촉매 역할을 하지만 일정 수준을 넘으면 소비자 인식·인프라·중고차 가치가 자생적으로 EV 수요를 지지한다는 중요한 시그널이다.",
+      "title": "노르웨이, 보조금 축소 후에도 EV 중심 시장 구조 고착",
+      "summary": "노르웨이가 전기차 인센티브를 축소했음에도 1월 디젤차 판매량이 98대에 불과해, 보조금 축소 이후에도 EV가 사실상 기본 선택지로 자리 잡았음이 드러났다. 이는 정책 의존도를 줄이면서도 내연기관 퇴출과 EV 전환이 지속 가능한 궤도에 올랐음을 보여주는 선행 사례다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -254,10 +240,24 @@
       ]
     },
     {
-      "id": "ev-5",
+      "id": 4,
+      "status": "ONGOING",
+      "title": "포드–지리 협력, 중국산 EV 공세 대응 위한 유럽 생산 동맹 모색",
+      "summary": "포드가 중국 지리자동차와 유럽 내 유휴 공장 활용을 포함한 생산·기술 협력 방안을 논의 중인 것으로 알려졌다. 단순 공장 공유를 넘어서는 파트너십이 가시화되면, 포드는 중국 업체의 비용 경쟁력을 일부 흡수해 유럽 EV 시장에서 가격·라인업 경쟁에 대응하려는 전략을 본격화할 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Ford has a new plan to compete with Chinese EVs: If you can’t beat ’em, join ’em",
+          "url": "https://electrek.co/2026/02/04/ford-new-plan-to-compete-with-chinese-evs/"
+        }
+      ]
+    },
+    {
+      "id": 5,
       "status": "NEW",
-      "title": "웨이모 160억 달러 초대형 투자 유치로 자율주행 로보택시 상용화 레이스 본격화",
-      "summary": "웨이모가 160억 달러 투자 라운드를 통해 1,260억 달러 기업가치를 인정받고, 올해 20개 이상 도시로 서비스 확장을 예고했다. 이는 자율주행 기반 로보택시가 EV 활용도를 극대화하는 핵심 서비스 모델로 자리 잡고 있음을 보여주며, 도심 모빌리티 시장에서 전기·자율주행 통합 플랫폼 경쟁이 한층 가속화될 것임을 시사한다.",
+      "title": "웨이모, 160억 달러 투자 유치로 자율주행 모빌리티 확장 가속",
+      "summary": "웨이모가 160억 달러 규모 투자 라운드를 성사시키며 1,260억 달러 기업가치를 인정받았다. 확보한 자금을 바탕으로 올해 20개 이상 신규 도시에 로보택시 서비스를 확대할 계획으로, 자율주행 기반 승차 서비스가 EV 활용도를 끌어올리는 주요 모빌리티 인프라로 성장할 가능성이 커지고 있다.",
       "articleCount": 2,
       "relatedArticles": [
         {

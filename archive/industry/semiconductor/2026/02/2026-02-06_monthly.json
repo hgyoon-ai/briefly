@@ -8,11 +8,11 @@
     "deduped": 30,
     "uniqueTopics": 7,
     "marketShare": {
-      "Roadmap": 30,
+      "Roadmap": 31,
       "Competition": 25,
       "Manufacturing": 17,
       "Investment": 17,
-      "Demand": 12,
+      "Demand": 11,
       "Other": 0
     }
   },
@@ -60,34 +60,34 @@
     {
       "week": "Week 5 (02/05-02/06)",
       "topicCounts": {
-        "Roadmap": 2,
+        "Roadmap": 3,
         "Competition": 2,
         "Manufacturing": 3,
         "Investment": 2,
-        "Demand": 1
+        "Demand": 0
       }
     }
   ],
   "topIssues": [
     {
       "id": 1,
-      "status": "ONGOING",
-      "title": "인텔 18A 공정·Panther Lake: 미·우방 중심 첨단 공정 재편",
-      "summary": "인텔이 차세대 Panther Lake를 자사 18A 공정에서 생산하려는 전략은 파운드리 경쟁력 회복과 동시에 미국 및 동맹국 중심으로 첨단 공정 생산을 재배치하려는 지정학적 흐름을 반영한다. 이는 첨단 반도체 공급망에서 미·중 기술 블록화와 우방 간 공급 다변화가 중장기 구조로 굳어지는 신호로 해석된다.",
+      "status": "NEW",
+      "title": "인도 최초 RISC-V 네트워크 SoC 테이프아웃, 네트워크용 국산 칩 부상",
+      "summary": "Aheesa가 인도 최초의 국산 RISC-V 네트워크 SoC ‘VIHAAN-I’를 테이프아웃하며 통신·네트워크 장비용 팹리스 역량을 과시했다. 이는 네트워크 인프라용 반도체의 자국화와 RISC-V 기반 통신 칩 에코시스템 확산의 신호탄으로, 기존 ARM·전통 네트워크 ASIC 중심 시장에 구조적 변화를 예고한다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "TechInsights",
-          "title": "Intel Panther Lake on Intel 18A: Strategic & Geopolitical Analysis",
-          "url": "https://www.techinsights.com/blog/intel-panther-lake-intel-18a-strategic-geopolitical-analysis"
+          "source": "EE Times",
+          "title": "Fabless Startup Aheesa Tapes Out First Indian RISC-V Network SoC",
+          "url": "https://www.eetimes.com/fabless-startup-aheesa-tapes-out-first-indian-risc-v-network-soc/"
         }
       ]
     },
     {
       "id": 2,
       "status": "NEW",
-      "title": "TI의 실리콘랩스 인수: IoT·엣지 AI용 반도체 포트폴리오 통합",
-      "summary": "TI가 실리콘랩스를 인수하며 무선 연결, MCU, 보안 솔루션을 자사 제품 로드맵에 통합해 IoT·엣지 AI용 반도체 플랫폼을 수직적으로 강화하고 있다. 아날로그·전력 반도체 강자인 TI가 커넥티비티와 임베디드 분야까지 확장함에 따라 IoT·산업용 반도체 시장 경쟁 구도가 재편될 가능성이 크다.",
+      "title": "TI의 Silicon Labs 인수, IoT·엣지 AI용 MCU·무선 SoC 통합 경쟁 가속",
+      "summary": "TI가 Silicon Labs를 인수해 저전력 MCU, 무선 연결, 보안 IP 등 엣지·IoT 핵심 반도체 포트폴리오를 대거 흡수한다. 이로써 TI는 센서-무선-MCU-전력 솔루션을 단일 플랫폼으로 제공할 수 있게 되어 NXP·ST·Renesas 등과의 MCU·무선 SoC 경쟁 구도가 재편될 전망이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -99,43 +99,43 @@
     },
     {
       "id": 3,
-      "status": "SHIFTING",
-      "title": "유럽 디지털 주권 논쟁: 클라우드·반도체 인프라 자립 요구 증폭",
-      "summary": "HiPEAC 2026에서 미국 클라우드 의존과 데이터 통제 문제를 계기로 유럽의 디지털 주권과 인프라 자립 요구가 커지고 있다. 이는 향후 유럽 내 데이터센터, AI·고성능 컴퓨팅용 반도체, 설계·제조 생태계에 대한 투자와 규제 정책을 강화하는 방향으로 이어질 수 있다는 점에서 반도체 공급·수요 구조에도 변화를 예고한다.",
+      "status": "ONGOING",
+      "title": "삼성 갤럭시·AI 기반 스포츠 경험 확장, 모바일·AP 수요 연계 모색",
+      "summary": "삼성전자가 밀라노 코르티나 2026 올림픽·패럴림픽에 Galaxy와 Galaxy AI를 심층 연계해 경기 관람·참여 경험을 확장하겠다고 밝혔다. 이는 하이엔드 모바일 AP, 이미지·AI 처리용 칩 수요를 스포츠·엔터테인먼트 영역까지 넓히려는 전략으로, 프리미엄 모바일 반도체 수요를 견인할 가능성이 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "EE Times",
-          "title": "HiPEAC 2026: Reclaiming European Digital Sovereignty",
-          "url": "https://www.eetimes.com/hipeac-2026-reclaiming-european-digital-sovereignty/"
+          "source": "Samsung Newsroom",
+          "title": "Samsung Connects Athletes and Fans to Milano Cortina 2026 Moments With Mobile Innovation",
+          "url": "https://news.samsung.com/global/samsung-connects-athletes-and-fans-to-milano-cortina-2026-moments-with-mobile-innovation"
         }
       ]
     },
     {
       "id": 4,
-      "status": "NEW",
-      "title": "삼성전자 2025년 4분기·연간 실적: 메모리·시스템반도체 수요 회복 가속",
-      "summary": "삼성전자가 2025년 4분기 및 연간 실적을 공개하며 메모리와 시스템반도체를 포함한 전체 반도체 수요가 구조적 회복 국면에 들어섰음을 시사했다. AI 서버, 모바일, 디스플레이 등 주요 세트 수요와 설비·투자 계획이 함께 제시되며, 업황 바닥 통과 이후 투자 사이클 재진입 여부에 시장의 관심이 집중되고 있다.",
+      "status": "ONGOING",
+      "title": "상업용 디스플레이 중앙 관리 수요 확대, SoC 디스플레이·엣지 플랫폼 기회",
+      "summary": "삼성은 VXT와 LYNK Cloud로 리테일·호스피탈리티 등에서 상업용 디스플레이를 클라우드 기반으로 중앙 관리하는 솔루션을 강조하고 있다. 매장·호텔 내 화면 수 증가와 콘텐츠 복잡도 상승은 디스플레이 내장형 SoC, 미디어 프로세서, 엣지 컴퓨팅 칩에 대한 수요를 지속적으로 확대시키는 방향으로 작용한다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Samsung Newsroom",
-          "title": "Samsung Electronics Announces Fourth Quarter and FY 2025 Results",
-          "url": "https://news.samsung.com/global/samsung-electronics-announces-fourth-quarter-and-fy-2025-results"
+          "title": "[Infographic] Manage Commercial Displays With Ease Across Industries With Samsung VXT and LYNK Cloud",
+          "url": "https://news.samsung.com/global/infographic-manage-commercial-displays-with-ease-across-industries-with-samsung-vxt-and-lynk-cloud"
         }
       ]
     },
     {
       "id": 5,
       "status": "NEW",
-      "title": "GaN·SiC 전력반도체 확산과 고성능 커패시터 수요 증가",
-      "summary": "GaN·SiC 기반 전력 시스템이 서버 전원, 전기차, 산업 인버터 등으로 확산되면서 고주파·고온 환경에 적합한 고성능 커패시터 수요가 빠르게 커지고 있다. 유전체 특성, ESR, 온도 안정성, 수명·패키징 등 세부 스펙이 설계 경쟁력의 핵심 요소로 부상하며, 전력반도체 생태계 전반에 걸친 소재·부품 고도화가 병행되고 있다.",
+      "title": "삼성전자 2025년 4분기·연간 실적, 메모리·파운드리 수요 회복 추세 반영",
+      "summary": "삼성전자가 2025 회계연도 4분기 및 연간 실적을 발표하며, AI·고대역폭 메모리(HBM) 및 첨단 파운드리 공정 수요 회복 기조를 수치로 제시했다. 이는 메모리 사이클 반등과 AI 서버·고성능 모바일용 반도체 수요 확대가 실적에 반영되기 시작했음을 시사하며, 향후 투자·캡엑 방향성의 핵심 근거가 된다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "EE Times",
-          "title": "How to Select High-Performance Capacitors for GaN and SiC Power Systems",
-          "url": "https://www.eetimes.com/how-to-select-high-performance-capacitors-for-gan-and-sic-power-systems/"
+          "source": "Samsung Newsroom",
+          "title": "Samsung Electronics Announces Fourth Quarter and FY 2025 Results",
+          "url": "https://news.samsung.com/global/samsung-electronics-announces-fourth-quarter-and-fy-2025-results"
         }
       ]
     }

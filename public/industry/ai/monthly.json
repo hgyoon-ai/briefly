@@ -8,12 +8,12 @@
     "deduped": 39,
     "uniqueTopics": 49,
     "marketShare": {
-      "Tooling": 26,
-      "Product": 21,
+      "Tooling": 25,
+      "Infra": 20,
       "Models": 20,
-      "Infra": 19,
-      "Research": 14,
-      "Other": 0
+      "Product": 20,
+      "Research": 13,
+      "Other": 2
     }
   },
   "weeklyData": [
@@ -21,9 +21,9 @@
       "week": "Week 1 (01/08-01/14)",
       "topicCounts": {
         "Tooling": 0,
-        "Product": 0,
-        "Models": 0,
         "Infra": 0,
+        "Models": 0,
+        "Product": 0,
         "Research": 0
       }
     },
@@ -31,9 +31,9 @@
       "week": "Week 2 (01/15-01/21)",
       "topicCounts": {
         "Tooling": 0,
-        "Product": 0,
-        "Models": 0,
         "Infra": 0,
+        "Models": 0,
+        "Product": 0,
         "Research": 0
       }
     },
@@ -41,9 +41,9 @@
       "week": "Week 3 (01/22-01/28)",
       "topicCounts": {
         "Tooling": 2,
-        "Product": 1,
-        "Models": 3,
         "Infra": 2,
+        "Models": 3,
+        "Product": 1,
         "Research": 2
       }
     },
@@ -51,9 +51,9 @@
       "week": "Week 4 (01/29-02/04)",
       "topicCounts": {
         "Tooling": 8,
-        "Product": 5,
-        "Models": 8,
         "Infra": 7,
+        "Models": 8,
+        "Product": 5,
         "Research": 4
       }
     },
@@ -61,9 +61,9 @@
       "week": "Week 5 (02/05-02/06)",
       "topicCounts": {
         "Tooling": 4,
+        "Infra": 3,
+        "Models": 4,
         "Product": 4,
-        "Models": 3,
-        "Infra": 1,
         "Research": 2
       }
     }
@@ -71,37 +71,9 @@
   "topIssues": [
     {
       "id": 1,
-      "status": "NEW",
-      "title": "엔터프라이즈 AI 에이전트 플랫폼 경쟁 심화: OpenAI Frontier 출시",
-      "summary": "OpenAI가 기업용 AI 에이전트 플랫폼인 Frontier를 공개하면서 엔터프라이즈 워크플로우에 AI 에이전트를 통합하려는 움직임이 본격화되고 있다. 공유 컨텍스트, 온보딩, 권한·거버넌스 관리까지 포함한 올인원 플랫폼으로, 조직 내 다양한 팀과 시스템을 아우르는 에이전트 기반 업무 자동화 수요가 커질 전망이다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "OpenAI Blog",
-          "title": "Introducing OpenAI Frontier",
-          "url": "https://openai.com/index/introducing-openai-frontier"
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "status": "NEW",
-      "title": "RAG 고도화를 위한 문서 전처리·파이프라인 기술 진화",
-      "summary": "NVIDIA가 Nemotron 기반 RAG 문서 처리 파이프라인 구축 사례를 공개하며, 복잡한 PDF, 중첩 표, 차트 데이터 등 비정형·구조화 문서를 통합 처리하는 기술이 RAG 품질의 핵심 요소로 부상하고 있다. 대규모 문서 코퍼스를 대상으로 한 정교한 파싱·세분화·라벨링 파이프라인이 점점 표준화되는 추세다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "NVIDIA Developer Blog",
-          "title": "How to Build a Document Processing Pipeline for RAG with Nemotron",
-          "url": "https://developer.nvidia.com/blog/how-to-build-a-document-processing-pipeline-for-rag-with-nemotron/"
-        }
-      ]
-    },
-    {
-      "id": 3,
       "status": "ONGOING",
-      "title": "라이선스 준수와 합성 데이터 기반 모델 학습 파이프라인 확산",
-      "summary": "엔터프라이즈와 연구 현장에서 저작권·라이선스를 준수하면서도 대규모 데이터가 필요한 모델 증류 수요가 커지며, NVIDIA가 제시한 합성 데이터 생성·라벨링·품질 검증 일체형 파이프라인이 참고 모델로 부상하고 있다. 실제 데이터 의존도를 줄이면서도 성능을 유지·개선하려는 합성 데이터 전략이 지속적으로 강화되는 흐름이다.",
+      "title": "합성 데이터 기반 모델 증류 시 라이선스 준수 파이프라인 구축 확산",
+      "summary": "모델 증류에 합성 데이터를 활용하는 사례가 늘어나면서 데이터 출처 추적, 라이선스 메타데이터 유지, 자동 필터링·검증 도구를 결합한 ‘라이선스 컴플라이언트’ 데이터 파이프라인 구축이 핵심 과제로 부상했다. AI 개발 조직은 성능뿐 아니라 법적·윤리적 요구사항을 만족하는 데이터 거버넌스를 표준 워크플로로 내재화해야 하는 흐름이 강화되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -112,30 +84,68 @@
       ]
     },
     {
+      "id": 2,
+      "status": "NEW",
+      "title": "저자원 언어용 Paza 음성 인식 벤치마크로 다국어 AI 격차 해소 시도",
+      "summary": "마이크로소프트 리서치가 39개 아프리카 언어와 52개 모델을 포함한 Paza/PazaBench를 공개하며 저자원 언어 자동 음성 인식(ASR)에 특화된 공개 파이프라인과 리더보드를 제시했다. 대형 빅테크 중심의 소수 언어 편중을 완화하고, 연구 커뮤니티가 공통 기준으로 저자원 언어 성능을 체계적으로 비교·개선할 수 있는 기반이 마련되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Microsoft Research Blog",
+          "title": "Paza: Introducing automatic speech recognition benchmarks and models for low resource languages",
+          "url": "https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "RAG 품질 향상을 위한 문서 처리·전처리 파이프라인 고도화",
+      "summary": "복잡한 PDF, 중첩 표, 차트 등 비정형·반정형 데이터를 안정적으로 분해·구조화하는 문서 처리 파이프라인이 RAG 시스템 성능의 핵심 요소로 부상하고 있다. Nemotron 기반 예시처럼, 문서 레이아웃 인식·테이블 추출·차트 데이터 복원 등 전처리 기술을 통합한 엔드투엔드 파이프라인 설계가 점점 더 중요해지는 추세다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "How to Build a Document Processing Pipeline for RAG with Nemotron",
+          "url": "https://developer.nvidia.com/blog/how-to-build-a-document-processing-pipeline-for-rag-with-nemotron/"
+        }
+      ]
+    },
+    {
       "id": 4,
       "status": "NEW",
-      "title": "GPU 인프라 공정 사용을 위한 쿠버네티스 스케줄링·할당 전략 고도화",
-      "summary": "NVIDIA Run:ai v2.24에 시간 기반 페어셰어 모드가 도입되면서, 쿠버네티스 클러스터 내 GPU 자원을 팀·프로젝트 간에 공정하게 배분하려는 시도가 강화되고 있다. 특히 할당량 초과(over-quota) 상황에서도 시간 가중치를 반영한 스케줄링을 통해 연구 생산성과 비용 효율을 동시에 관리하려는 인프라 운영 패턴이 부각된다.",
-      "articleCount": 1,
+      "title": "AI 시대 GPU 인프라: 공정한 자원 스케줄링과 효율 극대화",
+      "summary": "대규모 AI 워크로드가 Kubernetes 기반 클러스터로 이동하면서, 시간 기반 페어셰어 같은 공정한 GPU 스케줄링과 가변 길이 입력에 최적화된 Dynamic Context Parallelism 등 고급 분산훈련 기법이 함께 부상하고 있다. 이는 조직 내 팀 간 자원 갈등을 줄이는 동시에, 동일 인프라에서 더 많은 모델을 빠르게 학습시키기 위한 필수 인프라 전략으로 자리 잡고 있다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
           "source": "NVIDIA Developer Blog",
           "title": "Ensuring Balanced GPU Allocation in Kubernetes Clusters with Time-Based Fairshare",
           "url": "https://developer.nvidia.com/blog/ensuring-balanced-gpu-allocation-in-kubernetes-clusters-with-time-based-fairshare/"
+        },
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Speeding Up Variable-Length Training with Dynamic Context Parallelism and NVIDIA Megatron Core",
+          "url": "https://developer.nvidia.com/blog/speeding-up-variable-length-training-with-dynamic-context-parallelism-and-nvidia-megatron-core/"
         }
       ]
     },
     {
       "id": 5,
       "status": "NEW",
-      "title": "대규모 언어 모델 학습 효율화: 가변 길이 컨텍스트 병렬화 기술 등장",
-      "summary": "NVIDIA가 Megatron Core에 Dynamic Context Parallelism을 도입하며, 가변 길이 입력 컨텍스트를 가진 대규모 언어 모델 학습에서 GPU 활용을 극대화하는 기술이 주목받고 있다. 시퀀스 길이가 제각각인 실제 데이터 환경을 전제로, 처리량과 비용을 동시에 개선하는 학습 스케줄링·병렬화 기법 경쟁이 심화되는 양상이다.",
-      "articleCount": 1,
+      "title": "게임·가상세계 제작에 생성형 AI 도입 가속",
+      "summary": "생성형 AI가 고해상도 텍스처 생성, 업스케일링, 자산 리마스터링 등에 활용되며 소규모 팀도 대규모 게임 자산을 현대화할 수 있는 길이 열리고 있다. 동시에 구글의 Project Genie처럼 무한에 가까운 상호작용 세계를 생성·탐험하는 실험도 시작되며, 콘텐츠 제작 공정과 게임 디자인 패러다임 전반에 변화를 예고하고 있다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
           "source": "NVIDIA Developer Blog",
-          "title": "Speeding Up Variable-Length Training with Dynamic Context Parallelism and NVIDIA Megatron Core",
-          "url": "https://developer.nvidia.com/blog/speeding-up-variable-length-training-with-dynamic-context-parallelism-and-nvidia-megatron-core/"
+          "title": "How Painkiller RTX Uses Generative AI to Modernize Game Assets at Scale",
+          "url": "https://developer.nvidia.com/blog/how-painkiller-rtx-uses-generative-ai-to-modernize-game-assets-at-scale/"
+        },
+        {
+          "source": "Google DeepMind Blog",
+          "title": "Project Genie: Experimenting with infinite, interactive worlds",
+          "url": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/"
         }
       ]
     }

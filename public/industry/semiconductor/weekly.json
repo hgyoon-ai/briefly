@@ -4,8 +4,8 @@
     "to": "2026-02-06"
   },
   "kpis": {
-    "collected": 16,
-    "deduped": 16,
+    "collected": 15,
+    "deduped": 15,
     "uniqueTopics": 6
   },
   "topTopics": [
@@ -15,11 +15,11 @@
     },
     {
       "name": "Competition",
-      "count": 12
+      "count": 11
     },
     {
       "name": "Manufacturing",
-      "count": 9
+      "count": 8
     },
     {
       "name": "Investment",
@@ -31,19 +31,19 @@
       "date": "2026-01-31",
       "dayOfWeek": "Sat",
       "topic": "Roadmap",
-      "count": 1
+      "count": 0
     },
     {
       "date": "2026-01-31",
       "dayOfWeek": "Sat",
       "topic": "Competition",
-      "count": 1
+      "count": 0
     },
     {
       "date": "2026-01-31",
       "dayOfWeek": "Sat",
       "topic": "Manufacturing",
-      "count": 1
+      "count": 0
     },
     {
       "date": "2026-01-31",
@@ -151,19 +151,19 @@
       "date": "2026-02-05",
       "dayOfWeek": "Thu",
       "topic": "Roadmap",
-      "count": 3
+      "count": 2
     },
     {
       "date": "2026-02-05",
       "dayOfWeek": "Thu",
       "topic": "Competition",
-      "count": 2
+      "count": 1
     },
     {
       "date": "2026-02-05",
       "dayOfWeek": "Thu",
       "topic": "Manufacturing",
-      "count": 2
+      "count": 1
     },
     {
       "date": "2026-02-05",
@@ -175,19 +175,19 @@
       "date": "2026-02-06",
       "dayOfWeek": "Fri",
       "topic": "Roadmap",
-      "count": 0
+      "count": 2
     },
     {
       "date": "2026-02-06",
       "dayOfWeek": "Fri",
       "topic": "Competition",
-      "count": 1
+      "count": 2
     },
     {
       "date": "2026-02-06",
       "dayOfWeek": "Fri",
       "topic": "Manufacturing",
-      "count": 1
+      "count": 2
     },
     {
       "date": "2026-02-06",
@@ -199,23 +199,23 @@
   "topIssues": [
     {
       "id": 1,
-      "status": "ONGOING",
-      "title": "인텔 18A 공정·Panther Lake로 가속되는 미·동맹 중심 반도체 재편",
-      "summary": "인텔이 차세대 Panther Lake를 자사 18A 공정에서 생산하려는 전략은 TSMC 의존도를 낮추고 미국·우방국 내 최첨단 파운드리 역량을 키우려는 움직임으로 해석된다. 이는 미·중 기술 분리 속에서 선단 공정 주도권을 되찾고, 국산화·동맹 중심 공급망을 강화하려는 정책과 맞물려 글로벌 팹 투자 흐름에 중장기 영향을 줄 수 있다.",
+      "status": "NEW",
+      "title": "인도 토종 RISC-V 네트워크 SoC 테이프아웃: Aheesa의 VIHAAN-I",
+      "summary": "인도 팹리스 스타트업 Aheesa가 토종 RISC-V 기반 네트워크 SoC ‘VIHAAN-I’를 테이프아웃하며 네트워크 장비용 칩 내재화에 본격 착수했다. 이는 인도 내 시스템·네트워크용 반도체 자립과 RISC-V 생태계 확장을 동시에 노리는 움직임으로, 네트워크 인프라용 SoC 시장에서 신흥 경쟁자의 등장을 의미한다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "TechInsights",
-          "title": "Intel Panther Lake on Intel 18A: Strategic & Geopolitical Analysis",
-          "url": "https://www.techinsights.com/blog/intel-panther-lake-intel-18a-strategic-geopolitical-analysis"
+          "source": "EE Times",
+          "title": "Fabless Startup Aheesa Tapes Out First Indian RISC-V Network SoC",
+          "url": "https://www.eetimes.com/fabless-startup-aheesa-tapes-out-first-indian-risc-v-network-soc/"
         }
       ]
     },
     {
       "id": 2,
       "status": "NEW",
-      "title": "TI의 실리콘랩스 인수로 재편되는 IoT·엣지 AI 반도체 경쟁 구도",
-      "summary": "TI가 실리콘랩스를 인수하면서 무선 연결, MCU, 보안 등 실리콘랩스 강점이 TI 포트폴리오에 통합될 전망이다. 이를 통해 IoT·엣지 AI용 SoC·플랫폼 경쟁력이 강화되고, 중소형 MCU·커넥티비티 시장에서 공급·가격·레퍼런스 디자인 주도권 변동이 예상된다.",
+      "title": "TI의 Silicon Labs 인수: IoT·엣지 AI용 MCU·무선 포트폴리오 확대",
+      "summary": "TI가 Silicon Labs를 인수해 저전력 MCU와 무선 연결, 보안 솔루션을 통합함으로써 IoT·엣지 AI 설계 시장 공략을 가속하고 있다. 이는 아날로그·전력 반도체 강자인 TI가 커넥티비티와 임베디드 처리까지 아우르는 플랫폼형 반도체 업체로 전환하는 신호이며, MCU·IoT 칩 시장 재편을 촉발할 수 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -227,9 +227,23 @@
     },
     {
       "id": 3,
-      "status": "ONGOING",
-      "title": "독일을 축으로 한 유럽 반도체 팹 유치 경쟁과 장기 산업정책",
-      "summary": "독일이 인력 기반, 인프라, 보조금 정책을 바탕으로 반도체 팹 유치에 유리한 조건을 갖추고 있다는 분석이 이어지고 있다. 유럽 내 공급망 자립과 리쇼어링을 위해서는 단기 보조금뿐 아니라 규제 일관성, 전력·인력 비용 안정화 등 장기 정책 조합이 핵심 과제로 제시된다.",
+      "status": "SHIFTING",
+      "title": "Intel 18A에서 생산되는 Panther Lake: 기술 리더십과 지정학적 파급력",
+      "summary": "인텔이 차세대 클라이언트 플랫폼 Panther Lake를 최첨단 공정 Intel 18A로 생산하려는 전략은 EUV·구리·전력전달 혁신을 통한 공정 리더십 회복 시도이자, 미·중 기술 패권 경쟁 속 미국 내 첨단 파운드리 역량을 강화하려는 움직임이다. 이는 파운드리 고객 유치, 정부 보조금, 동맹국 내 생산 배치 등 글로벌 공급망 재편에 중요한 변수가 될 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "TechInsights",
+          "title": "Intel Panther Lake on Intel 18A: Strategic & Geopolitical Analysis",
+          "url": "https://www.techinsights.com/blog/intel-panter-lake-intel-18a-strategic-geopolitical-analysis"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "SHIFTING",
+      "title": "독일 반도체 팹 투자 러시: 유럽 내 제조 리쇼어링 가속",
+      "summary": "독일을 중심으로 유럽 내 대형 반도체 팹 유치가 본격화되며, 미국·아시아에 집중됐던 파운드리 생산거점이 다극화되는 흐름이 강화되고 있다. 장기 투자와 EU·독일 정부의 보조금, 규제 완화가 결합되면 로직·전력·자동차용 반도체 제조의 유럽 리쇼어링이 가속화돼, 글로벌 공급망 리스크 분산과 장비·소재 밸류체인 이동이 동반될 수 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -240,31 +254,12 @@
       ]
     },
     {
-      "id": 4,
-      "status": "NEW",
-      "title": "GaN·SiC 전력반도체 확산에 따른 고성능 커패시터 수요·설계 기준 변화",
-      "summary": "고주파·고온에서 동작하는 GaN·SiC 전력 시스템이 확산되면서 유전체, ESR, 온도 안정성, 수명 등을 고려한 고성능 커패시터 선택이 설계 경쟁력의 핵심 요소로 부상하고 있다. 이는 전기차, 고효율 전원장치 등에서 전력반도체와 수동소자 간 공동 최적화 설계 필요성을 키우며, 관련 소재·패키징 기술 수요를 동반 확대시킨다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "EE Times",
-          "title": "How to Select High-Performance Capacitors for GaN and SiC Power Systems",
-          "url": "https://www.eetimes.com/how-to-select-high-performance-capacitors-for-gan-and-sic-power-systems/"
-        }
-      ]
-    },
-    {
       "id": 5,
       "status": "NEW",
-      "title": "우주 데이터센터·위성용 AI 인프라가 여는 차세대 반도체 수요",
-      "summary": "우주 데이터센터 및 위성 기반 AI 인프라 구상이 현실화되며, 극한 환경에서 동작 가능한 저전력·내복사 반도체와 혁신적 열관리 솔루션 수요가 커지고 있다. 궤도상의 방열 한계를 해결하기 위한 방열판·유체 루프·방사 냉각 설계와 더불어, SpaceX의 xAI 인수와 같은 대규모 투자가 우주·통신·AI용 특수 반도체 시장 형성을 가속할 가능성이 제기된다.",
-      "articleCount": 2,
+      "title": "우주 데이터센터 구상: 궤도 데이터 인프라용 냉각·전력 설계 과제",
+      "summary": "궤도 데이터센터 구상은 발사 비용보다 진공·미소중력 환경에서의 열 방출과 전력 효율이 핵심 난제로 부상하고 있음을 보여준다. 대형 방열판, 유체 루프, 방사 냉각 등 새로운 패키징·열관리 기술이 요구되며, 우주용 서버·메모리·전력반도체 설계와 우주급 신뢰성 규격이 향후 우주 기반 컴퓨팅 반도체의 주요 연구·투자 분야로 떠오르고 있다.",
+      "articleCount": 1,
       "relatedArticles": [
-        {
-          "source": "EE Times",
-          "title": "SpaceX Acquires xAI for $250 Billion",
-          "url": "https://www.eetimes.com/spacex-acquires-xai-for-250-billion/"
-        },
         {
           "source": "EE Times",
           "title": "The Hidden Physics of Running Data Centers in Orbit",

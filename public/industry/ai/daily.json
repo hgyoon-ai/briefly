@@ -3,14 +3,14 @@
   "highlights": {
     "bullets": [
       "Product 관련 업데이트가 8건 감지됨",
-      "Tooling 관련 업데이트가 8건 감지됨",
-      "Research 관련 업데이트가 7건 감지됨"
+      "Models 관련 업데이트가 8건 감지됨",
+      "Tooling 관련 업데이트가 7건 감지됨"
     ],
     "topTopics": [
       "Product",
+      "Models",
       "Tooling",
-      "Research",
-      "Models"
+      "Research"
     ],
     "stats": {
       "collected": 11,
@@ -25,17 +25,16 @@
       "source": "OpenAI Blog",
       "title": "Introducing OpenAI Frontier",
       "summary": [
-        "OpenAI Frontier는 엔터프라이즈용 AI 에이전트 플랫폼입니다.",
-        "공유 컨텍스트, 온보딩, 권한 관리 및 거버넌스 기능을 제공합니다.",
-        "기업의 에이전트 배포·운영과 규정 준수를 간소화합니다."
+        "OpenAI Frontier는 엔터프라이즈용 AI 에이전트 구축·배포·관리 플랫폼입니다.",
+        "공유 컨텍스트, 온보딩, 권한 관리 및 거버넌스 기능을 통합해 기업용 운영을 지원합니다.",
+        "기업 보안과 거버넌스 요구를 반영해 대규모 도입을 염두에 둔 제품입니다."
       ],
-      "whyItMatters": "기업 차원의 에이전트 운영·보안·거버넌스 수요를 충족해 대규모 도입을 촉진하기 때문에 중요합니다.",
+      "whyItMatters": "통합된 에이전트 관리와 거버넌스 기능이 기업의 AI 도입 속도와 통제 가능성에 즉각적 영향을 주기 때문입니다.",
       "topics": [
         "Product",
         "Tooling",
         "Infra",
-        "Safety",
-        "Business"
+        "Safety"
       ],
       "status": "NEW",
       "hash": "1ae41af387a9ae9436bf53de27811d8c07f5f2e33da7dfa6bb4caee5d27098ba",
@@ -46,13 +45,13 @@
       "tab": "ai",
       "publishedAt": "2026-02-05T09:00:00+09:00",
       "source": "OpenAI Blog",
-      "title": "Introducing GPT-5.3-Codex",
+      "title": "GPT-5.3-Codex System Card",
       "summary": [
-        "OpenAI가 코덱스 네이티브 에이전트 'GPT-5.3-Codex'를 공개했습니다.",
-        "프론티어 수준의 코딩 성능과 일반 추론을 결합해 장기적이고 현실적인 기술 작업을 지원합니다.",
-        "복잡한 소프트웨어 개발·유지보수 등 실무 중심의 장기 과제 수행에 초점을 맞췄습니다."
+        "GPT-5.3-Codex가 발표되어 에이전트형 코딩 모델 중 최고 성능을 주장합니다.",
+        "GPT-5.2-Codex의 최첨단 코딩 능력과 GPT-5.2의 추론 및 전문 지식을 결합했습니다.",
+        "시스템 카드를 통해 성능·설계 정보를 공개하며 도구화와 제품 적용이 용이해졌습니다."
       ],
-      "whyItMatters": "코딩 능력과 일반적 추론을 결합해 복잡하고 장기적인 기술 과제를 자동화·지원할 수 있기 때문입니다.",
+      "whyItMatters": "개발자 도구와 자동화된 코드 생성의 품질이 크게 개선되어 제품·워크플로우에 즉시 영향을 미치기 때문입니다.",
       "topics": [
         "Models",
         "Tooling",
@@ -60,8 +59,8 @@
         "Research"
       ],
       "status": "NEW",
-      "hash": "9aba7995b6a5f362ca76b09c85863efef02e92dd0d9e425aa651d7271abbe5bc",
-      "url": "https://openai.com/index/introducing-gpt-5-3-codex"
+      "hash": "dd64fe3084a4f825eb0e9db4608e08c99ca7d1e4e57eef63edcbeca15ca83d80",
+      "url": "https://openai.com/index/gpt-5-3-codex-system-card"
     },
     {
       "id": "ai_0003",
@@ -70,15 +69,16 @@
       "source": "NVIDIA Developer Blog",
       "title": "How to Build License-Compliant Synthetic Data Pipelines for AI Model Distillation",
       "summary": [
-        "NVIDIA가 라이선스 준수 요건을 충족하는 합성 데이터 파이프라인 설계법을 제시한다.",
-        "파이프라인은 합성 데이터 생성, 라벨링, 품질 검증과 모델 증류 워크플로우 통합에 초점을 맞춘다.",
-        "데이터 출처 추적, 라이선스 메타데이터 관리 및 자동화된 검증 절차를 통해 법적·윤리적 리스크를 줄이는 방법을 강조한다."
+        "합성 데이터를 이용한 모델 증류 파이프라인에서 라이선스 준수 방법을 설명한다.",
+        "데이터 출처 추적·라이선스 메타데이터 유지 및 자동화된 필터링·검증 도구 등 실무 권장사항을 제시한다.",
+        "NVIDIA 사례와 도구·인프라 권고를 통해 실무 적용성과 확장성을 다룬다."
       ],
-      "whyItMatters": "모델 증류 시 성능을 유지하면서도 라이선스·법적 위험을 관리해야 하므로 실무적 중요성이 크다.",
+      "whyItMatters": "합성 데이터의 라이선스 리스크를 관리해야 모델 배포와 상업화를 안전하게 진행할 수 있기 때문에 중요하다.",
       "topics": [
         "Data",
         "Tooling",
-        "Training"
+        "Infra",
+        "Models"
       ],
       "status": "ONGOING",
       "hash": "50b92e95de6edb877745a324105782477e83fc745559bdd611e7c8d731ebab24",
@@ -91,15 +91,16 @@
       "source": "NVIDIA Developer Blog",
       "title": "How Painkiller RTX Uses Generative AI to Modernize Game Assets at Scale",
       "summary": [
-        "Painkiller RTX는 생성형 AI를 도입해 게임 자산을 대규모로 현대화하는 파이프라인을 보여준다.",
-        "소규모 팀이 업스케일링과 리타겟팅을 통해 레이 트레이싱 품질을 달성하면서 자원 소모를 줄였다.",
-        "이 접근법은 제작 시간 단축과 비용 효율성 향상으로 높은 비주얼 품질을 동시에 제공한다."
+        "Painkiller RTX는 생성형 AI를 적용해 소규모 팀이 대규모 게임 자산을 현대화하도록 지원합니다.",
+        "업스케일링과 자동 텍스처 생성 등 AI 기반 워크플로우로 시각적 품질을 높이면서 리소스 사용을 줄입니다.",
+        "한정된 예산과 인력으로도 높은 비주얼 목표를 달성하는 새로운 개발 표준을 제시합니다."
       ],
-      "whyItMatters": "게임 개발에서 소규모 팀도 고품질 RTX 비주얼을 비용·시간 효율적으로 구현할 수 있음을 실무적으로 입증한다.",
+      "whyItMatters": "소규모 개발팀이 고품질 자산을 빠르게 만들고 재사용할 수 있어 개발 생산성과 비용효율성이 크게 향상되기 때문입니다.",
       "topics": [
-        "Models",
+        "Product",
         "Tooling",
-        "Product"
+        "Models",
+        "Infra"
       ],
       "status": "ONGOING",
       "hash": "a654ad0d323275c6f7d221c5d16f40cbd10b758d258f9e2b5655189ba8ed5a01",
@@ -112,11 +113,11 @@
       "source": "Microsoft Research Blog",
       "title": "Paza: Introducing automatic speech recognition benchmarks and models for low resource languages",
       "summary": [
-        "Microsoft Research가 저자원 언어용 음성 인식 파이프라인 Paza와 벤치마크 리더보드 PazaBench를 공개했다.",
-        "PazaBench는 39개 아프리카 언어와 52개 모델을 포괄하는 최초의 저자원 언어 음성 인식 벤치마크다.",
-        "해당 시스템과 벤치마크는 실제 커뮤니티 환경에서 테스트되어 인간 중심 사용 시나리오를 반영한다."
+        "마이크로소프트 리서치는 저자원 언어용 음성 인식 파이프라인 ‘Paza’와 벤치마크 리더보드 ‘PazaBench’를 공개했다.",
+        "이 벤치마크는 39개 아프리카 언어와 52개 모델을 포함해 저자원 언어 음성 인식 성능을 체계적으로 비교·평가한다.",
+        "실제 현지 커뮤니티 환경에서 테스트해 인간 중심 설계와 실사용 적합성을 강조했다."
       ],
-      "whyItMatters": "저자원 언어에 대한 대규모 벤치마크와 모델 공개는 음성 AI의 언어적 포용성과 연구·제품 생태계 확장을 크게 촉진할 수 있기 때문이다.",
+      "whyItMatters": "저자원 언어에 대한 대규모 벤치마크와 모델 공개는 글로벌 음성 인식 기술의 공정성과 포용성을 높이고 향후 연구·제품 개발의 기준점을 제공하기 때문이다.",
       "topics": [
         "Models",
         "Research",

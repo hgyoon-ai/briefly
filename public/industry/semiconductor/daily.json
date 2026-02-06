@@ -3,14 +3,14 @@
   "highlights": {
     "bullets": [
       "Manufacturing 관련 업데이트가 4건 감지됨",
-      "Competition 관련 업데이트가 3건 감지됨",
-      "Roadmap 관련 업데이트가 3건 감지됨"
+      "Roadmap 관련 업데이트가 4건 감지됨",
+      "Policy 관련 업데이트가 2건 감지됨"
     ],
     "topTopics": [
       "Manufacturing",
-      "Competition",
       "Roadmap",
-      "Policy"
+      "Policy",
+      "Investment"
     ],
     "stats": {
       "collected": 4,
@@ -25,18 +25,19 @@
       "source": "TechInsights",
       "title": "Intel Panther Lake on Intel 18A: Strategic & Geopolitical Analysis",
       "summary": [
-        "인텔이 Panther Lake을 자사 18A 공정에서 생산하면 기술적 우위를 강화할 가능성이 큽니다.",
-        "이 결정은 반도체 공급망의 지정학적 재편과 미국 및 우방국 중심의 생산 확대 신호로 해석됩니다.",
-        "결과적으로 투자 유입과 시장 점유율 경쟁, 정책적 지원 경쟁이 심화될 전망입니다."
+        "Panther Lake가 Intel 18A에서 생산되면 인텔의 기술 리더십과 제조 역량이 강화된다.",
+        "이는 미·중 기술 경쟁과 글로벌 공급망 재편에 전략적 영향을 미칠 가능성이 크다.",
+        "생산능력, 투자 계획, 경쟁사 대응에 따라 시장 점유율이 좌우될 것이다."
       ],
-      "whyItMatters": "고급 공정 채택은 기술 경쟁력·공급망 보안·정책적 영향이 동시에 발생해 전략적·지정학적 파급력이 크기 때문입니다.",
+      "whyItMatters": "이 이슈는 제조 능력과 지정학적 리스크를 동시에 건드려 기업 전략과 국가 정책에 직접적 영향을 주기 때문입니다.",
       "topics": [
         "Manufacturing",
-        "Competition",
         "Policy",
-        "Investment"
+        "Competition",
+        "Investment",
+        "Roadmap"
       ],
-      "status": "ONGOING",
+      "status": "SHIFTING",
       "hash": "b5b152941c995f6eb4f635de9323066be452432bb709b62f09d23a18a98c5dff",
       "url": "https://www.techinsights.com/blog/intel-panther-lake-intel-18a-strategic-geopolitical-analysis"
     },
@@ -47,42 +48,41 @@
       "source": "EE Times",
       "title": "Why Now Is the Right Time for Semiconductor Fabs in Germany",
       "summary": [
-        "독일은 반도체 팹 유치에 적합한 환경과 잠재력을 보유하고 있다.",
-        "유럽(특히 독일)으로 반도체 산업을 되돌리려면 장기적인 투자와 일관된 정책이 필요하다.",
-        "재국내화는 공급망 복원성, 고급 인력 활용, 전략적 자립을 강화할 수 있다."
+        "유럽, 특히 독일로 반도체 파운드를 유치하려는 움직임이 본격화되고 있다.",
+        "성공을 위해서는 장기적 투자와 정책적 지원이 필수적이라고 강조한다.",
+        "인프라·인력·공급망 구축이 핵심 과제로 제시된다."
       ],
-      "whyItMatters": "글로벌 공급망 취약성과 전략적 자율성 확보 요구로 장기 투자·정책 지원을 통해 제조 역량을 신속히 복원해야 하기 때문이다.",
+      "whyItMatters": "전략적 자립과 글로벌 공급망 리스크 완화를 위해 지금이 독일에 파운드를 재유치할 적기라는 점을 지적하기 때문이다.",
       "topics": [
         "Manufacturing",
-        "Policy",
         "Investment",
+        "Policy",
         "Roadmap"
       ],
-      "status": "ONGOING",
+      "status": "SHIFTING",
       "hash": "4f7acda30ba0547d76f50dfac384b53658a0b9b44d75d83cb0a26decdce68525",
       "url": "https://www.eetimes.com/why-now-is-the-right-time-for-semiconductor-fabs-in-germany/"
     },
     {
       "id": "semiconductor_0003",
       "tab": "semiconductor",
-      "publishedAt": "2026-02-05T23:00:00+09:00",
+      "publishedAt": "2026-02-06T08:00:00+09:00",
       "source": "EE Times",
-      "title": "How to Select High-Performance Capacitors for GaN and SiC Power Systems",
+      "title": "Fabless Startup Aheesa Tapes Out First Indian RISC-V Network SoC",
       "summary": [
-        "GaN 및 SiC 전력시스템의 고주파·고온 환경에서 요구되는 고성능 커패시터의 선택 기준을 제시합니다.",
-        "유전체 종류, ESR, 온도 안정성, 수명 및 패키징 등 핵심 특성과 설계 고려사항을 비교합니다.",
-        "적절한 재료와 테스트 방법 선택이 시스템 효율성 및 신뢰성 향상에 결정적임을 강조합니다."
+        "Aheesa가 인도 최초의 국산 RISC-V 네트워크 SoC 'VIHAAN-I'를 테이프아웃했다.",
+        "해당 칩은 광인터넷 접속 장비를 구동하도록 설계되어 네트워크 장비에 적용될 예정이다.",
+        "인도 내 반도체 자립과 RISC-V 생태계 확장에 있어 중요한 기술적 이정표다."
       ],
-      "whyItMatters": "GaN·SiC 전력소자의 보급 확대에 따라 커패시터 성능과 신뢰성 확보가 시스템 효율과 시장 경쟁력에 직접적인 영향을 미치기 때문입니다.",
+      "whyItMatters": "이 발표는 네트워크 칩의 현지화와 RISC-V 기반 솔루션 경쟁력 강화에 즉각적 영향을 미치기 때문이다.",
       "topics": [
         "Manufacturing",
-        "Demand",
-        "Competition",
-        "Roadmap"
+        "Roadmap",
+        "Competition"
       ],
       "status": "NEW",
-      "hash": "d0c4f71e077bd586074ee876be7b2522fd4f6fcefbdb5446d2736d050f4a6b00",
-      "url": "https://www.eetimes.com/how-to-select-high-performance-capacitors-for-gan-and-sic-power-systems/"
+      "hash": "b3470056adfa0de02d94f9db354b2b2e199e84b86a71c8bd4a2f6ed909cc717d",
+      "url": "https://www.eetimes.com/fabless-startup-aheesa-tapes-out-first-indian-risc-v-network-soc/"
     }
   ]
 }

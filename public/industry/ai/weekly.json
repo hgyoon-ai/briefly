@@ -14,16 +14,16 @@
       "count": 12
     },
     {
-      "name": "Product",
+      "name": "Infra",
       "count": 10
     },
     {
       "name": "Models",
-      "count": 9
+      "count": 10
     },
     {
-      "name": "Infra",
-      "count": 8
+      "name": "Product",
+      "count": 10
     }
   ],
   "topicTrend": [
@@ -36,7 +36,7 @@
     {
       "date": "2026-01-31",
       "dayOfWeek": "Sat",
-      "topic": "Product",
+      "topic": "Infra",
       "count": 0
     },
     {
@@ -48,7 +48,7 @@
     {
       "date": "2026-01-31",
       "dayOfWeek": "Sat",
-      "topic": "Infra",
+      "topic": "Product",
       "count": 0
     },
     {
@@ -60,7 +60,7 @@
     {
       "date": "2026-02-01",
       "dayOfWeek": "Sun",
-      "topic": "Product",
+      "topic": "Infra",
       "count": 0
     },
     {
@@ -72,7 +72,7 @@
     {
       "date": "2026-02-01",
       "dayOfWeek": "Sun",
-      "topic": "Infra",
+      "topic": "Product",
       "count": 0
     },
     {
@@ -84,7 +84,7 @@
     {
       "date": "2026-02-02",
       "dayOfWeek": "Mon",
-      "topic": "Product",
+      "topic": "Infra",
       "count": 1
     },
     {
@@ -96,7 +96,7 @@
     {
       "date": "2026-02-02",
       "dayOfWeek": "Mon",
-      "topic": "Infra",
+      "topic": "Product",
       "count": 1
     },
     {
@@ -108,7 +108,7 @@
     {
       "date": "2026-02-03",
       "dayOfWeek": "Tue",
-      "topic": "Product",
+      "topic": "Infra",
       "count": 1
     },
     {
@@ -120,7 +120,7 @@
     {
       "date": "2026-02-03",
       "dayOfWeek": "Tue",
-      "topic": "Infra",
+      "topic": "Product",
       "count": 1
     },
     {
@@ -132,7 +132,7 @@
     {
       "date": "2026-02-04",
       "dayOfWeek": "Wed",
-      "topic": "Product",
+      "topic": "Infra",
       "count": 3
     },
     {
@@ -144,7 +144,7 @@
     {
       "date": "2026-02-04",
       "dayOfWeek": "Wed",
-      "topic": "Infra",
+      "topic": "Product",
       "count": 3
     },
     {
@@ -156,8 +156,8 @@
     {
       "date": "2026-02-05",
       "dayOfWeek": "Thu",
-      "topic": "Product",
-      "count": 5
+      "topic": "Infra",
+      "count": 4
     },
     {
       "date": "2026-02-05",
@@ -168,8 +168,8 @@
     {
       "date": "2026-02-05",
       "dayOfWeek": "Thu",
-      "topic": "Infra",
-      "count": 3
+      "topic": "Product",
+      "count": 5
     },
     {
       "date": "2026-02-06",
@@ -180,56 +180,28 @@
     {
       "date": "2026-02-06",
       "dayOfWeek": "Fri",
-      "topic": "Product",
-      "count": 0
+      "topic": "Infra",
+      "count": 1
     },
     {
       "date": "2026-02-06",
       "dayOfWeek": "Fri",
       "topic": "Models",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-02-06",
       "dayOfWeek": "Fri",
-      "topic": "Infra",
+      "topic": "Product",
       "count": 0
     }
   ],
   "topIssues": [
     {
-      "id": 1,
-      "status": "NEW",
-      "title": "엔터프라이즈용 AI 에이전트 플랫폼 등장: OpenAI Frontier",
-      "summary": "OpenAI Frontier가 엔터프라이즈 환경을 겨냥한 AI 에이전트 플랫폼으로 공개됐다. 조직 내 여러 에이전트를 공유 컨텍스트로 묶고, 온보딩·권한 관리·거버넌스 기능을 통합 제공해 대규모 실무 워크플로우 자동화를 노린다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "OpenAI Blog",
-          "title": "Introducing OpenAI Frontier",
-          "url": "https://openai.com/index/introducing-openai-frontier"
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "status": "NEW",
-      "title": "프론티어급 코드 에이전트: GPT-5.3-Codex 공개",
-      "summary": "OpenAI가 장기·복합 소프트웨어 개발 작업을 겨냥한 코딩 특화 에이전트 GPT-5.3-Codex를 발표했다. 뛰어난 코드 생성·수정·리팩터링 능력에 더해 일반 추론 성능을 결합해, 현실적인 엔지니어링 워크플로우를 끝까지 수행하는 것을 목표로 한다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "OpenAI Blog",
-          "title": "Introducing GPT-5.3-Codex",
-          "url": "https://openai.com/index/introducing-gpt-5-3-codex"
-        }
-      ]
-    },
-    {
-      "id": 3,
+      "id": "ai-1",
       "status": "ONGOING",
-      "title": "라이선스 준수 합성 데이터와 모델 증류 파이프라인",
-      "summary": "NVIDIA는 합성 데이터를 활용해 모델을 증류할 때 라이선스 문제를 피할 수 있는 파이프라인 설계를 제안한다. 데이터 생성·라벨링·품질 검증을 한 흐름으로 통합하고, 저작권·라이선스 제약을 만족하는 합성 데이터만을 사용해 상용 모델 학습을 가능하게 하는 방법론에 초점을 맞춘다.",
+      "title": "합성 데이터 기반 AI 모델 증류 파이프라인의 라이선스 준수 전략",
+      "summary": "합성 데이터를 활용한 모델 증류 과정에서 원천 데이터의 저작권·라이선스를 체계적으로 추적하고, 메타데이터 관리·자동 필터링·검증 도구를 통해 법적 리스크를 줄이기 위한 실무 가이드가 제시된다. AI 개발 조직은 데이터 파이프라인 설계 단계부터 라이선스 준수를 내재화해야 한다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -240,10 +212,38 @@
       ]
     },
     {
-      "id": 4,
+      "id": "ai-2",
+      "status": "ONGOING",
+      "title": "생성형 AI를 활용한 게임 자산 현대화와 소규모 팀의 생산성 제고",
+      "summary": "Painkiller RTX 사례를 통해 업스케일링, 자동 텍스처 생성 등 생성형 AI 워크플로우로 기존 게임 자산을 대량·고품질로 리마스터하는 방식이 소개된다. 이는 소규모 개발 팀도 AAA급 비주얼을 구현할 수 있도록 비용과 인력 부담을 크게 줄여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "How Painkiller RTX Uses Generative AI to Modernize Game Assets at Scale",
+          "url": "https://developer.nvidia.com/blog/how-painkiller-rtx-uses-generative-ai-to-modernize-game-assets-at-scale/"
+        }
+      ]
+    },
+    {
+      "id": "ai-3",
       "status": "NEW",
-      "title": "RAG 고도화를 위한 문서 전처리·파싱 파이프라인",
-      "summary": "NVIDIA는 Nemotron 기반 RAG 시스템의 정확도를 높이기 위해 복잡한 문서 파싱 파이프라인을 소개했다. 비정형 PDF, 중첩된 표, 차트 내 데이터 등 다양한 형식의 정보를 구조화해 임베딩·검색에 적합한 형태로 변환하는 실무형 문서 처리 기법이 핵심이다.",
+      "title": "저자원 언어용 음성 인식 벤치마크와 모델 ‘Paza’ 공개",
+      "summary": "마이크로소프트 리서치는 39개 아프리카 언어와 52개 모델을 포괄하는 Paza/PazaBench를 공개해 저자원 언어 자동 음성 인식 성능을 체계적으로 비교·평가할 수 있는 공통 기준을 제시했다. 이는 글로벌 AI 접근성 확대와 다국어 모델 연구의 가속화를 뒷받침한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Microsoft Research Blog",
+          "title": "Paza: Introducing automatic speech recognition benchmarks and models for low resource languages",
+          "url": "https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/"
+        }
+      ]
+    },
+    {
+      "id": "ai-4",
+      "status": "NEW",
+      "title": "Nemotron 기반 RAG 문서 처리 파이프라인으로 비정형 데이터 활용 강화",
+      "summary": "엔비디아는 Nemotron을 활용해 복잡한 PDF, 중첩 표, 차트 데이터를 자동 파싱하는 RAG 전처리 파이프라인을 제안한다. 이를 통해 기업은 기존 문서 자산에서 구조화된 지식을 추출해 검색 증강 생성(RAG) 시스템의 정확도와 커버리지를 높일 수 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -254,16 +254,16 @@
       ]
     },
     {
-      "id": 5,
+      "id": "ai-5",
       "status": "NEW",
-      "title": "저자원 언어 음성 인식을 위한 Paza/PazaBench 생태계",
-      "summary": "Microsoft Research는 아프리카 39개 저자원 언어를 아우르는 음성 인식 파이프라인 Paza와 벤치마크 리더보드 PazaBench를 공개했다. 52개 모델을 공통 기준으로 비교해, 데이터와 모델이 부족한 언어권에서도 ASR 연구·서비스 개발을 가속화하는 것을 목표로 한다.",
+      "title": "엔터프라이즈 AI 에이전트 운영을 위한 OpenAI Frontier 플랫폼 출시",
+      "summary": "OpenAI Frontier는 기업용 AI 에이전트의 구축·배포·운영을 위한 통합 플랫폼으로, 공유 컨텍스트 관리, 온보딩, 권한·거버넌스 기능을 제공한다. 이를 통해 여러 팀과 업무 흐름에 걸친 에이전트 협업과 통제 가능한 운영 모델을 구현할 수 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "Microsoft Research Blog",
-          "title": "Paza: Introducing automatic speech recognition benchmarks and models for low resource languages",
-          "url": "https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/"
+          "source": "OpenAI Blog",
+          "title": "Introducing OpenAI Frontier",
+          "url": "https://openai.com/index/introducing-openai-frontier"
         }
       ]
     }

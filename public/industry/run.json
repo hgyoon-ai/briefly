@@ -1,6 +1,6 @@
 {
-  "id": "2026-02-06T06:51:45.270668+09:00",
-  "ts": "2026-02-06T06:51:45.270668+09:00",
+  "id": "2026-02-06T08:40:20.026926+09:00",
+  "ts": "2026-02-06T08:40:20.026926+09:00",
   "timezone": "Asia/Seoul",
   "selectedTabs": [
     "ai",
@@ -9,7 +9,7 @@
     "ev"
   ],
   "pipeline": {
-    "rawTotal": 231,
+    "rawTotal": 216,
     "rawClamped": 150,
     "deduped": 150,
     "dedupedSelected": 150,
@@ -40,7 +40,7 @@
       "total": 0
     },
     "hn": {
-      "total": 15
+      "total": 0
     }
   },
   "llm": {
@@ -83,7 +83,7 @@
         "cards": 3
       },
       "weekly": {
-        "items": 16,
+        "items": 15,
         "issues": 5
       },
       "monthly": {
