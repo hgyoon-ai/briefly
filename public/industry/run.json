@@ -1,6 +1,6 @@
 {
-  "id": "2026-02-06T08:40:20.026926+09:00",
-  "ts": "2026-02-06T08:40:20.026926+09:00",
+  "id": "2026-02-07T06:51:42.304369+09:00",
+  "ts": "2026-02-07T06:51:42.304369+09:00",
   "timezone": "Asia/Seoul",
   "selectedTabs": [
     "ai",
@@ -9,7 +9,7 @@
     "ev"
   ],
   "pipeline": {
-    "rawTotal": 216,
+    "rawTotal": 215,
     "rawClamped": 150,
     "deduped": 150,
     "dedupedSelected": 150,
@@ -17,7 +17,7 @@
   },
   "sources": {
     "rss": {
-      "total": 186,
+      "total": 185,
       "bySource": {
         "OpenAI Blog": 15,
         "Google DeepMind Blog": 15,
@@ -30,7 +30,7 @@
         "EE Times": 10,
         "TechInsights": 10,
         "Electrek": 15,
-        "정책브리핑": 2,
+        "정책브리핑": 1,
         "매일경제(증권)": 15,
         "보안뉴스": 10,
         "벤처스퀘어": 15
@@ -51,43 +51,43 @@
   "tabs": {
     "ai": {
       "daily": {
-        "raw": 11,
-        "cards": 5
+        "raw": 3,
+        "cards": 3
       },
       "weekly": {
-        "items": 16,
+        "items": 19,
         "issues": 5
       },
       "monthly": {
-        "items": 39,
-        "issues": 5
+        "items": 42,
+        "issues": 4
       }
     },
     "finance": {
       "daily": {
         "raw": 6,
-        "cards": 4
+        "cards": 3
+      },
+      "weekly": {
+        "items": 19,
+        "issues": 5
+      },
+      "monthly": {
+        "items": 34,
+        "issues": 5
+      }
+    },
+    "semiconductor": {
+      "daily": {
+        "raw": 5,
+        "cards": 3
       },
       "weekly": {
         "items": 18,
         "issues": 5
       },
       "monthly": {
-        "items": 31,
-        "issues": 5
-      }
-    },
-    "semiconductor": {
-      "daily": {
-        "raw": 4,
-        "cards": 3
-      },
-      "weekly": {
-        "items": 15,
-        "issues": 5
-      },
-      "monthly": {
-        "items": 30,
+        "items": 33,
         "issues": 5
       }
     },
@@ -101,7 +101,7 @@
         "issues": 5
       },
       "monthly": {
-        "items": 23,
+        "items": 25,
         "issues": 5
       }
     }
