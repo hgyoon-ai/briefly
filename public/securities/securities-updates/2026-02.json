@@ -2,6 +2,52 @@
   "month": "2026-02",
   "events": [
     {
+      "id": "news:메리츠증권:https://www.hankyung.com/article/2026020680456",
+      "date": "2026-02-06",
+      "company": "메리츠증권",
+      "title": "\"스튜디오드래곤, 제작 편수 확대로 실적 개선 전망\"-메리츠",
+      "oneLiner": "메리츠증권의 리포트로 스튜디오드래곤이 제작 편수 확대에 따라 실적 개선이 전망된다는 분석을 제시함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "\"스튜디오드래곤, 제작 편수 확대로 실적 개선 전망\"-메리츠",
+          "url": "https://www.hankyung.com/article/2026020680456"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-06"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202602060833472294",
+      "date": "2026-02-06",
+      "company": "한국투자증권",
+      "title": "한투운용 ACE 고배당주 ETF, 순자산액 500억원 돌파",
+      "oneLiner": "한국투자신탁운용의 ACE 고배당주 ETF 순자산액이 상장 두 달여 만에 500억원을 돌파했다는 공지로, 상품 운용 규모 증가를 알리는 중요한 지표 변화임.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투운용 ACE 고배당주 ETF, 순자산액 500억원 돌파",
+          "url": "https://www.fnnews.com/news/202602060833472294"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-06"
+    },
+    {
       "id": "news:메리츠증권:https://www.mk.co.kr/news/stock/11954670",
       "date": "2026-02-05",
       "company": "메리츠증권",
