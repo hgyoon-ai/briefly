@@ -7,18 +7,45 @@
   },
   "clusters": [
     {
+      "id": "2a4dd2512404d72ed64ec0752c5d6b66d1f1a079",
+      "name": "The Waymo World Model",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 1186.2,
+      "oneLiner": "자율주행 시뮬레이션을 위한 Waymo의 세계 모델을 소개하는 글",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "893p · 542c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=46914785"
+        },
+        {
+          "label": "Source",
+          "url": "https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation"
+        }
+      ],
+      "tags": []
+    },
+    {
       "id": "1328f81364c4ed47fc10d1c5bc0bcaa6b685e6ed",
       "name": "I now assume that all ads on Apple news are scams",
       "section": "discussions",
       "status": "NEW",
-      "score": 975.6,
-      "oneLiner": "I now assume that all ads on Apple news are scams에 대한 공유/분석 글입니다.",
+      "score": 1142.4,
+      "oneLiner": "Apple News의 모든 광고를 사기로 의심하게 된 경험을 서술한 글",
       "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "870p · 378c"
+          "value": "1042p · 431c"
         }
       ],
       "links": [
@@ -38,14 +65,14 @@
       "name": "TikTok's 'addictive design' found to be illegal in Europe",
       "section": "discussions",
       "status": "NEW",
-      "score": 836.4,
-      "oneLiner": "TikTok's 'addictive design' found to be illegal in Europe에 대한 공유/분석 글입니다.",
+      "score": 920.4,
+      "oneLiner": "틱톡의 중독성 디자인이 유럽에서 불법으로 판정되었다는 보도",
       "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "564p · 415c"
+          "value": "624p · 455c"
         }
       ],
       "links": [
@@ -61,45 +88,18 @@
       "tags": []
     },
     {
-      "id": "2a4dd2512404d72ed64ec0752c5d6b66d1f1a079",
-      "name": "The Waymo World Model",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 773.4,
-      "oneLiner": "The Waymo World Model에 대한 공유/분석 글입니다.",
-      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "569p · 360c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=46914785"
-        },
-        {
-          "label": "Source",
-          "url": "https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation"
-        }
-      ],
-      "tags": []
-    },
-    {
       "id": "bcb70bdee215305f18731dfd257793ee93040804",
       "name": "A new bill in New York would require disclaimers on AI-generated news content",
       "section": "discussions",
       "status": "NEW",
-      "score": 529.2,
-      "oneLiner": "A new bill in New York would require disclaimers on AI-generated news content에 대한 공유/분석 글입니다.",
+      "score": 589.2,
+      "oneLiner": "뉴욕에서 AI 생성 뉴스에 면책 고지 표시를 의무화하는 법안 제안 소식",
       "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "482p · 200c"
+          "value": "536p · 223c"
         }
       ],
       "links": [
@@ -115,28 +115,138 @@
       "tags": []
     },
     {
+      "id": "5a029cd3dd4ebf1a257130527d47e843fb6d5142",
+      "name": "NIMBYs aren't just shutting down housing",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 556.8,
+      "oneLiner": "NIMBY가 단순히 주택 공급만 막는 것이 아니라는 논의",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "166p · 381c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=46914094"
+        },
+        {
+          "label": "Source",
+          "url": "https://inpractice.yimbyaction.org/p/nimbys-arent-just-shutting-down-housing"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "583500ceeb55ffa15bcd6f1794717623c685c845",
+      "name": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 555.6,
+      "oneLiner": "문명 III을 오픈소스와 크로스플랫폼으로 재구성한 프로젝트",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "588p · 169c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=46918612"
+        },
+        {
+          "label": "Source",
+          "url": "https://openciv3.org/"
+        }
+      ],
+      "tags": [
+        "infra"
+      ]
+    },
+    {
+      "id": "f7b632a23fcf8d748241fca8eb914c3cc6eac71f",
+      "name": "An Update on Heroku",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 549.6,
+      "oneLiner": "Heroku의 최근 변경 내용과 소식을 알리는 블로그 글",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "390p · 263c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=46913903"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.heroku.com/blog/an-update-on-heroku/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "752177905c14aba6e1b05b1585818fdd97fb881e",
+      "name": "Hackers (1995) Animated Experience",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 546.0,
+      "oneLiner": "Hackers(1995)를 애니메이션 형식으로 재구성한 체험 사이트",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "454p · 228c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=46912800"
+        },
+        {
+          "label": "Source",
+          "url": "https://hackers-1995.vercel.app/"
+        }
+      ],
+      "tags": []
+    },
+    {
       "id": "701ac1369dc464d8a56a3ba0230d261c30eefb3a",
       "name": "HKUDS/nanobot",
       "section": "releases",
       "status": "ONGOING",
-      "score": 482.12,
-      "oneLiner": "🐈 nanobot: The Ultra-Lightweight Clawdbot",
+      "score": 515.56,
+      "oneLiner": "초경량 Clawdbot인 nanobot을 소개하는 깃허브 저장소",
       "whyNow": "버전 업데이트 이후 재확산이 시작된 흐름입니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "10,847"
+          "value": "11,620"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "1,412"
+          "value": "1,538"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-02-06"
+          "value": "2026-02-07"
         },
         {
           "source": "GitHub",
@@ -157,114 +267,33 @@
       "tags": []
     },
     {
-      "id": "8a80cc64ba13f8018e35c7f75daa304d68623c1f",
-      "name": "GitHub Actions is slowly killing engineering teams",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 432.6,
-      "oneLiner": "GitHub Actions is slowly killing engineering teams에 대한 공유/분석 글입니다.",
-      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "351p · 185c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=46908491"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "9ff22cb0c056fb430f6b024d0fab11fc64aceff7",
-      "name": "The RCE that AMD won't fix",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 400.2,
-      "oneLiner": "The RCE that AMD won't fix에 대한 공유/분석 글입니다.",
-      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "357p · 155c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=46906947"
-        },
-        {
-          "label": "Source",
-          "url": "https://mrbruh.com/amd/"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "752177905c14aba6e1b05b1585818fdd97fb881e",
-      "name": "Hackers (1995) Animated Experience",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 399.6,
-      "oneLiner": "Hackers (1995) Animated Experience에 대한 공유/분석 글입니다.",
-      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "314p · 176c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=46912800"
-        },
-        {
-          "label": "Source",
-          "url": "https://hackers-1995.vercel.app/"
-        }
-      ],
-      "tags": []
-    },
-    {
       "id": "2bc8f4adb2619bda2cf61f8efa47a745994101c5",
       "name": "microsoft/litebox",
       "section": "discussions",
       "status": "NEW",
-      "score": 329.64,
-      "oneLiner": "A security-focused library OS supporting kernel- and user-mode execution",
+      "score": 457.64,
+      "oneLiner": "커널 및 유저 모드 실행을 지원하는 보안 중심 라이브러리 OS",
       "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "666"
+          "value": "862"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "30"
+          "value": "38"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-02-06"
+          "value": "2026-02-07"
         },
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "248p · 128c"
+          "value": "352p · 176c"
         }
       ],
       "links": [
@@ -282,172 +311,28 @@
       ]
     },
     {
-      "id": "f7b632a23fcf8d748241fca8eb914c3cc6eac71f",
-      "name": "An Update on Heroku",
+      "id": "fa92396f20122482077c1e4f80f7e92aac2cef6e",
+      "name": "How to effectively write quality code with AI",
       "section": "discussions",
       "status": "NEW",
-      "score": 314.4,
-      "oneLiner": "An Update on Heroku에 대한 공유/분석 글입니다.",
-      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다.",
+      "score": 351.0,
+      "oneLiner": "AI로 양질의 코드를 효과적으로 작성하는 방법을 정리한 글",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "204p · 160c"
+          "value": "231p · 177c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=46913903"
+          "url": "https://news.ycombinator.com/item?id=46916586"
         },
         {
           "label": "Source",
-          "url": "https://www.heroku.com/blog/an-update-on-heroku/"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "bd8f58dc31da36678492442af948757ffa381df7",
-      "name": "Systems Thinking",
-      "section": "trending",
-      "status": "NEW",
-      "score": 287.4,
-      "oneLiner": "Systems Thinking에 대한 공유/분석 글입니다.",
-      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 블로그 해석과 후기가 빠르게 붙는 흐름입니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "251p · 114c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=46909439"
-        },
-        {
-          "label": "Source",
-          "url": "http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "af0a5ce2841ca08c1dbc54ddd8d21bc90d4c046a",
-      "name": "Things Unix can do atomically (2010)",
-      "section": "trending",
-      "status": "NEW",
-      "score": 250.2,
-      "oneLiner": "Things Unix can do atomically (2010)에 대한 공유/분석 글입니다.",
-      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "239p · 89c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=46909468"
-        },
-        {
-          "label": "Source",
-          "url": "https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "ad1b6425d4a33d07b4f584dd9b90084d61a859f1",
-      "name": "gavrielc/nanoclaw",
-      "section": "trending",
-      "status": "ONGOING",
-      "score": 242.4,
-      "oneLiner": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
-      "whyNow": "활동성과 관심도가 같이 살아 있는 프로젝트입니다. 에이전트 활용 흐름과 맞물려 주목이 커지고 있습니다.",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "metric": "stars",
-          "value": "5,744"
-        },
-        {
-          "source": "GitHub",
-          "metric": "forks",
-          "value": "632"
-        },
-        {
-          "source": "GitHub",
-          "metric": "updated",
-          "value": "2026-02-06"
-        }
-      ],
-      "links": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/gavrielc/nanoclaw"
-        }
-      ],
-      "tags": [
-        "agent tooling",
-        "security"
-      ]
-    },
-    {
-      "id": "a1a162b130b1e4a24a76f8e285191819b02f3e40",
-      "name": "Sheldon Brown's Bicycle Technical Info",
-      "section": "trending",
-      "status": "NEW",
-      "score": 211.8,
-      "oneLiner": "Sheldon Brown's Bicycle Technical Info에 대한 공유/분석 글입니다.",
-      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "237p · 58c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=46914159"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.sheldonbrown.com/"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "be7a1ff211fe54c0dd844977325288642b746681",
-      "name": "Invention of DNA \"page numbers\" opens up possibilities for the bioeconomy",
-      "section": "trending",
-      "status": "NEW",
-      "score": 186.6,
-      "oneLiner": "Invention of DNA \"page numbers\" opens up possibilities for the bioeconomy에 대한 공유/분석 글입니다.",
-      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "133p · 89c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=46911170"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.caltech.edu/about/news/invention-dna-page-numbers-synthesis-kaihang-wang"
+          "url": "https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/"
         }
       ],
       "tags": []
@@ -455,16 +340,16 @@
     {
       "id": "eecc8572461699aeb6e933a10a316bca720c1f65",
       "name": "Show HN: I spent 4 years building a UI design tool with only the features I use",
-      "section": "trending",
+      "section": "discussions",
       "status": "NEW",
-      "score": 175.2,
-      "oneLiner": "Show HN: I spent 4 years building a UI design tool with only the features I use에 대한 공유/분석 글입니다.",
+      "score": 349.8,
+      "oneLiner": "필요한 기능만 담아 4년간 만든 개인용 UI 디자인 도구 공개",
       "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "158p · 67c"
+          "value": "311p · 136c"
         }
       ],
       "links": [
@@ -480,28 +365,184 @@
       "tags": []
     },
     {
-      "id": "613dda5b13b3afa7c2ab044c1d839d4adf80dfe9",
-      "name": "Show HN: Artifact Keeper – Open-Source Artifactory/Nexus Alternative in Rust",
-      "section": "trending",
+      "id": "352077c8b5c8bb56b33968cd6237227dc1534875",
+      "name": "Show HN: If you lose your memory, how to regain access to your computer?",
+      "section": "discussions",
       "status": "NEW",
-      "score": 153.0,
-      "oneLiner": "Show HN: Artifact Keeper – Open-Source Artifactory/Nexus Alternative in Rust에 대한 공유/분석 글입니다.",
-      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
+      "score": 337.8,
+      "oneLiner": "기억을 잃었을 때 컴퓨터 접근을 회복하는 방법을 안내하는 프로젝트",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "141p · 57c"
+          "value": "255p · 154c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=46909037"
+          "url": "https://news.ycombinator.com/item?id=46916609"
         },
         {
           "label": "Source",
-          "url": "https://github.com/artifact-keeper"
+          "url": "https://eljojo.github.io/rememory/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "a1a162b130b1e4a24a76f8e285191819b02f3e40",
+      "name": "Sheldon Brown's Bicycle Technical Info",
+      "section": "trending",
+      "status": "NEW",
+      "score": 322.2,
+      "oneLiner": "자전거 정비와 기술 자료를 모아둔 Sheldon Brown의 참고 사이트",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "353p · 92c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=46914159"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.sheldonbrown.com/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "5534aca564f0dd20197394bc10c889affa092e92",
+      "name": "pydantic/monty",
+      "section": "releases",
+      "status": "NEW",
+      "score": 313.76,
+      "oneLiner": "AI용으로 설계된 Rust 기반의 최소·보안 Python 인터프리터",
+      "whyNow": "새 릴리즈 영향으로 관심이 재점화되고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "1,609"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "40"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-02-07"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v0.0.3"
+        },
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "199p · 91c"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/pydantic/monty"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/pydantic/monty/releases/tag/v0.0.3"
+        },
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=46918254"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "ad1b6425d4a33d07b4f584dd9b90084d61a859f1",
+      "name": "gavrielc/nanoclaw",
+      "section": "trending",
+      "status": "ONGOING",
+      "score": 248.2,
+      "oneLiner": "애플 컨테이너에서 동작하며 WhatsApp 연동과 메모리·스케줄을 지원하는 경량 Claw 프로젝트",
+      "whyNow": "활동성과 관심도가 같이 살아 있는 프로젝트입니다. 에이전트 활용 흐름과 맞물려 주목이 커지고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "5,874"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "662"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-02-07"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/gavrielc/nanoclaw"
+        }
+      ],
+      "tags": [
+        "agent tooling",
+        "security"
+      ]
+    },
+    {
+      "id": "59bb0e7945b8e8921b5c6efd630faf4822112632",
+      "name": "valdanylchuk/breezydemo",
+      "section": "trending",
+      "status": "NEW",
+      "score": 153.2,
+      "oneLiner": "esp32s3용 BreezyBox 쉘 동작을 시연하는 데모 프로젝트",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "123"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "4"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-02-07"
+        },
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "199p · 24c"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/valdanylchuk/breezydemo"
+        },
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=46918429"
         }
       ],
       "tags": []
@@ -511,24 +552,24 @@
       "name": "sheeki03/tirith",
       "section": "releases",
       "status": "ONGOING",
-      "score": 79.4,
-      "oneLiner": "Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.",
+      "score": 80.62,
+      "oneLiner": "터미널에서 의심스러운 URL과 ANSI 주입, 파이프-투-쉘 공격을 차단하는 도구",
       "whyNow": "새 릴리즈 영향으로 관심이 재점화되고 있습니다. 보안 관점에서 재점검 흐름이 이어지고 있습니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "1,464"
+          "value": "1,494"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "42"
+          "value": "43"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-02-06"
+          "value": "2026-02-07"
         },
         {
           "source": "GitHub",
@@ -551,67 +592,67 @@
       ]
     },
     {
-      "id": "7388a74dd20af0f1e7f15d55ab086dd6c4af1b40",
-      "name": "anthropics/claudes-c-compiler",
-      "section": "trending",
-      "status": "NEW",
-      "score": 44.9,
-      "oneLiner": "Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.",
-      "whyNow": "개발 신호가 이어지면서 사용 사례가 늘고 있습니다.",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "metric": "stars",
-          "value": "1,095"
-        },
-        {
-          "source": "GitHub",
-          "metric": "forks",
-          "value": "55"
-        },
-        {
-          "source": "GitHub",
-          "metric": "updated",
-          "value": "2026-02-06"
-        }
-      ],
-      "links": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/anthropics/claudes-c-compiler"
-        }
-      ],
-      "tags": []
-    },
-    {
       "id": "d8270c644332ea4ced2944b60ba7fb6319f92e50",
       "name": "BlockRunAI/ClawRouter",
       "section": "trending",
       "status": "NEW",
-      "score": 41.3,
-      "oneLiner": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
+      "score": 53.16,
+      "oneLiner": "여러 LLM을 라우팅해 추론 비용 절감과 결제 처리를 지원하는 스마트 라우터",
       "whyNow": "커밋/업데이트가 이어져 당분간 추이를 보기에 좋습니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "977"
+          "value": "1,262"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "111"
+          "value": "134"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-02-06"
+          "value": "2026-02-07"
         }
       ],
       "links": [
         {
           "label": "GitHub",
           "url": "https://github.com/BlockRunAI/ClawRouter"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "7388a74dd20af0f1e7f15d55ab086dd6c4af1b40",
+      "name": "anthropics/claudes-c-compiler",
+      "section": "trending",
+      "status": "NEW",
+      "score": 51.74,
+      "oneLiner": "의존성 없는 Rust 기반 C 컴파일러로 여러 아키텍처 백엔드를 제공하는 프로젝트",
+      "whyNow": "개발 신호가 이어지면서 사용 사례가 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "1,262"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "63"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-02-07"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/anthropics/claudes-c-compiler"
         }
       ],
       "tags": []
