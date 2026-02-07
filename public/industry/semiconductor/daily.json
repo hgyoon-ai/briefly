@@ -1,87 +1,14 @@
 {
-  "date": "2026-02-07",
+  "date": "2026-02-08",
   "highlights": {
     "bullets": [
-      "Roadmap 관련 업데이트가 5건 감지됨",
-      "Competition 관련 업데이트가 4건 감지됨",
-      "Manufacturing 관련 업데이트가 3건 감지됨"
+      "오늘은 소식이 드문 날이에요. 주간/월간 탭에서 전체 흐름을 확인해 보세요."
     ],
-    "topTopics": [
-      "Roadmap",
-      "Competition",
-      "Manufacturing",
-      "Investment"
-    ],
+    "topTopics": [],
     "stats": {
-      "collected": 5,
-      "deduped": 5
+      "collected": 0,
+      "deduped": 0
     }
   },
-  "cards": [
-    {
-      "id": "semiconductor_0001",
-      "tab": "semiconductor",
-      "publishedAt": "2026-02-06T22:56:21+09:00",
-      "source": "EE Times",
-      "title": "SiTime Bolsters Timing Portfolio with Renesas-Acquired Clocks",
-      "summary": [
-        "SiTime이 Renesas의 클록 자산을 32억 달러에 인수했습니다.",
-        "이번 인수로 SiTime의 매출이 두 배로 증가하고 타이밍 포트폴리오가 대폭 확대됩니다.",
-        "회사는 AI 데이터센터 수요를 겨냥해 제품 라인업과 시장 공략을 강화합니다."
-      ],
-      "whyItMatters": "이번 거래는 SiTime의 규모와 제품 범위를 단번에 확장해 AI 데이터센터 수요를 겨냥한 경쟁력과 시장 지위를 크게 강화하기 때문입니다.",
-      "topics": [
-        "Investment",
-        "Roadmap",
-        "Competition",
-        "Demand"
-      ],
-      "status": "SHIFTING",
-      "hash": "7e2acaf39c3deedbb3fdcb7d11228dbc0e9f6e65881f836e54a6b26101c5a417",
-      "url": "https://www.eetimes.com/sitime-bolsters-timing-portfolio-with-renesas-acquired-clocks/"
-    },
-    {
-      "id": "semiconductor_0002",
-      "tab": "semiconductor",
-      "publishedAt": "2026-02-06T22:26:28+09:00",
-      "source": "EE Times",
-      "title": "Google Bets Big on Power Generation to Fuel AI",
-      "summary": [
-        "구글은 AI 수요를 충족하기 위해 자체 전력 생산 역량을 확대하려 한다.",
-        "이는 전력·유틸리티 업계와의 경쟁을 촉발하고 데이터센터 인프라 투자 방향을 바꿀 수 있다.",
-        "전력 제어는 AI 확장성, 비용 구조, 기술 로드맵 재편의 핵심 변수가 될 전망이다."
-      ],
-      "whyItMatters": "AI 서비스 확장과 비용 절감에 직접 영향을 줘 클라우드·인프라 시장의 경쟁과 투자 지형을 재정의할 수 있기 때문이다.",
-      "topics": [
-        "Investment",
-        "Competition",
-        "Manufacturing",
-        "Roadmap"
-      ],
-      "status": "ONGOING",
-      "hash": "935d50f86eeffebe97e05d8807dd284042e957c069f422d2afbd61e549f286dd",
-      "url": "https://www.eetimes.com/google-bets-big-on-power-generation-to-fuel-ai/"
-    },
-    {
-      "id": "semiconductor_0003",
-      "tab": "semiconductor",
-      "publishedAt": "2026-02-06T17:00:00+09:00",
-      "source": "Samsung Newsroom",
-      "title": "[Interview] Growth Through HVAC: Samsung Leads the Market With AI and Hyperconnected Solutions",
-      "summary": [
-        "삼성전자가 AHR Expo에서 AI 기반 하이퍼커넥티드 HVAC 솔루션을 공개하며 시장 주도 의지를 보였다.",
-        "전시회에는 1,800개 이상의 글로벌 기업이 모여 최신 기술과 비즈니스 기회가 집중됐다.",
-        "이번 발표는 경쟁 구도 변화와 수요 확대, 제품 로드맵에 직접적인 영향을 미칠 것으로 보인다."
-      ],
-      "whyItMatters": "삼성의 AI·연결성 강화 전략이 HVAC 시장에서 경쟁력과 향후 로드맵·수요를 즉시 강화할 가능성이 있기 때문이다.",
-      "topics": [
-        "Competition",
-        "Roadmap",
-        "Demand"
-      ],
-      "status": "ONGOING",
-      "hash": "8792566b93c518adf603480c4e621f4748ecdcc00ca8de46da467abfb73e16e4",
-      "url": "https://news.samsung.com/global/interview-growth-through-hvac-samsung-leads-the-market-with-ai-and-hyperconnected-solutions"
-    }
-  ]
+  "cards": []
 }
