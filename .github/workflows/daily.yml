@@ -144,6 +144,7 @@ jobs:
       - name: Run developer pipeline
         env:
           MY_GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python3 -m scripts.run_developer_pipeline
 
       - name: Commit updates
