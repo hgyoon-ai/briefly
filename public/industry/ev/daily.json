@@ -1,66 +1,14 @@
 {
-  "date": "2026-02-08",
+  "date": "2026-02-09",
   "highlights": {
     "bullets": [
-      "Roadmap 관련 업데이트가 6건 감지됨",
-      "Competition 관련 업데이트가 5건 감지됨",
-      "Demand 관련 업데이트가 4건 감지됨"
+      "오늘은 소식이 드문 날이에요. 주간/월간 탭에서 전체 흐름을 확인해 보세요."
     ],
-    "topTopics": [
-      "Roadmap",
-      "Competition",
-      "Demand",
-      "Investment"
-    ],
+    "topTopics": [],
     "stats": {
-      "collected": 7,
-      "deduped": 7
+      "collected": 0,
+      "deduped": 0
     }
   },
-  "cards": [
-    {
-      "id": "ev_0001",
-      "tab": "ev",
-      "publishedAt": "2026-02-08T02:17:07+09:00",
-      "source": "Electrek",
-      "title": "Autonomous, battery-swap mining truck gets big-buck boost from BYD [video]",
-      "summary": [
-        "중국 장비 브랜드 Boonray가 자율주행 및 배터리 교환 방식의 전기 광산 트럭을 개발했다.",
-        "글로벌 전기차 선도 기업 BYD가 이 트럭에 수백만 달러 규모의 투자를 단행했다.",
-        "이번 협력은 전기 광산 장비와 배터리 스왑 기술을 활용한 광산 산업 혁신 가능성을 높이고 있다."
-      ],
-      "whyItMatters": "BYD의 대규모 투자는 배터리 스왑 기반 전기 중장비와 자율주행 광산 트럭 시장의 성장 잠재력과 사업화 가능성을 뒷받침하는 신호이기 때문이다.",
-      "topics": [
-        "Investment",
-        "Roadmap",
-        "Manufacturing",
-        "Demand"
-      ],
-      "status": "NEW",
-      "hash": "9f7488383bdb18c09fd7f966f0e7895dcb14ffa28862c5041a1f7fe1d3489e56",
-      "url": "https://electrek.co/2026/02/07/autonomous-battery-swap-mining-truck-gets-big-buck-boost-from-byd/"
-    },
-    {
-      "id": "ev_0002",
-      "tab": "ev",
-      "publishedAt": "2026-02-08T00:48:35+09:00",
-      "source": "Electrek",
-      "title": "Xpeng is getting serious about selling you an aircraft carrier",
-      "summary": [
-        "샤오펑(Xpeng)의 플라잉카 유닛 Aridge가 AeroHT eVTOL을 운송하는 'Land Aircraft Carrier' 판매 마케팅을 강화하고 있다.",
-        "제품이 생산 현실화에 가까워지면서 상용화와 출시 준비를 본격화하고 있다.",
-        "이는 자동차와 항공 융합 시장에서 경쟁 구도와 투자·생산 로드맵에 영향을 줄 잠재력이 있다."
-      ],
-      "whyItMatters": "이 움직임은 eVTOL 상용화와 차량·항공 융합 비즈니스의 실현 가능성을 높여 경쟁·투자·생산 전략에 직접적인 영향을 미치기 때문이다.",
-      "topics": [
-        "Roadmap",
-        "Manufacturing",
-        "Competition",
-        "Investment"
-      ],
-      "status": "ONGOING",
-      "hash": "afc84cb9cf37c506e694f61f75ebff7c78fe4aeb1caf70a0a3aa1a00d45deb38",
-      "url": "https://electrek.co/2026/02/07/xpeng-is-getting-serious-about-selling-you-an-aircraft-carrier/"
-    }
-  ]
+  "cards": []
 }
