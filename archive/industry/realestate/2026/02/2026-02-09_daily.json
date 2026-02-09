@@ -1,0 +1,87 @@
+{
+  "date": "2026-02-09",
+  "highlights": {
+    "bullets": [
+      "핵심: 정부가 소음 규제를 합리화해 주택 공급을 늘리겠다고 발표했다.",
+      "핵심: 강남3구 매매수급지수가 21주 만에 최저로 하락했다.",
+      "트렌드: 규제·세제 변화와 정비사업 진행이 주택 공급과 시장 심리에 영향을 주고 있다."
+    ],
+    "topTopics": [
+      "Policy",
+      "Market",
+      "Construction",
+      "Regulation"
+    ],
+    "stats": {
+      "collected": 6,
+      "deduped": 6
+    }
+  },
+  "cards": [
+    {
+      "id": "realestate_0001",
+      "tab": "realestate",
+      "publishedAt": "2026-02-09T14:23:01+09:00",
+      "source": "한국경제(부동산)",
+      "title": "불필요한 소음 규제 합리화…\"주택 공급 늘릴 것\"",
+      "summary": [
+        "정부가 불필요한 소음 규제를 합리화하겠다고 발표했다.",
+        "규제 완화로 건설 제약을 줄여 주택 공급을 늘리려는 목적이다.",
+        "소음 기준과 공사 관련 규제가 재검토되어 도심 주택공급 확대에 영향을 줄 전망이다."
+      ],
+      "whyItMatters": "지속적 주택 부족과 건설 제약을 해소하기 위해 소음 규제를 완화해 공급을 확대하려는 정책적 판단이다.",
+      "topics": [
+        "Regulation",
+        "Policy",
+        "Supply",
+        "Construction"
+      ],
+      "status": "ONGOING",
+      "hash": "b4e9d20c4ae825182b2aa060a63f27cf3545faf50c945f2a52c7d6f2fe167943",
+      "url": "https://www.hankyung.com/article/202602093810i"
+    },
+    {
+      "id": "realestate_0002",
+      "tab": "realestate",
+      "publishedAt": "2026-02-09T14:22:03+09:00",
+      "source": "매일경제(부동산)",
+      "title": "“집주인들 콧대 꺾이나”…강남3구 매매수급지수 21주만에 최저",
+      "summary": [
+        "강남3구 매매수급지수가 21주 만에 최저로 하락했다.",
+        "정부의 다주택자 양도세 중과 유예 종료 방침이 매도자 우위를 약화시키고 있다.",
+        "서울 동남권에서 매수·매도 균형이 매수자에 유리하게 이동하는 조짐이 나타난다."
+      ],
+      "whyItMatters": "세제 정책 신호가 매도심리 약화로 연결되며 강남권 거래와 가격 변동성을 높일 가능성이 크다.",
+      "topics": [
+        "Policy",
+        "Tax",
+        "Market"
+      ],
+      "status": "SHIFTING",
+      "hash": "4bbc4a20197d181074cb6c1efe94e323275bed8a7601c46891422feba0556c44",
+      "url": "https://www.mk.co.kr/news/realestate/11957677"
+    },
+    {
+      "id": "realestate_0003",
+      "tab": "realestate",
+      "publishedAt": "2026-02-09T10:12:20+09:00",
+      "source": "매일경제(부동산)",
+      "title": "‘새 옷’ 갈아입는 부천 원도심…소규모 정비사업 시행률 43%, 경기 평균 상회",
+      "summary": [
+        "부천 원도심에서 소규모 정비사업 시행률이 43%로 경기 평균을 상회하고 있다.",
+        "GTX B 등 광역 교통망 확충과 주거 환경 정비로 재개발·재건축이 활발히 진행 중이다.",
+        "신규 브랜드 아파트 분양도 이어지며 주택 공급 및 시장 변동성이 커지고 있다."
+      ],
+      "whyItMatters": "광역교통 호재와 높은 사업 시행률이 맞물려 지역 주택 공급 확대와 시장 재편을 촉진하기 때문이다.",
+      "topics": [
+        "UrbanRenewal",
+        "Construction",
+        "Supply",
+        "Market"
+      ],
+      "status": "ONGOING",
+      "hash": "13cdd335670973103c8ba23281acf63dfbd894f5c08dac7ba2ddbbacd1dc43ed",
+      "url": "https://www.mk.co.kr/news/realestate/11957433"
+    }
+  ]
+}

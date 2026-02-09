@@ -1,0 +1,115 @@
+{
+  "range": {
+    "from": "2026-01-11",
+    "to": "2026-02-09"
+  },
+  "kpis": {
+    "collected": 3,
+    "deduped": 3,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Policy": 22,
+      "Supply": 22,
+      "Construction": 22,
+      "Market": 22,
+      "Regulation": 11,
+      "Other": 1
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (01/11-01/17)",
+      "topicCounts": {
+        "Policy": 0,
+        "Supply": 0,
+        "Construction": 0,
+        "Market": 0,
+        "Regulation": 0
+      }
+    },
+    {
+      "week": "Week 2 (01/18-01/24)",
+      "topicCounts": {
+        "Policy": 0,
+        "Supply": 0,
+        "Construction": 0,
+        "Market": 0,
+        "Regulation": 0
+      }
+    },
+    {
+      "week": "Week 3 (01/25-01/31)",
+      "topicCounts": {
+        "Policy": 0,
+        "Supply": 0,
+        "Construction": 0,
+        "Market": 0,
+        "Regulation": 0
+      }
+    },
+    {
+      "week": "Week 4 (02/01-02/07)",
+      "topicCounts": {
+        "Policy": 0,
+        "Supply": 0,
+        "Construction": 0,
+        "Market": 0,
+        "Regulation": 0
+      }
+    },
+    {
+      "week": "Week 5 (02/08-02/09)",
+      "topicCounts": {
+        "Policy": 2,
+        "Supply": 2,
+        "Construction": 2,
+        "Market": 2,
+        "Regulation": 1
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "소음 규제 완화 통한 주택 공급 확대 정책 추진",
+      "summary": "정부가 건설 현장의 불필요한 소음 규제를 합리화해 규제 부담을 줄이고, 이를 통해 주택 공급을 늘리려는 정책을 지속 추진하고 있다. 공급 부족 완화와 프로젝트 속도 제고가 핵심 목표다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "불필요한 소음 규제 합리화…\"주택 공급 늘릴 것\"",
+          "url": "https://www.hankyung.com/article/202602093810i"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "강남3구 매매수급 악화와 다주택자 세제 환경 변화",
+      "summary": "강남3구의 매매수급지수가 21주 만에 최저 수준으로 떨어지며 매도자 우위가 약화되고 있다. 다주택자 양도세 중과 유예 종료 방침 등 세제 정책 변화가 고가 주택 매물·수요 심리에 영향을 주며 시장 흐름이 전환 국면에 진입하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "“집주인들 콧대 꺾이나”…강남3구 매매수급지수 21주만에 최저",
+          "url": "https://www.mk.co.kr/news/realestate/11957677"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "부천 원도심 소규모 정비사업 확대와 노후 도심 재생",
+      "summary": "부천 원도심에서 소규모 정비사업 시행률이 경기 평균을 웃도는 43%를 기록하며 노후 주거지 재생이 빠르게 진행 중이다. GTX B 등 광역 교통망 확충과 맞물려 재개발·재건축과 공급 기반이 강화되는 추세다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "‘새 옷’ 갈아입는 부천 원도심…소규모 정비사업 시행률 43%, 경기 평균 상회",
+          "url": "https://www.mk.co.kr/news/realestate/11957433"
+        }
+      ]
+    }
+  ]
+}

@@ -31,7 +31,8 @@ const loadHomeState = () => {
       briefingTab:
         parsed.briefingTab === 'finance' ||
         parsed.briefingTab === 'semiconductor' ||
-        parsed.briefingTab === 'ev'
+        parsed.briefingTab === 'ev' ||
+        parsed.briefingTab === 'realestate'
           ? parsed.briefingTab
           : 'ai',
       marketTab:
@@ -175,6 +176,14 @@ function HomePage() {
                   }}
                 >
                   ⚡ 전기차
+                </button>
+                <button
+                  className={`tab-button ${activeTab === 'realestate' ? 'active' : ''}`}
+                  onClick={() => {
+                    setHomeState((prev) => ({ ...prev, briefingTab: 'realestate' }));
+                  }}
+                >
+                  🏘️ 부동산/정책
                 </button>
               </>
             ) : (

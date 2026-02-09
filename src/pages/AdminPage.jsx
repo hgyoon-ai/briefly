@@ -30,7 +30,10 @@ const loadAdminState = () => {
     return {
       mode,
       briefingTab:
-        parsed.briefingTab === 'finance' || parsed.briefingTab === 'semiconductor' || parsed.briefingTab === 'ev'
+        parsed.briefingTab === 'finance' ||
+        parsed.briefingTab === 'semiconductor' ||
+        parsed.briefingTab === 'ev' ||
+        parsed.briefingTab === 'realestate'
           ? parsed.briefingTab
           : 'ai',
       marketTab:
@@ -255,6 +258,14 @@ function AdminPage() {
                 }}
               >
                 ⚡ 전기차
+              </button>
+              <button
+                className={`tab-button ${activeTab === 'realestate' ? 'active' : ''}`}
+                onClick={() => {
+                  setAdminState((prev) => ({ ...prev, briefingTab: 'realestate' }));
+                }}
+              >
+                🏘️ 부동산/정책
               </button>
             </>
           ) : (

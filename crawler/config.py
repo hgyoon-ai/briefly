@@ -28,7 +28,7 @@ OPENAI_ITEM_MODEL_THRESHOLD = 600
 
 HF_IMPORTANCE_PENALTY = 2
 
-TABS = ["ai", "finance", "semiconductor", "ev"]
+TABS = ["ai", "finance", "semiconductor", "ev", "realestate"]
 
 TOPIC_TAXONOMY = [
     "Models",
@@ -76,11 +76,25 @@ FINANCE_TAXONOMY = [
     "Policy",
 ]
 
+REALESTATE_TAXONOMY = [
+    "Policy",
+    "Regulation",
+    "Supply",
+    "Rental",
+    "Mortgage",
+    "Tax",
+    "UrbanRenewal",
+    "Land",
+    "Market",
+    "Construction",
+]
+
 TOPIC_TAXONOMY_BY_TAB = {
     "ai": TOPIC_TAXONOMY,
     "finance": FINANCE_TAXONOMY,
     "semiconductor": SEMICONDUCTOR_TAXONOMY,
     "ev": EV_TAXONOMY,
+    "realestate": REALESTATE_TAXONOMY,
 }
 
 OPENAI_TEMPERATURE_ITEM = None
@@ -224,6 +238,23 @@ RSS_SOURCES = [
         "name": "벤처스퀘어",
         "url": "https://www.venturesquare.net/feed",
         "tab": "finance",
+    },
+
+    # Korea-focused real estate policy and policy-signal sources.
+    {
+        "name": "정책브리핑",
+        "url": "https://www.korea.kr/rss/policy.xml",
+        "tab": "realestate",
+    },
+    {
+        "name": "한국경제(부동산)",
+        "url": "https://www.hankyung.com/feed/realestate",
+        "tab": "realestate",
+    },
+    {
+        "name": "매일경제(부동산)",
+        "url": "https://www.mk.co.kr/rss/50300009/",
+        "tab": "realestate",
     },
 ]
 

@@ -1,0 +1,243 @@
+{
+  "range": {
+    "from": "2026-02-03",
+    "to": "2026-02-09"
+  },
+  "kpis": {
+    "collected": 3,
+    "deduped": 3,
+    "uniqueTopics": 7
+  },
+  "topTopics": [
+    {
+      "name": "Policy",
+      "count": 2
+    },
+    {
+      "name": "Supply",
+      "count": 2
+    },
+    {
+      "name": "Construction",
+      "count": 2
+    },
+    {
+      "name": "Market",
+      "count": 2
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-02-03",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-02-03",
+      "dayOfWeek": "Tue",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-02-03",
+      "dayOfWeek": "Tue",
+      "topic": "Construction",
+      "count": 0
+    },
+    {
+      "date": "2026-02-03",
+      "dayOfWeek": "Tue",
+      "topic": "Market",
+      "count": 0
+    },
+    {
+      "date": "2026-02-04",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-02-04",
+      "dayOfWeek": "Wed",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-02-04",
+      "dayOfWeek": "Wed",
+      "topic": "Construction",
+      "count": 0
+    },
+    {
+      "date": "2026-02-04",
+      "dayOfWeek": "Wed",
+      "topic": "Market",
+      "count": 0
+    },
+    {
+      "date": "2026-02-05",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-02-05",
+      "dayOfWeek": "Thu",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-02-05",
+      "dayOfWeek": "Thu",
+      "topic": "Construction",
+      "count": 0
+    },
+    {
+      "date": "2026-02-05",
+      "dayOfWeek": "Thu",
+      "topic": "Market",
+      "count": 0
+    },
+    {
+      "date": "2026-02-06",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-02-06",
+      "dayOfWeek": "Fri",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-02-06",
+      "dayOfWeek": "Fri",
+      "topic": "Construction",
+      "count": 0
+    },
+    {
+      "date": "2026-02-06",
+      "dayOfWeek": "Fri",
+      "topic": "Market",
+      "count": 0
+    },
+    {
+      "date": "2026-02-07",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-02-07",
+      "dayOfWeek": "Sat",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-02-07",
+      "dayOfWeek": "Sat",
+      "topic": "Construction",
+      "count": 0
+    },
+    {
+      "date": "2026-02-07",
+      "dayOfWeek": "Sat",
+      "topic": "Market",
+      "count": 0
+    },
+    {
+      "date": "2026-02-08",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-02-08",
+      "dayOfWeek": "Sun",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-02-08",
+      "dayOfWeek": "Sun",
+      "topic": "Construction",
+      "count": 0
+    },
+    {
+      "date": "2026-02-08",
+      "dayOfWeek": "Sun",
+      "topic": "Market",
+      "count": 0
+    },
+    {
+      "date": "2026-02-09",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-02-09",
+      "dayOfWeek": "Mon",
+      "topic": "Supply",
+      "count": 2
+    },
+    {
+      "date": "2026-02-09",
+      "dayOfWeek": "Mon",
+      "topic": "Construction",
+      "count": 2
+    },
+    {
+      "date": "2026-02-09",
+      "dayOfWeek": "Mon",
+      "topic": "Market",
+      "count": 2
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "소음 규제 완화 통한 주택 공급 확대 정책",
+      "summary": "정부가 불필요한 소음 규제를 합리화해 건설 제약을 줄이고 주택 공급을 확대하려는 정책을 추진 중이다. 규제 완화로 인허가와 공사 과정이 빨라지면 중장기적으로 신규 주택 물량 증가와 공급 여건 개선이 예상된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "불필요한 소음 규제 합리화…\"주택 공급 늘릴 것\"",
+          "url": "https://www.hankyung.com/article/202602093810i"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "정부 세제정책 변화 속 강남3구 매매수급 둔화",
+      "summary": "정부의 다주택자 양도세 중과 유예 종료 방침 여파로 강남3구 매매수급지수가 21주 만에 최저로 떨어지며 매도자 우위가 약화되고 있다. 고가·투자 수요 중심 지역의 매수세가 주춤해지며 향후 가격 조정 가능성도 주시되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "“집주인들 콧대 꺾이나”…강남3구 매매수급지수 21주만에 최저",
+          "url": "https://www.mk.co.kr/news/realestate/11957677"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "부천 원도심 소규모 정비사업과 교통 호재에 따른 재생 가속",
+      "summary": "부천 원도심은 소규모 정비사업 시행률이 43%로 경기 평균을 웃돌며 재개발·재건축이 활발하다. GTX B 등 광역 교통망 확충과 맞물려 노후 주거지 개선과 도심 재생이 동시에 진행되며 주거 선호도와 자산가치 상승 기대가 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "‘새 옷’ 갈아입는 부천 원도심…소규모 정비사업 시행률 43%, 경기 평균 상회",
+          "url": "https://www.mk.co.kr/news/realestate/11957433"
+        }
+      ]
+    }
+  ]
+}

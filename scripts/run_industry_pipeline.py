@@ -186,6 +186,102 @@ def load_items(selected_tabs=None):
         "취약점",
     ]
 
+    realestate_anchors = [
+        "부동산",
+        "주택",
+        "아파트",
+        "집값",
+        "가격",
+        "거래",
+        "매매",
+        "청약",
+        "분양",
+        "임대",
+        "전세",
+        "월세",
+        "전월세",
+        "전세값",
+        "월세값",
+        "임대차",
+        "재건축",
+        "재개발",
+        "정비사업",
+        "공급",
+        "택지",
+        "공시가격",
+        "공시지가",
+        "주담대",
+        "주택담보",
+        "LTV",
+        "DTI",
+        "DSR",
+        "취득세",
+        "양도세",
+        "종부세",
+        "재산세",
+        "PF",
+        "미분양",
+    ]
+
+    realestate_policy_signals = [
+        "정책",
+        "대책",
+        "규제",
+        "완화",
+        "강화",
+        "지원",
+        "시행",
+        "개정",
+        "입법",
+        "법안",
+        "고시",
+        "공고",
+        "가이드",
+        "방안",
+        "발표",
+        "계획",
+        "시정",
+        "억제",
+        "안정",
+        "안정화",
+        "관리",
+        "단속",
+        "점검",
+        "대응",
+        "조치",
+        "개선",
+        "방침",
+        "지시",
+        "당정",
+        "정부",
+        "대통령실",
+        "국회",
+        "투기",
+        "과열",
+        "검토",
+        "추진",
+        "논의",
+        "협의",
+        "TF",
+        "시범",
+        "관계부처",
+        "국토교통부",
+        "국토부",
+        "LH",
+        "주택도시기금",
+    ]
+
+    realestate_media_excludes = [
+        "매물마당",
+        "분양캘린더",
+        "시세",
+        "급매",
+        "신고가",
+        "청약경쟁률",
+        "수주",
+        "실적",
+    ]
+
     def is_finance_policy_item(item):
         if item.get("kind") != "rss":
             return False
@@ -238,6 +334,59 @@ def load_items(selected_tabs=None):
             return True
         return False
 
+    def is_realestate_item(item):
+        if item.get("kind") != "rss":
+            return False
+        return item.get("tab") == "realestate"
+
+    def realestate_policy_match(item):
+        title = item.get("title") or ""
+        snippet = item.get("snippet") or ""
+        source = item.get("source") or ""
+
+        snippet = html.unescape(snippet)
+        snippet = re.sub(r"<[^>]+>", " ", snippet)
+        snippet = re.sub(r"\s+", " ", snippet).strip()
+
+        cut_markers = (
+            "문의:",
+            "문의 :",
+            "문의처",
+            "문의사항:",
+            "담당부서",
+            "첨부파일",
+            "자료출처",
+            "관련자료",
+        )
+        cut_index = None
+        for marker in cut_markers:
+            idx = snippet.find(marker)
+            if idx == -1:
+                continue
+            cut_index = idx if cut_index is None else min(cut_index, idx)
+        if cut_index is not None:
+            snippet = snippet[:cut_index]
+
+        body = snippet[:800]
+        title_l = title.lower()
+        text_l = f"{title} {body}".lower()
+        source_l = source.lower()
+
+        has_anchor_title = any(k.lower() in title_l for k in realestate_anchors)
+        has_anchor = has_anchor_title or any(k.lower() in text_l for k in realestate_anchors)
+        has_signal = any(k.lower() in text_l for k in realestate_policy_signals)
+
+        is_media = source_l in {"한국경제(부동산)", "매일경제(부동산)"}
+        if is_media:
+            if any(k.lower() in title_l for k in realestate_media_excludes):
+                return False
+            return has_anchor and has_signal
+
+        if source_l == "정책브리핑":
+            return has_anchor and has_signal
+
+        return has_anchor and has_signal
+
     if selected_set is None or "finance" in selected_set:
         policy_total = len([item for item in rss_items if is_finance_policy_item(item)])
         rss_items = [
@@ -248,6 +397,17 @@ def load_items(selected_tabs=None):
         policy_kept = len([item for item in rss_items if is_finance_policy_item(item)])
         if policy_total:
             print(f"[finance] korea.kr policy kept: {policy_kept}/{policy_total}")
+
+    if selected_set is None or "realestate" in selected_set:
+        realestate_total = len([item for item in rss_items if is_realestate_item(item)])
+        rss_items = [
+            item
+            for item in rss_items
+            if (not is_realestate_item(item)) or realestate_policy_match(item)
+        ]
+        realestate_kept = len([item for item in rss_items if is_realestate_item(item)])
+        if realestate_total:
+            print(f"[realestate] policy-signal kept: {realestate_kept}/{realestate_total}")
 
     hf_items = fetch_huggingface_trending(timezone) if (selected_set is None or "ai" in selected_set) else []
     print(f"RSS items: {len(rss_items)}")

@@ -4,7 +4,7 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 
-DEFAULT_TABS = ["ai", "finance", "semiconductor", "ev"]
+DEFAULT_TABS = ["ai", "finance", "semiconductor", "ev", "realestate"]
 
 
 def parse_args():
@@ -18,7 +18,7 @@ def parse_args():
         "--tabs",
         type=str,
         default=",".join(DEFAULT_TABS),
-        help="Comma-separated tab list (default: ai,finance,semiconductor,ev)",
+        help="Comma-separated tab list (default: ai,finance,semiconductor,ev,realestate)",
     )
     parser.add_argument(
         "--dry-run",
