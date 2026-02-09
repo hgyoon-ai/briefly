@@ -2,6 +2,241 @@
   "month": "2026-02",
   "events": [
     {
+      "id": "48d51bce7313fbc59370d5a8a0758c2591b86033",
+      "date": "2026-02-09",
+      "company": "한국투자증권",
+      "title": "한국투자증권 iOS 앱 업데이트 v2.20.01",
+      "oneLiner": "RIA(국내복귀계좌) 비대면 계좌개설 기능 출시 예정 안내 — 비대면 계좌 개설 기능의 신설(출시) 예고.",
+      "type": "출시",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "app_store",
+      "sources": [
+        {
+          "source": "App Store",
+          "title": "한국투자증권 iOS 앱 업데이트 v2.20.01",
+          "url": "https://apps.apple.com/kr/app/%ED%95%9C%ED%88%AC-%ED%95%9C%EA%B5%AD%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C-mts-%ED%88%AC%EC%9E%90-%EC%A6%9D%EA%B6%8C-%ED%95%B4%EC%99%B8%EC%A3%BC%EC%8B%9D-%EC%A3%BC%EC%8B%9D%EC%96%B4%ED%94%8C/id1621986905?uo=4"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-02-10"
+    },
+    {
+      "id": "news:한국투자증권:https://www.hankyung.com/article/2026020944391",
+      "date": "2026-02-09",
+      "company": "한국투자증권",
+      "title": "신한투자증권, 1호 발행어음 상품 출시",
+      "oneLiner": "신한투자증권이 1호 발행어음 상품을 출시했다는 보도 — 증권사 단기금융상품(발행어음) 출시 관련 사항.",
+      "type": "출시",
+      "areas": [
+        "WM",
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "신한투자증권, 1호 발행어음 상품 출시",
+          "url": "https://www.hankyung.com/article/2026020944391"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-02-10"
+    },
+    {
+      "id": "news:한국투자증권:https://www.hankyung.com/article/2026020941356",
+      "date": "2026-02-09",
+      "company": "한국투자증권",
+      "title": "박보검이 1호 가입자…신한투자증권, 첫 발행어음 출시",
+      "oneLiner": "박보검이 1호 가입자라는 보도와 함께 신한투자증권의 첫 발행어음 출시 소식 전파 — 상품 출시 및 가입 동향.",
+      "type": "출시",
+      "areas": [
+        "WM",
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "박보검이 1호 가입자…신한투자증권, 첫 발행어음 출시",
+          "url": "https://www.hankyung.com/article/2026020941356"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-02-10"
+    },
+    {
+      "id": "news:한국투자증권:https://www.hankyung.com/article/202602092995i",
+      "date": "2026-02-09",
+      "company": "한국투자증권",
+      "title": "배우 박보검이 1호 가입자…신한투자증권, 첫 발행어음 출시",
+      "oneLiner": "신한투자증권의 첫 발행어음 출시 관련 보도 — 상품 출시 사실과 초기 가입자 소식 포함.",
+      "type": "출시",
+      "areas": [
+        "WM",
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "배우 박보검이 1호 가입자…신한투자증권, 첫 발행어음 출시",
+          "url": "https://www.hankyung.com/article/202602092995i"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-02-10"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/11958018",
+      "date": "2026-02-09",
+      "company": "한국투자증권",
+      "title": "신한증권 첫 발행어음 출시 … 자금 35% 모험자본에 투입",
+      "oneLiner": "신한증권의 발행어음 첫 출시 및 조달자금의 일부(35%)를 모험자본에 투자하겠다는 운용계획 보도 — 상품 출시 및 자금운용 계획 공개.",
+      "type": "출시",
+      "areas": [
+        "WM",
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "신한증권 첫 발행어음 출시 … 자금 35% 모험자본에 투입",
+          "url": "https://www.mk.co.kr/news/stock/11958018"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-10"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/11957503",
+      "date": "2026-02-09",
+      "company": "한국투자증권",
+      "title": "“박보검이 첫 가입”…신한투자증권, ‘신한프리미어 발행어음’ 첫 출시",
+      "oneLiner": "‘신한프리미어 발행어음’ 출시와 첫 가입자 보도 — 신상품 출시 정보 및 초기 가입자 사례 보도.",
+      "type": "출시",
+      "areas": [
+        "WM",
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“박보검이 첫 가입”…신한투자증권, ‘신한프리미어 발행어음’ 첫 출시",
+          "url": "https://www.mk.co.kr/news/stock/11957503"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-10"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202602091015271833",
+      "date": "2026-02-09",
+      "company": "하나증권",
+      "title": "하나證, ‘하나 THE 발행어음’ 2차 특판 상품 출시",
+      "oneLiner": "하나증권이 ‘하나 THE 발행어음’ 2차 특판 상품을 출시했으며, 연 3.4~3.6% 수준의 금리와 최대 가입 한도 등을 발표했습니다. 발행어음 상품 출시로 자금조달 및 WM 상품 라인업 변화가 발생합니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "하나證, ‘하나 THE 발행어음’ 2차 특판 상품 출시",
+          "url": "https://www.fnnews.com/news/202602091015271833"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-02-10"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202602091022074771",
+      "date": "2026-02-09",
+      "company": "한국투자증권",
+      "title": "신한투자증권, 첫 발행어음 출시…\"생산적 금융 실천\"",
+      "oneLiner": "신한투자증권이 첫 발행어음 상품인 '신한프리미어 발행어음'을 출시하고 수시형·약정형·특판형 등 상품 구조와 금리를 공개했습니다. 발행어음 출시 자체가 금융상품 라인업 및 판매정책의 변화에 해당합니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "신한투자증권, 첫 발행어음 출시…\"생산적 금융 실천\"",
+          "url": "https://www.fnnews.com/news/202602091022074771"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-10"
+    },
+    {
+      "id": "news:메리츠증권:https://www.fnnews.com/news/202602091418385649",
+      "date": "2026-02-09",
+      "company": "메리츠증권",
+      "title": "\"클라우드 도입 우수\"…메리츠증권, '아마존웹서비스 글로벌 혁신사례' 선정",
+      "oneLiner": "메리츠증권이 신규 커뮤니티 플랫폼을 100% 클라우드 환경으로 구축해 AWS의 글로벌 우수 사례에 선정됐다고 발표했습니다. 상반기 출시 예정인 플랫폼과 클라우드 전환은 시스템·운영 구조의 변화입니다.",
+      "type": "시스템",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"클라우드 도입 우수\"…메리츠증권, '아마존웹서비스 글로벌 혁신사례' 선정",
+          "url": "https://www.fnnews.com/news/202602091418385649"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-10"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202602091831265851",
+      "date": "2026-02-09",
+      "company": "한국투자증권",
+      "title": "신한證 발행어음 첫 출시…1호 가입자는 박보검",
+      "oneLiner": "신한투자증권의 발행어음 출시 관련 추가 보도로, 1호 가입자 등 출시 행사·홍보 내용이 포함되어 있습니다. 제품 출시 자체는 운영·상품 변화에 해당합니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "신한證 발행어음 첫 출시…1호 가입자는 박보검",
+          "url": "https://www.fnnews.com/news/202602091831265851"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-02-10"
+    },
+    {
       "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/11956986",
       "date": "2026-02-08",
       "company": "미래에셋증권",
