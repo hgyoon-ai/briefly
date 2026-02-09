@@ -419,6 +419,132 @@ def summarize_developer_oneliners(items, model=None):
         return {}
 
 
+def fallback_daily_highlights(items, tab="ai"):
+    if not items:
+        return {"bullets": []}
+
+    def first_text(item):
+        summary = item.get("summary") or []
+        if isinstance(summary, list) and summary:
+            return normalize_text(summary[0])
+        return normalize_text(item.get("title"))
+
+    picked = []
+    used_primary_topics = set()
+    for item in items:
+        topics = item.get("topics") or []
+        primary = topics[0] if topics else None
+        if primary and primary in used_primary_topics:
+            continue
+        if primary:
+            used_primary_topics.add(primary)
+        picked.append(item)
+        if len(picked) >= 2:
+            break
+
+    for item in items:
+        if len(picked) >= 2:
+            break
+        if item not in picked:
+            picked.append(item)
+
+    bullets = []
+    for item in picked[:2]:
+        text = first_text(item) or "주요 업데이트가 이어지고 있습니다."
+        bullets.append(f"핵심: {text}")
+
+    while len(bullets) < 2:
+        bullets.append("핵심: 주요 업데이트가 이어지고 있습니다.")
+
+    topic_counts = {}
+    for item in items:
+        primary = (item.get("topics") or [None])[0]
+        if not primary:
+            continue
+        topic_counts[primary] = topic_counts.get(primary, 0) + 1
+    if topic_counts:
+        top_topic = max(topic_counts.items(), key=lambda x: x[1])[0]
+        trend = f"트렌드: 오늘은 {top_topic} 관련 흐름이 두드러집니다."
+    else:
+        trend = "트렌드: 오늘은 다양한 주제에서 고르게 업데이트가 나왔습니다."
+
+    bullets.append(trend)
+    return {"bullets": bullets[:3]}
+
+
+def summarize_daily_highlights(items, tab="ai", model=None):
+    if not items:
+        return {"bullets": []}
+
+    model_name = model or OPENAI_ITEM_MODEL_SHORT or OPENAI_ITEM_MODEL
+    samples = []
+    for item in items[:8]:
+        samples.append(
+            {
+                "title": normalize_text(item.get("title")),
+                "summary": [normalize_text(line) for line in (item.get("summary") or [])[:2]],
+                "why": normalize_text(item.get("why")),
+                "topics": item.get("topics") or [],
+                "source": normalize_text(item.get("source")),
+            }
+        )
+
+    prompt = (
+        "산업 브리핑의 오늘 핵심 3줄을 작성하세요. "
+        "한국어로만 응답하고 JSON 객체만 반환하세요. "
+        "형식: {\"bullets\": [\"핵심: ...\", \"핵심: ...\", \"트렌드: ...\"]}. "
+        "반드시 정확히 3문장으로 작성하세요. "
+        "1-2번째는 서로 다른 핵심 사건, 3번째는 오늘 입력에서 공통으로 보이는 트렌드 1가지입니다. "
+        "각 문장은 1문장, 90자 이내, URL/출처명/이모지/과장 표현 금지. "
+        "입력에 없는 사실, 수치, 비교, 전망을 추가하지 마세요. "
+        "트렌드는 오늘 입력만 근거로 작성하세요. "
+        f"대상 탭: {tab}. "
+        f"Input: {json.dumps(samples, ensure_ascii=False)}"
+    )
+
+    response, error = call_openai(
+        messages=[
+            {"role": "system", "content": "You output only valid JSON."},
+            {"role": "user", "content": prompt},
+        ],
+        model=model_name,
+        temperature=OPENAI_TEMPERATURE_ITEM,
+    )
+    if error or response is None:
+        print(f"[LLM] OpenAI daily highlights failed, using fallback: {error}")
+        return fallback_daily_highlights(items, tab=tab)
+
+    try:
+        content = response.choices[0].message.content or ""
+        extracted = extract_json(content)
+        if not extracted:
+            raise ValueError("Empty or invalid JSON payload")
+        result = json.loads(extracted)
+        bullets = result.get("bullets") if isinstance(result, dict) else None
+        if not isinstance(bullets, list):
+            raise ValueError("Invalid bullets")
+
+        cleaned = []
+        for idx, line in enumerate(bullets[:3]):
+            if not isinstance(line, str):
+                continue
+            text = normalize_text(line)
+            if not text:
+                continue
+            if idx < 2 and not text.startswith("핵심:"):
+                text = f"핵심: {text}"
+            if idx == 2 and not text.startswith("트렌드:"):
+                text = f"트렌드: {text}"
+            cleaned.append(text)
+
+        if len(cleaned) != 3:
+            raise ValueError("Insufficient bullets")
+        return {"bullets": cleaned}
+    except Exception as exc:
+        print(f"[LLM] OpenAI daily highlights failed, using fallback: {exc}")
+        return fallback_daily_highlights(items, tab=tab)
+
+
 def fallback_issue_summary(items, max_items=5):
     issues = []
     for idx, item in enumerate(items[:max_items], start=1):

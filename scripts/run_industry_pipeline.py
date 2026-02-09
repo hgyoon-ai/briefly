@@ -20,7 +20,7 @@ from crawler.config import (
 )
 from crawler.fetchers.huggingface import fetch_huggingface_trending
 from crawler.fetchers.rss import fetch_rss_sources
-from crawler.llm.openai_client import summarize_item, summarize_issues
+from crawler.llm.openai_client import summarize_daily_highlights, summarize_item, summarize_issues
 from crawler.processor.aggregate import (
     build_cards,
     build_daily_summary,
@@ -298,9 +298,18 @@ def clamp_total(items):
 
 def build_daily_payload(items, raw_count, now, tab="ai"):
     selected = select_diverse_by_source(items, max_total=5, max_per_source=2)
+    base_highlights = build_daily_summary(items, raw_count)
+    llm_highlights = summarize_daily_highlights(items[:8], tab=tab)
+    bullets = llm_highlights.get("bullets") if isinstance(llm_highlights, dict) else None
+    if not isinstance(bullets, list) or len(bullets) != 3:
+        bullets = base_highlights.get("bullets", [])
+
     daily = {
         "date": now.strftime("%Y-%m-%d"),
-        "highlights": build_daily_summary(items, raw_count),
+        "highlights": {
+            **base_highlights,
+            "bullets": bullets,
+        },
         "cards": build_cards(selected, tab=tab),
     }
     return daily
@@ -514,6 +523,7 @@ def main():
             daily_items = sort_by_importance(daily_items)
             raw_daily_count = len(filter_by_range(raw_by_tab.get(tab, []), daily_start, now))
 
+            run_stats["llm"]["highlightsCalls"] = run_stats["llm"].get("highlightsCalls", 0) + 1
             daily_payload = build_daily_payload(daily_items, raw_daily_count, now, tab=tab)
             write_latest_industry(tab, "daily.json", daily_payload)
             write_archive_industry(tab, today_str, "daily", daily_payload)
