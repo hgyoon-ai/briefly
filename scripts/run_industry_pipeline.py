@@ -458,11 +458,26 @@ def clamp_total(items):
 
 def build_daily_payload(items, raw_count, now, tab="ai"):
     selected = select_diverse_by_source(items, max_total=5, max_per_source=2)
+    cards = build_cards(selected, tab=tab)
+    card_count = len(cards)
+    if card_count <= 0:
+        desired_lines = 0
+    elif card_count == 1:
+        desired_lines = 1
+    elif card_count == 2:
+        desired_lines = 2
+    else:
+        desired_lines = 3
+
     base_highlights = build_daily_summary(items, raw_count)
-    llm_highlights = summarize_daily_highlights(items[:8], tab=tab)
-    bullets = llm_highlights.get("bullets") if isinstance(llm_highlights, dict) else None
-    if not isinstance(bullets, list) or len(bullets) != 3:
-        bullets = base_highlights.get("bullets", [])
+    if desired_lines > 0:
+        llm_highlights = summarize_daily_highlights(selected[:8], tab=tab, desired_lines=desired_lines)
+        bullets = llm_highlights.get("bullets") if isinstance(llm_highlights, dict) else None
+    else:
+        bullets = []
+
+    if not isinstance(bullets, list) or len(bullets) != desired_lines:
+        bullets = (base_highlights.get("bullets") or [])[:desired_lines]
 
     daily = {
         "date": now.strftime("%Y-%m-%d"),
@@ -470,7 +485,7 @@ def build_daily_payload(items, raw_count, now, tab="ai"):
             **base_highlights,
             "bullets": bullets,
         },
-        "cards": build_cards(selected, tab=tab),
+        "cards": cards,
     }
     return daily
 

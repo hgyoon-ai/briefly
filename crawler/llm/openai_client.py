@@ -469,8 +469,22 @@ def summarize_developer_oneliners(items, model=None):
         return {}
 
 
-def fallback_daily_highlights(items, tab="ai"):
-    if not items:
+def _resolve_daily_highlight_lines(items, desired_lines=None):
+    count = len(items or [])
+    if count <= 0:
+        return 0
+    if isinstance(desired_lines, int):
+        return max(0, min(3, min(desired_lines, count)))
+    if count == 1:
+        return 1
+    if count == 2:
+        return 2
+    return 3
+
+
+def fallback_daily_highlights(items, tab="ai", desired_lines=None):
+    line_target = _resolve_daily_highlight_lines(items, desired_lines=desired_lines)
+    if line_target == 0:
         return {"bullets": []}
 
     def first_text(item):
@@ -493,18 +507,21 @@ def fallback_daily_highlights(items, tab="ai"):
             break
 
     for item in items:
-        if len(picked) >= 2:
+        if len(picked) >= min(2, line_target):
             break
         if item not in picked:
             picked.append(item)
 
     bullets = []
-    for item in picked[:2]:
+    for item in picked[: min(2, line_target)]:
         text = first_text(item) or "주요 업데이트가 이어지고 있습니다."
         bullets.append(f"핵심: {text}")
 
-    while len(bullets) < 2:
+    while len(bullets) < min(2, line_target):
         bullets.append("핵심: 주요 업데이트가 이어지고 있습니다.")
+
+    if line_target < 3:
+        return {"bullets": bullets[:line_target]}
 
     topic_counts = {}
     for item in items:
@@ -519,11 +536,12 @@ def fallback_daily_highlights(items, tab="ai"):
         trend = "트렌드: 오늘은 다양한 주제에서 고르게 업데이트가 나왔습니다."
 
     bullets.append(trend)
-    return {"bullets": bullets[:3]}
+    return {"bullets": bullets[:line_target]}
 
 
-def summarize_daily_highlights(items, tab="ai", model=None):
-    if not items:
+def summarize_daily_highlights(items, tab="ai", model=None, desired_lines=None):
+    line_target = _resolve_daily_highlight_lines(items, desired_lines=desired_lines)
+    if line_target == 0:
         return {"bullets": []}
 
     model_name = model or OPENAI_ITEM_MODEL_SHORT or OPENAI_ITEM_MODEL
@@ -539,15 +557,27 @@ def summarize_daily_highlights(items, tab="ai", model=None):
             }
         )
 
+    if line_target == 1:
+        format_hint = '{"bullets": ["핵심: ..."]}'
+        structure_hint = "반드시 정확히 1문장으로 작성하세요."
+    elif line_target == 2:
+        format_hint = '{"bullets": ["핵심: ...", "핵심: ..."]}'
+        structure_hint = "반드시 정확히 2문장으로 작성하고 서로 다른 핵심 사건을 담으세요."
+    else:
+        format_hint = '{"bullets": ["핵심: ...", "핵심: ...", "트렌드: ..."]}'
+        structure_hint = (
+            "반드시 정확히 3문장으로 작성하세요. "
+            "1-2번째는 서로 다른 핵심 사건, 3번째는 오늘 입력에서 공통으로 보이는 트렌드 1가지입니다."
+        )
+
     prompt = (
-        "산업 브리핑의 오늘 핵심 3줄을 작성하세요. "
+        "산업 브리핑의 오늘 핵심 줄요약을 작성하세요. "
         "한국어로만 응답하고 JSON 객체만 반환하세요. "
-        "형식: {\"bullets\": [\"핵심: ...\", \"핵심: ...\", \"트렌드: ...\"]}. "
-        "반드시 정확히 3문장으로 작성하세요. "
-        "1-2번째는 서로 다른 핵심 사건, 3번째는 오늘 입력에서 공통으로 보이는 트렌드 1가지입니다. "
+        f"형식: {format_hint}. "
+        f"{structure_hint} "
         "각 문장은 1문장, 90자 이내, URL/출처명/이모지/과장 표현 금지. "
         "입력에 없는 사실, 수치, 비교, 전망을 추가하지 마세요. "
-        "트렌드는 오늘 입력만 근거로 작성하세요. "
+        "트렌드 문장을 요청받은 경우에만 마지막 한 줄에 작성하세요. "
         f"대상 탭: {tab}. "
         f"Input: {json.dumps(samples, ensure_ascii=False)}"
     )
@@ -562,7 +592,7 @@ def summarize_daily_highlights(items, tab="ai", model=None):
     )
     if error or response is None:
         print(f"[LLM] OpenAI daily highlights failed, using fallback: {error}")
-        return fallback_daily_highlights(items, tab=tab)
+        return fallback_daily_highlights(items, tab=tab, desired_lines=line_target)
 
     try:
         content = response.choices[0].message.content or ""
@@ -575,24 +605,26 @@ def summarize_daily_highlights(items, tab="ai", model=None):
             raise ValueError("Invalid bullets")
 
         cleaned = []
-        for idx, line in enumerate(bullets[:3]):
+        for idx, line in enumerate(bullets[:line_target]):
             if not isinstance(line, str):
                 continue
             text = normalize_text(line)
             if not text:
                 continue
-            if idx < 2 and not text.startswith("핵심:"):
+            if line_target < 3 and not text.startswith("핵심:"):
                 text = f"핵심: {text}"
-            if idx == 2 and not text.startswith("트렌드:"):
+            if line_target == 3 and idx < 2 and not text.startswith("핵심:"):
+                text = f"핵심: {text}"
+            if line_target == 3 and idx == 2 and not text.startswith("트렌드:"):
                 text = f"트렌드: {text}"
             cleaned.append(text)
 
-        if len(cleaned) != 3:
+        if len(cleaned) != line_target:
             raise ValueError("Insufficient bullets")
         return {"bullets": cleaned}
     except Exception as exc:
         print(f"[LLM] OpenAI daily highlights failed, using fallback: {exc}")
-        return fallback_daily_highlights(items, tab=tab)
+        return fallback_daily_highlights(items, tab=tab, desired_lines=line_target)
 
 
 def fallback_issue_summary(items, max_items=5):
