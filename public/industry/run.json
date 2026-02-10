@@ -1,6 +1,6 @@
 {
-  "id": "2026-02-10T07:01:15.423011+09:00",
-  "ts": "2026-02-10T07:01:15.423011+09:00",
+  "id": "2026-02-11T07:04:44.484118+09:00",
+  "ts": "2026-02-11T07:04:44.484118+09:00",
   "timezone": "Asia/Seoul",
   "selectedTabs": [
     "ai",
@@ -10,7 +10,7 @@
     "realestate"
   ],
   "pipeline": {
-    "rawTotal": 224,
+    "rawTotal": 233,
     "rawClamped": 150,
     "deduped": 150,
     "dedupedSelected": 150,
@@ -18,7 +18,7 @@
   },
   "sources": {
     "rss": {
-      "total": 194,
+      "total": 203,
       "bySource": {
         "OpenAI Blog": 15,
         "Google DeepMind Blog": 15,
@@ -31,12 +31,12 @@
         "EE Times": 10,
         "TechInsights": 10,
         "Electrek": 15,
-        "정책브리핑": 5,
+        "정책브리핑": 7,
         "매일경제(증권)": 15,
         "보안뉴스": 10,
         "벤처스퀘어": 15,
-        "한국경제(부동산)": 2,
-        "매일경제(부동산)": 3
+        "한국경제(부동산)": 3,
+        "매일경제(부동산)": 9
       }
     },
     "hf": {
@@ -55,15 +55,15 @@
   "tabs": {
     "ai": {
       "daily": {
-        "raw": 4,
-        "cards": 4
+        "raw": 2,
+        "cards": 2
       },
       "weekly": {
-        "items": 17,
+        "items": 14,
         "issues": 5
       },
       "monthly": {
-        "items": 46,
+        "items": 48,
         "issues": 5
       }
     },
@@ -77,35 +77,35 @@
         "issues": 5
       },
       "monthly": {
-        "items": 42,
+        "items": 46,
         "issues": 5
       }
     },
     "semiconductor": {
       "daily": {
-        "raw": 6,
+        "raw": 5,
         "cards": 3
       },
       "weekly": {
-        "items": 14,
+        "items": 13,
         "issues": 5
       },
       "monthly": {
-        "items": 37,
+        "items": 40,
         "issues": 5
       }
     },
     "ev": {
       "daily": {
-        "raw": 10,
+        "raw": 15,
         "cards": 2
       },
       "weekly": {
         "items": 10,
-        "issues": 5
+        "issues": 4
       },
       "monthly": {
-        "items": 29,
+        "items": 31,
         "issues": 5
       }
     },
