@@ -2,6 +2,101 @@
   "month": "2026-02",
   "events": [
     {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/11958642",
+      "date": "2026-02-10",
+      "company": "미래에셋증권",
+      "title": "미래에셋운용, ‘글로벌 X 유럽’ 운용자산 80억달러 돌파",
+      "oneLiner": "미래에셋자산운용의 유럽 ETF 자회사 글로벌 X 유럽(GX EU) 운용자산(AUM)이 80억달러를 돌파하며 유럽 시장 내 사업 확장 성과를 시사함.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "미래에셋운용, ‘글로벌 X 유럽’ 운용자산 80억달러 돌파",
+          "url": "https://www.mk.co.kr/news/stock/11958642"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.86,
+      "updatedAt": "2026-02-11"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202602101347015088",
+      "date": "2026-02-10",
+      "company": "한국투자증권",
+      "title": "신한투자증권, 발행어음 출시 하루 반 만에…특판상품 '완판'",
+      "oneLiner": "신한투자증권이 발행어음(수시·약정·특판형)을 출시하고 특판 500억원이 완판되었으며 조달자금 운용 정책(조달자금의 35% 모험자본 투자)도 공개함.",
+      "type": "출시",
+      "areas": [
+        "WM",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "신한투자증권, 발행어음 출시 하루 반 만에…특판상품 '완판'",
+          "url": "https://www.fnnews.com/news/202602101347015088"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.86,
+      "updatedAt": "2026-02-11"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202602101358183960",
+      "date": "2026-02-10",
+      "company": "미래에셋증권",
+      "title": "시장 진출 5년만 성과...글로벌X 유럽, 운용자산 80억달러 돌파",
+      "oneLiner": "글로벌X 유럽(GX EU)의 AUM이 80억달러를 넘긴 사실을 재차 보도하며 유럽 시장 내 운용사 성장·사업 기반 강화를 알림.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "시장 진출 5년만 성과...글로벌X 유럽, 운용자산 80억달러 돌파",
+          "url": "https://www.fnnews.com/news/202602101358183960"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-02-11"
+    },
+    {
+      "id": "news:KB증권:http://www.boannews.com/media/view.asp?idx=142061&kind=&sub_kind=",
+      "date": "2026-02-10",
+      "company": "KB증권",
+      "title": "‘빗썸 비트코인 오지급 보상’ 문자 링크 클릭 금지!... 빗썸 사칭 피싱 주의보",
+      "oneLiner": "빗썸 오지급 사고를 악용한 스미싱·피싱 사례 주의보로, 금융권 이용자 대상 보안 경고와 피해예방 안내가 포함된 보도입니다.",
+      "type": "기타",
+      "areas": [
+        "리스크",
+        "AML",
+        "상담"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "보안뉴스",
+          "title": "‘빗썸 비트코인 오지급 보상’ 문자 링크 클릭 금지!... 빗썸 사칭 피싱 주의보",
+          "url": "http://www.boannews.com/media/view.asp?idx=142061&kind=&sub_kind="
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-11"
+    },
+    {
       "id": "48d51bce7313fbc59370d5a8a0758c2591b86033",
       "date": "2026-02-09",
       "company": "한국투자증권",
@@ -22,7 +117,7 @@
       ],
       "tags": [],
       "confidence": 0.8,
-      "updatedAt": "2026-02-10"
+      "updatedAt": "2026-02-11"
     },
     {
       "id": "news:한국투자증권:https://www.hankyung.com/article/2026020944391",
