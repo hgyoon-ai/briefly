@@ -697,7 +697,10 @@
   margin-bottom: 6px;
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
   gap: 8px;
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 .issue-status {
@@ -708,6 +711,7 @@
   border-radius: 4px;
   text-transform: uppercase;
   letter-spacing: 0.5px;
+  flex-shrink: 0;
 }
 
 .issue-status-new {

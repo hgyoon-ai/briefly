@@ -136,6 +136,8 @@
   font-weight: 700;
   margin-bottom: 6px;
   color: #2d2525;
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 .event-card.has-link .event-meta,
