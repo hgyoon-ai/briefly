@@ -4,33 +4,33 @@
     "to": "2026-02-11"
   },
   "kpis": {
-    "collected": 3,
-    "deduped": 3,
-    "uniqueTopics": 7
+    "collected": 8,
+    "deduped": 8,
+    "uniqueTopics": 9
   },
   "topTopics": [
     {
-      "name": "Policy",
-      "count": 2
+      "name": "Market",
+      "count": 7
     },
     {
       "name": "Supply",
-      "count": 2
+      "count": 6
     },
     {
-      "name": "Construction",
-      "count": 2
+      "name": "Policy",
+      "count": 5
     },
     {
-      "name": "Market",
-      "count": 2
+      "name": "Regulation",
+      "count": 3
     }
   ],
   "topicTrend": [
     {
       "date": "2026-02-05",
       "dayOfWeek": "Thu",
-      "topic": "Policy",
+      "topic": "Market",
       "count": 0
     },
     {
@@ -42,13 +42,25 @@
     {
       "date": "2026-02-05",
       "dayOfWeek": "Thu",
-      "topic": "Construction",
+      "topic": "Policy",
       "count": 0
     },
     {
       "date": "2026-02-05",
       "dayOfWeek": "Thu",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-02-06",
+      "dayOfWeek": "Fri",
       "topic": "Market",
+      "count": 0
+    },
+    {
+      "date": "2026-02-06",
+      "dayOfWeek": "Fri",
+      "topic": "Supply",
       "count": 0
     },
     {
@@ -60,25 +72,13 @@
     {
       "date": "2026-02-06",
       "dayOfWeek": "Fri",
-      "topic": "Supply",
-      "count": 0
-    },
-    {
-      "date": "2026-02-06",
-      "dayOfWeek": "Fri",
-      "topic": "Construction",
-      "count": 0
-    },
-    {
-      "date": "2026-02-06",
-      "dayOfWeek": "Fri",
-      "topic": "Market",
+      "topic": "Regulation",
       "count": 0
     },
     {
       "date": "2026-02-07",
       "dayOfWeek": "Sat",
-      "topic": "Policy",
+      "topic": "Market",
       "count": 0
     },
     {
@@ -90,19 +90,19 @@
     {
       "date": "2026-02-07",
       "dayOfWeek": "Sat",
-      "topic": "Construction",
+      "topic": "Policy",
       "count": 0
     },
     {
       "date": "2026-02-07",
       "dayOfWeek": "Sat",
-      "topic": "Market",
+      "topic": "Regulation",
       "count": 0
     },
     {
       "date": "2026-02-08",
       "dayOfWeek": "Sun",
-      "topic": "Policy",
+      "topic": "Market",
       "count": 0
     },
     {
@@ -114,19 +114,19 @@
     {
       "date": "2026-02-08",
       "dayOfWeek": "Sun",
-      "topic": "Construction",
+      "topic": "Policy",
       "count": 0
     },
     {
       "date": "2026-02-08",
       "dayOfWeek": "Sun",
-      "topic": "Market",
+      "topic": "Regulation",
       "count": 0
     },
     {
       "date": "2026-02-09",
       "dayOfWeek": "Mon",
-      "topic": "Policy",
+      "topic": "Market",
       "count": 2
     },
     {
@@ -138,104 +138,132 @@
     {
       "date": "2026-02-09",
       "dayOfWeek": "Mon",
-      "topic": "Construction",
+      "topic": "Policy",
       "count": 2
     },
     {
       "date": "2026-02-09",
       "dayOfWeek": "Mon",
+      "topic": "Regulation",
+      "count": 1
+    },
+    {
+      "date": "2026-02-10",
+      "dayOfWeek": "Tue",
       "topic": "Market",
+      "count": 1
+    },
+    {
+      "date": "2026-02-10",
+      "dayOfWeek": "Tue",
+      "topic": "Supply",
+      "count": 1
+    },
+    {
+      "date": "2026-02-10",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-02-10",
+      "dayOfWeek": "Tue",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-02-11",
+      "dayOfWeek": "Wed",
+      "topic": "Market",
+      "count": 4
+    },
+    {
+      "date": "2026-02-11",
+      "dayOfWeek": "Wed",
+      "topic": "Supply",
+      "count": 3
+    },
+    {
+      "date": "2026-02-11",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
       "count": 2
     },
     {
-      "date": "2026-02-10",
-      "dayOfWeek": "Tue",
-      "topic": "Policy",
-      "count": 0
-    },
-    {
-      "date": "2026-02-10",
-      "dayOfWeek": "Tue",
-      "topic": "Supply",
-      "count": 0
-    },
-    {
-      "date": "2026-02-10",
-      "dayOfWeek": "Tue",
-      "topic": "Construction",
-      "count": 0
-    },
-    {
-      "date": "2026-02-10",
-      "dayOfWeek": "Tue",
-      "topic": "Market",
-      "count": 0
-    },
-    {
       "date": "2026-02-11",
       "dayOfWeek": "Wed",
-      "topic": "Policy",
-      "count": 0
-    },
-    {
-      "date": "2026-02-11",
-      "dayOfWeek": "Wed",
-      "topic": "Supply",
-      "count": 0
-    },
-    {
-      "date": "2026-02-11",
-      "dayOfWeek": "Wed",
-      "topic": "Construction",
-      "count": 0
-    },
-    {
-      "date": "2026-02-11",
-      "dayOfWeek": "Wed",
-      "topic": "Market",
-      "count": 0
+      "topic": "Regulation",
+      "count": 2
     }
   ],
   "topIssues": [
     {
       "id": 1,
       "status": "ONGOING",
-      "title": "소음 규제 합리화 통한 주택 공급 확대 정책 추진",
-      "summary": "정부가 불필요한 건축 소음 규제를 완화해 공사 제약을 줄이고, 이를 통해 주택 공급 물량을 늘리려는 규제 합리화 정책을 추진 중이다.",
+      "title": "토지거래허가제 실거주 유예 축소로 매도·이주 제한 강화",
+      "summary": "토지거래허가제에서 실거주 유예 범위가 축소되며 ‘1주택자가 기존 집을 팔 때’도 예외로 인정되지 않는다. 매도·이주 과정에서도 실거주 허가 요건이 엄격해져 허가구역 내 거래·이동성이 전반적으로 위축될 수 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "한국경제(부동산)",
-          "title": "불필요한 소음 규제 합리화…\"주택 공급 늘릴 것\"",
-          "url": "https://www.hankyung.com/article/202602093810i"
+          "title": "'1주택자가 팔때'는 예외 안돼...토허제 실거주 유예 어디까지",
+          "url": "https://www.hankyung.com/article/202602118381i"
         }
       ]
     },
     {
       "id": 2,
+      "status": "ONGOING",
+      "title": "진천메가폴리스 PF 완료로 충북 산업단지 개발 본격화",
+      "summary": "진천메가폴리스 산업단지가 프로젝트파이낸싱(PF)을 마무리하면서 민·관 합동 대규모 일반산업단지 조성이 본궤도에 올랐다. SK에코플랜트 책임준공으로 공정 리스크를 낮추며 향후 배후 주거·상업 수요와 지역 부동산 시장에 파급 효과가 예상된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "진천메가폴리스 PF 완료로, 산업단지 개발 본궤도에 오르다",
+          "url": "https://biz.heraldcorp.com/article/10673877"
+        }
+      ]
+    },
+    {
+      "id": 3,
       "status": "SHIFTING",
-      "title": "강남3구 매매수급 약화와 다주택자 양도세 중과 유예 종료 영향",
-      "summary": "강남3구 매매수급지수가 21주 만에 최저 수준으로 떨어지며 매도자 우위가 약화되고 있고, 정부의 다주택자 양도세 중과 유예 종료 방침이 시장 심리를 조정하는 변수로 작용하고 있다.",
+      "title": "수도권 청약 수요, 고분양가·대출규제로 소형 위주 재편",
+      "summary": "지난해 수도권 아파트 청약에서 소형 면적 청약자가 처음으로 중형을 넘어섰다. 분양가 급등과 대출 규제 강화로 중·대형 진입장벽이 높아지면서 실수요가 상대적으로 부담이 적은 소형으로 이동하는 구조적 수요 재편이 나타나고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "살벌한 분양가에 대출도 힘드니…수도권 청약자수, 소형이 중형 첫 추월",
+          "url": "https://www.mk.co.kr/news/realestate/11959257"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "SHIFTING",
+      "title": "정부 공급대책 ‘재탕’ 논란 속 강행 기조 재확인",
+      "summary": "국토장관이 기존 공급대책이 ‘재탕’이라는 지적에 일정 부분 공감한다고 하면서도, 반대 여론을 돌파해 현재 공급정책을 계속 밀어붙이겠다는 의지를 밝혔다. 공급 확대 방향은 유지하되 세부 대책 보완 여부가 향후 쟁점이 될 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "국토장관, '재탕 공급대책' 지적에 \"일리 있어…반대 돌파\" [경제분야 대정부질문]",
+          "url": "https://www.hankyung.com/article/202602107077i"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "SHIFTING",
+      "title": "다주택 양도세 중과 유예 종료 앞두고 강남3구 매매 수급 약화",
+      "summary": "다주택자 양도세 중과 유예 종료 방침이 확정되면서 강남3구 매매수급지수가 21주 만에 최저 수준으로 하락했다. 매도자 우위가 약해지고 가격 협상 여지가 커지며 향후 강남권 매매시장 조정 압력이 커질 가능성이 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(부동산)",
           "title": "“집주인들 콧대 꺾이나”…강남3구 매매수급지수 21주만에 최저",
           "url": "https://www.mk.co.kr/news/realestate/11957677"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "status": "ONGOING",
-      "title": "부천 원도심 소규모 정비사업 활성화와 광역 교통망 확대",
-      "summary": "부천 원도심에서 소규모 정비사업 시행률이 경기도 평균을 웃돌며 재개발·재건축이 활발하고, GTX-B 등 광역 교통망 확충이 결합되며 지역 주거 환경과 부동산 시장이 동시 개선되고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "매일경제(부동산)",
-          "title": "‘새 옷’ 갈아입는 부천 원도심…소규모 정비사업 시행률 43%, 경기 평균 상회",
-          "url": "https://www.mk.co.kr/news/realestate/11957433"
         }
       ]
     }

@@ -271,6 +271,28 @@ def load_items(selected_tabs=None):
         "주택도시기금",
     ]
 
+    realestate_soft_signals = [
+        "매물",
+        "공급",
+        "양도세",
+        "임대사업자",
+        "등록임대",
+        "다주택",
+        "1주택",
+        "실거주",
+        "유예",
+        "세제",
+        "세금",
+        "취득세",
+        "종부세",
+        "재산세",
+        "전월세",
+        "전세",
+        "월세",
+        "매도",
+        "매수",
+    ]
+
     realestate_media_excludes = [
         "매물마당",
         "분양캘린더",
@@ -375,12 +397,15 @@ def load_items(selected_tabs=None):
         has_anchor_title = any(k.lower() in title_l for k in realestate_anchors)
         has_anchor = has_anchor_title or any(k.lower() in text_l for k in realestate_anchors)
         has_signal = any(k.lower() in text_l for k in realestate_policy_signals)
+        has_soft_signal_title = any(k.lower() in title_l for k in realestate_soft_signals)
 
-        is_media = source_l in {"한국경제(부동산)", "매일경제(부동산)"}
+        is_media = source_l in {"한국경제(부동산)", "매일경제(부동산)", "헤럴드경제(부동산)"}
         if is_media:
             if any(k.lower() in title_l for k in realestate_media_excludes):
                 return False
-            return has_anchor and has_signal
+            if has_anchor and has_signal:
+                return True
+            return has_anchor_title and has_soft_signal_title
 
         if source_l == "정책브리핑":
             return has_anchor and has_signal

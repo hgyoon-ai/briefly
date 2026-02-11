@@ -4,15 +4,15 @@
     "to": "2026-02-11"
   },
   "kpis": {
-    "collected": 3,
-    "deduped": 3,
-    "uniqueTopics": 7,
+    "collected": 8,
+    "deduped": 8,
+    "uniqueTopics": 9,
     "marketShare": {
-      "Policy": 22,
-      "Supply": 22,
-      "Construction": 22,
-      "Market": 22,
-      "Regulation": 11,
+      "Market": 29,
+      "Supply": 25,
+      "Policy": 21,
+      "Regulation": 12,
+      "Construction": 12,
       "Other": 1
     }
   },
@@ -20,51 +20,51 @@
     {
       "week": "Week 1 (01/13-01/19)",
       "topicCounts": {
-        "Policy": 0,
-        "Supply": 0,
-        "Construction": 0,
         "Market": 0,
-        "Regulation": 0
+        "Supply": 0,
+        "Policy": 0,
+        "Regulation": 0,
+        "Construction": 0
       }
     },
     {
       "week": "Week 2 (01/20-01/26)",
       "topicCounts": {
-        "Policy": 0,
-        "Supply": 0,
-        "Construction": 0,
         "Market": 0,
-        "Regulation": 0
+        "Supply": 0,
+        "Policy": 0,
+        "Regulation": 0,
+        "Construction": 0
       }
     },
     {
       "week": "Week 3 (01/27-02/02)",
       "topicCounts": {
-        "Policy": 0,
-        "Supply": 0,
-        "Construction": 0,
         "Market": 0,
-        "Regulation": 0
+        "Supply": 0,
+        "Policy": 0,
+        "Regulation": 0,
+        "Construction": 0
       }
     },
     {
       "week": "Week 4 (02/03-02/09)",
       "topicCounts": {
-        "Policy": 0,
-        "Supply": 0,
-        "Construction": 0,
         "Market": 0,
-        "Regulation": 0
+        "Supply": 0,
+        "Policy": 0,
+        "Regulation": 0,
+        "Construction": 0
       }
     },
     {
       "week": "Week 5 (02/10-02/11)",
       "topicCounts": {
-        "Policy": 0,
-        "Supply": 0,
-        "Construction": 0,
-        "Market": 0,
-        "Regulation": 0
+        "Market": 5,
+        "Supply": 4,
+        "Policy": 3,
+        "Regulation": 2,
+        "Construction": 1
       }
     }
   ],
@@ -72,42 +72,70 @@
     {
       "id": 1,
       "status": "ONGOING",
-      "title": "소음 규제 합리화를 통한 주택 공급 확대 정책 가속",
-      "summary": "정부가 건설 단계의 불필요한 소음 규제를 완화·정비해 공사 제약을 줄이고, 이를 통해 주택 공급을 늘리려는 규제 합리화 정책을 추진 중이다. 공급 확대를 위한 인허가·공사 환경 개선 기조가 이어지는 것이 핵심 이슈다.",
+      "title": "토지거래허가제 실거주 유예 축소와 1주택 매도 예외 배제",
+      "summary": "토지거래허가제의 실거주 유예 범위가 줄어들면서 기존주택 매도·이주 과정에서도 허가 요건을 엄격히 적용하기로 했다. 1주택자가 집을 파는 경우에도 예외를 두지 않아 규제지역 내 실수요·거래 모두에 제약이 커질 전망이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "한국경제(부동산)",
-          "title": "불필요한 소음 규제 합리화…\"주택 공급 늘릴 것\"",
-          "url": "https://www.hankyung.com/article/202602093810i"
+          "title": "'1주택자가 팔때'는 예외 안돼...토허제 실거주 유예 어디까지",
+          "url": "https://www.hankyung.com/article/202602118381i"
         }
       ]
     },
     {
       "id": 2,
+      "status": "ONGOING",
+      "title": "산업단지 PF 정상화로 진천메가폴리스 개발 본격화",
+      "summary": "진천메가폴리스 산업단지가 프로젝트파이낸싱(PF)을 완료하며 약 44만평 규모 일반산단 조성이 본궤도에 올랐다. 민관 합동 구조와 SK에코플랜트 책임준공으로 공정 리스크를 낮춰, 수도권 외곽 산업용 부동산 공급 확대에 속도가 붙고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "진천메가폴리스 PF 완료로, 산업단지 개발 본궤도에 오르다",
+          "url": "https://biz.heraldcorp.com/article/10673877"
+        }
+      ]
+    },
+    {
+      "id": 3,
       "status": "SHIFTING",
-      "title": "다주택자 세제 환경 변화에 따른 강남3구 매매수급 약화",
-      "summary": "정부의 다주택자 양도세 중과 유예 종료 방침이 예고되면서 강남3구 매매수급지수가 21주 만에 최저로 떨어졌다. 그동안 강했던 매도자 우위가 완화되며 시장 심리와 거래구조가 조정 국면에 진입하는 모습이다.",
+      "title": "분양가 급등·대출제한에 수도권 청약 수요, 중형에서 소형으로 이동",
+      "summary": "지난해 수도권 아파트 청약에서 소형 면적 지원자가 처음으로 중형을 추월했다. 분양가 상승과 대출 규제 강화로 중·대형 진입 장벽이 높아지자 실수요가 상대적으로 부담이 적은 소형평형으로 빠르게 재편되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "살벌한 분양가에 대출도 힘드니…수도권 청약자수, 소형이 중형 첫 추월",
+          "url": "https://www.mk.co.kr/news/realestate/11959257"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "SHIFTING",
+      "title": "정부 공급대책 ‘재탕’ 논란 속 강행 기조 재확인",
+      "summary": "국토부 장관이 공급대책이 ‘재탕’이라는 비판에 일정 부분 타당성을 인정하면서도, 반대 여론을 돌파해 공급정책을 밀어붙이겠다는 입장을 밝혔다. 기존 대책 재활용 논란에도 공급 확대 중심의 정책 방향은 유지되는 분위기다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "국토장관, '재탕 공급대책' 지적에 \"일리 있어…반대 돌파\" [경제분야 대정부질문]",
+          "url": "https://www.hankyung.com/article/202602107077i"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "SHIFTING",
+      "title": "다주택 중과 유예 종료 예고에 강남3구 매매수급지수 급락",
+      "summary": "다주택자 양도세 중과 유예 종료 방침이 알려지면서 강남3구 매매수급지수가 21주 만에 최저 수준으로 떨어졌다. 매도자 우위가 약화되고 매수 심리가 위축되며 고가 주택 시장 중심으로 거래 분위기가 빠르게 식는 양상이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(부동산)",
           "title": "“집주인들 콧대 꺾이나”…강남3구 매매수급지수 21주만에 최저",
           "url": "https://www.mk.co.kr/news/realestate/11957677"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "status": "ONGOING",
-      "title": "부천 원도심 소규모 정비사업 확산과 구도심 재생",
-      "summary": "부천 원도심에서 소규모 정비사업 시행률이 43%를 기록하며 경기 평균을 상회하고 있다. GTX B 등 광역 교통망 확충과 맞물려 재개발·재건축, 소규모 정비가 집중되면서 구도심 주거환경 개선과 공급 다변화가 동시에 진행되고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "매일경제(부동산)",
-          "title": "‘새 옷’ 갈아입는 부천 원도심…소규모 정비사업 시행률 43%, 경기 평균 상회",
-          "url": "https://www.mk.co.kr/news/realestate/11957433"
         }
       ]
     }

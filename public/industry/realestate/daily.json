@@ -1,12 +1,130 @@
 {
   "date": "2026-02-11",
   "highlights": {
-    "bullets": [],
-    "topTopics": [],
+    "bullets": [
+      "핵심: 토지거래허가제의 실거주 유예에 '1주택자가 팔 때' 예외가 적용되지 않는다.",
+      "핵심: 진천메가폴리스 산업단지가 PF 완료로 개발 사업이 본궤도에 올랐다.",
+      "트렌드: 규제 강화와 공급 이슈가 주택·토지·산업용지 시장에 동시 영향으로 나타난다."
+    ],
+    "topTopics": [
+      "Market",
+      "Policy",
+      "Supply",
+      "Construction"
+    ],
     "stats": {
-      "collected": 0,
-      "deduped": 0
+      "collected": 24,
+      "deduped": 24
     }
   },
-  "cards": []
+  "cards": [
+    {
+      "id": "realestate_0001",
+      "tab": "realestate",
+      "publishedAt": "2026-02-11T09:51:15+09:00",
+      "source": "한국경제(부동산)",
+      "title": "'1주택자가 팔때'는 예외 안돼...토허제 실거주 유예 어디까지",
+      "summary": [
+        "토지거래허가제의 ‘실거주 유예’에 '1주택자가 팔 때' 예외가 적용되지 않는다.",
+        "실거주 유예 범위가 축소되며 매도·이주 상황에서도 허가 요건이 엄격해진다.",
+        "이에 따라 단기 매도자와 주택 보유자의 거래 제약과 시장 영향 우려가 커지고 있다."
+      ],
+      "whyItMatters": "실거주 유예 제한은 거래제한과 보유 부담을 높여 토지·주택시장 및 실수요자에게 직접적 영향을 주기 때문에 중요하다.",
+      "topics": [
+        "Regulation",
+        "Land",
+        "Policy",
+        "Market"
+      ],
+      "status": "ONGOING",
+      "hash": "62a3b8ff4a764c6b6a6307b5d1a06628437aa3ac94e9ca2f25ab9700807ab7e1",
+      "url": "https://www.hankyung.com/article/202602118381i"
+    },
+    {
+      "id": "realestate_0002",
+      "tab": "realestate",
+      "publishedAt": "2026-02-11T09:00:00+09:00",
+      "source": "헤럴드경제(부동산)",
+      "title": "진천메가폴리스 PF 완료로, 산업단지 개발 본궤도에 오르다",
+      "summary": [
+        "진천메가폴리스 산업단지가 PF를 완료하며 개발 사업이 본궤도에 올랐습니다.",
+        "민·관 합동으로 약 44.2만평 규모의 일반산업단지를 조성 중이며 SK에코플랜트가 책임준공을 맡아 공정 리스크를 낮췄습니다.",
+        "2026년 2월 분양고시 후 본분양 전환 시 중부권 핵심 배후산단으로 위상이 강화될 전망입니다."
+      ],
+      "whyItMatters": "PF 완료와 책임준공 확보로 사업 안정성이 확보되어 중부권 산업용지 공급과 기업 유치에 실질적 영향을 미치기 때문입니다.",
+      "topics": [
+        "Construction",
+        "Land",
+        "Market",
+        "Supply"
+      ],
+      "status": "ONGOING",
+      "hash": "c7c9a8d83709ffb3183c96392afdcb00650139c2ebe3b520d14fca1ef450a154",
+      "url": "https://biz.heraldcorp.com/article/10673877"
+    },
+    {
+      "id": "realestate_0003",
+      "tab": "realestate",
+      "publishedAt": "2026-02-11T08:56:33+09:00",
+      "source": "매일경제(부동산)",
+      "title": "살벌한 분양가에 대출도 힘드니…수도권 청약자수, 소형이 중형 첫 추월",
+      "summary": [
+        "지난해 수도권 아파트 청약에서 소형 면적 신청자가 중형을 처음으로 넘어섰다.",
+        "분양가 급등과 대출 규제 강화로 중·대형 선호층의 청약 진입이 어려워지며 수요가 소형으로 이동했다.",
+        "이 변화는 건설사 분양 전략과 시장 수요 구조에 영향을 미칠 가능성이 크다."
+      ],
+      "whyItMatters": "분양가 상승과 대출규제 강화가 중형 수요의 진입을 제약해 소형으로 수요가 재분배되었기 때문입니다.",
+      "topics": [
+        "Market",
+        "Mortgage",
+        "Supply",
+        "Regulation"
+      ],
+      "status": "SHIFTING",
+      "hash": "e3e7137e2c76cf87958819221385a1163fb84c11903d92bbf7e0ee6aa5bfd21f",
+      "url": "https://www.mk.co.kr/news/realestate/11959257"
+    },
+    {
+      "id": "realestate_0004",
+      "tab": "realestate",
+      "publishedAt": "2026-02-11T06:50:10+09:00",
+      "source": "매일경제(부동산)",
+      "title": "노원·도봉서도 아파트 매물 쏟아진다…한강벨트 넘어 서울전역 확산",
+      "summary": [
+        "대통령의 다주택 처분 압박 이후 15일 만에 서울 아파트 매물이 7.5% 증가했다.",
+        "한강벨트 중심에서 노원·도봉 등 외곽까지 매물 급증이 서울 전역으로 확산되고 있다.",
+        "매수보다 매물 증가 속도가 빨라 5월까지 추가 매물 출회 가능성이 높다."
+      ],
+      "whyItMatters": "단기간에 공급이 늘어나며 서울 주택시장 가격과 거래에 즉각적 영향을 줄 가능성이 크기 때문이다.",
+      "topics": [
+        "Market",
+        "Supply",
+        "Policy"
+      ],
+      "status": "ONGOING",
+      "hash": "45a379f4be67ffd2fbcb7789c37cba8c5479ffa436f1631034c782c5b39399f6",
+      "url": "https://www.mk.co.kr/news/realestate/11959197"
+    },
+    {
+      "id": "realestate_0005",
+      "tab": "realestate",
+      "publishedAt": "2026-02-10T19:23:03+09:00",
+      "source": "한국경제(부동산)",
+      "title": "국토장관, '재탕 공급대책' 지적에 \"일리 있어…반대 돌파\" [경제분야 대정부질문]",
+      "summary": [
+        "국토장관이 '재탕 공급대책' 지적을 일부분 수용하며 '일리 있다'고 인정했다.",
+        "동시에 반대 의견을 돌파해 공급정책을 밀어붙이겠다는 의지를 표명했다.",
+        "대정부질문에서 향후 공급정책 개선과 집행강화 의지를 재확인했다."
+      ],
+      "whyItMatters": "정부의 주택공급 방향과 정책 실행 가능성에 직접적 영향을 미쳐 시장·정책 대응을 촉발할 가능성이 크기 때문이다.",
+      "topics": [
+        "Supply",
+        "Policy",
+        "Market"
+      ],
+      "status": "SHIFTING",
+      "hash": "99e4616e55b0037ac3399014070c9ecbfb62e8ca965b4ab8e6cd43e81fca4437",
+      "url": "https://www.hankyung.com/article/202602107077i"
+    }
+  ]
 }

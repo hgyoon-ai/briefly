@@ -256,6 +256,11 @@ RSS_SOURCES = [
         "url": "https://www.mk.co.kr/rss/50300009/",
         "tab": "realestate",
     },
+    {
+        "name": "헤럴드경제(부동산)",
+        "url": "https://biz.heraldcorp.com/rss/google/realestate",
+        "tab": "realestate",
+    },
 ]
 
 HF_TRENDING_URL = "https://huggingface.co/api/models"
