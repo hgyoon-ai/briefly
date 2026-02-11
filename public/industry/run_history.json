@@ -1,5 +1,133 @@
 [
   {
+    "id": "2026-02-12T06:56:36.455563+09:00",
+    "ts": "2026-02-12T06:56:36.455563+09:00",
+    "timezone": "Asia/Seoul",
+    "selectedTabs": [
+      "ai",
+      "finance",
+      "semiconductor",
+      "ev",
+      "realestate"
+    ],
+    "pipeline": {
+      "rawTotal": 239,
+      "rawClamped": 150,
+      "deduped": 150,
+      "dedupedSelected": 150,
+      "enriched": 150
+    },
+    "sources": {
+      "rss": {
+        "total": 209,
+        "bySource": {
+          "OpenAI Blog": 15,
+          "Google DeepMind Blog": 15,
+          "Microsoft Research Blog": 10,
+          "NVIDIA Developer Blog": 15,
+          "Hugging Face Blog": 15,
+          "Stability AI News": 15,
+          "Samsung Newsroom": 15,
+          "SK hynix Newsroom": 9,
+          "EE Times": 10,
+          "TechInsights": 10,
+          "Electrek": 15,
+          "정책브리핑": 8,
+          "매일경제(증권)": 15,
+          "보안뉴스": 10,
+          "벤처스퀘어": 15,
+          "한국경제(부동산)": 6,
+          "매일경제(부동산)": 5,
+          "헤럴드경제(부동산)": 6
+        }
+      },
+      "hf": {
+        "total": 0
+      },
+      "hn": {
+        "total": 0
+      }
+    },
+    "llm": {
+      "itemCalls": 150,
+      "highlightsCalls": 5,
+      "issueCalls": 10
+    },
+    "errors": [],
+    "tabs": {
+      "ai": {
+        "daily": {
+          "raw": 2,
+          "cards": 2
+        },
+        "weekly": {
+          "items": 11,
+          "issues": 5
+        },
+        "monthly": {
+          "items": 50,
+          "issues": 5
+        }
+      },
+      "finance": {
+        "daily": {
+          "raw": 5,
+          "cards": 4
+        },
+        "weekly": {
+          "items": 21,
+          "issues": 5
+        },
+        "monthly": {
+          "items": 50,
+          "issues": 5
+        }
+      },
+      "semiconductor": {
+        "daily": {
+          "raw": 8,
+          "cards": 5
+        },
+        "weekly": {
+          "items": 16,
+          "issues": 5
+        },
+        "monthly": {
+          "items": 45,
+          "issues": 5
+        }
+      },
+      "ev": {
+        "daily": {
+          "raw": 15,
+          "cards": 2
+        },
+        "weekly": {
+          "items": 11,
+          "issues": 5
+        },
+        "monthly": {
+          "items": 33,
+          "issues": 5
+        }
+      },
+      "realestate": {
+        "daily": {
+          "raw": 0,
+          "cards": 0
+        },
+        "weekly": {
+          "items": 8,
+          "issues": 5
+        },
+        "monthly": {
+          "items": 8,
+          "issues": 5
+        }
+      }
+    }
+  },
+  {
     "id": "2026-02-11T10:02:39.472998+09:00",
     "ts": "2026-02-11T10:02:39.472998+09:00",
     "timezone": "Asia/Seoul",
@@ -510,115 +638,6 @@
         "daily": {
           "raw": 0,
           "cards": 0
-        },
-        "weekly": {
-          "items": 12,
-          "issues": 5
-        },
-        "monthly": {
-          "items": 27,
-          "issues": 5
-        }
-      }
-    }
-  },
-  {
-    "id": "2026-02-08T06:47:13.148999+09:00",
-    "ts": "2026-02-08T06:47:13.148999+09:00",
-    "timezone": "Asia/Seoul",
-    "selectedTabs": [
-      "ai",
-      "finance",
-      "semiconductor",
-      "ev"
-    ],
-    "pipeline": {
-      "rawTotal": 215,
-      "rawClamped": 150,
-      "deduped": 150,
-      "dedupedSelected": 150,
-      "enriched": 150
-    },
-    "sources": {
-      "rss": {
-        "total": 185,
-        "bySource": {
-          "OpenAI Blog": 15,
-          "Google DeepMind Blog": 15,
-          "Microsoft Research Blog": 10,
-          "NVIDIA Developer Blog": 15,
-          "Hugging Face Blog": 15,
-          "Stability AI News": 15,
-          "Samsung Newsroom": 15,
-          "SK hynix Newsroom": 9,
-          "EE Times": 10,
-          "TechInsights": 10,
-          "Electrek": 15,
-          "정책브리핑": 1,
-          "매일경제(증권)": 15,
-          "보안뉴스": 10,
-          "벤처스퀘어": 15
-        }
-      },
-      "hf": {
-        "total": 0
-      },
-      "hn": {
-        "total": 0
-      }
-    },
-    "llm": {
-      "itemCalls": 150,
-      "issueCalls": 8
-    },
-    "errors": [],
-    "tabs": {
-      "ai": {
-        "daily": {
-          "raw": 0,
-          "cards": 0
-        },
-        "weekly": {
-          "items": 19,
-          "issues": 5
-        },
-        "monthly": {
-          "items": 42,
-          "issues": 5
-        }
-      },
-      "finance": {
-        "daily": {
-          "raw": 5,
-          "cards": 2
-        },
-        "weekly": {
-          "items": 19,
-          "issues": 5
-        },
-        "monthly": {
-          "items": 36,
-          "issues": 5
-        }
-      },
-      "semiconductor": {
-        "daily": {
-          "raw": 0,
-          "cards": 0
-        },
-        "weekly": {
-          "items": 17,
-          "issues": 5
-        },
-        "monthly": {
-          "items": 33,
-          "issues": 5
-        }
-      },
-      "ev": {
-        "daily": {
-          "raw": 7,
-          "cards": 2
         },
         "weekly": {
           "items": 12,
