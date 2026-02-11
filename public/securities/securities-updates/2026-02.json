@@ -2,6 +2,237 @@
   "month": "2026-02",
   "events": [
     {
+      "id": "7fd10950d1c60a02c196461a56f41c26180dd3b8",
+      "date": "2026-02-11",
+      "company": "키움증권",
+      "title": "매출액또는손익구조30%(대규모법인은15%)이상변경              ",
+      "oneLiner": "키움증권이 매출액 또는 손익구조가 기준치(30%, 대규모법인 15%) 이상 변경되었음을 공시한 건으로, 재무·영업구조 변화에 대한 중요 공시임.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "매출액또는손익구조30%(대규모법인은15%)이상변경              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260211801056"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-02-12"
+    },
+    {
+      "id": "news:한국투자증권:https://www.hankyung.com/article/202602119904i",
+      "date": "2026-02-11",
+      "company": "한국투자증권",
+      "title": "한투證 '한국투자 IMA S3' 출시…24일까지 모집",
+      "oneLiner": "한국투자증권이 종합투자계좌(IMA) 상품 '한국투자 IMA S3'를 출시하고 모집기간을 공지함(24일까지 모집).",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "한투證 '한국투자 IMA S3' 출시…24일까지 모집",
+          "url": "https://www.hankyung.com/article/202602119904i"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-12"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/11959510",
+      "date": "2026-02-11",
+      "company": "한국투자증권",
+      "title": "한국투자증권, 3번째 IMA 상품 출시…내일부터 3000억원 모집",
+      "oneLiner": "한국투자증권이 세번째 IMA 상품 '한국투자 IMA S3'를 출시하고 3000억원 규모 모집을 예고함(모집기간 12~24일).",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한국투자증권, 3번째 IMA 상품 출시…내일부터 3000억원 모집",
+          "url": "https://www.mk.co.kr/news/stock/11959510"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-12"
+    },
+    {
+      "id": "news:키움증권:https://www.mk.co.kr/news/stock/11959391",
+      "date": "2026-02-11",
+      "company": "키움증권",
+      "title": "키움증권, 중개형 ISA 잔고 3조 돌파…1인당 평균 가입액 860만원",
+      "oneLiner": "키움증권의 중개형 ISA 잔고가 3조원을 돌파했다는 사업 실적 공지로, 영업·고객자금 측면의 운영 성과에 해당함.",
+      "type": "기타",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "키움증권, 중개형 ISA 잔고 3조 돌파…1인당 평균 가입액 860만원",
+          "url": "https://www.mk.co.kr/news/stock/11959391"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-02-12"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202602110832439777",
+      "date": "2026-02-11",
+      "company": "한국투자증권",
+      "title": "한투운용 ACE 미국SMR원자력TOP10 ETF, 개인순매수 200억원 돌파",
+      "oneLiner": "한국투자신탁운용의 ACE 미국SMR원자력TOP10 ETF에 개인 순매수 200억원이 유입되었다는 보도로, 상장 직후 자금유입 추세 관련 사업 정보임.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투운용 ACE 미국SMR원자력TOP10 ETF, 개인순매수 200억원 돌파",
+          "url": "https://www.fnnews.com/news/202602110832439777"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-02-12"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202602110844273200",
+      "date": "2026-02-11",
+      "company": "한국투자증권",
+      "title": "BGF리테일, '두쫀쿠' 인기에 호실적...목표가 ↑ -신한證",
+      "oneLiner": "신한투자증권 연구원이 BGF리테일의 호실적을 분석하고 목표주가를 상향한 리포트로, 증권사 리서치 산출물에 해당함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "BGF리테일, '두쫀쿠' 인기에 호실적...목표가 ↑ -신한證",
+          "url": "https://www.fnnews.com/news/202602110844273200"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-02-12"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202602110954076300",
+      "date": "2026-02-11",
+      "company": "한국투자증권",
+      "title": "한투證, IMA 3호 등판…12~24일 모집",
+      "oneLiner": "한국투자증권이 IMA S3를 모집한다고 공지(모집기간 12~24일, 2년 만기 폐쇄형 등 운용전략 소개)한 보도임.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투證, IMA 3호 등판…12~24일 모집",
+          "url": "https://www.fnnews.com/news/202602110954076300"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-12"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202602111113060662",
+      "date": "2026-02-11",
+      "company": "한국투자증권",
+      "title": "'한국형 BDC' 도입 배경부터 투자전략까지…신한투자증권 리포트 발간",
+      "oneLiner": "신한투자증권이 한국형 BDC 제도 도입 배경과 투자전략을 정리한 리포트를 발간했으며, 제도·정책 분석을 포함한 리서치 자료임.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "'한국형 BDC' 도입 배경부터 투자전략까지…신한투자증권 리포트 발간",
+          "url": "https://www.fnnews.com/news/202602111113060662"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-12"
+    },
+    {
+      "id": "news:메리츠증권:https://www.fnnews.com/news/202602111643204505",
+      "date": "2026-02-11",
+      "company": "메리츠증권",
+      "title": "메리츠증권, 2025년 당기순이익 7663억원…전년比 10.1%↑",
+      "oneLiner": "메리츠증권의 2025년 연결 당기순이익 등 연간 실적 공시로, 회사의 영업성과·재무구조 변화에 해당하는 주요 공시임.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "메리츠증권, 2025년 당기순이익 7663억원…전년比 10.1%↑",
+          "url": "https://www.fnnews.com/news/202602111643204505"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-12"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202602111834141799",
+      "date": "2026-02-11",
+      "company": "NH투자증권",
+      "title": "NH-아문디운용, ‘ESG First 2028’ 의결…스튜어드십 강화",
+      "oneLiner": "NH-아문디자산운용이 향후 3개년 책임투자 전략 'NH-아문디 ESG 퍼스트 2028' 로드맵을 의결해 스튜어드십과 책임투자 전략을 강화하기로 했다.",
+      "type": "제휴",
+      "areas": [
+        "WM",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "NH-아문디운용, ‘ESG First 2028’ 의결…스튜어드십 강화",
+          "url": "https://www.fnnews.com/news/202602111834141799"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-02-12"
+    },
+    {
       "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/11958642",
       "date": "2026-02-10",
       "company": "미래에셋증권",
@@ -117,7 +348,7 @@
       ],
       "tags": [],
       "confidence": 0.8,
-      "updatedAt": "2026-02-11"
+      "updatedAt": "2026-02-12"
     },
     {
       "id": "news:한국투자증권:https://www.hankyung.com/article/2026020944391",
