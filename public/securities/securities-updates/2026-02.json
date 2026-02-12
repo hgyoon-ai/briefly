@@ -2,6 +2,98 @@
   "month": "2026-02",
   "events": [
     {
+      "id": "news:토스증권:https://www.hankyung.com/article/202602122644g",
+      "date": "2026-02-12",
+      "company": "토스증권",
+      "title": "[단독] 토스, 해외 코인 거래소 인수 검토…美 기관 플랫폼과 접촉",
+      "oneLiner": "토스가 미국 기관 대상 암호화폐(코인) 거래소 인수 검토 보도가 나옴. 해외 거래소 인수 검토는 사업 확장·제휴 가능성을 시사하는 전략적 사안임.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "[단독] 토스, 해외 코인 거래소 인수 검토…美 기관 플랫폼과 접촉",
+          "url": "https://www.hankyung.com/article/202602122644g"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-02-13"
+    },
+    {
+      "id": "news:토스증권:https://www.hankyung.com/article/202602121212i",
+      "date": "2026-02-12",
+      "company": "토스증권",
+      "title": "토스증권, 해외주식담보대출 서비스 출시",
+      "oneLiner": "토스증권이 해외주식담보대출 서비스를 출시함. 해외주식 보유자를 대상으로 한 담보대출 상품 제공 시작은 제품·서비스 변경으로 분류됨.",
+      "type": "출시",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "토스증권, 해외주식담보대출 서비스 출시",
+          "url": "https://www.hankyung.com/article/202602121212i"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-02-13"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/11961111",
+      "date": "2026-02-12",
+      "company": "한국투자증권",
+      "title": "한국투자증권, 골드만삭스와 5000억원 규모 공동투자계약 체결",
+      "oneLiner": "한국투자증권이 골드만삭스와 5000억원 규모의 부동산 대출 공동투자계약을 체결함. 대형 금융사와의 공동투자는 자산운용·IB 관련 제휴 확대 사안임.",
+      "type": "제휴",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한국투자증권, 골드만삭스와 5000억원 규모 공동투자계약 체결",
+          "url": "https://www.mk.co.kr/news/stock/11961111"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-13"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202602121131529261",
+      "date": "2026-02-12",
+      "company": "미래에셋증권",
+      "title": "미래에셋 ‘TIGER 미국배당다우존스 ETF’, 올해 순자산 5000억원 증가",
+      "oneLiner": "미래에셋의 'TIGER 미국배당다우존스 ETF' 순자산이 연초 이후 5000억원 이상 증가했다고 공시됨. ETF 자금흐름·운용규모 변화는 제품 운영 관점에서 의미 있는 정보임.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋 ‘TIGER 미국배당다우존스 ETF’, 올해 순자산 5000억원 증가",
+          "url": "https://www.fnnews.com/news/202602121131529261"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-13"
+    },
+    {
       "id": "7fd10950d1c60a02c196461a56f41c26180dd3b8",
       "date": "2026-02-11",
       "company": "키움증권",
@@ -22,7 +114,7 @@
       ],
       "tags": [],
       "confidence": 0.95,
-      "updatedAt": "2026-02-12"
+      "updatedAt": "2026-02-13"
     },
     {
       "id": "news:한국투자증권:https://www.hankyung.com/article/202602119904i",
