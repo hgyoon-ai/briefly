@@ -2,6 +2,167 @@
   "month": "2026-02",
   "events": [
     {
+      "id": "6e15719ff8f848f6a03a14042231bcd631cd5d02",
+      "date": "2026-02-13",
+      "company": "메리츠증권",
+      "title": "주요사항보고서(자본으로인정되는채무증권발행결정)",
+      "oneLiner": "메리츠증권이 자본으로 인식되는 채무증권 발행 결정을 주요사항보고서로 공시했으며, 자본구조 및 재무건전성에 영향이 있을 수 있습니다.",
+      "type": "기타",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "주요사항보고서(자본으로인정되는채무증권발행결정)",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260213002478"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-14"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.hankyung.com/article/2026021357426",
+      "date": "2026-02-13",
+      "company": "미래에셋증권",
+      "title": "미래에셋, 국내 4위 가상자산 거래소 코빗 지분 92% 취득",
+      "oneLiner": "미래에셋이 국내 가상자산 거래소 코빗 지분 92%를 취득해 경영권을 확보했으며, 그룹의 디지털금융·가상자산 사업 확장 의지를 반영합니다.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "미래에셋, 국내 4위 가상자산 거래소 코빗 지분 92% 취득",
+          "url": "https://www.hankyung.com/article/2026021357426"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-02-14"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/11963030",
+      "date": "2026-02-13",
+      "company": "미래에셋증권",
+      "title": "미래에셋컨설팅, 코빗 품고 ‘디지털 금융’ 승부수… 가상자산 시장 지각변동 예고",
+      "oneLiner": "미래에셋컨설팅의 코빗 인수로 전통금융과 가상자산 결합을 가속화하려는 전략이 가시화되며, 가상자산·디지털금융 경쟁 구도에 변화를 예고합니다.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "미래에셋컨설팅, 코빗 품고 ‘디지털 금융’ 승부수… 가상자산 시장 지각변동 예고",
+          "url": "https://www.mk.co.kr/news/stock/11963030"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-14"
+    },
+    {
+      "id": "news:키움증권:https://www.mk.co.kr/news/stock/11962541",
+      "date": "2026-02-13",
+      "company": "키움증권",
+      "title": "키움증권, 위불과 외국인통합계좌 협업…“외국 투자자 접근성 확대”",
+      "oneLiner": "키움증권이 미국 브로커 Webull과 외국인통합계좌(옴니버스) 활성화를 위한 전략적 협업을 체결해 외국인 투자자 접근성 확대를 추진합니다.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "키움증권, 위불과 외국인통합계좌 협업…“외국 투자자 접근성 확대”",
+          "url": "https://www.mk.co.kr/news/stock/11962541"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-14"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202602130819266010",
+      "date": "2026-02-13",
+      "company": "NH투자증권",
+      "title": "롯데관광개발, 실적 하회는 일시적...경영권 강화-NH투자증권",
+      "oneLiner": "NH투자증권은 롯데관광개발에 대해 계절적 비용 영향으로 실적이 일시적으로 컨센서스를 하회했으나 중장기 성장성과 경영권 강화 요인을 근거로 투자의견을 유지했습니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "롯데관광개발, 실적 하회는 일시적...경영권 강화-NH투자증권",
+          "url": "https://www.fnnews.com/news/202602130819266010"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-02-14"
+    },
+    {
+      "id": "news:삼성증권:https://www.fnnews.com/news/202602131020362709",
+      "date": "2026-02-13",
+      "company": "삼성증권",
+      "title": "두산에너빌리티, '47조' 수주 확대 전망… \"BTS 복귀\" 하이브, 목표가 42만→50만원 [株토피아]",
+      "oneLiner": "삼성증권 등 주요 증권사의 리포트(두산에너빌리티, 하이브 등)에 대한 요약이 공개되었으며, 종목별 목표주가와 전망이 제시되었습니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "두산에너빌리티, '47조' 수주 확대 전망… \"BTS 복귀\" 하이브, 목표가 42만→50만원 [株토피아]",
+          "url": "https://www.fnnews.com/news/202602131020362709"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-02-14"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202602132109515051",
+      "date": "2026-02-13",
+      "company": "미래에셋증권",
+      "title": "‘금융X가상자산’ 미래에셋, 원화마켓 코빗 지분 92% 취득 [크립토브리핑]",
+      "oneLiner": "미래에셋컨설팅이 코빗 지분 92%를 취득하기로 결정해 디지털자산 사업 진출 및 거래소 운영 관련 실질적 사업 변화가 발생함.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "‘금융X가상자산’ 미래에셋, 원화마켓 코빗 지분 92% 취득 [크립토브리핑]",
+          "url": "https://www.fnnews.com/news/202602132109515051"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.96,
+      "updatedAt": "2026-02-14"
+    },
+    {
       "id": "news:토스증권:https://www.hankyung.com/article/202602122644g",
       "date": "2026-02-12",
       "company": "토스증권",
@@ -22,7 +183,7 @@
       ],
       "tags": [],
       "confidence": 0.7,
-      "updatedAt": "2026-02-13"
+      "updatedAt": "2026-02-14"
     },
     {
       "id": "news:토스증권:https://www.hankyung.com/article/202602121212i",
@@ -114,7 +275,7 @@
       ],
       "tags": [],
       "confidence": 0.95,
-      "updatedAt": "2026-02-13"
+      "updatedAt": "2026-02-14"
     },
     {
       "id": "news:한국투자증권:https://www.hankyung.com/article/202602119904i",
