@@ -2,6 +2,77 @@
   "month": "2026-02",
   "events": [
     {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/11966535",
+      "date": "2026-02-19",
+      "company": "미래에셋증권",
+      "title": "[인기검색TOP5] 한화솔루션, 엘케이켐, 미래에셋증권, 삼성전기, 한화오션",
+      "oneLiner": "미래에셋증권의 주식 AI '라씨 매매비서'가 인기검색 종목을 분석해 최적 매매 타이밍을 실시간으로 제공하고 있다는 기사입니다.",
+      "type": "출시",
+      "areas": [
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[인기검색TOP5] 한화솔루션, 엘케이켐, 미래에셋증권, 삼성전기, 한화오션",
+          "url": "https://www.mk.co.kr/news/stock/11966535"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-02-20"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202602191444516036",
+      "date": "2026-02-19",
+      "company": "미래에셋증권",
+      "title": "병오년 내 자산 불려줄 펀드는?...“배당형·AI반도체 추종 대세”",
+      "oneLiner": "미래에셋 등 운용사들이 설 연휴 이후 고배당 ETF와 AI반도체 추종 펀드를 재테크 추천상품으로 제시했다는 보도입니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "병오년 내 자산 불려줄 펀드는?...“배당형·AI반도체 추종 대세”",
+          "url": "https://www.fnnews.com/news/202602191444516036"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-02-20"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202602191831411804",
+      "date": "2026-02-19",
+      "company": "미래에셋증권",
+      "title": "운용사들 \"고배당·AI반도체 펀드 담아라\"",
+      "oneLiner": "여러 운용사가 고배당·AI반도체 펀드를 추천하며 해당 섹터 중심의 투자전략을 권유했다는 기사입니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "운용사들 \"고배당·AI반도체 펀드 담아라\"",
+          "url": "https://www.fnnews.com/news/202602191831411804"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-02-20"
+    },
+    {
       "id": "news:토스증권:https://www.fnnews.com/news/202602131335104856",
       "date": "2026-02-13",
       "company": "토스증권",
