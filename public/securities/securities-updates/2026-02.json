@@ -2,6 +2,121 @@
   "month": "2026-02",
   "events": [
     {
+      "id": "9874de772bfb1c550020e11c1bac9d5217599d82",
+      "date": "2026-02-20",
+      "company": "메리츠증권",
+      "title": "메리츠증권 iOS 앱 업데이트 v2.5.82",
+      "oneLiner": "메리츠증권 iOS 앱(v2.5.82) 업데이트로 시스템 개선 및 이용 편의성 강화가 이루어졌다는 릴리즈 노트.",
+      "type": "시스템",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "app_store",
+      "sources": [
+        {
+          "source": "App Store",
+          "title": "메리츠증권 iOS 앱 업데이트 v2.5.82",
+          "url": "https://apps.apple.com/kr/app/%EB%A9%94%EB%A6%AC%EC%B8%A0smart-%EA%B3%84%EC%A2%8C%EA%B0%9C%EC%84%A4-%EA%B2%B8%EC%9A%A9/id1104272974?uo=4"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-02-21"
+    },
+    {
+      "id": "news:하나증권:https://www.mk.co.kr/news/stock/11966889",
+      "date": "2026-02-20",
+      "company": "하나증권",
+      "title": "하나증권 “한화솔루션, 실적 개선 뚜렷…추가 상승은 모멘텀 필요”",
+      "oneLiner": "하나증권 리서치에서 한화솔루션의 실적 개선을 반영해 투자의견 및 목표주가를 상향 조정한 분석 리포트.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "하나증권 “한화솔루션, 실적 개선 뚜렷…추가 상승은 모멘텀 필요”",
+          "url": "https://www.mk.co.kr/news/stock/11966889"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-21"
+    },
+    {
+      "id": "news:하나증권:https://www.mk.co.kr/news/stock/11966869",
+      "date": "2026-02-20",
+      "company": "하나증권",
+      "title": "“삼성SDI, 지분 매각으로 멀티플 정상화”…목표가↑",
+      "oneLiner": "하나증권 리서치가 삼성SDI의 지분 매각으로 멀티플 정상화 기대를 근거로 목표주가를 상향한 보고서를 발표.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“삼성SDI, 지분 매각으로 멀티플 정상화”…목표가↑",
+          "url": "https://www.mk.co.kr/news/stock/11966869"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-21"
+    },
+    {
+      "id": "news:신한투자증권:https://www.fnnews.com/news/202602200957488131",
+      "date": "2026-02-20",
+      "company": "신한투자증권",
+      "title": "SOL 코리아고배당 순자산 5000억원 돌파...고배당 ETF 중 개인투자자 순매수 1위",
+      "oneLiner": "SOL 코리아고배당 ETF의 순자산 5000억원 돌파 소식으로 해당 ETF의 자금 유입·운용 성과 관련 운영 정보가 보고됨.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "SOL 코리아고배당 순자산 5000억원 돌파...고배당 ETF 중 개인투자자 순매수 1위",
+          "url": "https://www.fnnews.com/news/202602200957488131"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-02-21"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202602201120080522",
+      "date": "2026-02-20",
+      "company": "한국투자증권",
+      "title": "연령보다 역량 중심으로…신한투자증권, '평생 PB 철학' 확대",
+      "oneLiner": "신한투자증권이 '평생 PB 철학'을 확대해 연령이 아닌 역량 중심의 PB 배치 및 장기 자산관리 운영체계를 강화한다는 운영 정책 변화.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "연령보다 역량 중심으로…신한투자증권, '평생 PB 철학' 확대",
+          "url": "https://www.fnnews.com/news/202602201120080522"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-02-21"
+    },
+    {
       "id": "news:키움증권:https://www.mk.co.kr/news/stock/11965614",
       "date": "2026-02-19",
       "company": "키움증권",
