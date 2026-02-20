@@ -1,6 +1,6 @@
 {
-  "id": "2026-02-20T06:55:03.864714+09:00",
-  "ts": "2026-02-20T06:55:03.864714+09:00",
+  "id": "2026-02-21T06:47:08.519018+09:00",
+  "ts": "2026-02-21T06:47:08.519018+09:00",
   "timezone": "Asia/Seoul",
   "selectedTabs": [
     "ai",
@@ -10,7 +10,7 @@
     "realestate"
   ],
   "pipeline": {
-    "rawTotal": 232,
+    "rawTotal": 235,
     "rawClamped": 150,
     "deduped": 150,
     "dedupedSelected": 150,
@@ -18,7 +18,7 @@
   },
   "sources": {
     "rss": {
-      "total": 202,
+      "total": 205,
       "bySource": {
         "OpenAI Blog": 15,
         "Google DeepMind Blog": 15,
@@ -31,13 +31,13 @@
         "EE Times": 10,
         "TechInsights": 10,
         "Electrek": 15,
-        "정책브리핑": 4,
         "매일경제(증권)": 15,
         "보안뉴스": 10,
         "벤처스퀘어": 15,
-        "한국경제(부동산)": 1,
-        "매일경제(부동산)": 2,
-        "헤럴드경제(부동산)": 11
+        "정책브리핑": 2,
+        "한국경제(부동산)": 5,
+        "매일경제(부동산)": 5,
+        "헤럴드경제(부동산)": 9
       }
     },
     "hf": {
@@ -56,43 +56,43 @@
   "tabs": {
     "ai": {
       "daily": {
-        "raw": 5,
-        "cards": 5
-      },
-      "weekly": {
-        "items": 11,
-        "issues": 5
-      },
-      "monthly": {
-        "items": 67,
-        "issues": 5
-      }
-    },
-    "finance": {
-      "daily": {
-        "raw": 6,
-        "cards": 3
+        "raw": 2,
+        "cards": 2
       },
       "weekly": {
         "items": 13,
         "issues": 5
       },
       "monthly": {
-        "items": 69,
+        "items": 66,
+        "issues": 5
+      }
+    },
+    "finance": {
+      "daily": {
+        "raw": 6,
+        "cards": 2
+      },
+      "weekly": {
+        "items": 13,
+        "issues": 5
+      },
+      "monthly": {
+        "items": 71,
         "issues": 5
       }
     },
     "semiconductor": {
       "daily": {
-        "raw": 6,
+        "raw": 9,
         "cards": 5
       },
       "weekly": {
-        "items": 14,
+        "items": 19,
         "issues": 5
       },
       "monthly": {
-        "items": 69,
+        "items": 74,
         "issues": 5
       }
     },
@@ -106,7 +106,7 @@
         "issues": 5
       },
       "monthly": {
-        "items": 49,
+        "items": 51,
         "issues": 5
       }
     },
