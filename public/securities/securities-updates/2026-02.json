@@ -2,6 +2,32 @@
   "month": "2026-02",
   "events": [
     {
+      "id": "news:KB증권:https://www.fnnews.com/news/202602201519178409",
+      "date": "2026-02-22",
+      "company": "KB증권",
+      "title": "40대 투자자 \"RIA 나온다는데...국장으로 언제 갈아타야 할까\" [세무 재테크 Q&A]",
+      "oneLiner": "정부가 해외주식 투자자의 국내 복귀를 유도하기 위해 국내시장복귀계좌(RIA)를 신설하고 해외주식 양도소득세를 조건부로 적용하는 지원을 발표했다. 증권사는 계좌 도입·세무 안내·고객 상담 등 운영·브로커리지·WM 영향이 예상된다.",
+      "type": "규제",
+      "areas": [
+        "브로커리지",
+        "상담",
+        "리스크",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "40대 투자자 \"RIA 나온다는데...국장으로 언제 갈아타야 할까\" [세무 재테크 Q&A]",
+          "url": "https://www.fnnews.com/news/202602201519178409"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-22"
+    },
+    {
       "id": "9874de772bfb1c550020e11c1bac9d5217599d82",
       "date": "2026-02-20",
       "company": "메리츠증권",
@@ -22,7 +48,7 @@
       ],
       "tags": [],
       "confidence": 0.7,
-      "updatedAt": "2026-02-21"
+      "updatedAt": "2026-02-22"
     },
     {
       "id": "news:하나증권:https://www.mk.co.kr/news/stock/11966889",
@@ -45,7 +71,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-02-21"
+      "updatedAt": "2026-02-22"
     },
     {
       "id": "news:하나증권:https://www.mk.co.kr/news/stock/11966869",
@@ -68,7 +94,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-02-21"
+      "updatedAt": "2026-02-22"
     },
     {
       "id": "news:신한투자증권:https://www.fnnews.com/news/202602200957488131",
