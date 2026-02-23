@@ -2,6 +2,53 @@
   "month": "2026-02",
   "events": [
     {
+      "id": "news:한국투자증권:https://www.hankyung.com/article/2026022376451",
+      "date": "2026-02-23",
+      "company": "한국투자증권",
+      "title": "한국투자증권, AI·딥테크…신산업 집중 투자 창업 초기 기업에 '성장 마중물'",
+      "oneLiner": "한국투자증권이 AI·딥테크 등 신산업 초기 창업기업에 집중 투자하는 프로그램을 발표했다.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "한국투자증권, AI·딥테크…신산업 집중 투자 창업 초기 기업에 '성장 마중물'",
+          "url": "https://www.hankyung.com/article/2026022376451"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-02-24"
+    },
+    {
+      "id": "news:신한투자증권:https://www.fnnews.com/news/202602230917074518",
+      "date": "2026-02-23",
+      "company": "신한투자증권",
+      "title": "한화자산운용, 지토 재단과 유동성 스테이킹 ETP 인프라 구축 협력",
+      "oneLiner": "한화자산운용이 지토 재단과 유동성 스테이킹 기반 ETP 인프라 구축을 위한 전략적 제휴를 체결하고 규제·리스크 관리 협력을 추진한다.",
+      "type": "제휴",
+      "areas": [
+        "리스크",
+        "AML"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한화자산운용, 지토 재단과 유동성 스테이킹 ETP 인프라 구축 협력",
+          "url": "https://www.fnnews.com/news/202602230917074518"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-02-24"
+    },
+    {
       "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/11966535",
       "date": "2026-02-19",
       "company": "미래에셋증권",

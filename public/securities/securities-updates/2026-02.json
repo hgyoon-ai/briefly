@@ -2,6 +2,145 @@
   "month": "2026-02",
   "events": [
     {
+      "id": "8f0af6c5d2e082f6312263f14906189c00d88004",
+      "date": "2026-02-23",
+      "company": "삼성증권",
+      "title": "주주총회소집공고",
+      "oneLiner": "삼성증권이 주주총회 소집 공고를 제출했습니다. 향후 의결사항에 따라 회사 운영·지배구조에 영향이 있을 수 있습니다.",
+      "type": "기타",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "주주총회소집공고",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260223004027"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-24"
+    },
+    {
+      "id": "b62cb38970f64b0beb322f07c21ec6fd0b8131da",
+      "date": "2026-02-23",
+      "company": "삼성증권",
+      "title": "주주총회소집결의              ",
+      "oneLiner": "삼성증권이 주주총회 소집 결의를 공시했습니다. 주주총회 일정·안건은 회사 운영 및 주주환원 정책 등에 영향을 미칠 수 있습니다.",
+      "type": "기타",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "주주총회소집결의              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260223801157"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-24"
+    },
+    {
+      "id": "news:KB증권:https://www.mk.co.kr/news/stock/11968581",
+      "date": "2026-02-23",
+      "company": "KB증권",
+      "title": "KB증권 “삼성화재, 글로벌 투자 확대는 긍정적…주주환원은 아쉬움”",
+      "oneLiner": "KB증권이 삼성화재에 대해 투자의견을 매수에서 홀드로 하향 조정했습니다. 이는 해당 증권사의 리서치 커버리지·투자전략 변경을 의미합니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "KB증권 “삼성화재, 글로벌 투자 확대는 긍정적…주주환원은 아쉬움”",
+          "url": "https://www.mk.co.kr/news/stock/11968581"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-24"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202602230823473208",
+      "date": "2026-02-23",
+      "company": "한국투자증권",
+      "title": "달바글로벌, 영업이익률 개선 기대감…목표가↑-신한證",
+      "oneLiner": "신한투자증권(보도 인용)이 달바글로벌의 영업이익률 개선을 근거로 목표주가를 상향 조정했습니다. 증권사의 리서치 의견 변경에 해당합니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "달바글로벌, 영업이익률 개선 기대감…목표가↑-신한證",
+          "url": "https://www.fnnews.com/news/202602230823473208"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-02-24"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202602230911202891",
+      "date": "2026-02-23",
+      "company": "한국투자증권",
+      "title": "신한證 \"DB손보, 주주환원 확대 기대감...목표가 47% ↑ \"",
+      "oneLiner": "신한투자증권이 DB손보에 대해 주주환원 확대 기대를 반영해 목표가를 크게 상향 제시했습니다. 리서치의 의견·목표가 변경 사례입니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "신한證 \"DB손보, 주주환원 확대 기대감...목표가 47% ↑ \"",
+          "url": "https://www.fnnews.com/news/202602230911202891"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-24"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202602231035581047",
+      "date": "2026-02-23",
+      "company": "한국투자증권",
+      "title": "한투증권, ELW 338종목 신규 상장… 코스피200 지수형·개별주 종목형",
+      "oneLiner": "한국투자증권이 ELW 338종목을 신규 상장한다고 발표했습니다. ELW 라인업 확대는 거래상품 제공 및 트레이딩 환경에 직접적인 변화입니다.",
+      "type": "출시",
+      "areas": [
+        "트레이딩",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투증권, ELW 338종목 신규 상장… 코스피200 지수형·개별주 종목형",
+          "url": "https://www.fnnews.com/news/202602231035581047"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-24"
+    },
+    {
       "id": "news:KB증권:https://www.fnnews.com/news/202602201519178409",
       "date": "2026-02-22",
       "company": "KB증권",

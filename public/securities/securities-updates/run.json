@@ -1,14 +1,14 @@
 {
-  "id": "2026-02-23T07:14:29.734324+09:00",
-  "ts": "2026-02-23T07:14:29.734324+09:00",
+  "id": "2026-02-24T07:35:55.782381+09:00",
+  "ts": "2026-02-24T07:35:55.782381+09:00",
   "timezone": "Asia/Seoul",
   "dataset": "securities-updates",
   "range": {
     "mode": "lookback",
     "lookbackDays": 3,
     "month": null,
-    "start": "2026-02-20T07:14:29.734324+09:00",
-    "end": "2026-02-23T07:14:29.734324+09:00"
+    "start": "2026-02-21T07:35:55.782381+09:00",
+    "end": "2026-02-24T07:35:55.782381+09:00"
   },
   "sources": {
     "app_store": {
@@ -28,32 +28,32 @@
         ],
         "last_reprt_at": "Y"
       },
-      "disclosuresFetched": 0
+      "disclosuresFetched": 3
     },
     "news": {
       "rssLimit": 50,
-      "entriesFetched": 137,
+      "entriesFetched": 174,
       "bySource": {
         "한국경제(증권)": 50,
         "매일경제(증권)": 50,
-        "파이낸셜뉴스(증권)": 16,
-        "파이낸셜뉴스(IT)": 11,
+        "파이낸셜뉴스(증권)": 33,
+        "파이낸셜뉴스(IT)": 31,
         "보안뉴스": 10
       }
     }
   },
   "filters": {
-    "rawItems": 4,
-    "deduped": 4,
-    "keywordPassed": 1,
-    "candidates": 1
+    "rawItems": 24,
+    "deduped": 24,
+    "keywordPassed": 14,
+    "candidates": 14
   },
   "llm": {
-    "cacheHit": 1,
-    "sent": 0
+    "cacheHit": 0,
+    "sent": 14
   },
   "output": {
-    "kept": 1,
+    "kept": 6,
     "monthsUpdated": [
       "2026-02"
     ]
