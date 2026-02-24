@@ -15,15 +15,15 @@
     },
     {
       "name": "Policy",
-      "count": 10
-    },
-    {
-      "name": "Regulation",
       "count": 9
     },
     {
-      "name": "Compliance",
-      "count": 3
+      "name": "Regulation",
+      "count": 7
+    },
+    {
+      "name": "Fintech",
+      "count": 5
     }
   ],
   "topicTrend": [
@@ -48,7 +48,7 @@
     {
       "date": "2026-02-18",
       "dayOfWeek": "Wed",
-      "topic": "Compliance",
+      "topic": "Fintech",
       "count": 0
     },
     {
@@ -72,8 +72,8 @@
     {
       "date": "2026-02-19",
       "dayOfWeek": "Thu",
-      "topic": "Compliance",
-      "count": 1
+      "topic": "Fintech",
+      "count": 0
     },
     {
       "date": "2026-02-20",
@@ -96,8 +96,8 @@
     {
       "date": "2026-02-20",
       "dayOfWeek": "Fri",
-      "topic": "Compliance",
-      "count": 0
+      "topic": "Fintech",
+      "count": 1
     },
     {
       "date": "2026-02-21",
@@ -120,8 +120,8 @@
     {
       "date": "2026-02-21",
       "dayOfWeek": "Sat",
-      "topic": "Compliance",
-      "count": 1
+      "topic": "Fintech",
+      "count": 0
     },
     {
       "date": "2026-02-22",
@@ -144,38 +144,38 @@
     {
       "date": "2026-02-22",
       "dayOfWeek": "Sun",
-      "topic": "Compliance",
-      "count": 0
+      "topic": "Fintech",
+      "count": 1
     },
     {
       "date": "2026-02-23",
       "dayOfWeek": "Mon",
       "topic": "MarketInfra",
-      "count": 4
+      "count": 2
     },
     {
       "date": "2026-02-23",
       "dayOfWeek": "Mon",
       "topic": "Policy",
-      "count": 4
+      "count": 3
     },
     {
       "date": "2026-02-23",
       "dayOfWeek": "Mon",
       "topic": "Regulation",
-      "count": 4
+      "count": 2
     },
     {
       "date": "2026-02-23",
       "dayOfWeek": "Mon",
-      "topic": "Compliance",
+      "topic": "Fintech",
       "count": 1
     },
     {
       "date": "2026-02-24",
       "dayOfWeek": "Tue",
       "topic": "MarketInfra",
-      "count": 0
+      "count": 2
     },
     {
       "date": "2026-02-24",
@@ -192,72 +192,40 @@
     {
       "date": "2026-02-24",
       "dayOfWeek": "Tue",
-      "topic": "Compliance",
-      "count": 0
+      "topic": "Fintech",
+      "count": 2
     }
   ],
   "topIssues": [
     {
       "id": 1,
-      "status": "SHIFTING",
-      "title": "미 대법원 상호관세 위법 판결로 한국 반도체·자동차 업종 리레이팅",
-      "summary": "미 연방대법원이 트럼프 행정부의 상호관세를 위법으로 판결하면서 대규모 추가 관세 위험이 상당 부분 해소됐다. 그동안 관세 리스크로 밸류에이션 디스카운트를 받던 한국 반도체·자동차 업종에 대한 불확실성이 줄어들며 관련주가 급등했고, 코스피 전반에도 리레이팅 기대가 반영되고 있다.",
-      "articleCount": 1,
+      "status": "ONGOING",
+      "title": "AI 반도체 랠리로 코스피 사상 최고권…SK하이닉스·삼성전자 동반 시총 급부상",
+      "summary": "HBM 등 AI 반도체 수요 폭증 기대 속에 SK하이닉스가 장중 100만원을 돌파하며 ‘황제주’로 등극했고, 삼성전자는 시가총액 기준 글로벌 14위에 오르는 등 국내 반도체 대형주 중심으로 코스피가 5900선을 상회하는 강세장을 형성하고 있다.",
+      "articleCount": 3,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
-          "title": "“최악 관세 위협은 벗어났다”...반도체·자동차 ‘방긋’",
-          "url": "https://www.mk.co.kr/news/stock/11969610"
+          "title": "SK하이닉스, 장중 ‘100만원’ 찍었다…코스피 5900선 훌쩍 ‘불기둥’",
+          "url": "https://www.mk.co.kr/news/stock/11970147"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "[속보] SK하이닉스, 장중 100만원 돌파…‘황제주’ 등극",
+          "url": "https://www.mk.co.kr/news/stock/11970135"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "“뜨내기 외국인들 팔든말든”…19만전자, 글로벌 시총 14위 등극",
+          "url": "https://www.mk.co.kr/news/stock/11968079"
         }
       ]
     },
     {
       "id": 2,
-      "status": "SHIFTING",
-      "title": "글로벌 리포트發 코스피 상반기 8000 전망과 반도체 주도 랠리",
-      "summary": "노무라금융투자가 코스피 상반기 목표를 최대 8000포인트로 제시하면서 국내 증시에 대한 낙관론이 강화되고 있다. 인공지능 서버 투자와 메모리 업황 반등 기대 속에 반도체 업종이 이 상승 시나리오의 핵심 동력으로 지목되며 수급과 밸류에이션 재평가가 동시에 진행되는 국면이다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "매일경제(증권)",
-          "title": "코스피, 올 상반기 8000 간다…노무라 “반도체 기대감 반영”",
-          "url": "https://www.mk.co.kr/news/economy/11969571"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "status": "NEW",
-      "title": "저축은행 건전 발전방안으로 서민·중소기업 대상 자금공급 확대",
-      "summary": "정부가 ‘저축은행 건전 발전방안’을 통해 부동산 중심 대출 관행에서 벗어나 중소·중견기업, 소상공인 등 실물경제 전반으로 자금공급을 확대하기로 했다. 비상장주식 보유 한도 완화, 온투업 연계투자 허용 검토, 비수도권 여신 우대와 더불어 대형 저축은행에는 직불·선불 전자지급수단 등 새로운 사업 기회를 부여해 중금리·포용금융 공급 기반을 넓히려는 정책 기조가 강화되고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "정책브리핑",
-          "title": "저축은행의 금융공급, 서민·중소기업에서 중견기업까지 확대",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148959834&call_from=rsslink"
-        }
-      ]
-    },
-    {
-      "id": 4,
       "status": "ONGOING",
-      "title": "지정학 리스크와 미 금리 불확실성에 따른 원자재·금융시장 변동성 확대",
-      "summary": "이란발 전쟁 우려가 커지는 가운데 미국 통화정책 경로에 대한 불확실성까지 겹치며 국제유가와 금값이 동반 급등하고 있다. 안전자산 선호와 인플레이션 재자극 가능성이 부각되면서 뉴욕증시와 국내 증시 모두 변동성이 확대되고, 채권·환율·원자재 시장 전반에 포지션 재조정이 진행되는 국면이다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "매일경제(증권)",
-          "title": "이란 ‘전운’에 美금리 불확실성까지…국제유가·금값도 급등",
-          "url": "https://www.mk.co.kr/news/stock/11966718"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "status": "ONGOING",
-      "title": "증권주 신고가 랠리와 단기 과열·규제 이슈 부각",
-      "summary": "국내 증권주가 이달 들어 지수 기준 40% 이상 급등하며 연일 신고가를 경신하고 있다. 브로커리지·IB 실적 개선 기대와 주식시장 활황이 동력이지만, 일부 종목은 투자주의·단기과열 종목으로 지정되는 등 과열 경고도 병행되고 있어 감독당국 규제와 수급 조정 가능성에 대한 경계 역시 커지고 있다.",
+      "title": "증권주 신고가 행진과 단기 과열 경고…개인투자자 리스크 확대",
+      "summary": "증권지수가 단기간 40% 이상 급등하며 다수 증권주가 신고가를 경신하고 있고, 일부 종목은 투자주의·단기과열 종목으로 지정되는 등 과열 신호가 뚜렷해지면서 브로커리지·IB 업황 개선 기대와 함께 단기 거품 및 변동성 리스크 관리 필요성이 커지고 있다.",
       "articleCount": 2,
       "relatedArticles": [
         {
@@ -269,6 +237,48 @@
           "source": "매일경제(증권)",
           "title": "증권주 너도나도 신고가 … 과열 주의보",
           "url": "https://www.mk.co.kr/news/stock/11968424"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "중동 지정학 리스크·美 금리 불확실성에 원자재·글로벌 금융시장 변동성 확대",
+      "summary": "이란발 전운 고조로 국제유가와 금값이 급등하는 가운데 미국 통화정책 경로에 대한 불확실성이 커지며 뉴욕증시 변동성이 확대되고 있어, 에너지·원자재 가격과 글로벌 자금 흐름이 국내 금융·외환시장에도 점진적 압력을 가하는 국면이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "이란 ‘전운’에 美금리 불확실성까지…국제유가·금값도 급등",
+          "url": "https://www.mk.co.kr/news/stock/11966718"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "저축은행 건전 발전방안 추진…중소·중견기업 중심 금융공급 확대",
+      "summary": "금융당국이 저축은행의 부동산 편중을 완화하고 중소·중견기업·소상공인 등 실물경제 전반으로 여신을 확대하는 ‘저축은행 건전 발전방안’을 추진 중이며, 대형 저축은행에는 직불·선불 전자지급수단 등 신규 사업 기회를 부여하는 대신 자산 규모별로 자본·건전성·지배구조 규제를 차등 강화해 리스크 관리를 병행하려 한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "정책브리핑",
+          "title": "저축은행의 금융공급, 서민·중소기업에서 중견기업까지 확대",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148959834&call_from=rsslink"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "생성형 AI·딥페이크 규제 강화…글로벌 개인정보 감독기구 공동대응",
+      "summary": "각국 개인정보 감독기구가 생성형 AI를 악용한 딥페이크와 미성년자 성적 이미지 확산에 대응하기 위해 개인정보 오남용 방지, 투명성 제고, 신속한 구제 절차, 아동·청소년 보호 강화라는 4대 원칙을 담은 공동선언을 채택하면서, 금융권 AI·데이터 활용과 관련한 규제 환경 변화 가능성도 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "정책브리핑",
+          "title": "생성형 AI 악용 딥페이크에 각국 감독기구들 공동 대응 나서",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148959841&call_from=rsslink"
         }
       ]
     }

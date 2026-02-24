@@ -2,43 +2,43 @@
   "date": "2026-02-24",
   "highlights": {
     "bullets": [
-      "핵심: SWE-bench Verified가 오염과 학습 데이터 유출로 지표 신뢰성이 저하되어 평가를 중단했습니다.",
-      "핵심: NVFP4 저정밀도 훈련 방식이 처리량을 높이면서 정확도를 유지한다고 보고되었습니다.",
-      "트렌드: 검증·훈련·배포 전반에서 도구와 인프라 개선이 공통적으로 부각되고 있습니다."
+      "핵심: Jetson에서 오픈 소스 비전-언어 모델(VLM) 배포 실무 가이드가 제공되었습니다.",
+      "핵심: NVFP4 저정밀 포맷을 활용해 학습 처리량과 메모리 효율 개선을 제시했습니다.",
+      "트렌드: 인프라와 도구 개선을 통해 엣지·학습·평가의 실무 적용과 신뢰성 확보에 주목합니다."
     ],
     "topTopics": [
       "Tooling",
-      "Training",
-      "Data",
-      "Research"
+      "Infra",
+      "Models",
+      "Inference"
     ],
     "stats": {
-      "collected": 3,
-      "deduped": 3
+      "collected": 4,
+      "deduped": 4
     }
   },
   "cards": [
     {
       "id": "ai_0001",
       "tab": "ai",
-      "publishedAt": "2026-02-23T20:00:00+09:00",
-      "source": "OpenAI Blog",
-      "title": "Why we no longer evaluate SWE-bench Verified",
+      "publishedAt": "2026-02-24T09:00:21+09:00",
+      "source": "Hugging Face Blog",
+      "title": "Deploying Open Source Vision Language Models (VLM) on Jetson",
       "summary": [
-        "SWE-bench Verified는 점점 오염되어 최첨단 코딩 성능을 잘못 측정하고 있습니다.",
-        "분석 결과 테스트에 결함이 있고 학습 데이터 유출이 확인되어 지표 신뢰성이 저하되었습니다.",
-        "따라서 SWE-bench Pro로 전환하여 평가를 재설계할 것을 권고합니다."
+        "Hugging Face가 Jetson에서 오픈 소스 비전-언어 모델(VLM)을 배포하는 실무 가이드를 제공합니다.",
+        "모델 경량화·양자화와 TensorRT·CUDA 등 하드웨어 최적화를 통한 실행 예제가 포함됩니다.",
+        "엣지 장치에서의 실시간 추론 성능과 전력 효율 개선에 중점을 둡니다."
       ],
-      "whyItMatters": "지표 신뢰성 저하로 모델 비교와 개발 의사결정에 심각한 왜곡을 초래하기 때문입니다.",
+      "whyItMatters": "엣지 환경에서 VLM을 비용·지연 제약 내에서 실용적으로 운영하려는 수요가 커지고 있기 때문입니다.",
       "topics": [
-        "Data",
-        "Training",
+        "Inference",
+        "Infra",
         "Tooling",
-        "Research"
+        "Models"
       ],
-      "status": "SHIFTING",
-      "hash": "33e5e5bcd68981ac4e0e6be6631a5152e2d6677fb396e0d2a31ce68e4b85f70f",
-      "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified"
+      "status": "ONGOING",
+      "hash": "d870106efa38187db982c0e897f82f7b7879e2197641d5434822b0d7792a4b11",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-on-jetson"
     },
     {
       "id": "ai_0002",
@@ -47,37 +47,58 @@
       "source": "NVIDIA Developer Blog",
       "title": "Using NVFP4 Low-Precision Model Training for Higher Throughput Without Losing Accuracy",
       "summary": [
-        "NVIDIA는 NVFP4라는 저정밀도 모델 훈련 방식을 제시해 처리량을 높이면서 정확도를 유지한다고 보고했다.",
-        "대형 모델과 대규모 데이터셋 확장에 따라 BF16만으로는 한계가 있어 NVFP4가 대안으로 제시된다.",
-        "하드웨어·소프트웨어 최적화와 구현 기법을 통해 실무적 채택이 가능하도록 설계되었다."
+        "NVIDIA는 NVFP4라는 저정밀 포맷을 도입해 학습 처리량을 높이는 방법을 제시했다.",
+        "NVFP4는 정확도 손실을 최소화하면서 BF16 대비 더 높은 처리량과 메모리 효율을 제공하도록 설계되었다.",
+        "블로그는 구현 세부사항(손실 스케일링, 수렴 안정성, 기존 파이프라인과의 호환성)을 다루며 실제 적용 가능성을 설명한다."
       ],
-      "whyItMatters": "연산·메모리 비용을 낮추고 훈련 처리량을 크게 향상시키면서도 정확도 손실을 최소화해 대규모 모델 훈련의 비용·속도 문제를 직접 해결하기 때문이다.",
+      "whyItMatters": "대규모 모델과 데이터 증가로 BF16만으로는 한계가 있어, 처리량과 비용 효율을 개선하면서 정확도를 유지할 수 있는 새로운 저정밀 학습 방식이 중요하다.",
       "topics": [
         "Training",
-        "Models",
-        "Tooling"
+        "Infra",
+        "Tooling",
+        "Models"
       ],
-      "status": "SHIFTING",
+      "status": "NEW",
       "hash": "2ddbc87d7770a7f92f4e160afa38cbd9acd05298180118b7dcb4fa010239f5f2",
       "url": "https://developer.nvidia.com/blog/using-nvfp4-low-precision-model-training-for-higher-throughput-without-losing-accuracy/"
     },
     {
       "id": "ai_0003",
       "tab": "ai",
+      "publishedAt": "2026-02-23T20:00:00+09:00",
+      "source": "OpenAI Blog",
+      "title": "Why we no longer evaluate SWE-bench Verified",
+      "summary": [
+        "SWE-bench Verified는 점점 오염되어 최첨단 코딩 성능을 잘못 측정합니다.",
+        "분석 결과 테스트의 결함과 학습 데이터 유출이 확인되었습니다.",
+        "이에 따라 SWE-bench Pro로 평가 체계를 전환할 것을 권고합니다."
+      ],
+      "whyItMatters": "평가의 신뢰성 저하와 데이터 누수 문제로 정확한 모델 성능 판단을 위해 평가 도구를 변경할 필요가 있습니다.",
+      "topics": [
+        "Data",
+        "Research",
+        "Tooling"
+      ],
+      "status": "SHIFTING",
+      "hash": "33e5e5bcd68981ac4e0e6be6631a5152e2d6677fb396e0d2a31ce68e4b85f70f",
+      "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified"
+    },
+    {
+      "id": "ai_0004",
+      "tab": "ai",
       "publishedAt": "2026-02-23T14:30:00+09:00",
       "source": "OpenAI Blog",
       "title": "OpenAI announces Frontier Alliance Partners",
       "summary": [
-        "OpenAI가 기업의 AI 파일럿을 운영 환경으로 전환하도록 지원하는 'Frontier Alliance Partners'를 발표했습니다.",
-        "해당 파트너십은 보안성과 확장성을 갖춘 에이전트 배포 및 운영을 중심으로 기업 도입을 지원합니다.",
-        "기업 대상 상용화 가속과 생태계 확장을 위한 제품·서비스 연계가 기대됩니다."
+        "OpenAI가 기업용 에이전트 배포를 지원하는 Frontier Alliance Partners 프로그램을 발표했습니다.",
+        "이 프로그램은 보안성과 확장성을 갖춘 솔루션으로 AI 파일럿을 프로덕션으로 전환하는 것을 목표로 합니다.",
+        "파트너들은 통합 도구와 서비스로 도입 속도와 운영 안정성을 높이는 역할을 할 것입니다."
       ],
-      "whyItMatters": "파트너 네트워크를 통해 구축·보안·운영 역량을 보강하면 AI의 기업 현장 상용화 속도와 규모가 크게 증가할 수 있기 때문입니다.",
+      "whyItMatters": "기업의 AI 파일럿을 대규모 생산 환경으로 전환하는 장애물을 줄여 상용화와 확산을 가속할 수 있기 때문입니다.",
       "topics": [
-        "Product",
-        "Business",
         "Tooling",
-        "Infra"
+        "Infra",
+        "Business"
       ],
       "status": "NEW",
       "hash": "9ea61497c289b52aa384718a6fd87ffc6fe5e4b34106476ae7f511f0dd552ed6",

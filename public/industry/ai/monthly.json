@@ -4,13 +4,13 @@
     "to": "2026-02-24"
   },
   "kpis": {
-    "collected": 63,
-    "deduped": 63,
+    "collected": 64,
+    "deduped": 64,
     "uniqueTopics": 10,
     "marketShare": {
       "Tooling": 26,
-      "Product": 22,
-      "Infra": 20,
+      "Product": 21,
+      "Infra": 21,
       "Models": 18,
       "Research": 14,
       "Other": 0
@@ -40,9 +40,9 @@
     {
       "week": "Week 3 (02/09-02/15)",
       "topicCounts": {
-        "Tooling": 8,
-        "Product": 10,
-        "Infra": 6,
+        "Tooling": 7,
+        "Product": 9,
+        "Infra": 5,
         "Models": 5,
         "Research": 5
       }
@@ -60,10 +60,10 @@
     {
       "week": "Week 5 (02/23-02/24)",
       "topicCounts": {
-        "Tooling": 3,
-        "Product": 1,
-        "Infra": 1,
-        "Models": 1,
+        "Tooling": 4,
+        "Product": 0,
+        "Infra": 3,
+        "Models": 2,
         "Research": 1
       }
     }
@@ -71,37 +71,9 @@
   "topIssues": [
     {
       "id": 1,
-      "status": "SHIFTING",
-      "title": "저정밀도 학습으로 전환되는 LLM 훈련 패러다임",
-      "summary": "NVIDIA가 BF16 중심 학습의 한계를 지적하며 NVFP4 저정밀도 학습을 제안했다. 처리량과 비용 효율을 크게 높이면서도 정확도를 유지할 수 있음을 보여주며, 대형 모델·대규모 데이터 시대에 학습 정밀도를 더 낮추는 흐름이 본격화되고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "NVIDIA Developer Blog",
-          "title": "Using NVFP4 Low-Precision Model Training for Higher Throughput Without Losing Accuracy",
-          "url": "https://developer.nvidia.com/blog/using-nvfp4-low-precision-model-training-for-higher-throughput-without-losing-accuracy/"
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "status": "SHIFTING",
-      "title": "AI 코드 평가 벤치마크 신뢰성 재검토",
-      "summary": "OpenAI가 SWE-bench Verified 평가를 중단하며, 테스트 결함과 학습 데이터 유출 등으로 기존 코드 벤치마크의 신뢰성이 떨어지고 있음을 공개했다. 모델 성능 과대평가를 막기 위해 새로운 평가 세트와 관리 방법이 필요하다는 문제의식을 드러낸 변화다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "OpenAI Blog",
-          "title": "Why we no longer evaluate SWE-bench Verified",
-          "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified"
-        }
-      ]
-    },
-    {
-      "id": 3,
       "status": "NEW",
-      "title": "기업용 AI 에이전트 도입을 위한 파트너 생태계 구축",
-      "summary": "OpenAI는 기업의 파일럿 프로젝트를 실제 운영 환경으로 확장하기 위해 Frontier Alliance Partners 프로그램을 발표했다. 보안성과 확장성을 갖춘 에이전트 배포·운영을 지원하는 파트너 네트워크를 통해, LLM·에이전트 기반 워크로드의 상용화를 가속하려는 움직임이다.",
+      "title": "엔터프라이즈용 AI 에이전트 배포 생태계 확장",
+      "summary": "OpenAI가 Frontier Alliance Partners 프로그램을 통해 기업용 AI 에이전트의 보안·확장성·운영 지원을 공식 파트너 네트워크와 연계해 제공하기 시작했다. PoC 수준의 AI 파일럿을 실제 프로덕션 워크플로로 전환하는 데 필요한 통합, 거버넌스, 인프라 역량을 파트너와 함께 패키지화하려는 움직임으로, 향후 AI 도입 기업의 구현 방식에 큰 영향을 줄 수 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -112,30 +84,68 @@
       ]
     },
     {
-      "id": 4,
-      "status": "ONGOING",
-      "title": "로컬 AI 생태계의 주류 편입과 유지 가능성 강화",
-      "summary": "GGML과 llama.cpp가 Hugging Face에 합류하며, 경량·온디바이스 모델을 중심으로 한 로컬 AI가 장기적으로 유지·개선될 수 있는 기반을 마련하고 있다. 대형 클라우드 API 중심에서 벗어나, 오픈소스와 로컬 실행을 병행하는 하이브리드 활용 패턴이 지속적으로 강화되는 흐름이다.",
+      "id": 2,
+      "status": "NEW",
+      "title": "고난도 작업을 겨냥한 차세대 범용 대형 모델 출시",
+      "summary": "Google DeepMind의 Gemini 3.1 Pro는 복잡한 추론과 멀티스텝 문제 해결 능력을 강조하며, 단순 질의응답을 넘어 장기 맥락 유지, 복합 계획 수립 등 고난도 업무 자동화를 목표로 한다. 이는 엔터프라이즈 워크플로, 에이전트 시스템, 개발·분석 도구에 탑재될 범용 모델 경쟁이 한층 심화되고 있음을 보여준다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "Hugging Face Blog",
-          "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
-          "url": "https://huggingface.co/blog/ggml-joins-hf"
+          "source": "Google DeepMind Blog",
+          "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
+          "url": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/"
         }
       ]
     },
     {
-      "id": 5,
-      "status": "ONGOING",
-      "title": "데이터센터 GPU 아키텍처 최적화를 통한 AI 인프라 효율화",
-      "summary": "NVIDIA는 MIG와 NUMA 노드 로컬라이제이션을 활용해 데이터 처리 성능과 자원 효율을 높이는 방법을 제시했다. Ampere·Hopper·Blackwell 세대 GPU의 메모리 특성을 고려한 배치·스케줄링 전략이 중요해지며, 모델 성능뿐 아니라 인프라 수준 최적화가 AI 경쟁력의 핵심 축으로 자리 잡고 있다.",
+      "id": 3,
+      "status": "NEW",
+      "title": "초저정밀 학습 포맷으로 AI 학습 효율 극대화",
+      "summary": "NVIDIA는 NVFP4 저정밀 수치 포맷을 도입해, 기존 BF16 대비 더 높은 처리량과 메모리 효율을 유지하면서도 정확도 손실을 최소화하는 학습 방식을 제안했다. 이는 대규모 모델 학습 비용과 에너지 사용을 줄이면서도 품질을 유지하려는 추세의 일환으로, 향후 AI 인프라 및 프레임워크의 정밀도 전략에 변화를 가져올 수 있다.",
       "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Using NVFP4 Low-Precision Model Training for Higher Throughput Without Losing Accuracy",
+          "url": "https://developer.nvidia.com/blog/using-nvfp4-low-precision-model-training-for-higher-throughput-without-losing-accuracy/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "엣지·데이터센터 환경에서의 AI 인프라 최적화 고도화",
+      "summary": "NVIDIA GPU 기반 인프라에서 NUMA 노드 로컬라이제이션과 Multi-Instance GPU(MIG)를 활용한 데이터 처리 가속 전략이 제시되는 한편, Jetson 같은 엣지 디바이스에서도 오픈소스 비전-언어 모델을 경량화·양자화해 효율적으로 배포하는 실무 가이드가 등장하고 있다. 이는 AI 워크로드가 클라우드·온프레미스·엣지를 아우르며 하드웨어 특성을 세밀하게 활용하는 방향으로 계속 진화 중임을 보여준다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
           "source": "NVIDIA Developer Blog",
           "title": "Accelerating Data Processing with NVIDIA Multi-Instance GPU and NUMA Node Localization",
           "url": "https://developer.nvidia.com/blog/accelerating-data-processing-with-nvidia-multi-instance-gpu-and-numa-node-localization/"
+        },
+        {
+          "source": "Hugging Face Blog",
+          "title": "Deploying Open Source Vision Language Models (VLM) on Jetson",
+          "url": "https://huggingface.co/blog/nvidia/cosmos-on-jetson"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "미디어 진본성과 AI 안전·정렬 연구에 대한 투자 확대",
+      "summary": "합성 미디어 확산에 대응해 Microsoft는 이미지·오디오·비디오의 인증·출처 추적 기술의 현재 역량과 한계를 분석하는 보고서를 발표하며 미디어 진본성 프레임워크를 정리했다. 동시에 OpenAI는 독립 연구단체 The Alignment Project에 750만 달러를 지원해 AGI 안전·보안 위험을 다루는 정렬 연구를 강화하고 있어, 콘텐츠 진위 검증과 AI 거버넌스를 둘러싼 중장기 연구 투자가 늘어나고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "Microsoft Research Blog",
+          "title": "Media Authenticity Methods in Practice: Capabilities, Limitations, and Directions",
+          "url": "https://www.microsoft.com/en-us/research/blog/media-authenticity-methods-in-practice-capabilities-limitations-and-directions/"
+        },
+        {
+          "source": "OpenAI Blog",
+          "title": "Advancing independent research on AI alignment",
+          "url": "https://openai.com/index/advancing-independent-research-ai-alignment"
         }
       ]
     }

@@ -1,12 +1,130 @@
 {
   "date": "2026-02-24",
   "highlights": {
-    "bullets": [],
-    "topTopics": [],
+    "bullets": [
+      "핵심: 분당·수지 등 경기도 신축에서 청약 경쟁에도 계약 포기와 무순위 물량이 발생했다.",
+      "핵심: 서울은 강북 전세 품귀와 강남 전셋값 하락으로 지역별 전월세 양상이 엇갈리고 있다.",
+      "트렌드: 대출·세제·규제 영향과 입주물량 부족이 겹치며 시장 불안과 전세난 우려가 공통적으로 나타난다."
+    ],
+    "topTopics": [
+      "Market",
+      "Supply",
+      "Rental",
+      "Regulation"
+    ],
     "stats": {
-      "collected": 0,
-      "deduped": 0
+      "collected": 15,
+      "deduped": 14
     }
   },
-  "cards": []
+  "cards": [
+    {
+      "id": "realestate_0001",
+      "tab": "realestate",
+      "publishedAt": "2026-02-24T11:26:40+09:00",
+      "source": "헤럴드경제(부동산)",
+      "title": "더샵분당센트로 ‘51대1’ 뚫고도 절반이 계약 포기 무순위 쏟아지는 분당·수지 신축",
+      "summary": [
+        "분당·수지 등 경기도 주요 신축 아파트에서 무순위 청약 물량이 발생했다.",
+        "초기 청약 경쟁률은 높았지만 고분양가와 대출 규제·다주택자 규제 예고로 계약 포기가 잇따랐다.",
+        "분양가(84㎡ 최고 21억8000만원)와 인근 실거래가(약 15억원) 간 격차가 무순위 쏠림을 불렀다."
+      ],
+      "whyItMatters": "대출 규제 강화와 고분양가, 규제 불확실성이 자금조달 부담과 가격 하락 전망을 키워 계약 포기를 촉발했기 때문입니다.",
+      "topics": [
+        "Regulation",
+        "Market",
+        "Supply"
+      ],
+      "status": "ONGOING",
+      "hash": "e31725078ddedd1fe8b0c2dcabdc8219b76861dde9168cb77379a6c9144ccf2f",
+      "url": "https://biz.heraldcorp.com/article/10681137"
+    },
+    {
+      "id": "realestate_0002",
+      "tab": "realestate",
+      "publishedAt": "2026-02-24T11:26:29+09:00",
+      "source": "헤럴드경제(부동산)",
+      "title": "강북, 전세 품귀…강남, 전셋값 하락",
+      "summary": [
+        "서울 강북 학군지 저가 전세에서 신규 매물이 바닥나 전세 품귀 현상이 심화되고 있다.",
+        "강남권 고가 전세는 대단지 입주 물량과 대출 규제로 하락 조짐을 보이며 지역별 전세 시장이 엇갈리고 있다.",
+        "한 달간 서울 전월세 물건은 16.1% 감소한 반면 매매 물건은 18.8% 증가해 전세시장 분화가 뚜렷해졌다."
+      ],
+      "whyItMatters": "수요 집중과 공급 부족, 대출·세제 변화가 맞물리며 지역별 전세 양극화와 주거 불안·시장 불안정을 촉발하고 있기 때문입니다.",
+      "topics": [
+        "Rental",
+        "Supply",
+        "Market",
+        "Regulation",
+        "Tax"
+      ],
+      "status": "SHIFTING",
+      "hash": "3482e38e0efb4e5c4e18394bdcef530902bb3f8099f38f0fac162519a8237de4",
+      "url": "https://biz.heraldcorp.com/article/10681136"
+    },
+    {
+      "id": "realestate_0003",
+      "tab": "realestate",
+      "publishedAt": "2026-02-24T11:23:39+09:00",
+      "source": "매일경제(부동산)",
+      "title": "이 대통령 “임대료 제한하니 관리비 바가지…촉법소년 연령하향, 두달 뒤 결론”",
+      "summary": [
+        "이재명 대통령은 임대료 제한으로 상가 관리비 부당 청구 문제가 발생한다고 지적했습니다.",
+        "공무원들이 문책을 두려워하지 않도록 제도 개선이 필요하다고 강조했습니다.",
+        "촉법소년 연령 하향 안건은 두 달 내에 결론내겠다고 밝혔습니다."
+      ],
+      "whyItMatters": "임대시장 규제 영향과 공공행정·형사정책 변화는 경제·사회 전반에 걸친 파급력이 크기 때문입니다.",
+      "topics": [
+        "Rental",
+        "Policy",
+        "Regulation"
+      ],
+      "status": "ONGOING",
+      "hash": "f61ce62137d909ad55cace4d3205c44c8e70a18cf7916ee4cdb90febfb5acfb1",
+      "url": "https://www.mk.co.kr/news/realestate/11970139"
+    },
+    {
+      "id": "realestate_0004",
+      "tab": "realestate",
+      "publishedAt": "2026-02-24T10:34:24+09:00",
+      "source": "매일경제(부동산)",
+      "title": "“온도 차이 있네”…송파·강남은 전월세 약세, 강북은 신규 물건 ‘품귀’",
+      "summary": [
+        "다주택자 양도소득세 중과 유예 종료를 앞두고 서울 전월세 매물이 전반적으로 감소하고 있다.",
+        "송파·강남 등 강남권은 매매에 이어 전월세 가격도 하락 조짐을 보이고 있다.",
+        "반면 강북은 신규 전월세 물건이 품귀를 빚으며 지역별 온도차가 커지고 있다."
+      ],
+      "whyItMatters": "세금 중과 유예 종료로 다주택자들의 매물 출회가 줄어드는 가운데 지역별 수요·공급 차이로 강남권 약세와 강북권 품귀가 동시에 발생하고 있다.",
+      "topics": [
+        "Tax",
+        "Supply",
+        "Market",
+        "Policy"
+      ],
+      "status": "SHIFTING",
+      "hash": "d1ad72bbe13261c4f604249579b38dbb6970a26485798b6274e5afb82debf463",
+      "url": "https://www.mk.co.kr/news/realestate/11970016"
+    },
+    {
+      "id": "realestate_0005",
+      "tab": "realestate",
+      "publishedAt": "2026-02-23T16:41:26+09:00",
+      "source": "한국경제(부동산)",
+      "title": "내달 아파트 입주 9597가구…전국 물량 부족에 전세난 우려",
+      "summary": [
+        "내달 전국 아파트 입주 예정 물량은 9,597가구입니다.",
+        "전국적으로 입주 물량이 부족해 전세난 재현 우려가 제기되고 있습니다.",
+        "특히 수요가 몰리는 지역에서 전세·월세 상승 압력이 커질 전망입니다."
+      ],
+      "whyItMatters": "입주물량 부족은 전세 수급 불균형을 심화시켜 전셋값·월세 상승과 가계 주거비 부담 증대로 이어질 가능성이 큽니다.",
+      "topics": [
+        "Market",
+        "Supply",
+        "Rental"
+      ],
+      "status": "ONGOING",
+      "hash": "fff1d7137592dc25d502965cd780bc15c4a96a389e8e20fc13ad3a89f8181b7a",
+      "url": "https://www.hankyung.com/article/2026022389581"
+    }
+  ]
 }

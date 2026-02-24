@@ -4,11 +4,259 @@
     "to": "2026-02-24"
   },
   "kpis": {
-    "collected": 0,
-    "deduped": 0,
-    "uniqueTopics": 0
+    "collected": 5,
+    "deduped": 5,
+    "uniqueTopics": 6
   },
-  "topTopics": [],
-  "topicTrend": [],
-  "topIssues": []
+  "topTopics": [
+    {
+      "name": "Market",
+      "count": 4
+    },
+    {
+      "name": "Supply",
+      "count": 4
+    },
+    {
+      "name": "Regulation",
+      "count": 3
+    },
+    {
+      "name": "Rental",
+      "count": 3
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-02-18",
+      "dayOfWeek": "Wed",
+      "topic": "Market",
+      "count": 0
+    },
+    {
+      "date": "2026-02-18",
+      "dayOfWeek": "Wed",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-02-18",
+      "dayOfWeek": "Wed",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-02-18",
+      "dayOfWeek": "Wed",
+      "topic": "Rental",
+      "count": 0
+    },
+    {
+      "date": "2026-02-19",
+      "dayOfWeek": "Thu",
+      "topic": "Market",
+      "count": 0
+    },
+    {
+      "date": "2026-02-19",
+      "dayOfWeek": "Thu",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-02-19",
+      "dayOfWeek": "Thu",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-02-19",
+      "dayOfWeek": "Thu",
+      "topic": "Rental",
+      "count": 0
+    },
+    {
+      "date": "2026-02-20",
+      "dayOfWeek": "Fri",
+      "topic": "Market",
+      "count": 0
+    },
+    {
+      "date": "2026-02-20",
+      "dayOfWeek": "Fri",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-02-20",
+      "dayOfWeek": "Fri",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-02-20",
+      "dayOfWeek": "Fri",
+      "topic": "Rental",
+      "count": 0
+    },
+    {
+      "date": "2026-02-21",
+      "dayOfWeek": "Sat",
+      "topic": "Market",
+      "count": 0
+    },
+    {
+      "date": "2026-02-21",
+      "dayOfWeek": "Sat",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-02-21",
+      "dayOfWeek": "Sat",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-02-21",
+      "dayOfWeek": "Sat",
+      "topic": "Rental",
+      "count": 0
+    },
+    {
+      "date": "2026-02-22",
+      "dayOfWeek": "Sun",
+      "topic": "Market",
+      "count": 0
+    },
+    {
+      "date": "2026-02-22",
+      "dayOfWeek": "Sun",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-02-22",
+      "dayOfWeek": "Sun",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-02-22",
+      "dayOfWeek": "Sun",
+      "topic": "Rental",
+      "count": 0
+    },
+    {
+      "date": "2026-02-23",
+      "dayOfWeek": "Mon",
+      "topic": "Market",
+      "count": 1
+    },
+    {
+      "date": "2026-02-23",
+      "dayOfWeek": "Mon",
+      "topic": "Supply",
+      "count": 1
+    },
+    {
+      "date": "2026-02-23",
+      "dayOfWeek": "Mon",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-02-23",
+      "dayOfWeek": "Mon",
+      "topic": "Rental",
+      "count": 1
+    },
+    {
+      "date": "2026-02-24",
+      "dayOfWeek": "Tue",
+      "topic": "Market",
+      "count": 3
+    },
+    {
+      "date": "2026-02-24",
+      "dayOfWeek": "Tue",
+      "topic": "Supply",
+      "count": 3
+    },
+    {
+      "date": "2026-02-24",
+      "dayOfWeek": "Tue",
+      "topic": "Regulation",
+      "count": 3
+    },
+    {
+      "date": "2026-02-24",
+      "dayOfWeek": "Tue",
+      "topic": "Rental",
+      "count": 2
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "분당·수지 신축 아파트 무순위 청약 급증과 계약 포기 확산",
+      "summary": "분당·수지 등 수도권 인기 지역 신축 아파트에서 초기 청약 경쟁률은 높았지만 고분양가, 강화되는 대출·다주택자 규제 부담으로 계약 포기가 늘며 무순위 청약 물량이 쏟아지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "더샵분당센트로 ‘51대1’ 뚫고도 절반이 계약 포기 무순위 쏟아지는 분당·수지 신축",
+          "url": "https://biz.heraldcorp.com/article/10681137"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "서울 전세 시장 양극화: 강북 전세 품귀 vs 강남 전셋값 약세",
+      "summary": "서울 전세 시장에서 강북 학군지와 중저가 전세는 매물이 잠기며 품귀 현상이 심화되는 반면, 강남권 고가 전세는 대단지 입주와 대출 규제로 가격 약세가 나타나는 등 지역별로 시장 흐름이 뚜렷이 갈리고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "강북, 전세 품귀…강남, 전셋값 하락",
+          "url": "https://biz.heraldcorp.com/article/10681136"
+        },
+        {
+          "source": "매일경제(부동산)",
+          "title": "“온도 차이 있네”…송파·강남은 전월세 약세, 강북은 신규 물건 ‘품귀’",
+          "url": "https://www.mk.co.kr/news/realestate/11970016"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "전국 아파트 입주 물량 부족에 전세난 재현 우려",
+      "summary": "내달 전국 아파트 입주 예정 물량이 1만 가구에도 못 미치는 수준에 그치면서, 공급 공백이 전세 매물 부족과 가격 부담 확대로 이어져 전세난이 다시 심해질 수 있다는 우려가 제기되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "내달 아파트 입주 9597가구…전국 물량 부족에 전세난 우려",
+          "url": "https://www.hankyung.com/article/2026022389581"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "임대료 규제 후폭풍: 상가 관리비 ‘우회 인상’ 논란과 제도 손질 예고",
+      "summary": "임대료 제한 정책 이후 일부 상가에서 관리비를 통해 사실상 임대료를 우회 인상하는 사례가 불거지며, 이재명 대통령이 관련 행정·감독 제도 개선과 공무원 책임 구조 조정 필요성을 공개적으로 거론했다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "이 대통령 “임대료 제한하니 관리비 바가지…촉법소년 연령하향, 두달 뒤 결론”",
+          "url": "https://www.mk.co.kr/news/realestate/11970139"
+        }
+      ]
+    }
+  ]
 }

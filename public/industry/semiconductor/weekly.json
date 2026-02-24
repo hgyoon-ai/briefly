@@ -4,40 +4,40 @@
     "to": "2026-02-24"
   },
   "kpis": {
-    "collected": 16,
-    "deduped": 16,
+    "collected": 14,
+    "deduped": 14,
     "uniqueTopics": 6
   },
   "topTopics": [
     {
-      "name": "Roadmap",
-      "count": 12
-    },
-    {
       "name": "Competition",
-      "count": 12
+      "count": 11
     },
     {
-      "name": "Investment",
+      "name": "Roadmap",
       "count": 10
     },
     {
-      "name": "Manufacturing",
-      "count": 7
+      "name": "Investment",
+      "count": 9
+    },
+    {
+      "name": "Policy",
+      "count": 5
     }
   ],
   "topicTrend": [
     {
       "date": "2026-02-18",
       "dayOfWeek": "Wed",
-      "topic": "Roadmap",
-      "count": 1
+      "topic": "Competition",
+      "count": 2
     },
     {
       "date": "2026-02-18",
       "dayOfWeek": "Wed",
-      "topic": "Competition",
-      "count": 2
+      "topic": "Roadmap",
+      "count": 1
     },
     {
       "date": "2026-02-18",
@@ -48,14 +48,8 @@
     {
       "date": "2026-02-18",
       "dayOfWeek": "Wed",
-      "topic": "Manufacturing",
+      "topic": "Policy",
       "count": 1
-    },
-    {
-      "date": "2026-02-19",
-      "dayOfWeek": "Thu",
-      "topic": "Roadmap",
-      "count": 4
     },
     {
       "date": "2026-02-19",
@@ -66,25 +60,31 @@
     {
       "date": "2026-02-19",
       "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 4
+    },
+    {
+      "date": "2026-02-19",
+      "dayOfWeek": "Thu",
       "topic": "Investment",
       "count": 3
     },
     {
       "date": "2026-02-19",
       "dayOfWeek": "Thu",
-      "topic": "Manufacturing",
+      "topic": "Policy",
       "count": 2
     },
     {
       "date": "2026-02-20",
       "dayOfWeek": "Fri",
-      "topic": "Roadmap",
+      "topic": "Competition",
       "count": 4
     },
     {
       "date": "2026-02-20",
       "dayOfWeek": "Fri",
-      "topic": "Competition",
+      "topic": "Roadmap",
       "count": 4
     },
     {
@@ -96,13 +96,7 @@
     {
       "date": "2026-02-20",
       "dayOfWeek": "Fri",
-      "topic": "Manufacturing",
-      "count": 1
-    },
-    {
-      "date": "2026-02-21",
-      "dayOfWeek": "Sat",
-      "topic": "Roadmap",
+      "topic": "Policy",
       "count": 0
     },
     {
@@ -110,6 +104,12 @@
       "dayOfWeek": "Sat",
       "topic": "Competition",
       "count": 1
+    },
+    {
+      "date": "2026-02-21",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 0
     },
     {
       "date": "2026-02-21",
@@ -120,56 +120,62 @@
     {
       "date": "2026-02-21",
       "dayOfWeek": "Sat",
-      "topic": "Manufacturing",
-      "count": 1
-    },
-    {
-      "date": "2026-02-22",
-      "dayOfWeek": "Sun",
-      "topic": "Roadmap",
-      "count": 1
-    },
-    {
-      "date": "2026-02-22",
-      "dayOfWeek": "Sun",
-      "topic": "Competition",
-      "count": 1
-    },
-    {
-      "date": "2026-02-22",
-      "dayOfWeek": "Sun",
-      "topic": "Investment",
-      "count": 1
-    },
-    {
-      "date": "2026-02-22",
-      "dayOfWeek": "Sun",
-      "topic": "Manufacturing",
-      "count": 0
-    },
-    {
-      "date": "2026-02-23",
-      "dayOfWeek": "Mon",
-      "topic": "Roadmap",
+      "topic": "Policy",
       "count": 2
     },
     {
+      "date": "2026-02-22",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-02-22",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-02-22",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-02-22",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
       "date": "2026-02-23",
       "dayOfWeek": "Mon",
       "topic": "Competition",
-      "count": 1
+      "count": 0
+    },
+    {
+      "date": "2026-02-23",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 0
     },
     {
       "date": "2026-02-23",
       "dayOfWeek": "Mon",
       "topic": "Investment",
-      "count": 1
+      "count": 0
     },
     {
       "date": "2026-02-23",
       "dayOfWeek": "Mon",
-      "topic": "Manufacturing",
-      "count": 2
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-02-24",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 0
     },
     {
       "date": "2026-02-24",
@@ -180,19 +186,13 @@
     {
       "date": "2026-02-24",
       "dayOfWeek": "Tue",
-      "topic": "Competition",
-      "count": 0
-    },
-    {
-      "date": "2026-02-24",
-      "dayOfWeek": "Tue",
       "topic": "Investment",
       "count": 0
     },
     {
       "date": "2026-02-24",
       "dayOfWeek": "Tue",
-      "topic": "Manufacturing",
+      "topic": "Policy",
       "count": 0
     }
   ],
@@ -200,36 +200,8 @@
     {
       "id": 1,
       "status": "SHIFTING",
-      "title": "AI 슈퍼사이클로 NOR 플래시 공급 타이트, 메모리 포트폴리오 재편 가속",
-      "summary": "AI 데이터센터 확장으로 고대역폭·고성능 메모리 중심의 수요가 폭증하면서, 제조사들이 한정된 캐파를 AI·고수익 메모리로 재배치하고 있다. 이로 인해 상대적으로 수익성이 낮은 NOR 플래시 생산량이 축소되며 공급이 빠듯해지고, 산업용·자동차·IoT용 NOR 확보 경쟁이 심화되는 중이다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "EE Times",
-          "title": "AI Supercycle Reshapes Memory Landscape, Squeezing NOR Flash Supply",
-          "url": "https://www.eetimes.com/ai-supercycle-reshapes-memory-landscape-squeezing-nor-flash-supply/"
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "status": "ONGOING",
-      "title": "극한 환경용 세라믹 센서로 차세대 우주·고온 반도체 생태계 기반 구축",
-      "summary": "NASA가 금성 재탐사를 위해 실리콘 기반 소자가 견디지 못하는 초고온·고압 환경에서도 동작 가능한 세라믹 센서를 채택하면서, 극한 환경용 반도체·센서 공정과 소재 기술 개발이 가속되고 있다. 이는 우주 탐사 외에도 항공·엔진·산업용 설비 등 고온 애플리케이션에서 신규 반도체 수요 창출로 이어질 전망이다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "EE Times",
-          "title": "NASA Return to Venus Depends on New Class of Ceramic Sensor",
-          "url": "https://www.eetimes.com/nasa-return-to-venus-depends-on-new-class-of-ceramic-sensor/"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "status": "SHIFTING",
-      "title": "미 대법원의 IEEPA·트럼프 관세 무효화로 반도체 공급망 비용·거래조건 재조정",
-      "summary": "미국 대법원이 IEEPA 기반 관세와 트럼프 행정부 관세 체제를 잇따라 무효화하면서, 반도체 및 전자부품 수입에 부과되던 관세 구조가 근본적으로 재편되고 있다. 이에 따라 기업들은 재고·조달 전략과 가격 정책을 재산정하고 있으며, 일부 품목에서는 관세 환급과 함께 마진·투자계획 조정이 동시에 진행되고 있다.",
+      "title": "미 대법원의 IEEPA·트럼프 관세 무효화, 반도체 공급망·비용 구조 재편 가속",
+      "summary": "미국 대법원이 IEEPA 기반 관세와 트럼프 행정부 관세 체제를 잇달아 무효화하면서, 반도체 포함 IT·전자 공급망의 관세 비용, 환급 규모, 재계약 조건이 재조정되는 국면이다. 단기적으로는 가격·마진 변동성과 예산 불확실성이 커지지만, 중장기적으로는 특정 국가·품목에 집중됐던 관세 리스크가 완화되며 글로벌 소싱 전략, 생산 거점 배치, 장기 공급계약 조건 재설계가 진행될 전망이다.",
       "articleCount": 2,
       "relatedArticles": [
         {
@@ -245,10 +217,24 @@
       ]
     },
     {
-      "id": 4,
+      "id": 2,
+      "status": "ONGOING",
+      "title": "메모리 공급 억제 전략으로 DRAM 시장 긴축 장기화",
+      "summary": "주요 메모리 제조사들이 AI 버블 붕괴 가능성을 의식해 증설과 가동률을 보수적으로 운영하며 DRAM 공급을 의도적으로 제한하고 있다. 이로 인해 재고 조정이 빨라지고 단기 가격 강세가 유지되는 한편, 서버·AI 가속기 수요 변동 시에도 급격한 가격 폭락을 방지하려는 움직임이 강화되고 있다. 장기적으로는 업체 간 공급 규율이 중요해지며 후발주자와 팹리스 고객의 원가 구조·수익성에 직접적인 영향을 줄 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Discipline Will Keep Memory Market Tight",
+          "url": "https://www.eetimes.com/discipline-will-keep-memory-market-tight/"
+        }
+      ]
+    },
+    {
+      "id": 3,
       "status": "SHIFTING",
-      "title": "CES 2026에서 AI 중심 칩 로드맵·M&A 급증, 시스템-반도체 동맹 재편",
-      "summary": "CES 2026을 기점으로 AI 가속기, 엣지 AI SoC, 통합 메모리 아키텍처 등 AI 특화 반도체 로드맵이 대거 공개되면서, 칩 설계사·클라우드·디바이스 업체 간 전략적 제휴와 480억 달러 규모의 M&A가 연쇄적으로 발표되고 있다. 이는 공정·패키징·IP 생태계를 포함한 AI 반도체 가치사슬 전반의 판도 변화를 예고한다.",
+      "title": "CES 2026: AI 중심 칩 로드맵과 480억 달러 규모 M&A로 재편되는 반도체 판도",
+      "summary": "CES 2026에서 AI 가속기, 엣지 AI, 전력 효율 최적화 칩 등 차세대 제품 로드맵이 대거 공개되며, 시스템 기업과 팹리스, 파운드리 간 전략 제휴와 480억 달러 규모 M&A가 본격화되고 있다. 이는 AI 연산 수요를 선점하기 위한 설계·공정·패키징 경쟁을 격화시키는 동시에, 특정 AI 플랫폼과의 수직 통합, 표준 주도권 확보, 공급망 내 협상력 재편을 촉발하고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -259,16 +245,40 @@
       ]
     },
     {
-      "id": 5,
+      "id": 4,
       "status": "ONGOING",
-      "title": "메모리 업체들의 공급 억제 전략으로 DRAM 시장 긴축 장기화",
-      "summary": "AI 서버 수요 둔화 가능성과 사이클 역전 위험을 의식한 메모리 제조사들이 증설·가동률을 보수적으로 운영하며 DRAM 공급을 의도적으로 제한하고 있다. 이 같은 공급 규율 유지로 단기적으로는 가격 상승과 재고 건전성이 확보되지만, 세트업체와 데이터센터 입장에선 원가 부담과 조달 리스크 관리가 핵심 과제로 부상하고 있다.",
-      "articleCount": 1,
+      "title": "삼성의 Galaxy AI·신규 Bixby로 가속되는 온디바이스 AI·멀티에이전트 경쟁",
+      "summary": "삼성전자가 Galaxy AI 다중 에이전트 생태계를 확장하고, One UI 8.5용 대화형 Bixby를 공개하며 온디바이스 AI 통합을 강화하고 있다. 자연어 기반 기기 제어, 웹 연동 정보 탐색, 멀티 에이전트 협업 기능은 향후 모바일·PC·가전용 NPU·AP 수요를 견인하고, 경쟁사 대비 차별화된 AI 기능 구현을 위해 칩 설계 스펙과 메모리·저전력 기술에 대한 요구를 높이는 방향으로 시장을 재편하고 있다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
-          "source": "EE Times",
-          "title": "Discipline Will Keep Memory Market Tight",
-          "url": "https://www.eetimes.com/discipline-will-keep-memory-market-tight/"
+          "source": "Samsung Newsroom",
+          "title": "Galaxy AI Expands Multi-Agent Ecosystem To Give Users More Choice and Flexibility",
+          "url": "https://news.samsung.com/global/galaxy-ai-expands-multi-agent-ecosystem-to-give-users-more-choice-and-flexibility"
+        },
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung Introduces the New Bixby in One UI 8.5",
+          "url": "https://news.samsung.com/global/samsung-introduces-the-new-bixby-in-one-ui-8-5"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "6G X-MIMO 검증과 3GPP 표준 수상으로 부각되는 통신·반도체 융합 로드맵",
+      "summary": "삼성전자와 KT가 7GHz 대역 X-MIMO 기술을 야외 환경에서 검증하고, 삼성리서치 연구원이 3GPP 우수상을 수상하는 등 6G 및 차세대 이동통신 표준 경쟁이 심화되고 있다. 초고주파 대역 다중 안테나 기술과 표준 주도권은 향후 기지국·단말용 RF·모뎀 칩, 안테나 모듈, 전력 증폭기 등 관련 반도체 수요와 설계 방향을 좌우하며, 통신사·장비사·반도체 업체 간 장기 협력 구조를 재정의할 것으로 보인다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung Electronics and KT Corporation Verify X-MIMO Technology in 7 GHz Band for 6G Development",
+          "url": "https://news.samsung.com/global/samsung-electronics-and-kt-corporation-verify-x-mimo-technology-in-7-ghz-band-for-6g-development"
+        },
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung Researcher Receives 3GPP Excellence Award",
+          "url": "https://news.samsung.com/global/samsung-researcher-receives-3gpp-excellence-award"
         }
       ]
     }

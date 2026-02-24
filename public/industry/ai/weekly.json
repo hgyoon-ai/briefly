@@ -11,18 +11,18 @@
   "topTopics": [
     {
       "name": "Tooling",
-      "count": 10
+      "count": 11
     },
     {
       "name": "Infra",
-      "count": 8
-    },
-    {
-      "name": "Product",
-      "count": 7
+      "count": 10
     },
     {
       "name": "Data",
+      "count": 6
+    },
+    {
+      "name": "Research",
       "count": 6
     }
   ],
@@ -42,13 +42,13 @@
     {
       "date": "2026-02-18",
       "dayOfWeek": "Wed",
-      "topic": "Product",
-      "count": 1
+      "topic": "Data",
+      "count": 0
     },
     {
       "date": "2026-02-18",
       "dayOfWeek": "Wed",
-      "topic": "Data",
+      "topic": "Research",
       "count": 0
     },
     {
@@ -62,12 +62,6 @@
       "dayOfWeek": "Thu",
       "topic": "Infra",
       "count": 4
-    },
-    {
-      "date": "2026-02-19",
-      "dayOfWeek": "Thu",
-      "topic": "Product",
-      "count": 1
     },
     {
       "date": "2026-02-19",
@@ -76,6 +70,12 @@
       "count": 2
     },
     {
+      "date": "2026-02-19",
+      "dayOfWeek": "Thu",
+      "topic": "Research",
+      "count": 3
+    },
+    {
       "date": "2026-02-20",
       "dayOfWeek": "Fri",
       "topic": "Tooling",
@@ -90,16 +90,16 @@
     {
       "date": "2026-02-20",
       "dayOfWeek": "Fri",
-      "topic": "Product",
-      "count": 4
-    },
-    {
-      "date": "2026-02-20",
-      "dayOfWeek": "Fri",
       "topic": "Data",
       "count": 3
     },
     {
+      "date": "2026-02-20",
+      "dayOfWeek": "Fri",
+      "topic": "Research",
+      "count": 2
+    },
+    {
       "date": "2026-02-21",
       "dayOfWeek": "Sat",
       "topic": "Tooling",
@@ -114,13 +114,13 @@
     {
       "date": "2026-02-21",
       "dayOfWeek": "Sat",
-      "topic": "Product",
+      "topic": "Data",
       "count": 0
     },
     {
       "date": "2026-02-21",
       "dayOfWeek": "Sat",
-      "topic": "Data",
+      "topic": "Research",
       "count": 0
     },
     {
@@ -138,13 +138,13 @@
     {
       "date": "2026-02-22",
       "dayOfWeek": "Sun",
-      "topic": "Product",
+      "topic": "Data",
       "count": 0
     },
     {
       "date": "2026-02-22",
       "dayOfWeek": "Sun",
-      "topic": "Data",
+      "topic": "Research",
       "count": 0
     },
     {
@@ -162,46 +162,46 @@
     {
       "date": "2026-02-23",
       "dayOfWeek": "Mon",
-      "topic": "Product",
+      "topic": "Data",
       "count": 1
     },
     {
       "date": "2026-02-23",
       "dayOfWeek": "Mon",
-      "topic": "Data",
+      "topic": "Research",
       "count": 1
     },
     {
       "date": "2026-02-24",
       "dayOfWeek": "Tue",
       "topic": "Tooling",
-      "count": 1
+      "count": 2
     },
     {
       "date": "2026-02-24",
       "dayOfWeek": "Tue",
       "topic": "Infra",
-      "count": 0
-    },
-    {
-      "date": "2026-02-24",
-      "dayOfWeek": "Tue",
-      "topic": "Product",
-      "count": 0
+      "count": 2
     },
     {
       "date": "2026-02-24",
       "dayOfWeek": "Tue",
       "topic": "Data",
+      "count": 0
+    },
+    {
+      "date": "2026-02-24",
+      "dayOfWeek": "Tue",
+      "topic": "Research",
       "count": 0
     }
   ],
   "topIssues": [
     {
       "id": 1,
-      "status": "SHIFTING",
-      "title": "NVFP4 저정밀 학습으로 대규모 모델 훈련 효율 극대화",
-      "summary": "NVIDIA가 BF16 한계를 보완하는 저정밀 포맷 NVFP4를 제안해, 대형 모델을 더 빠르고 저비용으로 학습하면서도 정확도 손실을 최소화하는 새로운 훈련 패러다임을 제시했습니다.",
+      "status": "NEW",
+      "title": "NVIDIA NVFP4 도입으로 고처리량 저정밀 모델 학습 가속",
+      "summary": "NVIDIA가 새로운 저정밀 수치 포맷 NVFP4를 공개해, 기존 BF16 대비 더 높은 학습 처리량과 메모리 효율을 확보하면서도 정확도 손실을 최소화하는 트레이닝 기법을 제안했다. 대규모 모델 학습 비용 절감과 에너지 효율 개선에 직접적인 영향을 줄 핵심 인프라 업데이트다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -213,57 +213,57 @@
     },
     {
       "id": 2,
-      "status": "SHIFTING",
-      "title": "SWE-bench Verified 평가 중단으로 AI 코딩 벤치마크 재검토",
-      "summary": "OpenAI가 데이터 오염·테스트 결함·학습 데이터 유출 문제로 SWE-bench Verified 사용을 중단하며, 코드 생성·수정 모델 성능을 어떻게 재평가할지 벤치마크 전반에 대한 재설계 필요성이 부각됐습니다.",
+      "status": "ONGOING",
+      "title": "Jetson에서 오픈소스 비전-언어 모델 실전 배포와 최적화",
+      "summary": "Hugging Face가 Jetson 디바이스에서 오픈소스 비전-언어 모델(VLM)을 경량화·양자화하고 TensorRT·CUDA 기반으로 최적화해 배포하는 실무 가이드를 공개했다. 엣지·온디바이스 AI 추론을 위한 구체적 레시피가 제공되면서 AI 모델의 실제 현장 적용이 가속되는 흐름이 이어지고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "OpenAI Blog",
-          "title": "Why we no longer evaluate SWE-bench Verified",
-          "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified"
+          "source": "Hugging Face Blog",
+          "title": "Deploying Open Source Vision Language Models (VLM) on Jetson",
+          "url": "https://huggingface.co/blog/nvidia/cosmos-on-jetson"
         }
       ]
     },
     {
       "id": 3,
-      "status": "NEW",
-      "title": "기업용 AI 에이전트 도입 가속을 위한 OpenAI Frontier Alliance",
-      "summary": "OpenAI가 보안·확장성을 갖춘 에이전트 기반 워크로드를 실제 운영 환경에 배치하도록 돕는 Frontier Alliance Partners 프로그램을 발표해, 대기업 중심의 본격적인 상용 AI 전환을 추진하고 있습니다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "OpenAI Blog",
-          "title": "OpenAI announces Frontier Alliance Partners",
-          "url": "https://openai.com/index/frontier-alliance-partners"
-        }
-      ]
-    },
-    {
-      "id": 4,
       "status": "ONGOING",
-      "title": "로컬 AI 생태계 강화: GGML·llama.cpp의 Hugging Face 합류",
-      "summary": "GGML과 llama.cpp가 Hugging Face에 합류하면서, 기기 내·온프레미스에서 실행되는 경량 로컬 AI 스택의 장기 유지보수와 표준화, 커뮤니티 생태계 확대가 본격화되고 있습니다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Hugging Face Blog",
-          "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
-          "url": "https://huggingface.co/blog/ggml-joins-hf"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "status": "ONGOING",
-      "title": "MIG·NUMA 최적화로 데이터센터 AI 인프라 성능·비용 개선",
-      "summary": "NVIDIA가 Multi-Instance GPU와 NUMA 로컬라이제이션을 활용한 데이터 처리 가속 방식을 제시하며, 최신 데이터센터 GPU에서 워크로드를 더 세밀하게 분할·배치해 처리량과 자원 효율을 동시에 높이는 방향이 강조되고 있습니다.",
+      "title": "MIG·NUMA 최적화를 통한 데이터센터 GPU 자원 효율 극대화",
+      "summary": "NVIDIA가 Ampere·Hopper·Blackwell 세대 데이터센터 GPU에서 Multi-Instance GPU(MIG)와 NUMA 노드 로컬라이제이션을 함께 활용해 데이터 처리 성능과 자원 활용 효율을 높이는 방안을 제시했다. 워크로드별로 GPU 인스턴스를 세분화하고 메모리 접근 지연을 줄이는 튜닝 전략이 인프라 설계의 핵심 이슈로 부상하고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "NVIDIA Developer Blog",
           "title": "Accelerating Data Processing with NVIDIA Multi-Instance GPU and NUMA Node Localization",
           "url": "https://developer.nvidia.com/blog/accelerating-data-processing-with-nvidia-multi-instance-gpu-and-numa-node-localization/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "Gemini 3.1 Pro 출시로 고난도 추론·멀티스텝 작업 경쟁 심화",
+      "summary": "Google DeepMind가 복잡한 문제 해결과 정교한 멀티스텝 추론에 최적화된 Gemini 3.1 Pro를 발표했다. 단순 질의응답을 넘어 장기 계획 수립, 복합 분석 등 고난도 활용 시나리오를 겨냥한 모델로, 고급 생산성·에이전트형 활용 영역에서 경쟁 격화를 예고한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Google DeepMind Blog",
+          "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
+          "url": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "OpenAI Frontier Alliance Partners로 엔터프라이즈 AI 에이전트 상용화 가속",
+      "summary": "OpenAI가 기업용 AI 에이전트의 파일럿을 프로덕션으로 전환하기 위한 파트너 네트워크인 Frontier Alliance Partners 프로그램을 발표했다. 보안·확장성 요구를 충족하는 배포·운영 솔루션을 파트너와 함께 제공해, 대규모 조직의 에이전트 도입을 촉진하는 비즈니스·인프라 측면의 주요 변화다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "OpenAI announces Frontier Alliance Partners",
+          "url": "https://openai.com/index/frontier-alliance-partners"
         }
       ]
     }

@@ -1,64 +1,12 @@
 {
   "date": "2026-02-24",
   "highlights": {
-    "bullets": [
-      "핵심: AI 데이터센터 확장으로 메모리 수요 우선순위가 바뀌며 NOR 플래시 공급이 타이트해졌다.",
-      "핵심: NASA의 금성 재방문은 고온 세라믹 센서의 개발·성능에 달려 있다."
-    ],
-    "topTopics": [
-      "Manufacturing",
-      "Roadmap",
-      "Demand",
-      "Competition"
-    ],
+    "bullets": [],
+    "topTopics": [],
     "stats": {
-      "collected": 2,
-      "deduped": 2
+      "collected": 0,
+      "deduped": 0
     }
   },
-  "cards": [
-    {
-      "id": "semiconductor_0001",
-      "tab": "semiconductor",
-      "publishedAt": "2026-02-23T23:00:00+09:00",
-      "source": "EE Times",
-      "title": "AI Supercycle Reshapes Memory Landscape, Squeezing NOR Flash Supply",
-      "summary": [
-        "AI 데이터센터 확장으로 메모리 수요 구성이 바뀌며 NOR 플래시 공급이 타이트해졌다.",
-        "제조사들이 AI·고수익 제품으로 생산능력을 재배치하면서 NOR 생산량이 줄고 있다.",
-        "자동차·IoT 등 NOR 의존 산업에서 가격 상승과 공급 리스크가 커지고 있다."
-      ],
-      "whyItMatters": "AI 수요가 메모리 우선순위를 재편하고 제조용량 전환을 가속해 NOR 공급 부족과 산업 영향이 확대되기 때문에 중요하다.",
-      "topics": [
-        "Demand",
-        "Manufacturing",
-        "Roadmap",
-        "Competition"
-      ],
-      "status": "SHIFTING",
-      "hash": "867a7847e1cedea877dc94a68214c9a2091a500417441cbce1765e1c59cce57e",
-      "url": "https://www.eetimes.com/ai-supercycle-reshapes-memory-landscape-squeezing-nor-flash-supply/"
-    },
-    {
-      "id": "semiconductor_0002",
-      "tab": "semiconductor",
-      "publishedAt": "2026-02-23T19:10:47+09:00",
-      "source": "EE Times",
-      "title": "NASA Return to Venus Depends on New Class of Ceramic Sensor",
-      "summary": [
-        "NASA는 실리콘 전자가 견디지 못하는 금성 환경에서 동작하는 고온 세라믹 센서 기술로 다시 방향을 틀고 있습니다.",
-        "새로운 세라믹 센서 계열은 극한 온도·압력 조건에서도 안정적 성능을 제공해 금성 재방문 임무의 핵심 요소가 됩니다.",
-        "이 센서의 개발·제작 능력과 상용화 일정이 임무 로드맵과 설계 결정을 좌우합니다."
-      ],
-      "whyItMatters": "금성 탐사 재개가 첨단 세라믹 센서의 개발·제작 일정과 성능에 직접적으로 달려 있기 때문입니다.",
-      "topics": [
-        "Manufacturing",
-        "Roadmap",
-        "Investment"
-      ],
-      "status": "ONGOING",
-      "hash": "97685fb20b294630a4fe6f7377607e95830fea9e9501cd9977eb2602f26858bd",
-      "url": "https://www.eetimes.com/nasa-return-to-venus-depends-on-new-class-of-ceramic-sensor/"
-    }
-  ]
+  "cards": []
 }

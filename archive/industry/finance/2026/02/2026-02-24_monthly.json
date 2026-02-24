@@ -10,9 +10,9 @@
     "marketShare": {
       "MarketInfra": 34,
       "Policy": 26,
-      "Regulation": 14,
+      "Fintech": 14,
       "Compliance": 14,
-      "Fintech": 12,
+      "Regulation": 12,
       "Other": 0
     }
   },
@@ -22,9 +22,9 @@
       "topicCounts": {
         "MarketInfra": 12,
         "Policy": 9,
-        "Regulation": 6,
+        "Fintech": 6,
         "Compliance": 8,
-        "Fintech": 6
+        "Regulation": 6
       }
     },
     {
@@ -32,9 +32,9 @@
       "topicCounts": {
         "MarketInfra": 15,
         "Policy": 14,
-        "Regulation": 3,
+        "Fintech": 5,
         "Compliance": 7,
-        "Fintech": 5
+        "Regulation": 3
       }
     },
     {
@@ -42,9 +42,9 @@
       "topicCounts": {
         "MarketInfra": 17,
         "Policy": 13,
-        "Regulation": 5,
+        "Fintech": 7,
         "Compliance": 7,
-        "Fintech": 7
+        "Regulation": 5
       }
     },
     {
@@ -52,70 +52,56 @@
       "topicCounts": {
         "MarketInfra": 11,
         "Policy": 7,
-        "Regulation": 5,
+        "Fintech": 3,
         "Compliance": 2,
-        "Fintech": 3
+        "Regulation": 5
       }
     },
     {
       "week": "Week 5 (02/23-02/24)",
       "topicCounts": {
         "MarketInfra": 3,
-        "Policy": 3,
-        "Regulation": 3,
+        "Policy": 2,
+        "Fintech": 3,
         "Compliance": 1,
-        "Fintech": 0
+        "Regulation": 1
       }
     }
   ],
   "topIssues": [
     {
       "id": 1,
-      "status": "SHIFTING",
-      "title": "미 대법원 관세 판결로 한국 반도체·자동차 업종 수혜 기대",
-      "summary": "미 연방대법원이 트럼프 행정부 상호관세를 위법 판결하면서 최악의 관세 리스크가 해소됐다. 이에 따라 반도체·자동차 등 수출주가 강세를 보이며 코스피가 단기적으로 크게 반등하는 등 대외 통상 불확실성 완화가 국내 주식시장에 호재로 작용하고 있다.",
+      "status": "ONGOING",
+      "title": "AI 반도체 호황에 코스피·SK하이닉스 동반 랠리",
+      "summary": "HBM 등 AI 반도체 수요 기대가 커지며 SK하이닉스가 장중 100만원을 돌파했고, 코스피도 5900선을 상회했다. AI 투자 붐과 반도체 업황 개선이 국내 증시 상승을 주도하며 대형 반도체주의 시가총액 비중과 쏠림 리스크가 동시에 확대되는 국면이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
-          "title": "“최악 관세 위협은 벗어났다”...반도체·자동차 ‘방긋’",
-          "url": "https://www.mk.co.kr/news/stock/11969610"
+          "title": "SK하이닉스, 장중 ‘100만원’ 찍었다…코스피 5900선 훌쩍 ‘불기둥’",
+          "url": "https://www.mk.co.kr/news/stock/11970147"
         }
       ]
     },
     {
       "id": 2,
-      "status": "SHIFTING",
-      "title": "글로벌 증권사의 코스피 8000 제시…반도체 사이클 기대 반영",
-      "summary": "노무라금융투자가 코스피 상반기 목표치를 최대 8000포인트로 제시했다. 메모리 가격 회복과 AI 인프라 투자 확대 등 반도체 업황 개선을 핵심 근거로 들며 한국 증시에 대한 중장기 상승 여지를 강조하면서 기관·외국인 수급 및 밸류에이션 재평가 가능성에 관심이 쏠리고 있다.",
+      "status": "ONGOING",
+      "title": "증권주 급등과 거래 과열 신호, 브로커리지 업황 회복 기대",
+      "summary": "이달 들어 증권지수가 40% 이상 급등하며 주요 증권주가 신고가 행진을 이어가고 있다. 개인·기관의 주식 거래대금 증가로 브로커리지 실적 개선 기대가 커진 반면, 일부 종목은 투자주의·단기과열 종목으로 지정되는 등 레버리지·회전율이 높은 단기매매에 대한 경고 신호도 함께 나타나고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
-          "title": "코스피, 올 상반기 8000 간다…노무라 “반도체 기대감 반영”",
-          "url": "https://www.mk.co.kr/news/economy/11969571"
+          "title": "“증권株 지금 담아도 안 늦었나요?”…신고가 행진 시장의 평가는",
+          "url": "https://www.mk.co.kr/news/stock/11968556"
         }
       ]
     },
     {
       "id": 3,
-      "status": "NEW",
-      "title": "저축은행 건전 발전방안으로 중소·중견기업 대상 여신 확대",
-      "summary": "정부가 저축은행 자금공급을 부동산 중심에서 벗어나 서민·소상공인·중소·중견기업으로 넓히는 건전 발전방안을 내놨다. 비상장주식 보유 한도 완화, 온투업 연계투자 허용 검토, 비수도권 여신 우대, 대형 저축은행의 전자지급수단 사업 진출 등으로 지역·중소기업 금융공급과 비은행권 경쟁 구도가 재편될 전망이다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "정책브리핑",
-          "title": "저축은행의 금융공급, 서민·중소기업에서 중견기업까지 확대",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148959834&call_from=rsslink"
-        }
-      ]
-    },
-    {
-      "id": 4,
       "status": "ONGOING",
-      "title": "이란발 지정학 리스크와 미 금리 불확실성으로 원자재·글로벌 자산 변동성 확대",
-      "summary": "이란을 둘러싼 중동 긴장 고조와 미국 통화정책 방향성에 대한 불확실성이 겹치며 국제유가와 금값이 급등했다. 위험자산 회피 심리가 강화되면서 뉴욕증시와 글로벌 금융시장의 변동성이 확대되고, 인플레이션 재자극 가능성과 함께 채권·주식·외환시장 자금 흐름 재조정이 진행 중이다.",
+      "title": "지정학 리스크·미 금리 불확실성에 원자재·글로벌 금융시장 변동성 확대",
+      "summary": "이란발 지정학적 긴장이 고조되고 미국 통화정책 경로가 불투명해지면서 국제유가와 금값이 동반 급등했다. 안전자산 선호와 인플레이션 재우려가 커지며 뉴욕증시와 글로벌 금융시장에서 변동성이 확대되고, 한국 등 신흥·개방 경제의 환율과 금리, 수출기업 실적 전망에도 부담 요인으로 작용하고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -126,17 +112,26 @@
       ]
     },
     {
-      "id": 5,
-      "status": "ONGOING",
-      "title": "글로벌 VC의 크립토 낙관론과 전통 금융사의 가상자산 진출 가속",
-      "summary": "글로벌 벤처캐피털 a16z가 지금이 크립토 투자 진입기에 적절하다는 입장을 밝히며 창업자의 장기 비전을 중시하는 투자 전략을 제시했고, 국내에서는 미래에셋그룹이 코빗 지분 92%를 인수해 디지털 자산 사업을 강화하고 있다. 전통 금융과 가상자산이 결합되는 흐름 속에서 거래소·수탁·결제 등 디지털 금융 생태계 전반의 경쟁이 심화될 전망이다.",
-      "articleCount": 2,
+      "id": 4,
+      "status": "NEW",
+      "title": "저축은행 건전 발전방안: 서민·중소기업 중심에서 실물경제 전반으로 역할 확대",
+      "summary": "정부는 저축은행의 자금공급을 부동산 위주에서 중소·중견기업, 소상공인 등 실물경제 전반으로 넓히는 발전방안을 추진 중이다. 대형 저축은행에는 직불·선불전자지급수단 등 새로운 디지털 금융 비즈니스를 허용하는 대신, 자산 규모별로 자본·건전성·지배구조 규제를 차등 적용해 시스템 리스크를 관리하는 방향으로 규제 체계를 고도화하려는 것이다.",
+      "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "매일경제(증권)",
-          "title": "실리콘밸리 공룡 VC “지금 크립토 입문하기 좋은 시기”",
-          "url": "https://www.mk.co.kr/news/stock/11964077"
-        },
+          "source": "정책브리핑",
+          "title": "저축은행의 금융공급, 서민·중소기업에서 중견기업까지 확대",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148959834&call_from=rsslink"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "전통 금융권의 가상자산 진출 가속…미래에셋-코빗 M&A",
+      "summary": "미래에셋그룹이 코빗 지분 92%를 인수하며 경영권을 확보, 증권·자산운용·리테일 네트워크와 가상자산 거래소를 결합한 디지털 금융 전략을 본격화하고 있다. ‘미래에셋 3.0’ 전략의 일환으로, 전통 금융의 규제·신뢰와 크립토 시장의 성장성을 결합해 수탁·브로커리지·토큰증권(STO) 등 신사업 확장이 예상되며, 국내 가상자산 시장 지형 변화와 경쟁 심화가 점진적으로 진행될 가능성이 크다.",
+      "articleCount": 1,
+      "relatedArticles": [
         {
           "source": "매일경제(증권)",
           "title": "미래에셋컨설팅, 코빗 품고 ‘디지털 금융’ 승부수… 가상자산 시장 지각변동 예고",
