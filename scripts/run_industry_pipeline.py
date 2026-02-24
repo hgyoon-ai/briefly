@@ -475,10 +475,54 @@ def write_industry_run_stats(payload):
     )
 
 
-def clamp_total(items):
-    if len(items) <= MAX_PER_SOURCE["total"]:
+def count_items_by_tab(items, tabs):
+    counts = {tab: 0 for tab in tabs}
+    for item in items:
+        tab = item.get("tab", "ai")
+        if tab in counts:
+            counts[tab] += 1
+    return counts
+
+
+def clamp_total_with_tab_quota(items, selected_tabs, total_limit=None, min_per_tab=15):
+    limit = total_limit if isinstance(total_limit, int) and total_limit > 0 else MAX_PER_SOURCE["total"]
+    if len(items) <= limit:
         return items
-    return items[: MAX_PER_SOURCE["total"]]
+
+    if not selected_tabs:
+        return items[:limit]
+
+    max_min = max(1, limit // len(selected_tabs))
+    quota = min(min_per_tab, max_min)
+
+    picked_indexes = set()
+    selected = []
+    quota_counts = {tab: 0 for tab in selected_tabs}
+
+    for tab in selected_tabs:
+        if len(selected) >= limit:
+            break
+        for idx, item in enumerate(items):
+            if len(selected) >= limit or quota_counts[tab] >= quota:
+                break
+            if idx in picked_indexes:
+                continue
+            if item.get("tab", "ai") != tab:
+                continue
+            picked_indexes.add(idx)
+            selected.append(item)
+            quota_counts[tab] += 1
+
+    if len(selected) < limit:
+        for idx, item in enumerate(items):
+            if len(selected) >= limit:
+                break
+            if idx in picked_indexes:
+                continue
+            picked_indexes.add(idx)
+            selected.append(item)
+
+    return selected
 
 
 def build_daily_payload(items, raw_count, now, tab="ai"):
@@ -688,8 +732,14 @@ def main():
             },
         }
 
-        raw_items = clamp_total(raw_items)
+        raw_by_tab_before_clamp = count_items_by_tab(raw_items, selected_tabs)
+        print(f"[quota] raw by tab before clamp: {raw_by_tab_before_clamp}")
+
+        raw_items = clamp_total_with_tab_quota(raw_items, selected_tabs)
         run_stats["pipeline"]["rawClamped"] = len(raw_items)
+        run_stats["pipeline"]["rawByTabBeforeClamp"] = raw_by_tab_before_clamp
+        run_stats["pipeline"]["rawByTabAfterClamp"] = count_items_by_tab(raw_items, selected_tabs)
+        print(f"[quota] raw by tab after clamp: {run_stats['pipeline']['rawByTabAfterClamp']}")
         print(f"Total raw items (clamped): {len(raw_items)}")
 
         deduped = dedupe_items(raw_items)
