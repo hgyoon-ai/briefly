@@ -2,6 +2,215 @@
   "month": "2026-02",
   "events": [
     {
+      "id": "news:KB증권:https://www.fnnews.com/news/202602240755152242",
+      "date": "2026-02-24",
+      "company": "KB증권",
+      "title": "대한조선, 수익성 개선 기대...목표가↑-KB증권",
+      "oneLiner": "KB증권이 대한조선 목표주가를 상향한 리서치 리포트로, 증권사 리서치 산출물에 해당하므로 보관 대상임.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "대한조선, 수익성 개선 기대...목표가↑-KB증권",
+          "url": "https://www.fnnews.com/news/202602240755152242"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-25"
+    },
+    {
+      "id": "news:삼성증권:https://www.fnnews.com/news/202602240839110130",
+      "date": "2026-02-24",
+      "company": "삼성증권",
+      "title": "코스맥스, 지난해 4분기 실적 아쉽지만…회복세 감지 -삼성證",
+      "oneLiner": "삼성증권의 코스맥스 분석 리포트로 기업 실적 해석과 투자의견을 제시하는 리서치성 보도임.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "코스맥스, 지난해 4분기 실적 아쉽지만…회복세 감지 -삼성證",
+          "url": "https://www.fnnews.com/news/202602240839110130"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-25"
+    },
+    {
+      "id": "news:키움증권:https://www.fnnews.com/news/202602240837205096",
+      "date": "2026-02-24",
+      "company": "키움증권",
+      "title": "한화생명, 보험이익 호조·지배구조 개편 기대감..목표가·투자의견 ↑ -키움證",
+      "oneLiner": "키움증권이 한화생명에 대해 목표가·투자의견을 상향한 리서치 보도로, 리서치 카테고리로 보관함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한화생명, 보험이익 호조·지배구조 개편 기대감..목표가·투자의견 ↑ -키움證",
+          "url": "https://www.fnnews.com/news/202602240837205096"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-25"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202602241019030965",
+      "date": "2026-02-24",
+      "company": "NH투자증권",
+      "title": "NH증권 \"엠플러스, 전고체 분야 성장 기대...주주가치 제고도 진심\"",
+      "oneLiner": "NH투자증권의 엠플러스 관련 리서치 코멘트로, 기업 기술·성장성 분석을 담은 리포트이므로 보관 대상임.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "NH증권 \"엠플러스, 전고체 분야 성장 기대...주주가치 제고도 진심\"",
+          "url": "https://www.fnnews.com/news/202602241019030965"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-25"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202602241043260255",
+      "date": "2026-02-24",
+      "company": "NH투자증권",
+      "title": "‘원자력 ETF’ 순자산 7500억 돌파…3개월만에 2500억 증가",
+      "oneLiner": "HANARO 원자력iSelect ETF의 순자산 증가(규모 확대) 소식으로, ETF 상품의 운용·규모 변화 관련 기사라 제품 관련 이벤트로 분류함.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "‘원자력 ETF’ 순자산 7500억 돌파…3개월만에 2500억 증가",
+          "url": "https://www.fnnews.com/news/202602241043260255"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.88,
+      "updatedAt": "2026-02-25"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202602240948255807",
+      "date": "2026-02-24",
+      "company": "하나증권",
+      "title": "\"영업익 191% 급증\" SK하이닉스 목표가 145만원… \"대한조선, 가장 싼 조선주\" [株토피아]",
+      "oneLiner": "여러 증권사 리포트를 요약한 기사로, 증권사별 리서치·목표가 변경 내용이 포함되어 있어 리서치 카테고리로 보관함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"영업익 191% 급증\" SK하이닉스 목표가 145만원… \"대한조선, 가장 싼 조선주\" [株토피아]",
+          "url": "https://www.fnnews.com/news/202602240948255807"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.87,
+      "updatedAt": "2026-02-25"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202602241143037846",
+      "date": "2026-02-24",
+      "company": "미래에셋증권",
+      "title": "고객돈 불법접근 의혹 미래에셋증권 인니법인, 피해 고객들과 분쟁조정 실패",
+      "oneLiner": "미래에셋증권 인도네시아법인의 고객계좌 불법접근 의혹·분쟁조정 결렬 보도로, 보안사고·운영리스크·규제·분쟁 이슈에 해당하므로 보관 대상임.",
+      "type": "규제",
+      "areas": [
+        "리스크",
+        "AML"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "고객돈 불법접근 의혹 미래에셋증권 인니법인, 피해 고객들과 분쟁조정 실패",
+          "url": "https://www.fnnews.com/news/202602241143037846"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.98,
+      "updatedAt": "2026-02-25"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202602231329386578",
+      "date": "2026-02-24",
+      "company": "하나증권",
+      "title": "<증권가 슈처리치 지점> 하나증권 “VVIP 1대1 특화 맞춤 자산관리...출범 100일만에 수탁고 1조원 급증”",
+      "oneLiner": "하나증권의 VVIP 맞춤 자산관리 지점(센터) 출범 및 수탁고 증가 보도로, 지점·서비스 출범 및 운영 변화에 해당해 보관함.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "<증권가 슈처리치 지점> 하나증권 “VVIP 1대1 특화 맞춤 자산관리...출범 100일만에 수탁고 1조원 급증”",
+          "url": "https://www.fnnews.com/news/202602231329386578"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-25"
+    },
+    {
+      "id": "news:키움증권:https://www.fnnews.com/news/202602241557426828",
+      "date": "2026-02-24",
+      "company": "키움증권",
+      "title": "‘육천피’ 앞두고 눈높이 더 올리는 증권가…“이익 전망치 급등”",
+      "oneLiner": "키움증권을 포함한 증권가의 코스피 상단 전망 상향 보도로, 증권사 트레이딩·리서치 관점에서의 전망 변경을 다루고 있어 보관 대상임.",
+      "type": "리서치",
+      "areas": [
+        "리서치",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "‘육천피’ 앞두고 눈높이 더 올리는 증권가…“이익 전망치 급등”",
+          "url": "https://www.fnnews.com/news/202602241557426828"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.86,
+      "updatedAt": "2026-02-25"
+    },
+    {
       "id": "8f0af6c5d2e082f6312263f14906189c00d88004",
       "date": "2026-02-23",
       "company": "삼성증권",
@@ -22,7 +231,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-02-24"
+      "updatedAt": "2026-02-25"
     },
     {
       "id": "b62cb38970f64b0beb322f07c21ec6fd0b8131da",
@@ -45,7 +254,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-02-24"
+      "updatedAt": "2026-02-25"
     },
     {
       "id": "news:KB증권:https://www.mk.co.kr/news/stock/11968581",
