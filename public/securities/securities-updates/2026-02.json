@@ -2,6 +2,305 @@
   "month": "2026-02",
   "events": [
     {
+      "id": "70f0d0092e6f4299620d0223475d78362aa7e6d6",
+      "date": "2026-02-25",
+      "company": "키움증권",
+      "title": "주주총회소집공고",
+      "oneLiner": "주주총회 소집 공시 제출(주주총회 개최 관련 공식 공시).",
+      "type": "규제",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "주주총회소집공고",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260225004712"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-02-26"
+    },
+    {
+      "id": "88565735bb80e1389552f489eb41065d56f5c849",
+      "date": "2026-02-25",
+      "company": "키움증권",
+      "title": "주식소각결정              ",
+      "oneLiner": "주식 소각 결정 공시(자본구조 변경에 관한 회사 결정).",
+      "type": "규제",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "주식소각결정              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260225801537"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-02-26"
+    },
+    {
+      "id": "8a6d6553a2ce88ac69f3e34af2ca9479f737b5e7",
+      "date": "2026-02-25",
+      "company": "키움증권",
+      "title": "[기재정정]주식소각결정              ",
+      "oneLiner": "주식소각결정 관련 기재정정 공시(기존 공시 정정).",
+      "type": "규제",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "[기재정정]주식소각결정              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260225801532"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-26"
+    },
+    {
+      "id": "57e71ebc157c0e04e0bf2d55ec69421e634dac2a",
+      "date": "2026-02-25",
+      "company": "키움증권",
+      "title": "[기재정정]현금ㆍ현물배당결정              ",
+      "oneLiner": "현금·현물 배당결정 관련 기재정정 공시(배당 관련 정정 공시).",
+      "type": "규제",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "[기재정정]현금ㆍ현물배당결정              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260225801591"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-02-26"
+    },
+    {
+      "id": "cbf4c20e768006d130bae7cf3816a229311ddc77",
+      "date": "2026-02-25",
+      "company": "키움증권",
+      "title": "주주총회소집결의              ",
+      "oneLiner": "주주총회 소집 결의 공시(주주총회 개최를 위한 이사회 결의 공시).",
+      "type": "규제",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "주주총회소집결의              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260225801186"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-02-26"
+    },
+    {
+      "id": "news:KB증권:https://www.mk.co.kr/news/stock/11971838",
+      "date": "2026-02-25",
+      "company": "KB증권",
+      "title": "KB운용 ‘RISE 200위클리커버드콜’, 순자산 8000억 돌파",
+      "oneLiner": "KB운용의 RISE 200 위클리커버드콜 ETF가 순자산 8,000억원 돌파(상품 규모 확대 관련 공시/보도).",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "KB운용 ‘RISE 200위클리커버드콜’, 순자산 8000억 돌파",
+          "url": "https://www.mk.co.kr/news/stock/11971838"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-02-26"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/11971764",
+      "date": "2026-02-25",
+      "company": "미래에셋증권",
+      "title": "미래에셋운용 ‘TIGER 은행고배당플러스TOP10’, 주당 분배금 인상",
+      "oneLiner": "TIGER 은행고배당플러스TOP10 ETF의 주당 분배금이 상향 조정(배당정책 변경).",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "미래에셋운용 ‘TIGER 은행고배당플러스TOP10’, 주당 분배금 인상",
+          "url": "https://www.mk.co.kr/news/stock/11971764"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-02-26"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/11971485",
+      "date": "2026-02-25",
+      "company": "한국투자증권",
+      "title": "신한투자증권, ‘신한프리미어 청주금융센터’ 통합 이전 오픈",
+      "oneLiner": "신한투자증권이 청주금융센터를 통합 이전·오픈해 지역 거점 영업점 재정비(영업점 통합 오픈 안내).",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "신한투자증권, ‘신한프리미어 청주금융센터’ 통합 이전 오픈",
+          "url": "https://www.mk.co.kr/news/stock/11971485"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-26"
+    },
+    {
+      "id": "news:메리츠증권:https://www.fnnews.com/news/202602251416024315",
+      "date": "2026-02-25",
+      "company": "메리츠증권",
+      "title": "메리츠증권,수소 전문기업 미코파워 400억 투자…\"올해 첫 모험자본\"",
+      "oneLiner": "메리츠증권이 수소 연료전지 기업 미코파워에 400억원을 투자한 전략적 모험자본 참여 소식으로, 자금운용·투자정책 변화에 해당한다.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "메리츠증권,수소 전문기업 미코파워 400억 투자…\"올해 첫 모험자본\"",
+          "url": "https://www.fnnews.com/news/202602251416024315"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-26"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202602251513149366",
+      "date": "2026-02-25",
+      "company": "한국투자증권",
+      "title": "신한투자증권, '신한프리미어 청주금융센터' 통합 이전 오픈",
+      "oneLiner": "신한투자증권이 충청권 거점인 신한프리미어 청주금융센터로 통합이전·오픈한 영업체계 변경 소식으로, 영업망·WM 제공 방식 변화에 해당한다.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "신한투자증권, '신한프리미어 청주금융센터' 통합 이전 오픈",
+          "url": "https://www.fnnews.com/news/202602251513149366"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-02-26"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202602251642154223",
+      "date": "2026-02-25",
+      "company": "KB증권",
+      "title": "KB증권, 7000억원 규모 유상증자 결정",
+      "oneLiner": "KB증권이 7000억원 규모의 유상증자를 이사회에서 결의한 자본확충 결정으로, 자본구조·운영 전략 변화에 해당한다.",
+      "type": "기타",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "KB증권, 7000억원 규모 유상증자 결정",
+          "url": "https://www.fnnews.com/news/202602251642154223"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-02-26"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202602251805430756",
+      "date": "2026-02-25",
+      "company": "KB증권",
+      "title": "KB證, 7000억규모 유상증자 결정",
+      "oneLiner": "KB증권의 7000억원 유상증자 결정 관련 보도로, 그룹 차원의 자본확충·전략 변화 사안이다.",
+      "type": "기타",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "KB證, 7000억규모 유상증자 결정",
+          "url": "https://www.fnnews.com/news/202602251805430756"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-02-26"
+    },
+    {
+      "id": "news:메리츠증권:https://www.fnnews.com/news/202602251807282321",
+      "date": "2026-02-25",
+      "company": "메리츠증권",
+      "title": "메리츠證, 올해 첫 모험자본 투자",
+      "oneLiner": "메리츠증권이 신기술 사업투자 조합을 결성해 수소기업에 400억원 투자한 사실로, 투자·운영 결정의 변화를 포함한다.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "메리츠證, 올해 첫 모험자본 투자",
+          "url": "https://www.fnnews.com/news/202602251807282321"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.88,
+      "updatedAt": "2026-02-26"
+    },
+    {
       "id": "news:KB증권:https://www.fnnews.com/news/202602240755152242",
       "date": "2026-02-24",
       "company": "KB증권",
@@ -231,7 +530,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-02-25"
+      "updatedAt": "2026-02-26"
     },
     {
       "id": "b62cb38970f64b0beb322f07c21ec6fd0b8131da",
@@ -254,7 +553,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-02-25"
+      "updatedAt": "2026-02-26"
     },
     {
       "id": "news:KB증권:https://www.mk.co.kr/news/stock/11968581",
