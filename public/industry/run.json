@@ -1,6 +1,6 @@
 {
-  "id": "2026-02-25T06:56:52.345344+09:00",
-  "ts": "2026-02-25T06:56:52.345344+09:00",
+  "id": "2026-02-26T06:54:31.064753+09:00",
+  "ts": "2026-02-26T06:54:31.064753+09:00",
   "timezone": "Asia/Seoul",
   "selectedTabs": [
     "ai",
@@ -10,14 +10,14 @@
     "realestate"
   ],
   "pipeline": {
-    "rawTotal": 240,
+    "rawTotal": 241,
     "rawClamped": 150,
     "rawByTabBeforeClamp": {
       "ai": 115,
-      "finance": 43,
+      "finance": 42,
       "semiconductor": 44,
       "ev": 15,
-      "realestate": 23
+      "realestate": 25
     },
     "rawByTabAfterClamp": {
       "ai": 85,
@@ -32,7 +32,7 @@
   },
   "sources": {
     "rss": {
-      "total": 210,
+      "total": 211,
       "bySource": {
         "OpenAI Blog": 15,
         "Google DeepMind Blog": 15,
@@ -45,13 +45,13 @@
         "EE Times": 10,
         "TechInsights": 10,
         "Electrek": 15,
-        "정책브리핑": 5,
+        "정책브리핑": 7,
         "매일경제(증권)": 15,
         "보안뉴스": 10,
         "벤처스퀘어": 15,
-        "한국경제(부동산)": 4,
-        "매일경제(부동산)": 8,
-        "헤럴드경제(부동산)": 9
+        "한국경제(부동산)": 3,
+        "매일경제(부동산)": 9,
+        "헤럴드경제(부동산)": 8
       }
     },
     "hf": {
@@ -74,11 +74,11 @@
         "cards": 2
       },
       "weekly": {
-        "items": 13,
+        "items": 10,
         "issues": 5
       },
       "monthly": {
-        "items": 66,
+        "items": 65,
         "issues": 5
       }
     },
@@ -88,26 +88,26 @@
         "cards": 4
       },
       "weekly": {
-        "items": 17,
+        "items": 18,
         "issues": 5
       },
       "monthly": {
-        "items": 83,
+        "items": 87,
         "issues": 5
       }
     },
     "semiconductor": {
       "daily": {
-        "raw": 1,
-        "cards": 1
+        "raw": 2,
+        "cards": 2
       },
       "weekly": {
-        "items": 12,
+        "items": 9,
         "issues": 5
       },
       "monthly": {
-        "items": 76,
-        "issues": 5
+        "items": 75,
+        "issues": 4
       }
     },
     "ev": {
@@ -120,21 +120,21 @@
         "issues": 5
       },
       "monthly": {
-        "items": 55,
+        "items": 56,
         "issues": 5
       }
     },
     "realestate": {
       "daily": {
-        "raw": 15,
+        "raw": 14,
         "cards": 5
       },
       "weekly": {
-        "items": 10,
-        "issues": 4
+        "items": 15,
+        "issues": 5
       },
       "monthly": {
-        "items": 18,
+        "items": 23,
         "issues": 5
       }
     }
