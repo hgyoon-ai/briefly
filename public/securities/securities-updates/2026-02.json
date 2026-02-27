@@ -2,6 +2,169 @@
   "month": "2026-02",
   "events": [
     {
+      "id": "news:토스증권:https://www.hankyung.com/article/2026022787717",
+      "date": "2026-02-27",
+      "company": "토스증권",
+      "title": "\"갑자기 계좌에 400만원 줄어\"…토스증권 일시오류",
+      "oneLiner": "토스증권 MTS/WTS에서 계좌 잔액 및 원화 주문 가능 금액이 실제와 다르게 표시되는 일시적 전산오류가 발생했습니다.",
+      "type": "시스템",
+      "areas": [
+        "트레이딩",
+        "상담"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "\"갑자기 계좌에 400만원 줄어\"…토스증권 일시오류",
+          "url": "https://www.hankyung.com/article/2026022787717"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-02-28"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/11974368",
+      "date": "2026-02-27",
+      "company": "미래에셋증권",
+      "title": "미래에셋 ‘TIGER 코스닥150 ETF’, 순자산 2조원 돌파",
+      "oneLiner": "TIGER 코스닥150 ETF의 순자산이 2조원을 돌파했다는 운용 및 상품규모의 실질적 변화 공지입니다.",
+      "type": "리서치",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "미래에셋 ‘TIGER 코스닥150 ETF’, 순자산 2조원 돌파",
+          "url": "https://www.mk.co.kr/news/stock/11974368"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.78,
+      "updatedAt": "2026-02-28"
+    },
+    {
+      "id": "news:NH투자증권:https://www.mk.co.kr/news/stock/11974174",
+      "date": "2026-02-27",
+      "company": "NH투자증권",
+      "title": "두나무, 하나금융과 ‘기와체인’ 활용 해외송금 검증",
+      "oneLiner": "두나무와 하나금융이 기와체인을 활용한 해외송금 기술검증(PoC)을 완료했다는 제휴·기술검증 성과 공지입니다.",
+      "type": "제휴",
+      "areas": [
+        "AML"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "두나무, 하나금융과 ‘기와체인’ 활용 해외송금 검증",
+          "url": "https://www.mk.co.kr/news/stock/11974174"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-02-28"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202602270943200864",
+      "date": "2026-02-27",
+      "company": "한국투자증권",
+      "title": "한투운용 ACE 애플밸류체인액티브 ETF, 상장 이후 수익률 80% 돌파",
+      "oneLiner": "한투운용의 ACE 애플밸류체인액티브 ETF가 상장 이후 누적수익률 80%를 돌파했다는 펀드 성과 공지입니다.",
+      "type": "리서치",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투운용 ACE 애플밸류체인액티브 ETF, 상장 이후 수익률 80% 돌파",
+          "url": "https://www.fnnews.com/news/202602270943200864"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.72,
+      "updatedAt": "2026-02-28"
+    },
+    {
+      "id": "news:키움증권:https://www.fnnews.com/news/202602271343277784",
+      "date": "2026-02-27",
+      "company": "키움증권",
+      "title": "키움운용, KIWOOM ETF 순자산 6조원 돌파",
+      "oneLiner": "키움운용의 KIWOOM ETF 전체 순자산이 6조원을 돌파했다는 운용사 자산규모 확대 공지입니다.",
+      "type": "리서치",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "키움운용, KIWOOM ETF 순자산 6조원 돌파",
+          "url": "https://www.fnnews.com/news/202602271343277784"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.76,
+      "updatedAt": "2026-02-28"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202602271432564136",
+      "date": "2026-02-27",
+      "company": "한국투자증권",
+      "title": "한투證, KB국민카드 김치본드 1억3000만달러 단독 주관",
+      "oneLiner": "한국투자증권이 KB국민카드의 1억3000만달러 김치본드 발행을 단독 주관·인수 완료했다는 딜 완료 공지입니다.",
+      "type": "기타",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투證, KB국민카드 김치본드 1억3000만달러 단독 주관",
+          "url": "https://www.fnnews.com/news/202602271432564136"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.86,
+      "updatedAt": "2026-02-28"
+    },
+    {
+      "id": "news:토스증권:https://www.fnnews.com/news/202602271335335079",
+      "date": "2026-02-27",
+      "company": "토스증권",
+      "title": "“0원 계좌에 갑자기 200만원이”…토스증권, 전산 일시오류",
+      "oneLiner": "토스증권의 MTS·WTS에서 원화 주문 가능 금액이 실제와 다르게 표시되는 전산오류(약 31분)가 발생했고 이후 해소되었다는 보도입니다.",
+      "type": "시스템",
+      "areas": [
+        "트레이딩",
+        "상담"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "“0원 계좌에 갑자기 200만원이”…토스증권, 전산 일시오류",
+          "url": "https://www.fnnews.com/news/202602271335335079"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-02-28"
+    },
+    {
       "id": "a6d877123ec7acd90bfb5b4e9c272620ab641e5d",
       "date": "2026-02-26",
       "company": "삼성증권",
@@ -22,7 +185,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-02-27"
+      "updatedAt": "2026-02-28"
     },
     {
       "id": "news:NH투자증권:https://www.fnnews.com/news/202602261405580475",
@@ -69,7 +232,7 @@
       ],
       "tags": [],
       "confidence": 0.95,
-      "updatedAt": "2026-02-27"
+      "updatedAt": "2026-02-28"
     },
     {
       "id": "88565735bb80e1389552f489eb41065d56f5c849",
@@ -92,7 +255,7 @@
       ],
       "tags": [],
       "confidence": 0.95,
-      "updatedAt": "2026-02-27"
+      "updatedAt": "2026-02-28"
     },
     {
       "id": "8a6d6553a2ce88ac69f3e34af2ca9479f737b5e7",
@@ -115,7 +278,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-02-27"
+      "updatedAt": "2026-02-28"
     },
     {
       "id": "57e71ebc157c0e04e0bf2d55ec69421e634dac2a",
@@ -138,7 +301,7 @@
       ],
       "tags": [],
       "confidence": 0.95,
-      "updatedAt": "2026-02-27"
+      "updatedAt": "2026-02-28"
     },
     {
       "id": "cbf4c20e768006d130bae7cf3816a229311ddc77",
@@ -161,7 +324,7 @@
       ],
       "tags": [],
       "confidence": 0.95,
-      "updatedAt": "2026-02-27"
+      "updatedAt": "2026-02-28"
     },
     {
       "id": "news:KB증권:https://www.mk.co.kr/news/stock/11971838",
