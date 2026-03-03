@@ -58,27 +58,29 @@ function IndustryHome({ tab }) {
       <TodaysSummary data={today} tab={tab} showTitle={false} compact />
 
       <div className="period-tabs-section">
-        <div className="period-tabs">
-          <button
-            className={`period-tab ${activePeriodTab === 'weekly' ? 'active' : ''}`}
-            onClick={() => {
-              setActivePeriodTab('weekly');
-              setSelectedWeeklyTopic(null);
-            }}
-          >
-            주간
-          </button>
-          <button
-            className={`period-tab ${activePeriodTab === 'monthly' ? 'active' : ''}`}
-            onClick={() => {
-              setActivePeriodTab('monthly');
-              setSelectedMonthlyTopic(null);
-            }}
-          >
-            월간
-          </button>
+        <div className="period-tabs-header">
+          <div className="period-tabs" role="tablist" aria-label="기간 선택">
+            <button
+              className={`period-tab ${activePeriodTab === 'weekly' ? 'active' : ''}`}
+              onClick={() => {
+                setActivePeriodTab('weekly');
+                setSelectedWeeklyTopic(null);
+              }}
+            >
+              주간
+            </button>
+            <button
+              className={`period-tab ${activePeriodTab === 'monthly' ? 'active' : ''}`}
+              onClick={() => {
+                setActivePeriodTab('monthly');
+                setSelectedMonthlyTopic(null);
+              }}
+            >
+              월간
+            </button>
+          </div>
+          <div className="period-range-note">조회 기간 {activeRange}</div>
         </div>
-        <div className="period-range-note">조회 기간: {activeRange}</div>
 
         {activePeriodTab === 'weekly' && (
           <WeeklyTrends

@@ -248,14 +248,25 @@
   margin-top: 30px;
 }
 
+.period-tabs-header {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 8px;
+  margin-bottom: 16px;
+  padding: 8px;
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.45);
+  border: 1px solid rgba(15, 23, 42, 0.06);
+  backdrop-filter: blur(10px);
+}
+
 .period-tabs {
   display: flex;
   gap: 10px;
-  margin-bottom: 8px;
-  background: rgba(255, 255, 255, 0.6);
-  padding: 8px;
-  border-radius: 12px;
-  backdrop-filter: blur(10px);
+  width: 100%;
+  margin-bottom: 0;
+  padding: 0;
 }
 
 .period-tab {
@@ -288,9 +299,13 @@
 
 .period-range-note {
   font-size: 12px;
-  color: #6d7686;
-  margin-bottom: 14px;
-  padding: 0 4px;
+  font-weight: 500;
+  line-height: 1.4;
+  color: #7c8798;
+  margin: 0;
+  padding: 0;
+  white-space: normal;
+  text-align: right;
 }
 
 .tab-button:focus-visible,
@@ -376,7 +391,8 @@
 
   .period-range-note {
     font-size: 13px;
-    margin-bottom: 16px;
+    font-weight: 500;
+    line-height: 1.45;
   }
 }
 

@@ -320,7 +320,14 @@
   width: 18px;
   height: 18px;
   color: var(--mode-accent, #d94b7d);
-  opacity: 0.9;
+  opacity: 0.82;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.issue-card:hover .issue-more-icon,
+.issue-card:focus-visible .issue-more-icon {
+  opacity: 1;
+  transform: scale(1.06);
 }
 
 @media (max-width: 768px) {

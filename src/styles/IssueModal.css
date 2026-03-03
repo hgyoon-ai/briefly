@@ -82,8 +82,9 @@
 
 .issue-modal-link {
   display: flex;
-  gap: 6px;
-  align-items: baseline;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
   padding: 8px 10px;
   border-radius: 10px;
   background: rgba(255, 255, 255, 0.9);
@@ -94,6 +95,14 @@
 
 .issue-modal-link:hover {
   border-color: var(--mode-accent, #d94b7d);
+}
+
+.issue-modal-link-main {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 6px;
+  min-width: 0;
+  flex: 1;
 }
 
 .issue-modal-link:focus-visible {
@@ -113,6 +122,21 @@
 
 .issue-modal-link-title {
   font-size: 12px;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+.issue-modal-link-icon {
+  width: 14px;
+  height: 14px;
+  color: var(--mode-accent, #d94b7d);
+  opacity: 0.8;
+  flex: 0 0 auto;
+}
+
+.issue-modal-link:hover .issue-modal-link-icon,
+.issue-modal-link:focus-visible .issue-modal-link-icon {
+  opacity: 1;
 }
 
 .issue-modal-empty {
