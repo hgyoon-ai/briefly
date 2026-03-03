@@ -93,6 +93,11 @@
   flex: 0 0 auto;
 }
 
+.mode-hero-toggle:focus-visible {
+  outline: 3px solid var(--mode-accent, #0e7c86);
+  outline-offset: 2px;
+}
+
 .mode-hero-help {
   margin: 4px 0 0 0;
   padding-left: 18px;

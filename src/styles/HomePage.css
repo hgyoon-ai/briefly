@@ -251,7 +251,7 @@
 .period-tabs {
   display: flex;
   gap: 10px;
-  margin-bottom: 20px;
+  margin-bottom: 8px;
   background: rgba(255, 255, 255, 0.6);
   padding: 8px;
   border-radius: 12px;
@@ -284,6 +284,21 @@
   background: linear-gradient(135deg, var(--mode-accent, #d94b7d) 0%, var(--mode-accent-2, #f29a4b) 100%);
   color: white;
   border-color: var(--mode-accent, #d94b7d);
+}
+
+.period-range-note {
+  font-size: 12px;
+  color: #6d7686;
+  margin-bottom: 14px;
+  padding: 0 4px;
+}
+
+.tab-button:focus-visible,
+.mode-button:focus-visible,
+.period-tab:focus-visible,
+.admin-link:focus-visible {
+  outline: 3px solid var(--mode-accent, #d94b7d);
+  outline-offset: 2px;
 }
 
 .loading,
@@ -357,6 +372,11 @@
 
   .period-tab {
     font-size: 15px;
+  }
+
+  .period-range-note {
+    font-size: 13px;
+    margin-bottom: 16px;
   }
 }
 

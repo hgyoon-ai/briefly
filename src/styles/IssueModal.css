@@ -56,6 +56,11 @@
   justify-content: center;
 }
 
+.issue-modal-close:focus-visible {
+  outline: 3px solid var(--mode-accent, #d94b7d);
+  outline-offset: 2px;
+}
+
 .issue-modal-summary {
   font-size: 13px;
   color: #5f4b50;
@@ -89,6 +94,11 @@
 
 .issue-modal-link:hover {
   border-color: var(--mode-accent, #d94b7d);
+}
+
+.issue-modal-link:focus-visible {
+  outline: 3px solid var(--mode-accent, #d94b7d);
+  outline-offset: 2px;
 }
 
 .issue-modal-source {

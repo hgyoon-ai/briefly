@@ -51,8 +51,8 @@ function WeeklyTrends({ data, selectedTopic, onTopicSelect }) {
 
   return (
     <section className="weekly-trends">
-      {/* 주요 이슈 */}
-      <TopIssues issues={topIssues} onIssueSelect={setActiveIssue} />
+      {/* 주간 소식 */}
+      <TopIssues title="주간 소식" issues={topIssues} onIssueSelect={setActiveIssue} />
       <IssueModal issue={activeIssue} onClose={() => setActiveIssue(null)} />
 
       {/* Top 토픽과 일별 차트 함께 */}

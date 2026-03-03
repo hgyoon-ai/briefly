@@ -120,8 +120,8 @@ function MonthlyTrends({ data, selectedTopic, onTopicSelect }) {
         </div>
       )}
 
-      {/* Top Issues */}
-      <TopIssues issues={topIssues} onIssueSelect={setActiveIssue} />
+      {/* 월간 소식 */}
+      <TopIssues title="월간 소식" issues={topIssues} onIssueSelect={setActiveIssue} />
       <IssueModal issue={activeIssue} onClose={() => setActiveIssue(null)} />
 
       {/* 선택된 토픽의 점유율 비교 */}
