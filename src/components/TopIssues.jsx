@@ -1,6 +1,6 @@
 import React from 'react';
 
-function TopIssues({ title = '주요 이슈', issues, onIssueSelect }) {
+function TopIssues({ title = '주요 소식', issues, onIssueSelect }) {
   if (!issues || issues.length === 0) {
     return null;
   }
@@ -16,6 +16,12 @@ function TopIssues({ title = '주요 이슈', issues, onIssueSelect }) {
             className="issue-card"
             onClick={() => onIssueSelect && onIssueSelect(issue)}
           >
+            <span className="issue-more-icon" aria-hidden>
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <circle cx="11" cy="11" r="6" stroke="currentColor" strokeWidth="1.8"/>
+                <path d="M16 16L20 20" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round"/>
+              </svg>
+            </span>
             <div className="issue-rank">#{idx + 1}</div>
             <div className="issue-content">
               <div className="issue-title">
@@ -27,15 +33,10 @@ function TopIssues({ title = '주요 이슈', issues, onIssueSelect }) {
                 )}
               </div>
               <div className="issue-summary">{issue.summary}</div>
-              <div className="issue-meta">{issue.articleCount}개 관련 소식</div>
+              <div className="issue-meta-row">
+                <div className="issue-meta">{issue.articleCount}개 관련 소식</div>
+              </div>
             </div>
-            <span className="issue-link-icon" aria-hidden>
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M14 3h7v7" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
-                <path d="M10 14L21 3" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
-                <path d="M21 21H3V3" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
-              </svg>
-            </span>
           </button>
         ))}
       </div>

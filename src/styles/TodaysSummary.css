@@ -173,7 +173,7 @@
   display: block;
   background: white;
   border-radius: 12px;
-  padding: 16px 16px 48px 16px;
+  padding: 16px;
   box-shadow: 0 2px 8px rgba(15, 23, 42, 0.08);
   text-decoration: none;
   color: inherit;
@@ -184,15 +184,20 @@
   min-width: 0;
 }
 
-.news-card.has-link .card-title,
-.news-card.has-link .card-source {
-  padding-right: 28px;
+.news-card .card-title,
+.news-card .card-source {
+  padding-right: 34px;
 }
 
 .news-card:hover {
   transform: translateY(-2px);
   box-shadow: 0 4px 12px rgba(15, 23, 42, 0.12);
   border-color: var(--mode-accent, #d94b7d);
+}
+
+.news-card:focus-visible {
+  outline: 3px solid var(--mode-accent, #d94b7d);
+  outline-offset: 2px;
 }
 
 .card-source {
@@ -204,24 +209,16 @@
 
 .external-icon {
   position: absolute;
-  right: 12px;
+  right: 14px;
   top: 12px;
-  color: var(--mode-accent, #d94b7d);
-  opacity: 0.75;
   width: 16px;
   height: 16px;
-}
-
-.card-time-below {
-  font-size: 12px;
-  color: #999;
-  position: absolute;
-  right: 12px;
-  bottom: 12px;
+  color: var(--mode-accent, #d94b7d);
+  opacity: 0.75;
 }
 
 .card-title {
-  font-size: 15px;
+  font-size: 16px;
   font-weight: 700;
   color: #333;
   margin-bottom: 10px;
@@ -231,8 +228,8 @@
 }
 
 .card-summary {
-  font-size: 13px;
-  color: #666;
+  font-size: 14px;
+  color: #555;
   margin-bottom: 10px;
   padding: 10px;
   background: #f9f9f9;
@@ -243,7 +240,7 @@
 
 .summary-line {
   margin-bottom: 6px;
-  line-height: 1.3;
+  line-height: 1.45;
   overflow-wrap: anywhere;
   word-break: break-word;
 }
@@ -255,11 +252,13 @@
 .card-footer {
   border-top: 1px solid #eee;
   padding-top: 10px;
+  padding-bottom: 18px;
+  position: relative;
 }
 
 .card-why {
-  font-size: 12px;
-  color: #999;
+  font-size: 13px;
+  color: #7d8798;
   margin-bottom: 8px;
   font-style: italic;
 }
@@ -278,6 +277,15 @@
   border-radius: 12px;
   font-size: 11px;
   font-weight: 600;
+}
+
+.card-time-below {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  font-size: 12px;
+  font-weight: 600;
+  color: #8a93a3;
 }
 .recommendation-card {
   background: linear-gradient(135deg, var(--mode-accent, #d94b7d) 0%, var(--mode-accent-2, #f29a4b) 100%);

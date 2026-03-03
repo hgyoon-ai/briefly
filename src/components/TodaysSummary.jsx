@@ -38,14 +38,18 @@ function TodaysSummary({ data, tab = 'ai', showTitle = true, compact = false }) 
         </div>
       </div>
 
-      {/* 주요 뉴스 카드 */}
+      {/* 오늘 소식 카드 */}
       {hasCards && (
         <div className="news-cards-section">
-          <h3>주요 이슈</h3>
+          <h3>오늘의 소식</h3>
           <div className="news-cards">
             {filteredCards.map((card) => {
               const hasLink = Boolean(card.url);
               const CardTag = hasLink ? 'a' : 'div';
+              const publishedTime = new Date(card.publishedAt).toLocaleTimeString('ko-KR', {
+                hour: '2-digit',
+                minute: '2-digit'
+              });
 
               return (
                 <CardTag
@@ -66,12 +70,6 @@ function TodaysSummary({ data, tab = 'ai', showTitle = true, compact = false }) 
                     </span>
                   )}
                   <div className="card-title">{card.title}</div>
-                  <div className="card-time-below">
-                    {new Date(card.publishedAt).toLocaleTimeString('ko-KR', {
-                      hour: '2-digit',
-                      minute: '2-digit'
-                    })}
-                  </div>
                   <div className="card-summary">
                     {card.summary.map((line, idx) => (
                       <div key={idx} className="summary-line">• {line}</div>
@@ -84,6 +82,7 @@ function TodaysSummary({ data, tab = 'ai', showTitle = true, compact = false }) 
                         <span key={topic} className="topic-tag">{topic}</span>
                       ))}
                     </div>
+                    <div className="card-time-below">{publishedTime}</div>
                   </div>
                 </CardTag>
               );

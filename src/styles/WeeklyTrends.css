@@ -55,11 +55,6 @@
   margin-bottom: 24px;
 }
 
-/* Top 토픽 목록 */
-.all-topics-section {
-  margin-bottom: 24px;
-}
-
 .topics-grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -103,6 +98,11 @@
   transform: translateY(-2px);
   box-shadow: 0 4px 12px rgba(15, 23, 42, 0.12);
   border-color: var(--mode-accent, #d94b7d);
+}
+
+.topic-badge:focus-visible {
+  outline: 3px solid var(--mode-accent, #d94b7d);
+  outline-offset: 2px;
 }
 
 .topic-badge.active {
@@ -308,22 +308,24 @@
   border-color: var(--mode-accent, #d94b7d);
 }
 
-.issue-link-icon {
+.issue-card:focus-visible {
+  outline: 3px solid var(--mode-accent, #d94b7d);
+  outline-offset: 2px;
+}
+
+.issue-more-icon {
   position: absolute;
-  right: 14px;
-  top: 14px;
+  right: 12px;
+  top: 12px;
+  width: 18px;
+  height: 18px;
   color: var(--mode-accent, #d94b7d);
-  opacity: 0.7;
+  opacity: 0.9;
 }
 
 @media (max-width: 768px) {
   .issue-card {
-    padding-bottom: 32px;
-  }
-
-  .issue-link-icon {
-    top: auto;
-    bottom: 12px;
+    padding-bottom: 16px;
   }
 }
 
@@ -340,6 +342,7 @@
 
 .issue-content {
   flex: 1;
+  padding-right: 28px;
 }
 
 .issue-title {
@@ -382,9 +385,9 @@
 }
 
 .issue-summary {
-  font-size: 12px;
+  font-size: 13px;
   color: #666;
-  line-height: 1.4;
+  line-height: 1.5;
   margin-bottom: 6px;
   display: -webkit-box;
   -webkit-line-clamp: 2;
@@ -393,8 +396,15 @@
 }
 
 .issue-meta {
-  font-size: 11px;
+  font-size: 12px;
   color: #999;
+}
+
+.issue-meta-row {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 10px;
 }
 .daily-trend-section {
   background: white;
@@ -450,6 +460,12 @@
   color: var(--mode-accent, #d94b7d);
 }
 
+.close-button:focus-visible {
+  outline: 3px solid var(--mode-accent, #d94b7d);
+  outline-offset: 2px;
+  border-radius: 8px;
+}
+
 .trend-chart {
   display: flex;
   justify-content: space-between;
@@ -498,14 +514,6 @@
   transition: all 0.3s ease;
   cursor: pointer;
   box-shadow: 0 2px 8px rgba(15, 23, 42, 0.12);
-}
-
-.trend-count {
-  font-size: 13px;
-  font-weight: 600;
-  color: var(--mode-accent, #d94b7d);
-  margin-bottom: 4px;
-  order: 2;
 }
 
 .trend-bar:hover {
