@@ -2,6 +2,152 @@
   "month": "2026-03",
   "events": [
     {
+      "id": "news:한국투자증권:https://www.hankyung.com/article/202603036367i",
+      "date": "2026-03-03",
+      "company": "한국투자증권",
+      "title": "한국투자증권 MTS 개편…투자정보·배당투자 기능 강화",
+      "oneLiner": "한국투자증권이 MTS를 개편해 투자정보와 배당투자 기능을 강화했다고 보도했다.",
+      "type": "시스템",
+      "areas": [
+        "트레이딩",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "한국투자증권 MTS 개편…투자정보·배당투자 기능 강화",
+          "url": "https://www.hankyung.com/article/202603036367i"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-04"
+    },
+    {
+      "id": "news:NH투자증권:https://www.mk.co.kr/news/economy/11977799",
+      "date": "2026-03-03",
+      "company": "NH투자증권",
+      "title": "역대급 ‘빚투’에…5일부터 신용거래 일시중단 하는 NH투자증권",
+      "oneLiner": "NH투자증권이 신용공여 한도 소진으로 5일부터 신용거래를 일시 중단하기로 했다.",
+      "type": "규제",
+      "areas": [
+        "리스크",
+        "트레이딩",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "역대급 ‘빚투’에…5일부터 신용거래 일시중단 하는 NH투자증권",
+          "url": "https://www.mk.co.kr/news/economy/11977799"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-03-04"
+    },
+    {
+      "id": "news:신한투자증권:https://www.fnnews.com/news/202603030958261589",
+      "date": "2026-03-03",
+      "company": "신한투자증권",
+      "title": "신한운용, SOL 배당성향탑픽액티브 첫 월배당 지급",
+      "oneLiner": "신한자산운용의 'SOL 배당성향탑픽 액티브 ETF'가 첫 월배당을 지급한다고 공시했다(1주당 70원 수준).",
+      "type": "출시",
+      "areas": [
+        "WM",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "신한운용, SOL 배당성향탑픽액티브 첫 월배당 지급",
+          "url": "https://www.fnnews.com/news/202603030958261589"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-03-04"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202603031040097627",
+      "date": "2026-03-03",
+      "company": "한국투자증권",
+      "title": "신한투자증권, 발행어음 두 번째 상품 출시",
+      "oneLiner": "신한투자증권이 2회차 '신한프리미어 발행어음' 수시형·약정형 상품을 출시한다고 발표했다(최소가입 100만원, 금리 표기).",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "신한투자증권, 발행어음 두 번째 상품 출시",
+          "url": "https://www.fnnews.com/news/202603031040097627"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-04"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202603031313027776",
+      "date": "2026-03-03",
+      "company": "NH투자증권",
+      "title": "슈퍼리치 733명이 선택...\"'IB가 강한' 지점 전략 통했죠\" [증권가 슈퍼리치 지점]",
+      "oneLiner": "NH투자증권이 기존 지점들을 통합해 고액자산가 전담 '프리미어블루 삼성동센터'를 출범시키며 지점 전략을 변경했다.",
+      "type": "기타",
+      "areas": [
+        "WM",
+        "상담",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "슈퍼리치 733명이 선택...\"'IB가 강한' 지점 전략 통했죠\" [증권가 슈퍼리치 지점]",
+          "url": "https://www.fnnews.com/news/202603031313027776"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.88,
+      "updatedAt": "2026-03-04"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202603031809510428",
+      "date": "2026-03-03",
+      "company": "NH투자증권",
+      "title": "초고액자산가 733명이 선택… \"‘IB 강한 지점’ 전략 통했죠\" [증권가 슈퍼리치 지점]",
+      "oneLiner": "NH투자증권 '프리미어블루 삼성동센터'의 운영 성과와 초고액자산가 대상 전략이 통했다는 보도가 이어졌다.",
+      "type": "기타",
+      "areas": [
+        "WM",
+        "상담",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "초고액자산가 733명이 선택… \"‘IB 강한 지점’ 전략 통했죠\" [증권가 슈퍼리치 지점]",
+          "url": "https://www.fnnews.com/news/202603031809510428"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-03-04"
+    },
+    {
       "id": "news:한국투자증권:https://www.fnnews.com/news/202603021352383232",
       "date": "2026-03-02",
       "company": "한국투자증권",
