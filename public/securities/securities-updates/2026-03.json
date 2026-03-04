@@ -2,6 +2,124 @@
   "month": "2026-03",
   "events": [
     {
+      "id": "bfba794230939b34e43ccbccc51957c1d661a949",
+      "date": "2026-03-04",
+      "company": "NH투자증권",
+      "title": "감사보고서제출              ",
+      "oneLiner": "NH투자증권이 감사보고서를 제출하는 공식 공시가 등록되었음(재무·감사 관련 공시).",
+      "type": "규제",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "감사보고서제출              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260304801717"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-03-05"
+    },
+    {
+      "id": "c9136a1cf6f2362f44e5d120fd5633cce86abbad",
+      "date": "2026-03-04",
+      "company": "NH투자증권",
+      "title": "기업지배구조보고서공시(연차보고서)              ",
+      "oneLiner": "NH투자증권의 기업지배구조보고서(연차보고서) 공시가 등록되어 지배구조 관련 변화 또는 보고가 이루어짐.",
+      "type": "규제",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "기업지배구조보고서공시(연차보고서)              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260304801397"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-03-05"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.hankyung.com/article/2026030478041",
+      "date": "2026-03-04",
+      "company": "미래에셋증권",
+      "title": "미래에셋증권, 알고리즘으로 시장 상황 맞춰 포트폴리오 변경",
+      "oneLiner": "미래에셋증권이 알고리즘을 활용해 시장 상황에 맞춰 포트폴리오를 변경하는 전략을 적용한다고 보도됨(운용·전략 변화).",
+      "type": "리서치",
+      "areas": [
+        "리서치",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "미래에셋증권, 알고리즘으로 시장 상황 맞춰 포트폴리오 변경",
+          "url": "https://www.hankyung.com/article/2026030478041"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-03-05"
+    },
+    {
+      "id": "news:한국투자증권:https://www.hankyung.com/article/2026030477881",
+      "date": "2026-03-04",
+      "company": "한국투자증권",
+      "title": "한국투자증권, 매일·매주 원하는 만큼…연금 ETF 자동 투자",
+      "oneLiner": "한국투자증권이 매일·매주 원하는 만큼 투자하는 연금 ETF 자동투자 서비스를 제공한다고 발표함(신규 서비스 출시).",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "한국투자증권, 매일·매주 원하는 만큼…연금 ETF 자동 투자",
+          "url": "https://www.hankyung.com/article/2026030477881"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-05"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/economy/11978529",
+      "date": "2026-03-04",
+      "company": "한국투자증권",
+      "title": "“빚투 32조, 더 이상 안돼요”…증권사들, 신용거래 일시 중단",
+      "oneLiner": "일부 증권사들이 신용공여 한도 소진 영향으로 신용거래융자 신규 거래를 일시 중단하는 조치를 취했으며, 운영·리스크 관리상의 변화가 발생함.",
+      "type": "시스템",
+      "areas": [
+        "리스크",
+        "트레이딩",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“빚투 32조, 더 이상 안돼요”…증권사들, 신용거래 일시 중단",
+          "url": "https://www.mk.co.kr/news/economy/11978529"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-03-05"
+    },
+    {
       "id": "news:한국투자증권:https://www.hankyung.com/article/202603036367i",
       "date": "2026-03-03",
       "company": "한국투자증권",
@@ -146,6 +264,29 @@
       "tags": [],
       "confidence": 0.8,
       "updatedAt": "2026-03-04"
+    },
+    {
+      "id": "47f6039206f11c3bc07d0cd21bbb59c22d127ac0",
+      "date": "2026-03-03",
+      "company": "미래에셋증권",
+      "title": "미래에셋증권 iOS 앱 업데이트 v7.6.8",
+      "oneLiner": "미래에셋증권 iOS 앱 v7.6.8에서 유랑제어 모듈이 업데이트되고 음성인식 기능이 추가되어 제품 기능 변화가 발생함.",
+      "type": "출시",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "app_store",
+      "sources": [
+        {
+          "source": "App Store",
+          "title": "미래에셋증권 iOS 앱 업데이트 v7.6.8",
+          "url": "https://apps.apple.com/kr/app/%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B%EC%A6%9D%EA%B6%8C-m-stock/id1248716281?uo=4"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-05"
     },
     {
       "id": "news:한국투자증권:https://www.fnnews.com/news/202603021352383232",
