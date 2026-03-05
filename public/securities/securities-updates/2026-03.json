@@ -2,6 +2,148 @@
   "month": "2026-03",
   "events": [
     {
+      "id": "cf3b09d0107dda013238dc8bc2582561341b2b9d",
+      "date": "2026-03-05",
+      "company": "키움증권",
+      "title": "기업지배구조보고서공시(연차보고서)              ",
+      "oneLiner": "키움증권의 기업지배구조보고서(연차보고서) 공시로 기업 지배구조 관련 공식 문서가 제출되었다.",
+      "type": "규제",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "기업지배구조보고서공시(연차보고서)              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260305800994"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-03-06"
+    },
+    {
+      "id": "news:한국투자증권:https://www.hankyung.com/article/202603051523i",
+      "date": "2026-03-05",
+      "company": "한국투자증권",
+      "title": "한투증권, 피델리티와 협력 강화…리테일 상품 라인업 확대",
+      "oneLiner": "한국투자증권이 피델리티와 협력을 강화해 리테일 상품 라인업을 확대한다는 제휴 발표로 상품 유통 및 제휴 관계에 변화가 발생한다.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "한투증권, 피델리티와 협력 강화…리테일 상품 라인업 확대",
+          "url": "https://www.hankyung.com/article/202603051523i"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-06"
+    },
+    {
+      "id": "news:KB증권:https://www.mk.co.kr/news/stock/11979574",
+      "date": "2026-03-05",
+      "company": "KB증권",
+      "title": "KB증권, COMEX 은선물 ETN 4종 동시 상장",
+      "oneLiner": "KB증권이 COMEX 은 선물 가격을 기초로 한 ETN 4종을 신규 상장한다는 발표로 상품 라인업 확장에 해당한다.",
+      "type": "출시",
+      "areas": [
+        "트레이딩",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "KB증권, COMEX 은선물 ETN 4종 동시 상장",
+          "url": "https://www.mk.co.kr/news/stock/11979574"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.93,
+      "updatedAt": "2026-03-06"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202603041823268036",
+      "date": "2026-03-05",
+      "company": "미래에셋증권",
+      "title": "\"IPO 과정서 정보 조작\"...인니 금융당국, 미래에셋증권 사무실 압수수색",
+      "oneLiner": "인도네시아 금융당국이 IPO 과정의 정보조작 의혹과 관련해 미래에셋증권 인도네시아 사무실을 압수수색하는 등 규제·법적 리스크가 발생했다.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"IPO 과정서 정보 조작\"...인니 금융당국, 미래에셋증권 사무실 압수수색",
+          "url": "https://www.fnnews.com/news/202603041823268036"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.94,
+      "updatedAt": "2026-03-06"
+    },
+    {
+      "id": "news:메리츠증권:https://www.fnnews.com/news/202603050952331946",
+      "date": "2026-03-05",
+      "company": "메리츠증권",
+      "title": "메리츠증권, 미국채 커버드콜 및 풋라이트 ETN 2종 출시",
+      "oneLiner": "메리츠증권이 미국채 30년물을 기초자산으로 하는 커버드콜·풋라이트 전략의 ETN 2종을 상장해 신규 상품을 출시했다.",
+      "type": "출시",
+      "areas": [
+        "트레이딩",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "메리츠증권, 미국채 커버드콜 및 풋라이트 ETN 2종 출시",
+          "url": "https://www.fnnews.com/news/202603050952331946"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-03-06"
+    },
+    {
+      "id": "news:메리츠증권:https://www.fnnews.com/news/202603051812425141",
+      "date": "2026-03-05",
+      "company": "메리츠증권",
+      "title": "메리츠證, 미국채 커버드콜·풋라이트 ETN 2종 상장",
+      "oneLiner": "메리츠증권의 미국채 기반 커버드콜·풋라이트 ETN 2종 상장 관련 추가 보도로, 상품 출시 내용이 확인된다.",
+      "type": "출시",
+      "areas": [
+        "트레이딩",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "메리츠證, 미국채 커버드콜·풋라이트 ETN 2종 상장",
+          "url": "https://www.fnnews.com/news/202603051812425141"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-03-06"
+    },
+    {
       "id": "bfba794230939b34e43ccbccc51957c1d661a949",
       "date": "2026-03-04",
       "company": "NH투자증권",
@@ -22,7 +164,7 @@
       ],
       "tags": [],
       "confidence": 0.95,
-      "updatedAt": "2026-03-05"
+      "updatedAt": "2026-03-06"
     },
     {
       "id": "c9136a1cf6f2362f44e5d120fd5633cce86abbad",
@@ -45,7 +187,7 @@
       ],
       "tags": [],
       "confidence": 0.95,
-      "updatedAt": "2026-03-05"
+      "updatedAt": "2026-03-06"
     },
     {
       "id": "news:미래에셋증권:https://www.hankyung.com/article/2026030478041",
@@ -286,7 +428,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-03-05"
+      "updatedAt": "2026-03-06"
     },
     {
       "id": "news:한국투자증권:https://www.fnnews.com/news/202603021352383232",
