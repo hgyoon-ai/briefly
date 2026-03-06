@@ -2,6 +2,219 @@
   "month": "2026-03",
   "events": [
     {
+      "id": "news:한국투자증권:https://www.hankyung.com/article/2026030648301",
+      "date": "2026-03-06",
+      "company": "한국투자증권",
+      "title": "한투 MTS 수익률 표기 오류…일부 투자자, 주식 팔아 손실",
+      "oneLiner": "한국투자증권 MTS에서 수익률 표기 오류가 발생해 일부 투자자가 매도·손실을 본 사건으로 시스템 결함 및 고객 손해·상담 리스크가 수반됨.",
+      "type": "시스템",
+      "areas": [
+        "리스크",
+        "트레이딩",
+        "상담"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "한투 MTS 수익률 표기 오류…일부 투자자, 주식 팔아 손실",
+          "url": "https://www.hankyung.com/article/2026030648301"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-03-07"
+    },
+    {
+      "id": "news:삼성증권:https://www.hankyung.com/article/2026030644671",
+      "date": "2026-03-06",
+      "company": "삼성증권",
+      "title": "은 선물 곱버스 ETN…삼성증권, 신규 상장",
+      "oneLiner": "삼성증권이 은 선물을 기초로 한 곱버스(레버리지/인버스) ETN을 신규 상장해 투자상품 라인업을 확장함.",
+      "type": "출시",
+      "areas": [
+        "트레이딩",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "은 선물 곱버스 ETN…삼성증권, 신규 상장",
+          "url": "https://www.hankyung.com/article/2026030644671"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-07"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/11980796",
+      "date": "2026-03-06",
+      "company": "한국투자증권",
+      "title": "한국투자증권, 글로벌 자산운용사 피델리티와 파트너십 강화... 리테일 상품 라인업 확대",
+      "oneLiner": "한국투자증권이 글로벌 자산운용사 피델리티와 파트너십을 강화해 리테일 상품 라인업을 확대하기로 협력함 — 제휴에 따른 상품 소싱·유통 변화.",
+      "type": "제휴",
+      "areas": [
+        "WM",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한국투자증권, 글로벌 자산운용사 피델리티와 파트너십 강화... 리테일 상품 라인업 확대",
+          "url": "https://www.mk.co.kr/news/stock/11980796"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-07"
+    },
+    {
+      "id": "news:키움증권:https://www.mk.co.kr/news/stock/11980559",
+      "date": "2026-03-06",
+      "company": "키움증권",
+      "title": "“한화비전, 반도체장비 수주 본격화”…키움증권, 목표가 상향 [오늘 나온 보고서]",
+      "oneLiner": "키움증권이 한화비전에 대한 리서치에서 목표가를 상향(9만원→12만원)한 보고서를 발표함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“한화비전, 반도체장비 수주 본격화”…키움증권, 목표가 상향 [오늘 나온 보고서]",
+          "url": "https://www.mk.co.kr/news/stock/11980559"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-03-07"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202603061004375961",
+      "date": "2026-03-06",
+      "company": "하나증권",
+      "title": "하나證, ‘자문·일임 플랫폼’ 신규 오픈",
+      "oneLiner": "하나증권이 자문·일임 통합 플랫폼을 신규 오픈해 비대면 가입 간소화, 다국 통화 자동 환전, 통합 증거금 등 기능을 제공함 — 서비스 출시·운영 변화.",
+      "type": "출시",
+      "areas": [
+        "WM",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "하나證, ‘자문·일임 플랫폼’ 신규 오픈",
+          "url": "https://www.fnnews.com/news/202603061004375961"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-03-07"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202603061020585908",
+      "date": "2026-03-06",
+      "company": "한국투자증권",
+      "title": "\"영업익 4238% 급증\" 한화비전 목표가 '12만원'…S-Oil, 정제 마진 초강세에 '15만원' 상향 [株토피아]",
+      "oneLiner": "한국투자증권의 리포트들을 요약해 주요 종목의 목표가·투자의견 변경 등을 정리한 리서치 성격의 보도임.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"영업익 4238% 급증\" 한화비전 목표가 '12만원'…S-Oil, 정제 마진 초강세에 '15만원' 상향 [株토피아]",
+          "url": "https://www.fnnews.com/news/202603061020585908"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-03-07"
+    },
+    {
+      "id": "news:삼성증권:https://www.fnnews.com/news/202603061303027886",
+      "date": "2026-03-06",
+      "company": "삼성증권",
+      "title": "\"은값 조정에 대응\"…삼성증권, '삼성 인버스 2X 은 선물 ETN' 상장",
+      "oneLiner": "삼성증권이 은 선물 일간수익률을 역으로 2배 추종하는 '삼성 인버스 2X 은 선물 ETN'을 신규 상장해 ETN 상품 포트폴리오를 확장함.",
+      "type": "출시",
+      "areas": [
+        "트레이딩",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"은값 조정에 대응\"…삼성증권, '삼성 인버스 2X 은 선물 ETN' 상장",
+          "url": "https://www.fnnews.com/news/202603061303027886"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-07"
+    },
+    {
+      "id": "news:삼성증권:https://www.fnnews.com/news/202603061516123014",
+      "date": "2026-03-06",
+      "company": "삼성증권",
+      "title": "'탈팡' 수혜 네이버가 받을까...\"주가 매력 상승 중\"",
+      "oneLiner": "삼성증권 연구원이 네이버의 커머스 부문 고성장과 최근 주가 하락에 따른 밸류에이션 매력 상승을 근거로 기존 '매수' 의견과 목표주가 33만원을 유지했다. 탈팡(쿠팡 탈퇴) 수혜 가능성을 분석한 리서치 보도이다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "'탈팡' 수혜 네이버가 받을까...\"주가 매력 상승 중\"",
+          "url": "https://www.fnnews.com/news/202603061516123014"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-03-07"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202603061457454704",
+      "date": "2026-03-06",
+      "company": "미래에셋증권",
+      "title": "눈높이 높아지는 에이피알…증권가“어닝 서프라이즈 구간 진입”",
+      "oneLiner": "미래에셋증권 등 다수 증권사가 에이피알의 목표주가를 상향 조정하며 어닝 서프라이즈 구간 진입 가능성을 제시했다. 미국·일본 중심의 해외 성장에 유럽 확장과 온·오프라인 판매 호조가 더해져 실적 가시성이 높아졌다는 분석이다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "눈높이 높아지는 에이피알…증권가“어닝 서프라이즈 구간 진입”",
+          "url": "https://www.fnnews.com/news/202603061457454704"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-03-07"
+    },
+    {
       "id": "cf3b09d0107dda013238dc8bc2582561341b2b9d",
       "date": "2026-03-05",
       "company": "키움증권",
@@ -22,7 +235,7 @@
       ],
       "tags": [],
       "confidence": 0.92,
-      "updatedAt": "2026-03-06"
+      "updatedAt": "2026-03-07"
     },
     {
       "id": "news:한국투자증권:https://www.hankyung.com/article/202603051523i",
@@ -164,7 +377,7 @@
       ],
       "tags": [],
       "confidence": 0.95,
-      "updatedAt": "2026-03-06"
+      "updatedAt": "2026-03-07"
     },
     {
       "id": "c9136a1cf6f2362f44e5d120fd5633cce86abbad",
@@ -187,7 +400,7 @@
       ],
       "tags": [],
       "confidence": 0.95,
-      "updatedAt": "2026-03-06"
+      "updatedAt": "2026-03-07"
     },
     {
       "id": "news:미래에셋증권:https://www.hankyung.com/article/2026030478041",
