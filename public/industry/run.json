@@ -1,6 +1,6 @@
 {
-  "id": "2026-03-08T06:41:37.517292+09:00",
-  "ts": "2026-03-08T06:41:37.517292+09:00",
+  "id": "2026-03-09T06:43:32.390277+09:00",
+  "ts": "2026-03-09T06:43:32.390277+09:00",
   "timezone": "Asia/Seoul",
   "selectedTabs": [
     "ai",
@@ -10,21 +10,21 @@
     "realestate"
   ],
   "pipeline": {
-    "rawTotal": 240,
+    "rawTotal": 228,
     "rawClamped": 150,
     "rawByTabBeforeClamp": {
       "ai": 115,
       "finance": 44,
       "semiconductor": 44,
       "ev": 15,
-      "realestate": 22
+      "realestate": 10
     },
     "rawByTabAfterClamp": {
       "ai": 85,
       "finance": 15,
-      "semiconductor": 20,
+      "semiconductor": 25,
       "ev": 15,
-      "realestate": 15
+      "realestate": 10
     },
     "deduped": 148,
     "dedupedSelected": 148,
@@ -32,7 +32,7 @@
   },
   "sources": {
     "rss": {
-      "total": 210,
+      "total": 198,
       "bySource": {
         "OpenAI Blog": 15,
         "Google DeepMind Blog": 15,
@@ -49,9 +49,8 @@
         "매일경제(증권)": 15,
         "보안뉴스": 10,
         "벤처스퀘어": 15,
-        "한국경제(부동산)": 3,
-        "매일경제(부동산)": 9,
-        "헤럴드경제(부동산)": 6
+        "한국경제(부동산)": 2,
+        "매일경제(부동산)": 4
       }
     },
     "hf": {
@@ -84,7 +83,7 @@
     },
     "finance": {
       "daily": {
-        "raw": 2,
+        "raw": 11,
         "cards": 2
       },
       "weekly": {
@@ -98,25 +97,25 @@
     },
     "semiconductor": {
       "daily": {
-        "raw": 0,
-        "cards": 0
+        "raw": 1,
+        "cards": 1
       },
       "weekly": {
         "items": 8,
         "issues": 5
       },
       "monthly": {
-        "items": 61,
+        "items": 62,
         "issues": 3
       }
     },
     "ev": {
       "daily": {
-        "raw": 2,
+        "raw": 4,
         "cards": 2
       },
       "weekly": {
-        "items": 12,
+        "items": 13,
         "issues": 5
       },
       "monthly": {
@@ -126,15 +125,15 @@
     },
     "realestate": {
       "daily": {
-        "raw": 2,
-        "cards": 2
+        "raw": 5,
+        "cards": 3
       },
       "weekly": {
-        "items": 27,
+        "items": 25,
         "issues": 5
       },
       "monthly": {
-        "items": 67,
+        "items": 70,
         "issues": 5
       }
     }
