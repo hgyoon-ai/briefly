@@ -2,6 +2,52 @@
   "month": "2026-03",
   "events": [
     {
+      "id": "6fdc59d5b7517908dd2d2decfccaf63966ab8325",
+      "date": "2026-03-09",
+      "company": "NH투자증권",
+      "title": "[기재정정]증권관련집단소송의제기ㆍ소송허가신청              ",
+      "oneLiner": "증권관련 집단소송 제기 및 소송허가신청 관련 공시의 기재정정으로 법적·운영 리스크 관련 공시 변경이 발생함.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "[기재정정]증권관련집단소송의제기ㆍ소송허가신청              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260309800217"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-03-10"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202603090909030902",
+      "date": "2026-03-09",
+      "company": "NH투자증권",
+      "title": "울산GPS 가동·LNG 가격 상승 수혜…SK가스 목표가↑ -NH證",
+      "oneLiner": "NH투자증권 리서치가 SK가스에 대해 목표주가를 상향 조정하고 투자의견을 유지한 연구보고서를 발표함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "울산GPS 가동·LNG 가격 상승 수혜…SK가스 목표가↑ -NH證",
+          "url": "https://www.fnnews.com/news/202603090909030902"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-03-10"
+    },
+    {
       "id": "5290173f04e93df79311fc2c610f75dbdcf4c770",
       "date": "2026-03-07",
       "company": "한국투자증권",
@@ -24,7 +70,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-03-09"
+      "updatedAt": "2026-03-10"
     },
     {
       "id": "news:한국투자증권:https://www.hankyung.com/article/2026030648301",
