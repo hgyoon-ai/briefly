@@ -416,3 +416,17 @@
 {"id": "news:NH투자증권:https://www.fnnews.com/news/202603090909132967", "keep": false, "oneLiner": "NHN의 디자인 어워드 수상 기사로 증권사 제품·운영 변경과 연관성 낮음.", "type_raw": "기타", "areas_raw": ["기타"], "confidence": 0.6}
 {"id": "news:KB증권:https://www.fnnews.com/news/202603090907428343", "keep": false, "oneLiner": "SK브로드밴드와 블루핸즈의 디지털 사이니지 구축 기사로 증권사 관련한 제품·정책 변화가 아님.", "type_raw": "제휴", "areas_raw": ["기타"], "confidence": 0.5}
 {"id": "news:KB증권:https://www.fnnews.com/news/202603091819267726", "keep": false, "oneLiner": "동일 내용의 디지털 광고 서비스 구축 관련 기사로 증권사 제품·운영 변경사항과 무관함.", "type_raw": "제휴", "areas_raw": ["기타"], "confidence": 0.5}
+{"id": "d21a33c17a1b4942a73e46d11b632009e9ea4f5e", "keep": false, "oneLiner": "앱 안정성 개선만 명시된 iOS 업데이트로 기능·정책·운영상의 의미 있는 변경사항이 없음.", "type_raw": "시스템", "areas_raw": ["기타"], "confidence": 0.9}
+{"id": "50645a5ae2c508d70a11595ac3502848d50d708c", "keep": false, "oneLiner": "일반적 문구의 고객 불편 개선 안내만 있는 iOS 앱 업데이트로 구체적 변화 없음.", "type_raw": "시스템", "areas_raw": ["기타"], "confidence": 0.9}
+{"id": "6fdc59d5b7517908dd2d2decfccaf63966ab8325", "keep": true, "oneLiner": "증권관련 집단소송 제기 및 소송허가신청 관련 공시의 기재정정으로 법적·운영 리스크 관련 공시 변경이 발생함.", "type_raw": "규제", "areas_raw": ["리스크"], "confidence": 0.8}
+{"id": "news:NH투자증권:https://www.hankyung.com/article/2026031006896", "keep": true, "oneLiner": "NH투자증권이 유튜브 방송을 전면 개편해 투자정보 제공 시간대를 변경하고 고객 소통을 강화한다고 발표했다.", "type_raw": "출시", "areas_raw": ["리서치"], "confidence": 0.9}
+{"id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/11983953", "keep": false, "oneLiner": "특정 투자자들의 종목별 매매 동향을 보도한 기사로, 증권사 제품·정책·운영 변경을 다루지 않는다.", "type_raw": "기타", "areas_raw": ["기타"], "confidence": 0.9}
+{"id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/11983767", "keep": true, "oneLiner": "미래에셋자산운용의 'TIGER 미국배당다우존스 ETF'가 순자산 3조원을 돌파했다는 발표 기사이다.", "type_raw": "기타", "areas_raw": ["WM"], "confidence": 0.8}
+{"id": "news:한국투자증권:https://www.mk.co.kr/news/stock/11983766", "keep": true, "oneLiner": "한국투자신탁운용의 'ACE 원자력TOP10' ETF가 최근 6개월 수익률 1위를 기록했다는 성과 발표이다.", "type_raw": "리서치", "areas_raw": ["WM"], "confidence": 0.8}
+{"id": "news:한국투자증권:https://www.fnnews.com/news/202603100841595975", "keep": true, "oneLiner": "한투운용의 'ACE 원자력TOP10' ETF가 동종 원전 테마 ETF 중 6개월 수익률 1위를 기록했다는 보도이다.", "type_raw": "리서치", "areas_raw": ["WM"], "confidence": 0.8}
+{"id": "news:미래에셋증권:https://www.fnnews.com/news/202603100918524028", "keep": true, "oneLiner": "미래에셋자산운용은 'TIGER 미국배당다우존스 ETF'의 순자산이 3조원을 넘었다고 밝혔다.", "type_raw": "기타", "areas_raw": ["WM"], "confidence": 0.8}
+{"id": "news:NH투자증권:https://www.fnnews.com/news/202603101407278585", "keep": true, "oneLiner": "NH투자증권이 디지털자산관리 관련 유튜브 방송을 전면 개편하고 디지털케어 가입자 대상 실시간 세미나 등을 운영한다고 밝혔다.", "type_raw": "출시", "areas_raw": ["리서치"], "confidence": 0.9}
+{"id": "news:한국투자증권:https://www.fnnews.com/news/202603101434066829", "keep": true, "oneLiner": "신한투자증권이 신한 SOL증권 앱에 '절세관리' 서비스를 출시해 세금 조회·계산·신고 지원 등을 통합 제공한다고 발표했다.", "type_raw": "출시", "areas_raw": ["WM", "상담"], "confidence": 0.9}
+{"id": "news:한국투자증권:https://www.fnnews.com/news/202603101441341564", "keep": false, "oneLiner": "한투증권 사장의 청소년 도박 근절 캠페인 참여를 알리는 보도로, 서비스·정책 변화와는 무관하다.", "type_raw": "기타", "areas_raw": ["기타"], "confidence": 0.9}
+{"id": "news:미래에셋증권:https://www.fnnews.com/news/202603101813425686", "keep": true, "oneLiner": "미래에셋자산운용의 'TIGER 미국배당다우존스 ETF'가 순자산 3조원을 돌파했다는 중복 보도 기사이다.", "type_raw": "기타", "areas_raw": ["WM"], "confidence": 0.8}
+{"id": "news:신한투자증권:https://www.fnnews.com/news/202603101008248019", "keep": false, "oneLiner": "넷마블 신작 MMORPG 티저 공개 기사로, 증권사 제품·운영과 무관한 엔터테인먼트 보도이다.", "type_raw": "기타", "areas_raw": ["기타"], "confidence": 0.9}

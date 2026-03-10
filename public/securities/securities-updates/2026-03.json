@@ -2,6 +2,191 @@
   "month": "2026-03",
   "events": [
     {
+      "id": "news:NH투자증권:https://www.hankyung.com/article/2026031006896",
+      "date": "2026-03-10",
+      "company": "NH투자증권",
+      "title": "NH투자증권, 유튜브 방송 전면 개편 등 고객 소통 강화 나서",
+      "oneLiner": "NH투자증권이 유튜브 방송을 전면 개편해 투자정보 제공 시간대를 변경하고 고객 소통을 강화한다고 발표했다.",
+      "type": "출시",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "NH투자증권, 유튜브 방송 전면 개편 등 고객 소통 강화 나서",
+          "url": "https://www.hankyung.com/article/2026031006896"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-11"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/11983767",
+      "date": "2026-03-10",
+      "company": "미래에셋증권",
+      "title": "미래에셋 TIGER 미국배당다우존스 ETF, 순자산 3조 돌파",
+      "oneLiner": "미래에셋자산운용의 'TIGER 미국배당다우존스 ETF'가 순자산 3조원을 돌파했다는 발표 기사이다.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "미래에셋 TIGER 미국배당다우존스 ETF, 순자산 3조 돌파",
+          "url": "https://www.mk.co.kr/news/stock/11983767"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-03-11"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/11983766",
+      "date": "2026-03-10",
+      "company": "한국투자증권",
+      "title": "한투운용 ‘ACE 원자력TOP10’, 원전 테마ETF 수익률 1위",
+      "oneLiner": "한국투자신탁운용의 'ACE 원자력TOP10' ETF가 최근 6개월 수익률 1위를 기록했다는 성과 발표이다.",
+      "type": "리서치",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한투운용 ‘ACE 원자력TOP10’, 원전 테마ETF 수익률 1위",
+          "url": "https://www.mk.co.kr/news/stock/11983766"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-03-11"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202603100841595975",
+      "date": "2026-03-10",
+      "company": "한국투자증권",
+      "title": "한투운용 'ACE 원자력TOP10' 원자력ETF 중 6개월 수익률 1위",
+      "oneLiner": "한투운용의 'ACE 원자력TOP10' ETF가 동종 원전 테마 ETF 중 6개월 수익률 1위를 기록했다는 보도이다.",
+      "type": "리서치",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투운용 'ACE 원자력TOP10' 원자력ETF 중 6개월 수익률 1위",
+          "url": "https://www.fnnews.com/news/202603100841595975"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-03-11"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202603100918524028",
+      "date": "2026-03-10",
+      "company": "미래에셋증권",
+      "title": "변동성 장세 승자는(?)...TIGER 미국배당다우존스 ETF, 순자산 3조 돌파",
+      "oneLiner": "미래에셋자산운용은 'TIGER 미국배당다우존스 ETF'의 순자산이 3조원을 넘었다고 밝혔다.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "변동성 장세 승자는(?)...TIGER 미국배당다우존스 ETF, 순자산 3조 돌파",
+          "url": "https://www.fnnews.com/news/202603100918524028"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-03-11"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202603101407278585",
+      "date": "2026-03-10",
+      "company": "NH투자증권",
+      "title": "NH투자증권, 디지털자산관리 유튜브 방송 전면 개편",
+      "oneLiner": "NH투자증권이 디지털자산관리 관련 유튜브 방송을 전면 개편하고 디지털케어 가입자 대상 실시간 세미나 등을 운영한다고 밝혔다.",
+      "type": "출시",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "NH투자증권, 디지털자산관리 유튜브 방송 전면 개편",
+          "url": "https://www.fnnews.com/news/202603101407278585"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-11"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202603101434066829",
+      "date": "2026-03-10",
+      "company": "한국투자증권",
+      "title": "신한투자증권, '절세관리' 서비스 출시",
+      "oneLiner": "신한투자증권이 신한 SOL증권 앱에 '절세관리' 서비스를 출시해 세금 조회·계산·신고 지원 등을 통합 제공한다고 발표했다.",
+      "type": "출시",
+      "areas": [
+        "WM",
+        "상담"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "신한투자증권, '절세관리' 서비스 출시",
+          "url": "https://www.fnnews.com/news/202603101434066829"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-11"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202603101813425686",
+      "date": "2026-03-10",
+      "company": "미래에셋증권",
+      "title": "‘TIGER 미국배당다우존스 ETF’ 순자산 3조 돌파",
+      "oneLiner": "미래에셋자산운용의 'TIGER 미국배당다우존스 ETF'가 순자산 3조원을 돌파했다는 중복 보도 기사이다.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "‘TIGER 미국배당다우존스 ETF’ 순자산 3조 돌파",
+          "url": "https://www.fnnews.com/news/202603101813425686"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-03-11"
+    },
+    {
       "id": "6fdc59d5b7517908dd2d2decfccaf63966ab8325",
       "date": "2026-03-09",
       "company": "NH투자증권",
@@ -22,7 +207,7 @@
       ],
       "tags": [],
       "confidence": 0.8,
-      "updatedAt": "2026-03-10"
+      "updatedAt": "2026-03-11"
     },
     {
       "id": "news:NH투자증권:https://www.fnnews.com/news/202603090909030902",
