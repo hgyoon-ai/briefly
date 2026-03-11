@@ -2,6 +2,283 @@
   "month": "2026-03",
   "events": [
     {
+      "id": "3f18713a1a6aeb458e900bded67415c460ae8f24",
+      "date": "2026-03-11",
+      "company": "미래에셋증권",
+      "title": "미래에셋증권 iOS 앱 업데이트 v7.6.9",
+      "oneLiner": "미래에셋증권 iOS 앱에서 실시간 시세 관련 기능 업데이트를 진행한 릴리즈 노트로, 앱 기능 변경이 있어 데이터셋에 포함.",
+      "type": "시스템",
+      "areas": [
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "app_store",
+      "sources": [
+        {
+          "source": "App Store",
+          "title": "미래에셋증권 iOS 앱 업데이트 v7.6.9",
+          "url": "https://apps.apple.com/kr/app/%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B%EC%A6%9D%EA%B6%8C-m-stock/id1248716281?uo=4"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-12"
+    },
+    {
+      "id": "89e4f1435a42d33d9ab994837d781ff21745b983",
+      "date": "2026-03-11",
+      "company": "NH투자증권",
+      "title": "주주총회소집공고",
+      "oneLiner": "NH투자증권의 주주총회 소집 공고(DART 제출)로, 주주 의결 관련 일정·절차 변경이 있어 포함.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "주주총회소집공고",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260311004585"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-03-12"
+    },
+    {
+      "id": "8584955ad5275ea552a887ef5c1c7a5aa3eeca83",
+      "date": "2026-03-11",
+      "company": "NH투자증권",
+      "title": "주주총회소집결의              ",
+      "oneLiner": "NH투자증권이 주주총회 소집을 결의한 공시로, 회사 운영·의사결정에 관한 변경 내용이 포함되어 있음.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "주주총회소집결의              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260311802483"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-03-12"
+    },
+    {
+      "id": "3c02a2fca90931eadb9cba68c4734dee53021c21",
+      "date": "2026-03-11",
+      "company": "NH투자증권",
+      "title": "현금ㆍ현물배당결정              ",
+      "oneLiner": "NH투자증권의 현금·현물 배당 결정 공시로 배당 지급 관련 정책·결정이 포함되어 있어 유지.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "현금ㆍ현물배당결정              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260311802079"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-03-12"
+    },
+    {
+      "id": "b5d3af576da895f6698e83a354b3fa76be11df77",
+      "date": "2026-03-11",
+      "company": "NH투자증권",
+      "title": "현금ㆍ현물배당을위한주주명부폐쇄(기준일)결정              ",
+      "oneLiner": "배당을 위한 주주명부 폐쇄(기준일) 결정 공시로, 배당 권리확정 관련 운영 일정 변화가 포함됨.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "현금ㆍ현물배당을위한주주명부폐쇄(기준일)결정              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260311801984"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-03-12"
+    },
+    {
+      "id": "27ecfc58689c26ed67dceeb0f392037ddd3ec6be",
+      "date": "2026-03-11",
+      "company": "삼성증권",
+      "title": "감사보고서제출              ",
+      "oneLiner": "삼성증권의 감사보고서 제출 공시로 회계·감사 관련 공식 보고(규제·컴플라이언스 성격)가 있어 포함.",
+      "type": "규제",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "감사보고서제출              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260311801902"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-12"
+    },
+    {
+      "id": "news:하나증권:https://www.hankyung.com/article/2026031138106",
+      "date": "2026-03-11",
+      "company": "하나증권",
+      "title": "하나증권, WM 역량 고도화…프리미엄 자산관리 서비스 강화",
+      "oneLiner": "하나증권이 WM 역량을 고도화하고 프리미엄 자산관리 서비스를 강화한다는 기사로, 자산관리(서비스·전략) 변화에 해당.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "하나증권, WM 역량 고도화…프리미엄 자산관리 서비스 강화",
+          "url": "https://www.hankyung.com/article/2026031138106"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-03-12"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/11985426",
+      "date": "2026-03-11",
+      "company": "미래에셋증권",
+      "title": "NH증권, IMA 3호 사업자 눈앞",
+      "oneLiner": "기사에서는 NH증권의 IMA 사업자 인가 진행 상황을 보도하고 있어, 사업 인가(규제·영업) 관련 변화 가능성이 있어 포함.",
+      "type": "규제",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "NH증권, IMA 3호 사업자 눈앞",
+          "url": "https://www.mk.co.kr/news/stock/11985426"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-03-12"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202603111359559984",
+      "date": "2026-03-11",
+      "company": "미래에셋증권",
+      "title": "미래에셋증권, 개인투자용 국채 3월 청약 실시",
+      "oneLiner": "미래에셋증권이 개인투자용 국채 3월 청약을 실시한다고 공지했으며, 발행규모·종목·가산금리·청약기간 등 구체적 조건을 안내했습니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋증권, 개인투자용 국채 3월 청약 실시",
+          "url": "https://www.fnnews.com/news/202603111359559984"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-03-12"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202603111708069193",
+      "date": "2026-03-11",
+      "company": "미래에셋증권",
+      "title": "'IMA 3호 사업자' NH투자증권…증선위 통과",
+      "oneLiner": "증선위가 NH투자증권의 종투사(자기자본 8조원 이상) 지정 안건을 심의·의결해 IMA 사업자 등록 가능성이 높아졌다는 규제·영업권 관련 보도입니다.",
+      "type": "규제",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "'IMA 3호 사업자' NH투자증권…증선위 통과",
+          "url": "https://www.fnnews.com/news/202603111708069193"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-12"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202603111812559762",
+      "date": "2026-03-11",
+      "company": "미래에셋증권",
+      "title": "미래에셋證, 개인투자용 국채 17일까지 청약",
+      "oneLiner": "미래에셋증권의 개인투자용 국채 3월 청약(청약기간·종목·금리 안내) 보도입니다. 투자상품 판매 일정 변경으로 제품 공지에 해당합니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋證, 개인투자용 국채 17일까지 청약",
+          "url": "https://www.fnnews.com/news/202603111812559762"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-12"
+    },
+    {
+      "id": "news:토스증권:https://www.fnnews.com/news/202603110712590438",
+      "date": "2026-03-11",
+      "company": "토스증권",
+      "title": "“10만엔을 50만원에 환전” 토스뱅크, ‘엔화 반값 거래’ 오류 발생",
+      "oneLiner": "토스뱅크 앱에서 엔화 환율 표기 오류로 일부 환전이 비정상 가격으로 체결되는 시스템 오류가 발생했고 거래 제한과 원인 조사 진행 중입니다.",
+      "type": "시스템",
+      "areas": [
+        "리스크",
+        "상담"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "“10만엔을 50만원에 환전” 토스뱅크, ‘엔화 반값 거래’ 오류 발생",
+          "url": "https://www.fnnews.com/news/202603110712590438"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-03-12"
+    },
+    {
       "id": "news:NH투자증권:https://www.hankyung.com/article/2026031006896",
       "date": "2026-03-10",
       "company": "NH투자증권",
@@ -207,7 +484,7 @@
       ],
       "tags": [],
       "confidence": 0.8,
-      "updatedAt": "2026-03-11"
+      "updatedAt": "2026-03-12"
     },
     {
       "id": "news:NH투자증권:https://www.fnnews.com/news/202603090909030902",
