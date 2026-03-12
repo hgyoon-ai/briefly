@@ -2,6 +2,144 @@
   "month": "2026-03",
   "events": [
     {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/11986606",
+      "date": "2026-03-12",
+      "company": "한국투자증권",
+      "title": "방산기업 엠앤씨솔루션 … 인수 우협에 한투파PE",
+      "oneLiner": "한국투자파트너스(한국투자증권 계열 PE)가 방산부품사 엠앤씨솔루션 인수 우협을 확보했고 연내 딜 종결을 목표로 조율 중.",
+      "type": "제휴",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "방산기업 엠앤씨솔루션 … 인수 우협에 한투파PE",
+          "url": "https://www.mk.co.kr/news/stock/11986606"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-03-13"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202603120846443532",
+      "date": "2026-03-12",
+      "company": "KB증권",
+      "title": "삼성전자, 목표가 32만원 나왔다..\"내년까지 메모리 완판\"",
+      "oneLiner": "KB증권 리서치가 삼성전자 목표주가를 기존 24만원에서 32만원으로 상향·매수 유지하는 리포트를 발표함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "삼성전자, 목표가 32만원 나왔다..\"내년까지 메모리 완판\"",
+          "url": "https://www.fnnews.com/news/202603120846443532"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-03-13"
+    },
+    {
+      "id": "news:메리츠증권:https://www.fnnews.com/news/202603120911192479",
+      "date": "2026-03-12",
+      "company": "메리츠증권",
+      "title": "메리츠證 \"파인엠텍, 폴더블 시즌2 핵심 수혜주...매수“",
+      "oneLiner": "메리츠증권은 파인엠텍을 폴더블 시즌2 핵심 수혜주로 판단해 매수 의견과 목표주가를 제시했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "메리츠證 \"파인엠텍, 폴더블 시즌2 핵심 수혜주...매수“",
+          "url": "https://www.fnnews.com/news/202603120911192479"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-03-13"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202603121521477660",
+      "date": "2026-03-12",
+      "company": "KB증권",
+      "title": "KB운용, 밸류업 액티브·인덱스펀드 순자산 3000억원 돌파",
+      "oneLiner": "KB자산운용의 코리아 밸류업 기반 액티브·인덱스 펀드 합산 순자산이 3000억원을 돌파해 펀드 규모·운용 상황에 변화가 발생함.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "KB운용, 밸류업 액티브·인덱스펀드 순자산 3000억원 돌파",
+          "url": "https://www.fnnews.com/news/202603121521477660"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-13"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202603121832148827",
+      "date": "2026-03-12",
+      "company": "KB증권",
+      "title": "\"‘32만전자’ 간다… 내년까지 메모리 완판\"",
+      "oneLiner": "(중복) KB증권 리서치가 삼성전자 목표주가를 32만원으로 상향·매수 유지하는 보고서를 재확인·보도함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"‘32만전자’ 간다… 내년까지 메모리 완판\"",
+          "url": "https://www.fnnews.com/news/202603121832148827"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-13"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202603121832328296",
+      "date": "2026-03-12",
+      "company": "KB증권",
+      "title": "KB운용 코리아 밸류업 펀드 순자산 3000억 돌파",
+      "oneLiner": "(중복) KB자산운용의 코리아 밸류업 펀드 2종 합산 순자산 3000억원 돌파 보도(펀드 운용·규모 관련 변경 사항).",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "KB운용 코리아 밸류업 펀드 순자산 3000억 돌파",
+          "url": "https://www.fnnews.com/news/202603121832328296"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-13"
+    },
+    {
       "id": "3f18713a1a6aeb458e900bded67415c460ae8f24",
       "date": "2026-03-11",
       "company": "미래에셋증권",
@@ -22,7 +160,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-03-12"
+      "updatedAt": "2026-03-13"
     },
     {
       "id": "89e4f1435a42d33d9ab994837d781ff21745b983",
@@ -45,7 +183,7 @@
       ],
       "tags": [],
       "confidence": 0.95,
-      "updatedAt": "2026-03-12"
+      "updatedAt": "2026-03-13"
     },
     {
       "id": "8584955ad5275ea552a887ef5c1c7a5aa3eeca83",
@@ -68,7 +206,7 @@
       ],
       "tags": [],
       "confidence": 0.95,
-      "updatedAt": "2026-03-12"
+      "updatedAt": "2026-03-13"
     },
     {
       "id": "3c02a2fca90931eadb9cba68c4734dee53021c21",
@@ -91,7 +229,7 @@
       ],
       "tags": [],
       "confidence": 0.95,
-      "updatedAt": "2026-03-12"
+      "updatedAt": "2026-03-13"
     },
     {
       "id": "b5d3af576da895f6698e83a354b3fa76be11df77",
@@ -114,7 +252,7 @@
       ],
       "tags": [],
       "confidence": 0.95,
-      "updatedAt": "2026-03-12"
+      "updatedAt": "2026-03-13"
     },
     {
       "id": "27ecfc58689c26ed67dceeb0f392037ddd3ec6be",
@@ -137,7 +275,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-03-12"
+      "updatedAt": "2026-03-13"
     },
     {
       "id": "news:하나증권:https://www.hankyung.com/article/2026031138106",
