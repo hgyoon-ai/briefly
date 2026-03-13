@@ -1,6 +1,6 @@
 {
-  "id": "2026-03-13T06:53:41.883532+09:00",
-  "ts": "2026-03-13T06:53:41.883532+09:00",
+  "id": "2026-03-14T06:53:30.413598+09:00",
+  "ts": "2026-03-14T06:53:30.413598+09:00",
   "timezone": "Asia/Seoul",
   "selectedTabs": [
     "ai",
@@ -10,14 +10,14 @@
     "realestate"
   ],
   "pipeline": {
-    "rawTotal": 239,
+    "rawTotal": 240,
     "rawClamped": 150,
     "rawByTabBeforeClamp": {
       "ai": 115,
-      "finance": 42,
+      "finance": 41,
       "semiconductor": 44,
       "ev": 15,
-      "realestate": 23
+      "realestate": 25
     },
     "rawByTabAfterClamp": {
       "ai": 85,
@@ -26,13 +26,13 @@
       "ev": 15,
       "realestate": 15
     },
-    "deduped": 150,
-    "dedupedSelected": 150,
-    "enriched": 150
+    "deduped": 149,
+    "dedupedSelected": 149,
+    "enriched": 149
   },
   "sources": {
     "rss": {
-      "total": 209,
+      "total": 210,
       "bySource": {
         "OpenAI Blog": 15,
         "Google DeepMind Blog": 15,
@@ -45,12 +45,12 @@
         "EE Times": 10,
         "TechInsights": 10,
         "Electrek": 15,
-        "정책브리핑": 6,
+        "정책브리핑": 7,
         "매일경제(증권)": 15,
         "보안뉴스": 10,
         "벤처스퀘어": 15,
-        "한국경제(부동산)": 1,
-        "매일경제(부동산)": 8,
+        "한국경제(부동산)": 4,
+        "매일경제(부동산)": 5,
         "헤럴드경제(부동산)": 10
       }
     },
@@ -62,7 +62,7 @@
     }
   },
   "llm": {
-    "itemCalls": 150,
+    "itemCalls": 149,
     "highlightsCalls": 5,
     "issueCalls": 10
   },
@@ -70,43 +70,43 @@
   "tabs": {
     "ai": {
       "daily": {
-        "raw": 5,
-        "cards": 4
+        "raw": 2,
+        "cards": 2
       },
       "weekly": {
-        "items": 18,
+        "items": 20,
         "issues": 5
       },
       "monthly": {
-        "items": 74,
+        "items": 73,
         "issues": 5
       }
     },
     "finance": {
       "daily": {
         "raw": 15,
-        "cards": 4
+        "cards": 3
       },
       "weekly": {
-        "items": 19,
+        "items": 20,
         "issues": 5
       },
       "monthly": {
-        "items": 84,
+        "items": 85,
         "issues": 5
       }
     },
     "semiconductor": {
       "daily": {
-        "raw": 0,
-        "cards": 0
+        "raw": 3,
+        "cards": 2
       },
       "weekly": {
-        "items": 7,
-        "issues": 5
+        "items": 9,
+        "issues": 3
       },
       "monthly": {
-        "items": 56,
+        "items": 53,
         "issues": 5
       }
     },
@@ -130,11 +130,11 @@
         "cards": 5
       },
       "weekly": {
-        "items": 25,
+        "items": 28,
         "issues": 5
       },
       "monthly": {
-        "items": 82,
+        "items": 87,
         "issues": 5
       }
     }
