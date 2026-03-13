@@ -2,6 +2,98 @@
   "month": "2026-03",
   "events": [
     {
+      "id": "news:KB증권:https://www.hankyung.com/article/2026031380026",
+      "date": "2026-03-13",
+      "company": "KB증권",
+      "title": "\"SK하이닉스, AI 메모리 수요 급증 최대 수혜…목표가 170만원\"-KB",
+      "oneLiner": "KB증권의 리서치에서 SK하이닉스를 AI 메모리 수요 급증의 최대 수혜주로 보고 목표주가를 170만원으로 상향했다는 보도.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "\"SK하이닉스, AI 메모리 수요 급증 최대 수혜…목표가 170만원\"-KB",
+          "url": "https://www.hankyung.com/article/2026031380026"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-03-14"
+    },
+    {
+      "id": "news:KB증권:https://www.mk.co.kr/news/stock/11987104",
+      "date": "2026-03-13",
+      "company": "KB증권",
+      "title": "SK하이닉스, 목표주가 170만원까지 나왔다…“메모리 수요 수혜”",
+      "oneLiner": "KB증권은 SK하이닉스에 대해 AI 메모리 수요 증가로 수혜가 기대된다며 투자의견 매수와 목표주가를 170만원으로 상향한 리포트를 발표했다는 기사.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "SK하이닉스, 목표주가 170만원까지 나왔다…“메모리 수요 수혜”",
+          "url": "https://www.mk.co.kr/news/stock/11987104"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-14"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202603131303310587",
+      "date": "2026-03-13",
+      "company": "한국투자증권",
+      "title": "한국금융지주, 마이크로소프트와 ‘글로벌 스케일 업’ 워크숍…초기 창업 성장 지원",
+      "oneLiner": "한국금융지주(한투AC)와 마이크로소프트가 협력해 초기 AI·테크 스타트업 대상 글로벌 스케일업 워크숍을 개최한 제휴·지원 프로그램 보도.",
+      "type": "제휴",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한국금융지주, 마이크로소프트와 ‘글로벌 스케일 업’ 워크숍…초기 창업 성장 지원",
+          "url": "https://www.fnnews.com/news/202603131303310587"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-03-14"
+    },
+    {
+      "id": "news:토스증권:https://www.fnnews.com/news/202603131518207335",
+      "date": "2026-03-13",
+      "company": "토스증권",
+      "title": "토스증권, MTS 출시 5주년… 기념 브랜드 광고 공개",
+      "oneLiner": "토스증권이 MTS 출시 5주년을 맞아 브랜드 광고를 공개했으며, 광고에서 자사 인공지능 서비스가 투자정보를 분석·추천하는 기능을 강조했다는 보도.",
+      "type": "기타",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "토스증권, MTS 출시 5주년… 기념 브랜드 광고 공개",
+          "url": "https://www.fnnews.com/news/202603131518207335"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-03-14"
+    },
+    {
       "id": "news:KB증권:https://www.mk.co.kr/news/stock/11986037",
       "date": "2026-03-12",
       "company": "KB증권",

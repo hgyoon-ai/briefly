@@ -2,6 +2,98 @@
   "month": "2026-03",
   "events": [
     {
+      "id": "58daba73bc7b9d641ad7954f23fb61591684f73d",
+      "date": "2026-03-13",
+      "company": "키움증권",
+      "title": "감사보고서제출              ",
+      "oneLiner": "키움증권이 DART에 감사보고서를 제출한 공시로, 재무·컴플라이언스 관련 중요 공시로 판단된다.",
+      "type": "규제",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "감사보고서제출              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260313801992"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-14"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/11987439",
+      "date": "2026-03-13",
+      "company": "한국투자증권",
+      "title": "한투그룹, MS와 창업 기업 성장 지원",
+      "oneLiner": "한국투자금융그룹이 마이크로소프트와 창업기업 성장 지원 워크숍을 공동 개최하는 제휴 사례로, 스타트업 지원 프로그램·협업 확대에 해당한다.",
+      "type": "제휴",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한투그룹, MS와 창업 기업 성장 지원",
+          "url": "https://www.mk.co.kr/news/stock/11987439"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-03-14"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202603130931490198",
+      "date": "2026-03-13",
+      "company": "한국투자증권",
+      "title": "신한투자증권, 브릿지코드와 업무협약…승계형 M&A 자문 강화",
+      "oneLiner": "신한투자증권이 브릿지코드와 기업승계형 M&A 자문 강화를 위한 업무협약(MOU)을 체결했으며, 승계형 M&A 자문 서비스 확대라는 실질적 제휴·서비스 변화로 판단된다.",
+      "type": "제휴",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "신한투자증권, 브릿지코드와 업무협약…승계형 M&A 자문 강화",
+          "url": "https://www.fnnews.com/news/202603130931490198"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-03-14"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202603131513187347",
+      "date": "2026-03-13",
+      "company": "NH투자증권",
+      "title": "NH투자증권, 쿼타랩과 '주식보상제도 연계서비스' 강화",
+      "oneLiner": "NH투자증권이 쿼타랩과 협력해 '주식보상제도 연계서비스'를 강화한다고 발표했으며, 법·제도 변화(상법 개정)에 따른 서비스 확장으로 제품·운영 변화에 해당한다.",
+      "type": "제휴",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "NH투자증권, 쿼타랩과 '주식보상제도 연계서비스' 강화",
+          "url": "https://www.fnnews.com/news/202603131513187347"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-14"
+    },
+    {
       "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/11986606",
       "date": "2026-03-12",
       "company": "한국투자증권",
@@ -160,7 +252,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-03-13"
+      "updatedAt": "2026-03-14"
     },
     {
       "id": "89e4f1435a42d33d9ab994837d781ff21745b983",
@@ -183,7 +275,7 @@
       ],
       "tags": [],
       "confidence": 0.95,
-      "updatedAt": "2026-03-13"
+      "updatedAt": "2026-03-14"
     },
     {
       "id": "8584955ad5275ea552a887ef5c1c7a5aa3eeca83",
@@ -206,7 +298,7 @@
       ],
       "tags": [],
       "confidence": 0.95,
-      "updatedAt": "2026-03-13"
+      "updatedAt": "2026-03-14"
     },
     {
       "id": "3c02a2fca90931eadb9cba68c4734dee53021c21",
@@ -229,7 +321,7 @@
       ],
       "tags": [],
       "confidence": 0.95,
-      "updatedAt": "2026-03-13"
+      "updatedAt": "2026-03-14"
     },
     {
       "id": "b5d3af576da895f6698e83a354b3fa76be11df77",
@@ -252,7 +344,7 @@
       ],
       "tags": [],
       "confidence": 0.95,
-      "updatedAt": "2026-03-13"
+      "updatedAt": "2026-03-14"
     },
     {
       "id": "27ecfc58689c26ed67dceeb0f392037ddd3ec6be",
@@ -275,7 +367,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-03-13"
+      "updatedAt": "2026-03-14"
     },
     {
       "id": "news:하나증권:https://www.hankyung.com/article/2026031138106",
