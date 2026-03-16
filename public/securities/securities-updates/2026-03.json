@@ -2,6 +2,314 @@
   "month": "2026-03",
   "events": [
     {
+      "id": "79e62e8986b46610cd2d346d4546b43559504fda",
+      "date": "2026-03-16",
+      "company": "NH투자증권",
+      "title": "[기재정정]증권관련집단소송의제기ㆍ소송허가신청              ",
+      "oneLiner": "증권관련 집단소송 제기 및 소송허가신청과 관련한 기재정정 공시가 제출되었습니다. 회사의 법적 리스크 변동으로 분류됩니다.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "[기재정정]증권관련집단소송의제기ㆍ소송허가신청              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260316801501"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-17"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.hankyung.com/article/202603164254i",
+      "date": "2026-03-16",
+      "company": "미래에셋증권",
+      "title": "미래에셋운용, 바이오 앞세워 '코스닥 액티브 ETF' 합류",
+      "oneLiner": "미래에셋운용이 코스닥 바이오를 중심으로 한 액티브 ETF 시장에 합류하는 상품을 도입했습니다. 신상품 출시로 트레이딩 관련 서비스 확장으로 판단됩니다.",
+      "type": "출시",
+      "areas": [
+        "트레이딩",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "미래에셋운용, 바이오 앞세워 '코스닥 액티브 ETF' 합류",
+          "url": "https://www.hankyung.com/article/202603164254i"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-03-17"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.hankyung.com/article/2026031642196",
+      "date": "2026-03-16",
+      "company": "미래에셋증권",
+      "title": "미래에셋운용, '코스닥 바이오 액티브' ETF 출시…기술이전 집중",
+      "oneLiner": "미래에셋운용이 '코스닥 바이오 액티브' ETF를 출시했고 기술이전 관련 전략에 집중한다고 보도되었습니다. ETF 신상품 출시로 상품 라인업 변화가 발생했습니다.",
+      "type": "출시",
+      "areas": [
+        "트레이딩",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "미래에셋운용, '코스닥 바이오 액티브' ETF 출시…기술이전 집중",
+          "url": "https://www.hankyung.com/article/2026031642196"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-03-17"
+    },
+    {
+      "id": "news:한국투자증권:https://www.hankyung.com/article/2026031633666",
+      "date": "2026-03-16",
+      "company": "한국투자증권",
+      "title": "한국투자증권, 4차 IMA 상품 출시…3000억 규모",
+      "oneLiner": "한국투자증권이 4차 IMA(종합투자계좌) 상품을 출시하고 약 3000억원 규모 모집을 진행합니다. WM 상품 라인업 및 운용·모집 관련 운영 변화로 판단됩니다.",
+      "type": "출시",
+      "areas": [
+        "WM",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "한국투자증권, 4차 IMA 상품 출시…3000억 규모",
+          "url": "https://www.hankyung.com/article/2026031633666"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-03-17"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/11988955",
+      "date": "2026-03-16",
+      "company": "한국투자증권",
+      "title": "한국투자증권, 4차 IMA 상품 출시…24일까지 3천억 모집",
+      "oneLiner": "한국투자증권이 4차 IMA 상품('한국투자 IMA S4')을 출시하고 16~24일까지 모집한다고 발표했습니다. 신규 IMA 모집은 상품·운영 변화로 간주됩니다.",
+      "type": "출시",
+      "areas": [
+        "WM",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한국투자증권, 4차 IMA 상품 출시…24일까지 3천억 모집",
+          "url": "https://www.mk.co.kr/news/stock/11988955"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-03-17"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/11988822",
+      "date": "2026-03-16",
+      "company": "한국투자증권",
+      "title": "한국투자증권, 4차 IMA 상품 출시…투자 이벤트 진행",
+      "oneLiner": "한국투자증권이 2년 만기 폐쇄형 구조의 4차 IMA 상품을 출시하고 이벤트 등을 진행한다고 공지했습니다. 모집·상품 구조 변화로 관련 운영 영향이 있습니다.",
+      "type": "출시",
+      "areas": [
+        "WM",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한국투자증권, 4차 IMA 상품 출시…투자 이벤트 진행",
+          "url": "https://www.mk.co.kr/news/stock/11988822"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-03-17"
+    },
+    {
+      "id": "news:신한투자증권:https://www.fnnews.com/news/202603160842343992",
+      "date": "2026-03-16",
+      "company": "신한투자증권",
+      "title": "'SOL200타겟위클리커버드콜' 신규 상장...\"비과세 혜택에 월초 분배까지\"",
+      "oneLiner": "신한자산운용이 코스피200을 기초로 한 'SOL 200타겟위클리커버드콜' ETF를 신규 상장합니다. 구조적 상품 출시로 트레이딩·상품 제공에 변동이 생깁니다.",
+      "type": "출시",
+      "areas": [
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "'SOL200타겟위클리커버드콜' 신규 상장...\"비과세 혜택에 월초 분배까지\"",
+          "url": "https://www.fnnews.com/news/202603160842343992"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-03-17"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202603161023163634",
+      "date": "2026-03-16",
+      "company": "한국투자증권",
+      "title": "한투證, ‘IMA 4호 모집’…3000억 규모",
+      "oneLiner": "한국투자증권이 3000억원 규모의 4차 IMA 모집(한국투자 IMA S4)을 진행한다고 발표했습니다. IMA 상품 모집은 운용·상품 측면의 실질적 변화입니다.",
+      "type": "출시",
+      "areas": [
+        "WM",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투證, ‘IMA 4호 모집’…3000억 규모",
+          "url": "https://www.fnnews.com/news/202603161023163634"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-03-17"
+    },
+    {
+      "id": "news:토스증권:https://www.fnnews.com/news/202603161045262637",
+      "date": "2026-03-16",
+      "company": "토스증권",
+      "title": "토스증권, 최대 규모 경력직 채용…이달 31일까지 지원서 접수",
+      "oneLiner": "토스증권이 출범 이후 최대 규모인 세자릿수 규모의 경력직 채용을 진행한다고 공지했습니다. 인력·운영 측면의 변화로 분류됩니다.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "토스증권, 최대 규모 경력직 채용…이달 31일까지 지원서 접수",
+          "url": "https://www.fnnews.com/news/202603161045262637"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-03-17"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202603161203410815",
+      "date": "2026-03-16",
+      "company": "NH투자증권",
+      "title": "NH농협 코린도증권, 인니 당국서 증권인수 업무 정지 행정조치 받아",
+      "oneLiner": "NH농협 코린도증권(인니법)이 IPO 과정의 고객확인절차 미흡 등으로 인도네시아 감독당국에 의해 증권인수 업무 1년 정지 및 과태료 처분을 받았습니다. 규제·AML 및 리스크 관련 실질적 제재 사안입니다.",
+      "type": "규제",
+      "areas": [
+        "AML",
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "NH농협 코린도증권, 인니 당국서 증권인수 업무 정지 행정조치 받아",
+          "url": "https://www.fnnews.com/news/202603161203410815"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-17"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202603161313028389",
+      "date": "2026-03-16",
+      "company": "미래에셋증권",
+      "title": "인니 금융당국 \"미래에셋증권 허위 거래 사건 형사 수사 착수\"",
+      "oneLiner": "인도네시아 금융감독청(OJK)이 미래에셋증권 인도네시아 법인 관련 허위거래·IPO 정보 조작 의혹에 대해 형사수사에 착수했으며, 향후 벌금·영업정지 등 추가 제재 가능성을 시사함.",
+      "type": "규제",
+      "areas": [
+        "리스크",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "인니 금융당국 \"미래에셋증권 허위 거래 사건 형사 수사 착수\"",
+          "url": "https://www.fnnews.com/news/202603161313028389"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-17"
+    },
+    {
+      "id": "news:키움증권:https://www.fnnews.com/news/202603161502439729",
+      "date": "2026-03-16",
+      "company": "키움증권",
+      "title": "키움證, 발행어음 수신 잔고 1조 돌파",
+      "oneLiner": "키움증권의 발행어음 수신 잔고가 출시 약 3개월 만에 1조원을 돌파했으며, 회사는 상반기 2조원 목표 및 신규 모험자본 공급 계획을 제시함.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "키움證, 발행어음 수신 잔고 1조 돌파",
+          "url": "https://www.fnnews.com/news/202603161502439729"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-03-17"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202603161507427272",
+      "date": "2026-03-16",
+      "company": "미래에셋증권",
+      "title": "\"앗 뜨거워...\" 미래에셋·한화운용도 코스닥액티브 ETF 경쟁전 '가세'",
+      "oneLiner": "미래에셋운용이 코스닥 바이오텍 중심의 액티브 ETF('TIGER 기술이전바이오액티브')를 상장 예정으로 소개하며 코스닥 액티브 ETF 경쟁에 합류함.",
+      "type": "출시",
+      "areas": [
+        "트레이딩",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"앗 뜨거워...\" 미래에셋·한화운용도 코스닥액티브 ETF 경쟁전 '가세'",
+          "url": "https://www.fnnews.com/news/202603161507427272"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-03-17"
+    },
+    {
       "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/11988537",
       "date": "2026-03-15",
       "company": "미래에셋증권",
@@ -47,7 +355,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-03-16"
+      "updatedAt": "2026-03-17"
     },
     {
       "id": "58daba73bc7b9d641ad7954f23fb61591684f73d",
