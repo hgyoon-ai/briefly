@@ -2,6 +2,240 @@
   "month": "2026-03",
   "events": [
     {
+      "id": "news:한국투자증권:https://www.hankyung.com/article/2026031760211",
+      "date": "2026-03-17",
+      "company": "한국투자증권",
+      "title": "한국투자증권, MS와 '시너지 클럽' 워크숍…스타트업 해외지원 길 열어",
+      "oneLiner": "한국투자증권이 마이크로소프트와 '시너지 클럽' 워크숍을 통해 스타트업의 해외진출 지원 협력을 강화했습니다.",
+      "type": "제휴",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "한국투자증권, MS와 '시너지 클럽' 워크숍…스타트업 해외지원 길 열어",
+          "url": "https://www.hankyung.com/article/2026031760211"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-03-18"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/11990514",
+      "date": "2026-03-17",
+      "company": "한국투자증권",
+      "title": "한투증권, JP모건과 글로벌 사업 확장",
+      "oneLiner": "한국투자증권이 JP모건자산운용과 전략적 업무협약(MOU)을 체결해 글로벌 투자솔루션 및 인사이트 제공을 확대하기로 했습니다.",
+      "type": "제휴",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한투증권, JP모건과 글로벌 사업 확장",
+          "url": "https://www.mk.co.kr/news/stock/11990514"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-03-18"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/11990311",
+      "date": "2026-03-17",
+      "company": "한국투자증권",
+      "title": "한투증권, JP모건운용과 전략적 업무협약 맞손",
+      "oneLiner": "한국투자증권이 JP모건자산운용과 전략적 업무협약을 맺고 차별화된 투자솔루션과 글로벌 인사이트 제공을 확대하기로 했습니다.",
+      "type": "제휴",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한투증권, JP모건운용과 전략적 업무협약 맞손",
+          "url": "https://www.mk.co.kr/news/stock/11990311"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-03-18"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/11990306",
+      "date": "2026-03-17",
+      "company": "미래에셋증권",
+      "title": "“이젠 종목 싸움이다”…코스닥 액티브 ETF 시장 판 커졌다",
+      "oneLiner": "코스닥 기반 액티브 ETF 시장에 여러 자산운용사가 신규 상품을 내놓으며 경쟁이 확대되고 있다는 보도입니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“이젠 종목 싸움이다”…코스닥 액티브 ETF 시장 판 커졌다",
+          "url": "https://www.mk.co.kr/news/stock/11990306"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-03-18"
+    },
+    {
+      "id": "news:하나증권:https://www.mk.co.kr/news/stock/11989881",
+      "date": "2026-03-17",
+      "company": "하나증권",
+      "title": "“BNK금융, 1분기 순익 2620억 전망…CET1 비율 상승 기대”",
+      "oneLiner": "하나증권이 BNK금융에 대해 1분기 순익 전망과 CET1 비율 개선 기대를 담은 리서치 리포트를 발표했습니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“BNK금융, 1분기 순익 2620억 전망…CET1 비율 상승 기대”",
+          "url": "https://www.mk.co.kr/news/stock/11989881"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-03-18"
+    },
+    {
+      "id": "news:하나증권:https://www.mk.co.kr/news/stock/11989880",
+      "date": "2026-03-17",
+      "company": "하나증권",
+      "title": "하나증권 “두산, 서버 구조 변화…생산능력 확대로 중장기 성장 지속”",
+      "oneLiner": "하나증권은 두산의 서버 구조 변화와 생산능력 확대를 근거로 중장기 성장 전망을 제시하는 리서치 의견을 냈습니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "하나증권 “두산, 서버 구조 변화…생산능력 확대로 중장기 성장 지속”",
+          "url": "https://www.mk.co.kr/news/stock/11989880"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-03-18"
+    },
+    {
+      "id": "news:하나증권:https://www.mk.co.kr/news/stock/11989874",
+      "date": "2026-03-17",
+      "company": "하나증권",
+      "title": "“포스코인터내셔널, 에너지·배터리 소재 사업 쏠쏠”…주가 눈높이 ‘쑥’",
+      "oneLiner": "하나증권이 포스코인터내셔널의 에너지·배터리 소재 사업 개선을 근거로 목표주가를 상향한 리서치 리포트를 발행했습니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“포스코인터내셔널, 에너지·배터리 소재 사업 쏠쏠”…주가 눈높이 ‘쑥’",
+          "url": "https://www.mk.co.kr/news/stock/11989874"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-03-18"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202603171032494156",
+      "date": "2026-03-17",
+      "company": "NH투자증권",
+      "title": "NH-아문디운용, 휴머노이드 ETF 리밸런싱…현대차 최대 비중 15%",
+      "oneLiner": "NH-아문디자산운용이 'HANARO K휴머노이드테마TOP10' ETF의 정기 리밸런싱을 실시해 현대차를 신규 최대 비중으로 편입했습니다.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "NH-아문디운용, 휴머노이드 ETF 리밸런싱…현대차 최대 비중 15%",
+          "url": "https://www.fnnews.com/news/202603171032494156"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-18"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202603171422230195",
+      "date": "2026-03-17",
+      "company": "한국투자증권",
+      "title": "한투證, JP모간자산운용과 MOU…글로벌 상품·인사이트 독점 공급",
+      "oneLiner": "한국투자증권이 JP모간자산운용과 전략적 MOU를 체결해 JPMAM 글로벌 상품의 국내 판매 확대 및 MTS를 통한 개인고객 대상 독점 글로벌 인사이트 제공 등 협력을 추진한다. 리테일 행사 공동 개최와 현지법인 사업 확대 협조 등 광범위한 제휴가 포함된다.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지",
+        "WM",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투證, JP모간자산운용과 MOU…글로벌 상품·인사이트 독점 공급",
+          "url": "https://www.fnnews.com/news/202603171422230195"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-03-18"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202603171809277741",
+      "date": "2026-03-17",
+      "company": "한국투자증권",
+      "title": "한투證 \"글로벌 투자 솔루션 강화\"",
+      "oneLiner": "한국투자증권은 JP모간자산운용과의 MOU로 글로벌 투자 솔루션과 인사이트 제공을 강화하기로 했다. 양사는 투자전략 의견 교류와 리테일 대상 공동행사 등을 통해 파트너십을 확대할 계획이다.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지",
+        "WM",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투證 \"글로벌 투자 솔루션 강화\"",
+          "url": "https://www.fnnews.com/news/202603171809277741"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-03-18"
+    },
+    {
       "id": "79e62e8986b46610cd2d346d4546b43559504fda",
       "date": "2026-03-16",
       "company": "NH투자증권",
@@ -22,7 +256,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-03-17"
+      "updatedAt": "2026-03-18"
     },
     {
       "id": "news:미래에셋증권:https://www.hankyung.com/article/202603164254i",

@@ -2,6 +2,99 @@
   "month": "2026-03",
   "events": [
     {
+      "id": "news:NH투자증권:https://www.hankyung.com/article/2026031755706",
+      "date": "2026-03-17",
+      "company": "NH투자증권",
+      "title": "\"현대오토에버, 그룹사 피지컬 AI 전환의 핵심…목표가 55만원\"-NH",
+      "oneLiner": "NH투자증권이 현대오토에버를 그룹사의 '피지컬 AI 전환' 핵심으로 평가하며 목표주가를 제시한 리서치 리포트성 기사.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "\"현대오토에버, 그룹사 피지컬 AI 전환의 핵심…목표가 55만원\"-NH",
+          "url": "https://www.hankyung.com/article/2026031755706"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-18"
+    },
+    {
+      "id": "news:하나증권:https://www.mk.co.kr/news/stock/11989894",
+      "date": "2026-03-17",
+      "company": "하나증권",
+      "title": "AI수혜 제대로 누리는 두산…“목표가 133만→167만원으로 상향” [오늘 나온 보고서]",
+      "oneLiner": "하나증권이 AI 서버 구조 변화로 두산의 수혜를 전망하며 목표주가를 상향한 리서치(분석) 보고서 내용의 보도.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "AI수혜 제대로 누리는 두산…“목표가 133만→167만원으로 상향” [오늘 나온 보고서]",
+          "url": "https://www.mk.co.kr/news/stock/11989894"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-03-18"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202603170920125394",
+      "date": "2026-03-17",
+      "company": "하나증권",
+      "title": "두산, AI서버 수요폭발 목표가 133만→167만원…'BTS 컴백' 하이브, 주가 상승 기대 [株토피아]",
+      "oneLiner": "파이낸셜뉴스가 하나증권 보고서를 정리해 두산의 AI 서버 플랫폼 전환 수혜 및 목표가 상향을 보도한 기사.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "두산, AI서버 수요폭발 목표가 133만→167만원…'BTS 컴백' 하이브, 주가 상승 기대 [株토피아]",
+          "url": "https://www.fnnews.com/news/202603170920125394"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-03-18"
+    },
+    {
+      "id": "news:신한투자증권:https://www.fnnews.com/news/202603171041262062",
+      "date": "2026-03-17",
+      "company": "신한투자증권",
+      "title": "SOL AI반도체TOP2플러스 신규 상장...삼전·하이닉스 비중 최대",
+      "oneLiner": "신한자산운용이 AI 반도체 테마의 'SOL AI반도체TOP2플러스' ETF를 신규 상장했다는 보도(ETF 출시 소식).",
+      "type": "출시",
+      "areas": [
+        "트레이딩",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "SOL AI반도체TOP2플러스 신규 상장...삼전·하이닉스 비중 최대",
+          "url": "https://www.fnnews.com/news/202603171041262062"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-03-18"
+    },
+    {
       "id": "news:NH투자증권:https://www.fnnews.com/news/202603161516561893",
       "date": "2026-03-16",
       "company": "NH투자증권",
