@@ -2,6 +2,123 @@
   "month": "2026-03",
   "events": [
     {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202603180921285045",
+      "date": "2026-03-18",
+      "company": "한국투자증권",
+      "title": "신한투자증권, 상반기 ICT·정보보호 신입사원 공개채용",
+      "oneLiner": "신한투자증권이 ICT·정보보호 신입사원 공개채용을 실시하며 전형에 AI 역량 검사 및 코딩 테스트를 포함한다고 밝혔다.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "신한투자증권, 상반기 ICT·정보보호 신입사원 공개채용",
+          "url": "https://www.fnnews.com/news/202603180921285045"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-03-19"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202603180928183427",
+      "date": "2026-03-18",
+      "company": "하나증권",
+      "title": "하나證 \"서울평가정보, 디지털금융 신사업 진출에 주주가치 제고도 긍정적\"",
+      "oneLiner": "하나증권은 서울평가정보에 대해 AI 기반 평가모델 도입과 자동화를 통한 신사업 진출을 긍정적으로 평가하는 리포트를 냈다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "하나證 \"서울평가정보, 디지털금융 신사업 진출에 주주가치 제고도 긍정적\"",
+          "url": "https://www.fnnews.com/news/202603180928183427"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-03-19"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202603180956354318",
+      "date": "2026-03-18",
+      "company": "한국투자증권",
+      "title": "한투證, MTS에 AI 시황 서비스 도입…장전·장중·마감 구간별 제공",
+      "oneLiner": "한국투자증권이 MTS에 AI 기반 시황 서비스 '한 눈에 보는 AI 시황, 지금 시장은'을 이달 말 도입해 장전·장중·장마감 구간별 요약을 제공한다고 밝혔다.",
+      "type": "출시",
+      "areas": [
+        "리서치",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투證, MTS에 AI 시황 서비스 도입…장전·장중·마감 구간별 제공",
+          "url": "https://www.fnnews.com/news/202603180956354318"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-03-19"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202603181840002347",
+      "date": "2026-03-18",
+      "company": "한국투자증권",
+      "title": "한투證, 이달 말부터 MTS에 AI 시황 서비스 도입",
+      "oneLiner": "한국투자증권이 이달 말 MTS에 AI 기반 시황 서비스를 도입한다고 다시 보도되었으며, 투자자용 시장 요약 콘텐츠 제공을 예고했다.",
+      "type": "출시",
+      "areas": [
+        "리서치",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투證, 이달 말부터 MTS에 AI 시황 서비스 도입",
+          "url": "https://www.fnnews.com/news/202603181840002347"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-19"
+    },
+    {
+      "id": "news:신한투자증권:https://www.fnnews.com/news/202603181410304047",
+      "date": "2026-03-18",
+      "company": "신한투자증권",
+      "title": "'방한' AMD 리사 수, 업스테이지와 19일 회동",
+      "oneLiner": "AMD CEO 리사 수가 업스테이지와 비공개 회동을 갖고 AI 가속기(GPU) 기반 데이터센터 및 모델 학습·추론 환경 협력 가능성을 논의할 예정이라고 보도되었다.",
+      "type": "기타",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "'방한' AMD 리사 수, 업스테이지와 19일 회동",
+          "url": "https://www.fnnews.com/news/202603181410304047"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.65,
+      "updatedAt": "2026-03-19"
+    },
+    {
       "id": "news:NH투자증권:https://www.hankyung.com/article/2026031755706",
       "date": "2026-03-17",
       "company": "NH투자증권",
