@@ -1,6 +1,6 @@
 {
-  "id": "2026-03-22T06:44:53.297070+09:00",
-  "ts": "2026-03-22T06:44:53.297070+09:00",
+  "id": "2026-03-23T06:46:52.045943+09:00",
+  "ts": "2026-03-23T06:46:52.045943+09:00",
   "timezone": "Asia/Seoul",
   "selectedTabs": [
     "ai",
@@ -10,14 +10,14 @@
     "realestate"
   ],
   "pipeline": {
-    "rawTotal": 216,
+    "rawTotal": 215,
     "rawClamped": 150,
     "rawByTabBeforeClamp": {
       "ai": 100,
       "finance": 40,
       "semiconductor": 44,
       "ev": 15,
-      "realestate": 17
+      "realestate": 16
     },
     "rawByTabAfterClamp": {
       "ai": 70,
@@ -32,7 +32,7 @@
   },
   "sources": {
     "rss": {
-      "total": 186,
+      "total": 185,
       "bySource": {
         "OpenAI Blog": 15,
         "Google DeepMind Blog": 15,
@@ -48,9 +48,9 @@
         "보안뉴스": 10,
         "벤처스퀘어": 15,
         "정책브리핑": 2,
-        "한국경제(부동산)": 2,
+        "한국경제(부동산)": 4,
         "매일경제(부동산)": 6,
-        "헤럴드경제(부동산)": 7
+        "헤럴드경제(부동산)": 4
       }
     },
     "hf": {
@@ -73,8 +73,8 @@
         "cards": 0
       },
       "weekly": {
-        "items": 18,
-        "issues": 4
+        "items": 15,
+        "issues": 5
       },
       "monthly": {
         "items": 75,
@@ -83,8 +83,8 @@
     },
     "finance": {
       "daily": {
-        "raw": 1,
-        "cards": 1
+        "raw": 15,
+        "cards": 2
       },
       "weekly": {
         "items": 17,
@@ -97,11 +97,11 @@
     },
     "semiconductor": {
       "daily": {
-        "raw": 1,
-        "cards": 1
+        "raw": 0,
+        "cards": 0
       },
       "weekly": {
-        "items": 17,
+        "items": 14,
         "issues": 5
       },
       "monthly": {
@@ -111,7 +111,7 @@
     },
     "ev": {
       "daily": {
-        "raw": 4,
+        "raw": 5,
         "cards": 2
       },
       "weekly": {
@@ -125,15 +125,15 @@
     },
     "realestate": {
       "daily": {
-        "raw": 3,
-        "cards": 3
+        "raw": 13,
+        "cards": 5
       },
       "weekly": {
         "items": 28,
         "issues": 5
       },
       "monthly": {
-        "items": 121,
+        "items": 126,
         "issues": 5
       }
     }
