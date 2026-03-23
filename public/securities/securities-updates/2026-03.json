@@ -2,6 +2,245 @@
   "month": "2026-03",
   "events": [
     {
+      "id": "news:하나증권:https://www.hankyung.com/article/2026032396026",
+      "date": "2026-03-23",
+      "company": "하나증권",
+      "title": "하나증권, 재경부서 일반환전 업무 인가받아",
+      "oneLiner": "하나증권이 재경부서의 일반환전 업무 인가를 받아 환전 업무 운영 범위에 변화가 발생했으며, 영업·준법·운영 측면에서 영향이 예상됨.",
+      "type": "규제",
+      "areas": [
+        "WM",
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "하나증권, 재경부서 일반환전 업무 인가받아",
+          "url": "https://www.hankyung.com/article/2026032396026"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-24"
+    },
+    {
+      "id": "news:KB증권:https://www.mk.co.kr/news/stock/11995884",
+      "date": "2026-03-23",
+      "company": "KB증권",
+      "title": "KB증권 ‘공모주 모아보기’ 서비스…MTS 경쟁력 강화",
+      "oneLiner": "KB증권이 MTS에 공모주 투자정보 통합 서비스 '공모주 모아보기'를 신규 탑재해 MTS 기능과 브로커리지 서비스 경쟁력을 강화함.",
+      "type": "출시",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "KB증권 ‘공모주 모아보기’ 서비스…MTS 경쟁력 강화",
+          "url": "https://www.mk.co.kr/news/stock/11995884"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-03-24"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/11995265",
+      "date": "2026-03-23",
+      "company": "한국투자증권",
+      "title": "한국투자증권, RIA 출시 맞아 해외주식 매도·국내투자 고객 혜택 강화",
+      "oneLiner": "한국투자증권이 국내시장 복귀계좌(RIA)를 출시하고 해외주식 매도 후 국내투자 고객 대상 수수료·환전·경품 혜택을 제공하는 등 계좌 정책과 상품 구성이 변경됨.",
+      "type": "출시",
+      "areas": [
+        "브로커리지",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한국투자증권, RIA 출시 맞아 해외주식 매도·국내투자 고객 혜택 강화",
+          "url": "https://www.mk.co.kr/news/stock/11995265"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.96,
+      "updatedAt": "2026-03-24"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202603230923211071",
+      "date": "2026-03-23",
+      "company": "한국투자증권",
+      "title": "한투증권, RIA 출시…해외주식 양도세 최대 100% 공제",
+      "oneLiner": "한국투자증권이 RIA 계좌를 공식 출시하고 해외주식 매도 시 양도소득세 공제(50~100%) 혜택을 제공하는 등 세제·계좌 운영 관련 정책을 제시함.",
+      "type": "출시",
+      "areas": [
+        "브로커리지",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투증권, RIA 출시…해외주식 양도세 최대 100% 공제",
+          "url": "https://www.fnnews.com/news/202603230923211071"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.97,
+      "updatedAt": "2026-03-24"
+    },
+    {
+      "id": "news:메리츠증권:https://www.fnnews.com/news/202603230951585143",
+      "date": "2026-03-23",
+      "company": "메리츠증권",
+      "title": "메리츠증권, 'RIA 계좌' 개설 이용자 대상 골드바·현금이벤트 진행",
+      "oneLiner": "메리츠증권이 RIA 계좌 개설 이용자 대상 골드바·현금 등 대규모 이벤트를 진행해 신규 계좌 도입과 고객유치 정책을 병행하고 있음.",
+      "type": "출시",
+      "areas": [
+        "브로커리지",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "메리츠증권, 'RIA 계좌' 개설 이용자 대상 골드바·현금이벤트 진행",
+          "url": "https://www.fnnews.com/news/202603230951585143"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-24"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202603231350157646",
+      "date": "2026-03-23",
+      "company": "한국투자증권",
+      "title": "신한투자증권, RIA 출시…전용 잔고 메뉴로 편의성 강화",
+      "oneLiner": "신한투자증권이 국내시장 복귀계좌(RIA)를 출시해 앱에서 계좌개설부터 해외주식 입고·매도·국내주식 주문까지 전 과정을 제공한다.",
+      "type": "출시",
+      "areas": [
+        "브로커리지",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "신한투자증권, RIA 출시…전용 잔고 메뉴로 편의성 강화",
+          "url": "https://www.fnnews.com/news/202603231350157646"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-24"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202603231352597860",
+      "date": "2026-03-23",
+      "company": "하나증권",
+      "title": "하나證, ‘일반환전 업무’ 인가 획득…\"외화자산 통합관리 원스톱\"",
+      "oneLiner": "하나증권이 재정경제부로부터 일반환전 업무 인가를 획득해 개인 대상 일반환전 서비스를 제공할 수 있게 됐으며 외화자산 통합관리로 서비스 영역을 확대할 계획이다.",
+      "type": "규제",
+      "areas": [
+        "브로커리지",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "하나證, ‘일반환전 업무’ 인가 획득…\"외화자산 통합관리 원스톱\"",
+          "url": "https://www.fnnews.com/news/202603231352597860"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-03-24"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202603231435075067",
+      "date": "2026-03-23",
+      "company": "한국투자증권",
+      "title": "‘환율 1500원 시대’ 증권가 ‘국장 유턴’ RIA 유치 경쟁 나서",
+      "oneLiner": "국내시장 복귀계좌(RIA) 출시와 관련해 한국투자증권이 매도·환전·국내장기투자까지 지원하는 거래환경을 마련하고 'KO-RIA' 개설지원금 이벤트로 고객 유치에 나섰다.",
+      "type": "출시",
+      "areas": [
+        "브로커리지",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "‘환율 1500원 시대’ 증권가 ‘국장 유턴’ RIA 유치 경쟁 나서",
+          "url": "https://www.fnnews.com/news/202603231435075067"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-24"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202603231819192291",
+      "date": "2026-03-23",
+      "company": "한국투자증권",
+      "title": "증권가 ‘국장 유턴’ RIA 유치 경쟁 가열",
+      "oneLiner": "RIA 유치 경쟁이 가열되는 가운데 한국투자증권은 RIA 전 과정 지원과 이벤트·자동환전 수수료 혜택 등으로 고객 선점을 공략하고 있다.",
+      "type": "출시",
+      "areas": [
+        "브로커리지",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "증권가 ‘국장 유턴’ RIA 유치 경쟁 가열",
+          "url": "https://www.fnnews.com/news/202603231819192291"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-03-24"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202603231819171123",
+      "date": "2026-03-23",
+      "company": "하나증권",
+      "title": "하나증권, 일반환전 업무 인가 획득",
+      "oneLiner": "하나증권의 일반환전 업무 인가 획득 보도로 개인 고객 대상 외화 일반환전 서비스 제공이 가능해졌고 디지털자산 연계 서비스로 확장할 계획이다.",
+      "type": "규제",
+      "areas": [
+        "브로커리지",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "하나증권, 일반환전 업무 인가 획득",
+          "url": "https://www.fnnews.com/news/202603231819171123"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-03-24"
+    },
+    {
       "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/11994714",
       "date": "2026-03-22",
       "company": "한국투자증권",
