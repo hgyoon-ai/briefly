@@ -2,6 +2,53 @@
   "month": "2026-03",
   "events": [
     {
+      "id": "news:미래에셋증권:https://www.hankyung.com/article/202603242175i",
+      "date": "2026-03-24",
+      "company": "미래에셋증권",
+      "title": "미래에셋증권, AI 인재에 '파격 보상'…스톡옵션 인당 23억 대박",
+      "oneLiner": "미래에셋증권이 AI 인재에게 대규모 스톡옵션을 부여해 인재 확보에 나선 소식입니다. 인사·보상 전략으로서 AI 채용 강화 신호로 해석됩니다.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "미래에셋증권, AI 인재에 '파격 보상'…스톡옵션 인당 23억 대박",
+          "url": "https://www.hankyung.com/article/202603242175i"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-03-25"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202603240824038304",
+      "date": "2026-03-24",
+      "company": "하나증권",
+      "title": "하이브, 광화문 공연 후 과도한 급락...비중 확대 추천 -하나證",
+      "oneLiner": "하나증권 연구원이 하이브에 대해 광화문 공연 논란으로 인한 급락이 과도하다며 비중 확대(투자추천)를 제시했습니다. 리서치 보고서 형태의 투자 권고 내용입니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "하이브, 광화문 공연 후 과도한 급락...비중 확대 추천 -하나證",
+          "url": "https://www.fnnews.com/news/202603240824038304"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-03-25"
+    },
+    {
       "id": "news:하나증권:https://www.mk.co.kr/news/stock/11995802",
       "date": "2026-03-23",
       "company": "하나증권",

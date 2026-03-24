@@ -2,6 +2,307 @@
   "month": "2026-03",
   "events": [
     {
+      "id": "003ce95d995fd079a2fcf0809553c27c6fb6abd8",
+      "date": "2026-03-24",
+      "company": "키움증권",
+      "title": "사외이사의선임ㆍ해임또는중도퇴임에관한신고",
+      "oneLiner": "키움증권이 사외이사 선임·해임 또는 중도퇴임 관련 신고를 제출해 이사회 구성에 변동이 있음을 공시했다.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "사외이사의선임ㆍ해임또는중도퇴임에관한신고",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260324000714"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-25"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.hankyung.com/article/202603243074i",
+      "date": "2026-03-24",
+      "company": "미래에셋증권",
+      "title": "미래에셋, IMA 2호 출시…3년 만기 기준수익률 年 4%",
+      "oneLiner": "미래에셋증권이 IMA 2호 상품을 출시하고 3년 만기 기준수익률 연 4%를 제시했다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "미래에셋, IMA 2호 출시…3년 만기 기준수익률 年 4%",
+          "url": "https://www.hankyung.com/article/202603243074i"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-25"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/11997145",
+      "date": "2026-03-24",
+      "company": "미래에셋증권",
+      "title": "미래에셋 \"제2의 스페이스X 발굴해 투자\"",
+      "oneLiner": "미래에셋증권이 글로벌 혁신기업 발굴·투자 기조를 지속 확대하겠다는 의지를 밝히며 관련 투자전략을 공표했다.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "미래에셋 \"제2의 스페이스X 발굴해 투자\"",
+          "url": "https://www.mk.co.kr/news/stock/11997145"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-03-25"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/11997105",
+      "date": "2026-03-24",
+      "company": "한국투자증권",
+      "title": "\"발행어음, 모험자본 비중 35%로 늘릴것\"",
+      "oneLiner": "한국투자증권(기사 내용)에 따르면 발행어음 사업에서 모험자본 비중을 35%로 늘리는 방향으로 전략을 추진하겠다고 밝혔다.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "\"발행어음, 모험자본 비중 35%로 늘릴것\"",
+          "url": "https://www.mk.co.kr/news/stock/11997105"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-03-25"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/11996560",
+      "date": "2026-03-24",
+      "company": "한국투자증권",
+      "title": "“내 주식이 2부 리그로 떨어진다고?”...코스닥 1·2부제, 핵심은 퇴출 속도",
+      "oneLiner": "코스닥 1·2부제 도입 논의가 진행 중이며, 관리군·상장폐지 속도가 시장 신뢰에 미치는 영향에 대한 분석을 다뤘다(규제 변동 가능성).",
+      "type": "규제",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“내 주식이 2부 리그로 떨어진다고?”...코스닥 1·2부제, 핵심은 퇴출 속도",
+          "url": "https://www.mk.co.kr/news/stock/11996560"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-03-25"
+    },
+    {
+      "id": "news:키움증권:https://www.fnnews.com/news/202603240941037349",
+      "date": "2026-03-24",
+      "company": "키움증권",
+      "title": "키움, 해외주식 양도세 최대 100% 감면 ‘RIA’…5월까지 개설 이벤트",
+      "oneLiner": "키움증권이 국내시장 복귀계좌(RIA)를 출시하고, 조건 충족 시 해외주식 양도소득세 감면 및 개설 이벤트를 제공한다고 발표했다.",
+      "type": "출시",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "키움, 해외주식 양도세 최대 100% 감면 ‘RIA’…5월까지 개설 이벤트",
+          "url": "https://www.fnnews.com/news/202603240941037349"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-25"
+    },
+    {
+      "id": "news:토스증권:https://www.fnnews.com/news/202603241204544752",
+      "date": "2026-03-24",
+      "company": "토스증권",
+      "title": "토스증권, 국내주식 복귀계좌 RIA 출시",
+      "oneLiner": "토스증권이 국내주식 복귀계좌(RIA)를 출시하고 예상 절세 혜택 조회 기능과 수수료·환율 우대 등을 제공한다고 밝혔다.",
+      "type": "출시",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "토스증권, 국내주식 복귀계좌 RIA 출시",
+          "url": "https://www.fnnews.com/news/202603241204544752"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-25"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202603241324125736",
+      "date": "2026-03-24",
+      "company": "미래에셋증권",
+      "title": "미래에셋증권, 김미섭·허선호 사내이사 재선임...주주환원 박차",
+      "oneLiner": "미래에셋증권이 정기주주총회에서 사내·사외이사 재선임, 정관개정, 재무제표 및 이익배당안을 승인하는 등 주요 지배구조 및 배당 관련 결정을 확정했다.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋증권, 김미섭·허선호 사내이사 재선임...주주환원 박차",
+          "url": "https://www.fnnews.com/news/202603241324125736"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-25"
+    },
+    {
+      "id": "news:키움증권:https://www.fnnews.com/news/202603241346031098",
+      "date": "2026-03-24",
+      "company": "키움증권",
+      "title": "키움證 \"디케이티, 로봇용 충전 모듈사업 부분 성과 기대…저평가 국면\"",
+      "oneLiner": "키움증권 리서치가 디케이티에 대해 IT OLED 및 로보틱스(로봇용 충전 모듈) 사업의 성장 가능성을 긍정적으로 평가하는 보고서를 발표했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "키움證 \"디케이티, 로봇용 충전 모듈사업 부분 성과 기대…저평가 국면\"",
+          "url": "https://www.fnnews.com/news/202603241346031098"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-03-25"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202603241357458599",
+      "date": "2026-03-24",
+      "company": "하나증권",
+      "title": "하나증권, '국내주식복귀(RIA) 계좌' 출시",
+      "oneLiner": "하나증권이 국내주식복귀(RIA) 계좌를 출시해 요건 충족 시 양도소득세 공제 혜택을 제공한다고 밝혔다.",
+      "type": "출시",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "하나증권, '국내주식복귀(RIA) 계좌' 출시",
+          "url": "https://www.fnnews.com/news/202603241357458599"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-25"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202603241649537590",
+      "date": "2026-03-24",
+      "company": "미래에셋증권",
+      "title": "미래에셋증권, IMA 2호 출시..기업금융·모험자본 투자 확대",
+      "oneLiner": "미래에셋증권이 기업금융·모험자본 투자 비중을 확대한 폐쇄형 IMA 2호 상품을 출시했다. 증권사가 직접 운용하고 성과에 따라 수익을 배분하는 구조로 MTS와 영업점에서 판매된다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋증권, IMA 2호 출시..기업금융·모험자본 투자 확대",
+          "url": "https://www.fnnews.com/news/202603241649537590"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-03-25"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202603241808162581",
+      "date": "2026-03-24",
+      "company": "미래에셋증권",
+      "title": "미래에셋증권, 김미섭·허선호 사내이사 재선임",
+      "oneLiner": "미래에셋증권이 정기주주총회에서 김미섭·허선호 등 사내이사 재선임과 사외이사 선임, 재무제표·이익배당 승인 등 주요 의안을 확정했다.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋증권, 김미섭·허선호 사내이사 재선임",
+          "url": "https://www.fnnews.com/news/202603241808162581"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-25"
+    },
+    {
+      "id": "news:키움증권:https://www.fnnews.com/news/202603241926118880",
+      "date": "2026-03-24",
+      "company": "키움증권",
+      "title": "키움證, 해외주식 환율 변동 위험 차단 상품 선봬",
+      "oneLiner": "키움증권이 개인전문투자자 대상 해외주식 환헷지 상품을 출시해 보유 해외주식의 평가금액 일부를 계약환율로 확정하는 방식으로 환율 변동 리스크를 완화할 수 있게 했다.",
+      "type": "출시",
+      "areas": [
+        "리스크",
+        "트레이딩",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "키움證, 해외주식 환율 변동 위험 차단 상품 선봬",
+          "url": "https://www.fnnews.com/news/202603241926118880"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-03-25"
+    },
+    {
       "id": "news:하나증권:https://www.hankyung.com/article/2026032396026",
       "date": "2026-03-23",
       "company": "하나증권",
