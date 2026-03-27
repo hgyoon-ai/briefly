@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026-03-28T07:24:52.976941+09:00",
+    "ts": "2026-03-28T07:24:52.976941+09:00",
+    "timezone": "Asia/Seoul",
+    "sources": {
+      "hn": {
+        "items": 14
+      },
+      "github_search": {
+        "items": 60,
+        "since": "2026-03-21",
+        "minStars": 50
+      }
+    },
+    "filters": {},
+    "output": {
+      "clusters": 20,
+      "new": 16
+    },
+    "errors": []
+  },
+  {
     "id": "2026-03-27T07:23:20.317271+09:00",
     "ts": "2026-03-27T07:23:20.317271+09:00",
     "timezone": "Asia/Seoul",
@@ -122,27 +143,6 @@
     "output": {
       "clusters": 20,
       "new": 16
-    },
-    "errors": []
-  },
-  {
-    "id": "2026-03-21T07:27:42.053428+09:00",
-    "ts": "2026-03-21T07:27:42.053428+09:00",
-    "timezone": "Asia/Seoul",
-    "sources": {
-      "hn": {
-        "items": 15
-      },
-      "github_search": {
-        "items": 60,
-        "since": "2026-03-14",
-        "minStars": 50
-      }
-    },
-    "filters": {},
-    "output": {
-      "clusters": 20,
-      "new": 15
     },
     "errors": []
   }
