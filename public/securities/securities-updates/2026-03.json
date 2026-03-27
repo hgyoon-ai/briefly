@@ -2,6 +2,260 @@
   "month": "2026-03",
   "events": [
     {
+      "id": "72a5006129c7f9938dff99933c03d3b27daa1d83",
+      "date": "2026-03-28",
+      "company": "미래에셋증권",
+      "title": "미래에셋증권 iOS 앱 업데이트 v7.7.3",
+      "oneLiner": "앱 크래시 방지를 위해 보호코드를 적용해 안정성·보안 조치를 도입했습니다. 사용자 인증/안정성 관련 변경으로 서비스 영향이 있을 수 있습니다.",
+      "type": "시스템",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "app_store",
+      "sources": [
+        {
+          "source": "App Store",
+          "title": "미래에셋증권 iOS 앱 업데이트 v7.7.3",
+          "url": "https://apps.apple.com/kr/app/%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B%EC%A6%9D%EA%B6%8C-m-stock/id1248716281?uo=4"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-28"
+    },
+    {
+      "id": "669cdf606e141a8bb792d69ba4250e0a0a1c12d5",
+      "date": "2026-03-27",
+      "company": "삼성증권",
+      "title": "삼성증권 iOS 앱 업데이트 v3.1.1",
+      "oneLiner": "Apple 가이드라인 준수 및 시스템 최적화 작업을 진행했으며, 향후 오픈 예정인 테마 변경 기능(블랙/화이트/자동)을 도입 예정이라고 밝혔습니다. 앱 기능·UI 변경 관련 공지로 제품 로드맵에 해당합니다.",
+      "type": "시스템",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "app_store",
+      "sources": [
+        {
+          "source": "App Store",
+          "title": "삼성증권 iOS 앱 업데이트 v3.1.1",
+          "url": "https://apps.apple.com/kr/app/%EC%82%BC%EC%84%B1%EC%A6%9D%EA%B6%8C-mpop/id1150231646?uo=4"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-03-28"
+    },
+    {
+      "id": "c4588950cc32f387f073144b270c46d50ed32229",
+      "date": "2026-03-27",
+      "company": "한국투자증권",
+      "title": "사외이사의선임ㆍ해임또는중도퇴임에관한신고",
+      "oneLiner": "사외이사 선임·해임 또는 중도퇴임에 관한 신고 공시로 임원 구성 변경이 보고되었습니다. 거버넌스·운영 측면의 중요 공시입니다.",
+      "type": "규제",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "사외이사의선임ㆍ해임또는중도퇴임에관한신고",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260327000891"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-28"
+    },
+    {
+      "id": "4919e42d4df50db1fcbd2999004f64417620ea78",
+      "date": "2026-03-27",
+      "company": "NH투자증권",
+      "title": "주주명부폐쇄기간또는기준일설정              ",
+      "oneLiner": "주주명부 폐쇄기간 또는 기준일 설정 공시(주주 권리확정 관련)가 제출되었습니다. 배당·의결권 등 주주권 행사 일정에 영향이 있습니다.",
+      "type": "규제",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "주주명부폐쇄기간또는기준일설정              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260327802918"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-28"
+    },
+    {
+      "id": "79ca1205468d987a0bd8da5d49430bcf18d361ca",
+      "date": "2026-03-27",
+      "company": "NH투자증권",
+      "title": "기업가치제고계획(자율공시)              ",
+      "oneLiner": "기업가치 제고 계획에 대한 자율공시가 이루어졌습니다. 경영·주주가치 제고 관련 정책 변화로 해석됩니다.",
+      "type": "규제",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "기업가치제고계획(자율공시)              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260327800367"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-28"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.hankyung.com/article/202603272121i",
+      "date": "2026-03-27",
+      "company": "미래에셋증권",
+      "title": "미래에셋증권 RIA 흥행…출시 나흘 만에 760억 유입",
+      "oneLiner": "RIA 서비스 출시 후 나흘 만에 760억 원이 유입되는 등 RIA 흥행을 기록했습니다. 상품·운영 성과에 관한 실질적 변화입니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "미래에셋증권 RIA 흥행…출시 나흘 만에 760억 유입",
+          "url": "https://www.hankyung.com/article/202603272121i"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-03-28"
+    },
+    {
+      "id": "news:NH투자증권:https://www.hankyung.com/article/2026032701056",
+      "date": "2026-03-27",
+      "company": "NH투자증권",
+      "title": "\"LG이노텍, 기판 이익 확대·휴머노이드 모멘텀…목표가↑\"-NH",
+      "oneLiner": "NH투자증권이 LG이노텍의 기판 이익 확대 및 휴머노이드 모멘텀을 언급하며 목표가를 상향 조정했습니다. 리서치 리포트에 따른 투자 의견 변화입니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "\"LG이노텍, 기판 이익 확대·휴머노이드 모멘텀…목표가↑\"-NH",
+          "url": "https://www.hankyung.com/article/2026032701056"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-28"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12000572",
+      "date": "2026-03-27",
+      "company": "한국투자증권",
+      "title": "[단독] 스페이스X 투자 유치전에 한투운용 합류…미국우주산업 투자 액티브ETF 내놓는다",
+      "oneLiner": "한투운용이 미국 우주산업에 투자하는 액티브 ETF를 준비 중이라는 보도로, 한국투자 계열의 ETF 출시 예정 소식입니다. 상품 출시·운용 관련 변화로 분류됩니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[단독] 스페이스X 투자 유치전에 한투운용 합류…미국우주산업 투자 액티브ETF 내놓는다",
+          "url": "https://www.mk.co.kr/news/stock/12000572"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-03-28"
+    },
+    {
+      "id": "news:NH투자증권:https://www.mk.co.kr/news/stock/12000007",
+      "date": "2026-03-27",
+      "company": "NH투자증권",
+      "title": "로봇용 카메라·메모리패키지 기판…LG이노텍 목표주가 일제히 상향",
+      "oneLiner": "NH투자증권이 LG이노텍의 주요 사업 호조를 근거로 목표주가를 상향 조정했습니다. 리서치 기반 투자 의견 업데이트입니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "로봇용 카메라·메모리패키지 기판…LG이노텍 목표주가 일제히 상향",
+          "url": "https://www.mk.co.kr/news/stock/12000007"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-03-28"
+    },
+    {
+      "id": "news:삼성증권:https://www.mk.co.kr/news/stock/11999951",
+      "date": "2026-03-27",
+      "company": "삼성증권",
+      "title": "“효과도 없는데 또 유증이야”…한화솔루션에 쏟아지는 여의도의 싸늘한 시선 [오늘 나온 보고서]",
+      "oneLiner": "삼성증권 리포트가 한화솔루션의 유상증자에 대해 실효성에 의문을 제기하며 투자 의견을 제시했습니다. 시장·기업 분석을 담은 리서치 공지입니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“효과도 없는데 또 유증이야”…한화솔루션에 쏟아지는 여의도의 싸늘한 시선 [오늘 나온 보고서]",
+          "url": "https://www.mk.co.kr/news/stock/11999951"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-03-28"
+    },
+    {
+      "id": "news:삼성증권:https://www.fnnews.com/news/202603270914518743",
+      "date": "2026-03-27",
+      "company": "삼성증권",
+      "title": "삼성증권, RIA 계좌개설 이벤트…투자지원금 지급",
+      "oneLiner": "삼성증권이 RIA(국내시장 복귀계좌) 활성화를 위해 계좌개설 이벤트를 실시하고 투자지원금·커피쿠폰 등 인센티브를 제공하며 RIA 계좌 운용·세제혜택을 안내함.",
+      "type": "출시",
+      "areas": [
+        "브로커리지",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "삼성증권, RIA 계좌개설 이벤트…투자지원금 지급",
+          "url": "https://www.fnnews.com/news/202603270914518743"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-28"
+    },
+    {
       "id": "faa203e873a5a4036c72940d4167ed870589e2f0",
       "date": "2026-03-26",
       "company": "NH투자증권",
@@ -22,7 +276,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-03-27"
+      "updatedAt": "2026-03-28"
     },
     {
       "id": "6aa0f311dd6c0780ede410e05d578d0e071fb53c",
@@ -45,7 +299,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-03-27"
+      "updatedAt": "2026-03-28"
     },
     {
       "id": "ab98172b29768a628abe79ccf116835183006313",
@@ -68,7 +322,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-03-27"
+      "updatedAt": "2026-03-28"
     },
     {
       "id": "377743a95a1e3aac87bc0e21ab3733a4515e1733",
@@ -91,7 +345,7 @@
       ],
       "tags": [],
       "confidence": 0.85,
-      "updatedAt": "2026-03-27"
+      "updatedAt": "2026-03-28"
     },
     {
       "id": "62ee2da66b7475da518c15a03379f6c07ee343cd",
@@ -114,7 +368,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-03-27"
+      "updatedAt": "2026-03-28"
     },
     {
       "id": "7889320eb3ea9a9331e4a129e85221ca3e839b54",
@@ -137,7 +391,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-03-27"
+      "updatedAt": "2026-03-28"
     },
     {
       "id": "news:NH투자증권:https://www.mk.co.kr/news/stock/11999492",
@@ -436,7 +690,7 @@
       ],
       "tags": [],
       "confidence": 0.8,
-      "updatedAt": "2026-03-27"
+      "updatedAt": "2026-03-28"
     },
     {
       "id": "news:KB증권:https://www.mk.co.kr/news/stock/11998374",
