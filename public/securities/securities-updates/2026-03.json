@@ -2,6 +2,329 @@
   "month": "2026-03",
   "events": [
     {
+      "id": "784042eef4c43e68f5e6b6c2e46569719f018359",
+      "date": "2026-03-30",
+      "company": "NH투자증권",
+      "title": "주요사항보고서(자본으로인정되는채무증권발행결정)",
+      "oneLiner": "NH투자증권이 자본으로 인정되는 채무증권 발행을 결정했다는 주요사항보고서를 공시했습니다.",
+      "type": "기타",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "주요사항보고서(자본으로인정되는채무증권발행결정)",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260330001823"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-31"
+    },
+    {
+      "id": "86daac8cbdb77c1d807f29336bc42e7030b8c0d2",
+      "date": "2026-03-30",
+      "company": "키움증권",
+      "title": "최대주주등소유주식변동신고서              ",
+      "oneLiner": "키움증권의 최대주주 등 소유주식 변동에 대한 신고서가 제출되었습니다.",
+      "type": "기타",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "최대주주등소유주식변동신고서              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260330801728"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-03-31"
+    },
+    {
+      "id": "news:NH투자증권:https://www.hankyung.com/article/2026033050586",
+      "date": "2026-03-30",
+      "company": "NH투자증권",
+      "title": "NH證 \"카카오톡 연금채널 추가하고 SSG랜더스 티켓 받아가세요\"",
+      "oneLiner": "NH투자증권이 카카오톡 연금채널을 추가하고 이를 연계한 이벤트(SSG랜더스 티켓 제공)를 진행한다고 발표했습니다.",
+      "type": "출시",
+      "areas": [
+        "상담"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "NH證 \"카카오톡 연금채널 추가하고 SSG랜더스 티켓 받아가세요\"",
+          "url": "https://www.hankyung.com/article/2026033050586"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.6,
+      "updatedAt": "2026-03-31"
+    },
+    {
+      "id": "news:한국투자증권:https://www.hankyung.com/article/2026033050296",
+      "date": "2026-03-30",
+      "company": "한국투자증권",
+      "title": "한투운용, ACE K수출핵심TOP10산업액티브 ETF 출시",
+      "oneLiner": "한국투자운용이 'ACE K수출핵심TOP10산업액티브 ETF'를 신규 출시한다고 공개했습니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "한투운용, ACE K수출핵심TOP10산업액티브 ETF 출시",
+          "url": "https://www.hankyung.com/article/2026033050296"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-31"
+    },
+    {
+      "id": "news:NH투자증권:https://www.mk.co.kr/news/stock/12002672",
+      "date": "2026-03-30",
+      "company": "NH투자증권",
+      "title": "네이버파이낸셜·두나무 합병 주총 8월로 연기…“인허가 승인 위해 노력”",
+      "oneLiner": "두나무·네이버파이낸셜의 합병 관련 주식교환 주총 일정이 인허가 문제로 8월로 연기되었다고 보도되었습니다.",
+      "type": "규제",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "네이버파이낸셜·두나무 합병 주총 8월로 연기…“인허가 승인 위해 노력”",
+          "url": "https://www.mk.co.kr/news/stock/12002672"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-03-31"
+    },
+    {
+      "id": "news:NH투자증권:https://www.mk.co.kr/news/stock/12002597",
+      "date": "2026-03-30",
+      "company": "NH투자증권",
+      "title": "두나무·네이버파이낸셜 ‘주식교환 일정’ 3개월 연기",
+      "oneLiner": "두나무와 네이버파이낸셜이 주식교환 일정을 약 3개월 연기했다고 알려졌습니다(입법·인허가 지연 영향).",
+      "type": "규제",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "두나무·네이버파이낸셜 ‘주식교환 일정’ 3개월 연기",
+          "url": "https://www.mk.co.kr/news/stock/12002597"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-03-31"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202603300838240734",
+      "date": "2026-03-30",
+      "company": "한국투자증권",
+      "title": "한투운용, 31일 'ACE K수출핵심TOP10산업액티브 ETF' 신규 상장",
+      "oneLiner": "한국투자신탁운용이 'ACE K수출핵심TOP10산업액티브 ETF'를 31일 신규 상장한다고 공지했습니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투운용, 31일 'ACE K수출핵심TOP10산업액티브 ETF' 신규 상장",
+          "url": "https://www.fnnews.com/news/202603300838240734"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-31"
+    },
+    {
+      "id": "news:삼성증권:https://www.fnnews.com/news/202603300958341083",
+      "date": "2026-03-30",
+      "company": "삼성증권",
+      "title": "삼성증권, 'RIA 해외주식 입고/매도 이벤트' 실시",
+      "oneLiner": "삼성증권이 RIA 계좌 활성화를 위해 해외주식 입고·매도 시 세제혜택 연계 이벤트를 실시한다고 발표했습니다.",
+      "type": "출시",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "삼성증권, 'RIA 해외주식 입고/매도 이벤트' 실시",
+          "url": "https://www.fnnews.com/news/202603300958341083"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-03-31"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202603301437003812",
+      "date": "2026-03-30",
+      "company": "미래에셋증권",
+      "title": "미래에셋, 전 계열사 ‘차량 5부제’ 도입…에너지 절감 동참",
+      "oneLiner": "미래에셋그룹이 전 계열사 대상 차량 5부제 등 에너지 절감 정책을 도입한다고 발표했습니다. 그룹 차원의 운영·정책 변경으로 사내 운행 규정 및 운영 영향이 발생합니다.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋, 전 계열사 ‘차량 5부제’ 도입…에너지 절감 동참",
+          "url": "https://www.fnnews.com/news/202603301437003812"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-03-31"
+    },
+    {
+      "id": "news:키움증권:https://www.fnnews.com/news/202603301431572580",
+      "date": "2026-03-30",
+      "company": "키움증권",
+      "title": "KIWOOM 미국성장다우존스 ETF 상장...\"나스닥100+S&P500 선별 투자\"",
+      "oneLiner": "키움투자자산운용이 'KIWOOM 미국성장다우존스 ETF'를 신규 상장한다고 공시했습니다. 신규 ETF 출시로 투자상품 라인업에 변화가 생깁니다.",
+      "type": "출시",
+      "areas": [
+        "WM",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "KIWOOM 미국성장다우존스 ETF 상장...\"나스닥100+S&P500 선별 투자\"",
+          "url": "https://www.fnnews.com/news/202603301431572580"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-03-31"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202603301617342901",
+      "date": "2026-03-30",
+      "company": "한국투자증권",
+      "title": "‘소액 리그 신설’ 한투證, 내달 실전투자대회 연다",
+      "oneLiner": "한국투자증권이 실전투자대회에 소액(10만원) 리그를 신설한다고 공지했습니다. 서비스·기능 확대로 사용자 경험과 거래 데이터에 영향이 있습니다.",
+      "type": "출시",
+      "areas": [
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "‘소액 리그 신설’ 한투證, 내달 실전투자대회 연다",
+          "url": "https://www.fnnews.com/news/202603301617342901"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-03-31"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202603301724202828",
+      "date": "2026-03-30",
+      "company": "NH투자증권",
+      "title": "네이버-두나무 '디지털 혈맹' 3개월 순연…9월말 딜 클로징 [크립토브리핑]",
+      "oneLiner": "네이버파이낸셜과 두나무의 포괄적 주식교환 일정이 금융당국 인허가·법령 정비를 이유로 3개월 연기됐습니다. 규제 심사로 인한 일정 변경으로 거래 종결 시점에 영향이 있습니다.",
+      "type": "규제",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "네이버-두나무 '디지털 혈맹' 3개월 순연…9월말 딜 클로징 [크립토브리핑]",
+          "url": "https://www.fnnews.com/news/202603301724202828"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-03-31"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202603301820385430",
+      "date": "2026-03-30",
+      "company": "미래에셋증권",
+      "title": "미래에셋 모든 계열사 '車 5부제' 도입",
+      "oneLiner": "미래에셋그룹이 전 계열사 차량 5부제 도입을 발표한 기사(중복 보도). 그룹 운영·정책 변경으로 내부 운행 규정에 변동이 있습니다.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋 모든 계열사 '車 5부제' 도입",
+          "url": "https://www.fnnews.com/news/202603301820385430"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-03-31"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202603301804591742",
+      "date": "2026-03-30",
+      "company": "NH투자증권",
+      "title": "네이버파이낸셜·두나무 주식 교환 일정 3개월 밀려",
+      "oneLiner": "네이버파이낸셜·두나무의 주식교환 일정이 3개월 연기됐다는 공시 기사(중복 보도). 금융당국 인허가 및 법령 정비 고려로 일정이 조정되었습니다.",
+      "type": "규제",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "네이버파이낸셜·두나무 주식 교환 일정 3개월 밀려",
+          "url": "https://www.fnnews.com/news/202603301804591742"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-03-31"
+    },
+    {
       "id": "72a5006129c7f9938dff99933c03d3b27daa1d83",
       "date": "2026-03-28",
       "company": "미래에셋증권",
