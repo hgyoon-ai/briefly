@@ -2,6 +2,213 @@
   "month": "2026-03",
   "events": [
     {
+      "id": "19d6cc590e15b120807ca8f65bc7c16dedf7e84a",
+      "date": "2026-03-31",
+      "company": "NH투자증권",
+      "title": "사외이사의선임ㆍ해임또는중도퇴임에관한신고",
+      "oneLiner": "NH투자증권이 사외이사의 선임·해임 또는 중도퇴임에 관한 신고 공시를 제출했습니다.",
+      "type": "규제",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "사외이사의선임ㆍ해임또는중도퇴임에관한신고",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260331004534"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-04-01"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202603310957343106",
+      "date": "2026-03-31",
+      "company": "KB증권",
+      "title": "\"SK하이닉스 지금이 매수적기\" 170만원 목표가 유지…RFHIC, 삼성전자 수주 기대에 목표가 50%↑ [株토피아]",
+      "oneLiner": "주요 증권사 리포트를 정리해 SK하이닉스 등 종목에 대한 목표주가와 투자 의견을 소개했습니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"SK하이닉스 지금이 매수적기\" 170만원 목표가 유지…RFHIC, 삼성전자 수주 기대에 목표가 50%↑ [株토피아]",
+          "url": "https://www.fnnews.com/news/202603310957343106"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-04-01"
+    },
+    {
+      "id": "news:메리츠증권:https://www.fnnews.com/news/202603301813138048",
+      "date": "2026-03-31",
+      "company": "메리츠증권",
+      "title": "“PB부터 IB까지 ‘깊이 있는 컨설팅’…자산관리 넘어 ‘통합투자 플랫폼’으로” [증권가 슈퍼리치 지점]",
+      "oneLiner": "메리츠증권의 PIB강남센터는 PB와 본사의 IB 역량을 결합해 통합투자 플랫폼으로 전환하겠다는 운영·전략 계획을 제시했습니다.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "“PB부터 IB까지 ‘깊이 있는 컨설팅’…자산관리 넘어 ‘통합투자 플랫폼’으로” [증권가 슈퍼리치 지점]",
+          "url": "https://www.fnnews.com/news/202603301813138048"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-04-01"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202603311417369623",
+      "date": "2026-03-31",
+      "company": "미래에셋증권",
+      "title": "미래에셋증권, 투자센터압구정WM 이전 오픈",
+      "oneLiner": "미래에셋증권이 투자센터압구정WM을 이전 오픈하고 기념 세미나를 통해 고객 대상 서비스 강화 계획을 발표했습니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋증권, 투자센터압구정WM 이전 오픈",
+          "url": "https://www.fnnews.com/news/202603311417369623"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-04-01"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202603311426475924",
+      "date": "2026-03-31",
+      "company": "한국투자증권",
+      "title": "신한투자증권, 개인전문투자자 대상 선물환 매도 상품 출시",
+      "oneLiner": "신한투자증권(기사 제목)은 개인전문투자자 대상 선물환 매도 구조의 환헤지 상품을 출시했다고 공지했습니다.",
+      "type": "출시",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "신한투자증권, 개인전문투자자 대상 선물환 매도 상품 출시",
+          "url": "https://www.fnnews.com/news/202603311426475924"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-04-01"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202603311031288968",
+      "date": "2026-03-31",
+      "company": "NH투자증권",
+      "title": "이찬우 NH농협금융지주 회장, NH證 N2 IMA 1호 가입",
+      "oneLiner": "NH투자증권이 종합투자계좌(IMA) 'N2 IMA1 중기형 1호'를 출시하고 NH농협금융지주 회장이 1호 가입을 진행했습니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "이찬우 NH농협금융지주 회장, NH證 N2 IMA 1호 가입",
+          "url": "https://www.fnnews.com/news/202603311031288968"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-04-01"
+    },
+    {
+      "id": "news:메리츠증권:https://www.fnnews.com/news/202603311810459912",
+      "date": "2026-03-31",
+      "company": "메리츠증권",
+      "title": "IB 역량 최대한 활용… 고액자산가에 '투자 기회'를 판다 [증권가 슈퍼리치 지점]",
+      "oneLiner": "메리츠증권의 PIB강남센터 관련 보도로, 고액자산가 대상 자산관리와 본사의 IB 연계를 통한 통합투자 서비스 확장 계획을 소개했습니다.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "IB 역량 최대한 활용… 고액자산가에 '투자 기회'를 판다 [증권가 슈퍼리치 지점]",
+          "url": "https://www.fnnews.com/news/202603311810459912"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-04-01"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202603311810584710",
+      "date": "2026-03-31",
+      "company": "NH투자증권",
+      "title": "IMA사업 첫발 뗀 NH증권…이찬우 지주회장 1호 가입",
+      "oneLiner": "NH투자증권이 IMA 사업을 본격화하며 금융지주 회장의 1호 가입 행사로 사업 출범을 대외적으로 알렸습니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "IMA사업 첫발 뗀 NH증권…이찬우 지주회장 1호 가입",
+          "url": "https://www.fnnews.com/news/202603311810584710"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-04-01"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202603311051050752",
+      "date": "2026-03-31",
+      "company": "미래에셋증권",
+      "title": "리벨리온, 6400억원 프리 IPO 투자 유치…기업가치 3.4조원",
+      "oneLiner": "미래에셋그룹이 리벨리온의 프리IPO 라운드에 앵커 투자자로 참여해 총 6400억원의 투자 유치에 합류했습니다.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "리벨리온, 6400억원 프리 IPO 투자 유치…기업가치 3.4조원",
+          "url": "https://www.fnnews.com/news/202603311051050752"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-04-01"
+    },
+    {
       "id": "784042eef4c43e68f5e6b6c2e46569719f018359",
       "date": "2026-03-30",
       "company": "NH투자증권",
@@ -22,7 +229,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-03-31"
+      "updatedAt": "2026-04-01"
     },
     {
       "id": "86daac8cbdb77c1d807f29336bc42e7030b8c0d2",
@@ -45,7 +252,7 @@
       ],
       "tags": [],
       "confidence": 0.8,
-      "updatedAt": "2026-03-31"
+      "updatedAt": "2026-04-01"
     },
     {
       "id": "news:NH투자증권:https://www.hankyung.com/article/2026033050586",
