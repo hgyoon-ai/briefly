@@ -2,6 +2,124 @@
   "month": "2026-04",
   "events": [
     {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12007377",
+      "date": "2026-04-03",
+      "company": "한국투자증권",
+      "title": "한국투자증권-신한카드, 국내 첫 카드 플랫폼 발행어음 투자서비스 출시",
+      "oneLiner": "한국투자증권이 신한카드와 제휴해 카드 플랫폼 기반의 발행어음 투자 서비스를 업계 최초로 출시한 제휴·유통 관련 변화.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한국투자증권-신한카드, 국내 첫 카드 플랫폼 발행어음 투자서비스 출시",
+          "url": "https://www.mk.co.kr/news/stock/12007377"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-04-04"
+    },
+    {
+      "id": "news:키움증권:https://www.mk.co.kr/news/stock/12007020",
+      "date": "2026-04-03",
+      "company": "키움증권",
+      "title": "키움증권, 스플릿인베스트와 맞손…자동매매 서비스 제휴",
+      "oneLiner": "키움증권이 자동매매 솔루션사와 제휴해 개인 대상 자동매매 서비스 연동을 추진하는 제휴·서비스 확대 건.",
+      "type": "제휴",
+      "areas": [
+        "트레이딩",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "키움증권, 스플릿인베스트와 맞손…자동매매 서비스 제휴",
+          "url": "https://www.mk.co.kr/news/stock/12007020"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-04-04"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202604031545459142",
+      "date": "2026-04-03",
+      "company": "한국투자증권",
+      "title": "한투證 발행어음, ‘신한SOL페이’에서 가입한다",
+      "oneLiner": "한국투자증권이 신한카드 ‘신한SOL페이’ 인앱에서 발행어음 가입을 지원하는 카드플랫폼 기반 투자서비스를 제공하기로 한 제휴·유통 확대 건.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투證 발행어음, ‘신한SOL페이’에서 가입한다",
+          "url": "https://www.fnnews.com/news/202604031545459142"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-04-04"
+    },
+    {
+      "id": "news:KB증권:http://www.boannews.com/media/view.asp?idx=142997&kind=&sub_kind=",
+      "date": "2026-04-03",
+      "company": "KB증권",
+      "title": "“망분리 한계 넘는다” 차세대 보안 아키텍처 제로트러스트 보안 교육 실시",
+      "oneLiner": "제로트러스트 보안 아키텍처 교육 및 실습 사례 공유 관련 기사로, 금융권 보안·리스크 관리 측면의 제도·시스템 변화·교육 이슈로 판단됨.",
+      "type": "시스템",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "보안뉴스",
+          "title": "“망분리 한계 넘는다” 차세대 보안 아키텍처 제로트러스트 보안 교육 실시",
+          "url": "http://www.boannews.com/media/view.asp?idx=142997&kind=&sub_kind="
+        }
+      ],
+      "tags": [],
+      "confidence": 0.78,
+      "updatedAt": "2026-04-04"
+    },
+    {
+      "id": "news:토스증권:http://www.boannews.com/media/view.asp?idx=142998&kind=&sub_kind=",
+      "date": "2026-04-03",
+      "company": "토스증권",
+      "title": "토스페이먼츠, 국내 금융·IT 업계 첫 ‘양자내성암호’ 전 구간 도입",
+      "oneLiner": "토스페이먼츠가 결제 전 구간에 양자내성암호를 전면 도입한 보안 시스템 도입으로 장기적 기밀성 강화에 해당하는 기술·운영 변화.",
+      "type": "시스템",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "보안뉴스",
+          "title": "토스페이먼츠, 국내 금융·IT 업계 첫 ‘양자내성암호’ 전 구간 도입",
+          "url": "http://www.boannews.com/media/view.asp?idx=142998&kind=&sub_kind="
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-04-04"
+    },
+    {
       "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12006343",
       "date": "2026-04-02",
       "company": "한국투자증권",
