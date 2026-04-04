@@ -1,63 +1,12 @@
 {
-  "date": "2026-04-04",
+  "date": "2026-04-05",
   "highlights": {
-    "bullets": [
-      "핵심: AR 디스플레이는 시야각·밝기·광효율·착용성에서 기술적 한계를 보인다.",
-      "핵심: 하드웨어 루트 오브 트러스트 부재가 AI 칩의 정품성 및 보안에 위협을 초래한다."
-    ],
-    "topTopics": [
-      "Manufacturing",
-      "Competition",
-      "Policy",
-      "Roadmap"
-    ],
+    "bullets": [],
+    "topTopics": [],
     "stats": {
-      "collected": 3,
-      "deduped": 3
+      "collected": 0,
+      "deduped": 0
     }
   },
-  "cards": [
-    {
-      "id": "semiconductor_0001",
-      "tab": "semiconductor",
-      "publishedAt": "2026-04-04T00:54:23+09:00",
-      "source": "EE Times",
-      "title": "Why Today’s AR Displays Fall Short and a 75-Year-Old Idea May Help",
-      "summary": [
-        "현재 AR 디스플레이는 시야각, 밝기, 광효율, 착용성 등에서 기술적 한계를 보입니다.",
-        "75년 된 홀로그래피 기반 광학 기법이 이런 광학적 트레이드오프를 완화할 잠재력을 지닙니다.",
-        "해당 접근은 얇고 효율적인 광학 소자와 넓은 시야각을 제공해 스마트 글래스 상용화를 앞당길 수 있습니다."
-      ],
-      "whyItMatters": "홀로그래픽 광학이 기존 광학 설계의 핵심 제약을 근본적으로 해결할 가능성이 있어 AR 디스플레이 개선의 열쇠가 될 수 있기 때문입니다.",
-      "topics": [
-        "Manufacturing",
-        "Roadmap",
-        "Competition"
-      ],
-      "status": "SHIFTING",
-      "hash": "0bbb1674b71f698e2c7ae30fc5a4e05ef19a88b20d9a66c73afed16d654308e6",
-      "url": "https://www.eetimes.com/why-todays-ar-displays-fall-short-and-a-75-year-old-idea-may-help/"
-    },
-    {
-      "id": "semiconductor_0002",
-      "tab": "semiconductor",
-      "publishedAt": "2026-04-03T18:36:58+09:00",
-      "source": "EE Times",
-      "title": "Hardware Root of Trust Essential for AI Chip Integrity",
-      "summary": [
-        "하드웨어 부족이 AI 칩 위조 시장을 촉진하고 있다.",
-        "이로 인해 AI 시스템의 정품성 및 보안에 심각한 위협이 발생하고 있다.",
-        "전문가들은 하드웨어 루트 오브 트러스트 도입이 위조 및 무결성 문제를 완화할 수 있다고 제안한다."
-      ],
-      "whyItMatters": "공급망과 칩 신뢰성이 훼손되면 AI의 안전성·성능·비즈니스 신뢰가 손상되어 하드웨어 기반 인증 도입이 시급하다.",
-      "topics": [
-        "Manufacturing",
-        "Policy",
-        "Competition"
-      ],
-      "status": "ONGOING",
-      "hash": "71e0257e4455214112a29e4cf6d3459128e1b1eae57e7964e79a934a63a97994",
-      "url": "https://www.eetimes.com/hardware-root-of-trust-essential-for-ai-chip-integrity/"
-    }
-  ]
+  "cards": []
 }
