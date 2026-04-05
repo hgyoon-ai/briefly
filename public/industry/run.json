@@ -1,6 +1,6 @@
 {
-  "id": "2026-04-05T06:52:32.649621+09:00",
-  "ts": "2026-04-05T06:52:32.649621+09:00",
+  "id": "2026-04-06T06:52:55.724195+09:00",
+  "ts": "2026-04-06T06:52:55.724195+09:00",
   "timezone": "Asia/Seoul",
   "selectedTabs": [
     "ai",
@@ -10,14 +10,14 @@
     "realestate"
   ],
   "pipeline": {
-    "rawTotal": 225,
+    "rawTotal": 207,
     "rawClamped": 150,
     "rawByTabBeforeClamp": {
       "ai": 100,
-      "finance": 40,
+      "finance": 30,
       "semiconductor": 44,
       "ev": 15,
-      "realestate": 26
+      "realestate": 18
     },
     "rawByTabAfterClamp": {
       "ai": 70,
@@ -32,7 +32,7 @@
   },
   "sources": {
     "rss": {
-      "total": 195,
+      "total": 177,
       "bySource": {
         "OpenAI Blog": 15,
         "Google DeepMind Blog": 15,
@@ -45,12 +45,11 @@
         "TechInsights": 10,
         "Electrek": 15,
         "매일경제(증권)": 15,
-        "보안뉴스": 10,
         "벤처스퀘어": 15,
         "정책브리핑": 5,
-        "한국경제(부동산)": 4,
+        "한국경제(부동산)": 3,
         "매일경제(부동산)": 9,
-        "헤럴드경제(부동산)": 8
+        "헤럴드경제(부동산)": 1
       }
     },
     "hf": {
@@ -73,7 +72,7 @@
         "cards": 0
       },
       "weekly": {
-        "items": 16,
+        "items": 15,
         "issues": 5
       },
       "monthly": {
@@ -83,11 +82,11 @@
     },
     "finance": {
       "daily": {
-        "raw": 1,
-        "cards": 1
+        "raw": 15,
+        "cards": 2
       },
       "weekly": {
-        "items": 18,
+        "items": 16,
         "issues": 5
       },
       "monthly": {
@@ -101,7 +100,7 @@
         "cards": 0
       },
       "weekly": {
-        "items": 19,
+        "items": 14,
         "issues": 5
       },
       "monthly": {
@@ -125,16 +124,16 @@
     },
     "realestate": {
       "daily": {
-        "raw": 2,
-        "cards": 2
+        "raw": 9,
+        "cards": 4
       },
       "weekly": {
-        "items": 27,
+        "items": 26,
         "issues": 5
       },
       "monthly": {
-        "items": 128,
-        "issues": 4
+        "items": 130,
+        "issues": 5
       }
     }
   }
