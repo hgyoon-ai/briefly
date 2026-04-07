@@ -2,6 +2,191 @@
   "month": "2026-04",
   "events": [
     {
+      "id": "news:삼성증권:https://www.hankyung.com/article/2026040736621",
+      "date": "2026-04-07",
+      "company": "삼성증권",
+      "title": "삼성증권, 국내 증시 돌아오면 환전·거래 수수료 절감",
+      "oneLiner": "삼성증권이 국내 시장 복귀 시 환전 및 거래 수수료를 절감하는 방안을 제시해 고객 거래비용을 낮추려 하고 있습니다.",
+      "type": "출시",
+      "areas": [
+        "브로커리지",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "삼성증권, 국내 증시 돌아오면 환전·거래 수수료 절감",
+          "url": "https://www.hankyung.com/article/2026040736621"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-04-08"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12010585",
+      "date": "2026-04-07",
+      "company": "미래에셋증권",
+      "title": "“내 자산 한 화면에서 한번에”…미래에셋증권, ‘MY자산’ 서비스 전면 개편",
+      "oneLiner": "미래에셋증권이 MTS의 핵심 기능 'MY자산'을 전면 개편해 M-STOCK 3.0으로 전환하고 단일화된 자산화면과 UX 개선을 적용했습니다.",
+      "type": "시스템",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“내 자산 한 화면에서 한번에”…미래에셋증권, ‘MY자산’ 서비스 전면 개편",
+          "url": "https://www.mk.co.kr/news/stock/12010585"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-04-08"
+    },
+    {
+      "id": "news:삼성증권:https://www.fnnews.com/news/202604070952336667",
+      "date": "2026-04-07",
+      "company": "삼성증권",
+      "title": "삼성증권, RIA 출시 2주 만에 잔고 1000억원 돌파",
+      "oneLiner": "삼성증권의 국내시장 복귀계좌(RIA)가 출시 2주 만에 잔고 1000억원·계좌 수 1만개를 돌파하며 빠르게 안착했습니다.",
+      "type": "출시",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "삼성증권, RIA 출시 2주 만에 잔고 1000억원 돌파",
+          "url": "https://www.fnnews.com/news/202604070952336667"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-04-08"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202604071107318482",
+      "date": "2026-04-07",
+      "company": "미래에셋증권",
+      "title": "미래에셋증권, ‘MY자산’ 서비스 전면 개편",
+      "oneLiner": "미래에셋증권이 M-STOCK의 'MY자산'을 통합 화면과 UX 재설계로 전면 개편해 접근성과 편의성을 개선했습니다.",
+      "type": "시스템",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋증권, ‘MY자산’ 서비스 전면 개편",
+          "url": "https://www.fnnews.com/news/202604071107318482"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-04-08"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202604071110348525",
+      "date": "2026-04-07",
+      "company": "미래에셋증권",
+      "title": "미래에셋, 'TIGER 반도체TOP10' 순자산 10조원 돌파",
+      "oneLiner": "미래에셋자산운용의 'TIGER 반도체TOP10' ETF가 순자산 10조원을 돌파해 테마형 ETF 시장에서 의미 있는 성장세를 보였습니다.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋, 'TIGER 반도체TOP10' 순자산 10조원 돌파",
+          "url": "https://www.fnnews.com/news/202604071110348525"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-04-08"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202604070940270789",
+      "date": "2026-04-07",
+      "company": "하나증권",
+      "title": "하나證, ‘상품·서비스 자문단2기’ 공식 출범",
+      "oneLiner": "하나증권이 고객 의견 수렴을 위한 '상품·서비스 자문단 2기'를 공식 출범해 서비스 개선과 소비자 권익 보호를 위한 운영 체계를 확대한 변화입니다.",
+      "type": "출시",
+      "areas": [
+        "상담"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "하나證, ‘상품·서비스 자문단2기’ 공식 출범",
+          "url": "https://www.fnnews.com/news/202604070940270789"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-04-08"
+    },
+    {
+      "id": "news:삼성증권:https://www.fnnews.com/news/202604071810091819",
+      "date": "2026-04-07",
+      "company": "삼성증권",
+      "title": "삼성證 RIA 잔고 1000억 넘었다",
+      "oneLiner": "삼성증권의 RIA(국내시장 복귀계좌) 출시 후 2주 만에 잔고 1000억원·계좌 1만개를 돌파한 상품 도입 및 빠른 수요 확산 사례입니다.",
+      "type": "출시",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "삼성證 RIA 잔고 1000억 넘었다",
+          "url": "https://www.fnnews.com/news/202604071810091819"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-04-08"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202604071816265585",
+      "date": "2026-04-07",
+      "company": "미래에셋증권",
+      "title": "흩어져 있던 자산정보 한 화면에…미래에셋증권 MTS 더 편해졌다",
+      "oneLiner": "미래에셋증권이 MTS 'M-STOCK'의 핵심 기능인 'MY자산'을 전면 개편해 UX·정보 통합을 통한 시스템 개선을 단행했습니다.",
+      "type": "시스템",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "흩어져 있던 자산정보 한 화면에…미래에셋증권 MTS 더 편해졌다",
+          "url": "https://www.fnnews.com/news/202604071816265585"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.97,
+      "updatedAt": "2026-04-08"
+    },
+    {
       "id": "news:한국투자증권:https://www.hankyung.com/article/2026040608836",
       "date": "2026-04-06",
       "company": "한국투자증권",

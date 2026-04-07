@@ -2,6 +2,53 @@
   "month": "2026-04",
   "events": [
     {
+      "id": "news:미래에셋증권:https://www.hankyung.com/article/2026040736501",
+      "date": "2026-04-07",
+      "company": "미래에셋증권",
+      "title": "미래에셋증권, 연금도 AI가 굴린다…가입계좌 9만 건 돌파",
+      "oneLiner": "미래에셋증권이 AI 기반 연금 운용 서비스를 도입해 가입계좌 9만 건을 돌파했다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "미래에셋증권, 연금도 AI가 굴린다…가입계좌 9만 건 돌파",
+          "url": "https://www.hankyung.com/article/2026040736501"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-04-08"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202604071147290115",
+      "date": "2026-04-07",
+      "company": "한국투자증권",
+      "title": "“20일 이평선 돌파 시 매수”…한투證 기술로 투자 알고리즘 짠다",
+      "oneLiner": "한국투자증권이 오픈API 기반 샘플 코드와 AI 연동 개발 환경을 공개해 자연어로 투자전략을 코드화하고 백테스트할 수 있는 트레이딩 개발 플랫폼을 제공한다.",
+      "type": "시스템",
+      "areas": [
+        "트레이딩",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "“20일 이평선 돌파 시 매수”…한투證 기술로 투자 알고리즘 짠다",
+          "url": "https://www.fnnews.com/news/202604071147290115"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-04-08"
+    },
+    {
       "id": "news:KB증권:https://www.mk.co.kr/news/stock/12009226",
       "date": "2026-04-06",
       "company": "KB증권",
