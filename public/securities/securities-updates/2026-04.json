@@ -2,6 +2,259 @@
   "month": "2026-04",
   "events": [
     {
+      "id": "news:NH투자증권:https://www.hankyung.com/article/2026040869206",
+      "date": "2026-04-08",
+      "company": "NH투자증권",
+      "title": "NH투자증권 \"IMA 1호 판매액 중 법인자산 55%·신규유입 60%\"",
+      "oneLiner": "NH투자증권의 IMA(종합투자계좌) 1호 상품 판매 구성과 유입 현황을 보도한 기사로, 상품 출시·판매 성과 관련 정보가 포함되어 있다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "NH투자증권 \"IMA 1호 판매액 중 법인자산 55%·신규유입 60%\"",
+          "url": "https://www.hankyung.com/article/2026040869206"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "news:한국투자증권:https://www.hankyung.com/article/2026040859176",
+      "date": "2026-04-08",
+      "company": "한국투자증권",
+      "title": "한국투자증권도 임직원 주식매매 사전승인 도입 검토",
+      "oneLiner": "한국투자증권이 임직원 주식매매에 대한 사전승인 제도 도입을 검토 중이라는 보도로, 내부거래 통제 정책 변화 가능성을 시사한다.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "한국투자증권도 임직원 주식매매 사전승인 도입 검토",
+          "url": "https://www.hankyung.com/article/2026040859176"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "news:NH투자증권:https://www.mk.co.kr/news/stock/12011150",
+      "date": "2026-04-08",
+      "company": "NH투자증권",
+      "title": "NH증권 “IMA 1호 상품에 법인 자금 55% 몰려”",
+      "oneLiner": "NH투자증권의 IMA 1호 상품 완판 및 투자자 구성(법인 비중 55%) 관련 보도로, 해당 상품의 시장 반응·판매 실적을 알리는 내용이다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "NH증권 “IMA 1호 상품에 법인 자금 55% 몰려”",
+          "url": "https://www.mk.co.kr/news/stock/12011150"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "news:키움증권:https://www.mk.co.kr/news/stock/12011060",
+      "date": "2026-04-08",
+      "company": "키움증권",
+      "title": "키움증권, 퇴직연금 사업자 등록…시장 진출 본격 선언",
+      "oneLiner": "키움증권이 퇴직연금 사업자 등록을 완료해 퇴직연금 시장에 본격 진출한다고 밝힌 보도로, 신규 사업 진출(서비스 출시)에 해당한다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "키움증권, 퇴직연금 사업자 등록…시장 진출 본격 선언",
+          "url": "https://www.mk.co.kr/news/stock/12011060"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202604080911234400",
+      "date": "2026-04-08",
+      "company": "KB증권",
+      "title": "KB證, ‘섬섬옥수’ 3호점 동탄역에 개소",
+      "oneLiner": "KB증권이 장애인 일자리 창출 공익사업 ‘섬섬옥수’ 3호점을 동탄역에 개소했다는 보도로, 대외 협력·운영 확대(제휴 기반 사업 확장)와 관련된다.",
+      "type": "제휴",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "KB證, ‘섬섬옥수’ 3호점 동탄역에 개소",
+          "url": "https://www.fnnews.com/news/202604080911234400"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "news:키움증권:https://www.fnnews.com/news/202604080944016071",
+      "date": "2026-04-08",
+      "company": "키움증권",
+      "title": "키움證, 퇴직연금 시장 뛰어든다… ‘상위 5위권’ 목표",
+      "oneLiner": "키움증권이 금융위원회에 퇴직연금 사업자 등록을 완료하고 하반기 서비스 출시를 계획한다는 보도로, 신규 사업·서비스 출시 관련 소식이다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "키움證, 퇴직연금 시장 뛰어든다… ‘상위 5위권’ 목표",
+          "url": "https://www.fnnews.com/news/202604080944016071"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.96,
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202604081036255572",
+      "date": "2026-04-08",
+      "company": "NH투자증권",
+      "title": "NH투자증권, IMA 첫 상품 완판…\"법인 자금 55% 몰렸다\"",
+      "oneLiner": "NH투자증권의 IMA 첫 상품이 완판됐고 자금 구성이 법인 중심이었다는 보도이며, 상품 판매 실적·수요 관련 중요한 운영 정보다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "NH투자증권, IMA 첫 상품 완판…\"법인 자금 55% 몰렸다\"",
+          "url": "https://www.fnnews.com/news/202604081036255572"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.86,
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202604081050256552",
+      "date": "2026-04-08",
+      "company": "미래에셋증권",
+      "title": "미래에셋증권, 해외주식 양도세 신고 ‘원스톱’ 구축",
+      "oneLiner": "미래에셋증권이 해외주식 양도소득세 신고대행 서비스를 플랫폼 내 원스톱으로 통합 구축했다는 보도로, 시스템·서비스 고도화에 해당한다.",
+      "type": "시스템",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋증권, 해외주식 양도세 신고 ‘원스톱’ 구축",
+          "url": "https://www.fnnews.com/news/202604081050256552"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202604081526289484",
+      "date": "2026-04-08",
+      "company": "NH투자증권",
+      "title": "NH證, 차량 2부제 도입…에너지 절감 '전사적 대응'",
+      "oneLiner": "NH투자증권이 자원 안보 위기 대응으로 차량 2부제 도입, 대중교통 장려, 화상회의 확대 등 전사적 에너지 절감 및 스마트 워크 정책을 시행한다.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "NH證, 차량 2부제 도입…에너지 절감 '전사적 대응'",
+          "url": "https://www.fnnews.com/news/202604081526289484"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202604081622498069",
+      "date": "2026-04-08",
+      "company": "KB증권",
+      "title": "KB자산운용 'RISE 데일리고정커버드콜 ETF' 분배구조 변경",
+      "oneLiner": "KB자산운용이 'RISE' 데일리고정커버드콜 ETF 두 종의 분배금 지급 시점을 월말에서 월중으로 변경해 투자자의 현금흐름 활용 편의성을 높인다(변경은 15일부터 적용).",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "KB자산운용 'RISE 데일리고정커버드콜 ETF' 분배구조 변경",
+          "url": "https://www.fnnews.com/news/202604081622498069"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202604081815464106",
+      "date": "2026-04-08",
+      "company": "KB증권",
+      "title": "\"삼성전자·SK하이닉스 담자\" 채권혼합 ETF도 '반도체 바라기'",
+      "oneLiner": "운용사들이 삼성전자·SK하이닉스 비중을 높여 채권혼합형 ETF를 출시하면서 주식(반도체)과 채권을 결합한 자산배분형 상품 경쟁이 확산되고 있다.",
+      "type": "출시",
+      "areas": [
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"삼성전자·SK하이닉스 담자\" 채권혼합 ETF도 '반도체 바라기'",
+          "url": "https://www.fnnews.com/news/202604081815464106"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-04-09"
+    },
+    {
       "id": "news:삼성증권:https://www.hankyung.com/article/2026040736621",
       "date": "2026-04-07",
       "company": "삼성증권",
