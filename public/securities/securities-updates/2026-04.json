@@ -2,6 +2,190 @@
   "month": "2026-04",
   "events": [
     {
+      "id": "79b7d2f903f20d925edcd0aa8504d8f94271791e",
+      "date": "2026-04-10",
+      "company": "NH투자증권",
+      "title": "[기재정정]기업지배구조보고서공시(연차보고서)              ",
+      "oneLiner": "NH투자증권의 연차보고서(기업지배구조보고서) 기재정정 공시(규제·공시 성격의 정정 보고).",
+      "type": "규제",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "[기재정정]기업지배구조보고서공시(연차보고서)              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260410800437"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-04-11"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12013295",
+      "date": "2026-04-10",
+      "company": "한국투자증권",
+      "title": "“호르무즈 해협 5월도 봉쇄면 감산 고려…POSCO홀딩스, 매수 유지”",
+      "oneLiner": "한국투자증권이 POSCO홀딩스에 대해 투자의견 '매수' 유지 및 2분기부터 실적 개선 전망을 제시한 리서치 보고.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“호르무즈 해협 5월도 봉쇄면 감산 고려…POSCO홀딩스, 매수 유지”",
+          "url": "https://www.mk.co.kr/news/stock/12013295"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-04-11"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12013284",
+      "date": "2026-04-10",
+      "company": "미래에셋증권",
+      "title": "미래에셋증권, 레버리지·인버스 ETN 3종 신규 상장",
+      "oneLiner": "미래에셋증권이 VIX 선물 ETN 및 반도체 레버리지·인버스 ETN 등 3종을 신규 상장한다고 공지한 상품 출시.",
+      "type": "출시",
+      "areas": [
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "미래에셋증권, 레버리지·인버스 ETN 3종 신규 상장",
+          "url": "https://www.mk.co.kr/news/stock/12013284"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-04-11"
+    },
+    {
+      "id": "news:메리츠증권:https://www.fnnews.com/news/202604100942148497",
+      "date": "2026-04-10",
+      "company": "메리츠증권",
+      "title": "메리츠증권, 해외주식 양도소득세 무료 신고대행 서비스 실시",
+      "oneLiner": "메리츠증권이 해외주식 양도소득세 법정 신고기간에 맞춰 고객 대상 무료 세무신고 대행 서비스를 실시한다고 발표.",
+      "type": "출시",
+      "areas": [
+        "상담"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "메리츠증권, 해외주식 양도소득세 무료 신고대행 서비스 실시",
+          "url": "https://www.fnnews.com/news/202604100942148497"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-04-11"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202604101007338932",
+      "date": "2026-04-10",
+      "company": "한국투자증권",
+      "title": "한투운용, 절세 투자 가이드북 공개 \"ISA에서 연금까지 한 번에\"",
+      "oneLiner": "한국투자신탁운용(한투운용)이 ISA·연금 연계한 절세 투자 가이드북을 발간해 고객용 자산관리 가이드 제공.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투운용, 절세 투자 가이드북 공개 \"ISA에서 연금까지 한 번에\"",
+          "url": "https://www.fnnews.com/news/202604101007338932"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-04-11"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202604101329526559",
+      "date": "2026-04-10",
+      "company": "하나증권",
+      "title": "하나證-빌드블록, '美부동산 투자 솔루션 강화' 맞손",
+      "oneLiner": "하나증권이 미국 부동산 플랫폼 빌드블록과 글로벌 자산관리 서비스 고도화를 위한 전략적 업무협약(MOU)을 체결.",
+      "type": "제휴",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "하나證-빌드블록, '美부동산 투자 솔루션 강화' 맞손",
+          "url": "https://www.fnnews.com/news/202604101329526559"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-04-11"
+    },
+    {
+      "id": "news:토스증권:https://www.fnnews.com/news/202604101550476290",
+      "date": "2026-04-10",
+      "company": "토스증권",
+      "title": "토스증권, '해외주식 양도소득세' 신고 대행 서비스 실시",
+      "oneLiner": "토스증권이 지난해 해외주식 양도차익 250만원 초과 고객을 대상으로 해외주식 양도소득세 신고 대행 서비스를 실시한다고 공지.",
+      "type": "출시",
+      "areas": [
+        "상담"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "토스증권, '해외주식 양도소득세' 신고 대행 서비스 실시",
+          "url": "https://www.fnnews.com/news/202604101550476290"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-04-11"
+    },
+    {
+      "id": "news:키움증권:https://www.fnnews.com/news/202604101652535609",
+      "date": "2026-04-10",
+      "company": "키움증권",
+      "title": "키움證, '해외주식 환헷지 상품' 일반투자자로 확대",
+      "oneLiner": "키움증권이 개인투자자 대상 해외주식 환헷지 상품의 서비스 대상을 일반투자자까지 확대한다고 발표(적합성·설명 절차 추가).",
+      "type": "출시",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "키움證, '해외주식 환헷지 상품' 일반투자자로 확대",
+          "url": "https://www.fnnews.com/news/202604101652535609"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-04-11"
+    },
+    {
       "id": "news:미래에셋증권:https://www.hankyung.com/article/2026040900696",
       "date": "2026-04-09",
       "company": "미래에셋증권",
