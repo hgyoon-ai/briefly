@@ -1,106 +1,12 @@
 {
-  "date": "2026-04-11",
+  "date": "2026-04-12",
   "highlights": {
-    "bullets": [
-      "핵심: 영국과 유럽의 PQC 도입 일정은 방향을 제시하지만 강제성이 없다.",
-      "핵심: 에이전틱 AI는 설계·검증·제조를 통합하는 홀리스틱 접근으로 신규 EDA 기회를 창출한다.",
-      "트렌드: 기사들은 로드맵과 설계·개발의 통합적 접근을 공통으로 강조한다."
-    ],
-    "topTopics": [
-      "Roadmap",
-      "Demand",
-      "Manufacturing",
-      "Investment"
-    ],
+    "bullets": [],
+    "topTopics": [],
     "stats": {
-      "collected": 6,
-      "deduped": 6
+      "collected": 0,
+      "deduped": 0
     }
   },
-  "cards": [
-    {
-      "id": "semiconductor_0001",
-      "tab": "semiconductor",
-      "publishedAt": "2026-04-10T17:22:48+09:00",
-      "source": "EE Times",
-      "title": "PQC Timelines Provide Direction, but Not Action",
-      "summary": [
-        "영국과 EU의 PQC 도입 일정은 방향만 제시하며 강제성이 없다.",
-        "실제 마이그레이션이 지연되면 심각한 보안 리스크가 발생할 수 있다.",
-        "명확한 규제와 실행 계획을 통해 이행을 촉진해야 한다."
-      ],
-      "whyItMatters": "일정만 존재하고 규제·집행력이 부족하면 조직들이 마이그레이션을 미루어 양자 위협에 취약해질 위험이 크기 때문입니다.",
-      "topics": [
-        "Policy",
-        "Roadmap",
-        "Investment"
-      ],
-      "status": "ONGOING",
-      "hash": "df21a86e9ac0d2f04ab615eb56709264e92f544f33ec0fa31b463433a8270cb2",
-      "url": "https://www.eetimes.com/pqc-timelines-provide-direction-but-not-action/"
-    },
-    {
-      "id": "semiconductor_0002",
-      "tab": "semiconductor",
-      "publishedAt": "2026-04-11T02:12:42+09:00",
-      "source": "EE Times",
-      "title": "The Magic of Agentic AI Will Come From a Holistic Approach to Chip Design",
-      "summary": [
-        "에이전틱 AI가 칩 설계 전반에서 자동화와 최적화를 통해 신규 EDA 기회를 창출한다.",
-        "부분적 도구보다 설계·검증·제조를 통합하는 홀리스틱 접근이 핵심이라는 주장이다.",
-        "이 변화는 툴 공급자와 칩 업체 간 경쟁 구도와 투자 우선순위를 재편할 가능성이 크다."
-      ],
-      "whyItMatters": "에이전틱 AI가 설계 병목을 해소하고 복잡성 관리를 개선해 업계 가치사슬 전반에 영향을 미치기 때문입니다.",
-      "topics": [
-        "Manufacturing",
-        "Roadmap",
-        "Competition"
-      ],
-      "status": "SHIFTING",
-      "hash": "0fa9b92a34e082b2ebbeabfd521d25be3de3ebb55a7ed9a6b4dc385ae0fae2a2",
-      "url": "https://www.eetimes.com/the-magic-of-agentic-ai-will-come-from-a-holistic-approach-to-chip-design/"
-    },
-    {
-      "id": "semiconductor_0003",
-      "tab": "semiconductor",
-      "publishedAt": "2026-04-10T18:00:00+09:00",
-      "source": "Samsung Newsroom",
-      "title": "[Video] Discover Your Ideal Bespoke AI Laundry Appliance Setup",
-      "summary": [
-        "가전 선택 기준이 성능 중심에서 가정 구조와 생활 방식에 맞는 적합성으로 전환되고 있다.",
-        "세탁 가전은 설치 공간과 일상 루틴에 따라 맞춤형 설계 및 AI 기반 최적화가 중요해졌다.",
-        "맞춤형 AI 세탁 솔루션은 사용성 개선과 설치 유연성 강화를 목표로 제품 로드맵을 재정비하고 있다."
-      ],
-      "whyItMatters": "사용자 환경·루틴 중심의 수요 변화가 제품 설계와 출시 전략에 직접적인 영향을 미치기 때문이다.",
-      "topics": [
-        "Demand",
-        "Roadmap",
-        "Manufacturing"
-      ],
-      "status": "SHIFTING",
-      "hash": "453d124ba921bd1d61a8d8aa4145ae92bfb899a0d12d0b9d6a7e638622ffa4d9",
-      "url": "https://news.samsung.com/global/video-discover-your-ideal-bespoke-ai-laundry-appliance-setup"
-    },
-    {
-      "id": "semiconductor_0004",
-      "tab": "semiconductor",
-      "publishedAt": "2026-04-10T17:00:00+09:00",
-      "source": "Samsung Newsroom",
-      "title": "[Interview] How Jacob Kiplimo’s Galaxy Watch Turns Data Into World-Record Performance",
-      "summary": [
-        "우간다 장거리 선수 제이컵 킵리모가 갤럭시 워치8의 바이오메트릭 데이터를 활용해 훈련과 경기 전략을 최적화해 세계 기록 성과를 냈다.",
-        "갤럭시 워치는 복잡한 생체신호를 분석해 실용적 인사이트로 전환함으로써 선수의 의사결정과 퍼포먼스를 지원한다.",
-        "이 인터뷰는 웨어러블 기술의 실전 적용 사례로서 제품 마케팅과 소비자 수요에 대한 시사점을 제공한다."
-      ],
-      "whyItMatters": "실제 성과 사례가 제품의 차별화 포인트를 강화해 시장 수요와 브랜드 포지셔닝에 직접적인 영향을 미치기 때문이다.",
-      "topics": [
-        "Competition",
-        "Demand",
-        "Roadmap"
-      ],
-      "status": "ONGOING",
-      "hash": "a17c8470cfb84ec36e503b19de7e859048e74426142685c8e0944c7186419c61",
-      "url": "https://news.samsung.com/global/interview-how-jacob-kiplimos-galaxy-watch-turns-data-into-world-record-performance"
-    }
-  ]
+  "cards": []
 }
