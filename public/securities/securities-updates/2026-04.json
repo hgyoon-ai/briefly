@@ -2,6 +2,99 @@
   "month": "2026-04",
   "events": [
     {
+      "id": "news:한국투자증권:https://www.hankyung.com/article/2026041377841",
+      "date": "2026-04-13",
+      "company": "한국투자증권",
+      "title": "한투, 발행어음 한도 꽉 채워…미래는 안정형",
+      "oneLiner": "한국투자증권이 발행어음 한도를 꽉 채운 것으로 보도되어 발행 여력·유동성 관련 상황을 시사합니다.",
+      "type": "기타",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "한투, 발행어음 한도 꽉 채워…미래는 안정형",
+          "url": "https://www.hankyung.com/article/2026041377841"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.6,
+      "updatedAt": "2026-04-14"
+    },
+    {
+      "id": "news:한국투자증권:https://www.hankyung.com/article/2026041359606",
+      "date": "2026-04-13",
+      "company": "한국투자증권",
+      "title": "한투운용, ACE 미국우주테크액티브 ETF 14일 신규 상장",
+      "oneLiner": "한투운용이 'ACE 미국우주테크액티브 ETF'를 4월 14일 신규 상장한다고 발표했습니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "한투운용, ACE 미국우주테크액티브 ETF 14일 신규 상장",
+          "url": "https://www.hankyung.com/article/2026041359606"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-04-14"
+    },
+    {
+      "id": "news:삼성증권:https://www.fnnews.com/news/202604130854043794",
+      "date": "2026-04-13",
+      "company": "삼성증권",
+      "title": "\"다른 대형 방산주 대비 저평가\"현대로템 목표주가↑-삼성",
+      "oneLiner": "삼성증권 연구원이 현대로템에 대해 목표주가를 상향(28만원→29만2000원)한 리서치 보고서를 냈습니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"다른 대형 방산주 대비 저평가\"현대로템 목표주가↑-삼성",
+          "url": "https://www.fnnews.com/news/202604130854043794"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-04-14"
+    },
+    {
+      "id": "news:삼성증권:https://www.fnnews.com/news/202604131344060370",
+      "date": "2026-04-13",
+      "company": "삼성증권",
+      "title": "삼성증권, 해외주식 양도소득세 신고 대행 서비스 실시",
+      "oneLiner": "삼성증권이 해외주식 양도소득세 신고 대행 서비스를 시행한다고 발표했으며 신청 대상·기간을 안내합니다.",
+      "type": "출시",
+      "areas": [
+        "상담",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "삼성증권, 해외주식 양도소득세 신고 대행 서비스 실시",
+          "url": "https://www.fnnews.com/news/202604131344060370"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-04-14"
+    },
+    {
       "id": "79b7d2f903f20d925edcd0aa8504d8f94271791e",
       "date": "2026-04-10",
       "company": "NH투자증권",
