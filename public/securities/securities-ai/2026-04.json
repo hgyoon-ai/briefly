@@ -2,6 +2,265 @@
   "month": "2026-04",
   "events": [
     {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12016814",
+      "date": "2026-04-14",
+      "company": "미래에셋증권",
+      "title": "[인기검색TOP5] 미래에셋벤처투자, 엑스게이트, 티엠씨, SK하이닉스, LS ELECTRIC",
+      "oneLiner": "미래에셋의 'AI 라씨 매매비서'가 실시간 매매타이밍을 제공하며 인기검색 종목을 분석한 기사로, AI 기반 투자 보조 서비스 관련 정보임.",
+      "type": "리서치",
+      "areas": [
+        "트레이딩",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[인기검색TOP5] 미래에셋벤처투자, 엑스게이트, 티엠씨, SK하이닉스, LS ELECTRIC",
+          "url": "https://www.mk.co.kr/news/stock/12016814"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-04-15"
+    },
+    {
+      "id": "news:토스증권:https://www.mk.co.kr/news/stock/12016420",
+      "date": "2026-04-14",
+      "company": "토스증권",
+      "title": "초거대 AI가 사이버재앙 될라…양자·보안주 급등",
+      "oneLiner": "초거대 AI의 보안 악용 가능성을 경고하는 리포트 보도로, AI가 초래할 수 있는 사이버 리스크와 관련 산업 반응을 다룸.",
+      "type": "리서치",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "초거대 AI가 사이버재앙 될라…양자·보안주 급등",
+          "url": "https://www.mk.co.kr/news/stock/12016420"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-04-15"
+    },
+    {
+      "id": "news:키움증권:https://www.mk.co.kr/news/stock/12016409",
+      "date": "2026-04-14",
+      "company": "키움증권",
+      "title": "키움증권, LG·런던거래소와 업무협약…AI 기반 투자서비스 맞손",
+      "oneLiner": "키움증권이 LG AI연구원 및 LSEG와 AI 기반 투자서비스 개발을 위한 업무협약(MOU)을 체결한 공지로, AI 투자 솔루션 제휴 사례임.",
+      "type": "제휴",
+      "areas": [
+        "리서치",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "키움증권, LG·런던거래소와 업무협약…AI 기반 투자서비스 맞손",
+          "url": "https://www.mk.co.kr/news/stock/12016409"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-04-15"
+    },
+    {
+      "id": "news:신한투자증권:https://www.fnnews.com/news/202604140918024532",
+      "date": "2026-04-14",
+      "company": "신한투자증권",
+      "title": "SOL AI반도체TOP2플러스 상장 3주 만에 순자산 3500억원 돌파",
+      "oneLiner": "AI 인프라 수요 확대로 'AI반도체' 테마 ETF의 자금 유입이 급증한 기사로, AI 관련 수요·시장 반응 정보임.",
+      "type": "출시",
+      "areas": [
+        "WM",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "SOL AI반도체TOP2플러스 상장 3주 만에 순자산 3500억원 돌파",
+          "url": "https://www.fnnews.com/news/202604140918024532"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-04-15"
+    },
+    {
+      "id": "news:키움증권:https://www.fnnews.com/news/202604141200561008",
+      "date": "2026-04-14",
+      "company": "키움증권",
+      "title": "AI 기반 투자서비스…키움證, LG·런던거래소와 MOU",
+      "oneLiner": "키움증권이 LG AI연구원·LSEG와 AI 활용 투자서비스 추진을 위한 MOU를 체결했다는 보도로, AI 기반 투자 인사이트 개발 협업 관련 내용임.",
+      "type": "제휴",
+      "areas": [
+        "리서치",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "AI 기반 투자서비스…키움證, LG·런던거래소와 MOU",
+          "url": "https://www.fnnews.com/news/202604141200561008"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-04-15"
+    },
+    {
+      "id": "news:키움증권:https://www.fnnews.com/news/202604141833238590",
+      "date": "2026-04-14",
+      "company": "키움증권",
+      "title": "키움증권, LG·런던거래소와 AI 투자서비스 추진",
+      "oneLiner": "키움증권과 LG AI연구원, LSEG의 AI 투자서비스 추진 보도로, 설명가능한 AI 기반 투자환경 구축을 목표로 한 제휴 소식임.",
+      "type": "제휴",
+      "areas": [
+        "리서치",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "키움증권, LG·런던거래소와 AI 투자서비스 추진",
+          "url": "https://www.fnnews.com/news/202604141833238590"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-04-15"
+    },
+    {
+      "id": "news:키움증권:https://www.fnnews.com/news/202604141822555492",
+      "date": "2026-04-14",
+      "company": "키움증권",
+      "title": "\"AI가 투자 판단하고 근거 설명\" LG AI연구원, LSEG·키움증권과 맞손",
+      "oneLiner": "LG AI연구원·LSEG·키움증권이 개인투자자용 금융 AI 에이전트 및 설명가능한 AI 투자정보 제공을 위해 협력하기로 한 내용임.",
+      "type": "제휴",
+      "areas": [
+        "리서치",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "\"AI가 투자 판단하고 근거 설명\" LG AI연구원, LSEG·키움증권과 맞손",
+          "url": "https://www.fnnews.com/news/202604141822555492"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-04-15"
+    },
+    {
+      "id": "news:토스증권:https://www.fnnews.com/news/202604141733169111",
+      "date": "2026-04-14",
+      "company": "토스증권",
+      "title": "\"AI가 세계 최고 해커 될 수도\" 정부, 통신·플랫폼 긴급 소집",
+      "oneLiner": "과기정통부가 초거대 AI의 사이버 위협 우려에 대응해 통신·플랫폼사 CISO를 긴급 소집한 것으로, AI 보안 리스크 및 정부 대응(점검·공유) 관련 기사임.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "\"AI가 세계 최고 해커 될 수도\" 정부, 통신·플랫폼 긴급 소집",
+          "url": "https://www.fnnews.com/news/202604141733169111"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-04-15"
+    },
+    {
+      "id": "news:토스증권:http://www.boannews.com/media/view.asp?idx=143162&kind=&sub_kind=",
+      "date": "2026-04-14",
+      "company": "토스증권",
+      "title": "[미토스 충격] 앤트로픽과 오픈AI 프로젝트 양날의 검? 정부, 사이버보안 위협 긴급 점검",
+      "oneLiner": "앤트로픽의 AI 보안 서비스 '미토스' 관련 국내 보안업계 충격 및 정부의 사이버보안 긴급 점검 소식을 다룬 기사로, AI 악용 리스크 우려가 핵심임.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "보안뉴스",
+          "title": "[미토스 충격] 앤트로픽과 오픈AI 프로젝트 양날의 검? 정부, 사이버보안 위협 긴급 점검",
+          "url": "http://www.boannews.com/media/view.asp?idx=143162&kind=&sub_kind="
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-04-15"
+    },
+    {
+      "id": "news:토스증권:http://www.boannews.com/media/view.asp?idx=143143&kind=&sub_kind=",
+      "date": "2026-04-14",
+      "company": "토스증권",
+      "title": "[미토스 충격] 보안 AI 시대 개막? “거버넌스 혁신 없으면 방어 힘들어”",
+      "oneLiner": "앤트로픽의 '클로드 미토스' 공개로 보안 영역에서 범용 AI 위협이 부각되며 금융권의 거버넌스·취약점 대응(예: VulnOps) 체계 강화 필요성이 강조됨.",
+      "type": "기타",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "보안뉴스",
+          "title": "[미토스 충격] 보안 AI 시대 개막? “거버넌스 혁신 없으면 방어 힘들어”",
+          "url": "http://www.boannews.com/media/view.asp?idx=143143&kind=&sub_kind="
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-04-15"
+    },
+    {
+      "id": "news:토스증권:http://www.boannews.com/media/view.asp?idx=143160&kind=&sub_kind=",
+      "date": "2026-04-14",
+      "company": "토스증권",
+      "title": "[미토스 충격] 국내 금융권 대응은?... 금융당국, 주요 금융사 EDR 점검",
+      "oneLiner": "금융당국이 주요 금융사 대상 EDR 점검을 언급하며 미토스 등 차세대 AI 관련 보안 리스크 점검과 대응 확산을 촉구하고 있음.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "보안뉴스",
+          "title": "[미토스 충격] 국내 금융권 대응은?... 금융당국, 주요 금융사 EDR 점검",
+          "url": "http://www.boannews.com/media/view.asp?idx=143160&kind=&sub_kind="
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-04-15"
+    },
+    {
       "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12015151",
       "date": "2026-04-13",
       "company": "한국투자증권",
