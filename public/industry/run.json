@@ -1,6 +1,6 @@
 {
-  "id": "2026-04-15T07:08:54.185590+09:00",
-  "ts": "2026-04-15T07:08:54.185590+09:00",
+  "id": "2026-04-16T07:07:45.234360+09:00",
+  "ts": "2026-04-16T07:07:45.234360+09:00",
   "timezone": "Asia/Seoul",
   "selectedTabs": [
     "ai",
@@ -10,14 +10,14 @@
     "realestate"
   ],
   "pipeline": {
-    "rawTotal": 225,
+    "rawTotal": 227,
     "rawClamped": 150,
     "rawByTabBeforeClamp": {
       "ai": 100,
-      "finance": 42,
+      "finance": 43,
       "semiconductor": 44,
       "ev": 15,
-      "realestate": 24
+      "realestate": 25
     },
     "rawByTabAfterClamp": {
       "ai": 70,
@@ -32,7 +32,7 @@
   },
   "sources": {
     "rss": {
-      "total": 195,
+      "total": 197,
       "bySource": {
         "OpenAI Blog": 15,
         "Google DeepMind Blog": 15,
@@ -44,13 +44,13 @@
         "EE Times": 10,
         "TechInsights": 10,
         "Electrek": 15,
-        "정책브리핑": 10,
+        "정책브리핑": 9,
         "매일경제(증권)": 15,
         "보안뉴스": 10,
         "벤처스퀘어": 15,
-        "한국경제(부동산)": 5,
-        "매일경제(부동산)": 4,
-        "헤럴드경제(부동산)": 7
+        "한국경제(부동산)": 2,
+        "매일경제(부동산)": 6,
+        "헤럴드경제(부동산)": 11
       }
     },
     "hf": {
@@ -70,11 +70,11 @@
     "ai": {
       "daily": {
         "raw": 4,
-        "cards": 3
+        "cards": 4
       },
       "weekly": {
-        "items": 12,
-        "issues": 4
+        "items": 11,
+        "issues": 5
       },
       "monthly": {
         "items": 66,
@@ -83,7 +83,7 @@
     },
     "finance": {
       "daily": {
-        "raw": 15,
+        "raw": 14,
         "cards": 4
       },
       "weekly": {
@@ -97,21 +97,21 @@
     },
     "semiconductor": {
       "daily": {
-        "raw": 5,
-        "cards": 4
+        "raw": 4,
+        "cards": 3
       },
       "weekly": {
-        "items": 14,
-        "issues": 5
+        "items": 13,
+        "issues": 4
       },
       "monthly": {
-        "items": 80,
+        "items": 79,
         "issues": 5
       }
     },
     "ev": {
       "daily": {
-        "raw": 15,
+        "raw": 10,
         "cards": 2
       },
       "weekly": {
