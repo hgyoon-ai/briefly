@@ -2,6 +2,171 @@
   "month": "2026-04",
   "events": [
     {
+      "id": "news:한국투자증권:https://www.hankyung.com/article/202604152460i",
+      "date": "2026-04-15",
+      "company": "한국투자증권",
+      "title": "한국투자증권 손익차등형 펀드 1066억원 설정…\"투자자 보호 강화\"",
+      "oneLiner": "한국투자증권이 손익차등형 펀드를 1,066억원 규모로 설정하며 투자자 보호 강화 조치를 병행해 상품을 출시했다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "한국투자증권 손익차등형 펀드 1066억원 설정…\"투자자 보호 강화\"",
+          "url": "https://www.hankyung.com/article/202604152460i"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-04-16"
+    },
+    {
+      "id": "news:삼성증권:https://www.mk.co.kr/news/stock/12018039",
+      "date": "2026-04-15",
+      "company": "삼성증권",
+      "title": "“8년 기다림 언제 끝나나”…삼성증권 발행어음 인가 ‘막판 제동’",
+      "oneLiner": "금감원의 불건전 영업행위 지적으로 삼성증권의 발행어음(단기금융업) 인가 절차가 다시 지연돼 사업 추진에 제동이 걸렸다.",
+      "type": "규제",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“8년 기다림 언제 끝나나”…삼성증권 발행어음 인가 ‘막판 제동’",
+          "url": "https://www.mk.co.kr/news/stock/12018039"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-04-16"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12017994",
+      "date": "2026-04-15",
+      "company": "미래에셋증권",
+      "title": "'미래에셋 3.0' 첫발 … 홍콩서 디지털자산 거래 서비스",
+      "oneLiner": "미래에셋증권 홍콩법인이 SFC로부터 디지털자산 리테일 라이선스를 받아 홍콩에서 개인 대상 디지털자산 거래 서비스를 출시한다.",
+      "type": "출시",
+      "areas": [
+        "트레이딩",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "'미래에셋 3.0' 첫발 … 홍콩서 디지털자산 거래 서비스",
+          "url": "https://www.mk.co.kr/news/stock/12017994"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-04-16"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202604151428090452",
+      "date": "2026-04-15",
+      "company": "미래에셋증권",
+      "title": "'TIGER 미국우주테크 ETF', 상장 첫날 개인 순매수 패시브 ETF 사상 최대 기록",
+      "oneLiner": "미래에셋자산운용의 TIGER 미국우주테크 ETF가 상장 첫날 개인 순매수 약 615억원을 기록하며 상장일 개인 순매수 기준 사상 최대를 기록했다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "'TIGER 미국우주테크 ETF', 상장 첫날 개인 순매수 패시브 ETF 사상 최대 기록",
+          "url": "https://www.fnnews.com/news/202604151428090452"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-04-16"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202604151431061529",
+      "date": "2026-04-15",
+      "company": "미래에셋증권",
+      "title": "미래에셋증권, 국내 첫 홍콩 디지털자산 리테일 사업 진출",
+      "oneLiner": "미래에셋증권 홍콩법인이 SFC로부터 디지털자산 리테일 라이선스를 획득해 6월 중 모바일트레이딩시스템을 통해 디지털자산 거래 서비스를 출시할 계획이다.",
+      "type": "출시",
+      "areas": [
+        "트레이딩",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋증권, 국내 첫 홍콩 디지털자산 리테일 사업 진출",
+          "url": "https://www.fnnews.com/news/202604151431061529"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-04-16"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202604151825427093",
+      "date": "2026-04-15",
+      "company": "미래에셋증권",
+      "title": "미래에셋證, 홍콩 디지털자산 리테일 시장 뚫었다",
+      "oneLiner": "미래에셋증권 홍콩법인이 SFC로부터 디지털자산 리테일 라이선스(VA License Uplift)를 최종 승인받아 6월 MTS를 통해 홍콩 개인 대상 디지털자산 거래 서비스를 출시할 예정입니다.",
+      "type": "출시",
+      "areas": [
+        "브로커리지",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋證, 홍콩 디지털자산 리테일 시장 뚫었다",
+          "url": "https://www.fnnews.com/news/202604151825427093"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-04-16"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202604150922321238",
+      "date": "2026-04-15",
+      "company": "KB증권",
+      "title": "'티맵 만보기' 쓰면 車 보험료 최대 9% 할인",
+      "oneLiner": "티맵모빌리티의 '티맵 만보기' 이용자가 목표 걸음 수를 충족하면 자동차 보험료를 최대 9% 할인해주는 '걸음 수 특약'을 제휴 보험사를 통해 제공하기로 한 제휴 상품 출시 소식입니다.",
+      "type": "제휴",
+      "areas": [
+        "WM",
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "'티맵 만보기' 쓰면 車 보험료 최대 9% 할인",
+          "url": "https://www.fnnews.com/news/202604150922321238"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-04-16"
+    },
+    {
       "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12016421",
       "date": "2026-04-14",
       "company": "미래에셋증권",

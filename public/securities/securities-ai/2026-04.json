@@ -2,6 +2,122 @@
   "month": "2026-04",
   "events": [
     {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202604151338168874",
+      "date": "2026-04-15",
+      "company": "한국투자증권",
+      "title": "'계열사 후순위 부담' 한투證, 공모펀드 1000억 모집",
+      "oneLiner": "한국투자증권이 손익차등형 공모펀드 약 1066억원을 설정했으며, 그룹계열사를 후순위로 구성한 구조와 함께 리스크 관리 고도화를 강조했다.",
+      "type": "출시",
+      "areas": [
+        "리스크",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "'계열사 후순위 부담' 한투證, 공모펀드 1000억 모집",
+          "url": "https://www.fnnews.com/news/202604151338168874"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-04-16"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202604150828525043",
+      "date": "2026-04-15",
+      "company": "미래에셋증권",
+      "title": "국내 첫 생성형 AI '유니콘' 됐다…업스테이지, 1800억 투자 유치",
+      "oneLiner": "업스테이지가 시리즈C로 기업가치 1조원을 넘어 국내 생성형 AI 최초 유니콘이 되었고, 미래에셋벤처투자 등 증권계열 투자자들이 참여했다.",
+      "type": "제휴",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "국내 첫 생성형 AI '유니콘' 됐다…업스테이지, 1800억 투자 유치",
+          "url": "https://www.fnnews.com/news/202604150828525043"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-04-16"
+    },
+    {
+      "id": "news:토스증권:https://www.fnnews.com/news/202604150755139348",
+      "date": "2026-04-15",
+      "company": "토스증권",
+      "title": "오픈AI도 보안전용 'GPT-5.4사이버' 공개...미토스에 맞불[글로벌AI브리핑]",
+      "oneLiner": "오픈AI가 사이버보안 취약점 탐지에 특화된 'GPT-5.4 사이버' 모델을 공개해 보안 분야 AI 경쟁이 가속화되고 있다.",
+      "type": "기타",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "오픈AI도 보안전용 'GPT-5.4사이버' 공개...미토스에 맞불[글로벌AI브리핑]",
+          "url": "https://www.fnnews.com/news/202604150755139348"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.6,
+      "updatedAt": "2026-04-16"
+    },
+    {
+      "id": "news:토스증권:http://www.boannews.com/media/view.asp?idx=143175&kind=&sub_kind=",
+      "date": "2026-04-15",
+      "company": "토스증권",
+      "title": "[미토스 충격] “제로트러스트 확산과 공급망 보안 강화해야“",
+      "oneLiner": "과기정통부가 미토스·오픈AI 관련 현안을 논의하며 제로트러스트 확산과 공급망 보안 강화를 권고하는 의견을 수렴했다.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "보안뉴스",
+          "title": "[미토스 충격] “제로트러스트 확산과 공급망 보안 강화해야“",
+          "url": "http://www.boannews.com/media/view.asp?idx=143175&kind=&sub_kind="
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-04-16"
+    },
+    {
+      "id": "news:토스증권:http://www.boannews.com/media/view.asp?idx=143174&kind=&sub_kind=",
+      "date": "2026-04-15",
+      "company": "토스증권",
+      "title": "[미토스 충격] “취약점, 발견 아니라 고치는 게 문제”... 25년 베테랑이 꼬집은 ‘미토스’ 한계",
+      "oneLiner": "보안 전문가가 미토스가 발견한 취약점의 상당수가 패치되지 않은 점을 문제로 지적하며, 취약점 발견보다 실제 조치가 핵심이라고 평가했다.",
+      "type": "기타",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "보안뉴스",
+          "title": "[미토스 충격] “취약점, 발견 아니라 고치는 게 문제”... 25년 베테랑이 꼬집은 ‘미토스’ 한계",
+          "url": "http://www.boannews.com/media/view.asp?idx=143174&kind=&sub_kind="
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-04-16"
+    },
+    {
       "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12016814",
       "date": "2026-04-14",
       "company": "미래에셋증권",
