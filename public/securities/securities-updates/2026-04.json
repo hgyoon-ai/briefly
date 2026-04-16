@@ -2,6 +2,54 @@
   "month": "2026-04",
   "events": [
     {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202604161018395318",
+      "date": "2026-04-16",
+      "company": "한국투자증권",
+      "title": "신한투자증권, 연세의료원과 기부 활성화 MOU 체결",
+      "oneLiner": "신한투자증권이 연세의료원과 기부 활성화를 위한 MOU를 체결하고 '신한 프리미어 행복이음신탁'을 활용한 기부신탁 서비스를 확대한다고 발표한 제휴 건.",
+      "type": "제휴",
+      "areas": [
+        "WM",
+        "상담"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "신한투자증권, 연세의료원과 기부 활성화 MOU 체결",
+          "url": "https://www.fnnews.com/news/202604161018395318"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-04-17"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202604161453224845",
+      "date": "2026-04-16",
+      "company": "KB증권",
+      "title": "KB증권, 해외주식 양도세 '계산법 선택' 도입…절세 전략까지 맡긴다",
+      "oneLiner": "KB증권이 해외주식 양도소득세 무료 신고 대행 서비스에 세액 계산 방식 선택(선입선출 vs 이동평균) 기능을 도입해 고객의 절세 선택권을 제공한다고 발표한 서비스 변경.",
+      "type": "출시",
+      "areas": [
+        "브로커리지",
+        "상담"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "KB증권, 해외주식 양도세 '계산법 선택' 도입…절세 전략까지 맡긴다",
+          "url": "https://www.fnnews.com/news/202604161453224845"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-04-17"
+    },
+    {
       "id": "news:한국투자증권:https://www.hankyung.com/article/202604152460i",
       "date": "2026-04-15",
       "company": "한국투자증권",

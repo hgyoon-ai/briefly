@@ -2,6 +2,29 @@
   "month": "2026-04",
   "events": [
     {
+      "id": "news:토스증권:https://www.fnnews.com/news/202604161109267690",
+      "date": "2026-04-16",
+      "company": "토스증권",
+      "title": "폴라리스오피스, 'AI 보안 위협' 선제 대응...솔루션 확대 적용",
+      "oneLiner": "폴라리스오피스가 AI 기반 사이버 위협 확산에 대응해 아틀라시안 '가드 프리미엄' 등 글로벌 보안 솔루션을 도입해 내부 데이터 통제와 비정상 접근 탐지 기능을 확대했다.",
+      "type": "시스템",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "폴라리스오피스, 'AI 보안 위협' 선제 대응...솔루션 확대 적용",
+          "url": "https://www.fnnews.com/news/202604161109267690"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-04-17"
+    },
+    {
       "id": "news:한국투자증권:https://www.fnnews.com/news/202604151338168874",
       "date": "2026-04-15",
       "company": "한국투자증권",
