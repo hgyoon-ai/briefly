@@ -1,6 +1,6 @@
 {
-  "id": "2026-04-17T07:04:14.557754+09:00",
-  "ts": "2026-04-17T07:04:14.557754+09:00",
+  "id": "2026-04-18T07:04:17.182362+09:00",
+  "ts": "2026-04-18T07:04:17.182362+09:00",
   "timezone": "Asia/Seoul",
   "selectedTabs": [
     "ai",
@@ -47,8 +47,9 @@
         "매일경제(증권)": 15,
         "보안뉴스": 10,
         "벤처스퀘어": 15,
+        "정책브리핑": 3,
         "한국경제(부동산)": 2,
-        "매일경제(부동산)": 6,
+        "매일경제(부동산)": 3,
         "헤럴드경제(부동산)": 9
       }
     },
@@ -68,15 +69,15 @@
   "tabs": {
     "ai": {
       "daily": {
-        "raw": 6,
-        "cards": 5
+        "raw": 3,
+        "cards": 3
       },
       "weekly": {
-        "items": 14,
+        "items": 17,
         "issues": 5
       },
       "monthly": {
-        "items": 69,
+        "items": 67,
         "issues": 5
       }
     },
@@ -96,26 +97,26 @@
     },
     "semiconductor": {
       "daily": {
-        "raw": 7,
-        "cards": 4
+        "raw": 4,
+        "cards": 2
       },
       "weekly": {
-        "items": 13,
+        "items": 15,
         "issues": 5
       },
       "monthly": {
-        "items": 82,
-        "issues": 4
+        "items": 80,
+        "issues": 5
       }
     },
     "ev": {
       "daily": {
-        "raw": 14,
+        "raw": 15,
         "cards": 2
       },
       "weekly": {
-        "items": 11,
-        "issues": 4
+        "items": 12,
+        "issues": 5
       },
       "monthly": {
         "items": 58,
