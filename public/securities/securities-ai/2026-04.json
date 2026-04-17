@@ -2,6 +2,76 @@
   "month": "2026-04",
   "events": [
     {
+      "id": "news:키움증권:https://www.fnnews.com/news/202604171407584283",
+      "date": "2026-04-17",
+      "company": "키움증권",
+      "title": "키움證, 취준생 29명에 568시간 금융 데이터 교육",
+      "oneLiner": "키움증권의 금융 데이터 분석 교육 수료 소식과 최우수 프로젝트로 AI 챗봇 '히로'가 선정된 사실을 보도한다.",
+      "type": "출시",
+      "areas": [
+        "상담",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "키움證, 취준생 29명에 568시간 금융 데이터 교육",
+          "url": "https://www.fnnews.com/news/202604171407584283"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-04-18"
+    },
+    {
+      "id": "news:토스증권:http://www.boannews.com/media/view.asp?idx=143223&kind=&sub_kind=",
+      "date": "2026-04-17",
+      "company": "토스증권",
+      "title": "[미토스 충격] 영국 정부, 기업에 긴급 서한 “골키퍼 없는 골대, 이제는 채워야 할 때”",
+      "oneLiner": "영국 정부가 대형 AI 모델 출시 이후 확산되는 보안 우려에 대응해 기업들에 사이버 방어 강화를 촉구하는 공개 서한을 보냈다는 보도이다.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "보안뉴스",
+          "title": "[미토스 충격] 영국 정부, 기업에 긴급 서한 “골키퍼 없는 골대, 이제는 채워야 할 때”",
+          "url": "http://www.boannews.com/media/view.asp?idx=143223&kind=&sub_kind="
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-04-18"
+    },
+    {
+      "id": "news:토스증권:http://www.boannews.com/media/view.asp?idx=143222&kind=&sub_kind=",
+      "date": "2026-04-17",
+      "company": "토스증권",
+      "title": "금융보안원, 금융사 AX 인력 키운다",
+      "oneLiner": "금융보안원이 금융사 임직원 대상 'AI 보안 전문인력 양성과정'을 개설해 현장에서 활용 가능한 AI 보안 역량을 키우겠다고 발표했다.",
+      "type": "출시",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "보안뉴스",
+          "title": "금융보안원, 금융사 AX 인력 키운다",
+          "url": "http://www.boannews.com/media/view.asp?idx=143222&kind=&sub_kind="
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-04-18"
+    },
+    {
       "id": "news:토스증권:https://www.fnnews.com/news/202604161109267690",
       "date": "2026-04-16",
       "company": "토스증권",
