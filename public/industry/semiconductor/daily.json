@@ -1,64 +1,12 @@
 {
-  "date": "2026-04-18",
+  "date": "2026-04-19",
   "highlights": {
-    "bullets": [
-      "핵심: TSMC가 AI 수요 급증에 대응해 생산 확대에 박차를 가하고 있다.",
-      "핵심: Cadence가 AI 에이전트 스택을 공개하며 시스템 설계 워크플로에 변화를 예고했다."
-    ],
-    "topTopics": [
-      "Competition",
-      "Roadmap",
-      "Manufacturing",
-      "Investment"
-    ],
+    "bullets": [],
+    "topTopics": [],
     "stats": {
-      "collected": 4,
-      "deduped": 4
+      "collected": 0,
+      "deduped": 0
     }
   },
-  "cards": [
-    {
-      "id": "semiconductor_0001",
-      "tab": "semiconductor",
-      "publishedAt": "2026-04-18T05:00:00+09:00",
-      "source": "EE Times",
-      "title": "TSMC Chases Soaring AI Demand",
-      "summary": [
-        "TSMC가 AI 수요 급증에 대응해 생산 확대에 박차를 가하고 있다.",
-        "파운드리 증설을 추진하지만 단기적으로는 칩 부족 우려가 남아 있다.",
-        "AI 업체들 간 칩 확보 경쟁과 공급망 긴장이 심화될 가능성이 크다."
-      ],
-      "whyItMatters": "TSMC의 생산 역량 변동은 글로벌 AI 서비스·제품 출시 일정과 비용에 즉각적 영향을 미치기 때문이다.",
-      "topics": [
-        "Manufacturing",
-        "Demand",
-        "Competition",
-        "Investment"
-      ],
-      "status": "ONGOING",
-      "hash": "a6837ae154d9a86f0afe25f69601b5757c62bc1a8dad04bcfb45445e52f27eb7",
-      "url": "https://www.eetimes.com/tsmc-chases-soaring-ai-demand/"
-    },
-    {
-      "id": "semiconductor_0002",
-      "tab": "semiconductor",
-      "publishedAt": "2026-04-18T02:22:48+09:00",
-      "source": "EE Times",
-      "title": "First Take on CadenceLive and Its AI Agent Stacks for EDA",
-      "summary": [
-        "Cadence가 AI 에이전트 스택을 공개하며 시스템 설계 워크플로에 변화를 예고했다.",
-        "새 스택은 설계 자동화와 협업, 생산성 향상을 위해 AI 기반 의사결정·자동화 기능을 통합한다.",
-        "이 발표는 EDA 경쟁 구도와 기업 제품 로드맵에 즉각적·장기적 영향을 미칠 가능성이 크다."
-      ],
-      "whyItMatters": "AI 통합으로 설계 주기 단축과 경쟁 재편이 예상되어 업계 전략과 투자 우선순위에 실질적 영향을 주기 때문이다.",
-      "topics": [
-        "Roadmap",
-        "Competition",
-        "Investment"
-      ],
-      "status": "NEW",
-      "hash": "6b05a28b56cf6f3badc558ce72cab7fd7389d003dd9b066abf1f6517618de0f0",
-      "url": "https://www.eetimes.com/first-take-on-cadencelive-and-its-ai-agent-stacks-for-eda/"
-    }
-  ]
+  "cards": []
 }
