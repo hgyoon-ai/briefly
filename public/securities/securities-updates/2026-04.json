@@ -2,6 +2,261 @@
   "month": "2026-04",
   "events": [
     {
+      "id": "news:신한투자증권:https://www.hankyung.com/article/2026042037981",
+      "date": "2026-04-20",
+      "company": "신한투자증권",
+      "title": "'SOL 미국우주항공TOP10 ETF' 21일 상장",
+      "oneLiner": "'SOL 미국우주항공TOP10 ETF'가 4월 21일 상장 예정으로 ETF 신규 상장 소식.",
+      "type": "출시",
+      "areas": [
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "'SOL 미국우주항공TOP10 ETF' 21일 상장",
+          "url": "https://www.hankyung.com/article/2026042037981"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-04-21"
+    },
+    {
+      "id": "news:한국투자증권:https://www.hankyung.com/article/2026042023946",
+      "date": "2026-04-20",
+      "company": "한국투자증권",
+      "title": "한투운용 '국내대표지수·K-성장 결합' 목표전환 펀드 출시",
+      "oneLiner": "한투운용이 국내대표지수와 K-성장을 결합한 목표전환형 펀드를 출시함.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "한투운용 '국내대표지수·K-성장 결합' 목표전환 펀드 출시",
+          "url": "https://www.hankyung.com/article/2026042023946"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-04-21"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202604200915359472",
+      "date": "2026-04-20",
+      "company": "한국투자증권",
+      "title": "한투운용, '한국투자 함께해요K지수와성장테마 목표전환 펀드' 선보여",
+      "oneLiner": "한국투자신탁운용이 목표 수익 달성 시 채권형으로 전환되는 목표전환형 펀드를 선보임(단위형 모집).",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투운용, '한국투자 함께해요K지수와성장테마 목표전환 펀드' 선보여",
+          "url": "https://www.fnnews.com/news/202604200915359472"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-04-21"
+    },
+    {
+      "id": "news:키움증권:https://www.fnnews.com/news/202604201003455182",
+      "date": "2026-04-20",
+      "company": "키움증권",
+      "title": "\"2차전지의 시간\" 삼성SDI, 목표주가 58만원도 코앞…한화비전, 1분기 '어닝 서프라이즈' 예고 [株토피아]",
+      "oneLiner": "키움증권 등 주요 증권사 리포트 요약—기업별 목표주가 및 실적 전망을 제시한 리서치 보도.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"2차전지의 시간\" 삼성SDI, 목표주가 58만원도 코앞…한화비전, 1분기 '어닝 서프라이즈' 예고 [株토피아]",
+          "url": "https://www.fnnews.com/news/202604201003455182"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-04-21"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202604201015055263",
+      "date": "2026-04-20",
+      "company": "하나증권",
+      "title": "하나증권, IRP 수익률 25% 기록…\"증권업계 1위\"",
+      "oneLiner": "하나증권이 IRP 1년 수익률 25.73%로 업계 1위 기록, 지난해 퇴직연금 시스템 전면 재구축을 성과 배경으로 제시.",
+      "type": "시스템",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "하나증권, IRP 수익률 25% 기록…\"증권업계 1위\"",
+          "url": "https://www.fnnews.com/news/202604201015055263"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-04-21"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202604201435059048",
+      "date": "2026-04-20",
+      "company": "NH투자증권",
+      "title": "NH투자증권, 쿼타랩과 '주식보상제도 실무전략' 세미나 개최",
+      "oneLiner": "NH투자증권이 쿼타랩과 공동으로 상법 개정 대응 '주식보상제도 실무전략' 세미나를 개최해 제도 운영 실무를 안내함.",
+      "type": "규제",
+      "areas": [
+        "상담"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "NH투자증권, 쿼타랩과 '주식보상제도 실무전략' 세미나 개최",
+          "url": "https://www.fnnews.com/news/202604201435059048"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-04-21"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202604201448141424",
+      "date": "2026-04-20",
+      "company": "미래에셋증권",
+      "title": "반등 기대 높아진 銀...은 현물 ETF 출시 '러시'",
+      "oneLiner": "미래에셋자산운용이 국제 은 현물을 추종하는 'TIGER 은액티브' ETF 상장을 준비 중임.",
+      "type": "출시",
+      "areas": [
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "반등 기대 높아진 銀...은 현물 ETF 출시 '러시'",
+          "url": "https://www.fnnews.com/news/202604201448141424"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-04-21"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202604201641570221",
+      "date": "2026-04-20",
+      "company": "한국투자증권",
+      "title": "한투증권, IRP 가입자 52만·적립금 8.8조…1Q 동반 성장",
+      "oneLiner": "한국투자증권의 IRP 가입자·적립금이 1분기 큰 폭으로 증가, 통합 연금 관리 체계와 컨설팅 역량 강화를 추진 중임.",
+      "type": "시스템",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투증권, IRP 가입자 52만·적립금 8.8조…1Q 동반 성장",
+          "url": "https://www.fnnews.com/news/202604201641570221"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-04-21"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202604201817396999",
+      "date": "2026-04-20",
+      "company": "미래에셋증권",
+      "title": "산업 수요 늘어난 銀…현물 ETF 쏟아진다",
+      "oneLiner": "업계에서 퇴직연금 계좌 투자 가능한 은 현물 ETF 출시가 잇따라 준비되고 있다는 보도(상품 공급 확대).",
+      "type": "출시",
+      "areas": [
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "산업 수요 늘어난 銀…현물 ETF 쏟아진다",
+          "url": "https://www.fnnews.com/news/202604201817396999"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-04-21"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202604202027251938",
+      "date": "2026-04-20",
+      "company": "미래에셋증권",
+      "title": "금감원, 6대 증권사 회사채 발행 관행 '경고장'",
+      "oneLiner": "금감원이 대형 증권사 6곳에 공모 회사채 발행주관·운용 업무 관련 '경영유의' 조치를 부과하며 부서 간 내부 손익 조정 및 독립성 미확보 관행을 지적함.",
+      "type": "규제",
+      "areas": [
+        "리스크",
+        "브로커리지",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "금감원, 6대 증권사 회사채 발행 관행 '경고장'",
+          "url": "https://www.fnnews.com/news/202604202027251938"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.98,
+      "updatedAt": "2026-04-21"
+    },
+    {
+      "id": "news:KB증권:http://www.boannews.com/media/view.asp?idx=143278&kind=&sub_kind=",
+      "date": "2026-04-20",
+      "company": "KB증권",
+      "title": "‘페이아웃킹’으로 탈바꿈한 블랙바스타, 기업 보안망 정조준",
+      "oneLiner": "랜섬웨어 그룹 블랙바스타 잔당들이 '페이아웃킹'으로 재편되어 기업 보안망을 노리는 데이터 탈취·선택적 파일 암호화 공격을 지속하고 있음.",
+      "type": "시스템",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "보안뉴스",
+          "title": "‘페이아웃킹’으로 탈바꿈한 블랙바스타, 기업 보안망 정조준",
+          "url": "http://www.boannews.com/media/view.asp?idx=143278&kind=&sub_kind="
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-04-21"
+    },
+    {
       "id": "news:신한투자증권:http://www.boannews.com/media/view.asp?idx=143232&kind=&sub_kind=",
       "date": "2026-04-19",
       "company": "신한투자증권",
