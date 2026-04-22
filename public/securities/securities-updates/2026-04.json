@@ -2,6 +2,123 @@
   "month": "2026-04",
   "events": [
     {
+      "id": "news:NH투자증권:https://www.mk.co.kr/news/stock/12023806",
+      "date": "2026-04-22",
+      "company": "NH투자증권",
+      "title": "2차전지 업황 회복되나…NH증권 “삼성SDI 88만원 간다” [매경 자이앤트]",
+      "oneLiner": "NH투자증권이 삼성SDI에 대해 목표주가를 제시하며 2차전지 업황 회복 전망을 담은 리서치 리포트를 발표함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "2차전지 업황 회복되나…NH증권 “삼성SDI 88만원 간다” [매경 자이앤트]",
+          "url": "https://www.mk.co.kr/news/stock/12023806"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-04-23"
+    },
+    {
+      "id": "news:NH투자증권:https://www.mk.co.kr/news/stock/12023650",
+      "date": "2026-04-22",
+      "company": "NH투자증권",
+      "title": "[단독] 공정위, 네이버-두나무 기업결합 추가 연구용역…심사지연 우려",
+      "oneLiner": "공정거래위원회가 네이버-두나무 기업결합 심사와 관련해 추가 연구용역을 발주하면서 심사 지연 우려가 제기되고 있다.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[단독] 공정위, 네이버-두나무 기업결합 추가 연구용역…심사지연 우려",
+          "url": "https://www.mk.co.kr/news/stock/12023650"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-04-23"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202604221305533600",
+      "date": "2026-04-22",
+      "company": "미래에셋증권",
+      "title": "증권업계, '빚투' 진정 시키기...\"레버리지 투자 제한·증거금률 상향\"",
+      "oneLiner": "여러 증권사가 레버리지 투자 제한, 증거금률 상향, CFD 신규매수 중단 등 증거금·레버리지 규제를 강화하는 운영·정책 변경을 시행하고 있다.",
+      "type": "규제",
+      "areas": [
+        "리스크",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "증권업계, '빚투' 진정 시키기...\"레버리지 투자 제한·증거금률 상향\"",
+          "url": "https://www.fnnews.com/news/202604221305533600"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-04-23"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202604221820120029",
+      "date": "2026-04-22",
+      "company": "미래에셋증권",
+      "title": "증권사들 다시 늘어난 '빚투' 누른다",
+      "oneLiner": "증권사들이 신용거래·CFD 관련 규제를 강화해 '빚투' 과열을 진정시키기 위한 증거금·레버리지 제한 조치를 잇따라 도입하고 있다.",
+      "type": "규제",
+      "areas": [
+        "리스크",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "증권사들 다시 늘어난 '빚투' 누른다",
+          "url": "https://www.fnnews.com/news/202604221820120029"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-04-23"
+    },
+    {
+      "id": "news:메리츠증권:https://www.fnnews.com/news/202604221813150388",
+      "date": "2026-04-22",
+      "company": "메리츠증권",
+      "title": "미소 짓는 K게임… 신작 돌풍에 '이례적 실적' 기대",
+      "oneLiner": "메리츠증권은 주요 게임사 신작 효과로 1분기 이례적 실적 개선을 전망하며 7개사 합산 매출과 영업이익 추정치를 제시했다. 증권가 컨센서스 대비 영업이익이 20% 이상 증가할 것으로 예상된다고 밝혔다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "미소 짓는 K게임… 신작 돌풍에 '이례적 실적' 기대",
+          "url": "https://www.fnnews.com/news/202604221813150388"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-04-23"
+    },
+    {
       "id": "news:키움증권:https://www.hankyung.com/article/202604216537i",
       "date": "2026-04-21",
       "company": "키움증권",
