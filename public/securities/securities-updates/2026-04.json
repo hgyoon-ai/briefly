@@ -2,6 +2,98 @@
   "month": "2026-04",
   "events": [
     {
+      "id": "534d8546e0b780d4fef716b5c2d463415d3c0000",
+      "date": "2026-04-23",
+      "company": "NH투자증권",
+      "title": "기업설명회(IR)개최(안내공시)              ",
+      "oneLiner": "기업설명회(IR) 개최 안내 공시로 대외 커뮤니케이션 및 IR 일정에 관한 운영 변경 사항임.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "기업설명회(IR)개최(안내공시)              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260423800928"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-04-24"
+    },
+    {
+      "id": "5186af3713033516072a45d5fc61bea5da072913",
+      "date": "2026-04-23",
+      "company": "NH투자증권",
+      "title": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "oneLiner": "연결재무제표 기준 영업(잠정)실적의 공정공시로 재무실적 변화에 해당하는 중요 공시임.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260423800876"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.98,
+      "updatedAt": "2026-04-24"
+    },
+    {
+      "id": "d80b317537d7027d0b3f888985d9121519abfe5c",
+      "date": "2026-04-23",
+      "company": "키움증권",
+      "title": "기업설명회(IR)개최(안내공시)              ",
+      "oneLiner": "기업설명회(IR) 개최 안내 공시로 회사의 대외·투자자 소통 일정에 관한 운영 정보임.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "기업설명회(IR)개최(안내공시)              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260423800186"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-04-24"
+    },
+    {
+      "id": "f3521aab32f9f9a8bd73311669322fe1a1e0fbd0",
+      "date": "2026-04-23",
+      "company": "키움증권",
+      "title": "결산실적공시예고(안내공시)              ",
+      "oneLiner": "결산실적 공시 예고(안내공시)로 재무보고 일정과 관련된 중요한 공시임.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "결산실적공시예고(안내공시)              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260423800183"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-04-24"
+    },
+    {
       "id": "news:NH투자증권:https://www.mk.co.kr/news/stock/12023806",
       "date": "2026-04-22",
       "company": "NH투자증권",
