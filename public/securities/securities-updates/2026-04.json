@@ -2,6 +2,236 @@
   "month": "2026-04",
   "events": [
     {
+      "id": "92b4d9a6ef87630e1f98d43688cca5c02e590c10",
+      "date": "2026-04-24",
+      "company": "삼성증권",
+      "title": "삼성증권 iOS 앱 업데이트 v3.1.2",
+      "oneLiner": "삼성증권 iOS 앱에 다크테마 지원 기능이 추가되고 시스템 안정화가 적용된 업데이트가 배포되었습니다.",
+      "type": "시스템",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "app_store",
+      "sources": [
+        {
+          "source": "App Store",
+          "title": "삼성증권 iOS 앱 업데이트 v3.1.2",
+          "url": "https://apps.apple.com/kr/app/%EC%82%BC%EC%84%B1%EC%A6%9D%EA%B6%8C-mpop/id1150231646?uo=4"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-04-25"
+    },
+    {
+      "id": "78959d3172acc9f308833dd1a201a5efd7a67ccf",
+      "date": "2026-04-24",
+      "company": "하나증권",
+      "title": "주요사항보고서(자본으로인정되는채무증권발행결정)",
+      "oneLiner": "하나증권이 자본으로 인정되는 채무증권 발행을 결정하고 주요사항보고서를 제출했습니다.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "주요사항보고서(자본으로인정되는채무증권발행결정)",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260424000591"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-04-25"
+    },
+    {
+      "id": "news:NH투자증권:https://www.hankyung.com/article/202604245771i",
+      "date": "2026-04-24",
+      "company": "NH투자증권",
+      "title": "NH투자증권, 단독대표서 각자대표 체제로 전환",
+      "oneLiner": "NH투자증권이 단독대표 체제에서 각자대표 체제로 대표이사 운영체제를 변경했습니다.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "NH투자증권, 단독대표서 각자대표 체제로 전환",
+          "url": "https://www.hankyung.com/article/202604245771i"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-04-25"
+    },
+    {
+      "id": "news:NH투자증권:https://www.mk.co.kr/news/stock/12027024",
+      "date": "2026-04-24",
+      "company": "NH투자증권",
+      "title": "NH투자증권도 각자대표 체제로 전환...“각 사업부 전문성 강화 포석”",
+      "oneLiner": "NH투자증권이 각자대표 체제로 전환하면서 사업부 전문성 강화를 위한 보완장치를 단계적으로 마련할 계획입니다.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "NH투자증권도 각자대표 체제로 전환...“각 사업부 전문성 강화 포석”",
+          "url": "https://www.mk.co.kr/news/stock/12027024"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-04-25"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12026895",
+      "date": "2026-04-24",
+      "company": "한국투자증권",
+      "title": "“동학 개미들 정보 부족한데...” 주식거래 12시간 연장에 개인투자자들 반발",
+      "oneLiner": "한국거래소의 주식 거래시간 연장 추진에 대해 개인투자자들의 반발과 업계 논의가 불거지고 있습니다.",
+      "type": "규제",
+      "areas": [
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“동학 개미들 정보 부족한데...” 주식거래 12시간 연장에 개인투자자들 반발",
+          "url": "https://www.mk.co.kr/news/stock/12026895"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.6,
+      "updatedAt": "2026-04-25"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12026831",
+      "date": "2026-04-24",
+      "company": "한국투자증권",
+      "title": "신한증권 뉴욕법인 키움에 매각",
+      "oneLiner": "신한투자증권이 미국 뉴욕법인을 키움증권에 매각하기로 결정하는 등 글로벌 사업 구조 조정이 진행되고 있습니다.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "신한증권 뉴욕법인 키움에 매각",
+          "url": "https://www.mk.co.kr/news/stock/12026831"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-04-25"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12026454",
+      "date": "2026-04-24",
+      "company": "한국투자증권",
+      "title": "한투운용 ‘글로벌반도체TOP4 Plus’, 순자산 1조2000억원 돌파",
+      "oneLiner": "한국투자신탁운용의 'ACE 글로벌반도체TOP4 Plus' ETF 순자산액이 1조2000억원을 돌파했습니다.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한투운용 ‘글로벌반도체TOP4 Plus’, 순자산 1조2000억원 돌파",
+          "url": "https://www.mk.co.kr/news/stock/12026454"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-04-25"
+    },
+    {
+      "id": "news:삼성증권:https://www.fnnews.com/news/202604240845338828",
+      "date": "2026-04-24",
+      "company": "삼성증권",
+      "title": "OCI홀딩스, 중장기 펀더멘털 변화 긍정적..목표가 55% ↑ -삼성證",
+      "oneLiner": "삼성증권 연구원이 OCI홀딩스의 목표주가를 55% 상향하며 투자의견 '매수'를 유지하는 리포트를 발표했습니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "OCI홀딩스, 중장기 펀더멘털 변화 긍정적..목표가 55% ↑ -삼성證",
+          "url": "https://www.fnnews.com/news/202604240845338828"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-04-25"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202604241248014728",
+      "date": "2026-04-24",
+      "company": "한국투자증권",
+      "title": "ACE 글로벌반도체TOP4 Plus, 순자산 1조2000억원...상장 후 수익률 596%",
+      "oneLiner": "한국투자신탁운용의 ACE 글로벌반도체TOP4 Plus ETF 순자산이 1조2000억원을 넘어섰다는 보도입니다.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "ACE 글로벌반도체TOP4 Plus, 순자산 1조2000억원...상장 후 수익률 596%",
+          "url": "https://www.fnnews.com/news/202604241248014728"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-04-25"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202604242233301616",
+      "date": "2026-04-24",
+      "company": "NH투자증권",
+      "title": "NH투자증권, 단독 대표에서 '각자 대표' 체제로 전환",
+      "oneLiner": "NH투자증권이 단독 대표에서 각자 대표 체제로 전환해 핵심 사업부문의 전문화와 책임경영을 추진한다. 경영체제 변경은 회사 운영·의사결정 구조에 직접적인 영향을 주는 변경사항으로 모니터링이 필요하다.",
+      "type": "시스템",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "NH투자증권, 단독 대표에서 '각자 대표' 체제로 전환",
+          "url": "https://www.fnnews.com/news/202604242233301616"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-04-25"
+    },
+    {
       "id": "534d8546e0b780d4fef716b5c2d463415d3c0000",
       "date": "2026-04-23",
       "company": "NH투자증권",
@@ -22,7 +252,7 @@
       ],
       "tags": [],
       "confidence": 0.95,
-      "updatedAt": "2026-04-24"
+      "updatedAt": "2026-04-25"
     },
     {
       "id": "5186af3713033516072a45d5fc61bea5da072913",
@@ -45,7 +275,7 @@
       ],
       "tags": [],
       "confidence": 0.98,
-      "updatedAt": "2026-04-24"
+      "updatedAt": "2026-04-25"
     },
     {
       "id": "d80b317537d7027d0b3f888985d9121519abfe5c",
@@ -68,7 +298,7 @@
       ],
       "tags": [],
       "confidence": 0.95,
-      "updatedAt": "2026-04-24"
+      "updatedAt": "2026-04-25"
     },
     {
       "id": "f3521aab32f9f9a8bd73311669322fe1a1e0fbd0",
@@ -91,7 +321,7 @@
       ],
       "tags": [],
       "confidence": 0.95,
-      "updatedAt": "2026-04-24"
+      "updatedAt": "2026-04-25"
     },
     {
       "id": "news:NH투자증권:https://www.mk.co.kr/news/stock/12023806",
