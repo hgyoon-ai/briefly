@@ -2,6 +2,52 @@
   "month": "2026-04",
   "events": [
     {
+      "id": "news:토스증권:https://www.fnnews.com/news/202604261849243781",
+      "date": "2026-04-26",
+      "company": "토스증권",
+      "title": "\"AI가 AI를 해킹한다\"... 미토스가 흔든 보안",
+      "oneLiner": "AI 기반 공격(에이전틱 AI 등)이 고도화되며 기존 보안 대책으로는 대응이 어려워 증권사 차원의 사이버·운영 리스크가 증대될 수 있음을 경고하는 내용임.",
+      "type": "리서치",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "\"AI가 AI를 해킹한다\"... 미토스가 흔든 보안",
+          "url": "https://www.fnnews.com/news/202604261849243781"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-04-27"
+    },
+    {
+      "id": "news:토스증권:https://www.fnnews.com/news/202604261849273950",
+      "date": "2026-04-26",
+      "company": "토스증권",
+      "title": "AI 보안동맹 '글래스윙' 못들어간 韓… 7월 골든타임 놓칠라 [AI의 역습]",
+      "oneLiner": "AI 보안·거버넌스 이슈와 국제 협력(보안동맹 참여) 지연이 초래할 리스크와 대응 시한(골든타임)에 대해 다루는 기사로, 보안 리스크·정책 영향이 금융사에 시사하는 점이 큼.",
+      "type": "리서치",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "AI 보안동맹 '글래스윙' 못들어간 韓… 7월 골든타임 놓칠라 [AI의 역습]",
+          "url": "https://www.fnnews.com/news/202604261849273950"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-04-27"
+    },
+    {
       "id": "news:한국투자증권:https://www.fnnews.com/news/202604241053484182",
       "date": "2026-04-24",
       "company": "한국투자증권",
