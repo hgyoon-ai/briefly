@@ -2,6 +2,52 @@
   "month": "2026-04",
   "events": [
     {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12028376",
+      "date": "2026-04-27",
+      "company": "미래에셋증권",
+      "title": "미래에셋증권, 코리아액티브테마ETF랩 출시…증시 주도 테마 투자",
+      "oneLiner": "미래에셋증권이 자문형 랩어카운트 '코리아액티브테마ETF랩'을 출시했음 — 증권사 신상품(자문형 랩) 출시로 상품·운영 영향 발생.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "미래에셋증권, 코리아액티브테마ETF랩 출시…증시 주도 테마 투자",
+          "url": "https://www.mk.co.kr/news/stock/12028376"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-04-28"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12028361",
+      "date": "2026-04-27",
+      "company": "미래에셋증권",
+      "title": "미래에셋증권, RIA 고객 잔고 2500억 돌파",
+      "oneLiner": "RIA(국내시장복귀계좌) 누적 잔고 2,500억 원 돌파 보도 — 제도 시행 후 제품 채택·운영 실적 관련 주요 업데이트.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "미래에셋증권, RIA 고객 잔고 2500억 돌파",
+          "url": "https://www.mk.co.kr/news/stock/12028361"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-04-28"
+    },
+    {
       "id": "news:NH투자증권:https://www.hankyung.com/article/2026042673831",
       "date": "2026-04-26",
       "company": "NH투자증권",
@@ -47,7 +93,7 @@
       ],
       "tags": [],
       "confidence": 0.95,
-      "updatedAt": "2026-04-27"
+      "updatedAt": "2026-04-28"
     },
     {
       "id": "92b4d9a6ef87630e1f98d43688cca5c02e590c10",
