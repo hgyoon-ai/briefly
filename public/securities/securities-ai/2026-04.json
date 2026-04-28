@@ -2,6 +2,121 @@
   "month": "2026-04",
   "events": [
     {
+      "id": "news:토스증권:https://www.fnnews.com/news/202604281038113645",
+      "date": "2026-04-28",
+      "company": "토스증권",
+      "title": "美 CRWD·PANW, 잇달아 '미토스 대응 연합체' 출범",
+      "oneLiner": "크라우드스트라이크 등 보안업체들이 앤트로픽의 '미토스'에 대응하기 위해 산업 차원의 연합체 '프로젝트 퀼트웍스'를 출범했다.",
+      "type": "기타",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "美 CRWD·PANW, 잇달아 '미토스 대응 연합체' 출범",
+          "url": "https://www.fnnews.com/news/202604281038113645"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-04-29"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202604280946552347",
+      "date": "2026-04-28",
+      "company": "KB증권",
+      "title": "\"삼성전기, AI 실적 대폭발 대비\" 목표가 105만원 ↑… \"LG이노텍, 인텔 최대 수혜주\" 목표가 2배 [株토피아]",
+      "oneLiner": "KB증권 리포트는 삼성전기와 LG이노텍을 AI 슈퍼사이클 수혜주로 제시하며 목표가를 크게 상향했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"삼성전기, AI 실적 대폭발 대비\" 목표가 105만원 ↑… \"LG이노텍, 인텔 최대 수혜주\" 목표가 2배 [株토피아]",
+          "url": "https://www.fnnews.com/news/202604280946552347"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-04-29"
+    },
+    {
+      "id": "news:토스증권:https://www.fnnews.com/news/202604281236468772",
+      "date": "2026-04-28",
+      "company": "토스증권",
+      "title": "\"AI 3강인데 글래스윙 왜 참여 못하나\"...이해민 의원 지적",
+      "oneLiner": "국회에서 한국이 앤트로픽의 '프로젝트 글래스윙' 참여권을 확보하지 못한 점과 정부의 AI 보안 대응 지연을 질타했다.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "\"AI 3강인데 글래스윙 왜 참여 못하나\"...이해민 의원 지적",
+          "url": "https://www.fnnews.com/news/202604281236468772"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-04-29"
+    },
+    {
+      "id": "news:토스증권:http://www.boannews.com/media/view.asp?idx=143407&kind=&sub_kind=",
+      "date": "2026-04-28",
+      "company": "토스증권",
+      "title": "포티넷 “미토스 공포? AI 훤히 들여다 보는 AI 갖춰야”",
+      "oneLiner": "포티넷은 미토스 등 고도화된 AI 위협에 대응하려면 가시성·연결성·자동화가 확보된 SOC와 AI 기반 방어체계가 필요하다고 강조했다.",
+      "type": "시스템",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "보안뉴스",
+          "title": "포티넷 “미토스 공포? AI 훤히 들여다 보는 AI 갖춰야”",
+          "url": "http://www.boannews.com/media/view.asp?idx=143407&kind=&sub_kind="
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-04-29"
+    },
+    {
+      "id": "news:토스증권:http://www.boannews.com/media/view.asp?idx=143398&kind=&sub_kind=",
+      "date": "2026-04-28",
+      "company": "토스증권",
+      "title": "[미토스 충격] “정부 대책 뭔가?”... 국회 질타 한 목소리",
+      "oneLiner": "국회 과방위가 '미토스' 등 AI 기반 보안 위협에 대해 정부의 전략적 대응을 주문하며 대책 마련을 촉구했다.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "보안뉴스",
+          "title": "[미토스 충격] “정부 대책 뭔가?”... 국회 질타 한 목소리",
+          "url": "http://www.boannews.com/media/view.asp?idx=143398&kind=&sub_kind="
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-04-29"
+    },
+    {
       "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12028396",
       "date": "2026-04-27",
       "company": "한국투자증권",
