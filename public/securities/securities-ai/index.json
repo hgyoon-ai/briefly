@@ -1,6 +1,7 @@
 {
-  "lastUpdated": "2026-04-30",
+  "lastUpdated": "2026-05-01",
   "months": [
+    "2026-05",
     "2026-04",
     "2026-03",
     "2026-02",
@@ -19,7 +20,7 @@
     "토스증권"
   ],
   "counts": {
-    "total": 172,
+    "total": 173,
     "last30d": 77
   },
   "qualityByMonth": {
@@ -46,6 +47,13 @@
     },
     "2026-04": {
       "total": 77,
+      "missingLink": 0,
+      "missingSummary": 0,
+      "missingType": 0,
+      "missingArea": 0
+    },
+    "2026-05": {
+      "total": 1,
       "missingLink": 0,
       "missingSummary": 0,
       "missingType": 0,
