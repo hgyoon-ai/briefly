@@ -1,63 +1,12 @@
 {
-  "date": "2026-05-02",
+  "date": "2026-05-03",
   "highlights": {
-    "bullets": [
-      "핵심: 엣지 AI와 센싱으로 제조현장의 실시간 의사결정이 가능해져 운영 효율성과 유연성이 개선되고 있습니다.",
-      "핵심: 반도체 부품 조기 단종 대응을 위해 적극적 관리와 신뢰할 수 있는 파트너십이 필요합니다."
-    ],
-    "topTopics": [
-      "Manufacturing",
-      "Roadmap",
-      "Competition",
-      "Investment"
-    ],
+    "bullets": [],
+    "topTopics": [],
     "stats": {
-      "collected": 4,
-      "deduped": 4
+      "collected": 0,
+      "deduped": 0
     }
   },
-  "cards": [
-    {
-      "id": "semiconductor_0001",
-      "tab": "semiconductor",
-      "publishedAt": "2026-05-02T00:30:00+09:00",
-      "source": "EE Times",
-      "title": "How AI Is Transforming the Factory Floor",
-      "summary": [
-        "엣지 AI와 센싱 솔루션이 제조현장의 실시간 의사결정을 가능하게 합니다.",
-        "동적 환경에서 운영 효율성과 유연성이 개선되고 있습니다.",
-        "공정 자동화와 품질 관리 적용이 빠르게 확산되고 있습니다."
-      ],
-      "whyItMatters": "엣지 기반 AI가 현장 데이터를 즉각적으로 분석해 생산성 향상, 불량 감소, 유지보수 최적화를 동시에 가능하게 하기 때문입니다.",
-      "topics": [
-        "Manufacturing",
-        "Roadmap",
-        "Investment"
-      ],
-      "status": "ONGOING",
-      "hash": "9c239161524d79770270a1b006cec4eadddae5d9c1c33d8c9d43de85891bce17",
-      "url": "https://www.eetimes.com/how-ai-is-transforming-the-factory-floor/"
-    },
-    {
-      "id": "semiconductor_0002",
-      "tab": "semiconductor",
-      "publishedAt": "2026-05-01T22:00:00+09:00",
-      "source": "EE Times",
-      "title": "How to Build Obsolescence‑Resistant Systems in an Era of Rapid Tech Change",
-      "summary": [
-        "반도체 부품의 조기 단종에 대응하기 위해 적극적 관리가 필요하다.",
-        "조기 인사이트와 신뢰할 수 있는 파트너십으로 재설계 위험을 줄이고 공급망을 보호해야 한다.",
-        "사전 대응으로 설계 유연성·부품 대체 전략·공급망 가시성을 강화해야 한다."
-      ],
-      "whyItMatters": "급속한 기술 변화와 부품 단종이 설계·생산 리스크를 높여 비용·납기 차질을 유발하기 때문이다.",
-      "topics": [
-        "Manufacturing",
-        "Roadmap",
-        "Competition"
-      ],
-      "status": "ONGOING",
-      "hash": "d7c6df229d4159b570ad687facc6ec6d4434cec9f95d6531e08ee3c8743ad022",
-      "url": "https://www.eetimes.com/how-to-build-obsolescence%e2%80%91resistant-systems-in-an-era-of-rapid-tech-change/"
-    }
-  ]
+  "cards": []
 }
