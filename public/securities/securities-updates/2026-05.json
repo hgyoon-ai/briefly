@@ -2,6 +2,53 @@
   "month": "2026-05",
   "events": [
     {
+      "id": "news:삼성증권:https://www.hankyung.com/article/2026050454651",
+      "date": "2026-05-04",
+      "company": "삼성증권",
+      "title": "28% 뛴 삼성증권…'외국인 국내주식 거래 서비스' 임박",
+      "oneLiner": "외국인 대상 국내주식 거래 서비스 출시(임박) 보도로, 외국인 고객용 거래 서비스 도입에 따른 브로커리지·트레이딩 변화가 예상됨.",
+      "type": "출시",
+      "areas": [
+        "브로커리지",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "28% 뛴 삼성증권…'외국인 국내주식 거래 서비스' 임박",
+          "url": "https://www.hankyung.com/article/2026050454651"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-05-05"
+    },
+    {
+      "id": "news:토스증권:https://www.fnnews.com/news/202605041047194368",
+      "date": "2026-05-04",
+      "company": "토스증권",
+      "title": "\"LS증권 계좌 토스뱅크에서 만든다\"…비대면 개설 서비스 개시",
+      "oneLiner": "토스뱅크와의 제휴를 통한 LS증권 비대면 계좌개설 서비스 출시로 채널 및 제휴 기반 고객 유입·가입 프로세스에 변화가 발생함.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"LS증권 계좌 토스뱅크에서 만든다\"…비대면 개설 서비스 개시",
+          "url": "https://www.fnnews.com/news/202605041047194368"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-05-05"
+    },
+    {
       "id": "news:삼성증권:https://www.fnnews.com/news/202604301625513817",
       "date": "2026-05-01",
       "company": "삼성증권",

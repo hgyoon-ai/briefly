@@ -2,6 +2,100 @@
   "month": "2026-05",
   "events": [
     {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12035346",
+      "date": "2026-05-04",
+      "company": "미래에셋증권",
+      "title": "\"어린이날 선물? AI·채권 ETF가 좋죠\"",
+      "oneLiner": "AI 관련 주제의 ETF와 채권 ETF를 추천하는 매체 기사로, 투자 상품 추천 성격이 강함.",
+      "type": "리서치",
+      "areas": [
+        "리서치",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "\"어린이날 선물? AI·채권 ETF가 좋죠\"",
+          "url": "https://www.mk.co.kr/news/stock/12035346"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-05-05"
+    },
+    {
+      "id": "news:하나증권:https://www.mk.co.kr/news/stock/12034722",
+      "date": "2026-05-04",
+      "company": "하나증권",
+      "title": "“지금 올라타도 안 늦었다”…AI 수요 폭증에 삼성전기 목표가 100만원",
+      "oneLiner": "하나증권의 삼성전기 목표주가 상향 리포트를 전하는 기사로, AI 수요 확대를 근거로 제시함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“지금 올라타도 안 늦었다”…AI 수요 폭증에 삼성전기 목표가 100만원",
+          "url": "https://www.mk.co.kr/news/stock/12034722"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-05-05"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202605040929557446",
+      "date": "2026-05-04",
+      "company": "하나증권",
+      "title": "\"공급 부족 장기화\" 삼성전기, 목표가 100만원↑ …POSCO홀딩스, 자회사 정상화에 리튬 가치 재평가 [株토피아]",
+      "oneLiner": "여러 증권사 리포트를 정리한 기사로, 삼성전기 등 기업 전망과 목표가 상향 등 리서치 요약을 제공함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"공급 부족 장기화\" 삼성전기, 목표가 100만원↑ …POSCO홀딩스, 자회사 정상화에 리튬 가치 재평가 [株토피아]",
+          "url": "https://www.fnnews.com/news/202605040929557446"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-05-05"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202605041427532436",
+      "date": "2026-05-04",
+      "company": "미래에셋증권",
+      "title": "SK하이닉스, 11% 급등하며 '143만 닉스'...시총 1000조 돌파[특징주]",
+      "oneLiner": "미래에셋증권 연구원 코멘트를 인용한 시장 기사로, SK하이닉스 급등 배경을 AI 수요 확대로 분석함.",
+      "type": "리서치",
+      "areas": [
+        "리서치",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "SK하이닉스, 11% 급등하며 '143만 닉스'...시총 1000조 돌파[특징주]",
+          "url": "https://www.fnnews.com/news/202605041427532436"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-05-05"
+    },
+    {
       "id": "news:토스증권:http://www.boannews.com/media/view.asp?idx=143465&kind=&sub_kind=",
       "date": "2026-05-02",
       "company": "토스증권",
