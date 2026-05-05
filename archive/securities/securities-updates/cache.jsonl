@@ -1257,3 +1257,9 @@
 {"id": "news:한국투자증권:https://www.fnnews.com/news/202605040921150279", "keep": false, "oneLiner": "한국투자운용의 ETF 수익률 1위 보도로 상품 성과 공지에 해당하며 증권사 운영·정책 변경은 아님.", "type_raw": "리서치", "areas_raw": ["WM"], "confidence": 0.8}
 {"id": "news:토스증권:https://www.fnnews.com/news/202605041047194368", "keep": true, "oneLiner": "토스뱅크와의 제휴를 통한 LS증권 비대면 계좌개설 서비스 출시로 채널 및 제휴 기반 고객 유입·가입 프로세스에 변화가 발생함.", "type_raw": "제휴", "areas_raw": ["브로커리지"], "confidence": 0.9}
 {"id": "news:KB증권:https://www.fnnews.com/news/202605040929268474", "keep": false, "oneLiner": "SK브로드밴드의 아동권리영화제 수상작 무료 상영 보도로 증권사 제품·운영 변화와는 무관한 문화행사 안내임.", "type_raw": "기타", "areas_raw": ["기타"], "confidence": 0.7}
+{"id": "d3dcfe732fff698d5538bbfda0fa771da81afbce", "keep": false, "oneLiner": "하나증권 iOS 앱의 일반적 안정성 향상 및 오류 수정 릴리즈노트로 구체적 기능·정책 변경이 없음.", "type_raw": "시스템", "areas_raw": ["기타"], "confidence": 0.9}
+{"id": "862d0aec8cce0abcc798368c93a6cc58cdf2b079", "keep": false, "oneLiner": "삼성증권의 기업설명회(IR) 개최 공시로 투자자 대상 설명회 일정 안내이며 제품·운영상의 변화는 아님.", "type_raw": "기타", "areas_raw": ["기타"], "confidence": 0.95}
+{"id": "bcb1fe3dd2eb322d4847fbd45974e4c8437b0038", "keep": false, "oneLiner": "삼성증권의 기업설명회(IR) 개최 공시로 동일한 성격의 투자자 대상 안내이며 운영·서비스 변경은 아님.", "type_raw": "기타", "areas_raw": ["기타"], "confidence": 0.95}
+{"id": "news:삼성증권:https://www.hankyung.com/article/2026050454651", "keep": true, "oneLiner": "외국인 대상 국내주식 거래 서비스 출시(임박) 보도로, 외국인 고객용 거래 서비스 도입에 따른 브로커리지·트레이딩 변화가 예상됨.", "type_raw": "출시", "areas_raw": ["브로커리지", "트레이딩"], "confidence": 0.7}
+{"id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12035164", "keep": false, "oneLiner": "미래에셋증권 고객의 종목별 매매 동향 보도로, 특정 거래자 행동을 전하는 기사이며 증권사 제품·정책 변경은 아님.", "type_raw": "기타", "areas_raw": ["트레이딩"], "confidence": 0.85}
+{"id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12035034", "keep": false, "oneLiner": "미래에셋증권 내 고수익 투자자들의 집중 매수 종목 보도로 서비스·운영 변화와 관련 없음.", "type_raw": "기타", "areas_raw": ["트레이딩"], "confidence": 0.85}

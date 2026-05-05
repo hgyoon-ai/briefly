@@ -315,3 +315,4 @@
 {"id": "news:하나증권:https://www.fnnews.com/news/202605040929557446", "keep": true, "oneLiner": "여러 증권사 리포트를 정리한 기사로, 삼성전기 등 기업 전망과 목표가 상향 등 리서치 요약을 제공함.", "type_raw": "리서치", "areas_raw": ["리서치"], "confidence": 0.85}
 {"id": "news:미래에셋증권:https://www.fnnews.com/news/202605041427532436", "keep": true, "oneLiner": "미래에셋증권 연구원 코멘트를 인용한 시장 기사로, SK하이닉스 급등 배경을 AI 수요 확대로 분석함.", "type_raw": "리서치", "areas_raw": ["리서치", "트레이딩"], "confidence": 0.75}
 {"id": "news:한국투자증권:https://www.fnnews.com/news/202605041538374887", "keep": false, "oneLiner": "신한투자증권 대학생 팬슈머 클럽 수료식 보도로, 주된 내용은 고객 참여형 마케팅 활동임.", "type_raw": "기타", "areas_raw": ["기타"], "confidence": 0.6}
+{"id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12035346", "keep": true, "oneLiner": "AI 관련 주제의 ETF와 채권 ETF를 추천하는 매체 기사로, 투자 상품 추천 성격이 강함.", "type_raw": "리서치", "areas_raw": ["리서치", "WM"], "confidence": 0.7}
