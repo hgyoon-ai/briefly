@@ -1263,3 +1263,19 @@
 {"id": "news:삼성증권:https://www.hankyung.com/article/2026050454651", "keep": true, "oneLiner": "외국인 대상 국내주식 거래 서비스 출시(임박) 보도로, 외국인 고객용 거래 서비스 도입에 따른 브로커리지·트레이딩 변화가 예상됨.", "type_raw": "출시", "areas_raw": ["브로커리지", "트레이딩"], "confidence": 0.7}
 {"id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12035164", "keep": false, "oneLiner": "미래에셋증권 고객의 종목별 매매 동향 보도로, 특정 거래자 행동을 전하는 기사이며 증권사 제품·정책 변경은 아님.", "type_raw": "기타", "areas_raw": ["트레이딩"], "confidence": 0.85}
 {"id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12035034", "keep": false, "oneLiner": "미래에셋증권 내 고수익 투자자들의 집중 매수 종목 보도로 서비스·운영 변화와 관련 없음.", "type_raw": "기타", "areas_raw": ["트레이딩"], "confidence": 0.85}
+{"id": "d3dcfe732fff698d5538bbfda0fa771da81afbce", "keep": false, "oneLiner": "하나증권 iOS 앱의 일반적 안정성 향상 및 오류 수정 릴리즈노트로 구체적 기능·정책 변경이 없음.", "type_raw": "시스템", "areas_raw": ["기타"], "confidence": 0.9}
+{"id": "862d0aec8cce0abcc798368c93a6cc58cdf2b079", "keep": false, "oneLiner": "삼성증권의 기업설명회(IR) 개최 공시로 투자자 대상 설명회 일정 안내이며 제품·운영상의 변화는 아님.", "type_raw": "기타", "areas_raw": ["기타"], "confidence": 0.95}
+{"id": "bcb1fe3dd2eb322d4847fbd45974e4c8437b0038", "keep": false, "oneLiner": "삼성증권의 기업설명회(IR) 개최 공시로 동일한 성격의 투자자 대상 안내이며 운영·서비스 변경은 아님.", "type_raw": "기타", "areas_raw": ["기타"], "confidence": 0.95}
+{"id": "news:KB증권:https://www.mk.co.kr/news/stock/12037582", "keep": false, "oneLiner": "코스피가 사상 첫 7000선을 돌파했다는 시장·시황 기사로, 증권사 제품·정책 변화와 무관함.", "type_raw": "기타", "areas_raw": ["기타"], "confidence": 0.9}
+{"id": "news:KB증권:https://www.mk.co.kr/news/stock/12037572", "keep": false, "oneLiner": "코스피 7000선 돌파 보도로 제품·운영 변화가 아닌 시장 시황 기사임.", "type_raw": "기타", "areas_raw": ["기타"], "confidence": 0.9}
+{"id": "news:KB증권:https://www.mk.co.kr/news/stock/12037571", "keep": false, "oneLiner": "코스피 급등을 보도하는 일반 시황 기사로 데이터셋의 보존 대상이 아님.", "type_raw": "기타", "areas_raw": ["기타"], "confidence": 0.9}
+{"id": "news:KB증권:https://www.mk.co.kr/news/stock/12037564", "keep": false, "oneLiner": "시장 급등 관련 기사로 증권사 운영·제품 변경 내용이 없어 보관 불필요.", "type_raw": "기타", "areas_raw": ["기타"], "confidence": 0.9}
+{"id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12037494", "keep": false, "oneLiner": "미래에셋 고객의 순매수 상위 종목을 소개하는 거래·시황성 기사로 보관 대상 아님.", "type_raw": "기타", "areas_raw": ["트레이딩"], "confidence": 0.9}
+{"id": "news:키움증권:https://www.mk.co.kr/news/stock/12037168", "keep": false, "oneLiner": "코스피 7000선 돌파 및 증권주 상승을 다룬 시황 기사로 제품·제휴·정책 변화와 무관.", "type_raw": "기타", "areas_raw": ["기타"], "confidence": 0.9}
+{"id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12037152", "keep": false, "oneLiner": "미래에셋 증권거래자들의 순매수 상위 종목을 다룬 시장성 기사로 보관 제외.", "type_raw": "기타", "areas_raw": ["트레이딩"], "confidence": 0.9}
+{"id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12037074", "keep": false, "oneLiner": "증권주·시황 상승을 보도하는 기사로 제품·운영의 변화가 아닌 시황 보도임.", "type_raw": "기타", "areas_raw": ["기타"], "confidence": 0.9}
+{"id": "news:KB증권:https://www.fnnews.com/news/202605060849535182", "keep": true, "oneLiner": "KB증권 연구원이 주식시장 강세가 출산율 반등에 긍정적 영향을 준다는 연구 결과를 제시한 리서치 기사.", "type_raw": "리서치", "areas_raw": ["리서치"], "confidence": 0.85}
+{"id": "news:하나증권:https://www.fnnews.com/news/202605060857359871", "keep": false, "oneLiner": "하나증권의 사회공헌 행사(봄나들이) 보도로 제품·서비스 변경이 없는 홍보성 기사임.", "type_raw": "기타", "areas_raw": ["기타"], "confidence": 0.9}
+{"id": "news:한국투자증권:https://www.fnnews.com/news/202605060852493275", "keep": true, "oneLiner": "한국투자증권 리포트가 삼성증권의 IBKR 제휴가 수수료 수익 확대에 기여할 것이라며 목표주가를 상향한 리서치 기사.", "type_raw": "리서치", "areas_raw": ["브로커리지"], "confidence": 0.9}
+{"id": "news:미래에셋증권:https://www.fnnews.com/news/202605060923155092", "keep": true, "oneLiner": "삼성액티브자산운용이 코스닥FOCUS 펀드를 신규 출시했다는 상품 출시 보도(판매 창구로 미래에셋증권 등 기재).", "type_raw": "출시", "areas_raw": ["WM"], "confidence": 0.9}
+{"id": "news:삼성증권:https://www.fnnews.com/news/202605061022325200", "keep": true, "oneLiner": "삼성증권이 인터랙티브 브로커스(IBKR)와 제휴해 외국인이 현지 증권사나 자산운용사를 통해 한국 주식을 직접 매매할 수 있는 '외국인 통합계좌'를 시범 운영·출시할 예정이라는 소식으로 주가가 급등했다.", "type_raw": "출시", "areas_raw": ["브로커리지", "트레이딩"], "confidence": 0.9}

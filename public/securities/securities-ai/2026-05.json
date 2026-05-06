@@ -2,6 +2,98 @@
   "month": "2026-05",
   "events": [
     {
+      "id": "news:토스증권:https://www.fnnews.com/news/202605060730066580",
+      "date": "2026-05-06",
+      "company": "토스증권",
+      "title": "美 정부, AI 모델 출시 전 들여다본다[글로벌AI브리핑]",
+      "oneLiner": "미국 정부가 AI 모델을 시장 공개 전에 사전평가하기로 한 보도로, AI 모델 규제·사전검증 체계 도입에 관한 중요한 규제 리스크 사안입니다. 증권사 리스크 관리와 데이터 거버넌스에 시사점이 큽니다.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "美 정부, AI 모델 출시 전 들여다본다[글로벌AI브리핑]",
+          "url": "https://www.fnnews.com/news/202605060730066580"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-05-07"
+    },
+    {
+      "id": "news:토스증권:https://www.fnnews.com/news/202605061741095066",
+      "date": "2026-05-06",
+      "company": "토스증권",
+      "title": "정부, 다음 주 앤스로픽과 만날까…'미토스' 중심 AI 보안 위협 논의",
+      "oneLiner": "과기정통부가 앤스로픽과 AI 모델 '미토스'의 안전·보안 이슈를 논의할 가능성을 보도한 기사로, 국내 규제·안보 차원의 AI 리스크 관리와 연관됩니다.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "정부, 다음 주 앤스로픽과 만날까…'미토스' 중심 AI 보안 위협 논의",
+          "url": "https://www.fnnews.com/news/202605061741095066"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-05-07"
+    },
+    {
+      "id": "news:토스증권:https://www.fnnews.com/news/202605061823248762",
+      "date": "2026-05-06",
+      "company": "토스증권",
+      "title": "앤스로픽 총괄 방한… 정부와 '미토스' 대응 논의",
+      "oneLiner": "앤스로픽 총괄의 방한과 정부·기업 간 '미토스' 대응 논의 소식을 전하는 기사로, AI 모델의 보안·악용 리스크 관리 및 정책적 대응 관점에서 중요합니다.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "앤스로픽 총괄 방한… 정부와 '미토스' 대응 논의",
+          "url": "https://www.fnnews.com/news/202605061823248762"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-05-07"
+    },
+    {
+      "id": "news:NH투자증권:http://www.boannews.com/media/view.asp?idx=143494&kind=&sub_kind=",
+      "date": "2026-05-06",
+      "company": "NH투자증권",
+      "title": "이지서티, 맥락 읽는 AI 개인정보보호 솔루션 ‘EZRO’ 시리즈 런칭",
+      "oneLiner": "이지서티가 맥락을 이해하는 AI 기반 개인정보보호 솔루션 'EZRO' 시리즈를 출시했다는 보도로, 금융권 개인정보 처리·보안 자동화 및 데이터 거버넌스에 영향을 미칠 수 있습니다.",
+      "type": "출시",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "보안뉴스",
+          "title": "이지서티, 맥락 읽는 AI 개인정보보호 솔루션 ‘EZRO’ 시리즈 런칭",
+          "url": "http://www.boannews.com/media/view.asp?idx=143494&kind=&sub_kind="
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-05-07"
+    },
+    {
       "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12035346",
       "date": "2026-05-04",
       "company": "미래에셋증권",

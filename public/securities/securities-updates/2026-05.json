@@ -2,6 +2,99 @@
   "month": "2026-05",
   "events": [
     {
+      "id": "news:KB증권:https://www.fnnews.com/news/202605060849535182",
+      "date": "2026-05-06",
+      "company": "KB증권",
+      "title": "코스피 오르고 출산율도 올랐다?...\"부동산과 다르다\"",
+      "oneLiner": "KB증권 연구원이 주식시장 강세가 출산율 반등에 긍정적 영향을 준다는 연구 결과를 제시한 리서치 기사.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "코스피 오르고 출산율도 올랐다?...\"부동산과 다르다\"",
+          "url": "https://www.fnnews.com/news/202605060849535182"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-05-07"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202605060852493275",
+      "date": "2026-05-06",
+      "company": "한국투자증권",
+      "title": "삼성증권, IBKR과 제휴로 수수료 수익 확대 기대..목표가 15.5만 -한투證",
+      "oneLiner": "한국투자증권 리포트가 삼성증권의 IBKR 제휴가 수수료 수익 확대에 기여할 것이라며 목표주가를 상향한 리서치 기사.",
+      "type": "리서치",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "삼성증권, IBKR과 제휴로 수수료 수익 확대 기대..목표가 15.5만 -한투證",
+          "url": "https://www.fnnews.com/news/202605060852493275"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-05-07"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202605060923155092",
+      "date": "2026-05-06",
+      "company": "미래에셋증권",
+      "title": "\"코스닥 유망 핵심주만 선별\" 삼성액티브운용, 코스닥FOCUS 펀드 신규 출시",
+      "oneLiner": "삼성액티브자산운용이 코스닥FOCUS 펀드를 신규 출시했다는 상품 출시 보도(판매 창구로 미래에셋증권 등 기재).",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"코스닥 유망 핵심주만 선별\" 삼성액티브운용, 코스닥FOCUS 펀드 신규 출시",
+          "url": "https://www.fnnews.com/news/202605060923155092"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-05-07"
+    },
+    {
+      "id": "news:삼성증권:https://www.fnnews.com/news/202605061022325200",
+      "date": "2026-05-06",
+      "company": "삼성증권",
+      "title": "\"미국개미 韓주식 직접 투자\"…삼성증권, 서비스 출시 기대감에 주가 '쑥'",
+      "oneLiner": "삼성증권이 인터랙티브 브로커스(IBKR)와 제휴해 외국인이 현지 증권사나 자산운용사를 통해 한국 주식을 직접 매매할 수 있는 '외국인 통합계좌'를 시범 운영·출시할 예정이라는 소식으로 주가가 급등했다.",
+      "type": "출시",
+      "areas": [
+        "브로커리지",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"미국개미 韓주식 직접 투자\"…삼성증권, 서비스 출시 기대감에 주가 '쑥'",
+          "url": "https://www.fnnews.com/news/202605061022325200"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-05-07"
+    },
+    {
       "id": "news:삼성증권:https://www.hankyung.com/article/2026050454651",
       "date": "2026-05-04",
       "company": "삼성증권",
