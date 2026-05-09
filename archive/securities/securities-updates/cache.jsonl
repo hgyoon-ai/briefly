@@ -1300,3 +1300,8 @@
 {"id": "news:KB증권:https://www.fnnews.com/news/202605081254200748", "keep": false, "oneLiner": "미국 상장 한국 ETF에서 대규모 자금 유출이 발생했다는 시장 흐름 기사로, 증권사 제품·정책 변화 내용은 아님.", "type_raw": "기타", "areas_raw": ["리스크"], "confidence": 0.75}
 {"id": "news:미래에셋증권:https://www.fnnews.com/news/202605081609146690", "keep": true, "oneLiner": "삼성전자·SK하이닉스 일일수익률을 2배로 추종하는 레버리지 ETF 출시가 예정돼 있으며, 최대 수조원대 자금 유입 가능성을 제시한 리포트 내용.", "type_raw": "출시", "areas_raw": ["트레이딩", "브로커리지"], "confidence": 0.85}
 {"id": "news:KB증권:https://www.fnnews.com/news/202605081358125559", "keep": false, "oneLiner": "SK브로드밴드가 대한민국식품명인협회와 전통식품 판로 확대를 위한 업무협약(MOU)을 체결했다는 제휴 기사로, 증권사 제품 변화와 무관함.", "type_raw": "제휴", "areas_raw": ["기타"], "confidence": 0.6}
+{"id": "e65c9d6cec364a5029cd73a23d67108a60d467ce", "keep": false, "oneLiner": "미래에셋증권 iOS 앱 업데이트 릴리즈노트는 ‘버그 개선’만 기재되어 기능·정책 변화는 없음.", "type_raw": "시스템", "areas_raw": ["기타"], "confidence": 0.9}
+{"id": "86d965559a475b238a8c864d641754703bd139a4", "keep": false, "oneLiner": "토스증권 iOS 앱 v5.259.0은 주로 버그 수정 안내만 포함된 업데이트로 기능·정책 변화는 없음.", "type_raw": "시스템", "areas_raw": ["기타"], "confidence": 0.9}
+{"id": "news:토스증권:https://www.hankyung.com/article/2026050846666", "keep": true, "oneLiner": "토스증권이 한국콜마의 연결실적 대신 개별실적을 잘못 표기해 매출이 반토막으로 표시되는 실적 표기 오류가 발생했다는 보도.", "type_raw": "시스템", "areas_raw": ["리서치", "트레이딩"], "confidence": 0.8}
+{"id": "news:토스증권:https://www.mk.co.kr/news/stock/12041258", "keep": true, "oneLiner": "토스증권의 한국콜마 실적 표기 오류로 주주 불만이 커졌고 정정 공지·보상 요구가 제기되고 있다는 후속 보도.", "type_raw": "시스템", "areas_raw": ["리서치", "트레이딩"], "confidence": 0.8}
+{"id": "news:NH투자증권:https://www.mk.co.kr/news/stock/12040709", "keep": true, "oneLiner": "NH투자증권이 에이피알에 대해 1주당 목표주가 54만원을 제시한 리포트를 발표했다.", "type_raw": "리서치", "areas_raw": ["리서치"], "confidence": 0.75}
