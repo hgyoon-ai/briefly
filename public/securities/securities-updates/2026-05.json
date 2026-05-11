@@ -2,6 +2,144 @@
   "month": "2026-05",
   "events": [
     {
+      "id": "news:토스증권:https://www.mk.co.kr/news/stock/12043125",
+      "date": "2026-05-11",
+      "company": "토스증권",
+      "title": "토스증권, 한국콜마 실적 잘못표기 또 반복했나…7개월 전에도 오류 주장 나와",
+      "oneLiner": "토스증권이 한국콜마 실적을 잘못 표기했다는 지적이 또 제기되며 리서치·보고서 작성 과정의 오류 가능성이 부각됐다.",
+      "type": "기타",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "토스증권, 한국콜마 실적 잘못표기 또 반복했나…7개월 전에도 오류 주장 나와",
+          "url": "https://www.mk.co.kr/news/stock/12043125"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.6,
+      "updatedAt": "2026-05-12"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12043021",
+      "date": "2026-05-11",
+      "company": "한국투자증권",
+      "title": "한국투자증권, 비과세 혜택 갖춘 ‘KRX 금현물’ 투자 이벤트 진행",
+      "oneLiner": "한국투자증권이 KRX 금현물 거래 고객을 대상으로 토스와 제휴해 비과세 혜택을 포함한 투자 이벤트를 진행한다고 밝혔다.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한국투자증권, 비과세 혜택 갖춘 ‘KRX 금현물’ 투자 이벤트 진행",
+          "url": "https://www.mk.co.kr/news/stock/12043021"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-05-12"
+    },
+    {
+      "id": "news:삼성증권:https://www.mk.co.kr/news/stock/12043018",
+      "date": "2026-05-11",
+      "company": "삼성증권",
+      "title": "삼성증권, ‘적립식 증여 서비스’ 및 ‘자녀자산관리 서비스’ 동시 출시",
+      "oneLiner": "삼성증권이 미성년 자녀의 자산 형성·증여·세금 신고를 디지털로 지원하는 '적립식 증여 서비스'와 '자녀자산관리 서비스'를 동시 출시했다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "삼성증권, ‘적립식 증여 서비스’ 및 ‘자녀자산관리 서비스’ 동시 출시",
+          "url": "https://www.mk.co.kr/news/stock/12043018"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-05-12"
+    },
+    {
+      "id": "news:삼성증권:https://www.fnnews.com/news/202605110941065311",
+      "date": "2026-05-11",
+      "company": "삼성증권",
+      "title": "삼성증권, 자녀 자산 형성부터 증여·세금 신고까지 디지털 지원",
+      "oneLiner": "삼성증권이 미성년 자녀의 자산 형성부터 증여·세금 신고까지 전 과정을 디지털로 지원하는 '적립식 증여 서비스'와 '자녀자산관리 서비스'를 선보였다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "삼성증권, 자녀 자산 형성부터 증여·세금 신고까지 디지털 지원",
+          "url": "https://www.fnnews.com/news/202605110941065311"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-05-12"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202605111112173752",
+      "date": "2026-05-11",
+      "company": "미래에셋증권",
+      "title": "미래에셋증권, 개인투자용 국채 청약 \"전종목 초과 청약\"",
+      "oneLiner": "미래에셋증권이 개인투자자 대상 국채 청약(총 2000억원)을 실시한다고 공지했으며 전종목 초과 청약이 이어지고 있다.",
+      "type": "출시",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋증권, 개인투자용 국채 청약 \"전종목 초과 청약\"",
+          "url": "https://www.fnnews.com/news/202605111112173752"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-05-12"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202605111822500123",
+      "date": "2026-05-11",
+      "company": "미래에셋증권",
+      "title": "미래에셋證, 개인 대상 국채 2000억 청약",
+      "oneLiner": "미래에셋증권이 개인투자용 국채 2000억원 규모의 청약 접수를 다시 안내했으며 세부 발행 구성과 가산금리를 공지했다.",
+      "type": "출시",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋證, 개인 대상 국채 2000억 청약",
+          "url": "https://www.fnnews.com/news/202605111822500123"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-05-12"
+    },
+    {
       "id": "news:미래에셋증권:https://www.fnnews.com/news/202605081609146690",
       "date": "2026-05-09",
       "company": "미래에셋증권",
