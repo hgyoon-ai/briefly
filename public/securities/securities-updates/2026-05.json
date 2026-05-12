@@ -2,6 +2,168 @@
   "month": "2026-05",
   "events": [
     {
+      "id": "news:하나증권:https://www.fnnews.com/news/202605130715091557",
+      "date": "2026-05-13",
+      "company": "하나증권",
+      "title": "진에어, 2분기부터 적자전환 우려..하나증권 \"내년부터 본게임\"",
+      "oneLiner": "하나증권은 진에어가 항공유 가격 상승 영향으로 2·4분기부터 적자전환 가능성이 높다고 분석하며 목표주가를 8,500원에서 7,000원으로 하향했으나 투자의견은 '매수'를 유지했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "진에어, 2분기부터 적자전환 우려..하나증권 \"내년부터 본게임\"",
+          "url": "https://www.fnnews.com/news/202605130715091557"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-05-13"
+    },
+    {
+      "id": "news:삼성증권:https://www.fnnews.com/news/202605121006421953",
+      "date": "2026-05-12",
+      "company": "삼성증권",
+      "title": "삼성증권, '외국인통합계좌' 서비스 개시…증시 자금 유입 더 거세지나",
+      "oneLiner": "삼성증권이 인터랙티브 브로커스(IBKR)와 손잡고 외국인통합계좌 서비스를 개시했다.",
+      "type": "출시",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "삼성증권, '외국인통합계좌' 서비스 개시…증시 자금 유입 더 거세지나",
+          "url": "https://www.fnnews.com/news/202605121006421953"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.97,
+      "updatedAt": "2026-05-13"
+    },
+    {
+      "id": "news:삼성증권:https://www.fnnews.com/news/202605121351054099",
+      "date": "2026-05-12",
+      "company": "삼성증권",
+      "title": "삼성증권, 투자자문·일임 플랫폼 유치자산 2조 돌파…3년새 4배 성장",
+      "oneLiner": "삼성증권의 투자자문·일임 플랫폼 유치자산이 2조원을 돌파하며 플랫폼 사업이 빠르게 성장했다.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "삼성증권, 투자자문·일임 플랫폼 유치자산 2조 돌파…3년새 4배 성장",
+          "url": "https://www.fnnews.com/news/202605121351054099"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-05-13"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202605121502410742",
+      "date": "2026-05-12",
+      "company": "미래에셋증권",
+      "title": "\"읽어도 모르겠다\" 펀드 설명서, '핵심위험 4개' 첫 페이지에 담는다",
+      "oneLiner": "금융감독원이 공모펀드 투자설명서 기재 개선 TF를 가동해 핵심위험 표준안을 논의하기로 했다.",
+      "type": "규제",
+      "areas": [
+        "리스크",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"읽어도 모르겠다\" 펀드 설명서, '핵심위험 4개' 첫 페이지에 담는다",
+          "url": "https://www.fnnews.com/news/202605121502410742"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.96,
+      "updatedAt": "2026-05-13"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202605121545545350",
+      "date": "2026-05-12",
+      "company": "KB증권",
+      "title": "국민연금 기금전문인력 키운다…전북대와 산학협력",
+      "oneLiner": "국민연금공단이 전북대와 기금운용 전문인력 양성 등을 위한 산학협력 업무협약을 체결했다.",
+      "type": "제휴",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "국민연금 기금전문인력 키운다…전북대와 산학협력",
+          "url": "https://www.fnnews.com/news/202605121545545350"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-05-13"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202605121817374927",
+      "date": "2026-05-12",
+      "company": "한국투자증권",
+      "title": "우리투자證, 종합증권사 체제 구축 속도…1조 유증 성공에 업계 11위로 몸집 키워",
+      "oneLiner": "우리투자증권이 1조원 규모 유상증자를 완료해 자본규모가 확대되고 업계 지위가 상향됐다.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "우리투자證, 종합증권사 체제 구축 속도…1조 유증 성공에 업계 11위로 몸집 키워",
+          "url": "https://www.fnnews.com/news/202605121817374927"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-05-13"
+    },
+    {
+      "id": "news:삼성증권:https://www.fnnews.com/news/202605121819584917",
+      "date": "2026-05-12",
+      "company": "삼성증권",
+      "title": "\"파란눈의 개미 잡아라\" 삼성證 통합계좌 도입",
+      "oneLiner": "삼성증권이 외국인통합계좌 서비스를 도입해 해외 투자자의 국내 주식 거래 접근성을 높였다.",
+      "type": "출시",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"파란눈의 개미 잡아라\" 삼성證 통합계좌 도입",
+          "url": "https://www.fnnews.com/news/202605121819584917"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-05-13"
+    },
+    {
       "id": "news:토스증권:https://www.mk.co.kr/news/stock/12043125",
       "date": "2026-05-11",
       "company": "토스증권",

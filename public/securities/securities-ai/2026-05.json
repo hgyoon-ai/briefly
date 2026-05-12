@@ -2,6 +2,98 @@
   "month": "2026-05",
   "events": [
     {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202605120855041056",
+      "date": "2026-05-12",
+      "company": "NH투자증권",
+      "title": "NHN, 1분기 매출 6714억원...전 분야 고른 성장",
+      "oneLiner": "NHN 1분기 실적 공시: 매출은 성장했으나 AI·클라우드 인프라 투자 확대와 인건비로 영업이익 소폭 감소, 향후 GPU 공급 등 AI 인프라 관련 사업 확대로 실적 전망 제시.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "NHN, 1분기 매출 6714억원...전 분야 고른 성장",
+          "url": "https://www.fnnews.com/news/202605120855041056"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-05-13"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202605121103292382",
+      "date": "2026-05-12",
+      "company": "NH투자증권",
+      "title": "고루 성장 이어가는 NHN...\"클라우드 연간 30% 매출↑\"(종합)",
+      "oneLiner": "NHN이 게임·결제·클라우드 중심의 고른 성장세를 보고했으며 AI·클라우드 투자 확대와 관련한 비용 구조 변화 및 GPU 기반 사업 성장 전망을 다룬 종합 보도.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "고루 성장 이어가는 NHN...\"클라우드 연간 30% 매출↑\"(종합)",
+          "url": "https://www.fnnews.com/news/202605121103292382"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-05-13"
+    },
+    {
+      "id": "news:토스증권:http://www.boannews.com/media/view.asp?idx=143592&kind=&sub_kind=",
+      "date": "2026-05-12",
+      "company": "토스증권",
+      "title": "‘제로트러스트 창시자’ 존 킨더바그 “미토스 공포? ‘격리’가 관건”",
+      "oneLiner": "제로트러스트 창시자가 AI 기반 공격 대비로 '격리(마이크로세그멘테이션)' 전략을 강조한 인터뷰로, 금융권 시스템 설계 및 보안 리스크 관리에 직접적 시사점이 있음.",
+      "type": "시스템",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "보안뉴스",
+          "title": "‘제로트러스트 창시자’ 존 킨더바그 “미토스 공포? ‘격리’가 관건”",
+          "url": "http://www.boannews.com/media/view.asp?idx=143592&kind=&sub_kind="
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-05-13"
+    },
+    {
+      "id": "news:토스증권:http://www.boannews.com/media/view.asp?idx=143588&kind=&sub_kind=",
+      "date": "2026-05-12",
+      "company": "토스증권",
+      "title": "금융보안원, 2026년 금융보안자문위원회 전체회의 개최",
+      "oneLiner": "금융보안원이 AI 기반 공격 도구의 위협 고도화에 대응하기 위한 금융보안자문위원회 전체회의를 개최해 금융보안 역할과 대응 전략을 논의함.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "보안뉴스",
+          "title": "금융보안원, 2026년 금융보안자문위원회 전체회의 개최",
+          "url": "http://www.boannews.com/media/view.asp?idx=143588&kind=&sub_kind="
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-05-13"
+    },
+    {
       "id": "news:한국투자증권:https://www.mk.co.kr/news/business/12043032",
       "date": "2026-05-11",
       "company": "한국투자증권",

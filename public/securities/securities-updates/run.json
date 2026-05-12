@@ -1,14 +1,14 @@
 {
-  "id": "2026-05-12T07:50:36.174657+09:00",
-  "ts": "2026-05-12T07:50:36.174657+09:00",
+  "id": "2026-05-13T08:02:11.898690+09:00",
+  "ts": "2026-05-13T08:02:11.898690+09:00",
   "timezone": "Asia/Seoul",
   "dataset": "securities-updates",
   "range": {
     "mode": "lookback",
     "lookbackDays": 3,
     "month": null,
-    "start": "2026-05-09T07:50:36.174657+09:00",
-    "end": "2026-05-12T07:50:36.174657+09:00"
+    "start": "2026-05-10T08:02:11.898690+09:00",
+    "end": "2026-05-13T08:02:11.898690+09:00"
   },
   "sources": {
     "app_store": {
@@ -16,38 +16,47 @@
       "fetchedOk": 10,
       "failed": 0
     },
+    "dart": {
+      "companiesTotal": 10,
+      "matched": 8,
+      "unmatched": 2,
+      "filters": {
+        "pblntf_ty": [
+          "B",
+          "E",
+          "I"
+        ],
+        "last_reprt_at": "Y"
+      },
+      "disclosuresFetched": 1
+    },
     "news": {
       "rssLimit": 50,
       "entriesFetched": 188,
       "bySource": {
         "한국경제(증권)": 50,
         "매일경제(증권)": 50,
-        "파이낸셜뉴스(증권)": 47,
-        "파이낸셜뉴스(IT)": 31,
+        "파이낸셜뉴스(증권)": 43,
+        "파이낸셜뉴스(IT)": 35,
         "보안뉴스": 10
       }
     }
   },
   "filters": {
-    "rawItems": 31,
-    "deduped": 31,
-    "keywordPassed": 15,
-    "candidates": 15
+    "rawItems": 23,
+    "deduped": 23,
+    "keywordPassed": 13,
+    "candidates": 13
   },
   "llm": {
-    "cacheHit": 1,
-    "sent": 14
+    "cacheHit": 0,
+    "sent": 13
   },
   "output": {
-    "kept": 6,
+    "kept": 7,
     "monthsUpdated": [
       "2026-05"
     ]
   },
-  "errors": [
-    {
-      "source": "dart",
-      "message": "ConnectionError(ReadTimeoutError(\"HTTPSConnectionPool(host='opendart.fss.or.kr', port=443): Read timed out.\"))"
-    }
-  ]
+  "errors": []
 }
