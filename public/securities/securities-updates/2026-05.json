@@ -2,6 +2,29 @@
   "month": "2026-05",
   "events": [
     {
+      "id": "news:KB증권:https://www.fnnews.com/news/202605140711478583",
+      "date": "2026-05-14",
+      "company": "KB증권",
+      "title": "SK이노베이션, 호르무즈 영향에 실적 개선세-KB증권",
+      "oneLiner": "KB증권 연구원이 SK이노베이션의 호르무즈 영향에 따른 실적 개선 전망과 투자의견·목표주가 유지 내용을 제시한 리서치 리포트 보도임.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "SK이노베이션, 호르무즈 영향에 실적 개선세-KB증권",
+          "url": "https://www.fnnews.com/news/202605140711478583"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-05-14"
+    },
+    {
       "id": "news:하나증권:https://www.fnnews.com/news/202605130715091557",
       "date": "2026-05-13",
       "company": "하나증권",
@@ -23,6 +46,121 @@
       "tags": [],
       "confidence": 0.9,
       "updatedAt": "2026-05-13"
+    },
+    {
+      "id": "907867abb054bd2e7d4d74005ea50c5cf5b9801d",
+      "date": "2026-05-13",
+      "company": "NH투자증권",
+      "title": "최대주주등소유주식변동신고서              ",
+      "oneLiner": "NH투자증권이 최대주주 등 소유주식 변동에 관한 신고서를 제출한 공시로, 최대주주 지분 변동 관련 공식 보고임.",
+      "type": "규제",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "최대주주등소유주식변동신고서              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260513800779"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-05-14"
+    },
+    {
+      "id": "news:토스증권:https://www.mk.co.kr/news/stock/12046040",
+      "date": "2026-05-13",
+      "company": "토스증권",
+      "title": "비댁스, 글로벌 레이어1 ‘앱토스’와 원화 스테이블코인 맞손",
+      "oneLiner": "비댁스가 앱토스와 MOU를 체결해 원화 스테이블코인 ‘KRW1’ 상용화를 추진한다는 제휴 소식으로, 디지털자산 인프라 관련 협력 사례임.",
+      "type": "제휴",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "비댁스, 글로벌 레이어1 ‘앱토스’와 원화 스테이블코인 맞손",
+          "url": "https://www.mk.co.kr/news/stock/12046040"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-05-14"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202605130915093037",
+      "date": "2026-05-13",
+      "company": "하나증권",
+      "title": "하나證, 데이터젠과 '한돈 투자계약증권 2호' 공모 개시",
+      "oneLiner": "하나증권이 데이터젠과 협업해 국산 돼지를 기초자산으로 한 투자계약증권 2호 공모를 진행한다고 공지한 상품 출시에 관한 보도임.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "하나證, 데이터젠과 '한돈 투자계약증권 2호' 공모 개시",
+          "url": "https://www.fnnews.com/news/202605130915093037"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-05-14"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202605131000377094",
+      "date": "2026-05-13",
+      "company": "한국투자증권",
+      "title": "한투證, 우수 사모운용사·자문사 CEO 초청",
+      "oneLiner": "한국투자증권이 우수 사모운용사·자문사 CEO를 초청해 네트워크 행사를 개최, 운용사와의 협업 및 상품 공동 발굴을 추진한다는 제휴·영업 활동 공지임.",
+      "type": "제휴",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투證, 우수 사모운용사·자문사 CEO 초청",
+          "url": "https://www.fnnews.com/news/202605131000377094"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-05-14"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202605131607087179",
+      "date": "2026-05-13",
+      "company": "미래에셋증권",
+      "title": "'TIGER 반도체TOP10커버드콜액티브 ETF', 첫 월분배금 지급…주당 170원",
+      "oneLiner": "미래에셋자산운용의 'TIGER 반도체TOP10커버드콜액티브 ETF'가 상장 이후 첫 월분배금(주당 170원)을 지급한다는 상품 운용·지급 공지임.",
+      "type": "기타",
+      "areas": [
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "'TIGER 반도체TOP10커버드콜액티브 ETF', 첫 월분배금 지급…주당 170원",
+          "url": "https://www.fnnews.com/news/202605131607087179"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-05-14"
     },
     {
       "id": "news:삼성증권:https://www.fnnews.com/news/202605121006421953",

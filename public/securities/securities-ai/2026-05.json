@@ -2,6 +2,75 @@
   "month": "2026-05",
   "events": [
     {
+      "id": "news:하나증권:https://www.fnnews.com/news/202605140709035428",
+      "date": "2026-05-14",
+      "company": "하나증권",
+      "title": "로봇 올라탄 LG전자...하나증권, 목표가 23만원 상향",
+      "oneLiner": "하나증권 연구원이 LG전자의 로봇·AI 인프라 사업 확대를 근거로 목표주가를 16만원에서 23만원으로 상향했다. 휴머노이드 액추에이터 양산 계획과 클로이드 PoC 일정 단축을 근거로 로봇 사업 가속화 가능성을 평가했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "로봇 올라탄 LG전자...하나증권, 목표가 23만원 상향",
+          "url": "https://www.fnnews.com/news/202605140709035428"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-05-14"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202605131001490915",
+      "date": "2026-05-13",
+      "company": "KB증권",
+      "title": "\"끊김 없는 AI교실 만든다\" SKB, 두 배 빠른 네트워크 장비 출시",
+      "oneLiner": "SK브로드밴드가 학교 통신망용으로 5Gbps 지원 '전원통합형(PoE) 스위치'를 개발해 교실 내 고해상도 영상 및 생성형 AI 활용 수업의 트래픽 병목 해소를 목표로 하고 있다.",
+      "type": "출시",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "\"끊김 없는 AI교실 만든다\" SKB, 두 배 빠른 네트워크 장비 출시",
+          "url": "https://www.fnnews.com/news/202605131001490915"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-05-14"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202605131413201467",
+      "date": "2026-05-13",
+      "company": "NH투자증권",
+      "title": "NHN클라우드, 'GPU 7600장' 규모 양평 데이터센터 가동 시작",
+      "oneLiner": "NHN클라우드가 양평 데이터센터에 7656장의 GPU 기반 대규모 AI 인프라 구축을 완료하고 가동을 시작했다. 향후 공공·산학연 대상 GPUaaS를 본격 공급할 계획이다.",
+      "type": "시스템",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "NHN클라우드, 'GPU 7600장' 규모 양평 데이터센터 가동 시작",
+          "url": "https://www.fnnews.com/news/202605131413201467"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-05-14"
+    },
+    {
       "id": "news:NH투자증권:https://www.fnnews.com/news/202605120855041056",
       "date": "2026-05-12",
       "company": "NH투자증권",
