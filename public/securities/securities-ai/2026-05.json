@@ -2,6 +2,52 @@
   "month": "2026-05",
   "events": [
     {
+      "id": "news:KB증권:https://www.mk.co.kr/news/stock/12048637",
+      "date": "2026-05-15",
+      "company": "KB증권",
+      "title": "코스피 대표선수 물갈이 됐다…삼바 빠지고 삼성전기 톱10 차트인",
+      "oneLiner": "AI 수혜주 중심의 코스피 톱10 교체를 보도한 시장 기사로, 증권사·리서치 관점에서 관련성이 높음.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "코스피 대표선수 물갈이 됐다…삼바 빠지고 삼성전기 톱10 차트인",
+          "url": "https://www.mk.co.kr/news/stock/12048637"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-05-15"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202605141427388132",
+      "date": "2026-05-15",
+      "company": "KB증권",
+      "title": "\"연내 코스피 10500? 증권사는 못믿지\"라면서, 덜컥 겁나는 '무주식 하팔자' 개미들 [개미의 세계]",
+      "oneLiner": "KB증권의 코스피 목표 상향을 소개하며 투자자 반응과 맥락을 설명하는 기사로 리서치 연관성이 높음.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"연내 코스피 10500? 증권사는 못믿지\"라면서, 덜컥 겁나는 '무주식 하팔자' 개미들 [개미의 세계]",
+          "url": "https://www.fnnews.com/news/202605141427388132"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-05-15"
+    },
+    {
       "id": "news:하나증권:https://www.fnnews.com/news/202605140709035428",
       "date": "2026-05-14",
       "company": "하나증권",
@@ -23,6 +69,76 @@
       "tags": [],
       "confidence": 0.9,
       "updatedAt": "2026-05-14"
+    },
+    {
+      "id": "news:KB증권:https://www.mk.co.kr/news/stock/12047334",
+      "date": "2026-05-14",
+      "company": "KB증권",
+      "title": "연내 ‘1만500피’…KB증권, AI 수요에 반도체 실적전망 급상향",
+      "oneLiner": "KB증권이 AI 수요를 반영해 반도체 실적과 코스피 목표치를 대폭 상향한 리포트 성격의 보도.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "연내 ‘1만500피’…KB증권, AI 수요에 반도체 실적전망 급상향",
+          "url": "https://www.mk.co.kr/news/stock/12047334"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-05-15"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202605140934587391",
+      "date": "2026-05-14",
+      "company": "KB증권",
+      "title": "\"MLCC·기판 없어서 못판다\" 삼성전기, 목표주가 140만원… LG전자, 로봇·데이터센터향 신사업 본격화로 목표가 44%↑ [株토피아]",
+      "oneLiner": "여러 증권사 리포트를 정리한 기사로, KB증권 등 리서치가 삼성전기 등 AI 수혜주의 목표가를 상향한 내용이 포함됨.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"MLCC·기판 없어서 못판다\" 삼성전기, 목표주가 140만원… LG전자, 로봇·데이터센터향 신사업 본격화로 목표가 44%↑ [株토피아]",
+          "url": "https://www.fnnews.com/news/202605140934587391"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-05-15"
+    },
+    {
+      "id": "news:신한투자증권:https://www.fnnews.com/news/202605141340470720",
+      "date": "2026-05-14",
+      "company": "신한투자증권",
+      "title": "신한운용 'SOL AI반도체TOP2플러스' 순자산 2조 돌파",
+      "oneLiner": "신한운용의 'SOL AI반도체TOP2플러스' ETF가 상장 후 빠른 자금 유입으로 순자산 2조원을 돌파한 펀드·시장 소식.",
+      "type": "기타",
+      "areas": [
+        "브로커리지",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "신한운용 'SOL AI반도체TOP2플러스' 순자산 2조 돌파",
+          "url": "https://www.fnnews.com/news/202605141340470720"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-05-15"
     },
     {
       "id": "news:KB증권:https://www.fnnews.com/news/202605131001490915",

@@ -2,6 +2,29 @@
   "month": "2026-05",
   "events": [
     {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12048636",
+      "date": "2026-05-15",
+      "company": "한국투자증권",
+      "title": "“작년에 대박냈는데 올해는 그 두 배”…반도체 아닌데 불타는 이 기업",
+      "oneLiner": "실적 호조 보도와 함께 MTS 개편·글로벌 협력 및 자금운용 확대 등 사업구조 강화 소식.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“작년에 대박냈는데 올해는 그 두 배”…반도체 아닌데 불타는 이 기업",
+          "url": "https://www.mk.co.kr/news/stock/12048636"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.65,
+      "updatedAt": "2026-05-15"
+    },
+    {
       "id": "news:KB증권:https://www.fnnews.com/news/202605140711478583",
       "date": "2026-05-14",
       "company": "KB증권",
@@ -23,6 +46,194 @@
       "tags": [],
       "confidence": 0.9,
       "updatedAt": "2026-05-14"
+    },
+    {
+      "id": "b95a2ec7ee1eb35a0c0b27c3209ac28566aa5d1f",
+      "date": "2026-05-14",
+      "company": "키움증권",
+      "title": "주요사항보고서(자기주식취득결정)",
+      "oneLiner": "자기주식 취득 결정 공시 — 자본정책 및 주식수에 영향이 있는 회사 의사결정.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "주요사항보고서(자기주식취득결정)",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260514000710"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-05-15"
+    },
+    {
+      "id": "3717b29d6ba0ce57371fbf1ff2a5c4ee4af8a671",
+      "date": "2026-05-14",
+      "company": "키움증권",
+      "title": "타법인주식및출자증권취득결정              ",
+      "oneLiner": "타법인 주식 및 출자증권 취득 결정 공시 — 지분투자·재무구조 변화 관련 결정.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "타법인주식및출자증권취득결정              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260514800711"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-05-15"
+    },
+    {
+      "id": "9345653a2dd415a372d56c99c105f2bdb3f640d1",
+      "date": "2026-05-14",
+      "company": "키움증권",
+      "title": "주식소각결정              ",
+      "oneLiner": "주식 소각 결정 공시 — 자본구조 및 발행주식수 변경 관련 중요 공시.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "주식소각결정              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260514800685"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-05-15"
+    },
+    {
+      "id": "384b0aa86dbf2e4e993cdf91efc9fdc1d7fb6b2c",
+      "date": "2026-05-14",
+      "company": "키움증권",
+      "title": "단기차입금증가결정              ",
+      "oneLiner": "단기차입금 증가 결정 공시 — 단기부채 확대에 따른 재무·유동성 리스크 증대 가능성.",
+      "type": "기타",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "단기차입금증가결정              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260514800717"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-05-15"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202605141043452176",
+      "date": "2026-05-14",
+      "company": "한국투자증권",
+      "title": "한투證, 국제 금 현물가 24시간 실시간 제공",
+      "oneLiner": "MTS·HTS에서 24시간 실시간 국제 금 현물 가격 조회 서비스 제공 시작을 공지.",
+      "type": "출시",
+      "areas": [
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투證, 국제 금 현물가 24시간 실시간 제공",
+          "url": "https://www.fnnews.com/news/202605141043452176"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-05-15"
+    },
+    {
+      "id": "news:키움증권:https://www.fnnews.com/news/202605141110112041",
+      "date": "2026-05-14",
+      "company": "키움증권",
+      "title": "키움證, 이달 27일 삼전‧SK하닉 레버리지‧인버스 상장",
+      "oneLiner": "삼성전자·SK하이닉스 단일종목 레버리지·인버스 상품 상장 예정 및 앱을 통한 교육 이수번호 등록 시스템 운영 안내.",
+      "type": "출시",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "키움證, 이달 27일 삼전‧SK하닉 레버리지‧인버스 상장",
+          "url": "https://www.fnnews.com/news/202605141110112041"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-05-15"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202605141642043905",
+      "date": "2026-05-14",
+      "company": "한국투자증권",
+      "title": "한투證 1분기 영업익 9599억, 전년比 85%↑",
+      "oneLiner": "한국투자증권이 1·4분기 연결 기준 잠정 영업이익 9599억원(전년比 85%↑), 당기순이익 7847억원을 공시한 기사로 재무·운영 실적 변화에 해당함.",
+      "type": "기타",
+      "areas": [
+        "브로커리지",
+        "WM",
+        "트레이딩",
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투證 1분기 영업익 9599억, 전년比 85%↑",
+          "url": "https://www.fnnews.com/news/202605141642043905"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-05-15"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202605141645090943",
+      "date": "2026-05-14",
+      "company": "미래에셋증권",
+      "title": "\"삼전닉스 2배 ETF 뜬다\"...미래에셋, 최저보수 승부수",
+      "oneLiner": "단일종목 2배 레버리지 ETF 16종의 증권신고서 효력 발생 및 27일 동시 상장 예고로, 신규 상품 출시 관련 소식임.",
+      "type": "출시",
+      "areas": [
+        "트레이딩",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"삼전닉스 2배 ETF 뜬다\"...미래에셋, 최저보수 승부수",
+          "url": "https://www.fnnews.com/news/202605141645090943"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-05-15"
     },
     {
       "id": "news:하나증권:https://www.fnnews.com/news/202605130715091557",
@@ -68,7 +279,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-05-14"
+      "updatedAt": "2026-05-15"
     },
     {
       "id": "news:토스증권:https://www.mk.co.kr/news/stock/12046040",
