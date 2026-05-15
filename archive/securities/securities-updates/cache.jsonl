@@ -1366,3 +1366,18 @@
 {"id": "news:미래에셋증권:https://www.fnnews.com/news/202605141822548594", "keep": false, "oneLiner": "반도체 레버리지 ETF로 개인 자금이 대거 유입되고 있음을 전하는 시장·자금흐름 기사로, 증권사 내부 정책·제품 변경은 아님.", "type_raw": "기타", "areas_raw": ["트레이딩"], "confidence": 0.9}
 {"id": "news:미래에셋증권:https://www.fnnews.com/news/202605141823029999", "keep": false, "oneLiner": "개인 투자자들의 삼성전자 우선주 매수 집중을 다룬 시장 동향 기사로, 증권사 제품·운영 변화와 무관함.", "type_raw": "기타", "areas_raw": ["트레이딩"], "confidence": 0.9}
 {"id": "news:KB증권:https://www.fnnews.com/news/202605141004225921", "keep": false, "oneLiner": "SK브로드밴드 주최 청소년 음악제 개최와 음악 플랫폼 합류 소식을 전하는 문화 이벤트 기사로, 증권사 관련 제품·정책 변화에 해당하지 않음.", "type_raw": "기타", "areas_raw": ["기타"], "confidence": 0.7}
+{"id": "6eac4d982e200887a21cae2843eca97a610d9e8f", "keep": false, "oneLiner": "NH투자증권(나무증권) iOS 앱 v12.64가 배포되었으며 주로 오류 수정과 성능 개선이 이루어졌습니다.", "type_raw": "시스템", "areas_raw": ["기타"], "confidence": 0.95}
+{"id": "10e9b634e9321b568f0f944df6b70b3f678dbe94", "keep": false, "oneLiner": "앱 릴리스 노트에 '일부 기능 개선'만 표기된 간단한 업데이트 공지.", "type_raw": "시스템", "areas_raw": ["기타"], "confidence": 0.9}
+{"id": "907867abb054bd2e7d4d74005ea50c5cf5b9801d", "keep": true, "oneLiner": "NH투자증권이 최대주주 등 소유주식 변동에 관한 신고서를 제출한 공시로, 최대주주 지분 변동 관련 공식 보고임.", "type_raw": "규제", "areas_raw": ["기타"], "confidence": 0.9}
+{"id": "b95a2ec7ee1eb35a0c0b27c3209ac28566aa5d1f", "keep": true, "oneLiner": "자기주식 취득 결정 공시 — 자본정책 및 주식수에 영향이 있는 회사 의사결정.", "type_raw": "기타", "areas_raw": ["기타"], "confidence": 0.95}
+{"id": "3717b29d6ba0ce57371fbf1ff2a5c4ee4af8a671", "keep": true, "oneLiner": "타법인 주식 및 출자증권 취득 결정 공시 — 지분투자·재무구조 변화 관련 결정.", "type_raw": "기타", "areas_raw": ["기타"], "confidence": 0.95}
+{"id": "9345653a2dd415a372d56c99c105f2bdb3f640d1", "keep": true, "oneLiner": "주식 소각 결정 공시 — 자본구조 및 발행주식수 변경 관련 중요 공시.", "type_raw": "기타", "areas_raw": ["기타"], "confidence": 0.95}
+{"id": "384b0aa86dbf2e4e993cdf91efc9fdc1d7fb6b2c", "keep": true, "oneLiner": "단기차입금 증가 결정 공시 — 단기부채 확대에 따른 재무·유동성 리스크 증대 가능성.", "type_raw": "기타", "areas_raw": ["리스크"], "confidence": 0.95}
+{"id": "news:NH투자증권:https://www.mk.co.kr/news/stock/12049439", "keep": false, "oneLiner": "가상자산 시장 침체로 빗썸이 적자전환하고 두나무의 영업이익이 큰 폭 감소했다는 업계 보도입니다.", "type_raw": "기타", "areas_raw": ["리스크"], "confidence": 0.9}
+{"id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12049087", "keep": true, "oneLiner": "OKX가 한국투자증권과 함께 코인원 지분을 공동 인수하는 방안을 검토 중이라는 보도로, 국내 가상자산 시장 진출을 위한 전략적 제휴·인수 검토로 판단됩니다.", "type_raw": "제휴", "areas_raw": ["브로커리지"], "confidence": 0.8}
+{"id": "news:KB증권:https://www.mk.co.kr/news/stock/12048725", "keep": true, "oneLiner": "KB증권이 한국금융지주에 대해 자회사 실적 호조를 반영해 목표주가를 상향한 보고서를 발간했습니다.", "type_raw": "리서치", "areas_raw": ["리서치"], "confidence": 0.9}
+{"id": "news:메리츠증권:https://www.fnnews.com/news/202605150850253975", "keep": true, "oneLiner": "메리츠증권이 JYP엔터의 MD 사업 고성장을 근거로 구조적 수익성 개선 국면 진입을 분석한 리포트를 발표했습니다.", "type_raw": "리서치", "areas_raw": ["리서치"], "confidence": 0.9}
+{"id": "news:KB증권:https://www.fnnews.com/news/202605151205327421", "keep": false, "oneLiner": "코스피가 외국인 매도세에 하락했다는 오전 시황 보도입니다.", "type_raw": "기타", "areas_raw": ["기타"], "confidence": 0.95}
+{"id": "news:신한투자증권:https://www.fnnews.com/news/202605151514315276", "keep": false, "oneLiner": "월분배형 커버드콜 ETF 'SOL 200타겟위클리커버드콜'에 자금이 유입돼 순자산 5000억을 돌파했다는 기사입니다.", "type_raw": "기타", "areas_raw": ["WM"], "confidence": 0.85}
+{"id": "news:한국투자증권:https://www.fnnews.com/news/202605151746159106", "keep": true, "oneLiner": "신한투자증권이 1·4분기 사상 최대 실적(영업이익·당기순이익)을 공시했으며 전 사업부 고른 성장세를 보였다고 발표했습니다.", "type_raw": "기타", "areas_raw": ["WM"], "confidence": 0.85}
+{"id": "news:미래에셋증권:https://www.fnnews.com/news/202605151752238698", "keep": true, "oneLiner": "한국거래소에 따르면 코스닥·액티브 등 ETF 8종목이 오는 19일 신규 상장될 예정입니다.", "type_raw": "출시", "areas_raw": ["WM"], "confidence": 0.9}
