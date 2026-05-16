@@ -2,6 +2,53 @@
   "month": "2026-05",
   "events": [
     {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12050083",
+      "date": "2026-05-16",
+      "company": "미래에셋증권",
+      "title": "“종목교체 거의 안하지만 팔 때는 인간보다 단호”…‘AI 운용’의 진짜 힘 [여의도란도란]",
+      "oneLiner": "미래에셋 AI금융공학운용부문 대표 인터뷰로, AI 기반 펀드 운용이 종목 교체는 거의 하지 않으나 매도 시에는 인간보다 단호한 결정을 내리는 장점을 설명하며 투자자 실질수익 개선을 강조한다.",
+      "type": "리서치",
+      "areas": [
+        "리서치",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“종목교체 거의 안하지만 팔 때는 인간보다 단호”…‘AI 운용’의 진짜 힘 [여의도란도란]",
+          "url": "https://www.mk.co.kr/news/stock/12050083"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-05-17"
+    },
+    {
+      "id": "news:토스증권:http://www.boannews.com/media/view.asp?idx=143670&kind=&sub_kind=",
+      "date": "2026-05-16",
+      "company": "토스증권",
+      "title": "[미토스 충격] 미토스 이용해 ‘철옹성’ 애플 맥OS 보안 뚫었다",
+      "oneLiner": "AI 모델 '미토스'를 활용해 macOS 보안 우회 공격 코드가 개발된 사례를 보도하며, AI 활용이 보안 리스크로 연결될 수 있음을 경고한다.",
+      "type": "시스템",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "보안뉴스",
+          "title": "[미토스 충격] 미토스 이용해 ‘철옹성’ 애플 맥OS 보안 뚫었다",
+          "url": "http://www.boannews.com/media/view.asp?idx=143670&kind=&sub_kind="
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-05-17"
+    },
+    {
       "id": "news:KB증권:https://www.mk.co.kr/news/stock/12048637",
       "date": "2026-05-15",
       "company": "KB증권",
