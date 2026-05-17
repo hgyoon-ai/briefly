@@ -2,6 +2,54 @@
   "month": "2026-05",
   "events": [
     {
+      "id": "news:토스증권:https://www.fnnews.com/news/202605171808479943",
+      "date": "2026-05-18",
+      "company": "토스증권",
+      "title": "\"애플도 뚫렸다\"…미토스, 최신 맥OS 취약점 찾아내[1일IT템]",
+      "oneLiner": "AI 모델 '미토스'가 최신 macOS 취약점을 이용해 권한 상승 공격코드를 구현했다는 보도로, AI의 악용 가능성과 사이버·운영 리스크가 증대됨을 시사합니다.",
+      "type": "리서치",
+      "areas": [
+        "리스크",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "\"애플도 뚫렸다\"…미토스, 최신 맥OS 취약점 찾아내[1일IT템]",
+          "url": "https://www.fnnews.com/news/202605171808479943"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-05-18"
+    },
+    {
+      "id": "news:토스증권:http://www.boannews.com/media/view.asp?idx=143673&kind=&sub_kind=",
+      "date": "2026-05-17",
+      "company": "토스증권",
+      "title": "[미토스 충격] 최신 AI 모델 사이버 공격 능력, 4.7개월마다 2배 빨라진다",
+      "oneLiner": "영국 AISI 보고를 인용해 최신 AI 모델 기반 사이버 공격 능력이 급속히 향상되고 있다고 보도한 기사로, 증권사 보안·리스크 관리에서 우선 검토해야 할 내용입니다.",
+      "type": "리서치",
+      "areas": [
+        "리스크",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "보안뉴스",
+          "title": "[미토스 충격] 최신 AI 모델 사이버 공격 능력, 4.7개월마다 2배 빨라진다",
+          "url": "http://www.boannews.com/media/view.asp?idx=143673&kind=&sub_kind="
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-05-18"
+    },
+    {
       "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12050083",
       "date": "2026-05-16",
       "company": "미래에셋증권",
@@ -23,7 +71,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-05-17"
+      "updatedAt": "2026-05-18"
     },
     {
       "id": "news:토스증권:http://www.boannews.com/media/view.asp?idx=143670&kind=&sub_kind=",
@@ -46,7 +94,7 @@
       ],
       "tags": [],
       "confidence": 0.85,
-      "updatedAt": "2026-05-17"
+      "updatedAt": "2026-05-18"
     },
     {
       "id": "news:KB증권:https://www.mk.co.kr/news/stock/12048637",

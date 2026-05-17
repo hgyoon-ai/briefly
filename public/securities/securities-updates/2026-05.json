@@ -2,6 +2,76 @@
   "month": "2026-05",
   "events": [
     {
+      "id": "news:메리츠증권:https://www.fnnews.com/news/202605172014137901",
+      "date": "2026-05-18",
+      "company": "메리츠증권",
+      "title": "국내 증권사 해외점포 93개로 증가...당기순이익 67.8% ↑",
+      "oneLiner": "국내 증권사의 해외점포가 93개로 증가하고 해외법인 당기순이익이 크게 개선되는 등 해외 영업 확장과 관련된 운영 변화가 보고됨.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "국내 증권사 해외점포 93개로 증가...당기순이익 67.8% ↑",
+          "url": "https://www.fnnews.com/news/202605172014137901"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-05-18"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202605172110037514",
+      "date": "2026-05-17",
+      "company": "NH투자증권",
+      "title": "내부통제 칼 뺀 NH투증… \"체질개선 방점\"",
+      "oneLiner": "미공개정보 이용 사건 대응으로 NH투자증권이 내부통제 전면 재정비·미공개정보 등록관리시스템 도입 등 조직·시스템적 통제 강화에 착수함.",
+      "type": "시스템",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "내부통제 칼 뺀 NH투증… \"체질개선 방점\"",
+          "url": "https://www.fnnews.com/news/202605172110037514"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-05-18"
+    },
+    {
+      "id": "9a8917fa131c026dd71f7bc28cdef80e403ebf86",
+      "date": "2026-05-16",
+      "company": "한국투자증권",
+      "title": "한국투자증권 iOS 앱 업데이트 v2.23.05",
+      "oneLiner": "한국투자증권 iOS 앱에 웰컴·금현물 가이드 추가, 모의투자 로그인 개선, 리서치 검색 기능 추가 및 국민성장펀드 전용계좌 개설 준비 등 기능 및 계좌 관련 변경 사항이 포함됨.",
+      "type": "출시",
+      "areas": [
+        "리서치",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "app_store",
+      "sources": [
+        {
+          "source": "App Store",
+          "title": "한국투자증권 iOS 앱 업데이트 v2.23.05",
+          "url": "https://apps.apple.com/kr/app/%ED%95%9C%ED%88%AC-%ED%95%9C%EA%B5%AD%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C-mts-%ED%88%AC%EC%9E%90-%EC%A6%9D%EA%B6%8C-%ED%95%B4%EC%99%B8%EC%A3%BC%EC%8B%9D-%EC%A3%BC%EC%8B%9D%EC%96%B4%ED%94%8C/id1621986905?uo=4"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-05-18"
+    },
+    {
       "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12048636",
       "date": "2026-05-15",
       "company": "한국투자증권",
