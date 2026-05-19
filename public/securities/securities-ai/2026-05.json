@@ -2,6 +2,52 @@
   "month": "2026-05",
   "events": [
     {
+      "id": "news:토스증권:https://www.fnnews.com/news/202605191738561270",
+      "date": "2026-05-20",
+      "company": "토스증권",
+      "title": "\"은행도 못 믿겠다\"…한국인 절반, 기관 보안 불신[1일IT템]",
+      "oneLiner": "보고서 분석: 한국 소비자 절반가량이 은행·플랫폼의 보안을 신뢰하지 못한다는 조사 결과가 발표돼 금융권 사이버 리스크 우려가 커지고 있다.",
+      "type": "리서치",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "\"은행도 못 믿겠다\"…한국인 절반, 기관 보안 불신[1일IT템]",
+          "url": "https://www.fnnews.com/news/202605191738561270"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-05-20"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202605191103105042",
+      "date": "2026-05-19",
+      "company": "하나증권",
+      "title": "\"SK하닉 시총, 삼성전자 넘는 순간 팔아라\" 경고한 증권사 \"2000년 닷컴버블이 근거\"",
+      "oneLiner": "하나증권 리서치: SK하이닉스가 삼성전자 시가총액을 추월하는 시점이 현재 강세장의 전형적 과열 신호라고 경고했다.",
+      "type": "리서치",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"SK하닉 시총, 삼성전자 넘는 순간 팔아라\" 경고한 증권사 \"2000년 닷컴버블이 근거\"",
+          "url": "https://www.fnnews.com/news/202605191103105042"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-05-20"
+    },
+    {
       "id": "news:토스증권:https://www.fnnews.com/news/202605171808479943",
       "date": "2026-05-18",
       "company": "토스증권",
