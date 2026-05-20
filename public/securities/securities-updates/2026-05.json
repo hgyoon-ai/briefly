@@ -2,6 +2,354 @@
   "month": "2026-05",
   "events": [
     {
+      "id": "news:하나증권:https://www.fnnews.com/news/202605201402077836",
+      "date": "2026-05-21",
+      "company": "하나증권",
+      "title": "외인, 한국 증시 안 떠났다…코리아 재평가 베팅",
+      "oneLiner": "하나증권 연구진 분석을 인용해 외국인 지분율 상승과 국내 증시 내 외국인 비중 변화에 대한 해석을 제시하는 리서치성 기사임.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "외인, 한국 증시 안 떠났다…코리아 재평가 베팅",
+          "url": "https://www.fnnews.com/news/202605201402077836"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-05-21"
+    },
+    {
+      "id": "news:메리츠증권:https://www.mk.co.kr/news/stock/12053535",
+      "date": "2026-05-20",
+      "company": "메리츠증권",
+      "title": "홈플러스 금융 지원 샅바 싸움 여전…메리츠 “부동산 가치 떨어져 지원 어렵다” 주장",
+      "oneLiner": "메리츠금융그룹이 홈플러스에 대한 DIP(긴급운영자금) 지원을 부동산 담보가치 하락을 이유로 사실상 난색을 표명하며 지원 논쟁이 지속되고 있음.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "홈플러스 금융 지원 샅바 싸움 여전…메리츠 “부동산 가치 떨어져 지원 어렵다” 주장",
+          "url": "https://www.mk.co.kr/news/stock/12053535"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-05-21"
+    },
+    {
+      "id": "news:NH투자증권:https://www.mk.co.kr/news/stock/12053449",
+      "date": "2026-05-20",
+      "company": "NH투자증권",
+      "title": "한화투자증권, 두나무 3대주주로…6000억에 카카오인베 보유 지분 3.90% 추가 취득",
+      "oneLiner": "한화투자증권이 두나무 지분 3.90%를 약 5,978억원에 추가 취득하기로 결의하며 주요 주주로서 지분 확대를 단행함.",
+      "type": "기타",
+      "areas": [
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한화투자증권, 두나무 3대주주로…6000억에 카카오인베 보유 지분 3.90% 추가 취득",
+          "url": "https://www.mk.co.kr/news/stock/12053449"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-05-21"
+    },
+    {
+      "id": "news:신한투자증권:https://www.mk.co.kr/news/stock/12053442",
+      "date": "2026-05-20",
+      "company": "신한투자증권",
+      "title": "증시 활황에…신한 '슈퍼앱'으로 증권 몸집 키운다",
+      "oneLiner": "신한금융그룹이 그룹 통합 앱 '신한 슈퍼SOL'을 통해 증권 계열사의 플랫폼 통합을 추진하며 증권 사업 확장을 위한 슈퍼앱 전략을 발표함.",
+      "type": "출시",
+      "areas": [
+        "브로커리지",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "증시 활황에…신한 '슈퍼앱'으로 증권 몸집 키운다",
+          "url": "https://www.mk.co.kr/news/stock/12053442"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-05-21"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12053203",
+      "date": "2026-05-20",
+      "company": "미래에셋증권",
+      "title": "‘젊은 오너’ 공략 나선 미래에셋증권 …‘세이지 비욘드’ 출범",
+      "oneLiner": "미래에셋증권이 VIP 서비스 고도화의 일환으로 젊은 경영인 대상 '세이지 비욘드'를 출범해 신규 고객층을 겨냥한 서비스 확장을 발표함.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "‘젊은 오너’ 공략 나선 미래에셋증권 …‘세이지 비욘드’ 출범",
+          "url": "https://www.mk.co.kr/news/stock/12053203"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-05-21"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12053202",
+      "date": "2026-05-20",
+      "company": "미래에셋증권",
+      "title": "미래에셋운용, 미래에셋생명 주식 500억 추가로 사들인다",
+      "oneLiner": "미래에셋자산운용이 계열사 미래에셋생명 주식 500억원 규모 추가 취득을 결정하며 계열 지배구조 및 투자정책 관련 자본배치를 진행함.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "미래에셋운용, 미래에셋생명 주식 500억 추가로 사들인다",
+          "url": "https://www.mk.co.kr/news/stock/12053202"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-05-21"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12053182",
+      "date": "2026-05-20",
+      "company": "미래에셋증권",
+      "title": "미래운용, 미래에셋생명 500억 규모 추가 출자…“지배구조 강화”",
+      "oneLiner": "미래에셋운용이 미래에셋생명에 대한 500억원 규모 추가 출자를 공시하여 지배구조 강화 목적의 자금집행이 이어지고 있음을 알림.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "미래운용, 미래에셋생명 500억 규모 추가 출자…“지배구조 강화”",
+          "url": "https://www.mk.co.kr/news/stock/12053182"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-05-21"
+    },
+    {
+      "id": "news:KB증권:https://www.mk.co.kr/news/stock/12052849",
+      "date": "2026-05-20",
+      "company": "KB증권",
+      "title": "‘7천피’ 맞춘 족집게, 이번엔 버블붕괴 경고…“국채금리 급등 심상치 않다”",
+      "oneLiner": "KB증권 리서치가 국채 금리 급등을 경고하며 역사적 비교 분석을 제시한 리포트를 통해 시장 리스크 관점의 시각을 제시함.",
+      "type": "리서치",
+      "areas": [
+        "리서치",
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "‘7천피’ 맞춘 족집게, 이번엔 버블붕괴 경고…“국채금리 급등 심상치 않다”",
+          "url": "https://www.mk.co.kr/news/stock/12052849"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-05-21"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202605200939373115",
+      "date": "2026-05-20",
+      "company": "한국투자증권",
+      "title": "신한투자증권, 디지털서포터즈 운영…\"지점 고객 편의성 강화\"",
+      "oneLiner": "신한투자증권이 지점 내 고객 응대 강화를 위해 '디지털서포터즈' 제도를 도입·운영한다고 발표한 고객 서비스 운영 정책 변화임.",
+      "type": "출시",
+      "areas": [
+        "상담",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "신한투자증권, 디지털서포터즈 운영…\"지점 고객 편의성 강화\"",
+          "url": "https://www.fnnews.com/news/202605200939373115"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-05-21"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202605200942369627",
+      "date": "2026-05-20",
+      "company": "한국투자증권",
+      "title": "\"현대차 공장에 로봇 2.5만대\"...BD 전략 구체화에 투자자 촉각",
+      "oneLiner": "한국투자증권의 분석에서 보스턴다이나믹스의 산업용 로봇 전략 구체화로 현대차그룹 관련주(현대모비스·기아 등)가 수혜주로 부각된다는 의견을 제시했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"현대차 공장에 로봇 2.5만대\"...BD 전략 구체화에 투자자 촉각",
+          "url": "https://www.fnnews.com/news/202605200942369627"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-05-21"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202605191620327509",
+      "date": "2026-05-20",
+      "company": "한국투자증권",
+      "title": "한국투자증권 인니법인 \"젊은 투자자 확대 성과..대학생 계좌 올 1분기만 2000개\"",
+      "oneLiner": "한국투자증권 인도네시아 법인(KISI)이 대학생 대상 금융리터러시와 체험 프로그램을 통해 올해 1분기에만 대학생 신규 계좌 2000건을 돌파하며 젊은 고객 기반을 확대했다.",
+      "type": "기타",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한국투자증권 인니법인 \"젊은 투자자 확대 성과..대학생 계좌 올 1분기만 2000개\"",
+          "url": "https://www.fnnews.com/news/202605191620327509"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-05-21"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202605201350476883",
+      "date": "2026-05-20",
+      "company": "한국투자증권",
+      "title": "한투증권, 개인 금융상품 잔고 100조 넘어섰다",
+      "oneLiner": "한국투자증권의 개인 고객 대상 금융상품 잔고가 100조원을 넘어섰으며, 메가 IB 지위와 상품 라인업 확대가 자금 유입을 견인했다는 내용이다.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투증권, 개인 금융상품 잔고 100조 넘어섰다",
+          "url": "https://www.fnnews.com/news/202605201350476883"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-05-21"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202605201434395885",
+      "date": "2026-05-20",
+      "company": "미래에셋증권",
+      "title": "미래에셋운용, 미래에셋생명 500억 추가 매입 \"장기 성장 포석\"",
+      "oneLiner": "미래에셋자산운용이 계열사인 미래에셋생명의 보통주를 약 500억원 규모로 추가 취득하기로 결정했으며, 이는 그룹 지배구조 안정화 및 시너지 강화 목적이라는 해석이 제시됐다.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋운용, 미래에셋생명 500억 추가 매입 \"장기 성장 포석\"",
+          "url": "https://www.fnnews.com/news/202605201434395885"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-05-21"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202605201811255920",
+      "date": "2026-05-20",
+      "company": "한국투자증권",
+      "title": "한투證, 개인 금융상품 잔고 100조 돌파",
+      "oneLiner": "한국투자증권의 개인 금융상품 잔고가 100조원을 돌파했다는 보도로, 상품 공급 확대와 자체 발행어음·IMA 라인업 확대가 주요 요인으로 지목됐다.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투證, 개인 금융상품 잔고 100조 돌파",
+          "url": "https://www.fnnews.com/news/202605201811255920"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-05-21"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202605201811256214",
+      "date": "2026-05-20",
+      "company": "미래에셋증권",
+      "title": "미래에셋운용, 미래에셋생명에 500억 추가 출자",
+      "oneLiner": "미래에셋자산운용이 미래에셋생명 지분을 약 500억원 규모로 추가 취득할 예정이며, 매입은 장내에서 순차적으로 이뤄질 계획이다.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋운용, 미래에셋생명에 500억 추가 출자",
+          "url": "https://www.fnnews.com/news/202605201811256214"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-05-21"
+    },
+    {
       "id": "news:메리츠증권:https://www.fnnews.com/news/202605172014137901",
       "date": "2026-05-18",
       "company": "메리츠증권",
