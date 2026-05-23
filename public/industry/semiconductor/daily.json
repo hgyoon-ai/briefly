@@ -1,85 +1,12 @@
 {
-  "date": "2026-05-23",
+  "date": "2026-05-24",
   "highlights": {
-    "bullets": [
-      "핵심: 미국 정부가 양자컴퓨팅 기업에 20억 달러를 투자하고 지분 참여를 포함했다.",
-      "핵심: 삼성 TV Plus가 SM엔터와 협업해 인기 아티스트의 월간 콘서트를 티켓 없이 생중계한다.",
-      "트렌드: 대형 기관의 투자와 기업 협업으로 기술과 서비스 접근성을 확대하려는 움직임이 공통적으로 보인다."
-    ],
-    "topTopics": [
-      "Investment",
-      "Manufacturing",
-      "Roadmap",
-      "Policy"
-    ],
+    "bullets": [],
+    "topTopics": [],
     "stats": {
-      "collected": 5,
-      "deduped": 5
+      "collected": 0,
+      "deduped": 0
     }
   },
-  "cards": [
-    {
-      "id": "semiconductor_0001",
-      "tab": "semiconductor",
-      "publishedAt": "2026-05-22T21:58:24+09:00",
-      "source": "EE Times",
-      "title": "U.S. Injects $2B into Quantum Computing Companies",
-      "summary": [
-        "미국 정부가 양자컴퓨팅 기업에 20억 달러를 투자한다고 발표했다.",
-        "이번 지원에는 정부의 지분 참여가 포함된다.",
-        "워싱턴은 양자 기술 분야에서 주도권 확보를 목표로 하고 있다."
-      ],
-      "whyItMatters": "대규모 공적 자금과 지분 투입은 양자 기술의 상용화 가속과 글로벌 경쟁 구도에 결정적 영향을 미칠 수 있다.",
-      "topics": [
-        "Policy",
-        "Investment",
-        "Competition"
-      ],
-      "status": "NEW",
-      "hash": "e2d9184470a3bec88062d0ddd5392add7fb6bf68eb1ee551b7c8e34a5cf2d6d8",
-      "url": "https://www.eetimes.com/u-s-injects-2b-into-quantum-computing-companies/"
-    },
-    {
-      "id": "semiconductor_0002",
-      "tab": "semiconductor",
-      "publishedAt": "2026-05-23T06:26:13+09:00",
-      "source": "EE Times",
-      "title": "U.S. Quantum Bet Puts Hardware First, But Utility Remains the Test",
-      "summary": [
-        "미국이 20억 달러 규모의 CHIPS Act 패키지로 양자 하드웨어에 우선 투자했다.",
-        "여러 하드웨어 모달리티에 걸친 지원은 양자를 전략적 인프라로 간주하는 워싱턴의 시각을 반영한다.",
-        "그러나 하드웨어를 실용적 응용으로 전환하는 것이 여전히 더 큰 과제로 남아 있다."
-      ],
-      "whyItMatters": "대규모 정부 투자로 하드웨어 역량은 빠르게 강화되겠지만, 실용화 여부가 향후 정책·투자 우선순위를 결정할 핵심 변수가 되기 때문이다.",
-      "topics": [
-        "Policy",
-        "Investment",
-        "Manufacturing"
-      ],
-      "status": "SHIFTING",
-      "hash": "f0117e596cb75a28c6f5a0ee939f6a747493f99dd62682a2709cd9c85102fadc",
-      "url": "https://www.eetimes.com/u-s-quantum-bet-puts-hardware-first-but-utility-remains-the-test/"
-    },
-    {
-      "id": "semiconductor_0003",
-      "tab": "semiconductor",
-      "publishedAt": "2026-05-22T17:00:00+09:00",
-      "source": "Samsung Newsroom",
-      "title": "Samsung TV Plus Brings Monthly SM K-Pop Concert Series to Fans at Home",
-      "summary": [
-        "삼성 TV Plus가 SM엔터테인먼트와 협업해 인기 아티스트의 월간 콘서트를 티켓 없이 집에서 시청할 수 있게 생중계한다.",
-        "이번 확장은 2025년 LA에서의 SMTOWN LIVE 독점 생중계에 이은 협업 확대 사례다.",
-        "정기 라이브 콘텐츠로 플랫폼 차별화와 사용자 참여·광고 수익 확대가 기대된다."
-      ],
-      "whyItMatters": "정기적인 독점 라이브 이벤트는 이용률과 수익화 기회를 높여 삼성 TV Plus의 미디어 경쟁력을 강화하기 때문이다.",
-      "topics": [
-        "Demand",
-        "Competition",
-        "Roadmap"
-      ],
-      "status": "ONGOING",
-      "hash": "97483d6e9d5eebe6e9db255dab418dcfb1c254d2a6d5bb16d094743db54a721b",
-      "url": "https://news.samsung.com/global/samsung-tv-plus-brings-monthly-sm-k-pop-concert-series-to-fans-at-home"
-    }
-  ]
+  "cards": []
 }
