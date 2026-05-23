@@ -1,5 +1,66 @@
 [
   {
+    "id": "2026-05-24T07:33:50.378358+09:00",
+    "ts": "2026-05-24T07:33:50.378358+09:00",
+    "timezone": "Asia/Seoul",
+    "dataset": "securities-updates",
+    "range": {
+      "mode": "lookback",
+      "lookbackDays": 3,
+      "month": null,
+      "start": "2026-05-21T07:33:50.378358+09:00",
+      "end": "2026-05-24T07:33:50.378358+09:00"
+    },
+    "sources": {
+      "app_store": {
+        "appsTotal": 10,
+        "fetchedOk": 10,
+        "failed": 0
+      },
+      "dart": {
+        "companiesTotal": 10,
+        "matched": 8,
+        "unmatched": 2,
+        "filters": {
+          "pblntf_ty": [
+            "B",
+            "E",
+            "I"
+          ],
+          "last_reprt_at": "Y"
+        },
+        "disclosuresFetched": 1
+      },
+      "news": {
+        "rssLimit": 50,
+        "entriesFetched": 112,
+        "bySource": {
+          "한국경제(증권)": 50,
+          "매일경제(증권)": 50,
+          "파이낸셜뉴스(증권)": 2,
+          "보안뉴스": 10
+        }
+      }
+    },
+    "filters": {
+      "rawItems": 9,
+      "deduped": 9,
+      "keywordPassed": 6,
+      "candidates": 6
+    },
+    "llm": {
+      "cacheHit": 5,
+      "sent": 1
+    },
+    "output": {
+      "kept": 3,
+      "monthsUpdated": [
+        "2026-05"
+      ]
+    },
+    "errors": []
+  },
+  {
     "id": "2026-05-23T07:52:01.267145+09:00",
     "ts": "2026-05-23T07:52:01.267145+09:00",
     "timezone": "Asia/Seoul",
@@ -363,68 +424,6 @@
     },
     "output": {
       "kept": 3,
-      "monthsUpdated": [
-        "2026-05"
-      ]
-    },
-    "errors": []
-  },
-  {
-    "id": "2026-05-17T07:29:05.608869+09:00",
-    "ts": "2026-05-17T07:29:05.608869+09:00",
-    "timezone": "Asia/Seoul",
-    "dataset": "securities-updates",
-    "range": {
-      "mode": "lookback",
-      "lookbackDays": 3,
-      "month": null,
-      "start": "2026-05-14T07:29:05.608869+09:00",
-      "end": "2026-05-17T07:29:05.608869+09:00"
-    },
-    "sources": {
-      "app_store": {
-        "appsTotal": 10,
-        "fetchedOk": 10,
-        "failed": 0
-      },
-      "dart": {
-        "companiesTotal": 10,
-        "matched": 8,
-        "unmatched": 2,
-        "filters": {
-          "pblntf_ty": [
-            "B",
-            "E",
-            "I"
-          ],
-          "last_reprt_at": "Y"
-        },
-        "disclosuresFetched": 4
-      },
-      "news": {
-        "rssLimit": 50,
-        "entriesFetched": 113,
-        "bySource": {
-          "한국경제(증권)": 50,
-          "매일경제(증권)": 50,
-          "파이낸셜뉴스(증권)": 2,
-          "파이낸셜뉴스(IT)": 1,
-          "보안뉴스": 10
-        }
-      }
-    },
-    "filters": {
-      "rawItems": 11,
-      "deduped": 11,
-      "keywordPassed": 8,
-      "candidates": 8
-    },
-    "llm": {
-      "cacheHit": 8,
-      "sent": 0
-    },
-    "output": {
-      "kept": 5,
       "monthsUpdated": [
         "2026-05"
       ]
