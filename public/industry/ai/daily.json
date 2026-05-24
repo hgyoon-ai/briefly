@@ -1,42 +1,12 @@
 {
-  "date": "2026-05-24",
+  "date": "2026-05-25",
   "highlights": {
-    "bullets": [
-      "핵심: 연구진은 diffusion 기반 언어모델과 새로운 샘플링 기법으로 지연과 비용을 낮춘 거의 실시간 텍스트 생성 성능을 보고했다."
-    ],
-    "topTopics": [
-      "Models",
-      "Inference",
-      "Infra",
-      "Tooling"
-    ],
+    "bullets": [],
+    "topTopics": [],
     "stats": {
-      "collected": 1,
-      "deduped": 1
+      "collected": 0,
+      "deduped": 0
     }
   },
-  "cards": [
-    {
-      "id": "ai_0001",
-      "tab": "ai",
-      "publishedAt": "2026-05-23T09:02:03+09:00",
-      "source": "Hugging Face Blog",
-      "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
-      "summary": [
-        "Nemotron-Labs가 diffusion 기반 언어모델과 새로운 샘플링 기법으로 거의 실시간 텍스트 생성 성능을 달성했다고 보고했다.",
-        "블로그는 샘플링 단계 축소·병렬화·하드웨어 최적화를 결합한 벤치마크로 지연(latency)과 비용을 크게 낮춘 결과를 제시했다.",
-        "모델·코드·통합 툴을 공개해 실제 서비스 적용 가능성을 열었으나 품질·안전성·인프라 측면의 추가 평가가 필요하다."
-      ],
-      "whyItMatters": "생성 지연과 비용 구조를 근본적으로 낮출 잠재력이 있어 제품 UX, 배포 아키텍처, 운영 비용에 즉각적 영향을 줄 수 있기 때문에 중요하다.",
-      "topics": [
-        "Models",
-        "Inference",
-        "Infra",
-        "Tooling"
-      ],
-      "status": "NEW",
-      "hash": "cf2c701f4b43a71808595d627873f75a57fc3022e5db0e24c9ce58c8964d5c5e",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion"
-    }
-  ]
+  "cards": []
 }
