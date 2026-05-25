@@ -2,6 +2,30 @@
   "month": "2026-05",
   "events": [
     {
+      "id": "news:하나증권:https://www.fnnews.com/news/202605260718377758",
+      "date": "2026-05-26",
+      "company": "하나증권",
+      "title": "주가 86만원인데 130만원 제시…'LG이노텍'에 무슨 일이",
+      "oneLiner": "하나증권이 LG이노텍에 대해 목표주가를 기존 70만원에서 130만원으로 대폭 상향하고 투자의견 '매수'를 유지한 연구보고서를 발간함.",
+      "type": "리서치",
+      "areas": [
+        "리서치",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "주가 86만원인데 130만원 제시…'LG이노텍'에 무슨 일이",
+          "url": "https://www.fnnews.com/news/202605260718377758"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-05-26"
+    },
+    {
       "id": "news:KB증권:https://www.fnnews.com/news/202605221412009676",
       "date": "2026-05-25",
       "company": "KB증권",
@@ -47,6 +71,54 @@
       "tags": [],
       "confidence": 0.85,
       "updatedAt": "2026-05-25"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202605221658265898",
+      "date": "2026-05-25",
+      "company": "미래에셋증권",
+      "title": "삼전닉스 레버리지 27일 동시 출격...\"집중투자·손실확대 주의해야\"",
+      "oneLiner": "단일종목 기반 레버리지 ETF·ETN(ETF 16종·ETN 2종)이 27일 동시 출시되며 금융당국은 투자자에게 레버리지 상품의 손실확대 가능성 등을 이유로 주의할 것을 권고함.",
+      "type": "출시",
+      "areas": [
+        "트레이딩",
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "삼전닉스 레버리지 27일 동시 출격...\"집중투자·손실확대 주의해야\"",
+          "url": "https://www.fnnews.com/news/202605221658265898"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-05-26"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202605251800153038",
+      "date": "2026-05-25",
+      "company": "미래에셋증권",
+      "title": "금융당국 \"단일종목 레버리지 투자 주의\"",
+      "oneLiner": "금융위원회·금융감독원이 단일종목 레버리지 ETF·ETN 출시를 앞두고 투자자 보호를 위한 주의사항을 공개하며 규제적 메시지를 발신함.",
+      "type": "규제",
+      "areas": [
+        "리스크",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "금융당국 \"단일종목 레버리지 투자 주의\"",
+          "url": "https://www.fnnews.com/news/202605251800153038"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-05-26"
     },
     {
       "id": "news:하나증권:https://www.fnnews.com/news/202605220649440506",
