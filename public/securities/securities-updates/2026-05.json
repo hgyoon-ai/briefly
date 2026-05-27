@@ -2,6 +2,149 @@
   "month": "2026-05",
   "events": [
     {
+      "id": "054ec9ef23b36f11e38b2e1e65aa6f65f97e2ba7",
+      "date": "2026-05-28",
+      "company": "삼성증권",
+      "title": "타법인주식및출자증권취득결정              ",
+      "oneLiner": "삼성증권이 타법인 주식 및 출자증권 취득을 결정한 공시로, 회사의 자산·투자 운용에 실질적 변화가 발생하는 사안입니다.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "타법인주식및출자증권취득결정              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260528800002"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-05-28"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202605270938408435",
+      "date": "2026-05-27",
+      "company": "미래에셋증권",
+      "title": "\"삼전닉스 2배 베팅 시대\"...미래에셋, 단일종목 레버리지 ETF 첫 상장",
+      "oneLiner": "미래에셋자산운용이 삼성전자·SK하이닉스를 기초로 한 단일종목 레버리지 ETF를 신규 상장해 상품 라인업을 확장했습니다.",
+      "type": "출시",
+      "areas": [
+        "트레이딩",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"삼전닉스 2배 베팅 시대\"...미래에셋, 단일종목 레버리지 ETF 첫 상장",
+          "url": "https://www.fnnews.com/news/202605270938408435"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-05-28"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202605270944166738",
+      "date": "2026-05-27",
+      "company": "미래에셋증권",
+      "title": "한화운용, 업계 유일 '삼성 레버리지·인버스 2X' 동시 출격",
+      "oneLiner": "한화자산운용이 삼성전자 대상 레버리지·인버스2X 단일종목 ETF를 동시에 상장해 양방향 상품을 출시했습니다.",
+      "type": "출시",
+      "areas": [
+        "트레이딩",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한화운용, 업계 유일 '삼성 레버리지·인버스 2X' 동시 출격",
+          "url": "https://www.fnnews.com/news/202605270944166738"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-05-28"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202605271340338689",
+      "date": "2026-05-27",
+      "company": "한국투자증권",
+      "title": "삼성전자·SK하이닉스 레버리지 ETF 상장…보수 경쟁도 본격화",
+      "oneLiner": "한국투자신탁운용 등 운용사가 삼성전자·SK하이닉스 단일종목 레버리지 ETF를 상장하며 시장에 신규 ETF를 공급했습니다.",
+      "type": "출시",
+      "areas": [
+        "트레이딩",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "삼성전자·SK하이닉스 레버리지 ETF 상장…보수 경쟁도 본격화",
+          "url": "https://www.fnnews.com/news/202605271340338689"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-05-28"
+    },
+    {
+      "id": "news:신한투자증권:https://www.fnnews.com/news/202605271347020626",
+      "date": "2026-05-27",
+      "company": "신한투자증권",
+      "title": "불장에 월배당 ETF로 자금 유입…SOL 커버드콜 순자산 6000억 돌파",
+      "oneLiner": "월배당형 커버드콜 ETF('SOL 200타겟위클리커버드콜')의 순자산이 6000억원을 돌파한 소식으로, 상품 유입·운용 규모의 변화가 확인됩니다.",
+      "type": "기타",
+      "areas": [
+        "트레이딩",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "불장에 월배당 ETF로 자금 유입…SOL 커버드콜 순자산 6000억 돌파",
+          "url": "https://www.fnnews.com/news/202605271347020626"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-05-28"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202605271619220649",
+      "date": "2026-05-27",
+      "company": "KB증권",
+      "title": "\"환율 불안 막아라\"…KB증권, 개인 전문투자자 선물환 출시",
+      "oneLiner": "KB증권이 개인 전문투자자 대상 선물환 상품을 출시해 해외주식 투자자의 환헤지 수요를 공략하는 신규 금융상품을 내놓았습니다.",
+      "type": "출시",
+      "areas": [
+        "리스크",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"환율 불안 막아라\"…KB증권, 개인 전문투자자 선물환 출시",
+          "url": "https://www.fnnews.com/news/202605271619220649"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-05-28"
+    },
+    {
       "id": "news:하나증권:https://www.fnnews.com/news/202605260718377758",
       "date": "2026-05-26",
       "company": "하나증권",
