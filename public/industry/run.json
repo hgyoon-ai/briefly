@@ -1,6 +1,6 @@
 {
-  "id": "2026-05-28T07:54:40.390728+09:00",
-  "ts": "2026-05-28T07:54:40.390728+09:00",
+  "id": "2026-05-29T07:50:46.763797+09:00",
+  "ts": "2026-05-29T07:50:46.763797+09:00",
   "timezone": "Asia/Seoul",
   "selectedTabs": [
     "ai",
@@ -10,14 +10,14 @@
     "realestate"
   ],
   "pipeline": {
-    "rawTotal": 217,
+    "rawTotal": 221,
     "rawClamped": 150,
     "rawByTabBeforeClamp": {
       "ai": 100,
-      "finance": 40,
+      "finance": 42,
       "semiconductor": 44,
       "ev": 15,
-      "realestate": 18
+      "realestate": 20
     },
     "rawByTabAfterClamp": {
       "ai": 70,
@@ -32,7 +32,7 @@
   },
   "sources": {
     "rss": {
-      "total": 187,
+      "total": 191,
       "bySource": {
         "OpenAI Blog": 15,
         "Google DeepMind Blog": 15,
@@ -44,13 +44,13 @@
         "EE Times": 10,
         "TechInsights": 10,
         "Electrek": 15,
+        "정책브리핑": 6,
         "매일경제(증권)": 15,
         "보안뉴스": 10,
         "벤처스퀘어": 15,
-        "정책브리핑": 3,
-        "한국경제(부동산)": 1,
-        "매일경제(부동산)": 7,
-        "헤럴드경제(부동산)": 7
+        "한국경제(부동산)": 2,
+        "매일경제(부동산)": 5,
+        "헤럴드경제(부동산)": 9
       }
     },
     "hf": {
@@ -69,36 +69,36 @@
   "tabs": {
     "ai": {
       "daily": {
-        "raw": 10,
-        "cards": 5
+        "raw": 3,
+        "cards": 3
       },
       "weekly": {
         "items": 13,
         "issues": 5
       },
       "monthly": {
-        "items": 82,
+        "items": 81,
         "issues": 5
       }
     },
     "finance": {
       "daily": {
-        "raw": 15,
-        "cards": 2
+        "raw": 14,
+        "cards": 3
       },
       "weekly": {
-        "items": 14,
+        "items": 15,
         "issues": 5
       },
       "monthly": {
-        "items": 71,
+        "items": 72,
         "issues": 5
       }
     },
     "semiconductor": {
       "daily": {
-        "raw": 4,
-        "cards": 2
+        "raw": 5,
+        "cards": 3
       },
       "weekly": {
         "items": 10,
@@ -111,7 +111,7 @@
     },
     "ev": {
       "daily": {
-        "raw": 15,
+        "raw": 11,
         "cards": 2
       },
       "weekly": {
@@ -125,7 +125,7 @@
     },
     "realestate": {
       "daily": {
-        "raw": 15,
+        "raw": 13,
         "cards": 5
       },
       "weekly": {
