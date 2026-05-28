@@ -22,7 +22,265 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-05-28"
+      "updatedAt": "2026-05-29"
+    },
+    {
+      "id": "news:토스증권:https://www.hankyung.com/article/2026052850921",
+      "date": "2026-05-28",
+      "company": "토스증권",
+      "title": "토스증권, 연금시장에 '도전장'…하반기 연금저축계좌 출시",
+      "oneLiner": "토스증권이 하반기 연금저축계좌를 출시해 연금시장에 본격 진출한다.",
+      "type": "출시",
+      "areas": [
+        "WM",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "토스증권, 연금시장에 '도전장'…하반기 연금저축계좌 출시",
+          "url": "https://www.hankyung.com/article/2026052850921"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-05-29"
+    },
+    {
+      "id": "news:토스증권:https://www.hankyung.com/article/202605272175i",
+      "date": "2026-05-28",
+      "company": "토스증권",
+      "title": "[단독] 토스증권, 판 키운다…하반기 연금저축계좌 출시",
+      "oneLiner": "토스증권이 하반기 연금저축계좌 출시를 추진한다고 단독 보도됐다.",
+      "type": "출시",
+      "areas": [
+        "WM",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "[단독] 토스증권, 판 키운다…하반기 연금저축계좌 출시",
+          "url": "https://www.hankyung.com/article/202605272175i"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-05-29"
+    },
+    {
+      "id": "news:한국투자증권:https://www.hankyung.com/article/202605283370i",
+      "date": "2026-05-28",
+      "company": "한국투자증권",
+      "title": "가상자산 거래소 지분 확보 경쟁 벌이는 증권사들…삼성·두나무,한투·코인원 손잡는다",
+      "oneLiner": "여러 증권사가 가상자산 거래소 지분 확보 경쟁에 나서며 디지털자산 사업 확장에 나섰다.",
+      "type": "제휴",
+      "areas": [
+        "트레이딩",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "가상자산 거래소 지분 확보 경쟁 벌이는 증권사들…삼성·두나무,한투·코인원 손잡는다",
+          "url": "https://www.hankyung.com/article/202605283370i"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-05-29"
+    },
+    {
+      "id": "news:NH투자증권:https://www.mk.co.kr/news/stock/12060256",
+      "date": "2026-05-28",
+      "company": "NH투자증권",
+      "title": "\"기관만 누리던 IB상품 혜택, 개인에게 제공\"",
+      "oneLiner": "NH투자증권이 개인 고객을 대상으로 IMA(종합투자계좌)를 통해 기존 기관형 IB상품을 제공한다.",
+      "type": "출시",
+      "areas": [
+        "브로커리지",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "\"기관만 누리던 IB상품 혜택, 개인에게 제공\"",
+          "url": "https://www.mk.co.kr/news/stock/12060256"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-05-29"
+    },
+    {
+      "id": "news:키움증권:https://www.mk.co.kr/news/stock/12059947",
+      "date": "2026-05-28",
+      "company": "키움증권",
+      "title": "“지점 없는게 강점”…키움증권, 500조 퇴직연금 시장 출사표",
+      "oneLiner": "키움증권이 온라인 기반 퇴직연금 플랫폼으로 시장에 진출하고 첫 해 수수료 면제 등을 내세웠다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“지점 없는게 강점”…키움증권, 500조 퇴직연금 시장 출사표",
+          "url": "https://www.mk.co.kr/news/stock/12059947"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-05-29"
+    },
+    {
+      "id": "news:NH투자증권:https://www.mk.co.kr/news/stock/12059564",
+      "date": "2026-05-28",
+      "company": "NH투자증권",
+      "title": "한은, BIS 글로벌 결제플랫폼 ‘아고라 프로젝트’ 테스트 본격화",
+      "oneLiner": "BIS 주도 글로벌 결제플랫폼 ‘아고라’ 테스트에 국내 은행·금융사가 참여해 실험이 본격화된다.",
+      "type": "시스템",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한은, BIS 글로벌 결제플랫폼 ‘아고라 프로젝트’ 테스트 본격화",
+          "url": "https://www.mk.co.kr/news/stock/12059564"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.65,
+      "updatedAt": "2026-05-29"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202605281019311212",
+      "date": "2026-05-28",
+      "company": "KB증권",
+      "title": "\"토요타 시총 추월할 것\" 현대차, 목표가 120만원 50% ↑ … \"삼성바이오, 상승여력 37%\" [株토피아]",
+      "oneLiner": "KB증권 연구진이 하반기 주도주 전략 등 리포트를 통해 투자 아이디어와 목표가를 제시했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"토요타 시총 추월할 것\" 현대차, 목표가 120만원 50% ↑ … \"삼성바이오, 상승여력 37%\" [株토피아]",
+          "url": "https://www.fnnews.com/news/202605281019311212"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-05-29"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202605280902408369",
+      "date": "2026-05-28",
+      "company": "NH투자증권",
+      "title": "삼성증권, 두나무 지분 확보…\"디지털 자산 사업 기회 모색\"",
+      "oneLiner": "삼성증권 등 금융사가 두나무 지분을 확보하며 디지털자산 사업 기회를 모색한다.",
+      "type": "제휴",
+      "areas": [
+        "트레이딩",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "삼성증권, 두나무 지분 확보…\"디지털 자산 사업 기회 모색\"",
+          "url": "https://www.fnnews.com/news/202605280902408369"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-05-29"
+    },
+    {
+      "id": "news:키움증권:https://www.fnnews.com/news/202605281340434050",
+      "date": "2026-05-28",
+      "company": "키움증권",
+      "title": "키움證, 내달 퇴직연금 출범…'IRP 수익률 연동형 수수료' 승부수",
+      "oneLiner": "키움증권이 다음달 퇴직연금 사업을 출범하고 IRP 수익률 연동형 수수료 등 차별화 전략을 도입한다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "키움證, 내달 퇴직연금 출범…'IRP 수익률 연동형 수수료' 승부수",
+          "url": "https://www.fnnews.com/news/202605281340434050"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-05-29"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202605281635475456",
+      "date": "2026-05-28",
+      "company": "NH투자증권",
+      "title": "NH투자증권-디스코, 고액자산가 빌딩 투자자 대상 세미나",
+      "oneLiner": "NH투자증권이 상업용 부동산 데이터 플랫폼 디스코와 공동으로 고액자산가 대상 빌딩 투자 세미나 '디스코 클래스 2026'을 개최하며 자산관리 서비스를 실물자산으로 확장한다.",
+      "type": "제휴",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "NH투자증권-디스코, 고액자산가 빌딩 투자자 대상 세미나",
+          "url": "https://www.fnnews.com/news/202605281635475456"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-05-29"
+    },
+    {
+      "id": "news:토스증권:http://www.boannews.com/media/view.asp?idx=143855&kind=&sub_kind=",
+      "date": "2026-05-28",
+      "company": "토스증권",
+      "title": "자동차 정비도 얼굴로 결제... 토스, 현대 전문 블루핸즈에 ‘페이스페이’ 도입",
+      "oneLiner": "토스가 현대정비가맹점 협동조합연합회와 MOU를 체결하고 전국 블루핸즈에 얼굴인식 결제 서비스 '페이스페이' 도입을 추진하는 제휴를 발표했다.",
+      "type": "제휴",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "보안뉴스",
+          "title": "자동차 정비도 얼굴로 결제... 토스, 현대 전문 블루핸즈에 ‘페이스페이’ 도입",
+          "url": "http://www.boannews.com/media/view.asp?idx=143855&kind=&sub_kind="
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-05-29"
     },
     {
       "id": "news:미래에셋증권:https://www.fnnews.com/news/202605270938408435",
