@@ -22,7 +22,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-05-29"
+      "updatedAt": "2026-05-30"
     },
     {
       "id": "news:KB증권:https://www.fnnews.com/news/202605290759194565",
@@ -46,6 +46,53 @@
       "tags": [],
       "confidence": 0.9,
       "updatedAt": "2026-05-29"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12061281",
+      "date": "2026-05-29",
+      "company": "한국투자증권",
+      "title": "한투·OKX, 코인원 지분 40% 1600억에 인수",
+      "oneLiner": "한국투자증권과 OKX가 코인원 지분 40%를 인수하며 한투증권이 코인원에 AML 노하우를 이식한다고 발표함.",
+      "type": "제휴",
+      "areas": [
+        "AML",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한투·OKX, 코인원 지분 40% 1600억에 인수",
+          "url": "https://www.mk.co.kr/news/stock/12061281"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-05-30"
+    },
+    {
+      "id": "news:토스증권:http://www.boannews.com/media/view.asp?idx=143872&kind=&sub_kind=",
+      "date": "2026-05-29",
+      "company": "토스증권",
+      "title": "[미토스 충격] “AI로 AI 맞선다”... 국가안보실 중심 민관합동 대응체계 가동",
+      "oneLiner": "국가안보실 주도로 민관합동 대응체계를 가동하여 AI 기반 사이버위협에 AI로 대응하는 계획을 발표함(국가 차원의 정책·대응체계 마련).",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "보안뉴스",
+          "title": "[미토스 충격] “AI로 AI 맞선다”... 국가안보실 중심 민관합동 대응체계 가동",
+          "url": "http://www.boannews.com/media/view.asp?idx=143872&kind=&sub_kind="
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-05-30"
     },
     {
       "id": "news:KB증권:https://www.hankyung.com/article/2026052830916",
