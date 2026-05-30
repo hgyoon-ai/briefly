@@ -1,109 +1,12 @@
 {
-  "date": "2026-05-30",
+  "date": "2026-05-31",
   "highlights": {
-    "bullets": [
-      "핵심: 삼성전자가 업계 최초 12층 HBM4E 샘플을 주요 글로벌 고객에 출하하기 시작했다.",
-      "핵심: 가트너는 공급망이 지정학적 위험과 AI 관련 도전에 직면했다고 경고했다.",
-      "트렌드: 기업들이 차세대 기술 상용화와 공급망·경쟁 대응을 병행하고 있다."
-    ],
-    "topTopics": [
-      "Competition",
-      "Roadmap",
-      "Manufacturing",
-      "Investment"
-    ],
+    "bullets": [],
+    "topTopics": [],
     "stats": {
-      "collected": 7,
-      "deduped": 7
+      "collected": 0,
+      "deduped": 0
     }
   },
-  "cards": [
-    {
-      "id": "semiconductor_0001",
-      "tab": "semiconductor",
-      "publishedAt": "2026-05-29T17:01:00+09:00",
-      "source": "Samsung Newsroom",
-      "title": "Samsung Electronics Begins Shipment of Industry-First HBM4E Samples",
-      "summary": [
-        "삼성전자가 업계 최초의 12층 HBM4E 샘플을 주요 글로벌 고객에 출하하기 시작했다.",
-        "이번 출하는 차세대 HBM 분야에서 삼성의 기술적·시장 리더십을 더욱 강화한다.",
-        "지난 HBM4의 양산·상업적 출하에 이어 제품 포트폴리오를 확장한 전략적 조치다."
-      ],
-      "whyItMatters": "조기 샘플 출하로 차세대 고대역폭 메모리 시장에서 기술 우위를 선점해 AI·데이터센터 수요와 경쟁 구도에 직접적인 영향을 미칠 가능성이 크다.",
-      "topics": [
-        "Manufacturing",
-        "Competition",
-        "Roadmap"
-      ],
-      "status": "NEW",
-      "hash": "3cb661ed0d2b07dd2f052aa2259e9efdb270920dee5f6510a6022245bf86b22d",
-      "url": "https://news.samsung.com/global/samsung-electronics-begins-shipment-of-industry-first-hbm4e-samples"
-    },
-    {
-      "id": "semiconductor_0002",
-      "tab": "semiconductor",
-      "publishedAt": "2026-05-30T07:00:00+09:00",
-      "source": "EE Times",
-      "title": "The Stratosphere Race: HAPS Move from Experiment to Commercial Reality",
-      "summary": [
-        "자율 고고도 플랫폼 스테이션(HAPS)이 실험 단계를 벗어나 상업화 단계로 전환하고 있습니다.",
-        "HAPS는 지상 네트워크와 저궤도(LEO) 위성 간 연결을 중계해 통신 커버리지와 용량을 확장할 준비를 하고 있습니다.",
-        "상용화 성공을 위해서는 제조 역량, 규제·안전성 검증, 대규모 투자와 경쟁 구도가 관건입니다."
-      ],
-      "whyItMatters": "이 변화는 통신 인프라의 비용 효율적 확장과 지상-위성 통합 서비스 제공 방식에 중대한 영향을 미치기 때문입니다.",
-      "topics": [
-        "Roadmap",
-        "Investment",
-        "Competition",
-        "Manufacturing"
-      ],
-      "status": "SHIFTING",
-      "hash": "9a7705abec5b04829c7fb7a713445f4aa70ada4dff146ba6146f2f7edb7a676b",
-      "url": "https://www.eetimes.com/the-stratosphere-race-haps-move-from-experiment-to-commercial-reality/"
-    },
-    {
-      "id": "semiconductor_0003",
-      "tab": "semiconductor",
-      "publishedAt": "2026-05-29T23:16:57+09:00",
-      "source": "EE Times",
-      "title": "Gartner Says Supply Chain Confront Geopolitical and AI Challenges",
-      "summary": [
-        "가트너는 공급망이 지정학적 위험과 AI 관련 도전에 직면했다고 경고했다.",
-        "심포지엄에서 혼란을 관리하고 민첩성을 조율하며 혁신을 가속화하는 전략들이 제시되었다.",
-        "기업들은 유연성 강화, 디지털 전환, 리스크 관리 체계 재정비가 필요하다."
-      ],
-      "whyItMatters": "지정학적 불안정과 AI 도입이 공급망 안정성과 경쟁력에 직접적 영향을 미치기 때문에 중요하다.",
-      "topics": [
-        "Manufacturing",
-        "Policy",
-        "Roadmap",
-        "Competition"
-      ],
-      "status": "SHIFTING",
-      "hash": "9d6e6e0979075dab35e31bbcbfd9c991a10c892b9c5f85592bf20c1e452cae69",
-      "url": "https://www.eetimes.com/gartner-says-supply-chain-confront-geopolitical-and-ai-challenges/"
-    },
-    {
-      "id": "semiconductor_0004",
-      "tab": "semiconductor",
-      "publishedAt": "2026-05-29T17:00:00+09:00",
-      "source": "Samsung Newsroom",
-      "title": "[Infographic] Exploring the 2026 Samsung Odyssey G8 & G7 Models at a Glance: From the Industry-First 6K to OLED",
-      "summary": [
-        "삼성전자가 2026년 오디세이 게이밍 모니터 4종(G80HS·G80HF·G80SH·G73SH)을 공개했다.",
-        "G80HS는 업계 최초 6K 초고해상도를 채택했고 일부 모델은 OLED 등 고급 패널을 포함한다.",
-        "고해상도와 신기술 중심의 라인업으로 게이밍 모니터 시장에서 차별화 및 점유율 확대를 노린다."
-      ],
-      "whyItMatters": "제품 로드맵상 6K·OLED 등 차별화 기술 도입은 경쟁 우위 확보와 공급망·수요 변화에 직접적인 영향을 미치기 때문이다.",
-      "topics": [
-        "Roadmap",
-        "Competition",
-        "Manufacturing",
-        "Demand"
-      ],
-      "status": "NEW",
-      "hash": "eeaa3ec14d5657f285e721eb73aa6420307b050d57c7bb04222f04ef9b77673b",
-      "url": "https://news.samsung.com/global/infographic-exploring-the-2026-samsung-odyssey-g8-g7-models-at-a-glance-from-the-industry-first-6k-to-oled"
-    }
-  ]
+  "cards": []
 }
