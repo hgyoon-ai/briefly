@@ -25,6 +25,77 @@
       "updatedAt": "2026-05-31"
     },
     {
+      "id": "44ce3a2ddde50ca2812ff0f364050519801d8219",
+      "date": "2026-05-31",
+      "company": "한국투자증권",
+      "title": "한국투자증권 iOS 앱 업데이트 v2.24.01",
+      "oneLiner": "한국투자증권 iOS 앱 v2.24.01 업데이트로 AI 기반 종목·시황 분석 기능이 현재가 화면에 추가되고 가독성 개선 및 주문내역 개편 등이 이루어졌습니다.",
+      "type": "출시",
+      "areas": [
+        "리서치",
+        "트레이딩",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "app_store",
+      "sources": [
+        {
+          "source": "App Store",
+          "title": "한국투자증권 iOS 앱 업데이트 v2.24.01",
+          "url": "https://apps.apple.com/kr/app/%ED%95%9C%ED%88%AC-%ED%95%9C%EA%B5%AD%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C-mts-%ED%88%AC%EC%9E%90-%EC%A6%9D%EA%B6%8C-%ED%95%B4%EC%99%B8%EC%A3%BC%EC%8B%9D-%EC%A3%BC%EC%8B%9D%EC%96%B4%ED%94%8C/id1621986905?uo=4"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-06-01"
+    },
+    {
+      "id": "news:토스증권:https://www.fnnews.com/news/202605302000088488",
+      "date": "2026-05-31",
+      "company": "토스증권",
+      "title": "배경훈 부총리 \"美·中 수준의 프런티어 AI 모델 만들어야\"",
+      "oneLiner": "배경훈 부총리가 미국·중국 수준의 프런티어 AI 모델 구축 필요성을 강조하며 AI 인프라·투자 확대와 정책적 지원 필요성을 역설했습니다.",
+      "type": "규제",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "배경훈 부총리 \"美·中 수준의 프런티어 AI 모델 만들어야\"",
+          "url": "https://www.fnnews.com/news/202605302000088488"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-06-01"
+    },
+    {
+      "id": "news:토스증권:https://www.fnnews.com/news/202605311836147095",
+      "date": "2026-05-31",
+      "company": "토스증권",
+      "title": "\"한국형 프런티어AI 도전… 공격적으로 투자\"",
+      "oneLiner": "정부가 '한국형 프런티어 AI' 구축을 목표로 공격적 투자와 인프라 확충 계획을 밝히며 AI 전략 방향을 제시했습니다.",
+      "type": "규제",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "\"한국형 프런티어AI 도전… 공격적으로 투자\"",
+          "url": "https://www.fnnews.com/news/202605311836147095"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.78,
+      "updatedAt": "2026-06-01"
+    },
+    {
       "id": "news:삼성증권:https://www.fnnews.com/news/202605301109564951",
       "date": "2026-05-30",
       "company": "삼성증권",
@@ -46,6 +117,30 @@
       "tags": [],
       "confidence": 0.95,
       "updatedAt": "2026-05-31"
+    },
+    {
+      "id": "news:토스증권:http://www.boannews.com/media/view.asp?idx=143876&kind=&sub_kind=",
+      "date": "2026-05-30",
+      "company": "토스증권",
+      "title": "앤트로픽, ‘안전한 미토스’ 조만간 공개",
+      "oneLiner": "앤트로픽이 미토스 수준의 사이버 보안 능력을 가진 신규 AI 모델을 '안전장치'와 함께 조만간 공개할 계획이라고 발표했습니다.",
+      "type": "출시",
+      "areas": [
+        "리스크",
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "보안뉴스",
+          "title": "앤트로픽, ‘안전한 미토스’ 조만간 공개",
+          "url": "http://www.boannews.com/media/view.asp?idx=143876&kind=&sub_kind="
+        }
+      ],
+      "tags": [],
+      "confidence": 0.88,
+      "updatedAt": "2026-06-01"
     },
     {
       "id": "news:KB증권:https://www.mk.co.kr/news/stock/12060751",
@@ -115,7 +210,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-05-31"
+      "updatedAt": "2026-06-01"
     },
     {
       "id": "news:토스증권:http://www.boannews.com/media/view.asp?idx=143872&kind=&sub_kind=",

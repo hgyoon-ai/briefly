@@ -1553,3 +1553,13 @@
 {"id": "849a069d606174f7574b857e4afd13119f6dc7f2", "keep": false, "oneLiner": "토스증권 iOS 앱의 일반적인 버그 수정 안내 릴리즈노트로, 구체적 기능 변경이나 영향 범위가 언급되지 않았음. 반복적인 버그 수정·마케팅성 문구로 분류됨.", "type_raw": "시스템", "areas_raw": ["기타"], "confidence": 0.9}
 {"id": "054ec9ef23b36f11e38b2e1e65aa6f65f97e2ba7", "keep": true, "oneLiner": "삼성증권이 타법인 주식 및 출자증권 취득을 결정한 공시로, 회사의 자산·투자 운용에 실질적 변화가 발생하는 사안입니다.", "type_raw": "기타", "areas_raw": ["기타"], "confidence": 0.9}
 {"id": "news:KB증권:https://www.hankyung.com/article/2026052961626", "keep": true, "oneLiner": "KB증권이 저출생 극복을 위해 위기임산부 지원 사업을 3년째 이어가고 있음. 지역 상담기관 및 관련 기관과의 협력 형태로 사회공헌·운영 변화가 보고됨.", "type_raw": "제휴", "areas_raw": ["상담", "기타"], "confidence": 0.85}
+{"id": "cabb758be023048eeb4880907fba891225441816", "keep": false, "oneLiner": "앱 버그 개선만 명시된 일반적인 릴리즈노트로, 제품·기능 변경이나 정책 대응은 없음.", "type_raw": "시스템", "areas_raw": ["기타"], "confidence": 0.9}
+{"id": "9593d781c8ac99b8b579826afded1ae69a8ee9df", "keep": false, "oneLiner": "안정성 개선 안내의 릴리즈로 기능·운영상의 의미 있는 변경 사항은 없음.", "type_raw": "시스템", "areas_raw": ["기타"], "confidence": 0.9}
+{"id": "d52ba9a304165251350af65f8fcd10532aa68659", "keep": true, "oneLiner": "해외선물옵션 모의투자 UI 개선 등 트레이딩 관련 기능 개선이 포함된 앱 릴리스로 제품 변화로 분류됨.", "type_raw": "출시", "areas_raw": ["트레이딩"], "confidence": 0.95}
+{"id": "deac4a39ccf81e137b27c6998643bfa97e699286", "keep": false, "oneLiner": "안정성 향상 및 오류 수정 중심의 릴리즈노트로, 별도 기능·정책 변경은 확인되지 않음.", "type_raw": "시스템", "areas_raw": ["기타"], "confidence": 0.9}
+{"id": "849a069d606174f7574b857e4afd13119f6dc7f2", "keep": false, "oneLiner": "토스증권 iOS 앱의 일반적인 버그 수정 안내 릴리즈노트로, 구체적 기능 변경이나 영향 범위가 언급되지 않았음. 반복적인 버그 수정·마케팅성 문구로 분류됨.", "type_raw": "시스템", "areas_raw": ["기타"], "confidence": 0.9}
+{"id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12061997", "keep": false, "oneLiner": "단일종목 레버리지·인버스 ETF의 유동성·수수료 비교를 다룬 기사로, 증권사 제품·정책 변화가 아닌 시장·상품 비교성 기사에 해당함.", "type_raw": "리서치", "areas_raw": ["리서치"], "confidence": 0.95}
+{"id": "news:KB증권:https://www.fnnews.com/news/202605311220335283", "keep": false, "oneLiner": "은행주 시황과 향후 금리·주주환원 기대에 대한 시장 전망을 다룬 기사로, 증권사 내부 정책·운영 변경 사항이 아님.", "type_raw": "리서치", "areas_raw": ["리서치"], "confidence": 0.95}
+{"id": "news:키움증권:https://www.fnnews.com/news/202605310848437123", "keep": false, "oneLiner": "이차전지(배터리) 업종의 주가 반등 배경을 설명하는 시장기사로, 증권사 제품·시스템 변경과 무관함.", "type_raw": "리서치", "areas_raw": ["리서치"], "confidence": 0.95}
+{"id": "news:KB증권:https://www.fnnews.com/news/202605311806272342", "keep": false, "oneLiner": "은행주 관련 시장분석 기사로, 하반기 금리·주주환원 기대를 언급하지만 증권사 운영·정책 변화로 보기 어려움.", "type_raw": "리서치", "areas_raw": ["리서치"], "confidence": 0.9}
+{"id": "news:키움증권:https://www.fnnews.com/news/202605311806285708", "keep": false, "oneLiner": "유럽 전기차 수요 회복 등을 근거로 이차전지주 상승을 설명하는 시장 기사로, 증권사 내부 이벤트는 아님.", "type_raw": "리서치", "areas_raw": ["리서치"], "confidence": 0.9}
