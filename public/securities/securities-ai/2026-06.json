@@ -2,6 +2,124 @@
   "month": "2026-06",
   "events": [
     {
+      "id": "news:한국투자증권:https://www.hankyung.com/article/2026060233766",
+      "date": "2026-06-02",
+      "company": "한국투자증권",
+      "title": "한국투자증권, 데이터·AI로 MTS 고도화",
+      "oneLiner": "한국투자증권이 데이터와 AI를 도입해 모바일트레이딩시스템(MTS)을 고도화해 종목 분석과 투자 인사이트 기능을 강화함.",
+      "type": "시스템",
+      "areas": [
+        "트레이딩",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "한국투자증권, 데이터·AI로 MTS 고도화",
+          "url": "https://www.hankyung.com/article/2026060233766"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-06-03"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202606021355458605",
+      "date": "2026-06-02",
+      "company": "한국투자증권",
+      "title": "한투증권, AI로 종목 실시간 분석…MTS 고도화",
+      "oneLiner": "한국투자증권이 투자자 행동데이터 기반 '한투 트렌드'와 AI 실시간 종목분석 서비스 '지금 종목은' 등을 통해 MTS 기능을 대폭 강화함.",
+      "type": "시스템",
+      "areas": [
+        "트레이딩",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투증권, AI로 종목 실시간 분석…MTS 고도화",
+          "url": "https://www.fnnews.com/news/202606021355458605"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.93,
+      "updatedAt": "2026-06-03"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202606021814179296",
+      "date": "2026-06-02",
+      "company": "한국투자증권",
+      "title": "한투證, MTS 고도화… AI로 개별 종목 실시간 분석",
+      "oneLiner": "한국투자증권이 종목 단위 실시간 시각화와 AI 분석을 도입해 MTS를 전면 개편함.",
+      "type": "시스템",
+      "areas": [
+        "트레이딩",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투證, MTS 고도화… AI로 개별 종목 실시간 분석",
+          "url": "https://www.fnnews.com/news/202606021814179296"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-03"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202606021034344670",
+      "date": "2026-06-02",
+      "company": "KB증권",
+      "title": "\"네트워크 이상 자동 탐지\" SKB 구성원 누구나 AI 에이전트 만든다",
+      "oneLiner": "SK브로드밴드가 구성원 누구나 AI 에이전트를 만들 수 있는 '플레이그라운드' 플랫폼을 구축해 개발 환경 자동화와 AI 도입을 가속화함.",
+      "type": "시스템",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "\"네트워크 이상 자동 탐지\" SKB 구성원 누구나 AI 에이전트 만든다",
+          "url": "https://www.fnnews.com/news/202606021034344670"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.82,
+      "updatedAt": "2026-06-03"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202606021809418849",
+      "date": "2026-06-02",
+      "company": "KB증권",
+      "title": "SKB 누구나 AI에이전트 만드는 플랫폼 '눈길'",
+      "oneLiner": "SK브로드밴드의 사내 플랫폼을 통해 비개발자도 빠르게 AI 에이전트를 생성·운영할 수 있게 됐다는 내용의 보도임.",
+      "type": "시스템",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "SKB 누구나 AI에이전트 만드는 플랫폼 '눈길'",
+          "url": "https://www.fnnews.com/news/202606021809418849"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.82,
+      "updatedAt": "2026-06-03"
+    },
+    {
       "id": "news:KB증권:https://www.fnnews.com/news/202605312331238421",
       "date": "2026-06-01",
       "company": "KB증권",

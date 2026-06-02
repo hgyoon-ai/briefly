@@ -2,6 +2,224 @@
   "month": "2026-06",
   "events": [
     {
+      "id": "f6b050126497d9cd42cd60193a9555b9eba8a7ca",
+      "date": "2026-06-02",
+      "company": "NH투자증권",
+      "title": "주요사항보고서(유상증자결정)",
+      "oneLiner": "NH투자증권이 유상증자 결정을 공시(주요사항보고서)했으며 자본확충을 통한 사업역량 강화 계획을 밝혔다.",
+      "type": "기타",
+      "areas": [
+        "WM",
+        "브로커리지",
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "주요사항보고서(유상증자결정)",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260602000483"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-03"
+    },
+    {
+      "id": "news:한국투자증권:https://www.hankyung.com/article/2026060229146",
+      "date": "2026-06-02",
+      "company": "한국투자증권",
+      "title": "한투운용, '고배당주+삼전닉스' 커버드콜 액티브 ETF 출시",
+      "oneLiner": "한국투자신탁운용이 고배당주와 삼성전자·SK하이닉스를 편입한 'ACE 고배당주Plus커버드콜액티브' ETF를 출시했다.",
+      "type": "출시",
+      "areas": [
+        "WM",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "한투운용, '고배당주+삼전닉스' 커버드콜 액티브 ETF 출시",
+          "url": "https://www.hankyung.com/article/2026060229146"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-03"
+    },
+    {
+      "id": "news:NH투자증권:https://www.mk.co.kr/news/stock/12064224",
+      "date": "2026-06-02",
+      "company": "NH투자증권",
+      "title": "NH농협금융, NH투자증권에 4천억 유상증자",
+      "oneLiner": "NH농협금융이 NH투자증권에 4천억원 규모의 제3자배정 유상증자를 단행하기로 결정했다.",
+      "type": "기타",
+      "areas": [
+        "WM",
+        "브로커리지",
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "NH농협금융, NH투자증권에 4천억 유상증자",
+          "url": "https://www.mk.co.kr/news/stock/12064224"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-03"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12064041",
+      "date": "2026-06-02",
+      "company": "한국투자증권",
+      "title": "고배당주에 삼전닉스까지 담은 ‘커버드콜’…ACE 고배당주Plus커버드콜액티브 상장",
+      "oneLiner": "한국투자운용이 고배당주에 반도체 대형주를 추가한 커버드콜형 ETF를 상장했다.",
+      "type": "출시",
+      "areas": [
+        "WM",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "고배당주에 삼전닉스까지 담은 ‘커버드콜’…ACE 고배당주Plus커버드콜액티브 상장",
+          "url": "https://www.mk.co.kr/news/stock/12064041"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-03"
+    },
+    {
+      "id": "news:메리츠증권:https://www.mk.co.kr/news/stock/12063741",
+      "date": "2026-06-02",
+      "company": "메리츠증권",
+      "title": "‘빅딜 어게인’ 한미약품…1.9조 릴리 기술수출에 목표주가 줄상향",
+      "oneLiner": "메리츠증권 등 증권사들이 한미약품의 릴리 기술수출을 반영해 목표주가를 상향 조정한 리서치가 보도되었다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "‘빅딜 어게인’ 한미약품…1.9조 릴리 기술수출에 목표주가 줄상향",
+          "url": "https://www.mk.co.kr/news/stock/12063741"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-06-03"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202606020947245747",
+      "date": "2026-06-02",
+      "company": "한국투자증권",
+      "title": "고배당주+삼전·닉스 조합…ACE 고배당주 커버드콜 ETF 상장",
+      "oneLiner": "한국투자신탁운용이 고배당주와 삼성전자·SK하이닉스를 포함한 월분배형 커버드콜 ETF를 신규 상장했다.",
+      "type": "출시",
+      "areas": [
+        "WM",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "고배당주+삼전·닉스 조합…ACE 고배당주 커버드콜 ETF 상장",
+          "url": "https://www.fnnews.com/news/202606020947245747"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-03"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202606021707261826",
+      "date": "2026-06-02",
+      "company": "KB증권",
+      "title": "KB證, ISA 고객 잡기 나섰다…세전 연 6% 특판 ELB 출시",
+      "oneLiner": "KB증권이 중개형 ISA 고객을 대상으로 세전 연 6% 수준의 3개월 만기 특판 ELB를 출시했다.",
+      "type": "출시",
+      "areas": [
+        "WM",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "KB證, ISA 고객 잡기 나섰다…세전 연 6% 특판 ELB 출시",
+          "url": "https://www.fnnews.com/news/202606021707261826"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-03"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202606021637190408",
+      "date": "2026-06-02",
+      "company": "NH투자증권",
+      "title": "NH투자증권, 4000억 유증 결정…'IMA 사업' 역량 강화",
+      "oneLiner": "NH투자증권이 최대주주인 NH농협금융지주를 대상으로 4000억원 규모의 제3자배정 유상증자를 결정했다고 공시했다.",
+      "type": "기타",
+      "areas": [
+        "WM",
+        "브로커리지",
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "NH투자증권, 4000억 유증 결정…'IMA 사업' 역량 강화",
+          "url": "https://www.fnnews.com/news/202606021637190408"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-03"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202606021815372311",
+      "date": "2026-06-02",
+      "company": "한국투자증권",
+      "title": "한투운용, 배당·반도체주 담았다... ACE 커버드콜액티브 ETF 상장",
+      "oneLiner": "한국투자신탁운용의 'ACE 고배당주Plus커버드콜액티브' ETF가 신규 상장되었다는 보도이다.",
+      "type": "출시",
+      "areas": [
+        "WM",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투운용, 배당·반도체주 담았다... ACE 커버드콜액티브 ETF 상장",
+          "url": "https://www.fnnews.com/news/202606021815372311"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-03"
+    },
+    {
       "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12062634",
       "date": "2026-06-01",
       "company": "한국투자증권",
