@@ -2,6 +2,219 @@
   "month": "2026-06",
   "events": [
     {
+      "id": "news:KB증권:https://www.hankyung.com/article/2026060585346",
+      "date": "2026-06-05",
+      "company": "KB증권",
+      "title": "\"LG이노텍, AI 기판 구조적 공급 부족…목표가 200만원으로 상향\"-KB",
+      "oneLiner": "KB증권 리포트에서 LG이노텍의 목표가를 200만원으로 상향하며 AI용 기판의 구조적 공급 부족을 지적함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "\"LG이노텍, AI 기판 구조적 공급 부족…목표가 200만원으로 상향\"-KB",
+          "url": "https://www.hankyung.com/article/2026060585346"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-05"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12065811",
+      "date": "2026-06-04",
+      "company": "미래에셋증권",
+      "title": "박현주 회장 “‘킬러 ETF’로 시장 기준 바꿀 것”",
+      "oneLiner": "미래에셋 박현주 회장이 '미래에셋 3.0' 비전에서 AI와 토큰화를 장착한 ETF 등 상품혁신 전략을 제시함.",
+      "type": "기타",
+      "areas": [
+        "WM",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "박현주 회장 “‘킬러 ETF’로 시장 기준 바꿀 것”",
+          "url": "https://www.mk.co.kr/news/stock/12065811"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-06-05"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12065721",
+      "date": "2026-06-04",
+      "company": "한국투자증권",
+      "title": "한투·코인원·OKX·컴투스 ‘4자 연합’ 출범…“글로벌 종합 금융 플랫폼될 것”",
+      "oneLiner": "한국투자증권·코인원·OKX·컴투스가 토큰증권·게임IP·글로벌 유동성 시너지를 목표로 4자 연합을 출범, 전략적 투자와 리스크 관리 협력이 포함됨.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지",
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한투·코인원·OKX·컴투스 ‘4자 연합’ 출범…“글로벌 종합 금융 플랫폼될 것”",
+          "url": "https://www.mk.co.kr/news/stock/12065721"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-05"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202606040846344656",
+      "date": "2026-06-04",
+      "company": "하나증권",
+      "title": "하나證 \"디케이티, 휴머노이드 플랫폼 가시화...매출에 효자\"",
+      "oneLiner": "하나증권은 디케이티의 휴머노이드 플랫폼 가시화와 2024년부터의 자동화 전환이 수율 개선과 사업구조 체질 개선으로 이어졌다고 평가함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "하나證 \"디케이티, 휴머노이드 플랫폼 가시화...매출에 효자\"",
+          "url": "https://www.fnnews.com/news/202606040846344656"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-06-05"
+    },
+    {
+      "id": "news:메리츠증권:https://www.fnnews.com/news/202606040850563953",
+      "date": "2026-06-04",
+      "company": "메리츠증권",
+      "title": "이틀 만에 17% 급락에도...증권가는 \"목표가 210만원\"",
+      "oneLiner": "메리츠증권이 삼성전기 목표가를 상향하며 AI 서버용 MLCC 중심의 수급 불균형과 하반기 공급 부족 가능성을 분석함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "이틀 만에 17% 급락에도...증권가는 \"목표가 210만원\"",
+          "url": "https://www.fnnews.com/news/202606040850563953"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-05"
+    },
+    {
+      "id": "news:신한투자증권:https://www.fnnews.com/news/202606040842245933",
+      "date": "2026-06-04",
+      "company": "신한투자증권",
+      "title": "'AI반도체 쏠림'에 개인 2.6조 몰렸다...SOL AI반도체 ETF 순자산 5조 돌파",
+      "oneLiner": "AI 반도체 쏠림 현상으로 SOL AI반도체TOP2플러스 ETF의 순자산이 5조원을 돌파했으며 개인 누적 순매수가 크게 유입됨.",
+      "type": "리서치",
+      "areas": [
+        "WM",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "'AI반도체 쏠림'에 개인 2.6조 몰렸다...SOL AI반도체 ETF 순자산 5조 돌파",
+          "url": "https://www.fnnews.com/news/202606040842245933"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.88,
+      "updatedAt": "2026-06-05"
+    },
+    {
+      "id": "news:신한투자증권:https://www.fnnews.com/news/202606041841303937",
+      "date": "2026-06-04",
+      "company": "신한투자증권",
+      "title": "AI 반도체 쏠림에 개인 누적 순매수 2조6579억",
+      "oneLiner": "국내 AI 반도체 관련 ETF에 개인 자금이 대거 유입되어 해당 ETF가 단기간에 대형화된 시장 흐름을 보였음.",
+      "type": "리서치",
+      "areas": [
+        "WM",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "AI 반도체 쏠림에 개인 누적 순매수 2조6579억",
+          "url": "https://www.fnnews.com/news/202606041841303937"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.86,
+      "updatedAt": "2026-06-05"
+    },
+    {
+      "id": "news:토스증권:https://www.fnnews.com/news/202606040924268715",
+      "date": "2026-06-04",
+      "company": "토스증권",
+      "title": "SKT, '프로젝트 글래스윙' 합류…'미토스' 접근권 획득",
+      "oneLiner": "SK텔레콤이 앤스로픽 주도 '프로젝트 글래스윙'에 합류해 AI 모델 '클로드 미토스'에 대한 조기 접근권을 확보하고 사이버 보안 협력에 참여함.",
+      "type": "제휴",
+      "areas": [
+        "리스크",
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "SKT, '프로젝트 글래스윙' 합류…'미토스' 접근권 획득",
+          "url": "https://www.fnnews.com/news/202606040924268715"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-06-05"
+    },
+    {
+      "id": "news:토스증권:https://www.fnnews.com/news/202606041824593432",
+      "date": "2026-06-04",
+      "company": "토스증권",
+      "title": "글래스윙 합류한 SKT \"디지털 안보강화 기여할것\"",
+      "oneLiner": "프로젝트 글래스윙 합류로 SKT는 클로드 미토스 접근을 통해 핵심 인프라·서비스의 보안 강화 및 선제적 위험 대응을 추진할 계획임.",
+      "type": "제휴",
+      "areas": [
+        "리스크",
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "글래스윙 합류한 SKT \"디지털 안보강화 기여할것\"",
+          "url": "https://www.fnnews.com/news/202606041824593432"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-06-05"
+    },
+    {
       "id": "news:토스증권:https://www.fnnews.com/news/202606031419316461",
       "date": "2026-06-03",
       "company": "토스증권",

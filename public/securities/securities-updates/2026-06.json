@@ -2,6 +2,311 @@
   "month": "2026-06",
   "events": [
     {
+      "id": "news:미래에셋증권:https://www.hankyung.com/article/2026060483761",
+      "date": "2026-06-05",
+      "company": "미래에셋증권",
+      "title": "미래에셋, 5일부터 스페이스X 공모주 청약",
+      "oneLiner": "미래에셋증권이 고객을 대상으로 스페이스X 공모주 청약을 실시한다.",
+      "type": "출시",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "미래에셋, 5일부터 스페이스X 공모주 청약",
+          "url": "https://www.hankyung.com/article/2026060483761"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-05"
+    },
+    {
+      "id": "news:한국투자증권:https://www.hankyung.com/article/2026060478456",
+      "date": "2026-06-04",
+      "company": "한국투자증권",
+      "title": "한투운용 \"스페이스X IPO 참여…우주ETF·펀드에 배정\"",
+      "oneLiner": "한국투자증권 계열 한투운용이 스페이스X IPO에 참여해 우주 관련 ETF·펀드에 배정했다.",
+      "type": "기타",
+      "areas": [
+        "WM",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "한투운용 \"스페이스X IPO 참여…우주ETF·펀드에 배정\"",
+          "url": "https://www.hankyung.com/article/2026060478456"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-06-05"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.hankyung.com/article/2026060474126",
+      "date": "2026-06-04",
+      "company": "미래에셋증권",
+      "title": "박현주 회장, 글로벌 투자 플랫폼 고도화…'미래에셋 3.0' 제시",
+      "oneLiner": "박현주 회장이 글로벌 투자 플랫폼 고도화를 목표로 하는 '미래에셋 3.0' 전략을 제시했다.",
+      "type": "기타",
+      "areas": [
+        "WM",
+        "브로커리지",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "박현주 회장, 글로벌 투자 플랫폼 고도화…'미래에셋 3.0' 제시",
+          "url": "https://www.hankyung.com/article/2026060474126"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-06-05"
+    },
+    {
+      "id": "news:한국투자증권:https://www.hankyung.com/article/2026060468237",
+      "date": "2026-06-04",
+      "company": "한국투자증권",
+      "title": "한투운용, 스페이스X IPO 참여…우주 ETF·펀드에 편입",
+      "oneLiner": "한투운용이 스페이스X IPO에 참여해 해당 물량을 우주 ETF·펀드에 편입했다.",
+      "type": "기타",
+      "areas": [
+        "WM",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "한투운용, 스페이스X IPO 참여…우주 ETF·펀드에 편입",
+          "url": "https://www.hankyung.com/article/2026060468237"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-06-05"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/economy/12065532",
+      "date": "2026-06-04",
+      "company": "한국투자증권",
+      "title": "“시장 조정은 매수 기회”…코스피 목표치 ‘1만 피’ 훌쩍 뛰어넘는 전망 잇따라",
+      "oneLiner": "한국투자증권이 코스피 목표치를 상향(9250→11000)하는 등 시장 전망을 담은 리포트를 발표했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“시장 조정은 매수 기회”…코스피 목표치 ‘1만 피’ 훌쩍 뛰어넘는 전망 잇따라",
+          "url": "https://www.mk.co.kr/news/economy/12065532"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-06-05"
+    },
+    {
+      "id": "news:하나증권:https://www.mk.co.kr/news/stock/12065508",
+      "date": "2026-06-04",
+      "company": "하나증권",
+      "title": "“비 내린다, 주식 들어가세요”…이 나라에선 미신 아닌 공식입니다 [오늘 나온 보고서]",
+      "oneLiner": "하나증권이 인도 증시 투자 관련 보고서에서 몬순 강수량 등 기후 변수를 투자 고려요인으로 제시했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“비 내린다, 주식 들어가세요”…이 나라에선 미신 아닌 공식입니다 [오늘 나온 보고서]",
+          "url": "https://www.mk.co.kr/news/stock/12065508"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-06-05"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202606040907328421",
+      "date": "2026-06-04",
+      "company": "하나증권",
+      "title": "하나증권, IPARK현대산업개발과 업무협약...생산적 금융 대전환 추진",
+      "oneLiner": "하나증권이 IPARK현대산업개발과 생산적 금융 활성화 및 첨단전략산업 협력을 위한 업무협약(MOU)을 체결했다.",
+      "type": "제휴",
+      "areas": [
+        "WM",
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "하나증권, IPARK현대산업개발과 업무협약...생산적 금융 대전환 추진",
+          "url": "https://www.fnnews.com/news/202606040907328421"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-05"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202606040909152339",
+      "date": "2026-06-04",
+      "company": "KB증권",
+      "title": "KT&G, 변동성 높은 상황서 '방어주 매력'…배당 강화 기대-KB證",
+      "oneLiner": "KB증권이 KT&G에 대해 방어주로서의 매력과 배당 강화 기대를 근거로 투자의견 '매수'를 유지했다는 리포트를 냈다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "KT&G, 변동성 높은 상황서 '방어주 매력'…배당 강화 기대-KB證",
+          "url": "https://www.fnnews.com/news/202606040909152339"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-06-05"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202606040900232653",
+      "date": "2026-06-04",
+      "company": "한국투자증권",
+      "title": "\"일라이릴리에 1조9000억원 기술이전\" 한미약품 목표가↑-한국투자證",
+      "oneLiner": "한국투자증권이 한미약품의 일라이릴리 기술이전(약 1조9000억원) 공시를 반영해 목표주가를 상향 조정했다는 분석을 발표했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"일라이릴리에 1조9000억원 기술이전\" 한미약품 목표가↑-한국투자證",
+          "url": "https://www.fnnews.com/news/202606040900232653"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-06-05"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202606041021198276",
+      "date": "2026-06-04",
+      "company": "미래에셋증권",
+      "title": "글로벌 ETF 428조 굴리는 미래에셋…박현주 \"미래는 ETF에 있다\"",
+      "oneLiner": "미래에셋자산운용이 글로벌 ETF 순자산 400조원을 돌파해 약 428조원 규모의 운용자산을 보유했다고 밝혔다.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "글로벌 ETF 428조 굴리는 미래에셋…박현주 \"미래는 ETF에 있다\"",
+          "url": "https://www.fnnews.com/news/202606041021198276"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-06-05"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202606041440252788",
+      "date": "2026-06-04",
+      "company": "한국투자증권",
+      "title": "한투증권, 코인원 3대 주주로…STO 발행 플랫폼 구축 착수 [크립토브리핑]",
+      "oneLiner": "한국투자증권이 가상자산거래소 코인원 지분 약 20%를 인수해 3대 주주가 되고 자체 STO 발행 플랫폼 구축을 추진한다.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지",
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투증권, 코인원 3대 주주로…STO 발행 플랫폼 구축 착수 [크립토브리핑]",
+          "url": "https://www.fnnews.com/news/202606041440252788"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-05"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202606041841350041",
+      "date": "2026-06-04",
+      "company": "미래에셋증권",
+      "title": "'428조' 글로벌 상품 이끄는 박현주의 확신 \"ETF가 미래다\"",
+      "oneLiner": "미래에셋자산운용이 글로벌 ETF 순자산 400조원을 돌파하고 전 세계 ETF 조직을 한자리에 모아 사업 현황과 향후 성장 전략을 공유하는 대규모 행사를 개최했다.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "'428조' 글로벌 상품 이끄는 박현주의 확신 \"ETF가 미래다\"",
+          "url": "https://www.fnnews.com/news/202606041841350041"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-06-05"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202606041841428510",
+      "date": "2026-06-04",
+      "company": "한국투자증권",
+      "title": "'코인원 3대주주' 한투證, 토큰증권 선점 박차",
+      "oneLiner": "한국투자증권이 코인원 지분 약 20%를 인수해 3대 주주가 되고 OKX·컴투스홀딩스와 공동 주주 체제를 구성하며 토큰증권(STO) 인프라 및 자체 발행 플랫폼 구축을 추진한다.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "'코인원 3대주주' 한투證, 토큰증권 선점 박차",
+          "url": "https://www.fnnews.com/news/202606041841428510"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-06-05"
+    },
+    {
       "id": "f6b050126497d9cd42cd60193a9555b9eba8a7ca",
       "date": "2026-06-02",
       "company": "NH투자증권",
@@ -24,7 +329,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-06-04"
+      "updatedAt": "2026-06-05"
     },
     {
       "id": "news:한국투자증권:https://www.hankyung.com/article/2026060229146",
