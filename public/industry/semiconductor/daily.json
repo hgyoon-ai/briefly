@@ -1,107 +1,12 @@
 {
-  "date": "2026-06-06",
+  "date": "2026-06-07",
   "highlights": {
-    "bullets": [
-      "핵심: 컴퓨텍스 2026에서 젠슨 황과 AI가 행사 중심으로 대만 전자산업의 중요성이 부각되었다.",
-      "핵심: 5월에 제조업이 인플레이션과 낮은 GDP에도 불구하고 추가로 확장됐다.",
-      "트렌드: 제조 역량 강화와 기술 기반 혁신이 산업 전반에서 공통적으로 부각됐다."
-    ],
-    "topTopics": [
-      "Policy",
-      "Demand",
-      "Manufacturing",
-      "Competition"
-    ],
+    "bullets": [],
+    "topTopics": [],
     "stats": {
-      "collected": 5,
-      "deduped": 5
+      "collected": 0,
+      "deduped": 0
     }
   },
-  "cards": [
-    {
-      "id": "semiconductor_0001",
-      "tab": "semiconductor",
-      "publishedAt": "2026-06-06T07:00:00+09:00",
-      "source": "EE Times",
-      "title": "Geopolitics, AI, and Jensen Huang Fuel Electronics’ Rock-and-Roll Era",
-      "summary": [
-        "컴퓨텍스 2026에서 젠슨 황과 AI 열풍이 행사 주연을 차지했다.",
-        "지정학적 긴장과 AI 수요가 대만의 전자산업 주도력을 부각시켰다.",
-        "업계 투자·공급망·경쟁 구도가 빠르게 재편되고 있다."
-      ],
-      "whyItMatters": "이는 AI 채택 가속과 지정학적 영향이 글로벌 제조·공급망·경쟁 구조에 큰 변화를 촉발하고 있기 때문이다.",
-      "topics": [
-        "Policy",
-        "Demand",
-        "Manufacturing",
-        "Competition"
-      ],
-      "status": "SHIFTING",
-      "hash": "bcedaa57167841debb828ea516b0c74d7c40d68dd746c9e53b11b86b2e35f9d9",
-      "url": "https://www.eetimes.com/geopolitics-ai-and-jensen-huang-fuel-electronics-rock-and-roll-era/"
-    },
-    {
-      "id": "semiconductor_0002",
-      "tab": "semiconductor",
-      "publishedAt": "2026-06-05T22:17:36+09:00",
-      "source": "EE Times",
-      "title": "Manufacturing Accelerates in May Amid Inflation and Geopolitical Headwinds",
-      "summary": [
-        "5월에 제조업이 인플레이션과 낮은 GDP에도 불구하고 추가로 확장됐다.",
-        "이 성장은 공급망 개선과 생산 활동 회복을 반영하며 업계의 회복력을 보여준다.",
-        "지정학적 리스크와 물가 압력에도 불구하고 제조업은 상승 흐름을 유지하고 있다."
-      ],
-      "whyItMatters": "제조업의 지속적 확장은 경기 둔화 국면에서도 산업 전반의 고용·투자·공급망 안정성에 직접적인 영향을 미치기 때문이다.",
-      "topics": [
-        "Manufacturing",
-        "Policy",
-        "Demand"
-      ],
-      "status": "ONGOING",
-      "hash": "9a3d56c1a3e1496d8c6303e623b9fcd475c5cce095fffd7a2bbf01822859134a",
-      "url": "https://www.eetimes.com/manufacturing-accelerates-in-may-amid-inflation-and-geopolitical-headwinds/"
-    },
-    {
-      "id": "semiconductor_0003",
-      "tab": "semiconductor",
-      "publishedAt": "2026-06-05T17:00:00+09:00",
-      "source": "Samsung Newsroom",
-      "title": "[Interview] Samsung Color E-Paper x PLEATSMAMA: When Retail Spaces Reflect Brand Values",
-      "summary": [
-        "삼성 Color E-Paper와 PLEATSMAMA가 협업해 소매 공간에 브랜드 가치를 반영했다.",
-        "PLEATSMAMA는 버려진 페트병으로 만든 재생 원사를 이용한 3D 니팅 기술을 국내 최초로 도입했다.",
-        "제조 혁신을 통해 제품 소재 전반에 지속가능성을 내재화하며 브랜드 차별화를 추구한다."
-      ],
-      "whyItMatters": "지속가능한 제조기법과 디지털 소매 표현의 결합이 브랜드 경쟁력과 소비자 인식에 직접적인 영향을 주기 때문입니다.",
-      "topics": [
-        "Manufacturing",
-        "Roadmap",
-        "Competition"
-      ],
-      "status": "ONGOING",
-      "hash": "f9b9bac1edaf61f18ef77bdd830bff53f2cefc6e740fd0a566d5bbcae8cb0989",
-      "url": "https://news.samsung.com/global/interview-samsung-color-e-paper-x-pleatsmama-when-retail-spaces-reflect-brand-values"
-    },
-    {
-      "id": "semiconductor_0004",
-      "tab": "semiconductor",
-      "publishedAt": "2026-06-05T16:28:53+09:00",
-      "source": "SK hynix Newsroom",
-      "title": "SK hynix and the Ministry of Climate, Energy and Environment Co-host ‘AI for Green Impact, Inspiring Young Minds to Shape a Greener Future",
-      "summary": [
-        "SK하이닉스는 환경부와 함께 ‘AI for Green Impact’ 청소년 대상 체험형 교육 프로그램을 개최했다.",
-        "세계 환경의 날을 맞아 서울 코엑스에서 약 100명의 초·중·고 학생들이 참가했다.",
-        "이번 행사는 AI 기술을 활용해 더 친환경적인 미래를 고민하도록 청소년들의 인식을 제고하는 데 초점을 뒀다."
-      ],
-      "whyItMatters": "AI와 환경을 결합한 ESG·인재 육성 활동으로 기업 이미지 제고와 장기적 기술·인재 생태계 형성에 기여할 수 있는 이벤트다.",
-      "topics": [
-        "Roadmap",
-        "Investment",
-        "Policy"
-      ],
-      "status": "NEW",
-      "hash": "319ddef1a7a1d2ac7305a28ef1a8c887873c2330990cd8d2ac1d49fc6b37b67c",
-      "url": "https://news.skhynix.com/ai-for-green-impact-2026/"
-    }
-  ]
+  "cards": []
 }
