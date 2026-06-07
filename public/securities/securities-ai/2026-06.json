@@ -2,6 +2,75 @@
   "month": "2026-06",
   "events": [
     {
+      "id": "news:KB증권:https://www.mk.co.kr/news/stock/12067592",
+      "date": "2026-06-07",
+      "company": "KB증권",
+      "title": "“삼전·하닉보다 더 올랐다며?”…개미들 검색 1위 오른 또 하나의 ‘삼전’",
+      "oneLiner": "빅데이터 기반 분석과 KB증권 리포트를 인용해 반도체 등 유망 섹터를 제시한 기사로, KB증권 리서치 영향력과 데이터 기반 인사이트 관련 내용이 포함됨.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“삼전·하닉보다 더 올랐다며?”…개미들 검색 1위 오른 또 하나의 ‘삼전’",
+          "url": "https://www.mk.co.kr/news/stock/12067592"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-06-08"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202606070057579414",
+      "date": "2026-06-07",
+      "company": "KB증권",
+      "title": "[이런펀드어때요?] KB운용 'RISE 현대차고정피지컬AI ETF'",
+      "oneLiner": "KB자산운용이 상장한 'RISE 현대차고정피지컬AI ETF'의 구성과 성과, 수탁고 현황을 소개하는 상품 기사로, AI 테마 기반 ETF 출시로 분류됨.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "[이런펀드어때요?] KB운용 'RISE 현대차고정피지컬AI ETF'",
+          "url": "https://www.fnnews.com/news/202606070057579414"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-08"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202606071801246068",
+      "date": "2026-06-07",
+      "company": "KB증권",
+      "title": "자동차 본업 경쟁력 위에...로보틱스 등 성장성 담아[이런 펀드 어때요?]",
+      "oneLiner": "현대차 중심의 피지컬 AI 관련 기업에 투자하는 KB운용의 ETF를 설명하는 기사로, 상품 출시·운용 관련 실무·마케팅 정보에 해당함.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "자동차 본업 경쟁력 위에...로보틱스 등 성장성 담아[이런 펀드 어때요?]",
+          "url": "https://www.fnnews.com/news/202606071801246068"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-06-08"
+    },
+    {
       "id": "news:KB증권:https://www.hankyung.com/article/2026060585346",
       "date": "2026-06-05",
       "company": "KB증권",
