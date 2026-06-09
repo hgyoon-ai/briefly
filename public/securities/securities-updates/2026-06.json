@@ -2,6 +2,148 @@
   "month": "2026-06",
   "events": [
     {
+      "id": "e5039c6ade2fedb510ffaab9e289501cc33628cb",
+      "date": "2026-06-09",
+      "company": "신한투자증권",
+      "title": "주요사항보고서(자본으로인정되는채무증권발행결정)",
+      "oneLiner": "신한투자증권이 자본으로 인정되는 채무증권 발행을 결정한 주요사항보고서를 제출함. 회사의 자본구조 및 재무정책에 영향을 주는 기업금융 결정임.",
+      "type": "기타",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "주요사항보고서(자본으로인정되는채무증권발행결정)",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260609000378"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-10"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202606090849192991",
+      "date": "2026-06-09",
+      "company": "하나증권",
+      "title": "\"올해 매출 상한이 없다\" 에이피알 목표가↑-하나",
+      "oneLiner": "하나증권 연구원이 에이피알의 목표주가를 51만원으로 상향 조정하며 성장 전망과 계약 확대를 근거로 제시함. 증권사의 공식 리서치(목표가 상향) 발표임.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"올해 매출 상한이 없다\" 에이피알 목표가↑-하나",
+          "url": "https://www.fnnews.com/news/202606090849192991"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-06-10"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202606090952452551",
+      "date": "2026-06-09",
+      "company": "미래에셋증권",
+      "title": "미래에셋운용, 단일종목 레버리지 ETF에 3조 몰렸다",
+      "oneLiner": "미래에셋운용이 출시한 삼성전자·SK하이닉스 단일종목 레버리지 ETF로 개인 자금이 3조원 이상 유입됨. 신상품의 급속한 자금유입은 거래·유동성에 직접적 영향을 줌.",
+      "type": "출시",
+      "areas": [
+        "트레이딩",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋운용, 단일종목 레버리지 ETF에 3조 몰렸다",
+          "url": "https://www.fnnews.com/news/202606090952452551"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-06-10"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202606091321569467",
+      "date": "2026-06-09",
+      "company": "미래에셋증권",
+      "title": "반도체 ETF에만 79% 몰렸다…커지는 '삼전닉스 쏠림'",
+      "oneLiner": "단일종목 레버리지 ETF 상장 이후 반도체 관련 상품으로 자금 쏠림이 심화돼 전체 순매수의 79%가 반도체 ETF에 집중됨. 특정 섹터·상품 집중으로 인한 시장·상품별 리스크가 부각됨.",
+      "type": "출시",
+      "areas": [
+        "리스크",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "반도체 ETF에만 79% 몰렸다…커지는 '삼전닉스 쏠림'",
+          "url": "https://www.fnnews.com/news/202606091321569467"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.82,
+      "updatedAt": "2026-06-10"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202606091840304235",
+      "date": "2026-06-09",
+      "company": "미래에셋증권",
+      "title": "미래에셋 단일종목 레버리지에 3兆 뭉칫돈",
+      "oneLiner": "미래에셋의 단일종목 레버리지 ETF 두 종목에 개인투자자 자금 3조원 이상이 유입되며 상장 직후 큰 흥행을 기록함. 상장형 상품의 대규모 유입은 유동성·거래구조 변화를 의미함.",
+      "type": "출시",
+      "areas": [
+        "트레이딩",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋 단일종목 레버리지에 3兆 뭉칫돈",
+          "url": "https://www.fnnews.com/news/202606091840304235"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-06-10"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202606091840313993",
+      "date": "2026-06-09",
+      "company": "미래에셋증권",
+      "title": "레버리지 광풍에 '증시 블랙홀' 된 삼전닉스",
+      "oneLiner": "레버리지 ETF 상장 이후 삼성전자·SK하이닉스에 대한 자금 쏠림 현상이 심화되며 ‘삼전닉스’ 중심의 시장 집중 현상이 부각됨. 시장 구조적 편중과 관련한 리스크 관점의 보도임.",
+      "type": "기타",
+      "areas": [
+        "리스크",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "레버리지 광풍에 '증시 블랙홀' 된 삼전닉스",
+          "url": "https://www.fnnews.com/news/202606091840313993"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-06-10"
+    },
+    {
       "id": "news:하나증권:https://www.mk.co.kr/news/stock/12068031",
       "date": "2026-06-08",
       "company": "하나증권",
