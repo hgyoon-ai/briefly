@@ -2,6 +2,29 @@
   "month": "2026-06",
   "events": [
     {
+      "id": "news:KB증권:https://www.mk.co.kr/news/stock/12071225",
+      "date": "2026-06-11",
+      "company": "KB증권",
+      "title": "“삼성에스디에스, ‘AI인프라 시대’ 수혜주 등극”…목표가↑",
+      "oneLiner": "KB증권이 삼성SDS의 AI팩토리(GPUaaS) 사업과 AI 인프라 기대를 반영해 목표주가를 상향 조정했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“삼성에스디에스, ‘AI인프라 시대’ 수혜주 등극”…목표가↑",
+          "url": "https://www.mk.co.kr/news/stock/12071225"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-11"
+    },
+    {
       "id": "news:토스증권:https://www.fnnews.com/news/202606100605287183",
       "date": "2026-06-10",
       "company": "토스증권",
@@ -23,6 +46,78 @@
       "tags": [],
       "confidence": 0.9,
       "updatedAt": "2026-06-10"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202606100935121787",
+      "date": "2026-06-10",
+      "company": "미래에셋증권",
+      "title": "현대차그룹 AI 기대감에 돈 몰렸다…'TIGER ETF', 순자산 1조원 눈앞",
+      "oneLiner": "현대차그룹의 로봇·자율주행·AI 사업 기대감으로 'TIGER 현대차그룹플러스 ETF'에 대규모 자금이 유입돼 순자산이 급증했다.",
+      "type": "기타",
+      "areas": [
+        "리서치",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "현대차그룹 AI 기대감에 돈 몰렸다…'TIGER ETF', 순자산 1조원 눈앞",
+          "url": "https://www.fnnews.com/news/202606100935121787"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-06-11"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202606101837208958",
+      "date": "2026-06-10",
+      "company": "미래에셋증권",
+      "title": "'TIGER 현대차그룹플러스 ETF' 순자산 올 들어 8배 급증",
+      "oneLiner": "로봇·자율주행 관련 기대감 확산으로 해당 ETF의 연초 이후 개인 순매수와 순자산이 큰 폭으로 증가했다.",
+      "type": "기타",
+      "areas": [
+        "리서치",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "'TIGER 현대차그룹플러스 ETF' 순자산 올 들어 8배 급증",
+          "url": "https://www.fnnews.com/news/202606101837208958"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-06-11"
+    },
+    {
+      "id": "news:NH투자증권:http://www.boannews.com/media/view.asp?idx=144059&kind=&sub_kind=",
+      "date": "2026-06-10",
+      "company": "NH투자증권",
+      "title": "국립산림과학원, “AI로 산사태 예측”,,, 토석류 영향범위 예측기술 개발",
+      "oneLiner": "국립산림과학원이 AI를 활용해 산사태 영향 범위와 피해 규모를 신속 예측하는 기술을 개발했다고 발표했다.",
+      "type": "리서치",
+      "areas": [
+        "리스크",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "보안뉴스",
+          "title": "국립산림과학원, “AI로 산사태 예측”,,, 토석류 영향범위 예측기술 개발",
+          "url": "http://www.boannews.com/media/view.asp?idx=144059&kind=&sub_kind="
+        }
+      ],
+      "tags": [],
+      "confidence": 0.65,
+      "updatedAt": "2026-06-11"
     },
     {
       "id": "news:신한투자증권:https://www.fnnews.com/news/202606090843171107",

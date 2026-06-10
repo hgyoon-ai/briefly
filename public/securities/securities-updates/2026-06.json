@@ -2,6 +2,193 @@
   "month": "2026-06",
   "events": [
     {
+      "id": "news:KB증권:https://www.hankyung.com/article/2026061196226",
+      "date": "2026-06-11",
+      "company": "KB증권",
+      "title": "\"메모리 공급 6주→24주로 확대…삼전닉스 수요 더 강해져\"-KB",
+      "oneLiner": "KB증권 리포트: 메모리 공급 확대 기간이 6주에서 24주로 늘어나며 SK하이닉스 등 메모리 수요가 더 강해질 것으로 전망.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "\"메모리 공급 6주→24주로 확대…삼전닉스 수요 더 강해져\"-KB",
+          "url": "https://www.hankyung.com/article/2026061196226"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-11"
+    },
+    {
+      "id": "news:NH투자증권:https://www.hankyung.com/article/2026061196026",
+      "date": "2026-06-11",
+      "company": "NH투자증권",
+      "title": "\"삼성물산, 하이테크 수주 확대·원전 사업 참여 기대…목표가↑\"-NH",
+      "oneLiner": "NH투자증권 리포트: 삼성물산은 하이테크 수주 확대와 원전 사업 참여 기대감으로 목표주가가 상향되었다고 분석.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "\"삼성물산, 하이테크 수주 확대·원전 사업 참여 기대…목표가↑\"-NH",
+          "url": "https://www.hankyung.com/article/2026061196026"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-11"
+    },
+    {
+      "id": "news:하나증권:https://www.mk.co.kr/news/stock/12071214",
+      "date": "2026-06-11",
+      "company": "하나증권",
+      "title": "“삼천리, 연간 최대 이익 달성 가능성…재무구조도 안정적”",
+      "oneLiner": "하나증권은 삼천리에 대해 안정적 현금흐름과 재무구조를 근거로 매수 의견을 유지하며 목표주가 16만원을 제시했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“삼천리, 연간 최대 이익 달성 가능성…재무구조도 안정적”",
+          "url": "https://www.mk.co.kr/news/stock/12071214"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-11"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12070942",
+      "date": "2026-06-10",
+      "company": "미래에셋증권",
+      "title": "[단독] “놔두면 환율 우주 따라갈 판”…스페이스X 기관청약 제한건다",
+      "oneLiner": "당국이 스페이스X 상장과 관련해 과도한 달러 환전 수요에 제동을 걸면서 기관청약 비율 제한 등 규제 방안을 마련했고, 미래에셋은 청약철회권 부여 등 대응을 검토 중이다.",
+      "type": "규제",
+      "areas": [
+        "리스크",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[단독] “놔두면 환율 우주 따라갈 판”…스페이스X 기관청약 제한건다",
+          "url": "https://www.mk.co.kr/news/stock/12070942"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-06-11"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12070577",
+      "date": "2026-06-10",
+      "company": "미래에셋증권",
+      "title": "[단독] 스페이스X 상장, 기관청약 비율 제한…‘원화 방어’ 나선 외환당국",
+      "oneLiner": "원화 약세 우려에 따라 외환당국이 스페이스X 관련 기관청약을 제한하려는 규제 조치를 추진 중이며, 이는 증권사의 청약·배분 정책에 영향을 미칠 가능성이 있다.",
+      "type": "규제",
+      "areas": [
+        "리스크",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[단독] 스페이스X 상장, 기관청약 비율 제한…‘원화 방어’ 나선 외환당국",
+          "url": "https://www.mk.co.kr/news/stock/12070577"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-06-11"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12070507",
+      "date": "2026-06-10",
+      "company": "한국투자증권",
+      "title": "한국투자증권, 울산석화공단 노조협의회와 퇴직연금 MOU 체결",
+      "oneLiner": "한국투자증권이 울산석유화학공단 노조협의회와 퇴직연금 제공을 위한 전략적 업무협약(MOU)을 체결했다.",
+      "type": "제휴",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한국투자증권, 울산석화공단 노조협의회와 퇴직연금 MOU 체결",
+          "url": "https://www.mk.co.kr/news/stock/12070507"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-11"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202606101319473750",
+      "date": "2026-06-10",
+      "company": "미래에셋증권",
+      "title": "\"연 8%대 효과\" 개인투자용 국채 인기 지속...미래에셋, 6월 청약 접수",
+      "oneLiner": "미래에셋증권이 개인투자용 국채 6월물 청약을 접수한다고 공지했으며, 세부 물량·기간·채권 종류를 안내했다.",
+      "type": "출시",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"연 8%대 효과\" 개인투자용 국채 인기 지속...미래에셋, 6월 청약 접수",
+          "url": "https://www.fnnews.com/news/202606101319473750"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-11"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202606101534173058",
+      "date": "2026-06-10",
+      "company": "KB증권",
+      "title": "\"나만 마이너스인가\" 개미가 사면 ETF 수익률 오른다는데…단 '레버리지 빼고'",
+      "oneLiner": "KB증권이 개인 투자자 순매수와 ETF 수익률의 동행성을 분석한 리포트를 공개했으며, 레버리지 ETF의 특성이 별도로 지적됨.",
+      "type": "리서치",
+      "areas": [
+        "리서치",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"나만 마이너스인가\" 개미가 사면 ETF 수익률 오른다는데…단 '레버리지 빼고'",
+          "url": "https://www.fnnews.com/news/202606101534173058"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-06-11"
+    },
+    {
       "id": "e5039c6ade2fedb510ffaab9e289501cc33628cb",
       "date": "2026-06-09",
       "company": "신한투자증권",
@@ -22,7 +209,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-06-10"
+      "updatedAt": "2026-06-11"
     },
     {
       "id": "news:하나증권:https://www.fnnews.com/news/202606090849192991",
