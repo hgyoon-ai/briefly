@@ -1,63 +1,12 @@
 {
-  "date": "2026-06-13",
+  "date": "2026-06-14",
   "highlights": {
-    "bullets": [
-      "핵심: UCLA가 반도체 병목 해소를 목표로 1억2500만 달러 규모의 반도체 허브를 출범했다.",
-      "핵심: 인도 업체 NoPo가 HiPco 단일벽 탄소나노튜브 생산을 확대해 서브-2nm 공정용 칩과 배터리 음극 소재 적용을 목표로 했다."
-    ],
-    "topTopics": [
-      "Roadmap",
-      "Manufacturing",
-      "Competition",
-      "Demand"
-    ],
+    "bullets": [],
+    "topTopics": [],
     "stats": {
-      "collected": 4,
-      "deduped": 4
+      "collected": 0,
+      "deduped": 0
     }
   },
-  "cards": [
-    {
-      "id": "semiconductor_0001",
-      "tab": "semiconductor",
-      "publishedAt": "2026-06-13T04:00:00+09:00",
-      "source": "EE Times",
-      "title": "UCLA’s $125M Semiconductor Hub: “We Want High Impact, Not Incremental Research”",
-      "summary": [
-        "UCLA가 반도체 병목 해소를 목표로 1억2500만 달러 규모의 반도체 허브를 출범했다.",
-        "허브는 AI 기반 연구로 '점진적'이 아닌 '고영향' 혁신을 추구한다고 밝혔다.",
-        "산학 협력과 제조 공정 개선을 통해 공급망 및 생산 병목을 해소하려는 의도가 뚜렷하다."
-      ],
-      "whyItMatters": "대규모 자금 투입과 AI 중심의 고영향 연구 전략은 반도체 제조 병목을 해소하고 산업 경쟁력 및 공급망 회복에 실질적 영향을 미칠 가능성이 크다.",
-      "topics": [
-        "Investment",
-        "Manufacturing",
-        "Roadmap"
-      ],
-      "status": "NEW",
-      "hash": "552afa9f6d939a9c5e6b694d96de6849e775c6d508a62c9afdfd82d790b1690b",
-      "url": "https://www.eetimes.com/uclas-125m-semiconductor-hub-we-want-high-impact-not-incremental-research/"
-    },
-    {
-      "id": "semiconductor_0002",
-      "tab": "semiconductor",
-      "publishedAt": "2026-06-12T17:04:16+09:00",
-      "source": "EE Times",
-      "title": "Indian Firm Scales Single-Walled Carbon Nanotube Production for Batteries and Chips",
-      "summary": [
-        "인도 업체 NoPo가 HiPco 단일벽 탄소나노튜브(SWCNT) 생산을 확대했습니다.",
-        "확대된 생산은 서브-2nm 공정용 칩과 배터리 음극(애노드) 소재 적용을 목표로 합니다.",
-        "공급 확대는 반도체 미세공정과 배터리 소재 공급망 및 경쟁 구도에 영향을 줄 수 있습니다."
-      ],
-      "whyItMatters": "생산능력 확대로 칩 미세공정과 전기차 배터리용 고성능 소재의 상용화·공급 제약 완화 가능성이 커지기 때문입니다.",
-      "topics": [
-        "Manufacturing",
-        "Roadmap",
-        "Competition"
-      ],
-      "status": "NEW",
-      "hash": "c3dcdc70eb245513757ca42c0e9ab311548dbb5d1941b7378495168334cc1066",
-      "url": "https://www.eetimes.com/indian-firm-scales-single-walled-carbon-nanotube-production-for-batteries-and-chips/"
-    }
-  ]
+  "cards": []
 }
