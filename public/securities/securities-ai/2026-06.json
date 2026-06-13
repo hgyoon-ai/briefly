@@ -2,6 +2,30 @@
   "month": "2026-06",
   "events": [
     {
+      "id": "news:토스증권:http://www.boannews.com/media/view.asp?idx=144099&kind=&sub_kind=",
+      "date": "2026-06-13",
+      "company": "토스증권",
+      "title": "국내서 ‘클로드 페이블5’ 모델 접근 막혔다... 미 정부, 앤트로픽에 외국 접속 금지 명령",
+      "oneLiner": "미국 정부가 앤트로픽의 최신 AI 모델에 대한 외국인 접근을 금지했다는 보도. 증권사 자체 공시는 아니나 AI 접근 제약으로 운영·리서치 측면 리스크가 발생할 수 있음.",
+      "type": "규제",
+      "areas": [
+        "리스크",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "보안뉴스",
+          "title": "국내서 ‘클로드 페이블5’ 모델 접근 막혔다... 미 정부, 앤트로픽에 외국 접속 금지 명령",
+          "url": "http://www.boannews.com/media/view.asp?idx=144099&kind=&sub_kind="
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-06-14"
+    },
+    {
       "id": "news:KB증권:https://www.fnnews.com/news/202606121045093283",
       "date": "2026-06-12",
       "company": "KB증권",

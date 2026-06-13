@@ -2,6 +2,106 @@
   "month": "2026-06",
   "events": [
     {
+      "id": "news:미래에셋증권:https://www.hankyung.com/article/2026061342637",
+      "date": "2026-06-13",
+      "company": "미래에셋증권",
+      "title": "미래에셋, '스페이스X 공모주' 한주도 못 받았다…\"전액 환불\"",
+      "oneLiner": "미래에셋증권이 스페이스X 공모주 배정에서 한 주도 받지 못해 청약 고객들에게 납입된 증거금을 전액 환불했다.",
+      "type": "기타",
+      "areas": [
+        "브로커리지",
+        "상담",
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "미래에셋, '스페이스X 공모주' 한주도 못 받았다…\"전액 환불\"",
+          "url": "https://www.hankyung.com/article/2026061342637"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-14"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12073309",
+      "date": "2026-06-13",
+      "company": "미래에셋증권",
+      "title": "미래에셋증권, 스페이스X 공모주 물량 못 받아…청약 고객에 전액 환불",
+      "oneLiner": "미래에셋증권이 스페이스X IPO 인수단 참여 후 최종 배정 과정에서 물량을 받지 못해 청약 고객에게 전액 환불 조치를 했다.",
+      "type": "기타",
+      "areas": [
+        "브로커리지",
+        "상담",
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "미래에셋증권, 스페이스X 공모주 물량 못 받아…청약 고객에 전액 환불",
+          "url": "https://www.mk.co.kr/news/stock/12073309"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-14"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202606131109176241",
+      "date": "2026-06-13",
+      "company": "미래에셋증권",
+      "title": "스페이스X 공모주, 미래에셋증권 배정 물량 전량 삭감",
+      "oneLiner": "스페이스X 공모주 배정이 미래에셋증권에 대해 전량 삭감돼 청약자 증거금이 전액 반환됐으며, 업계는 대표주관사의 배정 재조정이 원인으로 본다.",
+      "type": "기타",
+      "areas": [
+        "브로커리지",
+        "리스크",
+        "상담"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "스페이스X 공모주, 미래에셋증권 배정 물량 전량 삭감",
+          "url": "https://www.fnnews.com/news/202606131109176241"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-14"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202606131216595997",
+      "date": "2026-06-13",
+      "company": "미래에셋증권",
+      "title": "\"미래에셋 0주\"...골드만삭스의 스페이스X 공모주 물량 '변덕'",
+      "oneLiner": "미래에셋증권이 진행한 스페이스X 청약에서 최종 배정이 없어 고객들에게 전액 환불했으며, 대표주관사 배분 결정이 영향을 미친 것으로 알려졌다.",
+      "type": "기타",
+      "areas": [
+        "브로커리지",
+        "상담",
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"미래에셋 0주\"...골드만삭스의 스페이스X 공모주 물량 '변덕'",
+          "url": "https://www.fnnews.com/news/202606131216595997"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-14"
+    },
+    {
       "id": "2410414a2946b27f5e81377512196d01dfc5fb82",
       "date": "2026-06-12",
       "company": "키움증권",
@@ -22,7 +122,7 @@
       ],
       "tags": [],
       "confidence": 0.8,
-      "updatedAt": "2026-06-13"
+      "updatedAt": "2026-06-14"
     },
     {
       "id": "466d1eb3d57b16335a01734a782e4c523225786d",
@@ -45,7 +145,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-06-13"
+      "updatedAt": "2026-06-14"
     },
     {
       "id": "news:미래에셋증권:https://www.hankyung.com/article/202606123930i",
@@ -68,7 +168,7 @@
       ],
       "tags": [],
       "confidence": 0.85,
-      "updatedAt": "2026-06-13"
+      "updatedAt": "2026-06-14"
     },
     {
       "id": "news:하나증권:https://www.mk.co.kr/news/stock/12073087",
@@ -91,7 +191,7 @@
       ],
       "tags": [],
       "confidence": 0.7,
-      "updatedAt": "2026-06-13"
+      "updatedAt": "2026-06-14"
     },
     {
       "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12073065",
@@ -114,7 +214,7 @@
       ],
       "tags": [],
       "confidence": 0.85,
-      "updatedAt": "2026-06-13"
+      "updatedAt": "2026-06-14"
     },
     {
       "id": "news:한국투자증권:https://www.fnnews.com/news/202606120922180930",
@@ -252,7 +352,7 @@
       ],
       "tags": [],
       "confidence": 0.75,
-      "updatedAt": "2026-06-13"
+      "updatedAt": "2026-06-14"
     },
     {
       "id": "news:NH투자증권:https://www.mk.co.kr/news/stock/12071948",
@@ -275,7 +375,7 @@
       ],
       "tags": [],
       "confidence": 0.85,
-      "updatedAt": "2026-06-13"
+      "updatedAt": "2026-06-14"
     },
     {
       "id": "news:메리츠증권:https://www.mk.co.kr/news/stock/12071896",
@@ -298,7 +398,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-06-13"
+      "updatedAt": "2026-06-14"
     },
     {
       "id": "news:메리츠증권:https://www.mk.co.kr/news/stock/12071732",
