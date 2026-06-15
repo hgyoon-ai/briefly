@@ -26,6 +26,282 @@
       "updatedAt": "2026-06-15"
     },
     {
+      "id": "1ee59daee4483359d70273516bb8491cdeeda8db",
+      "date": "2026-06-15",
+      "company": "미래에셋증권",
+      "title": "미래에셋증권 iOS 앱 업데이트 v7.7.7",
+      "oneLiner": "미래에셋증권 iOS 앱의 PDF 뷰어 기능이 개선된 업데이트가 배포되었습니다. 앱 기능 변경(사용성 향상)에 해당합니다.",
+      "type": "출시",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "app_store",
+      "sources": [
+        {
+          "source": "App Store",
+          "title": "미래에셋증권 iOS 앱 업데이트 v7.7.7",
+          "url": "https://apps.apple.com/kr/app/%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B%EC%A6%9D%EA%B6%8C-m-stock/id1248716281?uo=4"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.6,
+      "updatedAt": "2026-06-16"
+    },
+    {
+      "id": "8839ca3e512ab17391d497b357a809d8e4416cf4",
+      "date": "2026-06-15",
+      "company": "NH투자증권",
+      "title": "주주총회소집공고",
+      "oneLiner": "NH투자증권이 주주총회 소집공고를 공시했습니다. 법적·회사 운영 일정 관련 공식 공시입니다.",
+      "type": "규제",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "주주총회소집공고",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260615000317"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-16"
+    },
+    {
+      "id": "41295819fd4aeb53f23a7464b2d3815d66619435",
+      "date": "2026-06-15",
+      "company": "NH투자증권",
+      "title": "주주총회소집결의              ",
+      "oneLiner": "NH투자증권이 주주총회 소집결의를 공시했습니다. 회사 의사결정(정관·이사회 관련) 일정의 변경·공시사항입니다.",
+      "type": "규제",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "주주총회소집결의              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260615800639"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-16"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12074226",
+      "date": "2026-06-15",
+      "company": "한국투자증권",
+      "title": "한투그룹, 글로벌자산담보부금융 시장 진출…‘캐년 ABF 파트너스’ 지분 투자",
+      "oneLiner": "한국투자금융그룹이 글로벌 ABF 전문 투자법인 '캐년 ABF 파트너스'에 앵커 투자자로 참여해 지분 투자를 단행했습니다. 전략적 자산운용·투자 확대 관련 제휴·출자 건입니다.",
+      "type": "제휴",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한투그룹, 글로벌자산담보부금융 시장 진출…‘캐년 ABF 파트너스’ 지분 투자",
+          "url": "https://www.mk.co.kr/news/stock/12074226"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-06-16"
+    },
+    {
+      "id": "news:키움증권:https://www.mk.co.kr/news/stock/12074148",
+      "date": "2026-06-15",
+      "company": "키움증권",
+      "title": "키움운용, ‘미국우주데이터센터인프라’ 상장…스페이스X 최대 25% 투자",
+      "oneLiner": "키움투자자산운용이 스페이스X를 최대 25% 편입하는 우주 테마 ETF 상장을 추진합니다. 신규 ETF 출시로 상품 포트폴리오 확장에 해당합니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "키움운용, ‘미국우주데이터센터인프라’ 상장…스페이스X 최대 25% 투자",
+          "url": "https://www.mk.co.kr/news/stock/12074148"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-06-16"
+    },
+    {
+      "id": "news:KB증권:https://www.mk.co.kr/news/stock/12074121",
+      "date": "2026-06-15",
+      "company": "KB증권",
+      "title": "타임폴리오, 차문현 부사장 대표 승진…각자대표 체제 구축",
+      "oneLiner": "타임폴리오자산운용이 차문현 부사장을 각자대표로 승진시키는 등 임원인사를 단행해 경영구조를 변경했습니다. 인사·조직 운영 변화에 해당합니다.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "타임폴리오, 차문현 부사장 대표 승진…각자대표 체제 구축",
+          "url": "https://www.mk.co.kr/news/stock/12074121"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-06-16"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202606150858469772",
+      "date": "2026-06-15",
+      "company": "NH투자증권",
+      "title": "삼성생명, 삼성전자 주가랑 같이 움직인다…목표가↑ -NH證",
+      "oneLiner": "NH투자증권 리서치팀이 삼성생명에 대해 삼성전자 지분가치 상승 반영으로 목표주가를 상향 조정한 보고서를 발표했습니다. 증권사 리서치 보고서의 내용입니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "삼성생명, 삼성전자 주가랑 같이 움직인다…목표가↑ -NH證",
+          "url": "https://www.fnnews.com/news/202606150858469772"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-06-16"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202606150919455899",
+      "date": "2026-06-15",
+      "company": "하나증권",
+      "title": "하나證, 장애인 청년 채용 모델 구축 '상생 ESG' 실천",
+      "oneLiner": "하나증권이 장애인 청년 고용 모델을 구축하고 한국장애인고용공단과 협력해 채용·훈련·정착 지원 프로그램을 운영합니다. 인사·채용 정책 및 제도적 변화에 해당합니다.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "하나證, 장애인 청년 채용 모델 구축 '상생 ESG' 실천",
+          "url": "https://www.fnnews.com/news/202606150919455899"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-06-16"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202606151022054334",
+      "date": "2026-06-15",
+      "company": "KB증권",
+      "title": "\"LG이노텍 200만원 간다\" 영업익 18배 '깜짝 실적'…고려아연, 역대급 실적에도 목표가 ↓ [株토피아]",
+      "oneLiner": "여러 증권사 리포트를 종합한 시장·기업 리서치 요약기사로, 각종 기업 실적 전망과 목표주가 변동을 정리했습니다. 리서치·분석 정보에 해당합니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"LG이노텍 200만원 간다\" 영업익 18배 '깜짝 실적'…고려아연, 역대급 실적에도 목표가 ↓ [株토피아]",
+          "url": "https://www.fnnews.com/news/202606151022054334"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-06-16"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202606151158260338",
+      "date": "2026-06-15",
+      "company": "한국투자증권",
+      "title": "한투금융, 캐년 ABF 파트너스 지분 투자",
+      "oneLiner": "한국투자금융그룹이 캐년 파트너스 등과 공동으로 CAP에 출자해 ABF 투자법인에 참여하는 등 글로벌 구조화금융 분야에 투자합니다. 전략적 지분투자·제휴 사안입니다.",
+      "type": "제휴",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투금융, 캐년 ABF 파트너스 지분 투자",
+          "url": "https://www.fnnews.com/news/202606151158260338"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-06-16"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202606151311259964",
+      "date": "2026-06-15",
+      "company": "한국투자증권",
+      "title": "신한투자증권, DB자산운용과 신기술투자조합 출범…생산적금융 확대",
+      "oneLiner": "신한투자증권과 DB자산운용이 공동으로 500억원 규모의 신기술투자조합을 출범시켰습니다. 공동운용(Co-GP) 형태의 투자조합 결성으로 상품·투자 플랫폼 확대에 해당합니다.",
+      "type": "제휴",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "신한투자증권, DB자산운용과 신기술투자조합 출범…생산적금융 확대",
+          "url": "https://www.fnnews.com/news/202606151311259964"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-06-16"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202606151806562455",
+      "date": "2026-06-15",
+      "company": "한국투자증권",
+      "title": "신한투증-DB운용, 생산적금융 위해 손잡았다",
+      "oneLiner": "신한투자증권과 DB자산운용이 공동 운용(Co-GP) 형태로 총 500억원 규모의 '신한-DB 생산적금융 신기술투자조합'을 출범하며 생산적금융 투자 플랫폼을 마련했다.",
+      "type": "제휴",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "신한투증-DB운용, 생산적금융 위해 손잡았다",
+          "url": "https://www.fnnews.com/news/202606151806562455"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-06-16"
+    },
+    {
       "id": "news:미래에셋증권:https://www.hankyung.com/article/2026061342637",
       "date": "2026-06-13",
       "company": "미래에셋증권",
@@ -147,7 +423,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-06-15"
+      "updatedAt": "2026-06-16"
     },
     {
       "id": "2410414a2946b27f5e81377512196d01dfc5fb82",
