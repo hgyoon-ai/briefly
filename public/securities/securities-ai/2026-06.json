@@ -2,6 +2,52 @@
   "month": "2026-06",
   "events": [
     {
+      "id": "news:토스증권:https://www.fnnews.com/news/202606161732275064",
+      "date": "2026-06-17",
+      "company": "토스증권",
+      "title": "美 정부 앤스로픽 모델 수출 제한에 韓 통신사 엮였나 [1일IT템]",
+      "oneLiner": "미국 정부가 앤스로픽 최신 AI 모델에 대한 수출제한을 검토하는 가운데 한국 통신사가 연루됐다는 보도가 나오며 AI 접근권·규제 리스크가 부각되고 있다.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "美 정부 앤스로픽 모델 수출 제한에 韓 통신사 엮였나 [1일IT템]",
+          "url": "https://www.fnnews.com/news/202606161732275064"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.78,
+      "updatedAt": "2026-06-17"
+    },
+    {
+      "id": "news:토스증권:http://www.boannews.com/media/view.asp?idx=144143&kind=&sub_kind=",
+      "date": "2026-06-16",
+      "company": "토스증권",
+      "title": "韓 미토스 접근 무산... 중국 연계 한국 통신사 탓? 이통 3사 “사실무근”",
+      "oneLiner": "백악관의 수출 통제 조치로 앤트로픽 '미토스' 접근이 무산됐고 일각에서는 중국 연계 통신사 연루설이 제기됐으나 이통 3사는 관련성을 전면 부인했다.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "보안뉴스",
+          "title": "韓 미토스 접근 무산... 중국 연계 한국 통신사 탓? 이통 3사 “사실무근”",
+          "url": "http://www.boannews.com/media/view.asp?idx=144143&kind=&sub_kind="
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-06-17"
+    },
+    {
       "id": "news:NH투자증권:https://www.fnnews.com/news/202606151433520573",
       "date": "2026-06-15",
       "company": "NH투자증권",

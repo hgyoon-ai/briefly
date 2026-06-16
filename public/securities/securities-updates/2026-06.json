@@ -2,6 +2,310 @@
   "month": "2026-06",
   "events": [
     {
+      "id": "news:키움증권:https://www.hankyung.com/article/2026061706606",
+      "date": "2026-06-17",
+      "company": "키움증권",
+      "title": "\"LIG D&A, 獨라인메탈과 협업 통한 유럽 수주 확대 기대…목표가↑\"-키움",
+      "oneLiner": "키움증권 리포트에서 LIG D&A의 독일 라인메탈과 협업을 통한 유럽 수주 확대 기대를 이유로 목표주가를 상향했다는 내용의 리서치 보도입니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "\"LIG D&A, 獨라인메탈과 협업 통한 유럽 수주 확대 기대…목표가↑\"-키움",
+          "url": "https://www.hankyung.com/article/2026061706606"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-06-17"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.hankyung.com/article/2026061696246",
+      "date": "2026-06-16",
+      "company": "미래에셋증권",
+      "title": "\"스페이스X 청약 투자자 금전 보상 검토\"…미래에셋 공식 사과",
+      "oneLiner": "미래에셋이 스페이스X 청약과 관련해 투자자 금전 보상 검토와 공식 사과를 발표한 운영·고객 대응 관련 뉴스입니다.",
+      "type": "기타",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "\"스페이스X 청약 투자자 금전 보상 검토\"…미래에셋 공식 사과",
+          "url": "https://www.hankyung.com/article/2026061696246"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-17"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.hankyung.com/article/202606168698i",
+      "date": "2026-06-16",
+      "company": "미래에셋증권",
+      "title": "\"24시간 거래되는 ETF 나오나\"…미래에셋의 '토큰화 실험'",
+      "oneLiner": "미래에셋이 ETF 토큰화 등 24시간 거래 가능한 상품 실험을 추진하는 내용으로, 자산·상품 혁신 관련 이니셔티브입니다.",
+      "type": "출시",
+      "areas": [
+        "WM",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "\"24시간 거래되는 ETF 나오나\"…미래에셋의 '토큰화 실험'",
+          "url": "https://www.hankyung.com/article/202606168698i"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-06-17"
+    },
+    {
+      "id": "news:신한투자증권:https://www.mk.co.kr/news/stock/12075227",
+      "date": "2026-06-16",
+      "company": "신한투자증권",
+      "title": "스페이스X 훈풍 올라탄다…신한운용, ‘우주항공밸류체인’ 상장",
+      "oneLiner": "신한자산운용이 국내 우주항공 밸류체인 핵심 기업에 투자하는 'SOL 우주항공밸류체인 ETF'를 유가증권시장에 신규 상장했습니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "스페이스X 훈풍 올라탄다…신한운용, ‘우주항공밸류체인’ 상장",
+          "url": "https://www.mk.co.kr/news/stock/12075227"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-06-17"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12075211",
+      "date": "2026-06-16",
+      "company": "미래에셋증권",
+      "title": "미래에셋운용, 온도파이낸스와 토큰화 ETF 생태계 구축 협력",
+      "oneLiner": "미래에셋자산운용이 온도파이낸스와 ETF 토큰화 및 디지털 자산 기반 투자상품 생태계 구축을 위한 업무협약(MOU)을 체결했습니다.",
+      "type": "제휴",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "미래에셋운용, 온도파이낸스와 토큰화 ETF 생태계 구축 협력",
+          "url": "https://www.mk.co.kr/news/stock/12075211"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-17"
+    },
+    {
+      "id": "news:키움증권:https://www.mk.co.kr/news/stock/12075197",
+      "date": "2026-06-16",
+      "company": "키움증권",
+      "title": "키움증권, 글로벌 최대 차트 플랫폼 ‘트레이딩뷰’ 국내 첫 제휴",
+      "oneLiner": "키움증권이 글로벌 차트 플랫폼 트레이딩뷰와 거래 연동 서비스 제휴를 국내 증권사 최초로 오픈했습니다.",
+      "type": "제휴",
+      "areas": [
+        "트레이딩",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "키움증권, 글로벌 최대 차트 플랫폼 ‘트레이딩뷰’ 국내 첫 제휴",
+          "url": "https://www.mk.co.kr/news/stock/12075197"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-06-17"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202606160915519756",
+      "date": "2026-06-16",
+      "company": "미래에셋증권",
+      "title": "미래에셋운용, ETF도 블록체인으로…온도와 토큰화 시장 선점 나서",
+      "oneLiner": "미래에셋운용이 온도파이낸스와 손잡고 ETF 토큰화 사업에 진출하며 토큰화 생태계 구축을 추진한다는 제휴·사업 확장 보도입니다.",
+      "type": "제휴",
+      "areas": [
+        "WM",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋운용, ETF도 블록체인으로…온도와 토큰화 시장 선점 나서",
+          "url": "https://www.fnnews.com/news/202606160915519756"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-17"
+    },
+    {
+      "id": "news:키움증권:https://www.fnnews.com/news/202606160954134577",
+      "date": "2026-06-16",
+      "company": "키움증권",
+      "title": "\"지금 주가의 두배 뛴다\" DL이앤씨, 미·이란 종전 최대 수혜… 삼성E&A, '건설 최선호주' 신규 커버리지[株토피아]",
+      "oneLiner": "여러 증권사 리포트 요약을 정리한 기사로, 개별 증권사들의 리서치 보고서 내용(목표가·커버리지)을 전하는 보도입니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"지금 주가의 두배 뛴다\" DL이앤씨, 미·이란 종전 최대 수혜… 삼성E&A, '건설 최선호주' 신규 커버리지[株토피아]",
+          "url": "https://www.fnnews.com/news/202606160954134577"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-06-17"
+    },
+    {
+      "id": "news:신한투자증권:https://www.fnnews.com/news/202606161104234421",
+      "date": "2026-06-16",
+      "company": "신한투자증권",
+      "title": "스페이스X 상장에 우주 공급망 주목…신한운용, 'SOL 우주항공밸류체인 ETF' 상장",
+      "oneLiner": "신한자산운용이 국내 우주항공 공급망에 투자하는 'SOL 우주항공밸류체인 ETF'를 신규 상장했다는 보도입니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "스페이스X 상장에 우주 공급망 주목…신한운용, 'SOL 우주항공밸류체인 ETF' 상장",
+          "url": "https://www.fnnews.com/news/202606161104234421"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-17"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202606161408545754",
+      "date": "2026-06-16",
+      "company": "미래에셋증권",
+      "title": "TIGER 배당커버드콜액티브, 하반기에도 특별분배 이어간다",
+      "oneLiner": "미래에셋자산운용은 TIGER 배당커버드콜액티브 ETF의 하반기 특별분배 지속을 발표해 분배정책(상품정책)에 변화가 있음을 공지했다.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "TIGER 배당커버드콜액티브, 하반기에도 특별분배 이어간다",
+          "url": "https://www.fnnews.com/news/202606161408545754"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-17"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202606161655522418",
+      "date": "2026-06-16",
+      "company": "미래에셋증권",
+      "title": "미래에셋 \"스페이스X 물량 확보 실패 송구\"…고객 보상 논의",
+      "oneLiner": "미래에셋증권은 스페이스X IPO에서 국내 배정이 전혀 이루어지지 않은 '0주 배정' 사태에 대해 공식 사과하고 고객 보상 방안을 논의 중이라고 밝혔다.",
+      "type": "기타",
+      "areas": [
+        "상담",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋 \"스페이스X 물량 확보 실패 송구\"…고객 보상 논의",
+          "url": "https://www.fnnews.com/news/202606161655522418"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-06-17"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202606161812155994",
+      "date": "2026-06-16",
+      "company": "미래에셋증권",
+      "title": "미래에셋운용, ETF 토큰화 뛰어든다",
+      "oneLiner": "미래에셋자산운용이 온도파이낸스와 ETF 토큰화 및 온체인 자산운용 인프라 구축을 위한 MOU를 체결해 ETF 토큰화 사업에 진출한다.",
+      "type": "제휴",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋운용, ETF 토큰화 뛰어든다",
+          "url": "https://www.fnnews.com/news/202606161812155994"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-17"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202606161812259407",
+      "date": "2026-06-16",
+      "company": "미래에셋증권",
+      "title": "스페이스X '0주 배정' 파장…미래에셋證 \"금전보상 검토\"",
+      "oneLiner": "미래에셋증권은 스페이스X '0주 배정' 관련해 경영진이 사과하고 금전보상 등 보상책을 검토 중이라고 밝혔다.",
+      "type": "기타",
+      "areas": [
+        "상담",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "스페이스X '0주 배정' 파장…미래에셋證 \"금전보상 검토\"",
+          "url": "https://www.fnnews.com/news/202606161812259407"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-17"
+    },
+    {
       "id": "news:미래에셋증권:https://www.fnnews.com/news/202606150644154694",
       "date": "2026-06-15",
       "company": "미래에셋증권",
@@ -46,7 +350,7 @@
       ],
       "tags": [],
       "confidence": 0.6,
-      "updatedAt": "2026-06-16"
+      "updatedAt": "2026-06-17"
     },
     {
       "id": "8839ca3e512ab17391d497b357a809d8e4416cf4",
@@ -69,7 +373,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-06-16"
+      "updatedAt": "2026-06-17"
     },
     {
       "id": "41295819fd4aeb53f23a7464b2d3815d66619435",
@@ -92,7 +396,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-06-16"
+      "updatedAt": "2026-06-17"
     },
     {
       "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12074226",
