@@ -2,6 +2,76 @@
   "month": "2026-06",
   "events": [
     {
+      "id": "news:하나증권:https://www.mk.co.kr/news/stock/12077032",
+      "date": "2026-06-18",
+      "company": "하나증권",
+      "title": "“저평가 받을 이유 없다”…삼성전자, 메모리 시장 훈풍에 목표가↑",
+      "oneLiner": "하나증권이 삼성전자 목표주가를 기존 43만원에서 48만원으로 상향 조정했다. 애널리스트 리포트에 따른 투자 의견 변경 공지성 기사다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“저평가 받을 이유 없다”…삼성전자, 메모리 시장 훈풍에 목표가↑",
+          "url": "https://www.mk.co.kr/news/stock/12077032"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-06-18"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12076929",
+      "date": "2026-06-18",
+      "company": "미래에셋증권",
+      "title": "스페이스X ‘0주’ 배정 후폭풍…제도개선 목소리에 당국 “제반사정 볼 것”",
+      "oneLiner": "스페이스X IPO에서 일부 증권사가 배정받지 못한 사태로 해외 공모주 청약 제도 개선 논의가 촉발되었고, 당국이 관련 제반사정을 검토하겠다고 밝혔다. 브로커리지 배분·운영 정책에 영향이 있을 수 있다.",
+      "type": "규제",
+      "areas": [
+        "브로커리지",
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "스페이스X ‘0주’ 배정 후폭풍…제도개선 목소리에 당국 “제반사정 볼 것”",
+          "url": "https://www.mk.co.kr/news/stock/12076929"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-06-18"
+    },
+    {
+      "id": "news:삼성증권:https://www.fnnews.com/news/202606180716328127",
+      "date": "2026-06-18",
+      "company": "삼성증권",
+      "title": "후성 136% 폭등 비결은 '반도체·불산'…\"밸류 부담은 변수\"",
+      "oneLiner": "삼성증권 연구원이 후성의 반도체 소재·불산 수혜를 근거로 실적 개선 전망을 제시했다. 리서치 분석은 투자자 참고용으로 의미 있는 정보다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "후성 136% 폭등 비결은 '반도체·불산'…\"밸류 부담은 변수\"",
+          "url": "https://www.fnnews.com/news/202606180716328127"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-06-18"
+    },
+    {
       "id": "news:키움증권:https://www.hankyung.com/article/2026061706606",
       "date": "2026-06-17",
       "company": "키움증권",
@@ -22,7 +92,151 @@
       ],
       "tags": [],
       "confidence": 0.8,
-      "updatedAt": "2026-06-17"
+      "updatedAt": "2026-06-18"
+    },
+    {
+      "id": "news:신한투자증권:https://www.hankyung.com/article/2026061720546",
+      "date": "2026-06-17",
+      "company": "신한투자증권",
+      "title": "앱 경계 허문다…신한금융, 은행·증권·카드 통합 '슈퍼SOL' 출격",
+      "oneLiner": "신한금융이 은행·증권·카드 기능을 통합한 플랫폼 '슈퍼SOL'을 공개했다. 그룹 앱 통합으로 증권 서비스 연동 및 운영·제품 변화가 예상된다.",
+      "type": "출시",
+      "areas": [
+        "브로커리지",
+        "WM",
+        "상담"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "앱 경계 허문다…신한금융, 은행·증권·카드 통합 '슈퍼SOL' 출격",
+          "url": "https://www.hankyung.com/article/2026061720546"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-18"
+    },
+    {
+      "id": "news:한국투자증권:https://www.hankyung.com/article/2026061713586",
+      "date": "2026-06-17",
+      "company": "한국투자증권",
+      "title": "한국투자증권, ELW 558종목 신규 상장",
+      "oneLiner": "한국투자증권이 ELW 558종목을 신규 상장해 파생상품 라인업을 확대했다. 투자자 접근성과 트레이딩 상품군 변화가 있는 공지로 판단된다.",
+      "type": "출시",
+      "areas": [
+        "트레이딩",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "한국투자증권, ELW 558종목 신규 상장",
+          "url": "https://www.hankyung.com/article/2026061713586"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-06-18"
+    },
+    {
+      "id": "news:메리츠증권:https://www.mk.co.kr/news/stock/12076904",
+      "date": "2026-06-17",
+      "company": "메리츠증권",
+      "title": "메리츠, 홈플러스 1000억 DIP 대출 이사회 의결",
+      "oneLiner": "메리츠금융그룹이 회생절차 중인 홈플러스에 1000억원 규모의 DIP 대출을 지원하기로 이사회에서 의결했다. 대출 실행은 그룹의 자금운용·신용리스크 관리에 영향을 미친다.",
+      "type": "기타",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "메리츠, 홈플러스 1000억 DIP 대출 이사회 의결",
+          "url": "https://www.mk.co.kr/news/stock/12076904"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-06-18"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12076725",
+      "date": "2026-06-17",
+      "company": "미래에셋증권",
+      "title": "스페이스X '0주' 후폭풍 \"해외 공모제도 손질해야\"",
+      "oneLiner": "스페이스X IPO 배정 논란으로 해외 공모주 청약 제도 손질 필요성이 제기되었으며 당국이 관련 사정을 검토하겠다고 밝혔다. 공모배정 관행과 브로커리지 운영에 파급 가능성이 있다.",
+      "type": "규제",
+      "areas": [
+        "브로커리지",
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "스페이스X '0주' 후폭풍 \"해외 공모제도 손질해야\"",
+          "url": "https://www.mk.co.kr/news/stock/12076725"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-06-18"
+    },
+    {
+      "id": "news:신한투자증권:https://www.mk.co.kr/news/stock/12076617",
+      "date": "2026-06-17",
+      "company": "신한투자증권",
+      "title": "신한 '슈퍼SOL'…은행·증권·카드 경계 없앴다",
+      "oneLiner": "신한금융이 은행·증권·카드·라이프의 금융 기능을 합친 '신한 슈퍼SOL' 앱을 공개했다. 그룹 앱 통합으로 증권 서비스 연계와 운영상 변화가 예상된다.",
+      "type": "출시",
+      "areas": [
+        "브로커리지",
+        "WM",
+        "상담"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "신한 '슈퍼SOL'…은행·증권·카드 경계 없앴다",
+          "url": "https://www.mk.co.kr/news/stock/12076617"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-18"
+    },
+    {
+      "id": "news:키움증권:https://www.fnnews.com/news/202606170851277080",
+      "date": "2026-06-17",
+      "company": "키움증권",
+      "title": "\"글로벌 미사일 수요 증가\" LIG D&A 목표가↑-키움",
+      "oneLiner": "키움증권이 LIG D&A의 목표주가를 상향 조정했다. 글로벌 수주 확대 기대를 근거로 한 리서치 업데이트다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"글로벌 미사일 수요 증가\" LIG D&A 목표가↑-키움",
+          "url": "https://www.fnnews.com/news/202606170851277080"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-06-18"
     },
     {
       "id": "news:미래에셋증권:https://www.hankyung.com/article/2026061696246",
@@ -350,7 +564,7 @@
       ],
       "tags": [],
       "confidence": 0.6,
-      "updatedAt": "2026-06-17"
+      "updatedAt": "2026-06-18"
     },
     {
       "id": "8839ca3e512ab17391d497b357a809d8e4416cf4",
@@ -373,7 +587,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-06-17"
+      "updatedAt": "2026-06-18"
     },
     {
       "id": "41295819fd4aeb53f23a7464b2d3815d66619435",
@@ -396,7 +610,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-06-17"
+      "updatedAt": "2026-06-18"
     },
     {
       "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12074226",
