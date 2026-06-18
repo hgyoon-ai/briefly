@@ -2,6 +2,122 @@
   "month": "2026-06",
   "events": [
     {
+      "id": "news:NH투자증권:https://www.hankyung.com/article/202606184776i",
+      "date": "2026-06-19",
+      "company": "NH투자증권",
+      "title": "탄탄 본업에 'AI 클라우드' 엔진 단 NHN, 하반기 날아 오를까",
+      "oneLiner": "NHN의 'AI 클라우드' 확장 가능성을 다룬 기사로 AI·클라우드 사업 동향이 증권사 리서치에 참고될 수 있음.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "탄탄 본업에 'AI 클라우드' 엔진 단 NHN, 하반기 날아 오를까",
+          "url": "https://www.hankyung.com/article/202606184776i"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-06-19"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12077751",
+      "date": "2026-06-18",
+      "company": "미래에셋증권",
+      "title": "[인기검색TOP5] 가온전선, 삼성전기, SK하이닉스, 한전기술, 미래에셋증권",
+      "oneLiner": "미래에셋증권의 '주식 AI 라씨 매매비서'가 실시간으로 매매타이밍을 제공한다는 보도로, 증권사 AI 트레이딩·자동화 서비스 사례에 해당함.",
+      "type": "시스템",
+      "areas": [
+        "트레이딩",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[인기검색TOP5] 가온전선, 삼성전기, SK하이닉스, 한전기술, 미래에셋증권",
+          "url": "https://www.mk.co.kr/news/stock/12077751"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-06-19"
+    },
+    {
+      "id": "news:토스증권:https://www.fnnews.com/news/202606180813075632",
+      "date": "2026-06-18",
+      "company": "토스증권",
+      "title": "\"美 AI 수출통제로 미스트랄·딥시크 반사이익\"[글로벌AI브리핑]",
+      "oneLiner": "미국의 AI 수출통제가 오픈소스·비미국 모델에 미치는 영향과 반사이익 가능성을 분석한 기사로 규제 리스크 관련 내용임.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "\"美 AI 수출통제로 미스트랄·딥시크 반사이익\"[글로벌AI브리핑]",
+          "url": "https://www.fnnews.com/news/202606180813075632"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-06-19"
+    },
+    {
+      "id": "news:토스증권:https://www.fnnews.com/news/202606180926026552",
+      "date": "2026-06-18",
+      "company": "토스증권",
+      "title": "앤스로픽 \"미토스 수출통제 조만간 풀릴 것 기대\"",
+      "oneLiner": "앤스로픽 측이 미토스 모델 수출통제의 조기 해제를 기대한다는 발표로, AI 수출통제 관련 규제·리스크 이슈와 직접 연관됨.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "앤스로픽 \"미토스 수출통제 조만간 풀릴 것 기대\"",
+          "url": "https://www.fnnews.com/news/202606180926026552"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-06-19"
+    },
+    {
+      "id": "news:토스증권:https://www.fnnews.com/news/202606181230301045",
+      "date": "2026-06-18",
+      "company": "토스증권",
+      "title": "[이구순의 느린걸음] 소버린AI 가치를 다시 생각한다",
+      "oneLiner": "국가 주도의 '소버린AI' 가치와 정책 논쟁을 다룬 칼럼으로 AI 정책·규제 및 리스크 논의와 직접 관련됨.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "[이구순의 느린걸음] 소버린AI 가치를 다시 생각한다",
+          "url": "https://www.fnnews.com/news/202606181230301045"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-06-19"
+    },
+    {
       "id": "news:토스증권:https://www.fnnews.com/news/202606161732275064",
       "date": "2026-06-17",
       "company": "토스증권",
