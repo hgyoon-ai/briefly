@@ -2,6 +2,52 @@
   "month": "2026-06",
   "events": [
     {
+      "id": "news:KB증권:https://www.fnnews.com/news/202606190844210279",
+      "date": "2026-06-19",
+      "company": "KB증권",
+      "title": "삼성전기, MLCC·패키징 기판 아직 과소평가...목표가 300만원 ↑ -KB證",
+      "oneLiner": "KB증권 리서치에서 삼성전기 목표주가를 220만원에서 300만원으로 상향 조정한 리포트 공개 — 리서치 산출치 및 투자의견 관련 변경 이벤트.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "삼성전기, MLCC·패키징 기판 아직 과소평가...목표가 300만원 ↑ -KB證",
+          "url": "https://www.fnnews.com/news/202606190844210279"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-06-20"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202606191432013855",
+      "date": "2026-06-19",
+      "company": "하나증권",
+      "title": "하나證, 한국산업은행과 '기업·산업정보 협력 MOU' 체결",
+      "oneLiner": "하나증권과 산업은행이 기업·산업정보 협력을 위한 MOU를 체결 — 리서치 제공을 통한 제휴 및 운영적 협업 발생.",
+      "type": "제휴",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "하나證, 한국산업은행과 '기업·산업정보 협력 MOU' 체결",
+          "url": "https://www.fnnews.com/news/202606191432013855"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-06-20"
+    },
+    {
       "id": "news:하나증권:https://www.mk.co.kr/news/stock/12077032",
       "date": "2026-06-18",
       "company": "하나증권",
