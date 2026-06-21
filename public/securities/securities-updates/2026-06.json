@@ -2,6 +2,78 @@
   "month": "2026-06",
   "events": [
     {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12079349",
+      "date": "2026-06-21",
+      "company": "한국투자증권",
+      "title": "한투, 글로벌 운용사 초청행사",
+      "oneLiner": "한국투자증권이 글로벌 자산운용사 13곳의 경영진을 초청해 해외 투자상품 공급 확대와 전략적 협력을 논의한 행사로 제휴 및 상품공급 확대 가능성이 있음.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한투, 글로벌 운용사 초청행사",
+          "url": "https://www.mk.co.kr/news/stock/12079349"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-06-22"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12079268",
+      "date": "2026-06-21",
+      "company": "한국투자증권",
+      "title": "글로벌 금융사, 한투증권에 모였다···글로벌 투자상품 협력 확대",
+      "oneLiner": "글로벌 금융사들을 초청해 글로벌 투자상품 협력 확대를 논의한 행사 보도로, 제휴를 통한 해외상품 공급 확대 관련 영향이 예상됨.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "글로벌 금융사, 한투증권에 모였다···글로벌 투자상품 협력 확대",
+          "url": "https://www.mk.co.kr/news/stock/12079268"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.82,
+      "updatedAt": "2026-06-22"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202606211134565034",
+      "date": "2026-06-21",
+      "company": "한국투자증권",
+      "title": "한투證, 글로벌 운용사 13곳 초청…협력 강화",
+      "oneLiner": "한국투자증권이 글로벌 운용사 경영진을 초청해 투자상품 공급 확대 방안을 논의한 행사 보도로, 제휴·상품공급 확대 관련 실무적 연계 가능성이 존재함.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투證, 글로벌 운용사 13곳 초청…협력 강화",
+          "url": "https://www.fnnews.com/news/202606211134565034"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.84,
+      "updatedAt": "2026-06-22"
+    },
+    {
       "id": "93b7fb0748893e4fe417c162678a204de899440d",
       "date": "2026-06-20",
       "company": "한국투자증권",
@@ -24,7 +96,7 @@
       ],
       "tags": [],
       "confidence": 0.95,
-      "updatedAt": "2026-06-21"
+      "updatedAt": "2026-06-22"
     },
     {
       "id": "news:KB증권:https://www.fnnews.com/news/202606190844210279",
