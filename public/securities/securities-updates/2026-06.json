@@ -2,6 +2,98 @@
   "month": "2026-06",
   "events": [
     {
+      "id": "news:하나증권:https://www.hankyung.com/article/2026062298451",
+      "date": "2026-06-22",
+      "company": "하나증권",
+      "title": "하나증권, 장애인 동료가 당연한 일터…교육부터 채용까지 원스톱",
+      "oneLiner": "하나증권이 장애인 대상 교육부터 채용까지 원스톱으로 지원하는 포용적 고용 프로그램을 도입·확대해 채용·인사정책에 변화를 추진하고 있다.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "하나증권, 장애인 동료가 당연한 일터…교육부터 채용까지 원스톱",
+          "url": "https://www.hankyung.com/article/2026062298451"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-06-23"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202606220833557178",
+      "date": "2026-06-22",
+      "company": "NH투자증권",
+      "title": "NH증권 \"이엔셀, 하반기 업황 반등과 日재생의료 등 사업 다각화 기대\"",
+      "oneLiner": "NH투자증권 리서치가 이엔셀에 대해 CDMO 업황의 하반기 반등과 사업 포트폴리오 다각화를 긍정적으로 진단했으나 투자의견·목표주가는 제시하지 않았다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "NH증권 \"이엔셀, 하반기 업황 반등과 日재생의료 등 사업 다각화 기대\"",
+          "url": "https://www.fnnews.com/news/202606220833557178"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-23"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202606220903142249",
+      "date": "2026-06-22",
+      "company": "NH투자증권",
+      "title": "SK스퀘어, 하이닉스 주가 상승에 기업가치↑…목표가 '상향' -NH證",
+      "oneLiner": "NH투자증권이 SK스퀘어에 대해 SK하이닉스 주가 상승을 반영해 목표주가를 110만원에서 270만원으로 상향 조정하고 투자의견 '매수'를 유지했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "SK스퀘어, 하이닉스 주가 상승에 기업가치↑…목표가 '상향' -NH證",
+          "url": "https://www.fnnews.com/news/202606220903142249"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-06-23"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202606221548188713",
+      "date": "2026-06-22",
+      "company": "KB증권",
+      "title": "스피어코퍼레이션, 인도네시아 니켈 공급망 구축 속도…340억원 무역금융 확보",
+      "oneLiner": "스피어코퍼레이션이 인도네시아 니켈 프로젝트의 원재료 확보를 위해 총 340억원 규모의 수입신용장(L/C)을 개설했으며, 이번 무역금융에는 KB 계열 금융지원이 연계된 것으로 전해졌다.",
+      "type": "제휴",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "스피어코퍼레이션, 인도네시아 니켈 공급망 구축 속도…340억원 무역금융 확보",
+          "url": "https://www.fnnews.com/news/202606221548188713"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-06-23"
+    },
+    {
       "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12079349",
       "date": "2026-06-21",
       "company": "한국투자증권",
@@ -96,7 +188,7 @@
       ],
       "tags": [],
       "confidence": 0.95,
-      "updatedAt": "2026-06-22"
+      "updatedAt": "2026-06-23"
     },
     {
       "id": "news:KB증권:https://www.fnnews.com/news/202606190844210279",

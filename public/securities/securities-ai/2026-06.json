@@ -2,6 +2,98 @@
   "month": "2026-06",
   "events": [
     {
+      "id": "news:KB증권:https://www.fnnews.com/news/202606220946173928",
+      "date": "2026-06-22",
+      "company": "KB증권",
+      "title": "KB증권, MCP Hub 기반 생성형 AI 개발환경 구축 추진",
+      "oneLiner": "KB증권이 MCP Hub 기반 생성형 AI 개발환경 구축을 추진하며 금융보안원의 보안평가 적합 판정을 받았다는 보도로, 내부 AI 시스템·보안·운영 관련 중요 사안임.",
+      "type": "시스템",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "KB증권, MCP Hub 기반 생성형 AI 개발환경 구축 추진",
+          "url": "https://www.fnnews.com/news/202606220946173928"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-06-23"
+    },
+    {
+      "id": "news:토스증권:https://www.fnnews.com/news/202606221418371968",
+      "date": "2026-06-22",
+      "company": "토스증권",
+      "title": "보안·국방부터 깔리는 K-AI…현장으로 들어온 소버린AI",
+      "oneLiner": "K-AI가 보안·국방 등 국가 시스템에 적용되는 사례를 다루며 소버린AI·운영 플랫폼 이슈와 규제·안전성 논쟁을 촉발하는 보도임.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "보안·국방부터 깔리는 K-AI…현장으로 들어온 소버린AI",
+          "url": "https://www.fnnews.com/news/202606221418371968"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.88,
+      "updatedAt": "2026-06-23"
+    },
+    {
+      "id": "news:토스증권:https://www.fnnews.com/news/202606221845223056",
+      "date": "2026-06-22",
+      "company": "토스증권",
+      "title": "보안·국방 지키는 'K-AI'… 전략산업 성장 견인도",
+      "oneLiner": "K-AI의 보안·국방 적용과 전략산업 성장 전망을 분석한 기사로, 산업적 영향과 리스크·수요 관점에서 유의미함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "보안·국방 지키는 'K-AI'… 전략산업 성장 견인도",
+          "url": "https://www.fnnews.com/news/202606221845223056"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.82,
+      "updatedAt": "2026-06-23"
+    },
+    {
+      "id": "news:토스증권:http://www.boannews.com/media/view.asp?idx=144272&kind=&sub_kind=",
+      "date": "2026-06-22",
+      "company": "토스증권",
+      "title": "[PIS FAIR 2026] “강력한 브레이크가 F1 질주 이끈다” 김홍선 고문이 말하는 AI 시대 개인정보보호",
+      "oneLiner": "PIS FAIR 강연에서 AI 시대 개인정보보호와 규제·제재 리스크 확대를 경고한 보안 관련 기사로, 증권사 보안·규제 대응에 직접적 시사점이 있음.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "보안뉴스",
+          "title": "[PIS FAIR 2026] “강력한 브레이크가 F1 질주 이끈다” 김홍선 고문이 말하는 AI 시대 개인정보보호",
+          "url": "http://www.boannews.com/media/view.asp?idx=144272&kind=&sub_kind="
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-23"
+    },
+    {
       "id": "news:NH투자증권:https://www.hankyung.com/article/202606184776i",
       "date": "2026-06-19",
       "company": "NH투자증권",
