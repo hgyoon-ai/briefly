@@ -2,6 +2,213 @@
   "month": "2026-06",
   "events": [
     {
+      "id": "news:KB증권:https://www.hankyung.com/article/2026062441806",
+      "date": "2026-06-24",
+      "company": "KB증권",
+      "title": "\"SK하이닉스, 변한 건 심리 뿐…조정은 비중 확대 기회\"-KB",
+      "oneLiner": "KB증권 리서치에서 SK하이닉스에 대해 단기 조정은 매수(비중 확대) 기회로 제시했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "\"SK하이닉스, 변한 건 심리 뿐…조정은 비중 확대 기회\"-KB",
+          "url": "https://www.hankyung.com/article/2026062441806"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-24"
+    },
+    {
+      "id": "news:KB증권:https://www.hankyung.com/article/2026062334901",
+      "date": "2026-06-23",
+      "company": "KB증권",
+      "title": "KB운용-차이나AMC, ETF사업 업무협약",
+      "oneLiner": "KB자산운용이 중국 차이나AMC와 ETF 사업 협력을 위한 전략적 업무협약(MOU)을 체결해 한국·홍콩 공동상장 등 협력을 추진한다.",
+      "type": "제휴",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "KB운용-차이나AMC, ETF사업 업무협약",
+          "url": "https://www.hankyung.com/article/2026062334901"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-06-24"
+    },
+    {
+      "id": "news:KB증권:https://www.hankyung.com/article/202606232831i",
+      "date": "2026-06-23",
+      "company": "KB증권",
+      "title": "KB자산운용, 차이나 AMC와 맞손.. \"한국·홍콩 ETF 공동 상장 추진\"",
+      "oneLiner": "KB자산운용이 China AMC와 맞손해 한국·홍콩 시장의 ETF 공동개발 및 상장 협력을 모색한다는 MOU를 체결했다.",
+      "type": "제휴",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "KB자산운용, 차이나 AMC와 맞손.. \"한국·홍콩 ETF 공동 상장 추진\"",
+          "url": "https://www.hankyung.com/article/202606232831i"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-24"
+    },
+    {
+      "id": "news:KB증권:https://www.mk.co.kr/news/stock/12080806",
+      "date": "2026-06-23",
+      "company": "KB증권",
+      "title": "KB운용, 중국 ETF 1위 운용사와 맞손…“한국·홍콩 증시 ETF 상장 추진”",
+      "oneLiner": "KB운용이 중국 ETF 1위 운용사와 업무협약을 맺고 한·중(한국·홍콩) ETF 상장 추진 등 사업협력을 확대한다.",
+      "type": "제휴",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "KB운용, 중국 ETF 1위 운용사와 맞손…“한국·홍콩 증시 ETF 상장 추진”",
+          "url": "https://www.mk.co.kr/news/stock/12080806"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-06-24"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202606231408035637",
+      "date": "2026-06-23",
+      "company": "KB증권",
+      "title": "KB자산운용, 中 ETF 1위 차이나AMC와 맞손",
+      "oneLiner": "KB자산운용이 China AMC와 ETF 사업 협력 MOU를 체결하고 한국·홍콩 시장 연계 상품 개발·상장 등을 추진한다.",
+      "type": "제휴",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "KB자산운용, 中 ETF 1위 차이나AMC와 맞손",
+          "url": "https://www.fnnews.com/news/202606231408035637"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-06-24"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202606231623192925",
+      "date": "2026-06-23",
+      "company": "NH투자증권",
+      "title": "NH투자증권, 6억달러 외화채권 발행 성공…증권사 최저 스프레드 경신",
+      "oneLiner": "NH투자증권이 6억달러 규모의 외화채권(3년물·5년물) 발행에 성공하며 국내 증권사 기준 역대 최저 스프레드를 기록했다.",
+      "type": "기타",
+      "areas": [
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "NH투자증권, 6억달러 외화채권 발행 성공…증권사 최저 스프레드 경신",
+          "url": "https://www.fnnews.com/news/202606231623192925"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-06-24"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202606231621142591",
+      "date": "2026-06-23",
+      "company": "NH투자증권",
+      "title": "NH투자증권, 금융 취약계층 위한 안내서·점자 가이드북 배포",
+      "oneLiner": "NH투자증권이 완전판매 절차 개편 내용을 반영한 일반 안내서와 시각장애인용 점자 가이드북을 제작·배포해 금융 취약계층 접근성을 제고했다.",
+      "type": "출시",
+      "areas": [
+        "상담"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "NH투자증권, 금융 취약계층 위한 안내서·점자 가이드북 배포",
+          "url": "https://www.fnnews.com/news/202606231621142591"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-24"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202606231820571775",
+      "date": "2026-06-23",
+      "company": "NH투자증권",
+      "title": "NH투증 외화채권 6억달러 발행 성공",
+      "oneLiner": "NH투자증권의 외화채권 6억달러 발행 관련 보도로, 북빌딩·금리·스프레드 등 발행 성과를 전하고 있다.",
+      "type": "기타",
+      "areas": [
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "NH투증 외화채권 6억달러 발행 성공",
+          "url": "https://www.fnnews.com/news/202606231820571775"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-24"
+    },
+    {
+      "id": "news:메리츠증권:https://www.fnnews.com/news/202606232030290491",
+      "date": "2026-06-23",
+      "company": "메리츠증권",
+      "title": "MBK-메리츠 날선 공방속에...법원 최후통첩 \"이달 내로 2000억 조달계획 내라\"",
+      "oneLiner": "법원이 홈플러스 회생 관련 메리츠·MBK 간 공방 속에 이달 내 2000억원 규모 자금조달 계획 제출을 요구하며 최후통첩을 내렸다.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "MBK-메리츠 날선 공방속에...법원 최후통첩 \"이달 내로 2000억 조달계획 내라\"",
+          "url": "https://www.fnnews.com/news/202606232030290491"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-24"
+    },
+    {
       "id": "news:하나증권:https://www.hankyung.com/article/2026062298451",
       "date": "2026-06-22",
       "company": "하나증권",

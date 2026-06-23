@@ -2,6 +2,52 @@
   "month": "2026-06",
   "events": [
     {
+      "id": "news:토스증권:https://www.fnnews.com/news/202606230918054283",
+      "date": "2026-06-23",
+      "company": "토스증권",
+      "title": "\"미토스 안 무섭다\"...오픈AI, 사이버 보안 이니셔티브 확대",
+      "oneLiner": "오픈AI가 사이버 보안 이니셔티브 '데이브레이크'를 확대하고 신규 보안 모델 'GPT-5.5 사이버'를 공개했다는 보도로, 보안·사이버 리스크 관리 측면에서 시사점이 있습니다.",
+      "type": "출시",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "\"미토스 안 무섭다\"...오픈AI, 사이버 보안 이니셔티브 확대",
+          "url": "https://www.fnnews.com/news/202606230918054283"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-06-24"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202606231820521739",
+      "date": "2026-06-23",
+      "company": "NH투자증권",
+      "title": "카톡으로 공공시설 예약하고, AI가 민원 처리",
+      "oneLiner": "공공 AI 박람회에서 삼성SDS 등 기업들이 AI 에이전트와 민원 자동요약·분류 등 행정업무 자동화 솔루션을 선보였다는 보도입니다. 민원 처리 자동화(챗봇·요약) 사례가 핵심입니다.",
+      "type": "시스템",
+      "areas": [
+        "상담"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "카톡으로 공공시설 예약하고, AI가 민원 처리",
+          "url": "https://www.fnnews.com/news/202606231820521739"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-24"
+    },
+    {
       "id": "news:KB증권:https://www.fnnews.com/news/202606220946173928",
       "date": "2026-06-22",
       "company": "KB증권",
