@@ -2,6 +2,29 @@
   "month": "2026-06",
   "events": [
     {
+      "id": "news:KB증권:https://www.fnnews.com/news/202606250754214794",
+      "date": "2026-06-25",
+      "company": "KB증권",
+      "title": "삼성전자, 美ADR 상장이 촉매…목표가 계속 오른다 [종목 돋보기]",
+      "oneLiner": "KB증권 리서치가 삼성전자의 목표주가를 기존 53만원에서 55만원으로 상향 조정했다고 발표했습니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "삼성전자, 美ADR 상장이 촉매…목표가 계속 오른다 [종목 돋보기]",
+          "url": "https://www.fnnews.com/news/202606250754214794"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-06-25"
+    },
+    {
       "id": "news:KB증권:https://www.hankyung.com/article/2026062441806",
       "date": "2026-06-24",
       "company": "KB증권",
@@ -23,6 +46,121 @@
       "tags": [],
       "confidence": 0.9,
       "updatedAt": "2026-06-24"
+    },
+    {
+      "id": "35b417971f0b83ea00d096bfbddfab646fa8978b",
+      "date": "2026-06-24",
+      "company": "NH투자증권",
+      "title": "정보보호현황(자율공시)              ",
+      "oneLiner": "NH투자증권이 자율공시로 정보보호 현황을 공시했으며, 조직의 정보보호 운영·대응 상태를 보고한 건입니다.",
+      "type": "시스템",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "정보보호현황(자율공시)              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260624800688"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-25"
+    },
+    {
+      "id": "202c1f5b55d63fe314fc16529976f99202113669",
+      "date": "2026-06-24",
+      "company": "신한투자증권",
+      "title": "[기재정정]주요사항보고서(자본으로인정되는채무증권발행결정)",
+      "oneLiner": "신한투자증권이 자본으로 인정되는 채무증권 발행결정 관련 주요사항보고서에 대해 기재정정을 공시했습니다.",
+      "type": "규제",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "[기재정정]주요사항보고서(자본으로인정되는채무증권발행결정)",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260624000139"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-25"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12081881",
+      "date": "2026-06-24",
+      "company": "한국투자증권",
+      "title": "한투운용 ‘고배당주Plus커버드콜액티브’, 상장 후 첫 분배금 지급",
+      "oneLiner": "한국투자신탁운용의 ACE 고배당주Plus커버드콜액티브 ETF가 상장 이후 첫 분배금을 지급할 예정입니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한투운용 ‘고배당주Plus커버드콜액티브’, 상장 후 첫 분배금 지급",
+          "url": "https://www.mk.co.kr/news/stock/12081881"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-06-25"
+    },
+    {
+      "id": "news:삼성증권:https://www.fnnews.com/news/202606241036282941",
+      "date": "2026-06-24",
+      "company": "삼성증권",
+      "title": "삼성증권, ISA 만기 고객 대상 연금전환 이벤트 진행",
+      "oneLiner": "삼성증권이 ISA 만기 고객을 대상으로 만기자금을 연금계좌로 이전하면 혜택을 제공하는 연금전환 이벤트를 진행합니다.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "삼성증권, ISA 만기 고객 대상 연금전환 이벤트 진행",
+          "url": "https://www.fnnews.com/news/202606241036282941"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-06-25"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202606241338162776",
+      "date": "2026-06-24",
+      "company": "한국투자증권",
+      "title": "개인 579억 몰렸다…ACE 고배당주Plus커버드콜액티브 첫 분배금 지급",
+      "oneLiner": "ACE 고배당주Plus커버드콜액티브 ETF가 상장 후 첫 분배금을 지급하며 개인 자금 유입이 이어지고 있다고 보도되었습니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "개인 579억 몰렸다…ACE 고배당주Plus커버드콜액티브 첫 분배금 지급",
+          "url": "https://www.fnnews.com/news/202606241338162776"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-06-25"
     },
     {
       "id": "news:KB증권:https://www.hankyung.com/article/2026062334901",
