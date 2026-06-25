@@ -2,6 +2,54 @@
   "month": "2026-06",
   "events": [
     {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202606251625102310",
+      "date": "2026-06-25",
+      "company": "NH투자증권",
+      "title": "NH투자증권, AI 컨설턴트 '서아인' 공개…투자정보 영상 콘텐츠 선봬",
+      "oneLiner": "NH투자증권이 AI 가상 컨설턴트 '서아인'을 공개하고 리서치 기반 투자정보를 영상으로 제공하는 서비스 'N2, SIGNAL'을 출시했다.",
+      "type": "출시",
+      "areas": [
+        "리서치",
+        "상담"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "NH투자증권, AI 컨설턴트 '서아인' 공개…투자정보 영상 콘텐츠 선봬",
+          "url": "https://www.fnnews.com/news/202606251625102310"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-06-26"
+    },
+    {
+      "id": "news:토스증권:https://www.fnnews.com/news/202606251538031157",
+      "date": "2026-06-25",
+      "company": "토스증권",
+      "title": "\"AI가 쉽게 읽도록 데이터 구조화 시급\", \"AI 속도 맞춰 R&D 체계도 바뀌어야[퓨처ICT포럼 이모저모]",
+      "oneLiner": "퓨처ICT포럼에서 기업 차원의 AX(인공지능 전환) 체계 구축, 데이터 구조화의 필요성, R&D 민첩성 전환 및 AI 관련 사이버보안 이슈 등이 논의되었다.",
+      "type": "시스템",
+      "areas": [
+        "리스크",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "\"AI가 쉽게 읽도록 데이터 구조화 시급\", \"AI 속도 맞춰 R&D 체계도 바뀌어야[퓨처ICT포럼 이모저모]",
+          "url": "https://www.fnnews.com/news/202606251538031157"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-06-26"
+    },
+    {
       "id": "news:한국투자증권:https://www.fnnews.com/news/202606241107090270",
       "date": "2026-06-24",
       "company": "한국투자증권",
