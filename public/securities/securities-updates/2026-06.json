@@ -2,6 +2,192 @@
   "month": "2026-06",
   "events": [
     {
+      "id": "94f5636d18c53e971ad68201878636cb29195f21",
+      "date": "2026-06-26",
+      "company": "메리츠증권",
+      "title": "주요사항보고서(자본으로인정되는채무증권발행결정)",
+      "oneLiner": "메리츠증권이 자본으로 인정되는 채무증권 발행 결정을 공시해 자본구조 및 재무리스크에 영향이 있을 수 있음.",
+      "type": "기타",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "주요사항보고서(자본으로인정되는채무증권발행결정)",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260626000555"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-27"
+    },
+    {
+      "id": "news:KB증권:https://www.mk.co.kr/news/stock/12084312",
+      "date": "2026-06-26",
+      "company": "KB증권",
+      "title": "KB證 1조규모 자본확충…14호 IMA 사업자 도전장",
+      "oneLiner": "KB금융이 KB증권에 1조원대 자본을 추가 투입하기로 해 KB증권의 자본확충 및 IMA 사업 확장 전략에 직접적 변화가 발생함.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "KB證 1조규모 자본확충…14호 IMA 사업자 도전장",
+          "url": "https://www.mk.co.kr/news/stock/12084312"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-06-27"
+    },
+    {
+      "id": "news:메리츠증권:https://www.mk.co.kr/news/stock/12084224",
+      "date": "2026-06-26",
+      "company": "메리츠증권",
+      "title": "메리츠 “1000억 DIP는 전단채 회수 가능성 높이기 위한 한계선”",
+      "oneLiner": "메리츠가 홈플러스 DIP 대출에 1000억원 규모로 참여한 것은 회사의 유동성·신용노출과 관련한 의사결정으로 실무적 영향이 있음.",
+      "type": "기타",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "메리츠 “1000억 DIP는 전단채 회수 가능성 높이기 위한 한계선”",
+          "url": "https://www.mk.co.kr/news/stock/12084224"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-06-27"
+    },
+    {
+      "id": "news:KB증권:https://www.mk.co.kr/news/stock/12084200",
+      "date": "2026-06-26",
+      "company": "KB증권",
+      "title": "KB증권 1조 자본확충…4호 IMA 사업자 도전장",
+      "oneLiner": "KB증권에 대한 KB금융의 1조원 자본확충 계획은 IMA 사업자 도전 등 영업·자본전략에 실질적 변화를 초래함.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "KB증권 1조 자본확충…4호 IMA 사업자 도전장",
+          "url": "https://www.mk.co.kr/news/stock/12084200"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-06-27"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202606261023386380",
+      "date": "2026-06-26",
+      "company": "미래에셋증권",
+      "title": "금투협, 하반기 최종호가수익률 보고회사에 리딩·흥국·유안타 신규 선정",
+      "oneLiner": "금투협의 최종호가수익률 보고회사 선정에서 미래에셋증권이 제외된 것은 채권시장 관련 보고·영업 활동에 영향이 있을 수 있음.",
+      "type": "규제",
+      "areas": [
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "금투협, 하반기 최종호가수익률 보고회사에 리딩·흥국·유안타 신규 선정",
+          "url": "https://www.fnnews.com/news/202606261023386380"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-06-27"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202606261136115428",
+      "date": "2026-06-26",
+      "company": "NH투자증권",
+      "title": "NH투자증권, 일본주식 1주·홍콩주식 시장가 주문 도입",
+      "oneLiner": "NH투자증권이 일본주식 1주 단위 시장가 주문 및 홍콩주식 시장가(자동지정가) 주문 서비스를 출시해 해외주식 트레이딩 접근성이 개선됨.",
+      "type": "출시",
+      "areas": [
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "NH투자증권, 일본주식 1주·홍콩주식 시장가 주문 도입",
+          "url": "https://www.fnnews.com/news/202606261136115428"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-06-27"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202606261351420483",
+      "date": "2026-06-26",
+      "company": "하나증권",
+      "title": "하나證, 전주금융센터 새롭게 이전 개점 \"전북 지역 금융 거점 도약\"",
+      "oneLiner": "하나증권이 전주지점을 전주금융센터로 이전·개점하고 명칭을 변경해 지역 기반 WM 거점 기능을 강화함.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "하나證, 전주금융센터 새롭게 이전 개점 \"전북 지역 금융 거점 도약\"",
+          "url": "https://www.fnnews.com/news/202606261351420483"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-27"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202606261630425880",
+      "date": "2026-06-26",
+      "company": "KB증권",
+      "title": "KB증권, 1조원 유상증자…IMA·발행어음 '실탄' 확보",
+      "oneLiner": "KB증권이 1조원 규모 유상증자를 결정해 발행어음·IMA 등 사업 확장과 IB 역량 강화를 위한 자본을 확보한 점은 증권사 자본구조·영업전략 변화로 분류함.",
+      "type": "기타",
+      "areas": [
+        "WM",
+        "브로커리지",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "KB증권, 1조원 유상증자…IMA·발행어음 '실탄' 확보",
+          "url": "https://www.fnnews.com/news/202606261630425880"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-06-27"
+    },
+    {
       "id": "news:KB증권:https://www.fnnews.com/news/202606250754214794",
       "date": "2026-06-25",
       "company": "KB증권",
@@ -114,7 +300,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-06-26"
+      "updatedAt": "2026-06-27"
     },
     {
       "id": "202c1f5b55d63fe314fc16529976f99202113669",
@@ -137,7 +323,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-06-26"
+      "updatedAt": "2026-06-27"
     },
     {
       "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12081881",
