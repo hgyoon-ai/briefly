@@ -1,106 +1,12 @@
 {
-  "date": "2026-06-27",
+  "date": "2026-06-28",
   "highlights": {
-    "bullets": [
-      "핵심: 온세미가 시냅틱스를 인수해 엣지 AI용 컴퓨트 역량을 확보했다.",
-      "핵심: PQC 하드웨어 가속기를 탑재한 보안 칩 두 종이 발표되어 장치 수준 대응이 가능해졌다.",
-      "트렌드: 기업들이 로드맵을 중심으로 기술·제품 통합 전략을 강조하고 있다."
-    ],
-    "topTopics": [
-      "Roadmap",
-      "Competition",
-      "Investment",
-      "Manufacturing"
-    ],
+    "bullets": [],
+    "topTopics": [],
     "stats": {
-      "collected": 5,
-      "deduped": 5
+      "collected": 0,
+      "deduped": 0
     }
   },
-  "cards": [
-    {
-      "id": "semiconductor_0001",
-      "tab": "semiconductor",
-      "publishedAt": "2026-06-26T23:41:31+09:00",
-      "source": "EE Times",
-      "title": "Synaptics Acquisition by Onsemi Affirms Edge AI Is for Real",
-      "summary": [
-        "온세미가 시냅틱스를 인수하며 엣지 AI용 AI-네이티브 컴퓨트 자산을 확보했다.",
-        "전력·센서 전문 역량과 컴퓨트 통합으로 물리적 엣지 AI 상용화가 가속될 것으로 보인다.",
-        "이번 거래는 제품 로드맵과 경쟁구도에 실질적 변화를 예고한다."
-      ],
-      "whyItMatters": "전력·센서와 AI 컴퓨트의 결합이 엣지 AI 제품화와 경쟁 우위 확보를 빠르게 촉진하기 때문에 중요하다.",
-      "topics": [
-        "Investment",
-        "Competition",
-        "Roadmap"
-      ],
-      "status": "ONGOING",
-      "hash": "cdbcc865d7d7421911ef04ffbc17d88e1779e3ec125d4de4c646a09ee725d86b",
-      "url": "https://www.eetimes.com/synaptics-acquisition-by-onsemi-affirms-edge-ai-is-for-real/"
-    },
-    {
-      "id": "semiconductor_0002",
-      "tab": "semiconductor",
-      "publishedAt": "2026-06-26T17:38:45+09:00",
-      "source": "EE Times",
-      "title": "The PQC Silicon Is Here Today for Tomorrow’s Quantum Threats",
-      "summary": [
-        "양자내성암호(PQC)를 지원하는 하드웨어 가속기를 탑재한 두 종류의 보안 칩이 발표되었다.",
-        "이들 칩은 장치 수준에서 미래의 양자계산 공격에 대비해 암호 처리 성능과 전력 효율을 개선한다.",
-        "제품화로 보안 생태계와 반도체 시장에서 경쟁과 채택 논의가 촉발될 전망이다."
-      ],
-      "whyItMatters": "하드웨어 수준의 PQC 지원은 소프트웨어 대비 성능·전력·보안 측면에서 즉각적이고 광범위한 대응을 가능하게 하므로 중요하다.",
-      "topics": [
-        "Manufacturing",
-        "Competition",
-        "Roadmap"
-      ],
-      "status": "NEW",
-      "hash": "5f1eb9099a11564299768aa8ee0fed45a85f9060768d73a584c38e78af951761",
-      "url": "https://www.eetimes.com/the-pqc-silicon-is-here-today-for-tomorrows-quantum-threats/"
-    },
-    {
-      "id": "semiconductor_0003",
-      "tab": "semiconductor",
-      "publishedAt": "2026-06-27T01:25:00+09:00",
-      "source": "Samsung Newsroom",
-      "title": "Samsung Electronics Releases 2026 Sustainability Report, Expanding Water Replenishment Efforts",
-      "summary": [
-        "삼성전자가 2026 지속가능경영보고서를 공개하며 환경·사회·지배구조(ESG) 전략과 성과를 제시했다.",
-        "보고서에서 특히 물 보전 및 보충 노력을 확대하고 제조 공정의 수자원 관리를 강화한 점을 강조했다.",
-        "이는 AI 발전과 지정학적 위험 속에서 지속가능한 성장 기반을 마련하려는 회사의 대응 전략을 반영한다."
-      ],
-      "whyItMatters": "이번 보고서는 수자원 관리 강화를 통해 운영 리스크를 낮추고 ESG 신뢰도를 높여 장기적 경쟁력 확보에 기여하기 때문에 중요하다.",
-      "topics": [
-        "Manufacturing",
-        "Policy",
-        "Roadmap"
-      ],
-      "status": "ONGOING",
-      "hash": "a3d2ddcb4dde945095e02cb8ec66f134b4540a86f194a5fd32e5cbdda85b093d",
-      "url": "https://news.samsung.com/global/samsung-electronics-releases-2026-sustainability-report-expanding-water-replenishment-efforts"
-    },
-    {
-      "id": "semiconductor_0004",
-      "tab": "semiconductor",
-      "publishedAt": "2026-06-26T17:00:00+09:00",
-      "source": "Samsung Newsroom",
-      "title": "[Interview] Patterns That Hold Memory: Athene Galiciadis x Samsung Art Store",
-      "summary": [
-        "아티스트 아테네 갈리시아디스는 반복적 형태와 층층의 색채로 기억을 담는 작업을 선보인다.",
-        "회화·조각·설치 전반에서 격자·곡선·색면을 이용한 패턴과 재료 실험을 강조한다.",
-        "이번 인터뷰는 삼성 아트 스토어와의 협업을 통해 디지털 전시 및 콘텐츠 확장 가능성을 보여준다."
-      ],
-      "whyItMatters": "삼성 아트 스토어의 큐레이션 협업이 디지털 콘텐츠 차별화와 브랜드 문화 가치를 강화하기 때문이다.",
-      "topics": [
-        "Roadmap",
-        "Demand",
-        "Competition"
-      ],
-      "status": "NEW",
-      "hash": "da888edead6b5cef0de262c8bd43a2fc3f5f7c471ef7f87bf831b453c6001a30",
-      "url": "https://news.samsung.com/global/interview-patterns-that-hold-memory-athene-galiciadis-x-samsung-art-store"
-    }
-  ]
+  "cards": []
 }
