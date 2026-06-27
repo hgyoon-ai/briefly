@@ -2,6 +2,81 @@
   "month": "2026-06",
   "events": [
     {
+      "id": "news:토스증권:https://www.fnnews.com/news/202606271025146491",
+      "date": "2026-06-27",
+      "company": "토스증권",
+      "title": "\"앤트로픽 '미토스5' 100여개 기업·기관 접근 허용\"",
+      "oneLiner": "미국 정부가 앤트로픽의 최상위 AI 모델 '클로드 미토스5'에 대한 접근 제한을 완화해 100여개 신뢰할 수 있는 기업·기관에 제공을 허용했다. 이 조치는 미 상무부의 수출 통제 완화로, 외국인 직원 등 일부 접근 권한에 변화가 생긴다.",
+      "type": "규제",
+      "areas": [
+        "리스크",
+        "상담",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "\"앤트로픽 '미토스5' 100여개 기업·기관 접근 허용\"",
+          "url": "https://www.fnnews.com/news/202606271025146491"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-28"
+    },
+    {
+      "id": "news:토스증권:http://www.boannews.com/media/view.asp?idx=144351&kind=&sub_kind=",
+      "date": "2026-06-27",
+      "company": "토스증권",
+      "title": "美, 자국 100여개 기업 한정 ‘미토스5’ 접근 허용",
+      "oneLiner": "트럼프 행정부의 발표 이후 미국 정부가 앤트로픽의 '미토스5' 사용 제한을 자국 기업 100여곳으로 국한해 접근을 허용했다. 한국 기업들은 여전히 일부 접근에서 제외될 가능성이 있어 영향 범위를 검토할 필요가 있다.",
+      "type": "규제",
+      "areas": [
+        "리스크",
+        "상담",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "보안뉴스",
+          "title": "美, 자국 100여개 기업 한정 ‘미토스5’ 접근 허용",
+          "url": "http://www.boannews.com/media/view.asp?idx=144351&kind=&sub_kind="
+        }
+      ],
+      "tags": [],
+      "confidence": 0.88,
+      "updatedAt": "2026-06-28"
+    },
+    {
+      "id": "news:토스증권:http://www.boannews.com/media/view.asp?idx=144350&kind=&sub_kind=",
+      "date": "2026-06-27",
+      "company": "토스증권",
+      "title": "美, ‘미토스5’ 접근 제한 완화... 100여개 기업 허용",
+      "oneLiner": "미 상무부가 앤트로픽의 '클로드 미토스5'를 신뢰할 수 있는 파트너 100여곳에 제공하는 것을 허가하며 접근 제한을 완화했다. 해당 조치는 글로벌 AI 서비스 제공과 수출 통제 정책에 직접적인 영향을 미친다.",
+      "type": "규제",
+      "areas": [
+        "리스크",
+        "상담",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "보안뉴스",
+          "title": "美, ‘미토스5’ 접근 제한 완화... 100여개 기업 허용",
+          "url": "http://www.boannews.com/media/view.asp?idx=144350&kind=&sub_kind="
+        }
+      ],
+      "tags": [],
+      "confidence": 0.88,
+      "updatedAt": "2026-06-28"
+    },
+    {
       "id": "news:하나증권:https://www.fnnews.com/news/202606261043229758",
       "date": "2026-06-26",
       "company": "하나증권",
