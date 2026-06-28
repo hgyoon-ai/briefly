@@ -2,6 +2,123 @@
   "month": "2026-06",
   "events": [
     {
+      "id": "news:하나증권:https://www.mk.co.kr/news/stock/12085193",
+      "date": "2026-06-29",
+      "company": "하나증권",
+      "title": "“현대로템, 방산 5사 중 가장 낮은 밸류에이션…2분기 실적 기대치 부합”",
+      "oneLiner": "하나증권은 현대로템에 대해 국내 방산 5사 중 가장 낮은 밸류에이션을 받고 있고 2분기 실적이 컨센서스에 부합할 것으로 전망하며 목표주가를 제시했습니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“현대로템, 방산 5사 중 가장 낮은 밸류에이션…2분기 실적 기대치 부합”",
+          "url": "https://www.mk.co.kr/news/stock/12085193"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-06-29"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12085078",
+      "date": "2026-06-28",
+      "company": "미래에셋증권",
+      "title": "'스페이스X' 이름 단 공모펀드 … 미래에셋운용, 내달 첫 출시",
+      "oneLiner": "미래에셋자산운용이 ‘스페이스X’ 명칭을 포함한 공모펀드를 내달 첫 출시할 예정입니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "'스페이스X' 이름 단 공모펀드 … 미래에셋운용, 내달 첫 출시",
+          "url": "https://www.mk.co.kr/news/stock/12085078"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-29"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12085032",
+      "date": "2026-06-28",
+      "company": "미래에셋증권",
+      "title": "[단독] “이건 강심장들이 좋아하겠네”…스페이스X 이름 단 펀드 나온다",
+      "oneLiner": "미래에셋이 ‘스페이스X테슬라 밸류체인’ 등 스페이스X 이름을 단 공모펀드를 출시할 계획이라고 단독 보도되었습니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[단독] “이건 강심장들이 좋아하겠네”…스페이스X 이름 단 펀드 나온다",
+          "url": "https://www.mk.co.kr/news/stock/12085032"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-06-29"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202606281831493434",
+      "date": "2026-06-28",
+      "company": "한국투자증권",
+      "title": "\"코스닥 오세요\"… 거래소, 美서 해외 바이오기업 유치전",
+      "oneLiner": "한국거래소가 미국에서 코스닥 상장 유치 설명회를 개최했으며 삼성증권·유진투자증권·한국투자파트너스 등 IPO 전문기관이 참여해 국내 자본시장과 상장 절차를 홍보했습니다.",
+      "type": "기타",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"코스닥 오세요\"… 거래소, 美서 해외 바이오기업 유치전",
+          "url": "https://www.fnnews.com/news/202606281831493434"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-06-29"
+    },
+    {
+      "id": "9102ca1a9103b0325df98d20e82b93a2472ef0d3",
+      "date": "2026-06-27",
+      "company": "한국투자증권",
+      "title": "한국투자증권 iOS 앱 업데이트 v2.25.00",
+      "oneLiner": "한국투자증권 iOS 앱 업데이트로 ISA 계좌관리 개편, 자녀계좌 메뉴 추가, 글로벌 리서치 음성 지원 및 해외 홈 실시간 금시세 확인 기능이 추가되었습니다.",
+      "type": "출시",
+      "areas": [
+        "WM",
+        "브로커리지",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "app_store",
+      "sources": [
+        {
+          "source": "App Store",
+          "title": "한국투자증권 iOS 앱 업데이트 v2.25.00",
+          "url": "https://apps.apple.com/kr/app/%ED%95%9C%ED%88%AC-%ED%95%9C%EA%B5%AD%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C-mts-%ED%88%AC%EC%9E%90-%EC%A6%9D%EA%B6%8C-%ED%95%B4%EC%99%B8%EC%A3%BC%EC%8B%9D-%EC%A3%BC%EC%8B%9D%EC%96%B4%ED%94%8C/id1621986905?uo=4"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-06-29"
+    },
+    {
       "id": "94f5636d18c53e971ad68201878636cb29195f21",
       "date": "2026-06-26",
       "company": "메리츠증권",
@@ -45,7 +162,7 @@
       ],
       "tags": [],
       "confidence": 0.85,
-      "updatedAt": "2026-06-28"
+      "updatedAt": "2026-06-29"
     },
     {
       "id": "news:메리츠증권:https://www.mk.co.kr/news/stock/12084224",
@@ -68,7 +185,7 @@
       ],
       "tags": [],
       "confidence": 0.7,
-      "updatedAt": "2026-06-28"
+      "updatedAt": "2026-06-29"
     },
     {
       "id": "news:KB증권:https://www.mk.co.kr/news/stock/12084200",
@@ -91,7 +208,7 @@
       ],
       "tags": [],
       "confidence": 0.8,
-      "updatedAt": "2026-06-28"
+      "updatedAt": "2026-06-29"
     },
     {
       "id": "news:미래에셋증권:https://www.fnnews.com/news/202606261023386380",
