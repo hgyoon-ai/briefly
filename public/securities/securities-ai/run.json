@@ -1,14 +1,14 @@
 {
-  "id": "2026-06-29T08:02:09.728139+09:00",
-  "ts": "2026-06-29T08:02:09.728139+09:00",
+  "id": "2026-07-01T08:11:52.385015+09:00",
+  "ts": "2026-07-01T08:11:52.385015+09:00",
   "timezone": "Asia/Seoul",
   "dataset": "securities-ai",
   "range": {
     "mode": "lookback",
     "lookbackDays": 3,
     "month": null,
-    "start": "2026-06-26T08:02:09.728139+09:00",
-    "end": "2026-06-29T08:02:09.728139+09:00"
+    "start": "2026-06-28T08:11:52.385015+09:00",
+    "end": "2026-07-01T08:11:52.385015+09:00"
   },
   "sources": {
     "app_store": {
@@ -16,38 +16,48 @@
       "fetchedOk": 10,
       "failed": 0
     },
+    "dart": {
+      "companiesTotal": 10,
+      "matched": 8,
+      "unmatched": 2,
+      "filters": {
+        "pblntf_ty": [
+          "B",
+          "E",
+          "I"
+        ],
+        "last_reprt_at": "Y"
+      },
+      "disclosuresFetched": 6
+    },
     "news": {
       "rssLimit": 50,
-      "entriesFetched": 145,
+      "entriesFetched": 185,
       "bySource": {
         "한국경제(증권)": 50,
         "매일경제(증권)": 50,
-        "파이낸셜뉴스(증권)": 22,
-        "파이낸셜뉴스(IT)": 13,
+        "파이낸셜뉴스(증권)": 50,
+        "파이낸셜뉴스(IT)": 25,
         "보안뉴스": 10
       }
     }
   },
   "filters": {
-    "rawItems": 15,
-    "deduped": 15,
-    "keywordPassed": 2,
-    "candidates": 2
+    "rawItems": 42,
+    "deduped": 42,
+    "keywordPassed": 11,
+    "candidates": 11
   },
   "llm": {
-    "cacheHit": 2,
-    "sent": 0
+    "cacheHit": 0,
+    "sent": 11
   },
   "output": {
-    "kept": 2,
+    "kept": 10,
     "monthsUpdated": [
-      "2026-06"
+      "2026-06",
+      "2026-07"
     ]
   },
-  "errors": [
-    {
-      "source": "dart",
-      "message": "ConnectTimeout(MaxRetryError(\"HTTPSConnectionPool(host='opendart.fss.or.kr', port=443): Max retries exceeded with url: /api/corpCode.xml?crtfc_key=7527e1cf585cfcb671d639295286f55452cd6aa3 (Caused by ConnectTimeoutError(<HTTPSConnection(host='opendart.fss.or.kr', port=443) at 0x7fdae9b31a10>, 'Connection to opendart.fss.or.kr timed out. (connect timeout=30)'))\"))"
-    }
-  ]
+  "errors": []
 }

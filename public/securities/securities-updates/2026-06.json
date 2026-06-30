@@ -2,6 +2,330 @@
   "month": "2026-06",
   "events": [
     {
+      "id": "6755de0ca49234ed973cf7edee10edd889a72357",
+      "date": "2026-06-30",
+      "company": "NH투자증권",
+      "title": "사외이사의선임ㆍ해임또는중도퇴임에관한신고",
+      "oneLiner": "NH투자증권의 사외이사 선임·해임 관련 신고 공시로 이사회 구성 및 지배구조에 직접적 영향을 미칠 수 있습니다.",
+      "type": "규제",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "사외이사의선임ㆍ해임또는중도퇴임에관한신고",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260630000220"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-01"
+    },
+    {
+      "id": "0e19f43c104d522873fe0ae350f6ba836dc728fb",
+      "date": "2026-06-30",
+      "company": "NH투자증권",
+      "title": "임시주주총회결과              ",
+      "oneLiner": "임시주주총회 결과 공시로 주요 의사결정(임원 선임 등)과 회사 운영에 영향을 주는 사안입니다.",
+      "type": "규제",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "임시주주총회결과              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260630800232"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-01"
+    },
+    {
+      "id": "43a6f0fed46b322e63ca4226f78092b9fe1b04f4",
+      "date": "2026-06-30",
+      "company": "NH투자증권",
+      "title": "대표이사(대표집행임원)변경(안내공시)              ",
+      "oneLiner": "대표이사(대표집행임원) 변경 안내 공시로 경영진 교체에 따른 운영·의사결정 구조 변화가 발생합니다.",
+      "type": "규제",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "대표이사(대표집행임원)변경(안내공시)              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260630800235"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-07-01"
+    },
+    {
+      "id": "3928946158a2ae25e451ade5dc6b83ee6f7b2b04",
+      "date": "2026-06-30",
+      "company": "키움증권",
+      "title": "자기주식취득결과보고서",
+      "oneLiner": "키움증권의 자기주식 취득 결과 공시로 자본구조 및 주주환원정책과 관련된 실질적 변화가 있습니다.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "자기주식취득결과보고서",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260630000793"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-01"
+    },
+    {
+      "id": "news:한국투자증권:https://www.hankyung.com/article/202606306708i",
+      "date": "2026-06-30",
+      "company": "한국투자증권",
+      "title": "한국투자증권 \"모건스탠리운용 금융상품 국내 리테일 출시\"",
+      "oneLiner": "한국투자증권이 모건스탠리운용과 협력해 금융상품의 국내 리테일 출시를 추진하는 제휴를 발표했습니다.",
+      "type": "제휴",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "한국투자증권 \"모건스탠리운용 금융상품 국내 리테일 출시\"",
+          "url": "https://www.hankyung.com/article/202606306708i"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-01"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12087038",
+      "date": "2026-06-30",
+      "company": "한국투자증권",
+      "title": "한국투자증권, 모간스탠리운용과 협력 추진",
+      "oneLiner": "한국투자증권이 모간스탠리운용과의 협력을 추진해 국내 공모펀드 출시 등 상품 유통 확대를 계획하고 있습니다.",
+      "type": "제휴",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한국투자증권, 모간스탠리운용과 협력 추진",
+          "url": "https://www.mk.co.kr/news/stock/12087038"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.86,
+      "updatedAt": "2026-07-01"
+    },
+    {
+      "id": "news:NH투자증권:https://www.mk.co.kr/news/stock/12086959",
+      "date": "2026-06-30",
+      "company": "NH투자증권",
+      "title": "NH證 신재욱·배광수 '투톱' 출범",
+      "oneLiner": "NH투자증권이 임시 주주총회를 통해 신재욱·배광수 각자대표를 선임하며 단독대표에서 각자대표 체제로 경영구조를 변경했습니다.",
+      "type": "규제",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "NH證 신재욱·배광수 '투톱' 출범",
+          "url": "https://www.mk.co.kr/news/stock/12086959"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-07-01"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12086573",
+      "date": "2026-06-30",
+      "company": "한국투자증권",
+      "title": "한국투자증권, 모간스탠리운용과 맞손…대표 펀드 국내 첫 출시 추진",
+      "oneLiner": "한국투자증권이 모간스탠리운용과 협력해 대표 펀드를 국내에 첫 출시하는 등 전략적 제휴를 확대하고 있습니다.",
+      "type": "제휴",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한국투자증권, 모간스탠리운용과 맞손…대표 펀드 국내 첫 출시 추진",
+          "url": "https://www.mk.co.kr/news/stock/12086573"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-07-01"
+    },
+    {
+      "id": "news:키움증권:https://www.mk.co.kr/news/stock/12086572",
+      "date": "2026-06-30",
+      "company": "키움증권",
+      "title": "키움증권, 퇴직연금 출시 기념 발행어음 특판…연 4.0% 금리",
+      "oneLiner": "키움증권이 퇴직연금 사업 출시를 기념해 연 4.0% 금리의 발행어음 특판을 내놨다. 퇴직연금 관련 신규 상품 출시로 판단된다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "키움증권, 퇴직연금 출시 기념 발행어음 특판…연 4.0% 금리",
+          "url": "https://www.mk.co.kr/news/stock/12086572"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-01"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202606301032497669",
+      "date": "2026-06-30",
+      "company": "NH투자증권",
+      "title": "NH투자증권, 신재욱·배광수 각자대표 체제 본격화...\"시너지 경영 강화\"",
+      "oneLiner": "NH투자증권이 신재욱·배광수 각자대표 체제를 공식 출범시키며 경영체제를 변경했다. 사업별 전문성·책임경영 강화 등 조직·운영 변화로 해석된다.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "NH투자증권, 신재욱·배광수 각자대표 체제 본격화...\"시너지 경영 강화\"",
+          "url": "https://www.fnnews.com/news/202606301032497669"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-07-01"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202606301456358676",
+      "date": "2026-06-30",
+      "company": "한국투자증권",
+      "title": "한투증권, 모간스탠리운용과 협력 추진…국내에 상품 공급",
+      "oneLiner": "한국투자증권이 모간스탠리운용과 협력을 추진해 모간스탠리의 펀드·금융상품을 국내에 공급하기로 했다. 글로벌 운용사와의 제휴로 상품 라인업 확대가 예상된다.",
+      "type": "제휴",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투증권, 모간스탠리운용과 협력 추진…국내에 상품 공급",
+          "url": "https://www.fnnews.com/news/202606301456358676"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.88,
+      "updatedAt": "2026-07-01"
+    },
+    {
+      "id": "news:키움증권:https://www.fnnews.com/news/202606301714299240",
+      "date": "2026-06-30",
+      "company": "키움증권",
+      "title": "키움증권, 전산 오류로 일부 투자자 주식 강제청산",
+      "oneLiner": "키움증권 전산 처리 지연으로 일부 고객 계좌에서 증거금 미반영이 발생해 강제 반대매매가 집행되는 오류가 발생했다. 회사는 복구 및 보상 조치를 진행 중이다.",
+      "type": "시스템",
+      "areas": [
+        "리스크",
+        "트레이딩",
+        "상담"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "키움증권, 전산 오류로 일부 투자자 주식 강제청산",
+          "url": "https://www.fnnews.com/news/202606301714299240"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-07-01"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202606301811321852",
+      "date": "2026-06-30",
+      "company": "NH투자증권",
+      "title": "NH투증, 신사업 책임경영 강화…신재욱·배광수 투톱체제로",
+      "oneLiner": "NH투자증권의 신재욱·배광수 각자대표 체제 전환이 공식화됐다. IMA 등 신사업 추진을 위한 책임경영 강화 의도로 보인다.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "NH투증, 신사업 책임경영 강화…신재욱·배광수 투톱체제로",
+          "url": "https://www.fnnews.com/news/202606301811321852"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-07-01"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202606301813099547",
+      "date": "2026-06-30",
+      "company": "한국투자증권",
+      "title": "한투證, 모간스탠리 대표 펀드 판다",
+      "oneLiner": "한국투자증권이 모간스탠리의 대표 펀드를 국내에 판매하기로 하고 양사 협력 방안을 논의했다. 국내 유통을 위한 상품공급 제휴 성격이다.",
+      "type": "제휴",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투證, 모간스탠리 대표 펀드 판다",
+          "url": "https://www.fnnews.com/news/202606301813099547"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.87,
+      "updatedAt": "2026-07-01"
+    },
+    {
       "id": "news:하나증권:https://www.mk.co.kr/news/stock/12085193",
       "date": "2026-06-29",
       "company": "하나증권",
@@ -23,6 +347,53 @@
       "tags": [],
       "confidence": 0.8,
       "updatedAt": "2026-06-29"
+    },
+    {
+      "id": "e60fc61ce89a4edb227643d539274a8d2e0a503e",
+      "date": "2026-06-29",
+      "company": "삼성증권",
+      "title": "삼성증권 iOS 앱 업데이트 v3.1.5",
+      "oneLiner": "하단 MY즐겨찾기 UI 업그레이드 및 해외·국내 선물옵션 등 즐겨찾기 순서 변경 기능이 추가되어 사용자 기능 변화가 있습니다.",
+      "type": "시스템",
+      "areas": [
+        "트레이딩",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "app_store",
+      "sources": [
+        {
+          "source": "App Store",
+          "title": "삼성증권 iOS 앱 업데이트 v3.1.5",
+          "url": "https://apps.apple.com/kr/app/%EC%82%BC%EC%84%B1%EC%A6%9D%EA%B6%8C-mpop/id1150231646?uo=4"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-07-01"
+    },
+    {
+      "id": "a71927351a56df269eb8c6ac0fbedc3e33ac82af",
+      "date": "2026-06-29",
+      "company": "키움증권",
+      "title": "풍문또는보도에대한해명(미확정)              ",
+      "oneLiner": "풍문·보도에 대한 해명 공시(미확정)는 회사의 대응 공시로서 시장·명예 리스크 관리 관점에서 중요합니다.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "풍문또는보도에대한해명(미확정)              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260629800660"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-07-01"
     },
     {
       "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12085078",
