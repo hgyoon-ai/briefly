@@ -23,7 +23,126 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-07-02"
+      "updatedAt": "2026-07-03"
+    },
+    {
+      "id": "news:키움증권:https://www.hankyung.com/article/2026070225256",
+      "date": "2026-07-02",
+      "company": "키움증권",
+      "title": "금감원, 신한·키움증권 현장검사…JTBC 회사채 불완전판매 여부 점검",
+      "oneLiner": "금감원이 JTBC 회사채 불완전판매 여부 관련해 신한투자증권과 키움증권에 대한 현장검사에 착수했다. 판매·고지 책임 및 내부통제 관련 규제리스크가 확대될 가능성이 있다.",
+      "type": "규제",
+      "areas": [
+        "리스크",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "금감원, 신한·키움증권 현장검사…JTBC 회사채 불완전판매 여부 점검",
+          "url": "https://www.hankyung.com/article/2026070225256"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-03"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12088529",
+      "date": "2026-07-02",
+      "company": "미래에셋증권",
+      "title": "미래에셋증권, 변동성 확대에 국내주식 증거금률 40%로 상향조정",
+      "oneLiner": "미래에셋증권이 국내주식 증거금률을 40%로 상향조정했다는 공지로, 거래·마진 설정이 변경되어 고객 거래조건과 리스크 관리에 직접적 영향이 있다. 트레이딩·계좌 운영 관련 시스템·정책 업데이트로 분류된다.",
+      "type": "시스템",
+      "areas": [
+        "트레이딩",
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "미래에셋증권, 변동성 확대에 국내주식 증거금률 40%로 상향조정",
+          "url": "https://www.mk.co.kr/news/stock/12088529"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-03"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202607021005287565",
+      "date": "2026-07-02",
+      "company": "KB증권",
+      "title": "KB증권, 소비자보호의 날 맞아 보이스피싱 예방 교육",
+      "oneLiner": "KB증권이 보이스피싱 예방 교육과 임직원 대상 불완전판매 예방 교육을 시행해 소비자보호·내부통제 강화 활동을 진행했다. 소비자 보호 및 판매윤리 관련 운영 조치로 모니터링 가치가 있다.",
+      "type": "기타",
+      "areas": [
+        "리스크",
+        "상담"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "KB증권, 소비자보호의 날 맞아 보이스피싱 예방 교육",
+          "url": "https://www.fnnews.com/news/202607021005287565"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-07-03"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202607021406084106",
+      "date": "2026-07-02",
+      "company": "한국투자증권",
+      "title": "우리투자증권, 6000억원 인수금융 주선 완료…출범 후 최대 IB 딜 성사",
+      "oneLiner": "우리투자증권이 출범 이후 최대 규모인 6000억원의 인수금융 주선을 완료하며 IB 부문 역량을 과시했다. 대형 인수금융 딜 성사로 영업·재무 전략에 영향이 있을 것으로 보인다.",
+      "type": "기타",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "우리투자증권, 6000억원 인수금융 주선 완료…출범 후 최대 IB 딜 성사",
+          "url": "https://www.fnnews.com/news/202607021406084106"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-07-03"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202607021541170371",
+      "date": "2026-07-02",
+      "company": "한국투자증권",
+      "title": "'JTBC 회사채 불완전판매 여부' 금감원, 신한·키움證 현장검사",
+      "oneLiner": "금감원이 JTBC 회사채 불완전판매 여부 점검을 위해 신한투자증권과 키움증권에 대한 현장검사를 진행하고 있다. 발행·판매 관련 적정성 및 투자자 고지 여부 등이 중점 점검 대상이다.",
+      "type": "규제",
+      "areas": [
+        "리스크",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "'JTBC 회사채 불완전판매 여부' 금감원, 신한·키움證 현장검사",
+          "url": "https://www.fnnews.com/news/202607021541170371"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-07-03"
     },
     {
       "id": "news:한국투자증권:https://www.hankyung.com/article/2026070193526",

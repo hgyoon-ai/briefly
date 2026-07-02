@@ -2,6 +2,192 @@
   "month": "2026-07",
   "events": [
     {
+      "id": "news:KB증권:https://www.mk.co.kr/news/stock/12089538",
+      "date": "2026-07-03",
+      "company": "KB증권",
+      "title": "“SK하이닉스, 하반기부터 메모리 확보 경쟁 본격화” 목표가↑",
+      "oneLiner": "KB증권은 SK하이닉스에 대해 AI 투자 가속으로 메모리 수요가 장기화될 것으로 보고 목표주가를 상향했다는 리포트 내용.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“SK하이닉스, 하반기부터 메모리 확보 경쟁 본격화” 목표가↑",
+          "url": "https://www.mk.co.kr/news/stock/12089538"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-03"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12088805",
+      "date": "2026-07-02",
+      "company": "미래에셋증권",
+      "title": "“AI 랠리는 끝나지 않았다…코스닥·금융주도 눈여겨볼 때”",
+      "oneLiner": "미래에셋증권은 AI 관련 랠리가 지속될 것으로 보고 코스닥·금융주 등 투자 포인트를 제시하는 행사성 리서치/코멘터리를 냈다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“AI 랠리는 끝나지 않았다…코스닥·금융주도 눈여겨볼 때”",
+          "url": "https://www.mk.co.kr/news/stock/12088805"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-07-03"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202607021354588511",
+      "date": "2026-07-02",
+      "company": "미래에셋증권",
+      "title": "미래에셋증권, 증거금률 상향 조정 \"변동성 확대에 선제적 리스크 관리\"",
+      "oneLiner": "미래에셋증권이 증거금률을 상향 조정하는 등 변동성 확대에 대응하기 위한 선제적 리스크 관리 조치를 단행했다.",
+      "type": "시스템",
+      "areas": [
+        "리스크",
+        "브로커리지",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋증권, 증거금률 상향 조정 \"변동성 확대에 선제적 리스크 관리\"",
+          "url": "https://www.fnnews.com/news/202607021354588511"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-07-03"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202607021401079507",
+      "date": "2026-07-02",
+      "company": "한국투자증권",
+      "title": "\"AI 투자는 멈출 수 없는 흐름…금리·물가가 변수\"[fn이사람]",
+      "oneLiner": "증권 리서치 인사가 AI 투자는 지속될 것이며 변수는 금리·물가라고 진단하는 코멘터리성 기사다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"AI 투자는 멈출 수 없는 흐름…금리·물가가 변수\"[fn이사람]",
+          "url": "https://www.fnnews.com/news/202607021401079507"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-07-03"
+    },
+    {
+      "id": "news:삼성증권:https://www.fnnews.com/news/202607021426163449",
+      "date": "2026-07-02",
+      "company": "삼성증권",
+      "title": "\"글로벌 자산관리 플랫폼 구축\"…삼성증권, 싱가포르 DBS와 맞손",
+      "oneLiner": "삼성증권이 DBS와 글로벌 자산관리 플랫폼 구축을 위한 MOU를 체결하며 디지털·AI 기반 WM 경쟁력 강화를 추진한다.",
+      "type": "제휴",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"글로벌 자산관리 플랫폼 구축\"…삼성증권, 싱가포르 DBS와 맞손",
+          "url": "https://www.fnnews.com/news/202607021426163449"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-03"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202607021031587442",
+      "date": "2026-07-02",
+      "company": "한국투자증권",
+      "title": "트웰브랩스, 시리즈B 1500억 원 유치…글로벌 영상 AI 공략 속도",
+      "oneLiner": "영상 AI 스타트업 트웰브랩스가 시리즈B로 1500억원 규모 투자를 유치하며 글로벌 영상 AI 사업 확장에 속도를 낸다.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "트웰브랩스, 시리즈B 1500억 원 유치…글로벌 영상 AI 공략 속도",
+          "url": "https://www.fnnews.com/news/202607021031587442"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-07-03"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202607021040524201",
+      "date": "2026-07-02",
+      "company": "한국투자증권",
+      "title": "트웰브랩스, 1억달러 규모 시리즈B 투자 유치",
+      "oneLiner": "트웰브랩스가 1억달러 규모 시리즈B 투자를 완료해 영상 인지 시스템 등 AI 연구개발과 글로벌 진출 자금을 확보했다는 보도.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "트웰브랩스, 1억달러 규모 시리즈B 투자 유치",
+          "url": "https://www.fnnews.com/news/202607021040524201"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-07-03"
+    },
+    {
+      "id": "news:토스증권:https://www.fnnews.com/news/202607021834046549",
+      "date": "2026-07-02",
+      "company": "토스증권",
+      "title": "[기자수첩] 반가운 한국형 AI보안망",
+      "oneLiner": "기자수첩 형태의 기사로 AI가 국가 전략자산이 되면서 규제와 보안(예: 수출통제)이 강화되는 현상을 논평했다.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "[기자수첩] 반가운 한국형 AI보안망",
+          "url": "https://www.fnnews.com/news/202607021834046549"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-07-03"
+    },
+    {
       "id": "news:하나증권:https://www.mk.co.kr/news/stock/12087296",
       "date": "2026-07-01",
       "company": "하나증권",
