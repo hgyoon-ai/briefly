@@ -2,6 +2,29 @@
   "month": "2026-07",
   "events": [
     {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202607051815576445",
+      "date": "2026-07-05",
+      "company": "한국투자증권",
+      "title": "상관계수 미달… 한투운용, 액티브ETF 4종 폐지",
+      "oneLiner": "한국투자신탁운용의 액티브 ETF 4종이 비교지수와의 상관계수 미달로 상장폐지 예정으로, 투자상품 운용 및 규제 준수에 따른 실질적 변경 사항임.",
+      "type": "규제",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "상관계수 미달… 한투운용, 액티브ETF 4종 폐지",
+          "url": "https://www.fnnews.com/news/202607051815576445"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-07-06"
+    },
+    {
       "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12090101",
       "date": "2026-07-03",
       "company": "미래에셋증권",
@@ -23,7 +46,7 @@
       ],
       "tags": [],
       "confidence": 0.8,
-      "updatedAt": "2026-07-05"
+      "updatedAt": "2026-07-06"
     },
     {
       "id": "news:한국투자증권:https://www.fnnews.com/news/202607030919401480",
