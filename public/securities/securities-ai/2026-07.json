@@ -2,6 +2,213 @@
   "month": "2026-07",
   "events": [
     {
+      "id": "news:한국투자증권:https://www.hankyung.com/article/2026070671981",
+      "date": "2026-07-06",
+      "company": "한국투자증권",
+      "title": "한국투자증권, AI 밸류체인 담은 美테크 펀드…3000억 유입",
+      "oneLiner": "한국투자증권이 AI 밸류체인을 반영한 미국 테크 펀드에 3000억원이 유입되었다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "한국투자증권, AI 밸류체인 담은 美테크 펀드…3000억 유입",
+          "url": "https://www.hankyung.com/article/2026070671981"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-07-07"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202607060849064618",
+      "date": "2026-07-06",
+      "company": "NH투자증권",
+      "title": "\"정부 GPU 사업 본궤도 오르며 본격 수익개선\" NHN 목표주가↑-NH",
+      "oneLiner": "NH투자증권은 정부 GPU 사업의 본궤도 진입으로 NHN의 수익성 개선을 기대하며 목표주가를 상향했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"정부 GPU 사업 본궤도 오르며 본격 수익개선\" NHN 목표주가↑-NH",
+          "url": "https://www.fnnews.com/news/202607060849064618"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-07-07"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202607061027435639",
+      "date": "2026-07-06",
+      "company": "KB증권",
+      "title": "KB운용 반도체 펀드, 한 달 만에 1000억 몰려",
+      "oneLiner": "KB자산운용의 반도체 혼합형 펀드에 출시 한 달 만에 1000억원이 유입되었다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "KB운용 반도체 펀드, 한 달 만에 1000억 몰려",
+          "url": "https://www.fnnews.com/news/202607061027435639"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-07-07"
+    },
+    {
+      "id": "news:메리츠증권:https://www.fnnews.com/news/202607060950281175",
+      "date": "2026-07-06",
+      "company": "메리츠증권",
+      "title": "\"50만전자 눈앞, 성과급 떼고도 2분기 90조원 전망\"…삼성전기, 공급 부족에 목표가 300만원 [株토피아]",
+      "oneLiner": "메리츠증권 리포트는 AI 서버 수요 확대 등으로 삼성전자·삼성전기 등 반도체·부품 업종의 실적 개선을 전망했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"50만전자 눈앞, 성과급 떼고도 2분기 90조원 전망\"…삼성전기, 공급 부족에 목표가 300만원 [株토피아]",
+          "url": "https://www.fnnews.com/news/202607060950281175"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-07"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202607060855246986",
+      "date": "2026-07-06",
+      "company": "한국투자증권",
+      "title": "K-방산 핵심기업 담는다…한투운용 'ACE K방산TOP5+' ETF 상장",
+      "oneLiner": "한국투자신탁운용이 AI 방산 테마 점수를 반영한 'ACE K방산TOP5+' ETF를 신규 상장한다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "K-방산 핵심기업 담는다…한투운용 'ACE K방산TOP5+' ETF 상장",
+          "url": "https://www.fnnews.com/news/202607060855246986"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-07-07"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202607050950338933",
+      "date": "2026-07-06",
+      "company": "NH투자증권",
+      "title": "반도체 급락·반등에 출렁인 코스피…센터장들 \"실적이 추가 상승 열쇠\"",
+      "oneLiner": "증권사 리서치센터장들은 2·4분기 실적 시즌과 AI 투자 확대가 코스피 추가 상승의 핵심 동력이라고 진단했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "반도체 급락·반등에 출렁인 코스피…센터장들 \"실적이 추가 상승 열쇠\"",
+          "url": "https://www.fnnews.com/news/202607050950338933"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-07-07"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202607050156526936",
+      "date": "2026-07-06",
+      "company": "KB증권",
+      "title": "반도체 조정은 '속도조절'...\"3분기 최선호는 AI 인프라\"",
+      "oneLiner": "리서치센터장들은 반도체 조정은 단기적 속도조절로 보고 3분기 최선호 섹터로 AI 인프라를 제시했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "반도체 조정은 '속도조절'...\"3분기 최선호는 AI 인프라\"",
+          "url": "https://www.fnnews.com/news/202607050156526936"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-07-07"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202607061805128417",
+      "date": "2026-07-06",
+      "company": "KB증권",
+      "title": "\"하반기 증시도 반도체 중심 AI가 주도… 조선·금융업종도 주목해야\"",
+      "oneLiner": "증권사 리서치센터장들은 하반기 증시를 반도체 중심의 AI가 주도할 것으로 전망하며 조선·금융 업종도 주목할 필요가 있다고 밝혔다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"하반기 증시도 반도체 중심 AI가 주도… 조선·금융업종도 주목해야\"",
+          "url": "https://www.fnnews.com/news/202607061805128417"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-07-07"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202607061822176905",
+      "date": "2026-07-06",
+      "company": "한국투자증권",
+      "title": "출렁여도 3분기 1만피 낙관… \"실적이 상승 열쇠\"",
+      "oneLiner": "시장 변동성에도 증권사들은 3·4분기 실적 개선에 근거해 코스피의 추가 상승을 낙관하고 있다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "출렁여도 3분기 1만피 낙관… \"실적이 상승 열쇠\"",
+          "url": "https://www.fnnews.com/news/202607061822176905"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.65,
+      "updatedAt": "2026-07-07"
+    },
+    {
       "id": "news:신한투자증권:https://www.fnnews.com/news/202607051155237393",
       "date": "2026-07-05",
       "company": "신한투자증권",

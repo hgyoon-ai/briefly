@@ -2,6 +2,307 @@
   "month": "2026-07",
   "events": [
     {
+      "id": "fea5e7114afe154aa987e6521afa54e7cda38584",
+      "date": "2026-07-06",
+      "company": "NH투자증권",
+      "title": "최대주주등소유주식변동신고서              ",
+      "oneLiner": "NH투자증권의 최대주주 등 소유주식 변동 신고서 공시로 지분 구조 변화가 보고되었습니다. 지배구조·공시 관련 리스크로 모니터링 필요합니다.",
+      "type": "규제",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "최대주주등소유주식변동신고서              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260706800272"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-07"
+    },
+    {
+      "id": "news:삼성증권:https://www.hankyung.com/article/2026070671971",
+      "date": "2026-07-06",
+      "company": "삼성증권",
+      "title": "삼성증권, ISA 만기자금 연금 전환 땐 추가 세액공제",
+      "oneLiner": "삼성증권이 ISA 만기자금을 연금으로 전환할 경우 추가 세액공제 혜택을 안내했습니다. 고객 예·적금·연금 전환 상품 및 세제혜택 관련 변화로 WM영업에 영향이 있습니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "삼성증권, ISA 만기자금 연금 전환 땐 추가 세액공제",
+          "url": "https://www.hankyung.com/article/2026070671971"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-07-07"
+    },
+    {
+      "id": "news:NH투자증권:https://www.mk.co.kr/news/stock/12091254",
+      "date": "2026-07-06",
+      "company": "NH투자증권",
+      "title": "금감원, 운용사 의결권 행사 평가…NH아문디·VIP ‘모범’, 신한·우리·삼성액티브 ‘미흡’",
+      "oneLiner": "금감원이 자산운용사 의결권 행사와 공시를 점검해 등급·평가를 공개했습니다. 운용사·증권사 위탁운용·컴플라이언스 측면에서 규제·리스크 영향이 있습니다.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "금감원, 운용사 의결권 행사 평가…NH아문디·VIP ‘모범’, 신한·우리·삼성액티브 ‘미흡’",
+          "url": "https://www.mk.co.kr/news/stock/12091254"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-07-07"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12091062",
+      "date": "2026-07-06",
+      "company": "미래에셋증권",
+      "title": "미래에셋증권, 매도담보대출·미수 연체이자율 年7.95%로 인하",
+      "oneLiner": "미래에셋증권이 매도담보대출 및 현금미수금 연체이자율을 연 7.95%로 인하한다고 발표했습니다. 금융비용·대출상품 정책 변경으로 고객 비용과 영업 전략에 직접적 영향이 있습니다.",
+      "type": "출시",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "미래에셋증권, 매도담보대출·미수 연체이자율 年7.95%로 인하",
+          "url": "https://www.mk.co.kr/news/stock/12091062"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-07"
+    },
+    {
+      "id": "news:KB증권:https://www.mk.co.kr/news/stock/12091041",
+      "date": "2026-07-06",
+      "company": "KB증권",
+      "title": "KB증권, COMEX 금 선물 ETN 2종 동시 상장",
+      "oneLiner": "KB증권이 COMEX 금 선물을 기초로 한 ETN 2종을 신규 상장합니다. 신상품 출시로 상품 라인업과 브로커리지·트레이딩 관련 영업에 영향이 있습니다.",
+      "type": "출시",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "KB증권, COMEX 금 선물 ETN 2종 동시 상장",
+          "url": "https://www.mk.co.kr/news/stock/12091041"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-07"
+    },
+    {
+      "id": "news:메리츠증권:https://www.mk.co.kr/news/stock/12090876",
+      "date": "2026-07-06",
+      "company": "메리츠증권",
+      "title": "“삼성전자 2분기 영업익 90조 넘을 것”…목표가 ‘50만원’으로 높여 [오늘 나온 리포트]",
+      "oneLiner": "메리츠증권 리서치가 삼성전자 목표주가를 50만원으로 상향한 리포트를 배포했습니다. 증권사 리포트(리서치)로 투자자 안내 및 내부 리서치 활동에 해당합니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“삼성전자 2분기 영업익 90조 넘을 것”…목표가 ‘50만원’으로 높여 [오늘 나온 리포트]",
+          "url": "https://www.mk.co.kr/news/stock/12090876"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-07-07"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12090847",
+      "date": "2026-07-06",
+      "company": "한국투자증권",
+      "title": "“LG에너지솔루션, 목표가 내리지만 일단 사라”…이유는?",
+      "oneLiner": "증권사(기사 인용: 신한투자증권)의 LG에너지솔루션 관련 분석·목표가 변경 소식으로 리서치 결과 보도입니다. 리서치·투자전략 정보로 보관 대상입니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“LG에너지솔루션, 목표가 내리지만 일단 사라”…이유는?",
+          "url": "https://www.mk.co.kr/news/stock/12090847"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.5,
+      "updatedAt": "2026-07-07"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202607061011142158",
+      "date": "2026-07-06",
+      "company": "KB증권",
+      "title": "KB證, 양방향 금 선물 ETN 출격",
+      "oneLiner": "KB증권이 COMEX 금선물 기반의 레버리지·인버스 ETN 등 양방향 금 선물 ETN 2종을 신규 상장합니다. 파생형 ETN 출시로 투자상품 라인업 강화 영향이 있습니다.",
+      "type": "출시",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "KB證, 양방향 금 선물 ETN 출격",
+          "url": "https://www.fnnews.com/news/202607061011142158"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-07"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202607061019056644",
+      "date": "2026-07-06",
+      "company": "NH투자증권",
+      "title": "금감원 \"운용사 의결권 반대율 8.2%…형식 공시 여전\"",
+      "oneLiner": "금감원이 자산운용사 의결권 행사 및 공시 현황을 점검해 개선 지도를 예고했다. 업계의 주주권 행사·내부관리체계에 대한 규제·감독이 강화될 가능성이 있다.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "금감원 \"운용사 의결권 반대율 8.2%…형식 공시 여전\"",
+          "url": "https://www.fnnews.com/news/202607061019056644"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-07-07"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202607061239405255",
+      "date": "2026-07-06",
+      "company": "미래에셋증권",
+      "title": "미래에셋 고객계좌 불법 접속 및 투자손실 의혹 관련 인니 경찰당국 정식수사 전환",
+      "oneLiner": "미래에셋증권 인도네시아 법인의 고객 계좌 불법 접속 및 투자손실 의혹 사건이 현지 경찰의 정식 수사로 전환됐다. 보안사고·운영 리스크와 법적·규제 리스크가 현실화한 사안이다.",
+      "type": "시스템",
+      "areas": [
+        "리스크",
+        "AML"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋 고객계좌 불법 접속 및 투자손실 의혹 관련 인니 경찰당국 정식수사 전환",
+          "url": "https://www.fnnews.com/news/202607061239405255"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-07-07"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202607061327530534",
+      "date": "2026-07-06",
+      "company": "한국투자증권",
+      "title": "\"투자정보 빠르게 확인\"…신한투자증권, MTS 위젯서비스 전면 개편",
+      "oneLiner": "신한투자증권의 MTS 위젯 서비스가 전면 개편되어 홈 화면에서 투자정보 조회 기능이 강화됐다. 플랫폼 기능 및 고객 경험 변화에 해당한다.",
+      "type": "출시",
+      "areas": [
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"투자정보 빠르게 확인\"…신한투자증권, MTS 위젯서비스 전면 개편",
+          "url": "https://www.fnnews.com/news/202607061327530534"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-07"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202607061258330787",
+      "date": "2026-07-06",
+      "company": "미래에셋증권",
+      "title": "\"시장 변동성에 대응\"...미래에셋, 매도담보대출·미수연체이자 이자율 인하",
+      "oneLiner": "미래에셋증권이 매도담보대출 및 현금미수 연체이자율을 인하해 고객 금융비용을 경감하고 반대매매 리스크를 낮췄다. 대고객 대출·요율 정책 변경 사례다.",
+      "type": "기타",
+      "areas": [
+        "리스크",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"시장 변동성에 대응\"...미래에셋, 매도담보대출·미수연체이자 이자율 인하",
+          "url": "https://www.fnnews.com/news/202607061258330787"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-07-07"
+    },
+    {
+      "id": "news:키움증권:https://www.fnnews.com/news/202607061432082680",
+      "date": "2026-07-06",
+      "company": "키움증권",
+      "title": "\"퇴직연금으로 스페이스X·로켓랩 투자\"…키움운용, 우주테크 ETF 출격",
+      "oneLiner": "키움운용의 미국 우주테크 집중 투자 혼합형 ETF가 유가증권시장에 상장된다. 퇴직연금 계좌로 투자 가능한 상품 출시 공지다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"퇴직연금으로 스페이스X·로켓랩 투자\"…키움운용, 우주테크 ETF 출격",
+          "url": "https://www.fnnews.com/news/202607061432082680"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-07"
+    },
+    {
       "id": "news:한국투자증권:https://www.fnnews.com/news/202607051815576445",
       "date": "2026-07-05",
       "company": "한국투자증권",
