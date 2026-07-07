@@ -2,6 +2,99 @@
   "month": "2026-07",
   "events": [
     {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202607071021529227",
+      "date": "2026-07-07",
+      "company": "NH투자증권",
+      "title": "NHN 전사 클로드 도입...'에이전틱 데이' 개최",
+      "oneLiner": "NHN이 전사적으로 클로드(Claude)를 도입하고 AI 에이전트 활용 사례와 보안성을 주제로 '에이전틱 데이'를 개최해 내부 자동화·AI 도입을 가속화하고 있음.",
+      "type": "시스템",
+      "areas": [
+        "리스크",
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "NHN 전사 클로드 도입...'에이전틱 데이' 개최",
+          "url": "https://www.fnnews.com/news/202607071021529227"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-07-08"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202607071017580435",
+      "date": "2026-07-07",
+      "company": "NH투자증권",
+      "title": "이노그리드, NHN인재아이엔씨 합병 완료…'원 이노그리드' 출범",
+      "oneLiner": "이노그리드가 NHN인재아이엔씨와의 합병을 완료하고 통합 운영을 시작하며 클라우드·AI 인프라 전문기업으로 도약을 추진한다.",
+      "type": "제휴",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "이노그리드, NHN인재아이엔씨 합병 완료…'원 이노그리드' 출범",
+          "url": "https://www.fnnews.com/news/202607071017580435"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-07-08"
+    },
+    {
+      "id": "news:토스증권:https://www.fnnews.com/news/202607071813577603",
+      "date": "2026-07-07",
+      "company": "토스증권",
+      "title": "[기고] 해킹 AI '미토스 쇼크', 해결의 열쇠는 사람에게 있다",
+      "oneLiner": "AI 기반 해킹 도구 '미토스' 사건을 계기로 AI 도구의 위험성과 이를 통제·감시하는 인간의 역할을 강조하는 기고문이다.",
+      "type": "기타",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "[기고] 해킹 AI '미토스 쇼크', 해결의 열쇠는 사람에게 있다",
+          "url": "https://www.fnnews.com/news/202607071813577603"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.88,
+      "updatedAt": "2026-07-08"
+    },
+    {
+      "id": "news:토스증권:http://www.boannews.com/media/view.asp?idx=144541&kind=&sub_kind=",
+      "date": "2026-07-07",
+      "company": "토스증권",
+      "title": "[CISO 코리아 2026] “AI 시대, 패치속도·서비스 리스크간 균형 잡는 ‘성숙도’가 경쟁력”",
+      "oneLiner": "토스 CISO가 AI 시대 보안팀의 역할과 패치 배포·운영체계의 성숙도를 강조하며 'AI 네이티브 보안팀'으로의 진화를 제언했다.",
+      "type": "시스템",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "보안뉴스",
+          "title": "[CISO 코리아 2026] “AI 시대, 패치속도·서비스 리스크간 균형 잡는 ‘성숙도’가 경쟁력”",
+          "url": "http://www.boannews.com/media/view.asp?idx=144541&kind=&sub_kind="
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-08"
+    },
+    {
       "id": "news:한국투자증권:https://www.hankyung.com/article/2026070671981",
       "date": "2026-07-06",
       "company": "한국투자증권",

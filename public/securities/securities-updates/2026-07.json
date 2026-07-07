@@ -2,6 +2,98 @@
   "month": "2026-07",
   "events": [
     {
+      "id": "news:KB증권:https://www.fnnews.com/news/202607071008245678",
+      "date": "2026-07-07",
+      "company": "KB증권",
+      "title": "KB증권, 결식 위기 아동에 '깨비 희망도시락'…26주간 건강식 배송",
+      "oneLiner": "KB증권이 취약계층 아동 대상 균형식 도시락을 26주간 배송하는 지원 사업을 진행한다고 발표한 사회공헌 및 운영 이슈.",
+      "type": "제휴",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "KB증권, 결식 위기 아동에 '깨비 희망도시락'…26주간 건강식 배송",
+          "url": "https://www.fnnews.com/news/202607071008245678"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-07-08"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202607071037597708",
+      "date": "2026-07-07",
+      "company": "한국투자증권",
+      "title": "신한證, 홍콩 광파증권과 MOU…연내 '외국인통합계좌' 서비스 출시 목표",
+      "oneLiner": "신한투자증권이 홍콩 광파증권과 MOU를 체결해 연내 외국인 통합계좌 서비스 출시를 목표로 협업하는 제휴·서비스 출시 계획.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "신한證, 홍콩 광파증권과 MOU…연내 '외국인통합계좌' 서비스 출시 목표",
+          "url": "https://www.fnnews.com/news/202607071037597708"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.94,
+      "updatedAt": "2026-07-08"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202607071141529632",
+      "date": "2026-07-07",
+      "company": "미래에셋증권",
+      "title": "한국투자증권·미래에셋증권 베트남, 현지 브로커리지 점유율 '톱 10' 동반 안착",
+      "oneLiner": "한국투자증권과 미래에셋증권의 베트남 현지 법인이 2·4분기 거래대금 기준 브로커리지 시장점유율 상위 10위에 진입한 운영·성과 관련 보도.",
+      "type": "기타",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한국투자증권·미래에셋증권 베트남, 현지 브로커리지 점유율 '톱 10' 동반 안착",
+          "url": "https://www.fnnews.com/news/202607071141529632"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-08"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202607071811088951",
+      "date": "2026-07-07",
+      "company": "한국투자증권",
+      "title": "신한투증, 홍콩 광파증권과 외국인 통합계좌 협업",
+      "oneLiner": "신한투자증권이 홍콩 광파증권과 외국인 통합계좌 서비스 협업을 위한 MOU를 체결했다는 중복 보도(연내 출시 목표).",
+      "type": "제휴",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "신한투증, 홍콩 광파증권과 외국인 통합계좌 협업",
+          "url": "https://www.fnnews.com/news/202607071811088951"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-08"
+    },
+    {
       "id": "fea5e7114afe154aa987e6521afa54e7cda38584",
       "date": "2026-07-06",
       "company": "NH투자증권",
