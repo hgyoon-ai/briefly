@@ -2,6 +2,167 @@
   "month": "2026-07",
   "events": [
     {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12094392",
+      "date": "2026-07-09",
+      "company": "한국투자증권",
+      "title": "“AI시대 보안 강화”…신한투자증권, 정보보호 171억 투자",
+      "oneLiner": "신한투자증권이 AI 시대 고도화되는 사이버 위협에 대응하기 위해 정보보호에 171억원을 투자하고 보안 역량을 강화한다고 밝혔다. 데이터 접근통제·오픈소스 취약점 관리 등 시스템 보안 중심의 투자가 핵심이다.",
+      "type": "시스템",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“AI시대 보안 강화”…신한투자증권, 정보보호 171억 투자",
+          "url": "https://www.mk.co.kr/news/stock/12094392"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-10"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202607090915272635",
+      "date": "2026-07-09",
+      "company": "KB증권",
+      "title": "KB증권, '궤도' 초청 ESG 특강…기후위기 대응 역량 강화",
+      "oneLiner": "KB증권이 임직원 대상 기후위기·ESG 특강을 개최해 기후 리스크에 대한 과학적 이해를 제고하고 ESG 경영 공감대를 확산했다. 기후변화가 금융산업의 핵심 리스크로 부상함에 따른 내부 역량 강화 목적이다.",
+      "type": "기타",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "KB증권, '궤도' 초청 ESG 특강…기후위기 대응 역량 강화",
+          "url": "https://www.fnnews.com/news/202607090915272635"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-07-10"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202607091034010806",
+      "date": "2026-07-09",
+      "company": "한국투자증권",
+      "title": "\"AI 시대 보안 강화\"…신한투자증권, 정보보호 투자액 24% 증가",
+      "oneLiner": "신한투자증권의 정보보호 투자액이 전년 대비 23.9% 증가한 약 171억원으로 집계됐으며 비정형 데이터 접근통제와 오픈소스 취약점 관리 시스템 구축 등에 집중하고 있다. IT 대비 정보보호 투자 비중과 전담 인력도 확대됐다.",
+      "type": "시스템",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"AI 시대 보안 강화\"…신한투자증권, 정보보호 투자액 24% 증가",
+          "url": "https://www.fnnews.com/news/202607091034010806"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-10"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202607091406445417",
+      "date": "2026-07-09",
+      "company": "한국투자증권",
+      "title": "한투證, 중견기업 CFO 초빙…재무 리스크 점검",
+      "oneLiner": "한국투자증권이 중견기업 CFO 초청 협의회를 열어 글로벌 채권·환율 전망과 퇴직연금·노란봉투법 등 재무 리스크 점검을 진행했다. 실무자 대상 리스크 대응 인사이트 제공이 목적이다.",
+      "type": "리서치",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투證, 중견기업 CFO 초빙…재무 리스크 점검",
+          "url": "https://www.fnnews.com/news/202607091406445417"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-07-10"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202607091117249779",
+      "date": "2026-07-09",
+      "company": "미래에셋증권",
+      "title": "미래에셋 IMA 1호, 반년 만에 11.85%…기업금융·AI 투자 통했다",
+      "oneLiner": "미래에셋증권 IMA 1호가 반년 만에 6개월 수익률 11.85%를 기록했으며 기업금융·채권에 더해 반도체·AI 관련 투자 성과가 수익률을 견인했다. 단기성과와 포트폴리오 구성 비중이 주요 포인트다.",
+      "type": "리서치",
+      "areas": [
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋 IMA 1호, 반년 만에 11.85%…기업금융·AI 투자 통했다",
+          "url": "https://www.fnnews.com/news/202607091117249779"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.6,
+      "updatedAt": "2026-07-10"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202607091810385523",
+      "date": "2026-07-09",
+      "company": "한국투자증권",
+      "title": "\"AI시대 사이버 위협 대응\" 신한투증 보안 역량 강화",
+      "oneLiner": "신한투자증권이 AI 시대 사이버 위협에 대응하기 위해 공격 표면(ASM) 관리, 네트워크 트래픽 모니터링 등 정보보호 역량을 강화하고 투자 비중을 확대하고 있다. 외부 위협 대응과 소프트웨어 공급망 보안에 중점한다.",
+      "type": "시스템",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"AI시대 사이버 위협 대응\" 신한투증 보안 역량 강화",
+          "url": "https://www.fnnews.com/news/202607091810385523"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.88,
+      "updatedAt": "2026-07-10"
+    },
+    {
+      "id": "news:신한투자증권:https://www.fnnews.com/news/202607090734034560",
+      "date": "2026-07-09",
+      "company": "신한투자증권",
+      "title": "오픈AI, GPT-5.6 오늘 전세계에 공개[글로벌AI브리핑]",
+      "oneLiner": "오픈AI가 최신 모델 GPT-5.6을 전세계에 공개했으며 미국 정부의 사전검토 사례와 함께 성능·가격 정책이 발표됐다. 해당 발표는 AI 기술 확산에 따른 보안·규제 리스크와 금융산업 영향 관점에서 주목된다.",
+      "type": "기타",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "오픈AI, GPT-5.6 오늘 전세계에 공개[글로벌AI브리핑]",
+          "url": "https://www.fnnews.com/news/202607090734034560"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.65,
+      "updatedAt": "2026-07-10"
+    },
+    {
       "id": "news:NH투자증권:https://www.fnnews.com/news/202607071021529227",
       "date": "2026-07-07",
       "company": "NH투자증권",
