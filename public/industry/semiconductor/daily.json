@@ -1,85 +1,12 @@
 {
-  "date": "2026-07-11",
+  "date": "2026-07-12",
   "highlights": {
-    "bullets": [
-      "핵심: Apple이 Broadcom과 300억 달러 규모 거래를 체결했다.",
-      "핵심: AI 하드웨어에서 에너지 효율성이 핵심 제약으로 제기됐다.",
-      "트렌드: AI 수요와 제조·공급망·제품 로드맵 관련 이슈가 동시에 부각되고 있다."
-    ],
-    "topTopics": [
-      "Investment",
-      "Competition",
-      "Roadmap",
-      "Manufacturing"
-    ],
+    "bullets": [],
+    "topTopics": [],
     "stats": {
-      "collected": 4,
-      "deduped": 4
+      "collected": 0,
+      "deduped": 0
     }
   },
-  "cards": [
-    {
-      "id": "semiconductor_0001",
-      "tab": "semiconductor",
-      "publishedAt": "2026-07-10T21:50:28+09:00",
-      "source": "EE Times",
-      "title": "Apple’s $30B Broadcom Deal Signals Expansions in AI, U.S. Supply Chain",
-      "summary": [
-        "Apple가 Broadcom과 300억 달러 규모 거래를 체결했다.",
-        "거래는 AI 데이터센터용 부품 수요 확대와 미국 내 반도체 생산 확대 신호로 해석된다.",
-        "이번 계약은 인텔 등 기존 칩업체에 대한 수혜 가능성을 열어준다."
-      ],
-      "whyItMatters": "대규모 구매는 AI 인프라 확장과 미국 공급망 강화를 가속화해 업계 지형과 경쟁 구도를 바꿀 수 있기 때문이다.",
-      "topics": [
-        "Investment",
-        "Manufacturing",
-        "Competition"
-      ],
-      "status": "ONGOING",
-      "hash": "dc2f2b762faef3b79ad3c367adc6881d5666d2f5b7d0229dcc1e075c98b42b83",
-      "url": "https://www.eetimes.com/apples-30b-broadcom-deal-signals-expansions-in-ai-u-s-supply-chain/"
-    },
-    {
-      "id": "semiconductor_0002",
-      "tab": "semiconductor",
-      "publishedAt": "2026-07-10T16:18:59+09:00",
-      "source": "EE Times",
-      "title": "The Energy Barrier Reshaping AI Hardware",
-      "summary": [
-        "Leti Innovation Days 2026에서 AI 하드웨어의 다음 핵심 제약으로 에너지 효율성이 부상했다.",
-        "기사에서는 이 '에너지 장벽'이 시스템과 기술의 공동 최적화를 요구한다고 지적했다.",
-        "결과적으로 설계 로드맵, 제조 전략 및 투자 우선순위가 재정의될 가능성이 커졌다."
-      ],
-      "whyItMatters": "에너지·전력 한계가 AI 성능 향상의 병목이 되면 설계·제조·투자 전반에 걸쳐 산업 방향이 바뀔 수 있기 때문입니다.",
-      "topics": [
-        "Roadmap",
-        "Manufacturing",
-        "Investment"
-      ],
-      "status": "SHIFTING",
-      "hash": "c6e1d8cb29efd943aee987b7018789b6d5d8644a121b785f669e96c3abe6672d",
-      "url": "https://www.eetimes.com/ai-energy-barrier-forces-system-technology-co-optimization/"
-    },
-    {
-      "id": "semiconductor_0003",
-      "tab": "semiconductor",
-      "publishedAt": "2026-07-10T17:00:00+09:00",
-      "source": "Samsung Newsroom",
-      "title": "[Infographic] Where Culture Meets Innovation: Galaxy Unpacked’s Journey Through Global Cities",
-      "summary": [
-        "Galaxy Unpacked는 매년 다른 도시에서 갤럭시 신제품을 공개하는 글로벌 런칭 행사입니다.",
-        "2023년 서울, 2024년 파리, 2025년 브루클린에 이어 2026년에는 런던에서 개최되어 각 도시의 문화가 행사 정체성을 형성했습니다.",
-        "인포그래픽은 문화와 혁신의 결합을 통해 브랜드 경험과 로컬화 전략을 강조합니다."
-      ],
-      "whyItMatters": "도시별 순회 개최는 현지 문화와 연계한 브랜드 포지셔닝과 소비자 참여를 강화해 제품 로드맵과 경쟁력에 영향을 미치기 때문입니다.",
-      "topics": [
-        "Roadmap",
-        "Demand",
-        "Competition"
-      ],
-      "status": "ONGOING",
-      "hash": "01134fd2c2256a8f909ea1548ab81f2d0d9c797af0f62b439dba7e5185fa7d64",
-      "url": "https://news.samsung.com/global/infographic-where-culture-meets-innovation-galaxy-unpackeds-journey-through-global-cities"
-    }
-  ]
+  "cards": []
 }
