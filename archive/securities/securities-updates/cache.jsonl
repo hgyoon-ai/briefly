@@ -2030,3 +2030,11 @@
 {"id": "news:NH투자증권:https://www.fnnews.com/news/202607101055430854", "keep": false, "oneLiner": "캐시 우드의 특정 종목 추가매수 보도는 시장·개별투자자 뉴스로 증권사 운영 변화와 무관하여 제외합니다.", "type_raw": "기타", "areas_raw": ["리서치"], "confidence": 0.6}
 {"id": "e90f6a90f3a98bbe04eb0f30309cd4c403310239", "keep": false, "oneLiner": "토스증권 iOS 앱 업데이트(v5.268.0)는 단순한 버그 수정 안내만 포함되어 기능·정책·운영 변경이 없어 데이터셋에서 제외합니다.", "type_raw": "시스템", "areas_raw": ["기타"], "confidence": 0.95}
 {"id": "news:NH투자증권:https://www.mk.co.kr/news/stock/12095100", "keep": false, "oneLiner": "ETF 상품과 상장 신청 사례를 소개하는 업계 기사로, 특정 증권사 제품·운영 변경이 아니어서 제외합니다.", "type_raw": "기타", "areas_raw": ["리서치"], "confidence": 0.6}
+{"id": "7119be4101622687d45dbcf4c4b25b931191b69b", "keep": true, "oneLiner": "한국투자증권 iOS 앱에 자녀계좌 전용 메뉴와 자녀계좌 선택 기능이 추가되어 계좌조회 및 이체 편의성이 개선됨.", "type_raw": "출시", "areas_raw": ["브로커리지"], "confidence": 0.95}
+{"id": "5f62f34f45b7962cdc606868a41b7364566dcb01", "keep": false, "oneLiner": "KB증권 iOS 업데이트는 '안정성 개선' 문구만 있어 구체적 기능 변경이나 영향이 명시되지 않음.", "type_raw": "시스템", "areas_raw": ["기타"], "confidence": 0.9}
+{"id": "e90f6a90f3a98bbe04eb0f30309cd4c403310239", "keep": false, "oneLiner": "토스증권 iOS 앱 업데이트(v5.268.0)는 단순한 버그 수정 안내만 포함되어 기능·정책·운영 변경이 없어 데이터셋에서 제외합니다.", "type_raw": "시스템", "areas_raw": ["기타"], "confidence": 0.95}
+{"id": "news:한국투자증권:https://www.hankyung.com/article/202607120295i", "keep": true, "oneLiner": "신한투자증권이 선취 판매수수료를 없앤 '라이트 펀드'를 출시해 펀드 가입 비용 부담을 낮춤.", "type_raw": "출시", "areas_raw": ["WM"], "confidence": 0.95}
+{"id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12096583", "keep": true, "oneLiner": "신한투자증권의 'Light 펀드' 출시로 온라인 전용 펀드에 선취 판매수수료 0% 정책이 도입됨.", "type_raw": "출시", "areas_raw": ["WM"], "confidence": 0.9}
+{"id": "news:한국투자증권:https://www.fnnews.com/news/202607121810167676", "keep": true, "oneLiner": "신한투자증권이 펀드·채권·ELS 등으로 구성된 '라이트' 상품군을 출시하고 온라인 전용 클래스의 선취 수수료를 면제함.", "type_raw": "출시", "areas_raw": ["WM"], "confidence": 0.95}
+{"id": "news:KB증권:https://www.fnnews.com/news/202607121248524076", "keep": false, "oneLiner": "티빙 이용자·설치 증가 보도로 증권사 제품·정책 변화와 직접 관련 없는 일반 IT/미디어 이용 지표 기사임.", "type_raw": "기타", "areas_raw": ["기타"], "confidence": 0.5}
+{"id": "news:KB증권:https://www.fnnews.com/news/202607121802331212", "keep": false, "oneLiner": "티빙 MAU 900만 돌파 기사로, 증권사 이벤트·운영 변화와 무관한 미디어 이용 통계 보도임.", "type_raw": "기타", "areas_raw": ["기타"], "confidence": 0.5}

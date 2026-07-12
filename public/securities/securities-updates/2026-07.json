@@ -2,6 +2,98 @@
   "month": "2026-07",
   "events": [
     {
+      "id": "news:한국투자증권:https://www.hankyung.com/article/202607120295i",
+      "date": "2026-07-12",
+      "company": "한국투자증권",
+      "title": "신한투자증권, 선취 판매수수료 없는 '라이트 펀드' 출시",
+      "oneLiner": "신한투자증권이 선취 판매수수료를 없앤 '라이트 펀드'를 출시해 펀드 가입 비용 부담을 낮춤.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "신한투자증권, 선취 판매수수료 없는 '라이트 펀드' 출시",
+          "url": "https://www.hankyung.com/article/202607120295i"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-07-13"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12096583",
+      "date": "2026-07-12",
+      "company": "한국투자증권",
+      "title": "펀드 선취 판매수수료 '0' 신한 Light펀드 나왔다",
+      "oneLiner": "신한투자증권의 'Light 펀드' 출시로 온라인 전용 펀드에 선취 판매수수료 0% 정책이 도입됨.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "펀드 선취 판매수수료 '0' 신한 Light펀드 나왔다",
+          "url": "https://www.mk.co.kr/news/stock/12096583"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-13"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202607121810167676",
+      "date": "2026-07-12",
+      "company": "한국투자증권",
+      "title": "신한투증 '라이트' 상품 출시…펀드는 선취 판매수수료 없애",
+      "oneLiner": "신한투자증권이 펀드·채권·ELS 등으로 구성된 '라이트' 상품군을 출시하고 온라인 전용 클래스의 선취 수수료를 면제함.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "신한투증 '라이트' 상품 출시…펀드는 선취 판매수수료 없애",
+          "url": "https://www.fnnews.com/news/202607121810167676"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-07-13"
+    },
+    {
+      "id": "7119be4101622687d45dbcf4c4b25b931191b69b",
+      "date": "2026-07-11",
+      "company": "한국투자증권",
+      "title": "한국투자증권 iOS 앱 업데이트 v2.25.05",
+      "oneLiner": "한국투자증권 iOS 앱에 자녀계좌 전용 메뉴와 자녀계좌 선택 기능이 추가되어 계좌조회 및 이체 편의성이 개선됨.",
+      "type": "출시",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "app_store",
+      "sources": [
+        {
+          "source": "App Store",
+          "title": "한국투자증권 iOS 앱 업데이트 v2.25.05",
+          "url": "https://apps.apple.com/kr/app/%ED%95%9C%ED%88%AC-%ED%95%9C%EA%B5%AD%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C-mts-%ED%88%AC%EC%9E%90-%EC%A6%9D%EA%B6%8C-%ED%95%B4%EC%99%B8%EC%A3%BC%EC%8B%9D-%EC%A3%BC%EC%8B%9D%EC%96%B4%ED%94%8C/id1621986905?uo=4"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-07-13"
+    },
+    {
       "id": "news:한국투자증권:https://www.fnnews.com/news/202607100753288313",
       "date": "2026-07-10",
       "company": "한국투자증권",
