@@ -2,6 +2,98 @@
   "month": "2026-07",
   "events": [
     {
+      "id": "news:하나증권:https://www.hankyung.com/article/2026071311266",
+      "date": "2026-07-13",
+      "company": "하나증권",
+      "title": "하나증권, 연금 일임 서비스 '1Q 스마트 개인연금 랩' 출시",
+      "oneLiner": "하나증권이 전문가 운용형 연금 일임 서비스 '1Q 스마트 개인연금 랩'을 출시(최소 가입금액 50만원, MP50/MP80 모델, 정기 리밸런싱 및 중도해지 수수료 없음).",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "하나증권, 연금 일임 서비스 '1Q 스마트 개인연금 랩' 출시",
+          "url": "https://www.hankyung.com/article/2026071311266"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-14"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12097050",
+      "date": "2026-07-13",
+      "company": "한국투자증권",
+      "title": "한국투자증권, 360억엔 사무라이본드 흥행…5년물 첫 발행",
+      "oneLiner": "한국투자증권이 360억엔 규모의 엔화 표시 무보증 사채(사무라이본드)를 성공적으로 발행(2·3·5년물 구성, 조달 자금으로 글로벌 비즈니스 다각화 계획).",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한국투자증권, 360억엔 사무라이본드 흥행…5년물 첫 발행",
+          "url": "https://www.mk.co.kr/news/stock/12097050"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-14"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202607131455298932",
+      "date": "2026-07-13",
+      "company": "하나증권",
+      "title": "\"연금도 맡겨 굴린다\"…하나증권, '1Q 스마트 개인연금 랩' 출시",
+      "oneLiner": "하나증권이 연금 일임 서비스 '1Q 스마트 개인연금 랩'을 출시했다고 보도(본사 운용조직이 국내외 펀드 포트폴리오 운용, 최소 가입금액 50만원).",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"연금도 맡겨 굴린다\"…하나증권, '1Q 스마트 개인연금 랩' 출시",
+          "url": "https://www.fnnews.com/news/202607131455298932"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-14"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202607131459431877",
+      "date": "2026-07-13",
+      "company": "한국투자증권",
+      "title": "한투證, 360억엔 규모 엔화 표시 외화채 발행",
+      "oneLiner": "한국투자증권이 총 360억엔 규모의 엔화 표시 외화채(사무라이본드)를 발행했다고 보도(만기별 2·3·5년물, 수요예측에서 유효 주문 초과).",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투證, 360억엔 규모 엔화 표시 외화채 발행",
+          "url": "https://www.fnnews.com/news/202607131459431877"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-14"
+    },
+    {
       "id": "news:한국투자증권:https://www.hankyung.com/article/202607120295i",
       "date": "2026-07-12",
       "company": "한국투자증권",
@@ -91,7 +183,7 @@
       ],
       "tags": [],
       "confidence": 0.95,
-      "updatedAt": "2026-07-13"
+      "updatedAt": "2026-07-14"
     },
     {
       "id": "news:한국투자증권:https://www.fnnews.com/news/202607100753288313",
