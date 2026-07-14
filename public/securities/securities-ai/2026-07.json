@@ -2,6 +2,101 @@
   "month": "2026-07",
   "events": [
     {
+      "id": "news:KB증권:https://www.mk.co.kr/news/stock/12098846",
+      "date": "2026-07-15",
+      "company": "KB증권",
+      "title": "“30% 빠진 삼성전자, 변한 건 없다…오히려 매수 기회”",
+      "oneLiner": "KB증권은 삼성전자의 주가 하락을 일시적 요인으로 보고 AI 인프라와 메모리 공급 이슈 등 핵심 펀더멘털은 유지된다며 매수 기회로 분석했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“30% 빠진 삼성전자, 변한 건 없다…오히려 매수 기회”",
+          "url": "https://www.mk.co.kr/news/stock/12098846"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-15"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202607141137221264",
+      "date": "2026-07-14",
+      "company": "NH투자증권",
+      "title": "광통신, AI 인프라 새 축으로…NH-아문디 ETF 출격",
+      "oneLiner": "NH-아문디자산운용이 AI 광통신 산업 관련 10개사에 집중 투자하는 'HANARO 미국AI광통신TOP10 ETF'를 상장한다고 발표했다.",
+      "type": "출시",
+      "areas": [
+        "WM",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "광통신, AI 인프라 새 축으로…NH-아문디 ETF 출격",
+          "url": "https://www.fnnews.com/news/202607141137221264"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-07-15"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202607140958273057",
+      "date": "2026-07-14",
+      "company": "KB증권",
+      "title": "KB운용, 'RISE 미국우주&로봇TOP2미국채혼합50 ETF' 상장",
+      "oneLiner": "KB자산운용이 우주와 휴머노이드 로봇에 투자하고 미국 단기국채로 변동성을 낮춘 'RISE 미국우주&로봇TOP2미국채혼합50 ETF'를 유가증권시장에 상장했다.",
+      "type": "출시",
+      "areas": [
+        "WM",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "KB운용, 'RISE 미국우주&로봇TOP2미국채혼합50 ETF' 상장",
+          "url": "https://www.fnnews.com/news/202607140958273057"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-07-15"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202607141807221253",
+      "date": "2026-07-14",
+      "company": "KB증권",
+      "title": "스페이스X·테슬라 담은 KB운용 '채권혼합형 ETF'",
+      "oneLiner": "KB운용의 채권혼합형 ETF가 스페이스X·테슬라를 편입하는 구조로 상장되며 성장 산업 노출과 채권을 통한 안정성 병행을 내세웠다.",
+      "type": "출시",
+      "areas": [
+        "WM",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "스페이스X·테슬라 담은 KB운용 '채권혼합형 ETF'",
+          "url": "https://www.fnnews.com/news/202607141807221253"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-07-15"
+    },
+    {
       "id": "news:토스증권:https://www.fnnews.com/news/202607131211316765",
       "date": "2026-07-13",
       "company": "토스증권",
