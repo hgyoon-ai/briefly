@@ -2,6 +2,217 @@
   "month": "2026-07",
   "events": [
     {
+      "id": "news:한국투자증권:https://www.hankyung.com/article/2026071565776",
+      "date": "2026-07-15",
+      "company": "한국투자증권",
+      "title": "한국투자증권, ELW 340종목 신규 상장",
+      "oneLiner": "한국투자증권이 ELW 340종목을 신규 상장한 내용으로, 파생상품 라인업 확대로 트레이딩·브로커리지 서비스에 변화가 있음.",
+      "type": "출시",
+      "areas": [
+        "브로커리지",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "한국투자증권, ELW 340종목 신규 상장",
+          "url": "https://www.hankyung.com/article/2026071565776"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-16"
+    },
+    {
+      "id": "news:메리츠증권:https://www.mk.co.kr/news/stock/12099643",
+      "date": "2026-07-15",
+      "company": "메리츠증권",
+      "title": "홈플러스 파산 '일단 멈춤'…긴급운영자금 2천억 수혈",
+      "oneLiner": "메리츠금융그룹이 MBK파트너스와 함께 홈플러스에 2000억원 규모 긴급운영자금(DIP) 지원 건에 잠정 합의한 것으로, 금융그룹의 신용·리스크 노출 변화가 예상됨.",
+      "type": "제휴",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "홈플러스 파산 '일단 멈춤'…긴급운영자금 2천억 수혈",
+          "url": "https://www.mk.co.kr/news/stock/12099643"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.6,
+      "updatedAt": "2026-07-16"
+    },
+    {
+      "id": "news:메리츠증권:https://www.mk.co.kr/news/stock/12099642",
+      "date": "2026-07-15",
+      "company": "메리츠증권",
+      "title": "기사회생 홈플러스 … 정상화까진 '첩첩산중'",
+      "oneLiner": "메리츠금융그룹과 MBK의 DIP 지원 합의로 홈플러스 회생 가능성이 높아졌으나 정상화 리스크가 여전하다는 보도.",
+      "type": "제휴",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "기사회생 홈플러스 … 정상화까진 '첩첩산중'",
+          "url": "https://www.mk.co.kr/news/stock/12099642"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.6,
+      "updatedAt": "2026-07-16"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12099364",
+      "date": "2026-07-15",
+      "company": "한국투자증권",
+      "title": "신한투자증권, ‘SOL LINK 계좌’ 열흘 만에 10만좌 돌파",
+      "oneLiner": "신한투자증권이 은행거래와 주식투자를 결합한 통합계좌 'SOL LINK' 출시 후 10일 만에 10만좌를 돌파하며 고객 유입과 수수료·계좌서비스 변화가 발생함.",
+      "type": "출시",
+      "areas": [
+        "브로커리지",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "신한투자증권, ‘SOL LINK 계좌’ 열흘 만에 10만좌 돌파",
+          "url": "https://www.mk.co.kr/news/stock/12099364"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-07-16"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202607150829511624",
+      "date": "2026-07-15",
+      "company": "한국투자증권",
+      "title": "더이앤엠, 한국투자증권과 청라 복합단지 금융 협력…PF 구조 본격화",
+      "oneLiner": "더이앤엠이 한국투자증권과 청라 복합단지 개발을 위한 MOU를 체결해 PFV 설립·출자 등 프로젝트파이낸싱 구조를 본격화함.",
+      "type": "제휴",
+      "areas": [
+        "WM",
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "더이앤엠, 한국투자증권과 청라 복합단지 금융 협력…PF 구조 본격화",
+          "url": "https://www.fnnews.com/news/202607150829511624"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-16"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202607150923343333",
+      "date": "2026-07-15",
+      "company": "미래에셋증권",
+      "title": "미래에셋운용, 사모 재간접 공모펀드 확대…'알파셀렉션' 출시",
+      "oneLiner": "미래에셋자산운용이 사모 재간접 공모펀드 '미래에셋 알파셀렉션'을 출시해 운용상품 라인업을 확대한 발표.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋운용, 사모 재간접 공모펀드 확대…'알파셀렉션' 출시",
+          "url": "https://www.fnnews.com/news/202607150923343333"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-16"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202607151118468040",
+      "date": "2026-07-15",
+      "company": "한국투자증권",
+      "title": "신한투자증권, '쏠링크' 계좌 출시 10일 만에 10만좌 돌파",
+      "oneLiner": "신한투자증권의 은행·증권 통합계좌 '쏠링크'가 출시 10일 만에 10만좌를 돌파했다는 보도로, 계좌·수수료 체계 변화의 영향이 큼.",
+      "type": "출시",
+      "areas": [
+        "브로커리지",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "신한투자증권, '쏠링크' 계좌 출시 10일 만에 10만좌 돌파",
+          "url": "https://www.fnnews.com/news/202607151118468040"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-07-16"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202607151803313007",
+      "date": "2026-07-15",
+      "company": "미래에셋증권",
+      "title": "공격형 사모펀드 내놓은 미래에셋운용",
+      "oneLiner": "미래에셋자산운용이 국내 사모펀드에 재간접 투자하는 공격형 공모(사모투자재간접형) 펀드를 출시해 상품 라인업을 확장함.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "공격형 사모펀드 내놓은 미래에셋운용",
+          "url": "https://www.fnnews.com/news/202607151803313007"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-07-16"
+    },
+    {
+      "id": "news:토스증권:https://www.fnnews.com/news/202607150850302355",
+      "date": "2026-07-15",
+      "company": "토스증권",
+      "title": "쿠콘, 토스플레이스 단말기에 글로벌 페이 서비스 연동",
+      "oneLiner": "쿠콘이 토스플레이스 결제 단말기에 50여개 글로벌 페이 서비스를 연동해 방한 외국인 대상 결제 편의성을 확대했다는 제휴 발표.",
+      "type": "제휴",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "쿠콘, 토스플레이스 단말기에 글로벌 페이 서비스 연동",
+          "url": "https://www.fnnews.com/news/202607150850302355"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-07-16"
+    },
+    {
       "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12098504",
       "date": "2026-07-14",
       "company": "한국투자증권",
