@@ -2,6 +2,98 @@
   "month": "2026-07",
   "events": [
     {
+      "id": "news:토스증권:https://www.fnnews.com/news/202607161041094858",
+      "date": "2026-07-16",
+      "company": "토스증권",
+      "title": "배경훈 \"연내 보안 특화 독자 AI 모델 만들 것\"",
+      "oneLiner": "정부가 연내 보안 특화 독자 AI 모델 개발을 추진한다는 발표로, AI 보안·리스크 대응 관련 정책 이슈입니다.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "배경훈 \"연내 보안 특화 독자 AI 모델 만들 것\"",
+          "url": "https://www.fnnews.com/news/202607161041094858"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-17"
+    },
+    {
+      "id": "news:토스증권:https://www.fnnews.com/news/202607161810292491",
+      "date": "2026-07-16",
+      "company": "토스증권",
+      "title": "'모두의 AI'로 내년엔 \"1인 1 AI에이전트\" [주요 부처 업무보고]",
+      "oneLiner": "국가 주도 '모두의 AI' 서비스 출시 계획과 1인 1 AI 에이전트 추진을 다룬 기사로, 공공 AI 서비스 도입 관련 주요 발표입니다.",
+      "type": "출시",
+      "areas": [
+        "상담"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "'모두의 AI'로 내년엔 \"1인 1 AI에이전트\" [주요 부처 업무보고]",
+          "url": "https://www.fnnews.com/news/202607161810292491"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.88,
+      "updatedAt": "2026-07-17"
+    },
+    {
+      "id": "news:토스증권:http://www.boannews.com/media/view.asp?idx=144736&kind=&sub_kind=",
+      "date": "2026-07-16",
+      "company": "토스증권",
+      "title": "李 대통령, 美 AI 접근 통제에 “대비해야”... 개인정보 유출 신고 포상 강조",
+      "oneLiner": "대통령과 관계부처의 AI 접근 통제·개인정보 유출 대비 발언을 전한 기사로, AI 거버넌스와 보안 강화 기조 관련 내용입니다.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "보안뉴스",
+          "title": "李 대통령, 美 AI 접근 통제에 “대비해야”... 개인정보 유출 신고 포상 강조",
+          "url": "http://www.boannews.com/media/view.asp?idx=144736&kind=&sub_kind="
+        }
+      ],
+      "tags": [],
+      "confidence": 0.86,
+      "updatedAt": "2026-07-17"
+    },
+    {
+      "id": "news:NH투자증권:http://www.boannews.com/media/view.asp?idx=144730&kind=&sub_kind=",
+      "date": "2026-07-16",
+      "company": "NH투자증권",
+      "title": "엔에이치네트웍스, AI 기반 조류대응 드론 시스템",
+      "oneLiner": "엔에이치네트웍스가 AI 기반 조류대응 드론 시스템을 공개한 보안 박람회 보도로, AI·드론을 활용한 자동화 안전 솔루션 소개입니다.",
+      "type": "출시",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "보안뉴스",
+          "title": "엔에이치네트웍스, AI 기반 조류대응 드론 시스템",
+          "url": "http://www.boannews.com/media/view.asp?idx=144730&kind=&sub_kind="
+        }
+      ],
+      "tags": [],
+      "confidence": 0.72,
+      "updatedAt": "2026-07-17"
+    },
+    {
       "id": "news:KB증권:https://www.mk.co.kr/news/stock/12098846",
       "date": "2026-07-15",
       "company": "KB증권",
