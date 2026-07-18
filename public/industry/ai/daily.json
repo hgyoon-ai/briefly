@@ -1,87 +1,12 @@
 {
-  "date": "2026-07-18",
+  "date": "2026-07-19",
   "highlights": {
-    "bullets": [
-      "핵심: Hugging Face와 NVIDIA 통합으로 대규모 영상·이미지 모델 파인튜닝 지원을 발표했다.",
-      "핵심: OpenAI의 CFO가 실무 중심의 AI 성과 점수표를 제안했다.",
-      "트렌드: 성능·비용·도구·인프라 최적화를 통한 실무 적용과 운영 효율성 제고에 초점이 맞춰졌다."
-    ],
-    "topTopics": [
-      "Infra",
-      "Tooling",
-      "Product",
-      "Models"
-    ],
+    "bullets": [],
+    "topTopics": [],
     "stats": {
-      "collected": 3,
-      "deduped": 3
+      "collected": 0,
+      "deduped": 0
     }
   },
-  "cards": [
-    {
-      "id": "ai_0001",
-      "tab": "ai",
-      "publishedAt": "2026-07-18T00:57:54+09:00",
-      "source": "Hugging Face Blog",
-      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-      "summary": [
-        "Hugging Face 블로그에 NVIDIA NeMo Automodel과 🤗 Diffusers 통합으로 대규모 영상·이미지 모델 파인튜닝을 지원한다고 발표했습니다.",
-        "분산 학습과 하드웨어 최적화를 통해 비디오 및 이미지 모델을 보다 효율적으로 미세조정할 수 있습니다.",
-        "학습 파이프라인이 간소화되어 고해상도·대용량 멀티미디어 모델의 개발 및 배포 속도가 빨라집니다."
-      ],
-      "whyItMatters": "이 통합은 대규모 비전·비디오 모델의 연구·개발 비용과 시간을 줄여 상용화 및 실험 주기를 단축시키기 때문입니다.",
-      "topics": [
-        "Models",
-        "Training",
-        "Tooling",
-        "Infra"
-      ],
-      "status": "NEW",
-      "hash": "d9b2b6a45e1f9f2cf4cd6b23a6752233b2f868c95fd1d4d16678af02f87712fe",
-      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel"
-    },
-    {
-      "id": "ai_0002",
-      "tab": "ai",
-      "publishedAt": "2026-07-17T19:00:00+09:00",
-      "source": "OpenAI Blog",
-      "title": "A scorecard for the AI age",
-      "summary": [
-        "OpenAI의 CFO Sarah Friar가 실무 중심의 AI 성과 점수표를 제안했다.",
-        "점수표는 유용한 작업, 성공적 작업당 비용, 신뢰성, 컴퓨트 수익률을 주요 지표로 삼는다.",
-        "목표는 AI 투자 수익(ROI)을 구체적이고 비교 가능한 지표로 가시화하는 것이다."
-      ],
-      "whyItMatters": "AI 투자에 대한 비용 대비 성과와 신뢰성을 정량화해 기업 의사결정과 벤치마킹에 직접적인 영향을 주기 때문에 중요하다.",
-      "topics": [
-        "Business",
-        "Product",
-        "Infra"
-      ],
-      "status": "NEW",
-      "hash": "c5c5248230951857dae9664d8976aabb3764bf6936706cfde3b2931f62916be6",
-      "url": "https://openai.com/index/a-scorecard-for-the-ai-age"
-    },
-    {
-      "id": "ai_0003",
-      "tab": "ai",
-      "publishedAt": "2026-07-17T07:59:09+09:00",
-      "source": "NVIDIA Developer Blog",
-      "title": "Q&amp;A: How Capcom Brought Path Tracing to RE ENGINE Across PRAGMATA and Resident Evil Requiem",
-      "summary": [
-        "Capcom이 RE ENGINE에 실시간 경로추적(path tracing)을 PRAGMATA와 Resident Evil Requiem 두 타이틀에 동시에 도입했다.",
-        "각 게임의 시각적 요구에 맞춰 노이즈 제거, 하이브리드 렌더링, 성능 최적화 등 다양한 엔진·툴링 기법을 적용해 출시 수준의 성능을 확보했다.",
-        "엔진 구조와 인프라 협업을 통해 상용 게임에서 경로추적의 실용성을 입증하고 향후 렌더링 파이프라인 변화를 촉진했다."
-      ],
-      "whyItMatters": "상용 타이틀에의 실시간 경로추적 적용은 고품질 렌더링의 실무적 도입 가능성을 보여주어 업계 전반의 기술 도입과 파이프라인 재설계에 영향을 미친다.",
-      "topics": [
-        "Research",
-        "Tooling",
-        "Product",
-        "Infra"
-      ],
-      "status": "ONGOING",
-      "hash": "cd01c68d8f232ca8a50fe973e2ba9eb18d4680af7f67b0d105db70b8fc789a90",
-      "url": "https://developer.nvidia.com/blog/qa-how-capcom-brought-path-tracing-to-re-engine-across-pragmata-and-resident-evil-requiem/"
-    }
-  ]
+  "cards": []
 }

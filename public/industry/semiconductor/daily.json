@@ -1,88 +1,12 @@
 {
-  "date": "2026-07-18",
+  "date": "2026-07-19",
   "highlights": {
-    "bullets": [
-      "핵심: ASML이 AI 수요를 근거로 연간 실적 전망을 상향했다.",
-      "핵심: TSMC가 2026년 자본예산을 640억 달러로 상향하고 미국에 1,000억 달러를 추가 투자한다.",
-      "트렌드: 반도체업계가 AI 수요를 근거로 설비·투자 확충과 정보 접근성 확대를 추진하고 있다."
-    ],
-    "topTopics": [
-      "Roadmap",
-      "Manufacturing",
-      "Investment",
-      "Competition"
-    ],
+    "bullets": [],
+    "topTopics": [],
     "stats": {
-      "collected": 4,
-      "deduped": 4
+      "collected": 0,
+      "deduped": 0
     }
   },
-  "cards": [
-    {
-      "id": "semiconductor_0001",
-      "tab": "semiconductor",
-      "publishedAt": "2026-07-17T23:00:00+09:00",
-      "source": "EE Times",
-      "title": "ASML Raises Outlook, Plans More EUV Capacity",
-      "summary": [
-        "ASML이 AI 수요 확대를 근거로 연간 실적 전망을 상향했다.",
-        "회사는 2028년까지 EUV 리소그래피 설비 용량을 추가로 확장할 계획을 밝혔다.",
-        "용량 증설은 반도체 제조 능력과 AI용 칩 공급에 직접적인 영향을 줄 전망이다."
-      ],
-      "whyItMatters": "AI 중심의 장비 수요 증가가 장기적 생산능력과 투자 흐름을 좌우하기 때문에 중요하다.",
-      "topics": [
-        "Earnings",
-        "Demand",
-        "Manufacturing",
-        "Investment",
-        "Roadmap"
-      ],
-      "status": "ONGOING",
-      "hash": "ec1024f0b273487a4c8e0066b7e3745cbcd2804ef5f945e143056a329ead0e1e",
-      "url": "https://www.eetimes.com/asml-raises-outlook-plans-more-euv-capacity/"
-    },
-    {
-      "id": "semiconductor_0002",
-      "tab": "semiconductor",
-      "publishedAt": "2026-07-17T14:55:59+09:00",
-      "source": "EE Times",
-      "title": "TSMC Boosts 2026 Expansion Budget, Adds $100B to U.S. Investment",
-      "summary": [
-        "TSMC가 2026년 자본예산을 640억 달러로 상향 조정했습니다.",
-        "미국 내 AI 관련 투자로 1,000억 달러를 추가 투입하기로 했습니다.",
-        "이번 조치는 글로벌 생산능력 확대와 반도체·AI 경쟁 구도에 큰 영향을 미칩니다."
-      ],
-      "whyItMatters": "대규모 자본투입으로 생산능력과 AI 인프라가 단기간 내 확대되며 시장·지정학적 영향이 커지기 때문입니다.",
-      "topics": [
-        "Investment",
-        "Manufacturing",
-        "Competition",
-        "Roadmap"
-      ],
-      "status": "ONGOING",
-      "hash": "a2aca561322c886693eb82afe72ed1d943eb8ee2625671e31aca15bd259928d6",
-      "url": "https://www.eetimes.com/tsmc-boosts-2026-expansion-budget-adds-100b-to-u-s-investment/"
-    },
-    {
-      "id": "semiconductor_0003",
-      "tab": "semiconductor",
-      "publishedAt": "2026-07-18T00:45:27+09:00",
-      "source": "TechInsights",
-      "title": "Go Beyond Behind the Headlines | Free TechInsights Platform",
-      "summary": [
-        "TechInsights가 반도체 리서치·역공학·시장 인텔리전스를 무료 계정 기반 플랫폼 형태로 더 넓게 개방하고 있다.",
-        "비가입·무료 등록·유료 구독의 3단계 접근 모델을 통해 뉴스레터, 웨비나, 리포트 프리뷰와 전체 보고서, 커스텀 애널리스트 지원까지 차등 제공한다.",
-        "플랫폼은 실제 디바이스 역공학 데이터에 기반한 심층 반도체 인사이트를 제공해 엔지니어·제품팀·경영진·투자자·공급망 담당자 등의 의사결정을 지원한다."
-      ],
-      "whyItMatters": "반도체 산업 전반 이해관계자에게 고품질 정보·분석 접근성을 확대하면서 TechInsights의 유료 리서치 구독과 영향력 확장에 직접적으로 기여할 수 있는 플랫폼 전략 변화이기 때문이다.",
-      "topics": [
-        "Investment",
-        "Roadmap",
-        "Competition"
-      ],
-      "status": "NEW",
-      "hash": "f411d1a5cffe33742c753a763983f483f97ee789f4e5d05db3e19b9d38e2cdee",
-      "url": "https://www.techinsights.com/behind-the-headlines/free-trial"
-    }
-  ]
+  "cards": []
 }

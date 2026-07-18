@@ -1,5 +1,144 @@
 [
   {
+    "id": "2026-07-19T07:11:41.436845+09:00",
+    "ts": "2026-07-19T07:11:41.436845+09:00",
+    "timezone": "Asia/Seoul",
+    "selectedTabs": [
+      "ai",
+      "finance",
+      "semiconductor",
+      "ev",
+      "realestate"
+    ],
+    "pipeline": {
+      "rawTotal": 209,
+      "rawClamped": 150,
+      "rawByTabBeforeClamp": {
+        "ai": 100,
+        "finance": 40,
+        "semiconductor": 35,
+        "ev": 15,
+        "realestate": 19
+      },
+      "rawByTabAfterClamp": {
+        "ai": 70,
+        "finance": 15,
+        "semiconductor": 35,
+        "ev": 15,
+        "realestate": 15
+      },
+      "deduped": 150,
+      "dedupedSelected": 150,
+      "enriched": 150
+    },
+    "sources": {
+      "rss": {
+        "total": 179,
+        "bySource": {
+          "OpenAI Blog": 15,
+          "Google DeepMind Blog": 15,
+          "Microsoft Research Blog": 10,
+          "NVIDIA Developer Blog": 15,
+          "Hugging Face Blog": 15,
+          "Samsung Newsroom": 15,
+          "EE Times": 10,
+          "TechInsights": 10,
+          "Electrek": 15,
+          "매일경제(증권)": 15,
+          "보안뉴스": 10,
+          "벤처스퀘어": 15,
+          "한국경제(부동산)": 2,
+          "매일경제(부동산)": 11,
+          "헤럴드경제(부동산)": 6
+        }
+      },
+      "hf": {
+        "total": 0
+      },
+      "hn": {
+        "total": 0
+      }
+    },
+    "llm": {
+      "itemCalls": 150,
+      "highlightsCalls": 5,
+      "issueCalls": 10
+    },
+    "errors": [],
+    "tabs": {
+      "ai": {
+        "daily": {
+          "raw": 0,
+          "cards": 0
+        },
+        "weekly": {
+          "items": 20,
+          "issues": 5
+        },
+        "monthly": {
+          "items": 76,
+          "issues": 5
+        }
+      },
+      "finance": {
+        "daily": {
+          "raw": 6,
+          "cards": 2
+        },
+        "weekly": {
+          "items": 14,
+          "issues": 5
+        },
+        "monthly": {
+          "items": 68,
+          "issues": 5
+        }
+      },
+      "semiconductor": {
+        "daily": {
+          "raw": 0,
+          "cards": 0
+        },
+        "weekly": {
+          "items": 16,
+          "issues": 5
+        },
+        "monthly": {
+          "items": 68,
+          "issues": 5
+        }
+      },
+      "ev": {
+        "daily": {
+          "raw": 4,
+          "cards": 2
+        },
+        "weekly": {
+          "items": 12,
+          "issues": 5
+        },
+        "monthly": {
+          "items": 52,
+          "issues": 5
+        }
+      },
+      "realestate": {
+        "daily": {
+          "raw": 4,
+          "cards": 4
+        },
+        "weekly": {
+          "items": 29,
+          "issues": 5
+        },
+        "monthly": {
+          "items": 122,
+          "issues": 5
+        }
+      }
+    }
+  },
+  {
     "id": "2026-07-18T07:11:11.084230+09:00",
     "ts": "2026-07-18T07:11:11.084230+09:00",
     "timezone": "Asia/Seoul",
@@ -824,144 +963,6 @@
         "daily": {
           "raw": 10,
           "cards": 5
-        },
-        "weekly": {
-          "items": 25,
-          "issues": 5
-        },
-        "monthly": {
-          "items": 123,
-          "issues": 5
-        }
-      }
-    }
-  },
-  {
-    "id": "2026-07-12T07:11:02.361987+09:00",
-    "ts": "2026-07-12T07:11:02.361987+09:00",
-    "timezone": "Asia/Seoul",
-    "selectedTabs": [
-      "ai",
-      "finance",
-      "semiconductor",
-      "ev",
-      "realestate"
-    ],
-    "pipeline": {
-      "rawTotal": 200,
-      "rawClamped": 150,
-      "rawByTabBeforeClamp": {
-        "ai": 100,
-        "finance": 30,
-        "semiconductor": 35,
-        "ev": 15,
-        "realestate": 20
-      },
-      "rawByTabAfterClamp": {
-        "ai": 70,
-        "finance": 15,
-        "semiconductor": 35,
-        "ev": 15,
-        "realestate": 15
-      },
-      "deduped": 150,
-      "dedupedSelected": 150,
-      "enriched": 150
-    },
-    "sources": {
-      "rss": {
-        "total": 170,
-        "bySource": {
-          "OpenAI Blog": 15,
-          "Google DeepMind Blog": 15,
-          "Microsoft Research Blog": 10,
-          "NVIDIA Developer Blog": 15,
-          "Hugging Face Blog": 15,
-          "Samsung Newsroom": 15,
-          "EE Times": 10,
-          "TechInsights": 10,
-          "Electrek": 15,
-          "매일경제(증권)": 15,
-          "벤처스퀘어": 15,
-          "한국경제(부동산)": 5,
-          "매일경제(부동산)": 7,
-          "헤럴드경제(부동산)": 8
-        }
-      },
-      "hf": {
-        "total": 0
-      },
-      "hn": {
-        "total": 0
-      }
-    },
-    "llm": {
-      "itemCalls": 150,
-      "highlightsCalls": 5,
-      "issueCalls": 10
-    },
-    "errors": [],
-    "tabs": {
-      "ai": {
-        "daily": {
-          "raw": 0,
-          "cards": 0
-        },
-        "weekly": {
-          "items": 22,
-          "issues": 5
-        },
-        "monthly": {
-          "items": 69,
-          "issues": 5
-        }
-      },
-      "finance": {
-        "daily": {
-          "raw": 4,
-          "cards": 2
-        },
-        "weekly": {
-          "items": 14,
-          "issues": 5
-        },
-        "monthly": {
-          "items": 68,
-          "issues": 5
-        }
-      },
-      "semiconductor": {
-        "daily": {
-          "raw": 0,
-          "cards": 0
-        },
-        "weekly": {
-          "items": 17,
-          "issues": 5
-        },
-        "monthly": {
-          "items": 69,
-          "issues": 5
-        }
-      },
-      "ev": {
-        "daily": {
-          "raw": 3,
-          "cards": 2
-        },
-        "weekly": {
-          "items": 12,
-          "issues": 5
-        },
-        "monthly": {
-          "items": 53,
-          "issues": 5
-        }
-      },
-      "realestate": {
-        "daily": {
-          "raw": 0,
-          "cards": 0
         },
         "weekly": {
           "items": 25,
