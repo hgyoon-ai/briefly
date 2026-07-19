@@ -2,6 +2,75 @@
   "month": "2026-07",
   "events": [
     {
+      "id": "news:토스증권:https://www.fnnews.com/news/202607182252227016",
+      "date": "2026-07-19",
+      "company": "토스증권",
+      "title": "챗GPT 끊은 일주일…여행도 쇼핑도 '삶의 질 뚝'",
+      "oneLiner": "챗GPT 등 생성형 AI 의존을 끊고 일주일 생활해 본 경험을 통해 일상과 의사결정에서 챗봇의 영향력을 체감했다는 개인적 르포 기사입니다.",
+      "type": "기타",
+      "areas": [
+        "상담"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "챗GPT 끊은 일주일…여행도 쇼핑도 '삶의 질 뚝'",
+          "url": "https://www.fnnews.com/news/202607182252227016"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.5,
+      "updatedAt": "2026-07-20"
+    },
+    {
+      "id": "news:KB증권:http://www.boannews.com/media/view.asp?idx=144638&kind=&sub_kind=",
+      "date": "2026-07-19",
+      "company": "KB증권",
+      "title": "[ISEC 2026 미리보기] 엑스소프트, 문서중앙화 솔루션 ‘rGate’로 AI 시대 보안형 스마트워크 환경 제시",
+      "oneLiner": "엑스소프트가 문서중앙화·이미징·협업을 아우르는 스마트워크 플랫폼을 소개하며 AI 시대 보안형 업무 환경을 제시한다는 보안 솔루션 소개 기사입니다.",
+      "type": "시스템",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "보안뉴스",
+          "title": "[ISEC 2026 미리보기] 엑스소프트, 문서중앙화 솔루션 ‘rGate’로 AI 시대 보안형 스마트워크 환경 제시",
+          "url": "http://www.boannews.com/media/view.asp?idx=144638&kind=&sub_kind="
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-07-20"
+    },
+    {
+      "id": "news:신한투자증권:http://www.boannews.com/media/view.asp?idx=144635&kind=&sub_kind=",
+      "date": "2026-07-19",
+      "company": "신한투자증권",
+      "title": "[ISEC 2026 미리보기] 에어코드, 고도화된 RBI 플랫폼 ‘AirRBI 1.5’ 선보인다",
+      "oneLiner": "에어코드가 고도화된 RBI 플랫폼 'AirRBI 1.5'를 선보이며 웹 격리 기술과 AI 보안 기능으로 금융·공공 분야 보안 경쟁력을 강화한다는 기사입니다.",
+      "type": "시스템",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "보안뉴스",
+          "title": "[ISEC 2026 미리보기] 에어코드, 고도화된 RBI 플랫폼 ‘AirRBI 1.5’ 선보인다",
+          "url": "http://www.boannews.com/media/view.asp?idx=144635&kind=&sub_kind="
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-07-20"
+    },
+    {
       "id": "news:토스증권:https://www.fnnews.com/news/202607161041094858",
       "date": "2026-07-16",
       "company": "토스증권",
