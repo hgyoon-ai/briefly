@@ -1,6 +1,6 @@
 {
-  "id": "2026-07-20T07:14:01.645074+09:00",
-  "ts": "2026-07-20T07:14:01.645074+09:00",
+  "id": "2026-07-21T07:28:40.715708+09:00",
+  "ts": "2026-07-21T07:28:40.715708+09:00",
   "timezone": "Asia/Seoul",
   "selectedTabs": [
     "ai",
@@ -10,14 +10,14 @@
     "realestate"
   ],
   "pipeline": {
-    "rawTotal": 215,
+    "rawTotal": 218,
     "rawClamped": 150,
     "rawByTabBeforeClamp": {
       "ai": 100,
       "finance": 40,
       "semiconductor": 45,
       "ev": 15,
-      "realestate": 15
+      "realestate": 18
     },
     "rawByTabAfterClamp": {
       "ai": 70,
@@ -32,7 +32,7 @@
   },
   "sources": {
     "rss": {
-      "total": 185,
+      "total": 188,
       "bySource": {
         "OpenAI Blog": 15,
         "Google DeepMind Blog": 15,
@@ -47,9 +47,9 @@
         "매일경제(증권)": 15,
         "보안뉴스": 10,
         "벤처스퀘어": 15,
-        "한국경제(부동산)": 4,
-        "매일경제(부동산)": 5,
-        "헤럴드경제(부동산)": 6
+        "한국경제(부동산)": 3,
+        "매일경제(부동산)": 8,
+        "헤럴드경제(부동산)": 7
       }
     },
     "hf": {
@@ -68,15 +68,15 @@
   "tabs": {
     "ai": {
       "daily": {
-        "raw": 0,
-        "cards": 0
+        "raw": 4,
+        "cards": 4
       },
       "weekly": {
         "items": 17,
         "issues": 5
       },
       "monthly": {
-        "items": 76,
+        "items": 80,
         "issues": 5
       }
     },
@@ -96,21 +96,21 @@
     },
     "semiconductor": {
       "daily": {
-        "raw": 0,
-        "cards": 0
+        "raw": 8,
+        "cards": 4
       },
       "weekly": {
         "items": 14,
         "issues": 5
       },
       "monthly": {
-        "items": 67,
+        "items": 71,
         "issues": 5
       }
     },
     "ev": {
       "daily": {
-        "raw": 3,
+        "raw": 13,
         "cards": 2
       },
       "weekly": {
@@ -124,7 +124,7 @@
     },
     "realestate": {
       "daily": {
-        "raw": 11,
+        "raw": 15,
         "cards": 5
       },
       "weekly": {
@@ -132,7 +132,7 @@
         "issues": 5
       },
       "monthly": {
-        "items": 124,
+        "items": 125,
         "issues": 5
       }
     }
