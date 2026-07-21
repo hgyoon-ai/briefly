@@ -2,6 +2,98 @@
   "month": "2026-07",
   "events": [
     {
+      "id": "news:토스증권:https://www.mk.co.kr/news/stock/12103304",
+      "date": "2026-07-21",
+      "company": "토스증권",
+      "title": "토스증권, 국내 기업 AI 어닝콜 출시 3개월…이용자 60만명 돌파",
+      "oneLiner": "토스증권의 AI 기반 국내 기업 어닝콜 서비스가 출시 3개월 만에 누적 이용자 60만명을 돌파했다.",
+      "type": "출시",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "토스증권, 국내 기업 AI 어닝콜 출시 3개월…이용자 60만명 돌파",
+          "url": "https://www.mk.co.kr/news/stock/12103304"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-07-22"
+    },
+    {
+      "id": "news:키움증권:https://www.mk.co.kr/news/stock/12103234",
+      "date": "2026-07-21",
+      "company": "키움증권",
+      "title": "“AI 트레이딩 개발 쉬워진다”…키움증권, REST API 개발도구 공개",
+      "oneLiner": "키움증권이 AI 트레이딩 개발을 지원하기 위해 REST API 개발도구를 공개했다.",
+      "type": "시스템",
+      "areas": [
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“AI 트레이딩 개발 쉬워진다”…키움증권, REST API 개발도구 공개",
+          "url": "https://www.mk.co.kr/news/stock/12103234"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-07-22"
+    },
+    {
+      "id": "news:토스증권:https://www.fnnews.com/news/202607211050291075",
+      "date": "2026-07-21",
+      "company": "토스증권",
+      "title": "토스증권 AI 어닝콜 통했다…3개월 만에 이용자 60만명 돌파",
+      "oneLiner": "토스증권의 AI 기반 국내 기업 어닝콜 서비스가 출시 후 3개월 만에 누적 이용자 60만명을 돌파했다.",
+      "type": "출시",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "토스증권 AI 어닝콜 통했다…3개월 만에 이용자 60만명 돌파",
+          "url": "https://www.fnnews.com/news/202607211050291075"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-07-22"
+    },
+    {
+      "id": "news:토스증권:https://www.fnnews.com/news/202607211809321863",
+      "date": "2026-07-21",
+      "company": "토스증권",
+      "title": "국내기업 '어닝콜' 도입 석달... 토스證 \"이용자 60만명 돌파\"",
+      "oneLiner": "토스증권의 국내 기업 대상 AI 어닝콜 서비스가 도입 석달 만에 이용자 60만명을 넘겼다.",
+      "type": "출시",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "국내기업 '어닝콜' 도입 석달... 토스證 \"이용자 60만명 돌파\"",
+          "url": "https://www.fnnews.com/news/202607211809321863"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-07-22"
+    },
+    {
       "id": "news:키움증권:https://www.fnnews.com/news/202607201344383626",
       "date": "2026-07-20",
       "company": "키움증권",
