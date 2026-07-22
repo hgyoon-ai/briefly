@@ -2,6 +2,75 @@
   "month": "2026-07",
   "events": [
     {
+      "id": "news:하나증권:https://www.hankyung.com/article/2026072285271",
+      "date": "2026-07-22",
+      "company": "하나증권",
+      "title": "하나증권, 연금자산 일임 서비스 '1Q 스마트 개인연금 랩' 출시",
+      "oneLiner": "하나증권이 연금자산 일임 서비스 '1Q 스마트 개인연금 랩'을 출시했습니다. 개인연금 운용을 위한 신규 WM 상품 출시로 서비스 라인업 확장에 해당합니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "하나증권, 연금자산 일임 서비스 '1Q 스마트 개인연금 랩' 출시",
+          "url": "https://www.hankyung.com/article/2026072285271"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-07-23"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202607221443341763",
+      "date": "2026-07-22",
+      "company": "한국투자증권",
+      "title": "신한투자증권, '워크플레이스 WM' 고객사 200곳 돌파",
+      "oneLiner": "신한투자증권의 '워크플레이스 WM'이 MOU 체결 기업 수 200곳을 돌파했습니다. B2B 도입 확대 및 제휴 성과로 서비스 확장과 영업·제휴 활동에 해당합니다.",
+      "type": "제휴",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "신한투자증권, '워크플레이스 WM' 고객사 200곳 돌파",
+          "url": "https://www.fnnews.com/news/202607221443341763"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-07-23"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202607221811527881",
+      "date": "2026-07-22",
+      "company": "한국투자증권",
+      "title": "신한투증 기업 자산관리 입소문…한달만에 고객사 2배로 늘었다",
+      "oneLiner": "신한투자증권의 B2B 자산관리 플랫폼 '신한 프리미어 워크플레이스 WM'이 MOU 체결 기업 수가 한 달 만에 2배로 늘어나며 빠르게 도입이 확산되고 있다.",
+      "type": "제휴",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "신한투증 기업 자산관리 입소문…한달만에 고객사 2배로 늘었다",
+          "url": "https://www.fnnews.com/news/202607221811527881"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-23"
+    },
+    {
       "id": "news:한국투자증권:https://www.hankyung.com/article/2026072169006",
       "date": "2026-07-21",
       "company": "한국투자증권",
@@ -161,7 +230,7 @@
       ],
       "tags": [],
       "confidence": 0.8,
-      "updatedAt": "2026-07-22"
+      "updatedAt": "2026-07-23"
     },
     {
       "id": "b175404084b14da4c6dcb3c34221fb177216c810",
@@ -184,7 +253,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-07-22"
+      "updatedAt": "2026-07-23"
     },
     {
       "id": "news:KB증권:https://www.fnnews.com/news/202607201035578874",
