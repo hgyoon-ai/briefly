@@ -2,6 +2,331 @@
   "month": "2026-07",
   "events": [
     {
+      "id": "0b75444446114c60a2cfb8c774c5492d2681597e",
+      "date": "2026-07-23",
+      "company": "NH투자증권",
+      "title": "최대주주등소유주식변동신고서              ",
+      "oneLiner": "NH투자증권이 최대주주 등 소유주식 변동을 신고한 공시로, 지배구조나 주요 주주 구성 변화와 관련된 기업 공시입니다.",
+      "type": "규제",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "최대주주등소유주식변동신고서              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260723800974"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-24"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12105755",
+      "date": "2026-07-23",
+      "company": "미래에셋증권",
+      "title": "미래에셋에 안긴 코빗 '디지털X' 새 이름 단다",
+      "oneLiner": "미래에셋그룹이 인수한 코빗의 사명을 '디지털 엑스(Digital X)'로 변경하기로 한 보도로, 가상자산 사업의 브랜드·전략 변화에 해당합니다.",
+      "type": "제휴",
+      "areas": [
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "미래에셋에 안긴 코빗 '디지털X' 새 이름 단다",
+          "url": "https://www.mk.co.kr/news/stock/12105755"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-07-24"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12105594",
+      "date": "2026-07-23",
+      "company": "한국투자증권",
+      "title": "코인원, 한투·OKX 주주 체제 완성…FIU 대주주 변경 수리",
+      "oneLiner": "코인원이 한국투자·OKX 체제로 주주구성이 정리되고 금융정보분석원(FIU)의 대주주 변경 수리를 받았다는 보도로, 가상자산 사업의 대주주·규제 승인 관련 변화입니다.",
+      "type": "규제",
+      "areas": [
+        "AML"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "코인원, 한투·OKX 주주 체제 완성…FIU 대주주 변경 수리",
+          "url": "https://www.mk.co.kr/news/stock/12105594"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-24"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12105461",
+      "date": "2026-07-23",
+      "company": "미래에셋증권",
+      "title": "미래에셋에 안긴 코빗, ‘디지털X’로 새출발…박현주 “미래에셋 3.0 서막”",
+      "oneLiner": "미래에셋이 인수한 코빗을 '디지털X'로 재브랜딩하고 RWA·STO·스테이블코인 등 사업 확장을 천명한 보도로, 가상자산 사업 전략 변경에 해당합니다.",
+      "type": "제휴",
+      "areas": [
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "미래에셋에 안긴 코빗, ‘디지털X’로 새출발…박현주 “미래에셋 3.0 서막”",
+          "url": "https://www.mk.co.kr/news/stock/12105461"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-07-24"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12105383",
+      "date": "2026-07-23",
+      "company": "한국투자증권",
+      "title": "한국투자증권, 네이버페이 ‘연금 상담 서비스’ 개시…최대 2만원 혜택",
+      "oneLiner": "한국투자증권이 네이버페이와 제휴해 연금 상담 서비스를 개시하고 이용 혜택을 제공한다는 보도로, 제휴 기반의 서비스 출시·운영 변화입니다.",
+      "type": "제휴",
+      "areas": [
+        "상담",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한국투자증권, 네이버페이 ‘연금 상담 서비스’ 개시…최대 2만원 혜택",
+          "url": "https://www.mk.co.kr/news/stock/12105383"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-24"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202607230804495652",
+      "date": "2026-07-23",
+      "company": "KB증권",
+      "title": "KB증권 \"두산에너빌리티, 美원전 발주 공백은 가스터빈이 채운다..내년 수주 기대\"",
+      "oneLiner": "KB증권 연구원이 두산에너빌리티에 대해 투자의견 '매수'를 유지하되 목표주가를 10.3% 하향하고 미국 원전 수주 시점을 내년으로 조정하며 가스터빈 성장으로 보완될 것으로 전망했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "KB증권 \"두산에너빌리티, 美원전 발주 공백은 가스터빈이 채운다..내년 수주 기대\"",
+          "url": "https://www.fnnews.com/news/202607230804495652"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-24"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202607230836424561",
+      "date": "2026-07-23",
+      "company": "한국투자증권",
+      "title": "한투운용, ACE ETF 대학생 서포터즈 2기 출범",
+      "oneLiner": "한투운용이 ACE ETF 홍보·교육을 위한 대학생 서포터즈 2기를 출범해 20명을 선발하고 약 5개월간 활동하게 했다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투운용, ACE ETF 대학생 서포터즈 2기 출범",
+          "url": "https://www.fnnews.com/news/202607230836424561"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-07-24"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202607230912470823",
+      "date": "2026-07-23",
+      "company": "하나증권",
+      "title": "하나證, 연금 수익률 '3분기 연속 1위'…조직 개편 효과 톡톡",
+      "oneLiner": "하나증권이 연금 운용 성과와 최근 조직 개편 효과를 앞세워 개인형 IRP 등에서 업계 상위권 수익률을 기록하며 연금사업 경쟁력을 강화하고 있다.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "하나證, 연금 수익률 '3분기 연속 1위'…조직 개편 효과 톡톡",
+          "url": "https://www.fnnews.com/news/202607230912470823"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-24"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202607230950307528",
+      "date": "2026-07-23",
+      "company": "한국투자증권",
+      "title": "\"한투증권 연금 상담원, 네이버페이에서 만난다\"",
+      "oneLiner": "한국투자증권이 네이버페이와 제휴해 Npay 연금 메뉴에서 예약형 1:1 연금 상담 서비스를 제공하는 연금 상담 채널을 도입했다.",
+      "type": "제휴",
+      "areas": [
+        "상담",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"한투증권 연금 상담원, 네이버페이에서 만난다\"",
+          "url": "https://www.fnnews.com/news/202607230950307528"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-24"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202607231003567082",
+      "date": "2026-07-23",
+      "company": "미래에셋증권",
+      "title": "미래에셋 TIGER 美나스닥100 커버드콜, 해외형 첫 '2조 ETF' 됐다",
+      "oneLiner": "미래에셋의 'TIGER 미국나스닥100 타겟데일리커버드콜 ETF'가 순자산 2조원을 돌파하며 해외 커버드콜 ETF 가운데 최대 규모가 됐다.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋 TIGER 美나스닥100 커버드콜, 해외형 첫 '2조 ETF' 됐다",
+          "url": "https://www.fnnews.com/news/202607231003567082"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-07-24"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202607231444400264",
+      "date": "2026-07-23",
+      "company": "한국투자증권",
+      "title": "신한투자증권, 상반기 순익 5777억원…지난해 2.2배 규모",
+      "oneLiner": "신한투자증권이 상반기 당기순이익 5777억원을 기록하며 전년 대비 실적이 크게 개선됐다고 발표했다.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "신한투자증권, 상반기 순익 5777억원…지난해 2.2배 규모",
+          "url": "https://www.fnnews.com/news/202607231444400264"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-07-24"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202607231806495390",
+      "date": "2026-07-23",
+      "company": "하나증권",
+      "title": "하나證 조직개편 효과… 연금자산 5조 보인다",
+      "oneLiner": "하나증권은 연금사업 조직개편의 효과로 연금자산 5조원 돌파 가능성이 제기되며 연금시장 점유율 확대에 속도를 내고 있다.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "하나證 조직개편 효과… 연금자산 5조 보인다",
+          "url": "https://www.fnnews.com/news/202607231806495390"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-07-24"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202607231806502204",
+      "date": "2026-07-23",
+      "company": "한국투자증권",
+      "title": "한투증권, 연금 상담 서비스 채널 확대",
+      "oneLiner": "한국투자증권이 네이버페이 등 외부 플랫폼과의 협업을 통해 연금 상담 서비스 채널을 확대하고 비대면 고객 접점을 넓혔다.",
+      "type": "제휴",
+      "areas": [
+        "상담",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투증권, 연금 상담 서비스 채널 확대",
+          "url": "https://www.fnnews.com/news/202607231806502204"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-24"
+    },
+    {
+      "id": "news:KB증권:http://www.boannews.com/media/view.asp?idx=144815&kind=&sub_kind=",
+      "date": "2026-07-23",
+      "company": "KB증권",
+      "title": "K-보안, 캄보디아 금융시장으로... 스틸리언, KB프라삭은행에 ‘앱수트’ 공급",
+      "oneLiner": "스틸리언이 KB프라삭은행에 모바일 앱 보안 솔루션 '앱수트'를 공급하며 국내 금융권 검증 기술의 동남아 진출 사례를 만들었다.",
+      "type": "시스템",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "보안뉴스",
+          "title": "K-보안, 캄보디아 금융시장으로... 스틸리언, KB프라삭은행에 ‘앱수트’ 공급",
+          "url": "http://www.boannews.com/media/view.asp?idx=144815&kind=&sub_kind="
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-07-24"
+    },
+    {
       "id": "news:하나증권:https://www.hankyung.com/article/2026072285271",
       "date": "2026-07-22",
       "company": "하나증권",
