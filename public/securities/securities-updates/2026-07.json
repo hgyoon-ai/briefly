@@ -2,6 +2,190 @@
   "month": "2026-07",
   "events": [
     {
+      "id": "news:한국투자증권:https://www.hankyung.com/article/2026072436566",
+      "date": "2026-07-24",
+      "company": "한국투자증권",
+      "title": "한국투자증권, 인베스팅닷컴 계좌 개설 연동 서비스 출시",
+      "oneLiner": "한국투자증권이 인베스팅닷컴과 연동해 계좌 개설 연동 서비스를 출시해 플랫폼 제휴를 통한 고객 유입 경로를 확장함.",
+      "type": "출시",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "한국투자증권, 인베스팅닷컴 계좌 개설 연동 서비스 출시",
+          "url": "https://www.hankyung.com/article/2026072436566"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-07-25"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12106461",
+      "date": "2026-07-24",
+      "company": "한국투자증권",
+      "title": "한국투자증권, 인베스팅닷컴서 계좌 개설 서비스…국내 증권사 첫 연동",
+      "oneLiner": "한국투자증권이 글로벌 플랫폼 인베스팅닷컴과 제휴해 플랫폼 내에서 계좌개설 연동 서비스를 제공하는 국내 첫 사례를 공개함.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한국투자증권, 인베스팅닷컴서 계좌 개설 서비스…국내 증권사 첫 연동",
+          "url": "https://www.mk.co.kr/news/stock/12106461"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-25"
+    },
+    {
+      "id": "news:토스증권:https://www.mk.co.kr/news/stock/12106436",
+      "date": "2026-07-24",
+      "company": "토스증권",
+      "title": "토스증권, 연금저축계좌 출시…‘예상 절세액’도 한눈에",
+      "oneLiner": "토스증권이 연금저축계좌 상품을 출시하고 예상 절세액 확인·자동적립 등 기능을 제공하며 연금 투자 시장을 공략함.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "토스증권, 연금저축계좌 출시…‘예상 절세액’도 한눈에",
+          "url": "https://www.mk.co.kr/news/stock/12106436"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.96,
+      "updatedAt": "2026-07-25"
+    },
+    {
+      "id": "news:KB증권:https://www.mk.co.kr/news/stock/12106324",
+      "date": "2026-07-24",
+      "company": "KB증권",
+      "title": "아이폰 출하 2억6000만대 ‘역대최대’…삼전닉스가 웃는 이유 [오늘 나온 보고서]",
+      "oneLiner": "KB증권의 보고서를 인용한 기사로 아이폰 출하 전망과 관련 수혜 업종 분석을 담은 리서치 성격의 콘텐츠임.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "아이폰 출하 2억6000만대 ‘역대최대’…삼전닉스가 웃는 이유 [오늘 나온 보고서]",
+          "url": "https://www.mk.co.kr/news/stock/12106324"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-25"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202607240826063448",
+      "date": "2026-07-24",
+      "company": "하나증권",
+      "title": "하나證 \"디아이, HBM 넘어 범용 D램·낸드까지…내년 신규팹 사이클도 본격화\"",
+      "oneLiner": "하나증권 연구원이 디아이의 실적 및 장비 공급 확대로 인한 성장 전망을 제시한 리서치 보고서 내용임.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "하나證 \"디아이, HBM 넘어 범용 D램·낸드까지…내년 신규팹 사이클도 본격화\"",
+          "url": "https://www.fnnews.com/news/202607240826063448"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-07-25"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202607241504075839",
+      "date": "2026-07-24",
+      "company": "NH투자증권",
+      "title": "NH證, 운용·자문사 CEO 초청 오찬...\"차별화된 WM 솔루션 강화\"",
+      "oneLiner": "NH투자증권이 운용·자문사 CEO와 오찬을 갖고 WM 상품 경쟁력 강화와 협업 확대 방안을 논의하며 제휴·영업 전략을 모색함.",
+      "type": "제휴",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "NH證, 운용·자문사 CEO 초청 오찬...\"차별화된 WM 솔루션 강화\"",
+          "url": "https://www.fnnews.com/news/202607241504075839"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-07-25"
+    },
+    {
+      "id": "news:토스증권:https://www.fnnews.com/news/202607241508036492",
+      "date": "2026-07-24",
+      "company": "토스증권",
+      "title": "토스증권, 첫 절세상품 '연금저축계좌' 출시...연금시장 본격 공략",
+      "oneLiner": "토스증권이 개인 대상 연금저축계좌를 출시해 연금 자산관리 서비스 라인업을 확장했다. 가입·운용 편의성 강화와 세액공제 혜택을 통해 WM 고객 유치 목적이다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "토스증권, 첫 절세상품 '연금저축계좌' 출시...연금시장 본격 공략",
+          "url": "https://www.fnnews.com/news/202607241508036492"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-07-25"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202607241629514436",
+      "date": "2026-07-24",
+      "company": "한국투자증권",
+      "title": "한투증권, 현대커머셜 위안화 김치본드 인수 참여",
+      "oneLiner": "한국투자증권이 현대커머셜 발행 위안화 김치본드 인수단에 참여해 외화표시 채권 인수·주관 역량을 확대했다. 위안화 채권 시장 확대에 대응한 사업 활동의 일환이다.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투증권, 현대커머셜 위안화 김치본드 인수 참여",
+          "url": "https://www.fnnews.com/news/202607241629514436"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-07-25"
+    },
+    {
       "id": "0b75444446114c60a2cfb8c774c5492d2681597e",
       "date": "2026-07-23",
       "company": "NH투자증권",
@@ -22,7 +206,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-07-24"
+      "updatedAt": "2026-07-25"
     },
     {
       "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12105755",
@@ -45,7 +229,7 @@
       ],
       "tags": [],
       "confidence": 0.85,
-      "updatedAt": "2026-07-24"
+      "updatedAt": "2026-07-25"
     },
     {
       "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12105594",
@@ -68,7 +252,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-07-24"
+      "updatedAt": "2026-07-25"
     },
     {
       "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12105461",
