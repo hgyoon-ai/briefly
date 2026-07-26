@@ -1,65 +1,12 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "highlights": {
-    "bullets": [
-      "핵심: SK그룹과 NVIDIA가 AI 팩토리와 차세대 메모리를 포함한 5천억 달러대 이상의 전략 협력을 확대했습니다.",
-      "핵심: 삼성전자와 브로드컴이 메모리와 파운드리 기술 전반에서 협력 확대를 골자로 하는 MOU를 체결했습니다."
-    ],
-    "topTopics": [
-      "Manufacturing",
-      "Demand",
-      "Roadmap",
-      "Investment"
-    ],
+    "bullets": [],
+    "topTopics": [],
     "stats": {
-      "collected": 2,
-      "deduped": 2
+      "collected": 0,
+      "deduped": 0
     }
   },
-  "cards": [
-    {
-      "id": "semiconductor_0001",
-      "tab": "semiconductor",
-      "publishedAt": "2026-07-25T13:39:50+09:00",
-      "source": "SK hynix Newsroom",
-      "title": "SK Group and NVIDIA Expand Strategic Partnership Across AI Factories and Next-Generation Memory",
-      "summary": [
-        "SK그룹과 NVIDIA가 AI 팩토리와 차세대 메모리를 포함한 5천억 달러대 이상 규모의 전략적 협력을 확대했습니다.",
-        "SK텔레콤이 글로벌 컴퓨트 수요 대응을 위해 2GW 규모의 NVIDIA Vera Rubin DSX AI 팩토리를 구축합니다.",
-        "이번 이니셔티브는 메모리와 AI 인프라 통합을 통해 글로벌 공급망과 컴퓨팅 역량을 크게 강화할 전망입니다."
-      ],
-      "whyItMatters": "거대한 투자와 인프라 확충이 글로벌 AI 컴퓨팅 수요와 메모리 생태계에 직접적인 영향(공급·수요·경쟁)을 미치기 때문입니다.",
-      "topics": [
-        "Investment",
-        "Manufacturing",
-        "Demand",
-        "Roadmap"
-      ],
-      "status": "ONGOING",
-      "hash": "db759b7fd9bedbcd0f632fe6b2fcfe1cb018ffc5c478eb5afd33a8ddf0474913",
-      "url": "https://news.skhynix.com/en/skhynix-nvidia-partnership-2026/"
-    },
-    {
-      "id": "semiconductor_0002",
-      "tab": "semiconductor",
-      "publishedAt": "2026-07-25T23:32:00+09:00",
-      "source": "Samsung Newsroom",
-      "title": "Samsung Electronics and Broadcom Expand Strategic Collaboration Across Memory and Foundry Technologies",
-      "summary": [
-        "삼성전자와 브로드컴이 메모리 및 파운드리 기술 전반에서 전략적 협력 확대를 골자로 하는 MOU를 체결했다.",
-        "협력은 차세대 AI 인프라 지원을 위해 기술 연계와 공급 협력을 강화하는 데 초점을 맞춘다.",
-        "이번 발표는 고성능 메모리 수요 증가와 파운드리 경쟁 구도에 즉각적인 영향이 예상된다."
-      ],
-      "whyItMatters": "AI 인프라의 핵심인 메모리·파운드리 역량을 보유한 양사의 협력 확대는 공급 안정성, 기술 로드맵 가속화 및 경쟁구도 변화에 직접적인 영향을 미치기 때문이다.",
-      "topics": [
-        "Manufacturing",
-        "Roadmap",
-        "Demand",
-        "Competition"
-      ],
-      "status": "NEW",
-      "hash": "bd739fbc33fb8bb2bb1f6e52a368ef4853fb982ea45c81a335d09392e24d0107",
-      "url": "https://news.samsung.com/global/samsung-electronics-and-broadcom-expand-strategic-collaboration-across-memory-and-foundry-technologies"
-    }
-  ]
+  "cards": []
 }
