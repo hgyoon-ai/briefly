@@ -2,6 +2,268 @@
   "month": "2026-07",
   "events": [
     {
+      "id": "news:한국투자증권:https://www.hankyung.com/article/2026072783046",
+      "date": "2026-07-27",
+      "company": "한국투자증권",
+      "title": "한국투자증권, 코인원 앱 연계 국내주식 거래 서비스 시작",
+      "oneLiner": "한국투자증권이 코인원 앱과 연계해 코인원 앱 내에서 국내 주식 거래 서비스를 시작했다.",
+      "type": "출시",
+      "areas": [
+        "트레이딩",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "한국투자증권, 코인원 앱 연계 국내주식 거래 서비스 시작",
+          "url": "https://www.hankyung.com/article/2026072783046"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-07-28"
+    },
+    {
+      "id": "news:하나증권:https://www.hankyung.com/article/2026072775116",
+      "date": "2026-07-27",
+      "company": "하나증권",
+      "title": "하나증권, 푸투증권 통한 외국인통합계좌 거래 개시",
+      "oneLiner": "하나증권이 홍콩 푸투증권과 협력해 외국인통합계좌(Omnibus Account)를 통한 국내주식 거래를 개시했다.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "하나증권, 푸투증권 통한 외국인통합계좌 거래 개시",
+          "url": "https://www.hankyung.com/article/2026072775116"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-07-28"
+    },
+    {
+      "id": "news:하나증권:https://www.mk.co.kr/news/stock/12108693",
+      "date": "2026-07-27",
+      "company": "하나증권",
+      "title": "하나證, 홍콩 푸투證 손잡고 외국인 통합계좌거래 개시",
+      "oneLiner": "하나증권이 홍콩 기반 푸투증권과 손잡고 외국인통합계좌 거래를 개시했다. 비거주 외국인의 국내 시장 접근성을 높이는 서비스 출시다.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "하나證, 홍콩 푸투證 손잡고 외국인 통합계좌거래 개시",
+          "url": "https://www.mk.co.kr/news/stock/12108693"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-28"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12108427",
+      "date": "2026-07-27",
+      "company": "한국투자증권",
+      "title": "한투증권·코인원 첫 협업 성과…앱 하나로 코인·주식 오간다",
+      "oneLiner": "한국투자증권과 코인원의 첫 협업 성과로 코인원 앱에 주식투자 탭을 신설하고 한국투자증권 WTS로 연동하는 서비스를 제공한다.",
+      "type": "출시",
+      "areas": [
+        "트레이딩",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한투증권·코인원 첫 협업 성과…앱 하나로 코인·주식 오간다",
+          "url": "https://www.mk.co.kr/news/stock/12108427"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-07-28"
+    },
+    {
+      "id": "news:하나증권:https://www.mk.co.kr/news/stock/12108355",
+      "date": "2026-07-27",
+      "company": "하나증권",
+      "title": "하나증권, 홍콩 푸투증권과 외국인통합계좌 거래 개시",
+      "oneLiner": "하나증권이 홍콩 푸투증권과 외국인통합계좌 거래를 개시했으며, 모바일 플랫폼 투자자 대상의 해외 투자 유입 채널을 확대한 것이 주요 내용이다.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "하나증권, 홍콩 푸투증권과 외국인통합계좌 거래 개시",
+          "url": "https://www.mk.co.kr/news/stock/12108355"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-28"
+    },
+    {
+      "id": "news:하나증권:https://www.mk.co.kr/news/stock/12108314",
+      "date": "2026-07-27",
+      "company": "하나증권",
+      "title": "“글로벌 공략 본격화”…하나증권, 홍콩 푸투증권과 외국인통합계좌 거래 개시",
+      "oneLiner": "하나증권이 푸투와의 협업을 통해 외국인통합계좌 거래를 본격화하며 글로벌 공략을 확대했다.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“글로벌 공략 본격화”…하나증권, 홍콩 푸투증권과 외국인통합계좌 거래 개시",
+          "url": "https://www.mk.co.kr/news/stock/12108314"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-28"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12108306",
+      "date": "2026-07-27",
+      "company": "한국투자증권",
+      "title": "코인원에서도 주식 산다…한국투자증권, 앱 연계 서비스 출시",
+      "oneLiner": "한국투자증권이 코인원 모바일 앱과 연계한 국내 주식 거래 서비스를 출시해 코인·주식 간 이동을 간소화했다.",
+      "type": "출시",
+      "areas": [
+        "트레이딩",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "코인원에서도 주식 산다…한국투자증권, 앱 연계 서비스 출시",
+          "url": "https://www.mk.co.kr/news/stock/12108306"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-07-28"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202607270921482805",
+      "date": "2026-07-27",
+      "company": "하나증권",
+      "title": "하나證, 푸투와 외국인 직거래 확대…\"韓증시 해외 자금 유치 속도\"",
+      "oneLiner": "하나증권이 푸투와 외국인통합계좌(Omnibus Account) 서비스를 정식 개시해 해외 개인투자자의 국내시장 접근성을 높이는 제휴를 시작했다.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "하나證, 푸투와 외국인 직거래 확대…\"韓증시 해외 자금 유치 속도\"",
+          "url": "https://www.fnnews.com/news/202607270921482805"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-28"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202607271340454254",
+      "date": "2026-07-27",
+      "company": "한국투자증권",
+      "title": "신한투자증권, 블록체인 네트워크 운영사 '디지털에셋'에 투자",
+      "oneLiner": "신한투자증권이 블록체인 네트워크 운영사 디지털에셋에 전략적 투자를 단행하며 디지털자산 생태계와의 협력 및 기관 대상 디지털자산 활용 기반 확대 계획을 밝혔다.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지",
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "신한투자증권, 블록체인 네트워크 운영사 '디지털에셋'에 투자",
+          "url": "https://www.fnnews.com/news/202607271340454254"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-07-28"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202607271810418545",
+      "date": "2026-07-27",
+      "company": "하나증권",
+      "title": "하나證 \"해외 개인투자자 잡아라\" 푸투證서 외국인통합계좌 서비스",
+      "oneLiner": "하나증권이 푸투증권과의 협력을 통해 외국인통합계좌 서비스를 정식 개시해 해외 개인투자자 대상 국내주식 접근성을 확대했다는 서비스 출시·제휴 공지입니다.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "하나證 \"해외 개인투자자 잡아라\" 푸투證서 외국인통합계좌 서비스",
+          "url": "https://www.fnnews.com/news/202607271810418545"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-07-28"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202607271813236952",
+      "date": "2026-07-27",
+      "company": "한국투자증권",
+      "title": "한국투자증권 인니법인 투자 챌린지 등 효과…올 2분기 증권계좌 개설수 282% 급증",
+      "oneLiner": "한국투자증권 인도네시아법인이 투자 챌린지·트레이딩 대회 등 고객참여 프로그램을 통해 증권계좌 개설이 급증한 운영 성과를 보고했습니다.",
+      "type": "기타",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한국투자증권 인니법인 투자 챌린지 등 효과…올 2분기 증권계좌 개설수 282% 급증",
+          "url": "https://www.fnnews.com/news/202607271813236952"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-07-28"
+    },
+    {
       "id": "news:한국투자증권:https://www.hankyung.com/article/2026072436566",
       "date": "2026-07-24",
       "company": "한국투자증권",
