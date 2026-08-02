@@ -1,62 +1,12 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "highlights": {
-    "bullets": [
-      "핵심: 휴머노이드 로봇의 관절과 손이 엣지 처리와 통합된 지능형 서브시스템으로 진화한다고 제안됐다.",
-      "핵심: 70건 제조 사례 분석에서 소규모 전자 제조업체들의 ERP 도입 경험이 전자 제조 중심으로 정리됐다."
-    ],
-    "topTopics": [
-      "Roadmap",
-      "Investment",
-      "Manufacturing"
-    ],
+    "bullets": [],
+    "topTopics": [],
     "stats": {
-      "collected": 2,
-      "deduped": 2
+      "collected": 0,
+      "deduped": 0
     }
   },
-  "cards": [
-    {
-      "id": "semiconductor_0001",
-      "tab": "semiconductor",
-      "publishedAt": "2026-08-01T23:00:00+09:00",
-      "source": "EE Times",
-      "title": "Humanoid Manipulation at the Edge of Physical Interaction",
-      "summary": [
-        "휴머노이드 로봇의 관절과 손이 지능형·센서 집약적 서브시스템으로 진화하며 엣지 처리와 밀접히 통합되고 있다.",
-        "논문은 고성능·확장 가능한 휴머노이드 조작 시스템을 위해 제어, 통신, 엣지 컴퓨팅을 긴밀히 결합하는 아키텍처를 제안한다.",
-        "이 과정에서 설계 복잡도, 실시간성, 안정성 등 주요 기술적 과제와 동시에 새로운 기회 요인이 정리된다."
-      ],
-      "whyItMatters": "휴머노이드 로봇의 지능형 조작 아키텍처는 향후 로봇 수요와 산업 전반의 자동화 경쟁력을 좌우할 핵심 기반 기술이기 때문이다.",
-      "topics": [
-        "Roadmap",
-        "Investment",
-        "Manufacturing"
-      ],
-      "status": "NEW",
-      "hash": "82326e9fbc8d20119df574f7dd84ddeb288af5a8572d5a4471a2166f10287147",
-      "url": "https://www.eetimes.com/humanoid-manipulation-at-the-edge-of-physical-interaction/"
-    },
-    {
-      "id": "semiconductor_0002",
-      "tab": "semiconductor",
-      "publishedAt": "2026-08-01T22:00:00+09:00",
-      "source": "EE Times",
-      "title": "ERP Statistics: Insights From 70 Manufacturing Case Studies",
-      "summary": [
-        "70건의 고객 사례 분석을 통해 소규모 제조업체들의 ERP 도입 경험을 집계했다.",
-        "특히 전자 제조업체들이 겪는 ERP 관련 사례와 의견을 중심으로 정리했다.",
-        "사례들은 향후 ERP 도입 전략 및 우선순위 설정에 실무적 인사이트를 제공한다."
-      ],
-      "whyItMatters": "소규모 전자 제조업체의 ERP 성공·실패 요인을 파악하면 도입 전략과 자원 배분을 최적화할 수 있기 때문입니다.",
-      "topics": [
-        "Manufacturing",
-        "Roadmap",
-        "Investment"
-      ],
-      "status": "ONGOING",
-      "hash": "39f4bcfbb083a694da4afa46ec33a3aab160e51ed4612faef43b63db9ae3099c",
-      "url": "https://www.eetimes.com/erp-statistics-insights-from-70-manufacturing-case-studies/"
-    }
-  ]
+  "cards": []
 }

@@ -1,38 +1,12 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "highlights": {
-    "bullets": [
-      "핵심: 수학 및 이론 컴퓨터 과학 분야에서 기하학, 암호학, 계산복잡도 등을 포함한 10가지 연구 성과가 공개되었습니다."
-    ],
-    "topTopics": [
-      "Research",
-      "Safety"
-    ],
+    "bullets": [],
+    "topTopics": [],
     "stats": {
-      "collected": 1,
-      "deduped": 1
+      "collected": 0,
+      "deduped": 0
     }
   },
-  "cards": [
-    {
-      "id": "ai_0001",
-      "tab": "ai",
-      "publishedAt": "2026-08-01T09:00:00+09:00",
-      "source": "OpenAI Blog",
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "summary": [
-        "OpenAI가 수학 및 이론 컴퓨터 과학 분야의 오랜 미해결 문제들에 대한 새로운 10가지 연구 성과를 공개했습니다.",
-        "발표된 성과들은 기하학, 암호학, 계산복잡도 등 여러 하위 분야에서 중요한 진전을 포함합니다.",
-        "이 결과들은 기초 이론의 이해를 확장하고 암호·알고리즘 설계 등 실용적 응용에 영향을 줄 수 있습니다."
-      ],
-      "whyItMatters": "기초 이론의 중요한 진전은 암호화 안전성, 알고리즘 성능, 향후 연구 방향에 직접적인 영향을 미치기 때문에 중요합니다.",
-      "topics": [
-        "Research",
-        "Safety"
-      ],
-      "status": "NEW",
-      "hash": "e299630b866e2d7ebb7f543050983e5dd910dbcd47a219178da9f4e988c6a6ce",
-      "url": "https://openai.com/index/ten-advances-in-mathematics"
-    }
-  ]
+  "cards": []
 }
