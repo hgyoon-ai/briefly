@@ -2,6 +2,98 @@
   "month": "2026-08",
   "events": [
     {
+      "id": "news:한국투자증권:https://www.hankyung.com/article/2026080317876",
+      "date": "2026-08-03",
+      "company": "한국투자증권",
+      "title": "신한투자증권, 국내 금융사 최초 'AI 에이전트부' 신설",
+      "oneLiner": "신한투자증권이 사람 없이 AI 에이전트로만 구성된 독립부서인 'AI 에이전트부'를 신설해 업무 자동화와 AI 전환(AX)을 가속화하고 있다.",
+      "type": "시스템",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "신한투자증권, 국내 금융사 최초 'AI 에이전트부' 신설",
+          "url": "https://www.hankyung.com/article/2026080317876"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-08-04"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202608031105008943",
+      "date": "2026-08-03",
+      "company": "한국투자증권",
+      "title": "\"AI로만 구성된 독립부서\"…신한투자증권, 'AI 에이전트부' 신설",
+      "oneLiner": "동일 사안 보도로 신한투자증권의 AI 에이전트만으로 구성된 독립부서 신설 내용을 상세히 보도하고 있으며, 업무는 자료작성·정보조사 등 리서치·문서자동화에 초점이 맞춰져 있다.",
+      "type": "시스템",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"AI로만 구성된 독립부서\"…신한투자증권, 'AI 에이전트부' 신설",
+          "url": "https://www.fnnews.com/news/202608031105008943"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-08-04"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202608031817140731",
+      "date": "2026-08-03",
+      "company": "한국투자증권",
+      "title": "팀장도 부원도 모두 'AI'.. 신한투증 독립부서 신설",
+      "oneLiner": "중복 보도로 신한투자증권의 AI 에이전트부 신설 사실을 재보도했으며, AI 거버넌스·보안·품질관리 체계와 시범 업무(홀세일 협업)에 대한 내용이 포함되어 있다.",
+      "type": "시스템",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "팀장도 부원도 모두 'AI'.. 신한투증 독립부서 신설",
+          "url": "https://www.fnnews.com/news/202608031817140731"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-08-04"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202608031707287520",
+      "date": "2026-08-03",
+      "company": "NH투자증권",
+      "title": "NH농협캐피탈, 오라클 솔루션 도입하니 업무 효율 '쑥'",
+      "oneLiner": "NH농협캐피탈이 오라클 OCI 기반 재해복구 환경과 자동화된 DR 절차를 도입해 운영 복원력과 비용 효율을 높이고 전자금융 감독규정 준수를 강화했다.",
+      "type": "시스템",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "NH농협캐피탈, 오라클 솔루션 도입하니 업무 효율 '쑥'",
+          "url": "https://www.fnnews.com/news/202608031707287520"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-08-04"
+    },
+    {
       "id": "news:토스증권:http://www.boannews.com/media/view.asp?idx=144708&kind=&sub_kind=",
       "date": "2026-08-02",
       "company": "토스증권",
