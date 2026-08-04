@@ -48,6 +48,261 @@
       "updatedAt": "2026-08-04"
     },
     {
+      "id": "19a6cc285e7bc5eeda1161f6a83bf5017b850ae6",
+      "date": "2026-08-04",
+      "company": "삼성증권",
+      "title": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "oneLiner": "삼성증권이 연결재무제표 기준 영업(잠정)실적을 공시(공정공시)하여 투자자에게 중요 재무정보를 공표함.",
+      "type": "규제",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260804800508"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-08-05"
+    },
+    {
+      "id": "f7812c39d8a32e468f9a6bff3ffb2efe38d6e068",
+      "date": "2026-08-04",
+      "company": "삼성증권",
+      "title": "기업설명회(IR)개최(안내공시)              ",
+      "oneLiner": "삼성증권이 기업설명회(IR) 개최를 공시해 투자자 대상 설명회 일정 및 정보를 안내함.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "기업설명회(IR)개최(안내공시)              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260804800109"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-08-05"
+    },
+    {
+      "id": "news:NH투자증권:https://www.hankyung.com/article/2026080432816",
+      "date": "2026-08-04",
+      "company": "NH투자증권",
+      "title": "NH아문디자산운용, 'HANARO 미국S&P500액티브' ETF 상장",
+      "oneLiner": "NH아문디자산운용의 'HANARO 미국S&P500액티브' ETF가 상장되어 신규 ETF 상품이 시장에 출시됨.",
+      "type": "출시",
+      "areas": [
+        "브로커리지",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "NH아문디자산운용, 'HANARO 미국S&P500액티브' ETF 상장",
+          "url": "https://www.hankyung.com/article/2026080432816"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-08-05"
+    },
+    {
+      "id": "news:하나증권:https://www.mk.co.kr/news/stock/12115923",
+      "date": "2026-08-04",
+      "company": "하나증권",
+      "title": "“윤활유 마진 3배 뛰었는데 주가도 뛰어야죠”…에쓰오일 목표가는 [오늘 나온 리포트]",
+      "oneLiner": "하나증권이 S-Oil 목표주가를 20만→22만원으로 상향 조정한 리서치 보고서를 발표함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“윤활유 마진 3배 뛰었는데 주가도 뛰어야죠”…에쓰오일 목표가는 [오늘 나온 리포트]",
+          "url": "https://www.mk.co.kr/news/stock/12115923"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-08-05"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202608040828183904",
+      "date": "2026-08-04",
+      "company": "하나증권",
+      "title": "하나證 \"파인엠텍, 북미 고객사 공급 본격화…신규 양산 사이클 진입\"",
+      "oneLiner": "하나증권은 파인엠텍의 북미 고객사향 신규 공급 본격화로 신규 양산 사이클 진입이 기대된다고 분석 보고서를 냄.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "하나證 \"파인엠텍, 북미 고객사 공급 본격화…신규 양산 사이클 진입\"",
+          "url": "https://www.fnnews.com/news/202608040828183904"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-08-05"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202608040851381801",
+      "date": "2026-08-04",
+      "company": "KB증권",
+      "title": "\"중국산 로봇 금지\" 美 규제에…LG이노텍 수혜 기대 -KB證",
+      "oneLiner": "KB증권은 美 규제로 중국산 로봇 수입이 제한되면 LG이노텍 등 국내 비전 센싱 업체가 반사이익을 볼 것으로 전망함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"중국산 로봇 금지\" 美 규제에…LG이노텍 수혜 기대 -KB證",
+          "url": "https://www.fnnews.com/news/202608040851381801"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.82,
+      "updatedAt": "2026-08-05"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202608040905352847",
+      "date": "2026-08-04",
+      "company": "한국투자증권",
+      "title": "코스피 8월 5500~7500선 전망…실적·퀄리티주로 고금리 방어-한투證",
+      "oneLiner": "한국투자증권이 8월 코스피 전망보고서에서 5500~7500 구간을 제시하고 실적·퀄리티주 중심의 방어전략을 권고함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "코스피 8월 5500~7500선 전망…실적·퀄리티주로 고금리 방어-한투證",
+          "url": "https://www.fnnews.com/news/202608040905352847"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-08-05"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202608041014584237",
+      "date": "2026-08-04",
+      "company": "KB증권",
+      "title": "LG이노텍, 美 중국 로봇 견제 반사이익…\"S-Oil, 윤활유 마진 3배, 주가도 뛰어야죠\" [株토피아]",
+      "oneLiner": "다수 증권사의 리포트를 종합해 LG이노텍·S-Oil·삼성E&A 등 주요 종목에 대한 투자견해와 근거를 정리한 기사임.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "LG이노텍, 美 중국 로봇 견제 반사이익…\"S-Oil, 윤활유 마진 3배, 주가도 뛰어야죠\" [株토피아]",
+          "url": "https://www.fnnews.com/news/202608041014584237"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-08-05"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202608041527360811",
+      "date": "2026-08-04",
+      "company": "한국투자증권",
+      "title": "신한투자증권, 매도증권담보대출 부담 확 낮췄다…금리 연 6.95%",
+      "oneLiner": "신한투자증권이 매도증권담보대출 금리를 연 6.95%로 인하하고 금리 체계를 단일화한다고 공지, 8월 20일 이후 신규 신청분에 적용될 예정임.",
+      "type": "시스템",
+      "areas": [
+        "브로커리지",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "신한투자증권, 매도증권담보대출 부담 확 낮췄다…금리 연 6.95%",
+          "url": "https://www.fnnews.com/news/202608041527360811"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-08-05"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202608041826024712",
+      "date": "2026-08-04",
+      "company": "한국투자증권",
+      "title": "신한투증 매도증권담보대출 금리 연 6.95%로 인하",
+      "oneLiner": "신한투자증권(기사)은 매도증권담보대출 금리를 단일화해 연 6.95%로 인하하기로 했고, 변경된 이자율은 8월 20일 이후 신규 신청분부터 적용된다.",
+      "type": "기타",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "신한투증 매도증권담보대출 금리 연 6.95%로 인하",
+          "url": "https://www.fnnews.com/news/202608041826024712"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-08-05"
+    },
+    {
+      "id": "news:토스증권:https://www.fnnews.com/news/202608041001105617",
+      "date": "2026-08-04",
+      "company": "토스증권",
+      "title": "비즈플레이, 토스플레이스와 서울페이 QR 결제 활성화",
+      "oneLiner": "비즈플레이와 토스플레이스가 전략적 업무협약(MOU)을 체결해 서울페이 QR 결제 기능을 토스플레이스 단말기에 적용하고 기업 비용관리 사업 협력을 추진한다.",
+      "type": "제휴",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "비즈플레이, 토스플레이스와 서울페이 QR 결제 활성화",
+          "url": "https://www.fnnews.com/news/202608041001105617"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-08-05"
+    },
+    {
       "id": "news:KB증권:https://www.fnnews.com/news/202608030933246248",
       "date": "2026-08-03",
       "company": "KB증권",
