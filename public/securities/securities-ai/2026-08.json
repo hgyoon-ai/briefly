@@ -2,6 +2,53 @@
   "month": "2026-08",
   "events": [
     {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202608051306408943",
+      "date": "2026-08-05",
+      "company": "NH투자증권",
+      "title": "NH투자증권, AI 금융 신뢰체계 논의…5대 정책 어젠다 제시",
+      "oneLiner": "NH투자증권이 AI 금융의 신뢰체계와 소비자 보호를 주제로 정책 세미나를 열고 5대 정책 어젠다를 제시해 규제·리스크 관련 논의를 주도했습니다.",
+      "type": "규제",
+      "areas": [
+        "리스크",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "NH투자증권, AI 금융 신뢰체계 논의…5대 정책 어젠다 제시",
+          "url": "https://www.fnnews.com/news/202608051306408943"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-08-06"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202608051040501111",
+      "date": "2026-08-05",
+      "company": "KB증권",
+      "title": "방송영상 117만건, AI 학습용으로 무료 공개",
+      "oneLiner": "주요 지상파 방송사가 보유한 방송영상 117만건을 AI 학습용 데이터로 공개해 연구·교육용 AI 데이터 인프라가 확대됩니다.",
+      "type": "출시",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "방송영상 117만건, AI 학습용으로 무료 공개",
+          "url": "https://www.fnnews.com/news/202608051040501111"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-08-06"
+    },
+    {
       "id": "news:KB증권:https://www.fnnews.com/news/202608041339192032",
       "date": "2026-08-04",
       "company": "KB증권",
