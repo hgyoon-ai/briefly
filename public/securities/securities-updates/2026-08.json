@@ -45,7 +45,7 @@
       ],
       "tags": [],
       "confidence": 0.95,
-      "updatedAt": "2026-08-07"
+      "updatedAt": "2026-08-08"
     },
     {
       "id": "news:한국투자증권:https://www.fnnews.com/news/202608070838257584",
@@ -68,7 +68,57 @@
       ],
       "tags": [],
       "confidence": 0.85,
-      "updatedAt": "2026-08-07"
+      "updatedAt": "2026-08-08"
+    },
+    {
+      "id": "news:NH투자증권:https://www.mk.co.kr/news/stock/12120970",
+      "date": "2026-08-07",
+      "company": "NH투자증권",
+      "title": "두나무, 경찰 압수코인 지킴이로…수사관 USB 대신 업비트서 맡는다",
+      "oneLiner": "두나무(업비트)가 경찰청의 압수 코인 보관 사업을 낙찰받아 1년 계약으로 100% 콜드월렛·다중서명·분산키·24시간 관제를 제공하는 보안성 강화 운영을 맡게 되었다는 보도입니다.",
+      "type": "제휴",
+      "areas": [
+        "AML",
+        "리스크",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "두나무, 경찰 압수코인 지킴이로…수사관 USB 대신 업비트서 맡는다",
+          "url": "https://www.mk.co.kr/news/stock/12120970"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-08-08"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202608071543408955",
+      "date": "2026-08-07",
+      "company": "한국투자증권",
+      "title": "'단일종목 레버리지 규제' 거래대금 90% 급감 - 한투증권",
+      "oneLiner": "한국투자증권 연구보고서는 금융당국의 단일종목 레버리지 규제 실시로 삼성전자·SK하이닉스 레버리지 상품의 일 거래대금이 최고치 대비 약 90% 급감했다고 분석했습니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치",
+        "트레이딩",
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "'단일종목 레버리지 규제' 거래대금 90% 급감 - 한투증권",
+          "url": "https://www.fnnews.com/news/202608071543408955"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-08-08"
     },
     {
       "id": "news:키움증권:https://www.fnnews.com/news/202608061058560017",
