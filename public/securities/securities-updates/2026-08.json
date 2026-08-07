@@ -2,6 +2,122 @@
   "month": "2026-08",
   "events": [
     {
+      "id": "news:KB증권:https://www.fnnews.com/news/202608070618349331",
+      "date": "2026-08-07",
+      "company": "KB증권",
+      "title": "\"코스피 역사적 저평가, 레버리지 충격 마무리\" …반도체 투매 끝났나",
+      "oneLiner": "KB증권 리서치에서 반도체 업종의 레버리지 포지션 청산과 수급 충격이 상당 부분 마무리됐으며 실적·펀더멘털 중심 장세 전환을 전망한 보고서.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"코스피 역사적 저평가, 레버리지 충격 마무리\" …반도체 투매 끝났나",
+          "url": "https://www.fnnews.com/news/202608070618349331"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-08-07"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202608070807219358",
+      "date": "2026-08-07",
+      "company": "NH투자증권",
+      "title": "\"스튜디오드래곤, 2분기 실적 기대치 상회\"-NH투자증권",
+      "oneLiner": "NH투자증권 연구원이 스튜디오드래곤의 2분기 실적이 컨센서스를 상회했다며 목표주가와 투자의견을 유지한 리포트 기사.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"스튜디오드래곤, 2분기 실적 기대치 상회\"-NH투자증권",
+          "url": "https://www.fnnews.com/news/202608070807219358"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-08-07"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202608070838257584",
+      "date": "2026-08-07",
+      "company": "한국투자증권",
+      "title": "'어닝 서프' 한국금융지주, 보험사 인수는 단기 변수...목표가 30만원 ↓ -신한證",
+      "oneLiner": "신한투자증권(기사 내용)이 한국금융지주에 대해 목표주가를 하향 조정하고 보험사 인수 관련 단기 변수를 언급한 리서치 보고서성 기사.",
+      "type": "리서치",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "'어닝 서프' 한국금융지주, 보험사 인수는 단기 변수...목표가 30만원 ↓ -신한證",
+          "url": "https://www.fnnews.com/news/202608070838257584"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-08-07"
+    },
+    {
+      "id": "news:키움증권:https://www.fnnews.com/news/202608061058560017",
+      "date": "2026-08-06",
+      "company": "키움증권",
+      "title": "키움증권, 트래블월렛과 맞손…외화·금융상품 연계 추진",
+      "oneLiner": "키움증권이 트래블월렛과 MOU를 체결해 외화 보유 정보와 금융투자상품 연계, 소수점 투자·적립식 서비스 등 공동 기획을 추진하는 제휴를 발표.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "키움증권, 트래블월렛과 맞손…외화·금융상품 연계 추진",
+          "url": "https://www.fnnews.com/news/202608061058560017"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-08-07"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202608061118453566",
+      "date": "2026-08-06",
+      "company": "한국투자증권",
+      "title": "신한證, IRP 수수료 무료·대출금리 인하…고객 투자비용 절감 확대",
+      "oneLiner": "신한투자증권이 IRP 수수료 면제, 온라인 전용 펀드 판매수수료 면제, 매도증권담보대출 금리 인하 등 고객 비용 절감 정책을 확대했다고 보도된 내용.",
+      "type": "기타",
+      "areas": [
+        "WM",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "신한證, IRP 수수료 무료·대출금리 인하…고객 투자비용 절감 확대",
+          "url": "https://www.fnnews.com/news/202608061118453566"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-08-07"
+    },
+    {
       "id": "news:미래에셋증권:https://www.fnnews.com/news/202608051200227069",
       "date": "2026-08-05",
       "company": "미래에셋증권",
@@ -92,7 +208,7 @@
       ],
       "tags": [],
       "confidence": 0.8,
-      "updatedAt": "2026-08-06"
+      "updatedAt": "2026-08-07"
     },
     {
       "id": "f7812c39d8a32e468f9a6bff3ffb2efe38d6e068",
@@ -115,7 +231,7 @@
       ],
       "tags": [],
       "confidence": 0.7,
-      "updatedAt": "2026-08-06"
+      "updatedAt": "2026-08-07"
     },
     {
       "id": "news:NH투자증권:https://www.hankyung.com/article/2026080432816",
