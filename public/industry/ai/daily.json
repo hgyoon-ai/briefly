@@ -1,86 +1,12 @@
 {
-  "date": "2026-08-08",
+  "date": "2026-08-09",
   "highlights": {
-    "bullets": [
-      "핵심: OpenAI가 Astra에 대한 예비 사이버보안 평가 결과를 공개하고 보호 조치 강화를 제시했습니다.",
-      "핵심: TutorMoments는 AI 튜터의 개입 시점을 예측해 적절한 개입 정책을 학습·평가합니다.",
-      "트렌드: 기업들이 AI 도입과 함께 보안·개입 정책·워크플로우 통합에 주력하고 있습니다."
-    ],
-    "topTopics": [
-      "Tooling",
-      "Product",
-      "Safety",
-      "Infra"
-    ],
+    "bullets": [],
+    "topTopics": [],
     "stats": {
-      "collected": 3,
-      "deduped": 3
+      "collected": 0,
+      "deduped": 0
     }
   },
-  "cards": [
-    {
-      "id": "ai_0001",
-      "tab": "ai",
-      "publishedAt": "2026-08-08T00:20:00+09:00",
-      "source": "OpenAI Blog",
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "summary": [
-        "OpenAI가 Astra에 대한 예비 사이버보안 평가 결과를 공개했습니다.",
-        "회사는 보호 조치와 보안 통제 강화 계획을 제시했습니다.",
-        "이 조치는 고급 사이버 역량에 대한 리스크 관리와 안전성 확보를 목표로 합니다."
-      ],
-      "whyItMatters": "이 발표는 선제적 평가와 강화 조치를 통해 모델·인프라의 악용 위험을 줄이려는 중대한 안전·운영 전환을 의미합니다.",
-      "topics": [
-        "Safety",
-        "Infra",
-        "Tooling"
-      ],
-      "status": "ONGOING",
-      "hash": "e66cc71d0943fe40ad6453dad08e9df8e67072ce6e9fa35d606a5faf12a1f86c",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
-    },
-    {
-      "id": "ai_0002",
-      "tab": "ai",
-      "publishedAt": "2026-08-08T02:53:32+09:00",
-      "source": "Hugging Face Blog",
-      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-      "summary": [
-        "AI 튜터가 언제 개입하고 언제 지켜봐야 하는지를 판단하는 'TutorMoments' 접근법을 소개한다.",
-        "학생의 행동 및 문맥 신호를 활용해 개입 필요성을 예측하고 적절한 개입 정책을 학습·평가한다.",
-        "초기 결과는 모델이 유의미한 판단을 보이나 과도한 개입 제어와 장기 학습 영향에 대한 추가 검증이 필요하다."
-      ],
-      "whyItMatters": "적절한 개입 타이밍은 학습 효율, 학생 자율성과 윤리적 문제에 직접적인 영향을 미치기 때문에 중요하다.",
-      "topics": [
-        "Models",
-        "Data",
-        "Research",
-        "Product"
-      ],
-      "status": "ONGOING",
-      "hash": "624979042481ff504b8cdd9f4fefd24e5c9226e8b96822c1d4945a834a37fbab",
-      "url": "https://huggingface.co/blog/allenai/tutormoments"
-    },
-    {
-      "id": "ai_0003",
-      "tab": "ai",
-      "publishedAt": "2026-08-07T18:00:00+09:00",
-      "source": "OpenAI Blog",
-      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-      "summary": [
-        "HSP GRUPPE는 ChatGPT Enterprise를 도입해 세무 자문 업무의 생산성을 높이고 업무 품질을 개선하고 있습니다.",
-        "워크플로우 통합과 맞춤형 활용으로 반복 업무를 자동화하고 직원의 자문 역량을 확장했습니다.",
-        "그 결과 고객 응대 여력이 늘고 자문 품질이 향상되어 서비스 제공 능력이 강화되었습니다."
-      ],
-      "whyItMatters": "세무 분야에서 AI로 반복업무를 줄이고 전문가의 고부가가치 업무 시간을 늘려 비용 절감과 고객 가치 증대가 가능하기 때문입니다.",
-      "topics": [
-        "Product",
-        "Business",
-        "Tooling"
-      ],
-      "status": "ONGOING",
-      "hash": "7347f06e7c916544f6e962de36961dbcdf8c00a50f21f56435f6b7de8971923e",
-      "url": "https://openai.com/index/hsp-gruppe"
-    }
-  ]
+  "cards": []
 }
