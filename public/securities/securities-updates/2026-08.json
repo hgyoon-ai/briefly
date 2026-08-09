@@ -2,6 +2,31 @@
   "month": "2026-08",
   "events": [
     {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202608091825455006",
+      "date": "2026-08-10",
+      "company": "한국투자증권",
+      "title": "규제 찬물 '삼전닉스 레버리지'…증권가 \"해외·반도체 ETF로 풍선효과 우려\"",
+      "oneLiner": "한국투자증권이 '규제 이후 레버리지 ETF 리밸런싱 점검' 보고서를 발표하며 단일종목 레버리지 ETF 규제가 AUM·거래대금 축소에는 효과가 있으나 투자수요의 해외·지수형 반도체 ETF로의 이동(풍선효과) 가능성을 지적했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치",
+        "리스크",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "규제 찬물 '삼전닉스 레버리지'…증권가 \"해외·반도체 ETF로 풍선효과 우려\"",
+          "url": "https://www.fnnews.com/news/202608091825455006"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-08-10"
+    },
+    {
       "id": "news:KB증권:https://www.fnnews.com/news/202608070618349331",
       "date": "2026-08-07",
       "company": "KB증권",
@@ -93,7 +118,7 @@
       ],
       "tags": [],
       "confidence": 0.85,
-      "updatedAt": "2026-08-09"
+      "updatedAt": "2026-08-10"
     },
     {
       "id": "news:한국투자증권:https://www.fnnews.com/news/202608071543408955",
@@ -141,7 +166,7 @@
       ],
       "tags": [],
       "confidence": 1.0,
-      "updatedAt": "2026-08-09"
+      "updatedAt": "2026-08-10"
     },
     {
       "id": "deb175458777558bdc6790b196d9ded9a7ce0a08",
@@ -164,7 +189,7 @@
       ],
       "tags": [],
       "confidence": 1.0,
-      "updatedAt": "2026-08-09"
+      "updatedAt": "2026-08-10"
     },
     {
       "id": "news:키움증권:https://www.fnnews.com/news/202608061058560017",
