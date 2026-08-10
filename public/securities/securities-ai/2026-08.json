@@ -2,6 +2,145 @@
   "month": "2026-08",
   "events": [
     {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12122820",
+      "date": "2026-08-10",
+      "company": "한국투자증권",
+      "title": "“AI 시대는 일생일대 기회… 美 빅테크·K제조업에 장기투자하라”",
+      "oneLiner": "한투운용의 ETF 상장 세미나에서 AI 시대를 장기 투자 기회로 보고 미국 빅테크·국내 제조업 중심의 투자전략을 제시했습니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“AI 시대는 일생일대 기회… 美 빅테크·K제조업에 장기투자하라”",
+          "url": "https://www.mk.co.kr/news/stock/12122820"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-08-11"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202608101253414390",
+      "date": "2026-08-10",
+      "company": "NH투자증권",
+      "title": "NH투자증권, 오픈API 'PLUG' 출시…AI 활용 투자전략 구현 지원",
+      "oneLiner": "NH투자증권이 오픈API 'PLUG' 시리즈를 출시해 투자자들이 AI 활용 투자전략과 자동화된 트레이딩 연동을 직접 구현할 수 있도록 지원합니다.",
+      "type": "출시",
+      "areas": [
+        "트레이딩",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "NH투자증권, 오픈API 'PLUG' 출시…AI 활용 투자전략 구현 지원",
+          "url": "https://www.fnnews.com/news/202608101253414390"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-08-11"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202608100944309025",
+      "date": "2026-08-10",
+      "company": "NH투자증권",
+      "title": "AI로 콜센터 대기시간 20% 줄였다...KT, NH농협은행 AICC 구축 완료",
+      "oneLiner": "KT가 NH농협은행에 차세대 AI 컨택센터(AICC)를 구축해 AI 콜봇 확대와 상담 자동화로 대기시간·처리시간을 크게 단축했습니다.",
+      "type": "시스템",
+      "areas": [
+        "상담"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "AI로 콜센터 대기시간 20% 줄였다...KT, NH농협은행 AICC 구축 완료",
+          "url": "https://www.fnnews.com/news/202608100944309025"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-08-11"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202608101620542543",
+      "date": "2026-08-10",
+      "company": "KB증권",
+      "title": "AI 휴먼 인터페이스 기업 클레온, IPO 주관사 KB증권 선정",
+      "oneLiner": "AI 휴먼 인터페이스 기업 클레온이 KB증권을 IPO 대표주관사로 선정하고 투자를 유치해 자본시장 진입을 본격화합니다.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "AI 휴먼 인터페이스 기업 클레온, IPO 주관사 KB증권 선정",
+          "url": "https://www.fnnews.com/news/202608101620542543"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-08-11"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202608101810374748",
+      "date": "2026-08-10",
+      "company": "미래에셋증권",
+      "title": "몸집 커진 'K글래스윙'… 글로벌 파트너 모은다",
+      "oneLiner": "AI 보안 협의체 '프로젝트 캐노피'에 미래에셋증권 등 다수 기업이 합류하며 AI 보안·주권 관련 협력체계가 빠르게 확장되고 있습니다.",
+      "type": "제휴",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "몸집 커진 'K글래스윙'… 글로벌 파트너 모은다",
+          "url": "https://www.fnnews.com/news/202608101810374748"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.88,
+      "updatedAt": "2026-08-11"
+    },
+    {
+      "id": "news:토스증권:http://www.boannews.com/media/view.asp?idx=145100&kind=&sub_kind=",
+      "date": "2026-08-10",
+      "company": "토스증권",
+      "title": "[인터뷰] 김태수 마이크로소프트 보안연구 부사장 “에이전틱 보안, AI로 실행하는 새로운 보안 패러다임”",
+      "oneLiner": "마이크로소프트 보안연구 부사장이 에이전틱 보안(Agentic Security)을 제시하며 AI 기반 선제적 보안 패러다임 전환을 강조한 인터뷰입니다.",
+      "type": "기타",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "보안뉴스",
+          "title": "[인터뷰] 김태수 마이크로소프트 보안연구 부사장 “에이전틱 보안, AI로 실행하는 새로운 보안 패러다임”",
+          "url": "http://www.boannews.com/media/view.asp?idx=145100&kind=&sub_kind="
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-08-11"
+    },
+    {
       "id": "news:NH투자증권:https://www.fnnews.com/news/202608091804499033",
       "date": "2026-08-09",
       "company": "NH투자증권",
