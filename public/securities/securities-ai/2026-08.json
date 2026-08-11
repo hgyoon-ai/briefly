@@ -2,6 +2,76 @@
   "month": "2026-08",
   "events": [
     {
+      "id": "news:NH투자증권:https://www.mk.co.kr/news/stock/12124362",
+      "date": "2026-08-11",
+      "company": "NH투자증권",
+      "title": "[인기검색TOP5] 금호건설, LK삼양, 프롬바이오, NHN, 주성엔지니어링",
+      "oneLiner": "NH투자증권 관련 기사에서 '주식 AI 라씨 매매비서'가 인기검색종목을 실시간으로 분석해 투자자 매매타이밍을 제공했다는 내용. 증권사 AI 투자도우미 관련 정보로 분류된다.",
+      "type": "리서치",
+      "areas": [
+        "트레이딩",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[인기검색TOP5] 금호건설, LK삼양, 프롬바이오, NHN, 주성엔지니어링",
+          "url": "https://www.mk.co.kr/news/stock/12124362"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-08-12"
+    },
+    {
+      "id": "news:키움증권:https://www.fnnews.com/news/202608110900020999",
+      "date": "2026-08-11",
+      "company": "키움증권",
+      "title": "키움證 \"핑거, 핀테크 넘어 피지컬AI로...성호전자그룹 시너지도 주목\"",
+      "oneLiner": "키움증권은 핑거의 성호전자그룹 편입을 계기로 금융 IT에서 AI·로봇(피지컬 AI)으로 사업 확장하는 점을 주목했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "키움證 \"핑거, 핀테크 넘어 피지컬AI로...성호전자그룹 시너지도 주목\"",
+          "url": "https://www.fnnews.com/news/202608110900020999"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-08-12"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202608110912252828",
+      "date": "2026-08-11",
+      "company": "NH투자증권",
+      "title": "NHN, 2Q 매출 7579억원...\"기술 부문 전년 대비 52.9%↑\"",
+      "oneLiner": "NHN의 2분기 실적 기사로, NHN클라우드의 엔비디아 기반 GPU 공급 확대 등 AI·GPU 사업 성장세를 실적 호조의 주요 원인으로 전했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "NHN, 2Q 매출 7579억원...\"기술 부문 전년 대비 52.9%↑\"",
+          "url": "https://www.fnnews.com/news/202608110912252828"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-08-12"
+    },
+    {
       "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12122820",
       "date": "2026-08-10",
       "company": "한국투자증권",
