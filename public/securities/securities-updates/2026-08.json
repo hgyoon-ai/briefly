@@ -2,6 +2,194 @@
   "month": "2026-08",
   "events": [
     {
+      "id": "news:NH투자증권:https://www.hankyung.com/article/2026081275221",
+      "date": "2026-08-12",
+      "company": "NH투자증권",
+      "title": "사령탑 바뀐 NH투자증권 \"WM·IB 등 협업 확대\"",
+      "oneLiner": "사령탑 교체에 따라 WM·IB 등 부문 간 협업 확대 계획을 발표, 조직·전략적 변화와 영업·상품 기조에 영향이 예상됨.",
+      "type": "기타",
+      "areas": [
+        "WM",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "사령탑 바뀐 NH투자증권 \"WM·IB 등 협업 확대\"",
+          "url": "https://www.hankyung.com/article/2026081275221"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-08-13"
+    },
+    {
+      "id": "news:삼성증권:https://www.mk.co.kr/news/stock/12125005",
+      "date": "2026-08-12",
+      "company": "삼성증권",
+      "title": "[속보] 대법 “‘유령주식 배당오류’ 삼성증권, 국민연금에 손해배상”",
+      "oneLiner": "대법원이 2018년 '유령주식 배당오류' 관련 삼성증권의 손해배상 책임을 인정해 법적·운영 리스크가 확정됨.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[속보] 대법 “‘유령주식 배당오류’ 삼성증권, 국민연금에 손해배상”",
+          "url": "https://www.mk.co.kr/news/stock/12125005"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-08-13"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202608120828394479",
+      "date": "2026-08-12",
+      "company": "KB증권",
+      "title": "KB증권 \"한미약품, 비만 신약 가치 커진다…내년 기술이전 주목\"",
+      "oneLiner": "KB증권 연구원이 한미약품의 비만 신약을 핵심 성장 동력으로 평가하며 투자의견과 목표주가를 제시한 리서치 리포트.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "KB증권 \"한미약품, 비만 신약 가치 커진다…내년 기술이전 주목\"",
+          "url": "https://www.fnnews.com/news/202608120828394479"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-08-13"
+    },
+    {
+      "id": "news:메리츠증권:https://www.fnnews.com/news/202608120838458486",
+      "date": "2026-08-12",
+      "company": "메리츠증권",
+      "title": "NC, 저스트플레이 본격 편입…안정적 성장 기대-메리츠證",
+      "oneLiner": "메리츠증권 리서치가 NC의 저스트플레이 매출 본격 편입으로 장기적 안정적 성장 기대를 제시한 보고서성 기사.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "NC, 저스트플레이 본격 편입…안정적 성장 기대-메리츠證",
+          "url": "https://www.fnnews.com/news/202608120838458486"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-08-13"
+    },
+    {
+      "id": "news:삼성증권:https://www.fnnews.com/news/202608120858543867",
+      "date": "2026-08-12",
+      "company": "삼성증권",
+      "title": "\"실적 성장세 이어갈 것\"…코스맥스 목표가↑ -삼성證",
+      "oneLiner": "삼성증권 리서치가 코스맥스의 실적 성장세를 근거로 목표주가를 상향조정한 투자보고서 기사.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"실적 성장세 이어갈 것\"…코스맥스 목표가↑ -삼성證",
+          "url": "https://www.fnnews.com/news/202608120858543867"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-08-13"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202608120935348458",
+      "date": "2026-08-12",
+      "company": "미래에셋증권",
+      "title": "미래에셋증권, 또 '1조 클럽'…2분기 순이익 1조9052억원 역대 최대",
+      "oneLiner": "미래에셋증권이 2분기 연결기준 역대 최대 순이익을 공시했으며 브로커리지·WM·트레이딩 등 전 부문 호조가 실적을 견인함.",
+      "type": "기타",
+      "areas": [
+        "브로커리지",
+        "WM",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋증권, 또 '1조 클럽'…2분기 순이익 1조9052억원 역대 최대",
+          "url": "https://www.fnnews.com/news/202608120935348458"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-08-13"
+    },
+    {
+      "id": "news:삼성증권:https://www.fnnews.com/news/202608121406234574",
+      "date": "2026-08-12",
+      "company": "삼성증권",
+      "title": "'유령주식 배당' 삼성증권, 국민연금에 18억 배상 확정…\"법원 판결 존중\"",
+      "oneLiner": "대법원 판결로 삼성증권의 유령주식 배당 사고 관련 국민연금에 대한 배상금(약 18억6000만원) 지급 책임이 확정됨 — 법적·운영 영향 존재.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "'유령주식 배당' 삼성증권, 국민연금에 18억 배상 확정…\"법원 판결 존중\"",
+          "url": "https://www.fnnews.com/news/202608121406234574"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-08-13"
+    },
+    {
+      "id": "news:메리츠증권:https://www.fnnews.com/news/202608121556541210",
+      "date": "2026-08-12",
+      "company": "메리츠증권",
+      "title": "메리츠증권, 2분기 영업이익 2457억원…전년比 18.2%↓",
+      "oneLiner": "메리츠증권이 2분기 영업이익 및 당기순이익을 공시했으며 영업이익은 전년 대비 감소했으나 상반기 누적은 증가한 것으로 발표함.",
+      "type": "기타",
+      "areas": [
+        "WM",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "메리츠증권, 2분기 영업이익 2457억원…전년比 18.2%↓",
+          "url": "https://www.fnnews.com/news/202608121556541210"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-08-13"
+    },
+    {
       "id": "news:NH투자증권:https://www.hankyung.com/article/202608104439i",
       "date": "2026-08-11",
       "company": "NH투자증권",
