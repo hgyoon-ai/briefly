@@ -2,6 +2,77 @@
   "month": "2026-08",
   "events": [
     {
+      "id": "news:토스증권:https://www.mk.co.kr/news/stock/12128060",
+      "date": "2026-08-14",
+      "company": "토스증권",
+      "title": "휴일에도 이자 꽂힌다…토스증권, 증권업계 첫 해외채권 이자 ‘연중무휴’ 지급",
+      "oneLiner": "토스증권이 광복절부터 해외채권 원금·이자를 공휴일·토요일에도 지급하는 제도를 도입합니다. 국내 증권사 최초의 지급 체계 변경으로 고객지급 시점과 운영 절차에 변화가 발생합니다.",
+      "type": "시스템",
+      "areas": [
+        "브로커리지",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "휴일에도 이자 꽂힌다…토스증권, 증권업계 첫 해외채권 이자 ‘연중무휴’ 지급",
+          "url": "https://www.mk.co.kr/news/stock/12128060"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-08-15"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202608141037449416",
+      "date": "2026-08-14",
+      "company": "NH투자증권",
+      "title": "NH투자증권, 연 4.5% 기준수익률 IMA 3호 출시…1200억원 모집",
+      "oneLiner": "NH투자증권이 성과보수 기준수익률을 연 4.5%로 상향한 IMA(종합투자계좌) 3호 상품을 출시·모집합니다. 신상품 출시로 판매·상품 구조 및 운용조건에 변화가 발생합니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "NH투자증권, 연 4.5% 기준수익률 IMA 3호 출시…1200억원 모집",
+          "url": "https://www.fnnews.com/news/202608141037449416"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-08-15"
+    },
+    {
+      "id": "news:토스증권:https://www.fnnews.com/news/202608141540115979",
+      "date": "2026-08-14",
+      "company": "토스증권",
+      "title": "토스증권, 해외채권 원리금 공휴일·토요일에도 지급…증권사 최초",
+      "oneLiner": "토스증권이 해외채권 원리금과 이자를 공휴일·토요일에도 고객에게 지급하는 제도를 시행합니다. 예탁결제원·사내 지급절차와 관련된 운영 정책·시스템 변경으로 서비스 영향이 큽니다.",
+      "type": "시스템",
+      "areas": [
+        "브로커리지",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "토스증권, 해외채권 원리금 공휴일·토요일에도 지급…증권사 최초",
+          "url": "https://www.fnnews.com/news/202608141540115979"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-08-15"
+    },
+    {
       "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12126665",
       "date": "2026-08-13",
       "company": "한국투자증권",
