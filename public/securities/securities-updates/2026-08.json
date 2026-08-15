@@ -2,6 +2,30 @@
   "month": "2026-08",
   "events": [
     {
+      "id": "58ab60a0e10acbaa171a5087f86f4d0b553b1ce7",
+      "date": "2026-08-15",
+      "company": "한국투자증권",
+      "title": "한국투자증권 iOS 앱 업데이트 v2.26.05",
+      "oneLiner": "미국 주간거래 시간에 해외홈에서 주간거래 기준 랭킹과 시세를 볼 수 있는 기능이 추가되었고, 국내 현재가 관련 안정화(성능·안정성) 작업이 진행되었습니다.",
+      "type": "출시",
+      "areas": [
+        "트레이딩",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "app_store",
+      "sources": [
+        {
+          "source": "App Store",
+          "title": "한국투자증권 iOS 앱 업데이트 v2.26.05",
+          "url": "https://apps.apple.com/kr/app/%ED%95%9C%ED%88%AC-%ED%95%9C%EA%B5%AD%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C-mts-%ED%88%AC%EC%9E%90-%EC%A6%9D%EA%B6%8C-%ED%95%B4%EC%99%B8%EC%A3%BC%EC%8B%9D-%EC%A3%BC%EC%8B%9D%EC%96%B4%ED%94%8C/id1621986905?uo=4"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-08-16"
+    },
+    {
       "id": "news:토스증권:https://www.mk.co.kr/news/stock/12128060",
       "date": "2026-08-14",
       "company": "토스증권",
@@ -23,7 +47,7 @@
       ],
       "tags": [],
       "confidence": 0.95,
-      "updatedAt": "2026-08-15"
+      "updatedAt": "2026-08-16"
     },
     {
       "id": "news:NH투자증권:https://www.fnnews.com/news/202608141037449416",
