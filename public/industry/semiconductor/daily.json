@@ -1,110 +1,12 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "highlights": {
-    "bullets": [
-      "핵심: SK하이닉스는 2분기에 분기 기준 역대 최고 매출과 영업이익을 기록했다.",
-      "핵심: 인텔이 메모리 사업 재진입을 고민하며 전략적 전환점에 섰다.",
-      "트렌드: AI 중심 수요 확대가 메모리와 장비 투자·공급 전략을 재조정하고 있다."
-    ],
-    "topTopics": [
-      "Investment",
-      "Demand",
-      "Roadmap",
-      "Competition"
-    ],
+    "bullets": [],
+    "topTopics": [],
     "stats": {
-      "collected": 5,
-      "deduped": 5
+      "collected": 0,
+      "deduped": 0
     }
   },
-  "cards": [
-    {
-      "id": "semiconductor_0001",
-      "tab": "semiconductor",
-      "publishedAt": "2026-08-14T08:59:54+09:00",
-      "source": "SK hynix Newsroom",
-      "title": "[Analyst Interview | Ryu Hyung-keun, Daishin Securities] Exploring SK hynix’s Next Opportunity Amid the Structural Growth of AI Memory",
-      "summary": [
-        "SK하이닉스는 2분기에 분기 기준 역대 최고 매출과 영업이익을 기록하며 AI 메모리 분야 리더십을 재확인했다.",
-        "상반기 누적 매출이 사상 처음으로 100조원을 돌파했다.",
-        "구조적 AI 메모리 수요 성장 속에서 향후 투자와 제품 전략을 중심으로 다음 성장 기회를 모색하고 있다."
-      ],
-      "whyItMatters": "이는 AI 수요의 구조적 확대로 메모리 시장의 수익성이 장기화될 가능성과 회사의 향후 투자·전략 방향에 큰 영향을 미칠 수 있음을 의미한다.",
-      "topics": [
-        "Earnings",
-        "Demand",
-        "Investment",
-        "Roadmap"
-      ],
-      "status": "ONGOING",
-      "hash": "f019d98e36cfafa54b220e012941296afada07e03c460ce3cb179f68155a78b1",
-      "url": "https://news.skhynix.com/en/2026-analyst-interview-03/"
-    },
-    {
-      "id": "semiconductor_0002",
-      "tab": "semiconductor",
-      "publishedAt": "2026-08-14T22:01:36+09:00",
-      "source": "EE Times",
-      "title": "Intel at a Memory Crossroads, Again",
-      "summary": [
-        "인텔이 메모리 사업 재진입을 고민하며 전략적 전환점에 섰다.",
-        "메모리 칩이 범용 상품에서 AI 수요로 고부가가치 자원으로 빠르게 변모하고 있다.",
-        "이 변화는 제조 역량, 투자 우선순위와 경쟁 구도에 직접적 영향을 준다."
-      ],
-      "whyItMatters": "AI 중심의 메모리 수요가 기업 로드맵과 공급망 투자를 재설정할 가능성이 있어 중요하다.",
-      "topics": [
-        "Manufacturing",
-        "Investment",
-        "Competition",
-        "Roadmap",
-        "Demand"
-      ],
-      "status": "SHIFTING",
-      "hash": "b51f8851662c003c4c1860b06ef188ebbb7fab387636a6441ff092809c41cf35",
-      "url": "https://www.eetimes.com/intel-at-a-memory-crossroads-again/"
-    },
-    {
-      "id": "semiconductor_0003",
-      "tab": "semiconductor",
-      "publishedAt": "2026-08-14T19:56:17+09:00",
-      "source": "EE Times",
-      "title": "Semiconductor Equipment Shifts To Build-to-Print Manufacturing",
-      "summary": [
-        "반도체 장비 제조업체들이 생산능력 확대를 위해 빌드-투-프린트(build-to-print) 방식으로 전환하고 있다.",
-        "이 방식은 고객 설계에 맞춰 장비를 제조해 개발 기간과 자본 지출을 줄이고 공급 병목을 완화한다.",
-        "다만 마진 압박, 지식재산 관리 문제 및 고객 의존도 증가로 경쟁 및 투자 구조가 재편될 가능성이 있다."
-      ],
-      "whyItMatters": "수요 급증과 용량 부족을 빠르게 해소하려는 전략적 대응으로 업계 구조와 경쟁 구도가 변화하고 있기 때문이다.",
-      "topics": [
-        "Manufacturing",
-        "Demand",
-        "Competition",
-        "Investment"
-      ],
-      "status": "SHIFTING",
-      "hash": "42159aa8f08cb8cadeff17a71d6d4171e5a790c6a6b5700786a364753d5795ee",
-      "url": "https://www.eetimes.com/semiconductor-equipment-shifts-to-build-to-print-manufacturing/"
-    },
-    {
-      "id": "semiconductor_0004",
-      "tab": "semiconductor",
-      "publishedAt": "2026-08-14T17:00:00+09:00",
-      "source": "Samsung Newsroom",
-      "title": "From Biosignals to Health Insights: Samsung Research’s Work on Health Foundation Models",
-      "summary": [
-        "삼성리서치는 웨어러블 생체신호를 분석하는 헬스 파운데이션 모델로 수면·심박·신체활동 등에서 의미 있는 패턴을 추출한다.",
-        "AI 기반 인사이트로 사용자가 건강을 이해하고 관리할 수 있도록 커넥티드 케어 기능을 강화하고 있다.",
-        "Galaxy Unpacked 2026의 Health Forum에서 Connected Care 전략과 관련 연구 성과를 공개했다."
-      ],
-      "whyItMatters": "웨어러블 기반 헬스 AI는 제품 차별화와 헬스케어 서비스 확장으로 삼성의 생태계 경쟁력과 수익화 기회를 높이기 때문이다.",
-      "topics": [
-        "Roadmap",
-        "Competition",
-        "Investment"
-      ],
-      "status": "ONGOING",
-      "hash": "239614a806808d4c12488fec6d158f04f0537bbee60b0150cdf60e82c3a8bf0d",
-      "url": "https://news.samsung.com/global/from-biosignals-to-health-insights-samsung-researchs-work-on-health-foundation-models"
-    }
-  ]
+  "cards": []
 }
