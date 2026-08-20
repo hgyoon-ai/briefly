@@ -2,6 +2,102 @@
   "month": "2026-08",
   "events": [
     {
+      "id": "news:KB증권:https://www.hankyung.com/article/2026082009396",
+      "date": "2026-08-20",
+      "company": "KB증권",
+      "title": "\"삼성전자, AI 조기 수익화 시간 도래⋯주주환원 재평가 촉매\"-KB",
+      "oneLiner": "KB증권은 삼성전자의 AI 조기 수익화 가능성이 도래했다고 보고, 이는 주주환원 재평가의 촉매가 될 수 있다고 분석했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치",
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "\"삼성전자, AI 조기 수익화 시간 도래⋯주주환원 재평가 촉매\"-KB",
+          "url": "https://www.hankyung.com/article/2026082009396"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "news:메리츠증권:https://www.fnnews.com/news/202608200912264063",
+      "date": "2026-08-20",
+      "company": "메리츠증권",
+      "title": "메리츠증권, 9월 출시 'MOUM'에 'VEGA AI' 탑재…\"글로벌 사업 확대 추진\"",
+      "oneLiner": "메리츠증권은 9월 출시 예정인 차세대 플랫폼 'MOUM'에 위불의 금융 특화 AI 엔진 'Vega AI'를 탑재해 생성형 AI 기반 투자정보 서비스를 제공할 계획이다.",
+      "type": "출시",
+      "areas": [
+        "리서치",
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "메리츠증권, 9월 출시 'MOUM'에 'VEGA AI' 탑재…\"글로벌 사업 확대 추진\"",
+          "url": "https://www.fnnews.com/news/202608200912264063"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202608200954047581",
+      "date": "2026-08-20",
+      "company": "KB증권",
+      "title": "삼성전자 급락에도 반등 기대…\"AI 투자 회수 빨라진다\"",
+      "oneLiner": "KB증권 리서치는 AI 투자금의 회수 기간 단축 가능성으로 AI 투자 수익화가 빨라져 삼성전자의 밸류에이션 리스크를 완화할 수 있다고 진단했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치",
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "삼성전자 급락에도 반등 기대…\"AI 투자 회수 빨라진다\"",
+          "url": "https://www.fnnews.com/news/202608200954047581"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.88,
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202608201019233590",
+      "date": "2026-08-20",
+      "company": "하나증권",
+      "title": "\"40조 소각은 예고편, '360만닉스' 간다\"…\"삼성전자, AI 투자 3년내 회수 가능\" [株토피아]",
+      "oneLiner": "하나증권 리포트 요약에서 SK하이닉스의 대규모 자사주 소각과 삼성전자의 AI 투자 3년 내 회수 가능성이 투자 전술 및 주주환원 관점에서 긍정적으로 평가됐다.",
+      "type": "리서치",
+      "areas": [
+        "리서치",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"40조 소각은 예고편, '360만닉스' 간다\"…\"삼성전자, AI 투자 3년내 회수 가능\" [株토피아]",
+          "url": "https://www.fnnews.com/news/202608201019233590"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-08-21"
+    },
+    {
       "id": "news:NH투자증권:https://www.fnnews.com/news/202608192008088254",
       "date": "2026-08-19",
       "company": "NH투자증권",

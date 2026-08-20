@@ -2,6 +2,167 @@
   "month": "2026-08",
   "events": [
     {
+      "id": "news:메리츠증권:https://www.hankyung.com/article/2026082024536",
+      "date": "2026-08-20",
+      "company": "메리츠증권",
+      "title": "메리츠證 \"디지털자산 시장 전환기…토큰증권 사업 확대\"",
+      "oneLiner": "메리츠증권이 디지털자산 전환기에 맞춰 토큰증권(증권형 토큰) 사업을 확대하겠다고 밝히며 신사업(토큰증권) 추진 계획을 강화했습니다.",
+      "type": "출시",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "메리츠證 \"디지털자산 시장 전환기…토큰증권 사업 확대\"",
+          "url": "https://www.hankyung.com/article/2026082024536"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "news:KB증권:https://www.hankyung.com/article/2026082013996",
+      "date": "2026-08-20",
+      "company": "KB증권",
+      "title": "KB증권, '취약계층 체납 건보료 지원 사업' 추진",
+      "oneLiner": "KB증권이 취약계층의 건강보험료 체납 문제를 해결하기 위한 지원 사업을 추진한다고 발표했습니다(사회공헌·운영 프로그램 도입).",
+      "type": "제휴",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "KB증권, '취약계층 체납 건보료 지원 사업' 추진",
+          "url": "https://www.hankyung.com/article/2026082013996"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12131863",
+      "date": "2026-08-20",
+      "company": "미래에셋증권",
+      "title": "[단독] 박현주 회장 ‘인수 마무리’ 코빗 전직원 직접 만난다",
+      "oneLiner": "미래에셋그룹이 코빗 인수 절차를 마무리하고 박현주 회장이 전직원과 만남을 가지는 등 인수 후 통합 및 운영 계획을 본격화하고 있습니다.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[단독] 박현주 회장 ‘인수 마무리’ 코빗 전직원 직접 만난다",
+          "url": "https://www.mk.co.kr/news/stock/12131863"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202608200856323100",
+      "date": "2026-08-20",
+      "company": "KB증권",
+      "title": "\"건보료 체납에 병원도 못 간다\"…KB증권, 취약계층 재기 지원",
+      "oneLiner": "KB증권이 신용회복위원회·국민건강보험공단 등과 연계해 저소득 취약계층의 체납 건강보험료를 지원하고 장기 분할상환을 연계하는 지원사업을 추진합니다.",
+      "type": "제휴",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"건보료 체납에 병원도 못 간다\"…KB증권, 취약계층 재기 지원",
+          "url": "https://www.fnnews.com/news/202608200856323100"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202608201055147680",
+      "date": "2026-08-20",
+      "company": "미래에셋증권",
+      "title": "1~3호 완판한 미래에셋증권, 'IMA 4호' 출격…1000억원 모집",
+      "oneLiner": "미래에셋증권이 실적배당형 상품 '미래에셋 IMA 4호'를 모집하며 기준수익률을 연 5%로 상향하고 총 1000억원을 모집할 예정이라고 공지.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "1~3호 완판한 미래에셋증권, 'IMA 4호' 출격…1000억원 모집",
+          "url": "https://www.fnnews.com/news/202608201055147680"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "news:토스증권:https://www.fnnews.com/news/202608201333486477",
+      "date": "2026-08-20",
+      "company": "토스증권",
+      "title": "토스증권, 올리브영과 제휴 이벤트…신규 고객에 2만원 상품권",
+      "oneLiner": "토스증권이 CJ올리브영과 제휴해 신규 계좌 개설 고객에게 올리브영 모바일 상품권 지급 등 제휴 이벤트를 실시한다.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "토스증권, 올리브영과 제휴 이벤트…신규 고객에 2만원 상품권",
+          "url": "https://www.fnnews.com/news/202608201333486477"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202608201829521572",
+      "date": "2026-08-20",
+      "company": "미래에셋증권",
+      "title": "수익률 年 5%로 상향… '미래에셋 IMA 4호' 모집",
+      "oneLiner": "미래에셋증권이 '미래에셋 IMA 4호'를 모집하며 기준수익률을 연 5%로 상향하고 총 1000억원 규모로 선착순 모집한다고 공지했다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "수익률 年 5%로 상향… '미래에셋 IMA 4호' 모집",
+          "url": "https://www.fnnews.com/news/202608201829521572"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-08-21"
+    },
+    {
       "id": "news:한국투자증권:https://www.hankyung.com/article/2026081995786",
       "date": "2026-08-19",
       "company": "한국투자증권",
