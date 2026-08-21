@@ -2,6 +2,98 @@
   "month": "2026-08",
   "events": [
     {
+      "id": "news:KB증권:https://www.hankyung.com/article/2026082135976",
+      "date": "2026-08-21",
+      "company": "KB증권",
+      "title": "\"삼성전자, 내년 영업익 575조…파운드리까지 흑자 전환 기대\"-KB",
+      "oneLiner": "KB증권은 삼성전자의 내년 영업이익을 575조원으로 전망하며 파운드리까지 흑자 전환할 것으로 기대한다는 리포트를 제시했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "\"삼성전자, 내년 영업익 575조…파운드리까지 흑자 전환 기대\"-KB",
+          "url": "https://www.hankyung.com/article/2026082135976"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-08-22"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202608210802200364",
+      "date": "2026-08-21",
+      "company": "KB증권",
+      "title": "삼성전자 특별배당 100조 나오나…증권가 \"30만원대 안착 가능\"",
+      "oneLiner": "KB증권은 누적 FCF의 일정 비중을 주주환원에 활용하는 가정을 통해 연내 최소 100조원 규모의 특별배당 가능성을 추정하며 주가 영향까지 분석한 리포트를 발표했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "삼성전자 특별배당 100조 나오나…증권가 \"30만원대 안착 가능\"",
+          "url": "https://www.fnnews.com/news/202608210802200364"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-08-22"
+    },
+    {
+      "id": "news:삼성증권:https://www.fnnews.com/news/202608211052016861",
+      "date": "2026-08-21",
+      "company": "삼성증권",
+      "title": "\"삼성물산 배당도 주주에게\" KCC 주주환원 더 세져…SK, 깜짝 실적에 내년 주주환원 확대 기대 [株토피아]",
+      "oneLiner": "삼성증권 리포트에서 KCC의 투자자산 활용을 통한 주주환원 계획 명문화 등 기업별 리포트 내용이 요약·보도되었다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"삼성물산 배당도 주주에게\" KCC 주주환원 더 세져…SK, 깜짝 실적에 내년 주주환원 확대 기대 [株토피아]",
+          "url": "https://www.fnnews.com/news/202608211052016861"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-08-22"
+    },
+    {
+      "id": "news:키움증권:https://www.fnnews.com/news/202608211320559763",
+      "date": "2026-08-21",
+      "company": "키움증권",
+      "title": "\"반도체 실적 전망, 오를 만큼 올라...삼전닉스 집착 버려야\"",
+      "oneLiner": "키움증권 연구원이 반도체 중심의 시장에서 업종 분산 필요성과 상향된 영업이익 전망치를 제시한 리포트를 발표했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"반도체 실적 전망, 오를 만큼 올라...삼전닉스 집착 버려야\"",
+          "url": "https://www.fnnews.com/news/202608211320559763"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-08-22"
+    },
+    {
       "id": "news:메리츠증권:https://www.hankyung.com/article/2026082024536",
       "date": "2026-08-20",
       "company": "메리츠증권",
