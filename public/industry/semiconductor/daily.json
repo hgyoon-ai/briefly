@@ -1,107 +1,12 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "highlights": {
-    "bullets": [
-      "핵심: 삼성전자가 2026년 주주환원으로 약 90조~110조원을 계획했다.",
-      "핵심: 중국 낸드업체 YMTC가 IPO 추진을 가속화하며 자금 확보를 우선시한다.",
-      "트렌드: 반도체 기업들이 자금 조달과 투자로 경쟁력 강화를 추구하고 있다."
-    ],
-    "topTopics": [
-      "Competition",
-      "Investment",
-      "Roadmap",
-      "Earnings"
-    ],
+    "bullets": [],
+    "topTopics": [],
     "stats": {
-      "collected": 4,
-      "deduped": 4
+      "collected": 0,
+      "deduped": 0
     }
   },
-  "cards": [
-    {
-      "id": "semiconductor_0001",
-      "tab": "semiconductor",
-      "publishedAt": "2026-08-22T03:27:19+09:00",
-      "source": "Samsung Newsroom",
-      "title": "Samsung Electronics To Implement Largest-Ever Shareholder Return in 2026, Estimated at KRW 90 to 110 Trillion",
-      "summary": [
-        "삼성전자가 2026년 주주환원 계획으로 약 90조~110조원을 책정했다.",
-        "이는 2020년의 20.3조원 기록보다 약 5배 큰 한국 기업 사상 최대 규모다.",
-        "해당 계획은 이사회에서 승인되었다."
-      ],
-      "whyItMatters": "대규모 현금 환원은 주주가치 제고와 시장 유동성·자본배분에 큰 영향을 미쳐 국내외 투자심리와 경쟁구도에 중대한 변화를 촉발할 수 있다.",
-      "topics": [
-        "Investment",
-        "Earnings",
-        "Competition"
-      ],
-      "status": "NEW",
-      "hash": "7a1885186cfaf154959a686b2e6f155860237a26c70dc6257200fac98af1f9ce",
-      "url": "https://news.samsung.com/global/samsung-electronics-to-implement-largest-ever-shareholder-return-in-2026-estimated-at-krw-90-to-110-trillion"
-    },
-    {
-      "id": "semiconductor_0002",
-      "tab": "semiconductor",
-      "publishedAt": "2026-08-21T22:51:09+09:00",
-      "source": "EE Times",
-      "title": "China’s NAND Specialist YMTC Moves Closer to IPO",
-      "summary": [
-        "중국 낸드 전문업체 YMTC가 IPO 추진을 가속화하고 있다.",
-        "AI 수요에 대응하기 위해 자금 확보와 제품 개발을 우선시하고 있다.",
-        "국내외 시장 균형과 무역·규제 리스크를 함께 관리해야 하는 상황이다."
-      ],
-      "whyItMatters": "AI 중심 메모리 수요 대응과 글로벌 경쟁력 강화를 위해 대규모 자금 조달이 필요하기 때문이다.",
-      "topics": [
-        "Investment",
-        "Demand",
-        "Manufacturing",
-        "Competition"
-      ],
-      "status": "ONGOING",
-      "hash": "7600dbdd0a20d0060e07010ab177dbeb19f01b065a359b677b6b33a832468d65",
-      "url": "https://www.eetimes.com/chinas-nand-specialist-ymtc-moves-closer-to-ipo/"
-    },
-    {
-      "id": "semiconductor_0003",
-      "tab": "semiconductor",
-      "publishedAt": "2026-08-21T16:43:42+09:00",
-      "source": "EE Times",
-      "title": "The Human Brain Versus AI: Similar Results, Very Different Machines",
-      "summary": [
-        "인간 뇌는 약 20와트로 높은 에너지 효율을 보인다.",
-        "대형 언어모델(LLM)은 메가와트급 연산과 전력을 사용하며 유사한 결과를 내지만 구조와 작동 방식이 크게 다르다.",
-        "전력·아키텍처 격차는 지속가능성, 연구 방향, 규제·투자 우선순위에 실질적 영향을 준다."
-      ],
-      "whyItMatters": "전력 소비와 설계 차이가 기술 발전 경로와 정책·투자 결정을 바꾸기 때문이다.",
-      "topics": [
-        "Roadmap",
-        "Competition",
-        "Policy"
-      ],
-      "status": "SHIFTING",
-      "hash": "4e9516a972a5c55c99106db3c817c16306505a2d0da9e1c896dd665c7d387b1d",
-      "url": "https://www.eetimes.com/the-human-brain-versus-ai-similar-results-very-different-machines/"
-    },
-    {
-      "id": "semiconductor_0004",
-      "tab": "semiconductor",
-      "publishedAt": "2026-08-22T01:00:00+09:00",
-      "source": "Samsung Newsroom",
-      "title": "Samsung’s Human-Centered Design Wins IDEA and Red Dot Design Award 2026",
-      "summary": [
-        "삼성전자가 IDEA 2026과 Red Dot Design Award 2026에서 다수의 상을 수상했다.",
-        "IDEA에서 Impact Award 1개, Bronze 9개, Finalist 35건, Red Dot에서 12개를 수상했다.",
-        "이번 수상은 인간중심 디자인 전략의 성과와 제품·브랜드 차별화를 보여준다."
-      ],
-      "whyItMatters": "디자인 수상은 브랜드 신뢰도와 제품 경쟁력 강화로 이어져 시장 지위와 향후 제품 로드맵에 긍정적 영향을 미치기 때문이다.",
-      "topics": [
-        "Competition",
-        "Roadmap",
-        "Investment"
-      ],
-      "status": "ONGOING",
-      "hash": "3f7042a8bf3b56fbb9211115f98766d727b5d331b709e463fbb452a14241e994",
-      "url": "https://news.samsung.com/global/samsungs-human-centered-design-wins-idea-and-red-dot-design-award-2026"
-    }
-  ]
+  "cards": []
 }

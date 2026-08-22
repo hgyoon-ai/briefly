@@ -1,64 +1,12 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "highlights": {
-    "bullets": [
-      "핵심: Anthro Energy가 켄터키 루이빌에 미국 최초의 배터리 소재 공장 기공식을 열었다.",
-      "핵심: 테슬라는 중국에서 운전자 감시 기능을 추가하기 위해 274만 대 이상 차량을 리콜한다."
-    ],
-    "topTopics": [
-      "Competition",
-      "Demand",
-      "Roadmap",
-      "Manufacturing"
-    ],
+    "bullets": [],
+    "topTopics": [],
     "stats": {
-      "collected": 9,
-      "deduped": 9
+      "collected": 0,
+      "deduped": 0
     }
   },
-  "cards": [
-    {
-      "id": "ev_0001",
-      "tab": "ev",
-      "publishedAt": "2026-08-22T02:09:27+09:00",
-      "source": "Electrek",
-      "title": "A first-of-its-kind US factory could make grid batteries safer",
-      "summary": [
-        "Anthro Energy가 켄터키 루이빌에 미국 최초의 배터리 소재 공장 기공식을 진행했다.",
-        "연간 생산능력은 최대 25GWh의 리튬이온 배터리를 지원하도록 계획되어 있다.",
-        "해당 시설은 그리드용 배터리의 안전성 향상과 국내 공급망 강화에 기여할 가능성이 있다."
-      ],
-      "whyItMatters": "미국 내 배터리 소재 제조 확보와 대용량 생산은 그리드 배터리 안전성 개선과 공급망 자립에 중요한 전환점이기 때문이다.",
-      "topics": [
-        "Manufacturing",
-        "Investment",
-        "Roadmap",
-        "Competition"
-      ],
-      "status": "NEW",
-      "hash": "49e6a883067d0f8729050656c039213985bf6da28ee406fd9425692a98783389",
-      "url": "https://electrek.co/2026/08/21/us-factory-grid-batteries-safer-anthro-energy/"
-    },
-    {
-      "id": "ev_0002",
-      "tab": "ev",
-      "publishedAt": "2026-08-21T23:12:02+09:00",
-      "source": "Electrek",
-      "title": "Tesla (TSLA) recalls over 2 million cars in China to add driver monitoring",
-      "summary": [
-        "테슬라는 중국에서 운전자 감시 강화를 위해 274만 대 이상 차량을 리콜한다.",
-        "기존의 스티어링 휠 손 접촉 감지만으로는 운전자의 전방 주시를 보장하기에 불충분하다고 규제 당국이 판단했다.",
-        "테슬라는 실내 카메라를 활용해 운전자의 시선을 추적하도록 소프트웨어를 수정하며, 기존 모니터링 우회 사례 대응도 강화한다."
-      ],
-      "whyItMatters": "중국 최대 규모 수준의 리콜로 자율주행·운전자 보조 안전 규제가 강화되는 흐름을 보여주며, 테슬라의 규제·평판 리스크와 기능 설계 방향에 직접적인 영향을 미친다.",
-      "topics": [
-        "Policy",
-        "Roadmap",
-        "Competition"
-      ],
-      "status": "ONGOING",
-      "hash": "ed24cfc62d931450926b07cdcff15dfbdfd7b7c86745c128c9deec3752ee7527",
-      "url": "https://electrek.co/2026/08/21/tesla-recall-2-million-cars-china-driver-monitoring/"
-    }
-  ]
+  "cards": []
 }
