@@ -1,6 +1,6 @@
 {
-  "id": "2026-08-23T06:43:07.184319+09:00",
-  "ts": "2026-08-23T06:43:07.184319+09:00",
+  "id": "2026-08-24T06:42:32.326628+09:00",
+  "ts": "2026-08-24T06:42:32.326628+09:00",
   "timezone": "Asia/Seoul",
   "selectedTabs": [
     "ai",
@@ -46,9 +46,9 @@
         "Electrek": 15,
         "매일경제(증권)": 15,
         "벤처스퀘어": 15,
-        "한국경제(부동산)": 2,
-        "매일경제(부동산)": 5,
-        "헤럴드경제(부동산)": 11
+        "한국경제(부동산)": 4,
+        "매일경제(부동산)": 9,
+        "헤럴드경제(부동산)": 5
       }
     },
     "hf": {
@@ -71,7 +71,7 @@
         "cards": 0
       },
       "weekly": {
-        "items": 23,
+        "items": 19,
         "issues": 5
       },
       "monthly": {
@@ -81,7 +81,7 @@
     },
     "finance": {
       "daily": {
-        "raw": 7,
+        "raw": 15,
         "cards": 2
       },
       "weekly": {
@@ -99,11 +99,11 @@
         "cards": 0
       },
       "weekly": {
-        "items": 22,
-        "issues": 5
+        "items": 19,
+        "issues": 4
       },
       "monthly": {
-        "items": 84,
+        "items": 82,
         "issues": 5
       }
     },
@@ -113,25 +113,25 @@
         "cards": 0
       },
       "weekly": {
-        "items": 10,
+        "items": 8,
         "issues": 5
       },
       "monthly": {
-        "items": 54,
+        "items": 52,
         "issues": 5
       }
     },
     "realestate": {
       "daily": {
-        "raw": 4,
-        "cards": 4
+        "raw": 15,
+        "cards": 5
       },
       "weekly": {
-        "items": 25,
+        "items": 27,
         "issues": 5
       },
       "monthly": {
-        "items": 129,
+        "items": 131,
         "issues": 5
       }
     }
