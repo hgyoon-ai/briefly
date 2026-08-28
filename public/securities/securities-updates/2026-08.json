@@ -45,7 +45,7 @@
       ],
       "tags": [],
       "confidence": 0.85,
-      "updatedAt": "2026-08-27"
+      "updatedAt": "2026-08-28"
     },
     {
       "id": "news:하나증권:https://www.mk.co.kr/news/stock/12137415",
@@ -68,7 +68,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-08-27"
+      "updatedAt": "2026-08-28"
     },
     {
       "id": "news:하나증권:https://www.fnnews.com/news/202608270817319025",
@@ -115,6 +115,52 @@
       "tags": [],
       "confidence": 0.88,
       "updatedAt": "2026-08-27"
+    },
+    {
+      "id": "news:토스증권:https://www.mk.co.kr/news/stock/12138166",
+      "date": "2026-08-27",
+      "company": "토스증권",
+      "title": "전산장애 잦은 토스증권…금감원, 현장 컨설팅 검사",
+      "oneLiner": "금융감독원이 전산장애 빈발 토스증권에 대해 현장 컨설팅검사를 착수했다는 보도로, 전산·운영 리스크와 감독당국 대응에 해당한다.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "전산장애 잦은 토스증권…금감원, 현장 컨설팅 검사",
+          "url": "https://www.mk.co.kr/news/stock/12138166"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-08-28"
+    },
+    {
+      "id": "news:토스증권:https://www.mk.co.kr/news/stock/12137786",
+      "date": "2026-08-27",
+      "company": "토스증권",
+      "title": "금감원, 사전예방형 컨설팅검사 착수…전산장애 잦은 토스증권 대상",
+      "oneLiner": "금감원이 전산장애가 잦은 토스증권을 대상으로 사전예방형 컨설팅검사에 착수했다는 반복 보도. 감독·운영 개선 조치 관련 중요 이벤트.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "금감원, 사전예방형 컨설팅검사 착수…전산장애 잦은 토스증권 대상",
+          "url": "https://www.mk.co.kr/news/stock/12137786"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-08-28"
     },
     {
       "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12137245",
