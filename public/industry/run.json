@@ -1,6 +1,6 @@
 {
-  "id": "2026-08-29T12:13:10.551060+09:00",
-  "ts": "2026-08-29T12:13:10.551060+09:00",
+  "id": "2026-08-30T08:28:02.875535+09:00",
+  "ts": "2026-08-30T08:28:02.875535+09:00",
   "timezone": "Asia/Seoul",
   "selectedTabs": [
     "ai",
@@ -67,21 +67,21 @@
   "tabs": {
     "ai": {
       "daily": {
-        "raw": 2,
-        "cards": 2
+        "raw": 0,
+        "cards": 0
       },
       "weekly": {
         "items": 18,
         "issues": 5
       },
       "monthly": {
-        "items": 81,
+        "items": 78,
         "issues": 4
       }
     },
     "finance": {
       "daily": {
-        "raw": 14,
+        "raw": 9,
         "cards": 2
       },
       "weekly": {
@@ -95,43 +95,43 @@
     },
     "semiconductor": {
       "daily": {
-        "raw": 3,
-        "cards": 3
+        "raw": 0,
+        "cards": 0
       },
       "weekly": {
         "items": 21,
         "issues": 5
       },
       "monthly": {
-        "items": 89,
+        "items": 85,
         "issues": 5
       }
     },
     "ev": {
       "daily": {
-        "raw": 14,
+        "raw": 4,
         "cards": 2
       },
       "weekly": {
-        "items": 10,
+        "items": 12,
         "issues": 5
       },
       "monthly": {
-        "items": 51,
+        "items": 52,
         "issues": 5
       }
     },
     "realestate": {
       "daily": {
-        "raw": 12,
-        "cards": 4
+        "raw": 2,
+        "cards": 2
       },
       "weekly": {
-        "items": 28,
+        "items": 26,
         "issues": 5
       },
       "monthly": {
-        "items": 125,
+        "items": 127,
         "issues": 5
       }
     }

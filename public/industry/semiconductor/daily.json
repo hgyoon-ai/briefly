@@ -1,85 +1,12 @@
 {
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "highlights": {
-    "bullets": [
-      "핵심: 구글이 마벨과의 협력을 확대했다.",
-      "핵심: SK하이닉스가 인디애나 팹 착공식을 개최했다.",
-      "트렌드: 제조 역량과 맞춤 설계, 현지 생산에 대한 관심이 공통으로 나타난다."
-    ],
-    "topTopics": [
-      "Manufacturing",
-      "Roadmap",
-      "Competition",
-      "Investment"
-    ],
+    "bullets": [],
+    "topTopics": [],
     "stats": {
-      "collected": 3,
-      "deduped": 3
+      "collected": 0,
+      "deduped": 0
     }
   },
-  "cards": [
-    {
-      "id": "semiconductor_0001",
-      "tab": "semiconductor",
-      "publishedAt": "2026-08-29T06:59:13+09:00",
-      "source": "EE Times",
-      "title": "Google’s Marvell Deal Shows Custom Silicon Spreading Beyond the TPU",
-      "summary": [
-        "구글이 마벨과 협력을 확대했다.",
-        "메모리·네트워킹·스토리지·데이터 이동 등도 맞춤 실리콘 후보로 떠올랐다.",
-        "TPU 중심의 맞춤화가 시스템 전반으로 확산되는 양상을 보인다."
-      ],
-      "whyItMatters": "이번 거래는 하드웨어 맞춤화가 TPU를 넘어 클라우드 인프라 전반으로 확장되며 경쟁구도와 설계 로드맵을 재편할 가능성을 시사한다.",
-      "topics": [
-        "Manufacturing",
-        "Competition",
-        "Roadmap"
-      ],
-      "status": "SHIFTING",
-      "hash": "7cb7543f038c319d9f264761183a98116bd2f15fbbb0fac1cbdf58350d2fc162",
-      "url": "https://www.eetimes.com/googles-marvell-deal-shows-custom-silicon-spreading-beyond-the-tpu/"
-    },
-    {
-      "id": "semiconductor_0002",
-      "tab": "semiconductor",
-      "publishedAt": "2026-08-28T16:00:00+09:00",
-      "source": "EE Times",
-      "title": "Microscale Power Management Starts with Microflow Heat Measurement",
-      "summary": [
-        "레이저 펄스와 X선 이미징을 활용해 마이크로 플로우 열 측정을 수행했다.",
-        "마이크론 규모의 재료 결함이 열 분산과 전력 관리 성능에 큰 영향을 미치는 것으로 확인되었다.",
-        "이 결과는 마이크로/나노 전자기기 설계와 제조 공정에서 결함 제어의 중요성을 부각시킨다."
-      ],
-      "whyItMatters": "마이크로 단위 결함이 열관리 효율과 전력 소모에 직접적인 영향을 줘 소형 전자장치 성능과 신뢰성 개선에 결정적이기 때문입니다.",
-      "topics": [
-        "Manufacturing",
-        "Roadmap"
-      ],
-      "status": "NEW",
-      "hash": "288257e3d5f3c79e79672c6f4ef787ac2ce79e378de1bae3d344b3a7357a9913",
-      "url": "https://www.eetimes.com/microscale-power-management-starts-with-microflow-heat-measurement/"
-    },
-    {
-      "id": "semiconductor_0003",
-      "tab": "semiconductor",
-      "publishedAt": "2026-08-28T12:29:47+09:00",
-      "source": "SK hynix Newsroom",
-      "title": "SK hynix Indiana fab breaks ground as new hub for US AI innovation",
-      "summary": [
-        "SK hynix가 인디애나 팹 착공식을 개최했다.",
-        "퍼듀대 인근에 AI용 메모리의 미국 현지 생산 기반을 구축하는 첫 단계다.",
-        "미국 시장 진출과 글로벌 공급망·경쟁력 강화에 중요한 전환점이 될 전망이다."
-      ],
-      "whyItMatters": "미국 내 생산 거점 확보는 급증하는 AI 수요 대응, 공급망 다변화 및 글로벌 반도체 경쟁력 확보에 직접적인 영향을 미치기 때문입니다.",
-      "topics": [
-        "Manufacturing",
-        "Investment",
-        "Roadmap",
-        "Competition"
-      ],
-      "status": "NEW",
-      "hash": "58a8d940cc154b40dbcecb784931ab0baad08d6d34b60b8d8953c0c0598d338e",
-      "url": "https://news.skhynix.com/en/indiana-groundbreaking-ceremony-sketch/"
-    }
-  ]
+  "cards": []
 }
