@@ -2,6 +2,31 @@
   "month": "2026-08",
   "events": [
     {
+      "id": "e4f057a914e781048046ebfc681b7aefa25eea92",
+      "date": "2026-08-29",
+      "company": "한국투자증권",
+      "title": "한국투자증권 iOS 앱 업데이트 v2.27.00",
+      "oneLiner": "한국투자증권 iOS 앱 v2.27.00으로 연금 홈 신설, 미국주식 온주 정기매수 기능, 연금계좌 대상 확대, 손익추이 UI 개편, 홈·검색 바로가기 추가 및 최소 지원 iOS 15.0 상향 등 제품·기능 변경이 적용되었습니다.",
+      "type": "출시",
+      "areas": [
+        "WM",
+        "브로커리지",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "app_store",
+      "sources": [
+        {
+          "source": "App Store",
+          "title": "한국투자증권 iOS 앱 업데이트 v2.27.00",
+          "url": "https://apps.apple.com/kr/app/%ED%95%9C%ED%88%AC-%ED%95%9C%EA%B5%AD%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C-mts-%ED%88%AC%EC%9E%90-%EC%A6%9D%EA%B6%8C-%ED%95%B4%EC%99%B8%EC%A3%BC%EC%8B%9D-%EC%A3%BC%EC%8B%9D%EC%96%B4%ED%94%8C/id1621986905?uo=4"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-08-30"
+    },
+    {
       "id": "61eff87a66f6797a28ce5a971cf32c24d7b3698e",
       "date": "2026-08-28",
       "company": "삼성증권",
@@ -22,7 +47,7 @@
       ],
       "tags": [],
       "confidence": 0.95,
-      "updatedAt": "2026-08-29"
+      "updatedAt": "2026-08-30"
     },
     {
       "id": "news:미래에셋증권:https://www.fnnews.com/news/202608281712269971",
@@ -183,7 +208,7 @@
       ],
       "tags": [],
       "confidence": 0.95,
-      "updatedAt": "2026-08-29"
+      "updatedAt": "2026-08-30"
     },
     {
       "id": "news:토스증권:https://www.mk.co.kr/news/stock/12137786",
