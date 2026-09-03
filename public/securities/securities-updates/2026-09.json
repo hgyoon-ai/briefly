@@ -2,6 +2,213 @@
   "month": "2026-09",
   "events": [
     {
+      "id": "news:KB증권:https://www.mk.co.kr/news/stock/12144075",
+      "date": "2026-09-04",
+      "company": "KB증권",
+      "title": "“삼성전자, 연내 자사주 매입 소각·현금 배당 등 추가 주주환원 기대”",
+      "oneLiner": "KB증권 리서치가 삼성전자에 대해 목표주가 60만원을 유지하고 투자의견 '매수'를 제시함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“삼성전자, 연내 자사주 매입 소각·현금 배당 등 추가 주주환원 기대”",
+          "url": "https://www.mk.co.kr/news/stock/12144075"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-09-04"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202609040714162982",
+      "date": "2026-09-04",
+      "company": "KB증권",
+      "title": "이익 전망 낮추고도 '60만전자'...증권가가 주목한 80조원",
+      "oneLiner": "KB증권이 삼성전자 영업이익 전망을 하향 조정했지만 목표주가 60만원을 유지하며 자사주 매입·소각 등 추가 주주환원 여력을 주목한다는 분석을 제시함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "이익 전망 낮추고도 '60만전자'...증권가가 주목한 80조원",
+          "url": "https://www.fnnews.com/news/202609040714162982"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-09-04"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202609040755106740",
+      "date": "2026-09-04",
+      "company": "한국투자증권",
+      "title": "실리콘투, 고객사 다변화로 실적 견조…목표가 6만5000원",
+      "oneLiner": "한국투자증권이 실리콘투에 대해 고객사 다변화 등을 근거로 목표주가를 6만5000원으로 상향하고 투자의견 '매수'를 유지함(리서치 보고서).",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "실리콘투, 고객사 다변화로 실적 견조…목표가 6만5000원",
+          "url": "https://www.fnnews.com/news/202609040755106740"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-09-04"
+    },
+    {
+      "id": "4e1f6336910c3b5c8fe71e6e5986d59e9c4b6177",
+      "date": "2026-09-03",
+      "company": "하나증권",
+      "title": "주요사항보고서(자본으로인정되는채무증권발행결정)",
+      "oneLiner": "하나증권이 자본으로 인정되는 채무증권 발행 결정을 공시함(자본성 증권 발행 관련 공시).",
+      "type": "규제",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "주요사항보고서(자본으로인정되는채무증권발행결정)",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260903000227"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-04"
+    },
+    {
+      "id": "news:KB증권:https://www.hankyung.com/article/2026090320096",
+      "date": "2026-09-03",
+      "company": "KB증권",
+      "title": "KB증권, 취약계층 자립 지원 '베이커리 굿니스' 개소식 진행",
+      "oneLiner": "KB증권이 취약계층 자립 지원을 위한 베이커리 '굿니스' 개소식을 진행함(사회공헌/파트너십 활동).",
+      "type": "제휴",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "KB증권, 취약계층 자립 지원 '베이커리 굿니스' 개소식 진행",
+          "url": "https://www.hankyung.com/article/2026090320096"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-09-04"
+    },
+    {
+      "id": "news:NH투자증권:https://www.mk.co.kr/news/stock/12143163",
+      "date": "2026-09-03",
+      "company": "NH투자증권",
+      "title": "디지털자산기본법 “속도 낸다”던 금융 당국, ‘디지털자산 인프라 TF’는 2028년까지 운영",
+      "oneLiner": "금융당국이 디지털자산 인프라 TF를 2028년까지 운영하기로 하고 기본법 하위규정 법제화 등을 추진함(디지털자산 관련 정책·규제 일정 발표).",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "디지털자산기본법 “속도 낸다”던 금융 당국, ‘디지털자산 인프라 TF’는 2028년까지 운영",
+          "url": "https://www.mk.co.kr/news/stock/12143163"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-09-04"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202609030829535271",
+      "date": "2026-09-03",
+      "company": "한국투자증권",
+      "title": "한투운용, 글로벌 회사채 분산투자 펀드 출시…MAN과 협업",
+      "oneLiner": "한국투자신탁운용이 MAN과 협업해 글로벌 멀티크레딧(회사채) 펀드를 출시하고 한국투자증권을 통해 사전 모집을 실시함(펀드 출시).",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투운용, 글로벌 회사채 분산투자 펀드 출시…MAN과 협업",
+          "url": "https://www.fnnews.com/news/202609030829535271"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-04"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202609030957313846",
+      "date": "2026-09-03",
+      "company": "KB증권",
+      "title": "'차보험 경상환자 보상제도 개편'에 보험株 일제히 강세",
+      "oneLiner": "자동차보험 경상환자 보상제도 개편으로 손해보험사 손해율 개선 기대가 커져 보험주가 강세를 보였고, KB증권도 관련 영향 분석을 제시함(정책·제도 변경 영향).",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "'차보험 경상환자 보상제도 개편'에 보험株 일제히 강세",
+          "url": "https://www.fnnews.com/news/202609030957313846"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-09-04"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202609031818139932",
+      "date": "2026-09-03",
+      "company": "한국투자증권",
+      "title": "한투운용, 글로벌 회사채도 분산투자",
+      "oneLiner": "한국투자신탁운용이 글로벌 하이일드·신흥국·아시아 회사채 등에 분산 투자하는 '한국투자MAN글로벌멀티크레딧 펀드'를 출시하고 한국투자증권을 통해 사전 모집을 진행한다. 환헤지형·언헤지형·USD·월배당형 등 5개 자펀드로 구성된 공모형 펀드 출시 공지이다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투운용, 글로벌 회사채도 분산투자",
+          "url": "https://www.fnnews.com/news/202609031818139932"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-09-04"
+    },
+    {
       "id": "news:KB증권:https://www.hankyung.com/article/2026090281646",
       "date": "2026-09-02",
       "company": "KB증권",
