@@ -2644,3 +2644,13 @@
 {"id": "news:KB증권:https://www.fnnews.com/news/202609041043153191", "keep": true, "oneLiner": "주요 증권사 리포트 요약에서 KB증권은 삼성전자의 추가 주주환원과 주가 재평가 가능성을 제시하는 리서치 보고를 냈습니다.", "type_raw": "리서치", "areas_raw": ["리서치"], "confidence": 0.85}
 {"id": "news:NH투자증권:https://www.fnnews.com/news/202609041344055366", "keep": false, "oneLiner": "딜로이트 안진과 농협이 함께 경남 거제 수해 복구 지원 활동을 진행했다는 보도입니다(사회공헌 활동).", "type_raw": "기타", "areas_raw": ["기타"], "confidence": 0.6}
 {"id": "news:미래에셋증권:https://www.fnnews.com/news/202609041616355042", "keep": true, "oneLiner": "미래에셋자산운용이 S&P500과 미국 단기국채를 50/50으로 편입하는 혼합형 ETF를 유가증권시장에 상장합니다.", "type_raw": "출시", "areas_raw": ["트레이딩"], "confidence": 0.95}
+{"id": "5510d1ac646eabe49ca3227ff9cad1670e1493aa", "keep": true, "oneLiner": "미래에셋증권 iOS 앱에서 차트 기능과 색상 개선이 이루어져 트레이딩 UX에 변화가 예상됩니다.", "type_raw": "시스템", "areas_raw": ["트레이딩"], "confidence": 0.8}
+{"id": "7de00fee212a5d10af1534c4a27e9129252cf793", "keep": false, "oneLiner": "앱 안정성 개선을 표기한 소규모 iOS 업데이트 릴리즈노트. 구체적 기능·정책 변경은 명시되지 않아 중요 변경으로 보지 않음.", "type_raw": "시스템", "areas_raw": ["브로커리지"], "confidence": 0.9}
+{"id": "71cbfd15fc15acbbb1b63c55e1c414e56a4820e8", "keep": false, "oneLiner": "고객 불편사항 개선만을 기재한 iOS 앱 업데이트 릴리즈노트로, 구체적 기능·운영 변경이 없어 데이터셋에서 제외함.", "type_raw": "시스템", "areas_raw": ["브로커리지"], "confidence": 0.9}
+{"id": "34b1f5c45e86d9abe0e9135a657039843cb039df", "keep": false, "oneLiner": "하나증권 iOS 앱 업데이트가 안정성 향상 및 오류 수정 중심으로 배포되었습니다.", "type_raw": "시스템", "areas_raw": ["기타"], "confidence": 0.9}
+{"id": "5300d210342735b45293b5bd8705b07913a8defa", "keep": false, "oneLiner": "토스증권 iOS 앱에서 주로 버그 수정이 이루어졌다는 릴리즈 노트입니다.", "type_raw": "시스템", "areas_raw": ["기타"], "confidence": 0.9}
+{"id": "4e1f6336910c3b5c8fe71e6e5986d59e9c4b6177", "keep": true, "oneLiner": "하나증권이 자본으로 인정되는 채무증권 발행 결정을 공시함(자본성 증권 발행 관련 공시).", "type_raw": "규제", "areas_raw": ["기타"], "confidence": 0.9}
+{"id": "news:KB증권:https://www.hankyung.com/article/2026090440296", "keep": true, "oneLiner": "KB증권이 퇴직연금 계좌를 통해 개인투자용 국채에 투자할 수 있는 거래 서비스를 도입했습니다.", "type_raw": "출시", "areas_raw": ["WM"], "confidence": 0.8}
+{"id": "news:KB증권:https://www.mk.co.kr/news/stock/12144501", "keep": true, "oneLiner": "KB증권이 퇴직연금(DC·IRP)을 통해 개인투자용 국채에 직접 투자할 수 있는 서비스 출시를 발표했습니다.", "type_raw": "출시", "areas_raw": ["WM"], "confidence": 0.95}
+{"id": "news:KB증권:https://www.mk.co.kr/news/stock/12144075", "keep": true, "oneLiner": "KB증권 리서치가 삼성전자에 대해 목표주가 60만원을 유지하고 투자의견 '매수'를 제시함.", "type_raw": "리서치", "areas_raw": ["리서치"], "confidence": 0.85}
+{"id": "news:KB증권:https://www.mk.co.kr/news/stock/12144043", "keep": false, "oneLiner": "금융지주 주가 흐름을 다룬 시장 기사로, 특정 증권사 제품·정책 변화에 대한 공지나 내부 조치 아님.", "type_raw": "기타", "areas_raw": ["기타"], "confidence": 0.6}
