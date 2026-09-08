@@ -2,6 +2,237 @@
   "month": "2026-09",
   "events": [
     {
+      "id": "7a9ac44926f18c841581d89fa05a17d719f7992f",
+      "date": "2026-09-08",
+      "company": "메리츠증권",
+      "title": "메리츠증권 iOS 앱 업데이트 v3.0.16",
+      "oneLiner": "메리츠증권 iOS 앱의 사용성·디자인 및 속도 개선을 알리는 업데이트로 제품·서비스 변경으로 판단됩니다.",
+      "type": "출시",
+      "areas": [
+        "브로커리지",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "app_store",
+      "sources": [
+        {
+          "source": "App Store",
+          "title": "메리츠증권 iOS 앱 업데이트 v3.0.16",
+          "url": "https://apps.apple.com/kr/app/%EB%A9%94%EB%A6%AC%EC%B8%A0%EC%A6%9D%EA%B6%8C-%EB%A9%94%EB%A6%AC%EC%B8%A0-smart/id1104272974?uo=4"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-09-08"
+    },
+    {
+      "id": "news:하나증권:https://www.mk.co.kr/news/stock/12146608",
+      "date": "2026-09-08",
+      "company": "하나증권",
+      "title": "“농심, 3분기도 해외 수익성 개선 이어질 전망”",
+      "oneLiner": "하나증권의 농심 리서치(목표주가·투자의견 유지) 보도로 증권사 리서치 산출물에 해당합니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“농심, 3분기도 해외 수익성 개선 이어질 전망”",
+          "url": "https://www.mk.co.kr/news/stock/12146608"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-09-08"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202609080850118676",
+      "date": "2026-09-08",
+      "company": "한국투자증권",
+      "title": "\"SDV 전환은 필연\"…현대오토에버 수익성 확대 기대",
+      "oneLiner": "한국투자증권의 현대오토에버에 대한 리서치(수익성 전망·투자의견 유지) 기사로 리서치로 분류됩니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"SDV 전환은 필연\"…현대오토에버 수익성 확대 기대",
+          "url": "https://www.fnnews.com/news/202609080850118676"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-09-08"
+    },
+    {
+      "id": "news:삼성증권:https://www.fnnews.com/news/202609080818126510",
+      "date": "2026-09-08",
+      "company": "삼성증권",
+      "title": "에스엠, 차세대 IP 성장·중화권 공략 가속…목표가 10만5000원",
+      "oneLiner": "삼성증권의 에스엠 리서치(목표주가·투자의견 유지) 기사로 증권사 리서치 산출물에 해당합니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "에스엠, 차세대 IP 성장·중화권 공략 가속…목표가 10만5000원",
+          "url": "https://www.fnnews.com/news/202609080818126510"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-09-08"
+    },
+    {
+      "id": "news:한국투자증권:https://www.hankyung.com/article/202609078543i",
+      "date": "2026-09-07",
+      "company": "한국투자증권",
+      "title": "\"용산 슈퍼리치 타깃\"…신한투자증권 '프리미어 PWM 센터' 통합 오픈",
+      "oneLiner": "신한투자증권과 은행 협업 형태의 프리미어 PWM 센터 통합 오픈 소식으로 채널·영업점 및 제휴 변화에 해당합니다.",
+      "type": "제휴",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "\"용산 슈퍼리치 타깃\"…신한투자증권 '프리미어 PWM 센터' 통합 오픈",
+          "url": "https://www.hankyung.com/article/202609078543i"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-08"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12145955",
+      "date": "2026-09-07",
+      "company": "한국투자증권",
+      "title": "신한투자증권, ‘신한 프리미어 PWM 센트럴 용산센터’ 개소",
+      "oneLiner": "신한투자증권이 신한은행과 통합한 자산관리 센터(용산) 개소 소식으로 영업점·채널 모델 변화에 해당합니다.",
+      "type": "제휴",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "신한투자증권, ‘신한 프리미어 PWM 센트럴 용산센터’ 개소",
+          "url": "https://www.mk.co.kr/news/stock/12145955"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-08"
+    },
+    {
+      "id": "news:하나증권:https://www.mk.co.kr/news/stock/12145728",
+      "date": "2026-09-07",
+      "company": "하나증권",
+      "title": "“삼전닉스도 식후경입니다”…수출주·배당주 효자된 K푸드에 쏠린 눈 [오늘 나온 보고서]",
+      "oneLiner": "하나증권의 리서치가 K푸드 및 관련 수출·배당주에 대해 긍정적 관점을 제시한 보고서성 기사입니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“삼전닉스도 식후경입니다”…수출주·배당주 효자된 K푸드에 쏠린 눈 [오늘 나온 보고서]",
+          "url": "https://www.mk.co.kr/news/stock/12145728"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-09-08"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202609071342470060",
+      "date": "2026-09-07",
+      "company": "미래에셋증권",
+      "title": "미래에셋운용, 美주식·단기채 절반씩 투자하는 ETF 8일 출시",
+      "oneLiner": "미래에셋자산운용의 미국주식·단기채 혼합 ETF 상장(출시) 소식으로 신규 금융상품 출시로 분류됩니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋운용, 美주식·단기채 절반씩 투자하는 ETF 8일 출시",
+          "url": "https://www.fnnews.com/news/202609071342470060"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-08"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202609071553024626",
+      "date": "2026-09-07",
+      "company": "한국투자증권",
+      "title": "\"증권 자산관리 역량 더했다\"…신한證, 'PWM 센트럴 용산센터' 개소",
+      "oneLiner": "신한투자증권과 신한은행의 복합 자산관리 센터(PWM 센트럴 용산) 오픈 보도로 채널·영업점 변화에 해당합니다.",
+      "type": "제휴",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"증권 자산관리 역량 더했다\"…신한證, 'PWM 센트럴 용산센터' 개소",
+          "url": "https://www.fnnews.com/news/202609071553024626"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.88,
+      "updatedAt": "2026-09-08"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202609071834084660",
+      "date": "2026-09-07",
+      "company": "한국투자증권",
+      "title": "신한證, 프리미엄 ‘PWM 센트럴 용산센터’ 개소",
+      "oneLiner": "신한투자증권의 PWM 센트럴 용산센터 개소 관련 보도로 복합 점포·채널 모델 변화로 판단됩니다.",
+      "type": "제휴",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "신한證, 프리미엄 ‘PWM 센트럴 용산센터’ 개소",
+          "url": "https://www.fnnews.com/news/202609071834084660"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.88,
+      "updatedAt": "2026-09-08"
+    },
+    {
       "id": "news:KB증권:https://www.mk.co.kr/news/stock/12144075",
       "date": "2026-09-04",
       "company": "KB증권",

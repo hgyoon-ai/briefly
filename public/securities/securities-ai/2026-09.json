@@ -2,6 +2,52 @@
   "month": "2026-09",
   "events": [
     {
+      "id": "news:KB증권:https://www.hankyung.com/article/2026090899846",
+      "date": "2026-09-08",
+      "company": "KB증권",
+      "title": "\"DB하이텍, 中 AI·로봇 폭발적 성장 수혜주…목표가 20만원\"-KB",
+      "oneLiner": "KB증권 리서치: DB하이텍을 중국 AI·로봇 성장의 주요 수혜주로 제시하며 목표가를 20만원으로 제시함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "\"DB하이텍, 中 AI·로봇 폭발적 성장 수혜주…목표가 20만원\"-KB",
+          "url": "https://www.hankyung.com/article/2026090899846"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-08"
+    },
+    {
+      "id": "news:KB증권:https://www.hankyung.com/article/2026090899656",
+      "date": "2026-09-08",
+      "company": "KB증권",
+      "title": "\"미중 AI 경쟁 최대 수혜는 삼전닉스…中, LTA 강하게 요청\"-KB",
+      "oneLiner": "KB증권 리포트: 미·중 AI 경쟁 속에서 삼전닉스를 최대 수혜주로 분석하고 중국 측의 LTA 요청 동향을 보도함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "\"미중 AI 경쟁 최대 수혜는 삼전닉스…中, LTA 강하게 요청\"-KB",
+          "url": "https://www.hankyung.com/article/2026090899656"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-08"
+    },
+    {
       "id": "news:NH투자증권:https://www.hankyung.com/article/2026090773216",
       "date": "2026-09-07",
       "company": "NH투자증권",
@@ -70,6 +116,292 @@
       "tags": [],
       "confidence": 0.9,
       "updatedAt": "2026-09-07"
+    },
+    {
+      "id": "news:하나증권:https://www.hankyung.com/article/2026090794421",
+      "date": "2026-09-07",
+      "company": "하나증권",
+      "title": "AI입은 MTS '하나증권 V' 출시",
+      "oneLiner": "하나증권이 AI 기능을 탑재한 신규 모바일트레이딩시스템(MTS) '하나증권V'를 출시했다고 공지함.",
+      "type": "출시",
+      "areas": [
+        "트레이딩",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "AI입은 MTS '하나증권 V' 출시",
+          "url": "https://www.hankyung.com/article/2026090794421"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-09-08"
+    },
+    {
+      "id": "news:하나증권:https://www.hankyung.com/article/202609079010i",
+      "date": "2026-09-07",
+      "company": "하나증권",
+      "title": "AI 주식관리 시대 열었다... 하나증권 신규 MTS '하나증권V' 출시",
+      "oneLiner": "하나증권 신규 MTS '하나증권V' 출시 보도: AI 기반 주식관리 기능을 전면에 내세운 신제품 출시 소식임.",
+      "type": "출시",
+      "areas": [
+        "트레이딩",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "AI 주식관리 시대 열었다... 하나증권 신규 MTS '하나증권V' 출시",
+          "url": "https://www.hankyung.com/article/202609079010i"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-08"
+    },
+    {
+      "id": "news:하나증권:https://www.hankyung.com/article/2026090789896",
+      "date": "2026-09-07",
+      "company": "하나증권",
+      "title": "하나증권, AI 기능 탑재한 신규 MTS '하나증권V' 출시",
+      "oneLiner": "하나증권이 AI 기능을 탑재한 신규 MTS '하나증권V'를 출시했다고 보도되었음(AI 브리핑·추천 기능 포함).",
+      "type": "출시",
+      "areas": [
+        "트레이딩",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "하나증권, AI 기능 탑재한 신규 MTS '하나증권V' 출시",
+          "url": "https://www.hankyung.com/article/2026090789896"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-08"
+    },
+    {
+      "id": "news:하나증권:https://www.mk.co.kr/news/stock/12146394",
+      "date": "2026-09-07",
+      "company": "하나증권",
+      "title": "하나證, AI브리핑 기능 탑재한 신규 MTS '하나증권V' 출시",
+      "oneLiner": "하나증권이 AI브리핑 기능을 포함한 신규 MTS '하나증권V'를 출시한다고 공지함.",
+      "type": "출시",
+      "areas": [
+        "트레이딩",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "하나證, AI브리핑 기능 탑재한 신규 MTS '하나증권V' 출시",
+          "url": "https://www.mk.co.kr/news/stock/12146394"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-08"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12146395",
+      "date": "2026-09-07",
+      "company": "한국투자증권",
+      "title": "AI끼리 수익률 경쟁 … 주식투자대회 판 바뀐다",
+      "oneLiner": "한국투자증권 주식투자대회에 '오픈API 리그'를 신설해 AI와 오픈API를 활용한 알고리즘·시스템 참여를 장려함.",
+      "type": "출시",
+      "areas": [
+        "트레이딩",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "AI끼리 수익률 경쟁 … 주식투자대회 판 바뀐다",
+          "url": "https://www.mk.co.kr/news/stock/12146395"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-08"
+    },
+    {
+      "id": "news:KB증권:https://www.mk.co.kr/news/stock/12146119",
+      "date": "2026-09-07",
+      "company": "KB증권",
+      "title": "“삼전닉스, 메모리 재고 10일치도 안돼”…KB증권 “강력한 재평가 기대”",
+      "oneLiner": "KB증권 분석: AI 투자 수요로 메모리 공급 부족이 심화되어 삼전닉스가 강력한 재평가 대상이 될 수 있다고 전망함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“삼전닉스, 메모리 재고 10일치도 안돼”…KB증권 “강력한 재평가 기대”",
+          "url": "https://www.mk.co.kr/news/stock/12146119"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.88,
+      "updatedAt": "2026-09-08"
+    },
+    {
+      "id": "news:하나증권:https://www.mk.co.kr/news/stock/12146064",
+      "date": "2026-09-07",
+      "company": "하나증권",
+      "title": "하나증권, 신규 MTS ‘하나증권V’ 출시...AI브리핑·ETF 추천 기능 탑재",
+      "oneLiner": "하나증권이 AI브리핑과 ETF 추천 기능을 탑재한 신규 MTS '하나증권V' 출시를 발표함.",
+      "type": "출시",
+      "areas": [
+        "트레이딩",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "하나증권, 신규 MTS ‘하나증권V’ 출시...AI브리핑·ETF 추천 기능 탑재",
+          "url": "https://www.mk.co.kr/news/stock/12146064"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-08"
+    },
+    {
+      "id": "news:KB증권:https://www.mk.co.kr/news/stock/12145957",
+      "date": "2026-09-07",
+      "company": "KB증권",
+      "title": "“상품 가입부터 민원까지”…KB증권, AI로 ‘고객 안심 울타리’ 넓힌다",
+      "oneLiner": "KB증권이 AI를 활용해 상품 가입부터 민원관리까지 소비자보호 체계를 확대 운영한다고 발표함(가입과정 실시간 점검 등).",
+      "type": "시스템",
+      "areas": [
+        "상담",
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“상품 가입부터 민원까지”…KB증권, AI로 ‘고객 안심 울타리’ 넓힌다",
+          "url": "https://www.mk.co.kr/news/stock/12145957"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-09-08"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202609070932398768",
+      "date": "2026-09-07",
+      "company": "NH투자증권",
+      "title": "두산퓨얼셀, 美데이터센터 전력시장 진출 재평가로 장 초반 23% 강세 [종목 NOW]",
+      "oneLiner": "NH투자증권은 두산퓨얼셀의 미국 AI 데이터센터 전력시장 진출 소식을 반영해 투자의견을 상향하고 목표주가를 크게 조정함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "두산퓨얼셀, 美데이터센터 전력시장 진출 재평가로 장 초반 23% 강세 [종목 NOW]",
+          "url": "https://www.fnnews.com/news/202609070932398768"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-09-08"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202609071014359274",
+      "date": "2026-09-07",
+      "company": "KB증권",
+      "title": "KB증권, AI 기반 소비자보호 시스템 확대",
+      "oneLiner": "KB증권이 AI 기반 소비자보호 시스템을 확대 운영한다고 밝혔으며, AI가 가입·설명 누락을 점검하고 즉시 보완 조치하도록 설계됨.",
+      "type": "시스템",
+      "areas": [
+        "상담",
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "KB증권, AI 기반 소비자보호 시스템 확대",
+          "url": "https://www.fnnews.com/news/202609071014359274"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-09-08"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202609071016002822",
+      "date": "2026-09-07",
+      "company": "하나증권",
+      "title": "\"AI로 누구나 쉽게 투자\"…하나증권, 신규 MTS '하나증권V' 출시",
+      "oneLiner": "하나증권이 AI 기반 모바일트레이딩시스템(MTS) '하나증권V'를 정식 출시했다. AI 브리핑과 개인 맞춤형 투자 서비스로 시장 요약·추천을 제공한다.",
+      "type": "출시",
+      "areas": [
+        "리서치",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"AI로 누구나 쉽게 투자\"…하나증권, 신규 MTS '하나증권V' 출시",
+          "url": "https://www.fnnews.com/news/202609071016002822"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-09-08"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202609071833585397",
+      "date": "2026-09-07",
+      "company": "하나증권",
+      "title": "하나증권, AI기술 신규 MTS ‘하나증권V’ 선보여",
+      "oneLiner": "하나증권이 AI 기술을 적용한 신규 MTS '하나증권V'를 선보였다. AI가 시황과 주요 이슈를 분석·요약해 제공하는 AI 브리핑과 개인화 서비스를 포함한다.",
+      "type": "출시",
+      "areas": [
+        "리서치",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "하나증권, AI기술 신규 MTS ‘하나증권V’ 선보여",
+          "url": "https://www.fnnews.com/news/202609071833585397"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-09-08"
     },
     {
       "id": "news:신한투자증권:https://www.fnnews.com/news/202609031536318929",
