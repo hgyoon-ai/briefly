@@ -2,6 +2,29 @@
   "month": "2026-09",
   "events": [
     {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202609100823053597",
+      "date": "2026-09-10",
+      "company": "NH투자증권",
+      "title": "\"컴투스, 2주째 앱스토어 매출 1위...목표가 5만원으로 상향\"",
+      "oneLiner": "NH투자증권 연구원이 컴투스 목표주가를 기존 4만3000원에서 5만원으로 상향하며 투자의견 '매수'를 유지했습니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"컴투스, 2주째 앱스토어 매출 1위...목표가 5만원으로 상향\"",
+          "url": "https://www.fnnews.com/news/202609100823053597"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.88,
+      "updatedAt": "2026-09-10"
+    },
+    {
       "id": "news:미래에셋증권:https://www.fnnews.com/news/202609090749271247",
       "date": "2026-09-09",
       "company": "미래에셋증권",
@@ -25,6 +48,237 @@
       "updatedAt": "2026-09-09"
     },
     {
+      "id": "news:미래에셋증권:https://www.hankyung.com/article/2026090947221",
+      "date": "2026-09-09",
+      "company": "미래에셋증권",
+      "title": "\"삼전닉스에 절반 투자\"…미래에셋, 日 ETF 시장 출격",
+      "oneLiner": "미래에셋이 일본 시장에 한국 반도체 ETF를 출시하며 일본 ETF 시장에 본격 진출합니다.",
+      "type": "출시",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "\"삼전닉스에 절반 투자\"…미래에셋, 日 ETF 시장 출격",
+          "url": "https://www.hankyung.com/article/2026090947221"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-09-10"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.hankyung.com/article/202609094267i",
+      "date": "2026-09-09",
+      "company": "미래에셋증권",
+      "title": "미래에셋, 日서 한국 반도체 ETF 상장…증권사 인수 포석",
+      "oneLiner": "미래에셋이 일본에 한국 반도체 ETF를 상장해 해외 ETF 사업을 확대하고 증권사 인수 포석을 마련하고 있습니다.",
+      "type": "출시",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "미래에셋, 日서 한국 반도체 ETF 상장…증권사 인수 포석",
+          "url": "https://www.hankyung.com/article/202609094267i"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-09-10"
+    },
+    {
+      "id": "news:삼성증권:https://www.mk.co.kr/news/stock/12148760",
+      "date": "2026-09-09",
+      "company": "삼성증권",
+      "title": "삼성증권 9년 숙원 풀었다…8번째 발행어음 사업자 합류",
+      "oneLiner": "삼성증권이 금융위원회로부터 단기금융업(발행어음) 인가를 받아 발행어음 사업에 진출, 8번째 사업자로 합류했습니다.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "삼성증권 9년 숙원 풀었다…8번째 발행어음 사업자 합류",
+          "url": "https://www.mk.co.kr/news/stock/12148760"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-10"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12148404",
+      "date": "2026-09-09",
+      "company": "미래에셋증권",
+      "title": "국내 1호 코인거래소 코빗 역사 속으로…‘디지털엑스’로 새 출발",
+      "oneLiner": "미래에셋이 인수한 가상자산 거래소 코빗이 법인·서비스명을 '디지털엑스'로 변경하며 재출범합니다.",
+      "type": "기타",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "국내 1호 코인거래소 코빗 역사 속으로…‘디지털엑스’로 새 출발",
+          "url": "https://www.mk.co.kr/news/stock/12148404"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.82,
+      "updatedAt": "2026-09-10"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12147962",
+      "date": "2026-09-09",
+      "company": "한국투자증권",
+      "title": "“주식 앱에서 코인 시세 본다”…코인원, 한투증권 앱에 시세 연동",
+      "oneLiner": "코인원이 한국투자증권 앱에 시세를 연동해 한투 앱에서 코인원 시세를 실시간 확인할 수 있도록 기능 제휴를 진행했습니다.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“주식 앱에서 코인 시세 본다”…코인원, 한투증권 앱에 시세 연동",
+          "url": "https://www.mk.co.kr/news/stock/12147962"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-09-10"
+    },
+    {
+      "id": "news:삼성증권:https://www.fnnews.com/news/202609090936587034",
+      "date": "2026-09-09",
+      "company": "삼성증권",
+      "title": "\"퇴직연금에 국채 담는다\"…삼성증권, 개인투자용 국채 이벤트",
+      "oneLiner": "삼성증권이 퇴직연금(IRP·DC) 계좌에서도 개인투자용 국채를 매입할 수 있게 된 점을 활용해 고객 대상 이벤트를 진행합니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"퇴직연금에 국채 담는다\"…삼성증권, 개인투자용 국채 이벤트",
+          "url": "https://www.fnnews.com/news/202609090936587034"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.88,
+      "updatedAt": "2026-09-10"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202609091032410773",
+      "date": "2026-09-09",
+      "company": "미래에셋증권",
+      "title": "미래에셋증권, 개인투자용 국채 2300억원 청약...퇴직연금 투자 첫 허용",
+      "oneLiner": "미래에셋증권이 개인투자용 국채 9월 청약(총 2300억원)을 실시하며 DC·IRP 계좌에서도 청약이 가능하다고 공지했습니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋증권, 개인투자용 국채 2300억원 청약...퇴직연금 투자 첫 허용",
+          "url": "https://www.fnnews.com/news/202609091032410773"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-10"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202609091519040856",
+      "date": "2026-09-09",
+      "company": "미래에셋증권",
+      "title": "삼성증권, 발행어음 사업 인가…단기금융업 사업자 8곳으로",
+      "oneLiner": "금융위가 삼성증권에 단기금융업 인가를 승인해 삼성증권이 발행어음 사업에 진출, 단기금융업 사업자가 8곳으로 늘어났습니다.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "삼성증권, 발행어음 사업 인가…단기금융업 사업자 8곳으로",
+          "url": "https://www.fnnews.com/news/202609091519040856"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-09-10"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202609091826375653",
+      "date": "2026-09-09",
+      "company": "미래에셋증권",
+      "title": "미래에셋증권 개인투자용 국채 청약…DC·IRP 가능",
+      "oneLiner": "미래에셋증권이 개인투자용 국채 9월 청약을 실시하며 DC·IRP 계좌에서도 참여할 수 있게 되었다고 안내했습니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋증권 개인투자용 국채 청약…DC·IRP 가능",
+          "url": "https://www.fnnews.com/news/202609091826375653"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-10"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202609091826560960",
+      "date": "2026-09-09",
+      "company": "미래에셋증권",
+      "title": "삼성증권, 발행어음 사업자 됐다",
+      "oneLiner": "삼성증권이 금융위원회로부터 단기금융업(발행어음) 인가를 받아 발행어음 사업에 진출할 수 있게 됐다. 이번 인가로 자기자본의 200%까지 발행어음으로 자금조달이 가능해지며 업계 내 발행어음 사업자가 확대된다.",
+      "type": "규제",
+      "areas": [
+        "리스크",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "삼성증권, 발행어음 사업자 됐다",
+          "url": "https://www.fnnews.com/news/202609091826560960"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-10"
+    },
+    {
       "id": "7a9ac44926f18c841581d89fa05a17d719f7992f",
       "date": "2026-09-08",
       "company": "메리츠증권",
@@ -46,7 +300,7 @@
       ],
       "tags": [],
       "confidence": 0.7,
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10"
     },
     {
       "id": "news:하나증권:https://www.mk.co.kr/news/stock/12146608",
