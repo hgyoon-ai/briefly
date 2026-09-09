@@ -2,6 +2,29 @@
   "month": "2026-09",
   "events": [
     {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202609090749271247",
+      "date": "2026-09-09",
+      "company": "미래에셋증권",
+      "title": "대한항공, 원화 강세에 반등 날개 달까…목표가 상향",
+      "oneLiner": "미래에셋증권이 원화 강세 및 여객·화물 수요 개선 등을 근거로 대한항공의 목표주가를 3만3000원에서 3만7000원으로 상향하고 투자의견 '매수'를 유지했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "대한항공, 원화 강세에 반등 날개 달까…목표가 상향",
+          "url": "https://www.fnnews.com/news/202609090749271247"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-09"
+    },
+    {
       "id": "7a9ac44926f18c841581d89fa05a17d719f7992f",
       "date": "2026-09-08",
       "company": "메리츠증권",
@@ -23,7 +46,7 @@
       ],
       "tags": [],
       "confidence": 0.7,
-      "updatedAt": "2026-09-08"
+      "updatedAt": "2026-09-09"
     },
     {
       "id": "news:하나증권:https://www.mk.co.kr/news/stock/12146608",
@@ -46,7 +69,7 @@
       ],
       "tags": [],
       "confidence": 0.85,
-      "updatedAt": "2026-09-08"
+      "updatedAt": "2026-09-09"
     },
     {
       "id": "news:한국투자증권:https://www.fnnews.com/news/202609080850118676",
@@ -93,6 +116,75 @@
       "tags": [],
       "confidence": 0.85,
       "updatedAt": "2026-09-08"
+    },
+    {
+      "id": "news:KB증권:https://www.hankyung.com/article/2026090804311",
+      "date": "2026-09-08",
+      "company": "KB증권",
+      "title": "KB증권, 변동성 장세 속 AA+ 신용 앞세운 발행어음",
+      "oneLiner": "KB증권이 AA+ 신용을 앞세운 발행어음을 내세운 것으로, 투자상품(발행어음) 제공 관련 변화로 분류합니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "KB증권, 변동성 장세 속 AA+ 신용 앞세운 발행어음",
+          "url": "https://www.hankyung.com/article/2026090804311"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-09-09"
+    },
+    {
+      "id": "news:NH투자증권:https://www.hankyung.com/article/2026090811556",
+      "date": "2026-09-08",
+      "company": "NH투자증권",
+      "title": "NH투자증권, DC·IRP 전용 개인투자용 국채 청약 개시",
+      "oneLiner": "NH투자증권이 DC·IRP 전용 개인투자용 국채 청약을 개시한 것으로, 계정 대상 상품 제공 개시로 판단됩니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "NH투자증권, DC·IRP 전용 개인투자용 국채 청약 개시",
+          "url": "https://www.hankyung.com/article/2026090811556"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-09-09"
+    },
+    {
+      "id": "news:NH투자증권:https://www.mk.co.kr/news/stock/12147172",
+      "date": "2026-09-08",
+      "company": "NH투자증권",
+      "title": "“퇴직연금도 ‘자산배분’ 시대”…NH투자증권, DB 적립금 컨설팅 강화",
+      "oneLiner": "NH투자증권이 DB 적립금 운용 컨설팅을 강화하는 서비스 확대로, 기관 대상 자산운용·컨설팅 운영 변경으로 분류합니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“퇴직연금도 ‘자산배분’ 시대”…NH투자증권, DB 적립금 컨설팅 강화",
+          "url": "https://www.mk.co.kr/news/stock/12147172"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-09-09"
     },
     {
       "id": "news:한국투자증권:https://www.hankyung.com/article/202609078543i",

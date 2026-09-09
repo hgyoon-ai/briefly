@@ -1,5 +1,66 @@
 [
   {
+    "id": "2026-09-09T08:58:13.551238+09:00",
+    "ts": "2026-09-09T08:58:13.551238+09:00",
+    "timezone": "Asia/Seoul",
+    "dataset": "securities-ai",
+    "range": {
+      "mode": "lookback",
+      "lookbackDays": 3,
+      "month": null,
+      "start": "2026-09-06T08:58:13.551238+09:00",
+      "end": "2026-09-09T08:58:13.551238+09:00"
+    },
+    "sources": {
+      "app_store": {
+        "appsTotal": 10,
+        "fetchedOk": 10,
+        "failed": 0
+      },
+      "dart": {
+        "companiesTotal": 10,
+        "matched": 8,
+        "unmatched": 2,
+        "filters": {
+          "pblntf_ty": [
+            "B",
+            "E",
+            "I"
+          ],
+          "last_reprt_at": "Y"
+        },
+        "disclosuresFetched": 0
+      },
+      "news": {
+        "rssLimit": 50,
+        "entriesFetched": 165,
+        "bySource": {
+          "한국경제(증권)": 50,
+          "매일경제(증권)": 50,
+          "파이낸셜뉴스(증권)": 39,
+          "파이낸셜뉴스(IT)": 26
+        }
+      }
+    },
+    "filters": {
+      "rawItems": 27,
+      "deduped": 27,
+      "keywordPassed": 9,
+      "candidates": 9
+    },
+    "llm": {
+      "cacheHit": 3,
+      "sent": 6
+    },
+    "output": {
+      "kept": 4,
+      "monthsUpdated": [
+        "2026-09"
+      ]
+    },
+    "errors": []
+  },
+  {
     "id": "2026-09-08T09:07:13.105149+09:00",
     "ts": "2026-09-08T09:07:13.105149+09:00",
     "timezone": "Asia/Seoul",
@@ -358,57 +419,5 @@
       "monthsUpdated": []
     },
     "errors": []
-  },
-  {
-    "id": "2026-09-02T08:50:44.858325+09:00",
-    "ts": "2026-09-02T08:50:44.858325+09:00",
-    "timezone": "Asia/Seoul",
-    "dataset": "securities-ai",
-    "range": {
-      "mode": "lookback",
-      "lookbackDays": 3,
-      "month": null,
-      "start": "2026-08-30T08:50:44.858325+09:00",
-      "end": "2026-09-02T08:50:44.858325+09:00"
-    },
-    "sources": {
-      "app_store": {
-        "appsTotal": 10,
-        "fetchedOk": 10,
-        "failed": 0
-      },
-      "news": {
-        "rssLimit": 50,
-        "entriesFetched": 175,
-        "bySource": {
-          "한국경제(증권)": 50,
-          "매일경제(증권)": 50,
-          "파이낸셜뉴스(증권)": 50,
-          "파이낸셜뉴스(IT)": 25
-        }
-      }
-    },
-    "filters": {
-      "rawItems": 22,
-      "deduped": 22,
-      "keywordPassed": 5,
-      "candidates": 5
-    },
-    "llm": {
-      "cacheHit": 0,
-      "sent": 5
-    },
-    "output": {
-      "kept": 4,
-      "monthsUpdated": [
-        "2026-09"
-      ]
-    },
-    "errors": [
-      {
-        "source": "dart",
-        "message": "ConnectTimeout(MaxRetryError(\"HTTPSConnectionPool(host='opendart.fss.or.kr', port=443): Max retries exceeded with url: /api/corpCode.xml?crtfc_key=7527e1cf585cfcb671d639295286f55452cd6aa3 (Caused by ConnectTimeoutError(<HTTPSConnection(host='opendart.fss.or.kr', port=443) at 0x7f0b4a843590>, 'Connection to opendart.fss.or.kr timed out. (connect timeout=30)'))\"))"
-      }
-    ]
   }
 ]
