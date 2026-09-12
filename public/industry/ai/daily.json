@@ -1,40 +1,12 @@
 {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "highlights": {
-    "bullets": [
-      "핵심: OpenAI가 Habitat를 파이썬 라이브러리에서 글로벌 분산 스토리지로 확장해 10억 이상 ChatGPT 사용자와 초당 2,200만 요청을 지원하도록 설계했다."
-    ],
-    "topTopics": [
-      "Infra",
-      "Tooling",
-      "Product"
-    ],
+    "bullets": [],
+    "topTopics": [],
     "stats": {
-      "collected": 1,
-      "deduped": 1
+      "collected": 0,
+      "deduped": 0
     }
   },
-  "cards": [
-    {
-      "id": "ai_0001",
-      "tab": "ai",
-      "publishedAt": "2026-09-11T19:00:00+09:00",
-      "source": "OpenAI Blog",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "summary": [
-        "OpenAI가 Habitat를 Python 라이브러리에서 전세계 분산 스토리지 플랫폼으로 확장했습니다.",
-        "플랫폼은 10억 이상 ChatGPT 사용자와 초당 2,200만 요청을 처리하도록 설계되어 대규모 온라인 스토리지를 실전 운영합니다.",
-        "글로벌 일관성, 성능 최적화, 자동화된 운영·관측을 중심으로 인프라와 툴링을 재구성했습니다."
-      ],
-      "whyItMatters": "대규모 사용자·요청을 안정적으로 지원하는 스토리지 전환은 서비스 가용성, 비용 효율성, 그리고 제품 확장성에 결정적입니다.",
-      "topics": [
-        "Infra",
-        "Tooling",
-        "Product"
-      ],
-      "status": "ONGOING",
-      "hash": "46fcf5bb7b99520f1816e2b783a8be714e81f0b319fca3a31d07e256a8f0729d",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one"
-    }
-  ]
+  "cards": []
 }
