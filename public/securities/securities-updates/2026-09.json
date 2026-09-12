@@ -2,6 +2,100 @@
   "month": "2026-09",
   "events": [
     {
+      "id": "news:KB증권:https://www.mk.co.kr/news/stock/12150112",
+      "date": "2026-09-11",
+      "company": "KB증권",
+      "title": "“삼성전자 HBM4 매출, 3배 이상 늘어난다”…파운드리까지 ‘청신호’",
+      "oneLiner": "KB증권은 삼성전자의 HBM4 매출이 크게 증가하고 파운드리 수율 개선으로 성장 기회가 확대될 것으로 전망한 리포트를 발표함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“삼성전자 HBM4 매출, 3배 이상 늘어난다”…파운드리까지 ‘청신호’",
+          "url": "https://www.mk.co.kr/news/stock/12150112"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-12"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202609110833376910",
+      "date": "2026-09-11",
+      "company": "NH투자증권",
+      "title": "\"대우건설, 팀코리아 원전 수출 수혜 기대\" 목표가 상향",
+      "oneLiner": "NH투자증권은 대우건설에 대해 원전 수출 기대감 등을 반영해 목표주가를 상향하고 투자의견을 유지하는 리포트를 냄.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"대우건설, 팀코리아 원전 수출 수혜 기대\" 목표가 상향",
+          "url": "https://www.fnnews.com/news/202609110833376910"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-12"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202609111038072017",
+      "date": "2026-09-11",
+      "company": "한국투자증권",
+      "title": "HD현대중공업, 2030년 엔진 매출 10조원 전망…대우건설, 팀코리아 원전 수출 대표 시공 파트너 [株토피아]",
+      "oneLiner": "한국투자증권 등의 리포트를 종합한 기사로 HD현대중공업·대우건설 등 관련 종목의 중장기 전망과 투자포인트를 정리함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "HD현대중공업, 2030년 엔진 매출 10조원 전망…대우건설, 팀코리아 원전 수출 대표 시공 파트너 [株토피아]",
+          "url": "https://www.fnnews.com/news/202609111038072017"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.88,
+      "updatedAt": "2026-09-12"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202609111829380487",
+      "date": "2026-09-11",
+      "company": "미래에셋증권",
+      "title": "\"해외주식 매매 관련 제재\"…금감원, 토스·메리츠·미래에셋증권에 '경영유의'",
+      "oneLiner": "금감원이 해외주식 매매 관련해 토스·메리츠·미래에셋증권에 경영유의 조치를 통보했으며 외화예탁금 이용료율 산정 등 구체적 지적사항을 제시함.",
+      "type": "규제",
+      "areas": [
+        "리스크",
+        "브로커리지",
+        "AML"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"해외주식 매매 관련 제재\"…금감원, 토스·메리츠·미래에셋증권에 '경영유의'",
+          "url": "https://www.fnnews.com/news/202609111829380487"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.97,
+      "updatedAt": "2026-09-12"
+    },
+    {
       "id": "news:NH투자증권:https://www.fnnews.com/news/202609100823053597",
       "date": "2026-09-10",
       "company": "NH투자증권",
@@ -23,6 +117,31 @@
       "tags": [],
       "confidence": 0.88,
       "updatedAt": "2026-09-10"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12149701",
+      "date": "2026-09-10",
+      "company": "미래에셋증권",
+      "title": "“해외투자 관리 곳곳 허점”…금감원, 증권사 경영유의·개선 지적",
+      "oneLiner": "금감원이 증권사들의 해외투자 관련 관리 부실을 지적하며 메리츠·미래에셋·토스 등에 경영유의·개선 요구를 통보했음; 해외파생, 모니터링·위험고지 및 외화예탁금 산정 등 다수 제재 사안 포함.",
+      "type": "규제",
+      "areas": [
+        "리스크",
+        "브로커리지",
+        "AML"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“해외투자 관리 곳곳 허점”…금감원, 증권사 경영유의·개선 지적",
+          "url": "https://www.mk.co.kr/news/stock/12149701"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.96,
+      "updatedAt": "2026-09-12"
     },
     {
       "id": "news:미래에셋증권:https://www.fnnews.com/news/202609090749271247",
