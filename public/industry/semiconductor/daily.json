@@ -1,40 +1,12 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "highlights": {
-    "bullets": [
-      "핵심: 아키텍트랩스의 인공지능 플랫폼 레드우드가 설계 자동화로 칩 설계 기간을 수년에서 수주로 단축한다고 주장한다."
-    ],
-    "topTopics": [
-      "Manufacturing",
-      "Roadmap",
-      "Competition"
-    ],
+    "bullets": [],
+    "topTopics": [],
     "stats": {
-      "collected": 1,
-      "deduped": 1
+      "collected": 0,
+      "deduped": 0
     }
   },
-  "cards": [
-    {
-      "id": "semiconductor_0001",
-      "tab": "semiconductor",
-      "publishedAt": "2026-09-12T11:00:00+09:00",
-      "source": "EE Times",
-      "title": "Inside Architect Labs’ Two-Week Chip Design",
-      "summary": [
-        "Architect Labs의 AI 플랫폼 Redwood가 맞춤형 칩 설계 기간을 수년에서 수주로 단축한다고 주장한다.",
-        "기사에서는 Redwood의 설계 자동화 워크플로와 생산성 향상 효과를 중심으로 설명한다.",
-        "이 기술은 칩 개발 속도와 시장 진입 경쟁 구도를 바꿀 잠재력을 지닌다."
-      ],
-      "whyItMatters": "설계 기간 단축은 제조 일정, 비용 구조, 제품 출시 경쟁력에 직접적인 영향을 미치기 때문이다.",
-      "topics": [
-        "Manufacturing",
-        "Roadmap",
-        "Competition"
-      ],
-      "status": "ONGOING",
-      "hash": "ffdf3ce2d6b4543543aa17bc3522cf760541a5d701c74ead7b1f487186442dbf",
-      "url": "https://www.eetimes.com/inside-architect-labs-two-week-chip-design/"
-    }
-  ]
+  "cards": []
 }

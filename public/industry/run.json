@@ -1,6 +1,6 @@
 {
-  "id": "2026-09-13T08:07:48.707257+09:00",
-  "ts": "2026-09-13T08:07:48.707257+09:00",
+  "id": "2026-09-14T08:16:29.822016+09:00",
+  "ts": "2026-09-14T08:16:29.822016+09:00",
   "timezone": "Asia/Seoul",
   "selectedTabs": [
     "ai",
@@ -10,14 +10,14 @@
     "realestate"
   ],
   "pipeline": {
-    "rawTotal": 210,
+    "rawTotal": 213,
     "rawClamped": 150,
     "rawByTabBeforeClamp": {
       "ai": 100,
       "finance": 30,
       "semiconductor": 45,
       "ev": 15,
-      "realestate": 20
+      "realestate": 23
     },
     "rawByTabAfterClamp": {
       "ai": 70,
@@ -32,7 +32,7 @@
   },
   "sources": {
     "rss": {
-      "total": 180,
+      "total": 183,
       "bySource": {
         "OpenAI Blog": 15,
         "Google DeepMind Blog": 15,
@@ -46,8 +46,8 @@
         "Electrek": 15,
         "매일경제(증권)": 15,
         "벤처스퀘어": 15,
-        "한국경제(부동산)": 3,
-        "매일경제(부동산)": 8,
+        "한국경제(부동산)": 4,
+        "매일경제(부동산)": 10,
         "헤럴드경제(부동산)": 9
       }
     },
@@ -71,7 +71,7 @@
         "cards": 0
       },
       "weekly": {
-        "items": 12,
+        "items": 11,
         "issues": 5
       },
       "monthly": {
@@ -81,7 +81,7 @@
     },
     "finance": {
       "daily": {
-        "raw": 6,
+        "raw": 15,
         "cards": 2
       },
       "weekly": {
@@ -95,11 +95,11 @@
     },
     "semiconductor": {
       "daily": {
-        "raw": 1,
-        "cards": 1
+        "raw": 0,
+        "cards": 0
       },
       "weekly": {
-        "items": 15,
+        "items": 11,
         "issues": 5
       },
       "monthly": {
@@ -109,7 +109,7 @@
     },
     "ev": {
       "daily": {
-        "raw": 8,
+        "raw": 2,
         "cards": 2
       },
       "weekly": {
@@ -123,15 +123,15 @@
     },
     "realestate": {
       "daily": {
-        "raw": 8,
+        "raw": 12,
         "cards": 4
       },
       "weekly": {
-        "items": 23,
+        "items": 22,
         "issues": 5
       },
       "monthly": {
-        "items": 115,
+        "items": 116,
         "issues": 5
       }
     }
