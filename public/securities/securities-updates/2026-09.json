@@ -2,6 +2,29 @@
   "month": "2026-09",
   "events": [
     {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12153152",
+      "date": "2026-09-16",
+      "company": "미래에셋증권",
+      "title": "일본시장 눈독 들이는 한국 톱 증권사 … ‘3000만 절세계좌’에 담긴 기회",
+      "oneLiner": "미래에셋이 일본시장 진출과 현지 증권사 인수 검토 등을 통해 해외 사업 확장 계획과 전략적 기회를 강조한 기사입니다.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "일본시장 눈독 들이는 한국 톱 증권사 … ‘3000만 절세계좌’에 담긴 기회",
+          "url": "https://www.mk.co.kr/news/stock/12153152"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-09-16"
+    },
+    {
       "id": "news:NH투자증권:https://www.fnnews.com/news/202609150832388017",
       "date": "2026-09-15",
       "company": "NH투자증권",
@@ -23,6 +46,177 @@
       "tags": [],
       "confidence": 0.9,
       "updatedAt": "2026-09-15"
+    },
+    {
+      "id": "news:한국투자증권:https://www.hankyung.com/article/202609155666i",
+      "date": "2026-09-15",
+      "company": "한국투자증권",
+      "title": "신한투자증권, 해외 투자자 유치 확대…日·홍콩·베트남과 논의",
+      "oneLiner": "신한투자증권이 일본·홍콩·베트남 등에서 해외 투자자 유치와 현지 기관과의 협력 방안을 논의하며 글로벌 비즈니스 확대를 모색한 보도입니다.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지",
+        "WM",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "신한투자증권, 해외 투자자 유치 확대…日·홍콩·베트남과 논의",
+          "url": "https://www.hankyung.com/article/202609155666i"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12153501",
+      "date": "2026-09-15",
+      "company": "한국투자증권",
+      "title": "日·홍콩·베트남서 글로벌 투자자 유치",
+      "oneLiner": "신한투자증권 대표가 일본·홍콩·베트남을 방문해 글로벌 투자자 유치 및 협력 확대 방안을 논의한 사실을 전하는 보도입니다.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지",
+        "WM",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "日·홍콩·베트남서 글로벌 투자자 유치",
+          "url": "https://www.mk.co.kr/news/stock/12153501"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "news:NH투자증권:https://www.mk.co.kr/news/stock/12153124",
+      "date": "2026-09-15",
+      "company": "NH투자증권",
+      "title": "“거래소 대주주 지분 규제는 추후 보완…디지털기본법 서둘러 시행해야”",
+      "oneLiner": "거래소 대주주 지분 규제와 디지털자산 관련 법제 시행 시급성 등을 둘러싼 규제 논의가 보고된 기사입니다.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“거래소 대주주 지분 규제는 추후 보완…디지털기본법 서둘러 시행해야”",
+          "url": "https://www.mk.co.kr/news/stock/12153124"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "news:NH투자증권:https://www.mk.co.kr/news/stock/12152906",
+      "date": "2026-09-15",
+      "company": "NH투자증권",
+      "title": "“가상자산거래소, 지주사 자회사 편입시 지분규제 상충”",
+      "oneLiner": "가상자산거래소를 지주사 자회사로 편입할 경우 기존 지분규제와 충돌하는 문제를 지적한 규제 관련 기사입니다.",
+      "type": "규제",
+      "areas": [
+        "리스크",
+        "AML"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“가상자산거래소, 지주사 자회사 편입시 지분규제 상충”",
+          "url": "https://www.mk.co.kr/news/stock/12152906"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202609150929231709",
+      "date": "2026-09-15",
+      "company": "한국투자증권",
+      "title": "한국투자증권, ELW 268종 신규 상장..삼성전자·SK하이닉스 등 포함",
+      "oneLiner": "한국투자증권이 ELW 268종을 신규 상장한다고 공시·발표한 기사로, 거래 가능한 파생상품 라인업 확대 소식입니다.",
+      "type": "출시",
+      "areas": [
+        "트레이딩",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한국투자증권, ELW 268종 신규 상장..삼성전자·SK하이닉스 등 포함",
+          "url": "https://www.fnnews.com/news/202609150929231709"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202609150935533220",
+      "date": "2026-09-15",
+      "company": "한국투자증권",
+      "title": "신한투자증권, '해외투자' 넘어 '국내 투자유치' 정조준",
+      "oneLiner": "신한투자증권이 해외투자와 함께 해외투자자의 국내투자 유치를 목표로 양방향 글로벌 투자 플랫폼 구축에 속도를 낸다는 보도입니다.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지",
+        "WM",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "신한투자증권, '해외투자' 넘어 '국내 투자유치' 정조준",
+          "url": "https://www.fnnews.com/news/202609150935533220"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202609151808598529",
+      "date": "2026-09-15",
+      "company": "한국투자증권",
+      "title": "신한투증 \"국내외 투자 양방향 연결\"",
+      "oneLiner": "신한투자증권이 외국인 통합계좌, 자산관리(WM), 리서치 역량을 활용해 해외 투자자와 국내 투자자를 연결하는 양방향 플랫폼을 추진한다는 보도입니다.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지",
+        "WM",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "신한투증 \"국내외 투자 양방향 연결\"",
+          "url": "https://www.fnnews.com/news/202609151808598529"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-16"
     },
     {
       "id": "news:미래에셋증권:https://www.fnnews.com/news/202609132136273796",

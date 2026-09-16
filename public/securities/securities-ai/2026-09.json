@@ -2,6 +2,123 @@
   "month": "2026-09",
   "events": [
     {
+      "id": "news:KB증권:https://www.fnnews.com/news/202609160834036664",
+      "date": "2026-09-16",
+      "company": "KB증권",
+      "title": "\"내년 AI 투자 1755조원\"...삼전닉스의 시간 온다",
+      "oneLiner": "KB증권 김동원 연구원이 미국 하이퍼스케일러의 내년 AI 인프라 투자 상향 전망(약 1조3000억달러)을 제시하며 반도체 수요와 관련 업종의 투자 기회를 분석한 리서치 기사다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"내년 AI 투자 1755조원\"...삼전닉스의 시간 온다",
+          "url": "https://www.fnnews.com/news/202609160834036664"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202609151408069844",
+      "date": "2026-09-15",
+      "company": "NH투자증권",
+      "title": "'에이전틱 AI' 관련 美 기업 투자…NH아문디운용, ETF 신규 상장",
+      "oneLiner": "NH아문디운용이 에이전틱 AI 관련 미국 기업에 투자하는 ETF 'HANARO 미국에이전틱AI TOP2+'를 신규 상장했으며, 구성종목 선정에 LLM 기반 문맥 분석을 활용해 AI 관련도를 점수화했다고 보도되었다.",
+      "type": "출시",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "'에이전틱 AI' 관련 美 기업 투자…NH아문디운용, ETF 신규 상장",
+          "url": "https://www.fnnews.com/news/202609151408069844"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202609151120123051",
+      "date": "2026-09-15",
+      "company": "KB증권",
+      "title": "SKB·SKT, 사회보장 정보 디지털화...AI복지 기반 만든다",
+      "oneLiner": "SK브로드밴드·SK텔레콤·한국사회보장정보원이 사회보장 정보 디지털화와 AI 상담체계 구축을 위한 업무협약을 체결하고, PQC 기반 AI 보안 운영체계 적용으로 복지정보 보안성 강화를 추진한다고 보도되었다.",
+      "type": "제휴",
+      "areas": [
+        "상담",
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "SKB·SKT, 사회보장 정보 디지털화...AI복지 기반 만든다",
+          "url": "https://www.fnnews.com/news/202609151120123051"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202609151802443430",
+      "date": "2026-09-15",
+      "company": "KB증권",
+      "title": "[fn이사람] \"내부신고는 기업 살리는 백신… AI가 처리 골든타임 사수\"",
+      "oneLiner": "내부신고 시스템 '케이휘슬' 운영 사례를 통해 내부신고 처리의 신속성과 일관성 확보를 위해 AI를 도입·고도화하려는 시도가 소개되었으며, 내부신고 자동화의 장단점과 보안 이슈를 논의했다.",
+      "type": "시스템",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "[fn이사람] \"내부신고는 기업 살리는 백신… AI가 처리 골든타임 사수\"",
+          "url": "https://www.fnnews.com/news/202609151802443430"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202609151803318092",
+      "date": "2026-09-15",
+      "company": "KB증권",
+      "title": "SKB·SKT, 사회보장 정보 디지털화 앞장",
+      "oneLiner": "SK브로드밴드·SK텔레콤과 한국사회보장정보원이 사회보장 정보의 디지털 전환 및 AI 상담체계 구축을 위해 업무협약을 맺고, 보안성과 안정성 강화를 위한 기술 적용 계획을 발표했다.",
+      "type": "제휴",
+      "areas": [
+        "상담",
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "SKB·SKT, 사회보장 정보 디지털화 앞장",
+          "url": "https://www.fnnews.com/news/202609151803318092"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.88,
+      "updatedAt": "2026-09-16"
+    },
+    {
       "id": "news:한국투자증권:https://www.fnnews.com/news/202609130407145192",
       "date": "2026-09-13",
       "company": "한국투자증권",
