@@ -2,6 +2,52 @@
   "month": "2026-09",
   "events": [
     {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202609170818514326",
+      "date": "2026-09-17",
+      "company": "한국투자증권",
+      "title": "\"실적 눈높이 낮아졌다\"…제일기획 목표가 '하향'",
+      "oneLiner": "신한투자증권의 리포트로 제일기획 목표주가를 하향했으며 투자의견은 '매수' 유지, 리포트는 AI 투자 부담을 실적 하방 요인으로 지적함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"실적 눈높이 낮아졌다\"…제일기획 목표가 '하향'",
+          "url": "https://www.fnnews.com/news/202609170818514326"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-09-17"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202609170830538701",
+      "date": "2026-09-17",
+      "company": "NH투자증권",
+      "title": "\"롯데에너지머티리얼즈, 전방 수요 빠르게 회복중\"...목표주가 ↑",
+      "oneLiner": "NH투자증권이 롯데에너지머티리얼즈에 대해 EV·ESS·AI 관련 전방 수요 회복을 근거로 목표주가를 상향하고 '매수' 의견을 유지함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"롯데에너지머티리얼즈, 전방 수요 빠르게 회복중\"...목표주가 ↑",
+          "url": "https://www.fnnews.com/news/202609170830538701"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-09-17"
+    },
+    {
       "id": "news:KB증권:https://www.fnnews.com/news/202609160834036664",
       "date": "2026-09-16",
       "company": "KB증권",
@@ -23,6 +69,75 @@
       "tags": [],
       "confidence": 0.85,
       "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202609160844572025",
+      "date": "2026-09-16",
+      "company": "한국투자증권",
+      "title": "\"데이터센터·정책 수혜...건설주 비중 확대\"",
+      "oneLiner": "신한투자증권 리포트에서 데이터센터 및 정책 수혜로 건설 업종 비중확대를 권고하며 관련 종목을 추천함(데이터센터를 실적 상향의 핵심 요인으로 분석).",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"데이터센터·정책 수혜...건설주 비중 확대\"",
+          "url": "https://www.fnnews.com/news/202609160844572025"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-09-17"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202609161036132979",
+      "date": "2026-09-16",
+      "company": "한국투자증권",
+      "title": "GS건설, 데이터센터에 원전까지 수주 영역 확대…RFHIC, 통신 부품 쇼티지 수혜 [株토피아]",
+      "oneLiner": "증권사 리포트 정리기사로 GS건설의 AI 데이터센터 착공 및 원전 수주 가능성 등을 근거로 목표주가 상향 및 긍정적 전망을 제시함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "GS건설, 데이터센터에 원전까지 수주 영역 확대…RFHIC, 통신 부품 쇼티지 수혜 [株토피아]",
+          "url": "https://www.fnnews.com/news/202609161036132979"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-17"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202609161019007544",
+      "date": "2026-09-16",
+      "company": "KB증권",
+      "title": "'삼전닉스' 반등 임박?…\"1755조원 투자 밀려들어온다\" [주주클럽]",
+      "oneLiner": "KB증권 리서치가 반도체를 톱픽으로 제시하며 AI 모델 개발 일정 지연 우려에도 불구하고 하이퍼스케일러들의 AI 인프라 투자는 확대될 것으로 전망, 투자 추천을 제시함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "'삼전닉스' 반등 임박?…\"1755조원 투자 밀려들어온다\" [주주클럽]",
+          "url": "https://www.fnnews.com/news/202609161019007544"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-09-17"
     },
     {
       "id": "news:NH투자증권:https://www.fnnews.com/news/202609151408069844",
