@@ -2,6 +2,121 @@
   "month": "2026-09",
   "events": [
     {
+      "id": "f188ea7c0b22910eb2e0707743dae1091c98b1a1",
+      "date": "2026-09-18",
+      "company": "키움증권",
+      "title": "주요사항보고서(자본으로인정되는채무증권발행결정)",
+      "oneLiner": "키움증권이 자본으로 인정되는 채무증권 발행 결정을 주요사항보고서로 공시함.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "주요사항보고서(자본으로인정되는채무증권발행결정)",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260918000296"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-09-19"
+    },
+    {
+      "id": "news:키움증권:https://www.hankyung.com/article/202609183313i",
+      "date": "2026-09-18",
+      "company": "키움증권",
+      "title": "1.8조 굴리는 키움 200TR, 수수료 파격 인하…'초저가 경쟁'",
+      "oneLiner": "키움증권이 200TR의 수수료를 파격 인하해 초저가 경쟁에 나선다는 보도.",
+      "type": "기타",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "1.8조 굴리는 키움 200TR, 수수료 파격 인하…'초저가 경쟁'",
+          "url": "https://www.hankyung.com/article/202609183313i"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-09-19"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202609180857159012",
+      "date": "2026-09-18",
+      "company": "NH투자증권",
+      "title": "\"SK가스, 중동 사태 장기화로 LPG-LNG 가격차 수혜…하반기 실적 정상화\"",
+      "oneLiner": "NH투자증권 연구원이 SK가스에 대해 LPG·LNG 가격차 수혜로 하반기 실적 정상화를 전망하며 투자의견 '매수'를 유지함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"SK가스, 중동 사태 장기화로 LPG-LNG 가격차 수혜…하반기 실적 정상화\"",
+          "url": "https://www.fnnews.com/news/202609180857159012"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.88,
+      "updatedAt": "2026-09-19"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202609180843129832",
+      "date": "2026-09-18",
+      "company": "KB증권",
+      "title": "\"컴투스 신작 '제우스' 대박났다\"...목표주가 40%↑",
+      "oneLiner": "KB증권 연구원이 컴투스 신작 흥행을 근거로 투자의견을 '매수'로 상향하고 목표주가를 40% 상향 조정함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"컴투스 신작 '제우스' 대박났다\"...목표주가 40%↑",
+          "url": "https://www.fnnews.com/news/202609180843129832"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.88,
+      "updatedAt": "2026-09-19"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202609181034252339",
+      "date": "2026-09-18",
+      "company": "하나증권",
+      "title": "하나증권, 초록우산과 '유산기부·나눔문화 확산' 협약",
+      "oneLiner": "하나증권이 초록우산과 유산기부·나눔문화 확산을 위한 MOU를 체결하고 신탁 설계 등 실무 지원을 제공하기로 함.",
+      "type": "제휴",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "하나증권, 초록우산과 '유산기부·나눔문화 확산' 협약",
+          "url": "https://www.fnnews.com/news/202609181034252339"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-19"
+    },
+    {
       "id": "news:삼성증권:https://www.hankyung.com/article/2026091715676",
       "date": "2026-09-17",
       "company": "삼성증권",
