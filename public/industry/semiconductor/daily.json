@@ -1,85 +1,12 @@
 {
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "highlights": {
-    "bullets": [
-      "핵심: 인텔이 High-NA EUV를 제품 공정에 도입했으며 스티칭 문제가 남아 있다.",
-      "핵심: AI 수요가 DRAM 시장의 공급 압박을 지속시키고 있다.",
-      "트렌드: 제조·투자·경쟁 관련 활동이 업계 전반에서 동시에 부각되고 있다."
-    ],
-    "topTopics": [
-      "Manufacturing",
-      "Roadmap",
-      "Competition",
-      "Investment"
-    ],
+    "bullets": [],
+    "topTopics": [],
     "stats": {
-      "collected": 4,
-      "deduped": 4
+      "collected": 0,
+      "deduped": 0
     }
   },
-  "cards": [
-    {
-      "id": "semiconductor_0001",
-      "tab": "semiconductor",
-      "publishedAt": "2026-09-19T07:00:00+09:00",
-      "source": "EE Times",
-      "title": "Intel Puts High-NA EUV into Production, but Stitching Still Has Something to Prove",
-      "summary": [
-        "인텔이 High-NA EUV를 제품 공정에 도입했다.",
-        "Panther Lake가 High-NA의 제조 검증을 제시했으나 전기적 스티칭과 대형 마스크 문제가 남아 있다.",
-        "스티칭 및 마스크 이슈가 수율과 공정 확장성에 결정적 영향을 줄 수 있다."
-      ],
-      "whyItMatters": "High-NA 도입은 미세화와 성능 향상에 중요하지만 스티칭 문제는 양산성에 큰 리스크가 된다.",
-      "topics": [
-        "Manufacturing",
-        "Roadmap",
-        "Competition"
-      ],
-      "status": "SHIFTING",
-      "hash": "4c29a21c1df7d1efa4400a3ca2a5cb2c6cb9b4d343551c3a3815a0f9cfb959f7",
-      "url": "https://www.eetimes.com/intel-puts-high-na-euv-into-production-but-stitching-still-has-something-to-prove/"
-    },
-    {
-      "id": "semiconductor_0002",
-      "tab": "semiconductor",
-      "publishedAt": "2026-09-18T21:00:00+09:00",
-      "source": "EE Times",
-      "title": "AI Demand Will Keep DRAM Market Under Pressure",
-      "summary": [
-        "AI 인프라 수요가 DRAM 부족을 지속적으로 촉발하고 있습니다.",
-        "이 공급 압박은 2027년까지 이어져 소비자 전자제품 제조사들의 우선순위를 낮추고 있습니다.",
-        "결과적으로 제품 출시 지연과 가격 상승 등 공급망 전반에 영향이 예상됩니다."
-      ],
-      "whyItMatters": "AI 투자로 서버용 메모리에 재고가 집중되며 소비자용 수요가 후순위로 밀려나 공급과 가격에 광범위한 영향을 미치기 때문입니다.",
-      "topics": [
-        "Demand",
-        "Manufacturing",
-        "Competition"
-      ],
-      "status": "ONGOING",
-      "hash": "d2f640c0e03979fae310f065c50b1527ddd77ce3809560d16253f6bbe7266909",
-      "url": "https://www.eetimes.com/ai-demand-will-keep-dram-market-under-pressure/"
-    },
-    {
-      "id": "semiconductor_0003",
-      "tab": "semiconductor",
-      "publishedAt": "2026-09-18T14:59:25+09:00",
-      "source": "SK hynix Newsroom",
-      "title": "SK hynix Launches ‘SK hynix Ventures’ in Silicon Valley to Expand Global AI Ecosystem Investment",
-      "summary": [
-        "SK hynix가 실리콘밸리에 'SK hynix Ventures'를 출범시켰다.",
-        "CEO 곽노정 등 경영진과 글로벌 VC·스타트업 리더들이 첫 Ventures Day에 참석했다.",
-        "AI 생태계 전반에 대한 투자 확대와 파트너십 강화 전략을 논의하고 있다."
-      ],
-      "whyItMatters": "실리콘밸리 기반 투자 플랫폼을 통해 AI 기술 확보와 글로벌 파트너십을 확대함으로써 경쟁력 강화와 성장 동력을 확보하기 때문이다.",
-      "topics": [
-        "Investment",
-        "Roadmap",
-        "Competition"
-      ],
-      "status": "NEW",
-      "hash": "a6e2f078f41234fa0bc6257824ba3180bcffd2b09b3e1ae51a2d0676d907da1a",
-      "url": "https://news.skhynix.com/en/sk-hynix-ventures/"
-    }
-  ]
+  "cards": []
 }

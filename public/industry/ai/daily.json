@@ -1,40 +1,12 @@
 {
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "highlights": {
-    "bullets": [
-      "핵심: 대규모 LLM 추론 성능을 현실적 워크로드로 지연·처리량·배치·멀티GPU를 벤치마크하는 AIPerf가 소개되었다."
-    ],
-    "topTopics": [
-      "Inference",
-      "Tooling",
-      "Infra"
-    ],
+    "bullets": [],
+    "topTopics": [],
     "stats": {
-      "collected": 1,
-      "deduped": 1
+      "collected": 0,
+      "deduped": 0
     }
   },
-  "cards": [
-    {
-      "id": "ai_0001",
-      "tab": "ai",
-      "publishedAt": "2026-09-19T04:04:41+09:00",
-      "source": "NVIDIA Developer Blog",
-      "title": "Benchmarking LLM Inference at Scale with AIPerf",
-      "summary": [
-        "NVIDIA가 대규모 LLM 추론 성능을 측정하기 위한 AIPerf를 소개했다.",
-        "AIPerf는 지연시간·처리량·배치·멀티GPU 등 현실적 워크로드로 시스템 성능을 벤치마크한다.",
-        "표준화된 벤치마크와 도구로 배포 최적화와 비교 분석을 용이하게 한다."
-      ],
-      "whyItMatters": "운영 환경에서 추론 성능을 객관적으로 측정·비교해 최적화와 용량 계획을 지원하므로 중요하다.",
-      "topics": [
-        "Inference",
-        "Tooling",
-        "Infra"
-      ],
-      "status": "NEW",
-      "hash": "436eed9cf3c2ed90684497be0dd9da72ece27b65d3993acd74dbc71ac0a53f7b",
-      "url": "https://developer.nvidia.com/blog/benchmarking-llm-inference-at-scale-with-aiperf/"
-    }
-  ]
+  "cards": []
 }
