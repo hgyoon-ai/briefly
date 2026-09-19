@@ -2,6 +2,77 @@
   "month": "2026-09",
   "events": [
     {
+      "id": "news:KB증권:https://www.fnnews.com/news/202609180756121263",
+      "date": "2026-09-20",
+      "company": "KB증권",
+      "title": "\"240만→138만원 폭락했는데, 300만원 간다?\"...개미들 일단 팔고 본 '이 종목' [주주클럽]",
+      "oneLiner": "KB증권이 삼성전기의 3분기 실적이 컨센서스를 크게 상회할 것으로 전망하며 투자의견 '매수'와 목표주가 300만원을 유지한 리서치 내용을 보도.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"240만→138만원 폭락했는데, 300만원 간다?\"...개미들 일단 팔고 본 '이 종목' [주주클럽]",
+          "url": "https://www.fnnews.com/news/202609180756121263"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-09-20"
+    },
+    {
+      "id": "214700268459f585fc4862344ef9b088c1d7791b",
+      "date": "2026-09-19",
+      "company": "한국투자증권",
+      "title": "한국투자증권 iOS 앱 업데이트 v2.28.00",
+      "oneLiner": "한국투자증권 iOS 앱 v2.28.00 업데이트로 증명서 간편 발급, 공모주 환매청구권 행사 기능 및 국민성장펀드 가입 간소화(공공 마이데이터 활용) 기능을 추가함.",
+      "type": "출시",
+      "areas": [
+        "브로커리지",
+        "WM",
+        "상담"
+      ],
+      "region": "국내",
+      "sourceType": "app_store",
+      "sources": [
+        {
+          "source": "App Store",
+          "title": "한국투자증권 iOS 앱 업데이트 v2.28.00",
+          "url": "https://apps.apple.com/kr/app/%ED%95%9C%ED%88%AC-%ED%95%9C%EA%B5%AD%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C-mts-%ED%88%AC%EC%9E%90-%EC%A6%9D%EA%B6%8C-%ED%95%B4%EC%99%B8%EC%A3%BC%EC%8B%9D-%EC%A3%BC%EC%8B%9D%EC%96%B4%ED%94%8C/id1621986905?uo=4"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-20"
+    },
+    {
+      "id": "news:삼성증권:https://www.mk.co.kr/news/stock/12157103",
+      "date": "2026-09-19",
+      "company": "삼성증권",
+      "title": "“주식은 무섭고 예금은 아쉬웠는데”…‘연 5.5%’ 파격 금리 준다는데",
+      "oneLiner": "삼성증권이 연 5.5% 금리로 1호 발행어음을 출시할 예정이며 21일부터 판매할 계획이라는 보도.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“주식은 무섭고 예금은 아쉬웠는데”…‘연 5.5%’ 파격 금리 준다는데",
+          "url": "https://www.mk.co.kr/news/stock/12157103"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-09-20"
+    },
+    {
       "id": "f188ea7c0b22910eb2e0707743dae1091c98b1a1",
       "date": "2026-09-18",
       "company": "키움증권",
@@ -22,7 +93,7 @@
       ],
       "tags": [],
       "confidence": 0.85,
-      "updatedAt": "2026-09-19"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "news:키움증권:https://www.hankyung.com/article/202609183313i",
@@ -45,7 +116,7 @@
       ],
       "tags": [],
       "confidence": 0.8,
-      "updatedAt": "2026-09-19"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "news:NH투자증권:https://www.fnnews.com/news/202609180857159012",

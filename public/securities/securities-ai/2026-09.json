@@ -2,6 +2,29 @@
   "month": "2026-09",
   "events": [
     {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202609181415313397",
+      "date": "2026-09-19",
+      "company": "미래에셋증권",
+      "title": "다들 최고라는데... \"AI 데이터센터株 진짜 대장은 나\"",
+      "oneLiner": "미래에셋증권은 AI 데이터센터 사업자의 경쟁력은 설비 규모보다 안정적 수요 확보에 달렸다고 분석하며 삼성SDS와 NHN을 최선호주로 제시하고 목표주가를 상향했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "다들 최고라는데... \"AI 데이터센터株 진짜 대장은 나\"",
+          "url": "https://www.fnnews.com/news/202609181415313397"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-20"
+    },
+    {
       "id": "news:KB증권:https://www.fnnews.com/news/202609180757144110",
       "date": "2026-09-18",
       "company": "KB증권",
@@ -45,7 +68,7 @@
       ],
       "tags": [],
       "confidence": 0.8,
-      "updatedAt": "2026-09-19"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "news:신한투자증권:https://www.fnnews.com/news/202609180848527269",
