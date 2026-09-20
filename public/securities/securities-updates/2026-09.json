@@ -2,6 +2,52 @@
   "month": "2026-09",
   "events": [
     {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202609210808404976",
+      "date": "2026-09-21",
+      "company": "NH투자증권",
+      "title": "한화솔루션, 내년 '판가·AMPC 동반 상승'...실적 개선 탄탄",
+      "oneLiner": "NH투자증권은 한화솔루션의 미국·국내 수요 확대와 판가·AMPC 상승에 따른 2027년 실적 개선 시나리오를 제시한 리서치 보고서를 공개.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한화솔루션, 내년 '판가·AMPC 동반 상승'...실적 개선 탄탄",
+          "url": "https://www.fnnews.com/news/202609210808404976"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-21"
+    },
+    {
+      "id": "news:메리츠증권:https://www.fnnews.com/news/202609210824330199",
+      "date": "2026-09-21",
+      "company": "메리츠증권",
+      "title": "\"환율 영향에 수익성 부담\"…LG이노텍 목표가 '하향'",
+      "oneLiner": "메리츠증권이 LG이노텍에 대해 환율 영향 등을 반영해 목표주가를 하향 조정한 리서치 보고서를 발표.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"환율 영향에 수익성 부담\"…LG이노텍 목표가 '하향'",
+          "url": "https://www.fnnews.com/news/202609210824330199"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-21"
+    },
+    {
       "id": "news:KB증권:https://www.fnnews.com/news/202609180756121263",
       "date": "2026-09-20",
       "company": "KB증권",
@@ -23,6 +69,98 @@
       "tags": [],
       "confidence": 0.85,
       "updatedAt": "2026-09-20"
+    },
+    {
+      "id": "news:신한투자증권:https://www.fnnews.com/news/202609201023556216",
+      "date": "2026-09-20",
+      "company": "신한투자증권",
+      "title": "스타십 궤도비행에 올라탔다… 'SOL 우주항공밸류체인' 주목 [ETF 스퀘어]",
+      "oneLiner": "신한투자증권 관련 기사에서 'SOL 우주항공밸류체인' ETF가 스페이스X 소식에 힘입어 주목받고 있다는 시장·리서치성 보도가 나옴.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "스타십 궤도비행에 올라탔다… 'SOL 우주항공밸류체인' 주목 [ETF 스퀘어]",
+          "url": "https://www.fnnews.com/news/202609201023556216"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-09-21"
+    },
+    {
+      "id": "news:삼성증권:https://www.fnnews.com/news/202609201835456297",
+      "date": "2026-09-20",
+      "company": "삼성증권",
+      "title": "삼성·메리츠 합류 ‘9파전’… 발행어음 60兆 시장으로 커진다",
+      "oneLiner": "삼성증권과 메리츠증권의 발행어음 시장 참여로 단기금융업 인가 확대·시장규모 증가가 확인돼 업계·규제적 변화로 파급 예상.",
+      "type": "규제",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "삼성·메리츠 합류 ‘9파전’… 발행어음 60兆 시장으로 커진다",
+          "url": "https://www.fnnews.com/news/202609201835456297"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-21"
+    },
+    {
+      "id": "news:신한투자증권:https://www.fnnews.com/news/202609201840476062",
+      "date": "2026-09-20",
+      "company": "신한투자증권",
+      "title": "'스타십' 궤도비행 카운트다운… 우주항공 소부장 ETF 뜬다[ETF 스퀘어]",
+      "oneLiner": "중복 보도 형태로 '스타십' 관련 국내 우주항공 소부장 ETF의 상승 및 구성종목 비중을 소개한 리서치/시장기사.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "'스타십' 궤도비행 카운트다운… 우주항공 소부장 ETF 뜬다[ETF 스퀘어]",
+          "url": "https://www.fnnews.com/news/202609201840476062"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-09-21"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202609201840566540",
+      "date": "2026-09-20",
+      "company": "NH투자증권",
+      "title": "연휴·미중 회담 겹쳐 단기 변동성 커질듯[주간 증시 전망]",
+      "oneLiner": "NH투자증권 등 증권가의 주간 증시 전망에서 추석 연휴·미·중 회담 등으로 단기 변동성 확대를 경고하는 리서치 코멘트가 제시됨.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "연휴·미중 회담 겹쳐 단기 변동성 커질듯[주간 증시 전망]",
+          "url": "https://www.fnnews.com/news/202609201840566540"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-09-21"
     },
     {
       "id": "214700268459f585fc4862344ef9b088c1d7791b",
@@ -47,7 +185,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-09-20"
+      "updatedAt": "2026-09-21"
     },
     {
       "id": "news:삼성증권:https://www.mk.co.kr/news/stock/12157103",
@@ -70,7 +208,7 @@
       ],
       "tags": [],
       "confidence": 0.8,
-      "updatedAt": "2026-09-20"
+      "updatedAt": "2026-09-21"
     },
     {
       "id": "f188ea7c0b22910eb2e0707743dae1091c98b1a1",
@@ -93,7 +231,7 @@
       ],
       "tags": [],
       "confidence": 0.85,
-      "updatedAt": "2026-09-20"
+      "updatedAt": "2026-09-21"
     },
     {
       "id": "news:키움증권:https://www.hankyung.com/article/202609183313i",
