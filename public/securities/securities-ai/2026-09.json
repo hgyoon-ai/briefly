@@ -2,6 +2,52 @@
   "month": "2026-09",
   "events": [
     {
+      "id": "news:메리츠증권:https://www.hankyung.com/article/2026092323746",
+      "date": "2026-09-23",
+      "company": "메리츠증권",
+      "title": "\"삼성전기, 환율 악재에도 AI 부품 호조…목표가↑\"-메리츠",
+      "oneLiner": "메리츠증권이 삼성전기의 AI 부품 수요 호조를 근거로 목표주가를 상향한 리포트를 보도한 기사입니다. 환율 불리에도 이익 전망 상향이 핵심 근거로 제시되었습니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "\"삼성전기, 환율 악재에도 AI 부품 호조…목표가↑\"-메리츠",
+          "url": "https://www.hankyung.com/article/2026092323746"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "news:메리츠증권:https://www.fnnews.com/news/202609230827399975",
+      "date": "2026-09-23",
+      "company": "메리츠증권",
+      "title": "삼성전기, 140→220만원 가나...\"AI 밸류체인 수혜\"",
+      "oneLiner": "메리츠증권은 AI 밸류체인 수혜를 근거로 삼성전기의 목표주가를 상향하고 실적 개선 전망을 제시했습니다. MLCC 중심의 믹스 개선과 유통 가격 인상 효과가 이익 개선을 뒷받침한다고 분석했습니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "삼성전기, 140→220만원 가나...\"AI 밸류체인 수혜\"",
+          "url": "https://www.fnnews.com/news/202609230827399975"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-09-23"
+    },
+    {
       "id": "news:메리츠증권:https://www.fnnews.com/news/202609220752528698",
       "date": "2026-09-22",
       "company": "메리츠증권",
@@ -23,6 +69,29 @@
       "tags": [],
       "confidence": 0.95,
       "updatedAt": "2026-09-22"
+    },
+    {
+      "id": "news:삼성증권:https://www.fnnews.com/news/202609221124067438",
+      "date": "2026-09-22",
+      "company": "삼성증권",
+      "title": "현대오토에버, AI 데이터센터 수혜 기대감에 8%대 강세 [종목 NOW]",
+      "oneLiner": "삼성증권 리서치 의견에 따르면 현대오토에버가 새만금 AI 데이터센터·로봇 클러스터 수혜를 볼 것으로 기대되며 주가가 급등했습니다. 데이터센터 확충에 따른 SI·ITO 매출 성장 전망이 핵심입니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "현대오토에버, AI 데이터센터 수혜 기대감에 8%대 강세 [종목 NOW]",
+          "url": "https://www.fnnews.com/news/202609221124067438"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-23"
     },
     {
       "id": "news:미래에셋증권:https://www.fnnews.com/news/202609181415313397",

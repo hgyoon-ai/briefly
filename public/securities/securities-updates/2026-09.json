@@ -2,6 +2,121 @@
   "month": "2026-09",
   "events": [
     {
+      "id": "news:키움증권:https://www.mk.co.kr/news/stock/12159965",
+      "date": "2026-09-23",
+      "company": "키움증권",
+      "title": "“삼성전자, 3분기 실적 기대치 하회 예상…목표주가는 35만원 유지”",
+      "oneLiner": "키움증권이 삼성전자의 3분기 실적을 기대치 하회로 전망하면서도 파운드리 점유율 확대를 이유로 목표주가 35만원을 유지함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“삼성전자, 3분기 실적 기대치 하회 예상…목표주가는 35만원 유지”",
+          "url": "https://www.mk.co.kr/news/stock/12159965"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "news:KB증권:https://www.mk.co.kr/news/stock/12159960",
+      "date": "2026-09-23",
+      "company": "KB증권",
+      "title": "“대한항공, 여객 운임 상승에 아시아나 비용 마무리까지”…목표가↑",
+      "oneLiner": "KB증권이 대한항공에 대해 여객 운임 상승과 아시아나 비용 완화 등을 반영해 목표주가를 상향 조정함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“대한항공, 여객 운임 상승에 아시아나 비용 마무리까지”…목표가↑",
+          "url": "https://www.mk.co.kr/news/stock/12159960"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202609230801469849",
+      "date": "2026-09-23",
+      "company": "하나증권",
+      "title": "대한항공, 여객·화물 운임 상승에 3분기 실적 개선 전망",
+      "oneLiner": "하나증권이 대한항공의 3·4분기 실적 개선을 전망하며 투자의견 매수·목표주가를 유지·제시함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "대한항공, 여객·화물 운임 상승에 3분기 실적 개선 전망",
+          "url": "https://www.fnnews.com/news/202609230801469849"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202609230820268916",
+      "date": "2026-09-23",
+      "company": "NH투자증권",
+      "title": "3분기 실적 기대 이하인데 목표가는 올렸다…LG생건 무슨 일",
+      "oneLiner": "NH투자증권이 LG생활건강의 단기 실적은 부진할 것으로 보지만 비핵심 사업 정리 등을 이유로 목표주가를 상향 조정함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "3분기 실적 기대 이하인데 목표가는 올렸다…LG생건 무슨 일",
+          "url": "https://www.fnnews.com/news/202609230820268916"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202609230836462022",
+      "date": "2026-09-23",
+      "company": "NH투자증권",
+      "title": "현대백화점, 부담 요인 '지누스' 실적 회복 예상…주가 반등 모색 가능",
+      "oneLiner": "NH투자증권이 지누스 실적 회복 등을 근거로 현대백화점의 주가 반등 가능성을 제시하며 투자의견 매수를 유지함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "현대백화점, 부담 요인 '지누스' 실적 회복 예상…주가 반등 모색 가능",
+          "url": "https://www.fnnews.com/news/202609230836462022"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-09-23"
+    },
+    {
       "id": "news:NH투자증권:https://www.hankyung.com/article/2026092297486",
       "date": "2026-09-22",
       "company": "NH투자증권",
@@ -45,7 +160,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-09-22"
+      "updatedAt": "2026-09-23"
     },
     {
       "id": "news:NH투자증권:https://www.fnnews.com/news/202609220753442285",
@@ -115,6 +230,53 @@
       "tags": [],
       "confidence": 0.9,
       "updatedAt": "2026-09-22"
+    },
+    {
+      "id": "news:키움증권:https://www.fnnews.com/news/202609221034293864",
+      "date": "2026-09-22",
+      "company": "키움증권",
+      "title": "키움증권, 네이버페이 비상장과 비상장주식 교차거래 업무협약",
+      "oneLiner": "키움증권이 네이버페이 비상장과 비상장주식 교차거래 시스템 도입을 위한 업무협약을 체결해 별도 계좌 개설 없이 교차거래가 가능해짐.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "키움증권, 네이버페이 비상장과 비상장주식 교차거래 업무협약",
+          "url": "https://www.fnnews.com/news/202609221034293864"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.96,
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202609220934095295",
+      "date": "2026-09-22",
+      "company": "한국투자증권",
+      "title": "교차거래 시스템 도입…네이버페이 비상장, 증권사와 MOU",
+      "oneLiner": "네이버페이 비상장이 한국투자증권·키움증권 등과 업무협약을 맺고 증권사 간 비상장주식 교차거래 시스템 도입과 장외거래 시장 활성화를 추진한다.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "교차거래 시스템 도입…네이버페이 비상장, 증권사와 MOU",
+          "url": "https://www.fnnews.com/news/202609220934095295"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-23"
     },
     {
       "id": "news:NH투자증권:https://www.fnnews.com/news/202609210808404976",
