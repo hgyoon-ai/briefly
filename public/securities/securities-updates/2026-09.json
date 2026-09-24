@@ -22,7 +22,7 @@
       ],
       "tags": [],
       "confidence": 0.95,
-      "updatedAt": "2026-09-23"
+      "updatedAt": "2026-09-24"
     },
     {
       "id": "news:KB증권:https://www.mk.co.kr/news/stock/12159960",
@@ -45,7 +45,7 @@
       ],
       "tags": [],
       "confidence": 0.95,
-      "updatedAt": "2026-09-23"
+      "updatedAt": "2026-09-24"
     },
     {
       "id": "news:하나증권:https://www.fnnews.com/news/202609230801469849",
@@ -115,6 +115,126 @@
       "tags": [],
       "confidence": 0.95,
       "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "news:메리츠증권:https://www.mk.co.kr/news/stock/12160488",
+      "date": "2026-09-23",
+      "company": "메리츠증권",
+      "title": "메리츠證 발행어음 인가…17조 확보 가능",
+      "oneLiner": "메리츠증권이 단기금융업(발행어음) 인가를 받아 최대 약 16.7조원 규모의 신규 자금조달 여력을 확보하게 됐다(사업 확장·영업력 강화).",
+      "type": "규제",
+      "areas": [
+        "브로커리지",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "메리츠證 발행어음 인가…17조 확보 가능",
+          "url": "https://www.mk.co.kr/news/stock/12160488"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202609231000528934",
+      "date": "2026-09-23",
+      "company": "KB증권",
+      "title": "KB증권, 시큐리타이즈·옵티미즘 재단과 토큰증권 사업 MOU",
+      "oneLiner": "KB증권이 시큐리타이즈·옵티미즘 재단과 MOU를 체결해 기관 대상 토큰증권(토큰화 MMF·토큰화 펀드 등) 사업을 공동 추진하기로 했다(신상품·제휴).",
+      "type": "제휴",
+      "areas": [
+        "브로커리지",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "KB증권, 시큐리타이즈·옵티미즘 재단과 토큰증권 사업 MOU",
+          "url": "https://www.fnnews.com/news/202609231000528934"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202609231453226564",
+      "date": "2026-09-23",
+      "company": "미래에셋증권",
+      "title": "금융위, 메리츠증권 단기금융업 인가…9번째 발행어음 사업자로",
+      "oneLiner": "금융위원회가 메리츠증권을 단기금융업 인가·종합금융투자사업자(자기자본 4조원 이상)로 지정해 발행어음 사업자가 9곳으로 늘어났다(규제 결정·업권 변화).",
+      "type": "규제",
+      "areas": [
+        "브로커리지",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "금융위, 메리츠증권 단기금융업 인가…9번째 발행어음 사업자로",
+          "url": "https://www.fnnews.com/news/202609231453226564"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "news:삼성증권:https://www.fnnews.com/news/202609231514419301",
+      "date": "2026-09-23",
+      "company": "삼성증권",
+      "title": "삼성증권, 첫 발행어음 흥행…연 4.3% 특판 1000억 완판",
+      "oneLiner": "삼성증권이 발행어음 시장 진출을 기념해 출시한 1년물 연 4.3% 특판 상품이 목표액 1000억원을 단기간에 완판했다(신상품 출시·영업성과).",
+      "type": "출시",
+      "areas": [
+        "브로커리지",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "삼성증권, 첫 발행어음 흥행…연 4.3% 특판 1000억 완판",
+          "url": "https://www.fnnews.com/news/202609231514419301"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.88,
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202609231605387583",
+      "date": "2026-09-23",
+      "company": "KB증권",
+      "title": "KB證, 기관용 토큰증권 사업 추진",
+      "oneLiner": "KB증권이 글로벌 토큰화 플랫폼 및 블록체인사와 협력해 기관용 토큰증권 사업을 추진하는 내용의 업무협약을 체결했다(제휴 기반 신사업 추진).",
+      "type": "제휴",
+      "areas": [
+        "브로커리지",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "KB證, 기관용 토큰증권 사업 추진",
+          "url": "https://www.fnnews.com/news/202609231605387583"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-24"
     },
     {
       "id": "news:NH투자증권:https://www.hankyung.com/article/2026092297486",
