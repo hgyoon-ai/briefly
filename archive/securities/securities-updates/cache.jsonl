@@ -2860,3 +2860,6 @@
 {"id": "news:키움증권:https://www.mk.co.kr/news/stock/12159965", "keep": true, "oneLiner": "키움증권이 삼성전자의 3분기 실적을 기대치 하회로 전망하면서도 파운드리 점유율 확대를 이유로 목표주가 35만원을 유지함.", "type_raw": "리서치", "areas_raw": ["리서치"], "confidence": 0.95}
 {"id": "news:KB증권:https://www.mk.co.kr/news/stock/12159960", "keep": true, "oneLiner": "KB증권이 대한항공에 대해 여객 운임 상승과 아시아나 비용 완화 등을 반영해 목표주가를 상향 조정함.", "type_raw": "리서치", "areas_raw": ["리서치"], "confidence": 0.95}
 {"id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12159711", "keep": false, "oneLiner": "한국투자증권이 직장인 대상 ‘연금 스테이션’ 팝업 행사(오프라인 로드쇼)를 런칭해 홍보 및 현장 상담을 진행함.", "type_raw": "기타", "areas_raw": ["기타"], "confidence": 0.9}
+{"id": "news:키움증권:https://www.mk.co.kr/news/stock/12160935", "keep": false, "oneLiner": "증권사들 간 삼성전자 내년 실적·주가 전망이 크게 엇갈린다는 시장 보도. 증권사 제품·기능·정책 변화와 무관한 단순 리서치/시황 기사로 데이터셋에서 제외.", "type_raw": "리서치", "areas_raw": ["리서치"], "confidence": 0.9}
+{"id": "news:메리츠증권:https://www.mk.co.kr/news/stock/12160488", "keep": true, "oneLiner": "메리츠증권이 단기금융업(발행어음) 인가를 받아 최대 약 16.7조원 규모의 신규 자금조달 여력을 확보하게 됐다(사업 확장·영업력 강화).", "type_raw": "규제", "areas_raw": ["브로커리지", "WM"], "confidence": 0.95}
+{"id": "news:KB증권:https://www.fnnews.com/news/202609231732494006", "keep": true, "oneLiner": "KB증권이 2026년 부동산 세제개편안과 관련해 비거주 주택의 종합부동산세·양도소득세 부담 증가 가능성을 설명하고, 실거주 전환 여부 등 세무 상담을 제공하고 있다.", "type_raw": "규제", "areas_raw": ["상담", "WM"], "confidence": 0.9}

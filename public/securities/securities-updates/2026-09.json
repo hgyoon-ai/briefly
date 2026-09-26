@@ -2,6 +2,30 @@
   "month": "2026-09",
   "events": [
     {
+      "id": "news:KB증권:https://www.fnnews.com/news/202609231732494006",
+      "date": "2026-09-26",
+      "company": "KB증권",
+      "title": "50대 직장인 \"집 한 채인데 종부세 2.5배…실거주해야 할까요\"[세무 재테크 Q&A]",
+      "oneLiner": "KB증권이 2026년 부동산 세제개편안과 관련해 비거주 주택의 종합부동산세·양도소득세 부담 증가 가능성을 설명하고, 실거주 전환 여부 등 세무 상담을 제공하고 있다.",
+      "type": "규제",
+      "areas": [
+        "상담",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "50대 직장인 \"집 한 채인데 종부세 2.5배…실거주해야 할까요\"[세무 재테크 Q&A]",
+          "url": "https://www.fnnews.com/news/202609231732494006"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-26"
+    },
+    {
       "id": "news:키움증권:https://www.mk.co.kr/news/stock/12159965",
       "date": "2026-09-23",
       "company": "키움증권",
@@ -138,7 +162,7 @@
       ],
       "tags": [],
       "confidence": 0.95,
-      "updatedAt": "2026-09-25"
+      "updatedAt": "2026-09-26"
     },
     {
       "id": "news:KB증권:https://www.fnnews.com/news/202609231000528934",
