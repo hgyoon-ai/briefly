@@ -1,62 +1,12 @@
 {
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "highlights": {
-    "bullets": [
-      "핵심: 화웨이가 Tau 스케일링 법칙을 적용한 Kirin 9050 Pro를 상용화했다.",
-      "핵심: 와이파이 HaLow(802.11ah)가 스마트 빌딩 엣지 AI의 대역폭·장거리·저전력 요구를 균형있게 충족한다."
-    ],
-    "topTopics": [
-      "Roadmap",
-      "Manufacturing",
-      "Competition",
-      "Demand"
-    ],
+    "bullets": [],
+    "topTopics": [],
     "stats": {
-      "collected": 2,
-      "deduped": 2
+      "collected": 0,
+      "deduped": 0
     }
   },
-  "cards": [
-    {
-      "id": "semiconductor_0001",
-      "tab": "semiconductor",
-      "publishedAt": "2026-09-25T23:18:57+09:00",
-      "source": "EE Times",
-      "title": "Huawei’s Tau Law Takes Commercial Form",
-      "summary": [
-        "화웨이가 Tau(τ) 스케일링 법칙을 적용한 Kirin 9050 Pro를 상용화했다.",
-        "해당 아키텍처는 EUV 리소그래피 한계를 우회하려는 설계적 전환을 의미한다.",
-        "이 변화는 반도체 제조 방식과 시장 경쟁, 제품 로드맵에 중요한 영향을 줄 수 있다."
-      ],
-      "whyItMatters": "EUV 의존도를 낮추는 새로운 스케일링 법칙은 제조 제약 회피와 경쟁 우위 확보에 직결되기 때문이다.",
-      "topics": [
-        "Manufacturing",
-        "Competition",
-        "Roadmap"
-      ],
-      "status": "SHIFTING",
-      "hash": "a5c98442cc7b95866438e546ef8f795338bac35ecaaa7069c8b5a666185d7fa2",
-      "url": "https://www.eetimes.com/huaweis-tau-law-takes-commercial-form/"
-    },
-    {
-      "id": "semiconductor_0002",
-      "tab": "semiconductor",
-      "publishedAt": "2026-09-25T17:00:34+09:00",
-      "source": "EE Times",
-      "title": "Balancing Bandwidth, Range, and Power in Intelligent Buildings",
-      "summary": [
-        "엣지 AI 도입으로 스마트 빌딩의 연결 요구가 증가하고 복잡해졌습니다.",
-        "Wi‑Fi HaLow(802.11ah)는 대역폭, 장거리 커버리지, 저전력 요구를 균형있게 충족합니다.",
-        "해당 기술은 센서 배치와 운영 효율을 개선해 스마트 빌딩 성능을 향상시킬 잠재력이 있습니다."
-      ],
-      "whyItMatters": "스마트 빌딩에서 엣지 AI의 효율성과 확장성은 대역폭·범위·전력의 균형에 의해 직접적으로 좌우되기 때문입니다.",
-      "topics": [
-        "Demand",
-        "Roadmap"
-      ],
-      "status": "ONGOING",
-      "hash": "a74223eb7dcd34f4cb6d054e34616933cecbc3d7a1fb5f1f1c8265246413f675",
-      "url": "https://www.eetimes.com/balancing-bandwidth-range-and-power-in-intelligent-buildings/"
-    }
-  ]
+  "cards": []
 }
