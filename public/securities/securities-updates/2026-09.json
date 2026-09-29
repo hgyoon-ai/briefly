@@ -2,6 +2,52 @@
   "month": "2026-09",
   "events": [
     {
+      "id": "news:하나증권:https://www.mk.co.kr/news/stock/12163356",
+      "date": "2026-09-29",
+      "company": "하나증권",
+      "title": "“삼성전기, 이익 상향 구간 진입”…3분기 영업익 전망치 154%↑",
+      "oneLiner": "하나증권 분석가가 삼성전기의 수요·판가 개선을 근거로 이익 전망치를 상향 조정했다는 리서치 보도. 투자전략·수익성 전망에 변화가 있음.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“삼성전기, 이익 상향 구간 진입”…3분기 영업익 전망치 154%↑",
+          "url": "https://www.mk.co.kr/news/stock/12163356"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202609290844578667",
+      "date": "2026-09-29",
+      "company": "NH투자증권",
+      "title": "\"신세계인터내셔날, 3분기 컨센서스 하회에 목표가 하향…'환율 안정화' 관건\"",
+      "oneLiner": "NH투자증권 리서치가 신세계인터내셔날의 3·4분기 실적이 컨센서스를 하회할 것으로 전망하며 목표주가를 하향 조정했다는 보도. 리서치 의견 변경에 따른 투자지침 영향이 예상됨.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"신세계인터내셔날, 3분기 컨센서스 하회에 목표가 하향…'환율 안정화' 관건\"",
+          "url": "https://www.fnnews.com/news/202609290844578667"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-09-29"
+    },
+    {
       "id": "news:한국투자증권:https://www.hankyung.com/article/2026092883686",
       "date": "2026-09-28",
       "company": "한국투자증권",
@@ -45,7 +91,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-09-28"
+      "updatedAt": "2026-09-29"
     },
     {
       "id": "news:NH투자증권:https://www.mk.co.kr/news/stock/12162227",
@@ -161,6 +207,52 @@
       "tags": [],
       "confidence": 0.9,
       "updatedAt": "2026-09-28"
+    },
+    {
+      "id": "c30f14ba4838bd76adefa94a2d4dda11d1b3c8ef",
+      "date": "2026-09-28",
+      "company": "NH투자증권",
+      "title": "최대주주등소유주식변동신고서              ",
+      "oneLiner": "NH투자증권의 최대주주 등 소유주식 변동 신고서 제출 공시. 지분 변동 관련 규제·공시 사안으로 내부·외부 영향이 있을 수 있음.",
+      "type": "규제",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "최대주주등소유주식변동신고서              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260928800512"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "news:삼성증권:https://www.fnnews.com/news/202609282057093745",
+      "date": "2026-09-28",
+      "company": "삼성증권",
+      "title": "자사주 매입 '두 배로'…크린앤사이언스, 5억 이어 10억 추가",
+      "oneLiner": "크린앤사이언스의 자사주 추가 매입에서 삼성증권이 위탁투자중개업자를 맡기로 한 공시·보도. 증권사의 위탁·중개 업무 수행 사례로 운영·브로커리지 관련 이벤트임.",
+      "type": "기타",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "자사주 매입 '두 배로'…크린앤사이언스, 5억 이어 10억 추가",
+          "url": "https://www.fnnews.com/news/202609282057093745"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-09-29"
     },
     {
       "id": "news:NH투자증권:https://www.fnnews.com/news/202609271748334117",
