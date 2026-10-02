@@ -2,6 +2,29 @@
   "month": "2026-10",
   "events": [
     {
+      "id": "news:KB증권:https://www.fnnews.com/news/202610021006036319",
+      "date": "2026-10-02",
+      "company": "KB증권",
+      "title": "KB증권, MTS 연금 서비스 전면 개편",
+      "oneLiner": "KB증권이 MTS 내 연금 서비스 'My 연금'을 전면 개편해 계좌·투자 현황 분리, 운용 진단 강화 등 이용편의성을 높였음. 시스템·UI 변경에 따른 고객 이용 흐름 개선임.",
+      "type": "시스템",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "KB증권, MTS 연금 서비스 전면 개편",
+          "url": "https://www.fnnews.com/news/202610021006036319"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-10-02"
+    },
+    {
       "id": "ffe49b21c4dc00571970ba1fc74ef1bdcfc3aced",
       "date": "2026-10-01",
       "company": "미래에셋증권",
@@ -22,7 +45,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-10-01"
+      "updatedAt": "2026-10-02"
     },
     {
       "id": "news:하나증권:https://www.mk.co.kr/news/stock/12165576",
@@ -161,6 +184,195 @@
       "tags": [],
       "confidence": 0.7,
       "updatedAt": "2026-10-01"
+    },
+    {
+      "id": "1185b94daf866d9a3ce6e13909292c8c1deafd44",
+      "date": "2026-10-01",
+      "company": "하나증권",
+      "title": "[기재정정]주요사항보고서(자본으로인정되는채무증권발행결정)",
+      "oneLiner": "하나증권이 자본으로 인정되는 채무증권 발행결정에 대해 기재정정 공시를 제출함. 자본구조 및 조달 관련 주요 공시로 운영·재무 관점에서 유의미한 변화임.",
+      "type": "규제",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "[기재정정]주요사항보고서(자본으로인정되는채무증권발행결정)",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261001000407"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-10-02"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.hankyung.com/article/2026100185241",
+      "date": "2026-10-01",
+      "company": "미래에셋증권",
+      "title": "미래에셋證 MTS 'MAPS'로 새단장",
+      "oneLiner": "미래에셋증권이 MTS를 'MAPS'로 개편해 통합 투자 플랫폼으로 전환했다고 보도됨. 포트폴리오 중심 기능 확대 등 트레이딩·브로커리지 기능 변화가 수반됨.",
+      "type": "출시",
+      "areas": [
+        "트레이딩",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "미래에셋證 MTS 'MAPS'로 새단장",
+          "url": "https://www.hankyung.com/article/2026100185241"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-10-02"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.hankyung.com/article/202610017798i",
+      "date": "2026-10-01",
+      "company": "미래에셋증권",
+      "title": "미래에셋證, 통합 투자 플랫폼 'MAPS'로 새출발…\"로빈후드 뛰어넘는 혁신 완성\"",
+      "oneLiner": "미래에셋증권이 통합 투자 플랫폼 'MAPS'로 새출발하며 MTS 명칭·기능을 전환했다고 보도됨. 플랫폼 전환은 고객 투자경험과 거래 흐름에 영향이 있음.",
+      "type": "출시",
+      "areas": [
+        "트레이딩",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "미래에셋證, 통합 투자 플랫폼 'MAPS'로 새출발…\"로빈후드 뛰어넘는 혁신 완성\"",
+          "url": "https://www.hankyung.com/article/202610017798i"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.88,
+      "updatedAt": "2026-10-02"
+    },
+    {
+      "id": "news:NH투자증권:https://www.mk.co.kr/news/stock/12166139",
+      "date": "2026-10-01",
+      "company": "NH투자증권",
+      "title": "중기형 이어 단기형도 ‘완판’…NH투자증권 IMA에 돈 몰렸다",
+      "oneLiner": "NH투자증권이 출시한 IMA 단기형 상품 'N2 IMA1 단기형 1호'가 모집 시작 사흘 만에 조기 완판됐음. 신상품 출시 및 판매 실적은 상품 운영·WM 측면에서 의미 있음.",
+      "type": "출시",
+      "areas": [
+        "WM",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "중기형 이어 단기형도 ‘완판’…NH투자증권 IMA에 돈 몰렸다",
+          "url": "https://www.mk.co.kr/news/stock/12166139"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.86,
+      "updatedAt": "2026-10-02"
+    },
+    {
+      "id": "news:하나증권:https://www.mk.co.kr/news/stock/12166038",
+      "date": "2026-10-01",
+      "company": "하나증권",
+      "title": "하나증권, 국내 증권사 최초 달러화 표시 신종자본증권 발행…공모액 6배 주문 몰려",
+      "oneLiner": "하나증권이 국내 증권사 최초로 달러화 표시 신종자본증권을 발행했으며 공모에 높은 수요(공모액 대비 6배)가 몰렸음. 자본조달 관련 중요한 영업·재무 변화임.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "하나증권, 국내 증권사 최초 달러화 표시 신종자본증권 발행…공모액 6배 주문 몰려",
+          "url": "https://www.mk.co.kr/news/stock/12166038"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.88,
+      "updatedAt": "2026-10-02"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12165799",
+      "date": "2026-10-01",
+      "company": "미래에셋증권",
+      "title": "투자의 ‘지도’를 그린다…미래에셋 새 투자 플랫폼 ‘MAPS’ 출시",
+      "oneLiner": "미래에셋증권이 MTS를 'MAPS'로 전환·출시해 홈화면 개편과 디지털자산·미국 비상장 정보 확대 등 기능 개편을 단행함. 플랫폼 전환은 서비스 제공 방식에 직접적 영향이 있음.",
+      "type": "출시",
+      "areas": [
+        "트레이딩",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "투자의 ‘지도’를 그린다…미래에셋 새 투자 플랫폼 ‘MAPS’ 출시",
+          "url": "https://www.mk.co.kr/news/stock/12165799"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-10-02"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202610011245417086",
+      "date": "2026-10-01",
+      "company": "한국투자증권",
+      "title": "신한투자증권, '처음ISA' 전 연령대로 확대…대기자금 자동 운용",
+      "oneLiner": "신한투자증권이 '처음ISA'의 신청 대상을 전 연령대로 확대하고 대기자금을 전용 RP로 자동 운용하는 기능을 도입함. 서비스 대상·운용 방식 변경으로 시스템·브로커리지·WM 영향이 있음.",
+      "type": "시스템",
+      "areas": [
+        "WM",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "신한투자증권, '처음ISA' 전 연령대로 확대…대기자금 자동 운용",
+          "url": "https://www.fnnews.com/news/202610011245417086"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-10-02"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202610011807330960",
+      "date": "2026-10-01",
+      "company": "하나증권",
+      "title": "하나증권, 업계 첫 '외화 신종자본증권' 발행",
+      "oneLiner": "하나증권이 국내 증권사 최초로 3억달러 규모의 달러화 표시 외화 신종자본증권(30NC5)을 발행해 자본확충을 실시.",
+      "type": "출시",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "하나증권, 업계 첫 '외화 신종자본증권' 발행",
+          "url": "https://www.fnnews.com/news/202610011807330960"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-10-02"
     }
   ]
 }
