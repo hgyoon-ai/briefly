@@ -1,105 +1,12 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-05",
   "highlights": {
-    "bullets": [
-      "핵심: AutoSens 2026에서 강화된 안전 규제가 자동차 센싱 아키텍처 선택을 변화시키고 있다.",
-      "핵심: 지속적 건강 모니터링 수요가 통합 웨어러블 시스템 설계를 촉진하고 있다.",
-      "트렌드: 규제·투자·로드맵 영향으로 반도체 설계와 경쟁 구도가 재편되고 있다."
-    ],
-    "topTopics": [
-      "Roadmap",
-      "Competition",
-      "Investment",
-      "Policy"
-    ],
+    "bullets": [],
+    "topTopics": [],
     "stats": {
-      "collected": 7,
-      "deduped": 7
+      "collected": 0,
+      "deduped": 0
     }
   },
-  "cards": [
-    {
-      "id": "semiconductor_0001",
-      "tab": "semiconductor",
-      "publishedAt": "2026-10-03T00:58:50+09:00",
-      "source": "EE Times",
-      "title": "AutoSens 2026: Regulation Drives Automotive Sensing Architectures",
-      "summary": [
-        "AutoSens 2026에서 자동차 센싱 설계가 강화된 안전 규제에 맞춰 변화하고 있습니다.",
-        "AI 처리 향상과 사이버보안 요구 증가는 센서 아키텍처 선택에 큰 영향을 미칩니다.",
-        "업계는 규제 준수와 성능 균형을 위해 센서·프로세서 통합과 소프트웨어 중심 설계로 전환하고 있습니다."
-      ],
-      "whyItMatters": "규제와 보안 요구가 설계 방향을 바꿔 하드웨어·소프트웨어 로드맵과 경쟁 구도를 재정의하고 있기 때문입니다.",
-      "topics": [
-        "Policy",
-        "Roadmap",
-        "Competition"
-      ],
-      "status": "SHIFTING",
-      "hash": "2740dc55204c66459d30d3f493eef98a07c96853aa85650400226af95318ee27",
-      "url": "https://www.eetimes.com/autosens-2026-regulations-drive-automotive-sensing-architectures/"
-    },
-    {
-      "id": "semiconductor_0002",
-      "tab": "semiconductor",
-      "publishedAt": "2026-10-02T20:29:26+09:00",
-      "source": "EE Times",
-      "title": "Continuous Health Monitoring Drives Integrated Wearable System Design",
-      "summary": [
-        "지속적 건강 모니터링 수요가 통합 웨어러블 시스템 설계를 촉진하고 있다.",
-        "Analog Devices India의 Praveen Jose는 소형화가 작은 폼팩터에서도 성능과 품질을 향상시킨다고 지적했다.",
-        "센서 집적, 전력관리, 및 소형 폼팩터 최적화가 설계상의 핵심 과제로 부상하고 있다."
-      ],
-      "whyItMatters": "미니어처화와 통합 설계는 웨어러블의 기능, 배터리 수명, 임상 신뢰성에 직접적인 영향을 미쳐 제품 로드맵과 경쟁 구도를 재편할 가능성이 크기 때문입니다.",
-      "topics": [
-        "Manufacturing",
-        "Roadmap",
-        "Competition"
-      ],
-      "status": "ONGOING",
-      "hash": "168cef74fd79fe8e799c0cf3f42f489fa6dfeec9974f6df83ce4385a510521ac",
-      "url": "https://www.eetimes.com/continuous-health-monitoring-drives-integrated-wearable-system-design/"
-    },
-    {
-      "id": "semiconductor_0003",
-      "tab": "semiconductor",
-      "publishedAt": "2026-10-02T10:10:53+09:00",
-      "source": "SK hynix Newsroom",
-      "title": "From identifying promising technologies to creating new business opportunities: How SK hynix Ventures finds the path forward",
-      "summary": [
-        "SK hynix Ventures가 유망 기술 발굴에서 신규 비즈니스 창출까지의 비전과 로드맵을 제시했다.",
-        "Chung Heejin SVP가 실리콘밸리에서 구체적인 투자 방향과 실행 계획을 발표했다.",
-        "벤처투자를 통해 핵심 기술 확보와 사업 다각화를 동시에 추구하려는 전략이 핵심이다."
-      ],
-      "whyItMatters": "반도체 생태계에서 벤처 투자로 신기술을 선점하고 사업 포트폴리오를 확장하는 전략은 중장기 경쟁력에 큰 영향을 미치기 때문이다.",
-      "topics": [
-        "Investment",
-        "Roadmap"
-      ],
-      "status": "ONGOING",
-      "hash": "8c13bcffc400eeb0e846443f1c63c41b294d29433ced4a9587ffce859a5bd649",
-      "url": "https://news.skhynix.com/en/skhynix-ventures-story-4/"
-    },
-    {
-      "id": "semiconductor_0004",
-      "tab": "semiconductor",
-      "publishedAt": "2026-10-02T10:09:32+09:00",
-      "source": "SK hynix Newsroom",
-      "title": "From identifying promising technologies to creating new business opportunities: How SK hynix Ventures finds the path forward",
-      "summary": [
-        "SK hynix가 유망 기술 발굴과 사업화 기회를 위해 SK hynix Ventures를 출범했다.",
-        "런칭 행사에서 직원들이 글로벌 파트너들과 기술 협업과 협력 가능성을 논의했다.",
-        "벤처 조직을 통해 투자·로드맵을 정교화해 신규 비즈니스와 경쟁력 강화를 도모한다."
-      ],
-      "whyItMatters": "외부 기술과의 협업 및 전략적 투자를 통해 장기 성장동력과 경쟁우위를 확보할 수 있기 때문이다.",
-      "topics": [
-        "Investment",
-        "Roadmap",
-        "Competition"
-      ],
-      "status": "NEW",
-      "hash": "1529e5bd2109d6371653e3bc551ae1167216460d2b7b194a3364104a73ff8b9e",
-      "url": "https://news.skhynix.com/en/skhynix-ventures-story-3/"
-    }
-  ]
+  "cards": []
 }
