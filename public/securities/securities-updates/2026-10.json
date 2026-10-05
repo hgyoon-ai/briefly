@@ -2,6 +2,55 @@
   "month": "2026-10",
   "events": [
     {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12168112",
+      "date": "2026-10-04",
+      "company": "한국투자증권",
+      "title": "“내놓기 무섭게 완판”…증권사가 원금보장 하는 ‘이 상품’에 돈 몰린다",
+      "oneLiner": "증권사들이 만기 시 원금지급을 약속하는 IMA형 상품을 내놓자 대규모 자금이 유입되고 있으며, 예금자보호 미적용으로 리스크 우려가 있음.",
+      "type": "출시",
+      "areas": [
+        "WM",
+        "브로커리지",
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“내놓기 무섭게 완판”…증권사가 원금보장 하는 ‘이 상품’에 돈 몰린다",
+          "url": "https://www.mk.co.kr/news/stock/12168112"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-10-05"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12167780",
+      "date": "2026-10-03",
+      "company": "한국투자증권",
+      "title": "“큰 돈 벌고도 보안은 뒷전”…대형증권사, 전산사고 배상 70억",
+      "oneLiner": "최근 3년간 대형 증권사들이 전산사고로 고객에게 지급한 배상금이 총 70억원에 달하며, 절반가량은 프로그램 오류에 기인해 전산·운영 리스크가 부각되고 있음.",
+      "type": "시스템",
+      "areas": [
+        "리스크",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“큰 돈 벌고도 보안은 뒷전”…대형증권사, 전산사고 배상 70억",
+          "url": "https://www.mk.co.kr/news/stock/12167780"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-10-05"
+    },
+    {
       "id": "news:KB증권:https://www.fnnews.com/news/202610021006036319",
       "date": "2026-10-02",
       "company": "KB증권",
@@ -47,7 +96,7 @@
       ],
       "tags": [],
       "confidence": 0.8,
-      "updatedAt": "2026-10-03"
+      "updatedAt": "2026-10-05"
     },
     {
       "id": "news:메리츠증권:https://www.fnnews.com/news/202610021110462740",
