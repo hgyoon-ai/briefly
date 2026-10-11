@@ -1,64 +1,12 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "highlights": {
-    "bullets": [
-      "핵심: GlobalFoundries가 스트레인드 실리콘 FD-SOI 기반 FDX Fusion으로 EUV 없이 7nm급 성능을 구현하겠다고 발표했습니다.",
-      "핵심: 칩렛 연결만으로는 다중 다이 시스템의 데이터 이동 문제를 해결할 수 없어 NoC 확장이 필요하다고 지적했습니다."
-    ],
-    "topTopics": [
-      "Manufacturing",
-      "Roadmap",
-      "Competition",
-      "Policy"
-    ],
+    "bullets": [],
+    "topTopics": [],
     "stats": {
-      "collected": 7,
-      "deduped": 7
+      "collected": 0,
+      "deduped": 0
     }
   },
-  "cards": [
-    {
-      "id": "semiconductor_0001",
-      "tab": "semiconductor",
-      "publishedAt": "2026-10-10T07:00:00+09:00",
-      "source": "EE Times",
-      "title": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI",
-      "summary": [
-        "GlobalFoundries가 스트레인드 실리콘 FD-SOI 기반 'FDX Fusion'으로 EUV 없이 7nm급 성능을 구현하겠다고 발표했습니다.",
-        "회사는 이를 통해 유럽에서 물리적 AI(Physical AI)용 반도체 시장을 개척하려는 전략을 제시했습니다.",
-        "해당 접근은 EUV 중심의 파운드리 경쟁 구도에 변화를 촉발할 가능성이 있습니다."
-      ],
-      "whyItMatters": "EUV 의존도를 낮춘 기술로 비용·공급망 우위를 노리며 유럽 시장과 AI 하드웨어 수요에 대응하려 하기 때문입니다.",
-      "topics": [
-        "Manufacturing",
-        "Roadmap",
-        "Competition",
-        "Policy"
-      ],
-      "status": "SHIFTING",
-      "hash": "72aa4533c7c616de449f9206bc80dc50c128f7fb8ff7d0569de349429b8ed513",
-      "url": "https://www.eetimes.com/manfred-horstmann-globalfoundries-bets-on-fdx-fusion-for-physical-ai/"
-    },
-    {
-      "id": "semiconductor_0002",
-      "tab": "semiconductor",
-      "publishedAt": "2026-10-09T23:21:07+09:00",
-      "source": "EE Times",
-      "title": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems",
-      "summary": [
-        "칩렛 연결만으로는 다중 다이 시스템의 데이터 이동 문제를 해결할 수 없다.",
-        "다이 경계를 넘는 NoC(네트워크 온 칩) 확장이 필요하며 이를 통해 시스템을 확장할 수 있다.",
-        "모놀리식 SoC에서 멀티다이 아키텍처로의 전환을 촉진하는 기술적 접근법을 제시한다."
-      ],
-      "whyItMatters": "데이터 이동이 성능·확장성의 핵심 병목이라 업계 전환을 가속화하기 때문이다.",
-      "topics": [
-        "Manufacturing",
-        "Roadmap",
-        "Competition"
-      ],
-      "status": "ONGOING",
-      "hash": "c40d97b82057868de3b2488ce860f13c4e8efa8f8ef9310e9e10e0a69e9d3079",
-      "url": "https://www.eetimes.com/connecting-chiplets-isnt-enough-solving-the-data-movement-challenge-in-multi-die-systems/"
-    }
-  ]
+  "cards": []
 }

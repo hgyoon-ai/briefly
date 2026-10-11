@@ -1,87 +1,12 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "highlights": {
-    "bullets": [
-      "핵심: GPU 클러스터의 스케줄링 전략을 개선해 자원 활용도를 높입니다.",
-      "핵심: Sophos가 OpenAI Daybreak로 위협 조사 시간을 96% 단축하고 MDR 사례 52%를 자동화했습니다.",
-      "트렌드: 모델·자동화·인프라 개선으로 비용 절감과 처리 효율 개선이 강조되고 있습니다."
-    ],
-    "topTopics": [
-      "Infra",
-      "Tooling",
-      "Product",
-      "Training"
-    ],
+    "bullets": [],
+    "topTopics": [],
     "stats": {
-      "collected": 3,
-      "deduped": 3
+      "collected": 0,
+      "deduped": 0
     }
   },
-  "cards": [
-    {
-      "id": "ai_0001",
-      "tab": "ai",
-      "publishedAt": "2026-10-10T00:20:29+09:00",
-      "source": "Hugging Face Blog",
-      "title": "Impactful scheduling for GPU clusters",
-      "summary": [
-        "GPU 클러스터의 스케줄링 전략을 개선해 자원 활용도를 높입니다.",
-        "이를 통해 비용 절감과 작업 대기 시간 감소, 처리량 증가 효과를 기대할 수 있습니다.",
-        "ML 트레이닝·추론 워크로드에 즉각적인 영향이 있어 도입이 확산될 가능성이 큽니다."
-      ],
-      "whyItMatters": "GPU 집약적 워크로드의 비용과 성능에 직접적 영향을 주므로 운영 우선순위가 될 수 있습니다.",
-      "topics": [
-        "Infra",
-        "Tooling",
-        "Training"
-      ],
-      "status": "ONGOING",
-      "hash": "e05551817b225bef5e8ca8d6225aa3fed9bb03ffd013a0306b4527b10407beb2",
-      "url": "https://huggingface.co/blog/allenai/impactful-scheduling"
-    },
-    {
-      "id": "ai_0002",
-      "tab": "ai",
-      "publishedAt": "2026-10-09T16:00:00+09:00",
-      "source": "OpenAI Blog",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "summary": [
-        "Sophos가 OpenAI Daybreak를 도입해 사이버 위협 조사 시간을 96% 단축했습니다.",
-        "MDR 사례의 52%를 자동화하면서도 인간의 감독을 유지합니다.",
-        "탐지·대응 효율을 크게 높여 운영 비용과 대응 시간을 줄였습니다."
-      ],
-      "whyItMatters": "대규모 자동화로 탐지·대응 속도와 비용을 동시에 개선하면서도 인간 검증을 유지해 실무 적용성이 크기 때문입니다.",
-      "topics": [
-        "Product",
-        "Business",
-        "Tooling",
-        "Safety"
-      ],
-      "status": "ONGOING",
-      "hash": "570fe3204556675e8dd927e7dbd15e7142796fd7ecb68cb1f56d47b91d75ac01",
-      "url": "https://openai.com/index/sophos"
-    },
-    {
-      "id": "ai_0003",
-      "tab": "ai",
-      "publishedAt": "2026-10-09T16:00:00+09:00",
-      "source": "OpenAI Blog",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "summary": [
-        "Asana가 브라우저 에이전트 테스트에서 GPT-6 계열 모델을 적용했다.",
-        "테스트 결과 모델 운영 비용을 76배 절감하고 응답 속도는 5배 개선했다.",
-        "목적은 고객에게 더 강력하고 저비용의 모델 경험을 제공하는 것이다."
-      ],
-      "whyItMatters": "브라우저 기반에서 대규모 비용 절감과 지연 개선이 가능해지면 제품 확장성·경제성·사용자 경험에 즉각적인 영향이 있어 중요하다.",
-      "topics": [
-        "Models",
-        "Inference",
-        "Product",
-        "Infra"
-      ],
-      "status": "ONGOING",
-      "hash": "9bf93d58cc35db9987f8bca45379eba94bc31d29b6afb6124531fcd7a11cbc41",
-      "url": "https://openai.com/index/asana-browser-agent"
-    }
-  ]
+  "cards": []
 }
