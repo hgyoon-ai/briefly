@@ -1,0 +1,277 @@
+{
+  "range": {
+    "from": "2026-10-06",
+    "to": "2026-10-12"
+  },
+  "kpis": {
+    "collected": 10,
+    "deduped": 10,
+    "uniqueTopics": 6
+  },
+  "topTopics": [
+    {
+      "name": "Roadmap",
+      "count": 10
+    },
+    {
+      "name": "Competition",
+      "count": 8
+    },
+    {
+      "name": "Demand",
+      "count": 6
+    },
+    {
+      "name": "Investment",
+      "count": 5
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-06",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-06",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-06",
+      "dayOfWeek": "Tue",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-06",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-10-07",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-07",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-07",
+      "dayOfWeek": "Wed",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-07",
+      "dayOfWeek": "Wed",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-10-08",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-08",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-08",
+      "dayOfWeek": "Thu",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-08",
+      "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-10-09",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-10-09",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-10-09",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 2
+    },
+    {
+      "date": "2026-10-09",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 3
+    },
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 3
+    },
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "Demand",
+      "count": 2
+    },
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Investment",
+      "count": 1
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "ev-1",
+      "status": "NEW",
+      "title": "유럽 완성차, 보급형·고급형 EV 신모델 로드맵 가속",
+      "summary": "시트로엥 2CV 전기 콘셉트(약 1만5천 유로 목표)와 BMW iX4(최대 428마일 주행, 6만6천 달러 이상), 폭스바겐 전기 티구안(최대 약 600km 주행) 공개로 유럽 주요 완성차들이 레트로 보급형부터 프리미엄·패밀리 SUV까지 전 라인업을 전동화하며 EV 경쟁 구도를 재편하고 있다.",
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "The legendary Citroen 2CV is back as a €15k electric concept for 2028",
+          "url": "https://electrek.co/2026/10/11/the-legendary-citroen-2cv-is-back-as-a-e15k-electric-concept-for-2028/"
+        },
+        {
+          "source": "Electrek",
+          "title": "BMW’s new iX4 has 428 miles of range, but it starts at north of $66,000 [Images]",
+          "url": "https://electrek.co/2026/10/08/bmws-new-ix4-428-miles-range-66000-price-tag/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Volkswagen’s best-seller has gone electric, and it will replace the ID.4 and ID.5 [Images]",
+          "url": "https://electrek.co/2026/10/09/volkswagens-best-seller-goes-ev-replace-id-4-images/"
+        }
+      ]
+    },
+    {
+      "id": "ev-2",
+      "status": "ONGOING",
+      "title": "전동 중장비·상용차, 실제 현장에서 비용 절감과 대량 생산 성과 입증",
+      "summary": "Groupe Bellemare 사례에서 확인되듯 배터리 전동 중장비가 연료·정비비 절감으로 총비용 경쟁력을 확보하는 가운데, BYD는 15만 번째 상용 신에너지차 생산을 달성하며 전기 트럭·버스 등 상용 EV의 대량 생산·보급이 본격 궤도에 진입했음을 보여주고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Back in the real world: electric equipment is saving job sites BIG MONEY",
+          "url": "https://electrek.co/2026/10/11/back-in-the-real-world-electric-equipment-is-saving-job-sites-big-money/"
+        },
+        {
+          "source": "Electrek",
+          "title": "BYD builds 150,000th commercial NEV – an 800 hp Q3 electric semi truck",
+          "url": "https://electrek.co/2026/10/10/byd-builds-150000th-commercial-nev-an-800-hp-q3-electric-semi-truck/"
+        }
+      ]
+    },
+    {
+      "id": "ev-3",
+      "status": "ONGOING",
+      "title": "배터리 스왑과 초대형 재생에너지 프로젝트로 EV 인프라 경쟁 심화",
+      "summary": "니오가 1주일간 120만 회 배터리 스왑을 처리하며 충전 대체 인프라의 대규모 운영 가능성을 증명한 동시에, 테슬라는 애리조나 450MW 태양광·대용량 저장 프로젝트를 통해 EV·에너지 통합 비즈니스 우위를 노리며 인프라·에너지 영역 경쟁을 확장하고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Battery swap works: Nio completes 1.2 million swaps in a SINGLE WEEK",
+          "url": "https://electrek.co/2026/10/10/battery-swap-works-nio-completes-1-2-million-swaps-in-a-single-week/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Tesla’s next big clean energy source is rising in the Arizona desert",
+          "url": "https://electrek.co/2026/10/09/teslas-next-big-clean-energy-source-is-rising-in-the-arizona-desert/"
+        }
+      ]
+    },
+    {
+      "id": "ev-4",
+      "status": "ONGOING",
+      "title": "테슬라 FSD, 유럽 규제 당국과의 갈등 속 승인 범위 확대",
+      "summary": "테슬라가 네덜란드 RDW에 비용·검토 범위 축소를 압박한 이메일이 공개되면서 규제 투명성 논란이 커졌으나, 결과적으로 FSD(Supervised)가 승인되고 8개 EU 국가에서 사용이 허용되며 자율주행 기능의 유럽 내 상용화가 점진적으로 확대되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla leaned on Dutch regulator to ease its FSD review, emails show",
+          "url": "https://electrek.co/2026/10/08/tesla-fsd-europe-rdw-pressure-reuters/"
+        }
+      ]
+    }
+  ]
+}

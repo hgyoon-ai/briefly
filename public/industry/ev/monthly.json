@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-09-12",
-    "to": "2026-10-11"
+    "from": "2026-09-13",
+    "to": "2026-10-12"
   },
   "kpis": {
     "collected": 54,
@@ -11,58 +11,58 @@
       "Roadmap": 29,
       "Competition": 24,
       "Demand": 19,
-      "Investment": 19,
-      "Policy": 10,
-      "Other": 0
+      "Investment": 18,
+      "Policy": 9,
+      "Other": 1
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (09/12-09/18)",
+      "week": "Week 1 (09/13-09/19)",
       "topicCounts": {
-        "Roadmap": 10,
-        "Competition": 8,
-        "Demand": 8,
-        "Investment": 9,
+        "Roadmap": 9,
+        "Competition": 9,
+        "Demand": 7,
+        "Investment": 7,
         "Policy": 5
       }
     },
     {
-      "week": "Week 2 (09/19-09/25)",
+      "week": "Week 2 (09/20-09/26)",
       "topicCounts": {
         "Roadmap": 11,
         "Competition": 11,
-        "Demand": 5,
-        "Investment": 7,
+        "Demand": 6,
+        "Investment": 6,
         "Policy": 3
       }
     },
     {
-      "week": "Week 3 (09/26-10/02)",
+      "week": "Week 3 (09/27-10/03)",
       "topicCounts": {
-        "Roadmap": 11,
+        "Roadmap": 10,
         "Competition": 7,
-        "Demand": 8,
-        "Investment": 7,
-        "Policy": 4
-      }
-    },
-    {
-      "week": "Week 4 (10/03-10/09)",
-      "topicCounts": {
-        "Roadmap": 7,
-        "Competition": 5,
-        "Demand": 5,
-        "Investment": 3,
+        "Demand": 6,
+        "Investment": 6,
         "Policy": 3
       }
     },
     {
-      "week": "Week 5 (10/10-10/11)",
+      "week": "Week 4 (10/04-10/10)",
+      "topicCounts": {
+        "Roadmap": 9,
+        "Competition": 7,
+        "Demand": 6,
+        "Investment": 5,
+        "Policy": 3
+      }
+    },
+    {
+      "week": "Week 5 (10/11-10/12)",
       "topicCounts": {
         "Roadmap": 2,
-        "Competition": 2,
-        "Demand": 2,
+        "Competition": 1,
+        "Demand": 1,
         "Investment": 1,
         "Policy": 0
       }
@@ -71,9 +71,51 @@
   "topIssues": [
     {
       "id": "ev-1",
+      "status": "NEW",
+      "title": "15,000유로급 시트로엥 2CV 전기 콘셉트, 보급형 레트로 EV 시장 자극",
+      "summary": "시트로엥이 2028년 출시를 목표로 클래식 2CV를 재해석한 약 15,000유로 전기차 콘셉트를 공개했다. 초저가·레트로 디자인 EV가 유럽 소형차 세그먼트의 가격 경쟁을 다시 촉발하고, 도심·세컨드카 수요를 흡수할 가능성이 크다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "The legendary Citroen 2CV is back as a €15k electric concept for 2028",
+          "url": "https://electrek.co/2026/10/11/the-legendary-citroen-2cv-is-back-as-a-e15k-electric-concept-for-2028/"
+        }
+      ]
+    },
+    {
+      "id": "ev-2",
+      "status": "NEW",
+      "title": "BMW iX4, 428마일 주행거리로 프리미엄 롱레인지 EV 경쟁 심화",
+      "summary": "BMW가 최대 428마일 주행거리의 iX4를 공개하며 고가(6만6천달러 이상) 프리미엄 쿠페-SUV EV 세그먼트에서 테슬라·독일 프리미엄 브랜드 간 장거리·고가 시장 경쟁이 한층 치열해지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "BMW’s new iX4 has 428 miles of range, but it starts at north of $66,000 [Images]",
+          "url": "https://electrek.co/2026/10/08/bmws-new-ix4-428-miles-range-66000-price-tag/"
+        }
+      ]
+    },
+    {
+      "id": "ev-3",
       "status": "ONGOING",
-      "title": "BYD, 상용 전기트럭 15만 대 생산 돌파로 전기 상용차 경쟁력 부각",
-      "summary": "BYD가 장쑤성 화이안 공장에서 15만 번째 상용 신에너지차를 생산하며 상용 전기트럭 대량 양산 역량을 입증했다. 기념 모델인 약 800마력급 Q3 전기 세미 트럭은 고출력·대형 상용 분야까지 전동화가 본격 확산되고 있음을 보여주며, 글로벌 전기 상용차 시장에서 BYD의 가격·라인업 경쟁력 강화 흐름이 이어지고 있다.",
+      "title": "전동 중장비가 건설·산업 현장 운영비 구조를 재편",
+      "summary": "Groupe Bellemare 사례에서 보듯 배터리 전동 중장비는 초기 CAPEX 부담에도 불구하고 연료·정비비 절감으로 TCO 측면에서 유의미한 비용 우위를 입증하고 있다. 이는 건설·물류·채굴 등 헤비듀티 영역의 전동화 전환을 가속할 수 있는 실증 데이터로 작용한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Back in the real world: electric equipment is saving job sites BIG MONEY",
+          "url": "https://electrek.co/2026/10/11/back-in-the-real-world-electric-equipment-is-saving-job-sites-big-money/"
+        }
+      ]
+    },
+    {
+      "id": "ev-4",
+      "status": "ONGOING",
+      "title": "BYD, 15만 대 상용 NEV 생산으로 전기 트럭·버스 지배력 확대",
+      "summary": "BYD가 15만 번째 상용 신에너지차 생산을 달성하고 800마력급 Q3 전기 세미를 공개하면서 전기 트럭·버스 시장에서 규모의 경제와 기술 경쟁력을 동시에 과시했다. 이는 상용차 부문의 중국발 가격·스펙 경쟁 심화를 예고한다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -84,58 +126,16 @@
       ]
     },
     {
-      "id": "ev-2",
+      "id": "ev-5",
       "status": "ONGOING",
-      "title": "니오, 일주일 120만 회 배터리 스왑으로 교체식 인프라 실효성 입증",
-      "summary": "니오는 휴일 1주일 동안 120만 회의 배터리 스왑을 수행하며, 급속충전 대신 교체 방식이 내연기관 주유소 수준의 처리속도와 편의성을 제공할 수 있음을 실증했다. 이는 스왑 스테이션 네트워크의 확장성과 운영 안정성을 보여주며, 장거리·도심 혼합 수요에서 배터리 스왑 모델의 상용화 가능성이 커지고 있음을 시사한다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "Battery swap works: Nio completes 1.2 million swaps in a SINGLE WEEK",
-          "url": "https://electrek.co/2026/10/10/battery-swap-works-nio-completes-1-2-million-swaps-in-a-single-week/"
-        }
-      ]
-    },
-    {
-      "id": "ev-3",
-      "status": "ONGOING",
-      "title": "테슬라, 애리조나 대규모 태양광·배터리 프로젝트로 에너지 사업 확장",
-      "summary": "테슬라는 애리조나 사막에 450MW급 태양광 발전소와 대용량 배터리 저장 시스템을 건설 중이며, 예상 발전량의 약 90%를 이미 판매 계약으로 확보했다. 이는 EV 제조를 넘어 발전·저장 통합 솔루션 사업자로 전환하려는 전략의 연장선으로, 전기차 충전 생태계와 재생에너지 전력 공급망을 동시에 장악하려는 행보로 해석된다.",
+      "title": "테슬라, 애리조나 초대형 태양광·저장 프로젝트로 에너지 사업 축 확대",
+      "summary": "테슬라는 애리조나 사막에 450MW 태양광과 대용량 배터리 저장 설비를 건설하며, 예상 발전량의 90%를 이미 판매 계약으로 확보했다. 완성차 중심에서 발전·에너지 저장까지 수직 통합을 강화해 EV 사업 변동성을 보완하는 전략으로 해석된다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
           "title": "Tesla’s next big clean energy source is rising in the Arizona desert",
           "url": "https://electrek.co/2026/10/09/teslas-next-big-clean-energy-source-is-rising-in-the-arizona-desert/"
-        }
-      ]
-    },
-    {
-      "id": "ev-4",
-      "status": "NEW",
-      "title": "폭스바겐, 전기 ‘ID. 티구안’으로 핵심 SUV 라인업 전동화 가속",
-      "summary": "폭스바겐은 베스트셀러인 티구안의 순수 전기 버전 ‘ID. 티구안’을 공개하고 최대 약 600km의 주행거리를 제시했다. 기존 ID.4·ID.5를 대체하는 전략 모델로 포지셔닝해, 주력 내연기관 차종을 전기차로 치환하는 대중 브랜드의 전동화 2단계에 진입했음을 보여준다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "Volkswagen’s best-seller has gone electric, and it will replace the ID.4 and ID.5 [Images]",
-          "url": "https://electrek.co/2026/10/09/volkswagens-best-seller-goes-ev-replace-id-4-images/"
-        }
-      ]
-    },
-    {
-      "id": "ev-5",
-      "status": "NEW",
-      "title": "BMW iX4, 고가·초장거리 전략으로 프리미엄 EV 경쟁 심화",
-      "summary": "BMW는 최대 428마일(약 688km) 주행거리를 제공하는 전기 쿠페-SUV iX4를 출시하며, 6만6천달러 이상 가격대의 프리미엄·장거리 세그먼트를 공략한다. 테슬라, 메르세데스 등과의 고급 전기 SUV 시장 경쟁이 한층 치열해지는 가운데, 주행거리·브랜드 파워 중심의 차별화 전략이 부각되고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "BMW’s new iX4 has 428 miles of range, but it starts at north of $66,000 [Images]",
-          "url": "https://electrek.co/2026/10/08/bmws-new-ix4-428-miles-range-66000-price-tag/"
         }
       ]
     }

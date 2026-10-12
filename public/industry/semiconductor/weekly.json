@@ -1,25 +1,25 @@
 {
   "range": {
-    "from": "2026-10-05",
-    "to": "2026-10-11"
+    "from": "2026-10-06",
+    "to": "2026-10-12"
   },
   "kpis": {
-    "collected": 11,
-    "deduped": 11,
+    "collected": 9,
+    "deduped": 9,
     "uniqueTopics": 7
   },
   "topTopics": [
     {
       "name": "Roadmap",
-      "count": 9
+      "count": 7
     },
     {
       "name": "Competition",
-      "count": 9
+      "count": 7
     },
     {
       "name": "Manufacturing",
-      "count": 7
+      "count": 5
     },
     {
       "name": "Investment",
@@ -28,46 +28,22 @@
   ],
   "topicTrend": [
     {
-      "date": "2026-10-05",
-      "dayOfWeek": "Mon",
-      "topic": "Roadmap",
-      "count": 0
-    },
-    {
-      "date": "2026-10-05",
-      "dayOfWeek": "Mon",
-      "topic": "Competition",
-      "count": 0
-    },
-    {
-      "date": "2026-10-05",
-      "dayOfWeek": "Mon",
-      "topic": "Manufacturing",
-      "count": 0
-    },
-    {
-      "date": "2026-10-05",
-      "dayOfWeek": "Mon",
-      "topic": "Investment",
-      "count": 0
-    },
-    {
       "date": "2026-10-06",
       "dayOfWeek": "Tue",
       "topic": "Roadmap",
-      "count": 4
-    },
-    {
-      "date": "2026-10-06",
-      "dayOfWeek": "Tue",
-      "topic": "Competition",
-      "count": 4
-    },
-    {
-      "date": "2026-10-06",
-      "dayOfWeek": "Tue",
-      "topic": "Manufacturing",
       "count": 2
+    },
+    {
+      "date": "2026-10-06",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-10-06",
+      "dayOfWeek": "Tue",
+      "topic": "Manufacturing",
+      "count": 0
     },
     {
       "date": "2026-10-06",
@@ -192,6 +168,30 @@
     {
       "date": "2026-10-11",
       "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
       "topic": "Investment",
       "count": 0
     }
@@ -200,8 +200,8 @@
     {
       "id": 1,
       "status": "SHIFTING",
-      "title": "GlobalFoundries, FDX Fusion으로 EUV 없이 7nm급 ‘물리적 AI’ 공정 도전",
-      "summary": "GlobalFoundries가 스트레인드 실리콘 FD‑SOI 기반 FDX Fusion 로드맵을 공개하며, EUV 없이 7nm급 성능을 구현해 유럽 내 물리적 AI(센서·아날로그·로직 융합)용 반도체 시장을 선점하려는 전략을 강화하고 있습니다.",
+      "title": "GlobalFoundries, FD-SOI 기반 ‘FDX Fusion’으로 EUV 없이 물리적 AI 공정 경쟁 가속",
+      "summary": "GlobalFoundries가 스트레인드 실리콘 FD-SOI 기반 ‘FDX Fusion’으로 EUV 없이도 7nm급 성능을 목표로 하며, 유럽 내 물리적 AI(Physical AI) 반도체 생산 거점을 구축하려는 전략을 본격화하고 있습니다. 이는 미·아시아 중심이던 첨단 공정 및 AI용 파운드리 지형에 변화를 줄 가능성이 있습니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -214,8 +214,8 @@
     {
       "id": 2,
       "status": "SHIFTING",
-      "title": "ADAS 고도화로 자동차용 모듈형 AI SoC·플랫폼 수요 급증",
-      "summary": "차량용 반도체 비용 상승과 연산 수요 폭증으로 완성차·티어1들이 ADAS에 모듈형 AI 아키텍처를 확대 도입하며, 재사용 가능한 AI 칩 모듈과 소프트웨어 스택 중심의 설계 전환이 가속되고 있습니다.",
+      "title": "ADAS용 반도체, 비용·연산 수요 부담 속 모듈형 AI 아키텍처로 전환",
+      "summary": "차량용 반도체 비용 상승과 고성능 컴퓨팅 수요 증대로, 완성차·티어1 업체들이 ADAS 시스템에 모듈형 AI 아키텍처를 도입하고 있습니다. 칩·보드·소프트웨어를 모듈화해 다양한 조합을 허용함으로써, 개발 비용·재설계 부담을 줄이고 차세대 센싱·자율주행 기능 확장에 유연성을 확보하는 흐름이 강화되고 있습니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -228,8 +228,8 @@
     {
       "id": 3,
       "status": "NEW",
-      "title": "삼성전자 2026년 3분기 가이던스 급증, 메모리·파운드리 업사이클 본격화 시사",
-      "summary": "삼성전자가 2026년 3분기 매출 195조원, 영업이익 107.4조원 수준의 가이던스를 제시하며 사상 최대 규모의 실적 회복을 예고해, 메모리 사이클 반등과 첨단 파운드리·AI 반도체 수요 강세가 본격화됐음을 시사하고 있습니다.",
+      "title": "삼성전자 2026년 3분기 실적 가이던스, 반도체 초호황 수준 매출·이익 전망",
+      "summary": "삼성전자가 2026년 3분기 연결 매출 약 195조원, 영업이익 약 107.40조원의 가이던스를 제시하며 반도체 중심 실적 회복이 초호황 국면에 진입했음을 시사했습니다. AI 서버·고대역폭 메모리(HBM)·파운드리 수요 확대가 실적 상향의 핵심 동력으로 해석되며, 공격적 CAPEX와 선단 공정 투자 지속 여부가 후속 관전 포인트입니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -242,8 +242,8 @@
     {
       "id": 4,
       "status": "NEW",
-      "title": "엣지 AI용 고성능·저전력 NPU 경쟁 심화: Axelera Europa 칩 부상",
-      "summary": "Axelera의 Europa 칩이 35W 전력 예산에서 629 TOPS 추론 성능을 내세우며, 데이터센터급 추론 성능을 엣지·임베디드 시스템으로 이전하려는 고성능·저전력 NPU 경쟁이 심화되고 있습니다.",
+      "title": "Axelera ‘Europa’ 칩, 35W 전력에서 데이터센터급 추론 성능으로 엣지 AI 재편",
+      "summary": "Axelera의 Europa 칩이 35W 전력 범위에서 629 TOPS급 추론 성능을 제시하며, 엣지 장치에서 데이터센터 수준의 AI 연산을 구현하는 방향을 제시하고 있습니다. 저전력·고성능을 앞세운 전용 가속기가 보안 카메라, 산업 IoT, 로봇 등 엣지 AI 반도체 시장에서 GPU·NPU 기반 기존 생태계를 위협하는 잠재 변수로 부상하고 있습니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -256,8 +256,8 @@
     {
       "id": 5,
       "status": "ONGOING",
-      "title": "멀티다이·칩렛 시대, 패키지 초월형 NoC로 데이터 이동 병목 해결 시도",
-      "summary": "칩렛 간 단순 인터커넥트만으로는 멀티다이 시스템의 대역폭·지연 요구를 충족하기 어려워, 다이 경계를 넘는 네트워크 온 칩(NoC)을 패키지 레벨로 확장하는 시스템 아키텍처 혁신 논의가 계속되고 있습니다.",
+      "title": "멀티다이·칩렛 패키징, NoC 확장으로 데이터 이동 병목 해소 경쟁 본격화",
+      "summary": "칩렛을 단순히 물리적으로 연결하는 것만으로는 멀티다이 시스템에서의 데이터 이동 병목을 해소하기 어렵다는 인식이 확산되고 있습니다. 다이 경계를 넘는 네트워크온칩(NoC) 구조 확장과 패키지 레벨 상호연결 최적화가 고대역폭·저지연 시스템 구현의 핵심 과제로 부각되며, EDA·IP 업체와 파운드리 간 협력이 강화되는 추세입니다.",
       "articleCount": 1,
       "relatedArticles": [
         {

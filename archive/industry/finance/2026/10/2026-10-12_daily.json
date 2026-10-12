@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-12",
+  "highlights": {
+    "bullets": [
+      "핵심: 10년 된 중고 유조선의 가격이 신조보다 높은 현상이 관찰되었다.",
+      "핵심: 메리츠증권이 SK하이닉스 목표주가를 310만원에서 320만원으로 상향했다."
+    ],
+    "topTopics": [
+      "MarketInfra",
+      "Policy",
+      "Fintech",
+      "Regulation"
+    ],
+    "stats": {
+      "collected": 15,
+      "deduped": 15
+    }
+  },
+  "cards": [
+    {
+      "id": "finance_0001",
+      "tab": "finance",
+      "publishedAt": "2026-10-12T09:26:57+09:00",
+      "source": "매일경제(증권)",
+      "title": "상식 붕괴, 유조선 시장 ‘10년 중고’가 더 비싸다?",
+      "summary": [
+        "통상과 달리 10년 된 중고 유조선 가격이 신조보다 높은 현상이 관찰됩니다.",
+        "이는 공급·수요 불균형과 고운임, 폐선·개조 비용 및 규제 변화 등이 복합적으로 작용한 결과로 보입니다.",
+        "이 현상은 해운 운임, 선주 투자 결정과 글로벌 원유 물류에 영향을 미칠 수 있습니다."
+      ],
+      "whyItMatters": "중고선 공급 부족과 운임·규제 변동이 가격 역전을 초래했기 때문입니다.",
+      "topics": [
+        "MarketInfra",
+        "Policy"
+      ],
+      "status": "SHIFTING",
+      "hash": "e75ea5237ebd3b99880021672491b81f30c85e372e175c1bfba6abf71ca8603d",
+      "url": "https://www.mk.co.kr/news/stock/12173301"
+    },
+    {
+      "id": "finance_0002",
+      "tab": "finance",
+      "publishedAt": "2026-10-12T08:56:35+09:00",
+      "source": "매일경제(증권)",
+      "title": "하이닉스 목표가 320만원 등장…“상반기 영업익 80조 간다” [오늘 나온 보고서]",
+      "summary": [
+        "메리츠증권이 SK하이닉스 목표주가를 310만원에서 320만원으로 상향했다.",
+        "3분기에 시장 기대를 뛰어넘는 실적(어닝 서프라이즈)으로 주가 랠리 재개를 전망했다.",
+        "상반기 영업이익을 80조원 수준으로 보는 공격적 전망을 제시했다."
+      ],
+      "whyItMatters": "증권사의 목표주가 상향과 대규모 이익 전망이 투자심리와 주가에 즉각적 영향을 미칠 가능성이 크기 때문이다.",
+      "topics": [
+        "MarketInfra",
+        "Fintech"
+      ],
+      "status": "ONGOING",
+      "hash": "446302dee816635994b3289115b382d9e62bab8716c7bfc7a0b75c0aeda17677",
+      "url": "https://www.mk.co.kr/news/stock/12173270"
+    }
+  ]
+}

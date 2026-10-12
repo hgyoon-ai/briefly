@@ -1,70 +1,70 @@
 {
   "range": {
-    "from": "2026-09-12",
-    "to": "2026-10-11"
+    "from": "2026-09-13",
+    "to": "2026-10-12"
   },
   "kpis": {
-    "collected": 119,
-    "deduped": 119,
+    "collected": 120,
+    "deduped": 120,
     "uniqueTopics": 10,
     "marketShare": {
-      "Market": 34,
-      "Supply": 23,
+      "Market": 33,
+      "Supply": 24,
       "Policy": 16,
       "Rental": 14,
-      "UrbanRenewal": 13,
+      "UrbanRenewal": 14,
       "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (09/12-09/18)",
+      "week": "Week 1 (09/13-09/19)",
       "topicCounts": {
         "Market": 24,
-        "Supply": 11,
-        "Policy": 9,
-        "Rental": 8,
+        "Supply": 12,
+        "Policy": 10,
+        "Rental": 9,
+        "UrbanRenewal": 10
+      }
+    },
+    {
+      "week": "Week 2 (09/20-09/26)",
+      "topicCounts": {
+        "Market": 22,
+        "Supply": 17,
+        "Policy": 13,
+        "Rental": 11,
         "UrbanRenewal": 9
       }
     },
     {
-      "week": "Week 2 (09/19-09/25)",
+      "week": "Week 3 (09/27-10/03)",
       "topicCounts": {
         "Market": 20,
-        "Supply": 14,
-        "Policy": 11,
-        "Rental": 11,
-        "UrbanRenewal": 7
+        "Supply": 17,
+        "Policy": 8,
+        "Rental": 6,
+        "UrbanRenewal": 11
       }
     },
     {
-      "week": "Week 3 (09/26-10/02)",
+      "week": "Week 4 (10/04-10/10)",
       "topicCounts": {
-        "Market": 18,
-        "Supply": 15,
-        "Policy": 7,
+        "Market": 19,
+        "Supply": 13,
+        "Policy": 8,
         "Rental": 8,
-        "UrbanRenewal": 9
+        "UrbanRenewal": 6
       }
     },
     {
-      "week": "Week 4 (10/03-10/09)",
+      "week": "Week 5 (10/11-10/12)",
       "topicCounts": {
-        "Market": 15,
-        "Supply": 12,
-        "Policy": 7,
-        "Rental": 7,
-        "UrbanRenewal": 5
-      }
-    },
-    {
-      "week": "Week 5 (10/10-10/11)",
-      "topicCounts": {
-        "Market": 1,
-        "Supply": 1,
-        "Policy": 2,
+        "Market": 4,
+        "Supply": 5,
+        "Policy": 3,
         "Rental": 1,
-        "UrbanRenewal": 0
+        "UrbanRenewal": 2
       }
     }
   ],
@@ -72,75 +72,75 @@
     {
       "id": 1,
       "status": "ONGOING",
-      "title": "분양가상한제 실거주의무 ‘전세·주소이전 신고제’ 도입 추진",
-      "summary": "분양가상한제 적용 주택의 실거주의무를 유예하고 전세를 놓는 경우 지자체에 반드시 신고하도록 하는 ‘실거주 신고제’가 입법 추진 단계에 들어갔다. 위반 시 최대 300만원 과태료 부과가 포함돼 실거주 의무 관리와 전세 임대 실태 파악이 강화될 전망이다.",
+      "title": "장기전세 만기 갈등, 서울 전역으로 확산 조짐",
+      "summary": "강동구에서 촉발된 장기전세 만기 갈등이 은평·마포·중랑·구로·양천 등으로 번질 가능성이 커지며, 2030~2031년 사이 5000가구 이상이 한꺼번에 만기를 맞아 장기전세 제도 전반의 재설계와 세입자 대책이 핵심 이슈로 부상했다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "헤럴드경제(부동산)",
-          "title": "전세 놓고 주소만 옮겼다간 과태료…강남3구·용산 실거주 ‘신고제’ 본격 추진 [부동산360]",
-          "url": "https://biz.heraldcorp.com/article/10898220"
+          "source": "매일경제(부동산)",
+          "title": "[단독] “20년 살았는데 내집 해줘”…장기전세 갈등, 은평·마포·구로 차례온다",
+          "url": "https://www.mk.co.kr/news/economy/12173277"
         }
       ]
     },
     {
       "id": 2,
       "status": "ONGOING",
-      "title": "서울 장기전세, 전세시세 연동에서 소득·자산 연동 검토",
-      "summary": "서울시가 장기전세 보증금 산정 기준을 기존 전세 시세 연동 방식에서 입주자 소득과 자산 수준을 함께 반영하는 방식으로 바꾸는 방안을 검토 중이다. 고가 전세에도 자산 기준 때문에 탈락하는 사례가 늘자 제도 형평성과 수혜 대상 조정을 둘러싼 논의가 커지고 있다.",
+      "title": "서울 아파트 가격 고공행진과 중소형 평형 매매가 급등",
+      "summary": "서울 59㎡(국평급) 아파트 평균 매매가격이 11억5000만원까지 뛰면서 한국부동산원 통계 기준 역대 최장 상승 흐름을 이어가고 있다. 실수요 주력 평형의 가격 급등이 전반적 시장 과열과 향후 추가 상승 기대·불안 심리를 동시에 키우고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "헤럴드경제(부동산)",
-          "title": "전세 13억인데 자산 기준은 6.6억 ‘컷’…장기전세 보증금, 소득 연동되나 [부동산360]",
-          "url": "https://biz.heraldcorp.com/article/10897350"
+          "title": "‘국평? 꿈도 못꿀 판’ 서울 59㎡ 평균값 11.5억…무섭게 올랐다[부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10898629"
         }
       ]
     },
     {
       "id": 3,
-      "status": "ONGOING",
-      "title": "월세 1000만원 이상 초고가 임대차 급증",
-      "summary": "월세 1000만원 이상 고액 임대차 계약이 1년 새 36% 증가하며 초고가 전·월세 시장이 빠르게 확대되고 있다. 이 구간에서 계약갱신청구권 행사도 두 배 가까이 늘어, 상위 소득·자산 계층의 임대 수요와 임대차 규제의 영향이 집중적으로 나타나고 있다.",
-      "articleCount": 1,
+      "status": "SHIFTING",
+      "title": "정부·서울시, 용적률 상향·그린벨트 완화 등 초강력 공급 드라이브",
+      "summary": "정부가 용적률을 높이고 서울시가 그린벨트 일부 해제를 검토하는 등 규제 완화를 통해 도심 공급 확대에 속도를 내고 있다. 이는 집값 안정 의지를 반영하는 동시에 환경·난개발 우려와의 충돌 가능성을 키우는 정책 변곡점으로 평가된다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
-          "source": "헤럴드경제(부동산)",
-          "title": "월세 1000만원 ‘그사세 세입자’ 1년 새 36%가 늘었다 [부동산360]",
-          "url": "https://biz.heraldcorp.com/article/10898055"
+          "source": "한국경제(부동산)",
+          "title": "\"공급 속도내자\"…정부 '용적률' 높이고, 서울시는 '그린벨트' 푼다",
+          "url": "https://www.hankyung.com/article/2026100663691"
+        },
+        {
+          "source": "한국경제(부동산)",
+          "title": "[집코노미2026 다시보기 영상] \"정부, 공급 확대에 최우선…집값 잡을 것\"",
+          "url": "https://www.hankyung.com/article/202610114186i"
         }
       ]
     },
     {
       "id": 4,
       "status": "ONGOING",
-      "title": "서울역 역세권·모아타운 등 도심 정비 통한 신규 공급 확대",
-      "summary": "서울역 역세권 준주거지에 최고 35층, 483가구 규모의 아파트가 공급되는 등 서울시가 소규모주택정비와 모아타운 사업을 통해 도심 내 주택 공급을 늘리고 있다. 화곡6동·서계동·면목동 등 여러 구역이 통합심의에서 가결되며 역세권 고밀 개발이 본격화되는 추세다.",
+      "title": "서울 핵심지, 조합 없는 공공직접 재개발 확대",
+      "summary": "국토부와 LH가 조합 설립 없이 도심 공공주택 복합사업을 직접 시행하면서 서울 핵심 입지 재개발 패러다임이 바뀌고 있다. 사업 속도와 공급 확대 기대가 커지는 한편, 조합원 권리·수익 구조와 공공 주도의 사업성에 대한 시장 검증이 남은 상황이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(부동산)",
-          "title": "서울역 역세권에 35층 아파트…준주거지 모아타운 483가구 공급",
-          "url": "https://www.mk.co.kr/news/realestate/12172265"
+          "title": "서울 핵심지에 조합없이 LH가 직접 재개발 … 정부 믿고 들어가볼까 [도공복1편]",
+          "url": "https://www.mk.co.kr/news/realestate/12173085"
         }
       ]
     },
     {
       "id": 5,
-      "status": "SHIFTING",
-      "title": "경기도 고가주택 급증과 재산세 부담 확대",
-      "summary": "경기도에서 공시가격 12억원을 넘는 고가주택이 1년 새 약 5만가구에서 10만가구로 급증하면서 재산세 총액도 사상 최대인 2조1385억원 수준으로 불어났다. 서울발 집값 상승이 성남·수원·과천을 넘어 안양·광명·하남 등으로 확산되며 세 부담과 조세 형평성 논쟁이 커지는 국면이다.",
-      "articleCount": 2,
+      "status": "ONGOING",
+      "title": "분양가상한제 지역 실거주 신고제 추진과 임대·거주의무 강화",
+      "summary": "분양가상한제 적용 지역에서 실거주 의무를 유예할 경우 지자체에 반드시 신고하도록 하는 신고제가 추진되고 있다. 강남3구·용산 등을 중심으로 전세를 주면서 형식상 주소만 옮기는 편법을 막기 위해 미신고 시 최대 300만원 과태료를 부과하는 등 제재 수위가 높아지는 추세다.",
+      "articleCount": 1,
       "relatedArticles": [
         {
           "source": "헤럴드경제(부동산)",
-          "title": "[단독] ‘동탄·과천·안양도 20억 찍더니’ 경기 고가주택 1년 새 5만→10만채 [부동산360]",
-          "url": "https://biz.heraldcorp.com/article/10897300"
-        },
-        {
-          "source": "헤럴드경제(부동산)",
-          "title": "[단독] 안양·광명까지 오르더니, 경기 주택 재산세 2.14조 ‘역대급’ [부동산360]",
-          "url": "https://biz.heraldcorp.com/article/10897276"
+          "title": "전세 놓고 주소만 옮겼다간 과태료…강남3구·용산 실거주 ‘신고제’ 본격 추진 [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10898220"
         }
       ]
     }

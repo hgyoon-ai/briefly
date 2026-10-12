@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-10-06",
+    "to": "2026-10-12"
+  },
+  "kpis": {
+    "collected": 10,
+    "deduped": 10,
+    "uniqueTopics": 6
+  },
+  "topTopics": [
+    {
+      "name": "MarketInfra",
+      "count": 9
+    },
+    {
+      "name": "Policy",
+      "count": 7
+    },
+    {
+      "name": "Fintech",
+      "count": 3
+    },
+    {
+      "name": "Security",
+      "count": 1
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-06",
+      "dayOfWeek": "Tue",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-10-06",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-06",
+      "dayOfWeek": "Tue",
+      "topic": "Fintech",
+      "count": 0
+    },
+    {
+      "date": "2026-10-06",
+      "dayOfWeek": "Tue",
+      "topic": "Security",
+      "count": 0
+    },
+    {
+      "date": "2026-10-07",
+      "dayOfWeek": "Wed",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-10-07",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-10-07",
+      "dayOfWeek": "Wed",
+      "topic": "Fintech",
+      "count": 0
+    },
+    {
+      "date": "2026-10-07",
+      "dayOfWeek": "Wed",
+      "topic": "Security",
+      "count": 0
+    },
+    {
+      "date": "2026-10-08",
+      "dayOfWeek": "Thu",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-10-08",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-08",
+      "dayOfWeek": "Thu",
+      "topic": "Fintech",
+      "count": 1
+    },
+    {
+      "date": "2026-10-08",
+      "dayOfWeek": "Thu",
+      "topic": "Security",
+      "count": 0
+    },
+    {
+      "date": "2026-10-09",
+      "dayOfWeek": "Fri",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-10-09",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-09",
+      "dayOfWeek": "Fri",
+      "topic": "Fintech",
+      "count": 0
+    },
+    {
+      "date": "2026-10-09",
+      "dayOfWeek": "Fri",
+      "topic": "Security",
+      "count": 0
+    },
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "Fintech",
+      "count": 1
+    },
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "Security",
+      "count": 0
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Fintech",
+      "count": 0
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Security",
+      "count": 1
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Fintech",
+      "count": 1
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Security",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "10년 묵은 중고 유조선이 신조선보다 비싸진 해운·선박 자산 시장 왜곡",
+      "summary": "유가·물동량 회복과 선박 공급 부족이 겹치며 10년 된 중고 유조선 가격이 신조선가를 웃도는 역전 현상이 나타났다. 강화되는 환경 규제, 폐선·개조 비용 부담, 장기 고운임 기대가 맞물려 해운·조선 관련 자산가치와 금융·리스 구조 전반의 재평가가 진행 중이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "상식 붕괴, 유조선 시장 ‘10년 중고’가 더 비싸다?",
+          "url": "https://www.mk.co.kr/news/stock/12173301"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "방산업계 AI 도입 ‘속도조절론’ 부상…외주·하청 중심 투자 구조 변화",
+      "summary": "미국 방산기업들이 무기체계·운영 효율화를 위해 AI 도입을 확대하면서도 안전·규제 리스크를 이유로 속도조절론이 커지고 있다. 록히드마틴 등 대형 방산사는 AI 개발을 스타트업·빅테크에 외주하는 구조를 강화하고 있어, 관련 밸류체인과 방산·AI 섹터 투자 프레임이 재편되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "록히드마틴도 AI 하청으로 … ‘속도조절론’ 중심에 선 AI 방산 미래는[맥킨지·매경 산업분석]",
+          "url": "https://www.mk.co.kr/news/business/12172374"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "연준 추가 금리인상 종료 시그널 가능성…글로벌 채권·주식 리프라이싱",
+      "summary": "샌프란시스코 연은 총재가 추가 금리인상이 필요 없을 수 있다고 언급하면서 장기금리가 소폭 하락하고, 시장은 향후 인하 시점과 폭을 다시 가격에 반영하기 시작했다. 미 연준의 스탠스 변화 가능성은 달러 강세 완화, 신흥국 자본 흐름, 주식·채권 밸류에이션 전반에 단계적 영향을 줄 수 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“추가 금리인상 필요없을 수도” 연준위원 첫 발언, 파장은",
+          "url": "https://www.mk.co.kr/news/stock/12169906"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "AI 반도체 슈퍼사이클 기대 속 SK하이닉스 실적 상향 랠리",
+      "summary": "메리츠증권 등 국내 증권가는 HBM 수요와 메모리 업황 개선을 근거로 SK하이닉스 목표주가를 320만원까지 상향하며 대형주 상승 여력을 제시하고 있다. 상반기 기준 수십조원대 영업이익 전망이 제시되는 등 AI 반도체를 축으로 한 이익 모멘텀에 대한 기대가 계속 확대되는 국면이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "하이닉스 목표가 320만원 등장…“상반기 영업익 80조 간다” [오늘 나온 보고서]",
+          "url": "https://www.mk.co.kr/news/stock/12173270"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "SHIFTING",
+      "title": "부진한 코스피, 4분기 반등 여부가 관건인 한국 증시 디커플링",
+      "summary": "연초 60% 급등했던 코스피가 3분기 들어 18% 급락해 미국·일본 대비 크게 부진한 흐름을 보이고 있다. 중국 경기 둔화, 반도체·수출 경기 불확실성, 외국인 수급 약화 등이 복합적으로 작용하는 가운데 4분기 실적·정책 모멘텀에 따라 글로벌 주식시장과의 디커플링이 완화될지 주목된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“60% 폭등하더니 18% 급락”…롤러코스터 코스피, 4분기에는?",
+          "url": "https://www.mk.co.kr/news/stock/12172844"
+        }
+      ]
+    }
+  ]
+}
