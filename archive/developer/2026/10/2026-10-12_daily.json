@@ -1,0 +1,616 @@
+{
+  "date": "2026-10-12",
+  "kpis": {
+    "clusters": 20,
+    "sources": 2,
+    "new": 16
+  },
+  "clusters": [
+    {
+      "id": "5822ba7eca567d43c096693a422cf3abb2baac37",
+      "name": "3rd Yandex Cloud Data Center Was Hit",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 1129.8,
+      "oneLiner": "야ндекс 클라우드의 3번째 데이터센터에 타격이 있었다는 보고",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "549p · 667c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50040547"
+        },
+        {
+          "label": "Source",
+          "url": "https://status.yandex.cloud/en/incidents/2136"
+        }
+      ],
+      "tags": [
+        "infra",
+        "data"
+      ]
+    },
+    {
+      "id": "0fe702bcd45a143bb4c38b832c9cf1fb8a09fd40",
+      "name": "Bot traffic from Yandex",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 636.6,
+      "oneLiner": "야ндекс에서 발생한 봇 트래픽 현황을 다루는 토론",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "585p · 238c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50041619"
+        },
+        {
+          "label": "Source",
+          "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "2b2cb50493eb1473a6d24c7bed434ad10f23649e",
+      "name": "Terence Tao: Math 2.0 [pdf]",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 625.2,
+      "oneLiner": "테렌스 타오의 Math 2.0 강의 슬라이드 PDF 공유",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "310p · 366c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50043026"
+        },
+        {
+          "label": "Source",
+          "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "01d741351a733b53c72ececa20215c781050cda0",
+      "name": "openai/math",
+      "section": "trending",
+      "status": "ONGOING",
+      "score": 594.96,
+      "oneLiner": "오픈 소스 개발 도구/프로젝트입니다.",
+      "whyNow": "업데이트가 유지되며 관심이 꾸준히 쌓이는 흐름입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "14,085"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "1,578"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-12"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/openai/math"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "72df502763c96a4aff32d20301c8236a59e273f5",
+      "name": "IRCv3",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 562.2,
+      "oneLiner": "IRCv3 표준과 관련 자료를 정리한 사이트 소개",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "347p · 295c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50041540"
+        },
+        {
+          "label": "Source",
+          "url": "https://ircv3.net/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "529c3483715412bde460fcc1f0dd04f9ee24afe8",
+      "name": "The gap in shared understanding of LLM capability is widening",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 562.2,
+      "oneLiner": "LLM 능력에 대한 공통 이해의 간극이 벌어지고 있다는 글",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "223p · 357c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50047422"
+        },
+        {
+          "label": "Source",
+          "url": "https://twitter.com/karpathy/status/2109361546505966046"
+        }
+      ],
+      "tags": [
+        "editor"
+      ]
+    },
+    {
+      "id": "5388cb96cee1f3128e075f46d0e9b4e43f3c267b",
+      "name": "Nitter: Update Oct 10th seeking funding and legal help",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 517.8,
+      "oneLiner": "Nitter가 자금 지원과 법률 지원을 요청하는 업데이트",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "417p · 223c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50041682"
+        },
+        {
+          "label": "Source",
+          "url": "https://nitter.net"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "b18d9f563f60b29855266ebe10685a0025dfae1d",
+      "name": "Documents add to evidence in climate deception case against ExxonMobil",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 477.6,
+      "oneLiner": "엑손모빌 기후 기만 소송에 증거를 더하는 문서 공개",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "384p · 206c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50043682"
+        },
+        {
+          "label": "Source",
+          "url": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/"
+        }
+      ],
+      "tags": [
+        "editor"
+      ]
+    },
+    {
+      "id": "a2b6964e3ef387d32e9368a5e8d48546307f91e2",
+      "name": "I paid people to try and follow my README",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 443.4,
+      "oneLiner": "유료로 사람들에게 README를 따라해보게 한 경험담",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "365p · 187c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50042219"
+        },
+        {
+          "label": "Source",
+          "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "f1bc4649a59916bdca848598fac976e9237fc7b7",
+      "name": "LineageOS 24",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 442.2,
+      "oneLiner": "LineageOS 24 관련 변경사항과 배포 소식",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "409p · 164c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50040276"
+        },
+        {
+          "label": "Source",
+          "url": "https://lineageos.org/Changelog-32/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "d74f57fe0b665ad3c2cb8c044b2bec2aaa51f5e8",
+      "name": "NYC's \"Click to Cancel\" rule is now in effect",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 403.8,
+      "oneLiner": "뉴욕시의 클릭 투 캔슬 규정 시행 소식",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "337p · 168c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50045946"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.nyc.gov/main/click-to-cancel"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "7e9011c4e96853b845f83b123286dadb9f6702dd",
+      "name": "Total Annihilation, rebuilt for modern computers",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 386.4,
+      "oneLiner": "Total Annihilation을 현대 컴퓨터에 맞춰 재구성한 프로젝트",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "350p · 147c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50045984"
+        },
+        {
+          "label": "Source",
+          "url": "https://nanolathe.gg"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "eeb68a45c8338f7fc1c71e22c0504364bdc76f6d",
+      "name": "I'm sorry, but you still have to think",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 361.2,
+      "oneLiner": "여전히 스스로 생각해야 한다는 주장과 설명",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "318p · 142c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50043689"
+        },
+        {
+          "label": "Source",
+          "url": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "8126b658a3344f69621205124d1ac986305f784f",
+      "name": "storytold/wordcraft",
+      "section": "releases",
+      "status": "ONGOING",
+      "score": 293.32,
+      "oneLiner": "순수 Rust로 구현한 오픈소스 워드프로세서 재구현 프로젝트",
+      "whyNow": "릴리즈 직후라 적용/마이그레이션 경험이 모이고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "5,968"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "1,730"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-12"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v0.5.0"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/storytold/wordcraft"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/storytold/wordcraft/releases/tag/v0.5.0"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "ac006362472a647fe175f94ce7648593cb423e3c",
+      "name": "The tilde in your PATH may not be your HOME",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 292.8,
+      "oneLiner": "PATH의 물결표시가 HOME이 아닐 수 있다는 경고성 설명",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "208p · 140c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50042425"
+        },
+        {
+          "label": "Source",
+          "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "addeb1f91e8b719584a4511ee32b9599b8f9a74e",
+      "name": "Passkeys are a trap. Do not use them",
+      "section": "trending",
+      "status": "NEW",
+      "score": 277.2,
+      "oneLiner": "패스키 사용을 경계하라는 반대 주장을 담은 글",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "224p · 119c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50048312"
+        },
+        {
+          "label": "Source",
+          "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "dce889f84db83d44d9edb8bb6a5873840a9779c5",
+      "name": "mhtsec/ARTEX",
+      "section": "trending",
+      "status": "ONGOING",
+      "score": 237.26,
+      "oneLiner": "AI 자율 침투 테스트 시스템인 ARTex 오픈소스 프로젝트",
+      "whyNow": "업데이트가 유지되며 관심이 꾸준히 쌓이는 흐름입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "3,151"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "5,561"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-12"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/mhtsec/ARTEX"
+        }
+      ],
+      "tags": [
+        "agent tooling"
+      ]
+    },
+    {
+      "id": "a57411adab5017ef2a138cf517885aafeee0572d",
+      "name": "So, You’d Like To Sell Your Print Issues Of The Onion?",
+      "section": "trending",
+      "status": "NEW",
+      "score": 182.4,
+      "oneLiner": "오니언 지면 호를 판매하는 방법을 안내하는 글",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "240p · 32c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50047055"
+        },
+        {
+          "label": "Source",
+          "url": "https://theonion.com/archivehunt/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "84317af02ede65d19a7a0d44985b9d9bbebe473e",
+      "name": "alchaincyf/huashu-art-motion",
+      "section": "releases",
+      "status": "ONGOING",
+      "score": 163.16,
+      "oneLiner": "다양한 예술 스타일과 해설 문법으로 그림을 움직이는 애니메이션 도구",
+      "whyNow": "최근 릴리즈가 나오며 실사용 공유가 빠르게 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "3,389"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "380"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-12"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v1.0.0"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/alchaincyf/huashu-art-motion"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/alchaincyf/huashu-art-motion/releases/tag/v1.0.0"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "765291a1c80d709010c63892b4573b88751408dc",
+      "name": "storytold/gridcraft",
+      "section": "releases",
+      "status": "NEW",
+      "score": 161.52,
+      "oneLiner": "순수 Rust로 만든 오픈소스 스프레드시트 GridCraft 프로젝트",
+      "whyNow": "업데이트가 트리거가 되어 레퍼런스가 모이는 구간입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,934"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "1,208"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-12"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v0.5.0"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/storytold/gridcraft"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/storytold/gridcraft/releases/tag/v0.5.0"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}
