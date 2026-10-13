@@ -1,79 +1,55 @@
 {
   "range": {
-    "from": "2026-10-06",
-    "to": "2026-10-12"
+    "from": "2026-10-07",
+    "to": "2026-10-13"
   },
   "kpis": {
-    "collected": 12,
-    "deduped": 12,
+    "collected": 9,
+    "deduped": 9,
     "uniqueTopics": 10
   },
   "topTopics": [
     {
       "name": "Tooling",
-      "count": 10
+      "count": 7
     },
     {
       "name": "Product",
-      "count": 8
+      "count": 6
     },
     {
       "name": "Models",
       "count": 5
     },
     {
-      "name": "Infra",
-      "count": 4
+      "name": "Inference",
+      "count": 3
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-10-06",
-      "dayOfWeek": "Tue",
-      "topic": "Tooling",
-      "count": 0
-    },
-    {
-      "date": "2026-10-06",
-      "dayOfWeek": "Tue",
-      "topic": "Product",
-      "count": 0
-    },
-    {
-      "date": "2026-10-06",
-      "dayOfWeek": "Tue",
-      "topic": "Models",
-      "count": 0
-    },
-    {
-      "date": "2026-10-06",
-      "dayOfWeek": "Tue",
-      "topic": "Infra",
-      "count": 0
-    },
-    {
       "date": "2026-10-07",
       "dayOfWeek": "Wed",
       "topic": "Tooling",
-      "count": 4
+      "count": 0
     },
     {
       "date": "2026-10-07",
       "dayOfWeek": "Wed",
       "topic": "Product",
-      "count": 3
+      "count": 0
     },
     {
       "date": "2026-10-07",
       "dayOfWeek": "Wed",
       "topic": "Models",
-      "count": 2
+      "count": 0
     },
     {
       "date": "2026-10-07",
       "dayOfWeek": "Wed",
-      "topic": "Infra",
-      "count": 2
+      "topic": "Inference",
+      "count": 0
     },
     {
       "date": "2026-10-08",
@@ -96,8 +72,8 @@
     {
       "date": "2026-10-08",
       "dayOfWeek": "Thu",
-      "topic": "Infra",
-      "count": 0
+      "topic": "Inference",
+      "count": 1
     },
     {
       "date": "2026-10-09",
@@ -120,7 +96,7 @@
     {
       "date": "2026-10-09",
       "dayOfWeek": "Fri",
-      "topic": "Infra",
+      "topic": "Inference",
       "count": 1
     },
     {
@@ -144,64 +120,116 @@
     {
       "date": "2026-10-10",
       "dayOfWeek": "Sat",
-      "topic": "Infra",
+      "topic": "Inference",
+      "count": 0
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Inference",
+      "count": 0
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Inference",
+      "count": 0
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Tooling",
       "count": 1
     },
     {
-      "date": "2026-10-11",
-      "dayOfWeek": "Sun",
-      "topic": "Tooling",
-      "count": 0
-    },
-    {
-      "date": "2026-10-11",
-      "dayOfWeek": "Sun",
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
       "topic": "Product",
-      "count": 0
+      "count": 1
     },
     {
-      "date": "2026-10-11",
-      "dayOfWeek": "Sun",
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
       "topic": "Models",
-      "count": 0
+      "count": 2
     },
     {
-      "date": "2026-10-11",
-      "dayOfWeek": "Sun",
-      "topic": "Infra",
-      "count": 0
-    },
-    {
-      "date": "2026-10-12",
-      "dayOfWeek": "Mon",
-      "topic": "Tooling",
-      "count": 0
-    },
-    {
-      "date": "2026-10-12",
-      "dayOfWeek": "Mon",
-      "topic": "Product",
-      "count": 0
-    },
-    {
-      "date": "2026-10-12",
-      "dayOfWeek": "Mon",
-      "topic": "Models",
-      "count": 0
-    },
-    {
-      "date": "2026-10-12",
-      "dayOfWeek": "Mon",
-      "topic": "Infra",
-      "count": 0
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Inference",
+      "count": 1
     }
   ],
   "topIssues": [
     {
-      "id": 1,
+      "id": "ai-1",
+      "status": "NEW",
+      "title": "하이브리드 LLM 디코딩 가속을 위한 ReplaySSM 등장",
+      "summary": "NVIDIA가 하이브리드 SSM+어텐션 구조에서 상태 저장 방식을 재설계한 ReplaySSM을 제안했다. Nemotron 3, Qwen3.5~3.8, Kimi-K3, GLM-5.3-Flash 등 최신 하이브리드 모델의 디코딩 병목을 줄여 추론 속도와 효율을 높이는 데 초점이 맞춰져 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding",
+          "url": "https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding/"
+        }
+      ]
+    },
+    {
+      "id": "ai-2",
+      "status": "NEW",
+      "title": "StudentSim으로 실제 학습 전 AI 튜터 품질 사전 검증",
+      "summary": "Microsoft가 학습자 행동을 시뮬레이션해 AI 튜터를 미리 시험·개선하는 StudentSim 연구를 공개했다. 체스, 글쓰기, 수학 등 다양한 과목에서 학습자-튜터 상호작용을 가상 재현해 피드백 전략과 튜터 성능을 정량적으로 분석한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Microsoft Research Blog",
+          "title": "Simulating student learning for better AI tutoring",
+          "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/"
+        }
+      ]
+    },
+    {
+      "id": "ai-3",
       "status": "ONGOING",
-      "title": "GPU 클러스터 스케줄링 최적화로 AI 인프라 효율 극대화",
-      "summary": "GPU 클러스터의 스케줄링 전략을 개선해 자원 활용도를 높이고, 비용을 절감하며, 작업 대기 시간과 처리 병목을 줄이려는 인프라 최적화 움직임이 이어지고 있습니다.",
+      "title": "GPU 클러스터 스케줄링 최적화로 비용·처리량 동시 개선",
+      "summary": "GPU 클러스터 자원 스케줄링 전략을 고도화해 작업 대기 시간을 줄이고 처리량을 높이면서 비용 절감을 도모하는 연구·실무 사례가 이어지고 있다. 대규모 학습·추론 워크로드 운영 효율이 주요 경쟁 포인트로 부상했다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -212,10 +240,10 @@
       ]
     },
     {
-      "id": 2,
+      "id": "ai-4",
       "status": "ONGOING",
-      "title": "보안 업계에서 AI 기반 위협 조사·대응 자동화 가속",
-      "summary": "Sophos는 OpenAI Daybreak 도입으로 위협 조사 시간을 96% 단축하고 MDR 사례 절반 이상을 자동화하는 등, 보안 운영에 AI를 깊이 통합해 효율성과 대응 속도를 크게 높이고 있습니다.",
+      "title": "보안 운영에 특화된 AI 도입으로 위협 조사 자동화 가속",
+      "summary": "Sophos는 OpenAI Daybreak를 도입해 위협 조사 시간을 96% 단축하고 MDR 사례의 52%를 자동화했다. 인간 분석가의 감독을 유지하면서도 사건 triage와 조사 워크플로 상당 부분을 AI로 이관하는 방향이 뚜렷해지고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -226,54 +254,16 @@
       ]
     },
     {
-      "id": 3,
+      "id": "ai-5",
       "status": "ONGOING",
-      "title": "엔터프라이즈 업무 전반의 AI 자동화·표준화 확산",
-      "summary": "Asana와 Oracle 사례에서 보듯이, 기업들은 GPT 계열 모델을 브라우저 에이전트와 워크플로에 통합해 테스트·운영·채용 등 다양한 업무를 수십 배 비용 절감·속도 향상과 함께 자동화하고 표준화하고 있습니다.",
-      "articleCount": 3,
+      "title": "기업용 브라우저 에이전트 테스트에 LLM 도입, 비용·지연 대폭 절감",
+      "summary": "Asana는 브라우저 기반 에이전트 테스트에 GPT-6.1 Sol 등 GPT-6 계열 모델을 적용해 모델 운영 비용을 76배, 지연 시간을 5배 수준으로 개선했다. 프런트엔드·워크플로 테스트 영역에서 LLM 활용이 표준화 단계로 진입하는 흐름을 보여준다.",
+      "articleCount": 1,
       "relatedArticles": [
         {
           "source": "OpenAI Blog",
           "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
           "url": "https://openai.com/index/asana-browser-agent"
-        },
-        {
-          "source": "OpenAI Blog",
-          "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-          "url": "https://openai.com/index/oracle"
-        },
-        {
-          "source": "OpenAI Blog",
-          "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-          "url": "https://openai.com/index/pollo-ai"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "status": "ONGOING",
-      "title": "에이전트 기반 데이터 분석과 신뢰성 향상 연구",
-      "summary": "NVIDIA의 KDD Cup 경험을 바탕으로, 데이터 분석 에이전트의 하네스를 단순화해 복잡성을 줄이고 신뢰성과 일관성을 높이려는 연구와 도구 개발이 진행되고 있습니다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "NVIDIA Developer Blog",
-          "title": "Building Reliable Data Analytics Agents: Lessons from the KDD Cup",
-          "url": "https://developer.nvidia.com/blog/building-reliable-data-analytics-agents-lessons-from-the-kdd-cup/"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "status": "ONGOING",
-      "title": "프런티어 AI를 활용한 로보틱스 시뮬레이션 자산 제작 표준화",
-      "summary": "NVIDIA는 SimReady 자산 제작을 위한 5단계 워크플로를 제시하며, 프런티어 AI 모델을 이용해 지오메트리 변환, 재질·충돌 설정, 검증까지 포함하는 로보틱스 시뮬레이션 자산 제작 표준을 정립하고 있습니다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "NVIDIA Developer Blog",
-          "title": "5 Steps to Create SimReady Assets for Robotics with Frontier AI Models",
-          "url": "https://developer.nvidia.com/blog/5-steps-to-create-simready-assets-for-robotics-with-frontier-ai-models/"
         }
       ]
     }

@@ -1,0 +1,276 @@
+{
+  "range": {
+    "from": "2026-10-07",
+    "to": "2026-10-13"
+  },
+  "kpis": {
+    "collected": 10,
+    "deduped": 10,
+    "uniqueTopics": 6
+  },
+  "topTopics": [
+    {
+      "name": "MarketInfra",
+      "count": 9
+    },
+    {
+      "name": "Policy",
+      "count": 7
+    },
+    {
+      "name": "Fintech",
+      "count": 3
+    },
+    {
+      "name": "Compliance",
+      "count": 2
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-07",
+      "dayOfWeek": "Wed",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-10-07",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-07",
+      "dayOfWeek": "Wed",
+      "topic": "Fintech",
+      "count": 0
+    },
+    {
+      "date": "2026-10-07",
+      "dayOfWeek": "Wed",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-10-08",
+      "dayOfWeek": "Thu",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-10-08",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-08",
+      "dayOfWeek": "Thu",
+      "topic": "Fintech",
+      "count": 1
+    },
+    {
+      "date": "2026-10-08",
+      "dayOfWeek": "Thu",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-10-09",
+      "dayOfWeek": "Fri",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-10-09",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-09",
+      "dayOfWeek": "Fri",
+      "topic": "Fintech",
+      "count": 0
+    },
+    {
+      "date": "2026-10-09",
+      "dayOfWeek": "Fri",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "Fintech",
+      "count": 1
+    },
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Fintech",
+      "count": 0
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Compliance",
+      "count": 1
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Fintech",
+      "count": 1
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Fintech",
+      "count": 0
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Compliance",
+      "count": 1
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "코스피 급락과 변동성 확대로 드러난 한국 증시 체력 약화",
+      "summary": "코스피가 6000선 붕괴와 함께 장중 6% 이상 급락하고, 연초 급등 후 3분기에는 주요국 대비 가장 큰 낙폭(-18%)을 기록하면서 한국 증시의 구조적 취약성과 변동성 리스크가 부각되고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[속보] 코스피, 6000선도 무너졌다…삼전·하이닉스 동반 급락",
+          "url": "https://www.mk.co.kr/news/stock/12174245"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "“60% 폭등하더니 18% 급락”…롤러코스터 코스피, 4분기에는?",
+          "url": "https://www.mk.co.kr/news/stock/12172844"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "한국은행 직원 주식거래 급증과 금융당국 신뢰도 훼손 우려",
+      "summary": "한국은행 직원들의 주식 거래 규모가 상반기 53배, 특히 금융시장국은 24배 급증하면서 내부정보 이용 가능성과 이해상충, 도덕적 해이 논란이 커지고 있어 통화·금융정책에 대한 시장 신뢰 저하 우려가 제기된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“이러려고 한은 들어갔나”…시장 경고는 뒷전, 직원들 주식거래 53배 급증 왜?",
+          "url": "https://www.mk.co.kr/news/economy/12174120"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "고금리 장기화 속에서도 기업 이익이 주도하는 글로벌 증시",
+      "summary": "미국 국채금리가 5%대에 머무는 고금리 환경에서도 기업 이익 개선이 주가를 지지하며, 1990년대 투기적 버블과 달리 펀더멘털 중심의 장세가 전개되고 있다는 분석이 강화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "‘고금리’를 극복하는 이익의 힘 … 현재가 90년대 버블과 다른 이유",
+          "url": "https://www.mk.co.kr/news/stock/12172344"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "SK하이닉스 초고평가 전망과 반도체 슈퍼사이클 기대감",
+      "summary": "메리츠증권이 SK하이닉스 목표주가를 320만원으로 상향하고 상반기 영업이익 80조원을 제시하는 등 실적 초호황과 주가 랠리 재개를 예상하면서 메모리 반도체 슈퍼사이클 기대가 다시 부각되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "하이닉스 목표가 320만원 등장…“상반기 영업익 80조 간다” [오늘 나온 보고서]",
+          "url": "https://www.mk.co.kr/news/stock/12173270"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "SHIFTING",
+      "title": "개인투자자 레버리지 ETF 투자 트렌드의 구조적 변화",
+      "summary": "정방향 레버리지 ETF에서 개인투자자들의 비중이 삼성전자·하이닉스 단일 종목 중심에서 방산·반도체 테마 및 시장지수형 상품으로 이동하며, 개별 종목 쏠림 위험을 줄이고 지수·테마 중심 전략으로 재편되는 조짐이 나타나고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "삼전닉스 대신 방산·반도체 테마형으로…변화하는 레버리지 ETF 판도",
+          "url": "https://www.mk.co.kr/news/stock/12172657"
+        }
+      ]
+    }
+  ]
+}

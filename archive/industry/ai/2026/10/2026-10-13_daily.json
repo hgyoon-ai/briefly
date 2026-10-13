@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-13",
+  "highlights": {
+    "bullets": [
+      "핵심: ReplaySSM은 하이브리드 SSM+어텐션 구조의 상태 저장 방식을 재설계해 디코딩 속도를 높인다.",
+      "핵심: StudentSim은 학습자 행동을 시뮬레이션해 AI 튜터의 상호작용과 피드백을 평가한다."
+    ],
+    "topTopics": [
+      "Models",
+      "Research",
+      "Inference",
+      "Infra"
+    ],
+    "stats": {
+      "collected": 2,
+      "deduped": 2
+    }
+  },
+  "cards": [
+    {
+      "id": "ai_0001",
+      "tab": "ai",
+      "publishedAt": "2026-10-13T01:00:54+09:00",
+      "source": "NVIDIA Developer Blog",
+      "title": "ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding",
+      "summary": [
+        "ReplaySSM은 하이브리드 SSM+어텐션 구조에서 상태 저장 방식을 재설계해 디코딩 속도를 높이는 기법을 제안한다.",
+        "NVIDIA Nemotron 3, Qwen3.5~3.8, Kimi-K3, GLM-5.3-Flash 등 최신 하이브리드 모델들의 추론 효율을 개선하는 데 초점을 둔다.",
+        "새로운 상태 저장·재사용 전략을 통해 메모리 접근 패턴을 최적화하고 긴 시퀀스 처리 시 지연 시간을 크게 줄이는 것이 핵심이다."
+      ],
+      "whyItMatters": "대형 하이브리드 모델의 디코딩 병목인 상태 저장·로드 오버헤드를 줄여, 같은 하드웨어에서 더 빠르고 저렴한 추론을 가능하게 하기 때문이다.",
+      "topics": [
+        "Inference",
+        "Models",
+        "Infra",
+        "Research"
+      ],
+      "status": "NEW",
+      "hash": "3ea8663ef4cdebc3be7013e0296bc41280639726f10856ab7c0056039ed2af87",
+      "url": "https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding/"
+    },
+    {
+      "id": "ai_0002",
+      "tab": "ai",
+      "publishedAt": "2026-10-13T01:00:00+09:00",
+      "source": "Microsoft Research Blog",
+      "title": "Simulating student learning for better AI tutoring",
+      "summary": [
+        "StudentSim은 학습자 행동을 모델링해 AI 튜터를 실제 학습자 대상 테스트 전에 평가하고 개선하는 연구 시스템입니다.",
+        "체스, 글쓰기, 수학 등 다양한 과목에서 학습자-튜터 상호작용을 시뮬레이션하여 튜터의 성능과 피드백을 분석합니다.",
+        "실사용자 실험 전 문제점을 조기에 발견하고 교육 효과와 안전성을 높이는 것을 목표로 합니다."
+      ],
+      "whyItMatters": "실제 학습자 없이도 튜터의 약점과 상호작용 문제를 조기에 찾아 개발·배포 리스크를 줄일 수 있기 때문입니다.",
+      "topics": [
+        "Research",
+        "Models",
+        "Tooling",
+        "Product"
+      ],
+      "status": "NEW",
+      "hash": "e3ff286dbca97504a4835ad2b964a66ceaf0bc6cf30376b01cbf3d50b9f4ee0e",
+      "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/"
+    }
+  ]
+}

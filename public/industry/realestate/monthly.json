@@ -1,70 +1,70 @@
 {
   "range": {
-    "from": "2026-09-13",
-    "to": "2026-10-12"
+    "from": "2026-09-14",
+    "to": "2026-10-13"
   },
   "kpis": {
-    "collected": 120,
-    "deduped": 120,
+    "collected": 121,
+    "deduped": 121,
     "uniqueTopics": 10,
     "marketShare": {
-      "Market": 33,
+      "Market": 32,
       "Supply": 24,
-      "Policy": 16,
-      "Rental": 14,
-      "UrbanRenewal": 14,
+      "Policy": 18,
+      "UrbanRenewal": 13,
+      "Rental": 13,
       "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (09/13-09/19)",
+      "week": "Week 1 (09/14-09/20)",
       "topicCounts": {
-        "Market": 24,
+        "Market": 23,
         "Supply": 12,
-        "Policy": 10,
-        "Rental": 9,
-        "UrbanRenewal": 10
+        "Policy": 11,
+        "UrbanRenewal": 8,
+        "Rental": 8
       }
     },
     {
-      "week": "Week 2 (09/20-09/26)",
-      "topicCounts": {
-        "Market": 22,
-        "Supply": 17,
-        "Policy": 13,
-        "Rental": 11,
-        "UrbanRenewal": 9
-      }
-    },
-    {
-      "week": "Week 3 (09/27-10/03)",
+      "week": "Week 2 (09/21-09/27)",
       "topicCounts": {
         "Market": 20,
         "Supply": 17,
-        "Policy": 8,
-        "Rental": 6,
-        "UrbanRenewal": 11
+        "Policy": 12,
+        "UrbanRenewal": 7,
+        "Rental": 13
       }
     },
     {
-      "week": "Week 4 (10/04-10/10)",
+      "week": "Week 3 (09/28-10/04)",
       "topicCounts": {
-        "Market": 19,
+        "Market": 15,
         "Supply": 13,
         "Policy": 8,
-        "Rental": 8,
-        "UrbanRenewal": 6
+        "UrbanRenewal": 10,
+        "Rental": 3
       }
     },
     {
-      "week": "Week 5 (10/11-10/12)",
+      "week": "Week 4 (10/05-10/11)",
+      "topicCounts": {
+        "Market": 15,
+        "Supply": 12,
+        "Policy": 9,
+        "UrbanRenewal": 4,
+        "Rental": 8
+      }
+    },
+    {
+      "week": "Week 5 (10/12-10/13)",
       "topicCounts": {
         "Market": 4,
-        "Supply": 5,
-        "Policy": 3,
-        "Rental": 1,
-        "UrbanRenewal": 2
+        "Supply": 3,
+        "Policy": 4,
+        "UrbanRenewal": 1,
+        "Rental": 1
       }
     }
   ],
@@ -72,75 +72,75 @@
     {
       "id": 1,
       "status": "ONGOING",
-      "title": "장기전세 만기 갈등, 서울 전역으로 확산 조짐",
-      "summary": "강동구에서 촉발된 장기전세 만기 갈등이 은평·마포·중랑·구로·양천 등으로 번질 가능성이 커지며, 2030~2031년 사이 5000가구 이상이 한꺼번에 만기를 맞아 장기전세 제도 전반의 재설계와 세입자 대책이 핵심 이슈로 부상했다.",
+      "title": "다주택자 감소와 보유구조 변화",
+      "summary": "전국 집합건물 기준 2주택 이상 다주택자 비중이 8년 만에 최저 수준인 15%대까지 떨어졌다. 다소유지수와 2채 보유 지수가 모두 하락하며 다주택 규제·세 부담 강화와 금리 환경 속에서 주택 보유 구조가 1주택 중심으로 재편되는 흐름이 이어지고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "매일경제(부동산)",
-          "title": "[단독] “20년 살았는데 내집 해줘”…장기전세 갈등, 은평·마포·구로 차례온다",
-          "url": "https://www.mk.co.kr/news/economy/12173277"
+          "source": "헤럴드경제(부동산)",
+          "title": "2채 이상 다주택자 비중 8년만 최저",
+          "url": "https://biz.heraldcorp.com/article/10900837"
         }
       ]
     },
     {
       "id": 2,
       "status": "ONGOING",
-      "title": "서울 아파트 가격 고공행진과 중소형 평형 매매가 급등",
-      "summary": "서울 59㎡(국평급) 아파트 평균 매매가격이 11억5000만원까지 뛰면서 한국부동산원 통계 기준 역대 최장 상승 흐름을 이어가고 있다. 실수요 주력 평형의 가격 급등이 전반적 시장 과열과 향후 추가 상승 기대·불안 심리를 동시에 키우고 있다.",
+      "title": "서울 정비사업 연내 대규모 착공 드라이브",
+      "summary": "서울시가 연내 11개 정비사업장에서 1.6만호 규모의 주택을 착공하겠다고 밝히며 사업 일정 관리에 직접 나섰다. 오세훈 시장은 적기 착공을 통해 정비사업 지연으로 훼손된 시민·시장 신뢰를 회복하고 공급 불확실성을 줄이겠다는 방침이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "헤럴드경제(부동산)",
-          "title": "‘국평? 꿈도 못꿀 판’ 서울 59㎡ 평균값 11.5억…무섭게 올랐다[부동산360]",
-          "url": "https://biz.heraldcorp.com/article/10898629"
+          "title": "서울시, 연내 11개 정비사업장 1.6만호 착공 총력",
+          "url": "https://biz.heraldcorp.com/article/10900836"
         }
       ]
     },
     {
       "id": 3,
-      "status": "SHIFTING",
-      "title": "정부·서울시, 용적률 상향·그린벨트 완화 등 초강력 공급 드라이브",
-      "summary": "정부가 용적률을 높이고 서울시가 그린벨트 일부 해제를 검토하는 등 규제 완화를 통해 도심 공급 확대에 속도를 내고 있다. 이는 집값 안정 의지를 반영하는 동시에 환경·난개발 우려와의 충돌 가능성을 키우는 정책 변곡점으로 평가된다.",
-      "articleCount": 2,
+      "status": "ONGOING",
+      "title": "‘지금 집 사면 손해’ 발언과 서민 주택금융 축소 논란",
+      "summary": "이성훈 LH 사장이 서민 대상 주택 대출 축소 필요성을 주장하고 국정감사장에서 ‘지금 집 사면 손해’라고 언급하면서 시장 심리에 파장이 확산되고 있다. 공공기관 수장의 발언이 향후 주택 구입 수요와 정책 방향에 영향을 줄 수 있다는 점에서 논쟁이 이어지는 상황이다.",
+      "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "한국경제(부동산)",
-          "title": "\"공급 속도내자\"…정부 '용적률' 높이고, 서울시는 '그린벨트' 푼다",
-          "url": "https://www.hankyung.com/article/2026100663691"
-        },
-        {
-          "source": "한국경제(부동산)",
-          "title": "[집코노미2026 다시보기 영상] \"정부, 공급 확대에 최우선…집값 잡을 것\"",
-          "url": "https://www.hankyung.com/article/202610114186i"
+          "source": "매일경제(부동산)",
+          "title": "“서민 대출 줄여라” 소신 밝히더니…이성훈 LH 사장 “지금 집 사면 손해”",
+          "url": "https://www.mk.co.kr/news/realestate/12174288"
         }
       ]
     },
     {
       "id": 4,
-      "status": "ONGOING",
-      "title": "서울 핵심지, 조합 없는 공공직접 재개발 확대",
-      "summary": "국토부와 LH가 조합 설립 없이 도심 공공주택 복합사업을 직접 시행하면서 서울 핵심 입지 재개발 패러다임이 바뀌고 있다. 사업 속도와 공급 확대 기대가 커지는 한편, 조합원 권리·수익 구조와 공공 주도의 사업성에 대한 시장 검증이 남은 상황이다.",
+      "status": "SHIFTING",
+      "title": "서울 아파트값 ‘핵심지 둔화·외곽 강세’ 양극화 심화",
+      "summary": "서울 아파트 시장에서 한강변·도심 핵심지는 거래와 가격이 둔화되는 반면, 노도강 등 외곽 중저가 지역은 상대적으로 거래가 활발한 양극화 양상이 뚜렷해지고 있다. 동일 도시 내에서도 수요·체감 경기의 온도차가 커지며 단일한 시장 흐름으로 보기 어려운 국면에 접어들고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(부동산)",
-          "title": "서울 핵심지에 조합없이 LH가 직접 재개발 … 정부 믿고 들어가볼까 [도공복1편]",
-          "url": "https://www.mk.co.kr/news/realestate/12173085"
+          "title": "“지금 서울 아파트값, 평탄화예요? 양극화예요?”…부동산 온도차 커져",
+          "url": "https://www.mk.co.kr/news/realestate/12174206"
         }
       ]
     },
     {
       "id": 5,
       "status": "ONGOING",
-      "title": "분양가상한제 지역 실거주 신고제 추진과 임대·거주의무 강화",
-      "summary": "분양가상한제 적용 지역에서 실거주 의무를 유예할 경우 지자체에 반드시 신고하도록 하는 신고제가 추진되고 있다. 강남3구·용산 등을 중심으로 전세를 주면서 형식상 주소만 옮기는 편법을 막기 위해 미신고 시 최대 300만원 과태료를 부과하는 등 제재 수위가 높아지는 추세다.",
-      "articleCount": 1,
+      "title": "LH 부채 급증과 공공주택 공급 차질 우려",
+      "summary": "LH 부채가 2030년까지 약 200조원 늘어날 전망이 제기되면서 공공주택 공급 차질과 사업 지연 가능성이 부각되고 있다. 재무 건전성 악화가 토지 매입·공공임대·신규 사업 추진 속도에 제약을 줄 수 있어 중장기 주거복지 정책의 실현 가능성에 의문이 제기되는 상황이다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
-          "source": "헤럴드경제(부동산)",
-          "title": "전세 놓고 주소만 옮겼다간 과태료…강남3구·용산 실거주 ‘신고제’ 본격 추진 [부동산360]",
-          "url": "https://biz.heraldcorp.com/article/10898220"
+          "source": "한국경제(부동산)",
+          "title": "LH 부채 2030년까지 200조 증가…\"공공주택 차질 우려\"",
+          "url": "https://www.hankyung.com/article/2026101268491"
+        },
+        {
+          "source": "매일경제(부동산)",
+          "title": "“서민 대출 줄여라” 소신 밝히더니…이성훈 LH 사장 “지금 집 사면 손해”",
+          "url": "https://www.mk.co.kr/news/realestate/12174288"
         }
       ]
     }

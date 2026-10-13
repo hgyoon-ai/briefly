@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-10-07",
+    "to": "2026-10-13"
+  },
+  "kpis": {
+    "collected": 10,
+    "deduped": 10,
+    "uniqueTopics": 6
+  },
+  "topTopics": [
+    {
+      "name": "Competition",
+      "count": 9
+    },
+    {
+      "name": "Roadmap",
+      "count": 8
+    },
+    {
+      "name": "Demand",
+      "count": 7
+    },
+    {
+      "name": "Investment",
+      "count": 6
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-07",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-07",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-07",
+      "dayOfWeek": "Wed",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-07",
+      "dayOfWeek": "Wed",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-10-08",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-08",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-08",
+      "dayOfWeek": "Thu",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-08",
+      "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-10-09",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-10-09",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-10-09",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 2
+    },
+    {
+      "date": "2026-10-09",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 3
+    },
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 3
+    },
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "Demand",
+      "count": 2
+    },
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Demand",
+      "count": 2
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 2
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "포드 F-150 라이트닝 중고차 폭락: EV 잔존가치와 수익성 리스크 부각",
+      "summary": "포드 F-150 라이트닝이 중고 시장에서 신차 대비 약 50% 수준까지 급락한 가격에 빠르게 거래되면서, 전기 픽업의 잔존가치 불안과 함께 포드의 수익성·브랜드 신뢰·투자 매력도에 대한 우려가 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Ford’s electric pickup is suddenly selling like hotcakes at 50% off used",
+          "url": "https://electrek.co/2026/10/12/fords-electric-pickup-selling-like-hotcakes-50-off-used/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "시트로엥, 1만5천 유로대 레트로 EV 2CV 콘셉트로 초저가 유럽 전기차 공략",
+      "summary": "시트로엥이 2028년 출시 목표, 약 1만5천 유로 가격대의 전기 2CV 콘셉트를 공개하며 도심·엔트리급 시장을 겨냥한 초저가 레트로 EV 전략을 본격화하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "The legendary Citroen 2CV is back as a €15k electric concept for 2028",
+          "url": "https://electrek.co/2026/10/11/the-legendary-citroen-2cv-is-back-as-a-e15k-electric-concept-for-2028/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "BYD, 상용 전기트럭 15만 대 생산 돌파로 글로벌 전동화 트럭 경쟁 주도",
+      "summary": "BYD가 장쑤 화이안 공장에서 15만 번째 상용 신에너지차를 생산하며 800마력급 Q3 전기 세미트럭을 공개, 전기 상용차 대량생산 능력과 제품 경쟁력을 앞세워 글로벌 전동화 트럭 시장에서 우위를 확대하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "BYD builds 150,000th commercial NEV – an 800 hp Q3 electric semi truck",
+          "url": "https://electrek.co/2026/10/10/byd-builds-150000th-commercial-nev-an-800-hp-q3-electric-semi-truck/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "테슬라, 애리조나 대규모 태양광·배터리 프로젝트로 에너지 사업 축 키운다",
+      "summary": "테슬라는 애리조나 사막에 450MW급 태양광 발전과 대용량 배터리 시스템을 조합한 프로젝트를 추진 중이며, 예상 생산량의 약 90%를 이미 장기 전력 판매 계약으로 확보해 EV 기업에서 통합 청정에너지 사업자로의 전환을 가속하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla’s next big clean energy source is rising in the Arizona desert",
+          "url": "https://electrek.co/2026/10/09/teslas-next-big-clean-energy-source-is-rising-in-the-arizona-desert/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "BMW iX4, 428마일 주행거리로 기술 선도…고가 전략 한계는 과제",
+      "summary": "BMW가 최대 428마일 주행거리의 전기 쿠페-SUV iX4를 6만6천 달러 이상 가격대로 공개하며 프리미엄 장거리 EV 세그먼트에서 기술 이미지를 강화하는 한편, 가격 접근성 부족이 수요 확대의 제약 요인으로 지목되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "BMW’s new iX4 has 428 miles of range, but it starts at north of $66,000 [Images]",
+          "url": "https://electrek.co/2026/10/08/bmws-new-ix4-428-miles-range-66000-price-tag/"
+        }
+      ]
+    }
+  ]
+}

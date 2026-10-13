@@ -1,25 +1,25 @@
 {
   "range": {
-    "from": "2026-10-06",
-    "to": "2026-10-12"
+    "from": "2026-10-07",
+    "to": "2026-10-13"
   },
   "kpis": {
-    "collected": 9,
-    "deduped": 9,
+    "collected": 7,
+    "deduped": 7,
     "uniqueTopics": 7
   },
   "topTopics": [
     {
+      "name": "Manufacturing",
+      "count": 6
+    },
+    {
       "name": "Roadmap",
-      "count": 7
+      "count": 5
     },
     {
       "name": "Competition",
-      "count": 7
-    },
-    {
-      "name": "Manufacturing",
-      "count": 5
+      "count": 4
     },
     {
       "name": "Investment",
@@ -28,51 +28,33 @@
   ],
   "topicTrend": [
     {
-      "date": "2026-10-06",
-      "dayOfWeek": "Tue",
-      "topic": "Roadmap",
-      "count": 2
-    },
-    {
-      "date": "2026-10-06",
-      "dayOfWeek": "Tue",
-      "topic": "Competition",
-      "count": 2
-    },
-    {
-      "date": "2026-10-06",
-      "dayOfWeek": "Tue",
+      "date": "2026-10-07",
+      "dayOfWeek": "Wed",
       "topic": "Manufacturing",
-      "count": 0
-    },
-    {
-      "date": "2026-10-06",
-      "dayOfWeek": "Tue",
-      "topic": "Investment",
       "count": 0
     },
     {
       "date": "2026-10-07",
       "dayOfWeek": "Wed",
       "topic": "Roadmap",
-      "count": 2
+      "count": 0
     },
     {
       "date": "2026-10-07",
       "dayOfWeek": "Wed",
       "topic": "Competition",
-      "count": 1
-    },
-    {
-      "date": "2026-10-07",
-      "dayOfWeek": "Wed",
-      "topic": "Manufacturing",
-      "count": 1
+      "count": 0
     },
     {
       "date": "2026-10-07",
       "dayOfWeek": "Wed",
       "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-10-08",
+      "dayOfWeek": "Thu",
+      "topic": "Manufacturing",
       "count": 1
     },
     {
@@ -90,14 +72,14 @@
     {
       "date": "2026-10-08",
       "dayOfWeek": "Thu",
-      "topic": "Manufacturing",
+      "topic": "Investment",
       "count": 1
     },
     {
-      "date": "2026-10-08",
-      "dayOfWeek": "Thu",
-      "topic": "Investment",
-      "count": 1
+      "date": "2026-10-09",
+      "dayOfWeek": "Fri",
+      "topic": "Manufacturing",
+      "count": 2
     },
     {
       "date": "2026-10-09",
@@ -114,13 +96,13 @@
     {
       "date": "2026-10-09",
       "dayOfWeek": "Fri",
-      "topic": "Manufacturing",
-      "count": 2
+      "topic": "Investment",
+      "count": 1
     },
     {
-      "date": "2026-10-09",
-      "dayOfWeek": "Fri",
-      "topic": "Investment",
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "Manufacturing",
       "count": 1
     },
     {
@@ -138,44 +120,44 @@
     {
       "date": "2026-10-10",
       "dayOfWeek": "Sat",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
       "topic": "Manufacturing",
       "count": 1
     },
     {
-      "date": "2026-10-10",
-      "dayOfWeek": "Sat",
-      "topic": "Investment",
-      "count": 0
-    },
-    {
-      "date": "2026-10-11",
-      "dayOfWeek": "Sun",
-      "topic": "Roadmap",
-      "count": 0
-    },
-    {
-      "date": "2026-10-11",
-      "dayOfWeek": "Sun",
-      "topic": "Competition",
-      "count": 0
-    },
-    {
-      "date": "2026-10-11",
-      "dayOfWeek": "Sun",
-      "topic": "Manufacturing",
-      "count": 0
-    },
-    {
-      "date": "2026-10-11",
-      "dayOfWeek": "Sun",
-      "topic": "Investment",
-      "count": 0
-    },
-    {
       "date": "2026-10-12",
       "dayOfWeek": "Mon",
       "topic": "Roadmap",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-10-12",
@@ -186,36 +168,68 @@
     {
       "date": "2026-10-12",
       "dayOfWeek": "Mon",
-      "topic": "Manufacturing",
+      "topic": "Investment",
       "count": 0
     },
     {
-      "date": "2026-10-12",
-      "dayOfWeek": "Mon",
-      "topic": "Investment",
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
       "count": 0
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 1
     }
   ],
   "topIssues": [
     {
       "id": 1,
-      "status": "SHIFTING",
-      "title": "GlobalFoundries, FD-SOI 기반 ‘FDX Fusion’으로 EUV 없이 물리적 AI 공정 경쟁 가속",
-      "summary": "GlobalFoundries가 스트레인드 실리콘 FD-SOI 기반 ‘FDX Fusion’으로 EUV 없이도 7nm급 성능을 목표로 하며, 유럽 내 물리적 AI(Physical AI) 반도체 생산 거점을 구축하려는 전략을 본격화하고 있습니다. 이는 미·아시아 중심이던 첨단 공정 및 AI용 파운드리 지형에 변화를 줄 가능성이 있습니다.",
+      "status": "NEW",
+      "title": "장비·소재 중심 대규모 반도체 R&D 투자 확산",
+      "summary": "Applied Materials가 50억 달러 규모 EPIC 센터를 출범하며 장비·소재 업체, 팹, 연구기관을 묶는 공동 R&D 허브 모델을 제시했다. 이는 공정 혁신의 상용화 속도를 높이고, 차세대 공정·소재에 대한 선제 투자 경쟁을 촉발하는 방향으로 반도체 생태계 구조 변화를 예고한다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "EE Times",
-          "title": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI",
-          "url": "https://www.eetimes.com/manfred-horstmann-globalfoundries-bets-on-fdx-fusion-for-physical-ai/"
+          "title": "Applied Materials Bets $5B on a New Model for Chip Innovation",
+          "url": "https://www.eetimes.com/applied-materials-bets-5b-on-a-new-model-for-chip-innovation/"
         }
       ]
     },
     {
       "id": 2,
+      "status": "ONGOING",
+      "title": "EU 사이버탄력성법(CRA)과 반도체 제조사 규제 대응",
+      "summary": "EU CRA 시행을 앞두고 반도체를 포함한 광범위한 제조업이 보안 설계·소프트웨어 업데이트·취약점 관리 의무를 준비해야 한다. 칩, 네트워킹 장비, 임베디드 소프트웨어가 모두 규제 범위에 포함되면서, 칩 설계 단계부터 보안 요구사항을 내재화하는 것이 글로벌 공급망 경쟁력의 핵심 과제로 부상하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "EU CRA Readiness: 5 Steps Manufacturers Need to Take Now",
+          "url": "https://www.eetimes.com/eu-cra-readiness-5-steps-manufacturers-need-to-take-now/"
+        }
+      ]
+    },
+    {
+      "id": 3,
       "status": "SHIFTING",
-      "title": "ADAS용 반도체, 비용·연산 수요 부담 속 모듈형 AI 아키텍처로 전환",
-      "summary": "차량용 반도체 비용 상승과 고성능 컴퓨팅 수요 증대로, 완성차·티어1 업체들이 ADAS 시스템에 모듈형 AI 아키텍처를 도입하고 있습니다. 칩·보드·소프트웨어를 모듈화해 다양한 조합을 허용함으로써, 개발 비용·재설계 부담을 줄이고 차세대 센싱·자율주행 기능 확장에 유연성을 확보하는 흐름이 강화되고 있습니다.",
+      "title": "ADAS 고도화에 따른 모듈형 AI SoC 아키텍처 전환",
+      "summary": "고급 ADAS 기능 확산과 연산 수요 급증, 반도체 비용 상승이 겹치며 자동차 업체가 모듈형 AI 아키텍처를 채택하고 있다. 기능별·성능별로 확장 가능한 모듈형 SoC와 소프트웨어 분리가 가속화되면서, 차량용 반도체는 대형 일체형 칩에서 유연한 모듈 조합 구조로 재편되는 추세다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -226,10 +240,10 @@
       ]
     },
     {
-      "id": 3,
+      "id": 4,
       "status": "NEW",
-      "title": "삼성전자 2026년 3분기 실적 가이던스, 반도체 초호황 수준 매출·이익 전망",
-      "summary": "삼성전자가 2026년 3분기 연결 매출 약 195조원, 영업이익 약 107.40조원의 가이던스를 제시하며 반도체 중심 실적 회복이 초호황 국면에 진입했음을 시사했습니다. AI 서버·고대역폭 메모리(HBM)·파운드리 수요 확대가 실적 상향의 핵심 동력으로 해석되며, 공격적 CAPEX와 선단 공정 투자 지속 여부가 후속 관전 포인트입니다.",
+      "title": "삼성전자 2026년 3분기 가이던스로 본 메모리·파운드리 수요 회복",
+      "summary": "삼성전자가 2026년 3분기 매출 195조원, 영업이익 107.40조원 수준의 가이던스를 제시하며 대규모 실적 개선을 예고했다. AI 서버와 고대역폭 메모리(HBM), 파운드리 수요가 동시 확대된 결과로 해석되며, 반도체 업황이 침체 국면을 벗어나 강한 회복 국면에 진입하고 있음을 시사한다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -240,30 +254,16 @@
       ]
     },
     {
-      "id": 4,
-      "status": "NEW",
-      "title": "Axelera ‘Europa’ 칩, 35W 전력에서 데이터센터급 추론 성능으로 엣지 AI 재편",
-      "summary": "Axelera의 Europa 칩이 35W 전력 범위에서 629 TOPS급 추론 성능을 제시하며, 엣지 장치에서 데이터센터 수준의 AI 연산을 구현하는 방향을 제시하고 있습니다. 저전력·고성능을 앞세운 전용 가속기가 보안 카메라, 산업 IoT, 로봇 등 엣지 AI 반도체 시장에서 GPU·NPU 기반 기존 생태계를 위협하는 잠재 변수로 부상하고 있습니다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "EE Times",
-          "title": "Axelera AI: Data Center Inference Performance in the Power Envelope of Embedded Systems",
-          "url": "https://www.eetimes.com/axelera-ai-data-center-inference-performance-in-the-power-envelope-of-embedded-systems/"
-        }
-      ]
-    },
-    {
       "id": 5,
-      "status": "ONGOING",
-      "title": "멀티다이·칩렛 패키징, NoC 확장으로 데이터 이동 병목 해소 경쟁 본격화",
-      "summary": "칩렛을 단순히 물리적으로 연결하는 것만으로는 멀티다이 시스템에서의 데이터 이동 병목을 해소하기 어렵다는 인식이 확산되고 있습니다. 다이 경계를 넘는 네트워크온칩(NoC) 구조 확장과 패키지 레벨 상호연결 최적화가 고대역폭·저지연 시스템 구현의 핵심 과제로 부각되며, EDA·IP 업체와 파운드리 간 협력이 강화되는 추세입니다.",
+      "status": "SHIFTING",
+      "title": "FD-SOI 기반 ‘FDX Fusion’으로 EUV 없는 물리적 AI 공정 경쟁",
+      "summary": "GlobalFoundries가 스트레인드 실리콘 FD-SOI 기반 FDX Fusion으로 EUV 없이도 7nm급 성능을 구현하겠다는 전략을 내세우며, 유럽을 중심으로 물리적 AI(센서·엣지 연산 통합)용 특화 공정 시장을 노리고 있다. 이는 최첨단 미세공정 중심 경쟁에서 전력·아날로그·RF 통합에 최적화된 특화 공정 경쟁으로 무게 중심이 일부 이동하고 있음을 보여준다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "EE Times",
-          "title": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems",
-          "url": "https://www.eetimes.com/connecting-chiplets-isnt-enough-solving-the-data-movement-challenge-in-multi-die-systems/"
+          "title": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI",
+          "url": "https://www.eetimes.com/manfred-horstmann-globalfoundries-bets-on-fdx-fusion-for-physical-ai/"
         }
       ]
     }

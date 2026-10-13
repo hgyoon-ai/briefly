@@ -1,0 +1,64 @@
+{
+  "date": "2026-10-13",
+  "highlights": {
+    "bullets": [
+      "핵심: 일론 머스크가 반(反) 전기차 정치 캠페인에 지금까지 5억 달러 이상을 지출한 것으로 보도되었다.",
+      "핵심: 포드 F-150 라이트닝 중고차가 중고시장에서 약 50% 할인된 가격에 빠르게 판매되고 있다."
+    ],
+    "topTopics": [
+      "Competition",
+      "Demand",
+      "Roadmap",
+      "Investment"
+    ],
+    "stats": {
+      "collected": 15,
+      "deduped": 15
+    }
+  },
+  "cards": [
+    {
+      "id": "ev_0001",
+      "tab": "ev",
+      "publishedAt": "2026-10-13T01:47:18+09:00",
+      "source": "Electrek",
+      "title": "No single person has spent more money to harm EVs than Tesla CEO Elon Musk",
+      "summary": [
+        "일론 머스크가 반(反) 전기차 정치 캠페인에 지금까지 5억 달러 이상, 최근 3개월에만 2억7,600만 달러를 지출한 것으로 보도되었습니다.",
+        "테슬라는 이러한 캠페인이 자사 사업에 수십억 달러 규모의 피해를 줬다고 인정하며 CEO에게 중단을 요청했으나 받아들여지지 않았습니다.",
+        "머스크는 회사의 우려에도 불구하고 반-EV 영향력 행사를 더욱 확대하고 있는 것으로 전해집니다."
+      ],
+      "whyItMatters": "테슬라 CEO의 반-EV 정치 활동이 자사 및 EV 산업 전반의 수요와 정책 환경에 구조적 악영향을 줄 수 있어, 기업 거버넌스 리스크와 산업 성장 전망에 중대한 변수로 작용합니다.",
+      "topics": [
+        "Demand",
+        "Policy",
+        "Competition",
+        "Investment"
+      ],
+      "status": "ONGOING",
+      "hash": "ff423c71c1813cf91a74d33761d442d23f484e0826599b985fc8ffd48c94502b",
+      "url": "https://electrek.co/2026/10/12/no-single-person-has-spent-more-money-to-harm-evs-than-tesla-ceo-elon-musk/"
+    },
+    {
+      "id": "ev_0002",
+      "tab": "ev",
+      "publishedAt": "2026-10-13T06:22:58+09:00",
+      "source": "Electrek",
+      "title": "Ford’s electric pickup is suddenly selling like hotcakes at 50% off used",
+      "summary": [
+        "포드 F-150 라이트닝 중고차가 중고시장에서 갑자기 큰 인기를 끌며 약 50% 할인 수준으로 빠르게 판매되고 있다.",
+        "심한 가격 하락은 차량 잔존가치와 포드의 수익성, 투자자 신뢰에 부정적 영향을 미칠 수 있다.",
+        "낮아진 가격은 새로운 구매 수요를 촉진하거나 경쟁사·신차 시장의 가격 전략에 영향을 줄 가능성이 있다."
+      ],
+      "whyItMatters": "중고가격 급락과 강한 매수 반응이 동시에 나타나며 수요·공급과 가격 구조가 빠르게 재편되고 있기 때문입니다.",
+      "topics": [
+        "Demand",
+        "Competition",
+        "Investment"
+      ],
+      "status": "SHIFTING",
+      "hash": "ca95689c5b2f4e861266c19309ee84c93d09ce48e884a2c39f4d136f6e7a020b",
+      "url": "https://electrek.co/2026/10/12/fords-electric-pickup-selling-like-hotcakes-50-off-used/"
+    }
+  ]
+}

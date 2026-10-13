@@ -1,64 +1,64 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "highlights": {
     "bullets": [
-      "핵심: 시트로엥이 클래식 2CV의 전기 콘셉트를 공개하고 2028년 출시와 약 €15,000 가격을 제시했다.",
-      "핵심: Groupe Bellemare가 배터리 전동 중장비 운용으로 현장에서 큰 비용 절감을 입증했다."
+      "핵심: 일론 머스크가 반(反) 전기차 정치 캠페인에 지금까지 5억 달러 이상을 지출한 것으로 보도되었다.",
+      "핵심: 포드 F-150 라이트닝 중고차가 중고시장에서 약 50% 할인된 가격에 빠르게 판매되고 있다."
     ],
     "topTopics": [
-      "Roadmap",
-      "Demand",
       "Competition",
+      "Demand",
+      "Roadmap",
       "Investment"
     ],
     "stats": {
-      "collected": 5,
-      "deduped": 5
+      "collected": 15,
+      "deduped": 15
     }
   },
   "cards": [
     {
       "id": "ev_0001",
       "tab": "ev",
-      "publishedAt": "2026-10-12T06:08:45+09:00",
+      "publishedAt": "2026-10-13T01:47:18+09:00",
       "source": "Electrek",
-      "title": "The legendary Citroen 2CV is back as a €15k electric concept for 2028",
+      "title": "No single person has spent more money to harm EVs than Tesla CEO Elon Musk",
       "summary": [
-        "시트로엥이 클래식 2CV의 전기 콘셉트를 공개했다.",
-        "2028년 출시를 목표로 가격을 약 €15,000으로 제시했다.",
-        "저가 전기차 세그먼트에 영향을 줄 가능성이 있다."
+        "일론 머스크가 반(反) 전기차 정치 캠페인에 지금까지 5억 달러 이상, 최근 3개월에만 2억7,600만 달러를 지출한 것으로 보도되었습니다.",
+        "테슬라는 이러한 캠페인이 자사 사업에 수십억 달러 규모의 피해를 줬다고 인정하며 CEO에게 중단을 요청했으나 받아들여지지 않았습니다.",
+        "머스크는 회사의 우려에도 불구하고 반-EV 영향력 행사를 더욱 확대하고 있는 것으로 전해집니다."
       ],
-      "whyItMatters": "저렴한 전기차 출시 목표는 제조·공급 체인과 경쟁 구도를 바꿔 전기차 대중화에 영향을 미칠 수 있다.",
+      "whyItMatters": "테슬라 CEO의 반-EV 정치 활동이 자사 및 EV 산업 전반의 수요와 정책 환경에 구조적 악영향을 줄 수 있어, 기업 거버넌스 리스크와 산업 성장 전망에 중대한 변수로 작용합니다.",
       "topics": [
-        "Roadmap",
-        "Manufacturing",
-        "Competition"
+        "Demand",
+        "Policy",
+        "Competition",
+        "Investment"
       ],
-      "status": "NEW",
-      "hash": "cb66c63760a54ba762b7e4d490bf2a70295322759c199dcced90e6f94acc3fea",
-      "url": "https://electrek.co/2026/10/11/the-legendary-citroen-2cv-is-back-as-a-e15k-electric-concept-for-2028/"
+      "status": "ONGOING",
+      "hash": "ff423c71c1813cf91a74d33761d442d23f484e0826599b985fc8ffd48c94502b",
+      "url": "https://electrek.co/2026/10/12/no-single-person-has-spent-more-money-to-harm-evs-than-tesla-ceo-elon-musk/"
     },
     {
       "id": "ev_0002",
       "tab": "ev",
-      "publishedAt": "2026-10-12T01:04:15+09:00",
+      "publishedAt": "2026-10-13T06:22:58+09:00",
       "source": "Electrek",
-      "title": "Back in the real world: electric equipment is saving job sites BIG MONEY",
+      "title": "Ford’s electric pickup is suddenly selling like hotcakes at 50% off used",
       "summary": [
-        "Groupe Bellemare는 수년간 배터리 전동 중장비를 운용하며 실제 현장에서 큰 비용 절감을 입증했다.",
-        "전동 장비는 초기 투자비가 높지만 연료·정비 등 운영비 절감으로 총비용 측면에서 유의미한 이점을 보여준다.",
-        "이 사례는 건설·물류 현장에서 전동화 설비 도입의 경제성이 현실화되고 있음을 시사한다."
+        "포드 F-150 라이트닝 중고차가 중고시장에서 갑자기 큰 인기를 끌며 약 50% 할인 수준으로 빠르게 판매되고 있다.",
+        "심한 가격 하락은 차량 잔존가치와 포드의 수익성, 투자자 신뢰에 부정적 영향을 미칠 수 있다.",
+        "낮아진 가격은 새로운 구매 수요를 촉진하거나 경쟁사·신차 시장의 가격 전략에 영향을 줄 가능성이 있다."
       ],
-      "whyItMatters": "전동 중장비의 실제 비용 절감 사례는 관련 산업 전반의 전동화 투자 의사결정과 장비 수요 구조를 바꿀 수 있는 신뢰도 높은 근거가 되기 때문이다.",
+      "whyItMatters": "중고가격 급락과 강한 매수 반응이 동시에 나타나며 수요·공급과 가격 구조가 빠르게 재편되고 있기 때문입니다.",
       "topics": [
         "Demand",
-        "Investment",
-        "Manufacturing",
-        "Roadmap"
+        "Competition",
+        "Investment"
       ],
-      "status": "ONGOING",
-      "hash": "6cef1c68d6d4ee6649e7957dfb92b1cc799a6653d7b51153ba7d145e027f6b30",
-      "url": "https://electrek.co/2026/10/11/back-in-the-real-world-electric-equipment-is-saving-job-sites-big-money/"
+      "status": "SHIFTING",
+      "hash": "ca95689c5b2f4e861266c19309ee84c93d09ce48e884a2c39f4d136f6e7a020b",
+      "url": "https://electrek.co/2026/10/12/fords-electric-pickup-selling-like-hotcakes-50-off-used/"
     }
   ]
 }

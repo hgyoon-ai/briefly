@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-13",
+  "highlights": {
+    "bullets": [
+      "핵심: EU 사이버탄력성법이 반도체를 포함한 제조제품에 보안 규제를 부과한다.",
+      "핵심: Applied Materials가 반도체 연구·상용화를 위해 50억 달러 규모의 EPIC 센터를 출범했다."
+    ],
+    "topTopics": [
+      "Manufacturing",
+      "Roadmap",
+      "Policy",
+      "Investment"
+    ],
+    "stats": {
+      "collected": 5,
+      "deduped": 5
+    }
+  },
+  "cards": [
+    {
+      "id": "semiconductor_0001",
+      "tab": "semiconductor",
+      "publishedAt": "2026-10-12T22:00:00+09:00",
+      "source": "EE Times",
+      "title": "EU CRA Readiness: 5 Steps Manufacturers Need to Take Now",
+      "summary": [
+        "EU 사이버탄력성법(CRA)이 최초로 광범위한 제조 제품에 사이버보안 규제를 부과한다.",
+        "소비재, 산업용, 네트워킹, 반도체, 소프트웨어 제조업체가 규제 대상이다.",
+        "제조사는 규정 준수를 위해 다섯 가지 핵심 조치를 즉시 시행해야 한다."
+      ],
+      "whyItMatters": "법적 책임, 시장 접근 제한 및 벌금 위험으로 인해 제조업체는 즉시 준비를 시작해야 한다.",
+      "topics": [
+        "Manufacturing",
+        "Policy",
+        "Roadmap"
+      ],
+      "status": "ONGOING",
+      "hash": "44405535b96605f4bad0210439783df611076fcc12910a1db0046cf4704e08bb",
+      "url": "https://www.eetimes.com/eu-cra-readiness-5-steps-manufacturers-need-to-take-now/"
+    },
+    {
+      "id": "semiconductor_0002",
+      "tab": "semiconductor",
+      "publishedAt": "2026-10-13T01:59:01+09:00",
+      "source": "EE Times",
+      "title": "Applied Materials Bets $5B on a New Model for Chip Innovation",
+      "summary": [
+        "Applied Materials가 반도체 연구·상용화를 가속하기 위해 50억 달러 규모의 EPIC 센터를 출범했다.",
+        "EPIC 센터는 칩 제조사, 장비 공급업체, 연구기관을 한데 모아 공동 R&D와 상용화 경로 단축을 목표로 한다.",
+        "민간 주도의 대규모 인프라 투자는 기술 로드맵과 제조 역량 강화, 산업 경쟁력에 직접적인 영향을 줄 것으로 보인다."
+      ],
+      "whyItMatters": "대규모 자금과 협업 플랫폼은 칩 개발 속도와 상용화 성공률을 높여 공급망과 산업 경쟁력 개선에 기여할 가능성이 크기 때문이다.",
+      "topics": [
+        "Investment",
+        "Manufacturing",
+        "Roadmap"
+      ],
+      "status": "NEW",
+      "hash": "38b64c6c8a3f18f30b02b90a5e898f44542f4fbafe21fcbf0ba058c6fa98a227",
+      "url": "https://www.eetimes.com/applied-materials-bets-5b-on-a-new-model-for-chip-innovation/"
+    }
+  ]
+}

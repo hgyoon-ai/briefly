@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-10-06",
-    "to": "2026-10-12"
+    "from": "2026-10-07",
+    "to": "2026-10-13"
   },
   "kpis": {
     "collected": 10,
@@ -22,46 +22,22 @@
       "count": 3
     },
     {
-      "name": "Security",
-      "count": 1
+      "name": "Compliance",
+      "count": 2
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-10-06",
-      "dayOfWeek": "Tue",
+      "date": "2026-10-07",
+      "dayOfWeek": "Wed",
       "topic": "MarketInfra",
-      "count": 0
-    },
-    {
-      "date": "2026-10-06",
-      "dayOfWeek": "Tue",
-      "topic": "Policy",
-      "count": 0
-    },
-    {
-      "date": "2026-10-06",
-      "dayOfWeek": "Tue",
-      "topic": "Fintech",
-      "count": 0
-    },
-    {
-      "date": "2026-10-06",
-      "dayOfWeek": "Tue",
-      "topic": "Security",
       "count": 0
     },
     {
       "date": "2026-10-07",
       "dayOfWeek": "Wed",
-      "topic": "MarketInfra",
-      "count": 2
-    },
-    {
-      "date": "2026-10-07",
-      "dayOfWeek": "Wed",
       "topic": "Policy",
-      "count": 2
+      "count": 0
     },
     {
       "date": "2026-10-07",
@@ -72,7 +48,7 @@
     {
       "date": "2026-10-07",
       "dayOfWeek": "Wed",
-      "topic": "Security",
+      "topic": "Compliance",
       "count": 0
     },
     {
@@ -96,7 +72,7 @@
     {
       "date": "2026-10-08",
       "dayOfWeek": "Thu",
-      "topic": "Security",
+      "topic": "Compliance",
       "count": 0
     },
     {
@@ -120,7 +96,7 @@
     {
       "date": "2026-10-09",
       "dayOfWeek": "Fri",
-      "topic": "Security",
+      "topic": "Compliance",
       "count": 0
     },
     {
@@ -144,7 +120,7 @@
     {
       "date": "2026-10-10",
       "dayOfWeek": "Sat",
-      "topic": "Security",
+      "topic": "Compliance",
       "count": 0
     },
     {
@@ -168,7 +144,7 @@
     {
       "date": "2026-10-11",
       "dayOfWeek": "Sun",
-      "topic": "Security",
+      "topic": "Compliance",
       "count": 1
     },
     {
@@ -192,58 +168,87 @@
     {
       "date": "2026-10-12",
       "dayOfWeek": "Mon",
-      "topic": "Security",
+      "topic": "Compliance",
       "count": 0
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Fintech",
+      "count": 0
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Compliance",
+      "count": 1
     }
   ],
   "topIssues": [
     {
       "id": 1,
-      "status": "SHIFTING",
-      "title": "10년 묵은 중고 유조선이 신조선보다 비싸진 해운·선박 자산 시장 왜곡",
-      "summary": "유가·물동량 회복과 선박 공급 부족이 겹치며 10년 된 중고 유조선 가격이 신조선가를 웃도는 역전 현상이 나타났다. 강화되는 환경 규제, 폐선·개조 비용 부담, 장기 고운임 기대가 맞물려 해운·조선 관련 자산가치와 금융·리스 구조 전반의 재평가가 진행 중이다.",
-      "articleCount": 1,
+      "status": "ONGOING",
+      "title": "코스피 급락과 변동성 확대로 드러난 한국 증시 체력 약화",
+      "summary": "코스피가 6000선 붕괴와 함께 장중 6% 이상 급락하고, 연초 급등 후 3분기에는 주요국 대비 가장 큰 낙폭(-18%)을 기록하면서 한국 증시의 구조적 취약성과 변동성 리스크가 부각되고 있다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
-          "title": "상식 붕괴, 유조선 시장 ‘10년 중고’가 더 비싸다?",
-          "url": "https://www.mk.co.kr/news/stock/12173301"
+          "title": "[속보] 코스피, 6000선도 무너졌다…삼전·하이닉스 동반 급락",
+          "url": "https://www.mk.co.kr/news/stock/12174245"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "“60% 폭등하더니 18% 급락”…롤러코스터 코스피, 4분기에는?",
+          "url": "https://www.mk.co.kr/news/stock/12172844"
         }
       ]
     },
     {
       "id": 2,
-      "status": "SHIFTING",
-      "title": "방산업계 AI 도입 ‘속도조절론’ 부상…외주·하청 중심 투자 구조 변화",
-      "summary": "미국 방산기업들이 무기체계·운영 효율화를 위해 AI 도입을 확대하면서도 안전·규제 리스크를 이유로 속도조절론이 커지고 있다. 록히드마틴 등 대형 방산사는 AI 개발을 스타트업·빅테크에 외주하는 구조를 강화하고 있어, 관련 밸류체인과 방산·AI 섹터 투자 프레임이 재편되고 있다.",
+      "status": "ONGOING",
+      "title": "한국은행 직원 주식거래 급증과 금융당국 신뢰도 훼손 우려",
+      "summary": "한국은행 직원들의 주식 거래 규모가 상반기 53배, 특히 금융시장국은 24배 급증하면서 내부정보 이용 가능성과 이해상충, 도덕적 해이 논란이 커지고 있어 통화·금융정책에 대한 시장 신뢰 저하 우려가 제기된다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
-          "title": "록히드마틴도 AI 하청으로 … ‘속도조절론’ 중심에 선 AI 방산 미래는[맥킨지·매경 산업분석]",
-          "url": "https://www.mk.co.kr/news/business/12172374"
+          "title": "“이러려고 한은 들어갔나”…시장 경고는 뒷전, 직원들 주식거래 53배 급증 왜?",
+          "url": "https://www.mk.co.kr/news/economy/12174120"
         }
       ]
     },
     {
       "id": 3,
       "status": "SHIFTING",
-      "title": "연준 추가 금리인상 종료 시그널 가능성…글로벌 채권·주식 리프라이싱",
-      "summary": "샌프란시스코 연은 총재가 추가 금리인상이 필요 없을 수 있다고 언급하면서 장기금리가 소폭 하락하고, 시장은 향후 인하 시점과 폭을 다시 가격에 반영하기 시작했다. 미 연준의 스탠스 변화 가능성은 달러 강세 완화, 신흥국 자본 흐름, 주식·채권 밸류에이션 전반에 단계적 영향을 줄 수 있다.",
+      "title": "고금리 장기화 속에서도 기업 이익이 주도하는 글로벌 증시",
+      "summary": "미국 국채금리가 5%대에 머무는 고금리 환경에서도 기업 이익 개선이 주가를 지지하며, 1990년대 투기적 버블과 달리 펀더멘털 중심의 장세가 전개되고 있다는 분석이 강화되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
-          "title": "“추가 금리인상 필요없을 수도” 연준위원 첫 발언, 파장은",
-          "url": "https://www.mk.co.kr/news/stock/12169906"
+          "title": "‘고금리’를 극복하는 이익의 힘 … 현재가 90년대 버블과 다른 이유",
+          "url": "https://www.mk.co.kr/news/stock/12172344"
         }
       ]
     },
     {
       "id": 4,
       "status": "ONGOING",
-      "title": "AI 반도체 슈퍼사이클 기대 속 SK하이닉스 실적 상향 랠리",
-      "summary": "메리츠증권 등 국내 증권가는 HBM 수요와 메모리 업황 개선을 근거로 SK하이닉스 목표주가를 320만원까지 상향하며 대형주 상승 여력을 제시하고 있다. 상반기 기준 수십조원대 영업이익 전망이 제시되는 등 AI 반도체를 축으로 한 이익 모멘텀에 대한 기대가 계속 확대되는 국면이다.",
+      "title": "SK하이닉스 초고평가 전망과 반도체 슈퍼사이클 기대감",
+      "summary": "메리츠증권이 SK하이닉스 목표주가를 320만원으로 상향하고 상반기 영업이익 80조원을 제시하는 등 실적 초호황과 주가 랠리 재개를 예상하면서 메모리 반도체 슈퍼사이클 기대가 다시 부각되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -256,14 +261,14 @@
     {
       "id": 5,
       "status": "SHIFTING",
-      "title": "부진한 코스피, 4분기 반등 여부가 관건인 한국 증시 디커플링",
-      "summary": "연초 60% 급등했던 코스피가 3분기 들어 18% 급락해 미국·일본 대비 크게 부진한 흐름을 보이고 있다. 중국 경기 둔화, 반도체·수출 경기 불확실성, 외국인 수급 약화 등이 복합적으로 작용하는 가운데 4분기 실적·정책 모멘텀에 따라 글로벌 주식시장과의 디커플링이 완화될지 주목된다.",
+      "title": "개인투자자 레버리지 ETF 투자 트렌드의 구조적 변화",
+      "summary": "정방향 레버리지 ETF에서 개인투자자들의 비중이 삼성전자·하이닉스 단일 종목 중심에서 방산·반도체 테마 및 시장지수형 상품으로 이동하며, 개별 종목 쏠림 위험을 줄이고 지수·테마 중심 전략으로 재편되는 조짐이 나타나고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
-          "title": "“60% 폭등하더니 18% 급락”…롤러코스터 코스피, 4분기에는?",
-          "url": "https://www.mk.co.kr/news/stock/12172844"
+          "title": "삼전닉스 대신 방산·반도체 테마형으로…변화하는 레버리지 ETF 판도",
+          "url": "https://www.mk.co.kr/news/stock/12172657"
         }
       ]
     }

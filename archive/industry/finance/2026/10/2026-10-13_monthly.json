@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-09-14",
+    "to": "2026-10-13"
+  },
+  "kpis": {
+    "collected": 54,
+    "deduped": 54,
+    "uniqueTopics": 9,
+    "marketShare": {
+      "MarketInfra": 39,
+      "Policy": 24,
+      "Regulation": 13,
+      "Fintech": 12,
+      "Compliance": 11,
+      "Other": 1
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (09/14-09/20)",
+      "topicCounts": {
+        "MarketInfra": 11,
+        "Policy": 5,
+        "Regulation": 5,
+        "Fintech": 2,
+        "Compliance": 3
+      }
+    },
+    {
+      "week": "Week 2 (09/21-09/27)",
+      "topicCounts": {
+        "MarketInfra": 9,
+        "Policy": 5,
+        "Regulation": 3,
+        "Fintech": 5,
+        "Compliance": 4
+      }
+    },
+    {
+      "week": "Week 3 (09/28-10/04)",
+      "topicCounts": {
+        "MarketInfra": 9,
+        "Policy": 4,
+        "Regulation": 3,
+        "Fintech": 3,
+        "Compliance": 1
+      }
+    },
+    {
+      "week": "Week 4 (10/05-10/11)",
+      "topicCounts": {
+        "MarketInfra": 9,
+        "Policy": 8,
+        "Regulation": 2,
+        "Fintech": 2,
+        "Compliance": 2
+      }
+    },
+    {
+      "week": "Week 5 (10/12-10/13)",
+      "topicCounts": {
+        "MarketInfra": 2,
+        "Policy": 2,
+        "Regulation": 1,
+        "Fintech": 0,
+        "Compliance": 1
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "issue-1",
+      "status": "ONGOING",
+      "title": "코스피 6000선 붕괴와 대형주 급락으로 인한 국내 증시 변동성 확대",
+      "summary": "주간 기준 코스피가 6000선 아래로 내려가며 변동성이 극대화되고 있다. 삼성전자·SK하이닉스 등 반도체 대형주의 동반 급락이 지수 하락을 주도하며, 증시 전반의 리스크 선호심리가 크게 위축된 상태다. 금리 경로 재평가, AI·반도체 관련 기대 약화 등이 맞물리며 기관·외국인 수급이 불안정한 국면이 지속되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[속보] 코스피, 6000선도 무너졌다…삼전·하이닉스 동반 급락",
+          "url": "https://www.mk.co.kr/news/stock/12174245"
+        }
+      ]
+    },
+    {
+      "id": "issue-2",
+      "status": "ONGOING",
+      "title": "한은 직원 대규모 개인 주식거래로 불거진 중앙은행 윤리·내부통제 리스크",
+      "summary": "올해 상반기 한국은행 직원들의 주식 거래 규모가 전년 대비 수십 배 급증하며 중앙은행의 이해상충, 내부정보 이용 가능성, 도덕적 해이 논란이 금융시장 핵심 이슈로 부상했다. 통화정책 신뢰도와 금융시장 안정성에 직결되는 사안인 만큼, 윤리 규정 강화와 거래 제한 등 제도 개편 요구가 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“이러려고 한은 들어갔나”…시장 경고는 뒷전, 직원들 주식거래 53배 급증 왜?",
+          "url": "https://www.mk.co.kr/news/economy/12174120"
+        }
+      ]
+    },
+    {
+      "id": "issue-3",
+      "status": "ONGOING",
+      "title": "부실기업 상장폐지 급증에 따른 국내 자본시장 정화와 투자자 보호 이슈",
+      "summary": "연초 이후 9월까지 부실기업 상장폐지 건수가 전년 대비 두 배 수준으로 늘며, 국내 증시에서 기업 구조조정과 자본시장 정화 압력이 강화되고 있다. 규제·감시 강화 속에서 재무구조 취약 기업의 퇴출이 가속화되는 한편, 소액주주 손실과 회수 불확실성을 둘러싼 투자자 보호 장치에 대한 논의도 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "부실기업 증시퇴출, 작년보다 두배 급증",
+          "url": "https://www.mk.co.kr/news/stock/12168228"
+        }
+      ]
+    },
+    {
+      "id": "issue-4",
+      "status": "ONGOING",
+      "title": "자산운용사 선행매매 의혹으로 본 국내 ETF·액티브 운용의 컴플라이언스 리스크",
+      "summary": "삼성액티브자산운용 운용역이 코스닥ETF 관련 선행매매 혐의로 조사를 받으면서, 운용사 내부에서 부당거래 수법이 공유됐다는 증언까지 나오고 있다. 이는 ETF·액티브 운용 전반의 이해상충 관리, 내부통제, 징계 체계에 대한 신뢰를 흔들며, 금융당국의 제재 수위와 제도 개선 방향이 향후 시장 규율에 중요한 변수가 되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[단독] 코스닥ETF 선행매매 수법 내부자들은 알고 있었다…당국, 삼성액티브 조사",
+          "url": "https://www.mk.co.kr/news/stock/12153526"
+        }
+      ]
+    },
+    {
+      "id": "issue-5",
+      "status": "SHIFTING",
+      "title": "연준 추가 금리인상 종료 가능성 시사와 글로벌 금리·자산가격 재평가",
+      "summary": "샌프란시스코 연은 총재가 추가 금리인상이 필요 없을 수 있다고 공개 언급하면서, 시장은 미국 기준금리 동결·조기 인하 가능성을 다시 반영하기 시작했다. 장기금리가 소폭 하락하고 성장주·위험자산 선호 회복 기대가 커지는 등 글로벌 자산배분과 환율, 신흥국 자금 흐름에 점진적 변화가 나타나고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“추가 금리인상 필요없을 수도” 연준위원 첫 발언, 파장은",
+          "url": "https://www.mk.co.kr/news/stock/12169906"
+        }
+      ]
+    }
+  ]
+}

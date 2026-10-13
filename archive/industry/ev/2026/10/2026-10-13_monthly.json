@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-09-14",
+    "to": "2026-10-13"
+  },
+  "kpis": {
+    "collected": 54,
+    "deduped": 54,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 28,
+      "Competition": 25,
+      "Demand": 20,
+      "Investment": 18,
+      "Policy": 9,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (09/14-09/20)",
+      "topicCounts": {
+        "Roadmap": 9,
+        "Competition": 10,
+        "Demand": 7,
+        "Investment": 7,
+        "Policy": 4
+      }
+    },
+    {
+      "week": "Week 2 (09/21-09/27)",
+      "topicCounts": {
+        "Roadmap": 13,
+        "Competition": 11,
+        "Demand": 7,
+        "Investment": 7,
+        "Policy": 3
+      }
+    },
+    {
+      "week": "Week 3 (09/28-10/04)",
+      "topicCounts": {
+        "Roadmap": 9,
+        "Competition": 6,
+        "Demand": 6,
+        "Investment": 6,
+        "Policy": 2
+      }
+    },
+    {
+      "week": "Week 4 (10/05-10/11)",
+      "topicCounts": {
+        "Roadmap": 10,
+        "Competition": 8,
+        "Demand": 6,
+        "Investment": 5,
+        "Policy": 3
+      }
+    },
+    {
+      "week": "Week 5 (10/12-10/13)",
+      "topicCounts": {
+        "Roadmap": 0,
+        "Competition": 2,
+        "Demand": 2,
+        "Investment": 2,
+        "Policy": 1
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "테슬라 수익성 위기와 300억 달러 신용한도 개설",
+      "summary": "테슬라가 이익 감소로 수익성 위기에 다가서며 300억 달러 규모의 신용한도를 열었다. 이는 대규모 설비·제품 로드맵을 유지하기 위한 유동성 방어 조치이자, 향후 투자 속도·가격 전략 조정 가능성을 시사한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla takes on $30 billion in credit as it approaches unprofitability",
+          "url": "https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "일론 머스크의 대규모 반(反) EV 정치 지출과 업계 파장",
+      "summary": "일론 머스크가 반 전기차 정치 캠페인에 5억 달러 이상을 지출한 것으로 전해지며, 테슬라 자체도 이로 인한 수십억 달러 규모 사업 피해를 인정했다. 회사가 중단을 요청했지만 받아들여지지 않아, EV 이미지와 정책 환경, 투자 심리에 장기적 부담 요인으로 작용하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "No single person has spent more money to harm EVs than Tesla CEO Elon Musk",
+          "url": "https://electrek.co/2026/10/12/no-single-person-has-spent-more-money-to-harm-evs-than-tesla-ceo-elon-musk/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "테슬라 FSD, 유럽 규제기관 압박 논란 속 승인 확대",
+      "summary": "테슬라가 네덜란드 RDW에 FSD(Supervised) 심사 범위와 비용을 두고 수개월간 압박한 이메일이 공개됐다. RDW는 결국 시스템을 승인했고 이를 기반으로 EU 전역 승인을 요청, 현재 8개국에서 사용이 허용되는 등 자율주행 기능의 유럽 확산이 규제 신뢰 이슈와 함께 진행 중이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla leaned on Dutch regulator to ease its FSD review, emails show",
+          "url": "https://electrek.co/2026/10/08/tesla-fsd-europe-rdw-pressure-reuters/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "BYD, 15만 번째 상용 NEV 생산으로 전기 트럭 리더십 강화",
+      "summary": "BYD가 화이안 공장에서 15만 번째 상용 신에너지차를 출고하며 상용 전기차 대량 생산 체제를 공고히 했다. 기념 모델인 약 800마력 Q3 전기 세미 트럭은 고성능 전기 화물 수송 시장에서 BYD의 기술·가격 경쟁력을 상징한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "BYD builds 150,000th commercial NEV – an 800 hp Q3 electric semi truck",
+          "url": "https://electrek.co/2026/10/10/byd-builds-150000th-commercial-nev-an-800-hp-q3-electric-semi-truck/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "SHIFTING",
+      "title": "포드 F-150 라이트닝, 중고 시장에서 50% 급락한 가격에 폭발적 수요",
+      "summary": "포드 F-150 라이트닝 중고차가 신차 대비 약 50% 낮은 가격에 빠르게 팔리며 중고 시장에서 인기를 끌고 있다. 그러나 과도한 감가상각은 향후 리스·파이낸싱 잔존가치와 브랜드 신뢰, 수익성에 부담을 줄 수 있어 OEM들의 가격·공급 전략 재조정 이슈로 부상했다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Ford’s electric pickup is suddenly selling like hotcakes at 50% off used",
+          "url": "https://electrek.co/2026/10/12/fords-electric-pickup-selling-like-hotcakes-50-off-used/"
+        }
+      ]
+    }
+  ]
+}

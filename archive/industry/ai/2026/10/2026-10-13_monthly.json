@@ -1,0 +1,153 @@
+{
+  "range": {
+    "from": "2026-09-14",
+    "to": "2026-10-13"
+  },
+  "kpis": {
+    "collected": 70,
+    "deduped": 70,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "Tooling": 27,
+      "Product": 22,
+      "Models": 21,
+      "Infra": 15,
+      "Research": 14,
+      "Other": 1
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (09/14-09/20)",
+      "topicCounts": {
+        "Tooling": 6,
+        "Product": 6,
+        "Models": 6,
+        "Infra": 6,
+        "Research": 4
+      }
+    },
+    {
+      "week": "Week 2 (09/21-09/27)",
+      "topicCounts": {
+        "Tooling": 11,
+        "Product": 8,
+        "Models": 11,
+        "Infra": 7,
+        "Research": 9
+      }
+    },
+    {
+      "week": "Week 3 (09/28-10/04)",
+      "topicCounts": {
+        "Tooling": 19,
+        "Product": 15,
+        "Models": 14,
+        "Infra": 9,
+        "Research": 6
+      }
+    },
+    {
+      "week": "Week 4 (10/05-10/11)",
+      "topicCounts": {
+        "Tooling": 11,
+        "Product": 10,
+        "Models": 5,
+        "Infra": 4,
+        "Research": 4
+      }
+    },
+    {
+      "week": "Week 5 (10/12-10/13)",
+      "topicCounts": {
+        "Tooling": 1,
+        "Product": 1,
+        "Models": 2,
+        "Infra": 1,
+        "Research": 2
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "하이브리드 LLM 디코딩 가속을 위한 ReplaySSM 제안",
+      "summary": "NVIDIA가 SSM+어텐션 기반 하이브리드 언어모델에서 상태 저장 방식을 재설계한 ReplaySSM을 공개했다. Nemotron 3, Qwen3.5~3.8, GLM-5.3-Flash 등 최신 모델의 디코딩 병목을 줄여 추론 속도 및 비용 효율을 동시에 개선하는 인프라·모델 구조 연구라는 점이 핵심이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding",
+          "url": "https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "AI 튜터 사전 검증을 위한 학습자 시뮬레이션 StudentSim",
+      "summary": "Microsoft가 실제 학생을 투입하기 전, 가상 학습자를 통해 AI 튜터를 실험·평가하는 StudentSim 연구를 발표했다. 체스·글쓰기·수학 등 다양한 과목에서 학습 과정과 피드백 상호작용을 모사해, 튜터 품질 개선과 안전한 도입을 위한 연구 기반을 마련한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Microsoft Research Blog",
+          "title": "Simulating student learning for better AI tutoring",
+          "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "GPU 클러스터 스케줄링 최적화로 AI 인프라 효율화",
+      "summary": "Hugging Face가 GPU 클러스터 스케줄링 전략을 고도화해 작업 대기 시간을 줄이고 처리량을 늘리는 접근을 소개했다. 대규모 모델 학습·추론 워크로드에서 비용 절감과 자원 활용 극대화가 계속해서 핵심 운영 이슈로 부상하고 있음을 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "Impactful scheduling for GPU clusters",
+          "url": "https://huggingface.co/blog/allenai/impactful-scheduling"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "기업용 에이전트를 위한 합성 데이터 생성 도구 AutoSynthData",
+      "summary": "Hugging Face가 기업 에이전트 학습용 합성 데이터 생성 툴 AutoSynthData를 발표했다. 다양한 상호작용 패턴을 시뮬레이션하고 라벨링을 자동화해, 고품질 훈련 데이터 부족 문제를 완화하고 엔터프라이즈 에이전트 구축 속도를 높이는 데 초점을 둔다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+          "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "보안·운영 현장에서의 AI 에이전트 실전 적용 확대",
+      "summary": "Sophos가 OpenAI Daybreak로 위협 조사 시간을 96% 단축하고 MDR 사례의 절반가량을 자동화했으며, Asana는 GPT-6.1 Sol 기반 브라우저 에이전트로 테스트 비용을 76배 절감하고 응답 속도를 5배 개선했다. 오라클은 ChatGPT와 Codex로 엔터프라이즈 워크플로를 표준화·자동화하고 있어, 보안·운영·테스트 등 실무 영역 전반에서 에이전트 기반 AI 도입이 지속적으로 확산되고 있다.",
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "url": "https://openai.com/index/sophos"
+        },
+        {
+          "source": "OpenAI Blog",
+          "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+          "url": "https://openai.com/index/asana-browser-agent"
+        },
+        {
+          "source": "OpenAI Blog",
+          "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+          "url": "https://openai.com/index/oracle"
+        }
+      ]
+    }
+  ]
+}
