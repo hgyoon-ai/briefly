@@ -2,6 +2,99 @@
   "month": "2026-10",
   "events": [
     {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12174090",
+      "date": "2026-10-13",
+      "company": "한국투자증권",
+      "title": "“수주시점 아직 불확실”…한투, 현대로템 목표주가 29% 낮췄다",
+      "oneLiner": "한국투자증권이 현대로템의 신규 수주 시점 불확실성 반영으로 2027년 이익 추정과 목표주가를 27만원에서 19만원(약 29% 하향)으로 조정함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“수주시점 아직 불확실”…한투, 현대로템 목표주가 29% 낮췄다",
+          "url": "https://www.mk.co.kr/news/stock/12174090"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-10-13"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202610130751320298",
+      "date": "2026-10-13",
+      "company": "한국투자증권",
+      "title": "LS일렉트릭, 3분기 영업익 기대치 웃돌 전망…목표가 33만원",
+      "oneLiner": "한국투자증권 리서치가 LS일렉트릭의 신규 수주 확대를 근거로 3분기 실적이 기대치를 상회할 전망이라며 목표주가 33만원·투자의견 '매수'를 제시함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "LS일렉트릭, 3분기 영업익 기대치 웃돌 전망…목표가 33만원",
+          "url": "https://www.fnnews.com/news/202610130751320298"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-10-13"
+    },
+    {
+      "id": "news:메리츠증권:https://www.fnnews.com/news/202610130825409444",
+      "date": "2026-10-13",
+      "company": "메리츠증권",
+      "title": "\"결국 해답은 차기 PUBG\"…크래프톤 목표가 29만원으로 하향",
+      "oneLiner": "메리츠증권 리서치가 크래프톤의 신작 개발 중단 등 리스크를 반영해 목표주가를 35만원에서 29만원으로 하향했으나 투자의견은 '매수'를 유지함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"결국 해답은 차기 PUBG\"…크래프톤 목표가 29만원으로 하향",
+          "url": "https://www.fnnews.com/news/202610130825409444"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-10-13"
+    },
+    {
+      "id": "news:메리츠증권:https://www.fnnews.com/news/202610130919020574",
+      "date": "2026-10-13",
+      "company": "메리츠증권",
+      "title": "\"미국 국채 넘어 유럽 국채까지\"…메리츠증권, 해외채권 거래 서비스 확대",
+      "oneLiner": "메리츠증권이 MTS의 '미국채권 LIVE'를 '해외채권 LIVE'로 개편해 거래 가능 채권과 이용 시간을 확대하며 유럽 국채·국제금융기구·중동·중남미 채권 등을 추가함.",
+      "type": "시스템",
+      "areas": [
+        "트레이딩",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"미국 국채 넘어 유럽 국채까지\"…메리츠증권, 해외채권 거래 서비스 확대",
+          "url": "https://www.fnnews.com/news/202610130919020574"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.96,
+      "updatedAt": "2026-10-13"
+    },
+    {
       "id": "news:한국투자증권:https://www.fnnews.com/news/202610120848065376",
       "date": "2026-10-12",
       "company": "한국투자증권",
@@ -47,6 +140,75 @@
       "tags": [],
       "confidence": 0.9,
       "updatedAt": "2026-10-12"
+    },
+    {
+      "id": "89f8f5dbd8585f0cb1cea8f5e3a950239e6dbe75",
+      "date": "2026-10-12",
+      "company": "NH투자증권",
+      "title": "최대주주등소유주식변동신고서              ",
+      "oneLiner": "최대주주 등 소유주식 변동신고서 제출로 소유구조 변동 관련 공시가 발생함.",
+      "type": "규제",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "최대주주등소유주식변동신고서              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012800749"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-10-13"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12173707",
+      "date": "2026-10-12",
+      "company": "한국투자증권",
+      "title": "“1인가구 장례·사후정리 지원”…신한투자증권, 교원라이프와 MOU",
+      "oneLiner": "신한투자증권이 교원라이프와 MOU를 체결해 1인 가구 고객 대상 장례·사후정리 서비스를 제공·연계하기로 함.",
+      "type": "제휴",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“1인가구 장례·사후정리 지원”…신한투자증권, 교원라이프와 MOU",
+          "url": "https://www.mk.co.kr/news/stock/12173707"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-10-13"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202610121456242584",
+      "date": "2026-10-12",
+      "company": "한국투자증권",
+      "title": "한국투자증권 2000억원 규모 IMA 출시, 기준수익률 연 4.5%",
+      "oneLiner": "한국투자증권이 총 2000억원 규모의 종합투자계좌(IMA) 신상품 '한국투자 IMA S7'을 출시하고 고객 모집을 시작함(기준수익률 연 4.5%).",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한국투자증권 2000억원 규모 IMA 출시, 기준수익률 연 4.5%",
+          "url": "https://www.fnnews.com/news/202610121456242584"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-10-13"
     },
     {
       "id": "news:미래에셋증권:https://www.fnnews.com/news/202610081205487695",
