@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "kpis": {
     "clusters": 20,
     "sources": 2,
@@ -7,85 +7,150 @@
   },
   "clusters": [
     {
-      "id": "5822ba7eca567d43c096693a422cf3abb2baac37",
-      "name": "3rd Yandex Cloud Data Center Was Hit",
-      "section": "discussions",
+      "id": "508d73dcd7702a3abd93adcbe42b605b445c3b30",
+      "name": "openai/codex",
+      "section": "releases",
       "status": "NEW",
-      "score": 1129.8,
-      "oneLiner": "야ндекс 클라우드의 3번째 데이터센터에 타격이 있었다는 보고",
-      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
+      "score": 6162.7,
+      "oneLiner": "터미널에서 실행되는 경량 코딩 에이전트입니다",
+      "whyNow": "릴리즈 직후라 적용/마이그레이션 경험이 모이고 있습니다. 에이전트 활용 흐름과 맞물려 주목이 커지고 있습니다.",
       "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "128,866"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "20,243"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-13"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "rust-v0.162.1"
+        },
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "549p · 667c"
+          "value": "482p · 245c"
         }
       ],
       "links": [
         {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50040547"
+          "label": "GitHub",
+          "url": "https://github.com/openai/codex"
         },
         {
-          "label": "Source",
-          "url": "https://status.yandex.cloud/en/incidents/2136"
+          "label": "Release",
+          "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.1"
+        },
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50060694"
         }
       ],
       "tags": [
-        "infra",
-        "data"
+        "agent tooling"
       ]
     },
     {
-      "id": "0fe702bcd45a143bb4c38b832c9cf1fb8a09fd40",
-      "name": "Bot traffic from Yandex",
+      "id": "5a9a7d60931211d0092ff536e8d52554fa64bb94",
+      "name": "Hackers activate automatic defrosting in supermarket fridges across Europe",
       "section": "discussions",
       "status": "NEW",
-      "score": 636.6,
-      "oneLiner": "야ндекс에서 발생한 봇 트래픽 현황을 다루는 토론",
-      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "score": 1101.6,
+      "oneLiner": "해커들이 유럽 슈퍼마켓 냉장고의 자동 해동을 활성화했다는 내용입니다",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "585p · 238c"
+          "value": "476p · 680c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50041619"
+          "url": "https://news.ycombinator.com/item?id=50055304"
         },
         {
           "label": "Source",
-          "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d"
+          "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident"
         }
       ],
       "tags": []
     },
     {
-      "id": "2b2cb50493eb1473a6d24c7bed434ad10f23649e",
-      "name": "Terence Tao: Math 2.0 [pdf]",
+      "id": "737db467800c76bc2e002e1c9b657ed65c7f77b9",
+      "name": "qgis/QGIS-Enhancement-Proposals",
       "section": "discussions",
       "status": "NEW",
-      "score": 625.2,
-      "oneLiner": "테렌스 타오의 Math 2.0 강의 슬라이드 PDF 공유",
-      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "score": 704.62,
+      "oneLiner": "QGIS 개선 제안서(QEP) 작성과 논의를 위한 저장소입니다",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "140"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "61"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-12"
+        },
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "367p · 398c"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/qgis/QGIS-Enhancement-Proposals"
+        },
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50054751"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "7c5662f07567db62ea0967386fbbd3f4cda78c2d",
+      "name": "Muse Wonder",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 688.2,
+      "oneLiner": "Muse Wonder 연구 관련 페이지로 연구 결과를 소개합니다",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "310p · 366c"
+          "value": "543p · 302c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50043026"
+          "url": "https://news.ycombinator.com/item?id=50059115"
         },
         {
           "label": "Source",
-          "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf"
+          "url": "https://research.meta.ai/blog/muse-wonder"
         }
       ],
       "tags": []
@@ -95,24 +160,24 @@
       "name": "openai/math",
       "section": "trending",
       "status": "ONGOING",
-      "score": 594.96,
+      "score": 610.88,
       "oneLiner": "오픈 소스 개발 도구/프로젝트입니다.",
-      "whyNow": "업데이트가 유지되며 관심이 꾸준히 쌓이는 흐름입니다.",
+      "whyNow": "스타 증가와 업데이트 흐름이 동시에 관측되는 상승 구간입니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "14,085"
+          "value": "14,455"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "1,578"
+          "value": "1,634"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-10-12"
+          "value": "2026-10-13"
         }
       ],
       "links": [
@@ -124,248 +189,219 @@
       "tags": []
     },
     {
-      "id": "72df502763c96a4aff32d20301c8236a59e273f5",
-      "name": "IRCv3",
+      "id": "0c8cb4cfe04caebc3b16f194822f8b5395557881",
+      "name": "Deloitte falsified documents to evade tax on Abramovich's wealth",
       "section": "discussions",
       "status": "NEW",
-      "score": 562.2,
-      "oneLiner": "IRCv3 표준과 관련 자료를 정리한 사이트 소개",
-      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "347p · 295c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50041540"
-        },
-        {
-          "label": "Source",
-          "url": "https://ircv3.net/"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "529c3483715412bde460fcc1f0dd04f9ee24afe8",
-      "name": "The gap in shared understanding of LLM capability is widening",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 562.2,
-      "oneLiner": "LLM 능력에 대한 공통 이해의 간극이 벌어지고 있다는 글",
+      "score": 591.0,
+      "oneLiner": "Deloitte가 아브라모비치 관련 문서를 위조했다는 보도 내용입니다",
       "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "223p · 357c"
+          "value": "589p · 198c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50047422"
+          "url": "https://news.ycombinator.com/item?id=50054207"
         },
         {
           "label": "Source",
-          "url": "https://twitter.com/karpathy/status/2109361546505966046"
-        }
-      ],
-      "tags": [
-        "editor"
-      ]
-    },
-    {
-      "id": "5388cb96cee1f3128e075f46d0e9b4e43f3c267b",
-      "name": "Nitter: Update Oct 10th seeking funding and legal help",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 517.8,
-      "oneLiner": "Nitter가 자금 지원과 법률 지원을 요청하는 업데이트",
-      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "417p · 223c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50041682"
-        },
-        {
-          "label": "Source",
-          "url": "https://nitter.net"
+          "url": "https://www.bbc.com/news/articles/c64g1l5389kvo"
         }
       ],
       "tags": []
     },
     {
-      "id": "b18d9f563f60b29855266ebe10685a0025dfae1d",
-      "name": "Documents add to evidence in climate deception case against ExxonMobil",
+      "id": "28dfd2d9424e4bda4cd4cf684a62f67e164166cb",
+      "name": "Why aren't AI companies being charged for hacking?",
       "section": "discussions",
       "status": "NEW",
-      "score": 477.6,
-      "oneLiner": "엑손모빌 기후 기만 소송에 증거를 더하는 문서 공개",
-      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "384p · 206c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50043682"
-        },
-        {
-          "label": "Source",
-          "url": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/"
-        }
-      ],
-      "tags": [
-        "editor"
-      ]
-    },
-    {
-      "id": "a2b6964e3ef387d32e9368a5e8d48546307f91e2",
-      "name": "I paid people to try and follow my README",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 443.4,
-      "oneLiner": "유료로 사람들에게 README를 따라해보게 한 경험담",
+      "score": 586.8,
+      "oneLiner": "AI 기업들이 해킹 혐의로 기소되지 않는 이유를 묻는 글입니다",
       "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "365p · 187c"
+          "value": "312p · 333c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50042219"
+          "url": "https://news.ycombinator.com/item?id=50057278"
         },
         {
           "label": "Source",
-          "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/"
+          "url": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/"
         }
       ],
       "tags": []
     },
     {
-      "id": "f1bc4649a59916bdca848598fac976e9237fc7b7",
-      "name": "LineageOS 24",
+      "id": "19d47ff28ad5116a94f8ad068cfa8bb012c00a09",
+      "name": "GLM-Legal",
       "section": "discussions",
       "status": "NEW",
-      "score": 442.2,
-      "oneLiner": "LineageOS 24 관련 변경사항과 배포 소식",
-      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "score": 586.2,
+      "oneLiner": "GLM 모델과 관련된 법적 이슈를 다루는 글입니다",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "409p · 164c"
+          "value": "459p · 259c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50040276"
+          "url": "https://news.ycombinator.com/item?id=50058507"
         },
         {
           "label": "Source",
-          "url": "https://lineageos.org/Changelog-32/"
+          "url": "https://z.ai/blog/glm-legal"
         }
       ],
       "tags": []
     },
     {
-      "id": "d74f57fe0b665ad3c2cb8c044b2bec2aaa51f5e8",
-      "name": "NYC's \"Click to Cancel\" rule is now in effect",
+      "id": "094f555f9f8f7e7f98e268f45e22f85063840df4",
+      "name": "Citroen revives the 2CV for an electric age",
       "section": "discussions",
       "status": "NEW",
-      "score": 403.8,
-      "oneLiner": "뉴욕시의 클릭 투 캔슬 규정 시행 소식",
-      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다.",
+      "score": 551.4,
+      "oneLiner": "시트로엥이 2CV를 전기차 시대에 맞춰 부활시켰다는 내용입니다",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "337p · 168c"
+          "value": "271p · 324c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50045946"
+          "url": "https://news.ycombinator.com/item?id=50055220"
         },
         {
           "label": "Source",
-          "url": "https://www.nyc.gov/main/click-to-cancel"
+          "url": "https://www.bbc.com/news/articles/c620r33plgppo"
         }
       ],
       "tags": []
     },
     {
-      "id": "7e9011c4e96853b845f83b123286dadb9f6702dd",
-      "name": "Total Annihilation, rebuilt for modern computers",
+      "id": "9dff4a38910fa5dd503fd94e5cce8c60364aceeb",
+      "name": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
       "section": "discussions",
       "status": "NEW",
-      "score": 386.4,
-      "oneLiner": "Total Annihilation을 현대 컴퓨터에 맞춰 재구성한 프로젝트",
-      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다.",
+      "score": 535.8,
+      "oneLiner": "리눅스 휴대폰이 안드로이드와 iOS의 대안이 될지 논의하는 글입니다",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "350p · 147c"
+          "value": "261p · 316c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50045984"
+          "url": "https://news.ycombinator.com/item?id=50051530"
         },
         {
           "label": "Source",
-          "url": "https://nanolathe.gg"
+          "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/"
         }
       ],
       "tags": []
     },
     {
-      "id": "eeb68a45c8338f7fc1c71e22c0504364bdc76f6d",
-      "name": "I'm sorry, but you still have to think",
+      "id": "dcb093483f2f6bd63d9602af3ff7e33b29378f7d",
+      "name": "Thinking will become a hobby",
       "section": "discussions",
       "status": "NEW",
-      "score": 361.2,
-      "oneLiner": "여전히 스스로 생각해야 한다는 주장과 설명",
-      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "score": 532.8,
+      "oneLiner": "사고하는 행위가 취미가 된다는 관점을 제시하는 글입니다",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "318p · 142c"
+          "value": "240p · 324c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50043689"
+          "url": "https://news.ycombinator.com/item?id=50059204"
         },
         {
           "label": "Source",
-          "url": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/"
+          "url": "https://www.spinellis.gr/blog/20261008/?li261008"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "4e5f1a70b9f2129ba9cd271f9daeae1a4bdf6f9c",
+      "name": "AI coding agents generate more code, but not more software",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 518.4,
+      "oneLiner": "AI 코딩 에이전트가 코드를 더 많이 생성하지만 소프트웨어 증가로 이어지지 않는다는 분석입니다",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "314p · 275c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50059523"
+        },
+        {
+          "label": "Source",
+          "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/"
+        }
+      ],
+      "tags": [
+        "agent tooling"
+      ]
+    },
+    {
+      "id": "41bfa958f478080c6c8388bee7a758a0928a3c63",
+      "name": "A Modern Web App in C",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 457.2,
+      "oneLiner": "C 언어로 작성한 현대적 웹 애플리케이션 구현을 다루는 글입니다",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "420p · 171c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50058528"
+        },
+        {
+          "label": "Source",
+          "url": "https://prophitt.me/writing/a-modern-web-app-in-c"
         }
       ],
       "tags": []
@@ -375,29 +411,29 @@
       "name": "storytold/wordcraft",
       "section": "releases",
       "status": "ONGOING",
-      "score": 293.32,
-      "oneLiner": "순수 Rust로 구현한 오픈소스 워드프로세서 재구현 프로젝트",
-      "whyNow": "릴리즈 직후라 적용/마이그레이션 경험이 모이고 있습니다.",
+      "score": 443.08,
+      "oneLiner": "순수 러스트로 구현한 오픈소스 마이크로소프트 워드 재구현 프로젝트입니다",
+      "whyNow": "새 릴리즈 영향으로 관심이 재점화되고 있습니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "5,968"
+          "value": "9,352"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "1,730"
+          "value": "2,450"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-10-12"
+          "value": "2026-10-13"
         },
         {
           "source": "GitHub",
           "metric": "release",
-          "value": "v0.5.0"
+          "value": "v0.6.1"
         }
       ],
       "links": [
@@ -407,61 +443,164 @@
         },
         {
           "label": "Release",
-          "url": "https://github.com/storytold/wordcraft/releases/tag/v0.5.0"
+          "url": "https://github.com/storytold/wordcraft/releases/tag/v0.6.1"
         }
       ],
       "tags": []
     },
     {
-      "id": "ac006362472a647fe175f94ce7648593cb423e3c",
-      "name": "The tilde in your PATH may not be your HOME",
+      "id": "a7aa3e05257ddde6deb9be611f36a6367a5bcc24",
+      "name": "AI is a tool and using it well takes skill",
       "section": "discussions",
       "status": "NEW",
-      "score": 292.8,
-      "oneLiner": "PATH의 물결표시가 HOME이 아닐 수 있다는 경고성 설명",
-      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "score": 411.6,
+      "oneLiner": "AI는 도구이며 이를 잘 사용하려면 기술이 필요하다는 주장입니다",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "208p · 140c"
+          "value": "250p · 218c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50042425"
+          "url": "https://news.ycombinator.com/item?id=50063427"
         },
         {
           "label": "Source",
-          "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/"
+          "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/"
         }
       ],
       "tags": []
     },
     {
-      "id": "addeb1f91e8b719584a4511ee32b9599b8f9a74e",
-      "name": "Passkeys are a trap. Do not use them",
-      "section": "trending",
+      "id": "0562243f3e99c0950c81e3b5bce0c5a95903960c",
+      "name": "snuri00/ps2-web-recomp",
+      "section": "discussions",
       "status": "NEW",
-      "score": 277.2,
-      "oneLiner": "패스키 사용을 경계하라는 반대 주장을 담은 글",
-      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
+      "score": 358.98,
+      "oneLiner": "브라우저에서 PS2 게임을 WebAssembly 정적 재컴파일로 실행하는 프로젝트입니다",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 성능/안정성 관점 논의가 빠르게 늘고 있습니다.",
       "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "398"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "23"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-13"
+        },
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "224p · 119c"
+          "value": "279p · 146c"
         }
       ],
       "links": [
         {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50048312"
+          "label": "GitHub",
+          "url": "https://github.com/snuri00/ps2-web-recomp"
         },
         {
-          "label": "Source",
-          "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them"
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50052251"
+        }
+      ],
+      "tags": [
+        "runtime"
+      ]
+    },
+    {
+      "id": "2e38cd491b286a5960431b41524e515b4f27a5a5",
+      "name": "wheresryan22/anatomy",
+      "section": "releases",
+      "status": "NEW",
+      "score": 287.9,
+      "oneLiner": "상세하고 인터랙티브한 등각 일러스트를 생성하는 에이전트 스킬 프로젝트입니다",
+      "whyNow": "릴리즈 직후라 적용/마이그레이션 경험이 모이고 있습니다. 에이전트 활용 흐름과 맞물려 주목이 커지고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "6,468"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "459"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-13"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v1.1.0"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/wheresryan22/anatomy"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/wheresryan22/anatomy/releases/tag/v1.1.0"
+        }
+      ],
+      "tags": [
+        "agent tooling"
+      ]
+    },
+    {
+      "id": "fb121e97a47d7b04a4730c44ccca21268b1d8178",
+      "name": "h0m3us3r/w1700k-sdr",
+      "section": "trending",
+      "status": "NEW",
+      "score": 267.44,
+      "oneLiner": "오픈 소스 개발 도구/프로젝트입니다.",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "397"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "38"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-13"
+        },
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "274p · 72c"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/h0m3us3r/w1700k-sdr"
+        },
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50055593"
         }
       ],
       "tags": []
@@ -471,24 +610,24 @@
       "name": "mhtsec/ARTEX",
       "section": "trending",
       "status": "ONGOING",
-      "score": 237.26,
-      "oneLiner": "AI 자율 침투 테스트 시스템인 ARTex 오픈소스 프로젝트",
-      "whyNow": "업데이트가 유지되며 관심이 꾸준히 쌓이는 흐름입니다.",
+      "score": 265.42,
+      "oneLiner": "AI 자율 침투 테스트 시스템으로 소개된 프로젝트입니다",
+      "whyNow": "활동성과 관심도가 같이 살아 있는 프로젝트입니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "3,151"
+          "value": "3,626"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "5,561"
+          "value": "6,019"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-10-12"
+          "value": "2026-10-13"
         }
       ],
       "links": [
@@ -502,102 +641,33 @@
       ]
     },
     {
-      "id": "a57411adab5017ef2a138cf517885aafeee0572d",
-      "name": "So, You’d Like To Sell Your Print Issues Of The Onion?",
-      "section": "trending",
-      "status": "NEW",
-      "score": 182.4,
-      "oneLiner": "오니언 지면 호를 판매하는 방법을 안내하는 글",
-      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "240p · 32c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50047055"
-        },
-        {
-          "label": "Source",
-          "url": "https://theonion.com/archivehunt/"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "84317af02ede65d19a7a0d44985b9d9bbebe473e",
-      "name": "alchaincyf/huashu-art-motion",
-      "section": "releases",
-      "status": "ONGOING",
-      "score": 163.16,
-      "oneLiner": "다양한 예술 스타일과 해설 문법으로 그림을 움직이는 애니메이션 도구",
-      "whyNow": "최근 릴리즈가 나오며 실사용 공유가 빠르게 늘고 있습니다.",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "metric": "stars",
-          "value": "3,389"
-        },
-        {
-          "source": "GitHub",
-          "metric": "forks",
-          "value": "380"
-        },
-        {
-          "source": "GitHub",
-          "metric": "updated",
-          "value": "2026-10-12"
-        },
-        {
-          "source": "GitHub",
-          "metric": "release",
-          "value": "v1.0.0"
-        }
-      ],
-      "links": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/alchaincyf/huashu-art-motion"
-        },
-        {
-          "label": "Release",
-          "url": "https://github.com/alchaincyf/huashu-art-motion/releases/tag/v1.0.0"
-        }
-      ],
-      "tags": []
-    },
-    {
       "id": "765291a1c80d709010c63892b4573b88751408dc",
       "name": "storytold/gridcraft",
       "section": "releases",
-      "status": "NEW",
-      "score": 161.52,
-      "oneLiner": "순수 Rust로 만든 오픈소스 스프레드시트 GridCraft 프로젝트",
-      "whyNow": "업데이트가 트리거가 되어 레퍼런스가 모이는 구간입니다.",
+      "status": "ONGOING",
+      "score": 209.5,
+      "oneLiner": "순수 러스트로 구현한 오픈소스 엑셀 스타일 스프레드시트 프로젝트입니다",
+      "whyNow": "새 릴리즈 영향으로 관심이 재점화되고 있습니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "2,934"
+          "value": "3,895"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "1,208"
+          "value": "1,685"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-10-12"
+          "value": "2026-10-13"
         },
         {
           "source": "GitHub",
           "metric": "release",
-          "value": "v0.5.0"
+          "value": "v0.6.1"
         }
       ],
       "links": [
@@ -607,7 +677,7 @@
         },
         {
           "label": "Release",
-          "url": "https://github.com/storytold/gridcraft/releases/tag/v0.5.0"
+          "url": "https://github.com/storytold/gridcraft/releases/tag/v0.6.1"
         }
       ],
       "tags": []
