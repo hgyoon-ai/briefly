@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-09-15",
+    "to": "2026-10-14"
+  },
+  "kpis": {
+    "collected": 68,
+    "deduped": 68,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 29,
+      "Competition": 27,
+      "Manufacturing": 18,
+      "Investment": 14,
+      "Demand": 11,
+      "Other": 1
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (09/15-09/21)",
+      "topicCounts": {
+        "Roadmap": 8,
+        "Competition": 11,
+        "Manufacturing": 7,
+        "Investment": 6,
+        "Demand": 3
+      }
+    },
+    {
+      "week": "Week 2 (09/22-09/28)",
+      "topicCounts": {
+        "Roadmap": 13,
+        "Competition": 11,
+        "Manufacturing": 8,
+        "Investment": 4,
+        "Demand": 6
+      }
+    },
+    {
+      "week": "Week 3 (09/29-10/05)",
+      "topicCounts": {
+        "Roadmap": 16,
+        "Competition": 13,
+        "Manufacturing": 6,
+        "Investment": 9,
+        "Demand": 6
+      }
+    },
+    {
+      "week": "Week 4 (10/06-10/12)",
+      "topicCounts": {
+        "Roadmap": 7,
+        "Competition": 7,
+        "Manufacturing": 5,
+        "Investment": 3,
+        "Demand": 3
+      }
+    },
+    {
+      "week": "Week 5 (10/13-10/14)",
+      "topicCounts": {
+        "Roadmap": 3,
+        "Competition": 3,
+        "Manufacturing": 3,
+        "Investment": 0,
+        "Demand": 1
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "AI 시대 메모리 패러다임 전환: 저장용 NAND에서 컴퓨팅 NAND로",
+      "summary": "SK하이닉스가 HBM·DRAM·NAND를 포함한 AI 최적화 풀스택 메모리 포트폴리오를 제시하고, IEEE에서 3D FeNAND 공정·설계 공동최적화 연구를 공개했다. 저장 위주였던 NAND를 연산 기능까지 수행하는 컴퓨팅 메모리로 확장하려는 시도로, 차세대 AI 가속기용 메모리 아키텍처 변화 가능성을 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "SK hynix Newsroom",
+          "title": "[Inside the Research] In the AI era, NAND moves beyond storage to computing… 3D FeNAND co-optimization at IEEE",
+          "url": "https://news.skhynix.com/en/research-inside-ep2/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "AI 데이터센터 전력 스파이크 대응과 반도체 전력 인프라 수요",
+      "summary": "암페어샌드는 솔리드스테이트 변압기, 배터리, 800V DC 변환, 마이크로그리드 제어를 결합해 AI 데이터센터의 전력 스파이크를 줄이는 솔루션을 제안했다. 이는 고성능 AI 칩 확산에 따른 전력 품질·효율 요구를 반영하며, 전력 반도체와 전력 변환 솔루션 수요 확대와 직결된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Amperesand Aims to Smooth AI Data Center Power Spikes",
+          "url": "https://www.eetimes.com/amperesand-aims-to-smooth-ai-data-center-power-spikes/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "Applied Materials 50억 달러 EPIC 센터: 차세대 반도체 공정·장비 생태계 재편",
+      "summary": "Applied Materials가 50억 달러를 투자해 EPIC 센터를 설립, 칩 제조사·장비사·연구기관이 한곳에서 공정을 공동 개발하고 상용화를 가속하는 새로운 R&D 모델을 추진한다. 소재·공정·장비와 설계 간 동시 최적화를 통해 첨단 노드와 신규 패키징 기술의 개발 사이클을 크게 단축하는 것이 목표다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Applied Materials Bets $5B on a New Model for Chip Innovation",
+          "url": "https://www.eetimes.com/applied-materials-bets-5b-on-a-new-model-for-chip-innovation/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "삼성전자 3Q26 실적 가이던스: 메모리·파운드리 업사이클 신호",
+      "summary": "삼성전자가 2026년 3분기 연결 매출 195조원, 영업이익 107.40조원 가이던스를 제시했다. 전년 대비 큰 폭의 실적 개선은 메모리 가격 회복과 AI 중심 고부가 제품 믹스에 기반한 것으로 해석되며, 메모리 및 파운드리 투자 및 증설 사이클 지속 가능성을 뒷받침한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung Electronics Announces Earnings Guidance for Third Quarter 2026",
+          "url": "https://news.samsung.com/global/samsung-electronics-announces-earnings-guidance-for-third-quarter-2026"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "엣지 AI 반도체 고성능·저전력화: Europa 칩으로 데이터센터급 추론 성능 구현",
+      "summary": "Axelera AI는 Europa 칩이 35W 전력에서 629 TOPS의 추론 성능을 제공한다고 밝혔다. 데이터센터급 AI 연산을 임베디드 전력 범위에서 구현함으로써, 엣지 장치에서도 고성능 모델 운용이 가능해지고 NPU·AI 가속기 시장의 세분화와 경쟁 심화를 예고한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Axelera AI: Data Center Inference Performance in the Power Envelope of Embedded Systems",
+          "url": "https://www.eetimes.com/axelera-ai-data-center-inference-performance-in-the-power-envelope-of-embedded-systems/"
+        }
+      ]
+    }
+  ]
+}

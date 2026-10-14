@@ -1,70 +1,70 @@
 {
   "range": {
-    "from": "2026-09-14",
-    "to": "2026-10-13"
+    "from": "2026-09-15",
+    "to": "2026-10-14"
   },
   "kpis": {
-    "collected": 121,
-    "deduped": 121,
+    "collected": 120,
+    "deduped": 120,
     "uniqueTopics": 10,
     "marketShare": {
       "Market": 32,
       "Supply": 24,
       "Policy": 18,
+      "Rental": 14,
       "UrbanRenewal": 13,
-      "Rental": 13,
       "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (09/14-09/20)",
+      "week": "Week 1 (09/15-09/21)",
       "topicCounts": {
-        "Market": 23,
-        "Supply": 12,
-        "Policy": 11,
-        "UrbanRenewal": 8,
-        "Rental": 8
-      }
-    },
-    {
-      "week": "Week 2 (09/21-09/27)",
-      "topicCounts": {
-        "Market": 20,
-        "Supply": 17,
+        "Market": 21,
+        "Supply": 11,
         "Policy": 12,
-        "UrbanRenewal": 7,
-        "Rental": 13
+        "Rental": 8,
+        "UrbanRenewal": 8
       }
     },
     {
-      "week": "Week 3 (09/28-10/04)",
+      "week": "Week 2 (09/22-09/28)",
       "topicCounts": {
-        "Market": 15,
-        "Supply": 13,
-        "Policy": 8,
-        "UrbanRenewal": 10,
-        "Rental": 3
-      }
-    },
-    {
-      "week": "Week 4 (10/05-10/11)",
-      "topicCounts": {
-        "Market": 15,
-        "Supply": 12,
+        "Market": 21,
+        "Supply": 17,
         "Policy": 9,
-        "UrbanRenewal": 4,
-        "Rental": 8
+        "Rental": 15,
+        "UrbanRenewal": 5
       }
     },
     {
-      "week": "Week 5 (10/12-10/13)",
+      "week": "Week 3 (09/29-10/05)",
       "topicCounts": {
-        "Market": 4,
-        "Supply": 3,
-        "Policy": 4,
-        "UrbanRenewal": 1,
-        "Rental": 1
+        "Market": 18,
+        "Supply": 12,
+        "Policy": 8,
+        "Rental": 2,
+        "UrbanRenewal": 11
+      }
+    },
+    {
+      "week": "Week 4 (10/06-10/12)",
+      "topicCounts": {
+        "Market": 16,
+        "Supply": 14,
+        "Policy": 11,
+        "Rental": 9,
+        "UrbanRenewal": 6
+      }
+    },
+    {
+      "week": "Week 5 (10/13-10/14)",
+      "topicCounts": {
+        "Market": 5,
+        "Supply": 4,
+        "Policy": 6,
+        "Rental": 2,
+        "UrbanRenewal": 2
       }
     }
   ],
@@ -72,75 +72,70 @@
     {
       "id": 1,
       "status": "ONGOING",
-      "title": "다주택자 감소와 보유구조 변화",
-      "summary": "전국 집합건물 기준 2주택 이상 다주택자 비중이 8년 만에 최저 수준인 15%대까지 떨어졌다. 다소유지수와 2채 보유 지수가 모두 하락하며 다주택 규제·세 부담 강화와 금리 환경 속에서 주택 보유 구조가 1주택 중심으로 재편되는 흐름이 이어지고 있다.",
+      "title": "반도체 호재 타고 경기 남부 집값 급등, 강남으로 확산되나",
+      "summary": "수원 광교·화성 동탄 등 경기 남부에 반도체 산업 자금이 대거 유입되며 집값 상승세가 본격화됐다. 동탄에서 차익을 실현해 분당으로 갈아타는 수요가 늘고, 일부 자금은 강남권 매수로까지 번지며 ‘반도체 머니’의 서울 강남 확산 여부가 단기 시장 최대 변수로 부상했다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "헤럴드경제(부동산)",
-          "title": "2채 이상 다주택자 비중 8년만 최저",
-          "url": "https://biz.heraldcorp.com/article/10900837"
+          "title": "“동탄 오르니 분당이 싸보이네” 반도체 머니, 이대로 강남까지 갈까 [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10901379"
         }
       ]
     },
     {
       "id": 2,
       "status": "ONGOING",
-      "title": "서울 정비사업 연내 대규모 착공 드라이브",
-      "summary": "서울시가 연내 11개 정비사업장에서 1.6만호 규모의 주택을 착공하겠다고 밝히며 사업 일정 관리에 직접 나섰다. 오세훈 시장은 적기 착공을 통해 정비사업 지연으로 훼손된 시민·시장 신뢰를 회복하고 공급 불확실성을 줄이겠다는 방침이다.",
+      "title": "지방 공공택지 5만 가구 공급 올스톱, 지역 주택공급 공백 우려",
+      "summary": "지방 공공택지에서 계획된 약 5만 가구의 신규 주택 공급이 전면 중단되면서 지방 주택시장에 대규모 공급 공백이 예고됐다. 택지 개발과 분양 일정이 줄줄이 미뤄져 지자체 주거정책, 건설사 사업계획, 향후 지역 집값 변동성에 대한 우려가 동시에 커지고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "헤럴드경제(부동산)",
-          "title": "서울시, 연내 11개 정비사업장 1.6만호 착공 총력",
-          "url": "https://biz.heraldcorp.com/article/10900836"
+          "source": "한국경제(부동산)",
+          "title": "지방 공공택지의 '눈물'…5만 가구 공급 올스톱",
+          "url": "https://www.hankyung.com/article/2026101394721"
         }
       ]
     },
     {
       "id": 3,
-      "status": "ONGOING",
-      "title": "‘지금 집 사면 손해’ 발언과 서민 주택금융 축소 논란",
-      "summary": "이성훈 LH 사장이 서민 대상 주택 대출 축소 필요성을 주장하고 국정감사장에서 ‘지금 집 사면 손해’라고 언급하면서 시장 심리에 파장이 확산되고 있다. 공공기관 수장의 발언이 향후 주택 구입 수요와 정책 방향에 영향을 줄 수 있다는 점에서 논쟁이 이어지는 상황이다.",
+      "status": "SHIFTING",
+      "title": "재건축 ‘연내 1.5만 가구 착공’ 속도전에 권한이양 갈등 격화",
+      "summary": "정부가 연내 1만5000가구 재건축 착공을 내걸고 인허가와 절차를 속도전으로 밀어붙이는 가운데, 지자체와 주민들은 인·허가 권한을 지방으로 넘기라며 중앙정부와 충돌하고 있다. 재건축 추진 속도, 안전성·사업성 검증, 지역 자율성 사이의 줄다리기가 향후 정비사업 일정의 최대 변수로 부각됐다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "매일경제(부동산)",
-          "title": "“서민 대출 줄여라” 소신 밝히더니…이성훈 LH 사장 “지금 집 사면 손해”",
-          "url": "https://www.mk.co.kr/news/realestate/12174288"
+          "source": "한국경제(부동산)",
+          "title": "연내 1.5만가구 착공 vs 권한이양 추진…재건축 '동상이몽'",
+          "url": "https://www.hankyung.com/article/2026101394691"
         }
       ]
     },
     {
       "id": 4,
-      "status": "SHIFTING",
-      "title": "서울 아파트값 ‘핵심지 둔화·외곽 강세’ 양극화 심화",
-      "summary": "서울 아파트 시장에서 한강변·도심 핵심지는 거래와 가격이 둔화되는 반면, 노도강 등 외곽 중저가 지역은 상대적으로 거래가 활발한 양극화 양상이 뚜렷해지고 있다. 동일 도시 내에서도 수요·체감 경기의 온도차가 커지며 단일한 시장 흐름으로 보기 어려운 국면에 접어들고 있다.",
+      "status": "ONGOING",
+      "title": "LH 장기전세 입주민, “분양 전환해달라” 요구 확산",
+      "summary": "서울 강일리버파크·고덕리엔파크 등 LH 장기전세 단지에서 임대의무기간 종료를 앞두고 분양전환 및 재계약을 요구하는 주민 움직임이 커지고 있다. LH는 공공주택특별법상 20년 의무 규정 외 분양 의무가 없다며 서울시 조례를 근거로 한 입주민 요구를 반박해, 공공임대의 자산 형성 기능과 임대 유지 원칙을 둘러싼 논쟁이 심화되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "매일경제(부동산)",
-          "title": "“지금 서울 아파트값, 평탄화예요? 양극화예요?”…부동산 온도차 커져",
-          "url": "https://www.mk.co.kr/news/realestate/12174206"
+          "source": "헤럴드경제(부동산)",
+          "title": "옆 동 집주인과 자산 격차 ‘10억’…LH장기전세 “분양해달라”[부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10901425"
         }
       ]
     },
     {
       "id": 5,
       "status": "ONGOING",
-      "title": "LH 부채 급증과 공공주택 공급 차질 우려",
-      "summary": "LH 부채가 2030년까지 약 200조원 늘어날 전망이 제기되면서 공공주택 공급 차질과 사업 지연 가능성이 부각되고 있다. 재무 건전성 악화가 토지 매입·공공임대·신규 사업 추진 속도에 제약을 줄 수 있어 중장기 주거복지 정책의 실현 가능성에 의문이 제기되는 상황이다.",
-      "articleCount": 2,
+      "title": "2채 이상 다주택자 비중 8년 만에 최저…‘다소유지수’ 하락세 지속",
+      "summary": "전국 집합건물 기준 2채 이상 보유자 비중이 8년 만에 최저 수준으로 떨어지며 다주택자 축소 흐름이 뚜렷해졌다. 9월 다소유지수는 15.980으로 작년 말 대비 하락했고, 2채 보유 지수도 같은 추세를 이어가 세제·대출 규제와 시장 침체가 복합 작용한 결과로 해석된다.",
+      "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "한국경제(부동산)",
-          "title": "LH 부채 2030년까지 200조 증가…\"공공주택 차질 우려\"",
-          "url": "https://www.hankyung.com/article/2026101268491"
-        },
-        {
-          "source": "매일경제(부동산)",
-          "title": "“서민 대출 줄여라” 소신 밝히더니…이성훈 LH 사장 “지금 집 사면 손해”",
-          "url": "https://www.mk.co.kr/news/realestate/12174288"
+          "source": "헤럴드경제(부동산)",
+          "title": "2채 이상 다주택자 비중 8년만 최저",
+          "url": "https://biz.heraldcorp.com/article/10900837"
         }
       ]
     }

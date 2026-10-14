@@ -1,66 +1,42 @@
 {
   "range": {
-    "from": "2026-10-07",
-    "to": "2026-10-13"
+    "from": "2026-10-08",
+    "to": "2026-10-14"
   },
   "kpis": {
-    "collected": 9,
-    "deduped": 9,
+    "collected": 14,
+    "deduped": 14,
     "uniqueTopics": 10
   },
   "topTopics": [
     {
-      "name": "Tooling",
-      "count": 7
+      "name": "Product",
+      "count": 11
     },
     {
-      "name": "Product",
-      "count": 6
+      "name": "Tooling",
+      "count": 10
     },
     {
       "name": "Models",
-      "count": 5
+      "count": 9
     },
     {
       "name": "Inference",
-      "count": 3
+      "count": 6
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-10-07",
-      "dayOfWeek": "Wed",
-      "topic": "Tooling",
-      "count": 0
-    },
-    {
-      "date": "2026-10-07",
-      "dayOfWeek": "Wed",
-      "topic": "Product",
-      "count": 0
-    },
-    {
-      "date": "2026-10-07",
-      "dayOfWeek": "Wed",
-      "topic": "Models",
-      "count": 0
-    },
-    {
-      "date": "2026-10-07",
-      "dayOfWeek": "Wed",
-      "topic": "Inference",
-      "count": 0
-    },
-    {
       "date": "2026-10-08",
       "dayOfWeek": "Thu",
-      "topic": "Tooling",
+      "topic": "Product",
       "count": 1
     },
     {
       "date": "2026-10-08",
       "dayOfWeek": "Thu",
-      "topic": "Product",
+      "topic": "Tooling",
       "count": 1
     },
     {
@@ -78,13 +54,13 @@
     {
       "date": "2026-10-09",
       "dayOfWeek": "Fri",
-      "topic": "Tooling",
+      "topic": "Product",
       "count": 4
     },
     {
       "date": "2026-10-09",
       "dayOfWeek": "Fri",
-      "topic": "Product",
+      "topic": "Tooling",
       "count": 4
     },
     {
@@ -102,18 +78,18 @@
     {
       "date": "2026-10-10",
       "dayOfWeek": "Sat",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
       "topic": "Tooling",
       "count": 1
     },
     {
       "date": "2026-10-10",
       "dayOfWeek": "Sat",
-      "topic": "Product",
-      "count": 0
-    },
-    {
-      "date": "2026-10-10",
-      "dayOfWeek": "Sat",
       "topic": "Models",
       "count": 0
     },
@@ -126,13 +102,13 @@
     {
       "date": "2026-10-11",
       "dayOfWeek": "Sun",
-      "topic": "Tooling",
+      "topic": "Product",
       "count": 0
     },
     {
       "date": "2026-10-11",
       "dayOfWeek": "Sun",
-      "topic": "Product",
+      "topic": "Tooling",
       "count": 0
     },
     {
@@ -150,13 +126,13 @@
     {
       "date": "2026-10-12",
       "dayOfWeek": "Mon",
-      "topic": "Tooling",
+      "topic": "Product",
       "count": 0
     },
     {
       "date": "2026-10-12",
       "dayOfWeek": "Mon",
-      "topic": "Product",
+      "topic": "Tooling",
       "count": 0
     },
     {
@@ -174,48 +150,115 @@
     {
       "date": "2026-10-13",
       "dayOfWeek": "Tue",
-      "topic": "Tooling",
-      "count": 1
-    },
-    {
-      "date": "2026-10-13",
-      "dayOfWeek": "Tue",
       "topic": "Product",
-      "count": 1
-    },
-    {
-      "date": "2026-10-13",
-      "dayOfWeek": "Tue",
-      "topic": "Models",
       "count": 2
     },
     {
       "date": "2026-10-13",
       "dayOfWeek": "Tue",
+      "topic": "Tooling",
+      "count": 2
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Models",
+      "count": 3
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
       "topic": "Inference",
-      "count": 1
+      "count": 2
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Product",
+      "count": 4
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Tooling",
+      "count": 2
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Models",
+      "count": 3
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Inference",
+      "count": 2
     }
   ],
   "topIssues": [
     {
       "id": "ai-1",
-      "status": "NEW",
-      "title": "하이브리드 LLM 디코딩 가속을 위한 ReplaySSM 등장",
-      "summary": "NVIDIA가 하이브리드 SSM+어텐션 구조에서 상태 저장 방식을 재설계한 ReplaySSM을 제안했다. Nemotron 3, Qwen3.5~3.8, Kimi-K3, GLM-5.3-Flash 등 최신 하이브리드 모델의 디코딩 병목을 줄여 추론 속도와 효율을 높이는 데 초점이 맞춰져 있다.",
-      "articleCount": 1,
+      "status": "ONGOING",
+      "title": "GPU 가속·스케줄링을 통한 대규모 AI 인프라 효율화",
+      "summary": "NVIDIA의 Spark UDF GPU 자동 변환과 ReplaySSM, Hugging Face의 GPU 클러스터 스케줄링 연구가 맞물리며, 하이브리드 모델 및 대규모 트레이닝/추론 인프라의 효율을 극대화하는 흐름이 강화되고 있습니다. 코드 수준(UDT/UDF 재작성), 모델 구조 수준(상태 저장 재설계), 클러스터 운영 수준(스케줄링 최적화)에서 동시에 병목을 줄여 비용 절감과 처리량 향상을 추구하는 단계로 진입했습니다.",
+      "articleCount": 3,
       "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents",
+          "url": "https://developer.nvidia.com/blog/rewrite-apache-spark-udfs-gpu-acceleration-ai-agents/"
+        },
         {
           "source": "NVIDIA Developer Blog",
           "title": "ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding",
           "url": "https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding/"
+        },
+        {
+          "source": "Hugging Face Blog",
+          "title": "Impactful scheduling for GPU clusters",
+          "url": "https://huggingface.co/blog/allenai/impactful-scheduling"
         }
       ]
     },
     {
       "id": "ai-2",
+      "status": "ONGOING",
+      "title": "Gemini 4 Argon: 차세대 범용 모델의 성능·안전성 동시 강화",
+      "summary": "Google DeepMind는 Gemini 4 Argon을 공개하면서 고난도 문제 해결 능력과 멀티모달·도구 활용 성능을 끌어올리는 동시에, 강화된 레드팀, 제한적 배포, 안전성 검증 절차를 내세워 책임 있는 출시를 강조하고 있습니다. 상용급 범용 모델에서 ‘최고 성능+안전·거버넌스’를 패키지로 제시하는 전략이 본격화되고 있습니다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "Google DeepMind Blog",
+          "title": "Gemini 4 Argon: Built to solve your hardest problems",
+          "url": "https://deepmind.google/blog/introducing-gemini-4-argon/"
+        },
+        {
+          "source": "Google DeepMind Blog",
+          "title": "Developing Gemini 4 Argon responsibly and safely",
+          "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/"
+        }
+      ]
+    },
+    {
+      "id": "ai-3",
       "status": "NEW",
-      "title": "StudentSim으로 실제 학습 전 AI 튜터 품질 사전 검증",
-      "summary": "Microsoft가 학습자 행동을 시뮬레이션해 AI 튜터를 미리 시험·개선하는 StudentSim 연구를 공개했다. 체스, 글쓰기, 수학 등 다양한 과목에서 학습자-튜터 상호작용을 가상 재현해 피드백 전략과 튜터 성능을 정량적으로 분석한다.",
+      "title": "온디바이스 에이전트와 프라이버시 중심 AI 실행",
+      "summary": "Hugging Face의 LFM2.5-24B-A2B 발표로, 모바일·엣지 기기에서 동작하는 고성능 에이전트형 모델이 현실화되고 있습니다. 지연 시간과 프라이버시, 비용을 모두 고려해 클라우드 의존도를 줄이는 방향으로 에이전트 아키텍처가 이동하고 있으며, 개인 데이터·업무 자동화 시나리오에서 온디바이스 실행이 중요한 차별화 요소로 부상하고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"
+        }
+      ]
+    },
+    {
+      "id": "ai-4",
+      "status": "NEW",
+      "title": "AI 튜터 검증을 위한 학습자 시뮬레이션 연구 진전",
+      "summary": "Microsoft의 StudentSim 연구는 실제 학생을 대규모로 모집하지 않고도 가상 학습자를 통해 AI 튜터를 사전 검증·개선하는 프레임워크를 제시합니다. 체스, 글쓰기, 수학 등 다양한 도메인에서 학습 궤적과 상호작용을 모사해 튜터 정책을 실험할 수 있어, 교육용 AI 서비스의 신뢰성과 품질 향상을 위한 새로운 평가 패러다임으로 확장될 가능성이 큽니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -226,44 +269,16 @@
       ]
     },
     {
-      "id": "ai-3",
+      "id": "ai-5",
       "status": "ONGOING",
-      "title": "GPU 클러스터 스케줄링 최적화로 비용·처리량 동시 개선",
-      "summary": "GPU 클러스터 자원 스케줄링 전략을 고도화해 작업 대기 시간을 줄이고 처리량을 높이면서 비용 절감을 도모하는 연구·실무 사례가 이어지고 있다. 대규모 학습·추론 워크로드 운영 효율이 주요 경쟁 포인트로 부상했다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Hugging Face Blog",
-          "title": "Impactful scheduling for GPU clusters",
-          "url": "https://huggingface.co/blog/allenai/impactful-scheduling"
-        }
-      ]
-    },
-    {
-      "id": "ai-4",
-      "status": "ONGOING",
-      "title": "보안 운영에 특화된 AI 도입으로 위협 조사 자동화 가속",
-      "summary": "Sophos는 OpenAI Daybreak를 도입해 위협 조사 시간을 96% 단축하고 MDR 사례의 52%를 자동화했다. 인간 분석가의 감독을 유지하면서도 사건 triage와 조사 워크플로 상당 부분을 AI로 이관하는 방향이 뚜렷해지고 있다.",
+      "title": "보안 운영 자동화: AI 기반 위협 조사 가속",
+      "summary": "Sophos는 OpenAI Daybreak를 통해 MDR 사례의 절반 이상을 자동화하면서도 인간 감독을 유지해 위협 조사 시간을 96% 단축했다고 보고했습니다. 이는 보안 운영 영역에서 LLM·에이전트가 ‘전면 자동화’가 아닌 인간 분석가 증폭 도구로 자리 잡는 추세를 보여주며, 규제·책임 문제를 의식한 하이브리드 운영 모델이 확산되는 신호로 해석됩니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "OpenAI Blog",
           "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
           "url": "https://openai.com/index/sophos"
-        }
-      ]
-    },
-    {
-      "id": "ai-5",
-      "status": "ONGOING",
-      "title": "기업용 브라우저 에이전트 테스트에 LLM 도입, 비용·지연 대폭 절감",
-      "summary": "Asana는 브라우저 기반 에이전트 테스트에 GPT-6.1 Sol 등 GPT-6 계열 모델을 적용해 모델 운영 비용을 76배, 지연 시간을 5배 수준으로 개선했다. 프런트엔드·워크플로 테스트 영역에서 LLM 활용이 표준화 단계로 진입하는 흐름을 보여준다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "OpenAI Blog",
-          "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-          "url": "https://openai.com/index/asana-browser-agent"
         }
       ]
     }

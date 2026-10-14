@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-09-14",
-    "to": "2026-10-13"
+    "from": "2026-09-15",
+    "to": "2026-10-14"
   },
   "kpis": {
     "collected": 68,
@@ -10,70 +10,98 @@
     "marketShare": {
       "Roadmap": 29,
       "Competition": 27,
-      "Manufacturing": 17,
-      "Investment": 15,
+      "Manufacturing": 18,
+      "Investment": 14,
       "Demand": 11,
       "Other": 1
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (09/14-09/20)",
+      "week": "Week 1 (09/15-09/21)",
       "topicCounts": {
-        "Roadmap": 11,
-        "Competition": 13,
-        "Manufacturing": 8,
-        "Investment": 8,
-        "Demand": 4
+        "Roadmap": 8,
+        "Competition": 11,
+        "Manufacturing": 7,
+        "Investment": 6,
+        "Demand": 3
       }
     },
     {
-      "week": "Week 2 (09/21-09/27)",
+      "week": "Week 2 (09/22-09/28)",
       "topicCounts": {
         "Roadmap": 13,
-        "Competition": 10,
-        "Manufacturing": 9,
-        "Investment": 6,
+        "Competition": 11,
+        "Manufacturing": 8,
+        "Investment": 4,
         "Demand": 6
       }
     },
     {
-      "week": "Week 3 (09/28-10/04)",
+      "week": "Week 3 (09/29-10/05)",
       "topicCounts": {
-        "Roadmap": 20,
-        "Competition": 18,
-        "Manufacturing": 7,
-        "Investment": 11,
-        "Demand": 7
+        "Roadmap": 16,
+        "Competition": 13,
+        "Manufacturing": 6,
+        "Investment": 9,
+        "Demand": 6
       }
     },
     {
-      "week": "Week 4 (10/05-10/11)",
+      "week": "Week 4 (10/06-10/12)",
       "topicCounts": {
-        "Roadmap": 9,
-        "Competition": 9,
-        "Manufacturing": 7,
+        "Roadmap": 7,
+        "Competition": 7,
+        "Manufacturing": 5,
         "Investment": 3,
         "Demand": 3
       }
     },
     {
-      "week": "Week 5 (10/12-10/13)",
+      "week": "Week 5 (10/13-10/14)",
       "topicCounts": {
-        "Roadmap": 2,
-        "Competition": 0,
-        "Manufacturing": 2,
-        "Investment": 1,
-        "Demand": 0
+        "Roadmap": 3,
+        "Competition": 3,
+        "Manufacturing": 3,
+        "Investment": 0,
+        "Demand": 1
       }
     }
   ],
   "topIssues": [
     {
       "id": 1,
+      "status": "SHIFTING",
+      "title": "AI 시대 메모리 패러다임 전환: 저장용 NAND에서 컴퓨팅 NAND로",
+      "summary": "SK하이닉스가 HBM·DRAM·NAND를 포함한 AI 최적화 풀스택 메모리 포트폴리오를 제시하고, IEEE에서 3D FeNAND 공정·설계 공동최적화 연구를 공개했다. 저장 위주였던 NAND를 연산 기능까지 수행하는 컴퓨팅 메모리로 확장하려는 시도로, 차세대 AI 가속기용 메모리 아키텍처 변화 가능성을 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "SK hynix Newsroom",
+          "title": "[Inside the Research] In the AI era, NAND moves beyond storage to computing… 3D FeNAND co-optimization at IEEE",
+          "url": "https://news.skhynix.com/en/research-inside-ep2/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "AI 데이터센터 전력 스파이크 대응과 반도체 전력 인프라 수요",
+      "summary": "암페어샌드는 솔리드스테이트 변압기, 배터리, 800V DC 변환, 마이크로그리드 제어를 결합해 AI 데이터센터의 전력 스파이크를 줄이는 솔루션을 제안했다. 이는 고성능 AI 칩 확산에 따른 전력 품질·효율 요구를 반영하며, 전력 반도체와 전력 변환 솔루션 수요 확대와 직결된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Amperesand Aims to Smooth AI Data Center Power Spikes",
+          "url": "https://www.eetimes.com/amperesand-aims-to-smooth-ai-data-center-power-spikes/"
+        }
+      ]
+    },
+    {
+      "id": 3,
       "status": "NEW",
-      "title": "장비·소재 중심 반도체 R&D 클러스터 투자 확대",
-      "summary": "Applied Materials가 50억 달러 규모 EPIC 센터를 설립해 칩 제조사·장비·연구기관을 한데 모으는 개방형 공동 R&D 허브를 추진한다. 이는 공정·장비 단계에서 상용화까지의 시간을 단축하고, 첨단 공정 경쟁에서 인프라 투자와 협업 모델이 핵심 수단으로 부상하고 있음을 보여준다.",
+      "title": "Applied Materials 50억 달러 EPIC 센터: 차세대 반도체 공정·장비 생태계 재편",
+      "summary": "Applied Materials가 50억 달러를 투자해 EPIC 센터를 설립, 칩 제조사·장비사·연구기관이 한곳에서 공정을 공동 개발하고 상용화를 가속하는 새로운 R&D 모델을 추진한다. 소재·공정·장비와 설계 간 동시 최적화를 통해 첨단 노드와 신규 패키징 기술의 개발 사이클을 크게 단축하는 것이 목표다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -84,43 +112,10 @@
       ]
     },
     {
-      "id": 2,
-      "status": "ONGOING",
-      "title": "EU 사이버탄력성법(CRA) 대응: 반도체 포함 제조 전반의 규제 리스크 부상",
-      "summary": "EU 사이버탄력성법으로 네트워킹 장비, 산업용·소비자용 전자기기뿐 아니라 반도체와 소프트웨어까지 포괄적인 사이버보안 규제가 적용된다. 제조사는 설계 단계 보안, 공급망 관리, 취약점 대응 프로세스 정비 등 컴플라이언스 체계 구축이 시급해졌으며, 향후 제품 출시 일정과 개발 비용에 구조적 영향을 줄 전망이다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "EE Times",
-          "title": "EU CRA Readiness: 5 Steps Manufacturers Need to Take Now",
-          "url": "https://www.eetimes.com/eu-cra-readiness-5-steps-manufacturers-need-to-take-now/"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "status": "SHIFTING",
-      "title": "자동차용 반도체: 모듈형 AI·센싱 아키텍처로 구조 전환",
-      "summary": "ADAS 고도화와 컴퓨팅 수요 증대로 자동차 업체와 반도체 공급사는 모놀리식에서 모듈형 AI 아키텍처로 이동하고 있다. 동시에 안전·사이버보안 규제가 강화되며 센서 아키텍처 설계 선택에도 규제 대응 능력이 핵심 기준으로 부상, 차량용 SoC·센서·도메인 컨트롤러 구조 재편이 가속되고 있다.",
-      "articleCount": 2,
-      "relatedArticles": [
-        {
-          "source": "EE Times",
-          "title": "Rising Costs, Compute Demand Push ADAS Toward Modular AI",
-          "url": "https://www.eetimes.com/rising-costs-compute-demand-push-adas-toward-modular-ai/"
-        },
-        {
-          "source": "EE Times",
-          "title": "AutoSens 2026: Regulation Drives Automotive Sensing Architectures",
-          "url": "https://www.eetimes.com/autosens-2026-regulations-drive-automotive-sensing-architectures/"
-        }
-      ]
-    },
-    {
       "id": 4,
       "status": "NEW",
-      "title": "삼성전자 실적 가이던스로 본 메모리·파운드리 수요 회복 신호",
-      "summary": "삼성전자가 2026년 3분기 연결 매출 195조원, 영업이익 107.40조원을 제시하며 사상 최대 수준의 이익 회복 가능성을 시사했다. 이는 AI 서버 중심 메모리 수요와 첨단 공정 파운드리 수주 개선에 따른 반도체 업황 회복 기대를 반영하는 주요 지표로 해석된다.",
+      "title": "삼성전자 3Q26 실적 가이던스: 메모리·파운드리 업사이클 신호",
+      "summary": "삼성전자가 2026년 3분기 연결 매출 195조원, 영업이익 107.40조원 가이던스를 제시했다. 전년 대비 큰 폭의 실적 개선은 메모리 가격 회복과 AI 중심 고부가 제품 믹스에 기반한 것으로 해석되며, 메모리 및 파운드리 투자 및 증설 사이클 지속 가능성을 뒷받침한다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -133,8 +128,8 @@
     {
       "id": 5,
       "status": "NEW",
-      "title": "엣지·임베디드용 고성능 AI 추론 칩 부상",
-      "summary": "Axelera의 Europa 칩이 35W 전력에서 629 TOPS급 추론 성능을 내세우며 데이터센터급 연산을 엣지·임베디드 시스템으로 가져오고 있다. 전력 효율과 온디바이스 AI 수요가 맞물리며, 저전력 고성능 NPU·ASIC을 통한 엣지 AI 반도체 경쟁이 본격화되는 흐름이다.",
+      "title": "엣지 AI 반도체 고성능·저전력화: Europa 칩으로 데이터센터급 추론 성능 구현",
+      "summary": "Axelera AI는 Europa 칩이 35W 전력에서 629 TOPS의 추론 성능을 제공한다고 밝혔다. 데이터센터급 AI 연산을 임베디드 전력 범위에서 구현함으로써, 엣지 장치에서도 고성능 모델 운용이 가능해지고 NPU·AI 가속기 시장의 세분화와 경쟁 심화를 예고한다.",
       "articleCount": 1,
       "relatedArticles": [
         {

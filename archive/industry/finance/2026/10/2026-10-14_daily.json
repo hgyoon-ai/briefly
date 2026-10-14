@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-14",
+  "highlights": {
+    "bullets": [
+      "핵심: 코스피 변동성은 일부 대형 메모리주 집중과 외국인 매도세 영향이 크다.",
+      "핵심: 앤트로픽의 매출 공개 예정 소식이 AI 관련 주가 불안을 촉발하고 있다."
+    ],
+    "topTopics": [
+      "MarketInfra",
+      "Policy",
+      "Fintech",
+      "Compliance"
+    ],
+    "stats": {
+      "collected": 15,
+      "deduped": 15
+    }
+  },
+  "cards": [
+    {
+      "id": "finance_0001",
+      "tab": "finance",
+      "publishedAt": "2026-10-14T08:54:09+09:00",
+      "source": "매일경제(증권)",
+      "title": "다른 나라도 반도체 영향 받는데…왜 코스피만 더 크게 흔들리나",
+      "summary": [
+        "코스피 변동성은 메모리 2종목에 시가총액 절반이 집중된 영향이 크다.",
+        "중국의 반도체 추격 우려가 커지며 외국인 매도세가 겹쳤다.",
+        "자사주 매입 종료로 추가 매수 여력이 줄어들어 충격이 증폭됐다."
+      ],
+      "whyItMatters": "소수 대형 메모리주 집중, 외국인 순매도, 자사주 매입 중단이 동시에 작용해 구조적 취약성이 부각되면서 코스피가 글로벌보다 더 크게 흔들렸다.",
+      "topics": [
+        "MarketInfra",
+        "Policy"
+      ],
+      "status": "ONGOING",
+      "hash": "173afa0a29d0d4553e3b406a85546989ca4f108fa44124cd472b8161e1542ed5",
+      "url": "https://www.mk.co.kr/news/stock/12175144"
+    },
+    {
+      "id": "finance_0002",
+      "tab": "finance",
+      "publishedAt": "2026-10-14T08:13:49+09:00",
+      "source": "매일경제(증권)",
+      "title": "앤트로픽 예상 매출에 벌벌 떠는 AI 주가...월가의 흐름이 바뀐다",
+      "summary": [
+        "앤트로픽의 연환산 매출 공개 예정 소식이 AI 관련 주가에 불안을 촉발하고 있다.",
+        "과거 오픈AI 매출 추정 논란 때처럼 반도체 등 연관 종목이 급등락을 보였다.",
+        "월가의 자금 흐름이 실적 기대 중심으로 재편되며 섹터별 재평가 가능성이 커졌다."
+      ],
+      "whyItMatters": "대형 AI업체의 매출 추정치는 밸류에이션과 투자심리에 직접적인 영향을 주어 시장 전반의 자금흐름과 섹터 재배치를 촉발할 수 있기 때문입니다.",
+      "topics": [
+        "MarketInfra",
+        "Fintech"
+      ],
+      "status": "SHIFTING",
+      "hash": "4b92e9a1bea08d2ddf9caaae4a1a53a993f718013f46345a238a0ae23a495e14",
+      "url": "https://www.mk.co.kr/news/business/12175126"
+    }
+  ]
+}

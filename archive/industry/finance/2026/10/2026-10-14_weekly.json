@@ -1,0 +1,281 @@
+{
+  "range": {
+    "from": "2026-10-08",
+    "to": "2026-10-14"
+  },
+  "kpis": {
+    "collected": 12,
+    "deduped": 12,
+    "uniqueTopics": 6
+  },
+  "topTopics": [
+    {
+      "name": "MarketInfra",
+      "count": 11
+    },
+    {
+      "name": "Policy",
+      "count": 8
+    },
+    {
+      "name": "Fintech",
+      "count": 4
+    },
+    {
+      "name": "Compliance",
+      "count": 2
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-08",
+      "dayOfWeek": "Thu",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-10-08",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-08",
+      "dayOfWeek": "Thu",
+      "topic": "Fintech",
+      "count": 1
+    },
+    {
+      "date": "2026-10-08",
+      "dayOfWeek": "Thu",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-10-09",
+      "dayOfWeek": "Fri",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-10-09",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-09",
+      "dayOfWeek": "Fri",
+      "topic": "Fintech",
+      "count": 0
+    },
+    {
+      "date": "2026-10-09",
+      "dayOfWeek": "Fri",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "Fintech",
+      "count": 1
+    },
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Fintech",
+      "count": 0
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Compliance",
+      "count": 1
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Fintech",
+      "count": 1
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Fintech",
+      "count": 0
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Compliance",
+      "count": 1
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Fintech",
+      "count": 1
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Compliance",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "finance-1",
+      "status": "ONGOING",
+      "title": "반도체 집중 구조로 인한 코스피 변동성 확대와 지수 급락",
+      "summary": "코스피는 삼성전자·SK하이닉스 등 메모리 반도체 2개 종목에 시가총액이 과도하게 집중된 탓에 글로벌 반도체 사이클 변화에 지수가 과도하게 흔들리고 있다. 최근 중국의 반도체 추격 우려와 외국인 매도세가 겹치며 장중 6000선 붕괴, 연초 대비 18% 급락 등 변동성이 세계 주요국 증시보다 크게 확대된 것이 주간·월간 핵심 이슈다.",
+      "articleCount": 4,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "다른 나라도 반도체 영향 받는데…왜 코스피만 더 크게 흔들리나",
+          "url": "https://www.mk.co.kr/news/stock/12175144"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "[속보] 코스피, 6000선도 무너졌다…삼전·하이닉스 동반 급락",
+          "url": "https://www.mk.co.kr/news/stock/12174245"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "“60% 폭등하더니 18% 급락”…롤러코스터 코스피, 4분기에는?",
+          "url": "https://www.mk.co.kr/news/stock/12172844"
+        }
+      ]
+    },
+    {
+      "id": "finance-2",
+      "status": "ONGOING",
+      "title": "한국은행 직원 주식거래 급증에 따른 윤리·신뢰 리스크",
+      "summary": "한국은행 직원들의 주식 거래 규모가 상반기에 최대 53배까지 급증한 사실이 드러나며 내부 정보 이용 가능성과 도덕적 해이에 대한 우려가 커지고 있다. 통화·금융정책을 담당하는 기관이 시장 경고보다 직원 사적 거래에 더 집중한 것 아니냐는 비판이 제기되며 중앙은행의 독립성과 정책 신뢰도에 영향을 줄 수 있는 거버넌스 이슈로 부상했다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“이러려고 한은 들어갔나”…시장 경고는 뒷전, 직원들 주식거래 53배 급증 왜?",
+          "url": "https://www.mk.co.kr/news/economy/12174120"
+        }
+      ]
+    },
+    {
+      "id": "finance-3",
+      "status": "SHIFTING",
+      "title": "AI 성장 기대 재점검으로 인한 글로벌 AI·반도체 투자심리 변화",
+      "summary": "앤트로픽의 연환산 매출 공개 예정 소식이 시장의 고성장 기대를 재점검하게 만들며 AI 관련주와 반도체 주가에 변동성을 키우고 있다. 과거 오픈AI 매출 추정 논란 당시와 유사하게, 실적 현실화 국면에서 밸류에이션 부담이 재부각되며 월가의 AI 투자 흐름이 성장 스토리 중심에서 실적 검증 중심으로 이동하는 조정 국면이 진행 중이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "앤트로픽 예상 매출에 벌벌 떠는 AI 주가...월가의 흐름이 바뀐다",
+          "url": "https://www.mk.co.kr/news/business/12175126"
+        }
+      ]
+    },
+    {
+      "id": "finance-4",
+      "status": "ONGOING",
+      "title": "SK하이닉스 실적 기대와 목표주가 상향에 따른 개별 종목 중심 반등 bets",
+      "summary": "메리츠증권이 SK하이닉스 목표주가를 320만원으로 상향하고 상반기 영업이익 80조원을 제시하는 등 어닝 서프라이즈 기대가 확대되면서, 지수 부진 속에서도 AI 메모리 강자를 중심으로 한 개별 종목 장세 전망이 강화되고 있다. 코스피 조정 국면에서도 이익 모멘텀 우위 대형주의 리레이팅 가능성이 다시 부각된 것이 금융시장 주요 논점이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "하이닉스 목표가 320만원 등장…“상반기 영업익 80조 간다” [오늘 나온 보고서]",
+          "url": "https://www.mk.co.kr/news/stock/12173270"
+        }
+      ]
+    },
+    {
+      "id": "finance-5",
+      "status": "SHIFTING",
+      "title": "유조선 중고·신조 가격 역전이 드러낸 해운·조선 시황 왜곡",
+      "summary": "10년 된 중고 유조선 가격이 신조선보다 비싸게 거래되는 비정상 가격 구조가 나타나며 해운·조선 시장의 공급 부족과 고운임, 엄격해지는 환경 규제와 개조·폐선 비용 부담이 복합적으로 작용하고 있다. 이는 선박 자산가치 재평가와 투자 전략 조정, 금융권 선박금융 리스크 관리 등 해운 관련 금융시장 전반에 구조적 변화를 예고하는 지표로 해석된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "상식 붕괴, 유조선 시장 ‘10년 중고’가 더 비싸다?",
+          "url": "https://www.mk.co.kr/news/stock/12173301"
+        }
+      ]
+    }
+  ]
+}

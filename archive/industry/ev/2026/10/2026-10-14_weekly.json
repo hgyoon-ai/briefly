@@ -1,0 +1,276 @@
+{
+  "range": {
+    "from": "2026-10-08",
+    "to": "2026-10-14"
+  },
+  "kpis": {
+    "collected": 12,
+    "deduped": 12,
+    "uniqueTopics": 6
+  },
+  "topTopics": [
+    {
+      "name": "Competition",
+      "count": 11
+    },
+    {
+      "name": "Roadmap",
+      "count": 9
+    },
+    {
+      "name": "Demand",
+      "count": 8
+    },
+    {
+      "name": "Investment",
+      "count": 8
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-08",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-08",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-08",
+      "dayOfWeek": "Thu",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-08",
+      "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-10-09",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-10-09",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-10-09",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 2
+    },
+    {
+      "date": "2026-10-09",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 3
+    },
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 3
+    },
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "Demand",
+      "count": 2
+    },
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Demand",
+      "count": 2
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Investment",
+      "count": 2
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "전기차 보급 가속으로 200억 달러 규모 원유 수요 대체",
+      "summary": "3~8월 전 세계 전기차가 약 200억 달러에 해당하는 원유 수요를 대체하면서 산유국 의존도를 낮추고, 최근 호르무즈 해협 리스크 확대 국면에서 원유 수입국들의 가격·공급 부담을 부분적으로 완화하고 있다. 동시에 미국은 전기차 전환 속도와 정책 측면에서 중국·유럽 대비 경쟁력 저하 우려가 제기된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Electric cars saved $20B in oil – and the US is falling behind",
+          "url": "https://electrek.co/2026/10/13/electric-cars-saved-20b-in-oil-and-the-us-is-falling-behind/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "리비안 분사 ‘마인드 로보틱스’, 더그 필드 영입으로 EV 제조 자동화 투자 가속",
+      "summary": "테슬라 모델 3와 포드 EV 개발을 이끌었던 더그 필드가 리비안에서 분사한 산업 로보틱스 스타트업 마인드 로보틱스 사장으로 합류했다. 설립 1년 미만에 10억 달러 이상을 유치한 이 회사는 EV·배터리 공장 자동화, 지능형 생산 시스템 등 제조 경쟁력 강화를 노리고 있어 향후 완성차·배터리사와의 협업, 설비 투자 확대 이슈로 이어질 가능성이 크다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Rivian’s Mind Robotics snags Doug Field, ex-Tesla and Ford EV chief",
+          "url": "https://electrek.co/2026/10/13/rivian-mind-robotics-doug-field-president-tesla-ford/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "BYD, 상용 전기트럭 15만대 생산 돌파로 글로벌 상용 EV 선도",
+      "summary": "BYD가 장쑤성 화이안 공장에서 15만 번째 상용 신에너지차(NEV)를 생산하며 상용 전기트럭·버스 분야 대량생산 역량을 입증했다. 기념 모델은 약 800마력급 출력의 Q3 전기 세미 트럭으로, 전기 화물·물류 시장 확대와 중국 업체의 상용 EV 글로벌 경쟁력 강화 흐름을 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "BYD builds 150,000th commercial NEV – an 800 hp Q3 electric semi truck",
+          "url": "https://electrek.co/2026/10/10/byd-builds-150000th-commercial-nev-an-800-hp-q3-electric-semi-truck/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "시트로엥 2CV·BMW iX4, 유럽 전기 SUV·보급형 EV 제품 다변화",
+      "summary": "시트로엥이 2028년 출시를 목표로 약 1만5,000유로 가격대의 전기 2CV 콘셉트를 공개하며 엔트리·보급형 EV 시장 공략에 나섰다. 동시에 BMW는 최대 428마일 주행거리의 고가 전기 쿠페-SUV iX4를 선보여 프리미엄 장거리 전기 SUV 수요를 겨냥하고 있어, 유럽 EV 시장에서 가격·성능 양극화와 제품 세그먼트 다변화가 가속되는 양상이다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "The legendary Citroen 2CV is back as a €15k electric concept for 2028",
+          "url": "https://electrek.co/2026/10/11/the-legendary-citroen-2cv-is-back-as-a-e15k-electric-concept-for-2028/"
+        },
+        {
+          "source": "Electrek",
+          "title": "BMW’s new iX4 has 428 miles of range, but it starts at north of $66,000 [Images]",
+          "url": "https://electrek.co/2026/10/08/bmws-new-ix4-428-miles-range-66000-price-tag/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "테슬라 FSD 유럽 승인 과정, 규제기관 압박 논란으로 거버넌스 리스크 부각",
+      "summary": "테슬라가 네덜란드 규제기관 RDW에 FSD(Full Self-Driving) 검토 범위 축소와 36만5,000유로의 비용 부담 경감을 요구하며 수개월간 압박한 이메일 기록이 공개됐다. RDW는 결국 FSD(Supervised)를 승인했고 이를 근거로 테슬라는 EU 전역 승인을 요청해 현재 8개국에서 사용이 허용된 상태다. 자율주행 기능 안전성·책임 문제와 함께 빅테크·완성차의 규제 영향력 행사에 대한 정치·정책 리스크가 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla leaned on Dutch regulator to ease its FSD review, emails show",
+          "url": "https://electrek.co/2026/10/08/tesla-fsd-europe-rdw-pressure-reuters/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "date": "2026-10-14",
+  "highlights": {
+    "bullets": [
+      "핵심: 에스케이하이닉스가 인공지능 최적화 풀스택 메모리와 3D FeNAND 공정·설계 공동최적화 연구를 발표했다.",
+      "핵심: 암페어샌드는 솔리드스테이트 변압기와 배터리 등으로 데이터센터 전력 스파이크 완화를 시도하고 있다.",
+      "트렌드: 인공지능 수요가 반도체 설계·제조와 전력 인프라의 변화를 촉발하고 있다."
+    ],
+    "topTopics": [
+      "Competition",
+      "Manufacturing",
+      "Roadmap",
+      "Investment"
+    ],
+    "stats": {
+      "collected": 5,
+      "deduped": 5
+    }
+  },
+  "cards": [
+    {
+      "id": "semiconductor_0001",
+      "tab": "semiconductor",
+      "publishedAt": "2026-10-14T09:00:04+09:00",
+      "source": "SK hynix Newsroom",
+      "title": "[Inside the Research] In the AI era, NAND moves beyond storage to computing… 3D FeNAND co-optimization at IEEE",
+      "summary": [
+        "SK hynix가 HBM·DRAM·NAND를 포함한 AI 최적화 풀스택 메모리 포트폴리오를 제시했다.",
+        "IEEE에서 3D FeNAND의 공정·설계 공동최적화 연구를 소개하며 NAND의 연산 역할 확장을 제시했다.",
+        "이 연구는 AI 가속용 메모리 성능 개선과 제품 로드맵 전환을 촉진할 가능성이 있다."
+      ],
+      "whyItMatters": "NAND의 저장 중심 역할에서 연산 역할로의 전환은 메모리·시스템 설계와 제조 경쟁 구도를 근본적으로 바꿔 AI 성능과 시장 영향력을 좌우하기 때문이다.",
+      "topics": [
+        "Manufacturing",
+        "Roadmap",
+        "Competition"
+      ],
+      "status": "SHIFTING",
+      "hash": "b03d38089a61778f928069bd114041010d2154a14065b570905836b2409c4b56",
+      "url": "https://news.skhynix.com/en/research-inside-ep2/"
+    },
+    {
+      "id": "semiconductor_0002",
+      "tab": "semiconductor",
+      "publishedAt": "2026-10-14T07:00:00+09:00",
+      "source": "EE Times",
+      "title": "Amperesand Aims to Smooth AI Data Center Power Spikes",
+      "summary": [
+        "암페어샌드는 솔리드스테이트 변압기, 배터리, 800V DC 변환 및 마이크로그리드 제어로 AI 데이터센터의 전력 스파이크를 완화하려 합니다.",
+        "해당 구성은 배터리로 급격한 부하를 흡수하고 고전압 DC 변환으로 효율을 높이며 그리드 영향과 비용을 줄이는 것을 목표로 합니다.",
+        "이 기술은 데이터센터 전력 설계와 운영 방식에 변화를 주어 전력 품질 개선 및 인프라 투자 재검토를 촉발할 수 있습니다."
+      ],
+      "whyItMatters": "AI 워크로드 증가로 인한 급격한 전력 변동을 관리하는 기술적·운영적 필요성이 커졌기 때문입니다.",
+      "topics": [
+        "Demand",
+        "Manufacturing",
+        "Roadmap",
+        "Competition"
+      ],
+      "status": "ONGOING",
+      "hash": "6f46d035fbc2d1674e76b911e554e75278540e8d65d1f6658e3dc04bedad00bd",
+      "url": "https://www.eetimes.com/amperesand-aims-to-smooth-ai-data-center-power-spikes/"
+    },
+    {
+      "id": "semiconductor_0003",
+      "tab": "semiconductor",
+      "publishedAt": "2026-10-13T18:06:10+09:00",
+      "source": "EE Times",
+      "title": "Europe’s Advanced Packaging Gap: Fraunhofer, Swissbit Target the Missing Middle",
+      "summary": [
+        "유럽은 연구와 대량생산 사이의 저량 생산(missing middle) 공백이 존재한다.",
+        "Fraunhofer와 Swissbit가 이 저량 생산 구간을 메우기 위한 산업 모델과 파일럿 역량을 모색하고 있다.",
+        "공백을 해소해야 유럽의 첨단 패키징 상용화와 공급망 경쟁력이 강화된다."
+      ],
+      "whyItMatters": "이 문제는 혁신의 상용화·스케일업을 막아 유럽 반도체 경쟁력과 공급망 회복력에 직접적 영향을 미치기 때문이다.",
+      "topics": [
+        "Manufacturing",
+        "Roadmap",
+        "Policy",
+        "Competition"
+      ],
+      "status": "ONGOING",
+      "hash": "908e5f6fcb1ff1ff536bd5799582a46e5259fe8a64189d3964ee3561f3da6eda",
+      "url": "https://www.eetimes.com/europe-advanced-packaging-gap-fraunhofer-swissbit-target-the-missing-middle/"
+    }
+  ]
+}

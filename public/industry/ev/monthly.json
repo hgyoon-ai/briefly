@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-09-14",
-    "to": "2026-10-13"
+    "from": "2026-09-15",
+    "to": "2026-10-14"
   },
   "kpis": {
     "collected": 54,
@@ -10,59 +10,59 @@
     "marketShare": {
       "Roadmap": 28,
       "Competition": 25,
-      "Demand": 20,
+      "Demand": 19,
       "Investment": 18,
       "Policy": 9,
-      "Other": 0
+      "Other": 1
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (09/14-09/20)",
+      "week": "Week 1 (09/15-09/21)",
       "topicCounts": {
         "Roadmap": 9,
         "Competition": 10,
         "Demand": 7,
-        "Investment": 7,
+        "Investment": 6,
         "Policy": 4
       }
     },
     {
-      "week": "Week 2 (09/21-09/27)",
+      "week": "Week 2 (09/22-09/28)",
       "topicCounts": {
-        "Roadmap": 13,
-        "Competition": 11,
+        "Roadmap": 12,
+        "Competition": 10,
         "Demand": 7,
-        "Investment": 7,
-        "Policy": 3
+        "Investment": 6,
+        "Policy": 4
       }
     },
     {
-      "week": "Week 3 (09/28-10/04)",
+      "week": "Week 3 (09/29-10/05)",
       "topicCounts": {
         "Roadmap": 9,
-        "Competition": 6,
+        "Competition": 7,
         "Demand": 6,
-        "Investment": 6,
-        "Policy": 2
+        "Investment": 5,
+        "Policy": 0
       }
     },
     {
-      "week": "Week 4 (10/05-10/11)",
+      "week": "Week 4 (10/06-10/12)",
       "topicCounts": {
         "Roadmap": 10,
         "Competition": 8,
         "Demand": 6,
         "Investment": 5,
-        "Policy": 3
+        "Policy": 2
       }
     },
     {
-      "week": "Week 5 (10/12-10/13)",
+      "week": "Week 5 (10/13-10/14)",
       "topicCounts": {
-        "Roadmap": 0,
+        "Roadmap": 1,
         "Competition": 2,
-        "Demand": 2,
+        "Demand": 1,
         "Investment": 2,
         "Policy": 1
       }
@@ -71,51 +71,37 @@
   "topIssues": [
     {
       "id": 1,
-      "status": "SHIFTING",
-      "title": "테슬라 수익성 위기와 300억 달러 신용한도 개설",
-      "summary": "테슬라가 이익 감소로 수익성 위기에 다가서며 300억 달러 규모의 신용한도를 열었다. 이는 대규모 설비·제품 로드맵을 유지하기 위한 유동성 방어 조치이자, 향후 투자 속도·가격 전략 조정 가능성을 시사한다.",
+      "status": "ONGOING",
+      "title": "전기차의 원유 대체 효과 확대와 미국의 경쟁력 약화",
+      "summary": "3~8월 전 세계 전기차가 약 200억 달러 규모의 원유 수요를 대체하며 산유국 의존도를 낮추고 있다. 이는 호르무즈 해협 리스크 속에서 수입국의 에너지 가격·공급 부담을 완화하지만, 동시에 전기차·배터리 경쟁에서 미국이 중국·유럽 대비 뒤처지고 있다는 경고 신호로도 해석된다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
-          "title": "Tesla takes on $30 billion in credit as it approaches unprofitability",
-          "url": "https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/"
+          "title": "Electric cars saved $20B in oil – and the US is falling behind",
+          "url": "https://electrek.co/2026/10/13/electric-cars-saved-20b-in-oil-and-the-us-is-falling-behind/"
         }
       ]
     },
     {
       "id": 2,
-      "status": "ONGOING",
-      "title": "일론 머스크의 대규모 반(反) EV 정치 지출과 업계 파장",
-      "summary": "일론 머스크가 반 전기차 정치 캠페인에 5억 달러 이상을 지출한 것으로 전해지며, 테슬라 자체도 이로 인한 수십억 달러 규모 사업 피해를 인정했다. 회사가 중단을 요청했지만 받아들여지지 않아, EV 이미지와 정책 환경, 투자 심리에 장기적 부담 요인으로 작용하고 있다.",
+      "status": "NEW",
+      "title": "리비안 분사 마인드 로보틱스, 더그 필드 영입으로 전기차 제조 자동화 가속",
+      "summary": "테슬라 모델 3와 포드 EV 개발을 이끌었던 더그 필드가 리비안에서 분사한 산업 로보틱스 스타트업 마인드 로보틱스 사장으로 합류했다. 설립 1년 미만에 10억 달러 이상을 조달한 이 회사는 전기차 생산라인 자동화·로보틱스 역량을 강화해 리비안 및 EV 업계의 제조 경쟁구도를 바꿀 잠재력이 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
-          "title": "No single person has spent more money to harm EVs than Tesla CEO Elon Musk",
-          "url": "https://electrek.co/2026/10/12/no-single-person-has-spent-more-money-to-harm-evs-than-tesla-ceo-elon-musk/"
+          "title": "Rivian’s Mind Robotics snags Doug Field, ex-Tesla and Ford EV chief",
+          "url": "https://electrek.co/2026/10/13/rivian-mind-robotics-doug-field-president-tesla-ford/"
         }
       ]
     },
     {
       "id": 3,
       "status": "ONGOING",
-      "title": "테슬라 FSD, 유럽 규제기관 압박 논란 속 승인 확대",
-      "summary": "테슬라가 네덜란드 RDW에 FSD(Supervised) 심사 범위와 비용을 두고 수개월간 압박한 이메일이 공개됐다. RDW는 결국 시스템을 승인했고 이를 기반으로 EU 전역 승인을 요청, 현재 8개국에서 사용이 허용되는 등 자율주행 기능의 유럽 확산이 규제 신뢰 이슈와 함께 진행 중이다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "Tesla leaned on Dutch regulator to ease its FSD review, emails show",
-          "url": "https://electrek.co/2026/10/08/tesla-fsd-europe-rdw-pressure-reuters/"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "status": "ONGOING",
-      "title": "BYD, 15만 번째 상용 NEV 생산으로 전기 트럭 리더십 강화",
-      "summary": "BYD가 화이안 공장에서 15만 번째 상용 신에너지차를 출고하며 상용 전기차 대량 생산 체제를 공고히 했다. 기념 모델인 약 800마력 Q3 전기 세미 트럭은 고성능 전기 화물 수송 시장에서 BYD의 기술·가격 경쟁력을 상징한다.",
+      "title": "BYD, 상용 전기트럭 15만 대 생산 돌파로 상용 EV 시장 우위 강화",
+      "summary": "BYD가 장쑤성 화이안 공장에서 상용 신에너지차 15만 번째 차량을 생산하며 상용 EV 대량생산 역량을 입증했다. 기념 모델인 약 800마력급 Q3 전기 세미 트럭은 장거리·고하중 운송을 겨냥한 제품으로, 전기 상용차 부문에서 BYD의 글로벌 경쟁 우위를 더욱 공고히 할 전망이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -126,16 +112,30 @@
       ]
     },
     {
-      "id": 5,
-      "status": "SHIFTING",
-      "title": "포드 F-150 라이트닝, 중고 시장에서 50% 급락한 가격에 폭발적 수요",
-      "summary": "포드 F-150 라이트닝 중고차가 신차 대비 약 50% 낮은 가격에 빠르게 팔리며 중고 시장에서 인기를 끌고 있다. 그러나 과도한 감가상각은 향후 리스·파이낸싱 잔존가치와 브랜드 신뢰, 수익성에 부담을 줄 수 있어 OEM들의 가격·공급 전략 재조정 이슈로 부상했다.",
+      "id": 4,
+      "status": "NEW",
+      "title": "시트로엥, 2028년 1.5만 유로대 EV로 초저가 유럽 전기차 경쟁 예고",
+      "summary": "시트로엥이 클래식 2CV를 재해석한 전기 콘셉트를 공개하며 2028년 약 1.5만 유로 가격대를 제시했다. 유럽 내 보급형 EV 수요를 겨냥한 초저가 전략으로, 중국산 저가 전기차 공세와 맞물려 유럽 메이커 간 가격 경쟁 심화를 예고한다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
-          "title": "Ford’s electric pickup is suddenly selling like hotcakes at 50% off used",
-          "url": "https://electrek.co/2026/10/12/fords-electric-pickup-selling-like-hotcakes-50-off-used/"
+          "title": "The legendary Citroen 2CV is back as a €15k electric concept for 2028",
+          "url": "https://electrek.co/2026/10/11/the-legendary-citroen-2cv-is-back-as-a-e15k-electric-concept-for-2028/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "BMW iX4, 428마일 주행거리로 프리미엄 장거리 EV 기준 상향",
+      "summary": "BMW가 최대 428마일 주행거리를 내세운 전기 쿠페-SUV iX4를 공개했다. 다만 시작 가격이 6만6천 달러 이상으로 높아, 기술력 과시와 브랜드 포지셔닝에는 유리하지만 대중시장 확대에는 제약 요인이 될 수 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "BMW’s new iX4 has 428 miles of range, but it starts at north of $66,000 [Images]",
+          "url": "https://electrek.co/2026/10/08/bmws-new-ix4-428-miles-range-66000-price-tag/"
         }
       ]
     }
