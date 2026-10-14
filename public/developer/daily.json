@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "kpis": {
     "clusters": 20,
     "sources": 2,
@@ -7,401 +7,236 @@
   },
   "clusters": [
     {
-      "id": "508d73dcd7702a3abd93adcbe42b605b445c3b30",
-      "name": "openai/codex",
-      "section": "releases",
-      "status": "NEW",
-      "score": 6162.7,
-      "oneLiner": "터미널에서 실행되는 경량 코딩 에이전트입니다",
-      "whyNow": "릴리즈 직후라 적용/마이그레이션 경험이 모이고 있습니다. 에이전트 활용 흐름과 맞물려 주목이 커지고 있습니다.",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "metric": "stars",
-          "value": "128,866"
-        },
-        {
-          "source": "GitHub",
-          "metric": "forks",
-          "value": "20,243"
-        },
-        {
-          "source": "GitHub",
-          "metric": "updated",
-          "value": "2026-10-13"
-        },
-        {
-          "source": "GitHub",
-          "metric": "release",
-          "value": "rust-v0.162.1"
-        },
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "482p · 245c"
-        }
-      ],
-      "links": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/openai/codex"
-        },
-        {
-          "label": "Release",
-          "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.1"
-        },
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50060694"
-        }
-      ],
-      "tags": [
-        "agent tooling"
-      ]
-    },
-    {
-      "id": "5a9a7d60931211d0092ff536e8d52554fa64bb94",
-      "name": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+      "id": "9f292efadbb17a0a602bd5555db7353887cb10eb",
+      "name": "rust-lang/rust",
       "section": "discussions",
       "status": "NEW",
-      "score": 1101.6,
-      "oneLiner": "해커들이 유럽 슈퍼마켓 냉장고의 자동 해동을 활성화했다는 내용입니다",
-      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "476p · 680c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50055304"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "737db467800c76bc2e002e1c9b657ed65c7f77b9",
-      "name": "qgis/QGIS-Enhancement-Proposals",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 704.62,
-      "oneLiner": "QGIS 개선 제안서(QEP) 작성과 논의를 위한 저장소입니다",
-      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "metric": "stars",
-          "value": "140"
-        },
-        {
-          "source": "GitHub",
-          "metric": "forks",
-          "value": "61"
-        },
-        {
-          "source": "GitHub",
-          "metric": "updated",
-          "value": "2026-10-12"
-        },
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "367p · 398c"
-        }
-      ],
-      "links": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/qgis/QGIS-Enhancement-Proposals"
-        },
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50054751"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "7c5662f07567db62ea0967386fbbd3f4cda78c2d",
-      "name": "Muse Wonder",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 688.2,
-      "oneLiner": "Muse Wonder 연구 관련 페이지로 연구 결과를 소개합니다",
+      "score": 6014.64,
+      "oneLiner": "신뢰성과 효율적인 소프트웨어 개발을 지원하는 프로젝트.",
       "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
       "evidence": [
         {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "543p · 302c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50059115"
-        },
-        {
-          "label": "Source",
-          "url": "https://research.meta.ai/blog/muse-wonder"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "01d741351a733b53c72ececa20215c781050cda0",
-      "name": "openai/math",
-      "section": "trending",
-      "status": "ONGOING",
-      "score": 610.88,
-      "oneLiner": "오픈 소스 개발 도구/프로젝트입니다.",
-      "whyNow": "스타 증가와 업데이트 흐름이 동시에 관측되는 상승 구간입니다.",
-      "evidence": [
-        {
           "source": "GitHub",
           "metric": "stars",
-          "value": "14,455"
+          "value": "119,913"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "1,634"
+          "value": "18,576"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-10-13"
+          "value": "2026-10-14"
+        },
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "665p · 373c"
         }
       ],
       "links": [
         {
           "label": "GitHub",
-          "url": "https://github.com/openai/math"
+          "url": "https://github.com/rust-lang/rust"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/rust-lang/rust/releases/tag/1.99.0"
+        },
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50069499"
         }
       ],
       "tags": []
     },
     {
-      "id": "0c8cb4cfe04caebc3b16f194822f8b5395557881",
-      "name": "Deloitte falsified documents to evade tax on Abramovich's wealth",
+      "id": "5286e0d1d9d396788cbdc768dd926ce9685ab65e",
+      "name": "Gemini 4 Argon",
       "section": "discussions",
       "status": "NEW",
-      "score": 591.0,
-      "oneLiner": "Deloitte가 아브라모비치 관련 문서를 위조했다는 보도 내용입니다",
+      "score": 1454.4,
+      "oneLiner": "Gemini 4 Argon 관련 토론 페이지.",
       "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "589p · 198c"
+          "value": "952p · 736c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50054207"
+          "url": "https://news.ycombinator.com/item?id=50073879"
         },
         {
           "label": "Source",
-          "url": "https://www.bbc.com/news/articles/c64g1l5389kvo"
+          "url": "https://deepmind.google/models/gemini/"
         }
       ],
       "tags": []
     },
     {
-      "id": "28dfd2d9424e4bda4cd4cf684a62f67e164166cb",
-      "name": "Why aren't AI companies being charged for hacking?",
+      "id": "bd9ce9a1ac4493d7218653608f2c5dfffc9e9d32",
+      "name": "Apple HomeView",
       "section": "discussions",
       "status": "NEW",
-      "score": 586.8,
-      "oneLiner": "AI 기업들이 해킹 혐의로 기소되지 않는 이유를 묻는 글입니다",
-      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
+      "score": 1309.8,
+      "oneLiner": "Apple HomeView에 대한 토론 페이지.",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "312p · 333c"
+          "value": "645p · 769c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50057278"
+          "url": "https://news.ycombinator.com/item?id=50071017"
         },
         {
           "label": "Source",
-          "url": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/"
+          "url": "https://www.apple.com/apple-homeview/"
         }
       ],
       "tags": []
     },
     {
-      "id": "19d47ff28ad5116a94f8ad068cfa8bb012c00a09",
-      "name": "GLM-Legal",
+      "id": "efc217f531c7dba973a6bbaeaf1472c69e0e75b7",
+      "name": "Redesigning source control at Anthropic",
       "section": "discussions",
       "status": "NEW",
-      "score": 586.2,
-      "oneLiner": "GLM 모델과 관련된 법적 이슈를 다루는 글입니다",
-      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "score": 906.0,
+      "oneLiner": "Anthropic의 소스 제어 재설계에 관한 글.",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "459p · 259c"
+          "value": "506p · 502c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50058507"
+          "url": "https://news.ycombinator.com/item?id=50073633"
         },
         {
           "label": "Source",
-          "url": "https://z.ai/blog/glm-legal"
+          "url": "https://www.anthropic.com/engineering/redesigning-source-control"
         }
       ],
       "tags": []
     },
     {
-      "id": "094f555f9f8f7e7f98e268f45e22f85063840df4",
-      "name": "Citroen revives the 2CV for an electric age",
+      "id": "984f6eb84e814f8168682df363feca21d99e9068",
+      "name": "New Apple TV 4K",
       "section": "discussions",
       "status": "NEW",
-      "score": 551.4,
-      "oneLiner": "시트로엥이 2CV를 전기차 시대에 맞춰 부활시켰다는 내용입니다",
-      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "271p · 324c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50055220"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.bbc.com/news/articles/c620r33plgppo"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "9dff4a38910fa5dd503fd94e5cce8c60364aceeb",
-      "name": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 535.8,
-      "oneLiner": "리눅스 휴대폰이 안드로이드와 iOS의 대안이 될지 논의하는 글입니다",
-      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "261p · 316c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50051530"
-        },
-        {
-          "label": "Source",
-          "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "dcb093483f2f6bd63d9602af3ff7e33b29378f7d",
-      "name": "Thinking will become a hobby",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 532.8,
-      "oneLiner": "사고하는 행위가 취미가 된다는 관점을 제시하는 글입니다",
-      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "240p · 324c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50059204"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.spinellis.gr/blog/20261008/?li261008"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "4e5f1a70b9f2129ba9cd271f9daeae1a4bdf6f9c",
-      "name": "AI coding agents generate more code, but not more software",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 518.4,
-      "oneLiner": "AI 코딩 에이전트가 코드를 더 많이 생성하지만 소프트웨어 증가로 이어지지 않는다는 분석입니다",
-      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "314p · 275c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50059523"
-        },
-        {
-          "label": "Source",
-          "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/"
-        }
-      ],
-      "tags": [
-        "agent tooling"
-      ]
-    },
-    {
-      "id": "41bfa958f478080c6c8388bee7a758a0928a3c63",
-      "name": "A Modern Web App in C",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 457.2,
-      "oneLiner": "C 언어로 작성한 현대적 웹 애플리케이션 구현을 다루는 글입니다",
+      "score": 805.2,
+      "oneLiner": "New Apple TV 4K에 관한 토론 페이지.",
       "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "420p · 171c"
+          "value": "280p · 531c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50058528"
+          "url": "https://news.ycombinator.com/item?id=50071310"
         },
         {
           "label": "Source",
-          "url": "https://prophitt.me/writing/a-modern-web-app-in-c"
+          "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "e625ab7ce38a597ccc501ab9b3c9e01bed473bc4",
+      "name": "Firefox Enterprise",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 688.2,
+      "oneLiner": "Firefox Enterprise 관련 토론 페이지.",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "631p · 258c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50070302"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.firefox.com/en-US/enterprise/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "ab97e35d13b30c4494928674e6a849fd4eabd85a",
+      "name": "OpenAI engineer arrested in bugging of executive conference room",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 635.4,
+      "oneLiner": "OpenAI 엔지니어 회의실 도청 혐의 관련 기사 토론.",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "377p · 341c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50078141"
+        },
+        {
+          "label": "Source",
+          "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "8c14ebcfddd8e981d81dd2366c26dfee6abb8c01",
+      "name": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 550.8,
+      "oneLiner": "CFTC 직원이 석유 거래 분석 철회를 지시받았다는 보도 토론.",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "436p · 241c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50069329"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran"
         }
       ],
       "tags": []
@@ -411,24 +246,24 @@
       "name": "storytold/wordcraft",
       "section": "releases",
       "status": "ONGOING",
-      "score": 443.08,
-      "oneLiner": "순수 러스트로 구현한 오픈소스 마이크로소프트 워드 재구현 프로젝트입니다",
-      "whyNow": "새 릴리즈 영향으로 관심이 재점화되고 있습니다.",
+      "score": 519.64,
+      "oneLiner": "Microsoft Word를 순수 러스트로 재구현한 오픈소스 프로젝트.",
+      "whyNow": "업데이트가 트리거가 되어 레퍼런스가 모이는 구간입니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "9,352"
+          "value": "11,101"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "2,450"
+          "value": "2,780"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-10-13"
+          "value": "2026-10-14"
         },
         {
           "source": "GitHub",
@@ -449,99 +284,82 @@
       "tags": []
     },
     {
-      "id": "a7aa3e05257ddde6deb9be611f36a6367a5bcc24",
-      "name": "AI is a tool and using it well takes skill",
+      "id": "53bffceb7e19d945c786637481701e8453984972",
+      "name": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
       "section": "discussions",
       "status": "NEW",
-      "score": 411.6,
-      "oneLiner": "AI는 도구이며 이를 잘 사용하려면 기술이 필요하다는 주장입니다",
-      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "score": 484.8,
+      "oneLiner": "Character.ai의 자발적 챕터 11 파산 신청 소식에 관한 토론.",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 블로그 해석과 후기가 빠르게 붙는 흐름입니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "250p · 218c"
+          "value": "280p · 264c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50063427"
+          "url": "https://news.ycombinator.com/item?id=50068036"
         },
         {
           "label": "Source",
-          "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/"
+          "url": "https://blog.character.ai/an-update-on-character-ai/"
         }
       ],
       "tags": []
     },
     {
-      "id": "0562243f3e99c0950c81e3b5bce0c5a95903960c",
-      "name": "snuri00/ps2-web-recomp",
+      "id": "38e306f51542b421a45cecd96be47cdaea5bee70",
+      "name": "Thunderbird for iOS",
       "section": "discussions",
       "status": "NEW",
-      "score": 358.98,
-      "oneLiner": "브라우저에서 PS2 게임을 WebAssembly 정적 재컴파일로 실행하는 프로젝트입니다",
-      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 성능/안정성 관점 논의가 빠르게 늘고 있습니다.",
+      "score": 360.6,
+      "oneLiner": "Thunderbird for iOS에 관한 토론 페이지.",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 블로그 해석과 후기가 빠르게 붙는 흐름입니다.",
       "evidence": [
-        {
-          "source": "GitHub",
-          "metric": "stars",
-          "value": "398"
-        },
-        {
-          "source": "GitHub",
-          "metric": "forks",
-          "value": "23"
-        },
-        {
-          "source": "GitHub",
-          "metric": "updated",
-          "value": "2026-10-13"
-        },
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "279p · 146c"
+          "value": "325p · 138c"
         }
       ],
       "links": [
         {
-          "label": "GitHub",
-          "url": "https://github.com/snuri00/ps2-web-recomp"
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50072913"
         },
         {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50052251"
+          "label": "Source",
+          "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/"
         }
       ],
-      "tags": [
-        "runtime"
-      ]
+      "tags": []
     },
     {
       "id": "2e38cd491b286a5960431b41524e515b4f27a5a5",
       "name": "wheresryan22/anatomy",
       "section": "releases",
-      "status": "NEW",
-      "score": 287.9,
-      "oneLiner": "상세하고 인터랙티브한 등각 일러스트를 생성하는 에이전트 스킬 프로젝트입니다",
-      "whyNow": "릴리즈 직후라 적용/마이그레이션 경험이 모이고 있습니다. 에이전트 활용 흐름과 맞물려 주목이 커지고 있습니다.",
+      "status": "ONGOING",
+      "score": 359.84,
+      "oneLiner": "상호작용형 등각 일러스트와 정제된 SVG를 생성하는 에이전트 스킬.",
+      "whyNow": "최근 릴리즈가 나오며 실사용 공유가 빠르게 늘고 있습니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "6,468"
+          "value": "8,203"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "459"
+          "value": "586"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-10-13"
+          "value": "2026-10-14"
         },
         {
           "source": "GitHub",
@@ -564,43 +382,113 @@
       ]
     },
     {
-      "id": "fb121e97a47d7b04a4730c44ccca21268b1d8178",
-      "name": "h0m3us3r/w1700k-sdr",
+      "id": "30ca34589a11e8d7024fe23ad069348fb022fc6d",
+      "name": "We turned EmbeddingGemma 2 into a speech-to-text model",
       "section": "trending",
       "status": "NEW",
-      "score": 267.44,
-      "oneLiner": "오픈 소스 개발 도구/프로젝트입니다.",
-      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다.",
+      "score": 334.8,
+      "oneLiner": "EmbeddingGemma 2를 음성-텍스트 모델로 전환한 사례에 관한 글.",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다.",
       "evidence": [
-        {
-          "source": "GitHub",
-          "metric": "stars",
-          "value": "397"
-        },
-        {
-          "source": "GitHub",
-          "metric": "forks",
-          "value": "38"
-        },
-        {
-          "source": "GitHub",
-          "metric": "updated",
-          "value": "2026-10-13"
-        },
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "274p · 72c"
+          "value": "388p · 85c"
         }
       ],
       "links": [
         {
-          "label": "GitHub",
-          "url": "https://github.com/h0m3us3r/w1700k-sdr"
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50069971"
         },
         {
+          "label": "Source",
+          "url": "https://eg2.haku.sh/"
+        }
+      ],
+      "tags": [
+        "vector db"
+      ]
+    },
+    {
+      "id": "5dec198c073f4e71228b41c2ccf8638b804dbb23",
+      "name": "A look at the math that OpenAI claims computes faster Fourier transforms",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 329.4,
+      "oneLiner": "OpenAI가 더 빠른 푸리에 변환을 계산한다고 주장한 수학 검토 글.",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "237p · 156c"
+        }
+      ],
+      "links": [
+        {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50055593"
+          "url": "https://news.ycombinator.com/item?id=50065932"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.argmin.net/p/faster-fourier-transforms"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "13969e61ce51e56b349b4b856194b9d620eabf3a",
+      "name": "AI models can provably hide arbitrary capabilities",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 326.4,
+      "oneLiner": "AI 모델이 임의 능력을 증명 가능하게 숨길 수 있다는 논문.",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 개발자 경험 개선 관점에서 관심이 커지고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "272p · 136c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50065692"
+        },
+        {
+          "label": "Source",
+          "url": "https://arxiv.org/abs/2610.13928"
+        }
+      ],
+      "tags": [
+        "editor"
+      ]
+    },
+    {
+      "id": "c39fe495d840ca0f5be17a0e9787e0a129b6f274",
+      "name": "Hittite royal archive found in Turkey",
+      "section": "trending",
+      "status": "NEW",
+      "score": 301.8,
+      "oneLiner": "터키에서 히타이트 왕실 문서 보관소가 발견되었다는 소식에 관한 글.",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "337p · 83c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50067414"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.thehistoryblog.com/archives/77107"
         }
       ],
       "tags": []
@@ -610,24 +498,24 @@
       "name": "mhtsec/ARTEX",
       "section": "trending",
       "status": "ONGOING",
-      "score": 265.42,
-      "oneLiner": "AI 자율 침투 테스트 시스템으로 소개된 프로젝트입니다",
+      "score": 278.8,
+      "oneLiner": "바이두 'agent+' 대회 우승작으로 소개된 AI 자율 침투 테스트 시스템.",
       "whyNow": "활동성과 관심도가 같이 살아 있는 프로젝트입니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "3,626"
+          "value": "3,871"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "6,019"
+          "value": "6,198"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-10-13"
+          "value": "2026-10-14"
         }
       ],
       "links": [
@@ -645,24 +533,24 @@
       "name": "storytold/gridcraft",
       "section": "releases",
       "status": "ONGOING",
-      "score": 209.5,
-      "oneLiner": "순수 러스트로 구현한 오픈소스 엑셀 스타일 스프레드시트 프로젝트입니다",
-      "whyNow": "새 릴리즈 영향으로 관심이 재점화되고 있습니다.",
+      "score": 236.68,
+      "oneLiner": "엑셀 스타일 스프레드시트를 순수 러스트로 구현한 오픈소스 프로젝트.",
+      "whyNow": "업데이트가 트리거가 되어 레퍼런스가 모이는 구간입니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "3,895"
+          "value": "4,445"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "1,685"
+          "value": "1,944"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-10-13"
+          "value": "2026-10-14"
         },
         {
           "source": "GitHub",
@@ -681,6 +569,77 @@
         }
       ],
       "tags": []
+    },
+    {
+      "id": "6ea759a403f0ef51ffdeae9b84bde81be6f5fb55",
+      "name": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "section": "trending",
+      "status": "NEW",
+      "score": 235.2,
+      "oneLiner": "키보드로 연주하는 가상 기타 Guitoro에 관한 게시물.",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "236p · 78c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50077020"
+        },
+        {
+          "label": "Source",
+          "url": "https://guitoro.com/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "7a053ee47fc269b586abc03a31a06eaeb0f6497f",
+      "name": "storytold/cadcraft",
+      "section": "releases",
+      "status": "NEW",
+      "score": 226.44,
+      "oneLiner": "AutoCAD 스타일 CAD 제도 도구를 순수 러스트로 구현한 오픈소스 앱.",
+      "whyNow": "버전 업데이트 이후 재확산이 시작된 흐름입니다. 개발자 경험 개선 관점에서 관심이 커지고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "4,204"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "1,914"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-14"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v0.6.2"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/storytold/cadcraft"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/storytold/cadcraft/releases/tag/v0.6.2"
+        }
+      ],
+      "tags": [
+        "editor"
+      ]
     }
   ]
 }
