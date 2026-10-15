@@ -2,6 +2,53 @@
   "month": "2026-10",
   "events": [
     {
+      "id": "news:삼성증권:https://www.fnnews.com/news/202610140929477283",
+      "date": "2026-10-14",
+      "company": "삼성증권",
+      "title": "삼성증권, 패밀리오피스 200가문 돌파…고객자산 55조원",
+      "oneLiner": "삼성증권의 패밀리오피스 서비스가 가입 가문 200곳·고객자산 55조원을 돌파하며 자산관리(초고액) 비즈니스가 확대되었습니다.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "삼성증권, 패밀리오피스 200가문 돌파…고객자산 55조원",
+          "url": "https://www.fnnews.com/news/202610140929477283"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-10-15"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202610141017414792",
+      "date": "2026-10-14",
+      "company": "NH투자증권",
+      "title": "키움증권, NH농협은행과 투자자문 서비스 운영 MOU",
+      "oneLiner": "키움증권과 NH농협은행이 투자자문 서비스 운영·플랫폼 활용을 위한 업무협약(MOU)을 체결해 제휴를 통한 자문 서비스 확대가 예정되었습니다.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "키움증권, NH농협은행과 투자자문 서비스 운영 MOU",
+          "url": "https://www.fnnews.com/news/202610141017414792"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-10-15"
+    },
+    {
       "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12174090",
       "date": "2026-10-13",
       "company": "한국투자증권",
@@ -325,7 +372,7 @@
       ],
       "tags": [],
       "confidence": 0.8,
-      "updatedAt": "2026-10-14"
+      "updatedAt": "2026-10-15"
     },
     {
       "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12173707",

@@ -2,6 +2,123 @@
   "month": "2026-10",
   "events": [
     {
+      "id": "news:미래에셋증권:https://www.hankyung.com/article/2026101405371",
+      "date": "2026-10-14",
+      "company": "미래에셋증권",
+      "title": "미래에셋증권, 알고리즘이 내 연금 맞춤 설계하고 추천도",
+      "oneLiner": "미래에셋증권이 알고리즘 기반으로 개인 연금을 맞춤 설계하고 추천하는 서비스를 도입한 내용으로, 개인화된 권장·자동화 기능과 관련된 변화임.",
+      "type": "출시",
+      "areas": [
+        "WM",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "미래에셋증권, 알고리즘이 내 연금 맞춤 설계하고 추천도",
+          "url": "https://www.hankyung.com/article/2026101405371"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-10-15"
+    },
+    {
+      "id": "news:토스증권:https://www.mk.co.kr/news/stock/12175720",
+      "date": "2026-10-14",
+      "company": "토스증권",
+      "title": "“지수·수급·이슈 한눈에”…토스증권, AI 투자정보 서비스 강화",
+      "oneLiner": "토스증권이 AI를 활용해 지수·수급·이슈를 설명하는 투자정보 서비스를 강화한 발표로, AI 기반 시장요약·투자정보 자동화에 해당함.",
+      "type": "시스템",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“지수·수급·이슈 한눈에”…토스증권, AI 투자정보 서비스 강화",
+          "url": "https://www.mk.co.kr/news/stock/12175720"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-10-15"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202610140926322387",
+      "date": "2026-10-14",
+      "company": "한국투자증권",
+      "title": "ETF·펀드 비교부터 모의투자까지…한투운용, '투자플러스' 출시",
+      "oneLiner": "한국투자신탁운용이 AI를 활용해 관심 주제별 상품 탐색, 비교, 모의투자 기능을 제공하는 투자 플랫폼 '투자플러스'를 출시했음.",
+      "type": "출시",
+      "areas": [
+        "WM",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "ETF·펀드 비교부터 모의투자까지…한투운용, '투자플러스' 출시",
+          "url": "https://www.fnnews.com/news/202610140926322387"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-10-15"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202610140922463378",
+      "date": "2026-10-14",
+      "company": "한국투자증권",
+      "title": "한국투자증권, AI 음성 리서치 서비스 출시…글로벌 보고서 확대",
+      "oneLiner": "한국투자증권이 모바일에서 리서치 요약을 AI 음성으로 낭독해주는 '들려주는 리서치' 서비스를 출시해 리서치 접근성·자동화 기능을 강화함.",
+      "type": "출시",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한국투자증권, AI 음성 리서치 서비스 출시…글로벌 보고서 확대",
+          "url": "https://www.fnnews.com/news/202610140922463378"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-10-15"
+    },
+    {
+      "id": "news:토스증권:https://www.fnnews.com/news/202610141327022996",
+      "date": "2026-10-14",
+      "company": "토스증권",
+      "title": "토스증권, AI 투자정보 서비스 확대",
+      "oneLiner": "토스증권이 '시장' 탭을 신설하고 AI 기반 실시간 이슈·시장 요약 기능을 확대해 투자정보의 자동화·AI 요약 기능을 강화했음.",
+      "type": "시스템",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "토스증권, AI 투자정보 서비스 확대",
+          "url": "https://www.fnnews.com/news/202610141327022996"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-10-15"
+    },
+    {
       "id": "news:키움증권:https://www.fnnews.com/news/202610130659354163",
       "date": "2026-10-13",
       "company": "키움증권",
