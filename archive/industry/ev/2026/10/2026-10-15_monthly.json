@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-09-16",
+    "to": "2026-10-15"
+  },
+  "kpis": {
+    "collected": 54,
+    "deduped": 54,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 28,
+      "Competition": 25,
+      "Demand": 21,
+      "Investment": 18,
+      "Manufacturing": 9,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (09/16-09/22)",
+      "topicCounts": {
+        "Roadmap": 9,
+        "Competition": 10,
+        "Demand": 7,
+        "Investment": 5,
+        "Manufacturing": 2
+      }
+    },
+    {
+      "week": "Week 2 (09/23-09/29)",
+      "topicCounts": {
+        "Roadmap": 11,
+        "Competition": 8,
+        "Demand": 7,
+        "Investment": 6,
+        "Manufacturing": 3
+      }
+    },
+    {
+      "week": "Week 3 (09/30-10/06)",
+      "topicCounts": {
+        "Roadmap": 9,
+        "Competition": 7,
+        "Demand": 7,
+        "Investment": 4,
+        "Manufacturing": 5
+      }
+    },
+    {
+      "week": "Week 4 (10/07-10/13)",
+      "topicCounts": {
+        "Roadmap": 8,
+        "Competition": 9,
+        "Demand": 7,
+        "Investment": 6,
+        "Manufacturing": 3
+      }
+    },
+    {
+      "week": "Week 5 (10/14-10/15)",
+      "topicCounts": {
+        "Roadmap": 2,
+        "Competition": 1,
+        "Demand": 2,
+        "Investment": 1,
+        "Manufacturing": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "ev-1",
+      "status": "NEW",
+      "title": "가정용 ESS가 본격 전력자원으로 부상: 캘리포니아 파워월 745MW 디스패치 기록",
+      "summary": "캘리포니아에서 테슬라 파워월 등 가정용 배터리가 전력망에 745MW를 공급하며 기록을 세웠습니다. 8만5천 개 이상의 파워월이 600MW 이상을 담당해 피크 수요 관리와 분산자원(배터리) 기반 그리드 안정화가 현실 단계에 접어들었음을 보여줍니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla Powerwalls supply most of record 745 MW California grid dispatch",
+          "url": "https://electrek.co/2026/10/14/tesla-powerwall-sunrun-record-745-mw-california-grid-dispatch/"
+        }
+      ]
+    },
+    {
+      "id": "ev-2",
+      "status": "NEW",
+      "title": "리비안 분사 ‘마인드 로보틱스’, 더그 필드 영입으로 EV 제조 자동화 경쟁 가속",
+      "summary": "테슬라 모델 3와 포드 EV 개발을 이끌었던 더그 필드가 리비안 분사 산업 로보틱스 스타트업 ‘마인드 로보틱스’ 사장으로 합류했습니다. 설립 1년 미만에 10억 달러 이상을 조달한 이 회사는 EV 생산 공정 자동화·지능형 로보틱스 역량을 빠르게 키우며 차세대 EV 제조 경쟁 구도의 핵심축으로 부상하고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Rivian’s Mind Robotics snags Doug Field, ex-Tesla and Ford EV chief",
+          "url": "https://electrek.co/2026/10/13/rivian-mind-robotics-doug-field-president-tesla-ford/"
+        }
+      ]
+    },
+    {
+      "id": "ev-3",
+      "status": "NEW",
+      "title": "1.5만 유로 레트로 EV: 시트로엥 2CV 전기 콘셉트로 저가 유럽 소형차 공략",
+      "summary": "시트로엥이 전설적인 2CV를 2028년 목표의 전기차 콘셉트로 부활시키며 약 1.5만 유로 가격대를 제시했습니다. 전통 브랜드의 레트로 디자인과 저가 전략이 결합되면서, 유럽 도심형 EV 및 엔트리급 시장에서 중국 및 로컬 경쟁사와의 가격·브랜드 경쟁이 한층 치열해질 전망입니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "The legendary Citroen 2CV is back as a €15k electric concept for 2028",
+          "url": "https://electrek.co/2026/10/11/the-legendary-citroen-2cv-is-back-as-a-e15k-electric-concept-for-2028/"
+        }
+      ]
+    },
+    {
+      "id": "ev-4",
+      "status": "ONGOING",
+      "title": "BYD, 상용 전기차 15만 대 생산 돌파…800마력급 전기 세미로 상용 EV 리더십 강화",
+      "summary": "BYD가 장쑤 화이안 트럭 공장에서 15만 번째 상용 신에너지차(NEV)를 생산하며 상용 전기차 대량 양산 역량을 과시했습니다. 기념 차량인 800마력급 Q3 전기 세미 트럭은 전기 화물 운송과 플릿 전환 수요를 겨냥한 BYD의 상용 EV 제품 포트폴리오 경쟁력을 보여줍니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "BYD builds 150,000th commercial NEV – an 800 hp Q3 electric semi truck",
+          "url": "https://electrek.co/2026/10/10/byd-builds-150000th-commercial-nev-an-800-hp-q3-electric-semi-truck/"
+        }
+      ]
+    },
+    {
+      "id": "ev-5",
+      "status": "NEW",
+      "title": "BMW iX4, 428마일 주행거리로 장거리 프리미엄 EV 시장 공략",
+      "summary": "BMW가 최대 428마일 주행거리의 전기 쿠페-SUV iX4를 공개했습니다. 시작가가 6만6000달러 이상으로 책정되며, 고가지만 긴 주행거리와 프리미엄 포지셔닝으로 테슬라·메르세데스 등과 장거리 EV 시장에서 직접 경쟁하는 구도가 형성되고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "BMW’s new iX4 has 428 miles of range, but it starts at north of $66,000 [Images]",
+          "url": "https://electrek.co/2026/10/08/bmws-new-ix4-428-miles-range-66000-price-tag/"
+        }
+      ]
+    }
+  ]
+}

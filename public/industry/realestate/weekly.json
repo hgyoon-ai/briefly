@@ -1,55 +1,37 @@
 {
   "range": {
-    "from": "2026-10-08",
-    "to": "2026-10-14"
+    "from": "2026-10-09",
+    "to": "2026-10-15"
   },
   "kpis": {
-    "collected": 24,
-    "deduped": 24,
+    "collected": 26,
+    "deduped": 26,
     "uniqueTopics": 10
   },
   "topTopics": [
     {
+      "name": "Policy",
+      "count": 17
+    },
+    {
       "name": "Market",
-      "count": 18
+      "count": 17
     },
     {
       "name": "Supply",
-      "count": 14
+      "count": 16
     },
     {
-      "name": "Policy",
-      "count": 14
-    },
-    {
-      "name": "Rental",
-      "count": 8
+      "name": "UrbanRenewal",
+      "count": 9
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-10-08",
-      "dayOfWeek": "Thu",
-      "topic": "Market",
-      "count": 2
-    },
-    {
-      "date": "2026-10-08",
-      "dayOfWeek": "Thu",
-      "topic": "Supply",
-      "count": 1
-    },
-    {
-      "date": "2026-10-08",
-      "dayOfWeek": "Thu",
+      "date": "2026-10-09",
+      "dayOfWeek": "Fri",
       "topic": "Policy",
       "count": 1
-    },
-    {
-      "date": "2026-10-08",
-      "dayOfWeek": "Thu",
-      "topic": "Rental",
-      "count": 2
     },
     {
       "date": "2026-10-09",
@@ -66,13 +48,13 @@
     {
       "date": "2026-10-09",
       "dayOfWeek": "Fri",
-      "topic": "Policy",
-      "count": 1
+      "topic": "UrbanRenewal",
+      "count": 2
     },
     {
-      "date": "2026-10-09",
-      "dayOfWeek": "Fri",
-      "topic": "Rental",
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
       "count": 1
     },
     {
@@ -90,40 +72,40 @@
     {
       "date": "2026-10-10",
       "dayOfWeek": "Sat",
-      "topic": "Policy",
-      "count": 1
-    },
-    {
-      "date": "2026-10-10",
-      "dayOfWeek": "Sat",
-      "topic": "Rental",
-      "count": 2
-    },
-    {
-      "date": "2026-10-11",
-      "dayOfWeek": "Sun",
-      "topic": "Market",
-      "count": 4
-    },
-    {
-      "date": "2026-10-11",
-      "dayOfWeek": "Sun",
-      "topic": "Supply",
-      "count": 3
-    },
-    {
-      "date": "2026-10-11",
-      "dayOfWeek": "Sun",
-      "topic": "Policy",
-      "count": 2
-    },
-    {
-      "date": "2026-10-11",
-      "dayOfWeek": "Sun",
-      "topic": "Rental",
+      "topic": "UrbanRenewal",
       "count": 0
     },
     {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Market",
+      "count": 4
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Supply",
+      "count": 3
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "UrbanRenewal",
+      "count": 1
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 3
+    },
+    {
       "date": "2026-10-12",
       "dayOfWeek": "Mon",
       "topic": "Market",
@@ -138,26 +120,8 @@
     {
       "date": "2026-10-12",
       "dayOfWeek": "Mon",
-      "topic": "Policy",
-      "count": 3
-    },
-    {
-      "date": "2026-10-12",
-      "dayOfWeek": "Mon",
-      "topic": "Rental",
+      "topic": "UrbanRenewal",
       "count": 1
-    },
-    {
-      "date": "2026-10-13",
-      "dayOfWeek": "Tue",
-      "topic": "Market",
-      "count": 4
-    },
-    {
-      "date": "2026-10-13",
-      "dayOfWeek": "Tue",
-      "topic": "Supply",
-      "count": 4
     },
     {
       "date": "2026-10-13",
@@ -168,40 +132,104 @@
     {
       "date": "2026-10-13",
       "dayOfWeek": "Tue",
-      "topic": "Rental",
+      "topic": "Market",
+      "count": 4
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Supply",
+      "count": 4
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "UrbanRenewal",
       "count": 2
     },
     {
       "date": "2026-10-14",
       "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 4
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
       "topic": "Market",
-      "count": 1
+      "count": 2
     },
     {
       "date": "2026-10-14",
       "dayOfWeek": "Wed",
       "topic": "Supply",
-      "count": 0
+      "count": 3
     },
     {
       "date": "2026-10-14",
       "dayOfWeek": "Wed",
+      "topic": "UrbanRenewal",
+      "count": 3
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
       "topic": "Policy",
       "count": 0
     },
     {
-      "date": "2026-10-14",
-      "dayOfWeek": "Wed",
-      "topic": "Rental",
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Market",
+      "count": 0
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "UrbanRenewal",
       "count": 0
     }
   ],
   "topIssues": [
     {
-      "id": 1,
+      "id": "RE-001",
       "status": "ONGOING",
-      "title": "반도체 호재 타고 경기 남부 집값 급등, 강남권 확산 우려",
-      "summary": "수원 광교·화성 동탄 등 반도체산업 수혜 지역을 중심으로 집값이 다시 오르며, 동탄에서 분당·강남권으로 갈아타기 수요까지 관측된다. 반도체 머니 유입이 수도권 남부 전반의 국지적 과열과 추가 상승 기대·불안 심리를 동시에 키우는 상황이다.",
+      "title": "수도권 오피스 개발과 주택공급 연계: 업무·주거 동시 확대 정책",
+      "summary": "정부가 수도권에서 오피스 신축 규모에 비례해 주택을 함께 공급하도록 제도화하면서, 업무·상업 개발과 주거 공급을 연동하는 새로운 공급 모델을 추진 중이다. 이는 도심 고밀 개발과 주택난 완화를 동시에 노리는 장기 정책 기조로, 향후 정비사업 및 도심 재개발 인허가 기준 변화로 이어질 가능성이 크다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "수도권서 오피스 짓는 만큼 주택 공급도 늘린다",
+          "url": "https://www.hankyung.com/article/2026101420921"
+        }
+      ]
+    },
+    {
+      "id": "RE-002",
+      "status": "ONGOING",
+      "title": "재건축·재개발 공사비 검증 강화: 정비사업 원가 투명성 이슈",
+      "summary": "정부가 전국 정비사업장 공사비를 특별점검한 결과 상당수 사업장이 법정 공사비 검증 절차를 거치지 않은 것으로 드러나자, 공사비 검증 의무화와 현장점검을 강화하고 있다. 이는 조합·시공사 간 갈등과 분양가 산정 논란을 줄이기 위한 조치로, 향후 사업 일정 지연과 추가 규제 논의로 이어질 수 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "공사비 부르는 게 값?… 검증 칼날 꺼낸 정부",
+          "url": "https://www.mk.co.kr/news/realestate/12175855"
+        }
+      ]
+    },
+    {
+      "id": "RE-003",
+      "status": "ONGOING",
+      "title": "반도체 호황발 ‘경기 남부→분당→강남’ 주택 자본 이동",
+      "summary": "반도체 산업 호황으로 유입된 자금이 수원 광교·화성 동탄 등 경기 남부 집값을 끌어올리면서, 동탄 매도 후 분당으로 갈아타는 수요와 강남권 진입을 노리는 매수세가 관측되고 있다. 산업 호황이 특정 권역 집값을 순차적으로 자극하는 ‘머니 무브’ 현상이 재현될지에 시장 관심이 집중된다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -212,10 +240,10 @@
       ]
     },
     {
-      "id": 2,
+      "id": "RE-004",
       "status": "ONGOING",
-      "title": "지방 공공택지 5만 가구 공급 올스톱…지역 주택공급 공백 우려",
-      "summary": "지방 공공택지에서 계획됐던 약 5만 가구 신규 주택 공급이 전면 중단되며 지방의 중장기 공급 계획에 큰 구멍이 생겼다. 택지 개발 차질로 착공·분양 일정이 줄줄이 미뤄질 가능성이 커져, 향후 일부 지역의 공급 부족·미분양 리스크 재편 등 시장 불확실성이 확대되고 있다.",
+      "title": "지방 공공택지 5만 가구 공급 중단: 지역 간 공급 양극화 심화",
+      "summary": "지방 공공택지에서 예정됐던 약 5만 가구 신규 주택 공급이 전면 중단되면서, 지방 택지 개발과 분양 일정에 심각한 차질이 발생하고 있다. 수도권 편중 공급·자금 흐름과 맞물려 지방 주택시장 침체 및 인구·수요 유출 우려가 커지고 있어, 지역 균형 공급 대책이 핵심 현안으로 부상했다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -226,44 +254,16 @@
       ]
     },
     {
-      "id": 3,
+      "id": "RE-005",
       "status": "SHIFTING",
-      "title": "정부 ‘연내 1.5만 가구 재건축 착공’ 드라이브 vs 지자체 권한이양 갈등",
-      "summary": "정부가 연내 재건축 1.5만 가구 착공을 목표로 인허가·사업 속도전을 벌이는 가운데, 지자체와 주민 측은 인허가·행정 권한 이양을 요구하며 중앙정부와 충돌하고 있다. 재건축 촉진 기조는 유지되지만 권한 배분과 절차 간소화를 둘러싼 이해관계가 엇갈리며 사업 속도와 규제 방향이 변동 국면에 들어섰다.",
+      "title": "재건축 추진 속도 vs 권한 이양 갈등: 중앙·지자체·주민 ‘삼각 대치’",
+      "summary": "정부는 연내 1.5만 가구 재건축 착공을 목표로 인허가 및 사업 절차를 속도감 있게 밀어붙이는 반면, 지자체와 주민들은 재건축 인허가 권한의 지방 이양과 주민 자율성을 요구하며 갈등을 빚고 있다. 재건축 정책 방향이 ‘속도·물량 중심’에서 ‘분권·자율’ 요구와 충돌하는 국면으로, 향후 제도 개편 여부가 변곡점이 될 전망이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "한국경제(부동산)",
           "title": "연내 1.5만가구 착공 vs 권한이양 추진…재건축 '동상이몽'",
           "url": "https://www.hankyung.com/article/2026101394691"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "status": "ONGOING",
-      "title": "LH 장기전세 입주민, 분양전환·재계약 요구 확산",
-      "summary": "서울 강일리버파크·고덕리엔파크 등 LH 장기전세 단지에서 임대 의무기간 종료를 앞두고 재계약 보장과 분양전환을 요구하는 움직임이 거세지고 있다. 인근 분양 아파트와 최대 수십억까지 벌어진 자산 격차 속에, LH는 현행 공공주택특별법상 분양전환 대상이 아니라며 맞서 공공임대의 역할과 자산형성 기능을 둘러싼 논쟁이 이어지는 중이다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "헤럴드경제(부동산)",
-          "title": "옆 동 집주인과 자산 격차 ‘10억’…LH장기전세 “분양해달라”[부동산360]",
-          "url": "https://biz.heraldcorp.com/article/10901425"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "status": "ONGOING",
-      "title": "다주택자 비중 8년 만에 최저…다소유 지수 하락세 지속",
-      "summary": "전국 집합건물 소유자 중 2채 이상 다주택자 비중이 8년 만에 가장 낮은 수준으로 떨어지며 다소유 지수가 꾸준히 하락하고 있다. 보유·양도세 강화, 금리 부담, 규제 기조 등 영향으로 다주택자 매도 및 포트폴리오 축소가 이어지면서 시장 구조가 실수요 중심으로 재편되는 흐름이다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "헤럴드경제(부동산)",
-          "title": "2채 이상 다주택자 비중 8년만 최저",
-          "url": "https://biz.heraldcorp.com/article/10900837"
         }
       ]
     }

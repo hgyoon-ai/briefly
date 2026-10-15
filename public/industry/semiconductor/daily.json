@@ -1,87 +1,129 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "highlights": {
     "bullets": [
-      "핵심: 에스케이하이닉스가 인공지능 최적화 풀스택 메모리와 3D FeNAND 공정·설계 공동최적화 연구를 발표했다.",
-      "핵심: 암페어샌드는 솔리드스테이트 변압기와 배터리 등으로 데이터센터 전력 스파이크 완화를 시도하고 있다.",
-      "트렌드: 인공지능 수요가 반도체 설계·제조와 전력 인프라의 변화를 촉발하고 있다."
+      "핵심: ASML의 EUV 생산 확대가 자이스의 고정밀 광학 부품 공급 능력에 의존한다.",
+      "핵심: ASM은 3D 소자 구현을 위해 새로운 재료와 증착·식각 등 공정 혁신이 필요하다고 밝혔다.",
+      "트렌드: 공정·재료·설계 혁신이 반도체 업계의 공통적 과제로 드러났다."
     ],
     "topTopics": [
       "Competition",
-      "Manufacturing",
       "Roadmap",
+      "Manufacturing",
       "Investment"
     ],
     "stats": {
-      "collected": 5,
-      "deduped": 5
+      "collected": 16,
+      "deduped": 16
     }
   },
   "cards": [
     {
       "id": "semiconductor_0001",
       "tab": "semiconductor",
-      "publishedAt": "2026-10-14T09:00:04+09:00",
-      "source": "SK hynix Newsroom",
-      "title": "[Inside the Research] In the AI era, NAND moves beyond storage to computing… 3D FeNAND co-optimization at IEEE",
+      "publishedAt": "2026-10-14T21:49:10+09:00",
+      "source": "EE Times",
+      "title": "ASML’s EUV Expansion Runs Through Zeiss",
       "summary": [
-        "SK hynix가 HBM·DRAM·NAND를 포함한 AI 최적화 풀스택 메모리 포트폴리오를 제시했다.",
-        "IEEE에서 3D FeNAND의 공정·설계 공동최적화 연구를 소개하며 NAND의 연산 역할 확장을 제시했다.",
-        "이 연구는 AI 가속용 메모리 성능 개선과 제품 로드맵 전환을 촉진할 가능성이 있다."
+        "ASML의 EUV 생산 확대는 자이스(Zeiss)의 고정밀 광학 부품 생산 능력에 크게 의존한다.",
+        "자이스가 적격 정밀 광학 출력을 충분히 늘리지 못하면 EUV 장비 출하와 반도체 제조 확장에 병목이 발생할 수 있다.",
+        "이 공급 제약은 ASML의 로드맵과 글로벌 파운드리·장비 경쟁 구도에 직접적인 영향을 미친다."
       ],
-      "whyItMatters": "NAND의 저장 중심 역할에서 연산 역할로의 전환은 메모리·시스템 설계와 제조 경쟁 구도를 근본적으로 바꿔 AI 성능과 시장 영향력을 좌우하기 때문이다.",
+      "whyItMatters": "ASML EUV 장비의 핵심인 고정밀 광학 부품 공급이 자이스의 생산 능력에 달려 있어 장비 생산 속도와 산업 확장에 제약을 준다.",
       "topics": [
         "Manufacturing",
         "Roadmap",
-        "Competition"
+        "Competition",
+        "Investment"
       ],
-      "status": "SHIFTING",
-      "hash": "b03d38089a61778f928069bd114041010d2154a14065b570905836b2409c4b56",
-      "url": "https://news.skhynix.com/en/research-inside-ep2/"
+      "status": "ONGOING",
+      "hash": "b0b8a04a6be07ac4f8e30db2f36da020584ef2742f60e437301eab7020c66dde",
+      "url": "https://www.eetimes.com/asml-euv-expansion-runs-through-zeiss/"
     },
     {
       "id": "semiconductor_0002",
       "tab": "semiconductor",
-      "publishedAt": "2026-10-14T07:00:00+09:00",
+      "publishedAt": "2026-10-15T03:29:24+09:00",
       "source": "EE Times",
-      "title": "Amperesand Aims to Smooth AI Data Center Power Spikes",
+      "title": "Beyond Lithography: 3D Scaling Puts New Demands on Materials",
       "summary": [
-        "암페어샌드는 솔리드스테이트 변압기, 배터리, 800V DC 변환 및 마이크로그리드 제어로 AI 데이터센터의 전력 스파이크를 완화하려 합니다.",
-        "해당 구성은 배터리로 급격한 부하를 흡수하고 고전압 DC 변환으로 효율을 높이며 그리드 영향과 비용을 줄이는 것을 목표로 합니다.",
-        "이 기술은 데이터센터 전력 설계와 운영 방식에 변화를 주어 전력 품질 개선 및 인프라 투자 재검토를 촉발할 수 있습니다."
+        "3D 스케일링으로 소자 구조가 더욱 복잡해져 기존 리소그래피 중심 접근만으로는 한계가 발생하고 있다.",
+        "ASM International은 복잡한 3D 소자 구현을 위해 새로운 재료와 증착·식각·결함 관리 등 공정 혁신이 필수적이라고 지적한다.",
+        "이는 파운드리·장비·재료 공급망 전반에 걸친 투자와 협력, 공정 로드맵 수정이 필요함을 의미한다."
       ],
-      "whyItMatters": "AI 워크로드 증가로 인한 급격한 전력 변동을 관리하는 기술적·운영적 필요성이 커졌기 때문입니다.",
+      "whyItMatters": "재료·공정 혁신이 없으면 3D 미세공정 전환이 지연되어 성능·수율 개선이 제한되기 때문이다.",
       "topics": [
-        "Demand",
         "Manufacturing",
         "Roadmap",
-        "Competition"
+        "Investment"
       ],
       "status": "ONGOING",
-      "hash": "6f46d035fbc2d1674e76b911e554e75278540e8d65d1f6658e3dc04bedad00bd",
-      "url": "https://www.eetimes.com/amperesand-aims-to-smooth-ai-data-center-power-spikes/"
+      "hash": "2ccd58c4ed2ddbdd72bea930c3ec1eda7d0df8c26e32947597bf4077628c047a",
+      "url": "https://www.eetimes.com/beyond-lithography-3d-scaling-puts-new-demands-on-materials/"
     },
     {
       "id": "semiconductor_0003",
       "tab": "semiconductor",
-      "publishedAt": "2026-10-13T18:06:10+09:00",
-      "source": "EE Times",
-      "title": "Europe’s Advanced Packaging Gap: Fraunhofer, Swissbit Target the Missing Middle",
+      "publishedAt": "2026-10-14T10:27:53+09:00",
+      "source": "SK hynix Newsroom",
+      "title": "[Inside the Research] In the AI era, NAND moves beyond storage to computing… 3D FeNAND co-optimization at IEEE",
       "summary": [
-        "유럽은 연구와 대량생산 사이의 저량 생산(missing middle) 공백이 존재한다.",
-        "Fraunhofer와 Swissbit가 이 저량 생산 구간을 메우기 위한 산업 모델과 파일럿 역량을 모색하고 있다.",
-        "공백을 해소해야 유럽의 첨단 패키징 상용화와 공급망 경쟁력이 강화된다."
+        "AI 시대에 NAND가 저장 중심을 넘어 연산 기능을 병합하는 방향으로 진화하고 있다.",
+        "IEEE에서 3D FeNAND의 공동 최적화(co-optimization) 연구 결과가 발표되었다.",
+        "해당 연구는 메모리의 컴퓨팅 통합이 제조 공정과 제품 로드맵에 미칠 영향을 시사한다."
       ],
-      "whyItMatters": "이 문제는 혁신의 상용화·스케일업을 막아 유럽 반도체 경쟁력과 공급망 회복력에 직접적 영향을 미치기 때문이다.",
+      "whyItMatters": "이 기술은 AI 워크로드에 최적화된 메모리-연산 통합으로 제품 차별화와 제조·투자 우선순위를 바꿀 가능성이 크기 때문이다.",
       "topics": [
         "Manufacturing",
         "Roadmap",
-        "Policy",
+        "Competition",
+        "Investment"
+      ],
+      "status": "SHIFTING",
+      "hash": "ed6d50a3ea460dd01b881a7a5294e23145a6fc08ac2c217898f167c6f26e7ebf",
+      "url": "https://news.skhynix.com/en/research-inside-ep2-6/"
+    },
+    {
+      "id": "semiconductor_0004",
+      "tab": "semiconductor",
+      "publishedAt": "2026-10-14T10:26:05+09:00",
+      "source": "SK hynix Newsroom",
+      "title": "[Inside the Research] In the AI era, NAND moves beyond storage to computing… 3D FeNAND co-optimization at IEEE",
+      "summary": [
+        "AI 시대에 NAND가 단순 저장을 넘어 연산 기능을 통합하는 방향으로 발전하고 있다.",
+        "IEEE에서 3D FeNAND의 소자·공정·아키텍처 공동 최적화 연구가 소개되었다.",
+        "FeNAND은 비휘발성과 인메모리 연산으로 AI 워크로드의 성능·전력 효율 개선을 목표로 한다."
+      ],
+      "whyItMatters": "메모리와 연산의 융합은 AI 성능·전력 한계를 극복하는 핵심으로 산업 경쟁력과 제품 로드맵에 직접적인 영향을 미치기 때문이다.",
+      "topics": [
+        "Manufacturing",
+        "Roadmap",
         "Competition"
       ],
       "status": "ONGOING",
-      "hash": "908e5f6fcb1ff1ff536bd5799582a46e5259fe8a64189d3964ee3561f3da6eda",
-      "url": "https://www.eetimes.com/europe-advanced-packaging-gap-fraunhofer-swissbit-target-the-missing-middle/"
+      "hash": "7aed0298e74dc62358f6ba07340ddf31da66e4a024d7dc43c5ab3b7d447b2201",
+      "url": "https://news.skhynix.com/en/research-inside-ep2-5/"
+    },
+    {
+      "id": "semiconductor_0005",
+      "tab": "semiconductor",
+      "publishedAt": "2026-10-15T06:00:00+09:00",
+      "source": "Samsung Newsroom",
+      "title": "Samsung Expands Language Support Across AI Experiences on Galaxy",
+      "summary": [
+        "삼성은 Galaxy AI와 Bixby의 언어 지원을 확대했습니다.",
+        "번역·전사·요약 기능을 포함한 주요 AI 기능에 헝가리어와 말레이어가 추가되었습니다.",
+        "더 많은 사용자가 자신의 모국어로 기능을 이용할 수 있게 되어 접근성이 향상됩니다."
+      ],
+      "whyItMatters": "글로벌 언어 지원 확대는 사용자 접근성·채택률을 높여 삼성의 AI 서비스 경쟁력과 시장 확장에 기여할 가능성이 큽니다.",
+      "topics": [
+        "Roadmap",
+        "Competition",
+        "Demand"
+      ],
+      "status": "ONGOING",
+      "hash": "74536d5b2c41fbb02416dabc618506a2d9ea23a188633892792508c161b3f2fb",
+      "url": "https://news.samsung.com/global/samsung-expands-language-support-across-ai-experiences-on-galaxy"
     }
   ]
 }

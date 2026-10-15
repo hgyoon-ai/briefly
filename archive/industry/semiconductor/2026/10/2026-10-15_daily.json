@@ -1,0 +1,129 @@
+{
+  "date": "2026-10-15",
+  "highlights": {
+    "bullets": [
+      "핵심: ASML의 EUV 생산 확대가 자이스의 고정밀 광학 부품 공급 능력에 의존한다.",
+      "핵심: ASM은 3D 소자 구현을 위해 새로운 재료와 증착·식각 등 공정 혁신이 필요하다고 밝혔다.",
+      "트렌드: 공정·재료·설계 혁신이 반도체 업계의 공통적 과제로 드러났다."
+    ],
+    "topTopics": [
+      "Competition",
+      "Roadmap",
+      "Manufacturing",
+      "Investment"
+    ],
+    "stats": {
+      "collected": 16,
+      "deduped": 16
+    }
+  },
+  "cards": [
+    {
+      "id": "semiconductor_0001",
+      "tab": "semiconductor",
+      "publishedAt": "2026-10-14T21:49:10+09:00",
+      "source": "EE Times",
+      "title": "ASML’s EUV Expansion Runs Through Zeiss",
+      "summary": [
+        "ASML의 EUV 생산 확대는 자이스(Zeiss)의 고정밀 광학 부품 생산 능력에 크게 의존한다.",
+        "자이스가 적격 정밀 광학 출력을 충분히 늘리지 못하면 EUV 장비 출하와 반도체 제조 확장에 병목이 발생할 수 있다.",
+        "이 공급 제약은 ASML의 로드맵과 글로벌 파운드리·장비 경쟁 구도에 직접적인 영향을 미친다."
+      ],
+      "whyItMatters": "ASML EUV 장비의 핵심인 고정밀 광학 부품 공급이 자이스의 생산 능력에 달려 있어 장비 생산 속도와 산업 확장에 제약을 준다.",
+      "topics": [
+        "Manufacturing",
+        "Roadmap",
+        "Competition",
+        "Investment"
+      ],
+      "status": "ONGOING",
+      "hash": "b0b8a04a6be07ac4f8e30db2f36da020584ef2742f60e437301eab7020c66dde",
+      "url": "https://www.eetimes.com/asml-euv-expansion-runs-through-zeiss/"
+    },
+    {
+      "id": "semiconductor_0002",
+      "tab": "semiconductor",
+      "publishedAt": "2026-10-15T03:29:24+09:00",
+      "source": "EE Times",
+      "title": "Beyond Lithography: 3D Scaling Puts New Demands on Materials",
+      "summary": [
+        "3D 스케일링으로 소자 구조가 더욱 복잡해져 기존 리소그래피 중심 접근만으로는 한계가 발생하고 있다.",
+        "ASM International은 복잡한 3D 소자 구현을 위해 새로운 재료와 증착·식각·결함 관리 등 공정 혁신이 필수적이라고 지적한다.",
+        "이는 파운드리·장비·재료 공급망 전반에 걸친 투자와 협력, 공정 로드맵 수정이 필요함을 의미한다."
+      ],
+      "whyItMatters": "재료·공정 혁신이 없으면 3D 미세공정 전환이 지연되어 성능·수율 개선이 제한되기 때문이다.",
+      "topics": [
+        "Manufacturing",
+        "Roadmap",
+        "Investment"
+      ],
+      "status": "ONGOING",
+      "hash": "2ccd58c4ed2ddbdd72bea930c3ec1eda7d0df8c26e32947597bf4077628c047a",
+      "url": "https://www.eetimes.com/beyond-lithography-3d-scaling-puts-new-demands-on-materials/"
+    },
+    {
+      "id": "semiconductor_0003",
+      "tab": "semiconductor",
+      "publishedAt": "2026-10-14T10:27:53+09:00",
+      "source": "SK hynix Newsroom",
+      "title": "[Inside the Research] In the AI era, NAND moves beyond storage to computing… 3D FeNAND co-optimization at IEEE",
+      "summary": [
+        "AI 시대에 NAND가 저장 중심을 넘어 연산 기능을 병합하는 방향으로 진화하고 있다.",
+        "IEEE에서 3D FeNAND의 공동 최적화(co-optimization) 연구 결과가 발표되었다.",
+        "해당 연구는 메모리의 컴퓨팅 통합이 제조 공정과 제품 로드맵에 미칠 영향을 시사한다."
+      ],
+      "whyItMatters": "이 기술은 AI 워크로드에 최적화된 메모리-연산 통합으로 제품 차별화와 제조·투자 우선순위를 바꿀 가능성이 크기 때문이다.",
+      "topics": [
+        "Manufacturing",
+        "Roadmap",
+        "Competition",
+        "Investment"
+      ],
+      "status": "SHIFTING",
+      "hash": "ed6d50a3ea460dd01b881a7a5294e23145a6fc08ac2c217898f167c6f26e7ebf",
+      "url": "https://news.skhynix.com/en/research-inside-ep2-6/"
+    },
+    {
+      "id": "semiconductor_0004",
+      "tab": "semiconductor",
+      "publishedAt": "2026-10-14T10:26:05+09:00",
+      "source": "SK hynix Newsroom",
+      "title": "[Inside the Research] In the AI era, NAND moves beyond storage to computing… 3D FeNAND co-optimization at IEEE",
+      "summary": [
+        "AI 시대에 NAND가 단순 저장을 넘어 연산 기능을 통합하는 방향으로 발전하고 있다.",
+        "IEEE에서 3D FeNAND의 소자·공정·아키텍처 공동 최적화 연구가 소개되었다.",
+        "FeNAND은 비휘발성과 인메모리 연산으로 AI 워크로드의 성능·전력 효율 개선을 목표로 한다."
+      ],
+      "whyItMatters": "메모리와 연산의 융합은 AI 성능·전력 한계를 극복하는 핵심으로 산업 경쟁력과 제품 로드맵에 직접적인 영향을 미치기 때문이다.",
+      "topics": [
+        "Manufacturing",
+        "Roadmap",
+        "Competition"
+      ],
+      "status": "ONGOING",
+      "hash": "7aed0298e74dc62358f6ba07340ddf31da66e4a024d7dc43c5ab3b7d447b2201",
+      "url": "https://news.skhynix.com/en/research-inside-ep2-5/"
+    },
+    {
+      "id": "semiconductor_0005",
+      "tab": "semiconductor",
+      "publishedAt": "2026-10-15T06:00:00+09:00",
+      "source": "Samsung Newsroom",
+      "title": "Samsung Expands Language Support Across AI Experiences on Galaxy",
+      "summary": [
+        "삼성은 Galaxy AI와 Bixby의 언어 지원을 확대했습니다.",
+        "번역·전사·요약 기능을 포함한 주요 AI 기능에 헝가리어와 말레이어가 추가되었습니다.",
+        "더 많은 사용자가 자신의 모국어로 기능을 이용할 수 있게 되어 접근성이 향상됩니다."
+      ],
+      "whyItMatters": "글로벌 언어 지원 확대는 사용자 접근성·채택률을 높여 삼성의 AI 서비스 경쟁력과 시장 확장에 기여할 가능성이 큽니다.",
+      "topics": [
+        "Roadmap",
+        "Competition",
+        "Demand"
+      ],
+      "status": "ONGOING",
+      "hash": "74536d5b2c41fbb02416dabc618506a2d9ea23a188633892792508c161b3f2fb",
+      "url": "https://news.samsung.com/global/samsung-expands-language-support-across-ai-experiences-on-galaxy"
+    }
+  ]
+}

@@ -1,15 +1,15 @@
 {
   "range": {
-    "from": "2026-09-15",
-    "to": "2026-10-14"
+    "from": "2026-09-16",
+    "to": "2026-10-15"
   },
   "kpis": {
-    "collected": 73,
-    "deduped": 73,
+    "collected": 74,
+    "deduped": 74,
     "uniqueTopics": 10,
     "marketShare": {
-      "Tooling": 27,
-      "Product": 24,
+      "Tooling": 28,
+      "Product": 23,
       "Models": 21,
       "Infra": 14,
       "Research": 14,
@@ -18,52 +18,52 @@
   },
   "weeklyData": [
     {
-      "week": "Week 1 (09/15-09/21)",
+      "week": "Week 1 (09/16-09/22)",
       "topicCounts": {
-        "Tooling": 5,
+        "Tooling": 7,
         "Product": 5,
         "Models": 4,
-        "Infra": 5,
-        "Research": 3
-      }
-    },
-    {
-      "week": "Week 2 (09/22-09/28)",
-      "topicCounts": {
-        "Tooling": 6,
-        "Product": 6,
-        "Models": 7,
-        "Infra": 6,
-        "Research": 4
-      }
-    },
-    {
-      "week": "Week 3 (09/29-10/05)",
-      "topicCounts": {
-        "Tooling": 15,
-        "Product": 11,
-        "Models": 13,
-        "Infra": 7,
-        "Research": 4
-      }
-    },
-    {
-      "week": "Week 4 (10/06-10/12)",
-      "topicCounts": {
-        "Tooling": 10,
-        "Product": 8,
-        "Models": 5,
         "Infra": 4,
+        "Research": 5
+      }
+    },
+    {
+      "week": "Week 2 (09/23-09/29)",
+      "topicCounts": {
+        "Tooling": 9,
+        "Product": 7,
+        "Models": 6,
+        "Infra": 7,
+        "Research": 6
+      }
+    },
+    {
+      "week": "Week 3 (09/30-10/06)",
+      "topicCounts": {
+        "Tooling": 11,
+        "Product": 9,
+        "Models": 8,
+        "Infra": 5,
+        "Research": 5
+      }
+    },
+    {
+      "week": "Week 4 (10/07-10/13)",
+      "topicCounts": {
+        "Tooling": 7,
+        "Product": 6,
+        "Models": 5,
+        "Infra": 3,
         "Research": 3
       }
     },
     {
-      "week": "Week 5 (10/13-10/14)",
+      "week": "Week 5 (10/14-10/15)",
       "topicCounts": {
-        "Tooling": 3,
-        "Product": 5,
-        "Models": 4,
-        "Infra": 1,
+        "Tooling": 4,
+        "Product": 3,
+        "Models": 3,
+        "Infra": 2,
         "Research": 2
       }
     }
@@ -71,28 +71,37 @@
   "topIssues": [
     {
       "id": 1,
-      "status": "ONGOING",
-      "title": "GPU 가속 및 클러스터 효율화를 위한 AI 인프라 최적화",
-      "summary": "NVIDIA의 AI 에이전트 기반 Spark UDF GPU 재작성과 GPU 클러스터 스케줄링 개선 사례가 함께 등장하며, AI 워크로드 인프라를 전방위로 최적화하려는 흐름이 이어지고 있습니다. 코드 레벨에서는 UDF를 RAPIDS/cuDF 등 GPU 툴체인에 맞게 자동 변환해 CPU-GPU 간 데이터 이동·호환성 문제를 줄이고, 클러스터 레벨에서는 스케줄링 전략을 개선해 GPU 활용률을 높이고 비용과 대기 시간을 동시에 줄이려는 시도가 활발합니다.",
-      "articleCount": 2,
+      "status": "NEW",
+      "title": "극한 기상·물리 시뮬레이션용 초고해상도 AI 모델 확산",
+      "summary": "HiRO-ACEv2가 3km 해상도의 극한 기상 시뮬레이션을 훨씬 낮은 비용으로 제공하면서, 기후·재난 예측에 특화된 도메인 AI 모델 활용이 본격화되고 있다.",
+      "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "NVIDIA Developer Blog",
-          "title": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents",
-          "url": "https://developer.nvidia.com/blog/rewrite-apache-spark-udfs-gpu-acceleration-ai-agents/"
-        },
-        {
           "source": "Hugging Face Blog",
-          "title": "Impactful scheduling for GPU clusters",
-          "url": "https://huggingface.co/blog/allenai/impactful-scheduling"
+          "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+          "url": "https://huggingface.co/blog/allenai/hiro-acev2"
         }
       ]
     },
     {
       "id": 2,
+      "status": "ONGOING",
+      "title": "칩 설계 등 복잡 워크플로에서 AI 에이전트 신뢰성·도구 호출 최적화",
+      "summary": "NVIDIA NeMo Gym을 활용해 칩 설계 에이전트의 도구 호출 전략을 실험·최적화함으로써 환각을 줄이고 실제 엔지니어링 파이프라인의 생산성을 높이려는 시도가 이어지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Optimizing Agent Reliability and Tool Calling Efficiency for Chip Design Using NVIDIA NeMo Gym",
+          "url": "https://developer.nvidia.com/blog/optimizing-agent-reliability-and-tool-calling-efficiency-for-chip-design-using-nvidia-nemo-gym/"
+        }
+      ]
+    },
+    {
+      "id": 3,
       "status": "NEW",
-      "title": "하이브리드 SSM+어텐션 모델의 상태 관리 혁신과 추론 가속",
-      "summary": "ReplaySSM 연구는 하이브리드 SSM+어텐션 구조에서 상태 저장 방식을 재설계해 디코딩 병목을 줄이고, Nemotron 3, Qwen, GLM-5.3-Flash 등 최신 모델의 추론 지연을 낮추는 데 초점을 둡니다. 이는 대형 모델의 구조적 혁신 없이 소프트웨어·시스템 레벨 최적화로 추론 효율을 극대화하는 최근 경향을 잘 보여줍니다.",
+      "title": "하이브리드 SSM+어텐션 구조에서 디코딩 속도·추론 효율 극대화",
+      "summary": "ReplaySSM은 최신 하이브리드 모델들의 상태 저장 방식을 재설계해 디코딩 병목을 줄이고, Nemotron·Qwen 등 대규모 모델 추론 비용을 낮추는 인프라·모델 구조 혁신을 제안한다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -103,54 +112,30 @@
       ]
     },
     {
-      "id": 3,
-      "status": "ONGOING",
-      "title": "차세대 대규모 언어모델 개발에서의 책임성과 출처 투명성 강화",
-      "summary": "Google DeepMind의 Gemini 4 Argon 개발 과정과 OpenAI의 EU 텍스트 출처 규칙 대응은 고성능 모델 출시 전에 안전성 검증, 레드팀, 제한적 배포, 워터마킹과 같은 출처 추적 기술을 결합해 규제 요구와 사회적 신뢰를 동시에 확보하려는 흐름을 보여줍니다. 모델 성능 경쟁과 더불어 책임 있는 배포와 콘텐츠 출처 투명성이 핵심 이슈로 부상하고 있습니다.",
-      "articleCount": 2,
-      "relatedArticles": [
-        {
-          "source": "Google DeepMind Blog",
-          "title": "Developing Gemini 4 Argon responsibly and safely",
-          "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/"
-        },
-        {
-          "source": "OpenAI Blog",
-          "title": "Our approach to EU text provenance rules",
-          "url": "https://openai.com/index/eu-text-provenance"
-        }
-      ]
-    },
-    {
       "id": 4,
       "status": "NEW",
-      "title": "AI 튜터 평가와 기업용 에이전트 고도화를 위한 시뮬레이션·합성 데이터 활용",
-      "summary": "Microsoft의 StudentSim과 Hugging Face의 AutoSynthData는 실제 사용자 투입 전 단계에서 시뮬레이션과 합성 데이터를 활용해 AI 시스템을 개선하려는 공통 목표를 갖습니다. StudentSim은 학생-튜터 상호작용을 모사해 튜터 품질을 측정·개선하고, AutoSynthData는 기업용 에이전트 학습에 필요한 대규모 상호작용·라벨 데이터를 자동 생성해 데이터 병목을 줄이는 데 집중합니다.",
-      "articleCount": 2,
+      "title": "AI 튜터 평가를 위한 학습자 행동 시뮬레이션 연구 진전",
+      "summary": "StudentSim과 같은 시스템을 통해 실제 학생에게 배포하기 전, 체스·글쓰기·수학 등 다양한 과목에서 학습자-튜터 상호작용을 시뮬레이션하여 AI 튜터의 피드백 품질과 학습 효과를 사전에 검증하려는 연구가 진행되고 있다.",
+      "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Microsoft Research Blog",
           "title": "Simulating student learning for better AI tutoring",
           "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/"
-        },
-        {
-          "source": "Hugging Face Blog",
-          "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-          "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata"
         }
       ]
     },
     {
       "id": 5,
       "status": "ONGOING",
-      "title": "보안 도메인에서의 AI 도입과 인간-에이전트 협업 강화",
-      "summary": "Sophos가 OpenAI Daybreak를 활용해 위협 조사 시간을 96% 단축하고 MDR 사례 절반 이상을 자동화한 사례는 사이버 보안 분야에서 AI 에이전트를 핵심 도구로 채택하는 추세를 보여줍니다. 동시에 인간 분석가의 감독을 유지하는 하이브리드 운영 모델이 안전성과 효율성 간 균형을 맞추는 현실적 전략으로 부상하고 있습니다.",
+      "title": "GPU 클러스터 스케줄링 개선을 통한 AI 인프라 비용·처리량 최적화",
+      "summary": "대규모 GPU 클러스터 운영에서 작업 스케줄링 전략을 고도화해 자원 활용도를 높이고, 대기 시간을 줄이면서 처리량을 극대화하려는 인프라 최적화 노력이 계속되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "OpenAI Blog",
-          "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-          "url": "https://openai.com/index/sophos"
+          "source": "Hugging Face Blog",
+          "title": "Impactful scheduling for GPU clusters",
+          "url": "https://huggingface.co/blog/allenai/impactful-scheduling"
         }
       ]
     }

@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-09-16",
+    "to": "2026-10-15"
+  },
+  "kpis": {
+    "collected": 120,
+    "deduped": 120,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "Market": 31,
+      "Supply": 24,
+      "Policy": 19,
+      "UrbanRenewal": 13,
+      "Rental": 13,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (09/16-09/22)",
+      "topicCounts": {
+        "Market": 21,
+        "Supply": 13,
+        "Policy": 13,
+        "UrbanRenewal": 10,
+        "Rental": 8
+      }
+    },
+    {
+      "week": "Week 2 (09/23-09/29)",
+      "topicCounts": {
+        "Market": 20,
+        "Supply": 18,
+        "Policy": 9,
+        "UrbanRenewal": 6,
+        "Rental": 14
+      }
+    },
+    {
+      "week": "Week 3 (09/30-10/06)",
+      "topicCounts": {
+        "Market": 17,
+        "Supply": 12,
+        "Policy": 9,
+        "UrbanRenewal": 9,
+        "Rental": 1
+      }
+    },
+    {
+      "week": "Week 4 (10/07-10/13)",
+      "topicCounts": {
+        "Market": 14,
+        "Supply": 10,
+        "Policy": 8,
+        "UrbanRenewal": 5,
+        "Rental": 6
+      }
+    },
+    {
+      "week": "Week 5 (10/14-10/15)",
+      "topicCounts": {
+        "Market": 1,
+        "Supply": 3,
+        "Policy": 4,
+        "UrbanRenewal": 3,
+        "Rental": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "RE-1",
+      "status": "ONGOING",
+      "title": "수도권 오피스·주택 ‘연동 공급’ 정책 가속",
+      "summary": "정부가 수도권에서 오피스 신축과 동시에 주택을 비례·동시에 공급하도록 유도하는 제도 도입을 추진 중이다. 업무·상업 위주 개발로 인한 주거 부족과 출퇴근 수요 불균형을 완화하고, 도심 내 추가 주택 물량을 확보해 중장기 공급 기반을 다지겠다는 구상이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "수도권서 오피스 짓는 만큼 주택 공급도 늘린다",
+          "url": "https://www.hankyung.com/article/2026101420921"
+        }
+      ]
+    },
+    {
+      "id": "RE-2",
+      "status": "ONGOING",
+      "title": "재건축·재개발 공사비 검증 강화로 정비사업 구조조정 가능성",
+      "summary": "정부가 전국 정비사업장 568곳을 점검한 결과 약 4곳 중 1곳이 법정 공사비 검증을 받지 않은 것으로 드러나자, 특별현장점검과 공사비 검증 강화에 나섰다. 시공사와 조합 간 ‘부르는 게 값’ 논란을 제도적으로 차단해 분양가와 사업성 구조를 재조정하려는 움직임으로, 향후 재개발·재건축 사업 지연과 재협상 사례가 늘어날 수 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "공사비 부르는 게 값?… 검증 칼날 꺼낸 정부",
+          "url": "https://www.mk.co.kr/news/realestate/12175855"
+        }
+      ]
+    },
+    {
+      "id": "RE-3",
+      "status": "ONGOING",
+      "title": "반도체발 경기 남부 집값 상승, 강남권 확산 우려",
+      "summary": "반도체 산업 호황으로 자금이 수원 광교·화성 동탄 등 경기 남부로 유입되며 집값 상승세가 나타나고 있다. 동탄에서 시세 차익을 실현해 분당으로 갈아타는 수요가 늘고, 강남권으로의 매수 대기 수요도 포착되면서 ‘반도체 머니’가 수도권 핵심 지역으로 연쇄 이동하는 흐름이 형성되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "“동탄 오르니 분당이 싸보이네” 반도체 머니, 이대로 강남까지 갈까 [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10901379"
+        }
+      ]
+    },
+    {
+      "id": "RE-4",
+      "status": "ONGOING",
+      "title": "지방 공공택지 5만 가구 공급 중단, 지역 주택시장 불확실성 확대",
+      "summary": "지방 공공택지에서 계획된 약 5만 가구 신규 주택 공급이 전면 중단되면서 지방 주택 공급 로드맵에 큰 공백이 발생했다. 택지 개발 중단으로 건설 일정과 분양 계획이 연쇄 차질을 빚을 가능성이 커졌고, 지역별로는 미분양 해소와 재정여건, 수요 부진 등이 맞물려 지방 시장 양극화가 심화될 조짐을 보이고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "지방 공공택지의 '눈물'…5만 가구 공급 올스톱",
+          "url": "https://www.hankyung.com/article/2026101394721"
+        }
+      ]
+    },
+    {
+      "id": "RE-5",
+      "status": "SHIFTING",
+      "title": "재건축 속도전 vs 권한이양 요구, 중앙·지자체 갈등 심화",
+      "summary": "정부는 연내 1만5000가구 재건축 착공을 목표로 인허가 및 사업 절차를 앞당기려 하지만, 지자체와 주민들은 재건축 행정·인가 권한을 지자체로 이양하라고 요구하며 갈등을 빚고 있다. 재건축 활성화라는 큰 방향에는 공감하면서도 권한 배분과 책임 소재를 둘러싼 이해관계가 충돌해, 향후 제도 개편과 사업 일정이 유동적으로 변할 가능성이 크다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "연내 1.5만가구 착공 vs 권한이양 추진…재건축 '동상이몽'",
+          "url": "https://www.hankyung.com/article/2026101394691"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-09-16",
+    "to": "2026-10-15"
+  },
+  "kpis": {
+    "collected": 71,
+    "deduped": 71,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 30,
+      "Competition": 28,
+      "Manufacturing": 19,
+      "Investment": 14,
+      "Demand": 10,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (09/16-09/22)",
+      "topicCounts": {
+        "Roadmap": 8,
+        "Competition": 11,
+        "Manufacturing": 7,
+        "Investment": 6,
+        "Demand": 3
+      }
+    },
+    {
+      "week": "Week 2 (09/23-09/29)",
+      "topicCounts": {
+        "Roadmap": 12,
+        "Competition": 12,
+        "Manufacturing": 5,
+        "Investment": 4,
+        "Demand": 5
+      }
+    },
+    {
+      "week": "Week 3 (09/30-10/06)",
+      "topicCounts": {
+        "Roadmap": 14,
+        "Competition": 12,
+        "Manufacturing": 7,
+        "Investment": 6,
+        "Demand": 2
+      }
+    },
+    {
+      "week": "Week 4 (10/07-10/13)",
+      "topicCounts": {
+        "Roadmap": 5,
+        "Competition": 4,
+        "Manufacturing": 6,
+        "Investment": 3,
+        "Demand": 2
+      }
+    },
+    {
+      "week": "Week 5 (10/14-10/15)",
+      "topicCounts": {
+        "Roadmap": 6,
+        "Competition": 5,
+        "Manufacturing": 5,
+        "Investment": 3,
+        "Demand": 1
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "3D 스케일링 확산으로 신소재·신공정 수요 급증",
+      "summary": "미세화 한계 이후 3D 스케일링이 본격화되면서 기존 리소그래피 중심 패러다임만으로는 성능·수율 확보가 어려워지고 있다. ASM 등 장비 업체들은 복잡한 3D 구조를 구현하기 위해 새로운 재료, 정밀 증착·식각, 결함 관리 기술을 결합한 공정 혁신을 추진하고 있으며, 이는 향후 공정 생태계와 소재·장비 투자 방향을 재편할 핵심 이슈로 부상하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Beyond Lithography: 3D Scaling Puts New Demands on Materials",
+          "url": "https://www.eetimes.com/beyond-lithography-3d-scaling-puts-new-demands-on-materials/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "ASML-EUV 공급망, 자이스 광학 생산능력에 병목 위험",
+      "summary": "EUV 노광 장비 증설의 핵심 변수로 자이스의 초정밀 광학 공급능력이 부상하고 있다. 자이스가 고성능 광학 부품 생산을 충분히 확대하지 못할 경우 ASML의 EUV 출하가 제한되고, 이는 하이엔드 파운드리·메모리 업체들의 첨단 공정 전환 속도를 제약하는 구조적 병목으로 이어질 수 있다는 우려가 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "ASML’s EUV Expansion Runs Through Zeiss",
+          "url": "https://www.eetimes.com/asml-euv-expansion-runs-through-zeiss/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "어플라이드 머티어리얼즈, 50억 달러 EPIC 센터로 반도체 R&D 모델 재편",
+      "summary": "어플라이드 머티어리얼즈가 50억 달러 규모의 EPIC 센터를 설립해 칩 제작사, 장비 업체, 연구기관을 한데 묶는 공동 R&D 허브를 구축한다. 소재·장비·공정 개발과 양산 검증을 한 공간에서 통합함으로써 신공정 상용화 기간을 단축하고, 파운드리·IDM·팹리스가 초기 단계부터 협업하는 새로운 혁신 모델을 표준화하려는 움직임이 가속되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Applied Materials Bets $5B on a New Model for Chip Innovation",
+          "url": "https://www.eetimes.com/applied-materials-bets-5b-on-a-new-model-for-chip-innovation/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "AI 데이터센터 전력 스파이크 대응, 전력·반도체 동시 최적화 이슈 부상",
+      "summary": "AI 서버 급증으로 데이터센터의 단기 전력 스파이크 문제와 전력 인프라 제약이 심화되면서, 솔리드스테이트 변압기·배터리·800V DC 변환·마이크로그리드 제어를 결합한 새로운 전력 아키텍처가 주목받고 있다. 이는 고성능 AI 반도체 채택 확대와 맞물려 전력 효율, 전력 품질, 인프라 투자 비용을 동시에 최적화해야 하는 시스템 레벨 과제를 부각시키고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Amperesand Aims to Smooth AI Data Center Power Spikes",
+          "url": "https://www.eetimes.com/amperesand-aims-to-smooth-ai-data-center-power-spikes/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "SHIFTING",
+      "title": "차량용 센싱·SoC 설계, 안전·사이버보안 규제로 아키텍처 재편",
+      "summary": "AutoSens 2026에서 논의된 바와 같이, 강화되는 안전 규제와 사이버보안 요구가 차량용 센서와 처리 칩 아키텍처 선택에 직접적인 영향을 미치고 있다. OEM과 반도체 업체는 센서퓨전, 온디바이스 AI 처리, 보안 기능 통합을 고려한 레퍼런스 아키텍처를 재설계하고 있으며, 이는 오토모티브용 반도체 로드맵과 인증·검증 비용 구조를 크게 바꾸는 방향으로 전개되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "AutoSens 2026: Regulation Drives Automotive Sensing Architectures",
+          "url": "https://www.eetimes.com/autosens-2026-regulations-drive-automotive-sensing-architectures/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "range": {
+    "from": "2026-10-09",
+    "to": "2026-10-15"
+  },
+  "kpis": {
+    "collected": 12,
+    "deduped": 12,
+    "uniqueTopics": 6
+  },
+  "topTopics": [
+    {
+      "name": "MarketInfra",
+      "count": 11
+    },
+    {
+      "name": "Policy",
+      "count": 9
+    },
+    {
+      "name": "Regulation",
+      "count": 3
+    },
+    {
+      "name": "Fintech",
+      "count": 3
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-09",
+      "dayOfWeek": "Fri",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-10-09",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-09",
+      "dayOfWeek": "Fri",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-10-09",
+      "dayOfWeek": "Fri",
+      "topic": "Fintech",
+      "count": 0
+    },
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "Fintech",
+      "count": 1
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Regulation",
+      "count": 1
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Fintech",
+      "count": 0
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Fintech",
+      "count": 1
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Regulation",
+      "count": 1
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Fintech",
+      "count": 0
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "MarketInfra",
+      "count": 3
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Regulation",
+      "count": 1
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Fintech",
+      "count": 1
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Fintech",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "반도체 쏠림 구조 속 코스피 급락과 변동성 확대",
+      "summary": "삼성전자·SK하이닉스 등 메모리 2개 종목에 시가총액이 과도하게 집중된 구조에서 외국인 매도와 중국 반도체 추격 우려가 겹치며 코스피가 6000선 아래로 급락하는 등 변동성이 극단적으로 확대되고 있다.",
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[속보] 코스피, 6000선도 무너졌다…삼전·하이닉스 동반 급락",
+          "url": "https://www.mk.co.kr/news/stock/12174245"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "다른 나라도 반도체 영향 받는데…왜 코스피만 더 크게 흔들리나",
+          "url": "https://www.mk.co.kr/news/stock/12175144"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "“삼전 주가, 역사적 저평가”라는데…KB증권 “비중 확대할 기회”",
+          "url": "https://www.mk.co.kr/news/stock/12176392"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "삼성전자 역사적 저평가 논쟁과 비중 확대 매수 전략",
+      "summary": "배당 확대와 자사주 소각 등 주주환원 정책 기대 속에서 일시적인 주가 조정을 오히려 비중 확대 기회로 보는 시각이 부각되며, 삼성전자 장기 밸류에이션과 주주환원 정책이 투자 전략의 핵심 변수로 부상하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“삼전 주가, 역사적 저평가”라는데…KB증권 “비중 확대할 기회”",
+          "url": "https://www.mk.co.kr/news/stock/12176392"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "한국은행 직원 주식거래 급증과 중앙은행 윤리·신뢰 리스크",
+      "summary": "한국은행 직원, 특히 금융시장국의 주식 거래 규모가 수십 배 급증한 사실이 드러나며 내부정보 이용 가능성과 도덕적 해이 우려가 커지고 있고, 통화·금융정책의 신뢰도와 시장 경고 기능 약화에 대한 논쟁이 이어지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“이러려고 한은 들어갔나”…시장 경고는 뒷전, 직원들 주식거래 53배 급증 왜?",
+          "url": "https://www.mk.co.kr/news/economy/12174120"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "SHIFTING",
+      "title": "AI 열풍과 매출 현실화 우려가 뒤흔드는 글로벌 AI·반도체 주가",
+      "summary": "앤트로픽의 연환산 매출 공개를 앞두고 AI 기업들의 수익성 현실화에 대한 불안이 커지며, 과거 오픈AI 매출 논란 때처럼 관련 기술주와 반도체 종목들이 급등락을 반복하는 등 월가의 AI 투자 흐름이 조정 국면에 들어가고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "앤트로픽 예상 매출에 벌벌 떠는 AI 주가...월가의 흐름이 바뀐다",
+          "url": "https://www.mk.co.kr/news/business/12175126"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "SHIFTING",
+      "title": "스페이스X 위성통신 확장으로 통신·인프라 투자 지형 변화",
+      "summary": "스페이스X의 스타십 성공으로 위성 통신 역량이 빠르게 커지며 기존 통신사에겐 협력자에서 직접 경쟁자로 변신한 위협 요인이 되고 있고, 통신시장 점유율과 수익모델, 인프라 투자 구조 전반의 재평가가 진행되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "‘협력자’에서 ‘경쟁자’로…통신시장 판 흔드는 스페이스X [지정학에서 찾는 투자기회]",
+          "url": "https://www.mk.co.kr/news/stock/12176058"
+        }
+      ]
+    }
+  ]
+}

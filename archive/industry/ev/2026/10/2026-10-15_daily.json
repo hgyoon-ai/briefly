@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-15",
+  "highlights": {
+    "bullets": [
+      "핵심: 파워월을 포함한 캘리포니아 가정용 배터리가 기록적 745MW 전력망 공급의 대부분을 차지했다.",
+      "핵심: 포드가 3만 달러 가격의 전기 픽업 Fathom 예약 초대 신청을 시작했다."
+    ],
+    "topTopics": [
+      "Roadmap",
+      "Demand",
+      "Competition",
+      "Investment"
+    ],
+    "stats": {
+      "collected": 13,
+      "deduped": 13
+    }
+  },
+  "cards": [
+    {
+      "id": "ev_0001",
+      "tab": "ev",
+      "publishedAt": "2026-10-14T23:46:00+09:00",
+      "source": "Electrek",
+      "title": "Tesla Powerwalls supply most of record 745 MW California grid dispatch",
+      "summary": [
+        "테슬라 파워월을 포함한 캘리포니아 가정용 배터리가 745MW로 새 전력망 공급 기록을 세웠습니다.",
+        "8만5천 개 이상의 파워월이 600MW 이상을 전력망에 공급해 전체 디스패치의 대부분을 차지했습니다.",
+        "이는 불과 한 달 전 580MW 기록 대비 28% 증가한 수준으로, 주 내 상당수 가스 피커 발전소 용량을 상회합니다."
+      ],
+      "whyItMatters": "가정용 배터리가 대규모 발전원 수준의 피크 전력 공급 역할을 하며 분산형 에너지·에너지저장시장 성장과 기존 화석연료 발전 대체 가능성을 입증하는 사례이기 때문입니다.",
+      "topics": [
+        "Demand",
+        "Investment",
+        "Roadmap"
+      ],
+      "status": "NEW",
+      "hash": "ad5100d0684873b86649c5161d0385d3d12a35b22652421f046b5d9fc55876c6",
+      "url": "https://electrek.co/2026/10/14/tesla-powerwall-sunrun-record-745-mw-california-grid-dispatch/"
+    },
+    {
+      "id": "ev_0002",
+      "tab": "ev",
+      "publishedAt": "2026-10-14T23:14:40+09:00",
+      "source": "Electrek",
+      "title": "Ford opens preorder invites for the $30,000 Fathom EV pickup",
+      "summary": [
+        "포드가 3만 달러 가격의 전기 픽업 'Fathom' 예약 초대 신청을 개시했다.",
+        "초대 기반 프리오더로 초기 수요를 파악하고 초기 구매자 풀을 형성하려는 움직임이다.",
+        "저렴한 가격대의 EV 픽업 출시는 시장 경쟁과 소비자 수요에 상당한 영향을 미칠 수 있다."
+      ],
+      "whyItMatters": "가격 경쟁력이 있는 전기 픽업의 사전예약 시작은 수요 신호와 경쟁 구도 변화를 촉발할 가능성이 있어 전략적으로 중요하다.",
+      "topics": [
+        "Demand",
+        "Competition",
+        "Roadmap"
+      ],
+      "status": "NEW",
+      "hash": "ab53418f7cb101c593fcc19e56f3bf9ef41c2abcc5efe3e89a5e738711946fdd",
+      "url": "https://electrek.co/2026/10/14/ford-opens-preorder-invites-30000-fathom-ev-pickup/"
+    }
+  ]
+}

@@ -1,63 +1,33 @@
 {
   "range": {
-    "from": "2026-10-08",
-    "to": "2026-10-14"
+    "from": "2026-10-09",
+    "to": "2026-10-15"
   },
   "kpis": {
-    "collected": 10,
-    "deduped": 10,
-    "uniqueTopics": 7
+    "collected": 12,
+    "deduped": 12,
+    "uniqueTopics": 6
   },
   "topTopics": [
     {
-      "name": "Manufacturing",
-      "count": 9
+      "name": "Roadmap",
+      "count": 12
     },
     {
-      "name": "Roadmap",
-      "count": 8
+      "name": "Manufacturing",
+      "count": 11
     },
     {
       "name": "Competition",
-      "count": 7
+      "count": 9
     },
     {
-      "name": "Demand",
-      "count": 3
+      "name": "Investment",
+      "count": 4
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-10-08",
-      "dayOfWeek": "Thu",
-      "topic": "Manufacturing",
-      "count": 1
-    },
-    {
-      "date": "2026-10-08",
-      "dayOfWeek": "Thu",
-      "topic": "Roadmap",
-      "count": 1
-    },
-    {
-      "date": "2026-10-08",
-      "dayOfWeek": "Thu",
-      "topic": "Competition",
-      "count": 1
-    },
-    {
-      "date": "2026-10-08",
-      "dayOfWeek": "Thu",
-      "topic": "Demand",
-      "count": 2
-    },
-    {
-      "date": "2026-10-09",
-      "dayOfWeek": "Fri",
-      "topic": "Manufacturing",
-      "count": 2
-    },
-    {
       "date": "2026-10-09",
       "dayOfWeek": "Fri",
       "topic": "Roadmap",
@@ -66,25 +36,31 @@
     {
       "date": "2026-10-09",
       "dayOfWeek": "Fri",
-      "topic": "Competition",
-      "count": 2
+      "topic": "Manufacturing",
+      "count": 1
     },
     {
       "date": "2026-10-09",
       "dayOfWeek": "Fri",
-      "topic": "Demand",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-09",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
       "count": 0
     },
     {
       "date": "2026-10-10",
       "dayOfWeek": "Sat",
-      "topic": "Manufacturing",
+      "topic": "Roadmap",
       "count": 1
     },
     {
       "date": "2026-10-10",
       "dayOfWeek": "Sat",
-      "topic": "Roadmap",
+      "topic": "Manufacturing",
       "count": 1
     },
     {
@@ -96,13 +72,7 @@
     {
       "date": "2026-10-10",
       "dayOfWeek": "Sat",
-      "topic": "Demand",
-      "count": 0
-    },
-    {
-      "date": "2026-10-11",
-      "dayOfWeek": "Sun",
-      "topic": "Manufacturing",
+      "topic": "Investment",
       "count": 0
     },
     {
@@ -114,20 +84,20 @@
     {
       "date": "2026-10-11",
       "dayOfWeek": "Sun",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
       "topic": "Competition",
       "count": 0
     },
     {
       "date": "2026-10-11",
       "dayOfWeek": "Sun",
-      "topic": "Demand",
+      "topic": "Investment",
       "count": 0
-    },
-    {
-      "date": "2026-10-12",
-      "dayOfWeek": "Mon",
-      "topic": "Manufacturing",
-      "count": 1
     },
     {
       "date": "2026-10-12",
@@ -138,25 +108,31 @@
     {
       "date": "2026-10-12",
       "dayOfWeek": "Mon",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
       "topic": "Competition",
       "count": 0
     },
     {
       "date": "2026-10-12",
       "dayOfWeek": "Mon",
-      "topic": "Demand",
+      "topic": "Investment",
       "count": 0
     },
     {
       "date": "2026-10-13",
       "dayOfWeek": "Tue",
-      "topic": "Manufacturing",
+      "topic": "Roadmap",
       "count": 2
     },
     {
       "date": "2026-10-13",
       "dayOfWeek": "Tue",
-      "topic": "Roadmap",
+      "topic": "Manufacturing",
       "count": 2
     },
     {
@@ -168,82 +144,64 @@
     {
       "date": "2026-10-13",
       "dayOfWeek": "Tue",
-      "topic": "Demand",
-      "count": 0
-    },
-    {
-      "date": "2026-10-14",
-      "dayOfWeek": "Wed",
-      "topic": "Manufacturing",
-      "count": 2
+      "topic": "Investment",
+      "count": 1
     },
     {
       "date": "2026-10-14",
       "dayOfWeek": "Wed",
       "topic": "Roadmap",
-      "count": 2
+      "count": 5
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Manufacturing",
+      "count": 5
     },
     {
       "date": "2026-10-14",
       "dayOfWeek": "Wed",
       "topic": "Competition",
-      "count": 2
+      "count": 5
     },
     {
       "date": "2026-10-14",
       "dayOfWeek": "Wed",
-      "topic": "Demand",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Investment",
       "count": 1
     }
   ],
   "topIssues": [
     {
-      "id": "semic-001",
-      "status": "SHIFTING",
-      "title": "AI 시대 메모리 패러다임 전환: SK하이닉스 3D FeNAND·풀스택 메모리 전략",
-      "summary": "SK하이닉스가 HBM·DRAM·NAND를 아우르는 AI 최적화 풀스택 메모리 포트폴리오를 제시하며, IEEE에서 3D FeNAND 공정·설계 공동최적화 연구를 공개했다. 이는 NAND를 단순 저장장치에서 연산 기능을 수행하는 컴퓨팅 자원으로 확장하려는 시도로, AI 가속기에 메모리 계층 구조와 아키텍처 재편을 촉발할 수 있는 방향 전환 이슈다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "SK hynix Newsroom",
-          "title": "[Inside the Research] In the AI era, NAND moves beyond storage to computing… 3D FeNAND co-optimization at IEEE",
-          "url": "https://news.skhynix.com/en/research-inside-ep2/"
-        }
-      ]
-    },
-    {
-      "id": "semic-002",
+      "id": 1,
       "status": "NEW",
-      "title": "장비·공정 혁신 가속: 어플라이드 머티어리얼즈 EPIC 센터 50억 달러 투자",
-      "summary": "어플라이드 머티어리얼즈가 50억 달러 규모 EPIC 센터 설립을 발표하며, 팹 업체·장비사·연구기관을 한데 모아 차세대 반도체 공정·소재의 공동 개발과 상용화 기간 단축을 노리고 있다. 이는 첨단 노드와 패키징 경쟁에서 공정 장비 생태계의 주도권을 강화하고, 고객사 맞춤형 공정 공동개발(JDP)을 전면 확대한다는 점에서 중장기 로드맵에 영향을 줄 핵심 투자 이슈다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "EE Times",
-          "title": "Applied Materials Bets $5B on a New Model for Chip Innovation",
-          "url": "https://www.eetimes.com/applied-materials-bets-5b-on-a-new-model-for-chip-innovation/"
-        }
-      ]
-    },
-    {
-      "id": "semic-003",
-      "status": "NEW",
-      "title": "삼성전자 2026년 3분기 실적 가이던스: 메모리·파운드리 업황 강세 신호",
-      "summary": "삼성전자가 2026년 3분기 연결 매출 약 195조원, 영업이익 약 107.40조원의 실적 가이던스를 제시했다. AI 서버 및 고대역폭 메모리 수요 확대, 고부가 제품 믹스 개선, 파운드리 가동률 회복이 반영된 것으로 해석되며, 메모리 사이클 피크 및 AI 인프라 투자 지속 여부를 가늠할 수 있는 수요·투자 지표로 중요하다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Samsung Newsroom",
-          "title": "Samsung Electronics Announces Earnings Guidance for Third Quarter 2026",
-          "url": "https://news.samsung.com/global/samsung-electronics-announces-earnings-guidance-for-third-quarter-2026"
-        }
-      ]
-    },
-    {
-      "id": "semic-004",
-      "status": "ONGOING",
-      "title": "AI 데이터센터 전력 인프라 혁신: 전력 스파이크 완화 솔루션 부상",
-      "summary": "암페어샌드가 솔리드스테이트 변압기, 배터리, 800V DC 변환, 마이크로그리드 제어를 결합한 솔루션으로 AI 데이터센터의 전력 스파이크를 완화하는 아키텍처를 제안했다. 이는 고전력 GPU·AI 가속기 보급으로 심화되는 피크 전력·전기요금·그리드 충격 문제를 줄이기 위한 시도로, 반도체 설계·패키징을 넘어 시스템·전력 인프라까지 포함하는 총체적 AI 인프라 최적화 흐름을 보여준다.",
+      "title": "AI 데이터센터 전력 인프라 혁신과 반도체 수요 구조 변화",
+      "summary": "암페어샌드의 솔리드스테이트 변압기·배터리·800V DC 변환·마이크로그리드 제어 솔루션은 AI 데이터센터의 전력 스파이크를 완화해 전력망 부담과 운영비를 줄이는 것을 목표로 한다. 이는 대규모 AI 가속기 탑재 서버의 안정적인 전력 공급을 전제로 하며, 고성능 GPU/ASIC 및 전력 반도체, 전력 관리 IC 수요를 구조적으로 확대시키는 인프라 측면의 변화로 볼 수 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -254,16 +212,68 @@
       ]
     },
     {
-      "id": "semic-005",
+      "id": 2,
       "status": "ONGOING",
-      "title": "유럽 첨단 패키징 ‘미싱 미들’ 해소 시도: Fraunhofer·Swissbit 파일럿 역량 강화",
-      "summary": "유럽 반도체 생태계에서 연구와 양산 사이 저량 생산 구간이 비어 있는 ‘미싱 미들’ 문제가 부각되는 가운데, Fraunhofer와 Swissbit가 파일럿 라인·산업 모델을 통해 이를 메우려는 전략을 전개 중이다. 이는 AI·고성능 컴퓨팅용 첨단 패키징 역량을 국내에 확보하고 미국·아시아 의존도를 낮추려는 움직임으로, EU 칩스법과 맞물려 유럽 내 패키징 공급망 재편에 영향을 줄 이슈다.",
+      "title": "3D 스케일링 심화로 인한 신소재·공정 혁신 요구",
+      "summary": "리소그래피 중심 미세화가 한계에 다가가면서, 복잡한 3D 소자 구조 구현을 위해 신소재 도입과 증착(CVD/ALD)·식각·결함 관리 전반의 공정 혁신 필요성이 커지고 있다. 이는 로직·메모리 모두에서 3D 구조 심화와 함께 소재·장비 업체의 역할을 강화하고, 공정 통합 난이도와 투자 비용을 동시에 끌어올리는 방향으로 산업 구조를 재편하고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "EE Times",
-          "title": "Europe’s Advanced Packaging Gap: Fraunhofer, Swissbit Target the Missing Middle",
-          "url": "https://www.eetimes.com/europe-advanced-packaging-gap-fraunhofer-swissbit-target-the-missing-middle/"
+          "title": "Beyond Lithography: 3D Scaling Puts New Demands on Materials",
+          "url": "https://www.eetimes.com/beyond-lithography-3d-scaling-puts-new-demands-on-materials/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "장비사 중심 오픈 이노베이션 허브 확대와 반도체 R&D 패러다임 전환",
+      "summary": "어플라이드 머티어리얼즈는 50억 달러 규모 EPIC 센터에 투자해 장비사·칩 제조사·연구기관을 한데 모으는 R&D 허브를 구축하고 있다. 설계–공정–장비–소재를 조기 단계부터 공동 검증하는 모델을 통해 공정 상용화 기간을 줄이고, 차세대 노드·3D 구조·신소재를 빠르게 시장에 도입하려는 움직임으로, 장비사가 생태계의 조정자로 부상하는 흐름을 강화한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Applied Materials Bets $5B on a New Model for Chip Innovation",
+          "url": "https://www.eetimes.com/applied-materials-bets-5b-on-a-new-model-for-chip-innovation/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "EUV 공급망 병목: Zeiss 광학이 좌우하는 생산능력 확대",
+      "summary": "ASML의 EUV 장비 증산은 자이스의 고정밀 광학 공급능력에 구조적으로 의존하고 있다. 자이스가 요구 수준의 정밀 광학 생산을 제때 확대하지 못할 경우 EUV 장비 출하가 제약을 받고, 첨단 로직·메모리 증설 일정과 파운드리/IDM의 기술 로드맵 전체에 병목이 발생할 수 있어, 장비-부품 공급망 안정화가 전략 과제로 부상하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "ASML’s EUV Expansion Runs Through Zeiss",
+          "url": "https://www.eetimes.com/asml-euv-expansion-runs-through-zeiss/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "SHIFTING",
+      "title": "저장 장치에서 연산 플랫폼으로: 3D FeNAND 기반 컴퓨팅 스토리지 전환",
+      "summary": "SK hynix가 IEEE에서 발표한 3D FeNAND 공동 최적화 연구는 소자·공정·아키텍처를 통합적으로 설계해 NAND가 단순 저장을 넘어 연산 기능까지 수행하도록 하는 방향을 제시한다. HBM·DRAM·NAND를 아우르는 AI 특화 메모리 풀스택 전략과 맞물려, 메모리가 데이터 이동 비용을 줄이는 인메모리·니어메모리 컴퓨팅의 핵심 축으로 재정의되고 있다.",
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "source": "SK hynix Newsroom",
+          "title": "[Inside the Research] In the AI era, NAND moves beyond storage to computing… 3D FeNAND co-optimization at IEEE",
+          "url": "https://news.skhynix.com/en/research-inside-ep2-6/"
+        },
+        {
+          "source": "SK hynix Newsroom",
+          "title": "[Inside the Research] In the AI era, NAND moves beyond storage to computing… 3D FeNAND co-optimization at IEEE",
+          "url": "https://news.skhynix.com/en/research-inside-ep2-5/"
+        },
+        {
+          "source": "SK hynix Newsroom",
+          "title": "[Inside the Research] In the AI era, NAND moves beyond storage to computing… 3D FeNAND co-optimization at IEEE",
+          "url": "https://news.skhynix.com/en/research-inside-ep2/"
         }
       ]
     }

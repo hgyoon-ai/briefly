@@ -1,15 +1,15 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "highlights": {
     "bullets": [
-      "핵심: 전 세계 전기차가 3~8월에 약 200억 달러 규모의 원유 수요를 대체했다.",
-      "핵심: 더그 필드가 리비안 분사 스타트업 마인드 로보틱스의 사장으로 합류해 제품·엔지니어링·운영을 총괄한다."
+      "핵심: 파워월을 포함한 캘리포니아 가정용 배터리가 기록적 745MW 전력망 공급의 대부분을 차지했다.",
+      "핵심: 포드가 3만 달러 가격의 전기 픽업 Fathom 예약 초대 신청을 시작했다."
     ],
     "topTopics": [
-      "Competition",
-      "Demand",
       "Roadmap",
-      "Manufacturing"
+      "Demand",
+      "Competition",
+      "Investment"
     ],
     "stats": {
       "collected": 13,
@@ -20,46 +20,44 @@
     {
       "id": "ev_0001",
       "tab": "ev",
-      "publishedAt": "2026-10-14T08:01:00+09:00",
+      "publishedAt": "2026-10-14T23:46:00+09:00",
       "source": "Electrek",
-      "title": "Electric cars saved $20B in oil – and the US is falling behind",
+      "title": "Tesla Powerwalls supply most of record 745 MW California grid dispatch",
       "summary": [
-        "전 세계 전기차는 3~8월 사이 약 200억 달러 규모의 원유 수요를 대체해 산유국 의존도를 낮추고 있다.",
-        "이는 호르무즈 해협 에너지 위기 속에서 원유 수입국들에 어느 정도의 가격·공급 부담 완화 효과를 제공한다.",
-        "분석에 따르면 미국은 전기차 보급과 관련 인프라에서 다른 국가들에 비해 점차 뒤처지는 양상이 나타난다."
+        "테슬라 파워월을 포함한 캘리포니아 가정용 배터리가 745MW로 새 전력망 공급 기록을 세웠습니다.",
+        "8만5천 개 이상의 파워월이 600MW 이상을 전력망에 공급해 전체 디스패치의 대부분을 차지했습니다.",
+        "이는 불과 한 달 전 580MW 기록 대비 28% 증가한 수준으로, 주 내 상당수 가스 피커 발전소 용량을 상회합니다."
       ],
-      "whyItMatters": "전기차 확산이 글로벌 원유 수요와 에너지 안보 구도에 실질적인 재무적 영향을 미치며, 동시에 미국의 경쟁·정책 전략 재조정 필요성을 드러내기 때문이다.",
+      "whyItMatters": "가정용 배터리가 대규모 발전원 수준의 피크 전력 공급 역할을 하며 분산형 에너지·에너지저장시장 성장과 기존 화석연료 발전 대체 가능성을 입증하는 사례이기 때문입니다.",
       "topics": [
         "Demand",
-        "Policy",
         "Investment",
-        "Competition"
+        "Roadmap"
       ],
-      "status": "ONGOING",
-      "hash": "469c4db4169f51abcc712bde43aa06bbb3077a1fd840144b41503af039a47530",
-      "url": "https://electrek.co/2026/10/13/electric-cars-saved-20b-in-oil-and-the-us-is-falling-behind/"
+      "status": "NEW",
+      "hash": "ad5100d0684873b86649c5161d0385d3d12a35b22652421f046b5d9fc55876c6",
+      "url": "https://electrek.co/2026/10/14/tesla-powerwall-sunrun-record-745-mw-california-grid-dispatch/"
     },
     {
       "id": "ev_0002",
       "tab": "ev",
-      "publishedAt": "2026-10-14T04:40:31+09:00",
+      "publishedAt": "2026-10-14T23:14:40+09:00",
       "source": "Electrek",
-      "title": "Rivian’s Mind Robotics snags Doug Field, ex-Tesla and Ford EV chief",
+      "title": "Ford opens preorder invites for the $30,000 Fathom EV pickup",
       "summary": [
-        "테슬라 모델 3 총괄 및 포드 EV 책임자였던 더그 필드가 리비안에서 분사한 산업 로보틱스 스타트업 마인드 로보틱스의 사장으로 합류했습니다.",
-        "마인드 로보틱스는 설립 1년이 안 된 시점에 이미 10억 달러 이상을 조달했으며, 필드는 제품·엔지니어링·운영을 총괄합니다.",
-        "리비안 CEO RJ 스캐린지와 더그 필드의 조합으로 전기차 및 생산 자동화 역량이 강화되며 향후 제조 경쟁력 제고가 기대됩니다."
+        "포드가 3만 달러 가격의 전기 픽업 'Fathom' 예약 초대 신청을 개시했다.",
+        "초대 기반 프리오더로 초기 수요를 파악하고 초기 구매자 풀을 형성하려는 움직임이다.",
+        "저렴한 가격대의 EV 픽업 출시는 시장 경쟁과 소비자 수요에 상당한 영향을 미칠 수 있다."
       ],
-      "whyItMatters": "EV 및 제조 자동화 분야에서 검증된 최고 수준 인재 영입과 대규모 투자 유치가 결합돼 리비안 및 마인드 로보틱스의 기술·생산 경쟁력과 산업 내 영향력이 크게 확대될 수 있기 때문입니다.",
+      "whyItMatters": "가격 경쟁력이 있는 전기 픽업의 사전예약 시작은 수요 신호와 경쟁 구도 변화를 촉발할 가능성이 있어 전략적으로 중요하다.",
       "topics": [
-        "Investment",
-        "Manufacturing",
-        "Roadmap",
-        "Competition"
+        "Demand",
+        "Competition",
+        "Roadmap"
       ],
       "status": "NEW",
-      "hash": "8e46ad6c081db8824f0f8a7fd9ceaaa00dd415b81319529318dfb8a025665707",
-      "url": "https://electrek.co/2026/10/13/rivian-mind-robotics-doug-field-president-tesla-ford/"
+      "hash": "ab53418f7cb101c593fcc19e56f3bf9ef41c2abcc5efe3e89a5e738711946fdd",
+      "url": "https://electrek.co/2026/10/14/ford-opens-preorder-invites-30000-fathom-ev-pickup/"
     }
   ]
 }
