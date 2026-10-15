@@ -1,0 +1,648 @@
+{
+  "date": "2026-10-15",
+  "kpis": {
+    "clusters": 20,
+    "sources": 2,
+    "new": 18
+  },
+  "clusters": [
+    {
+      "id": "53db46de3e02ae2b4723311846ad433ccb097e34",
+      "name": "How Amazon pushes up prices all across the Internet",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 1125.0,
+      "oneLiner": "아마존이 인터넷 전반의 가격을 끌어올리는 방식을 다룬 글",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "699p · 588c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50084757"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "0d78d1e37d10f369af6e63f8cf636d3ddf7a5703",
+      "name": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 1021.8,
+      "oneLiner": "전문가들이 AI 해킹 보도 원인으로 격리와 모니터링 실패를 지목함",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "819p · 442c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50091788"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html"
+        }
+      ],
+      "tags": [
+        "observability"
+      ]
+    },
+    {
+      "id": "da4edef2f1ee7469dc9563efb2481b16e26e23fa",
+      "name": "Passkeys are not a trap",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 1009.8,
+      "oneLiner": "패스키가 함정이 아니라고 설명하는 글",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "445p · 619c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50088935"
+        },
+        {
+          "label": "Source",
+          "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "4d839b4d29e8422732c21ec5ffff83913defe0b2",
+      "name": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 762.6,
+      "oneLiner": "Iosevka는 오픈소스 산세리프와 슬랩세리프 모노스페이스 글꼴",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "699p · 286c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50084240"
+        },
+        {
+          "label": "Source",
+          "url": "https://typeof.net/Iosevka/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "43c2e758af02c2fcfd979741eb7b4e4e672bc1c6",
+      "name": "android/ndk",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 669.28,
+      "oneLiner": "안드로이드 네이티브 개발에 사용하는 NDK 저장소",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,326"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "312"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-14"
+        },
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "480p · 235c"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/android/ndk"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/android/ndk/releases/tag/r30"
+        },
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50083130"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "2fd498d9224f1ded863d093ca061b75f45b35a8f",
+      "name": "ICE Planning $100M 'Nightmare' Domestic Spy Program",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 636.6,
+      "oneLiner": "ICE가 1억 달러 규모의 '악몽' 국내 감시 프로그램을 계획한다는 보도",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "485p · 288c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50090246"
+        },
+        {
+          "label": "Source",
+          "url": "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "605628bf213242252a0b129271d49b5227a28337",
+      "name": "Things to know when you get cancer – 2026 Edition",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 617.4,
+      "oneLiner": "암 진단을 받았을 때 알아둘 점들을 정리한 2026년판 글",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "675p · 177c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50093568"
+        },
+        {
+          "label": "Source",
+          "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "1ce7d7c5c21abc2c828975d949d0860963ec001c",
+      "name": "Suicide rates highest ever among middle-aged men",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 489.0,
+      "oneLiner": "중년 남성의 자살률이 사상 최고치라는 보도",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "227p · 294c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50093180"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/"
+        }
+      ],
+      "tags": [
+        "editor"
+      ]
+    },
+    {
+      "id": "2e38cd491b286a5960431b41524e515b4f27a5a5",
+      "name": "wheresryan22/anatomy",
+      "section": "releases",
+      "status": "ONGOING",
+      "score": 435.32,
+      "oneLiner": "정교한 등각 투상 기계 일러스트를 생성하는 에이전트 스킬 저장소",
+      "whyNow": "버전 업데이트 이후 재확산이 시작된 흐름입니다. 에이전트 활용 흐름과 맞물려 주목이 커지고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "10,022"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "722"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-15"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v1.1.0"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/wheresryan22/anatomy"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/wheresryan22/anatomy/releases/tag/v1.1.0"
+        }
+      ],
+      "tags": [
+        "agent tooling"
+      ]
+    },
+    {
+      "id": "78c8932e5a3034bed9f582dcacf9e9d2d4829925",
+      "name": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 399.0,
+      "oneLiner": "폴란드 의심 사보타주 이후 불가리아 스타링크 시설에서 화재 발생",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "269p · 198c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50092730"
+        },
+        {
+          "label": "Source",
+          "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "22e6d51cbce22376c051cd1f84adf02402a23b21",
+      "name": "Banks are now trying to offload the AI data center debt they just underwrote",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 399.0,
+      "oneLiner": "은행들이 AI 데이터센터 채무를 다른 곳으로 전가하려 한다는 내용",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "257p · 204c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50092664"
+        },
+        {
+          "label": "Source",
+          "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/"
+        }
+      ],
+      "tags": [
+        "data"
+      ]
+    },
+    {
+      "id": "5308bfe8de8a02738647e86fba4bb2d7190aefb9",
+      "name": "Google is silently linking your phone number across all signed-in accounts",
+      "section": "trending",
+      "status": "NEW",
+      "score": 327.6,
+      "oneLiner": "구글이 전화번호를 로그인한 모든 계정에 조용히 연결한다는 보도",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "358p · 94c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50090349"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "8e0943b68a8caafbd68db1bec29118b800e437ce",
+      "name": "Switzerland proposes banning profiling-based ads to minors",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 315.6,
+      "oneLiner": "스위스가 미성년자 대상 프로파일링 광고 금지안을 제안함",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "238p · 144c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50087328"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.admin.ch/en/newnsb/NMn5s24l8NjQ"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "dce889f84db83d44d9edb8bb6a5873840a9779c5",
+      "name": "mhtsec/ARTEX",
+      "section": "trending",
+      "status": "ONGOING",
+      "score": 290.4,
+      "oneLiner": "AI 자율 침투 테스트 시스템으로 Baidu agent+ 챌린지 우승 프로젝트",
+      "whyNow": "개발 신호가 이어지면서 사용 사례가 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "4,077"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "6,366"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-15"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/mhtsec/ARTEX"
+        }
+      ],
+      "tags": [
+        "agent tooling"
+      ]
+    },
+    {
+      "id": "0e5234bf918da95a7688f35216052f847f241424",
+      "name": "Felix Rieseberg Homepage",
+      "section": "trending",
+      "status": "NEW",
+      "score": 286.2,
+      "oneLiner": "Felix Rieseberg의 개인 홈페이지",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "271p · 103c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50082470"
+        },
+        {
+          "label": "Source",
+          "url": "https://felixrieseberg.com/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "0c050dd909f051fdb2df6a3b1332e63f069ae310",
+      "name": "OpenCode 2.0",
+      "section": "trending",
+      "status": "NEW",
+      "score": 255.6,
+      "oneLiner": "OpenCode 2.0에 관해 정리한 소개 글",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "246p · 90c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50094994"
+        },
+        {
+          "label": "Source",
+          "url": "https://anoma.ly/notes/opencode-2-0/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "90763cda85acfa3bf40b38f77562d292488c2978",
+      "name": "Anthropic's Scion is heavily inspired by Mononoke",
+      "section": "trending",
+      "status": "NEW",
+      "score": 254.4,
+      "oneLiner": "Anthropic의 Scion이 모노노케에서 강한 영감을 받았다는 내용",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "224p · 100c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50094694"
+        },
+        {
+          "label": "Source",
+          "url": "https://sunshowers.io/posts/anthropic-mononoke/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "d9a00a945ddb63f4dccc2c50669dcb701a62374c",
+      "name": "ARahim3/DigUp",
+      "section": "releases",
+      "status": "NEW",
+      "score": 169.94,
+      "oneLiner": "파일 내용으로 로컬에서 검색하는 온디바이스 도구로 Mac Windows Linux 지원",
+      "whyNow": "버전 업데이트 이후 재확산이 시작된 흐름입니다. 개발자 경험 개선 관점에서 관심이 커지고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "3,628"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "241"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-15"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v0.6.1"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/ARahim3/DigUp"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/ARahim3/DigUp/releases/tag/v0.6.1"
+        }
+      ],
+      "tags": [
+        "editor",
+        "local-first"
+      ]
+    },
+    {
+      "id": "62cff3198073dd6229247831c358e0d945d7d818",
+      "name": "storytold/craft-launcher",
+      "section": "releases",
+      "status": "NEW",
+      "score": 143.68,
+      "oneLiner": "Craft 앱 실행을 돕는 런처 저장소",
+      "whyNow": "새 릴리즈 영향으로 관심이 재점화되고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,649"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "886"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-15"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v0.4.1"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/storytold/craft-launcher"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/storytold/craft-launcher/releases/tag/v0.4.1"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "e67f2402cc9d2cced809f158682e663d61df0356",
+      "name": "t4t5/omdrop-owl",
+      "section": "releases",
+      "status": "NEW",
+      "score": 131.28,
+      "oneLiner": "비애플 기기에서도 작동하는 에어드랍 유사 기능을 제공하는 프로젝트",
+      "whyNow": "업데이트가 트리거가 되어 레퍼런스가 모이는 구간입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,679"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "206"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-14"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v0.2.0"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/t4t5/omdrop-owl"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/t4t5/omdrop-owl/releases/tag/v0.2.0"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}
