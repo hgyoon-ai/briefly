@@ -1,0 +1,646 @@
+{
+  "date": "2026-10-16",
+  "kpis": {
+    "clusters": 20,
+    "sources": 2,
+    "new": 19
+  },
+  "clusters": [
+    {
+      "id": "711744a5f5f37f5ed7a627c210a4ad83844002ff",
+      "name": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 863.4,
+      "oneLiner": "표적 광고가 제로클릭 용병 스파이웨어 유통 루트로 활용된 사례를 다룬 글",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "369p · 535c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50101813"
+        },
+        {
+          "label": "Source",
+          "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/"
+        }
+      ],
+      "tags": [
+        "agent tooling"
+      ]
+    },
+    {
+      "id": "32a1e14f8aa17a54f3904c33d20951e4be535681",
+      "name": "I know why the mathematicians weep",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 856.8,
+      "oneLiner": "수학자들이 슬퍼하는 이유를 탐구한 기사",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "336p · 546c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50103630"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "7be165eca514f261edcceb2ed54954aca80acf8c",
+      "name": "Muse Spark Open",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 739.8,
+      "oneLiner": "Muse Spark Open 모델을 소개하는 연구 블로그 글",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "581p · 326c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50107379"
+        },
+        {
+          "label": "Source",
+          "url": "https://research.meta.ai/blog/muse-spark-open"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "12e1152c4f817fce8a9c96bd78df363df6e6cc69",
+      "name": "fyzugx/DEsk",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 547.48,
+      "oneLiner": "오픈 소스 개발 도구/프로젝트입니다.",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "761"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "22"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-16"
+        },
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "475p · 193c"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/fyzugx/DEsk"
+        },
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50103338"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "24872dddd82fdb4c945fb3a0f10ffc35d82132c8",
+      "name": "Neural networks are clean",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 496.2,
+      "oneLiner": "신경망이 깨끗하다는 주제를 다룬 글",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "467p · 180c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50105647"
+        },
+        {
+          "label": "Source",
+          "url": "https://already-clean.goodfire.com/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "6b48ae8e980689b69551a62de0970e0db26a49f1",
+      "name": "Steam Client is now faster than Epic's new vibe coded launcher",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 487.2,
+      "oneLiner": "Steam 클라이언트가 Epic의 새 런처보다 더 빨라졌다는 기사",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "270p · 271c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50105635"
+        },
+        {
+          "label": "Source",
+          "url": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "7e2fb20bbf16fe1eba0e069e9eea237b2478abfb",
+      "name": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 351.6,
+      "oneLiner": "Simons 재단이 수학자들의 AI 적응을 돕는 1500만 달러 사업을 시작했다",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "224p · 181c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50104654"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "e9b4e5ced8043557fed290f9117b186e973407d3",
+      "name": "Show HN: Unfenced – Land for sale that borders public land",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 350.4,
+      "oneLiner": "공공지와 경계하는 토지를 모아 보여주는 Unfenced 서비스",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "248p · 168c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50102247"
+        },
+        {
+          "label": "Source",
+          "url": "https://unfenced.land/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "890b6471bdd670e7218beb3230e793e07a48c175",
+      "name": "Why We're Banning AI",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 340.8,
+      "oneLiner": "AI를 금지하려는 이유를 주장하는 글",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "218p · 175c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50108131"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.currentaffairs.org/news/why-were-banning-ai"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "44f1f42080749e6c614f3492800d8a69fd9da92e",
+      "name": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 324.0,
+      "oneLiner": "Libreboot 26.10 Ominous Olive가 UEFI와 크롬북 지원을 포함해 출시되었다",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "250p · 145c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50102923"
+        },
+        {
+          "label": "Source",
+          "url": "https://libreboot.org/news/libreboot2610.html"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "30fb893d566a7fa86f27d8cc951b7a3fd372a51b",
+      "name": "Jev meets the Trolley Problem",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 310.2,
+      "oneLiner": "Jev 관점으로 트롤리 문제를 다루는 에세이",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "265p · 126c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50106023"
+        },
+        {
+          "label": "Source",
+          "url": "https://zachlandes.com/trolley-problem/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "310017afc238024d4d09a7ebb7c5eb08e56fe315",
+      "name": "Online ads weaponised to deliver ‘zero-click’ spyware, researchers say",
+      "section": "trending",
+      "status": "NEW",
+      "score": 300.0,
+      "oneLiner": "온라인 광고를 통해 제로클릭 스파이웨어가 전달된다는 보도",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "498p · 1c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50103000"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "df26da861e75250da7a9af2bad2859006eb645fd",
+      "name": "I designed a nose guard for my dog and gave it away. Now 500 dogs wear one",
+      "section": "trending",
+      "status": "NEW",
+      "score": 281.4,
+      "oneLiner": "개용 코 보호대를 설계해 나눠주었고 현재 500마리가 착용한다는 이야기",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "233p · 118c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50105344"
+        },
+        {
+          "label": "Source",
+          "url": "https://snoutcover.com/one-year"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "846309dc0d2f84a47689f733585ce4489eac8f88",
+      "name": "Krea 3 – An image model built for editing at scale",
+      "section": "trending",
+      "status": "NEW",
+      "score": 232.2,
+      "oneLiner": "대규모 편집을 위해 만든 이미지 모델 Krea 3을 소개한 글",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "231p · 78c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50105648"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.krea.ai/krea-3"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "1a01c6d18997cf7c68af21ca1e78c3dc00b1f50a",
+      "name": "jhaizhou-ops/d2r-mobile",
+      "section": "releases",
+      "status": "NEW",
+      "score": 162.64,
+      "oneLiner": "Diablo II: Resurrected용 iOS/macOS 오픈소스 호환 레이어 프로젝트",
+      "whyNow": "최근 릴리즈가 나오며 실사용 공유가 빠르게 늘고 있습니다. 운영/비용 관점 해석이 갈리며 논의가 이어지고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "3,098"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "936"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-16"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v1.0.17"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/jhaizhou-ops/d2r-mobile"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/jhaizhou-ops/d2r-mobile/releases/tag/v1.0.17"
+        }
+      ],
+      "tags": [
+        "infra"
+      ]
+    },
+    {
+      "id": "62cff3198073dd6229247831c358e0d945d7d818",
+      "name": "storytold/craft-launcher",
+      "section": "releases",
+      "status": "ONGOING",
+      "score": 153.92,
+      "oneLiner": "Craft App Launcher를 제공하는 오픈소스 프로젝트",
+      "whyNow": "새 릴리즈 영향으로 관심이 재점화되고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,866"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "964"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-16"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v0.4.1"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/storytold/craft-launcher"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/storytold/craft-launcher/releases/tag/v0.4.1"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "8db693e4683ea9712c6ea0f46a2e77a1b32626fe",
+      "name": "An Israeli firm is sending zero-click spyware through online ads",
+      "section": "trending",
+      "status": "NEW",
+      "score": 148.8,
+      "oneLiner": "이스라엘 기업이 온라인 광고로 제로클릭 스파이웨어를 보냈다고 보도한 기사",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "230p · 9c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50106676"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "a7d24c595ec94087980b09d79b319cbfddc924ef",
+      "name": "onehumanbeing/esp32-iphone-agent",
+      "section": "releases",
+      "status": "NEW",
+      "score": 123.7,
+      "oneLiner": "ESP32로 아이폰을 AI가 제어하게 하는 도구로 Mac이나 탈옥 없이 동작한다",
+      "whyNow": "새 릴리즈 영향으로 관심이 재점화되고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,430"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "325"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-16"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v0.1.0"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/onehumanbeing/esp32-iphone-agent"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/onehumanbeing/esp32-iphone-agent/releases/tag/v0.1.0"
+        }
+      ],
+      "tags": [
+        "agent tooling"
+      ]
+    },
+    {
+      "id": "730b29a74eeb2c0820193fdf71db333fbf11ba62",
+      "name": "liseami/CCBaga",
+      "section": "releases",
+      "status": "NEW",
+      "score": 118.2,
+      "oneLiner": "오픈 소스 개발 도구/프로젝트입니다.",
+      "whyNow": "버전 업데이트 이후 재확산이 시작된 흐름입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,338"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "234"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-15"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v0.2.48"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/liseami/CCBaga"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/liseami/CCBaga/releases/tag/v0.2.48"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "61731ce00dd5bfdb8571ce70504bfc2c5f733a76",
+      "name": "Arekejoker/qwen21-nsfw-pose-skill",
+      "section": "releases",
+      "status": "NEW",
+      "score": 108.84,
+      "oneLiner": "Qwen-Image 2.1용 NSFW 및 자세 출력용 스킬과 프롬프트·LoRA를 포함한 저장소",
+      "whyNow": "업데이트가 트리거가 되어 레퍼런스가 모이는 구간입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,013"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "416"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-16"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v1.0.0"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill/releases/tag/v1.0.0"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}
