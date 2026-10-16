@@ -1,0 +1,148 @@
+{
+  "range": {
+    "from": "2026-09-17",
+    "to": "2026-10-16"
+  },
+  "kpis": {
+    "collected": 120,
+    "deduped": 120,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "Market": 30,
+      "Supply": 25,
+      "Policy": 20,
+      "UrbanRenewal": 13,
+      "Rental": 12,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (09/17-09/23)",
+      "topicCounts": {
+        "Market": 19,
+        "Supply": 14,
+        "Policy": 13,
+        "UrbanRenewal": 8,
+        "Rental": 9
+      }
+    },
+    {
+      "week": "Week 2 (09/24-09/30)",
+      "topicCounts": {
+        "Market": 20,
+        "Supply": 18,
+        "Policy": 6,
+        "UrbanRenewal": 7,
+        "Rental": 11
+      }
+    },
+    {
+      "week": "Week 3 (10/01-10/07)",
+      "topicCounts": {
+        "Market": 18,
+        "Supply": 16,
+        "Policy": 11,
+        "UrbanRenewal": 7,
+        "Rental": 4
+      }
+    },
+    {
+      "week": "Week 4 (10/08-10/14)",
+      "topicCounts": {
+        "Market": 18,
+        "Supply": 14,
+        "Policy": 14,
+        "UrbanRenewal": 6,
+        "Rental": 8
+      }
+    },
+    {
+      "week": "Week 5 (10/15-10/16)",
+      "topicCounts": {
+        "Market": 3,
+        "Supply": 4,
+        "Policy": 4,
+        "UrbanRenewal": 2,
+        "Rental": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "도심 공공주택 복합사업 투자, 입주권 기대와 달리 현금청산 위험 부각",
+      "summary": "도심 공공주택 복합사업(도공복) 후보지 발표 이후 투자자들의 문의가 급증하는 가운데, 입주권을 받을 것으로 기대했던 일부 투자자들이 실제로는 현금청산 대상이 될 수 있다는 점이 확인되며 리스크 관리 필요성이 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "“입주권 산 줄 알았는데 현금청산” … 투자자가 반드시 알아야 할 점은 [도공복 2편]",
+          "url": "https://www.mk.co.kr/news/realestate/12176905"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "서울시, 실거주 규제 비판하며 외곽 집값 상승 속 공급 확대 기조 유지",
+      "summary": "오세훈 서울시장이 정부의 실거주 위주 정책이 서울 외곽 아파트값 상승을 부추겼다고 공개 비판하고, 시민 주거 불안을 줄이기 위해 서울 내 신규 공급을 지속·확대하겠다는 입장을 밝히며 중앙정부와의 정책 기조 차이가 드러나고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "오세훈 “서울 외곽 집값 상승, 실거주 정책 탓... 공급 이어갈 것”",
+          "url": "https://www.mk.co.kr/news/realestate/12177091"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "LH·정부, 공급 지연·공사비 논란 대응 위해 현장 점검 및 검증 강화",
+      "summary": "LH가 주택공급 지연 요인을 선제 점검해 공정 관리와 착공·준공 일정을 앞당기려는 가운데, 정부는 재건축·재개발 현장 568곳을 조사해 4곳 중 1곳이 법정 공사비 검증을 받지 않은 것으로 드러나자 특별현장점검과 공사비 검증 강화를 추진하고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "LH, 주택공급 지연요인 선제 점검…\"현장 관리 강화\"",
+          "url": "https://www.hankyung.com/article/202610154724i"
+        },
+        {
+          "source": "매일경제(부동산)",
+          "title": "공사비 부르는 게 값?… 검증 칼날 꺼낸 정부",
+          "url": "https://www.mk.co.kr/news/realestate/12175855"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "반도체 호황발 ‘동탄·광교 상승’에서 분당·강남으로 번지는 수요 이동",
+      "summary": "반도체 산업 자금이 수원 광교와 화성 동탄 등 경기 남부로 유입되며 집값을 끌어올린 데 이어, 동탄에서 매도해 분당으로 갈아타는 수요와 강남권 진입을 노리는 매수 움직임이 관측되면서 수도권 내 지역 간 자산 재배치가 가속화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "“동탄 오르니 분당이 싸보이네” 반도체 머니, 이대로 강남까지 갈까 [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10901379"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "지방 공공택지 5만 가구 공급 중단, 지역 주택시장 불확실성 확대",
+      "summary": "지방 공공택지에서 계획된 약 5만 가구 신규 주택 공급이 전면 중단되면서 택지 개발과 분양 일정이 지연되고, 지방 주택시장 공급 전망과 가격 안정성에 대한 우려가 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "지방 공공택지의 '눈물'…5만 가구 공급 올스톱",
+          "url": "https://www.hankyung.com/article/2026101394721"
+        }
+      ]
+    }
+  ]
+}

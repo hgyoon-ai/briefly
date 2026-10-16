@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-09-17",
+    "to": "2026-10-16"
+  },
+  "kpis": {
+    "collected": 54,
+    "deduped": 54,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 28,
+      "Competition": 25,
+      "Demand": 20,
+      "Investment": 18,
+      "Manufacturing": 9,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (09/17-09/23)",
+      "topicCounts": {
+        "Roadmap": 10,
+        "Competition": 10,
+        "Demand": 7,
+        "Investment": 7,
+        "Manufacturing": 2
+      }
+    },
+    {
+      "week": "Week 2 (09/24-09/30)",
+      "topicCounts": {
+        "Roadmap": 11,
+        "Competition": 7,
+        "Demand": 6,
+        "Investment": 7,
+        "Manufacturing": 2
+      }
+    },
+    {
+      "week": "Week 3 (10/01-10/07)",
+      "topicCounts": {
+        "Roadmap": 9,
+        "Competition": 6,
+        "Demand": 7,
+        "Investment": 4,
+        "Manufacturing": 4
+      }
+    },
+    {
+      "week": "Week 4 (10/08-10/14)",
+      "topicCounts": {
+        "Roadmap": 9,
+        "Competition": 11,
+        "Demand": 8,
+        "Investment": 8,
+        "Manufacturing": 4
+      }
+    },
+    {
+      "week": "Week 5 (10/15-10/16)",
+      "topicCounts": {
+        "Roadmap": 1,
+        "Competition": 2,
+        "Demand": 1,
+        "Investment": 0,
+        "Manufacturing": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "ev-1",
+      "status": "SHIFTING",
+      "title": "지역별 전기차 수요 격차 확대: 유럽 급성장 vs 북미 급감",
+      "summary": "9월 유럽 전기차 판매는 사상 최고치를 기록한 반면, 북미 전기차 판매는 같은 기간 44% 급감했습니다. 보조금 구조, 충전 인프라, 금리와 같은 거시 환경 차이로 지역별 수요 흐름이 크게 갈리며 글로벌 EV 전략 재조정 압력이 커지고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Europe’s EV sales soar as North America drops 44% – here’s the catch",
+          "url": "https://electrek.co/2026/10/15/europes-ev-sales-soar-as-north-america-drops-44-heres-the-catch/"
+        }
+      ]
+    },
+    {
+      "id": "ev-2",
+      "status": "ONGOING",
+      "title": "오토파일럿/FSD 안전성 논란과 규제 리스크 심화",
+      "summary": "뉴저지에서 테슬라 차량이 중앙분리대를 넘어 치명적 충돌 사고를 일으킨 사건에서, 테슬라가 사고 당시 오토파일럿/FSD가 작동 중이었다고 확인했습니다. 자율주행 보조 기능의 안전 기준, 운전자 책임 범위, 소프트웨어 업데이트 규제 등과 관련한 조사와 규제 논의가 계속될 전망입니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla confirms Autopilot/FSD was ‘engaged’ when car crossed a median and killed a man",
+          "url": "https://electrek.co/2026/10/15/tesla-driver-assist-median-crossing-vineland/"
+        }
+      ]
+    },
+    {
+      "id": "ev-3",
+      "status": "NEW",
+      "title": "리비안 분사 ‘마인드 로보틱스’, 더그 필드 합류로 EV 공정 자동화 가속",
+      "summary": "테슬라 모델 3와 포드 EV 개발을 이끌었던 더그 필드가 리비안에서 분사한 산업 로보틱스 스타트업 마인드 로보틱스 사장으로 합류했습니다. 설립 1년 미만에 10억 달러 이상을 조달한 이 회사는 EV 생산 라인 자동화·로보틱스 역량을 확대하며 전기차 제조 경쟁력 판도를 바꿀 잠재력을 키우고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Rivian’s Mind Robotics snags Doug Field, ex-Tesla and Ford EV chief",
+          "url": "https://electrek.co/2026/10/13/rivian-mind-robotics-doug-field-president-tesla-ford/"
+        }
+      ]
+    },
+    {
+      "id": "ev-4",
+      "status": "NEW",
+      "title": "클래식 아이콘의 저가형 EV 변신: 시트로엥 2CV 전기 콘셉트",
+      "summary": "시트로엥이 클래식 2CV를 약 1만5천 유로 수준의 전기차 콘셉트로 부활시키며 2028년 출시를 목표로 하고 있습니다. 레트로 디자인과 접근 가능한 가격대를 앞세운 도심형 EV 전략으로, 경기 둔화 국면에서 합리적 가격대 전기차 수요를 겨냥하는 움직임입니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "The legendary Citroen 2CV is back as a €15k electric concept for 2028",
+          "url": "https://electrek.co/2026/10/11/the-legendary-citroen-2cv-is-back-as-a-e15k-electric-concept-for-2028/"
+        }
+      ]
+    },
+    {
+      "id": "ev-5",
+      "status": "ONGOING",
+      "title": "BYD 상용 전동화 가속: 15만 번째 상용 NEV 및 전기 세미 트럭 확대",
+      "summary": "BYD가 장쑤성 화이안 공장에서 15만 번째 상용 신에너지차 생산을 달성하며, 기념 모델로 약 800마력급 Q3 전기 세미 트럭을 선보였습니다. 중국과 글로벌 시장에서 전기 트럭·버스 등 상용 EV 포트폴리오를 확대하며 상용 부문 전동화 경쟁에서 주도권을 강화하고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "BYD builds 150,000th commercial NEV – an 800 hp Q3 electric semi truck",
+          "url": "https://electrek.co/2026/10/10/byd-builds-150000th-commercial-nev-an-800-hp-q3-electric-semi-truck/"
+        }
+      ]
+    }
+  ]
+}

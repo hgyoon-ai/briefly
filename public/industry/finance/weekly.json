@@ -1,17 +1,17 @@
 {
   "range": {
-    "from": "2026-10-09",
-    "to": "2026-10-15"
+    "from": "2026-10-10",
+    "to": "2026-10-16"
   },
   "kpis": {
-    "collected": 12,
-    "deduped": 12,
+    "collected": 13,
+    "deduped": 13,
     "uniqueTopics": 6
   },
   "topTopics": [
     {
       "name": "MarketInfra",
-      "count": 11
+      "count": 12
     },
     {
       "name": "Policy",
@@ -28,40 +28,16 @@
   ],
   "topicTrend": [
     {
-      "date": "2026-10-09",
-      "dayOfWeek": "Fri",
-      "topic": "MarketInfra",
-      "count": 0
-    },
-    {
-      "date": "2026-10-09",
-      "dayOfWeek": "Fri",
-      "topic": "Policy",
-      "count": 0
-    },
-    {
-      "date": "2026-10-09",
-      "dayOfWeek": "Fri",
-      "topic": "Regulation",
-      "count": 0
-    },
-    {
-      "date": "2026-10-09",
-      "dayOfWeek": "Fri",
-      "topic": "Fintech",
-      "count": 0
-    },
-    {
       "date": "2026-10-10",
       "dayOfWeek": "Sat",
       "topic": "MarketInfra",
-      "count": 2
-    },
-    {
-      "date": "2026-10-10",
-      "dayOfWeek": "Sat",
-      "topic": "Policy",
       "count": 1
+    },
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 0
     },
     {
       "date": "2026-10-10",
@@ -194,25 +170,44 @@
       "dayOfWeek": "Thu",
       "topic": "Fintech",
       "count": 0
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Fintech",
+      "count": 0
     }
   ],
   "topIssues": [
     {
       "id": 1,
       "status": "ONGOING",
-      "title": "반도체 쏠림 구조 속 코스피 급락과 변동성 확대",
-      "summary": "삼성전자·SK하이닉스 등 메모리 2개 종목에 시가총액이 과도하게 집중된 구조에서 외국인 매도와 중국 반도체 추격 우려가 겹치며 코스피가 6000선 아래로 급락하는 등 변동성이 극단적으로 확대되고 있다.",
-      "articleCount": 3,
+      "title": "국내 반도체 대형주 역사적 저평가와 비중 확대 기회",
+      "summary": "삼성전자와 SK하이닉스가 내년 실적 기준 PER 3배 안팎까지 떨어지며 금융위기 수준의 저평가 구간에 진입했다. 증권가는 배당·자사주 소각 등 주주환원 강화와 업황 회복 가능성을 근거로 반도체 대장주의 비중 확대를 전략적으로 권고하고 있다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
-          "title": "[속보] 코스피, 6000선도 무너졌다…삼전·하이닉스 동반 급락",
-          "url": "https://www.mk.co.kr/news/stock/12174245"
-        },
-        {
-          "source": "매일경제(증권)",
-          "title": "다른 나라도 반도체 영향 받는데…왜 코스피만 더 크게 흔들리나",
-          "url": "https://www.mk.co.kr/news/stock/12175144"
+          "title": "“금융위기 때만큼 싸다…삼전닉스 비중 확대 적기” [오늘 나온 보고서]",
+          "url": "https://www.mk.co.kr/news/stock/12177436"
         },
         {
           "source": "매일경제(증권)",
@@ -224,22 +219,22 @@
     {
       "id": 2,
       "status": "SHIFTING",
-      "title": "삼성전자 역사적 저평가 논쟁과 비중 확대 매수 전략",
-      "summary": "배당 확대와 자사주 소각 등 주주환원 정책 기대 속에서 일시적인 주가 조정을 오히려 비중 확대 기회로 보는 시각이 부각되며, 삼성전자 장기 밸류에이션과 주주환원 정책이 투자 전략의 핵심 변수로 부상하고 있다.",
+      "title": "PPI 급등과 금리 하락이 뒤섞인 글로벌 매크로 국면 변화",
+      "summary": "생산자물가지수(PPI)가 예상보다 크게 뛰며 인플레이션 압력이 재부각됐지만, 채권시장은 경기 둔화 가능성과 중앙은행 완화 기대를 반영하며 금리 하락으로 응답했다. 물가 재자극 vs 성장 둔화라는 상반된 시그널이 증시 섹터·스타일 로테이션을 촉발하는 구간으로 진입하고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
-          "title": "“삼전 주가, 역사적 저평가”라는데…KB증권 “비중 확대할 기회”",
-          "url": "https://www.mk.co.kr/news/stock/12176392"
+          "title": "PPI 폭등했는데 금리 왜 떨어졌나... 증시 색깔 이렇게 바뀐다",
+          "url": "https://www.mk.co.kr/news/economy/12177435"
         }
       ]
     },
     {
       "id": 3,
       "status": "ONGOING",
-      "title": "한국은행 직원 주식거래 급증과 중앙은행 윤리·신뢰 리스크",
-      "summary": "한국은행 직원, 특히 금융시장국의 주식 거래 규모가 수십 배 급증한 사실이 드러나며 내부정보 이용 가능성과 도덕적 해이 우려가 커지고 있고, 통화·금융정책의 신뢰도와 시장 경고 기능 약화에 대한 논쟁이 이어지고 있다.",
+      "title": "한국은행 직원 주식거래 급증과 중앙은행 신뢰 리스크",
+      "summary": "올해 상반기 한국은행 전체 직원 주식거래 규모가 50배 이상, 금융시장국은 20배 이상 급증하면서 내부정보 이용 및 도덕적 해이 우려가 제기됐다. 통화정책 신뢰성에 영향을 줄 수 있는 이해상충 관리와 규제·윤리 기준 강화 필요성이 부각되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -251,29 +246,29 @@
     },
     {
       "id": 4,
-      "status": "SHIFTING",
-      "title": "AI 열풍과 매출 현실화 우려가 뒤흔드는 글로벌 AI·반도체 주가",
-      "summary": "앤트로픽의 연환산 매출 공개를 앞두고 AI 기업들의 수익성 현실화에 대한 불안이 커지며, 과거 오픈AI 매출 논란 때처럼 관련 기술주와 반도체 종목들이 급등락을 반복하는 등 월가의 AI 투자 흐름이 조정 국면에 들어가고 있다.",
+      "status": "ONGOING",
+      "title": "반도체 편중 구조가 키운 코스피 변동성과 중국 리스크",
+      "summary": "코스피 시가총액의 절반이 메모리 반도체 2개 종목에 집중된 가운데, 중국의 반도체 추격과 대외 불확실성이 겹치며 외국인 매도와 지수 변동성이 확대되고 있다. 특정 업종·소수 종목 의존도를 줄이는 구조개선과 업종 다변화 필요성이 재조명된다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
-          "title": "앤트로픽 예상 매출에 벌벌 떠는 AI 주가...월가의 흐름이 바뀐다",
-          "url": "https://www.mk.co.kr/news/business/12175126"
+          "title": "다른 나라도 반도체 영향 받는데…왜 코스피만 더 크게 흔들리나",
+          "url": "https://www.mk.co.kr/news/stock/12175144"
         }
       ]
     },
     {
       "id": 5,
       "status": "SHIFTING",
-      "title": "스페이스X 위성통신 확장으로 통신·인프라 투자 지형 변화",
-      "summary": "스페이스X의 스타십 성공으로 위성 통신 역량이 빠르게 커지며 기존 통신사에겐 협력자에서 직접 경쟁자로 변신한 위협 요인이 되고 있고, 통신시장 점유율과 수익모델, 인프라 투자 구조 전반의 재평가가 진행되고 있다.",
+      "title": "AI 성장 기대 재점검으로 흔들리는 글로벌 AI·반도체 투자심리",
+      "summary": "앤트로픽의 연환산 매출 공개를 앞두고 실제 수익 규모에 대한 불확실성이 커지면서 AI 관련주의 밸류에이션 부담이 부각되고 있다. 과거 오픈AI 매출 논란 때처럼 반도체·AI 인프라 종목까지 동반 급등락하며 월가의 AI 트레이딩 패턴과 성장 스토리가 재평가되는 국면이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
-          "title": "‘협력자’에서 ‘경쟁자’로…통신시장 판 흔드는 스페이스X [지정학에서 찾는 투자기회]",
-          "url": "https://www.mk.co.kr/news/stock/12176058"
+          "title": "앤트로픽 예상 매출에 벌벌 떠는 AI 주가...월가의 흐름이 바뀐다",
+          "url": "https://www.mk.co.kr/news/business/12175126"
         }
       ]
     }

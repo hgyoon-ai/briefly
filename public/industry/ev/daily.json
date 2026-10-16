@@ -1,15 +1,15 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "highlights": {
     "bullets": [
-      "핵심: 파워월을 포함한 캘리포니아 가정용 배터리가 기록적 745MW 전력망 공급의 대부분을 차지했다.",
-      "핵심: 포드가 3만 달러 가격의 전기 픽업 Fathom 예약 초대 신청을 시작했다."
+      "핵심: 테슬라가 규제 당국에 제출한 보고서에 따르면 뉴저지에서 차량이 중앙분리대를 넘어 충돌해 상대 운전자가 사망했고 오토파일럿/FSD가 작동 중이었다.",
+      "핵심: 9월 유럽의 전기차 판매가 기록적으로 급증한 반면 북미 판매는 44% 감소했다."
     ],
     "topTopics": [
-      "Roadmap",
-      "Demand",
       "Competition",
-      "Investment"
+      "Roadmap",
+      "Investment",
+      "Demand"
     ],
     "stats": {
       "collected": 13,
@@ -20,44 +20,43 @@
     {
       "id": "ev_0001",
       "tab": "ev",
-      "publishedAt": "2026-10-14T23:46:00+09:00",
+      "publishedAt": "2026-10-15T23:03:35+09:00",
       "source": "Electrek",
-      "title": "Tesla Powerwalls supply most of record 745 MW California grid dispatch",
+      "title": "Tesla confirms Autopilot/FSD was ‘engaged’ when car crossed a median and killed a man",
       "summary": [
-        "테슬라 파워월을 포함한 캘리포니아 가정용 배터리가 745MW로 새 전력망 공급 기록을 세웠습니다.",
-        "8만5천 개 이상의 파워월이 600MW 이상을 전력망에 공급해 전체 디스패치의 대부분을 차지했습니다.",
-        "이는 불과 한 달 전 580MW 기록 대비 28% 증가한 수준으로, 주 내 상당수 가스 피커 발전소 용량을 상회합니다."
+        "뉴저지에서 테슬라 차량이 중앙분리대를 넘어 충돌 사고를 일으켜 상대 차량 운전자가 사망했습니다.",
+        "테슬라가 규제 당국에 제출한 보고서에 따르면 사고 당시 오토파일럿/FSD 운전자 보조 시스템이 작동 중이었습니다.",
+        "이는 테슬라 충돌 사건과 NHTSA 비공개 데이터를 대조하는 Electrek의 ongoing 조사 일부로 드러난 내용입니다."
       ],
-      "whyItMatters": "가정용 배터리가 대규모 발전원 수준의 피크 전력 공급 역할을 하며 분산형 에너지·에너지저장시장 성장과 기존 화석연료 발전 대체 가능성을 입증하는 사례이기 때문입니다.",
+      "whyItMatters": "자율주행·운전자 보조 시스템의 안전성과 규제 리스크, 브랜드 신뢰도에 직접적인 악영향을 줄 수 있는 치명 사고이기 때문입니다.",
       "topics": [
-        "Demand",
-        "Investment",
+        "Policy",
+        "Competition",
         "Roadmap"
       ],
-      "status": "NEW",
-      "hash": "ad5100d0684873b86649c5161d0385d3d12a35b22652421f046b5d9fc55876c6",
-      "url": "https://electrek.co/2026/10/14/tesla-powerwall-sunrun-record-745-mw-california-grid-dispatch/"
+      "status": "ONGOING",
+      "hash": "1672932ecab927b4018afda9b9623ed9b0c8c4f87e8d1d35a827ebdc2213761f",
+      "url": "https://electrek.co/2026/10/15/tesla-driver-assist-median-crossing-vineland/"
     },
     {
       "id": "ev_0002",
       "tab": "ev",
-      "publishedAt": "2026-10-14T23:14:40+09:00",
+      "publishedAt": "2026-10-16T08:01:00+09:00",
       "source": "Electrek",
-      "title": "Ford opens preorder invites for the $30,000 Fathom EV pickup",
+      "title": "Europe’s EV sales soar as North America drops 44% – here’s the catch",
       "summary": [
-        "포드가 3만 달러 가격의 전기 픽업 'Fathom' 예약 초대 신청을 개시했다.",
-        "초대 기반 프리오더로 초기 수요를 파악하고 초기 구매자 풀을 형성하려는 움직임이다.",
-        "저렴한 가격대의 EV 픽업 출시는 시장 경쟁과 소비자 수요에 상당한 영향을 미칠 수 있다."
+        "유럽의 전기차 판매가 9월에 기록적인 수준으로 급증했습니다.",
+        "같은 기간 북미의 전기차 판매는 44% 큰 폭으로 감소했습니다.",
+        "글로벌 성장 축이 유럽과 비전통적 시장으로 이동하고 있습니다."
       ],
-      "whyItMatters": "가격 경쟁력이 있는 전기 픽업의 사전예약 시작은 수요 신호와 경쟁 구도 변화를 촉발할 가능성이 있어 전략적으로 중요하다.",
+      "whyItMatters": "이는 글로벌 수요와 시장 지형이 유럽 중심으로 재편되어 제조사·투자자·정책의 전략 재조정이 필요함을 시사합니다.",
       "topics": [
         "Demand",
-        "Competition",
-        "Roadmap"
+        "Competition"
       ],
-      "status": "NEW",
-      "hash": "ab53418f7cb101c593fcc19e56f3bf9ef41c2abcc5efe3e89a5e738711946fdd",
-      "url": "https://electrek.co/2026/10/14/ford-opens-preorder-invites-30000-fathom-ev-pickup/"
+      "status": "SHIFTING",
+      "hash": "43550f9684b10642395faa67ab130d3c2154df92957859314b28629a81624a1d",
+      "url": "https://electrek.co/2026/10/15/europes-ev-sales-soar-as-north-america-drops-44-heres-the-catch/"
     }
   ]
 }

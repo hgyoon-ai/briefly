@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-10-10",
+    "to": "2026-10-16"
+  },
+  "kpis": {
+    "collected": 14,
+    "deduped": 14,
+    "uniqueTopics": 6
+  },
+  "topTopics": [
+    {
+      "name": "Roadmap",
+      "count": 13
+    },
+    {
+      "name": "Manufacturing",
+      "count": 10
+    },
+    {
+      "name": "Competition",
+      "count": 10
+    },
+    {
+      "name": "Investment",
+      "count": 6
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Manufacturing",
+      "count": 2
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 5
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Manufacturing",
+      "count": 5
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 5
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 5
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 3
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 1
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "일본의 210억 달러 지원으로 글로벌파운드리즈 미국 팹 대규모 증설 추진",
+      "summary": "일본 정부가 글로벌파운드리즈의 미국 뉴욕주 신규 파운드리 2개 공장 건설에 약 210억 달러를 제안하며, 미국 내 웨이퍼 생산능력을 약 10% 끌어올리는 초대형 제조·보조금 프로젝트가 가시화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Japan Offers GlobalFoundries $21B for U.S. Fab Expansion",
+          "url": "https://www.eetimes.com/japan-offers-globalfoundries-21b-for-u-s-fab-expansion/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "전력 그리드 현대화로 폭증하는 사이버 공격 표면, 반도체·OT 인프라 보안 리스크 부각",
+      "summary": "스마트 그리드·분산 발전 확대 과정에서 IT-OT 네트워크가 복잡하게 연결되며, 계측·제어용 반도체·임베디드 시스템이 새로운 사이버 공격 통로로 노출되고 있으나, 자산 가시성과 보안 거버넌스는 여전히 미비한 상태다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Grid Modernization’s Hidden Cost: A Growing Attack Surface Few Are Watching",
+          "url": "https://www.eetimes.com/grid-modernization-hidden-cost-a-growing-attack-surface-few-are-watching/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "삼성 ‘더 월(The Wall)’로 진화하는 컨트롤룸, 인프라·산업 현장의 시각화 수요 확대",
+      "summary": "삼성의 대형 LED 디스플레이 ‘더 월’이 스마트시티·서킷·중요 인프라 컨트롤룸에 도입되며, 고해상도 실시간 데이터·영상 통합 관제가 가능한 대형 디스플레이용 드라이버 IC·영상처리 SoC 수요가 증가하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "From Smart City to Race Circuit: Samsung’s The Wall in Control Rooms",
+          "url": "https://news.samsung.com/global/from-smart-city-to-race-circuit-samsungs-the-wall-in-control-rooms"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "삼성, 실리콘밸리 Future Wireless Summit 2026 개최로 차세대 무선·6G 생태계 협력 가속",
+      "summary": "삼성전자가 실리콘밸리에서 통신사·장비사·정부 기관과 함께 Future Wireless Summit 2026을 열고 6G, AI-RAN, 네트워크 칩셋 로드맵을 논의하며 차세대 무선 통신용 반도체 수요와 표준 경쟁 구도를 선점하려 하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung Hosts Silicon Valley Future Wireless Summit 2026",
+          "url": "https://news.samsung.com/global/samsung-hosts-silicon-valley-future-wireless-summit-2026"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "어플라이드 머티리얼즈, 50억 달러 EPIC 센터로 장비·소재 중심 신규 반도체 혁신 모델 구축",
+      "summary": "어플라이드 머티리얼즈가 50억 달러를 투입해 EPIC 센터를 설립, 팹·장비·소재·연구기관을 한곳에 모아 공정 개발에서 양산까지의 시간을 단축하고 차세대 제조 장비·소재의 상용화를 앞당기는 오픈 이노베이션 허브를 조성하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Applied Materials Bets $5B on a New Model for Chip Innovation",
+          "url": "https://www.eetimes.com/applied-materials-bets-5b-on-a-new-model-for-chip-innovation/"
+        }
+      ]
+    }
+  ]
+}

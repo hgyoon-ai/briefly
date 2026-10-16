@@ -1,0 +1,132 @@
+{
+  "date": "2026-10-16",
+  "highlights": {
+    "bullets": [
+      "핵심: Muse Spark Open 모델이 코딩에 최적화된 MoE 아키텍처로 공개되었습니다.",
+      "핵심: Antigravity 도구로 항미생물 펩타이드 후보 탐색이 머신러닝으로 가속화되었습니다.",
+      "트렌드: 모델, 도구, 인프라를 결합해 실험·검증·배포를 가속화하는 경향이 관찰됩니다."
+    ],
+    "topTopics": [
+      "Tooling",
+      "Models",
+      "Research",
+      "Inference"
+    ],
+    "stats": {
+      "collected": 9,
+      "deduped": 9
+    }
+  },
+  "cards": [
+    {
+      "id": "ai_0001",
+      "tab": "ai",
+      "publishedAt": "2026-10-16T03:00:01+09:00",
+      "source": "NVIDIA Developer Blog",
+      "title": "Scale Agentic Coding Workflows with Meta’s Muse Spark Open on NVIDIA GB300 NVL72",
+      "summary": [
+        "Meta가 코딩에 최적화된 Muse Spark Open 816B MoE 모델을 공개했다.",
+        "모델은 42B 활성 파라미터와 100만 토큰 컨텍스트 윈도우를 지원한다.",
+        "NVIDIA GB300 NVL72에서 스케일링되어 에이전트형 코딩 워크플로를 가속화한다."
+      ],
+      "whyItMatters": "대규모 MoE 구조와 1M 토큰 컨텍스트, NVIDIA 하드웨어 결합으로 대화형·에이전트 기반 코딩의 성능과 확장성이 획기적으로 개선될 가능성이 크다.",
+      "topics": [
+        "Models",
+        "Infra",
+        "Inference",
+        "Tooling"
+      ],
+      "status": "NEW",
+      "hash": "da7a313328786ce16d4c27bbdba913cec9de5bb35cbfec866abcb21134be1212",
+      "url": "https://developer.nvidia.com/blog/scale-agentic-coding-workflows-with-metas-muse-spark-open-on-nvidia-gb300-nvl72/"
+    },
+    {
+      "id": "ai_0002",
+      "tab": "ai",
+      "publishedAt": "2026-10-16T01:08:03+09:00",
+      "source": "Google DeepMind Blog",
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "summary": [
+        "구글 Antigravity for Science를 활용해 항미생물 펩타이드(AMP) 후보 탐색을 가속화했습니다.",
+        "머신러닝 기반 모델로 후보 설계와 평가를 자동화해 실험 시간과 비용을 줄였습니다.",
+        "이 접근법은 신약 개발 파이프라인과 공개 도구·데이터 확장에 기여할 잠재력이 큽니다."
+      ],
+      "whyItMatters": "항생제 내성 대응과 신약 후보 발굴 속도를 크게 높여 공중보건에 중대한 영향을 미치기 때문입니다.",
+      "topics": [
+        "Research",
+        "Models",
+        "Tooling",
+        "Safety"
+      ],
+      "status": "ONGOING",
+      "hash": "ad09b0946a60b7ff505a8aa281960497bee4e76e2a76825472b127adf5a2ba1b",
+      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/"
+    },
+    {
+      "id": "ai_0003",
+      "tab": "ai",
+      "publishedAt": "2026-10-16T01:00:00+09:00",
+      "source": "Microsoft Research Blog",
+      "title": "Proof-based general-purpose computing with Magnetar",
+      "summary": [
+        "Magnetar는 표준 프로그래밍 언어 지원과 양자저항 보안을 갖춘 영지식증명 기반 범용 컴퓨팅 솔루션이다.",
+        "영지식증명으로 계산 결과를 재실행하거나 민감 데이터를 노출하지 않고도 검증할 수 있다.",
+        "주요 성능 향상으로 실무 적용 가능성을 크게 높여 대중화에 한 걸음 다가섰다."
+      ],
+      "whyItMatters": "검증 비용과 데이터 노출을 크게 줄여 보안·컴플라이언스가 중요한 시스템에 즉각적이고 광범위한 영향을 줄 수 있기 때문이다.",
+      "topics": [
+        "Research",
+        "Tooling",
+        "Infra",
+        "Safety"
+      ],
+      "status": "NEW",
+      "hash": "2b0a4f23c4eeb155767a83882c09836d91efd5a4fa34b525a7de8528892ce30b",
+      "url": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/"
+    },
+    {
+      "id": "ai_0004",
+      "tab": "ai",
+      "publishedAt": "2026-10-15T09:00:00+09:00",
+      "source": "Hugging Face Blog",
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "summary": [
+        "Meta가 공개한 Muse Spark Open은 오픈-웨이트로 제공되는 최첨단 멀티모달 MoE 모델입니다.",
+        "Hugging Face에서 배포되어 연구자와 개발자가 직접 실험하고 응용할 수 있습니다.",
+        "대규모 MoE 구조로 멀티모달 성능 향상과 효율적 확장 가능성을 제공합니다."
+      ],
+      "whyItMatters": "오픈 소스 가중치와 MoE 설계는 멀티모달 연구·응용의 접근성, 검증 가능성, 확장성을 동시에 크게 향상시키기 때문입니다.",
+      "topics": [
+        "Models",
+        "Research",
+        "Tooling",
+        "Infra"
+      ],
+      "status": "NEW",
+      "hash": "ff0cf28c5d7530571030bbc53285abf8be3ed6fb11c617ba5f382a8208219854",
+      "url": "https://huggingface.co/blog/meta-muse-spark-open"
+    },
+    {
+      "id": "ai_0005",
+      "tab": "ai",
+      "publishedAt": "2026-10-16T05:34:01+09:00",
+      "source": "Hugging Face Blog",
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "summary": [
+        "Hugging Face가 Granite Switch 4.1을 발표해 하나의 엔드포인트로 채팅, 의사결정, 음성 처리를 지원한다.",
+        "단일 API로 멀티모달 입력·출력과 결정을 통합해 개발과 운영의 복잡도를 낮춘다.",
+        "제품화와 배포를 간소화하는 툴링 및 인프라 개선을 포함해 실서비스 적용이 쉬워졌다."
+      ],
+      "whyItMatters": "한 엔드포인트에서 여러 기능을 통합하면 통합 비용과 개발 시간을 줄이고 멀티모달 애플리케이션 출시를 가속화하기 때문이다.",
+      "topics": [
+        "Models",
+        "Inference",
+        "Tooling",
+        "Product"
+      ],
+      "status": "NEW",
+      "hash": "d330643595776f9f542e9f48a636499dcc2c3968ee0ccb07e6ba5a41a8cbcae0",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1"
+    }
+  ]
+}

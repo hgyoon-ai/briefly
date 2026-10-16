@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-10-09",
-    "to": "2026-10-15"
+    "from": "2026-10-10",
+    "to": "2026-10-16"
   },
   "kpis": {
     "collected": 26,
@@ -11,56 +11,26 @@
   "topTopics": [
     {
       "name": "Policy",
-      "count": 17
-    },
-    {
-      "name": "Market",
-      "count": 17
+      "count": 20
     },
     {
       "name": "Supply",
-      "count": 16
+      "count": 18
     },
     {
-      "name": "UrbanRenewal",
-      "count": 9
+      "name": "Market",
+      "count": 15
+    },
+    {
+      "name": "Construction",
+      "count": 10
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-10-09",
-      "dayOfWeek": "Fri",
-      "topic": "Policy",
-      "count": 1
-    },
-    {
-      "date": "2026-10-09",
-      "dayOfWeek": "Fri",
-      "topic": "Market",
-      "count": 4
-    },
-    {
-      "date": "2026-10-09",
-      "dayOfWeek": "Fri",
-      "topic": "Supply",
-      "count": 2
-    },
-    {
-      "date": "2026-10-09",
-      "dayOfWeek": "Fri",
-      "topic": "UrbanRenewal",
-      "count": 2
-    },
-    {
       "date": "2026-10-10",
       "dayOfWeek": "Sat",
       "topic": "Policy",
-      "count": 1
-    },
-    {
-      "date": "2026-10-10",
-      "dayOfWeek": "Sat",
-      "topic": "Market",
       "count": 1
     },
     {
@@ -72,7 +42,13 @@
     {
       "date": "2026-10-10",
       "dayOfWeek": "Sat",
-      "topic": "UrbanRenewal",
+      "topic": "Market",
+      "count": 0
+    },
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "Construction",
       "count": 0
     },
     {
@@ -84,19 +60,19 @@
     {
       "date": "2026-10-11",
       "dayOfWeek": "Sun",
-      "topic": "Market",
-      "count": 4
-    },
-    {
-      "date": "2026-10-11",
-      "dayOfWeek": "Sun",
       "topic": "Supply",
       "count": 3
     },
     {
       "date": "2026-10-11",
       "dayOfWeek": "Sun",
-      "topic": "UrbanRenewal",
+      "topic": "Market",
+      "count": 4
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Construction",
       "count": 1
     },
     {
@@ -108,20 +84,20 @@
     {
       "date": "2026-10-12",
       "dayOfWeek": "Mon",
-      "topic": "Market",
-      "count": 2
-    },
-    {
-      "date": "2026-10-12",
-      "dayOfWeek": "Mon",
       "topic": "Supply",
       "count": 3
     },
     {
       "date": "2026-10-12",
       "dayOfWeek": "Mon",
-      "topic": "UrbanRenewal",
-      "count": 1
+      "topic": "Market",
+      "count": 2
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Construction",
+      "count": 0
     },
     {
       "date": "2026-10-13",
@@ -132,19 +108,19 @@
     {
       "date": "2026-10-13",
       "dayOfWeek": "Tue",
-      "topic": "Market",
-      "count": 4
-    },
-    {
-      "date": "2026-10-13",
-      "dayOfWeek": "Tue",
       "topic": "Supply",
       "count": 4
     },
     {
       "date": "2026-10-13",
       "dayOfWeek": "Tue",
-      "topic": "UrbanRenewal",
+      "topic": "Market",
+      "count": 4
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Construction",
       "count": 2
     },
     {
@@ -156,68 +132,111 @@
     {
       "date": "2026-10-14",
       "dayOfWeek": "Wed",
+      "topic": "Supply",
+      "count": 3
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
       "topic": "Market",
       "count": 2
     },
     {
       "date": "2026-10-14",
       "dayOfWeek": "Wed",
-      "topic": "Supply",
-      "count": 3
-    },
-    {
-      "date": "2026-10-14",
-      "dayOfWeek": "Wed",
-      "topic": "UrbanRenewal",
-      "count": 3
+      "topic": "Construction",
+      "count": 4
     },
     {
       "date": "2026-10-15",
       "dayOfWeek": "Thu",
       "topic": "Policy",
-      "count": 0
-    },
-    {
-      "date": "2026-10-15",
-      "dayOfWeek": "Thu",
-      "topic": "Market",
-      "count": 0
+      "count": 3
     },
     {
       "date": "2026-10-15",
       "dayOfWeek": "Thu",
       "topic": "Supply",
-      "count": 0
+      "count": 4
     },
     {
       "date": "2026-10-15",
       "dayOfWeek": "Thu",
-      "topic": "UrbanRenewal",
+      "topic": "Market",
+      "count": 2
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Construction",
+      "count": 3
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Market",
+      "count": 1
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Construction",
       "count": 0
     }
   ],
   "topIssues": [
     {
-      "id": "RE-001",
-      "status": "ONGOING",
-      "title": "수도권 오피스 개발과 주택공급 연계: 업무·주거 동시 확대 정책",
-      "summary": "정부가 수도권에서 오피스 신축 규모에 비례해 주택을 함께 공급하도록 제도화하면서, 업무·상업 개발과 주거 공급을 연동하는 새로운 공급 모델을 추진 중이다. 이는 도심 고밀 개발과 주택난 완화를 동시에 노리는 장기 정책 기조로, 향후 정비사업 및 도심 재개발 인허가 기준 변화로 이어질 가능성이 크다.",
+      "id": 1,
+      "status": "NEW",
+      "title": "도심 공공주택 복합사업, 입주권 기대 대신 '현금청산' 혼선 확산",
+      "summary": "도심 공공주택 복합사업(도공복) 후보지 발표 이후 해당 지역 토지·건물 매입 투자자들 사이에서 ‘입주권을 받는 줄 알았는데 현금청산 대상이 될 수 있다’는 혼선이 커지고 있다. 사업 지정 시점, 거주·보유 요건에 따라 입주권이 아닌 현금청산으로 분류될 수 있어, 재개발·공공정비 투자 시 권리산정 기준과 청산 리스크를 사전에 정확히 확인해야 한다는 경고가 강화되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "한국경제(부동산)",
-          "title": "수도권서 오피스 짓는 만큼 주택 공급도 늘린다",
-          "url": "https://www.hankyung.com/article/2026101420921"
+          "source": "매일경제(부동산)",
+          "title": "“입주권 산 줄 알았는데 현금청산” … 투자자가 반드시 알아야 할 점은 [도공복 2편]",
+          "url": "https://www.mk.co.kr/news/realestate/12176905"
         }
       ]
     },
     {
-      "id": "RE-002",
+      "id": 2,
       "status": "ONGOING",
-      "title": "재건축·재개발 공사비 검증 강화: 정비사업 원가 투명성 이슈",
-      "summary": "정부가 전국 정비사업장 공사비를 특별점검한 결과 상당수 사업장이 법정 공사비 검증 절차를 거치지 않은 것으로 드러나자, 공사비 검증 의무화와 현장점검을 강화하고 있다. 이는 조합·시공사 간 갈등과 분양가 산정 논란을 줄이기 위한 조치로, 향후 사업 일정 지연과 추가 규제 논의로 이어질 수 있다.",
+      "title": "서울 외곽 집값 상승 공방…실거주 규제 vs 공급 확대 기조 충돌",
+      "summary": "서울 외곽 아파트값 상승을 두고 오세훈 서울시장이 정부의 강한 실거주 요건을 원인으로 지목하며 공개 비판에 나섰다. 실거주 규제가 매물 부족과 특정 지역 가격 자극으로 이어졌다는 주장과 함께, 서울시는 대규모 정비·공급 사업을 멈추지 않겠다는 입장을 재확인했다. 실수요 보호를 위한 규제와 도심 공급 확대 필요성이 맞부딪치면서 중앙정부-지자체 간 주택정책 조율 이슈가 계속될 전망이다.",
       "articleCount": 1,
       "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "오세훈 “서울 외곽 집값 상승, 실거주 정책 탓... 공급 이어갈 것”",
+          "url": "https://www.mk.co.kr/news/realestate/12177091"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "LH·정부, 공급 차질·공사비 논란에 현장 점검·비용 검증 강화",
+      "summary": "LH가 공공주택 사업장의 공정 지연 요인을 선제 점검해 공급 일정을 앞당기겠다고 나선 가운데, 정부는 재건축·재개발 단지 공사비가 ‘부르는 게 값’이라는 비판 속에 전국 568개 정비사업장을 조사해 4곳 중 1곳이 법정 공사비 검증을 받지 않은 사실을 적발했다. 공공·민간 정비 현장을 동시에 겨냥한 관리·검증 강화 흐름으로, 향후 사업 속도와 시공비 산정 구조에 변화가 예상된다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "LH, 주택공급 지연요인 선제 점검…\"현장 관리 강화\"",
+          "url": "https://www.hankyung.com/article/202610154724i"
+        },
         {
           "source": "매일경제(부동산)",
           "title": "공사비 부르는 게 값?… 검증 칼날 꺼낸 정부",
@@ -226,10 +245,10 @@
       ]
     },
     {
-      "id": "RE-003",
+      "id": 4,
       "status": "ONGOING",
-      "title": "반도체 호황발 ‘경기 남부→분당→강남’ 주택 자본 이동",
-      "summary": "반도체 산업 호황으로 유입된 자금이 수원 광교·화성 동탄 등 경기 남부 집값을 끌어올리면서, 동탄 매도 후 분당으로 갈아타는 수요와 강남권 진입을 노리는 매수세가 관측되고 있다. 산업 호황이 특정 권역 집값을 순차적으로 자극하는 ‘머니 무브’ 현상이 재현될지에 시장 관심이 집중된다.",
+      "title": "반도체 호재발 ‘동탄·광교·분당’ 가격 연쇄 상승…강남권으로 확산 주시",
+      "summary": "반도체 산업 호황과 투자 기대감이 수원 광교·화성 동탄 등 경기 남부 핵심지로 유입되며 집값 상승을 자극하고 있다. 동탄 상승 이후 분당이 상대적으로 저렴해 보인다는 인식 속에 갈아타기 수요가 늘고, 강남권까지 매수세가 번질지에 시장의 관심이 집중된다. 산업 투자와 교통·인프라 개선이 주변 주거지 가치와 세 부담 구조까지 연쇄적으로 움직이는 국지적 상승장이 이어지는 양상이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -240,30 +259,16 @@
       ]
     },
     {
-      "id": "RE-004",
+      "id": 5,
       "status": "ONGOING",
-      "title": "지방 공공택지 5만 가구 공급 중단: 지역 간 공급 양극화 심화",
-      "summary": "지방 공공택지에서 예정됐던 약 5만 가구 신규 주택 공급이 전면 중단되면서, 지방 택지 개발과 분양 일정에 심각한 차질이 발생하고 있다. 수도권 편중 공급·자금 흐름과 맞물려 지방 주택시장 침체 및 인구·수요 유출 우려가 커지고 있어, 지역 균형 공급 대책이 핵심 현안으로 부상했다.",
+      "title": "지방 공공택지 5만 가구 공급 올스톱…지역 주택시장 불안 가중",
+      "summary": "지방 공공택지에서 예정됐던 신규 주택 약 5만 가구 공급이 전면 중단되면서, 지방 중소도시를 중심으로 공급 공백이 현실화되고 있다. 택지 조성 지연과 사업성 악화, 수요 둔화 등이 겹치며 분양·착공 일정이 미뤄져 지역별로 향후 몇 년간 입주 물량 부족과 미분양 동시 발생 등 양극화가 심화될 수 있다는 우려가 제기된다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "한국경제(부동산)",
           "title": "지방 공공택지의 '눈물'…5만 가구 공급 올스톱",
           "url": "https://www.hankyung.com/article/2026101394721"
-        }
-      ]
-    },
-    {
-      "id": "RE-005",
-      "status": "SHIFTING",
-      "title": "재건축 추진 속도 vs 권한 이양 갈등: 중앙·지자체·주민 ‘삼각 대치’",
-      "summary": "정부는 연내 1.5만 가구 재건축 착공을 목표로 인허가 및 사업 절차를 속도감 있게 밀어붙이는 반면, 지자체와 주민들은 재건축 인허가 권한의 지방 이양과 주민 자율성을 요구하며 갈등을 빚고 있다. 재건축 정책 방향이 ‘속도·물량 중심’에서 ‘분권·자율’ 요구와 충돌하는 국면으로, 향후 제도 개편 여부가 변곡점이 될 전망이다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "한국경제(부동산)",
-          "title": "연내 1.5만가구 착공 vs 권한이양 추진…재건축 '동상이몽'",
-          "url": "https://www.hankyung.com/article/2026101394691"
         }
       ]
     }

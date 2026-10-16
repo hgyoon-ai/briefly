@@ -1,16 +1,16 @@
 {
   "range": {
-    "from": "2026-09-16",
-    "to": "2026-10-15"
+    "from": "2026-09-17",
+    "to": "2026-10-16"
   },
   "kpis": {
-    "collected": 74,
-    "deduped": 74,
+    "collected": 75,
+    "deduped": 75,
     "uniqueTopics": 10,
     "marketShare": {
       "Tooling": 28,
-      "Product": 23,
-      "Models": 21,
+      "Product": 22,
+      "Models": 22,
       "Infra": 14,
       "Research": 14,
       "Other": 0
@@ -18,53 +18,53 @@
   },
   "weeklyData": [
     {
-      "week": "Week 1 (09/16-09/22)",
+      "week": "Week 1 (09/17-09/23)",
       "topicCounts": {
         "Tooling": 7,
-        "Product": 5,
-        "Models": 4,
+        "Product": 6,
+        "Models": 6,
+        "Infra": 3,
+        "Research": 5
+      }
+    },
+    {
+      "week": "Week 2 (09/24-09/30)",
+      "topicCounts": {
+        "Tooling": 11,
+        "Product": 10,
+        "Models": 10,
+        "Infra": 6,
+        "Research": 3
+      }
+    },
+    {
+      "week": "Week 3 (10/01-10/07)",
+      "topicCounts": {
+        "Tooling": 13,
+        "Product": 11,
+        "Models": 6,
+        "Infra": 5,
+        "Research": 4
+      }
+    },
+    {
+      "week": "Week 4 (10/08-10/14)",
+      "topicCounts": {
+        "Tooling": 10,
+        "Product": 11,
+        "Models": 9,
         "Infra": 4,
         "Research": 5
       }
     },
     {
-      "week": "Week 2 (09/23-09/29)",
+      "week": "Week 5 (10/15-10/16)",
       "topicCounts": {
-        "Tooling": 9,
-        "Product": 7,
-        "Models": 6,
-        "Infra": 7,
-        "Research": 6
-      }
-    },
-    {
-      "week": "Week 3 (09/30-10/06)",
-      "topicCounts": {
-        "Tooling": 11,
-        "Product": 9,
-        "Models": 8,
-        "Infra": 5,
-        "Research": 5
-      }
-    },
-    {
-      "week": "Week 4 (10/07-10/13)",
-      "topicCounts": {
-        "Tooling": 7,
-        "Product": 6,
-        "Models": 5,
+        "Tooling": 5,
+        "Product": 1,
+        "Models": 4,
         "Infra": 3,
         "Research": 3
-      }
-    },
-    {
-      "week": "Week 5 (10/14-10/15)",
-      "topicCounts": {
-        "Tooling": 4,
-        "Product": 3,
-        "Models": 3,
-        "Infra": 2,
-        "Research": 2
       }
     }
   ],
@@ -72,22 +72,36 @@
     {
       "id": 1,
       "status": "NEW",
-      "title": "극한 기상·물리 시뮬레이션용 초고해상도 AI 모델 확산",
-      "summary": "HiRO-ACEv2가 3km 해상도의 극한 기상 시뮬레이션을 훨씬 낮은 비용으로 제공하면서, 기후·재난 예측에 특화된 도메인 AI 모델 활용이 본격화되고 있다.",
+      "title": "단일 엔드포인트 멀티모달·에이전트 지원: Granite Switch 4.1",
+      "summary": "Hugging Face와 IBM이 Granite Switch 4.1을 공개해 하나의 API로 채팅, 의사결정, 음성까지 통합 지원하는 엔드포인트를 제시했다. 멀티모달 입력·출력과 의사결정 로직을 한 곳에서 처리함으로써 에이전트·애플리케이션 개발과 운영 복잡도를 줄이고, 다양한 워크플로를 단일 서비스로 통합하려는 추세를 보여준다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Hugging Face Blog",
-          "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-          "url": "https://huggingface.co/blog/allenai/hiro-acev2"
+          "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1"
         }
       ]
     },
     {
       "id": 2,
       "status": "ONGOING",
-      "title": "칩 설계 등 복잡 워크플로에서 AI 에이전트 신뢰성·도구 호출 최적화",
-      "summary": "NVIDIA NeMo Gym을 활용해 칩 설계 에이전트의 도구 호출 전략을 실험·최적화함으로써 환각을 줄이고 실제 엔지니어링 파이프라인의 생산성을 높이려는 시도가 이어지고 있다.",
+      "title": "AI 기반 신약·항미생물 후보 탐색 가속화",
+      "summary": "Google DeepMind는 Antigravity for Science를 활용해 항미생물 펩타이드 후보 탐색을 자동화·가속하는 연구를 진행 중이다. 머신러닝 모델로 후보 설계와 평가를 반복 실험 없이 대규모로 수행해 시간·비용을 줄이는 방향으로, AI가 신약·바이오 물질 발굴을 구조적으로 바꾸는 흐름이 이어지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Google DeepMind Blog",
+          "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+          "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "에이전트 신뢰성과 도구 호출 효율 개선",
+      "summary": "NVIDIA NeMo Gym을 활용한 칩 설계 워크플로 실험에서, 에이전트가 외부 도구를 호출하는 전략을 최적화해 환각을 줄이고 생산성을 높이는 방법이 제안되었다. 복잡한 엔지니어링 도메인에서도 에이전트의 신뢰도와 도구 사용 패턴을 학습·평가하는 프레임워크가 중요해지고 있으며, 실제 산업 설계 프로세스에 LLM 에이전트를 안전하게 통합하려는 흐름이 이어지고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -98,10 +112,10 @@
       ]
     },
     {
-      "id": 3,
+      "id": 4,
       "status": "NEW",
-      "title": "하이브리드 SSM+어텐션 구조에서 디코딩 속도·추론 효율 극대화",
-      "summary": "ReplaySSM은 최신 하이브리드 모델들의 상태 저장 방식을 재설계해 디코딩 병목을 줄이고, Nemotron·Qwen 등 대규모 모델 추론 비용을 낮추는 인프라·모델 구조 혁신을 제안한다.",
+      "title": "하이브리드 SSM+어텐션 모델 추론 가속 기법",
+      "summary": "NVIDIA는 ReplaySSM을 통해 SSM+어텐션 하이브리드 구조의 상태 저장 방식을 재설계해 디코딩 속도를 높이는 방법을 제시했다. Nemotron 3, Qwen, GLM 등 최신 하이브리드 모델의 추론 효율을 개선하는 데 초점을 두며, 대형 모델을 더 빠르고 저렴하게 서비스하기 위한 인퍼런스·시스템 구조 혁신이 계속되고 있음을 보여준다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -112,24 +126,10 @@
       ]
     },
     {
-      "id": 4,
-      "status": "NEW",
-      "title": "AI 튜터 평가를 위한 학습자 행동 시뮬레이션 연구 진전",
-      "summary": "StudentSim과 같은 시스템을 통해 실제 학생에게 배포하기 전, 체스·글쓰기·수학 등 다양한 과목에서 학습자-튜터 상호작용을 시뮬레이션하여 AI 튜터의 피드백 품질과 학습 효과를 사전에 검증하려는 연구가 진행되고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Microsoft Research Blog",
-          "title": "Simulating student learning for better AI tutoring",
-          "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/"
-        }
-      ]
-    },
-    {
       "id": 5,
       "status": "ONGOING",
-      "title": "GPU 클러스터 스케줄링 개선을 통한 AI 인프라 비용·처리량 최적화",
-      "summary": "대규모 GPU 클러스터 운영에서 작업 스케줄링 전략을 고도화해 자원 활용도를 높이고, 대기 시간을 줄이면서 처리량을 극대화하려는 인프라 최적화 노력이 계속되고 있다.",
+      "title": "GPU 클러스터 스케줄링을 통한 비용 절감과 처리량 확대",
+      "summary": "Hugging Face는 GPU 클러스터에서 작업 스케줄링 전략을 개선해 자원 활용도를 높이는 방식을 소개했다. 더 효율적인 큐잉과 우선순위, 배치 전략을 통해 비용을 줄이면서도 대기 시간을 단축하고 처리량을 높이려는 시도로, 대규모 모델 학습·추론 인프라 최적화가 계속되는 추세다.",
       "articleCount": 1,
       "relatedArticles": [
         {

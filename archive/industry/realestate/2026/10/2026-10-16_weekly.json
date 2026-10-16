@@ -1,0 +1,276 @@
+{
+  "range": {
+    "from": "2026-10-10",
+    "to": "2026-10-16"
+  },
+  "kpis": {
+    "collected": 26,
+    "deduped": 26,
+    "uniqueTopics": 10
+  },
+  "topTopics": [
+    {
+      "name": "Policy",
+      "count": 20
+    },
+    {
+      "name": "Supply",
+      "count": 18
+    },
+    {
+      "name": "Market",
+      "count": 15
+    },
+    {
+      "name": "Construction",
+      "count": 10
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "Supply",
+      "count": 1
+    },
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "Market",
+      "count": 0
+    },
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": "Sat",
+      "topic": "Construction",
+      "count": 0
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Supply",
+      "count": 3
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Market",
+      "count": 4
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Construction",
+      "count": 1
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 3
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Supply",
+      "count": 3
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Market",
+      "count": 2
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Construction",
+      "count": 0
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 6
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Supply",
+      "count": 4
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Market",
+      "count": 4
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Construction",
+      "count": 2
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 4
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Supply",
+      "count": 3
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Market",
+      "count": 2
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Construction",
+      "count": 4
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 3
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Supply",
+      "count": 4
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Market",
+      "count": 2
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Construction",
+      "count": 3
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Market",
+      "count": 1
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Construction",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "도심 공공주택 복합사업, 입주권 기대 대신 '현금청산' 혼선 확산",
+      "summary": "도심 공공주택 복합사업(도공복) 후보지 발표 이후 해당 지역 토지·건물 매입 투자자들 사이에서 ‘입주권을 받는 줄 알았는데 현금청산 대상이 될 수 있다’는 혼선이 커지고 있다. 사업 지정 시점, 거주·보유 요건에 따라 입주권이 아닌 현금청산으로 분류될 수 있어, 재개발·공공정비 투자 시 권리산정 기준과 청산 리스크를 사전에 정확히 확인해야 한다는 경고가 강화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "“입주권 산 줄 알았는데 현금청산” … 투자자가 반드시 알아야 할 점은 [도공복 2편]",
+          "url": "https://www.mk.co.kr/news/realestate/12176905"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "서울 외곽 집값 상승 공방…실거주 규제 vs 공급 확대 기조 충돌",
+      "summary": "서울 외곽 아파트값 상승을 두고 오세훈 서울시장이 정부의 강한 실거주 요건을 원인으로 지목하며 공개 비판에 나섰다. 실거주 규제가 매물 부족과 특정 지역 가격 자극으로 이어졌다는 주장과 함께, 서울시는 대규모 정비·공급 사업을 멈추지 않겠다는 입장을 재확인했다. 실수요 보호를 위한 규제와 도심 공급 확대 필요성이 맞부딪치면서 중앙정부-지자체 간 주택정책 조율 이슈가 계속될 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "오세훈 “서울 외곽 집값 상승, 실거주 정책 탓... 공급 이어갈 것”",
+          "url": "https://www.mk.co.kr/news/realestate/12177091"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "LH·정부, 공급 차질·공사비 논란에 현장 점검·비용 검증 강화",
+      "summary": "LH가 공공주택 사업장의 공정 지연 요인을 선제 점검해 공급 일정을 앞당기겠다고 나선 가운데, 정부는 재건축·재개발 단지 공사비가 ‘부르는 게 값’이라는 비판 속에 전국 568개 정비사업장을 조사해 4곳 중 1곳이 법정 공사비 검증을 받지 않은 사실을 적발했다. 공공·민간 정비 현장을 동시에 겨냥한 관리·검증 강화 흐름으로, 향후 사업 속도와 시공비 산정 구조에 변화가 예상된다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "LH, 주택공급 지연요인 선제 점검…\"현장 관리 강화\"",
+          "url": "https://www.hankyung.com/article/202610154724i"
+        },
+        {
+          "source": "매일경제(부동산)",
+          "title": "공사비 부르는 게 값?… 검증 칼날 꺼낸 정부",
+          "url": "https://www.mk.co.kr/news/realestate/12175855"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "반도체 호재발 ‘동탄·광교·분당’ 가격 연쇄 상승…강남권으로 확산 주시",
+      "summary": "반도체 산업 호황과 투자 기대감이 수원 광교·화성 동탄 등 경기 남부 핵심지로 유입되며 집값 상승을 자극하고 있다. 동탄 상승 이후 분당이 상대적으로 저렴해 보인다는 인식 속에 갈아타기 수요가 늘고, 강남권까지 매수세가 번질지에 시장의 관심이 집중된다. 산업 투자와 교통·인프라 개선이 주변 주거지 가치와 세 부담 구조까지 연쇄적으로 움직이는 국지적 상승장이 이어지는 양상이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "“동탄 오르니 분당이 싸보이네” 반도체 머니, 이대로 강남까지 갈까 [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10901379"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "지방 공공택지 5만 가구 공급 올스톱…지역 주택시장 불안 가중",
+      "summary": "지방 공공택지에서 예정됐던 신규 주택 약 5만 가구 공급이 전면 중단되면서, 지방 중소도시를 중심으로 공급 공백이 현실화되고 있다. 택지 조성 지연과 사업성 악화, 수요 둔화 등이 겹치며 분양·착공 일정이 미뤄져 지역별로 향후 몇 년간 입주 물량 부족과 미분양 동시 발생 등 양극화가 심화될 수 있다는 우려가 제기된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "지방 공공택지의 '눈물'…5만 가구 공급 올스톱",
+          "url": "https://www.hankyung.com/article/2026101394721"
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
-  "id": "2026-10-15T08:59:26.472143+09:00",
-  "ts": "2026-10-15T08:59:26.472143+09:00",
+  "id": "2026-10-16T08:44:16.624910+09:00",
+  "ts": "2026-10-16T08:44:16.624910+09:00",
   "timezone": "Asia/Seoul",
   "selectedTabs": [
     "ai",
@@ -10,14 +10,14 @@
     "realestate"
   ],
   "pipeline": {
-    "rawTotal": 209,
+    "rawTotal": 214,
     "rawClamped": 150,
     "rawByTabBeforeClamp": {
       "ai": 100,
       "finance": 30,
       "semiconductor": 45,
       "ev": 15,
-      "realestate": 19
+      "realestate": 24
     },
     "rawByTabAfterClamp": {
       "ai": 70,
@@ -32,7 +32,7 @@
   },
   "sources": {
     "rss": {
-      "total": 179,
+      "total": 184,
       "bySource": {
         "OpenAI Blog": 15,
         "Google DeepMind Blog": 15,
@@ -46,9 +46,9 @@
         "Electrek": 15,
         "매일경제(증권)": 15,
         "벤처스퀘어": 15,
-        "한국경제(부동산)": 3,
-        "매일경제(부동산)": 7,
-        "헤럴드경제(부동산)": 9
+        "한국경제(부동산)": 2,
+        "매일경제(부동산)": 10,
+        "헤럴드경제(부동산)": 12
       }
     },
     "hf": {
@@ -67,15 +67,15 @@
   "tabs": {
     "ai": {
       "daily": {
-        "raw": 8,
+        "raw": 9,
         "cards": 5
       },
       "weekly": {
-        "items": 15,
+        "items": 17,
         "issues": 5
       },
       "monthly": {
-        "items": 74,
+        "items": 75,
         "issues": 5
       }
     },
@@ -85,7 +85,7 @@
         "cards": 2
       },
       "weekly": {
-        "items": 12,
+        "items": 13,
         "issues": 5
       },
       "monthly": {
@@ -95,15 +95,15 @@
     },
     "semiconductor": {
       "daily": {
-        "raw": 16,
-        "cards": 5
+        "raw": 8,
+        "cards": 4
       },
       "weekly": {
-        "items": 12,
+        "items": 14,
         "issues": 5
       },
       "monthly": {
-        "items": 71,
+        "items": 70,
         "issues": 5
       }
     },
@@ -113,7 +113,7 @@
         "cards": 2
       },
       "weekly": {
-        "items": 12,
+        "items": 13,
         "issues": 5
       },
       "monthly": {

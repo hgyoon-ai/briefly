@@ -1,57 +1,33 @@
 {
   "range": {
-    "from": "2026-10-09",
-    "to": "2026-10-15"
+    "from": "2026-10-10",
+    "to": "2026-10-16"
   },
   "kpis": {
-    "collected": 12,
-    "deduped": 12,
+    "collected": 13,
+    "deduped": 13,
     "uniqueTopics": 6
   },
   "topTopics": [
     {
       "name": "Competition",
-      "count": 10
+      "count": 11
     },
     {
       "name": "Demand",
       "count": 9
     },
     {
-      "name": "Investment",
+      "name": "Roadmap",
       "count": 9
     },
     {
-      "name": "Roadmap",
-      "count": 9
+      "name": "Investment",
+      "count": 8
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-10-09",
-      "dayOfWeek": "Fri",
-      "topic": "Competition",
-      "count": 1
-    },
-    {
-      "date": "2026-10-09",
-      "dayOfWeek": "Fri",
-      "topic": "Demand",
-      "count": 1
-    },
-    {
-      "date": "2026-10-09",
-      "dayOfWeek": "Fri",
-      "topic": "Investment",
-      "count": 1
-    },
-    {
-      "date": "2026-10-09",
-      "dayOfWeek": "Fri",
-      "topic": "Roadmap",
-      "count": 1
-    },
-    {
       "date": "2026-10-10",
       "dayOfWeek": "Sat",
       "topic": "Competition",
@@ -66,14 +42,14 @@
     {
       "date": "2026-10-10",
       "dayOfWeek": "Sat",
-      "topic": "Investment",
-      "count": 2
+      "topic": "Roadmap",
+      "count": 3
     },
     {
       "date": "2026-10-10",
       "dayOfWeek": "Sat",
-      "topic": "Roadmap",
-      "count": 3
+      "topic": "Investment",
+      "count": 2
     },
     {
       "date": "2026-10-11",
@@ -90,13 +66,13 @@
     {
       "date": "2026-10-11",
       "dayOfWeek": "Sun",
-      "topic": "Investment",
+      "topic": "Roadmap",
       "count": 0
     },
     {
       "date": "2026-10-11",
       "dayOfWeek": "Sun",
-      "topic": "Roadmap",
+      "topic": "Investment",
       "count": 0
     },
     {
@@ -114,14 +90,14 @@
     {
       "date": "2026-10-12",
       "dayOfWeek": "Mon",
-      "topic": "Investment",
-      "count": 1
+      "topic": "Roadmap",
+      "count": 2
     },
     {
       "date": "2026-10-12",
       "dayOfWeek": "Mon",
-      "topic": "Roadmap",
-      "count": 2
+      "topic": "Investment",
+      "count": 1
     },
     {
       "date": "2026-10-13",
@@ -138,14 +114,14 @@
     {
       "date": "2026-10-13",
       "dayOfWeek": "Tue",
-      "topic": "Investment",
-      "count": 2
+      "topic": "Roadmap",
+      "count": 0
     },
     {
       "date": "2026-10-13",
       "dayOfWeek": "Tue",
-      "topic": "Roadmap",
-      "count": 0
+      "topic": "Investment",
+      "count": 2
     },
     {
       "date": "2026-10-14",
@@ -162,20 +138,20 @@
     {
       "date": "2026-10-14",
       "dayOfWeek": "Wed",
-      "topic": "Investment",
+      "topic": "Roadmap",
       "count": 3
     },
     {
       "date": "2026-10-14",
       "dayOfWeek": "Wed",
-      "topic": "Roadmap",
+      "topic": "Investment",
       "count": 3
     },
     {
       "date": "2026-10-15",
       "dayOfWeek": "Thu",
       "topic": "Competition",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-10-15",
@@ -186,36 +162,74 @@
     {
       "date": "2026-10-15",
       "dayOfWeek": "Thu",
-      "topic": "Investment",
-      "count": 0
+      "topic": "Roadmap",
+      "count": 1
     },
     {
       "date": "2026-10-15",
       "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
       "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
       "count": 0
     }
   ],
   "topIssues": [
     {
-      "id": "ev-1",
-      "status": "NEW",
-      "title": "테슬라 파워월 등 가정용 배터리, 캘리포니아 전력망 디스패치 신기록 달성",
-      "summary": "캘리포니아에서 테슬라 파워월을 포함한 가정용 배터리가 745MW로 전력망 공급 신기록을 세우며, 8만5천 개 이상 파워월이 600MW 이상을 담당해 분산형 저장장치가 EV·배터리 생태계의 핵심 인프라로 자리 잡고 있습니다.",
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "유럽 EV 판매 급증 vs 북미 44% 급락: 지역 수요 격차 확대",
+      "summary": "9월 유럽 전기차 판매가 기록적 수준으로 치솟는 동시에 북미 판매는 44% 급감해, 정책·보조금·충전 인프라 차이에 따른 지역 간 EV 수요 격차가 뚜렷해지고 있습니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
-          "title": "Tesla Powerwalls supply most of record 745 MW California grid dispatch",
-          "url": "https://electrek.co/2026/10/14/tesla-powerwall-sunrun-record-745-mw-california-grid-dispatch/"
+          "title": "Europe’s EV sales soar as North America drops 44% – here’s the catch",
+          "url": "https://electrek.co/2026/10/15/europes-ev-sales-soar-as-north-america-drops-44-heres-the-catch/"
         }
       ]
     },
     {
-      "id": "ev-2",
+      "id": 2,
+      "status": "ONGOING",
+      "title": "테슬라 오토파일럿/FSD 사망 사고로 자율주행 규제·신뢰도 압박 심화",
+      "summary": "뉴저지에서 오토파일럿/FSD가 작동 중이던 테슬라 차량이 중앙분리대를 넘어 사망 사고를 내면서, 미국 당국의 조사와 자율주행 안전 규제 강화, 브랜드 신뢰도 논란이 이어지고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla confirms Autopilot/FSD was ‘engaged’ when car crossed a median and killed a man",
+          "url": "https://electrek.co/2026/10/15/tesla-driver-assist-median-crossing-vineland/"
+        }
+      ]
+    },
+    {
+      "id": 3,
       "status": "NEW",
-      "title": "리비안 분사 스타트업 마인드 로보틱스, 더그 필드 합류로 EV 제조 자동화 가속",
-      "summary": "테슬라 모델 3와 포드 EV 전략을 이끌었던 더그 필드가 리비안에서 분사한 산업 로보틱스 스타트업 마인드 로보틱스의 사장으로 합류하며, 10억 달러 이상을 이미 조달한 이 기업이 EV 공장 자동화·지능형 제조 분야에서 영향력을 빠르게 확대할 전망입니다.",
+      "title": "리비안 분사 마인드 로보틱스, 더그 필드 영입으로 EV 공장 자동화 본격 가속",
+      "summary": "테슬라·포드 EV 총괄을 지낸 더그 필드가 리비안의 산업 로보틱스 스타트업 마인드 로보틱스 사장으로 합류하며, 대규모 투자와 함께 EV 제조·조립 공정 자동화 경쟁이 한층 치열해지고 있습니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -226,10 +240,10 @@
       ]
     },
     {
-      "id": "ev-3",
+      "id": 4,
       "status": "NEW",
-      "title": "시트로엥, 1.5만 유로 2CV 전기차 콘셉트로 초저가 레트로 EV 시장 노린다",
-      "summary": "시트로엥이 클래식 2CV를 재해석한 전기차 콘셉트를 공개하고 2028년 1.5만 유로 수준을 목표가로 제시하면서, 유럽 내 보급형·레트로 디자인 EV 시장에서 가격 경쟁에 불을 지피고 있습니다.",
+      "title": "시트로엥, 2028년 €1.5만 레트로 EV로 초저가 유럽 시장 공략",
+      "summary": "시트로엥이 클래식 2CV를 재해석한 2028년 출시 목표의 1만5천 유로 전기차 콘셉트를 공개하며, 유럽 내 보급형·레트로 감성 EV 수요를 겨냥한 새로운 제품 포지셔닝에 나서고 있습니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -240,30 +254,16 @@
       ]
     },
     {
-      "id": "ev-4",
+      "id": 5,
       "status": "ONGOING",
-      "title": "BYD, 15만 번째 상용 NEV 생산 돌파로 전기 트럭 시장 리더십 공고화",
-      "summary": "BYD가 장쑤성 화이안 공장에서 15만 번째 상용 신에너지차를 생산하며, 약 800마력 Q3 전기 세미 트럭을 기념 모델로 내세워 전기 상용차 성능과 라인업 확장을 통해 글로벌 전기 트럭 경쟁에서 우위를 강화하고 있습니다.",
+      "title": "BYD, 15만 번째 상용 NEV 생산으로 전기 트럭·버스 시장 장악력 확대",
+      "summary": "BYD가 15만 번째 상용 신에너지차를 생산하고 800마력급 Q3 전기 세미 트럭을 선보이면서, 중국을 넘어 글로벌 전기 상용차 시장에서 기술·규모 우위를 강화하고 있습니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
           "title": "BYD builds 150,000th commercial NEV – an 800 hp Q3 electric semi truck",
           "url": "https://electrek.co/2026/10/10/byd-builds-150000th-commercial-nev-an-800-hp-q3-electric-semi-truck/"
-        }
-      ]
-    },
-    {
-      "id": "ev-5",
-      "status": "NEW",
-      "title": "포드, 3만 달러대 패소덤 전기 픽업 프리오더로 저가 EV 트럭 수요 시험",
-      "summary": "포드가 약 3만 달러 가격의 패소덤 전기 픽업에 대해 초대 기반 사전예약을 시작하며, 저가형 EV 트럭 수요와 초기 사용자 풀을 선제적으로 확보해 북미 전기 픽업 세그먼트의 가격 경쟁 구도를 재편하려 하고 있습니다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "Ford opens preorder invites for the $30,000 Fathom EV pickup",
-          "url": "https://electrek.co/2026/10/14/ford-opens-preorder-invites-30000-fathom-ev-pickup/"
         }
       ]
     }

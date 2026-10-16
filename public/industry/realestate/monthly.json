@@ -1,95 +1,114 @@
 {
   "range": {
-    "from": "2026-09-16",
-    "to": "2026-10-15"
+    "from": "2026-09-17",
+    "to": "2026-10-16"
   },
   "kpis": {
     "collected": 120,
     "deduped": 120,
     "uniqueTopics": 10,
     "marketShare": {
-      "Market": 31,
-      "Supply": 24,
-      "Policy": 19,
+      "Market": 30,
+      "Supply": 25,
+      "Policy": 20,
       "UrbanRenewal": 13,
-      "Rental": 13,
+      "Rental": 12,
       "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (09/16-09/22)",
+      "week": "Week 1 (09/17-09/23)",
       "topicCounts": {
-        "Market": 21,
-        "Supply": 13,
+        "Market": 19,
+        "Supply": 14,
         "Policy": 13,
-        "UrbanRenewal": 10,
+        "UrbanRenewal": 8,
+        "Rental": 9
+      }
+    },
+    {
+      "week": "Week 2 (09/24-09/30)",
+      "topicCounts": {
+        "Market": 20,
+        "Supply": 18,
+        "Policy": 6,
+        "UrbanRenewal": 7,
+        "Rental": 11
+      }
+    },
+    {
+      "week": "Week 3 (10/01-10/07)",
+      "topicCounts": {
+        "Market": 18,
+        "Supply": 16,
+        "Policy": 11,
+        "UrbanRenewal": 7,
+        "Rental": 4
+      }
+    },
+    {
+      "week": "Week 4 (10/08-10/14)",
+      "topicCounts": {
+        "Market": 18,
+        "Supply": 14,
+        "Policy": 14,
+        "UrbanRenewal": 6,
         "Rental": 8
       }
     },
     {
-      "week": "Week 2 (09/23-09/29)",
+      "week": "Week 5 (10/15-10/16)",
       "topicCounts": {
-        "Market": 20,
-        "Supply": 18,
-        "Policy": 9,
-        "UrbanRenewal": 6,
-        "Rental": 14
-      }
-    },
-    {
-      "week": "Week 3 (09/30-10/06)",
-      "topicCounts": {
-        "Market": 17,
-        "Supply": 12,
-        "Policy": 9,
-        "UrbanRenewal": 9,
-        "Rental": 1
-      }
-    },
-    {
-      "week": "Week 4 (10/07-10/13)",
-      "topicCounts": {
-        "Market": 14,
-        "Supply": 10,
-        "Policy": 8,
-        "UrbanRenewal": 5,
-        "Rental": 6
-      }
-    },
-    {
-      "week": "Week 5 (10/14-10/15)",
-      "topicCounts": {
-        "Market": 1,
-        "Supply": 3,
+        "Market": 3,
+        "Supply": 4,
         "Policy": 4,
-        "UrbanRenewal": 3,
+        "UrbanRenewal": 2,
         "Rental": 0
       }
     }
   ],
   "topIssues": [
     {
-      "id": "RE-1",
-      "status": "ONGOING",
-      "title": "수도권 오피스·주택 ‘연동 공급’ 정책 가속",
-      "summary": "정부가 수도권에서 오피스 신축과 동시에 주택을 비례·동시에 공급하도록 유도하는 제도 도입을 추진 중이다. 업무·상업 위주 개발로 인한 주거 부족과 출퇴근 수요 불균형을 완화하고, 도심 내 추가 주택 물량을 확보해 중장기 공급 기반을 다지겠다는 구상이다.",
+      "id": 1,
+      "status": "NEW",
+      "title": "도심 공공주택 복합사업 투자, 입주권 기대와 달리 현금청산 위험 부각",
+      "summary": "도심 공공주택 복합사업(도공복) 후보지 발표 이후 투자자들의 문의가 급증하는 가운데, 입주권을 받을 것으로 기대했던 일부 투자자들이 실제로는 현금청산 대상이 될 수 있다는 점이 확인되며 리스크 관리 필요성이 커지고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "한국경제(부동산)",
-          "title": "수도권서 오피스 짓는 만큼 주택 공급도 늘린다",
-          "url": "https://www.hankyung.com/article/2026101420921"
+          "source": "매일경제(부동산)",
+          "title": "“입주권 산 줄 알았는데 현금청산” … 투자자가 반드시 알아야 할 점은 [도공복 2편]",
+          "url": "https://www.mk.co.kr/news/realestate/12176905"
         }
       ]
     },
     {
-      "id": "RE-2",
+      "id": 2,
       "status": "ONGOING",
-      "title": "재건축·재개발 공사비 검증 강화로 정비사업 구조조정 가능성",
-      "summary": "정부가 전국 정비사업장 568곳을 점검한 결과 약 4곳 중 1곳이 법정 공사비 검증을 받지 않은 것으로 드러나자, 특별현장점검과 공사비 검증 강화에 나섰다. 시공사와 조합 간 ‘부르는 게 값’ 논란을 제도적으로 차단해 분양가와 사업성 구조를 재조정하려는 움직임으로, 향후 재개발·재건축 사업 지연과 재협상 사례가 늘어날 수 있다.",
+      "title": "서울시, 실거주 규제 비판하며 외곽 집값 상승 속 공급 확대 기조 유지",
+      "summary": "오세훈 서울시장이 정부의 실거주 위주 정책이 서울 외곽 아파트값 상승을 부추겼다고 공개 비판하고, 시민 주거 불안을 줄이기 위해 서울 내 신규 공급을 지속·확대하겠다는 입장을 밝히며 중앙정부와의 정책 기조 차이가 드러나고 있다.",
       "articleCount": 1,
       "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "오세훈 “서울 외곽 집값 상승, 실거주 정책 탓... 공급 이어갈 것”",
+          "url": "https://www.mk.co.kr/news/realestate/12177091"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "LH·정부, 공급 지연·공사비 논란 대응 위해 현장 점검 및 검증 강화",
+      "summary": "LH가 주택공급 지연 요인을 선제 점검해 공정 관리와 착공·준공 일정을 앞당기려는 가운데, 정부는 재건축·재개발 현장 568곳을 조사해 4곳 중 1곳이 법정 공사비 검증을 받지 않은 것으로 드러나자 특별현장점검과 공사비 검증 강화를 추진하고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "LH, 주택공급 지연요인 선제 점검…\"현장 관리 강화\"",
+          "url": "https://www.hankyung.com/article/202610154724i"
+        },
         {
           "source": "매일경제(부동산)",
           "title": "공사비 부르는 게 값?… 검증 칼날 꺼낸 정부",
@@ -98,10 +117,10 @@
       ]
     },
     {
-      "id": "RE-3",
+      "id": 4,
       "status": "ONGOING",
-      "title": "반도체발 경기 남부 집값 상승, 강남권 확산 우려",
-      "summary": "반도체 산업 호황으로 자금이 수원 광교·화성 동탄 등 경기 남부로 유입되며 집값 상승세가 나타나고 있다. 동탄에서 시세 차익을 실현해 분당으로 갈아타는 수요가 늘고, 강남권으로의 매수 대기 수요도 포착되면서 ‘반도체 머니’가 수도권 핵심 지역으로 연쇄 이동하는 흐름이 형성되고 있다.",
+      "title": "반도체 호황발 ‘동탄·광교 상승’에서 분당·강남으로 번지는 수요 이동",
+      "summary": "반도체 산업 자금이 수원 광교와 화성 동탄 등 경기 남부로 유입되며 집값을 끌어올린 데 이어, 동탄에서 매도해 분당으로 갈아타는 수요와 강남권 진입을 노리는 매수 움직임이 관측되면서 수도권 내 지역 간 자산 재배치가 가속화되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -112,30 +131,16 @@
       ]
     },
     {
-      "id": "RE-4",
+      "id": 5,
       "status": "ONGOING",
       "title": "지방 공공택지 5만 가구 공급 중단, 지역 주택시장 불확실성 확대",
-      "summary": "지방 공공택지에서 계획된 약 5만 가구 신규 주택 공급이 전면 중단되면서 지방 주택 공급 로드맵에 큰 공백이 발생했다. 택지 개발 중단으로 건설 일정과 분양 계획이 연쇄 차질을 빚을 가능성이 커졌고, 지역별로는 미분양 해소와 재정여건, 수요 부진 등이 맞물려 지방 시장 양극화가 심화될 조짐을 보이고 있다.",
+      "summary": "지방 공공택지에서 계획된 약 5만 가구 신규 주택 공급이 전면 중단되면서 택지 개발과 분양 일정이 지연되고, 지방 주택시장 공급 전망과 가격 안정성에 대한 우려가 커지고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "한국경제(부동산)",
           "title": "지방 공공택지의 '눈물'…5만 가구 공급 올스톱",
           "url": "https://www.hankyung.com/article/2026101394721"
-        }
-      ]
-    },
-    {
-      "id": "RE-5",
-      "status": "SHIFTING",
-      "title": "재건축 속도전 vs 권한이양 요구, 중앙·지자체 갈등 심화",
-      "summary": "정부는 연내 1만5000가구 재건축 착공을 목표로 인허가 및 사업 절차를 앞당기려 하지만, 지자체와 주민들은 재건축 행정·인가 권한을 지자체로 이양하라고 요구하며 갈등을 빚고 있다. 재건축 활성화라는 큰 방향에는 공감하면서도 권한 배분과 책임 소재를 둘러싼 이해관계가 충돌해, 향후 제도 개편과 사업 일정이 유동적으로 변할 가능성이 크다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "한국경제(부동산)",
-          "title": "연내 1.5만가구 착공 vs 권한이양 추진…재건축 '동상이몽'",
-          "url": "https://www.hankyung.com/article/2026101394691"
         }
       ]
     }

@@ -1,69 +1,69 @@
 {
   "range": {
-    "from": "2026-09-16",
-    "to": "2026-10-15"
+    "from": "2026-09-17",
+    "to": "2026-10-16"
   },
   "kpis": {
-    "collected": 71,
-    "deduped": 71,
+    "collected": 70,
+    "deduped": 70,
     "uniqueTopics": 7,
     "marketShare": {
       "Roadmap": 30,
-      "Competition": 28,
-      "Manufacturing": 19,
+      "Competition": 27,
+      "Manufacturing": 18,
       "Investment": 14,
       "Demand": 10,
-      "Other": 0
+      "Other": 1
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (09/16-09/22)",
+      "week": "Week 1 (09/17-09/23)",
       "topicCounts": {
-        "Roadmap": 8,
+        "Roadmap": 9,
+        "Competition": 10,
+        "Manufacturing": 9,
+        "Investment": 7,
+        "Demand": 4
+      }
+    },
+    {
+      "week": "Week 2 (09/24-09/30)",
+      "topicCounts": {
+        "Roadmap": 11,
+        "Competition": 12,
+        "Manufacturing": 5,
+        "Investment": 5,
+        "Demand": 7
+      }
+    },
+    {
+      "week": "Week 3 (10/01-10/07)",
+      "topicCounts": {
+        "Roadmap": 14,
         "Competition": 11,
-        "Manufacturing": 7,
-        "Investment": 6,
+        "Manufacturing": 6,
+        "Investment": 7,
+        "Demand": 1
+      }
+    },
+    {
+      "week": "Week 4 (10/08-10/14)",
+      "topicCounts": {
+        "Roadmap": 7,
+        "Competition": 6,
+        "Manufacturing": 8,
+        "Investment": 3,
         "Demand": 3
       }
     },
     {
-      "week": "Week 2 (09/23-09/29)",
+      "week": "Week 5 (10/15-10/16)",
       "topicCounts": {
-        "Roadmap": 12,
-        "Competition": 12,
-        "Manufacturing": 5,
-        "Investment": 4,
-        "Demand": 5
-      }
-    },
-    {
-      "week": "Week 3 (09/30-10/06)",
-      "topicCounts": {
-        "Roadmap": 14,
-        "Competition": 12,
-        "Manufacturing": 7,
-        "Investment": 6,
-        "Demand": 2
-      }
-    },
-    {
-      "week": "Week 4 (10/07-10/13)",
-      "topicCounts": {
-        "Roadmap": 5,
-        "Competition": 4,
-        "Manufacturing": 6,
-        "Investment": 3,
-        "Demand": 2
-      }
-    },
-    {
-      "week": "Week 5 (10/14-10/15)",
-      "topicCounts": {
-        "Roadmap": 6,
-        "Competition": 5,
-        "Manufacturing": 5,
-        "Investment": 3,
+        "Roadmap": 3,
+        "Competition": 3,
+        "Manufacturing": 1,
+        "Investment": 2,
         "Demand": 1
       }
     }
@@ -72,36 +72,22 @@
     {
       "id": 1,
       "status": "ONGOING",
-      "title": "3D 스케일링 확산으로 신소재·신공정 수요 급증",
-      "summary": "미세화 한계 이후 3D 스케일링이 본격화되면서 기존 리소그래피 중심 패러다임만으로는 성능·수율 확보가 어려워지고 있다. ASM 등 장비 업체들은 복잡한 3D 구조를 구현하기 위해 새로운 재료, 정밀 증착·식각, 결함 관리 기술을 결합한 공정 혁신을 추진하고 있으며, 이는 향후 공정 생태계와 소재·장비 투자 방향을 재편할 핵심 이슈로 부상하고 있다.",
+      "title": "글로벌파운드리즈 미국 팹 증설에 대한 일본 210억 달러 지원",
+      "summary": "일본 정부가 글로벌파운드리즈의 뉴욕 신규 파운드리 2개 공장 건설에 약 210억 달러를 제안하며 미국 내 파운드리 생산능력을 약 10% 확대하려는 움직임을 보이고 있다. 이는 미·일 동맹을 축으로 한 공급망 재편과 파운드리 경쟁 구도에 직접적인 영향을 주는 대형 투자 이슈다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "EE Times",
-          "title": "Beyond Lithography: 3D Scaling Puts New Demands on Materials",
-          "url": "https://www.eetimes.com/beyond-lithography-3d-scaling-puts-new-demands-on-materials/"
+          "title": "Japan Offers GlobalFoundries $21B for U.S. Fab Expansion",
+          "url": "https://www.eetimes.com/japan-offers-globalfoundries-21b-for-u-s-fab-expansion/"
         }
       ]
     },
     {
       "id": 2,
-      "status": "ONGOING",
-      "title": "ASML-EUV 공급망, 자이스 광학 생산능력에 병목 위험",
-      "summary": "EUV 노광 장비 증설의 핵심 변수로 자이스의 초정밀 광학 공급능력이 부상하고 있다. 자이스가 고성능 광학 부품 생산을 충분히 확대하지 못할 경우 ASML의 EUV 출하가 제한되고, 이는 하이엔드 파운드리·메모리 업체들의 첨단 공정 전환 속도를 제약하는 구조적 병목으로 이어질 수 있다는 우려가 커지고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "EE Times",
-          "title": "ASML’s EUV Expansion Runs Through Zeiss",
-          "url": "https://www.eetimes.com/asml-euv-expansion-runs-through-zeiss/"
-        }
-      ]
-    },
-    {
-      "id": 3,
       "status": "NEW",
-      "title": "어플라이드 머티어리얼즈, 50억 달러 EPIC 센터로 반도체 R&D 모델 재편",
-      "summary": "어플라이드 머티어리얼즈가 50억 달러 규모의 EPIC 센터를 설립해 칩 제작사, 장비 업체, 연구기관을 한데 묶는 공동 R&D 허브를 구축한다. 소재·장비·공정 개발과 양산 검증을 한 공간에서 통합함으로써 신공정 상용화 기간을 단축하고, 파운드리·IDM·팹리스가 초기 단계부터 협업하는 새로운 혁신 모델을 표준화하려는 움직임이 가속되고 있다.",
+      "title": "Applied Materials의 50억 달러 EPIC 센터, 차세대 반도체 혁신 플랫폼 구축",
+      "summary": "Applied Materials가 칩 제조사, 장비 업체, 연구기관을 한데 모으는 EPIC 센터에 50억 달러를 투자해 공동 R&D와 상용화 속도를 높이려 한다. 공정·장비·소재를 통합 실증하는 오픈 혁신 허브로, 첨단 노드와 후공정 패키징 경쟁에서 선도권 확보를 노리는 전략적 인프라 투자다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -112,30 +98,44 @@
       ]
     },
     {
+      "id": 3,
+      "status": "NEW",
+      "title": "삼성전자 2026년 3분기 실적 가이던스, 반도체 사이클 회복 신호",
+      "summary": "삼성전자가 2026년 3분기 연결 매출 약 195조원, 영업이익 약 107.40조원을 제시하며 메모리·파운드리 수요 회복과 가격 개선을 시사했다. AI 서버와 고대역폭 메모리(HBM) 등 고부가 제품이 실적을 견인한 것으로 해석되며, 글로벌 반도체 업황 반등의 대표 지표로 주목된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung Electronics Announces Earnings Guidance for Third Quarter 2026",
+          "url": "https://news.samsung.com/global/samsung-electronics-announces-earnings-guidance-for-third-quarter-2026"
+        }
+      ]
+    },
+    {
       "id": 4,
       "status": "ONGOING",
-      "title": "AI 데이터센터 전력 스파이크 대응, 전력·반도체 동시 최적화 이슈 부상",
-      "summary": "AI 서버 급증으로 데이터센터의 단기 전력 스파이크 문제와 전력 인프라 제약이 심화되면서, 솔리드스테이트 변압기·배터리·800V DC 변환·마이크로그리드 제어를 결합한 새로운 전력 아키텍처가 주목받고 있다. 이는 고성능 AI 반도체 채택 확대와 맞물려 전력 효율, 전력 품질, 인프라 투자 비용을 동시에 최적화해야 하는 시스템 레벨 과제를 부각시키고 있다.",
+      "title": "전력망 현대화로 커지는 OT 사이버 공격 표면, 반도체 기반 인프라 보안 이슈 부각",
+      "summary": "스마트그리드·분산자원 확대 등 전력망 현대화로 IT·OT 네트워크가 밀접히 연결되면서, 변전소·센서·제어 시스템 등 반도체 기반 자산의 사이버 공격 표면이 빠르게 늘고 있다. OT 가시성 부족과 보안 설계 미비가 전력·산업 인프라 리스크로 부상하면서, 보안 기능 내장형(secure-by-design) 칩과 산업용 반도체 보안 솔루션 수요가 커질 전망이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "EE Times",
-          "title": "Amperesand Aims to Smooth AI Data Center Power Spikes",
-          "url": "https://www.eetimes.com/amperesand-aims-to-smooth-ai-data-center-power-spikes/"
+          "title": "Grid Modernization’s Hidden Cost: A Growing Attack Surface Few Are Watching",
+          "url": "https://www.eetimes.com/grid-modernization-hidden-cost-a-growing-attack-surface-few-are-watching/"
         }
       ]
     },
     {
       "id": 5,
-      "status": "SHIFTING",
-      "title": "차량용 센싱·SoC 설계, 안전·사이버보안 규제로 아키텍처 재편",
-      "summary": "AutoSens 2026에서 논의된 바와 같이, 강화되는 안전 규제와 사이버보안 요구가 차량용 센서와 처리 칩 아키텍처 선택에 직접적인 영향을 미치고 있다. OEM과 반도체 업체는 센서퓨전, 온디바이스 AI 처리, 보안 기능 통합을 고려한 레퍼런스 아키텍처를 재설계하고 있으며, 이는 오토모티브용 반도체 로드맵과 인증·검증 비용 구조를 크게 바꾸는 방향으로 전개되고 있다.",
+      "status": "NEW",
+      "title": "삼성 실리콘밸리 Future Wireless Summit 2026, 차세대 무선·칩 로드맵 논의",
+      "summary": "삼성전자가 마운틴뷰에서 Future Wireless Summit 2026을 개최해 통신사·장비사·정부와 함께 6G를 포함한 차세대 무선 기술과 협력 방안을 논의했다. 기지국·모뎀 등 통신용 반도체와 RF·안테나 집적 칩의 향후 요구사항이 논의되며, 무선 인프라용 파운드리·시스템 반도체 로드맵 형성에 영향을 줄 수 있는 이벤트다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "EE Times",
-          "title": "AutoSens 2026: Regulation Drives Automotive Sensing Architectures",
-          "url": "https://www.eetimes.com/autosens-2026-regulations-drive-automotive-sensing-architectures/"
+          "source": "Samsung Newsroom",
+          "title": "Samsung Hosts Silicon Valley Future Wireless Summit 2026",
+          "url": "https://news.samsung.com/global/samsung-hosts-silicon-valley-future-wireless-summit-2026"
         }
       ]
     }

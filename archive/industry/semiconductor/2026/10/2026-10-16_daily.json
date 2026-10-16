@@ -1,0 +1,107 @@
+{
+  "date": "2026-10-16",
+  "highlights": {
+    "bullets": [
+      "핵심: 일본이 글로벌파운드리즈에 뉴욕 파운드리 2기 건설을 위해 210억 달러를 제안",
+      "핵심: 삼성전자가 실리콘밸리에서 차세대 무선 기술 협력을 논의하는 서밋을 개최",
+      "트렌드: 정부와 기업의 투자·협력으로 기술·인프라 현대화와 통합 관리가 강조되고 있다"
+    ],
+    "topTopics": [
+      "Roadmap",
+      "Competition",
+      "Investment",
+      "Manufacturing"
+    ],
+    "stats": {
+      "collected": 8,
+      "deduped": 8
+    }
+  },
+  "cards": [
+    {
+      "id": "semiconductor_0001",
+      "tab": "semiconductor",
+      "publishedAt": "2026-10-16T04:00:00+09:00",
+      "source": "EE Times",
+      "title": "Japan Offers GlobalFoundries $21B for U.S. Fab Expansion",
+      "summary": [
+        "일본이 글로벌파운드리즈에 210억 달러를 제안해 뉴욕에 2개 파운드리 공장 신설을 추진합니다.",
+        "해당 투자는 미국 반도체 생산능력을 약 10% 향상시킬 것으로 추정됩니다.",
+        "분석가들은 대규모 국가 지원이 시장 왜곡과 지정학적 리스크를 초래할 수 있다고 경고합니다."
+      ],
+      "whyItMatters": "미국 내 공급망 강화와 전략적 기술 확보를 위해 대규모 공장 증설을 촉진하려는 전략적 국가 지원 의도입니다.",
+      "topics": [
+        "Manufacturing",
+        "Investment",
+        "Policy",
+        "Competition"
+      ],
+      "status": "ONGOING",
+      "hash": "b5532176346f1a5ad05f2164f35d4510c395c63743fcdd01e7989fa2175a163c",
+      "url": "https://www.eetimes.com/japan-offers-globalfoundries-21b-for-u-s-fab-expansion/"
+    },
+    {
+      "id": "semiconductor_0002",
+      "tab": "semiconductor",
+      "publishedAt": "2026-10-15T17:00:00+09:00",
+      "source": "EE Times",
+      "title": "Grid Modernization’s Hidden Cost: A Growing Attack Surface Few Are Watching",
+      "summary": [
+        "그리드 현대화로 전력 부문의 사이버 공격 표면이 확대되고 있습니다.",
+        "IT와 OT 네트워크 간 가시성 부족으로 연결된 자산들이 노출되어 있습니다.",
+        "보안 고려가 부족한 디지털 전환은 운영 중단 및 위협 증가로 이어질 위험이 큽니다."
+      ],
+      "whyItMatters": "중요 인프라의 디지털화가 확대되며 규제·투자·운영 리스크가 동시에 커지고 있기 때문입니다.",
+      "topics": [
+        "Policy",
+        "Investment",
+        "Roadmap"
+      ],
+      "status": "ONGOING",
+      "hash": "2abbe0010d8413a278a3e211b26cb7e9c5d29b77c4b67d953981b633bed76f64",
+      "url": "https://www.eetimes.com/grid-modernization-hidden-cost-a-growing-attack-surface-few-are-watching/"
+    },
+    {
+      "id": "semiconductor_0003",
+      "tab": "semiconductor",
+      "publishedAt": "2026-10-15T17:00:00+09:00",
+      "source": "Samsung Newsroom",
+      "title": "From Smart City to Race Circuit: Samsung’s The Wall in Control Rooms",
+      "summary": [
+        "삼성의 대형 LED 디스플레이 'The Wall'이 전통적 모니터링을 넘어 위기관리용 컨트롤룸에 도입되고 있다.",
+        "컨트롤룸은 영상·데이터·통신 네트워크를 통합 관리하는 중앙 허브로 진화하며 산업, 스포츠, 중요 인프라 전반에 적용되고 있다.",
+        "이 같은 변화는 고해상도 대형 디스플레이와 실시간 데이터 통합 솔루션에 대한 시장 수요와 기회를 확장한다."
+      ],
+      "whyItMatters": "늘어나는 실시간 데이터와 신속한 의사결정 요구를 충족하기 위해 고성능 디스플레이 솔루션의 채택이 가속화되고 있음을 보여준다.",
+      "topics": [
+        "Demand",
+        "Competition",
+        "Roadmap"
+      ],
+      "status": "ONGOING",
+      "hash": "9fd602c3917a39a61d1e5e73d31da088d42652310dee14afcf867b4ae24b8785",
+      "url": "https://news.samsung.com/global/from-smart-city-to-race-circuit-samsungs-the-wall-in-control-rooms"
+    },
+    {
+      "id": "semiconductor_0004",
+      "tab": "semiconductor",
+      "publishedAt": "2026-10-15T15:00:00+09:00",
+      "source": "Samsung Newsroom",
+      "title": "Samsung Hosts Silicon Valley Future Wireless Summit 2026",
+      "summary": [
+        "삼성전자가 10월 15일 미국 마운틴뷰 연구캠퍼스에서 'Silicon Valley Future Wireless Summit 2026'을 개최했다.",
+        "전 세계 통신사업자, 제조사, 정부 관계자들이 모여 차세대 무선 기술과 협력 방안을 논의했다.",
+        "전날 파트너 데이와 연계해 생태계 협업과 기술 로드맵을 제시하는 자리였다."
+      ],
+      "whyItMatters": "글로벌 파트너 및 정부와의 협력을 통해 삼성의 차세대 무선 전략과 시장 주도권 확보 가능성이 커지기 때문이다.",
+      "topics": [
+        "Roadmap",
+        "Competition",
+        "Policy"
+      ],
+      "status": "NEW",
+      "hash": "e77520638a904c816440c8eedac0f74586572bfa7b8efe76e74f5a07a251c787",
+      "url": "https://news.samsung.com/global/samsung-hosts-silicon-valley-future-wireless-summit-2026"
+    }
+  ]
+}
