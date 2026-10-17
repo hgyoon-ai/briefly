@@ -1,0 +1,657 @@
+{
+  "date": "2026-10-17",
+  "kpis": {
+    "clusters": 20,
+    "sources": 2,
+    "new": 16
+  },
+  "clusters": [
+    {
+      "id": "c6d96103ab8a45e8c60087db5f94f4b6409ce0f9",
+      "name": "Tesla Roadster",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 3089.4,
+      "oneLiner": "Tesla Roadster 공식 웹페이지로 연결되는 테슬라 제품 소개 링크",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "1109p · 2020c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50112657"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.tesla.com/roadster"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "3e8d642a210a3776da3a54c1e08578c2a52ee654",
+      "name": "Claude reveals ECDSA curve origins",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 660.0,
+      "oneLiner": "Claude가 ECDSA 곡선 기원에 관해 밝힌 내용을 다룬 토론 링크",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "598p · 251c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50122800"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.anthropic.com/research/ecdsa-curve-origins"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "987ebe2dd78041ab725788b6e1636a091c98aff9",
+      "name": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 610.2,
+      "oneLiner": "미국 근무 시간의 90%가 AI 벤치마크로 잘 다뤄지지 않는다고 지적한 분석 글",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "373p · 322c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50121179"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.mercor.com/research/labor-index/benchmark-map/"
+        }
+      ],
+      "tags": [
+        "eval"
+      ]
+    },
+    {
+      "id": "8c7b89f6525180a86f7b0bea5e401e8cc310093b",
+      "name": "Waymo in Toronto",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 561.6,
+      "oneLiner": "Waymo의 토론토 활동과 관련 내용을 소개하는 공식 블로그 게시물",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "244p · 346c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50118981"
+        },
+        {
+          "label": "Source",
+          "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "9b66ed6fc60b9fa15bb9b5d2631ab1ba7b0b8181",
+      "name": "I Love Software Rendering",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 389.4,
+      "oneLiner": "소프트웨어 렌더링에 대한 애정과 기술적 고찰을 담은 개인 글",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "279p · 185c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50117746"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "3ac563ac0225bf8dc45e236932cb6b9341abf8c0",
+      "name": "Saffsanity/sill",
+      "section": "releases",
+      "status": "NEW",
+      "score": 371.12,
+      "oneLiner": "Mac 창을 iPhone이나 iPad에서 실시간으로 조작하는 무료 오픈소스 도구 설명",
+      "whyNow": "릴리즈 직후라 적용/마이그레이션 경험이 모이고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,772"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "132"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-17"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v0.5.1"
+        },
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "248p · 74c"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/Saffsanity/sill"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/Saffsanity/sill/releases/tag/v0.5.1"
+        },
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50112739"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "e220acb613218d6140c5eb1a4e24edb4d80dc01d",
+      "name": "How the Claude Code team does code review",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 348.0,
+      "oneLiner": "Claude Code 팀의 코드 리뷰 방식과 해결책을 설명하는 경험 공유 글",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "202p · 189c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50122951"
+        },
+        {
+          "label": "Source",
+          "url": "https://claude.dev/blog/solving-code-review-at-anthropic/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "a0403e2db2bf724d122c83911d666a54baa0762b",
+      "name": "Desire to Move Permanently to U.S. at New Low",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 336.0,
+      "oneLiner": "미국으로의 영구 이주 의향이 새 저점을 기록했다는 갤럽 여론조사 보도",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "186p · 187c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50120664"
+        },
+        {
+          "label": "Source",
+          "url": "https://news.gallup.com/poll/708614/desire-migrate-drops-new-low.aspx"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "95d3f37978deafdb9af970a16fbdff961c5b838e",
+      "name": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+      "section": "trending",
+      "status": "NEW",
+      "score": 288.0,
+      "oneLiner": "MLX 기반 분산 추론과 Mac Studio에서 Muse Spark Open을 다룬 Apple ML 연구 게시물",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "252p · 114c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50118320"
+        },
+        {
+          "label": "Source",
+          "url": "https://machinelearning.apple.com/research/mlx-distributed-inference"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "164ff0dd028e3b53f6ffec47797d92d9015c75f4",
+      "name": "JPEG XL vs. AVIF for web use-cases",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 280.2,
+      "oneLiner": "웹 사용 사례에서 JPEG XL과 AVIF를 비교 분석한 기술 블로그 글",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "183p · 142c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50120224"
+        },
+        {
+          "label": "Source",
+          "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "dfe6b7b9b45aabb219576eb1708afb7b329bce12",
+      "name": "RPKI now protects 70% of internet routes",
+      "section": "trending",
+      "status": "NEW",
+      "score": 256.2,
+      "oneLiner": "RPKI가 인터넷 경로의 70%를 보호한다는 내용을 전한 관련 보도",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "219p · 104c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50112330"
+        },
+        {
+          "label": "Source",
+          "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "5450988857f79bb08cd45388a8a5beccabaf7145",
+      "name": "US Rep Announces Congressional Legislation to Protect Video Game Ownership",
+      "section": "trending",
+      "status": "NEW",
+      "score": 231.6,
+      "oneLiner": "비디오 게임 소유권 보호를 위한 의회 입법 발표에 관한 뉴스 보도",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 개발자 경험 개선 관점에서 관심이 커지고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "182p · 102c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50120101"
+        },
+        {
+          "label": "Source",
+          "url": "https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games"
+        }
+      ],
+      "tags": [
+        "editor"
+      ]
+    },
+    {
+      "id": "befba5a8526e0a0fbd040ac5bd6c8358629b2288",
+      "name": "Show HN: Gemini 4 Argon plays StarCraft",
+      "section": "trending",
+      "status": "NEW",
+      "score": 213.0,
+      "oneLiner": "Gemini 4 Argon이 스타크래프트를 플레이하는 모습을 보여주는 벤치마크 글",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "181p · 87c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50118688"
+        },
+        {
+          "label": "Source",
+          "url": "https://starskirmish.com/bench/v0-2/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "6fc3cbce9bb7b78a0b818f770f4a3deb05fd4cd6",
+      "name": "Anthropic assigned highest junk credit rating in June",
+      "section": "trending",
+      "status": "NEW",
+      "score": 189.0,
+      "oneLiner": "Anthropic이 6월에 최고 등급의 정크 신용 등급을 받았다는 보도 기사",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "197p · 59c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50122112"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "1a01c6d18997cf7c68af21ca1e78c3dc00b1f50a",
+      "name": "jhaizhou-ops/d2r-mobile",
+      "section": "releases",
+      "status": "ONGOING",
+      "score": 181.58,
+      "oneLiner": "Diablo II: Resurrected를 iOS/macOS에서 실행하는 오픈소스 호환 레이어 프로젝트 설명",
+      "whyNow": "릴리즈 직후라 적용/마이그레이션 경험이 모이고 있습니다. 운영/비용 관점 해석이 갈리며 논의가 이어지고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "3,528"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "1,023"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-16"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v1.0.17"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/jhaizhou-ops/d2r-mobile"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/jhaizhou-ops/d2r-mobile/releases/tag/v1.0.17"
+        }
+      ],
+      "tags": [
+        "infra"
+      ]
+    },
+    {
+      "id": "2907deda94d73593fb8c8f1b6b773a16f45a0b44",
+      "name": "The Folders Programming Language",
+      "section": "trending",
+      "status": "NEW",
+      "score": 163.8,
+      "oneLiner": "Folders라는 이름의 프로그래밍 언어 개념을 소개하는 글 링크",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "201p · 36c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50114342"
+        },
+        {
+          "label": "Source",
+          "url": "https://danieltemkin.com/esolangs/folders"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "a7d24c595ec94087980b09d79b319cbfddc924ef",
+      "name": "onehumanbeing/esp32-iphone-agent",
+      "section": "releases",
+      "status": "ONGOING",
+      "score": 141.44,
+      "oneLiner": "저가 ESP32로 실제 아이폰을 AI 모델이 제어하도록 하는 오픈소스 프로젝트 설명",
+      "whyNow": "최근 릴리즈가 나오며 실사용 공유가 빠르게 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,852"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "368"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-16"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v0.1.0"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/onehumanbeing/esp32-iphone-agent"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/onehumanbeing/esp32-iphone-agent/releases/tag/v0.1.0"
+        }
+      ],
+      "tags": [
+        "agent tooling"
+      ]
+    },
+    {
+      "id": "61731ce00dd5bfdb8571ce70504bfc2c5f733a76",
+      "name": "Arekejoker/qwen21-nsfw-pose-skill",
+      "section": "releases",
+      "status": "ONGOING",
+      "score": 130.4,
+      "oneLiner": "Qwen-Image 2.1용 NSFW 및 자세 생성 스킬과 관련 자료를 제공하는 저장소 설명",
+      "whyNow": "업데이트가 트리거가 되어 레퍼런스가 모이는 구간입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,514"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "492"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-17"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v1.0.0"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill/releases/tag/v1.0.0"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "730b29a74eeb2c0820193fdf71db333fbf11ba62",
+      "name": "liseami/CCBaga",
+      "section": "releases",
+      "status": "ONGOING",
+      "score": 120.88,
+      "oneLiner": "오픈 소스 개발 도구/프로젝트입니다.",
+      "whyNow": "버전 업데이트 이후 재확산이 시작된 흐름입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,402"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "240"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-16"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v0.2.48"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/liseami/CCBaga"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/liseami/CCBaga/releases/tag/v0.2.48"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "d8c4bc91afbf209a36a2d11774acf0a89cfac416",
+      "name": "opengeos/RustGIS",
+      "section": "releases",
+      "status": "NEW",
+      "score": 77.56,
+      "oneLiner": "순수 러스트로 구현한 빠르고 무료인 오픈소스 GIS 프로젝트 소개",
+      "whyNow": "최근 릴리즈가 나오며 실사용 공유가 빠르게 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "1,348"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "182"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-16"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v0.3.0"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/opengeos/RustGIS"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/opengeos/RustGIS/releases/tag/v0.3.0"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}
