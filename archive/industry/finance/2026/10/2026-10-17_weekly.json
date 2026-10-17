@@ -1,0 +1,286 @@
+{
+  "range": {
+    "from": "2026-10-11",
+    "to": "2026-10-17"
+  },
+  "kpis": {
+    "collected": 13,
+    "deduped": 13,
+    "uniqueTopics": 6
+  },
+  "topTopics": [
+    {
+      "name": "MarketInfra",
+      "count": 13
+    },
+    {
+      "name": "Policy",
+      "count": 10
+    },
+    {
+      "name": "Regulation",
+      "count": 3
+    },
+    {
+      "name": "Compliance",
+      "count": 2
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": "Sun",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Regulation",
+      "count": 1
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Compliance",
+      "count": 1
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "MarketInfra",
+      "count": 3
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Regulation",
+      "count": 1
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "MarketInfra",
+      "count": 4
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 3
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Regulation",
+      "count": 1
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Compliance",
+      "count": 1
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Compliance",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "코스피 급락 이후 변동성 지속과 개인·신용투자 리스크 누적",
+      "summary": "10월 들어 코스피가 8거래일 연속 하락 후 외국인 순매수 전환으로 간신히 반등했지만, 단기 반등에도 불구하고 개인투자자 손실과 투자심리 위축이 심각하다. 석 달 새 신용잔고가 4조원 이상 늘며 레버리지 투자 비중이 커져 향후 추가 하락 시 반대매매 등 시스템 리스크가 확대될 우려가 부각되고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“내년까지 주식계좌 안볼랍니다”…8일만에 추락 겨우 멈췄지만",
+          "url": "https://www.mk.co.kr/news/stock/12178156"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "다른 나라도 반도체 영향 받는데…왜 코스피만 더 크게 흔들리나",
+          "url": "https://www.mk.co.kr/news/stock/12175144"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "국민연금 기금운용 놓고 국정조사 논의…공적 자금 운용 투명성 쟁점화",
+      "summary": "코스피 급락과 개인투자자 피해 확산 속에서 국민의힘이 국민연금 기금운용을 대상으로 국정조사를 추진하며 정치권이 연금의 국내 증시 운용 전략에 개입하는 양상이다. 연금의 주식 비중, 리밸런싱 타이밍, 위험관리 체계 등이 도마에 오르며 공적 기금의 시장 영향력과 운용 독립성·책임성 간 균형이 핵심 이슈로 부상했다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“증시 폭등 없었으면 폭락도 없었다”…국민연금 국조 꺼내든 국힘",
+          "url": "https://www.mk.co.kr/news/politics/12178257"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "한국은행 직원 주식거래 급증 논란과 금융정책 신뢰도 훼손 우려",
+      "summary": "올해 상반기 한국은행 직원, 특히 금융시장국 직원들의 주식 거래 규모가 수십 배 급증한 사실이 드러나면서 내부 정보 이용 가능성과 도덕적 해이 논란이 커지고 있다. 통화정책과 시장 경고를 담당하는 기관 구성원의 과도한 개인 거래는 이해상충 관리, 내부통제, 윤리 규범 강화 필요성을 부각시키며 금융당국 전반의 신뢰도에도 부담을 주는 이슈로 이어지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“이러려고 한은 들어갔나”…시장 경고는 뒷전, 직원들 주식거래 53배 급증 왜?",
+          "url": "https://www.mk.co.kr/news/economy/12174120"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "SHIFTING",
+      "title": "PPI 급등에도 시장금리 하락…물가·성장·통화정책 기대가 뒤섞인 국면",
+      "summary": "생산자물가지수(PPI)가 예상보다 크게 오르며 인플레이션 재가열 우려가 커졌지만, 채권시장에서 금리는 오히려 하락해 경기 둔화 가능성과 통화완화 기대가 동시에 가격에 반영되는 모습이다. 물가와 성장 신호가 엇갈리면서 주식·채권·달러 자산 간 선호가 빠르게 바뀌고 있어, 향후 중앙은행의 시그널과 경제지표에 따른 금융시장 색깔 전환이 주요 관전 포인트가 되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "PPI 폭등했는데 금리 왜 떨어졌나... 증시 색깔 이렇게 바뀐다",
+          "url": "https://www.mk.co.kr/news/economy/12177435"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "반도체 대장주 밸류에이션 역사적 저점…비중 확대 vs 실적·중국 리스크",
+      "summary": "삼성전자와 SK하이닉스의 내년 실적 기준 PER이 금융위기 수준까지 낮아지며 증권가는 밸류에이션 정상화와 주주환원 정책을 근거로 비중 확대를 권고하고 있다. 그러나 코스피 시가총액이 메모리 2종목에 과도하게 집중된 가운데, 중국의 추격과 업황 변동성이 커져 반도체 주도 장세 의존도가 한국 증시 변동성을 키운다는 구조적 리스크 논의가 병행되고 있다.",
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“금융위기 때만큼 싸다…삼전닉스 비중 확대 적기” [오늘 나온 보고서]",
+          "url": "https://www.mk.co.kr/news/stock/12177436"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "“삼전 주가, 역사적 저평가”라는데…KB증권 “비중 확대할 기회”",
+          "url": "https://www.mk.co.kr/news/stock/12176392"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "다른 나라도 반도체 영향 받는데…왜 코스피만 더 크게 흔들리나",
+          "url": "https://www.mk.co.kr/news/stock/12175144"
+        }
+      ]
+    }
+  ]
+}

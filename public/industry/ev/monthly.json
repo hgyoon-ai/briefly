@@ -1,79 +1,93 @@
 {
   "range": {
-    "from": "2026-09-17",
-    "to": "2026-10-16"
+    "from": "2026-09-18",
+    "to": "2026-10-17"
   },
   "kpis": {
     "collected": 54,
     "deduped": 54,
     "uniqueTopics": 7,
     "marketShare": {
-      "Roadmap": 28,
-      "Competition": 25,
+      "Roadmap": 27,
+      "Competition": 26,
       "Demand": 20,
-      "Investment": 18,
-      "Manufacturing": 9,
-      "Other": 0
+      "Investment": 17,
+      "Policy": 9,
+      "Other": 1
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (09/17-09/23)",
+      "week": "Week 1 (09/18-09/24)",
       "topicCounts": {
         "Roadmap": 10,
-        "Competition": 10,
-        "Demand": 7,
+        "Competition": 11,
+        "Demand": 6,
         "Investment": 7,
-        "Manufacturing": 2
+        "Policy": 2
       }
     },
     {
-      "week": "Week 2 (09/24-09/30)",
+      "week": "Week 2 (09/25-10/01)",
       "topicCounts": {
         "Roadmap": 11,
         "Competition": 7,
-        "Demand": 6,
-        "Investment": 7,
-        "Manufacturing": 2
-      }
-    },
-    {
-      "week": "Week 3 (10/01-10/07)",
-      "topicCounts": {
-        "Roadmap": 9,
-        "Competition": 6,
         "Demand": 7,
-        "Investment": 4,
-        "Manufacturing": 4
+        "Investment": 8,
+        "Policy": 4
       }
     },
     {
-      "week": "Week 4 (10/08-10/14)",
+      "week": "Week 3 (10/02-10/08)",
+      "topicCounts": {
+        "Roadmap": 7,
+        "Competition": 4,
+        "Demand": 5,
+        "Investment": 4,
+        "Policy": 2
+      }
+    },
+    {
+      "week": "Week 4 (10/09-10/15)",
       "topicCounts": {
         "Roadmap": 9,
-        "Competition": 11,
-        "Demand": 8,
-        "Investment": 8,
-        "Manufacturing": 4
+        "Competition": 10,
+        "Demand": 9,
+        "Investment": 9,
+        "Policy": 2
       }
     },
     {
-      "week": "Week 5 (10/15-10/16)",
+      "week": "Week 5 (10/16-10/17)",
       "topicCounts": {
-        "Roadmap": 1,
+        "Roadmap": 0,
         "Competition": 2,
-        "Demand": 1,
+        "Demand": 2,
         "Investment": 0,
-        "Manufacturing": 0
+        "Policy": 1
       }
     }
   ],
   "topIssues": [
     {
       "id": "ev-1",
+      "status": "NEW",
+      "title": "중국산 전기차 대기 수요로 북미·서방 브랜드 수요 위축",
+      "summary": "캐나다 설문에서 상당수 소비자가 중국산 전기차 출시를 기다리며 기존 서방 브랜드 EV 구매를 미루는 것으로 나타났다. 이는 중국 업체의 가격·성능 경쟁력 인식이 높아진 반면, 북미·유럽 완성차는 가격 대비 가치와 제품 매력에서 밀리고 있다는 신호로, 향후 관세·수입 규제 및 브랜드 전략 재조정 이슈로 확산될 가능성이 크다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Trouble: buyers would rather wait for Chinese EVs than buy Western ones",
+          "url": "https://electrek.co/2026/10/16/trouble-buyers-would-rather-wait-for-chinese-evs-than-buy-western-ones/"
+        }
+      ]
+    },
+    {
+      "id": "ev-2",
       "status": "SHIFTING",
-      "title": "지역별 전기차 수요 격차 확대: 유럽 급성장 vs 북미 급감",
-      "summary": "9월 유럽 전기차 판매는 사상 최고치를 기록한 반면, 북미 전기차 판매는 같은 기간 44% 급감했습니다. 보조금 구조, 충전 인프라, 금리와 같은 거시 환경 차이로 지역별 수요 흐름이 크게 갈리며 글로벌 EV 전략 재조정 압력이 커지고 있습니다.",
+      "title": "유럽 EV 판매 급증 vs 북미 44% 급락, 글로벌 수요 지형 변화",
+      "summary": "9월 유럽 전기차 판매는 기록적 수준으로 치솟은 반면, 북미는 같은 기간 44% 급락해 지역별 수요 양극화가 뚜렷해지고 있다. 정책 인센티브, 충전 인프라, 중국차 규제·수입 구조 차이가 복합적으로 작용한 것으로 보이며, 글로벌 완성차들은 생산·마케팅 중심 축을 유럽·중국으로 더 옮기고 북미에서는 재고·가격 정책 조정 압박을 받을 전망이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -84,52 +98,38 @@
       ]
     },
     {
-      "id": "ev-2",
-      "status": "ONGOING",
-      "title": "오토파일럿/FSD 안전성 논란과 규제 리스크 심화",
-      "summary": "뉴저지에서 테슬라 차량이 중앙분리대를 넘어 치명적 충돌 사고를 일으킨 사건에서, 테슬라가 사고 당시 오토파일럿/FSD가 작동 중이었다고 확인했습니다. 자율주행 보조 기능의 안전 기준, 운전자 책임 범위, 소프트웨어 업데이트 규제 등과 관련한 조사와 규제 논의가 계속될 전망입니다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "Tesla confirms Autopilot/FSD was ‘engaged’ when car crossed a median and killed a man",
-          "url": "https://electrek.co/2026/10/15/tesla-driver-assist-median-crossing-vineland/"
-        }
-      ]
-    },
-    {
       "id": "ev-3",
-      "status": "NEW",
-      "title": "리비안 분사 ‘마인드 로보틱스’, 더그 필드 합류로 EV 공정 자동화 가속",
-      "summary": "테슬라 모델 3와 포드 EV 개발을 이끌었던 더그 필드가 리비안에서 분사한 산업 로보틱스 스타트업 마인드 로보틱스 사장으로 합류했습니다. 설립 1년 미만에 10억 달러 이상을 조달한 이 회사는 EV 생산 라인 자동화·로보틱스 역량을 확대하며 전기차 제조 경쟁력 판도를 바꿀 잠재력을 키우고 있습니다.",
+      "status": "ONGOING",
+      "title": "테슬라 FSD 수면 운전 사고로 자율주행 안전·규제 리스크 재부각",
+      "summary": "캘리포니아에서 FSD를 켠 테슬라가 고속도로 순찰차를 들이받아 경찰관 2명이 중상을 입었고, 운전자는 사고 당시 잠들어 있었다고 진술했다. 시스템 한계와 운전자 책임 범위를 둘러싼 논란이 커지며, 고도 운전자 보조 시스템에 대한 규제 강화, 소프트웨어 안전 기준 상향, 보험·책임 구조 재정비 논의가 계속될 가능성이 높다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
-          "title": "Rivian’s Mind Robotics snags Doug Field, ex-Tesla and Ford EV chief",
-          "url": "https://electrek.co/2026/10/13/rivian-mind-robotics-doug-field-president-tesla-ford/"
+          "title": "Tesla driver says he was asleep on FSD when he hit CHP car, 2 officers hurt",
+          "url": "https://electrek.co/2026/10/16/tesla-fsd-crash-chp-patrol-car-driver-asleep-fairfield/"
         }
       ]
     },
     {
       "id": "ev-4",
-      "status": "NEW",
-      "title": "클래식 아이콘의 저가형 EV 변신: 시트로엥 2CV 전기 콘셉트",
-      "summary": "시트로엥이 클래식 2CV를 약 1만5천 유로 수준의 전기차 콘셉트로 부활시키며 2028년 출시를 목표로 하고 있습니다. 레트로 디자인과 접근 가능한 가격대를 앞세운 도심형 EV 전략으로, 경기 둔화 국면에서 합리적 가격대 전기차 수요를 겨냥하는 움직임입니다.",
+      "status": "SHIFTING",
+      "title": "수익성 둔화 속 300억 달러 신용한도, 테슬라 재무 구조 전환 신호",
+      "summary": "테슬라는 최근 수년간 이익이 감소해 수익성 위기에 가까워진 가운데 300억 달러 규모의 신용한도를 새로 열었다. 이는 대규모 설비·로보틱스·AI·신차 개발 투자 여력을 확보하는 동시에, 고금리 환경에서 이자 비용과 재무 레버리지 리스크를 키우는 선택으로, 향후 마진 압박과 추가 자본 조달 여부가 핵심 관전 포인트가 될 전망이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
-          "title": "The legendary Citroen 2CV is back as a €15k electric concept for 2028",
-          "url": "https://electrek.co/2026/10/11/the-legendary-citroen-2cv-is-back-as-a-e15k-electric-concept-for-2028/"
+          "title": "Tesla takes on $30 billion in credit as it approaches unprofitability",
+          "url": "https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/"
         }
       ]
     },
     {
       "id": "ev-5",
       "status": "ONGOING",
-      "title": "BYD 상용 전동화 가속: 15만 번째 상용 NEV 및 전기 세미 트럭 확대",
-      "summary": "BYD가 장쑤성 화이안 공장에서 15만 번째 상용 신에너지차 생산을 달성하며, 기념 모델로 약 800마력급 Q3 전기 세미 트럭을 선보였습니다. 중국과 글로벌 시장에서 전기 트럭·버스 등 상용 EV 포트폴리오를 확대하며 상용 부문 전동화 경쟁에서 주도권을 강화하고 있습니다.",
+      "title": "BYD, 상용 전기차 15만 대 생산 돌파로 전기 트럭 시장 주도 강화",
+      "summary": "BYD가 장쑤 화이안 공장에서 15만 번째 상용 신에너지차를 생산하며 전기 상용차 분야에서 양산·라인업 경쟁력을 입증했다. 기념 모델은 약 800마력급 Q3 전기 세미 트럭으로, 고출력·장거리 운송 대응 역량을 과시하며 북미·유럽 전기 트럭 진출과 글로벌 상용차 전동화 가속의 전초전 성격을 띤다.",
       "articleCount": 1,
       "relatedArticles": [
         {

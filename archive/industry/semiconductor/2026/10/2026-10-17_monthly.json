@@ -1,0 +1,148 @@
+{
+  "range": {
+    "from": "2026-09-18",
+    "to": "2026-10-17"
+  },
+  "kpis": {
+    "collected": 70,
+    "deduped": 70,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 29,
+      "Competition": 26,
+      "Manufacturing": 19,
+      "Investment": 14,
+      "Demand": 11,
+      "Other": 1
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (09/18-09/24)",
+      "topicCounts": {
+        "Roadmap": 12,
+        "Competition": 10,
+        "Manufacturing": 8,
+        "Investment": 6,
+        "Demand": 5
+      }
+    },
+    {
+      "week": "Week 2 (09/25-10/01)",
+      "topicCounts": {
+        "Roadmap": 15,
+        "Competition": 14,
+        "Manufacturing": 5,
+        "Investment": 5,
+        "Demand": 9
+      }
+    },
+    {
+      "week": "Week 3 (10/02-10/08)",
+      "topicCounts": {
+        "Roadmap": 11,
+        "Competition": 9,
+        "Manufacturing": 5,
+        "Investment": 4,
+        "Demand": 1
+      }
+    },
+    {
+      "week": "Week 4 (10/09-10/15)",
+      "topicCounts": {
+        "Roadmap": 12,
+        "Competition": 9,
+        "Manufacturing": 11,
+        "Investment": 4,
+        "Demand": 2
+      }
+    },
+    {
+      "week": "Week 5 (10/16-10/17)",
+      "topicCounts": {
+        "Roadmap": 1,
+        "Competition": 2,
+        "Manufacturing": 3,
+        "Investment": 2,
+        "Demand": 2
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "AI 수요 대응을 위한 글로벌 팹 인프라·생산능력 대규모 확충",
+      "summary": "SEMICON West 논의와 일본의 글로벌파운드리즈 지원 사례에서 보이듯, AI·고성능 컴퓨팅 수요 폭증에 대응하기 위해 미국을 중심으로 신규 팹 건설과 설비 투자가 가속화되고 있다. 이는 공급망 안정과 국가 간 제조 주도권 경쟁을 동시에 강화하는 방향으로 전개되고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "SEMICON West 2026 Displays AI-Era Chipmaking, Workforce Development",
+          "url": "https://www.eetimes.com/semicon-west-2026-displays-ai-era-chipmaking-workforce-development/"
+        },
+        {
+          "source": "EE Times",
+          "title": "Japan Offers GlobalFoundries $21B for U.S. Fab Expansion",
+          "url": "https://www.eetimes.com/japan-offers-globalfoundries-21b-for-u-s-fab-expansion/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "AI 반도체 패권 경쟁의 핵심 변수로 부상한 전문 인력 격차",
+      "summary": "대만의 AI 반도체 전략은 랙-스케일·물리적 AI·AI PC 등에서 기회가 크지만, 숙련된 AI·반도체 인력 부족이 성장 제약 요인으로 떠올랐다. 글로벌 투자와 제조력 경쟁과 더불어, 인재 확보와 교육·훈련 체계가 경쟁력의 핵심 축으로 재부상하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Taiwan’s AI Ambitions Run into Talent Gap",
+          "url": "https://www.eetimes.com/taiwans-ai-ambitions-run-into-talent-gap/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "메모리 중심 컴퓨팅과 차세대 AI 서버 인프라 전환",
+      "summary": "SK하이닉스는 OCP Global Summit 2026에서 메모리 대역폭·용량 한계를 해결하는 메모리 중심 서버 비전을 제시하며, 기존 CPU 중심 구조에서 데이터 이동 병목을 줄이는 아키텍처 전환을 강조했다. AI 워크로드 고도화로 메모리 기술이 시스템 설계의 중심 축으로 이동하는 흐름이 뚜렷해지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "SK hynix Newsroom",
+          "title": "“Memory-Centric Server Systems Are the Future”: SK hynix Presents Its Next-Generation AI Infrastructure Vision at OCP Global Summit 2026",
+          "url": "https://news.skhynix.com/en/ocp-global-summit-2026/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "장비·소재 협업을 통한 반도체 혁신 R&D 플랫폼 구축",
+      "summary": "Applied Materials는 50억 달러 규모 EPIC 센터를 통해 칩 제조사·장비 업체·연구기관을 한곳에 모으는 새로운 협업 모델을 구축하고 있다. 이는 공정·장비·소재 동시 최적화를 통해 개발 기간과 상용화 리스크를 줄이려는 시도로, 차세대 공정·구조 개발의 거점 역할이 기대된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Applied Materials Bets $5B on a New Model for Chip Innovation",
+          "url": "https://www.eetimes.com/applied-materials-bets-5b-on-a-new-model-for-chip-innovation/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "메모리·파운드리 호황을 반영한 삼성전자 실적 모멘텀",
+      "summary": "삼성전자는 2026년 3분기 매출 195조원, 영업이익 107.40조원의 가이던스를 제시했다. AI 인프라 확대에 따른 메모리 수요 회복과 첨단 공정 파운드리 물량 증가가 실적 개선을 견인하는 흐름으로, 업황 턴어라운드가 본격화되는 신호로 해석된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung Electronics Announces Earnings Guidance for Third Quarter 2026",
+          "url": "https://news.samsung.com/global/samsung-electronics-announces-earnings-guidance-for-third-quarter-2026"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-09-18",
+    "to": "2026-10-17"
+  },
+  "kpis": {
+    "collected": 54,
+    "deduped": 54,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 27,
+      "Competition": 26,
+      "Demand": 20,
+      "Investment": 17,
+      "Policy": 9,
+      "Other": 1
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (09/18-09/24)",
+      "topicCounts": {
+        "Roadmap": 10,
+        "Competition": 11,
+        "Demand": 6,
+        "Investment": 7,
+        "Policy": 2
+      }
+    },
+    {
+      "week": "Week 2 (09/25-10/01)",
+      "topicCounts": {
+        "Roadmap": 11,
+        "Competition": 7,
+        "Demand": 7,
+        "Investment": 8,
+        "Policy": 4
+      }
+    },
+    {
+      "week": "Week 3 (10/02-10/08)",
+      "topicCounts": {
+        "Roadmap": 7,
+        "Competition": 4,
+        "Demand": 5,
+        "Investment": 4,
+        "Policy": 2
+      }
+    },
+    {
+      "week": "Week 4 (10/09-10/15)",
+      "topicCounts": {
+        "Roadmap": 9,
+        "Competition": 10,
+        "Demand": 9,
+        "Investment": 9,
+        "Policy": 2
+      }
+    },
+    {
+      "week": "Week 5 (10/16-10/17)",
+      "topicCounts": {
+        "Roadmap": 0,
+        "Competition": 2,
+        "Demand": 2,
+        "Investment": 0,
+        "Policy": 1
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "ev-1",
+      "status": "NEW",
+      "title": "중국산 전기차 대기 수요로 북미·서방 브랜드 수요 위축",
+      "summary": "캐나다 설문에서 상당수 소비자가 중국산 전기차 출시를 기다리며 기존 서방 브랜드 EV 구매를 미루는 것으로 나타났다. 이는 중국 업체의 가격·성능 경쟁력 인식이 높아진 반면, 북미·유럽 완성차는 가격 대비 가치와 제품 매력에서 밀리고 있다는 신호로, 향후 관세·수입 규제 및 브랜드 전략 재조정 이슈로 확산될 가능성이 크다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Trouble: buyers would rather wait for Chinese EVs than buy Western ones",
+          "url": "https://electrek.co/2026/10/16/trouble-buyers-would-rather-wait-for-chinese-evs-than-buy-western-ones/"
+        }
+      ]
+    },
+    {
+      "id": "ev-2",
+      "status": "SHIFTING",
+      "title": "유럽 EV 판매 급증 vs 북미 44% 급락, 글로벌 수요 지형 변화",
+      "summary": "9월 유럽 전기차 판매는 기록적 수준으로 치솟은 반면, 북미는 같은 기간 44% 급락해 지역별 수요 양극화가 뚜렷해지고 있다. 정책 인센티브, 충전 인프라, 중국차 규제·수입 구조 차이가 복합적으로 작용한 것으로 보이며, 글로벌 완성차들은 생산·마케팅 중심 축을 유럽·중국으로 더 옮기고 북미에서는 재고·가격 정책 조정 압박을 받을 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Europe’s EV sales soar as North America drops 44% – here’s the catch",
+          "url": "https://electrek.co/2026/10/15/europes-ev-sales-soar-as-north-america-drops-44-heres-the-catch/"
+        }
+      ]
+    },
+    {
+      "id": "ev-3",
+      "status": "ONGOING",
+      "title": "테슬라 FSD 수면 운전 사고로 자율주행 안전·규제 리스크 재부각",
+      "summary": "캘리포니아에서 FSD를 켠 테슬라가 고속도로 순찰차를 들이받아 경찰관 2명이 중상을 입었고, 운전자는 사고 당시 잠들어 있었다고 진술했다. 시스템 한계와 운전자 책임 범위를 둘러싼 논란이 커지며, 고도 운전자 보조 시스템에 대한 규제 강화, 소프트웨어 안전 기준 상향, 보험·책임 구조 재정비 논의가 계속될 가능성이 높다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla driver says he was asleep on FSD when he hit CHP car, 2 officers hurt",
+          "url": "https://electrek.co/2026/10/16/tesla-fsd-crash-chp-patrol-car-driver-asleep-fairfield/"
+        }
+      ]
+    },
+    {
+      "id": "ev-4",
+      "status": "SHIFTING",
+      "title": "수익성 둔화 속 300억 달러 신용한도, 테슬라 재무 구조 전환 신호",
+      "summary": "테슬라는 최근 수년간 이익이 감소해 수익성 위기에 가까워진 가운데 300억 달러 규모의 신용한도를 새로 열었다. 이는 대규모 설비·로보틱스·AI·신차 개발 투자 여력을 확보하는 동시에, 고금리 환경에서 이자 비용과 재무 레버리지 리스크를 키우는 선택으로, 향후 마진 압박과 추가 자본 조달 여부가 핵심 관전 포인트가 될 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla takes on $30 billion in credit as it approaches unprofitability",
+          "url": "https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/"
+        }
+      ]
+    },
+    {
+      "id": "ev-5",
+      "status": "ONGOING",
+      "title": "BYD, 상용 전기차 15만 대 생산 돌파로 전기 트럭 시장 주도 강화",
+      "summary": "BYD가 장쑤 화이안 공장에서 15만 번째 상용 신에너지차를 생산하며 전기 상용차 분야에서 양산·라인업 경쟁력을 입증했다. 기념 모델은 약 800마력급 Q3 전기 세미 트럭으로, 고출력·장거리 운송 대응 역량을 과시하며 북미·유럽 전기 트럭 진출과 글로벌 상용차 전동화 가속의 전초전 성격을 띤다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "BYD builds 150,000th commercial NEV – an 800 hp Q3 electric semi truck",
+          "url": "https://electrek.co/2026/10/10/byd-builds-150000th-commercial-nev-an-800-hp-q3-electric-semi-truck/"
+        }
+      ]
+    }
+  ]
+}

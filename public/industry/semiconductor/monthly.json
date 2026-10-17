@@ -1,70 +1,70 @@
 {
   "range": {
-    "from": "2026-09-17",
-    "to": "2026-10-16"
+    "from": "2026-09-18",
+    "to": "2026-10-17"
   },
   "kpis": {
     "collected": 70,
     "deduped": 70,
     "uniqueTopics": 7,
     "marketShare": {
-      "Roadmap": 30,
-      "Competition": 27,
-      "Manufacturing": 18,
+      "Roadmap": 29,
+      "Competition": 26,
+      "Manufacturing": 19,
       "Investment": 14,
-      "Demand": 10,
+      "Demand": 11,
       "Other": 1
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (09/17-09/23)",
+      "week": "Week 1 (09/18-09/24)",
       "topicCounts": {
-        "Roadmap": 9,
+        "Roadmap": 12,
         "Competition": 10,
-        "Manufacturing": 9,
-        "Investment": 7,
-        "Demand": 4
+        "Manufacturing": 8,
+        "Investment": 6,
+        "Demand": 5
       }
     },
     {
-      "week": "Week 2 (09/24-09/30)",
+      "week": "Week 2 (09/25-10/01)",
       "topicCounts": {
-        "Roadmap": 11,
-        "Competition": 12,
+        "Roadmap": 15,
+        "Competition": 14,
         "Manufacturing": 5,
         "Investment": 5,
-        "Demand": 7
+        "Demand": 9
       }
     },
     {
-      "week": "Week 3 (10/01-10/07)",
+      "week": "Week 3 (10/02-10/08)",
       "topicCounts": {
-        "Roadmap": 14,
-        "Competition": 11,
-        "Manufacturing": 6,
-        "Investment": 7,
+        "Roadmap": 11,
+        "Competition": 9,
+        "Manufacturing": 5,
+        "Investment": 4,
         "Demand": 1
       }
     },
     {
-      "week": "Week 4 (10/08-10/14)",
+      "week": "Week 4 (10/09-10/15)",
       "topicCounts": {
-        "Roadmap": 7,
-        "Competition": 6,
-        "Manufacturing": 8,
-        "Investment": 3,
-        "Demand": 3
+        "Roadmap": 12,
+        "Competition": 9,
+        "Manufacturing": 11,
+        "Investment": 4,
+        "Demand": 2
       }
     },
     {
-      "week": "Week 5 (10/15-10/16)",
+      "week": "Week 5 (10/16-10/17)",
       "topicCounts": {
-        "Roadmap": 3,
-        "Competition": 3,
-        "Manufacturing": 1,
+        "Roadmap": 1,
+        "Competition": 2,
+        "Manufacturing": 3,
         "Investment": 2,
-        "Demand": 1
+        "Demand": 2
       }
     }
   ],
@@ -72,10 +72,15 @@
     {
       "id": 1,
       "status": "ONGOING",
-      "title": "글로벌파운드리즈 미국 팹 증설에 대한 일본 210억 달러 지원",
-      "summary": "일본 정부가 글로벌파운드리즈의 뉴욕 신규 파운드리 2개 공장 건설에 약 210억 달러를 제안하며 미국 내 파운드리 생산능력을 약 10% 확대하려는 움직임을 보이고 있다. 이는 미·일 동맹을 축으로 한 공급망 재편과 파운드리 경쟁 구도에 직접적인 영향을 주는 대형 투자 이슈다.",
-      "articleCount": 1,
+      "title": "AI 수요 대응을 위한 글로벌 팹 인프라·생산능력 대규모 확충",
+      "summary": "SEMICON West 논의와 일본의 글로벌파운드리즈 지원 사례에서 보이듯, AI·고성능 컴퓨팅 수요 폭증에 대응하기 위해 미국을 중심으로 신규 팹 건설과 설비 투자가 가속화되고 있다. 이는 공급망 안정과 국가 간 제조 주도권 경쟁을 동시에 강화하는 방향으로 전개되고 있다.",
+      "articleCount": 2,
       "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "SEMICON West 2026 Displays AI-Era Chipmaking, Workforce Development",
+          "url": "https://www.eetimes.com/semicon-west-2026-displays-ai-era-chipmaking-workforce-development/"
+        },
         {
           "source": "EE Times",
           "title": "Japan Offers GlobalFoundries $21B for U.S. Fab Expansion",
@@ -85,9 +90,37 @@
     },
     {
       "id": 2,
+      "status": "ONGOING",
+      "title": "AI 반도체 패권 경쟁의 핵심 변수로 부상한 전문 인력 격차",
+      "summary": "대만의 AI 반도체 전략은 랙-스케일·물리적 AI·AI PC 등에서 기회가 크지만, 숙련된 AI·반도체 인력 부족이 성장 제약 요인으로 떠올랐다. 글로벌 투자와 제조력 경쟁과 더불어, 인재 확보와 교육·훈련 체계가 경쟁력의 핵심 축으로 재부상하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Taiwan’s AI Ambitions Run into Talent Gap",
+          "url": "https://www.eetimes.com/taiwans-ai-ambitions-run-into-talent-gap/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "메모리 중심 컴퓨팅과 차세대 AI 서버 인프라 전환",
+      "summary": "SK하이닉스는 OCP Global Summit 2026에서 메모리 대역폭·용량 한계를 해결하는 메모리 중심 서버 비전을 제시하며, 기존 CPU 중심 구조에서 데이터 이동 병목을 줄이는 아키텍처 전환을 강조했다. AI 워크로드 고도화로 메모리 기술이 시스템 설계의 중심 축으로 이동하는 흐름이 뚜렷해지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "SK hynix Newsroom",
+          "title": "“Memory-Centric Server Systems Are the Future”: SK hynix Presents Its Next-Generation AI Infrastructure Vision at OCP Global Summit 2026",
+          "url": "https://news.skhynix.com/en/ocp-global-summit-2026/"
+        }
+      ]
+    },
+    {
+      "id": 4,
       "status": "NEW",
-      "title": "Applied Materials의 50억 달러 EPIC 센터, 차세대 반도체 혁신 플랫폼 구축",
-      "summary": "Applied Materials가 칩 제조사, 장비 업체, 연구기관을 한데 모으는 EPIC 센터에 50억 달러를 투자해 공동 R&D와 상용화 속도를 높이려 한다. 공정·장비·소재를 통합 실증하는 오픈 혁신 허브로, 첨단 노드와 후공정 패키징 경쟁에서 선도권 확보를 노리는 전략적 인프라 투자다.",
+      "title": "장비·소재 협업을 통한 반도체 혁신 R&D 플랫폼 구축",
+      "summary": "Applied Materials는 50억 달러 규모 EPIC 센터를 통해 칩 제조사·장비 업체·연구기관을 한곳에 모으는 새로운 협업 모델을 구축하고 있다. 이는 공정·장비·소재 동시 최적화를 통해 개발 기간과 상용화 리스크를 줄이려는 시도로, 차세대 공정·구조 개발의 거점 역할이 기대된다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -98,44 +131,16 @@
       ]
     },
     {
-      "id": 3,
+      "id": 5,
       "status": "NEW",
-      "title": "삼성전자 2026년 3분기 실적 가이던스, 반도체 사이클 회복 신호",
-      "summary": "삼성전자가 2026년 3분기 연결 매출 약 195조원, 영업이익 약 107.40조원을 제시하며 메모리·파운드리 수요 회복과 가격 개선을 시사했다. AI 서버와 고대역폭 메모리(HBM) 등 고부가 제품이 실적을 견인한 것으로 해석되며, 글로벌 반도체 업황 반등의 대표 지표로 주목된다.",
+      "title": "메모리·파운드리 호황을 반영한 삼성전자 실적 모멘텀",
+      "summary": "삼성전자는 2026년 3분기 매출 195조원, 영업이익 107.40조원의 가이던스를 제시했다. AI 인프라 확대에 따른 메모리 수요 회복과 첨단 공정 파운드리 물량 증가가 실적 개선을 견인하는 흐름으로, 업황 턴어라운드가 본격화되는 신호로 해석된다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Samsung Newsroom",
           "title": "Samsung Electronics Announces Earnings Guidance for Third Quarter 2026",
           "url": "https://news.samsung.com/global/samsung-electronics-announces-earnings-guidance-for-third-quarter-2026"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "status": "ONGOING",
-      "title": "전력망 현대화로 커지는 OT 사이버 공격 표면, 반도체 기반 인프라 보안 이슈 부각",
-      "summary": "스마트그리드·분산자원 확대 등 전력망 현대화로 IT·OT 네트워크가 밀접히 연결되면서, 변전소·센서·제어 시스템 등 반도체 기반 자산의 사이버 공격 표면이 빠르게 늘고 있다. OT 가시성 부족과 보안 설계 미비가 전력·산업 인프라 리스크로 부상하면서, 보안 기능 내장형(secure-by-design) 칩과 산업용 반도체 보안 솔루션 수요가 커질 전망이다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "EE Times",
-          "title": "Grid Modernization’s Hidden Cost: A Growing Attack Surface Few Are Watching",
-          "url": "https://www.eetimes.com/grid-modernization-hidden-cost-a-growing-attack-surface-few-are-watching/"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "status": "NEW",
-      "title": "삼성 실리콘밸리 Future Wireless Summit 2026, 차세대 무선·칩 로드맵 논의",
-      "summary": "삼성전자가 마운틴뷰에서 Future Wireless Summit 2026을 개최해 통신사·장비사·정부와 함께 6G를 포함한 차세대 무선 기술과 협력 방안을 논의했다. 기지국·모뎀 등 통신용 반도체와 RF·안테나 집적 칩의 향후 요구사항이 논의되며, 무선 인프라용 파운드리·시스템 반도체 로드맵 형성에 영향을 줄 수 있는 이벤트다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Samsung Newsroom",
-          "title": "Samsung Hosts Silicon Valley Future Wireless Summit 2026",
-          "url": "https://news.samsung.com/global/samsung-hosts-silicon-valley-future-wireless-summit-2026"
         }
       ]
     }

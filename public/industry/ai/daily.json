@@ -1,132 +1,130 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "highlights": {
     "bullets": [
-      "핵심: Muse Spark Open 모델이 코딩에 최적화된 MoE 아키텍처로 공개되었습니다.",
-      "핵심: Antigravity 도구로 항미생물 펩타이드 후보 탐색이 머신러닝으로 가속화되었습니다.",
-      "트렌드: 모델, 도구, 인프라를 결합해 실험·검증·배포를 가속화하는 경향이 관찰됩니다."
+      "핵심: 인디크 언어 사전학습용 2.8조 토큰 규모의 오픈 데이터 파이프라인이 공개되었다.",
+      "핵심: 501B 규모의 오픈 모델 Beam이 공개되어 사용자가 모델을 소유·맞춤·확장할 수 있게 됐다.",
+      "트렌드: 오픈 데이터·오픈 모델과 개발·배포 도구를 통한 AI 확장 및 실사용 도입이 공통으로 강조되었다."
     ],
     "topTopics": [
       "Tooling",
-      "Models",
-      "Research",
-      "Inference"
+      "Product",
+      "Infra",
+      "Models"
     ],
     "stats": {
-      "collected": 9,
-      "deduped": 9
+      "collected": 5,
+      "deduped": 5
     }
   },
   "cards": [
     {
       "id": "ai_0001",
       "tab": "ai",
-      "publishedAt": "2026-10-16T03:00:01+09:00",
-      "source": "NVIDIA Developer Blog",
-      "title": "Scale Agentic Coding Workflows with Meta’s Muse Spark Open on NVIDIA GB300 NVL72",
+      "publishedAt": "2026-10-16T10:44:47+09:00",
+      "source": "Hugging Face Blog",
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
       "summary": [
-        "Meta가 코딩에 최적화된 Muse Spark Open 816B MoE 모델을 공개했다.",
-        "모델은 42B 활성 파라미터와 100만 토큰 컨텍스트 윈도우를 지원한다.",
-        "NVIDIA GB300 NVL72에서 스케일링되어 에이전트형 코딩 워크플로를 가속화한다."
+        "인디크(Indic) 언어 대상 대규모 사전학습을 위해 총 2.8조 토큰 규모의 데이터 파이프라인을 공개했다.",
+        "데이터 수집·정제·중복 제거를 자동화한 오픈 데이터 생성 파이프라인으로 재현성·라이선스 문제를 해결했다.",
+        "대규모 모델 학습과 지역 언어 성능 향상, 커뮤니티 접근성 개선에 기여한다."
       ],
-      "whyItMatters": "대규모 MoE 구조와 1M 토큰 컨텍스트, NVIDIA 하드웨어 결합으로 대화형·에이전트 기반 코딩의 성능과 확장성이 획기적으로 개선될 가능성이 크다.",
+      "whyItMatters": "지역 언어 자원 부족을 해소해 연구·제품의 성능·공정성·접근성을 크게 높일 잠재력이 있다.",
       "topics": [
+        "Data",
+        "Tooling",
         "Models",
-        "Infra",
-        "Inference",
-        "Tooling"
+        "Research"
       ],
-      "status": "NEW",
-      "hash": "da7a313328786ce16d4c27bbdba913cec9de5bb35cbfec866abcb21134be1212",
-      "url": "https://developer.nvidia.com/blog/scale-agentic-coding-workflows-with-metas-muse-spark-open-on-nvidia-gb300-nvl72/"
+      "status": "ONGOING",
+      "hash": "138e9b7e7d9747243aa585f555fbf6f3d58b687e3498b374de6b74802266db21",
+      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
     },
     {
       "id": "ai_0002",
       "tab": "ai",
-      "publishedAt": "2026-10-16T01:08:03+09:00",
-      "source": "Google DeepMind Blog",
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "publishedAt": "2026-10-16T09:00:00+09:00",
+      "source": "Hugging Face Blog",
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
       "summary": [
-        "구글 Antigravity for Science를 활용해 항미생물 펩타이드(AMP) 후보 탐색을 가속화했습니다.",
-        "머신러닝 기반 모델로 후보 설계와 평가를 자동화해 실험 시간과 비용을 줄였습니다.",
-        "이 접근법은 신약 개발 파이프라인과 공개 도구·데이터 확장에 기여할 잠재력이 큽니다."
+        "Hugging Face가 501B 규모의 오픈 모델 'Beam'을 공개했다.",
+        "사용자가 모델을 소유하고 직접 맞춤화하며 확장할 수 있도록 배포와 파인튜닝을 지원한다.",
+        "배포·관리 도구와 인프라 통합을 통해 엔터프라이즈 적용과 연구 활용을 촉진한다."
       ],
-      "whyItMatters": "항생제 내성 대응과 신약 후보 발굴 속도를 크게 높여 공중보건에 중대한 영향을 미치기 때문입니다.",
+      "whyItMatters": "대형 모델을 공개적으로 제공해 자체 호스팅·맞춤화로 제품화와 연구 가속을 가능하게 하기 때문이다.",
       "topics": [
-        "Research",
         "Models",
         "Tooling",
-        "Safety"
+        "Infra",
+        "Product"
       ],
-      "status": "ONGOING",
-      "hash": "ad09b0946a60b7ff505a8aa281960497bee4e76e2a76825472b127adf5a2ba1b",
-      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/"
+      "status": "NEW",
+      "hash": "c9a6184923cc1a5837b490017ed569bb9f0183f7b39ff2df0ab9b46fbcc327c4",
+      "url": "https://huggingface.co/blog/reflection-beam"
     },
     {
       "id": "ai_0003",
       "tab": "ai",
-      "publishedAt": "2026-10-16T01:00:00+09:00",
-      "source": "Microsoft Research Blog",
-      "title": "Proof-based general-purpose computing with Magnetar",
+      "publishedAt": "2026-10-17T04:00:00+09:00",
+      "source": "OpenAI Blog",
+      "title": "How Itaú is building generative AI for its entire customer base",
       "summary": [
-        "Magnetar는 표준 프로그래밍 언어 지원과 양자저항 보안을 갖춘 영지식증명 기반 범용 컴퓨팅 솔루션이다.",
-        "영지식증명으로 계산 결과를 재실행하거나 민감 데이터를 노출하지 않고도 검증할 수 있다.",
-        "주요 성능 향상으로 실무 적용 가능성을 크게 높여 대중화에 한 걸음 다가섰다."
+        "Itaú는 ia.i 대화형 인터페이스와 IARA 거버넌스 플랫폼으로 전 고객 대상 생성형 AI를 구축하고 있습니다.",
+        "고객과 직원 모두를 위한 AI First 전략을 규제가 엄격한 브라질 금융권에서 운영하고 있습니다.",
+        "거버넌스·규제준수와 대규모 서비스 운영이 주요 기술·운영 과제로 떠오르고 있습니다."
       ],
-      "whyItMatters": "검증 비용과 데이터 노출을 크게 줄여 보안·컴플라이언스가 중요한 시스템에 즉각적이고 광범위한 영향을 줄 수 있기 때문이다.",
+      "whyItMatters": "규모가 큰 은행이 규제가 엄격한 시장에서 고객과 직원 전체를 대상으로 생성형 AI를 도입해 제품·거버넌스·컴플라이언스에 큰 영향을 미치기 때문입니다.",
       "topics": [
-        "Research",
+        "Product",
         "Tooling",
-        "Infra",
-        "Safety"
+        "Safety",
+        "Infra"
       ],
-      "status": "NEW",
-      "hash": "2b0a4f23c4eeb155767a83882c09836d91efd5a4fa34b525a7de8528892ce30b",
-      "url": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/"
+      "status": "ONGOING",
+      "hash": "9732b2763df5a67ab9455b8255aee23064fe436ed165bb52468ec0f54969accf",
+      "url": "https://openai.com/index/itau-generative-ai"
     },
     {
       "id": "ai_0004",
       "tab": "ai",
-      "publishedAt": "2026-10-15T09:00:00+09:00",
-      "source": "Hugging Face Blog",
-      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "publishedAt": "2026-10-17T02:00:00+09:00",
+      "source": "NVIDIA Developer Blog",
+      "title": "Code, Test, and Deploy on One Machine with NVIDIA RTX Spark",
       "summary": [
-        "Meta가 공개한 Muse Spark Open은 오픈-웨이트로 제공되는 최첨단 멀티모달 MoE 모델입니다.",
-        "Hugging Face에서 배포되어 연구자와 개발자가 직접 실험하고 응용할 수 있습니다.",
-        "대규모 MoE 구조로 멀티모달 성능 향상과 효율적 확장 가능성을 제공합니다."
+        "NVIDIA가 RTX Spark로 한 대의 머신에서 코딩·테스트·배포까지 가능한 통합 개발 환경을 제시했습니다.",
+        "AI 에이전트를 활용해 개발자가 코드 생성을 지시하고 자동으로 검증·배포할 수 있도록 설계되었습니다.",
+        "로컬 GPU 기반 워크플로우로 개발 속도와 반복 주기를 단축하고 보안·비용 측면에서 이점을 노립니다."
       ],
-      "whyItMatters": "오픈 소스 가중치와 MoE 설계는 멀티모달 연구·응용의 접근성, 검증 가능성, 확장성을 동시에 크게 향상시키기 때문입니다.",
+      "whyItMatters": "로컬에서 엔드투엔드 개발·배포를 통합하면 생산성과 보안·비용 효율을 동시에 개선할 잠재력이 크기 때문입니다.",
       "topics": [
-        "Models",
-        "Research",
         "Tooling",
-        "Infra"
+        "Infra",
+        "Product"
       ],
       "status": "NEW",
-      "hash": "ff0cf28c5d7530571030bbc53285abf8be3ed6fb11c617ba5f382a8208219854",
-      "url": "https://huggingface.co/blog/meta-muse-spark-open"
+      "hash": "b4f80026218d11971f350069559aafd669a7765c9b521669ebb64e24e82ca355",
+      "url": "https://developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark/"
     },
     {
       "id": "ai_0005",
       "tab": "ai",
-      "publishedAt": "2026-10-16T05:34:01+09:00",
-      "source": "Hugging Face Blog",
-      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "publishedAt": "2026-10-16T09:00:00+09:00",
+      "source": "OpenAI Blog",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
       "summary": [
-        "Hugging Face가 Granite Switch 4.1을 발표해 하나의 엔드포인트로 채팅, 의사결정, 음성 처리를 지원한다.",
-        "단일 API로 멀티모달 입력·출력과 결정을 통합해 개발과 운영의 복잡도를 낮춘다.",
-        "제품화와 배포를 간소화하는 툴링 및 인프라 개선을 포함해 실서비스 적용이 쉬워졌다."
+        "Stack Overflow for Agents가 몇 주 만에 Codex로 개발·출시되었습니다.",
+        "ChatGPT 플러그인 도입으로 가입자가 세 배로 증가했습니다.",
+        "에이전트 생성이 최대 10배까지 급증하며 빠른 채택이 일어났습니다."
       ],
-      "whyItMatters": "한 엔드포인트에서 여러 기능을 통합하면 통합 비용과 개발 시간을 줄이고 멀티모달 애플리케이션 출시를 가속화하기 때문이다.",
+      "whyItMatters": "빠른 개발과 플러그인 기반 유입이 제품 확산과 에이전트 생태계 성장에 직접적인 영향을 미치기 때문입니다.",
       "topics": [
-        "Models",
-        "Inference",
+        "Product",
         "Tooling",
-        "Product"
+        "Business"
       ],
-      "status": "NEW",
-      "hash": "d330643595776f9f542e9f48a636499dcc2c3968ee0ccb07e6ba5a41a8cbcae0",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1"
+      "status": "ONGOING",
+      "hash": "9e63539289a31c8631b61e2dab00ee4355731974576a94679adaae67ea1b4655",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
     }
   ]
 }
