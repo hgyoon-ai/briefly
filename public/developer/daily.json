@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "kpis": {
     "clusters": 20,
     "sources": 2,
@@ -7,407 +7,298 @@
   },
   "clusters": [
     {
-      "id": "c6d96103ab8a45e8c60087db5f94f4b6409ce0f9",
-      "name": "Tesla Roadster",
+      "id": "021db31ab24a3f4eafc092049f625c461735cf4a",
+      "name": "DeepSeek-v4.1-Flash-1017",
       "section": "discussions",
       "status": "NEW",
-      "score": 3089.4,
-      "oneLiner": "Tesla Roadster 공식 웹페이지로 연결되는 테슬라 제품 소개 링크",
+      "score": 1069.2,
+      "oneLiner": "DeepSeek v4.1 Flash 1017 모델 정보",
       "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "1109p · 2020c"
+          "value": "664p · 559c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50112657"
+          "url": "https://news.ycombinator.com/item?id=50129045"
         },
         {
           "label": "Source",
-          "url": "https://www.tesla.com/roadster"
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
         }
       ],
       "tags": []
     },
     {
-      "id": "3e8d642a210a3776da3a54c1e08578c2a52ee654",
-      "name": "Claude reveals ECDSA curve origins",
+      "id": "c51a9c1f563807dfe99576d11c32b8f87028ae04",
+      "name": "Solar surpasses nuclear power globally for first time",
       "section": "discussions",
       "status": "NEW",
-      "score": 660.0,
-      "oneLiner": "Claude가 ECDSA 곡선 기원에 관해 밝힌 내용을 다룬 토론 링크",
-      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "598p · 251c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50122800"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.anthropic.com/research/ecdsa-curve-origins"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "987ebe2dd78041ab725788b6e1636a091c98aff9",
-      "name": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 610.2,
-      "oneLiner": "미국 근무 시간의 90%가 AI 벤치마크로 잘 다뤄지지 않는다고 지적한 분석 글",
-      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "373p · 322c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50121179"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.mercor.com/research/labor-index/benchmark-map/"
-        }
-      ],
-      "tags": [
-        "eval"
-      ]
-    },
-    {
-      "id": "8c7b89f6525180a86f7b0bea5e401e8cc310093b",
-      "name": "Waymo in Toronto",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 561.6,
-      "oneLiner": "Waymo의 토론토 활동과 관련 내용을 소개하는 공식 블로그 게시물",
-      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "244p · 346c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50118981"
-        },
-        {
-          "label": "Source",
-          "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "9b66ed6fc60b9fa15bb9b5d2631ab1ba7b0b8181",
-      "name": "I Love Software Rendering",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 389.4,
-      "oneLiner": "소프트웨어 렌더링에 대한 애정과 기술적 고찰을 담은 개인 글",
+      "score": 622.8,
+      "oneLiner": "태양광이 전 세계에서 원자력을 처음으로 추월했다",
       "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "279p · 185c"
+          "value": "450p · 294c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50117746"
+          "url": "https://news.ycombinator.com/item?id=50131256"
         },
         {
           "label": "Source",
-          "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/"
+          "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/"
         }
       ],
       "tags": []
     },
     {
-      "id": "3ac563ac0225bf8dc45e236932cb6b9341abf8c0",
-      "name": "Saffsanity/sill",
-      "section": "releases",
+      "id": "af126a5b9adb38501e8735247e50e52d5363846f",
+      "name": "OpenCode Hacked: User credentials leaked",
+      "section": "discussions",
       "status": "NEW",
-      "score": 371.12,
-      "oneLiner": "Mac 창을 iPhone이나 iPad에서 실시간으로 조작하는 무료 오픈소스 도구 설명",
-      "whyNow": "릴리즈 직후라 적용/마이그레이션 경험이 모이고 있습니다.",
+      "score": 555.6,
+      "oneLiner": "OpenCode 사용자 자격증명 유출 보고",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
       "evidence": [
-        {
-          "source": "GitHub",
-          "metric": "stars",
-          "value": "2,772"
-        },
-        {
-          "source": "GitHub",
-          "metric": "forks",
-          "value": "132"
-        },
-        {
-          "source": "GitHub",
-          "metric": "updated",
-          "value": "2026-10-17"
-        },
-        {
-          "source": "GitHub",
-          "metric": "release",
-          "value": "v0.5.1"
-        },
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "248p · 74c"
+          "value": "686p · 120c"
         }
       ],
       "links": [
         {
-          "label": "GitHub",
-          "url": "https://github.com/Saffsanity/sill"
-        },
-        {
-          "label": "Release",
-          "url": "https://github.com/Saffsanity/sill/releases/tag/v0.5.1"
-        },
-        {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50112739"
+          "url": "https://news.ycombinator.com/item?id=50133401"
+        },
+        {
+          "label": "Source",
+          "url": "https://twitter.com/opencode/status/2111516673953935833"
         }
       ],
       "tags": []
     },
     {
-      "id": "e220acb613218d6140c5eb1a4e24edb4d80dc01d",
-      "name": "How the Claude Code team does code review",
+      "id": "b1beef8b8391ad41971df2fc17f3d6ffe5e099c3",
+      "name": "Butlerian Jihad",
       "section": "discussions",
       "status": "NEW",
-      "score": 348.0,
-      "oneLiner": "Claude Code 팀의 코드 리뷰 방식과 해결책을 설명하는 경험 공유 글",
+      "score": 508.8,
+      "oneLiner": "Butlerian Jihad 관련 문서",
       "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "202p · 189c"
+          "value": "356p · 246c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50122951"
+          "url": "https://news.ycombinator.com/item?id=50127274"
         },
         {
           "label": "Source",
-          "url": "https://claude.dev/blog/solving-code-review-at-anthropic/"
+          "url": "https://dune.fandom.com/wiki/Butlerian_Jihad"
         }
       ],
       "tags": []
     },
     {
-      "id": "a0403e2db2bf724d122c83911d666a54baa0762b",
-      "name": "Desire to Move Permanently to U.S. at New Low",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 336.0,
-      "oneLiner": "미국으로의 영구 이주 의향이 새 저점을 기록했다는 갤럽 여론조사 보도",
-      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "186p · 187c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50120664"
-        },
-        {
-          "label": "Source",
-          "url": "https://news.gallup.com/poll/708614/desire-migrate-drops-new-low.aspx"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "95d3f37978deafdb9af970a16fbdff961c5b838e",
-      "name": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+      "id": "06bf44dab03545d2ec2de1412608a4cadaa715ce",
+      "name": "DeepSeek: DeepSeek v4.1 Flash 1017",
       "section": "trending",
       "status": "NEW",
-      "score": 288.0,
-      "oneLiner": "MLX 기반 분산 추론과 Mac Studio에서 Muse Spark Open을 다룬 Apple ML 연구 게시물",
-      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
+      "score": 312.6,
+      "oneLiner": "DeepSeek v4.1 Flash 1017 관련 자료",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "252p · 114c"
+          "value": "511p · 5c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50118320"
+          "url": "https://news.ycombinator.com/item?id=50129121"
         },
         {
           "label": "Source",
-          "url": "https://machinelearning.apple.com/research/mlx-distributed-inference"
+          "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017"
         }
       ],
       "tags": []
     },
     {
-      "id": "164ff0dd028e3b53f6ffec47797d92d9015c75f4",
-      "name": "JPEG XL vs. AVIF for web use-cases",
+      "id": "24777c8029b889a64f711a982d93c34bf6d9a2a5",
+      "name": "US federal budget deficit jumps 12% in one year to nearly $2 Trillion",
       "section": "discussions",
       "status": "NEW",
-      "score": 280.2,
-      "oneLiner": "웹 사용 사례에서 JPEG XL과 AVIF를 비교 분석한 기술 블로그 글",
+      "score": 305.4,
+      "oneLiner": "미국 연방 예산 적자가 1년 새 12% 증가해 거의 2조 달러에 달했다",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "169p · 170c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50131440"
+        },
+        {
+          "label": "Source",
+          "url": "https://finance.yahoo.com/economy/policy/article/the-us-federal-budget-deficit-for-2026-just-came-in-its-1992-trillion-191917669.html"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "05225499c54f5e361fc672f69b6087358c60412a",
+      "name": "GLP-1 may slow biological aging",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 278.4,
+      "oneLiner": "GLP-1이 생물학적 노화를 늦출 수 있다는 연구",
       "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "183p · 142c"
+          "value": "162p · 151c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50120224"
+          "url": "https://news.ycombinator.com/item?id=50132328"
         },
         {
           "label": "Source",
-          "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/"
+          "url": "https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging"
         }
       ],
       "tags": []
     },
     {
-      "id": "dfe6b7b9b45aabb219576eb1708afb7b329bce12",
-      "name": "RPKI now protects 70% of internet routes",
+      "id": "eb07c61b528bfbb5800a99713b03542a961c6a12",
+      "name": "Gold is now the top U.S. export",
       "section": "trending",
       "status": "NEW",
-      "score": 256.2,
-      "oneLiner": "RPKI가 인터넷 경로의 70%를 보호한다는 내용을 전한 관련 보도",
-      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "score": 243.6,
+      "oneLiner": "금이 현재 미국의 최다 수출품이 되었다",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "219p · 104c"
+          "value": "190p · 108c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50112330"
+          "url": "https://news.ycombinator.com/item?id=50132870"
         },
         {
           "label": "Source",
-          "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes"
+          "url": "https://www.numismaticnews.net/gold-now-top-u-s-export"
         }
       ],
       "tags": []
     },
     {
-      "id": "5450988857f79bb08cd45388a8a5beccabaf7145",
-      "name": "US Rep Announces Congressional Legislation to Protect Video Game Ownership",
+      "id": "597ef63b5832972df541ca5b54ed3c32e35f7a6e",
+      "name": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
       "section": "trending",
       "status": "NEW",
-      "score": 231.6,
-      "oneLiner": "비디오 게임 소유권 보호를 위한 의회 입법 발표에 관한 뉴스 보도",
-      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 개발자 경험 개선 관점에서 관심이 커지고 있습니다.",
+      "score": 231.0,
+      "oneLiner": "Llmspeed로 로컬 LLM 성능을 하드웨어 구입 전에 체험",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "182p · 102c"
+          "value": "235p · 75c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50120101"
+          "url": "https://news.ycombinator.com/item?id=50127979"
         },
         {
           "label": "Source",
-          "url": "https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games"
+          "url": "https://llmspeed.dev/"
         }
       ],
-      "tags": [
-        "editor"
-      ]
+      "tags": []
     },
     {
-      "id": "befba5a8526e0a0fbd040ac5bd6c8358629b2288",
-      "name": "Show HN: Gemini 4 Argon plays StarCraft",
+      "id": "80157729d75db65a020a5e32c12814db37cdc5de",
+      "name": "Making chicken transparent using Dorito dust",
       "section": "trending",
       "status": "NEW",
-      "score": 213.0,
-      "oneLiner": "Gemini 4 Argon이 스타크래프트를 플레이하는 모습을 보여주는 벤치마크 글",
+      "score": 220.8,
+      "oneLiner": "Dorito 가루로 닭을 투명하게 만드는 방법",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 블로그 해석과 후기가 빠르게 붙는 흐름입니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "240p · 64c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50131213"
+        },
+        {
+          "label": "Source",
+          "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "002d1264d6835c2bfe897960d8ebf2d36b8a2266",
+      "name": "MapQuest will now show you where Flock cameras are in your neighborhood",
+      "section": "trending",
+      "status": "NEW",
+      "score": 210.0,
+      "oneLiner": "MapQuest가 동네의 Flock 카메라 위치를 표시한다",
       "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "181p · 87c"
+          "value": "258p · 46c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50118688"
+          "url": "https://news.ycombinator.com/item?id=50129947"
         },
         {
           "label": "Source",
-          "url": "https://starskirmish.com/bench/v0-2/"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "6fc3cbce9bb7b78a0b818f770f4a3deb05fd4cd6",
-      "name": "Anthropic assigned highest junk credit rating in June",
-      "section": "trending",
-      "status": "NEW",
-      "score": 189.0,
-      "oneLiner": "Anthropic이 6월에 최고 등급의 정크 신용 등급을 받았다는 보도 기사",
-      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "197p · 59c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50122112"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d"
+          "url": "https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/"
         }
       ],
       "tags": []
@@ -417,29 +308,29 @@
       "name": "jhaizhou-ops/d2r-mobile",
       "section": "releases",
       "status": "ONGOING",
-      "score": 181.58,
-      "oneLiner": "Diablo II: Resurrected를 iOS/macOS에서 실행하는 오픈소스 호환 레이어 프로젝트 설명",
-      "whyNow": "릴리즈 직후라 적용/마이그레이션 경험이 모이고 있습니다. 운영/비용 관점 해석이 갈리며 논의가 이어지고 있습니다.",
+      "score": 189.26,
+      "oneLiner": "iOS/macOS에서 Diablo II: Resurrected를 구동하는 오픈소스 호환층",
+      "whyNow": "업데이트가 트리거가 되어 레퍼런스가 모이는 구간입니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "3,528"
+          "value": "3,705"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "1,023"
+          "value": "1,053"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-10-16"
+          "value": "2026-10-17"
         },
         {
           "source": "GitHub",
           "metric": "release",
-          "value": "v1.0.17"
+          "value": "v1.0.18"
         }
       ],
       "links": [
@@ -449,7 +340,7 @@
         },
         {
           "label": "Release",
-          "url": "https://github.com/jhaizhou-ops/d2r-mobile/releases/tag/v1.0.17"
+          "url": "https://github.com/jhaizhou-ops/d2r-mobile/releases/tag/v1.0.18"
         }
       ],
       "tags": [
@@ -457,28 +348,28 @@
       ]
     },
     {
-      "id": "2907deda94d73593fb8c8f1b6b773a16f45a0b44",
-      "name": "The Folders Programming Language",
+      "id": "b9366e5ae3981500ed2d535aa9a73673bca18f8d",
+      "name": "Amazon uses AI to monitor union risk in UK warehouses",
       "section": "trending",
       "status": "NEW",
-      "score": 163.8,
-      "oneLiner": "Folders라는 이름의 프로그래밍 언어 개념을 소개하는 글 링크",
-      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "score": 154.2,
+      "oneLiner": "아마존이 영국 창고에서 노조 위험을 AI로 감시한다",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "201p · 36c"
+          "value": "143p · 57c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50114342"
+          "url": "https://news.ycombinator.com/item?id=50132278"
         },
         {
           "label": "Source",
-          "url": "https://danieltemkin.com/esolangs/folders"
+          "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/"
         }
       ],
       "tags": []
@@ -488,24 +379,24 @@
       "name": "onehumanbeing/esp32-iphone-agent",
       "section": "releases",
       "status": "ONGOING",
-      "score": 141.44,
-      "oneLiner": "저가 ESP32로 실제 아이폰을 AI 모델이 제어하도록 하는 오픈소스 프로젝트 설명",
+      "score": 147.5,
+      "oneLiner": "ESP32로 실제 아이폰을 AI 모델이 사용하도록 하는 프로젝트",
       "whyNow": "최근 릴리즈가 나오며 실사용 공유가 빠르게 늘고 있습니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "2,852"
+          "value": "2,994"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "368"
+          "value": "387"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-10-16"
+          "value": "2026-10-17"
         },
         {
           "source": "GitHub",
@@ -528,23 +419,77 @@
       ]
     },
     {
+      "id": "fa31023050c79687ff4b55b477b3b456b372c6df",
+      "name": "Israeli settlers attack olive framers & Washington Post journalist in West Bank",
+      "section": "trending",
+      "status": "NEW",
+      "score": 144.6,
+      "oneLiner": "이스라엘 정착민이 요르단강 서안의 올리브 농부와 기자를 공격했다",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "139p · 51c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50128297"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "8e78bfaa3a0a2eb0f75419ad0f85ead94ea135a0",
+      "name": "Dam removals are bringing fish back across the northeastern United States",
+      "section": "trending",
+      "status": "NEW",
+      "score": 143.4,
+      "oneLiner": "댐 철거로 미국 북동부에서 물고기 서식지가 돌아오고 있다",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "149p · 45c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50126312"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/"
+        }
+      ],
+      "tags": []
+    },
+    {
       "id": "61731ce00dd5bfdb8571ce70504bfc2c5f733a76",
       "name": "Arekejoker/qwen21-nsfw-pose-skill",
       "section": "releases",
       "status": "ONGOING",
-      "score": 130.4,
-      "oneLiner": "Qwen-Image 2.1용 NSFW 및 자세 생성 스킬과 관련 자료를 제공하는 저장소 설명",
+      "score": 135.4,
+      "oneLiner": "Qwen-Image 2.1용 NSFW 자세 생성 스킬과 도구 모음",
       "whyNow": "업데이트가 트리거가 되어 레퍼런스가 모이는 구간입니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "2,514"
+          "value": "2,632"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "492"
+          "value": "506"
         },
         {
           "source": "GitHub",
@@ -570,28 +515,55 @@
       "tags": []
     },
     {
+      "id": "4ecc6495fee8d36db3eda3a45b9dcb8ba249c171",
+      "name": "Pele – Mermaid diagrams as themeable SVG",
+      "section": "trending",
+      "status": "NEW",
+      "score": 134.4,
+      "oneLiner": "Pele로 Mermaid 다이어그램을 테마 가능한 SVG로 변환",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "186p · 19c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50132193"
+        },
+        {
+          "label": "Source",
+          "url": "https://pele.run/"
+        }
+      ],
+      "tags": []
+    },
+    {
       "id": "730b29a74eeb2c0820193fdf71db333fbf11ba62",
       "name": "liseami/CCBaga",
       "section": "releases",
       "status": "ONGOING",
-      "score": 120.88,
+      "score": 127.9,
       "oneLiner": "오픈 소스 개발 도구/프로젝트입니다.",
       "whyNow": "버전 업데이트 이후 재확산이 시작된 흐름입니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "2,402"
+          "value": "2,569"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "240"
+          "value": "257"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-10-16"
+          "value": "2026-10-17"
         },
         {
           "source": "GitHub",
@@ -612,43 +584,34 @@
       "tags": []
     },
     {
-      "id": "d8c4bc91afbf209a36a2d11774acf0a89cfac416",
-      "name": "opengeos/RustGIS",
-      "section": "releases",
+      "id": "ed4168b692c4ffc8abd839989f537d1695cb5d4d",
+      "name": "HeyPuter/everything",
+      "section": "trending",
       "status": "NEW",
-      "score": 77.56,
-      "oneLiner": "순수 러스트로 구현한 빠르고 무료인 오픈소스 GIS 프로젝트 소개",
-      "whyNow": "최근 릴리즈가 나오며 실사용 공유가 빠르게 늘고 있습니다.",
+      "score": 87.8,
+      "oneLiner": "세계 소프트웨어를 처음부터 재구축해 오픈소스로 공개하려는 프로젝트",
+      "whyNow": "활동성과 관심도가 같이 살아 있는 프로젝트입니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "1,348"
+          "value": "2,048"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "182"
+          "value": "294"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-10-16"
-        },
-        {
-          "source": "GitHub",
-          "metric": "release",
-          "value": "v0.3.0"
+          "value": "2026-10-17"
         }
       ],
       "links": [
         {
           "label": "GitHub",
-          "url": "https://github.com/opengeos/RustGIS"
-        },
-        {
-          "label": "Release",
-          "url": "https://github.com/opengeos/RustGIS/releases/tag/v0.3.0"
+          "url": "https://github.com/HeyPuter/everything"
         }
       ],
       "tags": []
