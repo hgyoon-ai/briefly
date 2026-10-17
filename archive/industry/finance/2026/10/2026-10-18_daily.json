@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-18",
+  "highlights": {
+    "bullets": [
+      "핵심: 코스피 급락으로 6~15일 반대매매 규모가 약 2,981억원에 달해 개인들이 강제 손절했다.",
+      "핵심: 레버리지 상품 수익률이 평균 약 -33%로 하락해 투자자 손실이 확대됐다."
+    ],
+    "topTopics": [
+      "MarketInfra",
+      "Policy",
+      "Compliance",
+      "Regulation"
+    ],
+    "stats": {
+      "collected": 4,
+      "deduped": 4
+    }
+  },
+  "cards": [
+    {
+      "id": "finance_0001",
+      "tab": "finance",
+      "publishedAt": "2026-10-17T10:36:51+09:00",
+      "source": "매일경제(증권)",
+      "title": "“존버는 커녕 강제 손절이라니”…빚투 개미들 3000억 반대매매에 ‘피눈물’",
+      "summary": [
+        "코스피 급락으로 6~15일 반대매매 규모가 약 2,981억원에 달했다.",
+        "특히 14·15일 이틀 연속 800억원대 반대매매로 빚투 개인들이 강제 손절을 겪었다.",
+        "신용거래 기반 개인투자자 손실이 확대되며 시장 신용리스크가 부각됐다."
+      ],
+      "whyItMatters": "주가 급락이 신용거래의 대규모 청산을 촉발해 개인투자자 피해와 시장 안정성 우려를 동시에 증폭시키기 때문이다.",
+      "topics": [
+        "MarketInfra",
+        "Compliance",
+        "Policy"
+      ],
+      "status": "ONGOING",
+      "hash": "f5545c1746e4f216c7c53f9ec27aaba9045510447e73e24db5e584704286c8f0",
+      "url": "https://www.mk.co.kr/news/stock/12178402"
+    },
+    {
+      "id": "finance_0002",
+      "tab": "finance",
+      "publishedAt": "2026-10-18T07:09:44+09:00",
+      "source": "매일경제(증권)",
+      "title": "“이 와중에 ‘레버리지’ 야수처럼 올라탔다”…돌아온 건 ‘눈물의 -33%’",
+      "summary": [
+        "10월 들어 코스피는 3거래일을 제외하고 하락 마감했다.",
+        "레버리지 상품 수익률이 두 자릿수 폭락해 평균 약 -33%를 기록했다.",
+        "기관들은 레버리지와 인버스(곱버스) 베팅으로 엇갈린 대응을 보였다."
+      ],
+      "whyItMatters": "레버리지 ETF의 급격한 손실은 투자자 손실 확대와 시장 변동성 증가, 규제·투자자보호 논의로 이어질 수 있기 때문입니다.",
+      "topics": [
+        "MarketInfra",
+        "Regulation"
+      ],
+      "status": "ONGOING",
+      "hash": "edaf8bae002abee0723bae2086728cfcbc29e3d296e4264b0927c36d19cbf9dd",
+      "url": "https://www.mk.co.kr/news/stock/12178618"
+    }
+  ]
+}

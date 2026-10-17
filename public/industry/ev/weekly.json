@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-10-11",
-    "to": "2026-10-17"
+    "from": "2026-10-12",
+    "to": "2026-10-18"
   },
   "kpis": {
     "collected": 12,
@@ -11,11 +11,11 @@
   "topTopics": [
     {
       "name": "Competition",
-      "count": 10
+      "count": 11
     },
     {
       "name": "Demand",
-      "count": 9
+      "count": 10
     },
     {
       "name": "Roadmap",
@@ -23,57 +23,33 @@
     },
     {
       "name": "Investment",
-      "count": 6
+      "count": 5
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-10-11",
-      "dayOfWeek": "Sun",
-      "topic": "Competition",
-      "count": 0
-    },
-    {
-      "date": "2026-10-11",
-      "dayOfWeek": "Sun",
-      "topic": "Demand",
-      "count": 0
-    },
-    {
-      "date": "2026-10-11",
-      "dayOfWeek": "Sun",
-      "topic": "Roadmap",
-      "count": 0
-    },
-    {
-      "date": "2026-10-11",
-      "dayOfWeek": "Sun",
-      "topic": "Investment",
-      "count": 0
-    },
-    {
       "date": "2026-10-12",
       "dayOfWeek": "Mon",
       "topic": "Competition",
-      "count": 1
+      "count": 0
     },
     {
       "date": "2026-10-12",
       "dayOfWeek": "Mon",
       "topic": "Demand",
-      "count": 1
+      "count": 0
     },
     {
       "date": "2026-10-12",
       "dayOfWeek": "Mon",
       "topic": "Roadmap",
-      "count": 2
+      "count": 0
     },
     {
       "date": "2026-10-12",
       "dayOfWeek": "Mon",
       "topic": "Investment",
-      "count": 1
+      "count": 0
     },
     {
       "date": "2026-10-13",
@@ -175,52 +151,85 @@
       "date": "2026-10-17",
       "dayOfWeek": "Sat",
       "topic": "Competition",
-      "count": 2
+      "count": 3
     },
     {
       "date": "2026-10-17",
       "dayOfWeek": "Sat",
       "topic": "Demand",
-      "count": 2
+      "count": 3
     },
     {
       "date": "2026-10-17",
       "dayOfWeek": "Sat",
       "topic": "Roadmap",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-10-17",
       "dayOfWeek": "Sat",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
       "topic": "Investment",
       "count": 0
     }
   ],
   "topIssues": [
     {
-      "id": "ev-1",
-      "status": "SHIFTING",
-      "title": "중국산 전기차 기대 심리와 북미 판매 급락으로 재편되는 글로벌 EV 수요",
-      "summary": "캐나다 설문에서 상당수 소비자가 서방 메이커 차량 대신 중국 전기차를 기다리며 구매를 미루는 가운데, 9월 북미 EV 판매는 전년 대비 44% 급감하고 유럽은 기록적 판매 호조를 보였다. 가격 경쟁력과 제품 인지도 차이가 커지며 지역·메이커별 수요 양극화가 심화되는 흐름이다.",
-      "articleCount": 2,
+      "id": 1,
+      "status": "NEW",
+      "title": "초고성능 전기 SUV 경쟁 심화: 메르세데스-AMG GT 전기 SUV 공개",
+      "summary": "메르세데스-AMG가 최대 1,153마력과 710kW급 초급속 충전을 내세운 AMG GT 전기 SUV를 공개하며 초고성능 전기 SUV 시장 경쟁이 본격 심화되고 있다. 프리미엄 브랜드들이 내연기관 플래그십을 전동화 퍼포먼스 모델로 대체하는 흐름이 가속화되는 주요 신호다.",
+      "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
-          "title": "Trouble: buyers would rather wait for Chinese EVs than buy Western ones",
-          "url": "https://electrek.co/2026/10/16/trouble-buyers-would-rather-wait-for-chinese-evs-than-buy-western-ones/"
-        },
-        {
-          "source": "Electrek",
-          "title": "Europe’s EV sales soar as North America drops 44% – here’s the catch",
-          "url": "https://electrek.co/2026/10/15/europes-ev-sales-soar-as-north-america-drops-44-heres-the-catch/"
+          "title": "Electric Mercedes-AMG GT SUV unveiled with 1,153 hp and 710 kW charging",
+          "url": "https://electrek.co/2026/10/17/mercedes-amg-gt-suv-electric-1153-hp-710-kw-charging/"
         }
       ]
     },
     {
-      "id": "ev-2",
+      "id": 2,
       "status": "ONGOING",
-      "title": "테슬라 FSD/오토파일럿 사고 잇따르며 자율주행 안전·규제 압박 확대",
-      "summary": "미국에서 테슬라 FSD 사용 중 운전자가 잠든 상태로 순찰차를 들이받아 경찰 2명이 중상을 입은 데 이어, 뉴저지에서는 오토파일럿/FSD가 작동 중이던 차량이 중앙분리대를 넘어 치명적 충돌 사고를 야기한 사실이 확인됐다. 연이은 중대 사고로 레벨2·레벨3 운전자 보조 시스템 전반에 대한 규제 강화와 책임 범위 재논의가 불가피해지고 있다.",
+      "title": "소형 모빌리티 전동화 확대: 가격대별 전기자전거 시장 성숙",
+      "summary": "예산 구간별 전기자전거 추천 리스트가 정기적으로 업데이트될 만큼 e-바이크 시장이 성숙 단계에 접어들었다. 수백 대 실사용 데이터를 기반으로 한 제품 선별이 강조되면서, 도심 이동 수단의 전동화가 승용 전기차를 넘어 생활형 이동 수단 전반으로 확산되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Here are the best electric bikes you can buy at every price level in October 2026",
+          "url": "https://electrek.co/2026/10/17/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "테슬라 FSD/오토파일럿 사고 잇따르며 규제·안전성 논란 재점화",
+      "summary": "미국에서 테슬라 FSD·오토파일럿이 작동 중이었다는 심각한 사고가 연달아 발생하며 ADAS·자율주행 규제 논의가 다시 거세지고 있다. 운전자 과신과 시스템 한계, 제조사의 책임 범위를 둘러싼 논쟁이 이어지며 FSD 출시·확산 전략에도 변수가 될 전망이다.",
       "articleCount": 2,
       "relatedArticles": [
         {
@@ -236,10 +245,10 @@
       ]
     },
     {
-      "id": "ev-3",
+      "id": 4,
       "status": "NEW",
-      "title": "리비안 마인드 로보틱스, 더그 필드 영입으로 EV 제조 자동화·로봇 역량 강화",
-      "summary": "테슬라 모델 3 개발과 포드 EV 부문을 이끌었던 더그 필드가 리비안 분사 산업 로보틱스 스타트업 마인드 로보틱스 사장으로 합류했다. 설립 1년이 채 안 된 시점에 10억 달러 이상을 조달한 이 회사는 필드가 제품·엔지니어링·운영을 총괄하며 EV 제조 공정 및 산업용 로봇 자동화 경쟁력을 빠르게 끌어올릴 것으로 기대된다.",
+      "title": "리비안 분사 ‘마인드 로보틱스’, 더그 필드 영입으로 EV 제조 자동화 승부수",
+      "summary": "테슬라·포드 EV 개발을 이끌었던 더그 필드가 리비안 분사 로보틱스 스타트업 마인드 로보틱스 사장으로 합류했다. 설립 1년 내 10억 달러 이상을 조달한 이 회사는 EV 및 배터리 공정 자동화·로보틱스 역량을 기반으로 차세대 전기차 제조 경쟁력 확보를 노리고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -250,35 +259,16 @@
       ]
     },
     {
-      "id": "ev-4",
+      "id": 5,
       "status": "NEW",
-      "title": "보급형 신모델 확대: 시트로엥 2CV 전기 콘셉트와 포드 Fathom EV 픽업",
-      "summary": "시트로엥이 2028년 출시 목표의 1만5천 유로대 전기 2CV 콘셉트를 공개하고, 포드는 3만 달러 가격의 전기 픽업 ‘Fathom’ 예약 초대를 시작했다. 유럽과 북미 모두에서 상대적으로 저렴한 EV 라인업 확장을 통해 내연기관 대체와 신규 수요 창출을 노리는 전략이 가시화되고 있다.",
-      "articleCount": 2,
-      "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "The legendary Citroen 2CV is back as a €15k electric concept for 2028",
-          "url": "https://electrek.co/2026/10/11/the-legendary-citroen-2cv-is-back-as-a-e15k-electric-concept-for-2028/"
-        },
-        {
-          "source": "Electrek",
-          "title": "Ford opens preorder invites for the $30,000 Fathom EV pickup",
-          "url": "https://electrek.co/2026/10/14/ford-opens-preorder-invites-30000-fathom-ev-pickup/"
-        }
-      ]
-    },
-    {
-      "id": "ev-5",
-      "status": "NEW",
-      "title": "가정용 배터리, 캘리포니아 전력망 핵심 자원으로 부상",
-      "summary": "캘리포니아에서 테슬라 파워월 등 가정용 배터리가 총 745MW로 역대 최대 전력망 디스패치를 기록했으며, 이 중 8만5천 개 이상 파워월이 600MW 이상을 공급해 대부분을 차지했다. 분산 에너지 자원이 EV 생태계와 연계된 새로운 그리드 인프라로 자리 잡으며, 전기차·가정용 저장장치 통합 비즈니스 모델의 성장 가능성이 커지고 있다.",
+      "title": "중국산 EV 기대감에 서방 브랜드 구매 지연: 수요 지형 변화",
+      "summary": "캐나다 설문에서 다수 소비자가 중국산 전기차 출시를 기다리며 현재 서방 브랜드 EV 구매를 미루는 것으로 나타났다. 가격·사양 경쟁력에 대한 인식이 높아지면서 서방 완성차의 단기 판매 압박과 함께, 향후 관세·수입 규제 등 정책 변수도 커지고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
-          "title": "Tesla Powerwalls supply most of record 745 MW California grid dispatch",
-          "url": "https://electrek.co/2026/10/14/tesla-powerwall-sunrun-record-745-mw-california-grid-dispatch/"
+          "title": "Trouble: buyers would rather wait for Chinese EVs than buy Western ones",
+          "url": "https://electrek.co/2026/10/16/trouble-buyers-would-rather-wait-for-chinese-evs-than-buy-western-ones/"
         }
       ]
     }

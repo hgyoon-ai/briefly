@@ -1,86 +1,12 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "highlights": {
-    "bullets": [
-      "핵심: 반도체 업계가 팹 인프라 확대와 설비 투자를 강조했습니다.",
-      "핵심: 대만은 AI 인재 부족이 기술 개발과 생산 확대의 제약이라고 지적했습니다.",
-      "트렌드: AI 수요 증가로 생산능력·인력·인프라 관련 투자와 설계가 강조되고 있습니다."
-    ],
-    "topTopics": [
-      "Manufacturing",
-      "Competition",
-      "Roadmap",
-      "Investment"
-    ],
+    "bullets": [],
+    "topTopics": [],
     "stats": {
-      "collected": 6,
-      "deduped": 6
+      "collected": 0,
+      "deduped": 0
     }
   },
-  "cards": [
-    {
-      "id": "semiconductor_0001",
-      "tab": "semiconductor",
-      "publishedAt": "2026-10-17T05:59:50+09:00",
-      "source": "EE Times",
-      "title": "SEMICON West 2026 Displays AI-Era Chipmaking, Workforce Development",
-      "summary": [
-        "AI 시대를 대비해 반도체 업계가 팹 인프라 확장과 설비 투자를 강조했습니다.",
-        "고성능·대규모 컴퓨팅 수요로 생산능력 확대가 시급하며 공급망 강화가 논의되었습니다.",
-        "인력 개발과 재교육이 주요 과제로 부각되어 숙련 인력 확보 방안이 필요합니다."
-      ],
-      "whyItMatters": "AI 수요 급증으로 고성능 칩 생산능력과 숙련 인력이 산업 경쟁력의 핵심이 되었기 때문입니다.",
-      "topics": [
-        "Manufacturing",
-        "Investment",
-        "Demand"
-      ],
-      "status": "ONGOING",
-      "hash": "93cf6642f9a04a43580411ddf0f6f39a1c7f90719374243b8313528184f9d3da",
-      "url": "https://www.eetimes.com/semicon-west-2026-displays-ai-era-chipmaking-workforce-development/"
-    },
-    {
-      "id": "semiconductor_0002",
-      "tab": "semiconductor",
-      "publishedAt": "2026-10-16T19:55:42+09:00",
-      "source": "EE Times",
-      "title": "Taiwan’s AI Ambitions Run into Talent Gap",
-      "summary": [
-        "대만은 랙-스케일 AI, 물리적 AI, AI PC 등에서 큰 기회를 보유하고 있다.",
-        "그러나 핵심 제약은 숙련된 AI 인재의 부족이다.",
-        "인재 부족은 제품 상용화와 글로벌 경쟁력 확보를 저해할 위험이 있다."
-      ],
-      "whyItMatters": "핵심 인재가 부족하면 기술 개발·생산·시장 확장 속도가 느려져 대만의 AI 전략 실현이 어려워지기 때문입니다.",
-      "topics": [
-        "Demand",
-        "Manufacturing",
-        "Competition"
-      ],
-      "status": "ONGOING",
-      "hash": "84c0f344f0b9954c84376de0c8d463ff18463a3d7f97cc49e9d3f44bafe2efa6",
-      "url": "https://www.eetimes.com/taiwans-ai-ambitions-run-into-talent-gap/"
-    },
-    {
-      "id": "semiconductor_0003",
-      "tab": "semiconductor",
-      "publishedAt": "2026-10-16T09:00:16+09:00",
-      "source": "SK hynix Newsroom",
-      "title": "“Memory-Centric Server Systems Are the Future”: SK hynix Presents Its Next-Generation AI Infrastructure Vision at OCP Global Summit 2026",
-      "summary": [
-        "SK하이닉스가 OCP Global Summit 2026에서 메모리 중심 서버 시스템이라는 차세대 AI 인프라 비전을 발표했다.",
-        "AI 데이터량 급증으로 인한 데이터 병목 문제를 차세대 메모리 기술로 해결할 수 있다는 점을 강조했다.",
-        "이번 발표는 메모리 중심 아키텍처가 업계 로드맵과 경쟁 구도를 바꿀 가능성을 시사한다."
-      ],
-      "whyItMatters": "메모리 중심 서버는 데이터 이동을 줄여 AI 처리 효율을 크게 개선할 수 있어 인프라 설계와 투자 방향에 직접적인 영향을 준다.",
-      "topics": [
-        "Roadmap",
-        "Manufacturing",
-        "Competition",
-        "Investment"
-      ],
-      "status": "SHIFTING",
-      "hash": "055c29e5e102252b3453cf579dd2be42eaf5fa760419c57f19a6ed29ddc350aa",
-      "url": "https://news.skhynix.com/en/ocp-global-summit-2026/"
-    }
-  ]
+  "cards": []
 }

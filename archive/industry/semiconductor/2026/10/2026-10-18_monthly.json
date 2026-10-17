@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-09-19",
+    "to": "2026-10-18"
+  },
+  "kpis": {
+    "collected": 67,
+    "deduped": 67,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 30,
+      "Competition": 26,
+      "Manufacturing": 19,
+      "Investment": 15,
+      "Demand": 11,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (09/19-09/25)",
+      "topicCounts": {
+        "Roadmap": 11,
+        "Competition": 9,
+        "Manufacturing": 8,
+        "Investment": 6,
+        "Demand": 5
+      }
+    },
+    {
+      "week": "Week 2 (09/26-10/02)",
+      "topicCounts": {
+        "Roadmap": 16,
+        "Competition": 15,
+        "Manufacturing": 5,
+        "Investment": 8,
+        "Demand": 8
+      }
+    },
+    {
+      "week": "Week 3 (10/03-10/09)",
+      "topicCounts": {
+        "Roadmap": 7,
+        "Competition": 7,
+        "Manufacturing": 5,
+        "Investment": 3,
+        "Demand": 3
+      }
+    },
+    {
+      "week": "Week 4 (10/10-10/16)",
+      "topicCounts": {
+        "Roadmap": 13,
+        "Competition": 10,
+        "Manufacturing": 10,
+        "Investment": 6,
+        "Demand": 3
+      }
+    },
+    {
+      "week": "Week 5 (10/17-10/18)",
+      "topicCounts": {
+        "Roadmap": 0,
+        "Competition": 0,
+        "Manufacturing": 0,
+        "Investment": 0,
+        "Demand": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "AI 수요 대응을 위한 글로벌 팹 증설·인프라 확충 가속",
+      "summary": "SEMICON West 2026에서 고성능·대규모 AI 컴퓨팅 수요에 맞춰 팹 인프라 확장과 설비 투자가 핵심 과제로 부각되었다. 공급망 안정과 생산능력 확대 없이는 AI 시대 수요를 뒷받침하기 어렵다는 공감대가 형성되며, 각국·각사의 장기 제조 로드맵 재정비가 진행 중이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "SEMICON West 2026 Displays AI-Era Chipmaking, Workforce Development",
+          "url": "https://www.eetimes.com/semicon-west-2026-displays-ai-era-chipmaking-workforce-development/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "대만 AI 반도체 전략, 인재 부족이 최대 병목으로 부상",
+      "summary": "대만은 랙-스케일 AI, 물리적 AI, AI PC 등 차세대 AI 시스템에서 제조·공급 허브를 노리지만, 숙련된 AI·반도체 인재 부족이 성장 한계를 초래하고 있다. 인력 격차 해소 여부가 향후 AI 반도체 경쟁력과 생태계 확대의 핵심 변수로 떠오르고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Taiwan’s AI Ambitions Run into Talent Gap",
+          "url": "https://www.eetimes.com/taiwans-ai-ambitions-run-into-talent-gap/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "메모리 중심 서버 구조로의 전환, 차세대 AI 인프라 핵심 화두",
+      "summary": "SK하이닉스는 OCP Global Summit 2026에서 메모리 중심 서버 시스템 비전을 제시하며, AI 데이터 폭증에 따른 병목을 차세대 메모리 기술로 해소해야 한다고 강조했다. HBM 등 고대역폭 메모리와 새로운 시스템 아키텍처가 향후 AI 인프라 경쟁의 주요 전장이 되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "SK hynix Newsroom",
+          "title": "“Memory-Centric Server Systems Are the Future”: SK hynix Presents Its Next-Generation AI Infrastructure Vision at OCP Global Summit 2026",
+          "url": "https://news.skhynix.com/en/ocp-global-summit-2026/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "Applied Materials, 50억 달러 EPIC 센터로 반도체 혁신 R&D 모델 재편",
+      "summary": "Applied Materials가 50억 달러 규모 EPIC 센터를 설립해 칩 제조사, 장비 업체, 연구기관을 한데 모으는 공동 R&D 허브를 구축한다. 이를 통해 공정·소재 혁신의 상용화 속도를 높이고, 차세대 반도체 기술 개발에서 새로운 협력·투자 모델을 제시하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Applied Materials Bets $5B on a New Model for Chip Innovation",
+          "url": "https://www.eetimes.com/applied-materials-bets-5b-on-a-new-model-for-chip-innovation/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "삼성전자 2026년 3분기 가이던스, 반도체 슈퍼사이클 기대 반영",
+      "summary": "삼성전자가 2026년 3분기 연결 매출 약 195조원, 영업이익 약 107.40조원의 실적 가이던스를 제시했다. AI·고성능 컴퓨팅 수요 확대에 따른 메모리·파운드리 업황 개선과 단가 회복이 실적 전망에 반영되며, 반도체 슈퍼사이클 가능성이 재조명되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung Electronics Announces Earnings Guidance for Third Quarter 2026",
+          "url": "https://news.samsung.com/global/samsung-electronics-announces-earnings-guidance-for-third-quarter-2026"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "range": {
+    "from": "2026-09-19",
+    "to": "2026-10-18"
+  },
+  "kpis": {
+    "collected": 54,
+    "deduped": 54,
+    "uniqueTopics": 9,
+    "marketShare": {
+      "MarketInfra": 40,
+      "Policy": 25,
+      "Regulation": 12,
+      "Compliance": 11,
+      "Fintech": 11,
+      "Other": 1
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (09/19-09/25)",
+      "topicCounts": {
+        "MarketInfra": 10,
+        "Policy": 5,
+        "Regulation": 3,
+        "Compliance": 5,
+        "Fintech": 2
+      }
+    },
+    {
+      "week": "Week 2 (09/26-10/02)",
+      "topicCounts": {
+        "MarketInfra": 9,
+        "Policy": 3,
+        "Regulation": 3,
+        "Compliance": 3,
+        "Fintech": 5
+      }
+    },
+    {
+      "week": "Week 3 (10/03-10/09)",
+      "topicCounts": {
+        "MarketInfra": 8,
+        "Policy": 6,
+        "Regulation": 2,
+        "Compliance": 2,
+        "Fintech": 2
+      }
+    },
+    {
+      "week": "Week 4 (10/10-10/16)",
+      "topicCounts": {
+        "MarketInfra": 10,
+        "Policy": 8,
+        "Regulation": 3,
+        "Compliance": 2,
+        "Fintech": 3
+      }
+    },
+    {
+      "week": "Week 5 (10/17-10/18)",
+      "topicCounts": {
+        "MarketInfra": 2,
+        "Policy": 1,
+        "Regulation": 1,
+        "Compliance": 1,
+        "Fintech": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "코스피 급락 여파: 레버리지 상품·빚투 반대매매 폭증",
+      "summary": "10월 들어 코스피가 거의 매일 하락하며 레버리지 ETF·ETN 수익률이 평균 -30%대까지 떨어지고, 레버리지·신용거래 투자자들의 반대매매 규모가 6~15일에만 약 3,000억원에 달하는 등 개인투자자 손실이 급증하고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“이 와중에 ‘레버리지’ 야수처럼 올라탔다”…돌아온 건 ‘눈물의 -33%’",
+          "url": "https://www.mk.co.kr/news/stock/12178618"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "“존버는 커녕 강제 손절이라니”…빚투 개미들 3000억 반대매매에 ‘피눈물’",
+          "url": "https://www.mk.co.kr/news/stock/12178402"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "국민연금 기금운용 국정조사 공방: 변동성 장세 속 연기금 책임 논쟁",
+      "summary": "10월 국내 증시 급락으로 개인투자자 피해가 커지는 가운데 여당이 국민연금 기금운용을 겨냥한 국정조사를 요구하며, 연기금의 증시 개입 방식과 책임론을 둘러싼 정치·정책 논쟁이 본격화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“증시 폭등 없었으면 폭락도 없었다”…국민연금 국조 꺼내든 국힘",
+          "url": "https://www.mk.co.kr/news/politics/12178257"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "한국은행 직원 주식거래 급증 논란: 내부통제·도덕적 해이 이슈",
+      "summary": "한국은행 직원들의 상반기 주식거래 규모가 전체 53배, 금융시장국 24배로 급증하면서 내부정보 이용 가능성과 도덕적 해이 우려가 커졌고, 금융정책 신뢰와 이해상충 관리체계 전반에 대한 재점검 요구가 이어지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“이러려고 한은 들어갔나”…시장 경고는 뒷전, 직원들 주식거래 53배 급증 왜?",
+          "url": "https://www.mk.co.kr/news/economy/12174120"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "부실기업 상장폐지 급증: 기업 옥석가리기와 투자자 보호 강화 흐름",
+      "summary": "올해 9월까지 부실기업 상장폐지 건수가 36곳으로 전년 대비 두 배로 늘어나면서, 감독당국의 상장 유지 요건 강화와 함께 코스피·코스닥 내 구조조정과 옥석가리기가 가속화되고 있으며, 소액주주 피해 최소화 방안이 과제로 부각되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "부실기업 증시퇴출, 작년보다 두배 급증",
+          "url": "https://www.mk.co.kr/news/stock/12168228"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "SHIFTING",
+      "title": "에이전틱 AI 확산과 자금 재배분: 전통 금융섹터 약세·테크 강세",
+      "summary": "검색에서 ‘위임형’으로 진화한 에이전틱 AI가 등장하며 메타 등 빅테크 중심으로 AI 투자 기대가 커지는 반면, 은행·보험·여행 등 전통 서비스 섹터로의 자금 유입은 둔화되고 반도체·AI 인프라 등으로 자금이 재배분되는 흐름이 뚜렷해지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "‘검색’에서 ‘위임’으로 ... AI가 마지막 클릭을 가져가는 시대가 온다",
+          "url": "https://www.mk.co.kr/news/stock/12168056"
+        }
+      ]
+    }
+  ]
+}

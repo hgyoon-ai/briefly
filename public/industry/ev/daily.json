@@ -1,62 +1,62 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "highlights": {
     "bullets": [
-      "핵심: 캐나다 소비자들이 중국산 전기차를 기다리느라 서방 완성차 구매를 미루고 있다.",
-      "핵심: 캘리포니아에서 테슬라 운전자가 FSD를 켠 채 잠들어 순찰차를 들이받아 경찰관 2명이 중상했다."
+      "핵심: 메르세데스-AMG가 최대 1,153마력의 전기 퍼포먼스 SUV AMG GT SUV를 공개했습니다.",
+      "핵심: 예산 구간별 최고 전기자전거 추천 리스트가 2026년 10월 기준으로 제시되었습니다."
     ],
     "topTopics": [
       "Competition",
       "Roadmap",
-      "Demand",
-      "Investment"
+      "Demand"
     ],
     "stats": {
-      "collected": 13,
-      "deduped": 13
+      "collected": 2,
+      "deduped": 2
     }
   },
   "cards": [
     {
       "id": "ev_0001",
       "tab": "ev",
-      "publishedAt": "2026-10-17T04:26:48+09:00",
+      "publishedAt": "2026-10-18T05:37:19+09:00",
       "source": "Electrek",
-      "title": "Trouble: buyers would rather wait for Chinese EVs than buy Western ones",
+      "title": "Electric Mercedes-AMG GT SUV unveiled with 1,153 hp and 710 kW charging",
       "summary": [
-        "캐나다 EV 소비자들이 중국산 전기차를 기다리느라 구매를 미루고 있다는 설문 결과가 나왔다.",
-        "중국의 전기차 경쟁력에 대한 인지도가 높아지면서 서방 완성차 업체들의 모델이 외면받고 있다.",
-        "이는 북미 시장에서 중국 EV 진입 시 서방 업체들의 판매 압박이 크게 심화될 수 있음을 시사한다."
+        "메르세데스-AMG가 최대 1,153마력의 전기 퍼포먼스 SUV인 AMG GT SUV를 공개했습니다.",
+        "세 개의 축류 플럭스 모터와 최대 710kW DC 초급속 충전을 지원해 성능과 충전 속도 모두에서 동급 최고 수준을 지향합니다.",
+        "포르쉐 카이엔 일렉트릭을 직접 겨냥한 모델로, 2027년 여름부터 미국 딜러십에서 판매가 시작될 예정입니다."
       ],
-      "whyItMatters": "중요 시장에서 실제 수요가 서방 업체가 아닌 중국 EV로 이동하려는 징후가 명확히 드러나 향후 경쟁 구도와 가격 전략에 중대한 변화를 초래할 수 있기 때문이다.",
+      "whyItMatters": "고성능 전기 SUV 시장에서 메르세데스-AMG가 포르쉐와의 정면 경쟁에 나서며 기술력과 브랜드 간 경쟁 구도가 강화될 수 있기 때문입니다.",
       "topics": [
-        "Demand",
-        "Competition"
+        "Competition",
+        "Roadmap",
+        "Demand"
       ],
       "status": "NEW",
-      "hash": "066e002b76ee8b7be44a6c5d15b7af19821dae2d91d8ecad0e6c3e7e59b3a870",
-      "url": "https://electrek.co/2026/10/16/trouble-buyers-would-rather-wait-for-chinese-evs-than-buy-western-ones/"
+      "hash": "f7c8270eefc8f9694627486d5427262912077b74c89e9f870b33cea9e7179f3f",
+      "url": "https://electrek.co/2026/10/17/mercedes-amg-gt-suv-electric-1153-hp-710-kw-charging/"
     },
     {
       "id": "ev_0002",
       "tab": "ev",
-      "publishedAt": "2026-10-17T02:14:43+09:00",
+      "publishedAt": "2026-10-17T22:08:00+09:00",
       "source": "Electrek",
-      "title": "Tesla driver says he was asleep on FSD when he hit CHP car, 2 officers hurt",
+      "title": "Here are the best electric bikes you can buy at every price level in October 2026",
       "summary": [
-        "캘리포니아 고속도로 순찰대 사고 현장에서 테슬라 차량이 순찰차를 들이받아 경찰관 2명이 중상을 입었습니다.",
-        "22세 운전자는 사고 당시 테슬라 ‘완전자율주행(FSD)’을 켜둔 채 잠들어 있었다고 진술했습니다.",
-        "비슷한 긴급 차량 추돌 사고가 반복되면서 FSD 안전성과 관련한 규제 당국의 조사 압력이 다시 부각되고 있습니다."
+        "Electrek가 2026년 10월 기준 예산 구간별 최고 전기자전거 추천 리스트를 제시했다.",
+        "수백 대 전기자전거의 장기·실사용 테스트 경험을 바탕으로 선정된 모델들이 정리돼 있다.",
+        "가을 시즌을 맞아 다양한 가격대에서 소비자가 바로 구매를 고려할 수 있는 옵션을 제공한다."
       ],
-      "whyItMatters": "FSD 사용 중 졸음 운전 및 반복된 긴급 차량 추돌 사고는 자율주행 기능에 대한 규제 강화와 경쟁·수요에 대한 부정적 인식을 촉발할 수 있습니다.",
+      "whyItMatters": "소비자 구매 기준이 되는 벤치마크 리스트로, 전기자전거 수요 방향과 브랜드 경쟁 구도를 간접적으로 형성하기 때문이다.",
       "topics": [
-        "Policy",
+        "Demand",
         "Competition",
-        "Demand"
+        "Roadmap"
       ],
       "status": "ONGOING",
-      "hash": "026d44958c1d8755fc8711a33429da1b32eed505f2d96276ff02217fed311533",
-      "url": "https://electrek.co/2026/10/16/tesla-fsd-crash-chp-patrol-car-driver-asleep-fairfield/"
+      "hash": "35acbc1b334084d8feddf9dbfa18f3ba8729c3846eaee354a622a36204b41ca2",
+      "url": "https://electrek.co/2026/10/17/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/"
     }
   ]
 }

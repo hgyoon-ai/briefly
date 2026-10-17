@@ -1,0 +1,276 @@
+{
+  "range": {
+    "from": "2026-10-12",
+    "to": "2026-10-18"
+  },
+  "kpis": {
+    "collected": 12,
+    "deduped": 12,
+    "uniqueTopics": 6
+  },
+  "topTopics": [
+    {
+      "name": "Competition",
+      "count": 11
+    },
+    {
+      "name": "Demand",
+      "count": 10
+    },
+    {
+      "name": "Roadmap",
+      "count": 6
+    },
+    {
+      "name": "Investment",
+      "count": 5
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": "Mon",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Demand",
+      "count": 2
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 3
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Demand",
+      "count": 3
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 3
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Investment",
+      "count": 3
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 3
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Demand",
+      "count": 3
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "초고성능 전기 SUV 경쟁 심화: 메르세데스-AMG GT 전기 SUV 공개",
+      "summary": "메르세데스-AMG가 최대 1,153마력과 710kW급 초급속 충전을 내세운 AMG GT 전기 SUV를 공개하며 초고성능 전기 SUV 시장 경쟁이 본격 심화되고 있다. 프리미엄 브랜드들이 내연기관 플래그십을 전동화 퍼포먼스 모델로 대체하는 흐름이 가속화되는 주요 신호다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Electric Mercedes-AMG GT SUV unveiled with 1,153 hp and 710 kW charging",
+          "url": "https://electrek.co/2026/10/17/mercedes-amg-gt-suv-electric-1153-hp-710-kw-charging/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "소형 모빌리티 전동화 확대: 가격대별 전기자전거 시장 성숙",
+      "summary": "예산 구간별 전기자전거 추천 리스트가 정기적으로 업데이트될 만큼 e-바이크 시장이 성숙 단계에 접어들었다. 수백 대 실사용 데이터를 기반으로 한 제품 선별이 강조되면서, 도심 이동 수단의 전동화가 승용 전기차를 넘어 생활형 이동 수단 전반으로 확산되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Here are the best electric bikes you can buy at every price level in October 2026",
+          "url": "https://electrek.co/2026/10/17/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "테슬라 FSD/오토파일럿 사고 잇따르며 규제·안전성 논란 재점화",
+      "summary": "미국에서 테슬라 FSD·오토파일럿이 작동 중이었다는 심각한 사고가 연달아 발생하며 ADAS·자율주행 규제 논의가 다시 거세지고 있다. 운전자 과신과 시스템 한계, 제조사의 책임 범위를 둘러싼 논쟁이 이어지며 FSD 출시·확산 전략에도 변수가 될 전망이다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla driver says he was asleep on FSD when he hit CHP car, 2 officers hurt",
+          "url": "https://electrek.co/2026/10/16/tesla-fsd-crash-chp-patrol-car-driver-asleep-fairfield/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Tesla confirms Autopilot/FSD was ‘engaged’ when car crossed a median and killed a man",
+          "url": "https://electrek.co/2026/10/15/tesla-driver-assist-median-crossing-vineland/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "리비안 분사 ‘마인드 로보틱스’, 더그 필드 영입으로 EV 제조 자동화 승부수",
+      "summary": "테슬라·포드 EV 개발을 이끌었던 더그 필드가 리비안 분사 로보틱스 스타트업 마인드 로보틱스 사장으로 합류했다. 설립 1년 내 10억 달러 이상을 조달한 이 회사는 EV 및 배터리 공정 자동화·로보틱스 역량을 기반으로 차세대 전기차 제조 경쟁력 확보를 노리고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Rivian’s Mind Robotics snags Doug Field, ex-Tesla and Ford EV chief",
+          "url": "https://electrek.co/2026/10/13/rivian-mind-robotics-doug-field-president-tesla-ford/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "중국산 EV 기대감에 서방 브랜드 구매 지연: 수요 지형 변화",
+      "summary": "캐나다 설문에서 다수 소비자가 중국산 전기차 출시를 기다리며 현재 서방 브랜드 EV 구매를 미루는 것으로 나타났다. 가격·사양 경쟁력에 대한 인식이 높아지면서 서방 완성차의 단기 판매 압박과 함께, 향후 관세·수입 규제 등 정책 변수도 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Trouble: buyers would rather wait for Chinese EVs than buy Western ones",
+          "url": "https://electrek.co/2026/10/16/trouble-buyers-would-rather-wait-for-chinese-evs-than-buy-western-ones/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,67 +1,43 @@
 {
   "range": {
-    "from": "2026-10-11",
-    "to": "2026-10-17"
+    "from": "2026-10-12",
+    "to": "2026-10-18"
   },
   "kpis": {
-    "collected": 28,
-    "deduped": 28,
+    "collected": 26,
+    "deduped": 26,
     "uniqueTopics": 10
   },
   "topTopics": [
     {
       "name": "Policy",
-      "count": 20
+      "count": 19
     },
     {
       "name": "Supply",
-      "count": 20
-    },
-    {
-      "name": "Market",
       "count": 17
     },
     {
+      "name": "Market",
+      "count": 16
+    },
+    {
       "name": "Construction",
-      "count": 11
+      "count": 10
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-10-11",
-      "dayOfWeek": "Sun",
-      "topic": "Policy",
-      "count": 1
-    },
-    {
-      "date": "2026-10-11",
-      "dayOfWeek": "Sun",
-      "topic": "Supply",
-      "count": 3
-    },
-    {
-      "date": "2026-10-11",
-      "dayOfWeek": "Sun",
-      "topic": "Market",
-      "count": 3
-    },
-    {
-      "date": "2026-10-11",
-      "dayOfWeek": "Sun",
-      "topic": "Construction",
-      "count": 1
-    },
-    {
       "date": "2026-10-12",
       "dayOfWeek": "Mon",
       "topic": "Policy",
-      "count": 3
+      "count": 2
     },
     {
       "date": "2026-10-12",
       "dayOfWeek": "Mon",
       "topic": "Supply",
-      "count": 3
+      "count": 2
     },
     {
       "date": "2026-10-12",
@@ -175,23 +151,47 @@
       "date": "2026-10-17",
       "dayOfWeek": "Sat",
       "topic": "Policy",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-10-17",
       "dayOfWeek": "Sat",
       "topic": "Supply",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-10-17",
       "dayOfWeek": "Sat",
       "topic": "Market",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-10-17",
       "dayOfWeek": "Sat",
+      "topic": "Construction",
+      "count": 0
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Market",
+      "count": 1
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
       "topic": "Construction",
       "count": 0
     }
@@ -200,70 +200,85 @@
     {
       "id": 1,
       "status": "ONGOING",
-      "title": "추가 대출 규제 선 그은 정부와 집값 양극화",
-      "summary": "정부가 주택담보대출 등 추가 규제는 없다고 못 박으면서 금융 불확실성은 줄었지만, 강남3구 집값은 진정되는 반면 서울 외곽과 일부 지역에서는 상승세가 이어지는 등 지역별 가격 양극화가 심화되고 있다.",
+      "title": "임대차 규제·세금 부담 심화로 집주인 전월세 수익성 악화",
+      "summary": "전세금을 동결하거나 소폭 인상한 집주인들도 보유세·지방세·관리비 상승과 임대차 보호 규제 강화로 임대수익이 빠르게 줄고 있다. 월간 기준으로 임대인의 실질 수익성 악화와 전세·월세 전환 압력이 커지면서 향후 전월세 시장 구조 변화 가능성이 핵심 이슈로 부상했다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "매일경제(부동산)",
-          "title": "“추가 대출 규제 없다” 못 박은 정부…강남 집값 잡혔다는데, 서울 외곽은?",
-          "url": "https://www.mk.co.kr/news/realestate/12178244"
+          "source": "한국경제(부동산)",
+          "title": "전세금도 안 올렸는데…'너무한 거 아냐?' 집주인들 '멘붕' [김용우의 각개전투]",
+          "url": "https://www.hankyung.com/article/202610166762i"
         }
       ]
     },
     {
       "id": 2,
       "status": "ONGOING",
-      "title": "수도권 주택 착공 목표 차질과 공급 공백 위험",
-      "summary": "정부가 올해 수도권 주택 착공 목표 26만8000가구 달성이 어려워 최대 5만가구가 부족할 수 있다고 전망했다. 민간 사업 위축과 관련 법·제도 정비 지연이 겹치며 중장기 공급 공백 우려가 커지고 있다.",
-      "articleCount": 1,
+      "title": "무주택자 ‘생존 매수’ 압박 확대와 매수 시점 논쟁",
+      "summary": "집값 고점 논란과 고금리에도 불구하고 공급 부족 우려와 대출·세제 규제로 인해 무주택자가 ‘지금 안 사면 더 힘들어진다’는 심리에 내몰리고 있다. 한편 LH 사장의 ‘지금 집 사면 손해’ 발언이 맞물리며 실수요자의 매수 타이밍, 정책 신뢰도, 시장 심리가 주간 단위로 크게 흔들리고 있다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
+          "source": "한국경제(부동산)",
+          "title": "\"무주택자 '생존 매수'하는 시대 온다\"…전문가 경고 들어보니",
+          "url": "https://www.hankyung.com/article/2026101778407"
+        },
+        {
           "source": "매일경제(부동산)",
-          "title": "시작부터 흔들리는 닥공…정부 “수도권 착공 최대 5만가구 부족”",
-          "url": "https://www.mk.co.kr/news/realestate/12178242"
+          "title": "“서민 대출 줄여라” 소신 밝히더니…이성훈 LH 사장 “지금 집 사면 손해”",
+          "url": "https://www.mk.co.kr/news/realestate/12174288"
         }
       ]
     },
     {
       "id": 3,
-      "status": "NEW",
-      "title": "도심 공공주택 복합사업, 입주권과 현금청산 혼선 심화",
-      "summary": "도심 공공주택 복합사업 후보지 발표 후 투자자들이 입주권을 기대하고 매수에 나섰으나, 실제로는 현금청산 대상이 될 수 있는 사례가 부각되며 권리구조·보상 방식에 대한 정확한 이해 필요성이 커지고 있다.",
-      "articleCount": 1,
+      "status": "ONGOING",
+      "title": "수도권·지방 동시 공급 차질: 착공 감소와 공공택지 중단",
+      "summary": "정부의 ‘닥공’ 기조에도 수도권에서 올해 목표 대비 최대 5만 가구 착공 부족이 예상되고, 지방 공공택지에서도 약 5만 가구 신규 공급이 사실상 올스톱됐다. 민간 분양 부진, 법·제도 지연, 사업성 악화가 복합 작용하면서 주간·월간 기준으로 중장기 공급 공백 우려가 부동산 시장의 핵심 리스크로 부각되고 있다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
           "source": "매일경제(부동산)",
-          "title": "“입주권 산 줄 알았는데 현금청산” … 투자자가 반드시 알아야 할 점은 [도공복 2편]",
-          "url": "https://www.mk.co.kr/news/realestate/12176905"
+          "title": "시작부터 흔들리는 닥공…정부 “수도권 착공 최대 5만가구 부족”",
+          "url": "https://www.mk.co.kr/news/realestate/12178242"
+        },
+        {
+          "source": "한국경제(부동산)",
+          "title": "지방 공공택지의 '눈물'…5만 가구 공급 올스톱",
+          "url": "https://www.hankyung.com/article/2026101394721"
         }
       ]
     },
     {
       "id": 4,
       "status": "ONGOING",
-      "title": "LH의 공급 지연 선제 점검과 현장 관리 강화",
-      "summary": "공공주택 공급을 맡는 LH가 공정 지연 요인을 사전에 점검하고 현장 관리 강화를 예고했다. 착공·준공 일정 지연으로 인한 공급 차질을 줄이기 위한 조치로, 대규모 공공 물량의 제때 공급이 관건으로 떠오르고 있다.",
-      "articleCount": 1,
+      "title": "LH 중심 공공주택 공급 관리 강화와 장기전세 갈등",
+      "summary": "LH가 공사 지연 요인을 사전 점검하며 공공주택 공급 일정을 당기려는 한편, 서울 강일·고덕 장기전세 단지에서는 입주민들이 재계약·분양전환을 요구하며 자산 격차 문제를 제기하고 있다. 공급 안정과 공공임대 제도 설계 간 균형을 두고 공기업과 세입자 간 갈등이 이어지는 양상이 주간 이슈로 부각되고 있다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
           "source": "한국경제(부동산)",
           "title": "LH, 주택공급 지연요인 선제 점검…\"현장 관리 강화\"",
           "url": "https://www.hankyung.com/article/202610154724i"
+        },
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "옆 동 집주인과 자산 격차 ‘10억’…LH장기전세 “분양해달라”[부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10901425"
         }
       ]
     },
     {
       "id": 5,
-      "status": "ONGOING",
-      "title": "반도체 호재 타고 경기 남부·분당·강남으로 번지는 자금 이동",
-      "summary": "반도체 산업 호황으로 유입된 자금이 수원 광교·화성 동탄 등 경기 남부 집값을 밀어 올리며, 동탄 차익 실현 후 분당·강남으로 갈아타는 수요까지 포착되고 있다. 산업 입지와 연계된 지역 간 가격 재조정이 진행 중이다.",
+      "status": "NEW",
+      "title": "도심 공공주택 복합사업(도공복) 후보지 발표 후 투자자 ‘현금청산’ 혼란",
+      "summary": "도심 공공주택 복합사업 후보지 발표 이후 일부 투자자들이 입주권 취득을 기대하고 매입에 나섰지만, 실제로는 현금청산 대상이 될 수 있다는 점이 부각되며 혼선이 커지고 있다. 정비·재개발 유형별 권리 구조 이해가 부족할 경우 손실 위험이 커질 수 있어 향후 관련 정보 제공과 제도 정비 필요성이 새롭게 제기되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "헤럴드경제(부동산)",
-          "title": "“동탄 오르니 분당이 싸보이네” 반도체 머니, 이대로 강남까지 갈까 [부동산360]",
-          "url": "https://biz.heraldcorp.com/article/10901379"
+          "source": "매일경제(부동산)",
+          "title": "“입주권 산 줄 알았는데 현금청산” … 투자자가 반드시 알아야 할 점은 [도공복 2편]",
+          "url": "https://www.mk.co.kr/news/realestate/12176905"
         }
       ]
     }
