@@ -1,304 +1,448 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "kpis": {
     "clusters": 20,
     "sources": 2,
-    "new": 16
+    "new": 17
   },
   "clusters": [
     {
-      "id": "021db31ab24a3f4eafc092049f625c461735cf4a",
-      "name": "DeepSeek-v4.1-Flash-1017",
+      "id": "8c3ed328ee07c06f96f99b83241d2aaaffc3de05",
+      "name": "The Elizabeth Holmes documentary “You Can See Everything” is deceiving",
       "section": "discussions",
       "status": "NEW",
-      "score": 1069.2,
-      "oneLiner": "DeepSeek v4.1 Flash 1017 모델 정보",
-      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "664p · 559c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50129045"
-        },
-        {
-          "label": "Source",
-          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "c51a9c1f563807dfe99576d11c32b8f87028ae04",
-      "name": "Solar surpasses nuclear power globally for first time",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 622.8,
-      "oneLiner": "태양광이 전 세계에서 원자력을 처음으로 추월했다",
-      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "450p · 294c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50131256"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "af126a5b9adb38501e8735247e50e52d5363846f",
-      "name": "OpenCode Hacked: User credentials leaked",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 555.6,
-      "oneLiner": "OpenCode 사용자 자격증명 유출 보고",
-      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "686p · 120c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50133401"
-        },
-        {
-          "label": "Source",
-          "url": "https://twitter.com/opencode/status/2111516673953935833"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "b1beef8b8391ad41971df2fc17f3d6ffe5e099c3",
-      "name": "Butlerian Jihad",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 508.8,
-      "oneLiner": "Butlerian Jihad 관련 문서",
-      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "356p · 246c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50127274"
-        },
-        {
-          "label": "Source",
-          "url": "https://dune.fandom.com/wiki/Butlerian_Jihad"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "06bf44dab03545d2ec2de1412608a4cadaa715ce",
-      "name": "DeepSeek: DeepSeek v4.1 Flash 1017",
-      "section": "trending",
-      "status": "NEW",
-      "score": 312.6,
-      "oneLiner": "DeepSeek v4.1 Flash 1017 관련 자료",
-      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "511p · 5c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50129121"
-        },
-        {
-          "label": "Source",
-          "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "24777c8029b889a64f711a982d93c34bf6d9a2a5",
-      "name": "US federal budget deficit jumps 12% in one year to nearly $2 Trillion",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 305.4,
-      "oneLiner": "미국 연방 예산 적자가 1년 새 12% 증가해 거의 2조 달러에 달했다",
-      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "169p · 170c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50131440"
-        },
-        {
-          "label": "Source",
-          "url": "https://finance.yahoo.com/economy/policy/article/the-us-federal-budget-deficit-for-2026-just-came-in-its-1992-trillion-191917669.html"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "05225499c54f5e361fc672f69b6087358c60412a",
-      "name": "GLP-1 may slow biological aging",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 278.4,
-      "oneLiner": "GLP-1이 생물학적 노화를 늦출 수 있다는 연구",
-      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "162p · 151c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50132328"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "eb07c61b528bfbb5800a99713b03542a961c6a12",
-      "name": "Gold is now the top U.S. export",
-      "section": "trending",
-      "status": "NEW",
-      "score": 243.6,
-      "oneLiner": "금이 현재 미국의 최다 수출품이 되었다",
-      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "190p · 108c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50132870"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.numismaticnews.net/gold-now-top-u-s-export"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "597ef63b5832972df541ca5b54ed3c32e35f7a6e",
-      "name": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "section": "trending",
-      "status": "NEW",
-      "score": 231.0,
-      "oneLiner": "Llmspeed로 로컬 LLM 성능을 하드웨어 구입 전에 체험",
-      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "235p · 75c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50127979"
-        },
-        {
-          "label": "Source",
-          "url": "https://llmspeed.dev/"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "80157729d75db65a020a5e32c12814db37cdc5de",
-      "name": "Making chicken transparent using Dorito dust",
-      "section": "trending",
-      "status": "NEW",
-      "score": 220.8,
-      "oneLiner": "Dorito 가루로 닭을 투명하게 만드는 방법",
-      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 블로그 해석과 후기가 빠르게 붙는 흐름입니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "240p · 64c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50131213"
-        },
-        {
-          "label": "Source",
-          "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "002d1264d6835c2bfe897960d8ebf2d36b8a2266",
-      "name": "MapQuest will now show you where Flock cameras are in your neighborhood",
-      "section": "trending",
-      "status": "NEW",
-      "score": 210.0,
-      "oneLiner": "MapQuest가 동네의 Flock 카메라 위치를 표시한다",
+      "score": 809.4,
+      "oneLiner": "엘리자베스 홈즈 다큐 You Can See Everything이 기만적이라고 지적한다.",
       "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "258p · 46c"
+          "value": "353p · 498c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50129947"
+          "url": "https://news.ycombinator.com/item?id=50137620"
         },
         {
           "label": "Source",
-          "url": "https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/"
+          "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "74046992736182e6376b7c178ad847b6645925b4",
+      "name": "Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 797.4,
+      "oneLiner": "메타가 시위 당일 No Kings 인스타그램 계정을 차단했다고 보도한다.",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 회귀/테스트 자동화 관점에서 주목이 이어지고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "565p · 382c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50136881"
+        },
+        {
+          "label": "Source",
+          "url": "https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day"
+        }
+      ],
+      "tags": [
+        "testing"
+      ]
+    },
+    {
+      "id": "2acec9b33e3998617eb5bede5eca5333e904425f",
+      "name": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 619.8,
+      "oneLiner": "DeepSeek 검색 API는 1000회 성공 요청당 0.75달러 요금을 안내한다.",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "529p · 252c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50138531"
+        },
+        {
+          "label": "Source",
+          "url": "https://api-docs.deepseek.com/guides/search/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "1c39e9d68eba424b620ab2ff32d9ecd63f83cf57",
+      "name": "NY announces game ownership bill requiring ownership rather than licensing",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 490.2,
+      "oneLiner": "뉴욕에서 게임을 소유권으로 규정하려는 법안이 발표됐다.",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "425p · 196c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50136536"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "4b0b573ec8933d65c39a08ddefe899aba3ee9e41",
+      "name": "Namecheap just seized and disabled all my domains",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 450.6,
+      "oneLiner": "Namecheap이 모든 도메인을 압수·비활성화했다는 사용자 게시글이다.",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "381p · 185c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50142866"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "715cbdc4e162cc0b76b8a0bc0f843a31a8145318",
+      "name": "macOS 15.8.2 Breaks OpenGL",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 425.4,
+      "oneLiner": "macOS 15.8.2 업데이트가 OpenGL을 손상시켰다는 보고다.",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "231p · 239c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50141909"
+        },
+        {
+          "label": "Source",
+          "url": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "dec8433a30ee373556fd8fb54f1ea61aea4fc41f",
+      "name": "Florida's HOAs and condo associations are making the housing crisis worse",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 402.6,
+      "oneLiner": "플로리다의 HOA와 콘도 협회가 주택 위기를 악화시킨다고 전한다.",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "153p · 259c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50144005"
+        },
+        {
+          "label": "Source",
+          "url": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "85b06c678effe71f7ab72fc671dc016bb8d83c48",
+      "name": "Someone behind the software",
+      "section": "trending",
+      "status": "NEW",
+      "score": 304.8,
+      "oneLiner": "소프트웨어 뒤에 있는 사람들을 조명하는 글이다.",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "276p · 116c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50142573"
+        },
+        {
+          "label": "Source",
+          "url": "https://karrisaarinen.com/posts/someone-behind-the-software/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "78380d1e711609855e84ec909d100e49226f23fe",
+      "name": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 284.4,
+      "oneLiner": "Anthropic의 제안된 AI 안전 법안이 50명 사망 또는 10억 달러 시에만 발동된다고 보도한다.",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "152p · 161c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50141429"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "edc32995a74af82de559901633a993616aa829bb",
+      "name": "VikOlliver/RepRapMicron",
+      "section": "trending",
+      "status": "NEW",
+      "score": 262.24,
+      "oneLiner": "μRepRap은 마이크론 스케일용으로 설계된 3D 프린터 프로젝트다.",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "234"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "14"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-18"
+        },
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "319p · 51c"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/VikOlliver/RepRapMicron"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/VikOlliver/RepRapMicron/releases/tag/PIKA-V0.01"
+        },
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50141076"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "8818d94d62475880dfd8667ae1689d75ec57326b",
+      "name": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "section": "trending",
+      "status": "NEW",
+      "score": 240.0,
+      "oneLiner": "Sphinx는 배포 전 AI 코드에 대해 퀴즈를 내는 훅을 제공한다.",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "238p · 81c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50137950"
+        },
+        {
+          "label": "Source",
+          "url": "https://sphinx-six-theta.vercel.app/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "13a4119a178bd98cae093855a1c9ff25f293f565",
+      "name": "Parser Combinators",
+      "section": "trending",
+      "status": "NEW",
+      "score": 223.8,
+      "oneLiner": "파서 컴비네이터에 관한 개념과 구현을 설명한다.",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "219p · 77c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50139067"
+        },
+        {
+          "label": "Source",
+          "url": "https://t3.at/blog/2026-10-17-parser-combinators/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "24d4ef41da14c3bdfdde2e6c1e43315b7afde567",
+      "name": "0x23/MicroManipulatorStepper",
+      "section": "trending",
+      "status": "NEW",
+      "score": 205.48,
+      "oneLiner": "서브 마이크로미터 수준의 3D 모션 제어 플랫폼 프로젝트다.",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,059"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "276"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-18"
+        },
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "170p · 13c"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/0x23/MicroManipulatorStepper"
+        },
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50140001"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "ad342d4ad1a161617dd575b0eca87ab29ee8a9b7",
+      "name": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
+      "section": "trending",
+      "status": "NEW",
+      "score": 204.0,
+      "oneLiner": "젤다 타임라인을 오카리나 오브 타임 리메이크 전 정리해준다.",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "156p · 92c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50140769"
+        },
+        {
+          "label": "Source",
+          "url": "https://legendofhyrule.com/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "47fb9eceb50a74f8820e5b09b588846309335f13",
+      "name": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+      "section": "trending",
+      "status": "NEW",
+      "score": 201.6,
+      "oneLiner": "법률 전문가들은 메타의 새 약관이 여전히 광범위한 스크래핑을 허용한다고 경고한다.",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "216p · 60c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50139692"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/"
         }
       ],
       "tags": []
@@ -308,24 +452,24 @@
       "name": "jhaizhou-ops/d2r-mobile",
       "section": "releases",
       "status": "ONGOING",
-      "score": 189.26,
-      "oneLiner": "iOS/macOS에서 Diablo II: Resurrected를 구동하는 오픈소스 호환층",
-      "whyNow": "업데이트가 트리거가 되어 레퍼런스가 모이는 구간입니다.",
+      "score": 194.82,
+      "oneLiner": "Diablo II: Resurrected를 iOS·macOS에서 구동하는 오픈소스 호환 레이어다.",
+      "whyNow": "최근 릴리즈가 나오며 실사용 공유가 빠르게 늘고 있습니다. 운영/비용 관점 해석이 갈리며 논의가 이어지고 있습니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "3,705"
+          "value": "3,830"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "1,053"
+          "value": "1,081"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-10-17"
+          "value": "2026-10-18"
         },
         {
           "source": "GitHub",
@@ -348,153 +492,28 @@
       ]
     },
     {
-      "id": "b9366e5ae3981500ed2d535aa9a73673bca18f8d",
-      "name": "Amazon uses AI to monitor union risk in UK warehouses",
-      "section": "trending",
-      "status": "NEW",
-      "score": 154.2,
-      "oneLiner": "아마존이 영국 창고에서 노조 위험을 AI로 감시한다",
-      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "143p · 57c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50132278"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "a7d24c595ec94087980b09d79b319cbfddc924ef",
-      "name": "onehumanbeing/esp32-iphone-agent",
-      "section": "releases",
-      "status": "ONGOING",
-      "score": 147.5,
-      "oneLiner": "ESP32로 실제 아이폰을 AI 모델이 사용하도록 하는 프로젝트",
-      "whyNow": "최근 릴리즈가 나오며 실사용 공유가 빠르게 늘고 있습니다.",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "metric": "stars",
-          "value": "2,994"
-        },
-        {
-          "source": "GitHub",
-          "metric": "forks",
-          "value": "387"
-        },
-        {
-          "source": "GitHub",
-          "metric": "updated",
-          "value": "2026-10-17"
-        },
-        {
-          "source": "GitHub",
-          "metric": "release",
-          "value": "v0.1.0"
-        }
-      ],
-      "links": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/onehumanbeing/esp32-iphone-agent"
-        },
-        {
-          "label": "Release",
-          "url": "https://github.com/onehumanbeing/esp32-iphone-agent/releases/tag/v0.1.0"
-        }
-      ],
-      "tags": [
-        "agent tooling"
-      ]
-    },
-    {
-      "id": "fa31023050c79687ff4b55b477b3b456b372c6df",
-      "name": "Israeli settlers attack olive framers & Washington Post journalist in West Bank",
-      "section": "trending",
-      "status": "NEW",
-      "score": 144.6,
-      "oneLiner": "이스라엘 정착민이 요르단강 서안의 올리브 농부와 기자를 공격했다",
-      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "139p · 51c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50128297"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "8e78bfaa3a0a2eb0f75419ad0f85ead94ea135a0",
-      "name": "Dam removals are bringing fish back across the northeastern United States",
-      "section": "trending",
-      "status": "NEW",
-      "score": 143.4,
-      "oneLiner": "댐 철거로 미국 북동부에서 물고기 서식지가 돌아오고 있다",
-      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "149p · 45c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50126312"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/"
-        }
-      ],
-      "tags": []
-    },
-    {
       "id": "61731ce00dd5bfdb8571ce70504bfc2c5f733a76",
       "name": "Arekejoker/qwen21-nsfw-pose-skill",
       "section": "releases",
       "status": "ONGOING",
-      "score": 135.4,
-      "oneLiner": "Qwen-Image 2.1용 NSFW 자세 생성 스킬과 도구 모음",
-      "whyNow": "업데이트가 트리거가 되어 레퍼런스가 모이는 구간입니다.",
+      "score": 139.8,
+      "oneLiner": "Qwen-Image 2.1용 NSFW 및 포즈 생성 스킬과 관련 리소스를 제공한다.",
+      "whyNow": "새 릴리즈 영향으로 관심이 재점화되고 있습니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "2,632"
+          "value": "2,734"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "506"
+          "value": "522"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-10-17"
+          "value": "2026-10-18"
         },
         {
           "source": "GitHub",
@@ -515,45 +534,18 @@
       "tags": []
     },
     {
-      "id": "4ecc6495fee8d36db3eda3a45b9dcb8ba249c171",
-      "name": "Pele – Mermaid diagrams as themeable SVG",
-      "section": "trending",
-      "status": "NEW",
-      "score": 134.4,
-      "oneLiner": "Pele로 Mermaid 다이어그램을 테마 가능한 SVG로 변환",
-      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "186p · 19c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50132193"
-        },
-        {
-          "label": "Source",
-          "url": "https://pele.run/"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "730b29a74eeb2c0820193fdf71db333fbf11ba62",
-      "name": "liseami/CCBaga",
+      "id": "0fcaac093a22675d13657a3c01200edae32011c9",
+      "name": "feder-cr/git-ai",
       "section": "releases",
-      "status": "ONGOING",
-      "score": 127.9,
-      "oneLiner": "오픈 소스 개발 도구/프로젝트입니다.",
-      "whyNow": "버전 업데이트 이후 재확산이 시작된 흐름입니다.",
+      "status": "NEW",
+      "score": 116.9,
+      "oneLiner": "AI 에이전트용으로 설계된 Git 개념과 구현을 제시한다.",
+      "whyNow": "릴리즈 직후라 적용/마이그레이션 경험이 모이고 있습니다. 워크플로우 자동화 관점에서 재평가가 진행 중입니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "2,569"
+          "value": "2,294"
         },
         {
           "source": "GitHub",
@@ -563,55 +555,90 @@
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-10-17"
+          "value": "2026-10-18"
         },
         {
           "source": "GitHub",
           "metric": "release",
-          "value": "v0.2.48"
+          "value": "v0.2.0"
         }
       ],
       "links": [
         {
           "label": "GitHub",
-          "url": "https://github.com/liseami/CCBaga"
+          "url": "https://github.com/feder-cr/git-ai"
         },
         {
           "label": "Release",
-          "url": "https://github.com/liseami/CCBaga/releases/tag/v0.2.48"
+          "url": "https://github.com/feder-cr/git-ai/releases/tag/v0.2.0"
         }
       ],
-      "tags": []
+      "tags": [
+        "agent tooling"
+      ]
     },
     {
       "id": "ed4168b692c4ffc8abd839989f537d1695cb5d4d",
       "name": "HeyPuter/everything",
       "section": "trending",
-      "status": "NEW",
-      "score": 87.8,
-      "oneLiner": "세계 소프트웨어를 처음부터 재구축해 오픈소스로 공개하려는 프로젝트",
+      "status": "ONGOING",
+      "score": 94.64,
+      "oneLiner": "세계의 소프트웨어를 처음부터 재구축해 오픈소스로 공개하는 프로젝트다.",
       "whyNow": "활동성과 관심도가 같이 살아 있는 프로젝트입니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "2,048"
+          "value": "2,210"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "294"
+          "value": "312"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-10-17"
+          "value": "2026-10-18"
         }
       ],
       "links": [
         {
           "label": "GitHub",
           "url": "https://github.com/HeyPuter/everything"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "a5089b866dad8e731b3f2843adc894954686e33a",
+      "name": "deeplethe/solid-glass",
+      "section": "trending",
+      "status": "NEW",
+      "score": 81.14,
+      "oneLiner": "AI 애플리케이션을 위한 물리적·촉각적 디자인 시스템을 제시한다.",
+      "whyNow": "스타 증가와 업데이트 흐름이 동시에 관측되는 상승 구간입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,015"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "27"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-18"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/deeplethe/solid-glass"
         }
       ],
       "tags": []
