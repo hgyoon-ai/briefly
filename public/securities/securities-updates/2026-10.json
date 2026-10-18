@@ -2,6 +2,52 @@
   "month": "2026-10",
   "events": [
     {
+      "id": "news:메리츠증권:https://www.hankyung.com/article/2026101994076",
+      "date": "2026-10-19",
+      "company": "메리츠증권",
+      "title": "\"아이폰 듀오 사전예약 흥행에 부품 추가 발주 기대\"-메리츠",
+      "oneLiner": "메리츠증권은 아이폰 듀오 사전예약 흥행을 근거로 부품업체들의 추가 발주 가능성을 전망하는 리서치 분석을 제시함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "\"아이폰 듀오 사전예약 흥행에 부품 추가 발주 기대\"-메리츠",
+          "url": "https://www.hankyung.com/article/2026101994076"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-10-19"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202610190818429336",
+      "date": "2026-10-19",
+      "company": "한국투자증권",
+      "title": "LIG D&A, 사우디 천궁-Ⅱ 매출인식 4분기부터 본격화",
+      "oneLiner": "한국투자증권은 LIG D&A의 사우디 천궁‑II 매출 인식이 4분기부터 본격화될 것이라며 투자의견 '매수'는 유지하되 목표주가는 하향 조정했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "LIG D&A, 사우디 천궁-Ⅱ 매출인식 4분기부터 본격화",
+          "url": "https://www.fnnews.com/news/202610190818429336"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-10-19"
+    },
+    {
       "id": "news:KB증권:https://www.fnnews.com/news/202610161355322811",
       "date": "2026-10-18",
       "company": "KB증권",
@@ -23,6 +69,101 @@
       "tags": [],
       "confidence": 0.88,
       "updatedAt": "2026-10-18"
+    },
+    {
+      "id": "news:키움증권:https://www.fnnews.com/news/202610180953337113",
+      "date": "2026-10-18",
+      "company": "키움증권",
+      "title": "'삼전닉스' 일평균 순매수 20% 늘었다…반도체 선호 지속 [1% 고수의 선택]",
+      "oneLiner": "키움증권 제공 데이터에 따르면 수익률 상위 투자자들이 삼성전자·SK하이닉스 등 반도체 관련 주를 대규모 순매수한 것으로 집계됐다.",
+      "type": "리서치",
+      "areas": [
+        "트레이딩",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "'삼전닉스' 일평균 순매수 20% 늘었다…반도체 선호 지속 [1% 고수의 선택]",
+          "url": "https://www.fnnews.com/news/202610180953337113"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-10-19"
+    },
+    {
+      "id": "news:키움증권:https://www.fnnews.com/news/202610181820338157",
+      "date": "2026-10-18",
+      "company": "키움증권",
+      "title": "'삼전닉스' 하루 21% 더 샀다... 부품·장비에 전력株까지 담아 [1% 고수의 선택]",
+      "oneLiner": "키움증권의 집계에서 수익률 상위 투자자들의 삼성전자·SK하이닉스 순매수 강도가 전주 대비 증가한 것으로 나타났다.",
+      "type": "리서치",
+      "areas": [
+        "트레이딩",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "'삼전닉스' 하루 21% 더 샀다... 부품·장비에 전력株까지 담아 [1% 고수의 선택]",
+          "url": "https://www.fnnews.com/news/202610181820338157"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-10-19"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202610181820400355",
+      "date": "2026-10-18",
+      "company": "한국투자증권",
+      "title": "‘나스닥 옵션’ 활용… 반도체 성장 누리고 월 배당도 챙긴다 [이런 펀드 어때요?]",
+      "oneLiner": "해당 기사는 한국투자신탁운용의 'ACE 미국반도체데일리타겟커버드콜' ETF를 소개하며 반도체 장기 성장과 월 배당 전략을 설명하는 리서치성 상품 소개이다.",
+      "type": "리서치",
+      "areas": [
+        "리서치",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "‘나스닥 옵션’ 활용… 반도체 성장 누리고 월 배당도 챙긴다 [이런 펀드 어때요?]",
+          "url": "https://www.fnnews.com/news/202610181820400355"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-10-19"
+    },
+    {
+      "id": "news:토스증권:https://www.fnnews.com/news/202610181823281472",
+      "date": "2026-10-18",
+      "company": "토스증권",
+      "title": "토스證, 대표 직속 내부통제 TF 가동",
+      "oneLiner": "토스증권이 대표 직속 내부통제 TF를 가동하고 윤리·준법경영을 인사평가와 보상에 반영하는 등 내부통제·준법 체계 강화를 발표했다.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "토스證, 대표 직속 내부통제 TF 가동",
+          "url": "https://www.fnnews.com/news/202610181823281472"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-10-19"
     },
     {
       "id": "news:KB증권:https://www.mk.co.kr/news/stock/12177436",
@@ -137,7 +278,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-10-18"
+      "updatedAt": "2026-10-19"
     },
     {
       "id": "news:한국투자증권:https://www.hankyung.com/article/202610154070i",

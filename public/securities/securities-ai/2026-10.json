@@ -2,6 +2,30 @@
   "month": "2026-10",
   "events": [
     {
+      "id": "news:하나증권:https://www.fnnews.com/news/202610190716184038",
+      "date": "2026-10-19",
+      "company": "하나증권",
+      "title": "D램값 오르는데 반도체주는 급락…금리·원가 부담에 커진 AI 투자 공포",
+      "oneLiner": "하나증권 연구원이 D램 가격은 상승할 것으로 보이나 금리와 원가 부담으로 AI 투자 우려가 커져 반도체주가 급락했다고 진단한 리서치 기사.",
+      "type": "리서치",
+      "areas": [
+        "리서치",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "D램값 오르는데 반도체주는 급락…금리·원가 부담에 커진 AI 투자 공포",
+          "url": "https://www.fnnews.com/news/202610190716184038"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-10-19"
+    },
+    {
       "id": "news:한국투자증권:https://www.hankyung.com/article/2026101659126",
       "date": "2026-10-16",
       "company": "한국투자증권",
