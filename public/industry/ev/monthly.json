@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-09-19",
-    "to": "2026-10-18"
+    "from": "2026-09-20",
+    "to": "2026-10-19"
   },
   "kpis": {
     "collected": 54,
@@ -9,71 +9,104 @@
     "uniqueTopics": 7,
     "marketShare": {
       "Roadmap": 27,
-      "Competition": 26,
-      "Demand": 21,
-      "Investment": 17,
-      "Manufacturing": 9,
-      "Other": 0
+      "Competition": 25,
+      "Demand": 22,
+      "Investment": 16,
+      "Policy": 9,
+      "Other": 1
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (09/19-09/25)",
+      "week": "Week 1 (09/20-09/26)",
       "topicCounts": {
         "Roadmap": 11,
         "Competition": 11,
-        "Demand": 5,
-        "Investment": 7,
-        "Manufacturing": 3
+        "Demand": 6,
+        "Investment": 6,
+        "Policy": 3
       }
     },
     {
-      "week": "Week 2 (09/26-10/02)",
+      "week": "Week 2 (09/27-10/03)",
       "topicCounts": {
         "Roadmap": 11,
         "Competition": 7,
-        "Demand": 8,
-        "Investment": 7,
-        "Manufacturing": 3
+        "Demand": 7,
+        "Investment": 6,
+        "Policy": 4
       }
     },
     {
-      "week": "Week 3 (10/03-10/09)",
+      "week": "Week 3 (10/04-10/10)",
       "topicCounts": {
-        "Roadmap": 7,
-        "Competition": 5,
-        "Demand": 5,
-        "Investment": 3,
-        "Manufacturing": 3
+        "Roadmap": 8,
+        "Competition": 6,
+        "Demand": 6,
+        "Investment": 4,
+        "Policy": 3
       }
     },
     {
-      "week": "Week 4 (10/10-10/16)",
+      "week": "Week 4 (10/11-10/17)",
       "topicCounts": {
-        "Roadmap": 9,
-        "Competition": 11,
+        "Roadmap": 6,
+        "Competition": 10,
         "Demand": 9,
-        "Investment": 8,
-        "Manufacturing": 4
+        "Investment": 6,
+        "Policy": 4
       }
     },
     {
-      "week": "Week 5 (10/17-10/18)",
+      "week": "Week 5 (10/18-10/19)",
       "topicCounts": {
         "Roadmap": 2,
-        "Competition": 2,
+        "Competition": 1,
         "Demand": 2,
-        "Investment": 0,
-        "Manufacturing": 0
+        "Investment": 1,
+        "Policy": 1
       }
     }
   ],
   "topIssues": [
     {
-      "id": 1,
+      "id": "ev-1",
       "status": "NEW",
-      "title": "초고성능 전기 SUV 경쟁 본격화: 메르세데스-AMG GT 전기 SUV 공개",
-      "summary": "메르세데스-AMG가 최고 1,153마력, 710kW 초급속 DC 충전을 지원하는 AMG GT 전기 SUV를 공개하며 럭셔리·퍼포먼스 EV 시장 경쟁이 한층 격화되고 있다. 테슬라·포르쉐·리비안 등 기존 고성능 전기 SUV와의 성능·충전 속도 경쟁이 심화될 전망이다.",
+      "title": "전기 세미 트럭, 전력망·비상전원까지 겸하는 ‘모바일 메가팩’으로 부상",
+      "summary": "오리건 전력사 PGE가 중·대형 전기 세미 트럭을 ‘바퀴 달린 대형 배터리’로 규정하며, 차량 전동화가 운송 부문의 탈탄소화를 넘어 전력망 안정화(V2G)와 비상 백업 전원 역할까지 수행할 수 있음을 강조하고 있다. 이는 상용 EV 도입이 유틸리티의 분산자원 전략 및 극단적 기상 상황 대비 레질리언스 투자와 직접 연결될 수 있음을 시사한다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "PGE gets it: electric semi trucks provide HEAVY DUTY backup for the grid [video]",
+          "url": "https://electrek.co/2026/10/18/pge-gets-it-electric-semi-trucks-provide-heavy-duty-backup-for-the-grid-video/"
+        },
+        {
+          "source": "Electrek",
+          "title": "BYD builds 150,000th commercial NEV – an 800 hp Q3 electric semi truck",
+          "url": "https://electrek.co/2026/10/10/byd-builds-150000th-commercial-nev-an-800-hp-q3-electric-semi-truck/"
+        }
+      ]
+    },
+    {
+      "id": "ev-2",
+      "status": "NEW",
+      "title": "소형·모듈형 주거용 배터리, 가정용 에너지 저장 시장 저변 확대 가속",
+      "summary": "에코플로우가 작은 용량에서 시작해 모듈 식으로 확장 가능한 주거용 에너지 저장 시스템을 내놓으며, 고가의 대형 ESS에 진입하기 어려웠던 소비자층을 흡수하려 하고 있다. 이처럼 ‘작게 시작해 키우는’ 가정용 배터리는 정전 대비 백업 수요와 자가 소비·시간대별 요금제 대응 수요를 동시 공략하며 분산형 에너지 인프라 확대에 기여할 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tiny Titan: new residential battery system from EcoFlow starts small",
+          "url": "https://electrek.co/2026/10/18/tiny-titan-new-residential-battery-system-from-ecoflow-starts-small/"
+        }
+      ]
+    },
+    {
+      "id": "ev-3",
+      "status": "NEW",
+      "title": "초고성능·초급속 충전 전기 SUV, 프리미엄 EV 세그먼트 경쟁 격화",
+      "summary": "메르세데스-AMG가 최대 1,153마력, 710kW급 초급속 DC 충전을 지원하는 AMG GT 전기 SUV를 공개하며, 프리미엄·고성능 EV 시장에서 스펙 경쟁을 한층 끌어올리고 있다. 이는 테슬라·포르쉐·중국 프리미엄 브랜드와의 직·간접 경쟁을 예고하며, 충전 인프라가 초고출력 지원 방향으로 더 빨리 진화해야 할 필요성도 부각한다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -84,10 +117,10 @@
       ]
     },
     {
-      "id": 2,
+      "id": "ev-4",
       "status": "ONGOING",
-      "title": "전기자전거 시장 성숙: 가격대별 베스트 모델 재정리",
-      "summary": "장기 실사용 데이터를 기반으로 한 10월 전기자전거 추천 리스트가 공개되며, 보급형부터 프리미엄까지 세분화된 수요 구조와 브랜드 경쟁 구도가 재확인되고 있다. 이는 도심 이동 수단으로서 e-바이크가 EV 생태계의 주요 축으로 자리 잡고 있음을 보여준다.",
+      "title": "소형 모빌리티로 확산되는 전동화, 전기자전거가 ‘보급형 EV’ 역할",
+      "summary": "Electrek의 가격대별 전기자전거 추천 리스트는 e-바이크가 자동차 대체 교통수단이자 입문형 EV로 자리 잡았음을 보여 준다. 도심 통근·라스트마일 이동·레저까지 커버하는 다양한 가격·스펙의 모델이 등장하면서, 전기자전거는 충전 인프라 부담이 적은 저비용 전동화 옵션으로 EV 생태계의 모빌리티 스펙트럼을 넓히고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -98,44 +131,16 @@
       ]
     },
     {
-      "id": 3,
+      "id": "ev-5",
       "status": "ONGOING",
-      "title": "테슬라 FSD 안전성 논란 재점화: 주행 중 수면 사고",
-      "summary": "캘리포니아에서 테슬라 FSD 활성화 상태에서 운전자가 잠든 사이 순찰차를 들이받는 사고가 발생해 경찰관 2명이 중상을 입었다. 이번 사고로 레벨2/레벨3 자율주행의 책임 범위, 운전자 감시 의무, 규제 강화 필요성에 대한 논쟁이 다시 커지고 있다.",
+      "title": "테슬라 FSD 사고, 자율주행 안전 규제와 책임 공방 재점화",
+      "summary": "운전자가 잠든 상태에서 테슬라 FSD가 작동 중이던 차량이 고속도로 순찰차를 들이받아 경찰관 2명이 다친 사고로, 부분 자율주행 시스템의 한계와 사용자 오남용, 그리고 제조사와 운전자 간 책임 범위가 다시 쟁점으로 떠오르고 있다. 주·연방 규제기관의 소프트웨어 인증·모니터링 강화와 광고·기능명에 대한 규제 논의가 중장기적으로 EV·AV 정책 환경을 바꿀 수 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
           "title": "Tesla driver says he was asleep on FSD when he hit CHP car, 2 officers hurt",
           "url": "https://electrek.co/2026/10/16/tesla-fsd-crash-chp-patrol-car-driver-asleep-fairfield/"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "status": "NEW",
-      "title": "리비안 로보틱스 스핀오프 ‘마인드 로보틱스’에 더그 필드 합류",
-      "summary": "테슬라 모델 3와 포드 EV 개발을 이끌었던 더그 필드가 리비안 분사 기업 마인드 로보틱스 사장으로 합류했다. 설립 1년 미만 스타트업이 이미 10억 달러 이상을 조달한 가운데, EV 제조 노하우가 산업 로보틱스·자동화 영역으로 확장되며 생산성 혁신 경쟁이 가속화되고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "Rivian’s Mind Robotics snags Doug Field, ex-Tesla and Ford EV chief",
-          "url": "https://electrek.co/2026/10/13/rivian-mind-robotics-doug-field-president-tesla-ford/"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "status": "NEW",
-      "title": "시트로엥, 2028년 1.5만 유로 전기 2CV 콘셉트로 초저가 EV 공략",
-      "summary": "시트로엥이 클래식 모델 2CV를 재해석한 전기 콘셉트를 공개하고 2028년 약 1.5만 유로 가격을 목표로 제시했다. 유럽 내 보급형·도심형 EV 수요를 겨냥해 레트로 디자인과 저가 전략을 결합하며, 르노·피아트·중국 업체와의 가격 경쟁이 본격화될 전망이다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "The legendary Citroen 2CV is back as a €15k electric concept for 2028",
-          "url": "https://electrek.co/2026/10/11/the-legendary-citroen-2cv-is-back-as-a-e15k-electric-concept-for-2028/"
         }
       ]
     }

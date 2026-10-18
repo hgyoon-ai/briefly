@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-09-19",
-    "to": "2026-10-18"
+    "from": "2026-09-20",
+    "to": "2026-10-19"
   },
   "kpis": {
     "collected": 78,
@@ -18,47 +18,47 @@
   },
   "weeklyData": [
     {
-      "week": "Week 1 (09/19-09/25)",
+      "week": "Week 1 (09/20-09/26)",
       "topicCounts": {
         "Tooling": 11,
-        "Product": 7,
-        "Models": 10,
+        "Product": 8,
+        "Models": 11,
         "Infra": 7,
         "Research": 9
       }
     },
     {
-      "week": "Week 2 (09/26-10/02)",
+      "week": "Week 2 (09/27-10/03)",
       "topicCounts": {
-        "Tooling": 16,
-        "Product": 12,
-        "Models": 12,
+        "Tooling": 19,
+        "Product": 15,
+        "Models": 14,
         "Infra": 9,
-        "Research": 5
+        "Research": 6
       }
     },
     {
-      "week": "Week 3 (10/03-10/09)",
+      "week": "Week 3 (10/04-10/10)",
       "topicCounts": {
-        "Tooling": 9,
-        "Product": 8,
-        "Models": 4,
-        "Infra": 2,
+        "Tooling": 11,
+        "Product": 10,
+        "Models": 5,
+        "Infra": 4,
         "Research": 4
       }
     },
     {
-      "week": "Week 4 (10/10-10/16)",
+      "week": "Week 4 (10/11-10/17)",
       "topicCounts": {
-        "Tooling": 13,
-        "Product": 10,
-        "Models": 13,
-        "Infra": 7,
-        "Research": 9
+        "Tooling": 18,
+        "Product": 14,
+        "Models": 15,
+        "Infra": 10,
+        "Research": 10
       }
     },
     {
-      "week": "Week 5 (10/17-10/18)",
+      "week": "Week 5 (10/18-10/19)",
       "topicCounts": {
         "Tooling": 0,
         "Product": 0,
@@ -72,8 +72,8 @@
     {
       "id": "ai-1",
       "status": "ONGOING",
-      "title": "대형 금융기관의 전사 생성형 AI 도입과 거버넌스",
-      "summary": "브라질 대형 은행 Itaú가 전 고객·직원 대상 생성형 AI를 구축하며, 대화형 인터페이스(ia.i)와 거버넌스 플랫폼(IARA)을 결합해 규제가 엄격한 금융 환경에서도 AI First 전략을 운영하는 사례가 제시되고 있습니다.",
+      "title": "대형 금융권의 전사적 생성형 AI 도입과 거버넌스 구축",
+      "summary": "브라질 대형 은행 Itaú가 고객·직원을 모두 대상으로 하는 AI First 전략을 추진하며, ia.i 대화 인터페이스와 IARA 거버넌스 플랫폼을 기반으로 엄격한 금융 규제 환경에서 대규모 생성형 AI 활용 체계를 구축하고 있습니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -86,8 +86,8 @@
     {
       "id": "ai-2",
       "status": "NEW",
-      "title": "로컬 워크스테이션 기반 통합 AI 개발·배포 환경",
-      "summary": "NVIDIA RTX Spark가 한 대의 머신에서 코드 작성, 테스트, 배포까지 지원하는 통합 개발 환경을 공개해, AI 에이전트를 통한 코드 생성·검증·배포 자동화를 로컬 워크스테이션 수준에서 구현하려는 움직임이 가속화되고 있습니다.",
+      "title": "단일 워크스테이션용 AI 통합 개발·배포 환경",
+      "summary": "NVIDIA RTX Spark는 한 대의 머신에서 코드 작성, 테스트, 배포까지를 통합한 환경을 제공하고, AI 에이전트를 활용해 코드 생성과 검증·배포 과정을 자동화해 개발 워크플로우 효율을 높이고 있습니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -100,8 +100,8 @@
     {
       "id": "ai-3",
       "status": "ONGOING",
-      "title": "인도계 언어권을 위한 대규모 오픈 사전학습 데이터 파이프라인",
-      "summary": "2.8조 토큰 규모의 인디크 언어 사전학습 데이터를 구축하는 오픈 파이프라인이 공개되어, 데이터 수집·정제·중복 제거와 라이선스 검증 과정을 자동화함으로써 비영어권 대형 언어모델 개발의 재현성과 법적 안정성을 높이고 있습니다.",
+      "title": "인도계 언어권을 위한 초대규모 사전학습 데이터 파이프라인 공개",
+      "summary": "Hugging Face와 파트너들이 2.8조 토큰 규모 인디크 언어 데이터셋과 오픈 데이터 생성 파이프라인을 공개해, 수집·정제·중복 제거를 자동화하고 재현성과 라이선스 문제를 해결하며 저대표 언어권 LLM 연구를 촉진하고 있습니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -114,8 +114,8 @@
     {
       "id": "ai-4",
       "status": "NEW",
-      "title": "초대규모 오픈 모델 소유·맞춤화·확장 트렌드",
-      "summary": "Hugging Face가 501B 파라미터 규모의 오픈 모델 Beam을 공개해, 사용자가 모델을 직접 소유하고 파인튜닝과 배포를 수행할 수 있는 초대규모 오픈 모델 생태계가 본격화되고 있습니다.",
+      "title": "501B 파라미터급 오픈 소스 거대 언어 모델 ‘Beam’ 공개",
+      "summary": "Hugging Face가 501B 규모의 오픈 모델 Beam을 발표해, 사용자가 모델을 직접 소유·배포하고 맞춤형 파인튜닝과 스케일링을 할 수 있도록 지원함으로써 초대형 모델의 개방·자기 소유형 활용 흐름을 강화하고 있습니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -128,8 +128,8 @@
     {
       "id": "ai-5",
       "status": "ONGOING",
-      "title": "과학 발견 가속을 위한 AI 기반 분자의학 연구",
-      "summary": "Google Antigravity for Science를 활용해 항미생물 펩타이드 후보의 설계·평가를 자동화함으로써, 머신러닝이 신약·항균 물질 탐색의 시간과 비용을 크게 줄이는 도구로 자리잡아가고 있습니다.",
+      "title": "AI 기반 항미생물 펩타이드 후보 설계로 신약 탐색 가속",
+      "summary": "Google Antigravity for Science를 활용해 머신러닝 모델로 항미생물 펩타이드 후보의 설계·평가를 자동화함으로써, 신약 후보 탐색에 필요한 실험 시간과 비용을 크게 절감하는 AI-생명과학 융합 연구가 진행되고 있습니다.",
       "articleCount": 1,
       "relatedArticles": [
         {

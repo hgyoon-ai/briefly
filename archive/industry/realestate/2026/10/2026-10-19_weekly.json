@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-10-13",
+    "to": "2026-10-19"
+  },
+  "kpis": {
+    "collected": 29,
+    "deduped": 29,
+    "uniqueTopics": 10
+  },
+  "topTopics": [
+    {
+      "name": "Policy",
+      "count": 19
+    },
+    {
+      "name": "Supply",
+      "count": 18
+    },
+    {
+      "name": "Market",
+      "count": 17
+    },
+    {
+      "name": "Construction",
+      "count": 11
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 6
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Supply",
+      "count": 4
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Market",
+      "count": 4
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Construction",
+      "count": 2
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 4
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Supply",
+      "count": 3
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Market",
+      "count": 2
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Construction",
+      "count": 4
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 3
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Supply",
+      "count": 4
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Market",
+      "count": 2
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Construction",
+      "count": 3
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 3
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Supply",
+      "count": 3
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Market",
+      "count": 4
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Construction",
+      "count": 1
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Supply",
+      "count": 1
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Market",
+      "count": 1
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Construction",
+      "count": 0
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Supply",
+      "count": 3
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Market",
+      "count": 4
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Construction",
+      "count": 1
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Market",
+      "count": 0
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Construction",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "수도권 전·월세 매물 급감으로 비아파트까지 번진 임대차 대란",
+      "summary": "수도권 전·월세 매물이 전년 대비 약 36% 줄며 빌라 등 비아파트까지 임대차 대란이 확산되고 있다. 공급 부족과 전세·월세 전환이 겹치며 임대료 상승 압력과 체감 불안이 커지는 양상이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "빌라까지 전월세대란…수도권 매물 36% 뚝",
+          "url": "https://www.mk.co.kr/news/realestate/12179067"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "기존 빌라·비아파트 담보대출 규제 완화 요구와 공급 확대 논쟁",
+      "summary": "정부가 신축 위주로만 매입·전세 대출을 지원하는 가운데, 업계는 기존 빌라 등 기축 비아파트에도 대출 완화가 필요하다고 주장하고 있다. 비아파트 금융 규제가 공급 확대를 가로막고 서민 주거비 부담을 키운다는 지적이 이어진다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "\"신축 매입때만 대출 지원 역부족 기존 빌라도 풀어줘야 공급 가속\"",
+          "url": "https://www.mk.co.kr/news/realestate/12179057"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "청년·신혼부부 대상 저금리 전세 정책대출 확대",
+      "summary": "청년과 신혼부부를 대상으로 한 저금리 전세금 정책대출이 도입·확대되며 전세 보증금 마련 부담을 덜어주는 역할을 하고 있다. 우대 금리와 한도 확대를 통해 고금리 시장에서 취약계층의 임대주택 접근성을 높이려는 정책 기조가 강화되는 흐름이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "저금리 전세금 정책대출…청년·신혼부부 주목",
+          "url": "https://www.hankyung.com/article/2026101888101"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "8·13 대책 후속 ‘디지털 주택공급 상황판’과 정례 브리핑 도입",
+      "summary": "정부가 8·13 공급대책의 착공·분양·입주 진행 상황을 월 2회 정례브리핑과 디지털 주택공급 상황판으로 공개하기로 했다. 총리실까지 나서 공급 실적을 수시 점검하며 시장의 불신과 ‘공급 못 한다’는 비판을 진화하려는 시도가 이어지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "“집 못 지어 미친 것 처럼” 李 정부, 주택공급 정례브리핑 실시…총리실까지 나선 건 ‘최초’ [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10905979"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "무주택자 ‘생존 매수’ 우려와 집값·금리·공급 불균형",
+      "summary": "전문가들은 공급 부족, 고금리, 대출·세제 규제가 맞물리며 무주택자가 장기 전·월세보다 ‘지금이라도 집 사야 산다’는 생존형 매수 심리에 내몰릴 수 있다고 경고한다. 실수요자의 조기 매수 압력이 커지면서 시장 왜곡과 취약계층 부담 심화가 우려된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "\"무주택자 '생존 매수'하는 시대 온다\"…전문가 경고 들어보니",
+          "url": "https://www.hankyung.com/article/2026101778407"
+        }
+      ]
+    }
+  ]
+}

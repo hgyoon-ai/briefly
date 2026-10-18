@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-09-19",
-    "to": "2026-10-18"
+    "from": "2026-09-20",
+    "to": "2026-10-19"
   },
   "kpis": {
     "collected": 67,
@@ -18,47 +18,47 @@
   },
   "weeklyData": [
     {
-      "week": "Week 1 (09/19-09/25)",
+      "week": "Week 1 (09/20-09/26)",
       "topicCounts": {
-        "Roadmap": 11,
-        "Competition": 9,
-        "Manufacturing": 8,
+        "Roadmap": 13,
+        "Competition": 10,
+        "Manufacturing": 9,
         "Investment": 6,
-        "Demand": 5
+        "Demand": 6
       }
     },
     {
-      "week": "Week 2 (09/26-10/02)",
+      "week": "Week 2 (09/27-10/03)",
       "topicCounts": {
-        "Roadmap": 16,
-        "Competition": 15,
-        "Manufacturing": 5,
-        "Investment": 8,
+        "Roadmap": 21,
+        "Competition": 19,
+        "Manufacturing": 7,
+        "Investment": 11,
         "Demand": 8
       }
     },
     {
-      "week": "Week 3 (10/03-10/09)",
+      "week": "Week 3 (10/04-10/10)",
       "topicCounts": {
-        "Roadmap": 7,
-        "Competition": 7,
-        "Manufacturing": 5,
+        "Roadmap": 9,
+        "Competition": 9,
+        "Manufacturing": 7,
         "Investment": 3,
         "Demand": 3
       }
     },
     {
-      "week": "Week 4 (10/10-10/16)",
+      "week": "Week 4 (10/11-10/17)",
       "topicCounts": {
-        "Roadmap": 13,
-        "Competition": 10,
-        "Manufacturing": 10,
-        "Investment": 6,
-        "Demand": 3
+        "Roadmap": 14,
+        "Competition": 12,
+        "Manufacturing": 13,
+        "Investment": 8,
+        "Demand": 5
       }
     },
     {
-      "week": "Week 5 (10/17-10/18)",
+      "week": "Week 5 (10/18-10/19)",
       "topicCounts": {
         "Roadmap": 0,
         "Competition": 0,
@@ -72,8 +72,8 @@
     {
       "id": 1,
       "status": "ONGOING",
-      "title": "AI 수요 대응을 위한 글로벌 팹 증설·인프라 확충 가속",
-      "summary": "SEMICON West 2026에서 고성능·대규모 AI 컴퓨팅 수요에 맞춰 팹 인프라 확장과 설비 투자가 핵심 과제로 부각되었다. 공급망 안정과 생산능력 확대 없이는 AI 시대 수요를 뒷받침하기 어렵다는 공감대가 형성되며, 각국·각사의 장기 제조 로드맵 재정비가 진행 중이다.",
+      "title": "AI 시대 반도체 팹 인프라 확장과 공급망 강화 가속",
+      "summary": "SEMICON West 2026에서 고성능·대규모 AI 컴퓨팅 수요에 대응하기 위한 팹 인프라 확장, 설비 투자, 공급망 강화 전략이 핵심 의제로 논의되고 있다. 이는 글로벌 반도체 제조 역량 재편과 장기적인 생산능력 증설 방향을 보여준다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -86,8 +86,8 @@
     {
       "id": 2,
       "status": "ONGOING",
-      "title": "대만 AI 반도체 전략, 인재 부족이 최대 병목으로 부상",
-      "summary": "대만은 랙-스케일 AI, 물리적 AI, AI PC 등 차세대 AI 시스템에서 제조·공급 허브를 노리지만, 숙련된 AI·반도체 인재 부족이 성장 한계를 초래하고 있다. 인력 격차 해소 여부가 향후 AI 반도체 경쟁력과 생태계 확대의 핵심 변수로 떠오르고 있다.",
+      "title": "대만 AI 반도체 전략의 핵심 제약 요인: 인력 격차",
+      "summary": "대만은 랙-스케일 AI, 물리적 AI, AI PC 등에서 큰 성장 기회를 보유하지만, 고급 AI·반도체 인재 부족이 생태계 확장의 최대 병목으로 부각되고 있다. 이는 기술·제조 경쟁력 유지에 인력 정책과 교육 투자 강화가 필수임을 시사한다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -100,8 +100,8 @@
     {
       "id": 3,
       "status": "SHIFTING",
-      "title": "메모리 중심 서버 구조로의 전환, 차세대 AI 인프라 핵심 화두",
-      "summary": "SK하이닉스는 OCP Global Summit 2026에서 메모리 중심 서버 시스템 비전을 제시하며, AI 데이터 폭증에 따른 병목을 차세대 메모리 기술로 해소해야 한다고 강조했다. HBM 등 고대역폭 메모리와 새로운 시스템 아키텍처가 향후 AI 인프라 경쟁의 주요 전장이 되고 있다.",
+      "title": "메모리 중심 서버 아키텍처로 AI 인프라 패러다임 전환",
+      "summary": "SK하이닉스는 OCP Global Summit 2026에서 메모리 중심 서버 시스템을 제안하며, AI 데이터 폭증으로 인한 병목을 차세대 메모리 기술로 해결하겠다는 비전을 제시했다. 이는 AI용 반도체 인프라가 CPU·GPU 중심에서 메모리 대역폭·용량 중심으로 이동하고 있음을 보여준다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -114,8 +114,8 @@
     {
       "id": 4,
       "status": "NEW",
-      "title": "Applied Materials, 50억 달러 EPIC 센터로 반도체 혁신 R&D 모델 재편",
-      "summary": "Applied Materials가 50억 달러 규모 EPIC 센터를 설립해 칩 제조사, 장비 업체, 연구기관을 한데 모으는 공동 R&D 허브를 구축한다. 이를 통해 공정·소재 혁신의 상용화 속도를 높이고, 차세대 반도체 기술 개발에서 새로운 협력·투자 모델을 제시하고 있다.",
+      "title": "반도체 혁신 모델 전환: Applied Materials의 50억 달러 EPIC 공동 R&D 센터",
+      "summary": "Applied Materials가 50억 달러 규모 EPIC 센터 설립을 통해 팹 장비사, 칩 제조사, 연구기관을 한데 모으는 새로운 공동 R&D·상용화 모델을 추진한다. 이는 공정·소자 혁신의 리드타임을 줄이고 차세대 반도체 기술 상용화를 앞당기려는 산업 전반의 구조 변화 시도로 볼 수 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -128,8 +128,8 @@
     {
       "id": 5,
       "status": "NEW",
-      "title": "삼성전자 2026년 3분기 가이던스, 반도체 슈퍼사이클 기대 반영",
-      "summary": "삼성전자가 2026년 3분기 연결 매출 약 195조원, 영업이익 약 107.40조원의 실적 가이던스를 제시했다. AI·고성능 컴퓨팅 수요 확대에 따른 메모리·파운드리 업황 개선과 단가 회복이 실적 전망에 반영되며, 반도체 슈퍼사이클 가능성이 재조명되고 있다.",
+      "title": "AI 호황이 견인한 삼성전자 2026년 3분기 실적 모멘텀",
+      "summary": "삼성전자가 2026년 3분기 실적 가이던스에서 매출 195조원, 영업이익 107.40조원을 제시하며 반도체·AI 수요 회복에 따른 실적 레벨업을 시사했다. 이는 메모리·파운드리 등 반도체 부문의 업황 개선과 대규모 투자 여력을 동시에 강화하는 신호로 해석된다.",
       "articleCount": 1,
       "relatedArticles": [
         {

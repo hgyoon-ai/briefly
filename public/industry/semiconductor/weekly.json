@@ -1,69 +1,33 @@
 {
   "range": {
-    "from": "2026-10-12",
-    "to": "2026-10-18"
+    "from": "2026-10-13",
+    "to": "2026-10-19"
   },
   "kpis": {
-    "collected": 17,
-    "deduped": 17,
+    "collected": 15,
+    "deduped": 15,
     "uniqueTopics": 6
   },
   "topTopics": [
-    {
-      "name": "Roadmap",
-      "count": 14
-    },
-    {
-      "name": "Manufacturing",
-      "count": 13
-    },
     {
       "name": "Competition",
       "count": 12
     },
     {
+      "name": "Roadmap",
+      "count": 12
+    },
+    {
+      "name": "Manufacturing",
+      "count": 11
+    },
+    {
       "name": "Investment",
-      "count": 8
+      "count": 7
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-10-12",
-      "dayOfWeek": "Mon",
-      "topic": "Roadmap",
-      "count": 1
-    },
-    {
-      "date": "2026-10-12",
-      "dayOfWeek": "Mon",
-      "topic": "Manufacturing",
-      "count": 1
-    },
-    {
-      "date": "2026-10-12",
-      "dayOfWeek": "Mon",
-      "topic": "Competition",
-      "count": 0
-    },
-    {
-      "date": "2026-10-12",
-      "dayOfWeek": "Mon",
-      "topic": "Investment",
-      "count": 0
-    },
-    {
-      "date": "2026-10-13",
-      "dayOfWeek": "Tue",
-      "topic": "Roadmap",
-      "count": 2
-    },
-    {
-      "date": "2026-10-13",
-      "dayOfWeek": "Tue",
-      "topic": "Manufacturing",
-      "count": 2
-    },
-    {
       "date": "2026-10-13",
       "dayOfWeek": "Tue",
       "topic": "Competition",
@@ -72,20 +36,20 @@
     {
       "date": "2026-10-13",
       "dayOfWeek": "Tue",
-      "topic": "Investment",
+      "topic": "Roadmap",
       "count": 1
     },
     {
-      "date": "2026-10-14",
-      "dayOfWeek": "Wed",
-      "topic": "Roadmap",
-      "count": 5
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Manufacturing",
+      "count": 1
     },
     {
-      "date": "2026-10-14",
-      "dayOfWeek": "Wed",
-      "topic": "Manufacturing",
-      "count": 5
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 0
     },
     {
       "date": "2026-10-14",
@@ -96,20 +60,20 @@
     {
       "date": "2026-10-14",
       "dayOfWeek": "Wed",
-      "topic": "Investment",
-      "count": 2
-    },
-    {
-      "date": "2026-10-15",
-      "dayOfWeek": "Thu",
       "topic": "Roadmap",
       "count": 5
     },
     {
-      "date": "2026-10-15",
-      "dayOfWeek": "Thu",
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
       "topic": "Manufacturing",
-      "count": 1
+      "count": 5
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Investment",
+      "count": 2
     },
     {
       "date": "2026-10-15",
@@ -120,8 +84,26 @@
     {
       "date": "2026-10-15",
       "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 5
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
       "topic": "Investment",
       "count": 2
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 3
     },
     {
       "date": "2026-10-16",
@@ -138,18 +120,18 @@
     {
       "date": "2026-10-16",
       "dayOfWeek": "Fri",
-      "topic": "Competition",
-      "count": 3
-    },
-    {
-      "date": "2026-10-16",
-      "dayOfWeek": "Fri",
       "topic": "Investment",
       "count": 2
     },
     {
       "date": "2026-10-17",
       "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
       "topic": "Roadmap",
       "count": 0
     },
@@ -158,12 +140,6 @@
       "dayOfWeek": "Sat",
       "topic": "Manufacturing",
       "count": 1
-    },
-    {
-      "date": "2026-10-17",
-      "dayOfWeek": "Sat",
-      "topic": "Competition",
-      "count": 0
     },
     {
       "date": "2026-10-17",
@@ -174,6 +150,12 @@
     {
       "date": "2026-10-18",
       "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
       "topic": "Roadmap",
       "count": 0
     },
@@ -186,12 +168,30 @@
     {
       "date": "2026-10-18",
       "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
       "topic": "Competition",
       "count": 0
     },
     {
-      "date": "2026-10-18",
-      "dayOfWeek": "Sun",
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
       "topic": "Investment",
       "count": 0
     }
@@ -200,8 +200,8 @@
     {
       "id": 1,
       "status": "ONGOING",
-      "title": "AI 시대 대비 글로벌 팹·설비 투자 확대와 생산능력 증설 압박",
-      "summary": "SEMICON West 2026에서 고성능·대규모 AI 컴퓨팅 수요 대응을 위해 팹 인프라 확충, 첨단 장비 투자, 공급망 안정화가 핵심 과제로 재부상했다. 미세공정·고성능 칩 수요가 급증하면서 기존 생산능력만으로는 수요를 따라가기 어렵다는 공감대가 형성되었고, 장비·소재·파운드리 전 밸류체인이 동시에 증설과 협업을 추진해야 한다는 방향성이 확인됐다.",
+      "title": "AI 시대 대응을 위한 글로벌 팹 증설·설비투자 가속",
+      "summary": "SEMICON West 2026 논의에서 확인되듯, 고성능·대규모 AI 컴퓨팅 수요 급증에 대응하기 위해 전 세계 반도체 업계가 팹 인프라 확장과 첨단 설비투자를 핵심 과제로 재확인했다. 생산능력 확대와 공급망 강화 전략이 중장기 투자 의사결정의 중심 이슈로 부상했다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -214,8 +214,8 @@
     {
       "id": 2,
       "status": "ONGOING",
-      "title": "대만 AI 반도체 야심과 인재 격차 심화",
-      "summary": "대만은 랙-스케일 AI, 물리적 AI, AI PC 등에서 강점을 기반으로 차세대 AI 반도체 허브를 노리지만, 고급 AI·반도체 설계·시스템 아키텍처 인재 부족이 병목으로 부각되고 있다. 첨단 공정·후공정에 이어 AI 시스템·소프트웨어 역량까지 요구되면서 인재 확보 경쟁이 글로벌 수준으로 격화되고 있으며, 이는 대만 기업들의 성장 속도와 고부가 AI 칩 시장 진입에 주요 리스크로 작용하고 있다.",
+      "title": "대만 AI 반도체 확장의 핵심 제약: 고급 인재 부족",
+      "summary": "대만은 랙-스케일 AI, 물리적 AI, AI PC 등에서 제조·설계 경쟁력이 높지만, 관련 AI·반도체 융합 인재가 부족해 성장 속도가 제약받고 있다. 기술·인프라 우위에도 불구하고 인력 수급이 병목으로 부각되며, 교육·이민·글로벌 협업 전략이 정책 핵심 이슈로 떠오르고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -228,8 +228,8 @@
     {
       "id": 3,
       "status": "SHIFTING",
-      "title": "메모리 중심 서버 아키텍처로의 전환과 AI 인프라 재편",
-      "summary": "SK하이닉스는 OCP Global Summit 2026에서 메모리 중심 서버 시스템을 차세대 AI 인프라의 핵심으로 제시하며, AI 데이터 폭증에 따른 메모리 대역폭·지연 병목을 새로운 메모리 구조와 솔루션으로 해소하겠다는 전략을 밝혔다. 이는 GPU·CPU 위주에서 고대역폭 메모리·CXL·HBM 등 메모리 기술이 AI 시스템 경쟁력의 차별화 포인트로 이동하고 있음을 보여주며, 서버·클라우드 아키텍처 전반의 리디자인을 촉발하고 있다.",
+      "title": "메모리 중심 서버 아키텍처 부상과 AI 인프라 패러다임 전환",
+      "summary": "SK하이닉스는 OCP Global Summit 2026에서 메모리 중심 서버 시스템을 차세대 AI 인프라의 핵심 방향으로 제시했다. 폭증하는 AI 데이터 처리에서 병목이 GPU가 아닌 메모리 대역폭·용량으로 이동하면서, 고대역폭·고용량 메모리와 CXL 등 메모리 확장 기술이 데이터센터 경쟁력의 핵심 축으로 재조명되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -241,29 +241,29 @@
     },
     {
       "id": 4,
-      "status": "NEW",
-      "title": "Applied Materials, 50억 달러 EPIC 센터로 칩 혁신 R&D 플랫폼 전환 시도",
-      "summary": "Applied Materials가 50억 달러를 투입해 EPIC 센터를 설립, 장비 업체·칩 제조사·연구기관을 한곳에 모으는 공동 R&D 허브를 구축한다. 설계-공정-양산 전환 주기를 단축하고, 차세대 공정·소재 검증을 신속히 상용화하는 ‘오픈 이노베이션형 팹 R&D 모델’을 지향함으로써, 미세공정 전환 비용·리스크를 분산하고 생태계 전반의 개발 속도를 끌어올리려는 움직임이다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "EE Times",
-          "title": "Applied Materials Bets $5B on a New Model for Chip Innovation",
-          "url": "https://www.eetimes.com/applied-materials-bets-5b-on-a-new-model-for-chip-innovation/"
-        }
-      ]
-    },
-    {
-      "id": 5,
       "status": "ONGOING",
-      "title": "일본의 210억 달러 지원으로 미국 파운드리 생산능력·동맹형 공급망 강화",
-      "summary": "일본이 글로벌파운드리즈의 미국 뉴욕주 공장 2기 증설에 210억 달러를 제안하며, 미국 내 파운드리 생산능력을 약 10% 확대하는 대규모 투자를 추진하고 있다. 이는 미·일 간 반도체 동맹을 강화하고, 지정학 리스크를 감안한 미국 내 제조 비중 확대, 성숙 공정 파운드리 경쟁력 확보를 동시에 노리는 전략으로, 보조금·세제 혜택을 통한 국가 간 제조 유치 경쟁이 장기화되는 흐름을 보여준다.",
+      "title": "일본의 대규모 보조금으로 촉발된 미·일 파운드리 동맹 심화",
+      "summary": "일본 정부가 글로벌파운드리즈의 뉴욕 신규 팹 2기 건설에 약 210억 달러 지원을 제안하며, 미국 내 반도체 생산능력을 10%가량 끌어올리는 대형 프로젝트가 추진되고 있다. 이는 일본 자본·정책과 미국 생산기반의 결합을 통해 미·일 반도체 동맹을 심화시키고, 파운드리 지형과 공급망 재편에 장기적인 영향을 줄 이슈로 평가된다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "EE Times",
           "title": "Japan Offers GlobalFoundries $21B for U.S. Fab Expansion",
           "url": "https://www.eetimes.com/japan-offers-globalfoundries-21b-for-u-s-fab-expansion/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "차세대 무선·통신 인프라 논의가 반도체 로드맵에 미치는 영향",
+      "summary": "삼성전자가 개최한 Silicon Valley Future Wireless Summit 2026에서 전 세계 통신사·장비사·정부가 차세대 무선 기술과 협력 방안을 논의했다. 6G·AI 네이티브 네트워크 등 미래 무선 인프라 요구사항이 구체화되면서, 관련 RF·모뎀·베이스밴드·네트워크 가속 칩의 기술 로드맵과 투자 우선순위에 반영될 것으로 보인다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung Hosts Silicon Valley Future Wireless Summit 2026",
+          "url": "https://news.samsung.com/global/samsung-hosts-silicon-valley-future-wireless-summit-2026"
         }
       ]
     }

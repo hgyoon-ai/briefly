@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-10-13",
+    "to": "2026-10-19"
+  },
+  "kpis": {
+    "collected": 20,
+    "deduped": 20,
+    "uniqueTopics": 9
+  },
+  "topTopics": [
+    {
+      "name": "Tooling",
+      "count": 17
+    },
+    {
+      "name": "Product",
+      "count": 13
+    },
+    {
+      "name": "Models",
+      "count": 13
+    },
+    {
+      "name": "Infra",
+      "count": 9
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Tooling",
+      "count": 1
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Product",
+      "count": 1
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Models",
+      "count": 1
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Tooling",
+      "count": 4
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Product",
+      "count": 7
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Models",
+      "count": 5
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Infra",
+      "count": 1
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Tooling",
+      "count": 3
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Models",
+      "count": 2
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Infra",
+      "count": 3
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Tooling",
+      "count": 7
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Product",
+      "count": 3
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Models",
+      "count": 5
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Infra",
+      "count": 3
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Tooling",
+      "count": 2
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Product",
+      "count": 2
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Infra",
+      "count": 2
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Infra",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "ai-1",
+      "status": "ONGOING",
+      "title": "대형 금융권의 전사적 생성형 AI 도입과 거버넌스 구축",
+      "summary": "브라질 최대 은행 중 하나인 Itaú가 고객·직원 전반을 아우르는 AI First 전략을 추진하면서, ia.i 대화형 인터페이스와 IARA 거버넌스 플랫폼을 중심으로 전 고객 대상 생성형 AI 서비스를 확장하고 있다. 엄격한 금융 규제 환경에서 보안·준법·품질 통제를 포함한 거버넌스 체계를 함께 설계하며, 대규모 금융 데이터 위에 안정적으로 생성형 AI를 올리는 레퍼런스를 만들고 있다는 점이 핵심이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "How Itaú is building generative AI for its entire customer base",
+          "url": "https://openai.com/index/itau-generative-ai"
+        }
+      ]
+    },
+    {
+      "id": "ai-2",
+      "status": "NEW",
+      "title": "개발 전 과정을 단일 워크스테이션에서 처리하는 AI 중심 개발 환경",
+      "summary": "NVIDIA RTX Spark가 코드 작성, 테스트, 배포를 한 대의 머신에서 처리할 수 있는 통합 개발 환경을 제시했다. 에이전트형 AI를 통해 개발자가 고수준 지시만 내리면 코드 생성·검증·배포가 자동으로 이어지도록 설계해, 로컬 워크스테이션 기반의 ‘엔드투엔드 AI 개발 파이프라인’을 구현하는 흐름이 가속화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Code, Test, and Deploy on One Machine with NVIDIA RTX Spark",
+          "url": "https://developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark/"
+        }
+      ]
+    },
+    {
+      "id": "ai-3",
+      "status": "ONGOING",
+      "title": "인디언·남아시아 언어권을 위한 초대규모 오픈 사전학습 데이터 인프라",
+      "summary": "Hugging Face와 파트너들이 2.8조 토큰 규모의 인디크(Indic) 언어 사전학습을 위해 수집·정제·중복 제거를 자동화한 오픈 데이터 생성 파이프라인을 공개했다. 재현성과 라이선싱 문제를 동시에 고려한 데이터 인프라를 제공함으로써, 그동안 저대표 언어였던 인디언·남아시아 언어권의 대형 언어모델 개발을 본격적으로 뒷받침하는 기반이 마련되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+          "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
+        }
+      ]
+    },
+    {
+      "id": "ai-4",
+      "status": "NEW",
+      "title": "501B 파라미터급 오픈 소스 모델로 강화되는 ‘모델 소유권’ 트렌드",
+      "summary": "Hugging Face가 501B 규모의 대형 모델 ‘Beam’을 공개하며, 사용자가 모델을 직접 소유·커스터마이즈·스케일링할 수 있는 오픈 생태계를 확대하고 있다. 대형 상용 모델 의존도를 낮추고, 자체 호스팅·파인튜닝을 원하는 기업과 연구기관에게 초거대 모델을 실질적으로 활용할 수 있는 선택지를 제공하는 방향으로 오픈 모델 트렌드가 진화 중이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+          "url": "https://huggingface.co/blog/reflection-beam"
+        }
+      ]
+    },
+    {
+      "id": "ai-5",
+      "status": "ONGOING",
+      "title": "AI를 활용한 신약·항미생물 물질 탐색 가속화",
+      "summary": "Google DeepMind의 Antigravity for Science를 활용해 항미생물 펩타이드(AMP) 후보의 설계와 평가를 자동화함으로써, 실험 기반 탐색에 비해 시간과 비용을 크게 절감하는 사례가 등장하고 있다. 머신러닝 모델을 통해 유망 후보를 사전에 좁혀 실험 파이프라인에 투입하는 방식이 정착되면서, AI가 항생제 내성 대응과 신약 발굴의 핵심 도구로 자리잡는 추세가 이어지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Google DeepMind Blog",
+          "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+          "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/"
+        }
+      ]
+    }
+  ]
+}

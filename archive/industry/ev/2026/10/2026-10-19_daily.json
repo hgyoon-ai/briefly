@@ -1,0 +1,64 @@
+{
+  "date": "2026-10-19",
+  "highlights": {
+    "bullets": [
+      "핵심: 오리건 전력회사 PGE가 중·대형 전기 세미 트럭을 전력망 백업 자원으로 제시했다.",
+      "핵심: 에코플로우가 확장 가능한 소형 주거용 에너지 저장 시스템을 발표했다."
+    ],
+    "topTopics": [
+      "Roadmap",
+      "Demand",
+      "Investment",
+      "Policy"
+    ],
+    "stats": {
+      "collected": 4,
+      "deduped": 4
+    }
+  },
+  "cards": [
+    {
+      "id": "ev_0001",
+      "tab": "ev",
+      "publishedAt": "2026-10-19T00:17:46+09:00",
+      "source": "Electrek",
+      "title": "PGE gets it: electric semi trucks provide HEAVY DUTY backup for the grid [video]",
+      "summary": [
+        "오리건 전력회사 PGE가 중·대형 전기 트럭을 '바퀴 달린 대형 배터리'로 규정하며 전동화를 적극 홍보하고 있다.",
+        "이들 전기 세미 트럭은 환경·보건 측면 개선뿐 아니라 전력망 안정화와 비상 백업 전원 역할을 할 수 있는 자산으로 강조된다.",
+        "PGE는 상용 전기 트럭을 통해 운송 부문 탈탄소화와 전력망 유연성 제고를 동시에 달성하는 전략을 부각하고 있다."
+      ],
+      "whyItMatters": "전기 화물 트럭을 분산형 에너지 자원으로 활용해 전력망 안정성과 탈탄소화를 동시에 추진하는 유틸리티 전략은 향후 전기차·전력 인프라 투자 방향에 중요한 시사점을 주기 때문이다.",
+      "topics": [
+        "Investment",
+        "Roadmap",
+        "Demand",
+        "Policy"
+      ],
+      "status": "NEW",
+      "hash": "070cd6f4f0c411ca92b4a651088008f77b2a098221e969afe9cda02a5cdc5fb6",
+      "url": "https://electrek.co/2026/10/18/pge-gets-it-electric-semi-trucks-provide-heavy-duty-backup-for-the-grid-video/"
+    },
+    {
+      "id": "ev_0002",
+      "tab": "ev",
+      "publishedAt": "2026-10-18T23:42:47+09:00",
+      "source": "Electrek",
+      "title": "Tiny Titan: new residential battery system from EcoFlow starts small",
+      "summary": [
+        "에코플로우가 소형이면서 확장 가능한 주거용 에너지 저장 시스템을 발표했다.",
+        "이 제품은 기존 백업 배터리 라인업에 더 접근하기 쉬운 진입점으로 포지셔닝된다.",
+        "소형화로 설치 편의성이 높아져 주거용 시장 확대 가능성이 있다."
+      ],
+      "whyItMatters": "진입장벽을 낮춘 제품 출시가 보급 확대와 경쟁 구도 변화로 이어질 가능성이 있기 때문이다.",
+      "topics": [
+        "Roadmap",
+        "Competition",
+        "Demand"
+      ],
+      "status": "NEW",
+      "hash": "0878b013ea29f336a1aed74709ef9ee99f4f70575b2f7d28aace762b22c28b5d",
+      "url": "https://electrek.co/2026/10/18/tiny-titan-new-residential-battery-system-from-ecoflow-starts-small/"
+    }
+  ]
+}

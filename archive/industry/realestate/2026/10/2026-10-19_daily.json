@@ -1,0 +1,130 @@
+{
+  "date": "2026-10-19",
+  "highlights": {
+    "bullets": [
+      "핵심: 빌라를 포함한 전월세 매물이 급감해 수도권 매물이 전년 대비 36% 감소했다.",
+      "핵심: 정부가 청년·신혼부부·출산가구를 대상으로 전세자금 정책대출 지원을 확대했다.",
+      "트렌드: 임대시장 공급 감소와 대출 지원·공급 점검 등 정책 대응이 동시에 부각됐다."
+    ],
+    "topTopics": [
+      "Market",
+      "Supply",
+      "Mortgage",
+      "Rental"
+    ],
+    "stats": {
+      "collected": 12,
+      "deduped": 12
+    }
+  },
+  "cards": [
+    {
+      "id": "realestate_0001",
+      "tab": "realestate",
+      "publishedAt": "2026-10-18T17:44:55+09:00",
+      "source": "매일경제(부동산)",
+      "title": "빌라까지 전월세대란…수도권 매물 36% 뚝",
+      "summary": [
+        "빌라 전월세 매물까지 급감하며 전월세 대란이 주택 유형 전반으로 번지고 있다.",
+        "수도권 전월세 매물이 전년 대비 약 36% 감소했다.",
+        "인근 재개발 사업 진행으로 빌라 공급이 줄어 매물 찾기가 더욱 어려워졌다."
+      ],
+      "whyItMatters": "재개발 등으로 인한 공급 감소가 전월세 시장 전반의 매물 부족과 임대료 상승 압력을 강화해 주거 불안정성을 키우기 때문이다.",
+      "topics": [
+        "UrbanRenewal",
+        "Supply",
+        "Market"
+      ],
+      "status": "SHIFTING",
+      "hash": "4cfc3402f635f1acb15aba14fa9bcd14a76e1353453df8fc354755fe53921418",
+      "url": "https://www.mk.co.kr/news/realestate/12179067"
+    },
+    {
+      "id": "realestate_0002",
+      "tab": "realestate",
+      "publishedAt": "2026-10-18T17:41:30+09:00",
+      "source": "매일경제(부동산)",
+      "title": "\"신축 매입때만 대출 지원 역부족 기존 빌라도 풀어줘야 공급 가속\"",
+      "summary": [
+        "협회장은 신축 매입에만 대출 지원을 한정하는 것은 공급 확대에 역부족이라고 지적했다.",
+        "기존 기축 비아파트에 대해서도 부동산 대출 규제를 완화해야 한다고 촉구했다.",
+        "대출 완화가 이뤄지면 임대 공급 확대와 시장 안정에 기여할 것으로 기대된다고 밝혔다."
+      ],
+      "whyItMatters": "신축 위주 대출 지원은 기축 매입을 어렵게 해 임대주택 공급 확대를 저해하기 때문입니다.",
+      "topics": [
+        "Regulation",
+        "Mortgage",
+        "Supply",
+        "Rental"
+      ],
+      "status": "ONGOING",
+      "hash": "8c8a3a8bea5ef0fede49c221cead75e8a38a3e45264171ad99c2c34c16af028c",
+      "url": "https://www.mk.co.kr/news/realestate/12179057"
+    },
+    {
+      "id": "realestate_0003",
+      "tab": "realestate",
+      "publishedAt": "2026-10-18T17:13:48+09:00",
+      "source": "한국경제(부동산)",
+      "title": "저금리 전세금 정책대출…청년·신혼부부 주목",
+      "summary": [
+        "저금리 전세금 정책대출이 도입·확대되어 청년과 신혼부부가 주목하고 있다.",
+        "대출은 낮은 금리와 우대 조건을 통해 전세 자금 부담을 완화하는 구조다.",
+        "해당 대출은 임대차 시장의 접근성 개선과 실수요자의 주거 안정성 제고에 기여할 것으로 보인다."
+      ],
+      "whyItMatters": "청년·신혼부부의 주거비 부담을 직접 낮추며 전세 수요와 주거 안정성에 즉각적 영향을 줄 수 있기 때문이다.",
+      "topics": [
+        "Policy",
+        "Rental",
+        "Mortgage"
+      ],
+      "status": "NEW",
+      "hash": "b8c64cf021ad20383afd2dcdccca208d494bb753d08a48291906b68eb99fc1c6",
+      "url": "https://www.hankyung.com/article/2026101888101"
+    },
+    {
+      "id": "realestate_0004",
+      "tab": "realestate",
+      "publishedAt": "2026-10-18T16:08:38+09:00",
+      "source": "한국경제(부동산)",
+      "title": "전세자금도 정책대출로…청년·신혼부부·출산가구별 지원",
+      "summary": [
+        "정부가 전세자금을 정책대출로 지원 대상으로 확대했다.",
+        "청년·신혼부부·출산가구별로 맞춤형 대출 조건을 제공한다.",
+        "주거비 부담 완화와 전세시장 안정이 목표다."
+      ],
+      "whyItMatters": "공적 대출을 통한 전세 보증금 지원은 임대차 시장 안정과 가계 주거비 경감을 통해 주거복지와 금융시장의 역할을 동시에 확대하기 때문이다.",
+      "topics": [
+        "Policy",
+        "Rental",
+        "Mortgage",
+        "Market"
+      ],
+      "status": "NEW",
+      "hash": "c47441c29c2c637bea64febcf254d3f3d9d3e0fc60ca69ff1fd6027ec90537b7",
+      "url": "https://www.hankyung.com/article/202610188721i"
+    },
+    {
+      "id": "realestate_0005",
+      "tab": "realestate",
+      "publishedAt": "2026-10-18T15:00:00+09:00",
+      "source": "헤럴드경제(부동산)",
+      "title": "“집 못 지어 미친 것 처럼” 李 정부, 주택공급 정례브리핑 실시…총리실까지 나선 건 ‘최초’ [부동산360]",
+      "summary": [
+        "정부가 8·13 공급대책의 착공·분양·입주 진행상황을 주기적으로 점검하기로 했다.",
+        "월 2회 정례브리핑과 '디지털 주택공급 상황판'을 도입해 공급 현황과 분양·임대 일정을 공개한다.",
+        "총리실까지 참여한 정례브리핑 실시와 공개체계 마련은 이번이 처음이다."
+      ],
+      "whyItMatters": "공급 실행을 투명하게 공개해 정책 신뢰 회복과 주택시장 안정화를 도모하려는 조치이다.",
+      "topics": [
+        "Supply",
+        "Rental",
+        "Construction",
+        "Market"
+      ],
+      "status": "ONGOING",
+      "hash": "b147c3de41d7fe9fbf845cd47e2cbfab1019e24ca4285bfc7167bcde5ba3da01",
+      "url": "https://biz.heraldcorp.com/article/10905979"
+    }
+  ]
+}

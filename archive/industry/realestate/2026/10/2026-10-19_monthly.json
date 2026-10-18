@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-09-20",
+    "to": "2026-10-19"
+  },
+  "kpis": {
+    "collected": 117,
+    "deduped": 117,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "Market": 29,
+      "Supply": 26,
+      "Policy": 19,
+      "UrbanRenewal": 13,
+      "Rental": 12,
+      "Other": 1
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (09/20-09/26)",
+      "topicCounts": {
+        "Market": 21,
+        "Supply": 16,
+        "Policy": 13,
+        "UrbanRenewal": 8,
+        "Rental": 11
+      }
+    },
+    {
+      "week": "Week 2 (09/27-10/03)",
+      "topicCounts": {
+        "Market": 20,
+        "Supply": 18,
+        "Policy": 9,
+        "UrbanRenewal": 11,
+        "Rental": 7
+      }
+    },
+    {
+      "week": "Week 3 (10/04-10/10)",
+      "topicCounts": {
+        "Market": 19,
+        "Supply": 13,
+        "Policy": 8,
+        "UrbanRenewal": 6,
+        "Rental": 8
+      }
+    },
+    {
+      "week": "Week 4 (10/11-10/17)",
+      "topicCounts": {
+        "Market": 17,
+        "Supply": 20,
+        "Policy": 20,
+        "UrbanRenewal": 10,
+        "Rental": 3
+      }
+    },
+    {
+      "week": "Week 5 (10/18-10/19)",
+      "topicCounts": {
+        "Market": 3,
+        "Supply": 3,
+        "Policy": 2,
+        "UrbanRenewal": 1,
+        "Rental": 4
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "수도권 전월세 매물 급감으로 빌라까지 확산된 전월세 대란",
+      "summary": "수도권 전월세 매물이 전년 대비 약 36% 줄어들며 아파트를 넘어 빌라·다세대까지 매물 부족 현상이 번지고 있다. 공급 공백과 임대인들의 관망세가 겹치면서 향후 전월세 가격 불안과 세입자 주거 불안 심리가 심화되는 국면이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "빌라까지 전월세대란…수도권 매물 36% 뚝",
+          "url": "https://www.mk.co.kr/news/realestate/12179067"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "비아파트·기존 빌라까지 포함한 대출 규제 완화 요구 확산",
+      "summary": "정부가 신축 매입 위주로 대출을 지원하는 가운데, 시장에서는 기존 빌라 등 비아파트 기축 주택에 대해서도 담보대출 규제를 풀어야 한다는 요구가 커지고 있다. 전월세 대란과 공급 부족 속에서 기축 재고를 활용한 임대·매매 공급 확대가 핵심 과제로 부각되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "\"신축 매입때만 대출 지원 역부족 기존 빌라도 풀어줘야 공급 가속\"",
+          "url": "https://www.mk.co.kr/news/realestate/12179057"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "청년·신혼부부 대상 저금리 전세금 정책대출 확대",
+      "summary": "정부와 금융권이 청년·신혼부부를 중심으로 저금리 전세금 정책대출을 도입·확대하고 있다. 우대금리와 보증 연계를 통해 초기 전세보증금 부담을 낮추는 구조로 설계되며, 전세 시장 불안 속 실수요자 주거비 경감 수단으로 주목받고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "저금리 전세금 정책대출…청년·신혼부부 주목",
+          "url": "https://www.hankyung.com/article/2026101888101"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "8·13 공급대책 이행관리와 디지털 주택공급 상황판 가동",
+      "summary": "정부는 8·13 공급대책의 착공·분양·입주 진행 상황을 월 2회 정례브리핑으로 공개하고, ‘디지털 주택공급 상황판’을 도입해 공급 스케줄을 상시 점검하기로 했다. 총리실까지 나서 공급 차질 논란을 사전에 관리하겠다는 의지로, 향후 지역별 물량 조정과 분양·임대 계획에 직접적인 영향을 줄 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "“집 못 지어 미친 것 처럼” 李 정부, 주택공급 정례브리핑 실시…총리실까지 나선 건 ‘최초’ [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10905979"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "공급 부족·정책 불확실성 속 ‘무주택자 생존 매수’ 가능성 부상",
+      "summary": "전문가들은 공급 부족과 대출·세제 규제가 맞물리면서 무주택자들이 ‘지금 안 사면 더 어렵다’는 인식 아래 이른바 ‘생존 매수’에 나설 수 있다고 경고한다. 주거비 부담과 전월세 불안, 정책 신뢰 저하가 복합적으로 작용해 실수요자의 조기 매입 압박이 커지는 상황이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "\"무주택자 '생존 매수'하는 시대 온다\"…전문가 경고 들어보니",
+          "url": "https://www.hankyung.com/article/2026101778407"
+        }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-10-12",
-    "to": "2026-10-18"
+    "from": "2026-10-13",
+    "to": "2026-10-19"
   },
   "kpis": {
     "collected": 12,
@@ -10,198 +10,226 @@
   },
   "topTopics": [
     {
-      "name": "Competition",
-      "count": 11
-    },
-    {
       "name": "Demand",
       "count": 10
     },
     {
+      "name": "Competition",
+      "count": 10
+    },
+    {
       "name": "Roadmap",
-      "count": 6
+      "count": 8
     },
     {
       "name": "Investment",
-      "count": 5
+      "count": 4
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-10-12",
-      "dayOfWeek": "Mon",
-      "topic": "Competition",
-      "count": 0
-    },
-    {
-      "date": "2026-10-12",
-      "dayOfWeek": "Mon",
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
       "topic": "Demand",
-      "count": 0
-    },
-    {
-      "date": "2026-10-12",
-      "dayOfWeek": "Mon",
-      "topic": "Roadmap",
-      "count": 0
-    },
-    {
-      "date": "2026-10-12",
-      "dayOfWeek": "Mon",
-      "topic": "Investment",
       "count": 0
     },
     {
       "date": "2026-10-13",
       "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Demand",
+      "count": 3
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 3
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 3
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Investment",
+      "count": 3
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Demand",
+      "count": 3
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 3
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Demand",
+      "count": 2
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
       "topic": "Competition",
       "count": 2
     },
     {
-      "date": "2026-10-13",
-      "dayOfWeek": "Tue",
-      "topic": "Demand",
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
       "count": 2
     },
     {
-      "date": "2026-10-13",
-      "dayOfWeek": "Tue",
-      "topic": "Roadmap",
-      "count": 0
-    },
-    {
-      "date": "2026-10-13",
-      "dayOfWeek": "Tue",
-      "topic": "Investment",
-      "count": 2
-    },
-    {
-      "date": "2026-10-14",
-      "dayOfWeek": "Wed",
-      "topic": "Competition",
-      "count": 3
-    },
-    {
-      "date": "2026-10-14",
-      "dayOfWeek": "Wed",
-      "topic": "Demand",
-      "count": 3
-    },
-    {
-      "date": "2026-10-14",
-      "dayOfWeek": "Wed",
-      "topic": "Roadmap",
-      "count": 3
-    },
-    {
-      "date": "2026-10-14",
-      "dayOfWeek": "Wed",
-      "topic": "Investment",
-      "count": 3
-    },
-    {
-      "date": "2026-10-15",
-      "dayOfWeek": "Thu",
-      "topic": "Competition",
-      "count": 1
-    },
-    {
-      "date": "2026-10-15",
-      "dayOfWeek": "Thu",
-      "topic": "Demand",
-      "count": 0
-    },
-    {
-      "date": "2026-10-15",
-      "dayOfWeek": "Thu",
-      "topic": "Roadmap",
-      "count": 1
-    },
-    {
-      "date": "2026-10-15",
-      "dayOfWeek": "Thu",
-      "topic": "Investment",
-      "count": 0
-    },
-    {
-      "date": "2026-10-16",
-      "dayOfWeek": "Fri",
-      "topic": "Competition",
-      "count": 1
-    },
-    {
-      "date": "2026-10-16",
-      "dayOfWeek": "Fri",
-      "topic": "Demand",
-      "count": 1
-    },
-    {
-      "date": "2026-10-16",
-      "dayOfWeek": "Fri",
-      "topic": "Roadmap",
-      "count": 0
-    },
-    {
-      "date": "2026-10-16",
-      "dayOfWeek": "Fri",
-      "topic": "Investment",
-      "count": 0
-    },
-    {
-      "date": "2026-10-17",
-      "dayOfWeek": "Sat",
-      "topic": "Competition",
-      "count": 3
-    },
-    {
-      "date": "2026-10-17",
-      "dayOfWeek": "Sat",
-      "topic": "Demand",
-      "count": 3
-    },
-    {
-      "date": "2026-10-17",
-      "dayOfWeek": "Sat",
-      "topic": "Roadmap",
-      "count": 1
-    },
-    {
-      "date": "2026-10-17",
-      "dayOfWeek": "Sat",
-      "topic": "Investment",
-      "count": 0
-    },
-    {
-      "date": "2026-10-18",
-      "dayOfWeek": "Sun",
-      "topic": "Competition",
-      "count": 1
-    },
-    {
-      "date": "2026-10-18",
-      "dayOfWeek": "Sun",
-      "topic": "Demand",
-      "count": 1
-    },
-    {
-      "date": "2026-10-18",
-      "dayOfWeek": "Sun",
-      "topic": "Roadmap",
-      "count": 1
-    },
-    {
       "date": "2026-10-18",
       "dayOfWeek": "Sun",
       "topic": "Investment",
       "count": 0
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Investment",
+      "count": 1
     }
   ],
   "topIssues": [
     {
       "id": 1,
       "status": "NEW",
-      "title": "초고성능 전기 SUV 경쟁 심화: 메르세데스-AMG GT 전기 SUV 공개",
-      "summary": "메르세데스-AMG가 최대 1,153마력과 710kW급 초급속 충전을 내세운 AMG GT 전기 SUV를 공개하며 초고성능 전기 SUV 시장 경쟁이 본격 심화되고 있다. 프리미엄 브랜드들이 내연기관 플래그십을 전동화 퍼포먼스 모델로 대체하는 흐름이 가속화되는 주요 신호다.",
+      "title": "전기 세미 트럭, 전력망 백업 자산으로 부상",
+      "summary": "오리건 전력사 PGE가 중·대형 전기 트럭을 이동식 대용량 배터리로 활용해 전력망 안정화와 비상 백업 전원으로 쓰려는 전략을 추진하고 있다. 운송 부문의 전동화가 단순 탄소 저감뿐 아니라 그리드 유연성 자산으로 확장되는 흐름을 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "PGE gets it: electric semi trucks provide HEAVY DUTY backup for the grid [video]",
+          "url": "https://electrek.co/2026/10/18/pge-gets-it-electric-semi-trucks-provide-heavy-duty-backup-for-the-grid-video/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "주거용 소형·모듈형 배터리로 에너지 자립 수요 확대",
+      "summary": "에코플로우가 소형이면서 필요에 따라 용량을 확장할 수 있는 가정용 배터리 시스템을 출시했다. 초기 비용 진입장벽을 낮추고 점진적 증설을 지원해, 재택 백업 전원과 가정용 ESS 시장의 저변 확대를 노리는 전략 제품으로 평가된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tiny Titan: new residential battery system from EcoFlow starts small",
+          "url": "https://electrek.co/2026/10/18/tiny-titan-new-residential-battery-system-from-ecoflow-starts-small/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "초고성능 전기 SUV 경쟁 격화: 메르세데스-AMG GT 전기 SUV 공개",
+      "summary": "메르세데스-AMG가 1,153마력급 전기 퍼포먼스 SUV와 710kW급 초고속 DC 충전을 앞세워 프리미엄 EV 시장 공략에 나섰다. 고성능·고속충전 기술을 동시에 강화하며 테슬라·포르쉐 등 기존 프리미엄 전기차와의 경쟁이 한층 치열해지고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -212,10 +240,10 @@
       ]
     },
     {
-      "id": 2,
+      "id": 4,
       "status": "ONGOING",
-      "title": "소형 모빌리티 전동화 확대: 가격대별 전기자전거 시장 성숙",
-      "summary": "예산 구간별 전기자전거 추천 리스트가 정기적으로 업데이트될 만큼 e-바이크 시장이 성숙 단계에 접어들었다. 수백 대 실사용 데이터를 기반으로 한 제품 선별이 강조되면서, 도심 이동 수단의 전동화가 승용 전기차를 넘어 생활형 이동 수단 전반으로 확산되고 있다.",
+      "title": "전기자전거, 가격대별 소비자 선택지 급증",
+      "summary": "Electrek가 2026년 10월 기준 가격 구간별 추천 전기자전거 리스트를 공개하며, 다양한 예산과 쓰임새에 맞춘 모델들이 빠르게 늘고 있음을 보여준다. 장기 실사용 경험 기반의 선정으로 전기자전거 시장이 성숙 단계에 진입하는 흐름이 읽힌다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -226,10 +254,10 @@
       ]
     },
     {
-      "id": 3,
+      "id": 5,
       "status": "ONGOING",
-      "title": "테슬라 FSD/오토파일럿 사고 잇따르며 규제·안전성 논란 재점화",
-      "summary": "미국에서 테슬라 FSD·오토파일럿이 작동 중이었다는 심각한 사고가 연달아 발생하며 ADAS·자율주행 규제 논의가 다시 거세지고 있다. 운전자 과신과 시스템 한계, 제조사의 책임 범위를 둘러싼 논쟁이 이어지며 FSD 출시·확산 전략에도 변수가 될 전망이다.",
+      "title": "테슬라 FSD·오토파일럿 사고로 자율주행 규제 리스크 확대",
+      "summary": "미국에서 테슬라 FSD·오토파일럿이 켜진 상태로 발생한 충돌 및 사망 사고 사례가 잇따라 보고되며 안전성 논란이 재점화되고 있다. 운전자가 시스템 작동 중 수면 상태였다는 진술까지 더해져, 운전자 감시 강화와 규제 재정비 요구가 커지고 있다.",
       "articleCount": 2,
       "relatedArticles": [
         {
@@ -241,34 +269,6 @@
           "source": "Electrek",
           "title": "Tesla confirms Autopilot/FSD was ‘engaged’ when car crossed a median and killed a man",
           "url": "https://electrek.co/2026/10/15/tesla-driver-assist-median-crossing-vineland/"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "status": "NEW",
-      "title": "리비안 분사 ‘마인드 로보틱스’, 더그 필드 영입으로 EV 제조 자동화 승부수",
-      "summary": "테슬라·포드 EV 개발을 이끌었던 더그 필드가 리비안 분사 로보틱스 스타트업 마인드 로보틱스 사장으로 합류했다. 설립 1년 내 10억 달러 이상을 조달한 이 회사는 EV 및 배터리 공정 자동화·로보틱스 역량을 기반으로 차세대 전기차 제조 경쟁력 확보를 노리고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "Rivian’s Mind Robotics snags Doug Field, ex-Tesla and Ford EV chief",
-          "url": "https://electrek.co/2026/10/13/rivian-mind-robotics-doug-field-president-tesla-ford/"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "status": "NEW",
-      "title": "중국산 EV 기대감에 서방 브랜드 구매 지연: 수요 지형 변화",
-      "summary": "캐나다 설문에서 다수 소비자가 중국산 전기차 출시를 기다리며 현재 서방 브랜드 EV 구매를 미루는 것으로 나타났다. 가격·사양 경쟁력에 대한 인식이 높아지면서 서방 완성차의 단기 판매 압박과 함께, 향후 관세·수입 규제 등 정책 변수도 커지고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "Trouble: buyers would rather wait for Chinese EVs than buy Western ones",
-          "url": "https://electrek.co/2026/10/16/trouble-buyers-would-rather-wait-for-chinese-evs-than-buy-western-ones/"
         }
       ]
     }

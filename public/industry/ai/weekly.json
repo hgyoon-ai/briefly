@@ -1,79 +1,55 @@
 {
   "range": {
-    "from": "2026-10-12",
-    "to": "2026-10-18"
+    "from": "2026-10-13",
+    "to": "2026-10-19"
   },
   "kpis": {
-    "collected": 22,
-    "deduped": 22,
+    "collected": 20,
+    "deduped": 20,
     "uniqueTopics": 9
   },
   "topTopics": [
     {
       "name": "Tooling",
-      "count": 18
-    },
-    {
-      "name": "Models",
-      "count": 15
+      "count": 17
     },
     {
       "name": "Product",
-      "count": 14
+      "count": 13
+    },
+    {
+      "name": "Models",
+      "count": 13
     },
     {
       "name": "Infra",
-      "count": 10
+      "count": 9
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-10-12",
-      "dayOfWeek": "Mon",
-      "topic": "Tooling",
-      "count": 0
-    },
-    {
-      "date": "2026-10-12",
-      "dayOfWeek": "Mon",
-      "topic": "Models",
-      "count": 0
-    },
-    {
-      "date": "2026-10-12",
-      "dayOfWeek": "Mon",
-      "topic": "Product",
-      "count": 0
-    },
-    {
-      "date": "2026-10-12",
-      "dayOfWeek": "Mon",
-      "topic": "Infra",
-      "count": 0
-    },
-    {
       "date": "2026-10-13",
       "dayOfWeek": "Tue",
       "topic": "Tooling",
-      "count": 2
-    },
-    {
-      "date": "2026-10-13",
-      "dayOfWeek": "Tue",
-      "topic": "Models",
-      "count": 3
-    },
-    {
-      "date": "2026-10-13",
-      "dayOfWeek": "Tue",
-      "topic": "Product",
-      "count": 2
-    },
-    {
-      "date": "2026-10-13",
-      "dayOfWeek": "Tue",
-      "topic": "Infra",
       "count": 1
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Product",
+      "count": 1
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Models",
+      "count": 1
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": "Tue",
+      "topic": "Infra",
+      "count": 0
     },
     {
       "date": "2026-10-14",
@@ -84,14 +60,14 @@
     {
       "date": "2026-10-14",
       "dayOfWeek": "Wed",
-      "topic": "Models",
-      "count": 5
+      "topic": "Product",
+      "count": 7
     },
     {
       "date": "2026-10-14",
       "dayOfWeek": "Wed",
-      "topic": "Product",
-      "count": 7
+      "topic": "Models",
+      "count": 5
     },
     {
       "date": "2026-10-14",
@@ -108,14 +84,14 @@
     {
       "date": "2026-10-15",
       "dayOfWeek": "Thu",
-      "topic": "Models",
-      "count": 2
+      "topic": "Product",
+      "count": 0
     },
     {
       "date": "2026-10-15",
       "dayOfWeek": "Thu",
-      "topic": "Product",
-      "count": 0
+      "topic": "Models",
+      "count": 2
     },
     {
       "date": "2026-10-15",
@@ -132,18 +108,18 @@
     {
       "date": "2026-10-16",
       "dayOfWeek": "Fri",
+      "topic": "Product",
+      "count": 3
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
       "topic": "Models",
       "count": 5
     },
     {
       "date": "2026-10-16",
       "dayOfWeek": "Fri",
-      "topic": "Product",
-      "count": 3
-    },
-    {
-      "date": "2026-10-16",
-      "dayOfWeek": "Fri",
       "topic": "Infra",
       "count": 3
     },
@@ -156,14 +132,14 @@
     {
       "date": "2026-10-17",
       "dayOfWeek": "Sat",
-      "topic": "Models",
-      "count": 0
+      "topic": "Product",
+      "count": 2
     },
     {
       "date": "2026-10-17",
       "dayOfWeek": "Sat",
-      "topic": "Product",
-      "count": 2
+      "topic": "Models",
+      "count": 0
     },
     {
       "date": "2026-10-17",
@@ -180,18 +156,42 @@
     {
       "date": "2026-10-18",
       "dayOfWeek": "Sun",
-      "topic": "Models",
-      "count": 0
-    },
-    {
-      "date": "2026-10-18",
-      "dayOfWeek": "Sun",
       "topic": "Product",
       "count": 0
     },
     {
       "date": "2026-10-18",
       "dayOfWeek": "Sun",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
       "topic": "Infra",
       "count": 0
     }
@@ -200,8 +200,8 @@
     {
       "id": "ai-1",
       "status": "ONGOING",
-      "title": "대형 금융권의 전사 생성형 AI 도입과 거버넌스 사례",
-      "summary": "브라질 최대 금융사 중 하나인 Itaú가 고객·직원 전용 대화형 인터페이스(ia.i)와 IARA 거버넌스 플랫폼을 구축해 전사 규모의 생성형 AI 도입을 진행 중이다. 엄격한 금융 규제 환경에서 AI First 전략을 운영하기 위해 보안·컴플라이언스·접근제어를 통합 관리하는 구조가 핵심으로, 은행권 및 규제산업 전반의 참조 아키텍처로 부상하고 있다.",
+      "title": "대형 금융권의 전사적 생성형 AI 도입과 거버넌스 구축",
+      "summary": "브라질 최대 은행 중 하나인 Itaú가 고객·직원 전반을 아우르는 AI First 전략을 추진하면서, ia.i 대화형 인터페이스와 IARA 거버넌스 플랫폼을 중심으로 전 고객 대상 생성형 AI 서비스를 확장하고 있다. 엄격한 금융 규제 환경에서 보안·준법·품질 통제를 포함한 거버넌스 체계를 함께 설계하며, 대규모 금융 데이터 위에 안정적으로 생성형 AI를 올리는 레퍼런스를 만들고 있다는 점이 핵심이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -214,8 +214,8 @@
     {
       "id": "ai-2",
       "status": "NEW",
-      "title": "로컬 GPU 한 대로 코드 작성·테스트·배포까지 통합하는 AI 개발 환경",
-      "summary": "NVIDIA RTX Spark는 AI 에이전트를 활용해 단일 워크스테이션에서 코드 작성, 테스트, 배포까지 자동화하는 통합 개발 환경을 제안한다. 개발자는 자연어로 요구사항을 제시하고, 에이전트가 코드 생성·검증·배포를 반복 수행해 소규모 팀과 개인 개발자의 AI 애플리케이션 개발 속도를 크게 높이는 데 초점을 둔다.",
+      "title": "개발 전 과정을 단일 워크스테이션에서 처리하는 AI 중심 개발 환경",
+      "summary": "NVIDIA RTX Spark가 코드 작성, 테스트, 배포를 한 대의 머신에서 처리할 수 있는 통합 개발 환경을 제시했다. 에이전트형 AI를 통해 개발자가 고수준 지시만 내리면 코드 생성·검증·배포가 자동으로 이어지도록 설계해, 로컬 워크스테이션 기반의 ‘엔드투엔드 AI 개발 파이프라인’을 구현하는 흐름이 가속화되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -228,8 +228,8 @@
     {
       "id": "ai-3",
       "status": "ONGOING",
-      "title": "인디언·남아시아 언어권을 겨냥한 2.8조 토큰 규모 오픈 사전학습 파이프라인",
-      "summary": "Hugging Face는 인디크 언어권을 위한 2.8조 토큰 규모의 사전학습 데이터셋과 이를 생성하는 오픈 데이터 파이프라인을 공개했다. 웹·문헌 데이터를 자동 수집·정제·중복 제거하면서 라이선스 검증과 재현 가능성을 보장하는 것이 특징으로, 저자원 언어 LLM 개발과 공정한 다국어 지원 강화를 위한 인프라 역할을 한다.",
+      "title": "인디언·남아시아 언어권을 위한 초대규모 오픈 사전학습 데이터 인프라",
+      "summary": "Hugging Face와 파트너들이 2.8조 토큰 규모의 인디크(Indic) 언어 사전학습을 위해 수집·정제·중복 제거를 자동화한 오픈 데이터 생성 파이프라인을 공개했다. 재현성과 라이선싱 문제를 동시에 고려한 데이터 인프라를 제공함으로써, 그동안 저대표 언어였던 인디언·남아시아 언어권의 대형 언어모델 개발을 본격적으로 뒷받침하는 기반이 마련되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -242,8 +242,8 @@
     {
       "id": "ai-4",
       "status": "NEW",
-      "title": "501B 파라미터급 오픈 LLM ‘Beam’ 공개와 사용자가 소유하는 모델 패러다임",
-      "summary": "Hugging Face는 501B 파라미터 규모의 오픈 모델 Beam을 발표해, 사용자가 직접 모델을 소유·배포·파인튜닝할 수 있는 방향을 강화했다. 고성능 초대형 모델을 클라우드 서비스에만 의존하지 않고 기업·연구기관이 맞춤형으로 운영할 수 있게 함으로써, 오픈 생태계 중심의 LLM 경쟁 구도를 가속하고 있다.",
+      "title": "501B 파라미터급 오픈 소스 모델로 강화되는 ‘모델 소유권’ 트렌드",
+      "summary": "Hugging Face가 501B 규모의 대형 모델 ‘Beam’을 공개하며, 사용자가 모델을 직접 소유·커스터마이즈·스케일링할 수 있는 오픈 생태계를 확대하고 있다. 대형 상용 모델 의존도를 낮추고, 자체 호스팅·파인튜닝을 원하는 기업과 연구기관에게 초거대 모델을 실질적으로 활용할 수 있는 선택지를 제공하는 방향으로 오픈 모델 트렌드가 진화 중이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -256,8 +256,8 @@
     {
       "id": "ai-5",
       "status": "ONGOING",
-      "title": "AI 기반 항미생물 펩타이드 탐색 가속과 신약 발굴 워크플로 혁신",
-      "summary": "Google Antigravity for Science를 활용해 항미생물 펩타이드 후보의 설계·선별·평가를 머신러닝 모델로 자동화함으로써, 후보 발굴 시간을 단축하고 실험 비용을 크게 절감했다. AI가 후보 서열 생성과 독성·효능 예측을 사전에 수행해 랩 실험을 고확률 후보에 집중시키는 방식으로, AI-퍼스트 신약 탐색 흐름을 뚜렷이 보여준다.",
+      "title": "AI를 활용한 신약·항미생물 물질 탐색 가속화",
+      "summary": "Google DeepMind의 Antigravity for Science를 활용해 항미생물 펩타이드(AMP) 후보의 설계와 평가를 자동화함으로써, 실험 기반 탐색에 비해 시간과 비용을 크게 절감하는 사례가 등장하고 있다. 머신러닝 모델을 통해 유망 후보를 사전에 좁혀 실험 파이프라인에 투입하는 방식이 정착되면서, AI가 항생제 내성 대응과 신약 발굴의 핵심 도구로 자리잡는 추세가 이어지고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
