@@ -1,55 +1,37 @@
 {
   "range": {
-    "from": "2026-10-13",
-    "to": "2026-10-19"
+    "from": "2026-10-14",
+    "to": "2026-10-20"
   },
   "kpis": {
-    "collected": 29,
-    "deduped": 29,
+    "collected": 26,
+    "deduped": 26,
     "uniqueTopics": 10
   },
   "topTopics": [
     {
+      "name": "Market",
+      "count": 16
+    },
+    {
       "name": "Policy",
-      "count": 19
+      "count": 16
     },
     {
       "name": "Supply",
-      "count": 18
-    },
-    {
-      "name": "Market",
-      "count": 17
+      "count": 16
     },
     {
       "name": "Construction",
-      "count": 11
+      "count": 10
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-10-13",
-      "dayOfWeek": "Tue",
-      "topic": "Policy",
-      "count": 6
-    },
-    {
-      "date": "2026-10-13",
-      "dayOfWeek": "Tue",
-      "topic": "Supply",
-      "count": 4
-    },
-    {
-      "date": "2026-10-13",
-      "dayOfWeek": "Tue",
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
       "topic": "Market",
-      "count": 4
-    },
-    {
-      "date": "2026-10-13",
-      "dayOfWeek": "Tue",
-      "topic": "Construction",
-      "count": 2
+      "count": 1
     },
     {
       "date": "2026-10-14",
@@ -66,25 +48,7 @@
     {
       "date": "2026-10-14",
       "dayOfWeek": "Wed",
-      "topic": "Market",
-      "count": 2
-    },
-    {
-      "date": "2026-10-14",
-      "dayOfWeek": "Wed",
       "topic": "Construction",
-      "count": 4
-    },
-    {
-      "date": "2026-10-15",
-      "dayOfWeek": "Thu",
-      "topic": "Policy",
-      "count": 3
-    },
-    {
-      "date": "2026-10-15",
-      "dayOfWeek": "Thu",
-      "topic": "Supply",
       "count": 4
     },
     {
@@ -96,8 +60,26 @@
     {
       "date": "2026-10-15",
       "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 3
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Supply",
+      "count": 4
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
       "topic": "Construction",
       "count": 3
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Market",
+      "count": 4
     },
     {
       "date": "2026-10-16",
@@ -114,13 +96,13 @@
     {
       "date": "2026-10-16",
       "dayOfWeek": "Fri",
-      "topic": "Market",
-      "count": 4
+      "topic": "Construction",
+      "count": 1
     },
     {
-      "date": "2026-10-16",
-      "dayOfWeek": "Fri",
-      "topic": "Construction",
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Market",
       "count": 1
     },
     {
@@ -138,14 +120,14 @@
     {
       "date": "2026-10-17",
       "dayOfWeek": "Sat",
-      "topic": "Market",
-      "count": 1
-    },
-    {
-      "date": "2026-10-17",
-      "dayOfWeek": "Sat",
       "topic": "Construction",
       "count": 0
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Market",
+      "count": 4
     },
     {
       "date": "2026-10-18",
@@ -162,36 +144,54 @@
     {
       "date": "2026-10-18",
       "dayOfWeek": "Sun",
-      "topic": "Market",
-      "count": 4
-    },
-    {
-      "date": "2026-10-18",
-      "dayOfWeek": "Sun",
       "topic": "Construction",
       "count": 1
     },
     {
       "date": "2026-10-19",
       "dayOfWeek": "Mon",
+      "topic": "Market",
+      "count": 3
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
       "topic": "Policy",
-      "count": 0
+      "count": 2
     },
     {
       "date": "2026-10-19",
       "dayOfWeek": "Mon",
       "topic": "Supply",
-      "count": 0
+      "count": 2
     },
     {
       "date": "2026-10-19",
       "dayOfWeek": "Mon",
+      "topic": "Construction",
+      "count": 1
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
       "topic": "Market",
+      "count": 1
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Supply",
       "count": 0
     },
     {
-      "date": "2026-10-19",
-      "dayOfWeek": "Mon",
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
       "topic": "Construction",
       "count": 0
     }
@@ -200,8 +200,50 @@
     {
       "id": 1,
       "status": "SHIFTING",
-      "title": "수도권 전·월세 매물 급감으로 비아파트까지 번진 임대차 대란",
-      "summary": "수도권 전·월세 매물이 전년 대비 약 36% 줄며 빌라 등 비아파트까지 임대차 대란이 확산되고 있다. 공급 부족과 전세·월세 전환이 겹치며 임대료 상승 압력과 체감 불안이 커지는 양상이다.",
+      "title": "서울 아파트 전세 급감과 월세 전환 가속",
+      "summary": "서울 아파트 임대시장에서 전세 거래 비중이 급격히 줄고 절반가량이 월세로 전환되면서, 세입자 부담 구조가 보증금 중심에서 월 부담 중심으로 빠르게 재편되고 있다. 이는 전월세 가격 구조, 임대사업자 수익 모델, 무주택 가구의 주거 안정성에 중대한 변화를 예고한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "\"서울서 전세가 사라진다\"…아파트 계약 절반이 월세",
+          "url": "https://www.hankyung.com/article/2026102022426"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "세종시 공공기관 이전발 수요 급증과 공급 공백",
+      "summary": "중앙행정기관 44곳의 세종시 이전 발표 이후 주거 수요가 급등했지만, 내년 신규 입주물량이 0가구로 확인되며 전세와 매매 시장 모두 심각한 공급 부족에 직면하고 있다. 행정수도 기능 강화와 동반된 인구 유입이 가격 불안을 키우며 인근 지역으로의 수요 전이를 촉발할 가능성이 크다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "공무원 1만명 내려가라더니 입주물량 0…세종시 집값 벌써부터 ‘들썩’",
+          "url": "https://www.mk.co.kr/news/realestate/12180093"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "강북 재개발·재건축 이주비 금리 급등과 공급 차질 우려",
+      "summary": "강북 지역 재개발·재건축 사업에서 이주비 대출 금리가 급등하며 조합원과 사업 시행자의 금융 부담이 크게 늘고 있다. 이로 인해 사업성 악화, 사업 지연·중단 가능성이 커지며 향후 도심 내 신규 주택 공급이 위축될 수 있다는 우려가 제기된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "치솟는 강북 이주비 금리…공급 가로막나",
+          "url": "https://www.hankyung.com/article/2026101913671"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "SHIFTING",
+      "title": "수도권 전월세 매물 급감과 주택 유형 전반으로 번지는 대란",
+      "summary": "수도권 전월세 매물이 전년 대비 약 36% 감소한 가운데, 그동안 상대적으로 여유가 있던 빌라 시장까지 전월세 매물이 급감하며 임대난이 아파트를 넘어 저가 주거형태 전반으로 확산되고 있다. 이는 서민·청년층 주거 불안을 심화시키고 임대료 상승 압력을 키우는 요인으로 작용한다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -212,58 +254,16 @@
       ]
     },
     {
-      "id": 2,
+      "id": 5,
       "status": "ONGOING",
-      "title": "기존 빌라·비아파트 담보대출 규제 완화 요구와 공급 확대 논쟁",
-      "summary": "정부가 신축 위주로만 매입·전세 대출을 지원하는 가운데, 업계는 기존 빌라 등 기축 비아파트에도 대출 완화가 필요하다고 주장하고 있다. 비아파트 금융 규제가 공급 확대를 가로막고 서민 주거비 부담을 키운다는 지적이 이어진다.",
+      "title": "기축 비아파트 대출 규제 완화 요구와 공급 확대 논쟁",
+      "summary": "정부가 신축 매입에 한정해 대출 지원을 하는 현 정책에 대해, 기존 빌라 등 기축 비아파트까지 금융 규제를 완화해야 전체 시장 공급을 실질적으로 늘릴 수 있다는 업계 요구가 커지고 있다. 정책 대상 확대 여부에 따라 비아파트 시장의 거래 활성도와 임대주택 공급 구조가 크게 달라질 수 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(부동산)",
           "title": "\"신축 매입때만 대출 지원 역부족 기존 빌라도 풀어줘야 공급 가속\"",
           "url": "https://www.mk.co.kr/news/realestate/12179057"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "status": "NEW",
-      "title": "청년·신혼부부 대상 저금리 전세 정책대출 확대",
-      "summary": "청년과 신혼부부를 대상으로 한 저금리 전세금 정책대출이 도입·확대되며 전세 보증금 마련 부담을 덜어주는 역할을 하고 있다. 우대 금리와 한도 확대를 통해 고금리 시장에서 취약계층의 임대주택 접근성을 높이려는 정책 기조가 강화되는 흐름이다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "한국경제(부동산)",
-          "title": "저금리 전세금 정책대출…청년·신혼부부 주목",
-          "url": "https://www.hankyung.com/article/2026101888101"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "status": "ONGOING",
-      "title": "8·13 대책 후속 ‘디지털 주택공급 상황판’과 정례 브리핑 도입",
-      "summary": "정부가 8·13 공급대책의 착공·분양·입주 진행 상황을 월 2회 정례브리핑과 디지털 주택공급 상황판으로 공개하기로 했다. 총리실까지 나서 공급 실적을 수시 점검하며 시장의 불신과 ‘공급 못 한다’는 비판을 진화하려는 시도가 이어지고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "헤럴드경제(부동산)",
-          "title": "“집 못 지어 미친 것 처럼” 李 정부, 주택공급 정례브리핑 실시…총리실까지 나선 건 ‘최초’ [부동산360]",
-          "url": "https://biz.heraldcorp.com/article/10905979"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "status": "ONGOING",
-      "title": "무주택자 ‘생존 매수’ 우려와 집값·금리·공급 불균형",
-      "summary": "전문가들은 공급 부족, 고금리, 대출·세제 규제가 맞물리며 무주택자가 장기 전·월세보다 ‘지금이라도 집 사야 산다’는 생존형 매수 심리에 내몰릴 수 있다고 경고한다. 실수요자의 조기 매수 압력이 커지면서 시장 왜곡과 취약계층 부담 심화가 우려된다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "한국경제(부동산)",
-          "title": "\"무주택자 '생존 매수'하는 시대 온다\"…전문가 경고 들어보니",
-          "url": "https://www.hankyung.com/article/2026101778407"
         }
       ]
     }

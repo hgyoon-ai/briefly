@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-10-13",
-    "to": "2026-10-19"
+    "from": "2026-10-14",
+    "to": "2026-10-20"
   },
   "kpis": {
     "collected": 12,
@@ -10,148 +10,118 @@
   },
   "topTopics": [
     {
-      "name": "Demand",
-      "count": 10
-    },
-    {
       "name": "Competition",
       "count": 10
     },
     {
       "name": "Roadmap",
-      "count": 8
+      "count": 9
     },
     {
-      "name": "Investment",
+      "name": "Demand",
+      "count": 9
+    },
+    {
+      "name": "Policy",
       "count": 4
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-10-13",
-      "dayOfWeek": "Tue",
-      "topic": "Demand",
-      "count": 0
-    },
-    {
-      "date": "2026-10-13",
-      "dayOfWeek": "Tue",
-      "topic": "Competition",
-      "count": 0
-    },
-    {
-      "date": "2026-10-13",
-      "dayOfWeek": "Tue",
-      "topic": "Roadmap",
-      "count": 0
-    },
-    {
-      "date": "2026-10-13",
-      "dayOfWeek": "Tue",
-      "topic": "Investment",
-      "count": 0
-    },
-    {
-      "date": "2026-10-14",
-      "dayOfWeek": "Wed",
-      "topic": "Demand",
-      "count": 3
-    },
-    {
       "date": "2026-10-14",
       "dayOfWeek": "Wed",
       "topic": "Competition",
-      "count": 3
+      "count": 1
     },
     {
       "date": "2026-10-14",
       "dayOfWeek": "Wed",
       "topic": "Roadmap",
-      "count": 3
+      "count": 2
     },
     {
       "date": "2026-10-14",
       "dayOfWeek": "Wed",
-      "topic": "Investment",
-      "count": 3
-    },
-    {
-      "date": "2026-10-15",
-      "dayOfWeek": "Thu",
-      "topic": "Demand",
-      "count": 0
-    },
-    {
-      "date": "2026-10-15",
-      "dayOfWeek": "Thu",
-      "topic": "Competition",
-      "count": 1
-    },
-    {
-      "date": "2026-10-15",
-      "dayOfWeek": "Thu",
-      "topic": "Roadmap",
-      "count": 1
-    },
-    {
-      "date": "2026-10-15",
-      "dayOfWeek": "Thu",
-      "topic": "Investment",
-      "count": 0
-    },
-    {
-      "date": "2026-10-16",
-      "dayOfWeek": "Fri",
-      "topic": "Demand",
-      "count": 1
-    },
-    {
-      "date": "2026-10-16",
-      "dayOfWeek": "Fri",
-      "topic": "Competition",
-      "count": 1
-    },
-    {
-      "date": "2026-10-16",
-      "dayOfWeek": "Fri",
-      "topic": "Roadmap",
-      "count": 0
-    },
-    {
-      "date": "2026-10-16",
-      "dayOfWeek": "Fri",
-      "topic": "Investment",
-      "count": 0
-    },
-    {
-      "date": "2026-10-17",
-      "dayOfWeek": "Sat",
-      "topic": "Demand",
-      "count": 3
-    },
-    {
-      "date": "2026-10-17",
-      "dayOfWeek": "Sat",
-      "topic": "Competition",
-      "count": 3
-    },
-    {
-      "date": "2026-10-17",
-      "dayOfWeek": "Sat",
-      "topic": "Roadmap",
-      "count": 1
-    },
-    {
-      "date": "2026-10-17",
-      "dayOfWeek": "Sat",
-      "topic": "Investment",
-      "count": 0
-    },
-    {
-      "date": "2026-10-18",
-      "dayOfWeek": "Sun",
       "topic": "Demand",
       "count": 2
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 3
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Demand",
+      "count": 3
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 1
     },
     {
       "date": "2026-10-18",
@@ -168,8 +138,26 @@
     {
       "date": "2026-10-18",
       "dayOfWeek": "Sun",
-      "topic": "Investment",
+      "topic": "Demand",
+      "count": 2
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
       "count": 0
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 2
     },
     {
       "date": "2026-10-19",
@@ -180,42 +168,68 @@
     {
       "date": "2026-10-19",
       "dayOfWeek": "Mon",
-      "topic": "Competition",
-      "count": 0
+      "topic": "Policy",
+      "count": 2
     },
     {
-      "date": "2026-10-19",
-      "dayOfWeek": "Mon",
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
       "topic": "Roadmap",
       "count": 1
     },
     {
-      "date": "2026-10-19",
-      "dayOfWeek": "Mon",
-      "topic": "Investment",
-      "count": 1
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 0
     }
   ],
   "topIssues": [
     {
       "id": 1,
-      "status": "NEW",
-      "title": "전기 세미 트럭, 전력망 백업 자산으로 부상",
-      "summary": "오리건 전력사 PGE가 중·대형 전기 트럭을 이동식 대용량 배터리로 활용해 전력망 안정화와 비상 백업 전원으로 쓰려는 전략을 추진하고 있다. 운송 부문의 전동화가 단순 탄소 저감뿐 아니라 그리드 유연성 자산으로 확장되는 흐름을 보여준다.",
+      "status": "SHIFTING",
+      "title": "토요타 코롤라 EV 중국 생산으로 글로벌 전기차 전략 재편",
+      "summary": "토요타가 2028년부터 중국에서 베스트셀러 모델 코롤라의 전기차 버전을 내연기관·하이브리드와 같은 라인에서 생산하기로 하면서, 중국 현지 생산·공급망을 중심으로 한 전동화 전략 전환이 가속화되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
-          "title": "PGE gets it: electric semi trucks provide HEAVY DUTY backup for the grid [video]",
-          "url": "https://electrek.co/2026/10/18/pge-gets-it-electric-semi-trucks-provide-heavy-duty-backup-for-the-grid-video/"
+          "title": "Toyota’s best-selling Corolla is going electric, and it will be made in China",
+          "url": "https://electrek.co/2026/10/19/toyotas-best-selling-corolla-going-electric/"
         }
       ]
     },
     {
       "id": 2,
       "status": "NEW",
-      "title": "주거용 소형·모듈형 배터리로 에너지 자립 수요 확대",
-      "summary": "에코플로우가 소형이면서 필요에 따라 용량을 확장할 수 있는 가정용 배터리 시스템을 출시했다. 초기 비용 진입장벽을 낮추고 점진적 증설을 지원해, 재택 백업 전원과 가정용 ESS 시장의 저변 확대를 노리는 전략 제품으로 평가된다.",
+      "title": "테슬라–스페이스X 잠재 합병 시그널: 위임장으로 드러난 지배구조 변화",
+      "summary": "테슬라 2026년 주주총회 위임장에서 스페이스X 이사회 합류 인사와 합병을 시사하는 안건, 머스크 보상 구조 조정 등이 드러나면서 양사 합병 가능성과 이에 따른 EV·우주·에너지 사업 통합 시나리오가 핵심 이슈로 부상했다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla (TSLA) proxy shows a board getting ready for a SpaceX merger",
+          "url": "https://electrek.co/2026/10/19/tesla-tsla-proxy-annual-meeting-spacex-merger/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "주거용 배터리 시장 확대: 에코플로우의 소형·모듈형 ESS 진입",
+      "summary": "에코플로우가 소형이면서 확장 가능한 주거용 에너지 저장 시스템을 출시해, 가정용 백업 전원과 분산형 에너지 시장에 보다 저렴하고 진입 장벽이 낮은 옵션을 제시하고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -226,10 +240,10 @@
       ]
     },
     {
-      "id": 3,
+      "id": 4,
       "status": "NEW",
-      "title": "초고성능 전기 SUV 경쟁 격화: 메르세데스-AMG GT 전기 SUV 공개",
-      "summary": "메르세데스-AMG가 1,153마력급 전기 퍼포먼스 SUV와 710kW급 초고속 DC 충전을 앞세워 프리미엄 EV 시장 공략에 나섰다. 고성능·고속충전 기술을 동시에 강화하며 테슬라·포르쉐 등 기존 프리미엄 전기차와의 경쟁이 한층 치열해지고 있다.",
+      "title": "전기차 초고성능·초고속 충전 경쟁: 메르세데스-AMG GT 전기 SUV 공개",
+      "summary": "메르세데스-AMG가 1,153마력급 전기 퍼포먼스 SUV와 710kW급 DC 초급속 충전 능력을 내세우며 프리미엄 EV 시장에서 성능·충전 속도 경쟁을 한층 끌어올리고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -240,35 +254,16 @@
       ]
     },
     {
-      "id": 4,
+      "id": 5,
       "status": "ONGOING",
-      "title": "전기자전거, 가격대별 소비자 선택지 급증",
-      "summary": "Electrek가 2026년 10월 기준 가격 구간별 추천 전기자전거 리스트를 공개하며, 다양한 예산과 쓰임새에 맞춘 모델들이 빠르게 늘고 있음을 보여준다. 장기 실사용 경험 기반의 선정으로 전기자전거 시장이 성숙 단계에 진입하는 흐름이 읽힌다.",
+      "title": "소형 모빌리티 전동화 트렌드: 예산별 최고 전기자전거 가이드 업데이트",
+      "summary": "Electrek가 장기 사용 경험을 바탕으로 2026년 10월 기준 예산 구간별 전기자전거 추천 리스트를 제시하며, 도심 이동·마이크로 모빌리티 영역에서 전기자전거 수요와 제품 경쟁이 지속적으로 확대되고 있음을 보여준다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
           "title": "Here are the best electric bikes you can buy at every price level in October 2026",
           "url": "https://electrek.co/2026/10/17/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "status": "ONGOING",
-      "title": "테슬라 FSD·오토파일럿 사고로 자율주행 규제 리스크 확대",
-      "summary": "미국에서 테슬라 FSD·오토파일럿이 켜진 상태로 발생한 충돌 및 사망 사고 사례가 잇따라 보고되며 안전성 논란이 재점화되고 있다. 운전자가 시스템 작동 중 수면 상태였다는 진술까지 더해져, 운전자 감시 강화와 규제 재정비 요구가 커지고 있다.",
-      "articleCount": 2,
-      "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "Tesla driver says he was asleep on FSD when he hit CHP car, 2 officers hurt",
-          "url": "https://electrek.co/2026/10/16/tesla-fsd-crash-chp-patrol-car-driver-asleep-fairfield/"
-        },
-        {
-          "source": "Electrek",
-          "title": "Tesla confirms Autopilot/FSD was ‘engaged’ when car crossed a median and killed a man",
-          "url": "https://electrek.co/2026/10/15/tesla-driver-assist-median-crossing-vineland/"
         }
       ]
     }

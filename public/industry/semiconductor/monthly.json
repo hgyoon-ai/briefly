@@ -1,24 +1,24 @@
 {
   "range": {
-    "from": "2026-09-20",
-    "to": "2026-10-19"
+    "from": "2026-09-21",
+    "to": "2026-10-20"
   },
   "kpis": {
-    "collected": 67,
-    "deduped": 67,
+    "collected": 70,
+    "deduped": 70,
     "uniqueTopics": 7,
     "marketShare": {
       "Roadmap": 30,
       "Competition": 26,
       "Manufacturing": 19,
-      "Investment": 15,
+      "Investment": 14,
       "Demand": 11,
       "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (09/20-09/26)",
+      "week": "Week 1 (09/21-09/27)",
       "topicCounts": {
         "Roadmap": 13,
         "Competition": 10,
@@ -28,17 +28,17 @@
       }
     },
     {
-      "week": "Week 2 (09/27-10/03)",
+      "week": "Week 2 (09/28-10/04)",
       "topicCounts": {
-        "Roadmap": 21,
-        "Competition": 19,
+        "Roadmap": 20,
+        "Competition": 18,
         "Manufacturing": 7,
         "Investment": 11,
-        "Demand": 8
+        "Demand": 7
       }
     },
     {
-      "week": "Week 3 (10/04-10/10)",
+      "week": "Week 3 (10/05-10/11)",
       "topicCounts": {
         "Roadmap": 9,
         "Competition": 9,
@@ -48,7 +48,7 @@
       }
     },
     {
-      "week": "Week 4 (10/11-10/17)",
+      "week": "Week 4 (10/12-10/18)",
       "topicCounts": {
         "Roadmap": 14,
         "Competition": 12,
@@ -58,13 +58,13 @@
       }
     },
     {
-      "week": "Week 5 (10/18-10/19)",
+      "week": "Week 5 (10/19-10/20)",
       "topicCounts": {
-        "Roadmap": 0,
-        "Competition": 0,
-        "Manufacturing": 0,
-        "Investment": 0,
-        "Demand": 0
+        "Roadmap": 3,
+        "Competition": 2,
+        "Manufacturing": 2,
+        "Investment": 1,
+        "Demand": 1
       }
     }
   ],
@@ -72,22 +72,55 @@
     {
       "id": 1,
       "status": "ONGOING",
-      "title": "AI 시대 반도체 팹 인프라 확장과 공급망 강화 가속",
-      "summary": "SEMICON West 2026에서 고성능·대규모 AI 컴퓨팅 수요에 대응하기 위한 팹 인프라 확장, 설비 투자, 공급망 강화 전략이 핵심 의제로 논의되고 있다. 이는 글로벌 반도체 제조 역량 재편과 장기적인 생산능력 증설 방향을 보여준다.",
-      "articleCount": 1,
+      "title": "AI 시대 반도체 설비·팹 인프라 투자 가속",
+      "summary": "SEMICON West 2026 논의와 Applied Materials의 50억 달러 EPIC 투자 발표는 AI·고성능 컴퓨팅 수요 증가에 대응해 글로벌 팹 인프라와 장비 투자가 장기적으로 확대되고 있음을 보여준다. 생산능력 증설과 공급망 강화, 공정 혁신이 동시에 추진되며, 설비·소재·장비 생태계 전반에 중장기 투자 압력이 커지고 있다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
           "source": "EE Times",
           "title": "SEMICON West 2026 Displays AI-Era Chipmaking, Workforce Development",
           "url": "https://www.eetimes.com/semicon-west-2026-displays-ai-era-chipmaking-workforce-development/"
+        },
+        {
+          "source": "EE Times",
+          "title": "Video Interview: Applied Materials CEO on the Economics Behind Its $5B EPIC Bet",
+          "url": "https://www.eetimes.com/video-interview-applied-materials-ceo-on-the-economics-behind-its-5b-epic-bet/"
         }
       ]
     },
     {
       "id": 2,
+      "status": "NEW",
+      "title": "삼성전자 2026년 3분기 실적 가이던스, 메모리·시스템 반도체 수요 회복 시사",
+      "summary": "삼성전자가 2026년 3분기 연결 매출 약 195조원, 영업이익 약 107.40조원의 실적 가이던스를 제시하며 반도체 중심 사업 실적의 큰 폭 개선을 예고했다. 이는 메모리 가격 회복, AI·서버·스토리지 수요 증가, 파운드리와 시스템 반도체 수요 개선이 복합적으로 반영된 것으로 해석되며, 향후 설비 투자와 기술 로드맵에도 영향을 줄 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung Electronics Announces Earnings Guidance for Third Quarter 2026",
+          "url": "https://news.samsung.com/global/samsung-electronics-announces-earnings-guidance-for-third-quarter-2026"
+        }
+      ]
+    },
+    {
+      "id": 3,
       "status": "ONGOING",
-      "title": "대만 AI 반도체 전략의 핵심 제약 요인: 인력 격차",
-      "summary": "대만은 랙-스케일 AI, 물리적 AI, AI PC 등에서 큰 성장 기회를 보유하지만, 고급 AI·반도체 인재 부족이 생태계 확장의 최대 병목으로 부각되고 있다. 이는 기술·제조 경쟁력 유지에 인력 정책과 교육 투자 강화가 필수임을 시사한다.",
+      "title": "SSD·스토리지 시장에서의 브랜드 경쟁과 수요 선점 전략",
+      "summary": "삼성전자는 글로벌 랜드마크를 활용한 SSD 캠페인 ‘Choose the sure thing’을 전개하며 프리미엄 스토리지 브랜드 이미지를 강화하고 있다. AI·클라우드·게이밍 등에서 고성능 SSD 수요가 확대되는 가운데, 대형 OOH 마케팅으로 신뢰성과 성능을 강조해 경쟁사 대비 수요를 선점하려는 전략이 가속화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung Electronics Expands SSD Brand Campaign Across Global Landmarks",
+          "url": "https://news.samsung.com/global/samsung-electronics-expands-ssd-brand-campaign-across-global-landmarks"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "대만 AI 반도체 야심과 인재 격차",
+      "summary": "대만은 랙-스케일 AI, AI PC, 물리적 AI 등 차세대 AI 컴퓨팅 분야에서 TSMC·OSAT·PCB 등 강력한 제조 생태계를 보유하고 있으나, 고급 AI·반도체 융합 인재 부족이 성장의 핵심 제약으로 부상하고 있다. 이는 첨단 공정·패키징·시스템 설계 역량 확장과 글로벌 경쟁력 유지에 구조적 리스크로 작용하고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -98,44 +131,16 @@
       ]
     },
     {
-      "id": 3,
+      "id": 5,
       "status": "SHIFTING",
-      "title": "메모리 중심 서버 아키텍처로 AI 인프라 패러다임 전환",
-      "summary": "SK하이닉스는 OCP Global Summit 2026에서 메모리 중심 서버 시스템을 제안하며, AI 데이터 폭증으로 인한 병목을 차세대 메모리 기술로 해결하겠다는 비전을 제시했다. 이는 AI용 반도체 인프라가 CPU·GPU 중심에서 메모리 대역폭·용량 중심으로 이동하고 있음을 보여준다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "SK hynix Newsroom",
-          "title": "“Memory-Centric Server Systems Are the Future”: SK hynix Presents Its Next-Generation AI Infrastructure Vision at OCP Global Summit 2026",
-          "url": "https://news.skhynix.com/en/ocp-global-summit-2026/"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "status": "NEW",
-      "title": "반도체 혁신 모델 전환: Applied Materials의 50억 달러 EPIC 공동 R&D 센터",
-      "summary": "Applied Materials가 50억 달러 규모 EPIC 센터 설립을 통해 팹 장비사, 칩 제조사, 연구기관을 한데 모으는 새로운 공동 R&D·상용화 모델을 추진한다. 이는 공정·소자 혁신의 리드타임을 줄이고 차세대 반도체 기술 상용화를 앞당기려는 산업 전반의 구조 변화 시도로 볼 수 있다.",
+      "title": "칩 설계 패러다임 전환: 거시 목표에서 미시 소자로의 역방향 설계",
+      "summary": "노벨상 연구에서 도출된 ‘거시 시스템을 미시 부품 관점에서 재해석’하는 통찰이 반도체 설계에도 적용되며, 상위 시스템 목표에서 소자·회로 수준까지 역방향으로 최적화하는 설계 패러다임이 부상하고 있다. 이는 AI 가속기, HPC 칩 등에서 아키텍처·공정·소자 동시 최적화를 요구하며 EDA 툴·설계 방법론 변화로 이어지고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "EE Times",
-          "title": "Applied Materials Bets $5B on a New Model for Chip Innovation",
-          "url": "https://www.eetimes.com/applied-materials-bets-5b-on-a-new-model-for-chip-innovation/"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "status": "NEW",
-      "title": "AI 호황이 견인한 삼성전자 2026년 3분기 실적 모멘텀",
-      "summary": "삼성전자가 2026년 3분기 실적 가이던스에서 매출 195조원, 영업이익 107.40조원을 제시하며 반도체·AI 수요 회복에 따른 실적 레벨업을 시사했다. 이는 메모리·파운드리 등 반도체 부문의 업황 개선과 대규모 투자 여력을 동시에 강화하는 신호로 해석된다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Samsung Newsroom",
-          "title": "Samsung Electronics Announces Earnings Guidance for Third Quarter 2026",
-          "url": "https://news.samsung.com/global/samsung-electronics-announces-earnings-guidance-for-third-quarter-2026"
+          "title": "From Macro to Micro, and Back",
+          "url": "https://www.eetimes.com/from-macro-to-micro-and-back/"
         }
       ]
     }

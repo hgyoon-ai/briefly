@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-09-20",
-    "to": "2026-10-19"
+    "from": "2026-09-21",
+    "to": "2026-10-20"
   },
   "kpis": {
     "collected": 54,
@@ -9,60 +9,60 @@
     "uniqueTopics": 9,
     "marketShare": {
       "MarketInfra": 39,
-      "Policy": 26,
+      "Policy": 25,
       "Regulation": 13,
-      "Compliance": 11,
+      "Compliance": 12,
       "Fintech": 11,
       "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (09/20-09/26)",
+      "week": "Week 1 (09/21-09/27)",
       "topicCounts": {
         "MarketInfra": 9,
-        "Policy": 6,
+        "Policy": 5,
         "Regulation": 3,
         "Compliance": 4,
-        "Fintech": 4
+        "Fintech": 5
       }
     },
     {
-      "week": "Week 2 (09/27-10/03)",
-      "topicCounts": {
-        "MarketInfra": 11,
-        "Policy": 5,
-        "Regulation": 4,
-        "Compliance": 3,
-        "Fintech": 4
-      }
-    },
-    {
-      "week": "Week 3 (10/04-10/10)",
+      "week": "Week 2 (09/28-10/04)",
       "topicCounts": {
         "MarketInfra": 9,
-        "Policy": 7,
+        "Policy": 4,
+        "Regulation": 3,
+        "Compliance": 1,
+        "Fintech": 3
+      }
+    },
+    {
+      "week": "Week 3 (10/05-10/11)",
+      "topicCounts": {
+        "MarketInfra": 9,
+        "Policy": 8,
         "Regulation": 2,
         "Compliance": 2,
         "Fintech": 2
       }
     },
     {
-      "week": "Week 4 (10/11-10/17)",
+      "week": "Week 4 (10/12-10/18)",
       "topicCounts": {
-        "MarketInfra": 13,
-        "Policy": 10,
-        "Regulation": 3,
-        "Compliance": 2,
-        "Fintech": 2
+        "MarketInfra": 12,
+        "Policy": 9,
+        "Regulation": 4,
+        "Compliance": 3,
+        "Fintech": 1
       }
     },
     {
-      "week": "Week 5 (10/18-10/19)",
+      "week": "Week 5 (10/19-10/20)",
       "topicCounts": {
         "MarketInfra": 2,
         "Policy": 1,
-        "Regulation": 2,
+        "Regulation": 1,
         "Compliance": 1,
         "Fintech": 0
       }
@@ -72,8 +72,36 @@
     {
       "id": 1,
       "status": "ONGOING",
-      "title": "10월 코스피 급락과 강제청산 우려, 개인투자자 리스크 확대",
-      "summary": "10월 들어 코스피가 약 20% 하락하고, 특히 15일 하루 7% 넘게 급락하면서 빚투 개인투자자의 반대매매(강제청산) 급증 우려가 커졌다. 국내외 동반 조정으로 투자심리가 급격히 위축된 가운데 향후 추가 강제청산과 변동성 확대가 단기 핵심 리스크로 부상했다.",
+      "title": "고금리·부채 급증 여파로 자영업자 부실과 상가 공실 확대",
+      "summary": "식당·학원 등 자영업자들이 급격한 부채 증가와 경기 둔화로 폐업 위기에 몰리며 상가 공실과 임대 문의가 급증하고 있다. 내수 기반 악화는 지역 상권, 상가담보대출, 관련 리츠·부동산 PF에도 연쇄 부실 위험을 키우고 있어 금융권 건전성 관리 이슈로 번지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "자영업자 덮친 ‘빚 쓰나미’ 식당·학원 줄도산 공포",
+          "url": "https://www.mk.co.kr/news/stock/12180277"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "증권사 임직원 불법 주식거래 제재와 내부통제 허점",
+      "summary": "최근 5년간 주요 증권사 임직원 97명이 주식매매 규정 위반으로 제재를 받는 등 내부자 거래·사적 투자 관리 실패가 반복되고 있다. 위반 금액은 약 88억원에 달하지만 과태료가 법정 상한에도 못 미치면서 제재 실효성과 금융투자업계 윤리·컴플라이언스 강화 요구가 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“불법 투자로 돈 벌다가, 퇴사하면 그만?”…증권가 주식투자의 민낯",
+          "url": "https://www.mk.co.kr/news/economy/12180261"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "코스피 10월 급락과 빚투 강제청산 리스크 확대",
+      "summary": "10월 들어 코스피가 약 20% 하락하고 하루 7% 이상 급락한 날까지 나오면서 국내외 동반 조정으로 투자심리가 급격히 위축됐다. 신용·미수 등 레버리지 투자 잔액이 높은 가운데 추가 반대매매(강제청산) 가능성이 커져 개인투자자 손실 심화와 변동성 확대가 이어질 수 있다.",
       "articleCount": 2,
       "relatedArticles": [
         {
@@ -89,38 +117,10 @@
       ]
     },
     {
-      "id": 2,
-      "status": "NEW",
-      "title": "국민연금 기금운용 국정조사 추진, 공적 자금의 증시 역할 논쟁",
-      "summary": "코스피 급락으로 개인투자자 피해가 커지자 국민의힘이 국민연금 기금운용을 둘러싼 국정조사 카드를 꺼내 들었다. 연금의 주식 비중·매매 전략이 증시 폭등·폭락을 키웠는지, 향후 공적 자금의 시장 안정 기능을 어떻게 설계할지에 대한 정치·정책 논쟁이 본격화되고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "매일경제(증권)",
-          "title": "“증시 폭등 없었으면 폭락도 없었다”…국민연금 국조 꺼내든 국힘",
-          "url": "https://www.mk.co.kr/news/politics/12178257"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "status": "ONGOING",
-      "title": "한국은행 직원 주식거래 급증 논란, 금융당국 신뢰·윤리 리스크",
-      "summary": "한국은행 직원들의 상반기 주식거래 규모가 전체 53배, 금융시장국은 24배 급증한 것으로 나타나 내부정보 이용 가능성과 도덕적 해이에 대한 우려가 제기됐다. 통화·금융정책을 담당하는 기관의 이해상충 이슈가 부각되며 거시정책 신뢰성과 금융시장 규율 강화 요구가 커지는 상황이다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "매일경제(증권)",
-          "title": "“이러려고 한은 들어갔나”…시장 경고는 뒷전, 직원들 주식거래 53배 급증 왜?",
-          "url": "https://www.mk.co.kr/news/economy/12174120"
-        }
-      ]
-    },
-    {
       "id": 4,
       "status": "ONGOING",
-      "title": "부실기업 상장폐지 두 배 급증, 코스피·코스닥 구조조정 심화",
-      "summary": "올해 9월까지 부실기업 상장폐지 건수가 36곳으로 작년의 두 배 수준에 이르렀다. 이익 미달·감사의견 한정 등 상장유지 요건을 충족하지 못한 기업이 빠르게 퇴출되면서, 금융시장 전반에 걸친 신용 경색과 함께 상장사 옥석 가리기와 구조조정이 가속화되고 있다.",
+      "title": "부실 상장사 퇴출 급증과 코스닥·중소형주 구조조정",
+      "summary": "올해 9월까지 부실기업 상장폐지가 36곳으로 작년의 두 배 수준으로 늘며 거래소의 상장심사·관리 강화 기조가 이어지고 있다. 실적 부진·지배구조 리스크가 큰 중소형주의 퇴출이 가속되면서 코스닥 구조조정, 소액주주 보호, 공시·회계 투명성 제고가 시장 핵심 이슈로 부상했다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -133,8 +133,8 @@
     {
       "id": 5,
       "status": "SHIFTING",
-      "title": "에이전틱 AI 부상과 섹터별 자금 재배분, 전통 금융주의 역풍",
-      "summary": "검색 중심에서 이용자 ‘위임’ 중심으로 진화하는 에이전틱 AI 확산으로 반도체 등 AI 인프라주는 강세, 은행·보험·여행 등 전통 업종에는 자금 유출이 나타나고 있다. AI가 마지막 클릭과 의사결정을 주도하면서 리테일 자금의 섹터 로테이션과 금융 비즈니스 모델 변화가 가속되는 구도다.",
+      "title": "에이전틱 AI 확산에 따른 금융 섹터 자금 재배치",
+      "summary": "검색 중심에서 이용자 위임형 ‘에이전틱 AI’로 패러다임이 전환되며 AI가 마지막 의사결정·클릭을 맡는 구조가 빠르게 확산되고 있다. 메타 등 빅테크의 신기능 출시가 촉매가 되어 반도체·AI 인프라 기업으로 자금이 이동하는 반면, 기존 은행·보험·여행 업종 등은 밸류에이션 재평가 압력을 받고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {

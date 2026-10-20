@@ -1,64 +1,64 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "highlights": {
     "bullets": [
-      "핵심: 오리건 전력회사 PGE가 중·대형 전기 세미 트럭을 전력망 백업 자원으로 제시했다.",
-      "핵심: 에코플로우가 확장 가능한 소형 주거용 에너지 저장 시스템을 발표했다."
+      "핵심: 위임장에서 아이라 에런프라이스의 스페이스X 이사회 합류와 합병을 시사하는 안건들이 확인됐다.",
+      "핵심: 토요타는 2028년부터 중국에서 코롤라 EV를 하이브리드·내연 모델과 동일 라인에서 생산할 예정이다."
     ],
     "topTopics": [
       "Roadmap",
+      "Competition",
       "Demand",
-      "Investment",
-      "Policy"
+      "Investment"
     ],
     "stats": {
-      "collected": 4,
-      "deduped": 4
+      "collected": 15,
+      "deduped": 15
     }
   },
   "cards": [
     {
       "id": "ev_0001",
       "tab": "ev",
-      "publishedAt": "2026-10-19T00:17:46+09:00",
+      "publishedAt": "2026-10-19T23:07:33+09:00",
       "source": "Electrek",
-      "title": "PGE gets it: electric semi trucks provide HEAVY DUTY backup for the grid [video]",
+      "title": "Tesla (TSLA) proxy shows a board getting ready for a SpaceX merger",
       "summary": [
-        "오리건 전력회사 PGE가 중·대형 전기 트럭을 '바퀴 달린 대형 배터리'로 규정하며 전동화를 적극 홍보하고 있다.",
-        "이들 전기 세미 트럭은 환경·보건 측면 개선뿐 아니라 전력망 안정화와 비상 백업 전원 역할을 할 수 있는 자산으로 강조된다.",
-        "PGE는 상용 전기 트럭을 통해 운송 부문 탈탄소화와 전력망 유연성 제고를 동시에 달성하는 전략을 부각하고 있다."
+        "테슬라 2026년 주주총회 위임장에 독립 이사였던 아이ра 에런프라이스가 스페이스X 이사회에 합류한 사실이 확인됐습니다.",
+        "위임장 내용은 스페이스X와의 합병을 시사하는 3개 안건 구성, 자동 의결 프로그램, 거래 가격에 연동된 머스크 보상 구조 등을 담고 있습니다.",
+        "이러한 이사회와 보상 설계 변화는 테슬라-스페이스X 간 구조적 결합 가능성을 높이는 신호로 해석됩니다."
       ],
-      "whyItMatters": "전기 화물 트럭을 분산형 에너지 자원으로 활용해 전력망 안정성과 탈탄소화를 동시에 추진하는 유틸리티 전략은 향후 전기차·전력 인프라 투자 방향에 중요한 시사점을 주기 때문이다.",
+      "whyItMatters": "머스크 지배 구조 하에서 테슬라와 스페이스X의 잠재적 합병은 지배구조 리스크, 밸류에이션 체계, 주주 권한에 큰 변화를 초래할 수 있어 중장기 투자 판단에 중요합니다.",
       "topics": [
         "Investment",
+        "Policy",
         "Roadmap",
-        "Demand",
-        "Policy"
+        "Competition"
       ],
       "status": "NEW",
-      "hash": "070cd6f4f0c411ca92b4a651088008f77b2a098221e969afe9cda02a5cdc5fb6",
-      "url": "https://electrek.co/2026/10/18/pge-gets-it-electric-semi-trucks-provide-heavy-duty-backup-for-the-grid-video/"
+      "hash": "7c7a38f79fa54983e0b5aaea539c9eafa84b2833d2658272bd176e538bffa25d",
+      "url": "https://electrek.co/2026/10/19/tesla-tsla-proxy-annual-meeting-spacex-merger/"
     },
     {
       "id": "ev_0002",
       "tab": "ev",
-      "publishedAt": "2026-10-18T23:42:47+09:00",
+      "publishedAt": "2026-10-20T02:59:24+09:00",
       "source": "Electrek",
-      "title": "Tiny Titan: new residential battery system from EcoFlow starts small",
+      "title": "Toyota’s best-selling Corolla is going electric, and it will be made in China",
       "summary": [
-        "에코플로우가 소형이면서 확장 가능한 주거용 에너지 저장 시스템을 발표했다.",
-        "이 제품은 기존 백업 배터리 라인업에 더 접근하기 쉬운 진입점으로 포지셔닝된다.",
-        "소형화로 설치 편의성이 높아져 주거용 시장 확대 가능성이 있다."
+        "토요타는 2028년부터 중국에서 코롤라 EV를 생산할 예정이다.",
+        "코롤라 EV는 하이브리드·내연기관 모델과 함께 동일 라인에서 생산된다.",
+        "중국 생산 전환은 토요타의 전동화 로드맵과 제조 효율화 전략을 반영한다."
       ],
-      "whyItMatters": "진입장벽을 낮춘 제품 출시가 보급 확대와 경쟁 구도 변화로 이어질 가능성이 있기 때문이다.",
+      "whyItMatters": "중국에서의 생산과 EV 전환은 글로벌 공급망·비용 구조와 경쟁력에 직접적인 영향을 미치기 때문이다.",
       "topics": [
+        "Manufacturing",
         "Roadmap",
-        "Competition",
-        "Demand"
+        "Competition"
       ],
-      "status": "NEW",
-      "hash": "0878b013ea29f336a1aed74709ef9ee99f4f70575b2f7d28aace762b22c28b5d",
-      "url": "https://electrek.co/2026/10/18/tiny-titan-new-residential-battery-system-from-ecoflow-starts-small/"
+      "status": "SHIFTING",
+      "hash": "9ad55a3eddb8bc80f2c8e38fc296522c38bc62d30d73d6de2217a218c3379ecb",
+      "url": "https://electrek.co/2026/10/19/toyotas-best-selling-corolla-going-electric/"
     }
   ]
 }

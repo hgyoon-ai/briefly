@@ -1,0 +1,64 @@
+{
+  "date": "2026-10-20",
+  "highlights": {
+    "bullets": [
+      "핵심: 위임장에서 아이라 에런프라이스의 스페이스X 이사회 합류와 합병을 시사하는 안건들이 확인됐다.",
+      "핵심: 토요타는 2028년부터 중국에서 코롤라 EV를 하이브리드·내연 모델과 동일 라인에서 생산할 예정이다."
+    ],
+    "topTopics": [
+      "Roadmap",
+      "Competition",
+      "Demand",
+      "Investment"
+    ],
+    "stats": {
+      "collected": 15,
+      "deduped": 15
+    }
+  },
+  "cards": [
+    {
+      "id": "ev_0001",
+      "tab": "ev",
+      "publishedAt": "2026-10-19T23:07:33+09:00",
+      "source": "Electrek",
+      "title": "Tesla (TSLA) proxy shows a board getting ready for a SpaceX merger",
+      "summary": [
+        "테슬라 2026년 주주총회 위임장에 독립 이사였던 아이ра 에런프라이스가 스페이스X 이사회에 합류한 사실이 확인됐습니다.",
+        "위임장 내용은 스페이스X와의 합병을 시사하는 3개 안건 구성, 자동 의결 프로그램, 거래 가격에 연동된 머스크 보상 구조 등을 담고 있습니다.",
+        "이러한 이사회와 보상 설계 변화는 테슬라-스페이스X 간 구조적 결합 가능성을 높이는 신호로 해석됩니다."
+      ],
+      "whyItMatters": "머스크 지배 구조 하에서 테슬라와 스페이스X의 잠재적 합병은 지배구조 리스크, 밸류에이션 체계, 주주 권한에 큰 변화를 초래할 수 있어 중장기 투자 판단에 중요합니다.",
+      "topics": [
+        "Investment",
+        "Policy",
+        "Roadmap",
+        "Competition"
+      ],
+      "status": "NEW",
+      "hash": "7c7a38f79fa54983e0b5aaea539c9eafa84b2833d2658272bd176e538bffa25d",
+      "url": "https://electrek.co/2026/10/19/tesla-tsla-proxy-annual-meeting-spacex-merger/"
+    },
+    {
+      "id": "ev_0002",
+      "tab": "ev",
+      "publishedAt": "2026-10-20T02:59:24+09:00",
+      "source": "Electrek",
+      "title": "Toyota’s best-selling Corolla is going electric, and it will be made in China",
+      "summary": [
+        "토요타는 2028년부터 중국에서 코롤라 EV를 생산할 예정이다.",
+        "코롤라 EV는 하이브리드·내연기관 모델과 함께 동일 라인에서 생산된다.",
+        "중국 생산 전환은 토요타의 전동화 로드맵과 제조 효율화 전략을 반영한다."
+      ],
+      "whyItMatters": "중국에서의 생산과 EV 전환은 글로벌 공급망·비용 구조와 경쟁력에 직접적인 영향을 미치기 때문이다.",
+      "topics": [
+        "Manufacturing",
+        "Roadmap",
+        "Competition"
+      ],
+      "status": "SHIFTING",
+      "hash": "9ad55a3eddb8bc80f2c8e38fc296522c38bc62d30d73d6de2217a218c3379ecb",
+      "url": "https://electrek.co/2026/10/19/toyotas-best-selling-corolla-going-electric/"
+    }
+  ]
+}

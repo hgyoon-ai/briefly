@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-10-14",
+    "to": "2026-10-20"
+  },
+  "kpis": {
+    "collected": 12,
+    "deduped": 12,
+    "uniqueTopics": 6
+  },
+  "topTopics": [
+    {
+      "name": "Competition",
+      "count": 10
+    },
+    {
+      "name": "Roadmap",
+      "count": 9
+    },
+    {
+      "name": "Demand",
+      "count": 9
+    },
+    {
+      "name": "Policy",
+      "count": 4
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Demand",
+      "count": 2
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 3
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Demand",
+      "count": 3
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Demand",
+      "count": 2
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "토요타 코롤라 EV 중국 생산으로 글로벌 전기차 전략 재편",
+      "summary": "토요타가 2028년부터 중국에서 베스트셀러 모델 코롤라의 전기차 버전을 내연기관·하이브리드와 같은 라인에서 생산하기로 하면서, 중국 현지 생산·공급망을 중심으로 한 전동화 전략 전환이 가속화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Toyota’s best-selling Corolla is going electric, and it will be made in China",
+          "url": "https://electrek.co/2026/10/19/toyotas-best-selling-corolla-going-electric/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "테슬라–스페이스X 잠재 합병 시그널: 위임장으로 드러난 지배구조 변화",
+      "summary": "테슬라 2026년 주주총회 위임장에서 스페이스X 이사회 합류 인사와 합병을 시사하는 안건, 머스크 보상 구조 조정 등이 드러나면서 양사 합병 가능성과 이에 따른 EV·우주·에너지 사업 통합 시나리오가 핵심 이슈로 부상했다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla (TSLA) proxy shows a board getting ready for a SpaceX merger",
+          "url": "https://electrek.co/2026/10/19/tesla-tsla-proxy-annual-meeting-spacex-merger/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "주거용 배터리 시장 확대: 에코플로우의 소형·모듈형 ESS 진입",
+      "summary": "에코플로우가 소형이면서 확장 가능한 주거용 에너지 저장 시스템을 출시해, 가정용 백업 전원과 분산형 에너지 시장에 보다 저렴하고 진입 장벽이 낮은 옵션을 제시하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tiny Titan: new residential battery system from EcoFlow starts small",
+          "url": "https://electrek.co/2026/10/18/tiny-titan-new-residential-battery-system-from-ecoflow-starts-small/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "전기차 초고성능·초고속 충전 경쟁: 메르세데스-AMG GT 전기 SUV 공개",
+      "summary": "메르세데스-AMG가 1,153마력급 전기 퍼포먼스 SUV와 710kW급 DC 초급속 충전 능력을 내세우며 프리미엄 EV 시장에서 성능·충전 속도 경쟁을 한층 끌어올리고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Electric Mercedes-AMG GT SUV unveiled with 1,153 hp and 710 kW charging",
+          "url": "https://electrek.co/2026/10/17/mercedes-amg-gt-suv-electric-1153-hp-710-kw-charging/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "소형 모빌리티 전동화 트렌드: 예산별 최고 전기자전거 가이드 업데이트",
+      "summary": "Electrek가 장기 사용 경험을 바탕으로 2026년 10월 기준 예산 구간별 전기자전거 추천 리스트를 제시하며, 도심 이동·마이크로 모빌리티 영역에서 전기자전거 수요와 제품 경쟁이 지속적으로 확대되고 있음을 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Here are the best electric bikes you can buy at every price level in October 2026",
+          "url": "https://electrek.co/2026/10/17/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/"
+        }
+      ]
+    }
+  ]
+}

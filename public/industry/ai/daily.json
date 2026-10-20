@@ -1,12 +1,63 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "highlights": {
-    "bullets": [],
-    "topTopics": [],
+    "bullets": [
+      "핵심: CUDA Tile DSL을 활용해 Mamba-2 순전파용 고성능 GPU 커널이 구현됐다.",
+      "핵심: 저자원 프로그래밍 언어 지원 강화를 위해 대화형 언어 모델 개선과 새로운 평가가 진행됐다."
+    ],
+    "topTopics": [
+      "Models",
+      "Inference",
+      "Tooling",
+      "Research"
+    ],
     "stats": {
-      "collected": 0,
-      "deduped": 0
+      "collected": 2,
+      "deduped": 2
     }
   },
-  "cards": []
+  "cards": [
+    {
+      "id": "ai_0001",
+      "tab": "ai",
+      "publishedAt": "2026-10-20T02:00:00+09:00",
+      "source": "NVIDIA Developer Blog",
+      "title": "Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile",
+      "summary": [
+        "NVIDIA가 CUDA Tile(cuTile) DSL을 활용해 Mamba-2의 순전파용 고성능 GPU 커널을 구현했다.",
+        "cuTile이 하드웨어 기능을 자동으로 활용해 실행 효율과 처리량을 향상시킨다.",
+        "이 최적화로 Mamba-2의 추론 속도와 리소스 효율성이 개선된다."
+      ],
+      "whyItMatters": "Mamba-2 추론 가속은 실서비스 응답성과 비용 효율성에 직접적인 영향을 주기 때문에 중요하다.",
+      "topics": [
+        "Models",
+        "Inference",
+        "Tooling"
+      ],
+      "status": "ONGOING",
+      "hash": "be58f6497da33a853d871f7a01a7a18a1f041641d5b45ee5533d45b16cc3a721",
+      "url": "https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile/"
+    },
+    {
+      "id": "ai_0002",
+      "tab": "ai",
+      "publishedAt": "2026-10-19T21:00:00+09:00",
+      "source": "OpenAI Blog",
+      "title": "Advancing coding in low‑resource programming languages",
+      "summary": [
+        "OpenAI가 저자원 프로그래밍 언어 지원을 향상시키기 위해 ChatGPT를 개선하고 있습니다.",
+        "새로운 평가는 소프트웨어 엔지니어링 과제, SQLite 활용, COBOL 마이그레이션 등을 포함합니다.",
+        "목표는 희소 언어의 정확도와 실무 적용성을 높여 레거시 코드 현대화를 지원하는 것입니다."
+      ],
+      "whyItMatters": "저자원 언어 지원 강화는 엔터프라이즈 레거시 유지보수와 지역별 개발자 생산성에 큰 영향을 줍니다.",
+      "topics": [
+        "Models",
+        "Research",
+        "Product"
+      ],
+      "status": "ONGOING",
+      "hash": "1dbe22633003a2af4fddcdba3c780b2ba9f507be061699ce02dd407e5165c7ab",
+      "url": "https://openai.com/index/low-resource-programming-languages"
+    }
+  ]
 }

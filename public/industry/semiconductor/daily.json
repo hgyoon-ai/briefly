@@ -1,12 +1,85 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "highlights": {
-    "bullets": [],
-    "topTopics": [],
+    "bullets": [
+      "핵심: 어플라이드머티어리얼즈가 EPIC 센터 공개와 함께 50억 달러 투자를 발표했다.",
+      "핵심: 삼성전자가 SSD 브랜드 캠페인을 뉴욕, 런던, 홍콩 주요 랜드마크로 확대했다.",
+      "트렌드: 투자와 설계·제조 로드맵 연계가 경쟁 우위 확보 전략으로 드러난다."
+    ],
+    "topTopics": [
+      "Roadmap",
+      "Competition",
+      "Manufacturing",
+      "Investment"
+    ],
     "stats": {
-      "collected": 0,
-      "deduped": 0
+      "collected": 5,
+      "deduped": 5
     }
   },
-  "cards": []
+  "cards": [
+    {
+      "id": "semiconductor_0001",
+      "tab": "semiconductor",
+      "publishedAt": "2026-10-20T05:00:00+09:00",
+      "source": "EE Times",
+      "title": "Video Interview: Applied Materials CEO on the Economics Behind Its $5B EPIC Bet",
+      "summary": [
+        "Applied Materials가 EPIC 센터 공개와 함께 50억 달러 규모의 투자를 발표했다.",
+        "CEO가 동영상 인터뷰에서 투자의 경제적 타당성과 기대 수익을 설명했다.",
+        "회사는 강한 재무 전망을 제시하며 제조 역량과 시장 경쟁력 강화 가능성을 시사했다."
+      ],
+      "whyItMatters": "이 결정은 반도체 장비 제조 역량과 투자 방향, 경쟁 구도에 중대한 영향을 미치기 때문에 중요하다.",
+      "topics": [
+        "Investment",
+        "Roadmap",
+        "Manufacturing"
+      ],
+      "status": "ONGOING",
+      "hash": "b149977776346100dca4b6a1017dfc9fca33ee765774a0af8933d81f0b0c3631",
+      "url": "https://www.eetimes.com/video-interview-applied-materials-ceo-on-the-economics-behind-its-5b-epic-bet/"
+    },
+    {
+      "id": "semiconductor_0002",
+      "tab": "semiconductor",
+      "publishedAt": "2026-10-19T17:19:07+09:00",
+      "source": "EE Times",
+      "title": "From Macro to Micro, and Back",
+      "summary": [
+        "최근 노벨상 연구는 거시 시스템을 미시 부품 관점에서 해석하는 통찰을 제공한다.",
+        "이 관점은 칩 설계에서 상위 목표에서 하위 소자 설계로 역방향 설계하는 접근을 촉발한다.",
+        "AI는 거시적 성능 요구로부터 미시 설계 요소를 자동화·최적화하는 도구로 사용될 수 있다."
+      ],
+      "whyItMatters": "이 접근은 칩 설계의 로드맵과 경쟁구도, 제조·설계 자동화에 실질적 영향을 줄 수 있기 때문이다.",
+      "topics": [
+        "Roadmap",
+        "Competition",
+        "Manufacturing"
+      ],
+      "status": "SHIFTING",
+      "hash": "073ce73c3d8cbdd6e5ff3b4428462da65755a1462ecb3ffb4e2ccf102eeaafe5",
+      "url": "https://www.eetimes.com/from-macro-to-micro-and-back/"
+    },
+    {
+      "id": "semiconductor_0003",
+      "tab": "semiconductor",
+      "publishedAt": "2026-10-20T02:20:00+09:00",
+      "source": "Samsung Newsroom",
+      "title": "Samsung Electronics Expands SSD Brand Campaign Across Global Landmarks",
+      "summary": [
+        "삼성전자가 'Choose the sure thing' SSD 브랜드 캠페인을 뉴욕·런던·홍콩의 주요 랜드마크로 확대했다.",
+        "타임스퀘어·픽카딜리 서커스 등 대형 OOH 광고를 통해 글로벌 소비자 접점을 강화하고 있다.",
+        "국제적 노출 확대를 통해 브랜드 인지도 제고와 제품 수요 확대로 연결하려는 마케팅 전략이다."
+      ],
+      "whyItMatters": "대형 랜드마크 중심의 글로벌 OOH 집행은 소비자 인지도와 수요에 직접적인 영향을 미치며 경쟁 우위 확보에 기여할 가능성이 크기 때문이다.",
+      "topics": [
+        "Demand",
+        "Competition",
+        "Roadmap"
+      ],
+      "status": "ONGOING",
+      "hash": "49fa8c67b67872750481c7ab10647c0ec4260a7d194da95a31d2fc33922858d3",
+      "url": "https://news.samsung.com/global/samsung-electronics-expands-ssd-brand-campaign-across-global-landmarks"
+    }
+  ]
 }

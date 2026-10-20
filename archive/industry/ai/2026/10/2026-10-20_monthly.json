@@ -1,0 +1,153 @@
+{
+  "range": {
+    "from": "2026-09-21",
+    "to": "2026-10-20"
+  },
+  "kpis": {
+    "collected": 80,
+    "deduped": 80,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "Tooling": 28,
+      "Product": 22,
+      "Models": 22,
+      "Research": 14,
+      "Infra": 14,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (09/21-09/27)",
+      "topicCounts": {
+        "Tooling": 11,
+        "Product": 8,
+        "Models": 11,
+        "Research": 9,
+        "Infra": 7
+      }
+    },
+    {
+      "week": "Week 2 (09/28-10/04)",
+      "topicCounts": {
+        "Tooling": 19,
+        "Product": 15,
+        "Models": 14,
+        "Research": 6,
+        "Infra": 9
+      }
+    },
+    {
+      "week": "Week 3 (10/05-10/11)",
+      "topicCounts": {
+        "Tooling": 11,
+        "Product": 10,
+        "Models": 5,
+        "Research": 4,
+        "Infra": 4
+      }
+    },
+    {
+      "week": "Week 4 (10/12-10/18)",
+      "topicCounts": {
+        "Tooling": 18,
+        "Product": 14,
+        "Models": 15,
+        "Research": 10,
+        "Infra": 10
+      }
+    },
+    {
+      "week": "Week 5 (10/19-10/20)",
+      "topicCounts": {
+        "Tooling": 1,
+        "Product": 1,
+        "Models": 2,
+        "Research": 1,
+        "Infra": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "고성능 커널과 상태 저장 재설계로 AI 추론 가속",
+      "summary": "NVIDIA의 cuTile 기반 Mamba-2 순전파 커널과 ReplaySSM의 하이브리드 SSM+어텐션 상태 저장 재설계가 결합되며, 최신 대형 모델의 디코딩 속도와 처리량을 크게 높이는 추론 최적화 흐름이 강화되고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile",
+          "url": "https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile/"
+        },
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding",
+          "url": "https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "개발·배포 전 과정에 AI 에이전트를 통합한 단일 머신 개발 환경",
+      "summary": "NVIDIA RTX Spark는 한 대의 머신에서 코드 작성, 테스트, 배포를 모두 처리하도록 설계된 환경으로, AI 에이전트를 통해 코드 생성부터 검증·배포까지 자동화해 소규모 팀과 로컬 개발 워크플로우에 특화된 통합 AI 개발 스택을 제안한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Code, Test, and Deploy on One Machine with NVIDIA RTX Spark",
+          "url": "https://developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "대규모 언어 사전학습을 위한 오픈 데이터 파이프라인과 GPU 클러스터 효율화",
+      "summary": "Hugging Face가 2.8조 토큰 규모 인디크 언어 사전학습용 오픈 데이터 생성 파이프라인을 공개하고, AllenAI와 함께 GPU 클러스터 스케줄링 전략을 개선해 자원 활용도와 처리량을 높이는 등 대규모 학습 인프라의 재현성·비용 효율을 동시에 추구하고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+          "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
+        },
+        {
+          "source": "Hugging Face Blog",
+          "title": "Impactful scheduling for GPU clusters",
+          "url": "https://huggingface.co/blog/allenai/impactful-scheduling"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "규제가 엄격한 금융권에서 전사적 생성형 AI 도입",
+      "summary": "브라질 대형 은행 Itaú는 ia.i 대화형 인터페이스와 IARA 거버넌스 플랫폼을 기반으로 고객·직원 전반에 생성형 AI를 적용하며, 금융 규제를 준수하는 AI First 운영 모델과 내부 통제 체계를 병행 구축하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "How Itaú is building generative AI for its entire customer base",
+          "url": "https://openai.com/index/itau-generative-ai"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "과학 연구·의료를 위한 AI 활용: 항미생물 펩타이드 탐색 가속",
+      "summary": "Google Antigravity for Science는 머신러닝 기반 모델로 항미생물 펩타이드 후보의 설계와 평가를 자동화해 실험 비용과 시간을 줄이고, 신약 개발·감염병 대응에 특화된 AI 기반 분자 설계 워크플로우를 고도화하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Google DeepMind Blog",
+          "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+          "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/"
+        }
+      ]
+    }
+  ]
+}
