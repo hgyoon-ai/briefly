@@ -1,0 +1,277 @@
+{
+  "range": {
+    "from": "2026-10-15",
+    "to": "2026-10-21"
+  },
+  "kpis": {
+    "collected": 12,
+    "deduped": 12,
+    "uniqueTopics": 6
+  },
+  "topTopics": [
+    {
+      "name": "MarketInfra",
+      "count": 12
+    },
+    {
+      "name": "Policy",
+      "count": 8
+    },
+    {
+      "name": "Regulation",
+      "count": 6
+    },
+    {
+      "name": "Compliance",
+      "count": 4
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "MarketInfra",
+      "count": 4
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 3
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Regulation",
+      "count": 1
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Compliance",
+      "count": 1
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Compliance",
+      "count": 1
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Regulation",
+      "count": 1
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Regulation",
+      "count": 2
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Compliance",
+      "count": 1
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "MarketInfra",
+      "count": 3
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Regulation",
+      "count": 2
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Compliance",
+      "count": 1
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Compliance",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "코스피·코스닥 급락과 반등 조건, 정책 대응 논의",
+      "summary": "코스피가 10월 들어 약 20% 급락하고 하루 7% 이상 빠지는 등 급락장이 이어지며 5500선 붕괴, 코스닥 동반 하락으로 투자심리가 극도로 위축됐다. 전문가들은 외국인·기관 매수세 복원, 실적·밸류에이션 정상화, 금리·정책 안정이 반등 필수 조건이라고 진단하고, 정부·대통령의 증시 대책 발표 여부에 시장의 관심이 집중되고 있다.",
+      "articleCount": 4,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“코스피, 심폐소생 가능합니까?”…전문가 3인이 꼽은 반등 조건 [증시 긴급진단]",
+          "url": "https://www.mk.co.kr/news/stock/12181353"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "급락한 주가...이재명 대통령이 언급한 ‘증시 대책’에 쏠리는 시장 관심",
+          "url": "https://www.mk.co.kr/news/stock/12180892"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "10월들어 20%빠진 코스피 ... 1년후 주가 전망은?",
+          "url": "https://www.mk.co.kr/news/stock/12178942"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "빚투·레버리지 투자 손실 확산과 반대매매 리스크",
+      "summary": "지수 급락 속에 레버리지 ETF·ETN 등 고위험 상품이 평균 –30%대 손실을 기록하고 빚을 내 투자한 개인의 반대매매 규모가 이달에만 3000억원 안팎으로 치솟았다. 강제청산이 아직 본격화되지 않았다는 경고까지 나오며, 추가 반대매매가 2차·3차 하락을 유발할 수 있다는 시스템 리스크 우려가 커지고 있다.",
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“강제청산, 본게임 시작도 안했습니다”…15일 폭락분 후폭풍 우려",
+          "url": "https://www.mk.co.kr/news/stock/12179145"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "“이 와중에 ‘레버리지’ 야수처럼 올라탔다”…돌아온 건 ‘눈물의 -33%’",
+          "url": "https://www.mk.co.kr/news/stock/12178618"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "“존버는 커녕 강제 손절이라니”…빚투 개미들 3000억 반대매매에 ‘피눈물’",
+          "url": "https://www.mk.co.kr/news/stock/12178402"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "증권사 임직원 불법 주식투자와 제재 실효성 논란",
+      "summary": "최근 5년간 10대 증권사 임직원 97명이 주식매매 규정 위반으로 제재를 받았고 관련 거래금액은 약 88억원에 달했으나, 부과된 과태료는 법정 상한에도 미치지 못해 ‘가벼운 처벌’이라는 비판이 제기된다. 이해상충과 내부자 거래 차단을 위한 내부통제·규제 강화 필요성이 부각되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“불법 투자로 돈 벌다가, 퇴사하면 그만?”…증권가 주식투자의 민낯",
+          "url": "https://www.mk.co.kr/news/economy/12180261"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "자영업자 부채 급증과 폐업·공실 확대 우려",
+      "summary": "고금리·소비 위축 등의 영향으로 자영업자 부채가 급증하면서 식당·학원 등 상가 공실이 늘고 ‘임대 문의’ 현수막이 붙는 등 폐업 공포가 커지고 있다. 영세 자영업자·소상공인 대상 구조조정과 금융·정책 지원의 방향성이 주요 이슈로 부상하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "자영업자 덮친 ‘빚 쓰나미’ 식당·학원 줄도산 공포",
+          "url": "https://www.mk.co.kr/news/stock/12180277"
+        }
+      ]
+    }
+  ]
+}

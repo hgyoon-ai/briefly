@@ -1,0 +1,276 @@
+{
+  "range": {
+    "from": "2026-10-15",
+    "to": "2026-10-21"
+  },
+  "kpis": {
+    "collected": 26,
+    "deduped": 26,
+    "uniqueTopics": 10
+  },
+  "topTopics": [
+    {
+      "name": "Market",
+      "count": 18
+    },
+    {
+      "name": "Supply",
+      "count": 15
+    },
+    {
+      "name": "Policy",
+      "count": 14
+    },
+    {
+      "name": "Rental",
+      "count": 10
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Market",
+      "count": 2
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Supply",
+      "count": 4
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 3
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Rental",
+      "count": 0
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Market",
+      "count": 4
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Supply",
+      "count": 3
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 3
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Rental",
+      "count": 0
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Market",
+      "count": 1
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Supply",
+      "count": 1
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Rental",
+      "count": 0
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Market",
+      "count": 4
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Supply",
+      "count": 3
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Rental",
+      "count": 5
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Market",
+      "count": 3
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Supply",
+      "count": 2
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Rental",
+      "count": 1
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Market",
+      "count": 3
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Supply",
+      "count": 2
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Rental",
+      "count": 4
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Market",
+      "count": 1
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Rental",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "정비사업 인력 양성 체계 본격화",
+      "summary": "정비사업 전문관리업체와 대학이 손잡고 재개발·재건축·리모델링 실무 교육을 시작하면서, 향후 도시정비 시장에서 전문 인력 수급과 사업 효율성이 개선될 가능성이 커지고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "제이엔케이도시정비, 서울사이버대와 정비사업 인재 양성 ‘맞손’",
+          "url": "https://www.mk.co.kr/news/realestate/12181348"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "서울시, 재건축 공사비 분쟁 전담 ‘공사비120센터’ 출범",
+      "summary": "서울시가 재건축 사업에서 빈번하게 발생하는 공사비 갈등을 줄이기 위해 상담·중재·사후관리까지 원스톱 지원하는 공사비120센터를 개소해, 재건축 사업 속도와 투명성 제고가 기대됩니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "재건축 공사비 싸움 줄인다…서울시 ‘공사비120센터’ 개소 [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10909290"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "서울 전세 품귀로 월세 중심 임대시장 전환 가속",
+      "summary": "서울 아파트 전세 매물이 부족해지면서 월세 계약 비중이 절반을 넘어서고, ‘전세 소멸’ 수준의 구조 변화가 진행되며 임차인 부담 구조와 임대 상품 구성이 빠르게 재편되고 있습니다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "서울 아파트 '전세 품귀'에 월세 비중 절반 넘어섰다",
+          "url": "https://www.hankyung.com/article/2026102039541"
+        },
+        {
+          "source": "한국경제(부동산)",
+          "title": "\"서울서 전세가 사라진다\"…아파트 계약 절반이 월세",
+          "url": "https://www.hankyung.com/article/2026102022426"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "임대 관리비 신고 의무화로 월세 편법 인상 차단",
+      "summary": "정부가 관리비 신고를 의무화해 관리비에 월세를 숨겨 올리는 관행을 억제하려 하면서, 임대차 계약의 가격 투명성과 세입자 보호 강화가 임대시장 주요 이슈로 부상했습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "임대 관리비 신고 의무화…정부, 월세 편법 인상 차단",
+          "url": "https://www.hankyung.com/article/2026102039561"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "수도권 공공분양 6.7만가구 착공 지연으로 공급 차질",
+      "summary": "최근 5년간 인허가된 수도권 공공분양 단지 중 다수가 토지보상·오염토 정화 지연으로 첫 삽도 뜨지 못하면서, 중장기 공급 계획 차질과 분양시장 불균형 우려가 커지고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "수도권 공공분양 6.7만가구, 첫삽도 못 떴다 [H-EXCLUSIVE]",
+          "url": "https://biz.heraldcorp.com/article/10908483"
+        }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-10-14",
-    "to": "2026-10-20"
+    "from": "2026-10-15",
+    "to": "2026-10-21"
   },
   "kpis": {
     "collected": 17,
@@ -11,57 +11,27 @@
   "topTopics": [
     {
       "name": "Tooling",
-      "count": 15
-    },
-    {
-      "name": "Models",
-      "count": 11
+      "count": 13
     },
     {
       "name": "Product",
+      "count": 10
+    },
+    {
+      "name": "Models",
       "count": 9
     },
     {
-      "name": "Infra",
-      "count": 8
+      "name": "Research",
+      "count": 9
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-10-14",
-      "dayOfWeek": "Wed",
-      "topic": "Tooling",
-      "count": 2
-    },
-    {
-      "date": "2026-10-14",
-      "dayOfWeek": "Wed",
-      "topic": "Models",
-      "count": 2
-    },
-    {
-      "date": "2026-10-14",
-      "dayOfWeek": "Wed",
-      "topic": "Product",
-      "count": 3
-    },
-    {
-      "date": "2026-10-14",
-      "dayOfWeek": "Wed",
-      "topic": "Infra",
-      "count": 0
-    },
-    {
       "date": "2026-10-15",
       "dayOfWeek": "Thu",
       "topic": "Tooling",
-      "count": 3
-    },
-    {
-      "date": "2026-10-15",
-      "dayOfWeek": "Thu",
-      "topic": "Models",
-      "count": 2
+      "count": 1
     },
     {
       "date": "2026-10-15",
@@ -72,8 +42,14 @@
     {
       "date": "2026-10-15",
       "dayOfWeek": "Thu",
-      "topic": "Infra",
-      "count": 3
+      "topic": "Models",
+      "count": 1
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Research",
+      "count": 1
     },
     {
       "date": "2026-10-16",
@@ -84,19 +60,19 @@
     {
       "date": "2026-10-16",
       "dayOfWeek": "Fri",
+      "topic": "Product",
+      "count": 3
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
       "topic": "Models",
       "count": 5
     },
     {
       "date": "2026-10-16",
       "dayOfWeek": "Fri",
-      "topic": "Product",
-      "count": 3
-    },
-    {
-      "date": "2026-10-16",
-      "dayOfWeek": "Fri",
-      "topic": "Infra",
+      "topic": "Research",
       "count": 3
     },
     {
@@ -108,74 +84,80 @@
     {
       "date": "2026-10-17",
       "dayOfWeek": "Sat",
-      "topic": "Models",
-      "count": 0
-    },
-    {
-      "date": "2026-10-17",
-      "dayOfWeek": "Sat",
       "topic": "Product",
       "count": 2
     },
     {
       "date": "2026-10-17",
       "dayOfWeek": "Sat",
-      "topic": "Infra",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Research",
+      "count": 0
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Research",
+      "count": 0
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Product",
+      "count": 1
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Models",
+      "count": 1
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Research",
+      "count": 1
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Tooling",
       "count": 2
     },
     {
-      "date": "2026-10-18",
-      "dayOfWeek": "Sun",
-      "topic": "Tooling",
-      "count": 0
-    },
-    {
-      "date": "2026-10-18",
-      "dayOfWeek": "Sun",
-      "topic": "Models",
-      "count": 0
-    },
-    {
-      "date": "2026-10-18",
-      "dayOfWeek": "Sun",
-      "topic": "Product",
-      "count": 0
-    },
-    {
-      "date": "2026-10-18",
-      "dayOfWeek": "Sun",
-      "topic": "Infra",
-      "count": 0
-    },
-    {
-      "date": "2026-10-19",
-      "dayOfWeek": "Mon",
-      "topic": "Tooling",
-      "count": 0
-    },
-    {
-      "date": "2026-10-19",
-      "dayOfWeek": "Mon",
-      "topic": "Models",
-      "count": 1
-    },
-    {
-      "date": "2026-10-19",
-      "dayOfWeek": "Mon",
-      "topic": "Product",
-      "count": 1
-    },
-    {
-      "date": "2026-10-19",
-      "dayOfWeek": "Mon",
-      "topic": "Infra",
-      "count": 0
-    },
-    {
       "date": "2026-10-20",
       "dayOfWeek": "Tue",
-      "topic": "Tooling",
-      "count": 1
+      "topic": "Product",
+      "count": 2
     },
     {
       "date": "2026-10-20",
@@ -186,36 +168,82 @@
     {
       "date": "2026-10-20",
       "dayOfWeek": "Tue",
-      "topic": "Product",
-      "count": 0
+      "topic": "Research",
+      "count": 1
     },
     {
-      "date": "2026-10-20",
-      "dayOfWeek": "Tue",
-      "topic": "Infra",
-      "count": 0
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Tooling",
+      "count": 1
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Product",
+      "count": 2
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Models",
+      "count": 1
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Research",
+      "count": 3
     }
   ],
   "topIssues": [
     {
-      "id": "ai-1",
-      "status": "ONGOING",
-      "title": "고성능 커널로 Mamba-2 추론 가속: NVIDIA CUDA Tile 활용",
-      "summary": "NVIDIA는 CUDA Tile(DSL)을 사용해 Mamba-2 순전파 전용 고성능 GPU 커널을 구현해, 하드웨어 특성을 자동으로 활용하면서 처리량과 효율을 크게 높였다. 이는 차세대 시퀀스 모델 추론 최적화와 커스텀 커널 기반 AI 인퍼런스 성능 경쟁이 지속되고 있음을 보여준다.",
+      "id": 1,
+      "status": "NEW",
+      "title": "생성 AI 기반 임상 수술 시뮬레이션 플랫폼 부상",
+      "summary": "NVIDIA의 Cosmos3-H-Dreams가 실제 임상 수술 절차를 고충실도로 재현하는 생성 시뮬레이션 플랫폼으로 제시되며, 의대·병원 교육, 수술 연습, 사전 수술 계획 등 의료 워크플로 전반에 생성형 AI를 통합하려는 움직임이 가속화되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "NVIDIA Developer Blog",
-          "title": "Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile",
-          "url": "https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile/"
+          "source": "Hugging Face Blog",
+          "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+          "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams"
         }
       ]
     },
     {
-      "id": "ai-2",
+      "id": 2,
       "status": "NEW",
-      "title": "단일 워크스테이션에서 코드·테스트·배포까지: NVIDIA RTX Spark 기반 AI 개발",
-      "summary": "NVIDIA RTX Spark는 한 대의 머신에서 코딩, 테스트, 배포를 모두 수행하는 통합 AI 개발 환경을 제시하며, 에이전트 기반 자동 코드 생성·검증·배포 파이프라인을 제공한다. 이는 로컬 GPU 워크스테이션을 활용한 AI 개발·MLOps 단순화 흐름을 반영한다.",
+      "title": "LLM 의사결정 공정성 정량 평가 도구의 고도화",
+      "summary": "Hugging Face의 FairStress 프레임워크는 다양한 스트레스 테스트 시나리오를 통해 LLM 의사결정 편향을 세밀하게 측정·비교할 수 있게 하며, AI 거버넌스와 책임 있는 AI 평가를 위한 정량적 기준 도입이 본격화되고 있음을 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+          "url": "https://huggingface.co/blog/allenai/fairstress"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "업무 현장에 특화된 ChatGPT Work 활용 사례 확산",
+      "summary": "프랜차이즈 매장에서 ChatGPT Work를 도입해 현금 정산과 메뉴 가격 조정 시간을 각각 94%, 95% 단축한 사례는, 현장 운영·재무 정산 등 반복 업무를 중심으로 생성형 AI 기반 워크플로 자동화가 실질적인 생산성 향상을 이끌고 있음을 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+          "url": "https://openai.com/index/ted-taylor-restaurant"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "단일 워크스테이션에서의 AI 중심 통합 개발 환경 대두",
+      "summary": "NVIDIA RTX Spark는 한 대의 머신에서 코드 작성·테스트·배포까지 수행하고 AI 에이전트가 코드 생성과 검증, 배포를 자동화하는 환경을 제공해, 로컬 개발자의 AI 도입 장벽을 낮추고 에이전트 기반 개발 패턴을 정착시키려는 흐름을 보여준다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -226,38 +254,10 @@
       ]
     },
     {
-      "id": "ai-3",
-      "status": "NEW",
-      "title": "501B 파라미터 오픈 모델 Beam: 소유·커스터마이징 가능한 초대형 모델 공개",
-      "summary": "Hugging Face는 501B 규모의 오픈 모델 Beam을 공개해, 사용자가 모델을 직접 소유하고 파인튜닝·배포할 수 있도록 했다. 초대형 모델 영역에서도 상용·폐쇄형 대안에 대응하는 고성능 오픈 모델 생태계 구축이 본격화되고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Hugging Face Blog",
-          "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-          "url": "https://huggingface.co/blog/reflection-beam"
-        }
-      ]
-    },
-    {
-      "id": "ai-4",
+      "id": 5,
       "status": "ONGOING",
-      "title": "전 고객 대상 생성형 AI 도입: Itaú의 금융권 AI First 전략",
-      "summary": "브라질 대형 은행 Itaú는 ia.i 대화형 인터페이스와 IARA 거버넌스 플랫폼을 바탕으로 고객·직원 전반에 생성형 AI를 도입하고 있다. 엄격한 금융 규제 환경에서 보안·규제·거버넌스를 통합 설계한 엔터프라이즈급 AI 도입 사례가 확산되는 추세다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "OpenAI Blog",
-          "title": "How Itaú is building generative AI for its entire customer base",
-          "url": "https://openai.com/index/itau-generative-ai"
-        }
-      ]
-    },
-    {
-      "id": "ai-5",
-      "status": "ONGOING",
-      "title": "인디언·남아시아권 언어용 초대규모 사전학습과 오픈 데이터 파이프라인",
-      "summary": "Hugging Face와 파트너들은 인디크 언어를 위해 2.8조 토큰 규모 데이터셋과 자동화된 수집·정제·중복 제거 파이프라인을 공개했다. 이는 저대표 다국어 모델 개발에서 라이선스·재현성 문제를 해결하고, 오픈 소스형 데이터 인프라 중요성을 부각시킨다.",
+      "title": "저대표 언어(Indic)를 겨냥한 대규모 오픈 데이터 파이프라인 구축",
+      "summary": "총 2.8조 토큰 규모의 인디크 언어 사전학습 데이터와 이를 자동 수집·정제·중복 제거하는 오픈 파이프라인 공개는, 저대표 언어 LLM의 품질 향상과 라이선스·재현성 문제를 동시에 해결하려는 데이터 중심 AI 연구 추세를 반영한다.",
       "articleCount": 1,
       "relatedArticles": [
         {

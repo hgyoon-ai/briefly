@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-09-22",
+    "to": "2026-10-21"
+  },
+  "kpis": {
+    "collected": 80,
+    "deduped": 80,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "Tooling": 28,
+      "Product": 23,
+      "Models": 21,
+      "Research": 14,
+      "Infra": 14,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (09/22-09/28)",
+      "topicCounts": {
+        "Tooling": 8,
+        "Product": 6,
+        "Models": 8,
+        "Research": 6,
+        "Infra": 6
+      }
+    },
+    {
+      "week": "Week 2 (09/29-10/05)",
+      "topicCounts": {
+        "Tooling": 15,
+        "Product": 11,
+        "Models": 13,
+        "Research": 4,
+        "Infra": 7
+      }
+    },
+    {
+      "week": "Week 3 (10/06-10/12)",
+      "topicCounts": {
+        "Tooling": 10,
+        "Product": 8,
+        "Models": 5,
+        "Research": 3,
+        "Infra": 4
+      }
+    },
+    {
+      "week": "Week 4 (10/13-10/19)",
+      "topicCounts": {
+        "Tooling": 17,
+        "Product": 13,
+        "Models": 13,
+        "Research": 8,
+        "Infra": 9
+      }
+    },
+    {
+      "week": "Week 5 (10/20-10/21)",
+      "topicCounts": {
+        "Tooling": 2,
+        "Product": 4,
+        "Models": 1,
+        "Research": 4,
+        "Infra": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "생성 시뮬레이션을 통한 현실적 수술 교육 플랫폼 부상",
+      "summary": "NVIDIA의 Cosmos3-H-Dreams는 실제 임상 수술 절차를 고충실도로 재현하는 생성 시뮬레이션 플랫폼으로, 의료 교육·수술 연습·수술 계획을 가상 환경에서 반복 학습할 수 있게 해준다. 의료용 특화 생성 AI가 실습 비용·위험을 낮추면서도 교육 품질을 높이는 방향으로 진화하고 있음을 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+          "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "LLM 의사결정 공정성 스트레스 테스트 프레임워크 확산",
+      "summary": "Hugging Face의 FairStress는 다양한 시나리오·스트레스 테스트로 LLM 의사결정 편향을 식별·정량화하는 공정성 평가 프레임워크다. 실제 의사결정 맥락에서 모델이 어떤 그룹에 불리하게 작동하는지 체계적으로 드러내, 정책·알고리즘 개선에 활용할 수 있는 안전·거버넌스 도구로 주목된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+          "url": "https://huggingface.co/blog/allenai/fairstress"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "실제 비즈니스 워크플로우에 LLM을 임베딩하는 활용 사례 확대",
+      "summary": "ChatGPT Work를 활용해 프랜차이즈 점주의 현금 조정 및 메뉴 가격 조정 프로세스를 자동화해, 현금 조정 시간 94% 단축·가격 재조정 95% 속도 향상 효과를 얻은 사례가 공유됐다. 개별 기업의 운영 업무에 맞춘 LLM 워크플로우 설계가 생산성 향상의 핵심 패턴으로 자리잡는 추세다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+          "url": "https://openai.com/index/ted-taylor-restaurant"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "단일 머신 기반 AI 개발·배포 통합 환경의 등장",
+      "summary": "NVIDIA RTX Spark는 한 대의 머신에서 코드 작성·테스트·배포까지 지원하는 통합 개발 환경으로, AI 에이전트가 코드 생성부터 자동 검증·배포까지 담당하도록 설계되었다. 대규모 클러스터 없이도 로컬 또는 워크스테이션급 환경에서 End-to-End AI 개발 파이프라인을 구축하려는 흐름을 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Code, Test, and Deploy on One Machine with NVIDIA RTX Spark",
+          "url": "https://developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "저대표 언어 대상 대규모 사전학습 데이터 파이프라인 고도화",
+      "summary": "인디크 언어권을 대상으로 2.8조 토큰 규모의 사전학습 데이터를 구축하고, 수집·정제·중복 제거를 자동화한 오픈 데이터 생성 파이프라인이 제안되었다. 재현성과 라이선스 준수를 중시하는 대규모 데이터 엔지니어링이, 저대표 언어·지역 특화 LLM 개발의 핵심 인프라로 자리잡고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+          "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
+        }
+      ]
+    }
+  ]
+}

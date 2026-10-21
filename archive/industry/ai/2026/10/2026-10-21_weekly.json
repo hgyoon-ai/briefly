@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-10-15",
+    "to": "2026-10-21"
+  },
+  "kpis": {
+    "collected": 17,
+    "deduped": 17,
+    "uniqueTopics": 9
+  },
+  "topTopics": [
+    {
+      "name": "Tooling",
+      "count": 13
+    },
+    {
+      "name": "Product",
+      "count": 10
+    },
+    {
+      "name": "Models",
+      "count": 9
+    },
+    {
+      "name": "Research",
+      "count": 9
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Tooling",
+      "count": 1
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Models",
+      "count": 1
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Research",
+      "count": 1
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Tooling",
+      "count": 7
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Product",
+      "count": 3
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Models",
+      "count": 5
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Research",
+      "count": 3
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Tooling",
+      "count": 2
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Product",
+      "count": 2
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Research",
+      "count": 0
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Research",
+      "count": 0
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Product",
+      "count": 1
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Models",
+      "count": 1
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Research",
+      "count": 1
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Tooling",
+      "count": 2
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Product",
+      "count": 2
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Models",
+      "count": 1
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Research",
+      "count": 1
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Tooling",
+      "count": 1
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Product",
+      "count": 2
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Models",
+      "count": 1
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Research",
+      "count": 3
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "생성 AI 기반 임상 수술 시뮬레이션 플랫폼 부상",
+      "summary": "NVIDIA의 Cosmos3-H-Dreams가 실제 임상 수술 절차를 고충실도로 재현하는 생성 시뮬레이션 플랫폼으로 제시되며, 의대·병원 교육, 수술 연습, 사전 수술 계획 등 의료 워크플로 전반에 생성형 AI를 통합하려는 움직임이 가속화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+          "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "LLM 의사결정 공정성 정량 평가 도구의 고도화",
+      "summary": "Hugging Face의 FairStress 프레임워크는 다양한 스트레스 테스트 시나리오를 통해 LLM 의사결정 편향을 세밀하게 측정·비교할 수 있게 하며, AI 거버넌스와 책임 있는 AI 평가를 위한 정량적 기준 도입이 본격화되고 있음을 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+          "url": "https://huggingface.co/blog/allenai/fairstress"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "업무 현장에 특화된 ChatGPT Work 활용 사례 확산",
+      "summary": "프랜차이즈 매장에서 ChatGPT Work를 도입해 현금 정산과 메뉴 가격 조정 시간을 각각 94%, 95% 단축한 사례는, 현장 운영·재무 정산 등 반복 업무를 중심으로 생성형 AI 기반 워크플로 자동화가 실질적인 생산성 향상을 이끌고 있음을 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+          "url": "https://openai.com/index/ted-taylor-restaurant"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "단일 워크스테이션에서의 AI 중심 통합 개발 환경 대두",
+      "summary": "NVIDIA RTX Spark는 한 대의 머신에서 코드 작성·테스트·배포까지 수행하고 AI 에이전트가 코드 생성과 검증, 배포를 자동화하는 환경을 제공해, 로컬 개발자의 AI 도입 장벽을 낮추고 에이전트 기반 개발 패턴을 정착시키려는 흐름을 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Code, Test, and Deploy on One Machine with NVIDIA RTX Spark",
+          "url": "https://developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "저대표 언어(Indic)를 겨냥한 대규모 오픈 데이터 파이프라인 구축",
+      "summary": "총 2.8조 토큰 규모의 인디크 언어 사전학습 데이터와 이를 자동 수집·정제·중복 제거하는 오픈 파이프라인 공개는, 저대표 언어 LLM의 품질 향상과 라이선스·재현성 문제를 동시에 해결하려는 데이터 중심 AI 연구 추세를 반영한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+          "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
+        }
+      ]
+    }
+  ]
+}

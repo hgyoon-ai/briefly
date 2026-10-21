@@ -1,79 +1,107 @@
 {
   "range": {
-    "from": "2026-09-21",
-    "to": "2026-10-20"
+    "from": "2026-09-22",
+    "to": "2026-10-21"
   },
   "kpis": {
     "collected": 54,
     "deduped": 54,
     "uniqueTopics": 7,
     "marketShare": {
-      "Roadmap": 28,
-      "Competition": 26,
-      "Demand": 21,
+      "Roadmap": 27,
+      "Competition": 25,
+      "Demand": 22,
       "Investment": 16,
-      "Manufacturing": 9,
-      "Other": 0
+      "Policy": 9,
+      "Other": 1
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (09/21-09/27)",
+      "week": "Week 1 (09/22-09/28)",
       "topicCounts": {
-        "Roadmap": 13,
-        "Competition": 11,
+        "Roadmap": 12,
+        "Competition": 10,
         "Demand": 7,
-        "Investment": 7,
-        "Manufacturing": 3
+        "Investment": 6,
+        "Policy": 4
       }
     },
     {
-      "week": "Week 2 (09/28-10/04)",
+      "week": "Week 2 (09/29-10/05)",
       "topicCounts": {
         "Roadmap": 9,
-        "Competition": 6,
+        "Competition": 7,
         "Demand": 6,
-        "Investment": 6,
-        "Manufacturing": 4
+        "Investment": 5,
+        "Policy": 0
       }
     },
     {
-      "week": "Week 3 (10/05-10/11)",
+      "week": "Week 3 (10/06-10/12)",
       "topicCounts": {
         "Roadmap": 10,
         "Competition": 8,
         "Demand": 6,
         "Investment": 5,
-        "Manufacturing": 4
+        "Policy": 2
       }
     },
     {
-      "week": "Week 4 (10/12-10/18)",
+      "week": "Week 4 (10/13-10/19)",
       "topicCounts": {
-        "Roadmap": 6,
-        "Competition": 11,
+        "Roadmap": 8,
+        "Competition": 10,
         "Demand": 10,
-        "Investment": 5,
-        "Manufacturing": 1
+        "Investment": 4,
+        "Policy": 4
       }
     },
     {
-      "week": "Week 5 (10/19-10/20)",
+      "week": "Week 5 (10/20-10/21)",
       "topicCounts": {
-        "Roadmap": 2,
+        "Roadmap": 1,
         "Competition": 2,
-        "Demand": 0,
+        "Demand": 2,
         "Investment": 1,
-        "Manufacturing": 1
+        "Policy": 0
       }
     }
   ],
   "topIssues": [
     {
       "id": 1,
+      "status": "ONGOING",
+      "title": "테슬라 Q3 2026 실적 부진 우려와 수익성 압박",
+      "summary": "테슬라는 2026년 3분기 실적 발표를 앞두고 매출 정체와 EPS 10% 감소가 예상되며, 성장 정체와 수익성 악화에 대한 시장 우려가 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla (TSLA) Q3 2026 earnings preview: flat revenue, falling profits",
+          "url": "https://electrek.co/2026/10/20/tesla-tsla-q3-2026-earnings-preview/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "리비안의 미국 EV 시장 점유율 급상승과 전통 완성차 위축",
+      "summary": "리비안이 미국 전기차 브랜드 점유율에서 10위에서 2위로 급등하며 쉐보레를 제치고, 기존 빅오토의 전기차 경쟁력이 약화되는 흐름을 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Rivian now #2 US EV brand, up from #10, as Big Auto marginalizes itself",
+          "url": "https://electrek.co/2026/10/20/rivian-now-2-us-ev-brand-up-from-10-as-big-auto-marginalizes-itself/"
+        }
+      ]
+    },
+    {
+      "id": 3,
       "status": "SHIFTING",
-      "title": "토요타 코롤라 EV 중국 생산으로 대중형 전기차 경쟁 본격화",
-      "summary": "토요타가 2028년부터 베스트셀러 모델 코롤라의 전기차 버전을 중국 공장에서 내연·하이브리드와 같은 라인에서 생산하기로 하면서, 글로벌 대중형 세단 EV 시장 경쟁이 본격화되고 있다. 이는 기존 하이브리드 중심 전략에서 순수 전기차 비중을 점진적으로 확대하는 방향 전환으로, 중국 내 합작사 및 로컬 브랜드와의 가격·물량 경쟁이 심화될 것으로 예상된다.",
+      "title": "토요타, 코롤라 EV로 중국 생산 중심의 대중형 전기차 전략 전환",
+      "summary": "토요타는 2028년부터 중국 공장에서 코롤라 EV를 기존 내연·하이브리드 모델과 같은 라인에서 생산해, 베스트셀러 모델의 전동화를 통해 볼륨 EV 시장 진입을 가속하고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -84,10 +112,10 @@
       ]
     },
     {
-      "id": 2,
+      "id": 4,
       "status": "NEW",
-      "title": "테슬라–스페이스X 합병 시사 위임장으로 머스크 그룹 지배구조 재편 가능성",
-      "summary": "테슬라 2026년 주주총회 위임장에서 전 독립 이사의 스페이스X 이사회 합류, 스페이스X와의 합병을 시사하는 안건 구성, 거래 가격에 연동된 머스크 보상 구조 등이 드러나면서 두 회사 간 합병 혹은 지주회사 형태 재편 가능성이 부각되고 있다. 이는 자본 조달과 기술·인력 통합에는 유리하지만, 기존 테슬라 주주 가치 희석과 이해상충 이슈를 둘러싼 거버넌스 논쟁을 촉발할 수 있다.",
+      "title": "테슬라–스페이스X 잠재 합병 신호와 거버넌스 재편",
+      "summary": "테슬라 위임장에서 스페이스X 이사 선임, 합병을 시사하는 안건 구성, 거래 가격 연동 머스크 보상 구조 등이 드러나며 두 회사의 구조적 결합 가능성과 주주 지배구조 변화가 부각되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -98,44 +126,16 @@
       ]
     },
     {
-      "id": 3,
+      "id": 5,
       "status": "NEW",
-      "title": "에코플로우 소형 주거용 ESS 출시로 가정용 분산에너지 진입장벽 완화",
-      "summary": "에코플로우가 소형이면서 모듈식 확장이 가능한 새로운 주거용 에너지 저장 시스템을 출시해, 기존 대형·고가 중심이던 홈 ESS 시장에 저가·입문형 세그먼트를 공략하고 있다. 백업 전원 수요와 태양광 연계 자가소비 확대 흐름 속에서, 소형 ESS가 가정용 분산 자원(VPP) 참여 기반을 넓혀 향후 그리드 유연성 자산으로 성장할 가능성이 커지고 있다.",
+      "title": "가정용 에너지 저장 시장 확대와 에코플로우 소형 ESS 출시",
+      "summary": "에코플로우가 소형·모듈형 주거용 배터리 시스템을 선보이며, 초기 비용 장벽을 낮춘 확장 가능한 ESS 솔루션으로 가정용 백업 및 자가소비 시장 공략에 나서고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
           "title": "Tiny Titan: new residential battery system from EcoFlow starts small",
           "url": "https://electrek.co/2026/10/18/tiny-titan-new-residential-battery-system-from-ecoflow-starts-small/"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "status": "NEW",
-      "title": "메르세데스-AMG 초고성능 전기 SUV로 프리미엄 EV 성능·충전 경쟁 가속",
-      "summary": "메르세데스-AMG가 1,153마력급 전기 AMG GT SUV를 공개하고 710kW급 초급속 충전을 내세우며, 프리미엄 EV 시장에서 성능과 충전 인프라를 동시에 강조하는 전략을 강화하고 있다. 이는 테슬라, 포르쉐, BMW 등과의 하이엔드 전기 SUV 경쟁을 심화시키는 한편, 고성능 세그먼트에서 전기 파워트레인 우위를 부각해 브랜드 이미지를 전동화 중심으로 재정의하려는 시도로 해석된다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "Electric Mercedes-AMG GT SUV unveiled with 1,153 hp and 710 kW charging",
-          "url": "https://electrek.co/2026/10/17/mercedes-amg-gt-suv-electric-1153-hp-710-kw-charging/"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "status": "ONGOING",
-      "title": "전기자전거 시장, 가격대별 세분화·대중화 추세 지속",
-      "summary": "Electrek가 장기 실사용 테스트를 바탕으로 가격 구간별 최고 전기자전거를 정리하면서, e-바이크 시장이 엔트리부터 프리미엄까지 세그먼트별로 성능·기능이 뚜렷이 차별화되는 흐름을 재확인했다. 이는 도시 통근·레저·카고 등 사용 목적별 수요 증가와 맞물려, 전통 자전거 브랜드와 신생 EV 마이크로모빌리티 업체 간 경쟁을 장기적으로 고도화시키는 방향으로 전개되고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "Here are the best electric bikes you can buy at every price level in October 2026",
-          "url": "https://electrek.co/2026/10/17/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/"
         }
       ]
     }

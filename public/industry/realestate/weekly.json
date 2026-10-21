@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-10-14",
-    "to": "2026-10-20"
+    "from": "2026-10-15",
+    "to": "2026-10-21"
   },
   "kpis": {
     "collected": 26,
@@ -11,47 +11,23 @@
   "topTopics": [
     {
       "name": "Market",
-      "count": 16
-    },
-    {
-      "name": "Policy",
-      "count": 16
+      "count": 18
     },
     {
       "name": "Supply",
-      "count": 16
+      "count": 15
     },
     {
-      "name": "Construction",
+      "name": "Policy",
+      "count": 14
+    },
+    {
+      "name": "Rental",
       "count": 10
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-10-14",
-      "dayOfWeek": "Wed",
-      "topic": "Market",
-      "count": 1
-    },
-    {
-      "date": "2026-10-14",
-      "dayOfWeek": "Wed",
-      "topic": "Policy",
-      "count": 4
-    },
-    {
-      "date": "2026-10-14",
-      "dayOfWeek": "Wed",
-      "topic": "Supply",
-      "count": 3
-    },
-    {
-      "date": "2026-10-14",
-      "dayOfWeek": "Wed",
-      "topic": "Construction",
-      "count": 4
-    },
-    {
       "date": "2026-10-15",
       "dayOfWeek": "Thu",
       "topic": "Market",
@@ -60,20 +36,20 @@
     {
       "date": "2026-10-15",
       "dayOfWeek": "Thu",
-      "topic": "Policy",
-      "count": 3
-    },
-    {
-      "date": "2026-10-15",
-      "dayOfWeek": "Thu",
       "topic": "Supply",
       "count": 4
     },
     {
       "date": "2026-10-15",
       "dayOfWeek": "Thu",
-      "topic": "Construction",
+      "topic": "Policy",
       "count": 3
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Rental",
+      "count": 0
     },
     {
       "date": "2026-10-16",
@@ -84,20 +60,20 @@
     {
       "date": "2026-10-16",
       "dayOfWeek": "Fri",
-      "topic": "Policy",
-      "count": 3
-    },
-    {
-      "date": "2026-10-16",
-      "dayOfWeek": "Fri",
       "topic": "Supply",
       "count": 3
     },
     {
       "date": "2026-10-16",
       "dayOfWeek": "Fri",
-      "topic": "Construction",
-      "count": 1
+      "topic": "Policy",
+      "count": 3
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Rental",
+      "count": 0
     },
     {
       "date": "2026-10-17",
@@ -108,19 +84,19 @@
     {
       "date": "2026-10-17",
       "dayOfWeek": "Sat",
-      "topic": "Policy",
-      "count": 1
-    },
-    {
-      "date": "2026-10-17",
-      "dayOfWeek": "Sat",
       "topic": "Supply",
       "count": 1
     },
     {
       "date": "2026-10-17",
       "dayOfWeek": "Sat",
-      "topic": "Construction",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Rental",
       "count": 0
     },
     {
@@ -132,20 +108,20 @@
     {
       "date": "2026-10-18",
       "dayOfWeek": "Sun",
-      "topic": "Policy",
-      "count": 2
-    },
-    {
-      "date": "2026-10-18",
-      "dayOfWeek": "Sun",
       "topic": "Supply",
       "count": 3
     },
     {
       "date": "2026-10-18",
       "dayOfWeek": "Sun",
-      "topic": "Construction",
-      "count": 1
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Rental",
+      "count": 5
     },
     {
       "date": "2026-10-19",
@@ -156,54 +132,111 @@
     {
       "date": "2026-10-19",
       "dayOfWeek": "Mon",
-      "topic": "Policy",
-      "count": 2
-    },
-    {
-      "date": "2026-10-19",
-      "dayOfWeek": "Mon",
       "topic": "Supply",
       "count": 2
     },
     {
       "date": "2026-10-19",
       "dayOfWeek": "Mon",
-      "topic": "Construction",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Rental",
       "count": 1
     },
     {
       "date": "2026-10-20",
       "dayOfWeek": "Tue",
       "topic": "Market",
-      "count": 1
+      "count": 3
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Supply",
+      "count": 2
     },
     {
       "date": "2026-10-20",
       "dayOfWeek": "Tue",
       "topic": "Policy",
-      "count": 1
+      "count": 2
     },
     {
       "date": "2026-10-20",
       "dayOfWeek": "Tue",
+      "topic": "Rental",
+      "count": 4
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Market",
+      "count": 1
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
       "topic": "Supply",
       "count": 0
     },
     {
-      "date": "2026-10-20",
-      "dayOfWeek": "Tue",
-      "topic": "Construction",
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Rental",
       "count": 0
     }
   ],
   "topIssues": [
     {
       "id": 1,
-      "status": "SHIFTING",
-      "title": "서울 아파트 전세 급감과 월세 전환 가속",
-      "summary": "서울 아파트 임대시장에서 전세 거래 비중이 급격히 줄고 절반가량이 월세로 전환되면서, 세입자 부담 구조가 보증금 중심에서 월 부담 중심으로 빠르게 재편되고 있다. 이는 전월세 가격 구조, 임대사업자 수익 모델, 무주택 가구의 주거 안정성에 중대한 변화를 예고한다.",
+      "status": "NEW",
+      "title": "정비사업 인력 양성 체계 본격화",
+      "summary": "정비사업 전문관리업체와 대학이 손잡고 재개발·재건축·리모델링 실무 교육을 시작하면서, 향후 도시정비 시장에서 전문 인력 수급과 사업 효율성이 개선될 가능성이 커지고 있습니다.",
       "articleCount": 1,
       "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "제이엔케이도시정비, 서울사이버대와 정비사업 인재 양성 ‘맞손’",
+          "url": "https://www.mk.co.kr/news/realestate/12181348"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "서울시, 재건축 공사비 분쟁 전담 ‘공사비120센터’ 출범",
+      "summary": "서울시가 재건축 사업에서 빈번하게 발생하는 공사비 갈등을 줄이기 위해 상담·중재·사후관리까지 원스톱 지원하는 공사비120센터를 개소해, 재건축 사업 속도와 투명성 제고가 기대됩니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "재건축 공사비 싸움 줄인다…서울시 ‘공사비120센터’ 개소 [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10909290"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "서울 전세 품귀로 월세 중심 임대시장 전환 가속",
+      "summary": "서울 아파트 전세 매물이 부족해지면서 월세 계약 비중이 절반을 넘어서고, ‘전세 소멸’ 수준의 구조 변화가 진행되며 임차인 부담 구조와 임대 상품 구성이 빠르게 재편되고 있습니다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "서울 아파트 '전세 품귀'에 월세 비중 절반 넘어섰다",
+          "url": "https://www.hankyung.com/article/2026102039541"
+        },
         {
           "source": "한국경제(부동산)",
           "title": "\"서울서 전세가 사라진다\"…아파트 계약 절반이 월세",
@@ -212,58 +245,30 @@
       ]
     },
     {
-      "id": 2,
-      "status": "ONGOING",
-      "title": "세종시 공공기관 이전발 수요 급증과 공급 공백",
-      "summary": "중앙행정기관 44곳의 세종시 이전 발표 이후 주거 수요가 급등했지만, 내년 신규 입주물량이 0가구로 확인되며 전세와 매매 시장 모두 심각한 공급 부족에 직면하고 있다. 행정수도 기능 강화와 동반된 인구 유입이 가격 불안을 키우며 인근 지역으로의 수요 전이를 촉발할 가능성이 크다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "매일경제(부동산)",
-          "title": "공무원 1만명 내려가라더니 입주물량 0…세종시 집값 벌써부터 ‘들썩’",
-          "url": "https://www.mk.co.kr/news/realestate/12180093"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "status": "ONGOING",
-      "title": "강북 재개발·재건축 이주비 금리 급등과 공급 차질 우려",
-      "summary": "강북 지역 재개발·재건축 사업에서 이주비 대출 금리가 급등하며 조합원과 사업 시행자의 금융 부담이 크게 늘고 있다. 이로 인해 사업성 악화, 사업 지연·중단 가능성이 커지며 향후 도심 내 신규 주택 공급이 위축될 수 있다는 우려가 제기된다.",
+      "id": 4,
+      "status": "NEW",
+      "title": "임대 관리비 신고 의무화로 월세 편법 인상 차단",
+      "summary": "정부가 관리비 신고를 의무화해 관리비에 월세를 숨겨 올리는 관행을 억제하려 하면서, 임대차 계약의 가격 투명성과 세입자 보호 강화가 임대시장 주요 이슈로 부상했습니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "한국경제(부동산)",
-          "title": "치솟는 강북 이주비 금리…공급 가로막나",
-          "url": "https://www.hankyung.com/article/2026101913671"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "status": "SHIFTING",
-      "title": "수도권 전월세 매물 급감과 주택 유형 전반으로 번지는 대란",
-      "summary": "수도권 전월세 매물이 전년 대비 약 36% 감소한 가운데, 그동안 상대적으로 여유가 있던 빌라 시장까지 전월세 매물이 급감하며 임대난이 아파트를 넘어 저가 주거형태 전반으로 확산되고 있다. 이는 서민·청년층 주거 불안을 심화시키고 임대료 상승 압력을 키우는 요인으로 작용한다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "매일경제(부동산)",
-          "title": "빌라까지 전월세대란…수도권 매물 36% 뚝",
-          "url": "https://www.mk.co.kr/news/realestate/12179067"
+          "title": "임대 관리비 신고 의무화…정부, 월세 편법 인상 차단",
+          "url": "https://www.hankyung.com/article/2026102039561"
         }
       ]
     },
     {
       "id": 5,
       "status": "ONGOING",
-      "title": "기축 비아파트 대출 규제 완화 요구와 공급 확대 논쟁",
-      "summary": "정부가 신축 매입에 한정해 대출 지원을 하는 현 정책에 대해, 기존 빌라 등 기축 비아파트까지 금융 규제를 완화해야 전체 시장 공급을 실질적으로 늘릴 수 있다는 업계 요구가 커지고 있다. 정책 대상 확대 여부에 따라 비아파트 시장의 거래 활성도와 임대주택 공급 구조가 크게 달라질 수 있다.",
+      "title": "수도권 공공분양 6.7만가구 착공 지연으로 공급 차질",
+      "summary": "최근 5년간 인허가된 수도권 공공분양 단지 중 다수가 토지보상·오염토 정화 지연으로 첫 삽도 뜨지 못하면서, 중장기 공급 계획 차질과 분양시장 불균형 우려가 커지고 있습니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "매일경제(부동산)",
-          "title": "\"신축 매입때만 대출 지원 역부족 기존 빌라도 풀어줘야 공급 가속\"",
-          "url": "https://www.mk.co.kr/news/realestate/12179057"
+          "source": "헤럴드경제(부동산)",
+          "title": "수도권 공공분양 6.7만가구, 첫삽도 못 떴다 [H-EXCLUSIVE]",
+          "url": "https://biz.heraldcorp.com/article/10908483"
         }
       ]
     }

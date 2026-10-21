@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-10-15",
+    "to": "2026-10-21"
+  },
+  "kpis": {
+    "collected": 14,
+    "deduped": 14,
+    "uniqueTopics": 6
+  },
+  "topTopics": [
+    {
+      "name": "Roadmap",
+      "count": 11
+    },
+    {
+      "name": "Competition",
+      "count": 11
+    },
+    {
+      "name": "Manufacturing",
+      "count": 7
+    },
+    {
+      "name": "Demand",
+      "count": 6
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 3
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 3
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Manufacturing",
+      "count": 3
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 5
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 4
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Demand",
+      "count": 3
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Demand",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "어드밴스드 패키징·장비 강화: Applied Materials의 50억 달러 EPIC 투자",
+      "summary": "Applied Materials가 EPIC 센터에 50억 달러를 투입해 차세대 반도체 제조·공정 기술을 집중 육성하고 있다. 이는 첨단 공정 장비와 패키징, 소재 혁신을 선점해 파운드리·메모리 고객사와의 장기 협력 구조를 강화하려는 전략으로, 향후 공정 미세화 한계를 장비·소재 측면에서 돌파하는 핵심 거점이 될 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Video Interview: Applied Materials CEO on the Economics Behind Its $5B EPIC Bet",
+          "url": "https://www.eetimes.com/video-interview-applied-materials-ceo-on-the-economics-behind-its-5b-epic-bet/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "스마트 그리드 확산과 전력 인프라용 반도체 보안 수요 확대",
+      "summary": "그리드 현대화로 전력망이 디지털·네트워크화되면서 전력 인프라용 제어·통신용 반도체가 사이버 공격의 직격 대상이 되고 있다. IT·OT 네트워크 경계가 흐려지는 가운데 보안 기능 내장형 MCU, 보안 칩, 산업용 통신 칩에 대한 수요와 규제 요구가 동반 확대되고 있어, 전력·인프라 시장이 신규 보안 반도체 수요처로 부상하는 중이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Grid Modernization’s Hidden Cost: A Growing Attack Surface Few Are Watching",
+          "url": "https://www.eetimes.com/grid-modernization-hidden-cost-a-growing-attack-surface-few-are-watching/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "시스템 관점의 칩 설계 전환: 거시 목표에서 미시 소자로의 역방향 설계",
+      "summary": "노벨상 수상 연구에서 착안한 거시→미시 관점 전환이 반도체 설계에도 적용되며, 시스템 수준 목표에서 출발해 소자·공정까지 역으로 설계하는 접근이 주목받고 있다. 이는 칩 아키텍처·소자 구조 최적화를 동시에 고려하는 설계 방법론을 요구하며, EDA 툴·공정 개발·IP 생태계 전반에 새로운 로드맵 변화를 촉발하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "From Macro to Micro, and Back",
+          "url": "https://www.eetimes.com/from-macro-to-micro-and-back/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "AI 가전 확산과 엣지·스토리지 반도체의 생활가전 내 탑재 확대",
+      "summary": "삼성전자가 ‘The Brief’ 세미나를 통해 지역별 생활 환경에 최적화된 AI 가전을 글로벌 시장에 전개하면서, 가전 내 AI 연산용 SoC, 메모리, 센서 등 반도체 채택이 고성능·고집적 방향으로 확대되고 있다. 이는 PC·모바일 외에 생활가전을 AI 엣지 컴퓨팅 플랫폼으로 만드는 흐름으로, 중장기적으로 가전용 반도체 수요 구조를 고부가 제품 중심으로 재편시킬 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Tailored for Every Home: Samsung “The Brief” Goes Global With AI-Powered Home Appliances",
+          "url": "https://news.samsung.com/global/tailored-for-every-home-samsung-the-brief-goes-global-with-ai-powered-home-appliances"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "소형·저전력 시스템을 위한 초장수명 집적 전자 태그 수요",
+      "summary": "Innovasea가 배터리와 센서를 통합한 장수명 어류 추적 태그를 선보이며, 극저전력 설계·집적 패키징·고신뢰성 반도체 기술을 활용한 장기 운영 센서 시장이 확대되고 있다. 환경 모니터링·스마트 농어업·IoT 등에서 교체 비용을 최소화하는 초장수명 칩·모듈 수요가 늘어나며, 관련 아날로그·센서·전력관리 반도체의 설계 방향에도 영향을 미치고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Innovasea Packs Long-Life Electronics into Fish Tags",
+          "url": "https://www.eetimes.com/innovasea-packs-long-life-electronics-into-fish-tags/"
+        }
+      ]
+    }
+  ]
+}

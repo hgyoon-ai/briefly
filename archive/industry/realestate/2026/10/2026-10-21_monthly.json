@@ -1,0 +1,153 @@
+{
+  "range": {
+    "from": "2026-09-22",
+    "to": "2026-10-21"
+  },
+  "kpis": {
+    "collected": 118,
+    "deduped": 118,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "Market": 30,
+      "Supply": 25,
+      "Policy": 19,
+      "Rental": 14,
+      "UrbanRenewal": 12,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (09/22-09/28)",
+      "topicCounts": {
+        "Market": 21,
+        "Supply": 17,
+        "Policy": 9,
+        "Rental": 15,
+        "UrbanRenewal": 5
+      }
+    },
+    {
+      "week": "Week 2 (09/29-10/05)",
+      "topicCounts": {
+        "Market": 17,
+        "Supply": 11,
+        "Policy": 8,
+        "Rental": 2,
+        "UrbanRenewal": 11
+      }
+    },
+    {
+      "week": "Week 3 (10/06-10/12)",
+      "topicCounts": {
+        "Market": 16,
+        "Supply": 14,
+        "Policy": 10,
+        "Rental": 8,
+        "UrbanRenewal": 6
+      }
+    },
+    {
+      "week": "Week 4 (10/13-10/19)",
+      "topicCounts": {
+        "Market": 17,
+        "Supply": 18,
+        "Policy": 19,
+        "Rental": 7,
+        "UrbanRenewal": 9
+      }
+    },
+    {
+      "week": "Week 5 (10/20-10/21)",
+      "topicCounts": {
+        "Market": 3,
+        "Supply": 2,
+        "Policy": 2,
+        "Rental": 2,
+        "UrbanRenewal": 2
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "서울 아파트 전월세 구조 재편: 전세 품귀로 월세 중심 전환 가속",
+      "summary": "서울 아파트 전세 매물 부족으로 월세 비중이 절반을 넘어서며 임대차 시장이 전세 중심에서 월세 중심으로 급격히 이동하고 있다. 정부가 관리비 신고 의무화로 월세 편법 인상을 차단하려는 가운데, 실질 거주비 부담과 임대사업자의 수익 구조가 동시에 재조정되는 국면이다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "서울 아파트 '전세 품귀'에 월세 비중 절반 넘어섰다",
+          "url": "https://www.hankyung.com/article/2026102039541"
+        },
+        {
+          "source": "한국경제(부동산)",
+          "title": "임대 관리비 신고 의무화…정부, 월세 편법 인상 차단",
+          "url": "https://www.hankyung.com/article/2026102039561"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "수도권·지방 공공주택 공급 차질 심화",
+      "summary": "수도권 공공분양 6.7만 가구가 토지보상 및 부지조성 문제로 착공조차 못한 데다, 지방 공공택지에서도 약 5만 가구 공급이 전면 중단되며 전국 공공주택 공급 차질이 구조적으로 심화되고 있다. 중장기 주택 수급 불균형과 분양·임대 시장 불안을 키우는 핵심 리스크로 부상했다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "수도권 공공분양 6.7만가구, 첫삽도 못 떴다 [H-EXCLUSIVE]",
+          "url": "https://biz.heraldcorp.com/article/10908483"
+        },
+        {
+          "source": "한국경제(부동산)",
+          "title": "지방 공공택지의 '눈물'…5만 가구 공급 올스톱",
+          "url": "https://www.hankyung.com/article/2026101394721"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "세종시 행정수요 급증 속 공급 공백으로 집값·전세 불안 확대",
+      "summary": "중앙행정기관 44곳의 세종시 이전 발표로 주거 수요가 크게 늘었지만, 내년 입주 물량이 0가구로 확인되며 전세와 매매 모두 공급 부족이 심각해지고 있다. 행정 중심도시 정책과 실제 주택 공급계획의 괴리가 세종시 집값 불안과 전세난을 선반영시키는 상황이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "공무원 1만명 내려가라더니 입주물량 0…세종시 집값 벌써부터 ‘들썩’",
+          "url": "https://www.mk.co.kr/news/realestate/12180093"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "공급 불안과 금리·규제가 맞물린 무주택자 ‘생존 매수’ 압박",
+      "summary": "전국적인 공급 차질과 대출 규제, 세제 정책 환경이 맞물리면서 무주택자들이 향후 가격 급등과 대출 환경 악화를 우려해 ‘생존 매수’에 나설 가능성이 커지고 있다. 시장의 체감 불안이 자가 매수 시점 앞당기기와 실수요의 조기 유입으로 이어질 수 있다는 전망이 제기된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "\"무주택자 '생존 매수'하는 시대 온다\"…전문가 경고 들어보니",
+          "url": "https://www.hankyung.com/article/2026101778407"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "재건축 공사비 분쟁 완화를 위한 서울시 ‘공사비120센터’ 출범",
+      "summary": "서울시가 재건축 과정에서 빈번하게 발생하는 공사비 분쟁을 줄이기 위해 ‘공사비120센터’를 개소했다. 조합과 시공사 간 초기 상담부터 중재·합의, 사후관리까지 원스톱 지원 체계를 마련해 정비사업 사업성·사업 속도 안정화를 도모하는 조치다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "재건축 공사비 싸움 줄인다…서울시 ‘공사비120센터’ 개소 [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10909290"
+        }
+      ]
+    }
+  ]
+}

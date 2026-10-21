@@ -1,9 +1,9 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "highlights": {
     "bullets": [
-      "핵심: 위임장에서 아이라 에런프라이스의 스페이스X 이사회 합류와 합병을 시사하는 안건들이 확인됐다.",
-      "핵심: 토요타는 2028년부터 중국에서 코롤라 EV를 하이브리드·내연 모델과 동일 라인에서 생산할 예정이다."
+      "핵심: 리비안이 미국 EV 시장에서 작년 10위에서 올해 2위로 상승했다.",
+      "핵심: 테슬라는 3분기 실적에서 매출 정체와 주당순이익 10% 감소가 예상된다."
     ],
     "topTopics": [
       "Roadmap",
@@ -12,53 +12,53 @@
       "Investment"
     ],
     "stats": {
-      "collected": 15,
-      "deduped": 15
+      "collected": 13,
+      "deduped": 13
     }
   },
   "cards": [
     {
       "id": "ev_0001",
       "tab": "ev",
-      "publishedAt": "2026-10-19T23:07:33+09:00",
+      "publishedAt": "2026-10-21T05:12:41+09:00",
       "source": "Electrek",
-      "title": "Tesla (TSLA) proxy shows a board getting ready for a SpaceX merger",
+      "title": "Rivian now #2 US EV brand, up from #10, as Big Auto marginalizes itself",
       "summary": [
-        "테슬라 2026년 주주총회 위임장에 독립 이사였던 아이ра 에런프라이스가 스페이스X 이사회에 합류한 사실이 확인됐습니다.",
-        "위임장 내용은 스페이스X와의 합병을 시사하는 3개 안건 구성, 자동 의결 프로그램, 거래 가격에 연동된 머스크 보상 구조 등을 담고 있습니다.",
-        "이러한 이사회와 보상 설계 변화는 테슬라-스페이스X 간 구조적 결합 가능성을 높이는 신호로 해석됩니다."
+        "리비안이 미국 EV 시장 점유율 기준 작년 10위에서 올해 2위로 급상승했다.",
+        "이 과정에서 리비안은 쉐보레를 제치고 2위 자리를 차지했다.",
+        "전통 완성차 업체들이 EV 전환 속도를 늦추는 사이 리비안이 시장 입지를 확대하고 있다."
       ],
-      "whyItMatters": "머스크 지배 구조 하에서 테슬라와 스페이스X의 잠재적 합병은 지배구조 리스크, 밸류에이션 체계, 주주 권한에 큰 변화를 초래할 수 있어 중장기 투자 판단에 중요합니다.",
+      "whyItMatters": "전통 대형 완성차 업체들이 전기차 전환에 소극적으로 대응하는 사이 리비안이 빠르게 점유율을 확보하며 경쟁 구도가 재편되고 있음을 보여주기 때문이다.",
       "topics": [
+        "Competition",
+        "Demand",
         "Investment",
-        "Policy",
-        "Roadmap",
-        "Competition"
+        "Roadmap"
       ],
-      "status": "NEW",
-      "hash": "7c7a38f79fa54983e0b5aaea539c9eafa84b2833d2658272bd176e538bffa25d",
-      "url": "https://electrek.co/2026/10/19/tesla-tsla-proxy-annual-meeting-spacex-merger/"
+      "status": "ONGOING",
+      "hash": "2046527f06cc71fafa510f8a21c9036b832d1a68695fa9a89782ede0ce8e8565",
+      "url": "https://electrek.co/2026/10/20/rivian-now-2-us-ev-brand-up-from-10-as-big-auto-marginalizes-itself/"
     },
     {
       "id": "ev_0002",
       "tab": "ev",
-      "publishedAt": "2026-10-20T02:59:24+09:00",
+      "publishedAt": "2026-10-21T05:13:48+09:00",
       "source": "Electrek",
-      "title": "Toyota’s best-selling Corolla is going electric, and it will be made in China",
+      "title": "Tesla (TSLA) Q3 2026 earnings preview: flat revenue, falling profits",
       "summary": [
-        "토요타는 2028년부터 중국에서 코롤라 EV를 생산할 예정이다.",
-        "코롤라 EV는 하이브리드·내연기관 모델과 함께 동일 라인에서 생산된다.",
-        "중국 생산 전환은 토요타의 전동화 로드맵과 제조 효율화 전략을 반영한다."
+        "테슬라는 10월 21일 장 마감 후 2026년 3분기 실적을 발표하며, 이어 5시 30분(ET)에 컨퍼런스콜을 진행할 예정이다.",
+        "월가 컨센서스는 테슬라의 3분기 매출이 전년 대비 정체되고, 주당순이익(EPS)은 10% 감소할 것으로 예상하고 있다.",
+        "이는 테슬라가 직전 분기 인도량 컨센서스를 2만4천 대 이상 웃돌았음에도 불구하고 수익성 압박이 지속될 것이라는 시장의 시각을 반영한다."
       ],
-      "whyItMatters": "중국에서의 생산과 EV 전환은 글로벌 공급망·비용 구조와 경쟁력에 직접적인 영향을 미치기 때문이다.",
+      "whyItMatters": "물량 성장은 이어지지만 수익성과 이익 감소가 예상돼 테슬라의 가격 전략, 마진 구조, 향후 투자·밸류에이션 재평가에 직접적인 영향을 줄 수 있는 실적 이벤트이기 때문이다.",
       "topics": [
-        "Manufacturing",
-        "Roadmap",
+        "Earnings",
+        "Demand",
         "Competition"
       ],
-      "status": "SHIFTING",
-      "hash": "9ad55a3eddb8bc80f2c8e38fc296522c38bc62d30d73d6de2217a218c3379ecb",
-      "url": "https://electrek.co/2026/10/19/toyotas-best-selling-corolla-going-electric/"
+      "status": "ONGOING",
+      "hash": "0c0f88e79816c15ceba5aee971b68a9bcc3bac792a3ff220c74ccdfa1e406780",
+      "url": "https://electrek.co/2026/10/20/tesla-tsla-q3-2026-earnings-preview/"
     }
   ]
 }

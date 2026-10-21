@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-10-15",
+    "to": "2026-10-21"
+  },
+  "kpis": {
+    "collected": 12,
+    "deduped": 12,
+    "uniqueTopics": 7
+  },
+  "topTopics": [
+    {
+      "name": "Competition",
+      "count": 11
+    },
+    {
+      "name": "Demand",
+      "count": 9
+    },
+    {
+      "name": "Roadmap",
+      "count": 8
+    },
+    {
+      "name": "Policy",
+      "count": 4
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 3
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Demand",
+      "count": 3
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Demand",
+      "count": 2
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Demand",
+      "count": 2
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "테슬라 Q3 2026 실적 부진 우려와 EV 수요·수익성 압박",
+      "summary": "테슬라의 2026년 3분기 매출은 정체, 이익은 감소가 예상되며, 이는 EV 수요 둔화·가격 인하 경쟁·투자 부담이 수익성에 가중을 주고 있음을 보여준다. 단기 실적뿐 아니라 중장기 성장성 재평가 이슈로 이어질 수 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla (TSLA) Q3 2026 earnings preview: flat revenue, falling profits",
+          "url": "https://electrek.co/2026/10/20/tesla-tsla-q3-2026-earnings-preview/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "리비안의 급성장과 미국 EV 시장 판도 변화",
+      "summary": "리비안이 미국 EV 브랜드 순위에서 단기간에 10위에서 2위로 상승하며 쉐보레를 제쳤다. 이는 전통 완성차 업체의 전동화 전략 부진과 신규 EV 순수 업체의 경쟁력 강화가 맞물린 구조적 변화로 해석된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Rivian now #2 US EV brand, up from #10, as Big Auto marginalizes itself",
+          "url": "https://electrek.co/2026/10/20/rivian-now-2-us-ev-brand-up-from-10-as-big-auto-marginalizes-itself/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "토요타 코롤라 EV 중국 생산 계획과 대중형 전기차 확대",
+      "summary": "토요타가 2028년부터 중국에서 베스트셀러 코롤라의 전기차 버전을 양산하며, 기존 내연·하이브리드와 같은 라인에서 생산할 계획이다. 이는 대중형 주력 모델의 전동화와 중국 현지 생산·공급망을 활용한 가격 경쟁력 확보 전략을 시사한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Toyota’s best-selling Corolla is going electric, and it will be made in China",
+          "url": "https://electrek.co/2026/10/19/toyotas-best-selling-corolla-going-electric/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "테슬라–스페이스X 잠재 합병 시그널과 지배구조 리스크",
+      "summary": "테슬라 2026년 주주총회 위임장에서 스페이스X 이사회 중복 인선, 합병을 시사하는 안건 구성, 거래 가격 연동 머스크 보상 구조 등이 드러났다. 이는 두 회사 간 합병·지배구조 개편 가능성을 높이며, 기존 주주의 경영권·가치 희석 우려도 함께 부각된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla (TSLA) proxy shows a board getting ready for a SpaceX merger",
+          "url": "https://electrek.co/2026/10/19/tesla-tsla-proxy-annual-meeting-spacex-merger/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "가정용 에너지 저장 시장 확대와 에코플로우의 소형 모듈형 배터리",
+      "summary": "에코플로우가 소형·확장형 주거용 배터리 시스템을 출시해 가정용 백업 전원·에너지 자립 수요에 진입 장벽을 낮추고 있다. 이는 분산형 에너지 저장 및 홈 전력 관리 시장의 성장을 보여주는 신호다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tiny Titan: new residential battery system from EcoFlow starts small",
+          "url": "https://electrek.co/2026/10/18/tiny-titan-new-residential-battery-system-from-ecoflow-starts-small/"
+        }
+      ]
+    }
+  ]
+}

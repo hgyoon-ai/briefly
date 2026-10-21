@@ -1,70 +1,70 @@
 {
   "range": {
-    "from": "2026-09-21",
-    "to": "2026-10-20"
+    "from": "2026-09-22",
+    "to": "2026-10-21"
   },
   "kpis": {
-    "collected": 70,
-    "deduped": 70,
+    "collected": 72,
+    "deduped": 72,
     "uniqueTopics": 7,
     "marketShare": {
       "Roadmap": 30,
-      "Competition": 26,
-      "Manufacturing": 19,
-      "Investment": 14,
-      "Demand": 11,
+      "Competition": 27,
+      "Manufacturing": 18,
+      "Investment": 13,
+      "Demand": 12,
       "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (09/21-09/27)",
+      "week": "Week 1 (09/22-09/28)",
       "topicCounts": {
         "Roadmap": 13,
-        "Competition": 10,
-        "Manufacturing": 9,
-        "Investment": 6,
+        "Competition": 11,
+        "Manufacturing": 8,
+        "Investment": 4,
         "Demand": 6
       }
     },
     {
-      "week": "Week 2 (09/28-10/04)",
+      "week": "Week 2 (09/29-10/05)",
       "topicCounts": {
-        "Roadmap": 20,
-        "Competition": 18,
-        "Manufacturing": 7,
-        "Investment": 11,
-        "Demand": 7
+        "Roadmap": 16,
+        "Competition": 13,
+        "Manufacturing": 6,
+        "Investment": 9,
+        "Demand": 6
       }
     },
     {
-      "week": "Week 3 (10/05-10/11)",
+      "week": "Week 3 (10/06-10/12)",
       "topicCounts": {
-        "Roadmap": 9,
-        "Competition": 9,
-        "Manufacturing": 7,
+        "Roadmap": 7,
+        "Competition": 7,
+        "Manufacturing": 5,
         "Investment": 3,
         "Demand": 3
       }
     },
     {
-      "week": "Week 4 (10/12-10/18)",
+      "week": "Week 4 (10/13-10/19)",
       "topicCounts": {
-        "Roadmap": 14,
+        "Roadmap": 12,
         "Competition": 12,
-        "Manufacturing": 13,
-        "Investment": 8,
+        "Manufacturing": 11,
+        "Investment": 7,
         "Demand": 5
       }
     },
     {
-      "week": "Week 5 (10/19-10/20)",
+      "week": "Week 5 (10/20-10/21)",
       "topicCounts": {
-        "Roadmap": 3,
-        "Competition": 2,
-        "Manufacturing": 2,
-        "Investment": 1,
-        "Demand": 1
+        "Roadmap": 4,
+        "Competition": 4,
+        "Manufacturing": 1,
+        "Investment": 0,
+        "Demand": 2
       }
     }
   ],
@@ -72,15 +72,10 @@
     {
       "id": 1,
       "status": "ONGOING",
-      "title": "AI 시대 반도체 설비·팹 인프라 투자 가속",
-      "summary": "SEMICON West 2026 논의와 Applied Materials의 50억 달러 EPIC 투자 발표는 AI·고성능 컴퓨팅 수요 증가에 대응해 글로벌 팹 인프라와 장비 투자가 장기적으로 확대되고 있음을 보여준다. 생산능력 증설과 공급망 강화, 공정 혁신이 동시에 추진되며, 설비·소재·장비 생태계 전반에 중장기 투자 압력이 커지고 있다.",
-      "articleCount": 2,
+      "title": "Applied Materials의 50억달러 EPIC 투자와 반도체 제조 생태계 재편",
+      "summary": "Applied Materials가 EPIC 센터에 50억달러를 투자하며 첨단 반도체 공정·장비 공동개발 허브를 구축하고 있다. 이는 파운드리·IDM·소재 업체와의 협업을 통해 공정 최적화와 생산성 향상을 가속해 장비·소재 중심의 공급망 재편과 CAPEX 효율화에 중대한 영향을 줄 전망이다.",
+      "articleCount": 1,
       "relatedArticles": [
-        {
-          "source": "EE Times",
-          "title": "SEMICON West 2026 Displays AI-Era Chipmaking, Workforce Development",
-          "url": "https://www.eetimes.com/semicon-west-2026-displays-ai-era-chipmaking-workforce-development/"
-        },
         {
           "source": "EE Times",
           "title": "Video Interview: Applied Materials CEO on the Economics Behind Its $5B EPIC Bet",
@@ -90,9 +85,23 @@
     },
     {
       "id": 2,
+      "status": "ONGOING",
+      "title": "스마트 그리드·전력 인프라 현대화가 여는 반도체 보안·제어 수요",
+      "summary": "전력망 현대화로 통신·제어용 전력반도체, 산업용 MCU, 보안 칩이 대규모로 필요해지는 동시에 IT/OT 융합으로 사이버 공격 표면이 급격히 확대되고 있다. 그리드 자산 가시성 부족과 연동돼 OT 보안용 칩·모듈, 보안 네트워크 프로세서 등 전력 인프라 특화 반도체 수요가 구조적으로 성장하는 국면이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Grid Modernization’s Hidden Cost: A Growing Attack Surface Few Are Watching",
+          "url": "https://www.eetimes.com/grid-modernization-hidden-cost-a-growing-attack-surface-few-are-watching/"
+        }
+      ]
+    },
+    {
+      "id": 3,
       "status": "NEW",
-      "title": "삼성전자 2026년 3분기 실적 가이던스, 메모리·시스템 반도체 수요 회복 시사",
-      "summary": "삼성전자가 2026년 3분기 연결 매출 약 195조원, 영업이익 약 107.40조원의 실적 가이던스를 제시하며 반도체 중심 사업 실적의 큰 폭 개선을 예고했다. 이는 메모리 가격 회복, AI·서버·스토리지 수요 증가, 파운드리와 시스템 반도체 수요 개선이 복합적으로 반영된 것으로 해석되며, 향후 설비 투자와 기술 로드맵에도 영향을 줄 전망이다.",
+      "title": "삼성전자 2026년 3분기 실적 가이던스와 메모리·파운드리 업황 반등 신호",
+      "summary": "삼성전자가 2026년 3분기 매출 약 195조원, 영업이익 약 107.4조원을 제시하며 역대급 실적을 예고했다. 이는 AI 서버용 HBM·고대역폭 DDR, 모바일/PC용 고부가 메모리와 미세 공정 파운드리 수요 회복이 동시에 반영된 것으로, 메모리 사이클 강한 반등과 고성능 연산용 반도체 투자 재가속의 신호로 해석된다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -103,44 +112,30 @@
       ]
     },
     {
-      "id": 3,
-      "status": "ONGOING",
-      "title": "SSD·스토리지 시장에서의 브랜드 경쟁과 수요 선점 전략",
-      "summary": "삼성전자는 글로벌 랜드마크를 활용한 SSD 캠페인 ‘Choose the sure thing’을 전개하며 프리미엄 스토리지 브랜드 이미지를 강화하고 있다. AI·클라우드·게이밍 등에서 고성능 SSD 수요가 확대되는 가운데, 대형 OOH 마케팅으로 신뢰성과 성능을 강조해 경쟁사 대비 수요를 선점하려는 전략이 가속화되고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Samsung Newsroom",
-          "title": "Samsung Electronics Expands SSD Brand Campaign Across Global Landmarks",
-          "url": "https://news.samsung.com/global/samsung-electronics-expands-ssd-brand-campaign-across-global-landmarks"
-        }
-      ]
-    },
-    {
       "id": 4,
       "status": "ONGOING",
-      "title": "대만 AI 반도체 야심과 인재 격차",
-      "summary": "대만은 랙-스케일 AI, AI PC, 물리적 AI 등 차세대 AI 컴퓨팅 분야에서 TSMC·OSAT·PCB 등 강력한 제조 생태계를 보유하고 있으나, 고급 AI·반도체 융합 인재 부족이 성장의 핵심 제약으로 부상하고 있다. 이는 첨단 공정·패키징·시스템 설계 역량 확장과 글로벌 경쟁력 유지에 구조적 리스크로 작용하고 있다.",
+      "title": "장수명 초소형 전자 태그가 이끄는 저전력 아날로그·센서 반도체 기술 진화",
+      "summary": "Innovasea의 어류 태그처럼 10년 이상 동작하는 초소형 시스템을 구현하기 위해서는 초저전력 MCU, 고효율 PMIC, 고집적 센서와 내환경 패키징 기술이 필수적이다. 생태 모니터링·스마트 농어업·로지스틱스 등 장기 배치 센서 네트워크 수요가 늘면서 아날로그·센서·전력반도체의 설계 패러다임이 수명·에너지 효율 중심으로 이동하고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "EE Times",
-          "title": "Taiwan’s AI Ambitions Run into Talent Gap",
-          "url": "https://www.eetimes.com/taiwans-ai-ambitions-run-into-talent-gap/"
+          "title": "Innovasea Packs Long-Life Electronics into Fish Tags",
+          "url": "https://www.eetimes.com/innovasea-packs-long-life-electronics-into-fish-tags/"
         }
       ]
     },
     {
       "id": 5,
-      "status": "SHIFTING",
-      "title": "칩 설계 패러다임 전환: 거시 목표에서 미시 소자로의 역방향 설계",
-      "summary": "노벨상 연구에서 도출된 ‘거시 시스템을 미시 부품 관점에서 재해석’하는 통찰이 반도체 설계에도 적용되며, 상위 시스템 목표에서 소자·회로 수준까지 역방향으로 최적화하는 설계 패러다임이 부상하고 있다. 이는 AI 가속기, HPC 칩 등에서 아키텍처·공정·소자 동시 최적화를 요구하며 EDA 툴·설계 방법론 변화로 이어지고 있다.",
+      "status": "ONGOING",
+      "title": "AI 가전 확산으로 가속되는 엣지 AI SoC·메모리 수요",
+      "summary": "삼성전자의 글로벌 가전 기술 세미나 ‘The Brief’는 지역 맞춤형 AI 가전 전략을 통해 엣지 단에서의 NPU 탑재 시스템, 온디바이스 학습, 로컬 음성·비전 인퍼런스 수요가 본격화되고 있음을 보여준다. 이는 가전용 AI SoC, 전력 효율 최적화된 LPDDR/낸드, 연결 칩셋 등 홈·생활가전용 반도체 시장 확대를 의미한다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "EE Times",
-          "title": "From Macro to Micro, and Back",
-          "url": "https://www.eetimes.com/from-macro-to-micro-and-back/"
+          "source": "Samsung Newsroom",
+          "title": "Tailored for Every Home: Samsung “The Brief” Goes Global With AI-Powered Home Appliances",
+          "url": "https://news.samsung.com/global/tailored-for-every-home-samsung-the-brief-goes-global-with-ai-powered-home-appliances"
         }
       ]
     }

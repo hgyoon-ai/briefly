@@ -1,0 +1,105 @@
+{
+  "date": "2026-10-21",
+  "highlights": {
+    "bullets": [
+      "핵심: Innovasea가 소형 고수명 전자장치를 어류 태그에 통합했다.",
+      "핵심: 크리스 래트너는 AI 코드 생성이 소프트웨어 공학 문제를 해결하지 못한다고 주장했다.",
+      "트렌드: 기술 발표와 설계 전략이 산업 로드맵과 경쟁 영향에 초점을 맞추고 있다."
+    ],
+    "topTopics": [
+      "Roadmap",
+      "Competition",
+      "Manufacturing",
+      "Demand"
+    ],
+    "stats": {
+      "collected": 6,
+      "deduped": 6
+    }
+  },
+  "cards": [
+    {
+      "id": "semiconductor_0001",
+      "tab": "semiconductor",
+      "publishedAt": "2026-10-21T07:06:10+09:00",
+      "source": "EE Times",
+      "title": "Innovasea Packs Long-Life Electronics into Fish Tags",
+      "summary": [
+        "캐나다 동해안의 Innovasea가 소형 고수명 전자장치를 어류 태그에 통합했다.",
+        "배터리·센서·동물복지를 하나의 시스템 문제로 다뤄 십년 단위 배치를 목표로 설계했다.",
+        "이로써 어쿠스틱 텔레메트리의 장기 모니터링 가능성과 데이터 품질이 향상된다."
+      ],
+      "whyItMatters": "장기 배치가 가능해지면 생태계 연구·어업 관리의 데이터 기반 의사결정과 비용 효율성이 크게 개선되어 산업·정책적 파급력이 크다.",
+      "topics": [
+        "Manufacturing",
+        "Roadmap",
+        "Competition"
+      ],
+      "status": "ONGOING",
+      "hash": "cd9adb03f2b3b5baf865f89cf6cf32fc09313ed05e4c81da903981f93aff7576",
+      "url": "https://www.eetimes.com/innovasea-packs-long-life-electronics-into-fish-tags/"
+    },
+    {
+      "id": "semiconductor_0002",
+      "tab": "semiconductor",
+      "publishedAt": "2026-10-20T20:00:00+09:00",
+      "source": "EE Times",
+      "title": "Chris Lattner: AI Code Generation Doesn’t Solve Software Engineering",
+      "summary": [
+        "크리스 래트너는 AI 코드 생성이 저수준 코드를 잘 만들어도 소프트웨어 공학 문제를 해결하지 못한다고 주장합니다.",
+        "코드 생성 도구가 소프트웨어 생태계의 설계·구축·유지보수를 더 어렵게 만들고 있다고 경고합니다.",
+        "따라서 아키텍처·도구·프로세스 개선 등 장기적 해법이 필요하다고 강조합니다."
+      ],
+      "whyItMatters": "즉각적인 코드 생산이 가능해도 품질·유지보수·생태계 관점의 근본적 문제를 해결하지 못해 산업 로드맵과 경쟁 전략에 영향을 미치기 때문입니다.",
+      "topics": [
+        "Roadmap",
+        "Competition"
+      ],
+      "status": "ONGOING",
+      "hash": "91461fe0cd2222a7e832966798ccdf3a4e8e3b05e15e547df1ffbdfe2b779210",
+      "url": "https://www.eetimes.com/chris-lattner-ai-code-generation-doesnt-solve-software-engineering/"
+    },
+    {
+      "id": "semiconductor_0003",
+      "tab": "semiconductor",
+      "publishedAt": "2026-10-20T17:00:31+09:00",
+      "source": "Samsung Newsroom",
+      "title": "Tailored for Every Home: Samsung “The Brief” Goes Global With AI-Powered Home Appliances",
+      "summary": [
+        "삼성전자는 미국·유럽·라틴아메리카·남서아시아·동남아시아 등 5개 지역에서 가전 기술 세미나 'The Brief'를 개최했다.",
+        "행사는 각 지역의 생활 환경과 소비자 요구에 맞춘 AI 기반 가전 경험을 선보였다.",
+        "삼성은 AI 가전 기술의 적용 사례와 지역 맞춤화 전략을 강조했다."
+      ],
+      "whyItMatters": "글로벌·지역 맞춤형 AI 가전 전략을 공개함으로써 제품 차별화와 시장 확대를 가속화할 수 있다는 점에서 중요하다.",
+      "topics": [
+        "Demand",
+        "Competition",
+        "Roadmap"
+      ],
+      "status": "ONGOING",
+      "hash": "71d5526ba5047825d88806c274afb2338b88e0b2bd1e0a8c1537c945a9ed9ddf",
+      "url": "https://news.samsung.com/global/tailored-for-every-home-samsung-the-brief-goes-global-with-ai-powered-home-appliances"
+    },
+    {
+      "id": "semiconductor_0004",
+      "tab": "semiconductor",
+      "publishedAt": "2026-10-20T17:00:00+09:00",
+      "source": "Samsung Newsroom",
+      "title": "Samsung Art Store Unveils Curated Collection From Art Basel Paris 2026",
+      "summary": [
+        "삼성전자가 Samsung Art Store에 Art Basel Paris 2026 참여 갤러리의 작품 19점을 추가했습니다.",
+        "해당 컬렉션은 오늘부터 전 세계의 모든 삼성 Art TV에서 이용 가능하다고 발표했습니다.",
+        "공식 Art TV 파트너십을 통해 삼성의 글로벌 아트 콘텐츠 제공을 확대하는 조치입니다."
+      ],
+      "whyItMatters": "이번 확장은 삼성의 TV 콘텐츠 차별화와 브랜드 경쟁력 강화를 통해 소비자 경험을 높이기 때문입니다.",
+      "topics": [
+        "Roadmap",
+        "Competition",
+        "Demand"
+      ],
+      "status": "ONGOING",
+      "hash": "dd31f90e0b4962b65fb3adb678d14777b86c02372256b1b2107f0c98b9a8cc96",
+      "url": "https://news.samsung.com/global/samsung-art-store-unveils-curated-collection-from-art-basel-paris-2026"
+    }
+  ]
+}

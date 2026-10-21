@@ -1,0 +1,129 @@
+{
+  "date": "2026-10-21",
+  "highlights": {
+    "bullets": [
+      "핵심: 서울 아파트 전세 품귀로 월세 비중이 절반을 넘겼다.",
+      "핵심: 수도권 공공분양 약 6.7만가구가 아직 착공하지 못했다.",
+      "트렌드: 공급 지연과 임대시장 변화에 대응하는 제도·행정 조치가 강화되고 있다."
+    ],
+    "topTopics": [
+      "Market",
+      "Supply",
+      "Construction",
+      "Rental"
+    ],
+    "stats": {
+      "collected": 13,
+      "deduped": 13
+    }
+  },
+  "cards": [
+    {
+      "id": "realestate_0001",
+      "tab": "realestate",
+      "publishedAt": "2026-10-20T18:01:04+09:00",
+      "source": "한국경제(부동산)",
+      "title": "서울 아파트 '전세 품귀'에 월세 비중 절반 넘어섰다",
+      "summary": [
+        "서울 아파트 전세 매물 부족으로 월세 비중이 절반을 넘겼다.",
+        "임대차 시장이 전세 중심에서 월세 중심으로 빠르게 전환되고 있다.",
+        "세입자들의 주거비 부담과 시장 불안이 증가할 가능성이 크다."
+      ],
+      "whyItMatters": "전세 공급 감소와 금리·대출 여건 변화로 집주인들이 전세에서 월세로 전환하는 사례가 늘어나고 있기 때문이다.",
+      "topics": [
+        "Rental",
+        "Market",
+        "Mortgage",
+        "Supply"
+      ],
+      "status": "SHIFTING",
+      "hash": "7d5733d1f2cfa917ce55e9263030a8699cd5ad9c859dc62f8e94ef550d25bd23",
+      "url": "https://www.hankyung.com/article/2026102039541"
+    },
+    {
+      "id": "realestate_0002",
+      "tab": "realestate",
+      "publishedAt": "2026-10-20T11:31:23+09:00",
+      "source": "헤럴드경제(부동산)",
+      "title": "수도권 공공분양 6.7만가구, 첫삽도 못 떴다 [H-EXCLUSIVE]",
+      "summary": [
+        "최근 5년 인허가된 수도권 공공분양 133곳 중 88곳, 약 6.7만가구가 아직 착공하지 못했다.",
+        "토지보상 난항과 오염토 정화 등 부지조성 지연이 주요 원인으로 지목된다.",
+        "착공 지연은 공사비·분양가 상승으로 이어져 현장 중심의 착공 관리가 필요하다."
+      ],
+      "whyItMatters": "공급 지연이 주택시장 안정과 공공주택 공급 목표 달성에 직접적 악영향을 미치기 때문이다.",
+      "topics": [
+        "Supply",
+        "Land",
+        "Construction",
+        "Market"
+      ],
+      "status": "ONGOING",
+      "hash": "3e26d7ffc2651241d499dd7eaeca60bc979f0f38b3c5376964d5e46538e1c062",
+      "url": "https://biz.heraldcorp.com/article/10908483"
+    },
+    {
+      "id": "realestate_0003",
+      "tab": "realestate",
+      "publishedAt": "2026-10-21T07:24:37+09:00",
+      "source": "헤럴드경제(부동산)",
+      "title": "재건축 공사비 싸움 줄인다…서울시 ‘공사비120센터’ 개소 [부동산360]",
+      "summary": [
+        "서울시가 재건축 공사비 분쟁 해결을 위해 '공사비120센터'를 21일 개소했다.",
+        "센터는 초기 상담부터 중재·합의 이후 사후관리까지 원스톱으로 지원한다.",
+        "목표는 반복되는 공사비 갈등을 줄여 공사 지연과 비용 불확실성을 완화하는 것이다."
+      ],
+      "whyItMatters": "재건축 사업의 비용 분쟁을 신속히 해결해 사업 지연을 줄이고 입주자·시공사 간 갈등을 완화함으로써 시장 안정성과 사업 실행력을 제고하기 때문입니다.",
+      "topics": [
+        "Construction",
+        "UrbanRenewal",
+        "Policy"
+      ],
+      "status": "NEW",
+      "hash": "75186702381f89895975f80958df85c7ee332c2c72721b3a3e92b3c01e787f4b",
+      "url": "https://biz.heraldcorp.com/article/10909290"
+    },
+    {
+      "id": "realestate_0004",
+      "tab": "realestate",
+      "publishedAt": "2026-10-20T17:59:31+09:00",
+      "source": "한국경제(부동산)",
+      "title": "임대 관리비 신고 의무화…정부, 월세 편법 인상 차단",
+      "summary": [
+        "정부가 임대 관리비 신고를 의무화했다.",
+        "월세에 관리비를 포함하거나 관리비로 편법 인상하는 행위를 차단하려는 목적이다.",
+        "신고제 도입으로 임대시장 투명성 제고와 임차인 보호 강화가 기대된다."
+      ],
+      "whyItMatters": "임대차 시장의 투명성 제고와 임차인의 비용 부담 완화를 위해 불법적 편법 인상을 차단하려는 조치다.",
+      "topics": [
+        "Regulation",
+        "Rental",
+        "Policy"
+      ],
+      "status": "NEW",
+      "hash": "8dc60f03bb34dbc3a9a489f417debda0b1f05fb4421b78798520e61bd423b860",
+      "url": "https://www.hankyung.com/article/2026102039561"
+    },
+    {
+      "id": "realestate_0005",
+      "tab": "realestate",
+      "publishedAt": "2026-10-21T08:52:19+09:00",
+      "source": "매일경제(부동산)",
+      "title": "제이엔케이도시정비, 서울사이버대와 정비사업 인재 양성 ‘맞손’",
+      "summary": [
+        "제이엔케이도시정비가 서울사이버대학교와 정비사업 인재 양성 업무협약을 체결했다.",
+        "재개발·재건축·리모델링 관리 임직원 교육을 위한 협약으로 정비사업전문관리업체의 첫 사례다.",
+        "현장 관리 역량 강화로 정비사업의 품질과 전문성이 향상될 전망이다."
+      ],
+      "whyItMatters": "업계 최초의 교육 협약으로 정비사업 전문인력의 직무역량과 사업관리 수준 개선에 직접적인 영향을 미칠 가능성이 크기 때문입니다.",
+      "topics": [
+        "UrbanRenewal",
+        "Construction",
+        "Market"
+      ],
+      "status": "NEW",
+      "hash": "acf1da68eda50d052482fdc9b6361401cf4805f9aefe388d5a2f0cfa740609f0",
+      "url": "https://www.mk.co.kr/news/realestate/12181348"
+    }
+  ]
+}
