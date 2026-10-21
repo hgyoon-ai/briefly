@@ -2,6 +2,52 @@
   "month": "2026-10",
   "events": [
     {
+      "id": "news:키움증권:https://www.mk.co.kr/news/stock/12181337",
+      "date": "2026-10-21",
+      "company": "키움증권",
+      "title": "“휴젤, 미국 직판 전환에 매출 줄고 비용 늘고”…목표가↓",
+      "oneLiner": "키움증권은 휴젤의 미국 직판 전환으로 매출이 일시 감소하고 마케팅 비용이 증가할 것으로 보고 목표주가를 하향 조정했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“휴젤, 미국 직판 전환에 매출 줄고 비용 늘고”…목표가↓",
+          "url": "https://www.mk.co.kr/news/stock/12181337"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-10-21"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202610210815527057",
+      "date": "2026-10-21",
+      "company": "한국투자증권",
+      "title": "삼양식품, 환율 부담에도 3분기 성장 지속…목표가 185만원",
+      "oneLiner": "한국투자증권 리서치가 삼양식품의 3·4분기 실적이 견조할 것으로 전망하며 투자의견과 목표주가를 유지했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "삼양식품, 환율 부담에도 3분기 성장 지속…목표가 185만원",
+          "url": "https://www.fnnews.com/news/202610210815527057"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-10-21"
+    },
+    {
       "id": "news:키움증권:https://www.hankyung.com/article/2026102021496",
       "date": "2026-10-20",
       "company": "키움증권",
@@ -72,6 +118,52 @@
       "updatedAt": "2026-10-20"
     },
     {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12180599",
+      "date": "2026-10-20",
+      "company": "한국투자증권",
+      "title": "신한투자증권, 은퇴 후 현금흐름 관리 위한 ‘신한마음편한RIF’ 판매",
+      "oneLiner": "신한투자증권이 은퇴 후 현금흐름 관리를 위한 자산배분펀드 '신한마음편한RIF' 4종 판매를 시작했다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "신한투자증권, 은퇴 후 현금흐름 관리 위한 ‘신한마음편한RIF’ 판매",
+          "url": "https://www.mk.co.kr/news/stock/12180599"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-10-21"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202610201119077818",
+      "date": "2026-10-20",
+      "company": "KB증권",
+      "title": "영림원소프트랩, KB국민은행과 ERP·금융 서비스 연계 업무협약",
+      "oneLiner": "영림원소프트랩과 KB국민은행이 ERP 솔루션과 금융서비스 연계를 위한 업무협약(MOU)을 체결했다.",
+      "type": "제휴",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "영림원소프트랩, KB국민은행과 ERP·금융 서비스 연계 업무협약",
+          "url": "https://www.fnnews.com/news/202610201119077818"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-10-21"
+    },
+    {
       "id": "news:메리츠증권:https://www.hankyung.com/article/2026101994076",
       "date": "2026-10-19",
       "company": "메리츠증권",
@@ -138,7 +230,7 @@
       ],
       "tags": [],
       "confidence": 0.8,
-      "updatedAt": "2026-10-20"
+      "updatedAt": "2026-10-21"
     },
     {
       "id": "news:KB증권:https://www.hankyung.com/article/2026101915491",
