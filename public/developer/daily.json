@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "kpis": {
     "clusters": 20,
     "sources": 2,
@@ -7,355 +7,226 @@
   },
   "clusters": [
     {
-      "id": "e647640a96e7ef8bf9b6ea8fd05e645965e6250c",
-      "name": "Ousted Savannah police officer gave ICE agent husband access to Flock system",
+      "id": "2fad9cce1e7eaa629e5e4f69232a49452194d437",
+      "name": "deepseek-ai/DeepInfer",
       "section": "discussions",
       "status": "NEW",
-      "score": 806.4,
-      "oneLiner": "해임된 사바나 경찰관이 ICE 요원 남편에게 Flock 시스템 접근 권한을 제공했다",
-      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 워크플로우 자동화 관점에서 재평가가 진행 중입니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "624p · 360c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50150750"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816"
-        }
-      ],
-      "tags": [
-        "agent tooling"
-      ]
-    },
-    {
-      "id": "57c51bb5be4102c36a3a61afe3145c54d719fe3b",
-      "name": "I no longer care to work on any Ruby gems so I've archived all my repositories",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 725.4,
-      "oneLiner": "한 개발자가 루비 젬 작업에 흥미를 잃어 모든 저장소를 아카이브했다",
-      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "423p · 393c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50154518"
-        },
-        {
-          "label": "Source",
-          "url": "https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "4c16158b1999356480e71ad495a1c12121c5cc11",
-      "name": "Linux 7.3",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 681.0,
-      "oneLiner": "Linux 7.3에 관한 게시물이 논의 섹션에 올라왔다",
-      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "585p · 275c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50149392"
-        },
-        {
-          "label": "Source",
-          "url": "https://lwn.net/Articles/1101143/"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "4e2877cf7a598b29d246782b70177cb96c4a8c0c",
-      "name": "Wine ported to OpenBSD",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 492.0,
-      "oneLiner": "Wine가 OpenBSD로 포팅되었다는 소식이 논의되었다",
-      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "492p · 164c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50152307"
-        },
-        {
-          "label": "Source",
-          "url": "https://marc.info/?l=openbsd-ports&m=179236125692175"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "1b6db493ce35e1cf956e0ecacd050e6981623850",
-      "name": "Timestral: Mistral's time-series foundation models",
-      "section": "trending",
-      "status": "NEW",
-      "score": 447.6,
-      "oneLiner": "Mistral의 시계열 파운데이션 모델 Timestral이 발표되었다",
-      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "540p · 103c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50150434"
-        },
-        {
-          "label": "Source",
-          "url": "https://mistral.ai/news/timestral/"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "b6442f9d2b52c7028fe2698a0bbe9a38b29c0a0a",
-      "name": "MiniMax M3.1 Flash",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 420.6,
-      "oneLiner": "MiniMax M3.1 Flash와 관련된 소식이 공유되었다",
-      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "375p · 163c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50154540"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.minimax.io/blog/minimax-m31f"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "e971b0bc00262cd27b06f710b628d19f4ca04e50",
-      "name": "kksimp/Mac.apk",
-      "section": "releases",
-      "status": "NEW",
-      "score": 347.92,
-      "oneLiner": "Mac.apk로 애플 실리콘 맥에서 안드로이드 앱을 네이티브로 실행할 수 있다",
-      "whyNow": "버전 업데이트 이후 재확산이 시작된 흐름입니다.",
+      "score": 2764.22,
+      "oneLiner": "DeepSeek 모델용 고성능 대규모 추론 프레임워크입니다",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "573"
+          "value": "12,253"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "10"
+          "value": "1,115"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-10-20"
-        },
-        {
-          "source": "GitHub",
-          "metric": "release",
-          "value": "v1.0.2237"
+          "value": "2026-10-21"
         },
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "252p · 128c"
+          "value": "2109p · 822c"
         }
       ],
       "links": [
         {
           "label": "GitHub",
-          "url": "https://github.com/kksimp/Mac.apk"
-        },
-        {
-          "label": "Release",
-          "url": "https://github.com/kksimp/Mac.apk/releases/tag/v1.0.2237"
+          "url": "https://github.com/deepseek-ai/DeepInfer"
         },
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50154624"
+          "url": "https://news.ycombinator.com/item?id=50163277"
         }
       ],
       "tags": []
     },
     {
-      "id": "39da63d81c39e28d011df791994f95340c5aa4a3",
-      "name": "I built a drone with only one motor [video]",
+      "id": "f2fa861041349a6477b492a9e9d4163dbf2c6d51",
+      "name": "microg/GmsCore",
       "section": "trending",
       "status": "NEW",
-      "score": 317.4,
-      "oneLiner": "모터 하나로 작동하는 드론을 제작한 실험 영상이 공개되었다",
-      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다.",
+      "score": 1013.26,
+      "oneLiner": "Play 서비스의 무료 구현체입니다",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 보안 관점에서 재점검 흐름이 이어지고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "14,996"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "3,271"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-21"
+        },
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "380p · 100c"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/microg/GmsCore"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/microg/GmsCore/releases/tag/v0.3.17.252432"
+        },
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50162177"
+        }
+      ],
+      "tags": [
+        "security"
+      ]
+    },
+    {
+      "id": "ec7e58fd722fae83de80c1fc7c7bd38d2af7f515",
+      "name": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 855.6,
+      "oneLiner": "독일 극우 관련 421,179개의 해킹된 이메일을 다룬 분석 기사입니다",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "373p · 78c"
+          "value": "368p · 529c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50150089"
+          "url": "https://news.ycombinator.com/item?id=50163502"
         },
         {
           "label": "Source",
-          "url": "https://www.youtube.com/watch?v=Ndftcft6XhU"
+          "url": "https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/"
         }
       ],
-      "tags": [
-        "editor"
-      ]
+      "tags": []
     },
     {
-      "id": "599acc1ff766e870e87e33197fea6cb1e0931738",
-      "name": "Starcraft: Ashfall",
-      "section": "trending",
+      "id": "e342d2850a25db76e30bba0b37455f1c0c0d9a76",
+      "name": "EMudhra Intermediate CA Compromise",
+      "section": "discussions",
       "status": "NEW",
-      "score": 305.4,
-      "oneLiner": "Starcraft: Ashfall라는 제목의 프로젝트가 공개되었다",
+      "score": 739.2,
+      "oneLiner": "EMudhra 중간 CA 침해 사건을 다루는 페이지입니다",
       "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "303p · 103c"
+          "value": "598p · 317c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50147233"
+          "url": "https://news.ycombinator.com/item?id=50166579"
         },
         {
           "label": "Source",
-          "url": "https://starcraft-shooter-2026.pages.dev/"
+          "url": "https://emudhra.we-have-a-problem.com/"
         }
       ],
       "tags": []
     },
     {
-      "id": "2cc3739c710730f55d6ebab803f290096cefbf66",
-      "name": "Alternatives to animal testing are finally taking off",
-      "section": "trending",
-      "status": "NEW",
-      "score": 303.0,
-      "oneLiner": "동물 실험 대체 방법이 확산되고 있다는 기사가 게시되었다",
-      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "317p · 94c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50150927"
-        },
-        {
-          "label": "Source",
-          "url": "https://spectrum.ieee.org/alternatives-to-animal-testing"
-        }
-      ],
-      "tags": [
-        "testing"
-      ]
-    },
-    {
-      "id": "d508d8ce22cb0220837bc4975895c9d1cc88ceb8",
-      "name": "Maybe There Was an Egg Cartel After All",
+      "id": "ba66ed32099b774139d5b573c477f021e91f6278",
+      "name": "Facebook Pages require paid subscription to post more than two links per month",
       "section": "discussions",
       "status": "NEW",
-      "score": 271.2,
-      "oneLiner": "계란 가격과 관련해 카르텔 존재 가능성을 제기하는 기사다",
-      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
+      "score": 694.2,
+      "oneLiner": "페이스북 페이지가 링크 게시를 위해 유료 구독을 요구한다는 소식입니다",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "200p · 126c"
+          "value": "409p · 374c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50152970"
+          "url": "https://news.ycombinator.com/item?id=50167536"
         },
         {
           "label": "Source",
-          "url": "https://www.politico.com/news/magazine/2026/10/18/egg-prices-conspiracy-affordability-issue-01100411"
+          "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919"
         }
       ],
       "tags": []
     },
     {
-      "id": "338f8d5e73fd901baa1af9f9071efcd77754828f",
-      "name": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
-      "section": "trending",
+      "id": "2270424e434780c96fd1a057c566c3eed10681d0",
+      "name": "SimCity, but with Permits",
+      "section": "discussions",
       "status": "NEW",
-      "score": 257.4,
-      "oneLiner": "CERN과 Mistral이 전략적 협력 의향서에 서명했다",
+      "score": 629.4,
+      "oneLiner": "허가 시스템을 도입한 SimCity 스타일 도시 건설 시뮬레이션입니다",
       "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "315p · 57c"
+          "value": "509p · 270c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50153630"
+          "url": "https://news.ycombinator.com/item?id=50170593"
         },
         {
           "label": "Source",
-          "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/"
+          "url": "https://permit.petercai.com/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "af6a76016439e03900e7979932705b8e9c3207b5",
+      "name": "Apple broke an essential presentation feature of iPads",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 582.6,
+      "oneLiner": "애플이 아이패드의 필수 프레젠테이션 기능을 훼손했다는 주장입니다",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "479p · 246c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50165208"
+        },
+        {
+          "label": "Source",
+          "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/"
         }
       ],
       "tags": []
@@ -364,30 +235,30 @@
       "id": "04f8f983618bc99eeab93037d7423e3492748fea",
       "name": "Gathin23/cleanyourtv",
       "section": "releases",
-      "status": "NEW",
-      "score": 246.56,
-      "oneLiner": "cleanyourtv로 Wi-Fi를 통해 안드로이드 또는 구글 TV를 디블로트할 수 있다",
-      "whyNow": "버전 업데이트 이후 재확산이 시작된 흐름입니다.",
+      "status": "ONGOING",
+      "score": 516.42,
+      "oneLiner": "Wi-Fi로 안드로이드 또는 구글 TV를 디블로트해 애플 TV 스타일 홈을 제공합니다",
+      "whyNow": "업데이트가 트리거가 되어 레퍼런스가 모이는 구간입니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "5,342"
+          "value": "11,744"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "644"
+          "value": "1,333"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-10-20"
+          "value": "2026-10-21"
         },
         {
           "source": "GitHub",
           "metric": "release",
-          "value": "v2.3.0"
+          "value": "v2.4.0"
         }
       ],
       "links": [
@@ -397,222 +268,260 @@
         },
         {
           "label": "Release",
-          "url": "https://github.com/Gathin23/cleanyourtv/releases/tag/v2.3.0"
+          "url": "https://github.com/Gathin23/cleanyourtv/releases/tag/v2.4.0"
         }
       ],
       "tags": []
     },
     {
-      "id": "0bd1a0d6a1fe09e47c48f89d252b83478b820851",
-      "name": "Let's Encrypt is adding two additional remote perspectives for domain validation",
-      "section": "trending",
+      "id": "fffbb7ae32f96ddd7c04fb13a3f9ef4b37721469",
+      "name": "Ofcom concedes defeat in 4chan case",
+      "section": "discussions",
       "status": "NEW",
-      "score": 236.4,
-      "oneLiner": "Let's Encrypt가 도메인 검증에 두 개의 원격 관점을 추가한다",
-      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다.",
+      "score": 475.8,
+      "oneLiner": "Ofcom이 4chan 사건에서 패배를 인정했다는 법적 소식입니다",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "242p · 76c"
+          "value": "321p · 236c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50150809"
+          "url": "https://news.ycombinator.com/item?id=50167028"
         },
         {
           "label": "Source",
-          "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166"
+          "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/"
         }
       ],
       "tags": []
     },
     {
-      "id": "38624dea8089a12a417e3495015b7148d88637d1",
-      "name": "Mercury 3: Diffusion at scale",
-      "section": "trending",
+      "id": "2001811b12f6c001b7face35b979e868ff6c01d2",
+      "name": "Voxtral 3",
+      "section": "discussions",
       "status": "NEW",
-      "score": 233.4,
-      "oneLiner": "Mercury 3라는 이름의 대규모 확산 모델이 소개되었다",
-      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "score": 466.2,
+      "oneLiner": "Voxtral 3에 관한 소개 페이지입니다",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "219p · 85c"
+          "value": "501p · 138c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50155245"
+          "url": "https://news.ycombinator.com/item?id=50168396"
         },
         {
           "label": "Source",
-          "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3"
+          "url": "https://mistral.ai/news/voxtral-3/"
         }
       ],
       "tags": []
     },
     {
-      "id": "61731ce00dd5bfdb8571ce70504bfc2c5f733a76",
-      "name": "Arekejoker/qwen21-nsfw-pose-skill",
-      "section": "releases",
-      "status": "ONGOING",
-      "score": 167.18,
-      "oneLiner": "Qwen-Image 2.1용 NSFW 및 자세 출력 스킬과 관련 레시피를 제공한다",
-      "whyNow": "업데이트가 트리거가 되어 레퍼런스가 모이는 구간입니다.",
+      "id": "bf8f3901bbd99934ade268616054e21a388395df",
+      "name": "OpenBSD 8.0",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 464.4,
+      "oneLiner": "OpenBSD 8.0에 관한 공식 안내 페이지입니다",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
-          "source": "GitHub",
-          "metric": "stars",
-          "value": "3,375"
-        },
-        {
-          "source": "GitHub",
-          "metric": "forks",
-          "value": "609"
-        },
-        {
-          "source": "GitHub",
-          "metric": "updated",
-          "value": "2026-10-20"
-        },
-        {
-          "source": "GitHub",
-          "metric": "release",
-          "value": "v1.0.0"
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "466p · 154c"
         }
       ],
       "links": [
         {
-          "label": "GitHub",
-          "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill"
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50160494"
         },
         {
-          "label": "Release",
-          "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill/releases/tag/v1.0.0"
+          "label": "Source",
+          "url": "https://www.openbsd.org/80.html"
         }
       ],
       "tags": []
     },
     {
-      "id": "0fcaac093a22675d13657a3c01200edae32011c9",
-      "name": "feder-cr/git-ai",
-      "section": "releases",
-      "status": "ONGOING",
-      "score": 123.6,
-      "oneLiner": "AI 에이전트를 위해 설계된 Git 형태의 저장소 도구를 제안한다",
-      "whyNow": "새 릴리즈 영향으로 관심이 재점화되고 있습니다.",
+      "id": "c184094711214d66ef682ac9a46b6c7bf9369c99",
+      "name": "Publish fake stats, get cited in LLMs",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 405.0,
+      "oneLiner": "가짜 통계를 배포해 LLM에 인용되는 전술을 분석한 글입니다",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
-          "source": "GitHub",
-          "metric": "stars",
-          "value": "2,455"
-        },
-        {
-          "source": "GitHub",
-          "metric": "forks",
-          "value": "270"
-        },
-        {
-          "source": "GitHub",
-          "metric": "updated",
-          "value": "2026-10-20"
-        },
-        {
-          "source": "GitHub",
-          "metric": "release",
-          "value": "v0.2.0"
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "315p · 180c"
         }
       ],
       "links": [
         {
-          "label": "GitHub",
-          "url": "https://github.com/feder-cr/git-ai"
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50165801"
         },
         {
-          "label": "Release",
-          "url": "https://github.com/feder-cr/git-ai/releases/tag/v0.2.0"
+          "label": "Source",
+          "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "0296f0a0a3cb8e5a985080063012f0a6665f8759",
+      "name": "Tsrs: A Port of TypeScript to Rust",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 393.0,
+      "oneLiner": "TypeScript를 Rust로 포팅한 Tsrs 프로젝트에 관한 소개입니다",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 블로그 해석과 후기가 빠르게 붙는 흐름입니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "337p · 159c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50165953"
+        },
+        {
+          "label": "Source",
+          "url": "https://blog.cloudflare.com/typescript-rust-port/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "7390332281141a547a7fa36eb856e2d530c0d779",
+      "name": "Google Cloud outage affects almost all banking and other operations in Europe",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 393.0,
+      "oneLiner": "유럽의 은행 및 기타 운영에 거의 모두 영향을 준 Google Cloud 장애 소식입니다",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "323p · 166c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50163961"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/"
         }
       ],
       "tags": [
-        "agent tooling"
+        "infra"
       ]
     },
     {
-      "id": "ed4168b692c4ffc8abd839989f537d1695cb5d4d",
-      "name": "HeyPuter/everything",
-      "section": "trending",
-      "status": "ONGOING",
-      "score": 101.4,
-      "oneLiner": "세상의 소프트웨어를 처음부터 재구축해 오픈소스로 공개하려는 프로젝트다",
-      "whyNow": "스타 증가와 업데이트 흐름이 동시에 관측되는 상승 구간입니다.",
+      "id": "2f73e544a57a65d0ab304232db53203d7b623632",
+      "name": "Lula supporters protest against Meta to denounce its 'electoral interference'",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 391.8,
+      "oneLiner": "선거 개입을 규탄하기 위해 메타에 항의한 루라 지지자들의 시위 보도입니다",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 회귀/테스트 자동화 관점에서 주목이 이어지고 있습니다.",
       "evidence": [
         {
-          "source": "GitHub",
-          "metric": "stars",
-          "value": "2,370"
-        },
-        {
-          "source": "GitHub",
-          "metric": "forks",
-          "value": "330"
-        },
-        {
-          "source": "GitHub",
-          "metric": "updated",
-          "value": "2026-10-20"
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "289p · 182c"
         }
       ],
       "links": [
         {
-          "label": "GitHub",
-          "url": "https://github.com/HeyPuter/everything"
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50159993"
+        },
+        {
+          "label": "Source",
+          "url": "https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/"
+        }
+      ],
+      "tags": [
+        "testing"
+      ]
+    },
+    {
+      "id": "3eea39f96434505e3be21c923741c9558960f737",
+      "name": "How I got over 300 Tor exit nodes removed",
+      "section": "trending",
+      "status": "NEW",
+      "score": 274.8,
+      "oneLiner": "300개가 넘는 Tor 출구 노드를 제거한 경험담을 정리한 글입니다",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "310p · 74c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50166257"
+        },
+        {
+          "label": "Source",
+          "url": "https://kaba.cx/posts/20261020_Tor/"
         }
       ],
       "tags": []
     },
     {
-      "id": "640cb44b553cc98039f7e4af731d724532ffeac7",
-      "name": "Supermedo/uncharted_pc",
-      "section": "releases",
+      "id": "3738a4ced8a3d82f685f72a826a698f090332e43",
+      "name": "ly05010419/MacNativeGames",
+      "section": "trending",
       "status": "NEW",
-      "score": 84.94,
-      "oneLiner": "Uncharted: The Nathan Drake Collection을 윈도우에서 네이티브로 구동한다는 프로젝트다",
-      "whyNow": "버전 업데이트 이후 재확산이 시작된 흐름입니다.",
+      "score": 120.94,
+      "oneLiner": "오픈 소스 개발 도구/프로젝트입니다.",
+      "whyNow": "커밋/업데이트가 이어져 당분간 추이를 보기에 좋습니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "1,583"
+          "value": "2,816"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "81"
+          "value": "415"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-10-20"
-        },
-        {
-          "source": "GitHub",
-          "metric": "release",
-          "value": "v0.3.6"
+          "value": "2026-10-21"
         }
       ],
       "links": [
         {
           "label": "GitHub",
-          "url": "https://github.com/Supermedo/uncharted_pc"
-        },
-        {
-          "label": "Release",
-          "url": "https://github.com/Supermedo/uncharted_pc/releases/tag/v0.3.6"
+          "url": "https://github.com/ly05010419/MacNativeGames"
         }
       ],
       "tags": []
@@ -621,25 +530,25 @@
       "id": "a6e5dba9d6bda568f9a7df8bd640379805f42495",
       "name": "Leonxlnx/earshot",
       "section": "releases",
-      "status": "NEW",
-      "score": 83.46,
-      "oneLiner": "코딩 에이전트가 소리를 듣고 생성할 수 있게 해주는 CPU 전용 오픈소스 프로젝트다",
-      "whyNow": "릴리즈 직후라 적용/마이그레이션 경험이 모이고 있습니다. 워크플로우 자동화 관점에서 재평가가 진행 중입니다.",
+      "status": "ONGOING",
+      "score": 100.16,
+      "oneLiner": "코딩 에이전트가 소리를 듣고 검토하며 생성하도록 하는 CPU 전용 오픈 소스 프로젝트입니다",
+      "whyNow": "업데이트가 트리거가 되어 레퍼런스가 모이는 구간입니다. 에이전트 활용 흐름과 맞물려 주목이 커지고 있습니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "1,540"
+          "value": "1,948"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "93"
+          "value": "112"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-10-20"
+          "value": "2026-10-21"
         },
         {
           "source": "GitHub",
@@ -660,6 +569,90 @@
       "tags": [
         "agent tooling"
       ]
+    },
+    {
+      "id": "69d398c744569c2e5b2cbdd7ac7f8441bebd2140",
+      "name": "simbasjungles/free-my-tv",
+      "section": "releases",
+      "status": "NEW",
+      "score": 95.34,
+      "oneLiner": "Google TV용 빠르고 광고 없는 홈 화면을 제공하는 오픈 소스 프로젝트입니다",
+      "whyNow": "새 릴리즈 영향으로 관심이 재점화되고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "1,790"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "187"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-21"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v1.0.0"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/simbasjungles/free-my-tv"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/simbasjungles/free-my-tv/releases/tag/v1.0.0"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "640cb44b553cc98039f7e4af731d724532ffeac7",
+      "name": "Supermedo/uncharted_pc",
+      "section": "releases",
+      "status": "ONGOING",
+      "score": 90.66,
+      "oneLiner": "Uncharted The Nathan Drake Collection을 윈도우 네이티브로 구동하는 프로젝트입니다",
+      "whyNow": "최근 릴리즈가 나오며 실사용 공유가 빠르게 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "1,721"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "91"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-21"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v0.3.6"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/Supermedo/uncharted_pc"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/Supermedo/uncharted_pc/releases/tag/v0.3.6"
+        }
+      ],
+      "tags": []
     }
   ]
 }
