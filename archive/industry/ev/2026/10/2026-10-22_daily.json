@@ -1,0 +1,64 @@
+{
+  "date": "2026-10-22",
+  "highlights": {
+    "bullets": [
+      "핵심: 테슬라는 고객 소유 차량의 비감독 FSD 출시를 2027년 2분기로 또 연기했다.",
+      "핵심: 리오틴토는 야윈 알루미나 정제소에 낮 전력으로 열을 저장하는 대형 벽돌 열배터리 도입을 검토한다."
+    ],
+    "topTopics": [
+      "Demand",
+      "Competition",
+      "Roadmap",
+      "Investment"
+    ],
+    "stats": {
+      "collected": 15,
+      "deduped": 15
+    }
+  },
+  "cards": [
+    {
+      "id": "ev_0001",
+      "tab": "ev",
+      "publishedAt": "2026-10-22T07:18:57+09:00",
+      "source": "Electrek",
+      "title": "Tesla pushes unsupervised FSD to Q2 2027, and only inside Robotaxi zones",
+      "summary": [
+        "테슬라는 고객 소유 차량에서의 비감독 FSD 출시 시점을 2027년 2분기로 재차 미뤘습니다.",
+        "해당 비감독 FSD는 고객이 자신의 차량을 테슬라 관리 로보택시 플릿에 편입해 운행하는 방식으로만 허용될 예정입니다.",
+        "이는 FSD 구매자들에게 약속된 ‘어디든지 자율 주행’ 기능과는 다른, 제한된 서비스 모델로 방향이 조정된 것입니다."
+      ],
+      "whyItMatters": "완전 자율주행 약속이 추가로 지연되고 활용 범위도 로보택시 구역·플릿으로 제한되면서 테슬라의 기술·수익 모델 로드맵과 고객 기대치에 중대한 변화를 시사합니다.",
+      "topics": [
+        "Roadmap",
+        "Investment",
+        "Competition",
+        "Policy"
+      ],
+      "status": "SHIFTING",
+      "hash": "59e767115a113c3c3983175ba230a369b015b7302f3cf59f3db3490069b75976",
+      "url": "https://electrek.co/2026/10/21/tesla-unsupervised-fsd-q2-2027-robotaxi-fleet/"
+    },
+    {
+      "id": "ev_0002",
+      "tab": "ev",
+      "publishedAt": "2026-10-22T07:37:53+09:00",
+      "source": "Electrek",
+      "title": "Rio Tinto eyes a giant hot-brick battery to cut fossil fuel use",
+      "summary": [
+        "리오틴토는 야윈(Yarwun) 알루미나 정제소에서 낮에 저렴한 전력을 이용해 뜨거운 벽돌에 열을 저장하는 대형 열 배터리 도입을 검토하고 있다.",
+        "저장된 열은 해가 진 뒤 증기 생산에 사용되어 정제소의 화석연료 사용을 줄이는 것을 목표로 한다.",
+        "이 프로젝트는 산업용 고온 열 저장을 통해 공정 탈탄소화와 전력 계절성 활용 가능성을 시험하는 사례다."
+      ],
+      "whyItMatters": "정제 공정의 화석연료 의존도를 낮추고 낮시간 저비용 전력을 활용해 비용과 탄소배출을 동시에 줄이려는 전략적 시도다.",
+      "topics": [
+        "Manufacturing",
+        "Investment",
+        "Roadmap"
+      ],
+      "status": "NEW",
+      "hash": "81a5de2acaff8b166a905cf38eb74c6366046c9053dbc47de9dd462c35d8fe9f",
+      "url": "https://electrek.co/2026/10/21/rio-tinto-eyes-a-giant-hot-brick-battery-to-cut-fossil-fuel-use/"
+    }
+  ]
+}

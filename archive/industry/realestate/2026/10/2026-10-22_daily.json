@@ -1,0 +1,128 @@
+{
+  "date": "2026-10-22",
+  "highlights": {
+    "bullets": [
+      "핵심: LH가 2030년까지 모듈러주택 1만6000가구 발주를 발표했다.",
+      "핵심: 올해 서울 빌라 전세가 4.7% 상승해 15년 만에 최고 상승률을 기록했다.",
+      "트렌드: 규제와 공급 문제로 주택가격·전세 상승과 건설업계 불안이 맞물려 있다."
+    ],
+    "topTopics": [
+      "Market",
+      "Supply",
+      "Rental",
+      "Construction"
+    ],
+    "stats": {
+      "collected": 14,
+      "deduped": 14
+    }
+  },
+  "cards": [
+    {
+      "id": "realestate_0001",
+      "tab": "realestate",
+      "publishedAt": "2026-10-22T06:30:08+09:00",
+      "source": "한국경제(부동산)",
+      "title": "'동탄 집값' 얼마나 뛰었길래…투기 막겠다던 '규제의 역설' [시장톡]",
+      "summary": [
+        "동탄 지역 집값이 단기간에 크게 상승했다.",
+        "투기를 차단하려던 규제가 오히려 수요 밀집과 시장 왜곡을 초래했다.",
+        "정책 조정과 면밀한 모니터링이 필요하다는 지적이 나온다."
+      ],
+      "whyItMatters": "규제가 풍선효과와 거래 회피 등 의도치 않은 부작용을 일으켜 집값 급등을 촉발했기 때문이다.",
+      "topics": [
+        "Market",
+        "Regulation",
+        "Policy"
+      ],
+      "status": "SHIFTING",
+      "hash": "d1ce6c654e9818fca7870609ade38931a2b23f63a1aeb0dc27ee840d010d7049",
+      "url": "https://www.hankyung.com/article/2026102151696"
+    },
+    {
+      "id": "realestate_0002",
+      "tab": "realestate",
+      "publishedAt": "2026-10-21T17:58:01+09:00",
+      "source": "한국경제(부동산)",
+      "title": "올 서울 빌라 전세 4.7%↑…15년 만에 최고 상승률",
+      "summary": [
+        "올해 서울 빌라 전세가 4.7% 상승해 15년 만에 최고 상승률을 기록했다.",
+        "수요와 공급 불균형, 금리와 매매시장 변동 등이 상승 압력으로 분석된다.",
+        "임차인 부담이 커지고 주거시장 불안이 확대될 우려가 있다."
+      ],
+      "whyItMatters": "세입자 비용 증가와 주거시장 전반의 불안정으로 정책·시장 차원의 대응 필요성이 커졌기 때문입니다.",
+      "topics": [
+        "Market",
+        "Rental",
+        "Supply"
+      ],
+      "status": "ONGOING",
+      "hash": "5d7294ea2592e235eb6926f6327939ff8125854ef58c815a4338d91635cd0e99",
+      "url": "https://www.hankyung.com/article/2026102167951"
+    },
+    {
+      "id": "realestate_0003",
+      "tab": "realestate",
+      "publishedAt": "2026-10-21T16:13:41+09:00",
+      "source": "헤럴드경제(부동산)",
+      "title": "LH, 2030년까지 모듈러 1.6만가구 발주…주택 공급 속도 높인다 [부동산360]",
+      "summary": [
+        "LH는 2030년까지 모듈러주택 1만6000가구를 발주하겠다고 밝혔다.",
+        "모듈러 제조사·가전사·학계와의 간담회를 통해 규모의 경제로 공급 속도와 비용 효율화를 추진한다.",
+        "중장기 발주로 모듈러 주택 시장 확장과 건설 방식 전환을 촉진할 전망이다."
+      ],
+      "whyItMatters": "공공 발주로 생산규모와 공급 물량이 확대되면 주택 공급 속도·비용·시장 구조에 직접적 영향을 주기 때문입니다.",
+      "topics": [
+        "Supply",
+        "Construction",
+        "Market",
+        "Policy"
+      ],
+      "status": "ONGOING",
+      "hash": "076f8960604b5a713ff9b7e10a785985cb013b125810cf8124385dbd4fc4d844",
+      "url": "https://biz.heraldcorp.com/article/10910319"
+    },
+    {
+      "id": "realestate_0004",
+      "tab": "realestate",
+      "publishedAt": "2026-10-21T16:11:27+09:00",
+      "source": "헤럴드경제(부동산)",
+      "title": "종합건설업 폐업 역대 최대…건설협회 “매출 3% 과징금, 135만호 공급 차질 우려” [부동산360]",
+      "summary": [
+        "상반기 종합건설업 폐업신고가 전년 동기 대비 16% 증가해 역대 최대 수준에 이르렀다.",
+        "건설업계는 공사비 부담 등으로 한계기업이 늘어난 가운데 사고 시 매출의 3% 과징금 부과 법안이 현실화되면 영업이 위축될 것으로 우려하고 있다.",
+        "과도한 과징금 도입은 정부의 135만호 주택공급 계획에 차질을 빚을 수 있다고 건설협회가 경고했다."
+      ],
+      "whyItMatters": "폐업 증가와 강한 과징금 규제가 공사수행 능력과 사업 지속성을 약화시켜 대규모 주택공급 계획의 이행을 직접적으로 위협하기 때문입니다.",
+      "topics": [
+        "Construction",
+        "Regulation",
+        "Supply",
+        "Market"
+      ],
+      "status": "ONGOING",
+      "hash": "f61b898058a76db6b55d17e05ca11c0b5fa4eb5008b35a7b25254f5a0db64499",
+      "url": "https://biz.heraldcorp.com/article/10910316"
+    },
+    {
+      "id": "realestate_0005",
+      "tab": "realestate",
+      "publishedAt": "2026-10-22T08:49:21+09:00",
+      "source": "매일경제(부동산)",
+      "title": "압구정동 현대8차 163.67㎡ 67억 4천만원 거래 [MAI부동산]",
+      "summary": [
+        "서울 강남구 압구정동 현대8차 전용 163.67㎡가 67억4천만원에 거래됐다.",
+        "해당 거래는 국토부 실거래가 시스템에 신규 등록된 매매 건이다.",
+        "강남권 고가 아파트의 실거래로 시장 가격 지표에 영향을 줄 수 있다."
+      ],
+      "whyItMatters": "강남 핵심지의 대형 고가 거래는 지역 및 고가 주택 시장 동향을 가늠하는 중요한 기준이기 때문입니다.",
+      "topics": [
+        "Market",
+        "Land"
+      ],
+      "status": "NEW",
+      "hash": "31524c0833fe9faffaab371ace47bced740173bffad4852075f2e4bfcb152721",
+      "url": "https://www.mk.co.kr/news/realestate/12182436"
+    }
+  ]
+}

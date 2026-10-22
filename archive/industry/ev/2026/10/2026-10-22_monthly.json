@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-09-23",
+    "to": "2026-10-22"
+  },
+  "kpis": {
+    "collected": 54,
+    "deduped": 54,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 28,
+      "Competition": 25,
+      "Demand": 21,
+      "Investment": 17,
+      "Policy": 10,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (09/23-09/29)",
+      "topicCounts": {
+        "Roadmap": 11,
+        "Competition": 8,
+        "Demand": 7,
+        "Investment": 6,
+        "Policy": 6
+      }
+    },
+    {
+      "week": "Week 2 (09/30-10/06)",
+      "topicCounts": {
+        "Roadmap": 9,
+        "Competition": 7,
+        "Demand": 7,
+        "Investment": 4,
+        "Policy": 1
+      }
+    },
+    {
+      "week": "Week 3 (10/07-10/13)",
+      "topicCounts": {
+        "Roadmap": 8,
+        "Competition": 9,
+        "Demand": 7,
+        "Investment": 6,
+        "Policy": 2
+      }
+    },
+    {
+      "week": "Week 4 (10/14-10/20)",
+      "topicCounts": {
+        "Roadmap": 9,
+        "Competition": 10,
+        "Demand": 9,
+        "Investment": 3,
+        "Policy": 4
+      }
+    },
+    {
+      "week": "Week 5 (10/21-10/22)",
+      "topicCounts": {
+        "Roadmap": 2,
+        "Competition": 1,
+        "Demand": 0,
+        "Investment": 2,
+        "Policy": 1
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "ev-1",
+      "status": "NEW",
+      "title": "리오틴토, 알루미나 정제소 탈탄소화를 위한 대형 열(벽돌) 배터리 도입 검토",
+      "summary": "리오틴토가 호주 야윈 알루미나 정제소에 대형 고온 벽돌 배터리를 도입하는 방안을 검토 중입니다. 낮 시간대 저렴한 전력을 이용해 벽돌에 열을 저장했다가 야간에 증기 생산에 활용해 가스·석탄 사용을 줄이는 방식으로, 에너지 비용 절감과 정제소 온실가스 감축 모두를 노리는 중장기 설비 전환 이슈입니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Rio Tinto eyes a giant hot-brick battery to cut fossil fuel use",
+          "url": "https://electrek.co/2026/10/21/rio-tinto-eyes-a-giant-hot-brick-battery-to-cut-fossil-fuel-use/"
+        }
+      ]
+    },
+    {
+      "id": "ev-2",
+      "status": "SHIFTING",
+      "title": "테슬라 비감독 FSD 일정 또 연기, 로보택시 전용 모델로 축소",
+      "summary": "테슬라는 고객 소유 차량에서의 비감독 FSD(완전자율주행) 출시를 2027년 2분기로 다시 미루면서, 활용 범위를 테슬라가 관리하는 로보택시 존·플릿 내로 한정하겠다고 밝혔습니다. 개인 차량의 완전 자율주행 상용화 기대감이 약화되고, 로보택시 중심의 규제·비즈니스 전략 재조정 국면으로 해석됩니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla pushes unsupervised FSD to Q2 2027, and only inside Robotaxi zones",
+          "url": "https://electrek.co/2026/10/21/tesla-unsupervised-fsd-q2-2027-robotaxi-fleet/"
+        }
+      ]
+    },
+    {
+      "id": "ev-3",
+      "status": "ONGOING",
+      "title": "테슬라 실적 둔화 우려: 매출 정체·이익 감소 전망",
+      "summary": "테슬라의 2026년 3분기 실적 발표를 앞두고 월가 컨센서스는 매출 성장 정체와 약 10% 수준의 EPS 감소를 예상하고 있습니다. 원가·가격 경쟁, 수요 성장 속도 조정 등으로 수익성이 압박받는 흐름이 이어지고 있어, 향후 투자·생산·신규 사업(자율주행·로보택시 등) 전략에도 영향을 줄 수 있는 국면입니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla (TSLA) Q3 2026 earnings preview: flat revenue, falling profits",
+          "url": "https://electrek.co/2026/10/20/tesla-tsla-q3-2026-earnings-preview/"
+        }
+      ]
+    },
+    {
+      "id": "ev-4",
+      "status": "ONGOING",
+      "title": "리비안, 미국 EV 시장 점유율 2위로 도약하며 빅오토 압박",
+      "summary": "리비안이 미국 전기차 브랜드 점유율 순위에서 불과 1년 만에 10위에서 2위로 급상승해 쉐보레를 제쳤습니다. 프리미엄 픽업·SUV 중심의 포지셔닝과 생산·딜리버리 확대가 맞물리며, 기존 내연기관 중심 완성차 업체들의 EV 전환 속도와 전략 부재가 상대적으로 더 부각되는 국면입니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Rivian now #2 US EV brand, up from #10, as Big Auto marginalizes itself",
+          "url": "https://electrek.co/2026/10/20/rivian-now-2-us-ev-brand-up-from-10-as-big-auto-marginalizes-itself/"
+        }
+      ]
+    },
+    {
+      "id": "ev-5",
+      "status": "NEW",
+      "title": "테슬라–스페이스X 합병 시사하는 주주총회 위임장 공개",
+      "summary": "테슬라 2026년 주주총회 위임장에서 독립 이사였던 아이라 에런프라이스의 스페이스X 이사회 합류, 스페이스X와의 합병을 암시하는 안건 구성, 거래 가격에 연동되는 머스크 보상 구조 등이 확인되었습니다. 이는 양사 지배구조 통합 가능성을 높이며, 테슬라의 밸류에이션 구조와 장기 사업 포트폴리오에 중대한 변곡점이 될 수 있는 이슈입니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla (TSLA) proxy shows a board getting ready for a SpaceX merger",
+          "url": "https://electrek.co/2026/10/19/tesla-tsla-proxy-annual-meeting-spacex-merger/"
+        }
+      ]
+    }
+  ]
+}

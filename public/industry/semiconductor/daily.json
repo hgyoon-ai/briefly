@@ -1,105 +1,129 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "highlights": {
     "bullets": [
-      "핵심: Innovasea가 소형 고수명 전자장치를 어류 태그에 통합했다.",
-      "핵심: 크리스 래트너는 AI 코드 생성이 소프트웨어 공학 문제를 해결하지 못한다고 주장했다.",
-      "트렌드: 기술 발표와 설계 전략이 산업 로드맵과 경쟁 영향에 초점을 맞추고 있다."
+      "핵심: AI·데이터센터 수요로 메모리가 반도체 생태계의 중심으로 이동하고 있다.",
+      "핵심: 엣지용 MCU가 멀티모달 가속기와 확장 가능한 계층형 메모리를 채택했다.",
+      "트렌드: 계층형·다층화된 시스템 설계와 메모리 계층 도입이 확대되고 있다."
     ],
     "topTopics": [
       "Roadmap",
       "Competition",
-      "Manufacturing",
-      "Demand"
+      "Demand",
+      "Manufacturing"
     ],
     "stats": {
-      "collected": 6,
-      "deduped": 6
+      "collected": 10,
+      "deduped": 10
     }
   },
   "cards": [
     {
       "id": "semiconductor_0001",
       "tab": "semiconductor",
-      "publishedAt": "2026-10-21T07:06:10+09:00",
-      "source": "EE Times",
-      "title": "Innovasea Packs Long-Life Electronics into Fish Tags",
+      "publishedAt": "2026-10-21T09:30:50+09:00",
+      "source": "SK hynix Newsroom",
+      "title": "[AI Ecosystem] The semiconductor paradigm shifts toward memory",
       "summary": [
-        "캐나다 동해안의 Innovasea가 소형 고수명 전자장치를 어류 태그에 통합했다.",
-        "배터리·센서·동물복지를 하나의 시스템 문제로 다뤄 십년 단위 배치를 목표로 설계했다.",
-        "이로써 어쿠스틱 텔레메트리의 장기 모니터링 가능성과 데이터 품질이 향상된다."
+        "메모리가 반도체 생태계의 중심으로 이동하고 있다.",
+        "AI·데이터센터 수요가 고성능 메모리와 대용량 저장의 필요성을 촉발한다.",
+        "제품 설계·공정·투자 전략이 메모리 중심으로 재편되고 있다."
       ],
-      "whyItMatters": "장기 배치가 가능해지면 생태계 연구·어업 관리의 데이터 기반 의사결정과 비용 효율성이 크게 개선되어 산업·정책적 파급력이 크다.",
+      "whyItMatters": "AI 워크로드와 데이터 집약적 서비스가 메모리 성능·용량을 핵심 제약으로 만들고 있기 때문이다.",
       "topics": [
+        "Demand",
         "Manufacturing",
         "Roadmap",
         "Competition"
       ],
-      "status": "ONGOING",
-      "hash": "cd9adb03f2b3b5baf865f89cf6cf32fc09313ed05e4c81da903981f93aff7576",
-      "url": "https://www.eetimes.com/innovasea-packs-long-life-electronics-into-fish-tags/"
+      "status": "SHIFTING",
+      "hash": "0fd1234c34bb751516b34ad4c8bc0c620004d5f081f5400a1ecb8295515ab613",
+      "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep4-2/"
     },
     {
       "id": "semiconductor_0002",
       "tab": "semiconductor",
-      "publishedAt": "2026-10-20T20:00:00+09:00",
-      "source": "EE Times",
-      "title": "Chris Lattner: AI Code Generation Doesn’t Solve Software Engineering",
+      "publishedAt": "2026-10-21T09:28:36+09:00",
+      "source": "SK hynix Newsroom",
+      "title": "[AI Ecosystem] The semiconductor paradigm shifts toward memory",
       "summary": [
-        "크리스 래트너는 AI 코드 생성이 저수준 코드를 잘 만들어도 소프트웨어 공학 문제를 해결하지 못한다고 주장합니다.",
-        "코드 생성 도구가 소프트웨어 생태계의 설계·구축·유지보수를 더 어렵게 만들고 있다고 경고합니다.",
-        "따라서 아키텍처·도구·프로세스 개선 등 장기적 해법이 필요하다고 강조합니다."
+        "AI 중심 컴퓨팅의 확대는 메모리의 용량·대역·지연 요구를 급증시켜 메모리가 반도체 생태계의 중심으로 이동하고 있다.",
+        "고대역폭 메모리(HBM), CXL 기반 계층형 메모리, PIM 등 메모리-집적 및 컴퓨트 연계 기술에 대한 투자와 로드맵이 부상하고 있다.",
+        "이 전환은 생산능력 확충·공정 혁신·공급망 확보 경쟁을 촉발해 기업별 제조역량과 전략적 투자가 결과를 좌우할 것이다."
       ],
-      "whyItMatters": "즉각적인 코드 생산이 가능해도 품질·유지보수·생태계 관점의 근본적 문제를 해결하지 못해 산업 로드맵과 경쟁 전략에 영향을 미치기 때문입니다.",
+      "whyItMatters": "AI 워크로드의 데이터 이동 병목을 완화하고 성능을 끌어올리기 위해 메모리가 핵심 자원으로 부각되었기 때문이다.",
       "topics": [
+        "Demand",
+        "Manufacturing",
         "Roadmap",
         "Competition"
       ],
-      "status": "ONGOING",
-      "hash": "91461fe0cd2222a7e832966798ccdf3a4e8e3b05e15e547df1ffbdfe2b779210",
-      "url": "https://www.eetimes.com/chris-lattner-ai-code-generation-doesnt-solve-software-engineering/"
+      "status": "SHIFTING",
+      "hash": "da9aa6be97d1d6d6e6136aca87bf78b0b1611c953b7e9fc66504a8bbc6555202",
+      "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep4-1/"
     },
     {
       "id": "semiconductor_0003",
       "tab": "semiconductor",
-      "publishedAt": "2026-10-20T17:00:31+09:00",
-      "source": "Samsung Newsroom",
-      "title": "Tailored for Every Home: Samsung “The Brief” Goes Global With AI-Powered Home Appliances",
+      "publishedAt": "2026-10-22T04:00:00+09:00",
+      "source": "EE Times",
+      "title": "When GPS Isn’t Enough: Building a Second Layer of Positioning",
       "summary": [
-        "삼성전자는 미국·유럽·라틴아메리카·남서아시아·동남아시아 등 5개 지역에서 가전 기술 세미나 'The Brief'를 개최했다.",
-        "행사는 각 지역의 생활 환경과 소비자 요구에 맞춘 AI 기반 가전 경험을 선보였다.",
-        "삼성은 AI 가전 기술의 적용 사례와 지역 맞춤화 전략을 강조했다."
+        "GPS 재밍 사례가 증가하며 기존 GNSS 의존도의 약점이 드러나고 있다.",
+        "4G·5G 및 NTN(비지상망) 기반 측위가 GNSS 실패 시 신뢰할 수 있는 보조 계층으로 제시된다.",
+        "특히 임무 중요 기기는 통신망 기반의 이중·다중 위치확보 체계를 갖춰야 한다."
       ],
-      "whyItMatters": "글로벌·지역 맞춤형 AI 가전 전략을 공개함으로써 제품 차별화와 시장 확대를 가속화할 수 있다는 점에서 중요하다.",
+      "whyItMatters": "위치 신뢰성은 안전·운영 연속성에 직접 영향을 미치므로 통신망 기반 측위 도입은 시급하고 실무적 중요성이 크다.",
       "topics": [
         "Demand",
-        "Competition",
+        "Policy",
         "Roadmap"
       ],
       "status": "ONGOING",
-      "hash": "71d5526ba5047825d88806c274afb2338b88e0b2bd1e0a8c1537c945a9ed9ddf",
-      "url": "https://news.samsung.com/global/tailored-for-every-home-samsung-the-brief-goes-global-with-ai-powered-home-appliances"
+      "hash": "960fa212f5d038ba53369a728c841b27e133f9f7ff93c40517d45dfcb8b5563c",
+      "url": "https://www.eetimes.com/when-gps-isnt-enough-building-a-second-layer-of-positioning/"
     },
     {
       "id": "semiconductor_0004",
       "tab": "semiconductor",
-      "publishedAt": "2026-10-20T17:00:00+09:00",
-      "source": "Samsung Newsroom",
-      "title": "Samsung Art Store Unveils Curated Collection From Art Basel Paris 2026",
+      "publishedAt": "2026-10-21T16:30:00+09:00",
+      "source": "EE Times",
+      "title": "Edge AI MCU Features Multimodal Compute, Tiered Memory",
       "summary": [
-        "삼성전자가 Samsung Art Store에 Art Basel Paris 2026 참여 갤러리의 작품 19점을 추가했습니다.",
-        "해당 컬렉션은 오늘부터 전 세계의 모든 삼성 Art TV에서 이용 가능하다고 발표했습니다.",
-        "공식 Art TV 파트너십을 통해 삼성의 글로벌 아트 콘텐츠 제공을 확대하는 조치입니다."
+        "새로운 MCU는 AI 네이티브 가속기를 탑재해 멀티모달 연산을 지원합니다.",
+        "고대역폭 DRAM을 통합해 수백 메가바이트 규모로 확장 가능한 계층형 메모리를 제공합니다.",
+        "이는 엣지 디바이스에서 대용량 모델과 실시간 처리의 성능과 전력 효율을 개선합니다."
       ],
-      "whyItMatters": "이번 확장은 삼성의 TV 콘텐츠 차별화와 브랜드 경쟁력 강화를 통해 소비자 경험을 높이기 때문입니다.",
+      "whyItMatters": "온디바이스 멀티모달 AI 연산과 메모리 병목 해소로 엣지 성능과 응답성이 크게 향상되기 때문입니다.",
       "topics": [
         "Roadmap",
         "Competition",
+        "Manufacturing"
+      ],
+      "status": "NEW",
+      "hash": "717f20d691bd0cb562261667e85f93ee4d7c05ac4b1f74fc5e06d63dd657eb19",
+      "url": "https://www.eetimes.com/edge-ai-mcu-features-multimodal-compute-tiered-memory/"
+    },
+    {
+      "id": "semiconductor_0005",
+      "tab": "semiconductor",
+      "publishedAt": "2026-10-21T17:00:00+09:00",
+      "source": "Samsung Newsroom",
+      "title": "[Infographic] 80 Years of JBL: From Studios and Stages to Everyday Life",
+      "summary": [
+        "JBL이 2026년 창립 80주년을 맞아 스튜디오와 무대 중심의 프로 오디오에서 일상용 소비자 제품으로 확장한 역사를 정리했다.",
+        "HARMAN과 삼성 자회사로서의 기술·파트너십을 바탕으로 제품군과 청취 방식 변화에 적응해왔다.",
+        "인포그래픽은 브랜드 지속성, 제품 다양화와 향후 로드맵의 시사점을 간결하게 보여준다."
+      ],
+      "whyItMatters": "브랜드의 역사와 전환은 경쟁력, 제품 로드맵 및 소비자 수요 변화에 대한 전략적 인사이트를 제공하기 때문에 중요하다.",
+      "topics": [
+        "Competition",
+        "Roadmap",
         "Demand"
       ],
       "status": "ONGOING",
-      "hash": "dd31f90e0b4962b65fb3adb678d14777b86c02372256b1b2107f0c98b9a8cc96",
-      "url": "https://news.samsung.com/global/samsung-art-store-unveils-curated-collection-from-art-basel-paris-2026"
+      "hash": "0639ed593f83ba139df393a668bb0c1521f62be6d034ce6f6c508c5a007466e9",
+      "url": "https://news.samsung.com/global/infographic-80-years-of-jbl-from-studios-and-stages-to-everyday-life"
     }
   ]
 }

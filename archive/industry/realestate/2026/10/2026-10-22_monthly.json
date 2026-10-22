@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-09-23",
+    "to": "2026-10-22"
+  },
+  "kpis": {
+    "collected": 119,
+    "deduped": 119,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "Market": 30,
+      "Supply": 25,
+      "Policy": 19,
+      "Rental": 13,
+      "Construction": 13,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (09/23-09/29)",
+      "topicCounts": {
+        "Market": 20,
+        "Supply": 18,
+        "Policy": 9,
+        "Rental": 14,
+        "Construction": 6
+      }
+    },
+    {
+      "week": "Week 2 (09/30-10/06)",
+      "topicCounts": {
+        "Market": 17,
+        "Supply": 12,
+        "Policy": 9,
+        "Rental": 1,
+        "Construction": 8
+      }
+    },
+    {
+      "week": "Week 3 (10/07-10/13)",
+      "topicCounts": {
+        "Market": 14,
+        "Supply": 10,
+        "Policy": 8,
+        "Rental": 6,
+        "Construction": 4
+      }
+    },
+    {
+      "week": "Week 4 (10/14-10/20)",
+      "topicCounts": {
+        "Market": 16,
+        "Supply": 16,
+        "Policy": 16,
+        "Rental": 8,
+        "Construction": 10
+      }
+    },
+    {
+      "week": "Week 5 (10/21-10/22)",
+      "topicCounts": {
+        "Market": 5,
+        "Supply": 3,
+        "Policy": 2,
+        "Rental": 1,
+        "Construction": 2
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "서울 전세 품귀로 월세 비중 급증, 임대시장 구조 전환 가속",
+      "summary": "서울 아파트 전세 매물이 크게 줄어들면서 월세 계약 비중이 절반을 넘어섰다. 전세 중심이던 임대시장이 월세 중심으로 빠르게 재편되고 있어 향후 세입자의 주거비 부담, 임대인 수익 구조, 전·월세 가격 결정 방식이 전반적으로 바뀔 가능성이 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "서울 아파트 '전세 품귀'에 월세 비중 절반 넘어섰다",
+          "url": "https://www.hankyung.com/article/2026102039541"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "임대 관리비 신고 의무화로 월세 편법 인상 차단 나선 정부",
+      "summary": "정부가 관리비를 포함한 임대료 구조를 투명하게 만들기 위해 임대 관리비 신고를 의무화했다. 집주인이 월세를 낮게 신고하면서 관리비에 사실상의 임대료를 숨겨 올려받는 관행을 막고, 임차인의 실질 주거비를 제도권에서 관리·감독하겠다는 취지다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "임대 관리비 신고 의무화…정부, 월세 편법 인상 차단",
+          "url": "https://www.hankyung.com/article/2026102039561"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "세종시 공무원 이전·입주 공백으로 전세·매매 수급 불균형 심화",
+      "summary": "중앙행정기관 44곳의 세종시 이전 발표로 수요는 늘어났지만 내년 입주 물량이 ‘0’으로 확인되며 공급 공백이 발생했다. 전세와 매매 모두 물건 부족이 심화되며 집값과 전세가격이 동반 상승 조짐을 보이는 등 행정수도 기능 강화 정책이 주택 시장 불안을 자극하는 양상이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "공무원 1만명 내려가라더니 입주물량 0…세종시 집값 벌써부터 ‘들썩’",
+          "url": "https://www.mk.co.kr/news/realestate/12180093"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "지방 공공택지 5만 가구 공급 중단, 지역 주택공급 계획 차질",
+      "summary": "지방 공공택지에서 예정됐던 약 5만 가구 신규 주택 공급이 올스톱되면서 지역별 공급 계획에 큰 구멍이 생겼다. 택지 개발 중단으로 분양 일정이 지연되고, 중장기 공급 부족 우려가 커져 지방 집값의 양극화와 시장 불안정성이 확대될 가능성이 제기된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "지방 공공택지의 '눈물'…5만 가구 공급 올스톱",
+          "url": "https://www.hankyung.com/article/2026101394721"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "종합건설업 폐업 급증과 과징금 규제 논의, 대규모 공급 차질 우려",
+      "summary": "상반기 종합건설업 폐업 신고 건수가 전년 대비 16% 늘며 역대 최대치를 기록했다. 공사비 상승과 자금난으로 한계업체가 늘어나는 가운데, 사고 발생 시 매출의 3%를 과징금으로 부과하는 법안까지 추진되면서 건설사의 영업 위축과 정부의 135만 호 공급 계획 차질 가능성이 동시에 제기되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "종합건설업 폐업 역대 최대…건설협회 “매출 3% 과징금, 135만호 공급 차질 우려” [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10910316"
+        }
+      ]
+    }
+  ]
+}

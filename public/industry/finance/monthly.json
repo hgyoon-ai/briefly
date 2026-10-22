@@ -1,79 +1,103 @@
 {
   "range": {
-    "from": "2026-09-22",
-    "to": "2026-10-21"
+    "from": "2026-09-23",
+    "to": "2026-10-22"
   },
   "kpis": {
     "collected": 54,
     "deduped": 54,
     "uniqueTopics": 9,
     "marketShare": {
-      "MarketInfra": 39,
-      "Policy": 25,
-      "Regulation": 13,
-      "Compliance": 11,
+      "MarketInfra": 38,
+      "Policy": 26,
+      "Regulation": 14,
       "Fintech": 11,
-      "Other": 1
+      "Compliance": 11,
+      "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (09/22-09/28)",
+      "week": "Week 1 (09/23-09/29)",
       "topicCounts": {
-        "MarketInfra": 9,
+        "MarketInfra": 8,
         "Policy": 5,
         "Regulation": 3,
-        "Compliance": 5,
-        "Fintech": 6
+        "Fintech": 6,
+        "Compliance": 4
       }
     },
     {
-      "week": "Week 2 (09/29-10/05)",
+      "week": "Week 2 (09/30-10/06)",
       "topicCounts": {
-        "MarketInfra": 10,
+        "MarketInfra": 8,
         "Policy": 5,
-        "Regulation": 3,
-        "Compliance": 2,
-        "Fintech": 3
+        "Regulation": 2,
+        "Fintech": 2,
+        "Compliance": 2
       }
     },
     {
-      "week": "Week 3 (10/06-10/12)",
+      "week": "Week 3 (10/07-10/13)",
       "topicCounts": {
         "MarketInfra": 9,
         "Policy": 7,
         "Regulation": 2,
-        "Compliance": 2,
-        "Fintech": 3
+        "Fintech": 3,
+        "Compliance": 2
       }
     },
     {
-      "week": "Week 4 (10/13-10/19)",
+      "week": "Week 4 (10/14-10/20)",
       "topicCounts": {
-        "MarketInfra": 14,
-        "Policy": 10,
-        "Regulation": 6,
-        "Compliance": 4,
-        "Fintech": 1
+        "MarketInfra": 10,
+        "Policy": 7,
+        "Regulation": 5,
+        "Fintech": 0,
+        "Compliance": 3
       }
     },
     {
-      "week": "Week 5 (10/20-10/21)",
+      "week": "Week 5 (10/21-10/22)",
       "topicCounts": {
-        "MarketInfra": 4,
-        "Policy": 3,
+        "MarketInfra": 1,
+        "Policy": 1,
         "Regulation": 2,
-        "Compliance": 1,
-        "Fintech": 0
+        "Fintech": 1,
+        "Compliance": 1
       }
     }
   ],
   "topIssues": [
     {
-      "id": "issue-1",
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "스테이블코인·AI 등 신기술 금융규제 재편 움직임",
+      "summary": "미 재무장관 발언과 함께 스테이블코인 활성화 조치, 방산 분야 AI ‘속도조절론’, 에이전틱 AI 확산 등으로 신기술 금융·자본시장 규제 프레임이 재정비되는 흐름이 뚜렷해지고 있다.",
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "링컨까지 소환한 베센트... 앤트로픽 상장, 다음달 확정인가",
+          "url": "https://www.mk.co.kr/news/business/12182433"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "록히드마틴도 AI 하청으로 … ‘속도조절론’ 중심에 선 AI 방산 미래는[맥킨지·매경 산업분석]",
+          "url": "https://www.mk.co.kr/news/business/12172374"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "‘검색’에서 ‘위임’으로 ... AI가 마지막 클릭을 가져가는 시대가 온다",
+          "url": "https://www.mk.co.kr/news/stock/12168056"
+        }
+      ]
+    },
+    {
+      "id": 2,
       "status": "ONGOING",
-      "title": "코스피·코스닥 급락과 정부 증시대책 논의",
-      "summary": "코스피와 코스닥이 동반 급락하며 개인투자자 불안이 커진 가운데, 전문가들은 반등 조건으로 외국인·기관 매수세 회복, 기업 실적 개선과 밸류에이션 정상화, 정책·금리 안정 등을 제시하고 있다. 동시에 대통령이 증시 대책 필요성을 언급하면서 정부의 정책 대응 방향, 대규모 매수·공매도 규제·세제 조정 등 가능성이 시장의 핵심 관심사로 부상했다.",
+      "title": "한국 증시 급락과 정책·금리 안정 요구 고조",
+      "summary": "코스피·코스닥 급락으로 개인투자자 불안이 확대되면서, 시장은 이재명 대통령이 예고한 증시 대책과 함께 외국인·기관 수급 회복, 금리·정책 안정 등 반등 조건에 주목하고 있다.",
       "articleCount": 2,
       "relatedArticles": [
         {
@@ -89,26 +113,17 @@
       ]
     },
     {
-      "id": "issue-2",
+      "id": 3,
       "status": "ONGOING",
-      "title": "부실기업 상장폐지 급증과 시장 건전성 이슈",
-      "summary": "올해 들어 9월까지 부실기업 상장폐지 건수가 36곳으로 전년 대비 두 배 수준으로 늘어나며 코스피·코스닥 시장의 구조조정이 가속화되고 있다. 이는 투자자 보호와 시장 신뢰 제고라는 긍정적 측면과 함께, 중소형주 유동성 위축과 상장 유지 기준 강화에 대한 부담이라는 이중 효과를 낳고 있어, 향후 상장·심사제도 개편과 투자심리에 미치는 영향이 주요 이슈로 부각된다.",
-      "articleCount": 1,
+      "title": "자본시장 불공정거래·불법투자 제재 실효성 논란",
+      "summary": "주가조작 사건의 낮은 추징 비율과 증권사 임직원 불법 주식거래에 대한 미흡한 제재 수준이 드러나면서, 자본시장 교란 행위에 대한 처벌·추징 강화 요구가 커지고 있다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
-          "title": "부실기업 증시퇴출, 작년보다 두배 급증",
-          "url": "https://www.mk.co.kr/news/stock/12168228"
-        }
-      ]
-    },
-    {
-      "id": "issue-3",
-      "status": "ONGOING",
-      "title": "증권사 임직원 불법 주식거래와 금융규율 강화 논쟁",
-      "summary": "최근 5년간 10대 증권사 임직원 97명이 주식매매규정 위반으로 제재를 받는 등 내부자 거래·자기매매 규정 위반이 반복되면서, 증권사 내부통제 실효성과 과태료 수준이 도마에 올랐다. 위반 거래 규모는 약 88억 원에 달하지만 제재 수위가 법정 상한에 못 미친 사례가 많아, 자본시장 공정성 회복을 위한 제재 강화와 내부통제 기준 재정비 요구가 커지고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
+          "title": "[단독] 주가조작, 패가망신 맞나요?…3건 중 2건은 추징금 ‘0원’",
+          "url": "https://www.mk.co.kr/news/society/12181989"
+        },
         {
           "source": "매일경제(증권)",
           "title": "“불법 투자로 돈 벌다가, 퇴사하면 그만?”…증권가 주식투자의 민낯",
@@ -117,30 +132,16 @@
       ]
     },
     {
-      "id": "issue-4",
+      "id": 4,
       "status": "ONGOING",
-      "title": "자영업자 부채 급증과 소상공인 연쇄도산 위험",
-      "summary": "고금리와 경기 둔화가 겹치며 자영업자 부채가 급증하고, 식당·학원 등 소상공인 업종에서 공실 증가와 폐업, 임대 문의가 잇따르고 있다. 이는 상가 부동산 시장과 금융권 대출 건전성, 내수 경기 위축으로 이어질 수 있어, 정부의 채무조정·금리부담 완화·재기지원 프로그램 등 정책 대응 필요성이 금융시장 주요 리스크로 부각되고 있다.",
+      "title": "부실기업 상장폐지 급증과 상장관리 강화 이슈",
+      "summary": "올해 9월까지 부실기업 상장폐지 건수가 전년의 두 배 수준으로 늘면서, 상장적격성 심사와 퇴출 기준을 포함한 상장기업 관리·감독 강화 필요성이 다시 부각되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
-          "title": "자영업자 덮친 ‘빚 쓰나미’ 식당·학원 줄도산 공포",
-          "url": "https://www.mk.co.kr/news/stock/12180277"
-        }
-      ]
-    },
-    {
-      "id": "issue-5",
-      "status": "SHIFTING",
-      "title": "AI 에이전틱 전환이 가져오는 섹터 자금 재편",
-      "summary": "검색 중심에서 이용자 위임형 에이전틱 AI로 패러다임이 바뀌면서, 반도체·AI 인프라 관련주는 수혜를 입는 반면 은행·보험·여행 등 일부 전통 업종에는 밸류에이션 재조정 압력이 커지고 있다. 메타 등 빅테크의 신규 기능 공개를 계기로 글로벌 자금이 AI 관련 섹터로 빠르게 재배치되며, 국내 증시에서도 성장주·테크 중심의 스타일 회귀 가능성이 논의되고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "매일경제(증권)",
-          "title": "‘검색’에서 ‘위임’으로 ... AI가 마지막 클릭을 가져가는 시대가 온다",
-          "url": "https://www.mk.co.kr/news/stock/12168056"
+          "title": "부실기업 증시퇴출, 작년보다 두배 급증",
+          "url": "https://www.mk.co.kr/news/stock/12168228"
         }
       ]
     }

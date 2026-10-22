@@ -1,0 +1,276 @@
+{
+  "range": {
+    "from": "2026-10-16",
+    "to": "2026-10-22"
+  },
+  "kpis": {
+    "collected": 14,
+    "deduped": 14,
+    "uniqueTopics": 6
+  },
+  "topTopics": [
+    {
+      "name": "Roadmap",
+      "count": 12
+    },
+    {
+      "name": "Competition",
+      "count": 11
+    },
+    {
+      "name": "Demand",
+      "count": 9
+    },
+    {
+      "name": "Manufacturing",
+      "count": 8
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 5
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 4
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Demand",
+      "count": 3
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 5
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 5
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Demand",
+      "count": 3
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Manufacturing",
+      "count": 4
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Manufacturing",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "AI 확산으로 메모리가 반도체 패러다임의 중심으로 이동",
+      "summary": "AI·데이터센터·고성능 컴퓨팅 수요 폭증으로 메모리의 용량·대역폭·지연 특성이 시스템 성능을 좌우하는 핵심 요소로 부상했다. HBM, CXL 기반 계층형 메모리, PIM 등 메모리 중심 구조에 대한 투자와 로드맵이 강화되며 반도체 생태계 주도권이 메모리로 이동하는 구조적 변화가 진행 중이다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "SK hynix Newsroom",
+          "title": "[AI Ecosystem] The semiconductor paradigm shifts toward memory",
+          "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep4-2/"
+        },
+        {
+          "source": "SK hynix Newsroom",
+          "title": "[AI Ecosystem] The semiconductor paradigm shifts toward memory",
+          "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep4-1/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "멀티모달 연산과 계층형 메모리를 갖춘 엣지 AI MCU 등장",
+      "summary": "AI 전용 가속기를 내장한 신규 MCU가 멀티모달 AI 연산을 지원하고, 통합 고대역폭 DRAM 기반의 확장 가능한 계층형 메모리를 제공한다. 이는 엣지 디바이스에서 대용량·고대역폭 메모리 요구를 충족해 주며, 메모리 중심 AI 컴퓨팅 트렌드가 MCU 레벨까지 확산되고 있음을 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Edge AI MCU Features Multimodal Compute, Tiered Memory",
+          "url": "https://www.eetimes.com/edge-ai-mcu-features-multimodal-compute-tiered-memory/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "Applied Materials, EPIC 센터에 50억 달러 투자로 반도체 제조 혁신 가속",
+      "summary": "Applied Materials가 차세대 반도체 장비·공정 혁신을 위한 EPIC 센터에 50억 달러 규모 투자를 집행하며 제조 경쟁력 강화를 노린다. CEO는 인터뷰에서 이 투자가 공정 미세화, 생산성 제고, 고객 맞춤 공정 개발을 통한 중장기 수익성 개선에 기여할 것이라고 설명했다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Video Interview: Applied Materials CEO on the Economics Behind Its $5B EPIC Bet",
+          "url": "https://www.eetimes.com/video-interview-applied-materials-ceo-on-the-economics-behind-its-5b-epic-bet/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "GNSS 취약성 부각 속 4G·5G·NTN 기반 보조 측위 기술 부상",
+      "summary": "GPS 재밍과 스푸핑 증가로 GNSS 의존 설계의 리스크가 커지면서 통신망 기반 측위가 반도체·시스템 로드맵의 주요 이슈로 떠오르고 있다. 4G·5G 기지국, 비지상망(NTN) 위성 네트워크를 활용한 하이브리드 측위 솔루션이 차량·인프라·산업용 디바이스용 ‘2차 안전망’으로 검토되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "When GPS Isn’t Enough: Building a Second Layer of Positioning",
+          "url": "https://www.eetimes.com/when-gps-isnt-enough-building-a-second-layer-of-positioning/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "초고수명 전자태그로 확장되는 특수 환경용 반도체 수요",
+      "summary": "수년~수십 년 수명을 요구하는 어류 추적 태그에 소형 전자장치가 통합되며, 배터리 효율·센서 신뢰성·내환경성을 동시에 만족하는 특수 반도체 설계 수요가 커지고 있다. 이는 해양·환경 모니터링 등 니치 산업에서 장기 동작·저전력·고신뢰성을 특징으로 하는 새 부품 시장을 형성 중이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Innovasea Packs Long-Life Electronics into Fish Tags",
+          "url": "https://www.eetimes.com/innovasea-packs-long-life-electronics-into-fish-tags/"
+        }
+      ]
+    }
+  ]
+}

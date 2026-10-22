@@ -1,0 +1,272 @@
+{
+  "range": {
+    "from": "2026-10-16",
+    "to": "2026-10-22"
+  },
+  "kpis": {
+    "collected": 12,
+    "deduped": 12,
+    "uniqueTopics": 7
+  },
+  "topTopics": [
+    {
+      "name": "MarketInfra",
+      "count": 11
+    },
+    {
+      "name": "Policy",
+      "count": 8
+    },
+    {
+      "name": "Regulation",
+      "count": 8
+    },
+    {
+      "name": "Compliance",
+      "count": 5
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Regulation",
+      "count": 1
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": "Fri",
+      "topic": "Compliance",
+      "count": 1
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": "Sat",
+      "topic": "Compliance",
+      "count": 1
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Regulation",
+      "count": 1
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Regulation",
+      "count": 2
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Compliance",
+      "count": 1
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "MarketInfra",
+      "count": 3
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Regulation",
+      "count": 2
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Compliance",
+      "count": 1
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Regulation",
+      "count": 1
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Compliance",
+      "count": 1
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Regulation",
+      "count": 1
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Compliance",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "미 재무장관 발언과 앤트로픽 상장 기대가 상징하는 스테이블코인·가상자산 정책 전환",
+      "summary": "미 재무장관 스콧 베센트가 링컨까지 언급하며 스테이블코인 활성화 기조를 강조하고, 앤트로픽 상장 기대가 커지면서 가상자산·핀테크 규제 중심에서 육성·활용 중심으로 기조가 이동하는 흐름이 나타나고 있다. 금융·자본시장에 디지털 자산 편입 속도가 빨라질지에 대한 중기적 관전 포인트다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "링컨까지 소환한 베센트... 앤트로픽 상장, 다음달 확정인가",
+          "url": "https://www.mk.co.kr/news/business/12182433"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "주가조작·불공정거래 제재 실효성 논란과 자본시장 법집행 개편 압력",
+      "summary": "최근 5년간 주가조작 관련 범죄수익 1.5조원 중 18%만 추징되고 3건 중 2건은 추징금이 0원에 그친 것으로 드러난 데다, 대형 증권사 임직원의 내부 규정 위반과 낮은 과태료 수준이 드러나며 자본시장 범죄·불공정거래에 대한 형사·행정 제재를 전반적으로 강화해야 한다는 요구가 커지고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[단독] 주가조작, 패가망신 맞나요?…3건 중 2건은 추징금 ‘0원’",
+          "url": "https://www.mk.co.kr/news/society/12181989"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "“불법 투자로 돈 벌다가, 퇴사하면 그만?”…증권가 주식투자의 민낯",
+          "url": "https://www.mk.co.kr/news/economy/12180261"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "코스피·코스닥 급락과 증시 패닉, 정책 대응 기대가 교차하는 국내 증시 위기",
+      "summary": "10월 들어 코스피가 20% 가까이 급락하고 하루 7%대 폭락까지 기록하는 등 변동성이 극단적으로 확대되며 개인투자자 불안이 증폭되고 있다. 강제청산(반대매매) 확대 우려 속에서 대통령의 증시 대책 언급과 전문가들의 반등 조건(외국인·기관 수급 회복, 실적 개선, 금리·정책 안정)이 맞물리며, 정책 대응의 강도와 시기가 향후 시장 흐름을 좌우할 전망이다.",
+      "articleCount": 5,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“코스피, 심폐소생 가능합니까?”…전문가 3인이 꼽은 반등 조건 [증시 긴급진단]",
+          "url": "https://www.mk.co.kr/news/stock/12181353"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "급락한 주가...이재명 대통령이 언급한 ‘증시 대책’에 쏠리는 시장 관심",
+          "url": "https://www.mk.co.kr/news/stock/12180892"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "“강제청산, 본게임 시작도 안했습니다”…15일 폭락분 후폭풍 우려",
+          "url": "https://www.mk.co.kr/news/stock/12179145"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "고금리·부채 누적으로 인한 자영업자 부도 위험과 금융·재정 지원 논의",
+      "summary": "자영업자들의 부채가 빠르게 불어나면서 식당·학원 등 소상공인 상가 공실과 임대 문의가 늘고 줄도산 우려가 커지고 있다. 고금리 장기화와 내수 부진 속에서 금융권 대출 구조조정, 이자 부담 경감, 정책금융·세제 지원 등 복합적인 구조개선 대책 필요성이 부각되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "자영업자 덮친 ‘빚 쓰나미’ 식당·학원 줄도산 공포",
+          "url": "https://www.mk.co.kr/news/stock/12180277"
+        }
+      ]
+    }
+  ]
+}

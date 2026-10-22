@@ -1,0 +1,129 @@
+{
+  "date": "2026-10-22",
+  "highlights": {
+    "bullets": [
+      "핵심: AI·데이터센터 수요로 메모리가 반도체 생태계의 중심으로 이동하고 있다.",
+      "핵심: 엣지용 MCU가 멀티모달 가속기와 확장 가능한 계층형 메모리를 채택했다.",
+      "트렌드: 계층형·다층화된 시스템 설계와 메모리 계층 도입이 확대되고 있다."
+    ],
+    "topTopics": [
+      "Roadmap",
+      "Competition",
+      "Demand",
+      "Manufacturing"
+    ],
+    "stats": {
+      "collected": 10,
+      "deduped": 10
+    }
+  },
+  "cards": [
+    {
+      "id": "semiconductor_0001",
+      "tab": "semiconductor",
+      "publishedAt": "2026-10-21T09:30:50+09:00",
+      "source": "SK hynix Newsroom",
+      "title": "[AI Ecosystem] The semiconductor paradigm shifts toward memory",
+      "summary": [
+        "메모리가 반도체 생태계의 중심으로 이동하고 있다.",
+        "AI·데이터센터 수요가 고성능 메모리와 대용량 저장의 필요성을 촉발한다.",
+        "제품 설계·공정·투자 전략이 메모리 중심으로 재편되고 있다."
+      ],
+      "whyItMatters": "AI 워크로드와 데이터 집약적 서비스가 메모리 성능·용량을 핵심 제약으로 만들고 있기 때문이다.",
+      "topics": [
+        "Demand",
+        "Manufacturing",
+        "Roadmap",
+        "Competition"
+      ],
+      "status": "SHIFTING",
+      "hash": "0fd1234c34bb751516b34ad4c8bc0c620004d5f081f5400a1ecb8295515ab613",
+      "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep4-2/"
+    },
+    {
+      "id": "semiconductor_0002",
+      "tab": "semiconductor",
+      "publishedAt": "2026-10-21T09:28:36+09:00",
+      "source": "SK hynix Newsroom",
+      "title": "[AI Ecosystem] The semiconductor paradigm shifts toward memory",
+      "summary": [
+        "AI 중심 컴퓨팅의 확대는 메모리의 용량·대역·지연 요구를 급증시켜 메모리가 반도체 생태계의 중심으로 이동하고 있다.",
+        "고대역폭 메모리(HBM), CXL 기반 계층형 메모리, PIM 등 메모리-집적 및 컴퓨트 연계 기술에 대한 투자와 로드맵이 부상하고 있다.",
+        "이 전환은 생산능력 확충·공정 혁신·공급망 확보 경쟁을 촉발해 기업별 제조역량과 전략적 투자가 결과를 좌우할 것이다."
+      ],
+      "whyItMatters": "AI 워크로드의 데이터 이동 병목을 완화하고 성능을 끌어올리기 위해 메모리가 핵심 자원으로 부각되었기 때문이다.",
+      "topics": [
+        "Demand",
+        "Manufacturing",
+        "Roadmap",
+        "Competition"
+      ],
+      "status": "SHIFTING",
+      "hash": "da9aa6be97d1d6d6e6136aca87bf78b0b1611c953b7e9fc66504a8bbc6555202",
+      "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep4-1/"
+    },
+    {
+      "id": "semiconductor_0003",
+      "tab": "semiconductor",
+      "publishedAt": "2026-10-22T04:00:00+09:00",
+      "source": "EE Times",
+      "title": "When GPS Isn’t Enough: Building a Second Layer of Positioning",
+      "summary": [
+        "GPS 재밍 사례가 증가하며 기존 GNSS 의존도의 약점이 드러나고 있다.",
+        "4G·5G 및 NTN(비지상망) 기반 측위가 GNSS 실패 시 신뢰할 수 있는 보조 계층으로 제시된다.",
+        "특히 임무 중요 기기는 통신망 기반의 이중·다중 위치확보 체계를 갖춰야 한다."
+      ],
+      "whyItMatters": "위치 신뢰성은 안전·운영 연속성에 직접 영향을 미치므로 통신망 기반 측위 도입은 시급하고 실무적 중요성이 크다.",
+      "topics": [
+        "Demand",
+        "Policy",
+        "Roadmap"
+      ],
+      "status": "ONGOING",
+      "hash": "960fa212f5d038ba53369a728c841b27e133f9f7ff93c40517d45dfcb8b5563c",
+      "url": "https://www.eetimes.com/when-gps-isnt-enough-building-a-second-layer-of-positioning/"
+    },
+    {
+      "id": "semiconductor_0004",
+      "tab": "semiconductor",
+      "publishedAt": "2026-10-21T16:30:00+09:00",
+      "source": "EE Times",
+      "title": "Edge AI MCU Features Multimodal Compute, Tiered Memory",
+      "summary": [
+        "새로운 MCU는 AI 네이티브 가속기를 탑재해 멀티모달 연산을 지원합니다.",
+        "고대역폭 DRAM을 통합해 수백 메가바이트 규모로 확장 가능한 계층형 메모리를 제공합니다.",
+        "이는 엣지 디바이스에서 대용량 모델과 실시간 처리의 성능과 전력 효율을 개선합니다."
+      ],
+      "whyItMatters": "온디바이스 멀티모달 AI 연산과 메모리 병목 해소로 엣지 성능과 응답성이 크게 향상되기 때문입니다.",
+      "topics": [
+        "Roadmap",
+        "Competition",
+        "Manufacturing"
+      ],
+      "status": "NEW",
+      "hash": "717f20d691bd0cb562261667e85f93ee4d7c05ac4b1f74fc5e06d63dd657eb19",
+      "url": "https://www.eetimes.com/edge-ai-mcu-features-multimodal-compute-tiered-memory/"
+    },
+    {
+      "id": "semiconductor_0005",
+      "tab": "semiconductor",
+      "publishedAt": "2026-10-21T17:00:00+09:00",
+      "source": "Samsung Newsroom",
+      "title": "[Infographic] 80 Years of JBL: From Studios and Stages to Everyday Life",
+      "summary": [
+        "JBL이 2026년 창립 80주년을 맞아 스튜디오와 무대 중심의 프로 오디오에서 일상용 소비자 제품으로 확장한 역사를 정리했다.",
+        "HARMAN과 삼성 자회사로서의 기술·파트너십을 바탕으로 제품군과 청취 방식 변화에 적응해왔다.",
+        "인포그래픽은 브랜드 지속성, 제품 다양화와 향후 로드맵의 시사점을 간결하게 보여준다."
+      ],
+      "whyItMatters": "브랜드의 역사와 전환은 경쟁력, 제품 로드맵 및 소비자 수요 변화에 대한 전략적 인사이트를 제공하기 때문에 중요하다.",
+      "topics": [
+        "Competition",
+        "Roadmap",
+        "Demand"
+      ],
+      "status": "ONGOING",
+      "hash": "0639ed593f83ba139df393a668bb0c1521f62be6d034ce6f6c508c5a007466e9",
+      "url": "https://news.samsung.com/global/infographic-80-years-of-jbl-from-studios-and-stages-to-everyday-life"
+    }
+  ]
+}

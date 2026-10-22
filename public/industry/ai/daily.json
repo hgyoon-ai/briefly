@@ -1,128 +1,131 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "highlights": {
     "bullets": [
-      "핵심: NVIDIA가 생성 시뮬레이션 플랫폼 Cosmos3-H-Dreams를 발표했다.",
-      "핵심: OpenAI가 Orchestra Bio를 인수해 바이오 연구 운영에 AI를 도입했다.",
-      "트렌드: 오늘 소식들은 AI를 의료·바이오·업무 자동화와 모델 공정성 평가에 적용한 사례를 포함한다."
+      "핵심: 도메인 특화 어휘로 SLM의 추론 비용을 최대 77%까지 줄일 수 있다고 보고됐다.",
+      "핵심: 상용 AI 모델들이 클라우드 플랫폼의 모델 환경에 통합되어 마켓플레이스를 통해 제공될 예정이다.",
+      "트렌드: 오늘 사례들은 실무 적용과 인프라 통합이 AI 기술 보급의 핵심 축으로 부상하고 있음을 보여준다."
     ],
     "topTopics": [
-      "Tooling",
       "Product",
-      "Research",
-      "Inference"
+      "Tooling",
+      "Infra",
+      "Models"
     ],
     "stats": {
-      "collected": 9,
-      "deduped": 9
+      "collected": 17,
+      "deduped": 17
     }
   },
   "cards": [
     {
       "id": "ai_0001",
       "tab": "ai",
-      "publishedAt": "2026-10-21T03:17:47+09:00",
+      "publishedAt": "2026-10-22T02:35:36+09:00",
       "source": "Hugging Face Blog",
-      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
       "summary": [
-        "NVIDIA가 'Cosmos3-H-Dreams'라는 생성 시뮬레이션 플랫폼을 발표했다.",
-        "임상 수술 절차를 사실적으로 재현해 교육·연습·수술 계획에 활용할 수 있다.",
-        "Hugging Face 블로그에 소개되었으며 모델화·배포·실무 적용 가능성이 강조된다."
+        "허깅페이스 블로그는 SLM의 어휘를 도메인 특화하면 실제 애플리케이션에서 추론 비용을 최대 77%까지 절감할 수 있다고 보고했다.",
+        "어휘 특화는 토큰 수 감소로 임베딩·출력층 연산과 메모리 사용을 줄여 비용과 지연을 낮춘다.",
+        "실무 적용을 위해 어휘 재구성, 도메인 데이터 기반 토크나이저 재학습과 배포·인프라 최적화가 필요하다고 제안한다."
       ],
-      "whyItMatters": "실제 환자 위험 없이 수술 훈련과 계획을 개선해 환자 안전과 임상 결과에 큰 영향을 줄 수 있기 때문입니다.",
+      "whyItMatters": "도메인 특화 어휘가 토큰화와 연산량을 크게 줄여 추론 비용·지연·인프라 부담을 즉시 낮추므로 상용화·스케일링에 큰 영향을 미치기 때문입니다.",
       "topics": [
         "Models",
-        "Product",
-        "Research"
+        "Inference",
+        "Tooling",
+        "Infra",
+        "Product"
       ],
-      "status": "NEW",
-      "hash": "e8a8161ff83426ef4f6b8321af038a82ced31c3402f885cb426986b43b349f8c",
-      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams"
+      "status": "SHIFTING",
+      "hash": "40a01666d562060bfdf96e1bee46311ea36b1fbc4128b476c54664266fe1cab8",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
     },
     {
       "id": "ai_0002",
       "tab": "ai",
-      "publishedAt": "2026-10-20T09:00:00+09:00",
-      "source": "OpenAI Blog",
-      "title": "OpenAI acquires Orchestra Bio",
+      "publishedAt": "2026-10-22T01:00:00+09:00",
+      "source": "Microsoft Research Blog",
+      "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
       "summary": [
-        "OpenAI가 Orchestra Bio를 인수했다.",
-        "AI 기반 운영을 생명과학 R&D에 도입해 제약사의 신약 개발 속도와 효율을 높이려 한다.",
-        "이번 인수로 AI-바이오 융합 제품·서비스와 상업적 기회가 강화될 전망이다."
+        "마이크로소프트 리서치가 1995년에 제기된 고차원 확률·기하의 난제인 KLS 추측을 해결했다고 보고했습니다.",
+        "이 증명은 고차원 공간에서의 계산 복잡도와 등방 로그오목 분포의 구조를 명확히 해, 랜덤화 알고리즘 이론의 핵심 난제를 제거합니다.",
+        "그 결과 과학·컴퓨팅 전반에서 사용되는 샘플링·최적화·체적추정 등 고차원 랜덤화 알고리즘의 효율성 이해와 향후 개선 가능성이 크게 높아졌습니다."
       ],
-      "whyItMatters": "이 인수는 AI로 바이오 연구 운영을 자동화·가속화해 신약 개발 효율과 상업적 기회를 크게 확대할 잠재력이 있기 때문이다.",
+      "whyItMatters": "수십 년간 미해결이었던 기초 수학·이론컴퓨터과학 난제를 해결함으로써, 향후 고차원 랜덤화 알고리즘의 성능 한계 분석과 새로운 알고리즘 설계에 장기적으로 큰 이론적 기반을 제공하기 때문입니다.",
       "topics": [
         "Research",
-        "Product",
-        "Business"
+        "Inference",
+        "Data"
       ],
       "status": "NEW",
-      "hash": "1cfb6291fa158d05a5bad0e638547e0ff07dabd8e5700299a43b136146616242",
-      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio"
+      "hash": "f5a67a23b0dd5c70b4db35e5f8f70dda8a0a53f6299ecb9f65e4ea58783a0418",
+      "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/"
     },
     {
       "id": "ai_0003",
       "tab": "ai",
-      "publishedAt": "2026-10-21T01:09:19+09:00",
-      "source": "Hugging Face Blog",
-      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "publishedAt": "2026-10-21T21:00:00+09:00",
+      "source": "OpenAI Blog",
+      "title": "OpenAI models are coming to Google Cloud",
       "summary": [
-        "Hugging Face가 'FairStress'라는 LLM 의사결정 공정성 평가 프레임워크를 소개한다.",
-        "다양한 시나리오와 스트레스 테스트로 모델 편향을 식별하고 정량화한다.",
-        "오픈 소스 도구·데이터셋과 실무 권고안을 제공해 개선 경로를 제시한다."
+        "OpenAI의 최신 모델들과 Codex 워크플로가 구글 클라우드의 Gemini 모델 가든에 통합됩니다.",
+        "이 통합은 Google Cloud Marketplace를 통해 기업과 개발자에게 제공될 예정입니다.",
+        "클라우드 기반 AI 접근성 향상과 개발자 생산성, 클라우드 경쟁 구도에 영향을 미칠 가능성이 큽니다."
       ],
-      "whyItMatters": "LLM 편향이 실제 의사결정에 미치는 영향이 커져 체계적이고 실용적인 평가 방법이 필요하다.",
+      "whyItMatters": "기업 고객과 개발자에게 OpenAI 모델을 더 쉽게 제공함으로써 채택 확대와 클라우드 사업 경쟁에 직접적인 영향을 주기 때문입니다.",
       "topics": [
-        "Research",
-        "Safety",
-        "Tooling"
+        "Models",
+        "Tooling",
+        "Product",
+        "Business"
       ],
       "status": "NEW",
-      "hash": "ef73bf2ace8ac67192910f29383fdaeabcc1f1c3f55e1ee321602bf2faa4d9c1",
-      "url": "https://huggingface.co/blog/allenai/fairstress"
+      "hash": "95dedf578de78f3ec264f66e37a7c309d1f2cf3d8987fe8b4de9182187d1ff7b",
+      "url": "https://openai.com/index/openai-models-google-cloud"
     },
     {
       "id": "ai_0004",
       "tab": "ai",
-      "publishedAt": "2026-10-20T19:00:00+09:00",
+      "publishedAt": "2026-10-21T16:00:00+09:00",
       "source": "OpenAI Blog",
-      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
       "summary": [
-        "프랜차이즈 점주가 ChatGPT Work로 현금 조정 시간을 94% 단축했다.",
-        "메뉴 가격 재조정 작업을 95% 빠르게 처리하는 워크플로우를 구축했다.",
-        "이 자동화로 약 10만 달러 규모의 현금 유동성 확보 가능성이 제시됐다."
+        "Patch the Planet은 보안 연구자, 유지관리자, 사고 대응팀을 연결해 오픈소스의 치명적 취약점을 공동으로 해결한다.",
+        "글로벌 협업으로 취약점 식별·패치·배포 과정을 가속화해 대응 시간을 단축한다.",
+        "이니셔티브는 오픈소스 공급망의 전반적 안정성과 신뢰성을 강화하는 것을 목표로 한다."
       ],
-      "whyItMatters": "작업 자동화가 운영 속도와 현금 흐름을 직접 개선해 비즈니스 효율과 자본 운용에 실질적 영향을 미치기 때문입니다.",
+      "whyItMatters": "오픈소스 취약점은 광범위한 시스템에 영향을 미치므로 전 세계적 조정으로 보안·운영 리스크를 크게 줄일 수 있다.",
       "topics": [
-        "Product",
-        "Business",
-        "Tooling"
+        "Safety",
+        "Tooling",
+        "Product"
       ],
       "status": "ONGOING",
-      "hash": "1725d137aa3debc0d8ae9b76a5f8f5fc192130afd14f5151c2319be05f1a5dd1",
-      "url": "https://openai.com/index/ted-taylor-restaurant"
+      "hash": "de9db6f384cbc788775550a92a01be7699e7a41c8058849be39721a76c544e4d",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities"
     },
     {
       "id": "ai_0005",
       "tab": "ai",
-      "publishedAt": "2026-10-21T01:00:00+09:00",
-      "source": "Microsoft Research Blog",
-      "title": "Called to serve: Tech, research, and positive impact",
+      "publishedAt": "2026-10-22T03:26:30+09:00",
+      "source": "Hugging Face Blog",
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
       "summary": [
-        "Microsoft Research의 랩 디렉터 Chris White가 전쟁 시 데이터 분석부터 인신매매 대응 도구까지 현실 문제에 적용된 연구 경험을 소개합니다.",
-        "그는 기술과 연구가 사회적·윤리적 과제 해결에 어떻게 기여할 수 있는지에 대해 프로그램 매니저 Weishung Liu와 대담을 나눕니다.",
-        "개인적 배경과 동기가 어떻게 공익 지향형 연구 아젠다와 기술 개발 방향에 영향을 미쳤는지가 논의됩니다."
+        "NVIDIA의 Kumo Relational이 학습 없이도 관계형 데이터에서 감독 학습 모델보다 높은 성능을 기록했다.",
+        "해당 기술은 별도의 재학습이나 라벨링 없이 즉시 적용 가능한 방식으로 소개되었다.",
+        "이로 인해 관계형 데이터 처리의 비용과 시간 소요가 크게 줄어 기존 ML 파이프라인 재검토가 필요하다."
       ],
-      "whyItMatters": "사회·안보 분야에 직접적인 영향을 미치는 공익 지향 기술 연구의 사례를 통해, 향후 연구 투자와 책임 있는 AI·데이터 활용 전략에 참고가 되는 방향성을 제시합니다.",
+      "whyItMatters": "학습 불필요한 고성능 솔루션은 라벨링·훈련 자원 의존도를 낮춰 실무 적용 장벽을 크게 줄이기 때문이다.",
       "topics": [
+        "Models",
+        "Inference",
         "Research",
-        "Safety",
-        "Product",
         "Data"
       ],
       "status": "NEW",
-      "hash": "4a79326aef7c9f5109b8b411024cc710e72ff62f881a4ea4382ce211dbf596eb",
-      "url": "https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white/"
+      "hash": "94a5f6526eada9bc0f52700eb51d921a09fcfe01b2b364c8982be81ac1418089",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational"
     }
   ]
 }
