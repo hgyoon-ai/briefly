@@ -2,6 +2,214 @@
   "month": "2026-10",
   "events": [
     {
+      "id": "30cfa6c28ed8060e204876f2ca0f888b0a34d5bd",
+      "date": "2026-10-23",
+      "company": "키움증권",
+      "title": "기업설명회(IR)개최(안내공시)              ",
+      "oneLiner": "기업설명회(IR) 개최 공시로 투자자 대상 커뮤니케이션 일정 공시가 이루어짐.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "기업설명회(IR)개최(안내공시)              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023800736"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "5941a8a8225a806ce203a5237e4e176cbaf26cbe",
+      "date": "2026-10-23",
+      "company": "키움증권",
+      "title": "결산실적공시예고(안내공시)              ",
+      "oneLiner": "결산실적 공시 예고(안내공시)로 향후 재무정보 공개에 대한 공식 예고가 이루어짐.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "결산실적공시예고(안내공시)              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023800734"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "news:KB증권:https://www.mk.co.kr/news/stock/12184248",
+      "date": "2026-10-23",
+      "company": "KB증권",
+      "title": "“노후자금 불리고 세금 줄이고”…퇴직연금 담당자 100여 명 모인 이유",
+      "oneLiner": "퇴직연금 담당자 대상 세미나 개최로 제도 변화 대응 및 운용전략을 공유하는 기업 대상 교육·영업 활동이 진행됨.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“노후자금 불리고 세금 줄이고”…퇴직연금 담당자 100여 명 모인 이유",
+          "url": "https://www.mk.co.kr/news/stock/12184248"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202610230900429052",
+      "date": "2026-10-23",
+      "company": "한국투자증권",
+      "title": "동국제약, 화장품 해외 성장 본격화…수익성 개선 기대",
+      "oneLiner": "한국투자증권 연구원이 동국제약의 화장품·헬스케어 확대로 수익성 개선을 기대하는 리서치 의견을 제시함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "동국제약, 화장품 해외 성장 본격화…수익성 개선 기대",
+          "url": "https://www.fnnews.com/news/202610230900429052"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202610231041388750",
+      "date": "2026-10-23",
+      "company": "하나증권",
+      "title": "하나증권, 연세의료원과 '유산기부 문화 확산' 맞손",
+      "oneLiner": "하나증권이 연세의료원과 유언대용신탁을 활용한 유산기부 활성화를 위한 MOU를 체결해 신탁 설계·상담 등 WM 제휴 서비스를 확대함.",
+      "type": "제휴",
+      "areas": [
+        "WM",
+        "상담"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "하나증권, 연세의료원과 '유산기부 문화 확산' 맞손",
+          "url": "https://www.fnnews.com/news/202610231041388750"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202610231045584842",
+      "date": "2026-10-23",
+      "company": "한국투자증권",
+      "title": "\"안 살 이유가 없다\" 삼성E&A, 깜짝 실적에 연간 목표 75%↑…LG이노텍, 목표가 130만→53만원 [株토피아]",
+      "oneLiner": "여러 증권사 리포트를 정리한 기사로 개별 기업에 대한 리서치 요약·관점을 제공함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"안 살 이유가 없다\" 삼성E&A, 깜짝 실적에 연간 목표 75%↑…LG이노텍, 목표가 130만→53만원 [株토피아]",
+          "url": "https://www.fnnews.com/news/202610231045584842"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "news:메리츠증권:https://www.fnnews.com/news/202610231240219837",
+      "date": "2026-10-23",
+      "company": "메리츠증권",
+      "title": "솔리다임 상장 멈추자, 시선은 '주주 지갑'으로…SK하이닉스 실적에 쏠린 눈",
+      "oneLiner": "메리츠증권은 솔리다임 상장 중단을 주주환원 강화 신호로 해석하며 실적설명회에서 구체 방안 제시 가능성을 분석함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "솔리다임 상장 멈추자, 시선은 '주주 지갑'으로…SK하이닉스 실적에 쏠린 눈",
+          "url": "https://www.fnnews.com/news/202610231240219837"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202610231335219592",
+      "date": "2026-10-23",
+      "company": "한국투자증권",
+      "title": "신한證, 네이버페이증권 간편주문 고객에 최대 80만원 혜택",
+      "oneLiner": "신한투자증권이 네이버페이증권 간편주문 이용 고객 대상 거래 실적 프로모션을 진행하는 제휴형 마케팅으로 브로커리지 고객 유치 활동에 해당함.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "신한證, 네이버페이증권 간편주문 고객에 최대 80만원 혜택",
+          "url": "https://www.fnnews.com/news/202610231335219592"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-10-24"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/economy/12183341",
+      "date": "2026-10-22",
+      "company": "미래에셋증권",
+      "title": "‘스페이스X 공모주 0주’ 묶인 돈 보상받나…금감원 “투자자 보상 검토”",
+      "oneLiner": "스페이스X 공모주 배정 누락 관련 금감원의 현장검사 종료 및 제재·투자자 보상 검토로 규제·감독 이슈가 발생함.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "‘스페이스X 공모주 0주’ 묶인 돈 보상받나…금감원 “투자자 보상 검토”",
+          "url": "https://www.mk.co.kr/news/economy/12183341"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-10-24"
+    },
+    {
       "id": "news:키움증권:https://www.mk.co.kr/news/stock/12181337",
       "date": "2026-10-21",
       "company": "키움증권",
