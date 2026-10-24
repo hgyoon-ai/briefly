@@ -3141,3 +3141,10 @@
 {"id": "news:한국투자증권:https://www.fnnews.com/news/202610231335219592", "keep": true, "oneLiner": "신한투자증권이 네이버페이증권 간편주문 이용 고객 대상 거래 실적 프로모션을 진행하는 제휴형 마케팅으로 브로커리지 고객 유치 활동에 해당함.", "type_raw": "제휴", "areas_raw": ["브로커리지"], "confidence": 0.85}
 {"id": "news:하나증권:https://www.fnnews.com/news/202610231539071924", "keep": false, "oneLiner": "하나증권이 3·4분기 누적 당기순이익 2834억원, 영업이익 3664억원을 기록했으나 분기별로는 실적이 감소했다. WM의 수수료 감소와 금리 상승에 따른 자산 운용손익 감소가 원인으로 언급됨.", "type_raw": "기타", "areas_raw": ["WM", "리서치"], "confidence": 0.9}
 {"id": "news:KB증권:https://www.fnnews.com/news/202610231557269907", "keep": false, "oneLiner": "KB증권의 세무·재테크 Q&A로, 분리과세 배당소득이 건강보험료 산정에 어떻게 반영되는지(직장가입자·지역가입자·피부양자 기준)를 설명하고 있다.", "type_raw": "기타", "areas_raw": ["상담"], "confidence": 0.88}
+{"id": "7b32038dd8d03ec6209318f1f98022722151d97e", "keep": false, "oneLiner": "릴리스 노트가 일반적인 '서비스 개선 및 앱 안정화' 문구만 있어 제품·기능·정책상의 실질적 변화로 보기 어렵습니다. 구체적 기능 추가나 운영·보안 공지는 포함되지 않았습니다.", "type_raw": "시스템", "areas_raw": ["기타"], "confidence": 0.9}
+{"id": "b79830bbbd742b6ec072ca37bd8badd1477002cc", "keep": false, "oneLiner": "앱 안정성 및 성능 개선을 위한 일반적인 오류 수정 안내로 제품·정책 변화는 없음.", "type_raw": "시스템", "areas_raw": ["트레이딩"], "confidence": 0.9}
+{"id": "8d540a9024f281590eac05c614d552046ced691b", "keep": false, "oneLiner": "일반적인 버그 수정 안내로 기능·운영상의 변동이나 신규 서비스 도입 내용은 없음.", "type_raw": "시스템", "areas_raw": ["브로커리지"], "confidence": 0.9}
+{"id": "30cfa6c28ed8060e204876f2ca0f888b0a34d5bd", "keep": true, "oneLiner": "기업설명회(IR) 개최 공시로 투자자 대상 커뮤니케이션 일정 공시가 이루어짐.", "type_raw": "기타", "areas_raw": ["기타"], "confidence": 0.8}
+{"id": "5941a8a8225a806ce203a5237e4e176cbaf26cbe", "keep": true, "oneLiner": "결산실적 공시 예고(안내공시)로 향후 재무정보 공개에 대한 공식 예고가 이루어짐.", "type_raw": "기타", "areas_raw": ["기타"], "confidence": 0.85}
+{"id": "news:KB증권:https://www.mk.co.kr/news/stock/12184248", "keep": true, "oneLiner": "퇴직연금 담당자 대상 세미나 개최로 제도 변화 대응 및 운용전략을 공유하는 기업 대상 교육·영업 활동이 진행됨.", "type_raw": "기타", "areas_raw": ["WM"], "confidence": 0.8}
+{"id": "news:미래에셋증권:https://www.mk.co.kr/news/economy/12183341", "keep": true, "oneLiner": "스페이스X 공모주 배정 누락 관련 금감원의 현장검사 종료 및 제재·투자자 보상 검토로 규제·감독 이슈가 발생함.", "type_raw": "규제", "areas_raw": ["리스크"], "confidence": 0.9}
