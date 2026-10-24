@@ -1,139 +1,58 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-24",
   "kpis": {
     "clusters": 20,
     "sources": 2,
-    "new": 16
+    "new": 20
   },
   "clusters": [
     {
-      "id": "9401c0282f0320f84f22171c9336332d004ec619",
-      "name": "php/php-src",
+      "id": "ff6ca8bf875afdf0179426998ee08d851c2847da",
+      "name": "openssl/openssl",
       "section": "releases",
       "status": "NEW",
-      "score": 3025.18,
-      "oneLiner": "PHP 인터프리터의 소스 코드 저장소",
-      "whyNow": "최근 릴리즈가 나오며 실사용 공유가 빠르게 늘고 있습니다.",
+      "score": 1669.92,
+      "oneLiner": "범용 TLS 및 암호화 라이브러리 openssl/openssl의 릴리스.",
+      "whyNow": "새 릴리즈 영향으로 관심이 재점화되고 있습니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "40,624"
+          "value": "31,037"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "8,261"
+          "value": "11,542"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-10-22"
+          "value": "2026-10-23"
         },
         {
           "source": "GitHub",
           "metric": "release",
-          "value": "php-8.5.12"
+          "value": "openssl-4.1.0"
         },
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "961p · 532c"
+          "value": "180p · 58c"
         }
       ],
       "links": [
         {
           "label": "GitHub",
-          "url": "https://github.com/php/php-src"
+          "url": "https://github.com/openssl/openssl"
         },
         {
           "label": "Release",
-          "url": "https://github.com/php/php-src/releases/tag/php-8.5.12"
+          "url": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0"
         },
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50180873"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "1c0efcb3739225c4591bd9b5ad5337426890a9a8",
-      "name": "The 1.5°C goal of the Paris Agreement is no longer viable",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 1261.8,
-      "oneLiner": "파리협정의 1.5°C 목표가 더 이상 실현 불가능하다고 주장하는 글",
-      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "611p · 746c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50177911"
-        },
-        {
-          "label": "Source",
-          "url": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "956b0ef86dcfe19f7ca7766edfd6db02e40e9e8b",
-      "name": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 977.4,
-      "oneLiner": "eMudhra의 CA 키가 밀리초 만에 깨졌다고 다루는 보안 글",
-      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "831p · 399c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50177916"
-        },
-        {
-          "label": "Source",
-          "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "ce1cef61ba506e5f7926308ac3e069c388d7f990",
-      "name": "The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 862.2,
-      "oneLiner": "No Kings 삭제 사례와 Zuck에게 메가폰을 빌리는 위험을 다루는 글",
-      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "489p · 474c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50181137"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/"
+          "url": "https://news.ycombinator.com/item?id=50208099"
         }
       ],
       "tags": []
@@ -142,30 +61,30 @@
       "id": "04f8f983618bc99eeab93037d7423e3492748fea",
       "name": "Gathin23/cleanyourtv",
       "section": "releases",
-      "status": "ONGOING",
-      "score": 827.22,
-      "oneLiner": "와이파이로 Android 또는 Google TV를 디블로트해 Apple TV 스타일 홈을 만드는 도구",
+      "status": "NEW",
+      "score": 1199.42,
+      "oneLiner": "와이파이로 Android·Google TV를 디블로트해 Apple TV 스타일 홈을 제공하는 cleanyourtv 릴리스.",
       "whyNow": "릴리즈 직후라 적용/마이그레이션 경험이 모이고 있습니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "19,145"
+          "value": "27,915"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "2,071"
+          "value": "3,141"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-10-22"
+          "value": "2026-10-24"
         },
         {
           "source": "GitHub",
           "metric": "release",
-          "value": "v2.5.0"
+          "value": "v2.7.0"
         }
       ],
       "links": [
@@ -175,366 +94,380 @@
         },
         {
           "label": "Release",
-          "url": "https://github.com/Gathin23/cleanyourtv/releases/tag/v2.5.0"
+          "url": "https://github.com/Gathin23/cleanyourtv/releases/tag/v2.7.0"
         }
       ],
       "tags": []
     },
     {
-      "id": "8ee064bd2105a01c8d3500a5e24a69f2a0037709",
-      "name": "Today's PHP security release, and how we're strengthening security",
+      "id": "ab8beba7a8ded6cf63b91b1a2400b51d1ddf3d98",
+      "name": "Today, we hacked what we'd set out to hack: the iPhone",
       "section": "discussions",
       "status": "NEW",
-      "score": 789.6,
-      "oneLiner": "오늘의 PHP 보안 릴리스와 보안 강화 방안을 설명하는 글",
-      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 보안 관점에서 재점검 흐름이 이어지고 있습니다.",
+      "score": 977.4,
+      "oneLiner": "iPhone 해킹 사례를 다룬 글.",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 블로그 해석과 후기가 빠르게 붙는 흐름입니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "662p · 327c"
+          "value": "703p · 463c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50182987"
+          "url": "https://news.ycombinator.com/item?id=50211474"
         },
         {
           "label": "Source",
-          "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/"
+          "url": "https://blog.calif.io/p/iphone"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "09d34ccad9de923ae73bb0752ce7f721e6bd1b7b",
+      "name": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 892.2,
+      "oneLiner": "Kimi K3.1 Pro 및 K3.1 Pro Highspeed를 소개하는 글.",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "655p · 416c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50212065"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.kimi.ai/blog/kimi-k3-1-pro"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "e726a1566341b2b5f7f5ac185a340f325749c5e9",
+      "name": "Investor-owned utilities charge 23% more for electricity than public providers",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 765.6,
+      "oneLiner": "민간 전력회사가 공영 공급자보다 전기요금을 23% 더 부과한다고 보도.",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 개발자 경험 개선 관점에서 관심이 커지고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "520p · 378c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50208837"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities"
         }
       ],
       "tags": [
-        "security"
+        "editor"
       ]
     },
     {
-      "id": "2fad9cce1e7eaa629e5e4f69232a49452194d437",
-      "name": "deepseek-ai/DeepInfer",
-      "section": "trending",
-      "status": "ONGOING",
-      "score": 750.64,
-      "oneLiner": "DeepSeek 모델용 고성능 대규모 추론 프레임워크 저장소",
-      "whyNow": "업데이트가 유지되며 관심이 꾸준히 쌓이는 흐름입니다.",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "metric": "stars",
-          "value": "17,852"
-        },
-        {
-          "source": "GitHub",
-          "metric": "forks",
-          "value": "1,828"
-        },
-        {
-          "source": "GitHub",
-          "metric": "updated",
-          "value": "2026-10-22"
-        }
-      ],
-      "links": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/deepseek-ai/DeepInfer"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "b15efc22550c2755d916e9ec8eb6612f4a6cbcd5",
-      "name": "The Future of CSS",
+      "id": "865ad3f9aaae7c0500baf9ba4f923e9df212d846",
+      "name": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
       "section": "discussions",
       "status": "NEW",
-      "score": 667.8,
-      "oneLiner": "CSS의 미래와 상호운용성에 관한 논의를 다루는 글",
-      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "591p · 261c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50175070"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.joshwcomeau.com/css/interop-2027/"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "8ac30f69d814f530552b01b6025c34ed0174f332",
-      "name": "EA is shutting down BioWare",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 657.0,
-      "oneLiner": "EA가 BioWare를 폐쇄한다는 소식을 전하는 기사",
-      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "501p · 297c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50184586"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "ea474821f2eae53058eaf62756ee58f4853820ea",
-      "name": "Claude Duet",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 484.2,
-      "oneLiner": "Claude의 Duet 제품을 소개하는 페이지",
-      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "299p · 254c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50186037"
-        },
-        {
-          "label": "Source",
-          "url": "https://claude.com/product/claude-duet"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "f71084a45479be02c76450486cfef39d4189ea9a",
-      "name": "PHP2Shell: AI uncovers critical RCE in PHP",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 465.6,
-      "oneLiner": "AI가 발견한 PHP의 치명적 원격 코드 실행 취약점을 다루는 글",
+      "score": 764.4,
+      "oneLiner": "광고가 모든 요금제에 노출된 직후 디즈니가 요금을 인상한다는 보도.",
       "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "432p · 172c"
+          "value": "410p · 432c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50180836"
+          "url": "https://news.ycombinator.com/item?id=50205934"
         },
         {
           "label": "Source",
-          "url": "https://www.wiz.io/blog/php2shell-php-rce"
+          "url": "https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/"
         }
       ],
       "tags": []
     },
     {
-      "id": "20784be02e39b9800a32d449dd7962e55a3629c9",
-      "name": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+      "id": "e9e0761e47eb6c6d49a3bb5436348fab8525b2f5",
+      "name": "Your Phone Is About to Stop Being Yours: 70 Days Until Lockdown",
       "section": "discussions",
       "status": "NEW",
-      "score": 444.0,
-      "oneLiner": "Meta가 뉴멕시코 케임브리지 애널리티카 사건으로 25B 벌금 판정을 받았다는 기사",
-      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "332p · 204c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50184820"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "1f91affc8924745fc22e32d1b4717d83b7aee278",
-      "name": "Muse exposes users' personal and business secrets when they share conversations",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 423.6,
-      "oneLiner": "Muse가 대화 공유 시 개인 및 업무 비밀을 노출한다고 보도하는 기사",
+      "score": 682.2,
+      "oneLiner": "휴대전화 소유권이 제한될 수 있다는 주장과 70일 카운트다운을 다룬 글.",
       "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "380p · 163c"
+          "value": "479p · 329c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50174687"
+          "url": "https://news.ycombinator.com/item?id=50208558"
         },
         {
           "label": "Source",
-          "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/"
+          "url": "https://keepandroidopen.org/?"
         }
       ],
       "tags": []
     },
     {
-      "id": "bbc034aa60132de1612102ef3e077555af06be8d",
-      "name": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "id": "b29746d073b35892898cd6881d15dbe713d6ee96",
+      "name": "Apple Music 404 Not Found",
       "section": "discussions",
       "status": "NEW",
-      "score": 410.4,
-      "oneLiner": "PyPI의 취약한 LiteLLM 1.107.0 패키지가 자격 증명 탈취기와 백도어를 설치한다는 보고",
-      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다.",
+      "score": 517.8,
+      "oneLiner": "Apple Music 관련 URL이 404 오류를 반환한다는 페이지.",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "422p · 131c"
+          "value": "513p · 175c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50181114"
+          "url": "https://news.ycombinator.com/item?id=50207910"
         },
         {
           "label": "Source",
-          "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/"
+          "url": "https://music.apple.com/this-url-doesnt-exist"
         }
       ],
       "tags": []
     },
     {
-      "id": "a11bebd4ec39eecb980fc8646efc019158b7e125",
-      "name": "Mistral Large 4",
-      "section": "trending",
+      "id": "086e1f6965feb82da72dcd3f94a1ca3981bc8b35",
+      "name": "The foolishness of \"natural language programming\" (1978)",
+      "section": "discussions",
       "status": "NEW",
-      "score": 300.6,
-      "oneLiner": "Mistral의 Large 4 모델을 소개하는 공지",
-      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
+      "score": 504.6,
+      "oneLiner": "자연어 프로그래밍의 어리석음을 논한 1978년 글.",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "315p · 93c"
+          "value": "357p · 242c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50186129"
+          "url": "https://news.ycombinator.com/item?id=50203161"
         },
         {
           "label": "Source",
-          "url": "https://mistral.ai/news/mistral-large-4/"
+          "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html"
         }
       ],
       "tags": []
     },
     {
-      "id": "801cc7531364929d2388492b2b40bb05b23ef060",
-      "name": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
-      "section": "trending",
+      "id": "1abf0d73487d58c47dc821f9490bae0fcf1c4585",
+      "name": "Dutch government had hacked into Jared Kushner's phone",
+      "section": "discussions",
       "status": "NEW",
-      "score": 265.8,
-      "oneLiner": "DuckDB 2.0.0 LTS Cinnamon Teal 출시를 알리는 공지",
-      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다.",
+      "score": 397.8,
+      "oneLiner": "네덜란드 정부가 Jared Kushner의 전화에 해킹을 가했다는 주장.",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "357p · 43c"
+          "value": "287p · 188c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50181136"
+          "url": "https://news.ycombinator.com/item?id=50206914"
         },
         {
           "label": "Source",
-          "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200"
+          "url": "https://twitter.com/jaredkushner/status/2113376217415958767"
         }
       ],
       "tags": []
     },
     {
-      "id": "159ac0bcde61d33cda797a1d5d091a72321d05b9",
-      "name": "PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out",
+      "id": "10a5116bc559f75437619dca3304eaf40981b546",
+      "name": "Swedish government offices to ban ChatGPT and Claude",
       "section": "trending",
       "status": "NEW",
-      "score": 168.0,
-      "oneLiner": "PHP 8.5.12, 8.4.27, 8.3.36, 8.2.35 릴리스 소식을 알리는 공지",
-      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다.",
+      "score": 326.4,
+      "oneLiner": "스웨덴 정부 부처들이 ChatGPT와 Claude 사용을 금지하기로 했다는 보도.",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "276p · 2c"
+          "value": "314p · 115c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50180943"
+          "url": "https://news.ycombinator.com/item?id=50207405"
         },
         {
           "label": "Source",
-          "url": "https://www.php.net/index.php"
+          "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet"
         }
       ],
       "tags": []
+    },
+    {
+      "id": "6b8fa6dd8ba0ecf044e6da75cc32adabdfeed8b7",
+      "name": "ClickHouse/ClickBench",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 325.42,
+      "oneLiner": "분석형 데이터베이스용 벤치마크 ClickBench 프로젝트.",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 평가/재현성 이슈가 다시 부각되고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "1,146"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "329"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-23"
+        },
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "181p · 137c"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/ClickHouse/ClickBench"
+        },
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50205816"
+        }
+      ],
+      "tags": [
+        "eval",
+        "data"
+      ]
+    },
+    {
+      "id": "1ea6c0db5ec2df608b5284a6d5b2eb501f866ce5",
+      "name": "eMudhra ignored Mozilla Root investigation deadline; blames social media",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 296.4,
+      "oneLiner": "eMudhra가 Mozilla 루트 조사 기한을 무시하고 소셜 미디어를 탓했다는 보고.",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "192p · 151c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50210067"
+        },
+        {
+          "label": "Source",
+          "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=2083449"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "3fdc1d6774f17e0b7da3c6602042f8bf37ee39ce",
+      "name": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "section": "trending",
+      "status": "NEW",
+      "score": 258.6,
+      "oneLiner": "구글이 Gmail과 Google Photos 데이터를 광고 타깃팅에 사용할 수 있다고 밝힌 보도.",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "223p · 104c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50214218"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
+        }
+      ],
+      "tags": [
+        "data"
+      ]
     },
     {
       "id": "3738a4ced8a3d82f685f72a826a698f090332e43",
       "name": "ly05010419/MacNativeGames",
       "section": "trending",
-      "status": "ONGOING",
-      "score": 165.28,
+      "status": "NEW",
+      "score": 210.08,
       "oneLiner": "오픈 소스 개발 도구/프로젝트입니다.",
-      "whyNow": "스타 증가와 업데이트 흐름이 동시에 관측되는 상승 구간입니다.",
+      "whyNow": "업데이트가 유지되며 관심이 꾸준히 쌓이는 흐름입니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "3,862"
+          "value": "4,901"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "540"
+          "value": "702"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-10-22"
+          "value": "2026-10-24"
         }
       ],
       "links": [
@@ -546,33 +479,62 @@
       "tags": []
     },
     {
+      "id": "e674570a3b5e456b33653d59af618c95055b12c3",
+      "name": "Dessa: the most authentic full-duplex speech model ever built",
+      "section": "trending",
+      "status": "NEW",
+      "score": 201.0,
+      "oneLiner": "Dessa라는 전이중 음성 모델을 가장 진정성 있게 구축되었다고 소개하는 글.",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 보안 관점에서 재점검 흐름이 이어지고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "183p · 76c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50213925"
+        },
+        {
+          "label": "Source",
+          "url": "https://block.xyz/dessa"
+        }
+      ],
+      "tags": [
+        "security"
+      ]
+    },
+    {
       "id": "69d398c744569c2e5b2cbdd7ac7f8441bebd2140",
       "name": "simbasjungles/free-my-tv",
       "section": "releases",
-      "status": "ONGOING",
-      "score": 135.92,
-      "oneLiner": "Google TV용 빠르고 광고 없는 오픈소스 홈 화면 프로젝트",
-      "whyNow": "최근 릴리즈가 나오며 실사용 공유가 빠르게 늘고 있습니다.",
+      "status": "NEW",
+      "score": 190.34,
+      "oneLiner": "Google TV·LG webOS·Samsung Tizen용 광고 없는 빠른 홈 화면을 제공하는 free-my-tv 릴리스.",
+      "whyNow": "새 릴리즈 영향으로 관심이 재점화되고 있습니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "2,732"
+          "value": "3,956"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "332"
+          "value": "605"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-10-22"
+          "value": "2026-10-24"
         },
         {
           "source": "GitHub",
           "metric": "release",
-          "value": "v1.0.0"
+          "value": "v1.1.0"
         }
       ],
       "links": [
@@ -582,7 +544,7 @@
         },
         {
           "label": "Release",
-          "url": "https://github.com/simbasjungles/free-my-tv/releases/tag/v1.0.0"
+          "url": "https://github.com/simbasjungles/free-my-tv/releases/tag/v1.1.0"
         }
       ],
       "tags": []
@@ -592,29 +554,29 @@
       "name": "pengchujin/aerial-tv",
       "section": "releases",
       "status": "NEW",
-      "score": 106.08,
-      "oneLiner": "중국 시장용 안드로이드 TV에 tvOS 스타일의 광고 없는 오픈소스 런처",
+      "score": 178.22,
+      "oneLiner": "국산 TV용 tvOS 스타일 오픈소스 Android TV 런처로 광고 없이 자동으로 바탕화면을 대체하는 aerial-tv 프로젝트.",
       "whyNow": "버전 업데이트 이후 재확산이 시작된 흐름입니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "2,077"
+          "value": "3,815"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "150"
+          "value": "281"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-10-22"
+          "value": "2026-10-24"
         },
         {
           "source": "GitHub",
           "metric": "release",
-          "value": "v1.22"
+          "value": "v1.41"
         }
       ],
       "links": [
@@ -624,7 +586,67 @@
         },
         {
           "label": "Release",
-          "url": "https://github.com/pengchujin/aerial-tv/releases/tag/v1.22"
+          "url": "https://github.com/pengchujin/aerial-tv/releases/tag/v1.41"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "3f75d6574ad3caa23cc05d12200372df1e4d412c",
+      "name": "Move Slow and Fix Things (2024)",
+      "section": "trending",
+      "status": "NEW",
+      "score": 138.6,
+      "oneLiner": "느리게 움직이며 문제를 고치자는 주제를 다룬 2024년 글.",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "169p · 31c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50204754"
+        },
+        {
+          "label": "Source",
+          "url": "https://endler.dev/2024/move-slow-and-fix-things/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "c9d6164baa770a4d93a212f99182e7409d8afc0e",
+      "name": "xiaoyang111222/cn-math-taxonomy",
+      "section": "trending",
+      "status": "NEW",
+      "score": 124.96,
+      "oneLiner": "수학·영어·물리 지식 그래프와 문제를 포함한 cn-math-taxonomy 프로젝트.",
+      "whyNow": "활동성과 관심도가 같이 살아 있는 프로젝트입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,803"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "642"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-24"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/xiaoyang111222/cn-math-taxonomy"
         }
       ],
       "tags": []
