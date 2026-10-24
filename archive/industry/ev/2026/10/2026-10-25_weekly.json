@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-10-19",
+    "to": "2026-10-25"
+  },
+  "kpis": {
+    "collected": 10,
+    "deduped": 10,
+    "uniqueTopics": 7
+  },
+  "topTopics": [
+    {
+      "name": "Competition",
+      "count": 8
+    },
+    {
+      "name": "Roadmap",
+      "count": 8
+    },
+    {
+      "name": "Investment",
+      "count": 8
+    },
+    {
+      "name": "Demand",
+      "count": 4
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Demand",
+      "count": 2
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Demand",
+      "count": 1
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "초저가·장거리 중국형 전기 세단 출시로 글로벌 가격 경쟁 격화",
+      "summary": "폭스바겐이 중국 시장 전용 전기 세단 제타 M6를 약 1만2천 달러 미만 가격에 내놓으면서, 460km(CLTC 기준) 수준의 긴 주행거리와 초저가 전략을 결합했다. 이는 보급형 EV 세그먼트에서 중국발 가격 파괴 트렌드를 더욱 자극해 글로벌 완성차 업체들의 마진 압박과 제품 포트폴리오 재조정을 가속화할 수 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Volkswagen’s new electric Jetta offers 285 miles of range for under $12K",
+          "url": "https://electrek.co/2026/10/24/volkswagens-new-electric-jetta-offers-285-miles-of-range-for-under-12k/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "중국산 중고 EV의 서방 우회 진출로 가격·무역 구조 재편 가속",
+      "summary": "중국산 전기차가 중고차 형태로 서방 시장에 대거 유입되며 신차 대비 최대 40% 저렴한 가격을 앞세워 수요를 흡수하고 있다. 이란발 유가 및 물가 상승으로 서방 OEM의 신차 가격이 높게 형성된 가운데, 중고 중국 EV가 사실상의 ‘우회 진출’ 통로로 작동하면서 무역 규제의 실효성과 현지 제조사의 가격 전략이 재검토될 가능성이 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Chinese EVs found back door into Western car markets – at 40% off MSRP",
+          "url": "https://electrek.co/2026/10/24/chinese-evs-found-back-door-into-western-car-markets-at-40-off-msrp/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "테슬라 텍사스 100억 달러급 태양광 공장에 초장기 세제 혜택 확정",
+      "summary": "텍사스 포트벤드 카운티가 테슬라의 100억 달러 규모 ‘프로젝트 크리스털 선’ 태양광 공장 설비에 대해 최대 35년간 지방 세제 혜택을 승인했다. 만장일치로 통과된 네 건의 인센티브 협정은 미국 내 태양광·배터리 제조 리쇼어링 흐름을 강화하며, 테슬라의 에너지 사업 확대와 장기 CAPEX 집행에 우호적인 재무·정책 환경을 제공한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla’s $10B solar factory could get 35 years of tax breaks in Texas",
+          "url": "https://electrek.co/2026/10/23/tesla-solar-factory-texas-35-years-tax-breaks-fort-bend/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "리오틴토, 열 저장 ‘핫 브릭’ 배터리로 산업 공정 탈탄소 시동",
+      "summary": "리오틴토가 야윈 알루미나 정제소에 낮 시간대 저렴한 전기로 벽돌을 가열해 열을 저장하는 대형 열 배터리 도입을 검토하고 있다. 저장된 열을 야간 증기 생산에 사용함으로써 가스·석탄 등 화석 연료 사용량을 줄이는 것이 목표로, 전기·열 통합 저장 기술을 통해 중공업 공정의 전기화 및 탄소 배출 감축을 실증하려는 시도다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Rio Tinto eyes a giant hot-brick battery to cut fossil fuel use",
+          "url": "https://electrek.co/2026/10/21/rio-tinto-eyes-a-giant-hot-brick-battery-to-cut-fossil-fuel-use/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "SHIFTING",
+      "title": "테슬라 비감독 FSD 재연기 및 로보택시 존 한정으로 자율주행 로드맵 수정",
+      "summary": "테슬라는 고객 소유 차량에서의 비감독 FSD 출시 시점을 2027년 2분기로 다시 미루고, 적용 범위를 테슬라가 관리하는 로보택시 존과 플릿에 한정하기로 했다. 완전 자율주행의 대중 차량 적용이 후퇴한 대신, 지리적으로 통제된 로보택시 모델에 집중하는 전략으로 전환하면서 규제 리스크 관리와 수익화 시점 조정이 병행되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla pushes unsupervised FSD to Q2 2027, and only inside Robotaxi zones",
+          "url": "https://electrek.co/2026/10/21/tesla-unsupervised-fsd-q2-2027-robotaxi-fleet/"
+        }
+      ]
+    }
+  ]
+}

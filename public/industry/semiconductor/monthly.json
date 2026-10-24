@@ -1,11 +1,11 @@
 {
   "range": {
-    "from": "2026-09-25",
-    "to": "2026-10-24"
+    "from": "2026-09-26",
+    "to": "2026-10-25"
   },
   "kpis": {
-    "collected": 68,
-    "deduped": 68,
+    "collected": 67,
+    "deduped": 67,
     "uniqueTopics": 7,
     "marketShare": {
       "Roadmap": 30,
@@ -18,52 +18,52 @@
   },
   "weeklyData": [
     {
-      "week": "Week 1 (09/25-10/01)",
+      "week": "Week 1 (09/26-10/02)",
       "topicCounts": {
-        "Roadmap": 15,
-        "Competition": 14,
+        "Roadmap": 16,
+        "Competition": 15,
         "Manufacturing": 5,
-        "Demand": 9,
-        "Investment": 5
+        "Demand": 8,
+        "Investment": 8
       }
     },
     {
-      "week": "Week 2 (10/02-10/08)",
+      "week": "Week 2 (10/03-10/09)",
       "topicCounts": {
-        "Roadmap": 11,
-        "Competition": 9,
+        "Roadmap": 7,
+        "Competition": 7,
         "Manufacturing": 5,
-        "Demand": 1,
-        "Investment": 4
-      }
-    },
-    {
-      "week": "Week 3 (10/09-10/15)",
-      "topicCounts": {
-        "Roadmap": 12,
-        "Competition": 9,
-        "Manufacturing": 11,
-        "Demand": 2,
-        "Investment": 4
-      }
-    },
-    {
-      "week": "Week 4 (10/16-10/22)",
-      "topicCounts": {
-        "Roadmap": 13,
-        "Competition": 12,
-        "Manufacturing": 9,
-        "Demand": 9,
+        "Demand": 3,
         "Investment": 3
       }
     },
     {
-      "week": "Week 5 (10/23-10/24)",
+      "week": "Week 3 (10/10-10/16)",
+      "topicCounts": {
+        "Roadmap": 13,
+        "Competition": 10,
+        "Manufacturing": 10,
+        "Demand": 3,
+        "Investment": 6
+      }
+    },
+    {
+      "week": "Week 4 (10/17-10/23)",
+      "topicCounts": {
+        "Roadmap": 12,
+        "Competition": 10,
+        "Manufacturing": 6,
+        "Demand": 7,
+        "Investment": 1
+      }
+    },
+    {
+      "week": "Week 5 (10/24-10/25)",
       "topicCounts": {
         "Roadmap": 1,
         "Competition": 1,
-        "Manufacturing": 1,
-        "Demand": 1,
+        "Manufacturing": 0,
+        "Demand": 0,
         "Investment": 0
       }
     }
@@ -72,10 +72,15 @@
     {
       "id": 1,
       "status": "SHIFTING",
-      "title": "맞춤형 반도체 ‘테스트 스위트’ 지배권을 둘러싼 법적 공방",
-      "summary": "맞춤형 칩 출하 전 필수인 준수 테스트 스위트의 통제권이 소송 쟁점으로 부상했다. 배상액은 상징적 수준(2달러)에 그쳤지만, 테스트 기준·툴을 누가 소유·운영하느냐에 따라 파운드리·고객 간 권한 배분과 향후 반도체 공급망 내 협상 구조가 달라질 수 있어, 제조 경쟁력과 IP 정책 측면에서 중장기 이슈로 부각되고 있다.",
-      "articleCount": 1,
+      "title": "Arm-Qualcomm 소송 판결과 RISC‑V로 대표되는 개방형 ISA 부상",
+      "summary": "Qualcomm과의 특허 분쟁에서 Arm이 실질 손해배상은 2달러에 그쳤지만, 커스텀 칩 출하 전 통과해야 하는 준수 테스트(test suite)의 통제권이 핵심 쟁점으로 남았다. 이 과정에서 RISC‑V 등 개방형 아키텍처가 AI 워크로드 대응을 위한 유연한 대안으로 부상하며, 향후 반도체 설계 생태계의 권한 배분과 라이선스 구조가 재편될 가능성이 커지고 있다.",
+      "articleCount": 2,
       "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Arm Comments on Jury Decision in Qualcomm Trial",
+          "url": "https://www.eetimes.com/arm-comments-on-jury-decision-in-qualcomm-trial/"
+        },
         {
           "source": "EE Times",
           "title": "Two Dollars and a Test Suite",
@@ -86,8 +91,8 @@
     {
       "id": 2,
       "status": "ONGOING",
-      "title": "Applied Materials의 50억 달러 EPIC 설비 투자와 장비 생태계 전략",
-      "summary": "Applied Materials가 EPIC 센터에 50억 달러 투자를 추진하며 차세대 반도체 제조 공정 R&D와 고객 공동개발을 강화하고 있다. CEO는 인터뷰에서 대규모 설비 투자가 장비 수요 선점과 공정 난이도 상승에 따른 ASP 방어로 이어져 중장기 수익성을 높일 수 있다고 설명해, 전공정 장비 공급망과 파운드리·IDM의 공정 로드맵에도 영향을 미칠 전망이다.",
+      "title": "Applied Materials의 50억 달러 EPIC 투자와 반도체 제조 생태계 영향",
+      "summary": "Applied Materials가 EPIC 센터를 중심으로 50억 달러 규모 투자를 추진하며 반도체 제조 장비·공정 혁신에 장기 베팅을 하고 있다. CEO는 인터뷰에서 공정 미세화, AI·HPC 수요 확대에 대응하기 위한 필수 인프라 투자임을 강조했으며, 이는 파운드리·메모리 업체의 CAPEX 전략과 장비 공급망 재편에 중대한 변수로 작용하고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -100,8 +105,8 @@
     {
       "id": 3,
       "status": "NEW",
-      "title": "삼성전자 2026년 3분기 실적 가이던스와 메모리·시스템 반도체 수요 회복 시그널",
-      "summary": "삼성전자가 2026년 3분기 연결 매출 약 195조원, 영업이익 약 107.40조원을 제시하며 큰 폭의 실적 개선을 예고했다. 이는 고대역폭 메모리와 파운드리 수요 회복, AI·고성능 컴퓨팅 중심의 서버·모바일향 반도체 출하 증가에 따른 것으로 해석되며, 업황 저점 통과 후 투자·CAPEX 재확대 가능성을 시사한다.",
+      "title": "삼성전자 2026년 3분기 실적 가이던스와 메모리·파운드리 수요 회복 시그널",
+      "summary": "삼성전자가 2026년 3분기 연결 매출 195조원, 영업이익 107.40조원을 제시하며 가이던스 기준 역대 최고 수준의 실적 모멘텀을 예고했다. 이는 AI 서버용 HBM·고대역폭 메모리와 첨단 파운드리 수요가 동반 견인하고 있음을 시사하며, 경쟁사 투자·증설 전략과 메모리 가격 사이클에 중대한 방향성을 제공한다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -113,23 +118,23 @@
     },
     {
       "id": 4,
-      "status": "NEW",
-      "title": "엣지 AI용 멀티모달 MCU와 계층형 메모리 구조의 확산",
-      "summary": "AI 네이티브 가속기를 내장한 신규 MCU가 멀티모달 연산과 고대역폭 DRAM 기반 계층형 메모리를 제공하면서, 센서·IoT 단에서의 온디바이스 추론 수요를 겨냥하고 있다. 수백 MB급 메모리 확장은 이미지·음성·센서 융합 처리를 가능하게 해, 서버 의존도를 낮추고 엣지용 반도체 아키텍처 경쟁을 가속화하는 방향으로 시장 구조 변화를 예고한다.",
+      "status": "ONGOING",
+      "title": "GNSS 취약성 부각과 4G·5G·NTN 기반 이중화 위치 인프라 수요",
+      "summary": "GPS 재밍 사례 증가로 GNSS 단일 의존 구조의 위험이 커지면서, 4G·5G 통신망과 NTN(비지상망)을 활용한 보조 위치 계층 구축 필요성이 대두되고 있다. 이는 통신용·위치측위용 RF 프런트엔드, 위성통신 칩셋, 엣지 단말용 저전력 SoC 수요를 자극해 관련 반도체 시장의 신규 성장 영역으로 부상하고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "EE Times",
-          "title": "Edge AI MCU Features Multimodal Compute, Tiered Memory",
-          "url": "https://www.eetimes.com/edge-ai-mcu-features-multimodal-compute-tiered-memory/"
+          "title": "When GPS Isn’t Enough: Building a Second Layer of Positioning",
+          "url": "https://www.eetimes.com/when-gps-isnt-enough-building-a-second-layer-of-positioning/"
         }
       ]
     },
     {
       "id": 5,
       "status": "ONGOING",
-      "title": "에너지 그리드 현대화와 반도체 기반 OT 보안 수요 확대",
-      "summary": "전력망 현대화로 IT·OT 시스템이 고도로 연결되면서 사이버 공격 표면이 급격히 넓어지고 있다. 그리드 자산의 실시간 모니터링과 보호를 위해 보안 기능 내장형 마이크로컨트롤러, 암호화 가속기, 보안 부트·TPM 등 반도체 솔루션 수요가 늘어날 것으로 예상되며, 전력·산업 인프라용 전력반도체 및 제어칩 시장의 구조적 성장을 뒷받침하는 요인으로 작용하고 있다.",
+      "title": "전력 그리드 현대화와 OT 보안 취약성 확대로 인한 반도체·보안 수요",
+      "summary": "스마트 그리드 전환으로 전력 인프라의 디지털화가 가속되면서, IT·OT 네트워크가 연결된 설비의 사이버 공격 표면이 확대되고 있다. 이에 따라 보안 기능이 내장된 산업용 MCU·FPGA, 보안 칩, 네트워크 모니터링용 ASIC 등 전력·인프라용 반도체에서 하드웨어 기반 보안 기능 수요가 꾸준히 늘고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {

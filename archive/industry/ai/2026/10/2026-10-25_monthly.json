@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-09-26",
+    "to": "2026-10-25"
+  },
+  "kpis": {
+    "collected": 76,
+    "deduped": 76,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "Tooling": 28,
+      "Product": 24,
+      "Models": 20,
+      "Infra": 14,
+      "Research": 14,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (09/26-10/02)",
+      "topicCounts": {
+        "Tooling": 16,
+        "Product": 12,
+        "Models": 12,
+        "Infra": 9,
+        "Research": 5
+      }
+    },
+    {
+      "week": "Week 2 (10/03-10/09)",
+      "topicCounts": {
+        "Tooling": 9,
+        "Product": 8,
+        "Models": 4,
+        "Infra": 2,
+        "Research": 4
+      }
+    },
+    {
+      "week": "Week 3 (10/10-10/16)",
+      "topicCounts": {
+        "Tooling": 13,
+        "Product": 10,
+        "Models": 13,
+        "Infra": 7,
+        "Research": 9
+      }
+    },
+    {
+      "week": "Week 4 (10/17-10/23)",
+      "topicCounts": {
+        "Tooling": 6,
+        "Product": 8,
+        "Models": 6,
+        "Infra": 1,
+        "Research": 7
+      }
+    },
+    {
+      "week": "Week 5 (10/24-10/25)",
+      "topicCounts": {
+        "Tooling": 0,
+        "Product": 0,
+        "Models": 0,
+        "Infra": 0,
+        "Research": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "ai-1",
+      "status": "ONGOING",
+      "title": "TensorRT Global Performance Tuner로 추론 성능 자동 최적화 고도화",
+      "summary": "NVIDIA TensorRT 11.1의 Global Performance Tuner를 단일 빌드 경로에서 벗어나 여러 빌드·배포 경로에 확장 적용하는 방법이 소개됐다. 다양한 하드웨어·모델 설정에서 자동·정확도 보존형 튜닝을 통해 대규모 추론 서비스의 성능과 효율을 동시에 끌어올리는 실무 패턴이 정리되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2",
+          "url": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-2/"
+        }
+      ]
+    },
+    {
+      "id": "ai-2",
+      "status": "ONGOING",
+      "title": "ChatGPT 10억+ 사용자 대응을 위한 온라인 스토리지·캐시 아키텍처 확장",
+      "summary": "OpenAI는 Habitat 기반 멀티테넌시, 글로벌 캐싱, Azure Cosmos DB 통합을 통해 ChatGPT의 온라인 스토리지를 수평 확장했다. 이로써 전 세계 트래픽 분산과 메타데이터 저장 구조를 재설계해 읽기 성능을 최대 12배 향상시키고, 대규모 사용자 수요를 안정적으로 처리하는 인프라 패턴을 제시했다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+        }
+      ]
+    },
+    {
+      "id": "ai-3",
+      "status": "NEW",
+      "title": "LitPivot로 연구 아이디어 탐색·정교화 자동화",
+      "summary": "Hugging Face의 LitPivot 도구는 방대한 문헌을 토픽 맵으로 구조화해 연구 아이디어를 동적으로 맥락화한다. 관련 논문 연결, 컨텍스트 기반 제안 기능으로 새로운 연구 방향을 찾고 기존 아이디어를 구체화하는 AI 보조 연구 워크플로우가 강화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+          "url": "https://huggingface.co/blog/allenai/litpivot"
+        }
+      ]
+    },
+    {
+      "id": "ai-4",
+      "status": "ONGOING",
+      "title": "프론티어 모델 훈련 환경 보안·격리 체계 고도화",
+      "summary": "OpenAI는 오프라인·격리된 훈련 인프라와 고성능 레드팀 평가를 도입해 프론티어 모델 훈련·검증 환경의 보안을 강화했다. 데이터 접근·실험 파이프라인을 엄격히 통제하는 구조로, 차세대 대형 모델 개발에서 안전·보안 요구를 동시에 충족하는 운영 표준을 마련하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "Securing our frontier model training environment",
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment"
+        }
+      ]
+    },
+    {
+      "id": "ai-5",
+      "status": "ONGOING",
+      "title": "Patch the Planet: 에이전트 기반 오픈소스 취약점 글로벌 공조",
+      "summary": "OpenAI의 Patch the Planet 이니셔티브는 에이전트와 협업 인프라로 보안 연구자·유지관리자·사고 대응팀을 연결해 오픈소스의 치명적 취약점을 빠르게 식별·패치·배포한다. 이를 통해 AI 에이전트를 보안 거버넌스와 사고 대응 자동화에 활용하는 글로벌 협력 모델을 실험 중이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities"
+        }
+      ]
+    }
+  ]
+}

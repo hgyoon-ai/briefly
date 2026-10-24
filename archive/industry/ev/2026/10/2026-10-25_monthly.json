@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-09-26",
+    "to": "2026-10-25"
+  },
+  "kpis": {
+    "collected": 52,
+    "deduped": 52,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 26,
+      "Competition": 24,
+      "Demand": 21,
+      "Investment": 18,
+      "Policy": 10,
+      "Other": 1
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (09/26-10/02)",
+      "topicCounts": {
+        "Roadmap": 11,
+        "Competition": 7,
+        "Demand": 8,
+        "Investment": 7,
+        "Policy": 4
+      }
+    },
+    {
+      "week": "Week 2 (10/03-10/09)",
+      "topicCounts": {
+        "Roadmap": 7,
+        "Competition": 5,
+        "Demand": 5,
+        "Investment": 3,
+        "Policy": 3
+      }
+    },
+    {
+      "week": "Week 3 (10/10-10/16)",
+      "topicCounts": {
+        "Roadmap": 9,
+        "Competition": 11,
+        "Demand": 9,
+        "Investment": 8,
+        "Policy": 3
+      }
+    },
+    {
+      "week": "Week 4 (10/17-10/23)",
+      "topicCounts": {
+        "Roadmap": 9,
+        "Competition": 8,
+        "Demand": 6,
+        "Investment": 5,
+        "Policy": 3
+      }
+    },
+    {
+      "week": "Week 5 (10/24-10/25)",
+      "topicCounts": {
+        "Roadmap": 1,
+        "Competition": 2,
+        "Demand": 2,
+        "Investment": 2,
+        "Policy": 1
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "저가 중국 시장형 폭스바겐 전기 제타 출시로 글로벌 EV 가격 경쟁 심화",
+      "summary": "폭스바겐이 중국 전용 전기 세단 제타 M6를 약 1만2천 달러 미만 가격, 460km급 주행거리로 선보이며, 중국 로컬 및 글로벌 브랜드 간 저가·중장거리 EV 경쟁이 본격화되고 있다. 이는 서방 고가 EV와의 가격 격차를 더욱 벌려 중저가 세그먼트의 글로벌 경쟁 구도를 흔들 수 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Volkswagen’s new electric Jetta offers 285 miles of range for under $12K",
+          "url": "https://electrek.co/2026/10/24/volkswagens-new-electric-jetta-offers-285-miles-of-range-for-under-12k/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "중국산 중고 EV, 서방 시장에 저가 유입되며 기존 완성차의 가격 압박 가속",
+      "summary": "중국산 중고 전기차가 신차 대비 최대 40% 낮은 가격으로 서방 시장에 유입되며 사실상 ‘우회 수출’ 통로로 작동하고 있다. 유가·물가 상승으로 서방 브랜드 신차 가격이 높게 형성된 가운데, 저가 중국 EV의 공세가 기존 완성차 업체들의 마진과 판매량에 지속적인 압박을 줄 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Chinese EVs found back door into Western car markets – at 40% off MSRP",
+          "url": "https://electrek.co/2026/10/24/chinese-evs-found-back-door-into-western-car-markets-at-40-off-msrp/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "텍사스 테슬라 100억 달러 규모 태양광 공장, 35년 세제 혜택으로 장기 제조 허브화",
+      "summary": "텍사스 포트벤드 카운티가 테슬라의 100억 달러 규모 ‘프로젝트 크리스털 선’ 태양광 공장 설비에 대해 최대 35년간 지방 세제 혜택을 승인했다. 이를 통해 테슬라는 미국 내 태양광 및 관련 전력·에너지 스토리지 제조 역량을 대규모로 확장하며, 장기적 생산 거점 및 일자리 창출 기지로 삼을 수 있게 됐다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla’s $10B solar factory could get 35 years of tax breaks in Texas",
+          "url": "https://electrek.co/2026/10/23/tesla-solar-factory-texas-35-years-tax-breaks-fort-bend/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "리오 틴토, ‘뜨거운 벽돌’ 열 배터리로 산업 열공정 탈탄소 테스트",
+      "summary": "리오 틴토가 야윈 알루미나 정제소에 대형 열 배터리 도입을 검토하며, 낮 시간대 저렴한 전력을 이용해 고체 벽돌에 열을 저장한 뒤 야간 증기 생산에 사용하는 방식을 시험 중이다. 이는 전기·배터리 기반이 아닌 열 저장 기술로 중공업 공정의 화석연료 사용을 줄이는 새로운 탈탄소 옵션으로 주목받고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Rio Tinto eyes a giant hot-brick battery to cut fossil fuel use",
+          "url": "https://electrek.co/2026/10/21/rio-tinto-eyes-a-giant-hot-brick-battery-to-cut-fossil-fuel-use/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "SHIFTING",
+      "title": "테슬라 비감독 FSD 재연기 및 로보택시 존 제한으로 자율주행 상용화 로드맵 수정",
+      "summary": "테슬라는 고객 소유 차량 대상 비감독 FSD 출시를 2027년 2분기로 다시 미루고, 테슬라가 관리하는 로보택시 존·플릿 내에서만 비감독 운행을 허용하는 방향으로 전략을 조정했다. 이는 완전 자율주행의 전면적 보급보다는, 규제가 상대적으로 용이한 지정 구역·운영형 모델에 먼저 집중하겠다는 로드맵 변화로 해석된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla pushes unsupervised FSD to Q2 2027, and only inside Robotaxi zones",
+          "url": "https://electrek.co/2026/10/21/tesla-unsupervised-fsd-q2-2027-robotaxi-fleet/"
+        }
+      ]
+    }
+  ]
+}

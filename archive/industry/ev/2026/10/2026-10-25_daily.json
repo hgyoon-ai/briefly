@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-25",
+  "highlights": {
+    "bullets": [
+      "핵심: 중고 중국산 전기차가 서방 시장에 유입되며 신차 대비 최대 40% 저렴하게 거래되고 있습니다.",
+      "핵심: 폭스바겐이 중국에 제타 M6를 약 1만2천 달러 미만으로 출시하며 약 285마일 주행거리를 제시했습니다."
+    ],
+    "topTopics": [
+      "Competition",
+      "Demand",
+      "Investment",
+      "Roadmap"
+    ],
+    "stats": {
+      "collected": 4,
+      "deduped": 4
+    }
+  },
+  "cards": [
+    {
+      "id": "ev_0001",
+      "tab": "ev",
+      "publishedAt": "2026-10-24T23:04:51+09:00",
+      "source": "Electrek",
+      "title": "Chinese EVs found back door into Western car markets – at 40% off MSRP",
+      "summary": [
+        "중고 중국산 전기차가 서방 자동차 시장에 유입되며 신차 대비 최대 40% 저렴한 가격 경쟁력을 보이고 있습니다.",
+        "이란발 유가 및 물가 상승으로 서방 완성차 업체 신차 가격이 높아지면서 중국산 EV의 가격 우위가 더욱 부각되고 있습니다.",
+        "서방 레거시 자동차 브랜드는 기술·가격 경쟁에 더해 중고 중국산 EV와도 경쟁해야 하는 새로운 압박에 직면하고 있습니다."
+      ],
+      "whyItMatters": "중고 중국산 EV의 저가 유입은 서방 자동차 시장의 가격 구조와 브랜드 경쟁 구도를 흔들 수 있는 새로운 경쟁 변수이기 때문입니다.",
+      "topics": [
+        "Competition",
+        "Demand",
+        "Policy",
+        "Investment"
+      ],
+      "status": "ONGOING",
+      "hash": "13f81b25c4a3aa55cb7979912dec47f5631d0fa4d8c04eadcc169be93b007808",
+      "url": "https://electrek.co/2026/10/24/chinese-evs-found-back-door-into-western-car-markets-at-40-off-msrp/"
+    },
+    {
+      "id": "ev_0002",
+      "tab": "ev",
+      "publishedAt": "2026-10-25T07:32:02+09:00",
+      "source": "Electrek",
+      "title": "Volkswagen’s new electric Jetta offers 285 miles of range for under $12K",
+      "summary": [
+        "폭스바겐이 중국 시장용 전기 세단 제타 M6를 약 1만2천 달러 미만 가격으로 출시했다.",
+        "이 차량은 CLTC 기준 약 285~290마일(약 460km) 수준의 주행 가능 거리를 제공한다.",
+        "저가형 장거리 전기차 출시로 중국 내 전기차 보급 확대와 가격 경쟁 심화가 예상된다."
+      ],
+      "whyItMatters": "글로벌 대중차 브랜드인 폭스바겐이 중국 시장에서 장거리·초저가 전기차를 내놓으면서 EV 가격 구조와 경쟁 구도에 의미 있는 압박을 가할 수 있기 때문이다.",
+      "topics": [
+        "Demand",
+        "Competition",
+        "Roadmap",
+        "Investment"
+      ],
+      "status": "NEW",
+      "hash": "1aeaafcc2e8b4e326e1407fee4fe18b93432f3895e34e6fbe919f738b68093ad",
+      "url": "https://electrek.co/2026/10/24/volkswagens-new-electric-jetta-offers-285-miles-of-range-for-under-12k/"
+    }
+  ]
+}

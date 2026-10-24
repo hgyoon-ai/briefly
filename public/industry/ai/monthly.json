@@ -1,11 +1,11 @@
 {
   "range": {
-    "from": "2026-09-25",
-    "to": "2026-10-24"
+    "from": "2026-09-26",
+    "to": "2026-10-25"
   },
   "kpis": {
-    "collected": 77,
-    "deduped": 77,
+    "collected": 76,
+    "deduped": 76,
     "uniqueTopics": 10,
     "marketShare": {
       "Tooling": 28,
@@ -18,19 +18,19 @@
   },
   "weeklyData": [
     {
-      "week": "Week 1 (09/25-10/01)",
+      "week": "Week 1 (09/26-10/02)",
       "topicCounts": {
-        "Tooling": 11,
-        "Product": 10,
-        "Models": 11,
-        "Infra": 6,
+        "Tooling": 16,
+        "Product": 12,
+        "Models": 12,
+        "Infra": 9,
         "Research": 5
       }
     },
     {
-      "week": "Week 2 (10/02-10/08)",
+      "week": "Week 2 (10/03-10/09)",
       "topicCounts": {
-        "Tooling": 8,
+        "Tooling": 9,
         "Product": 8,
         "Models": 4,
         "Infra": 2,
@@ -38,33 +38,33 @@
       }
     },
     {
-      "week": "Week 3 (10/09-10/15)",
+      "week": "Week 3 (10/10-10/16)",
       "topicCounts": {
-        "Tooling": 10,
-        "Product": 11,
-        "Models": 10,
-        "Infra": 6,
-        "Research": 6
+        "Tooling": 13,
+        "Product": 10,
+        "Models": 13,
+        "Infra": 7,
+        "Research": 9
       }
     },
     {
-      "week": "Week 4 (10/16-10/22)",
+      "week": "Week 4 (10/17-10/23)",
       "topicCounts": {
-        "Tooling": 11,
-        "Product": 12,
-        "Models": 8,
-        "Infra": 4,
-        "Research": 8
+        "Tooling": 6,
+        "Product": 8,
+        "Models": 6,
+        "Infra": 1,
+        "Research": 7
       }
     },
     {
-      "week": "Week 5 (10/23-10/24)",
+      "week": "Week 5 (10/24-10/25)",
       "topicCounts": {
-        "Tooling": 4,
-        "Product": 2,
-        "Models": 1,
-        "Infra": 4,
-        "Research": 1
+        "Tooling": 0,
+        "Product": 0,
+        "Models": 0,
+        "Infra": 0,
+        "Research": 0
       }
     }
   ],
@@ -72,22 +72,8 @@
     {
       "id": "ai-1",
       "status": "ONGOING",
-      "title": "대규모 AI 서비스 인프라와 스토리지 확장",
-      "summary": "OpenAI가 Habitat와 Azure Cosmos DB 기반 아키텍처로 온라인 스토리지를 재설계해 10억+ 사용자를 처리하도록 확장했다. 멀티테넌시, 글로벌 캐싱, 읽기 경로 최적화로 읽기 성능을 최대 12배 향상하며, 초대규모 AI 제품 운영을 위한 스토리지·데이터 레이어 모범사례를 제시한다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "OpenAI Blog",
-          "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
-        }
-      ]
-    },
-    {
-      "id": "ai-2",
-      "status": "ONGOING",
-      "title": "고성능 추론을 위한 NVIDIA TensorRT 글로벌 튜닝 확장",
-      "summary": "NVIDIA TensorRT 11.1의 Global Performance Tuner가 단일 빌드 경로를 넘어 여러 빌드 경로 전반의 자동 성능 튜닝을 지원하도록 확장됐다. 다양한 하드웨어·모델 조합에서 정확도 보존을 전제로 추론 성능을 극대화하는 실무 적용 방법이 제시되며, 대규모 배포 환경에서의 효율적 최적화를 가능하게 한다.",
+      "title": "TensorRT Global Performance Tuner로 추론 성능 자동 최적화 고도화",
+      "summary": "NVIDIA TensorRT 11.1의 Global Performance Tuner를 단일 빌드 경로에서 벗어나 여러 빌드·배포 경로에 확장 적용하는 방법이 소개됐다. 다양한 하드웨어·모델 설정에서 자동·정확도 보존형 튜닝을 통해 대규모 추론 서비스의 성능과 효율을 동시에 끌어올리는 실무 패턴이 정리되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -98,24 +84,24 @@
       ]
     },
     {
-      "id": "ai-3",
-      "status": "NEW",
-      "title": "AI 기반 통합 개발·배포 환경 RTX Spark 출시",
-      "summary": "NVIDIA RTX Spark는 단일 머신에서 코드 작성, 테스트, 배포까지 수행할 수 있는 AI 통합 개발 환경을 제공한다. 개발자는 AI 에이전트에 작업을 지시해 코드 생성과 검증, 배포를 자동화할 수 있어, 소규모 팀과 로컬 개발 환경에서도 MLOps·DevOps 수준의 워크플로 구축이 가능해진다.",
+      "id": "ai-2",
+      "status": "ONGOING",
+      "title": "ChatGPT 10억+ 사용자 대응을 위한 온라인 스토리지·캐시 아키텍처 확장",
+      "summary": "OpenAI는 Habitat 기반 멀티테넌시, 글로벌 캐싱, Azure Cosmos DB 통합을 통해 ChatGPT의 온라인 스토리지를 수평 확장했다. 이로써 전 세계 트래픽 분산과 메타데이터 저장 구조를 재설계해 읽기 성능을 최대 12배 향상시키고, 대규모 사용자 수요를 안정적으로 처리하는 인프라 패턴을 제시했다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "NVIDIA Developer Blog",
-          "title": "Code, Test, and Deploy on One Machine with NVIDIA RTX Spark",
-          "url": "https://developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark/"
+          "source": "OpenAI Blog",
+          "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
         }
       ]
     },
     {
-      "id": "ai-4",
+      "id": "ai-3",
       "status": "NEW",
-      "title": "연구 아이디어 생성을 지원하는 문헌 맥락화 도구 LitPivot",
-      "summary": "LitPivot는 대규모 논문 코퍼스를 기반으로 토픽 맵을 구성하고, 관련 논문과 컨텍스트를 동적으로 연결해 연구 아이디어를 제안하는 도구다. 연구자는 관심 영역을 탐색하며 새로운 문제 설정과 후속 실험 방향을 도출할 수 있어, AI 지원 문헌 리뷰와 아이디어 발굴이 구조화된 워크플로로 정착되는 흐름을 보여준다.",
+      "title": "LitPivot로 연구 아이디어 탐색·정교화 자동화",
+      "summary": "Hugging Face의 LitPivot 도구는 방대한 문헌을 토픽 맵으로 구조화해 연구 아이디어를 동적으로 맥락화한다. 관련 논문 연결, 컨텍스트 기반 제안 기능으로 새로운 연구 방향을 찾고 기존 아이디어를 구체화하는 AI 보조 연구 워크플로우가 강화되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -126,16 +112,30 @@
       ]
     },
     {
-      "id": "ai-5",
+      "id": "ai-4",
       "status": "ONGOING",
-      "title": "프론티어 모델 훈련 환경 보안·격리 강화",
-      "summary": "OpenAI는 프론티어 모델 훈련을 오프라인 격리 환경에서 수행하고, 고성능 레드팀 평가를 통해 훈련·검증 체인을 점검하는 등 보안을 대폭 강화했다. 데이터 접근 통제, 환경 분리, 검증 프로세스 고도화가 병행되며, 초대형 모델 개발의 필수 요건으로 안전·보안 거버넌스를 제도화하는 추세를 반영한다.",
+      "title": "프론티어 모델 훈련 환경 보안·격리 체계 고도화",
+      "summary": "OpenAI는 오프라인·격리된 훈련 인프라와 고성능 레드팀 평가를 도입해 프론티어 모델 훈련·검증 환경의 보안을 강화했다. 데이터 접근·실험 파이프라인을 엄격히 통제하는 구조로, 차세대 대형 모델 개발에서 안전·보안 요구를 동시에 충족하는 운영 표준을 마련하고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "OpenAI Blog",
           "title": "Securing our frontier model training environment",
           "url": "https://openai.com/index/securing-our-frontier-model-training-environment"
+        }
+      ]
+    },
+    {
+      "id": "ai-5",
+      "status": "ONGOING",
+      "title": "Patch the Planet: 에이전트 기반 오픈소스 취약점 글로벌 공조",
+      "summary": "OpenAI의 Patch the Planet 이니셔티브는 에이전트와 협업 인프라로 보안 연구자·유지관리자·사고 대응팀을 연결해 오픈소스의 치명적 취약점을 빠르게 식별·패치·배포한다. 이를 통해 AI 에이전트를 보안 거버넌스와 사고 대응 자동화에 활용하는 글로벌 협력 모델을 실험 중이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities"
         }
       ]
     }

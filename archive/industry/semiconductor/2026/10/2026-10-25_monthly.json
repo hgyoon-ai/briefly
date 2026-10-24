@@ -1,0 +1,148 @@
+{
+  "range": {
+    "from": "2026-09-26",
+    "to": "2026-10-25"
+  },
+  "kpis": {
+    "collected": 67,
+    "deduped": 67,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 30,
+      "Competition": 27,
+      "Manufacturing": 18,
+      "Demand": 13,
+      "Investment": 12,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (09/26-10/02)",
+      "topicCounts": {
+        "Roadmap": 16,
+        "Competition": 15,
+        "Manufacturing": 5,
+        "Demand": 8,
+        "Investment": 8
+      }
+    },
+    {
+      "week": "Week 2 (10/03-10/09)",
+      "topicCounts": {
+        "Roadmap": 7,
+        "Competition": 7,
+        "Manufacturing": 5,
+        "Demand": 3,
+        "Investment": 3
+      }
+    },
+    {
+      "week": "Week 3 (10/10-10/16)",
+      "topicCounts": {
+        "Roadmap": 13,
+        "Competition": 10,
+        "Manufacturing": 10,
+        "Demand": 3,
+        "Investment": 6
+      }
+    },
+    {
+      "week": "Week 4 (10/17-10/23)",
+      "topicCounts": {
+        "Roadmap": 12,
+        "Competition": 10,
+        "Manufacturing": 6,
+        "Demand": 7,
+        "Investment": 1
+      }
+    },
+    {
+      "week": "Week 5 (10/24-10/25)",
+      "topicCounts": {
+        "Roadmap": 1,
+        "Competition": 1,
+        "Manufacturing": 0,
+        "Demand": 0,
+        "Investment": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "Arm-Qualcomm 소송 판결과 RISC‑V로 대표되는 개방형 ISA 부상",
+      "summary": "Qualcomm과의 특허 분쟁에서 Arm이 실질 손해배상은 2달러에 그쳤지만, 커스텀 칩 출하 전 통과해야 하는 준수 테스트(test suite)의 통제권이 핵심 쟁점으로 남았다. 이 과정에서 RISC‑V 등 개방형 아키텍처가 AI 워크로드 대응을 위한 유연한 대안으로 부상하며, 향후 반도체 설계 생태계의 권한 배분과 라이선스 구조가 재편될 가능성이 커지고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Arm Comments on Jury Decision in Qualcomm Trial",
+          "url": "https://www.eetimes.com/arm-comments-on-jury-decision-in-qualcomm-trial/"
+        },
+        {
+          "source": "EE Times",
+          "title": "Two Dollars and a Test Suite",
+          "url": "https://www.eetimes.com/two-dollars-and-a-test-suite/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "Applied Materials의 50억 달러 EPIC 투자와 반도체 제조 생태계 영향",
+      "summary": "Applied Materials가 EPIC 센터를 중심으로 50억 달러 규모 투자를 추진하며 반도체 제조 장비·공정 혁신에 장기 베팅을 하고 있다. CEO는 인터뷰에서 공정 미세화, AI·HPC 수요 확대에 대응하기 위한 필수 인프라 투자임을 강조했으며, 이는 파운드리·메모리 업체의 CAPEX 전략과 장비 공급망 재편에 중대한 변수로 작용하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Video Interview: Applied Materials CEO on the Economics Behind Its $5B EPIC Bet",
+          "url": "https://www.eetimes.com/video-interview-applied-materials-ceo-on-the-economics-behind-its-5b-epic-bet/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "삼성전자 2026년 3분기 실적 가이던스와 메모리·파운드리 수요 회복 시그널",
+      "summary": "삼성전자가 2026년 3분기 연결 매출 195조원, 영업이익 107.40조원을 제시하며 가이던스 기준 역대 최고 수준의 실적 모멘텀을 예고했다. 이는 AI 서버용 HBM·고대역폭 메모리와 첨단 파운드리 수요가 동반 견인하고 있음을 시사하며, 경쟁사 투자·증설 전략과 메모리 가격 사이클에 중대한 방향성을 제공한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung Electronics Announces Earnings Guidance for Third Quarter 2026",
+          "url": "https://news.samsung.com/global/samsung-electronics-announces-earnings-guidance-for-third-quarter-2026"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "GNSS 취약성 부각과 4G·5G·NTN 기반 이중화 위치 인프라 수요",
+      "summary": "GPS 재밍 사례 증가로 GNSS 단일 의존 구조의 위험이 커지면서, 4G·5G 통신망과 NTN(비지상망)을 활용한 보조 위치 계층 구축 필요성이 대두되고 있다. 이는 통신용·위치측위용 RF 프런트엔드, 위성통신 칩셋, 엣지 단말용 저전력 SoC 수요를 자극해 관련 반도체 시장의 신규 성장 영역으로 부상하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "When GPS Isn’t Enough: Building a Second Layer of Positioning",
+          "url": "https://www.eetimes.com/when-gps-isnt-enough-building-a-second-layer-of-positioning/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "전력 그리드 현대화와 OT 보안 취약성 확대로 인한 반도체·보안 수요",
+      "summary": "스마트 그리드 전환으로 전력 인프라의 디지털화가 가속되면서, IT·OT 네트워크가 연결된 설비의 사이버 공격 표면이 확대되고 있다. 이에 따라 보안 기능이 내장된 산업용 MCU·FPGA, 보안 칩, 네트워크 모니터링용 ASIC 등 전력·인프라용 반도체에서 하드웨어 기반 보안 기능 수요가 꾸준히 늘고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Grid Modernization’s Hidden Cost: A Growing Attack Surface Few Are Watching",
+          "url": "https://www.eetimes.com/grid-modernization-hidden-cost-a-growing-attack-surface-few-are-watching/"
+        }
+      ]
+    }
+  ]
+}

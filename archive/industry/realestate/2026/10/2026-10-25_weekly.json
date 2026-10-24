@@ -1,0 +1,281 @@
+{
+  "range": {
+    "from": "2026-10-19",
+    "to": "2026-10-25"
+  },
+  "kpis": {
+    "collected": 23,
+    "deduped": 23,
+    "uniqueTopics": 9
+  },
+  "topTopics": [
+    {
+      "name": "Market",
+      "count": 20
+    },
+    {
+      "name": "Supply",
+      "count": 13
+    },
+    {
+      "name": "Construction",
+      "count": 10
+    },
+    {
+      "name": "Rental",
+      "count": 9
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Market",
+      "count": 3
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Supply",
+      "count": 2
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Construction",
+      "count": 1
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Rental",
+      "count": 1
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Market",
+      "count": 3
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Supply",
+      "count": 2
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Construction",
+      "count": 1
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Rental",
+      "count": 4
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Market",
+      "count": 4
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Supply",
+      "count": 3
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Construction",
+      "count": 4
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Rental",
+      "count": 1
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Market",
+      "count": 2
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Construction",
+      "count": 0
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Rental",
+      "count": 0
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Market",
+      "count": 5
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Supply",
+      "count": 5
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Construction",
+      "count": 2
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Rental",
+      "count": 3
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Market",
+      "count": 2
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Supply",
+      "count": 1
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Construction",
+      "count": 2
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Rental",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Market",
+      "count": 1
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Construction",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Rental",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "대기업 사내대출 규제 검토와 ‘막차 수요’ 확산",
+      "summary": "정부가 삼성전자 등 대기업 사내대출을 시중 금융권 수준으로 규제하는 방안을 검토하면서, 규제 전 마지막 기회를 노리는 매수 수요가 일부 신도시 단지로 유입되고 있다. 동탄 등에서 신고가 거래가 발생하는 등, 가계대출 규제의 사각지대로 활용되던 사내대출이 본격적으로 정책 논의의 대상이 되며 시장 수요·가격에 단기적인 변동성을 키우는 양상이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "“곧 대출 막힌대요, 빨리 사야겠네요” ‘삼성맨’ 사내대출 규제 검토에 ‘막차 수요’ 몰리나[부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10913657"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "인허가·착공 감소 속 전세난 심화와 비서울 고가 전세 확산",
+      "summary": "주택 인허가·착공 감소로 공급 파이프라인이 줄어드는 가운데, 비서울 주요 도시에서 전세 8억원대 사례가 등장하는 등 전세가격 부담이 전국적으로 커지고 있다. 공급 부족, 전세 수요 유지, 금리·대출 환경 변화가 겹치며 전세난이 구조화되고 있다는 진단이 제기된다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "서울도 아닌데 전세 8억?…세입자들 비명 터진 '이 도시'",
+          "url": "https://www.hankyung.com/article/2026102316841"
+        },
+        {
+          "source": "한국경제(부동산)",
+          "title": "홍지선 \"주택 인허가·착공 감소가 전세난 원인\"",
+          "url": "https://www.hankyung.com/article/2026102316861"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "대규모 재건축·정비사업 가속과 고급 주거지 재편",
+      "summary": "압구정3구역이 65층 랜드마크 동을 3개로 확대하는 설계 변경을 추진하고, 목동9단지는 2.6조원 규모 재건축 시공사 선정에 들어가는 등 서울 주요 정비사업이 본격화되고 있다. 한강변 개방감·스카이라인 개선, 주거 밀도 조정과 함께, 기존 단지 2030가구가 약 4000가구 규모로 늘어나는 등 고급 주거지 중심의 대량 공급이 예정돼 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "“한강변 개방감 살리자” 압구정3구역, 65층 랜드마크동 2→3개로 늘린다 [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10913391"
+        },
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "‘공사비 2.6조’ 목동 9단지 시공사 선정…삼성물산·GS건설 ‘촉각’[부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10913198"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "공급 본격화 전망 속 집값 향방 논쟁",
+      "summary": "LH는 집값 상승 원인을 전 정부의 공급 부족에서 찾으며, 향후 3년간 대규모 공급이 현실화되면 집값이 ‘폭락’할 수 있다고 경고했다. 공공·민간 프로젝트 동시 추진으로 공급 확대가 예고된 상황에서, 실제 수요 흡수 능력과 금리 수준에 따라 가격 조정 폭을 둘러싼 논쟁이 이어지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "LH 사장 “집값 상승은 前정부 공급부족 탓…공급 본격화하면 폭락”",
+          "url": "https://www.mk.co.kr/news/realestate/12184564"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "신규 분양 신도시·브랜드 상업시설 결합형 단지 부상",
+      "summary": "계양신도시에서 ‘카이브 유보라’와 브랜드 상업시설 ‘시간’이 개관과 함께 대규모 방문객을 끌어모이며, 주거와 상업을 결합한 신도시 랜드마크 단지에 대한 관심이 높아지고 있다. 다만 차량 2대 보유 가구 기준 주차 여건 등 실제 거주 편의성을 둘러싼 검증 필요성도 제기된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "“브랜드 문주·외관 디자인 특화”…‘계양신도시 카이브 유보라’·브랜드 상업시설 ‘시간’ 인파 북적",
+          "url": "https://www.mk.co.kr/news/realestate/12184850"
+        }
+      ]
+    }
+  ]
+}

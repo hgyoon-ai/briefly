@@ -1,0 +1,286 @@
+{
+  "range": {
+    "from": "2026-10-19",
+    "to": "2026-10-25"
+  },
+  "kpis": {
+    "collected": 10,
+    "deduped": 10,
+    "uniqueTopics": 7
+  },
+  "topTopics": [
+    {
+      "name": "MarketInfra",
+      "count": 9
+    },
+    {
+      "name": "Policy",
+      "count": 8
+    },
+    {
+      "name": "Regulation",
+      "count": 4
+    },
+    {
+      "name": "Enforcement",
+      "count": 2
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Enforcement",
+      "count": 0
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "MarketInfra",
+      "count": 3
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Regulation",
+      "count": 2
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Enforcement",
+      "count": 1
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Regulation",
+      "count": 1
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Enforcement",
+      "count": 1
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Regulation",
+      "count": 1
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Enforcement",
+      "count": 0
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Enforcement",
+      "count": 0
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "MarketInfra",
+      "count": 4
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 4
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Enforcement",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Enforcement",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "국내 증시 급락과 정부 ‘증시 대책’ 논의",
+      "summary": "코스피·코스닥이 동반 급락하며 지수가 4개월 만에 대폭 하락하자, 정부와 대통령의 증시 안정 대책에 시장의 관심이 집중되고 있다. 실적 개선에도 국내 증시가 미국보다 더 크게 빠지는 원인으로 금리·유동성·수급 악화 등이 지목되며, 향후 정책 대응과 반등 가능성이 핵심 이슈로 부상했다.",
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "급락한 주가...이재명 대통령이 언급한 ‘증시 대책’에 쏠리는 시장 관심",
+          "url": "https://www.mk.co.kr/news/stock/12180892"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "9100→5500까지 하락한 코스피…“11월은 W자 반등에 주목”",
+          "url": "https://www.mk.co.kr/news/stock/12184843"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "실적 좋은데도 미장보다 더 크게 빠지는 국장…전문가 원인 분석은",
+          "url": "https://www.mk.co.kr/news/stock/12184712"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "고금리·변동성 장세 속 ‘보험주’의 배당·방어 매력 부각",
+      "summary": "금리 상승과 증시 변동성 확대 국면에서 이익 체력이 견조한 보험주가 고배당과 방어주 성격으로 재부각되고 있다. 은행·증권 대비 변동성이 상대적으로 낮고 배당 수익률이 높다는 점이 부각되며, 변동성 회피 수단이자 중장기 배당 투자처로 관심을 받고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "증시 큰 변동성에도 버티는 보험주…배당·방어주로 부각된다는데",
+          "url": "https://www.mk.co.kr/news/stock/12184896"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "국내 자본시장 불공정거래·내부통제 실효성 논란",
+      "summary": "최근 5년간 주가조작 등 자본시장 교란 사건의 범죄수익 1.5조원 중 실제 추징은 18%에 그치고, 3건 중 2건은 추징금이 0원인 것으로 드러나 제재 실효성 논란이 커지고 있다. 동시에 대형 증권사 임직원의 불법·사적 주식거래가 반복되고 과태료도 법정 상한에 미달하는 등 내부통제와 컴플라이언스 체계 전반에 대한 신뢰가 흔들리고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[단독] 주가조작, 패가망신 맞나요?…3건 중 2건은 추징금 ‘0원’",
+          "url": "https://www.mk.co.kr/news/society/12181989"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "“불법 투자로 돈 벌다가, 퇴사하면 그만?”…증권가 주식투자의 민낯",
+          "url": "https://www.mk.co.kr/news/economy/12180261"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "SHIFTING",
+      "title": "글로벌 자금 이동: AI 과열 이후 미국 채권으로의 피난",
+      "summary": "미국 증시에서 AI 관련 자산 과열과 밸류에이션 부담 우려가 커지면서 투자자들이 상대적으로 안전한 미국 국채 등 채권으로 자금을 이동시키고 있다. 10년물 국채 금리가 5% 아래로 내려가는 과정에서도 안전자산 선호가 이어지며, 위험자산 회피와 포트폴리오 재조정 흐름이 뚜렷해지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "요즘 미국선 “아직도 AI 돈 안뺐어?”…대신 돈몰리는 ‘국밥’ 어디",
+          "url": "https://www.mk.co.kr/news/world/12184703"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "SHIFTING",
+      "title": "스테이블코인 정책과 함께 부각되는 베센트 발언·앤트로픽 상장 기대",
+      "summary": "미 재무장관 스콧 베센트가 링컨을 언급한 발언을 내놓으며 정부의 스테이블코인 활성화 조치 이후 규제 방향과 시장 파급효과가 주목받고 있다. 동시에 AI 기업 앤트로픽의 상장 시기·규모에 대한 기대가 겹치며 크립토·핀테크·빅테크 규제 프레임과 자본시장 유입 가능성이 함께 논의되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "링컨까지 소환한 베센트... 앤트로픽 상장, 다음달 확정인가",
+          "url": "https://www.mk.co.kr/news/business/12182433"
+        }
+      ]
+    }
+  ]
+}

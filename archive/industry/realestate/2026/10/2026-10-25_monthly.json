@@ -1,0 +1,148 @@
+{
+  "range": {
+    "from": "2026-09-26",
+    "to": "2026-10-25"
+  },
+  "kpis": {
+    "collected": 113,
+    "deduped": 113,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "Market": 30,
+      "Supply": 25,
+      "Policy": 18,
+      "Construction": 14,
+      "UrbanRenewal": 12,
+      "Other": 1
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (09/26-10/02)",
+      "topicCounts": {
+        "Market": 18,
+        "Supply": 16,
+        "Policy": 7,
+        "Construction": 7,
+        "UrbanRenewal": 10
+      }
+    },
+    {
+      "week": "Week 2 (10/03-10/09)",
+      "topicCounts": {
+        "Market": 14,
+        "Supply": 11,
+        "Policy": 7,
+        "Construction": 6,
+        "UrbanRenewal": 4
+      }
+    },
+    {
+      "week": "Week 3 (10/10-10/16)",
+      "topicCounts": {
+        "Market": 15,
+        "Supply": 18,
+        "Policy": 20,
+        "Construction": 10,
+        "UrbanRenewal": 9
+      }
+    },
+    {
+      "week": "Week 4 (10/17-10/23)",
+      "topicCounts": {
+        "Market": 17,
+        "Supply": 11,
+        "Policy": 10,
+        "Construction": 7,
+        "UrbanRenewal": 4
+      }
+    },
+    {
+      "week": "Week 5 (10/24-10/25)",
+      "topicCounts": {
+        "Market": 3,
+        "Supply": 1,
+        "Policy": 0,
+        "Construction": 2,
+        "UrbanRenewal": 1
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "삼성 등 대기업 사내대출에 대한 규제 검토와 ‘막차 수요’ 증가",
+      "summary": "정부가 기업 사내대출을 일반 금융권 수준으로 규제하는 방안을 검토하면서, 삼성전자 사내대출을 활용한 내 집 마련 수요가 동탄 등 일부 지역으로 몰리고 있다. 규제 전 마지막 기회를 노린 매수세가 신고가 거래를 이끌며 특정 신도시 아파트 가격에 단기적인 상승 압력을 주는 모습이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "“곧 대출 막힌대요, 빨리 사야겠네요” ‘삼성맨’ 사내대출 규제 검토에 ‘막차 수요’ 몰리나[부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10913657"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "주택 공급부족 논쟁과 향후 3년 집값 전망",
+      "summary": "LH 사장이 최근 집값 상승을 전 정부의 공급 부족 탓으로 규정하면서, 향후 3년간 대규모 공급이 본격화되면 집값이 ‘폭락’할 수 있다고 경고했다. 공급시기·물량에 대한 논쟁이 이어지는 가운데, 시장에서는 실제 착공·분양 속도와 수요 둔화 여부에 따라 가격 조정 폭이 달라질 것이란 관측이 맞서고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "LH 사장 “집값 상승은 前정부 공급부족 탓…공급 본격화하면 폭락”",
+          "url": "https://www.mk.co.kr/news/realestate/12184564"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "인허가·착공 감소와 지방 공공택지 올스톱이 불러온 구조적 공급위기",
+      "summary": "지방 공공택지에서 약 5만 가구 공급이 전면 중단된 가운데, 주택 인허가·착공 감소가 전세난과 향후 매매가격 불안의 근본 원인이라는 지적이 나오고 있다. 공공·민간 모두 공급 파이프라인이 동시에 위축되며, 단기적인 미분양 해소와 별개로 중장기 공급 공백에 대한 우려가 커지는 국면이다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "지방 공공택지의 '눈물'…5만 가구 공급 올스톱",
+          "url": "https://www.hankyung.com/article/2026101394721"
+        },
+        {
+          "source": "한국경제(부동산)",
+          "title": "홍지선 \"주택 인허가·착공 감소가 전세난 원인\"",
+          "url": "https://www.hankyung.com/article/2026102316861"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "비서울 지역까지 번진 고가 전세와 전세난 심화",
+      "summary": "서울 외 지역에서도 전세 8억원대 사례가 나오며 세입자 부담이 급증하고 있다. 공급 부족과 전세 선호, 금리·대출 여건 변화가 맞물려 비서울 권역의 전세가격까지 크게 끌어올리는 양상으로, 향후 전세 제도 개편과 월세 전환 가속화 논의에 영향을 줄 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "서울도 아닌데 전세 8억?…세입자들 비명 터진 '이 도시'",
+          "url": "https://www.hankyung.com/article/2026102316841"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "한강변 초고층 재건축 설계 조정과 스카이라인 재편",
+      "summary": "압구정3구역이 65층 랜드마크 동을 2개에서 3개로 늘리면서 전체 동수는 줄이고 단지 밀도를 낮추는 설계 변경을 추진 중이다. 한강 조망과 개방감을 극대화하는 방향으로 초고층 재건축이 재조정되며, 향후 인근 구역 및 서울 주요 한강변 재건축 설계에 영향을 줄 가능성이 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "“한강변 개방감 살리자” 압구정3구역, 65층 랜드마크동 2→3개로 늘린다 [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10913391"
+        }
+      ]
+    }
+  ]
+}

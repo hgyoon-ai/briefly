@@ -1,21 +1,21 @@
 {
   "range": {
-    "from": "2026-10-18",
-    "to": "2026-10-24"
+    "from": "2026-10-19",
+    "to": "2026-10-25"
   },
   "kpis": {
-    "collected": 14,
-    "deduped": 14,
+    "collected": 15,
+    "deduped": 15,
     "uniqueTopics": 6
   },
   "topTopics": [
     {
       "name": "Roadmap",
-      "count": 13
+      "count": 14
     },
     {
       "name": "Competition",
-      "count": 11
+      "count": 12
     },
     {
       "name": "Demand",
@@ -28,30 +28,6 @@
   ],
   "topicTrend": [
     {
-      "date": "2026-10-18",
-      "dayOfWeek": "Sun",
-      "topic": "Roadmap",
-      "count": 0
-    },
-    {
-      "date": "2026-10-18",
-      "dayOfWeek": "Sun",
-      "topic": "Competition",
-      "count": 0
-    },
-    {
-      "date": "2026-10-18",
-      "dayOfWeek": "Sun",
-      "topic": "Demand",
-      "count": 0
-    },
-    {
-      "date": "2026-10-18",
-      "dayOfWeek": "Sun",
-      "topic": "Manufacturing",
-      "count": 0
-    },
-    {
       "date": "2026-10-19",
       "dayOfWeek": "Mon",
       "topic": "Roadmap",
@@ -175,13 +151,13 @@
       "date": "2026-10-24",
       "dayOfWeek": "Sat",
       "topic": "Roadmap",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-10-24",
       "dayOfWeek": "Sat",
       "topic": "Competition",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-10-24",
@@ -192,35 +168,59 @@
     {
       "date": "2026-10-24",
       "dayOfWeek": "Sat",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
       "topic": "Manufacturing",
       "count": 0
     }
   ],
   "topIssues": [
     {
-      "id": "sem-1",
+      "id": 1,
       "status": "SHIFTING",
-      "title": "AI 확산으로 메모리 중심 반도체 패러다임 가속",
-      "summary": "AI·데이터센터 수요 급증으로 메모리가 반도체 가치사슬의 중심으로 이동하고 있다. HBM, CXL 기반 계층형 메모리, PIM 등 메모리-컴퓨트 융합 기술이 차세대 인프라의 핵심 축으로 부상하며, 관련 제조·투자 로드맵이 전방위적으로 재편되고 있다.",
+      "title": "Arm–Qualcomm 소송 판결과 CPU 아키텍처 경쟁 구도 재편",
+      "summary": "Arm과 Qualcomm 간 소송에서 배심이 2달러의 명목적 손해배상만을 인정하며 Arm의 주장 대부분이 기각됐다. 핵심 쟁점은 맞춤형 칩 출하 전 필수인 준수 테스트(test suite)에 대한 통제권으로, Arm의 생태계 지배력과 라이선스 모델에 직접 연관된다. 이번 결과는 단기 재무 영향보다, RISC‑V 등 개방형 아키텍처가 AI 워크로드용 대안으로 부상하는 가운데 CPU IP 시장의 협상 구도와 수익 구조가 재조정되는 신호로 해석된다.",
       "articleCount": 2,
       "relatedArticles": [
         {
-          "source": "SK hynix Newsroom",
-          "title": "[AI Ecosystem] The semiconductor paradigm shifts toward memory",
-          "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep4-2/"
+          "source": "EE Times",
+          "title": "Arm Comments on Jury Decision in Qualcomm Trial",
+          "url": "https://www.eetimes.com/arm-comments-on-jury-decision-in-qualcomm-trial/"
         },
         {
-          "source": "SK hynix Newsroom",
-          "title": "[AI Ecosystem] The semiconductor paradigm shifts toward memory",
-          "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep4-1/"
+          "source": "EE Times",
+          "title": "Two Dollars and a Test Suite",
+          "url": "https://www.eetimes.com/two-dollars-and-a-test-suite/"
         }
       ]
     },
     {
-      "id": "sem-2",
+      "id": 2,
       "status": "ONGOING",
-      "title": "장비업계의 대규모 EPIC 투자로 반도체 제조 경쟁 심화",
-      "summary": "Applied Materials가 50억 달러 규모 EPIC 센터 투자를 내걸며 공정 개발·장비 생태계 선점을 노리고 있다. 첨단 노드 제조 역량과 공정 혁신을 둘러싼 글로벌 경쟁이 심화되는 가운데, 장비·소재 분야로 반도체 투자 초점이 확산되는 흐름이 이어지고 있다.",
+      "title": "Applied Materials의 50억달러 EPIC 투자와 반도체 제조 인프라 강화",
+      "summary": "Applied Materials가 EPIC 센터에 50억달러 규모 투자를 단행하며 장비·공정 혁신을 가속하고 있다. CEO 인터뷰에서는 첨단 노드와 후공정 패키징 수요 확대에 대응해 고객과의 공동개발, 공정 최적화로 투자 회수를 극대화하겠다는 전략을 강조했다. 이는 글로벌 반도체 CAPEX 둔화 우려 속에서도 장비·제조 인프라 부문은 여전히 구조적 성장이 지속되고 있음을 보여준다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -231,10 +231,10 @@
       ]
     },
     {
-      "id": "sem-3",
+      "id": 3,
       "status": "NEW",
-      "title": "엣지 AI용 MCU의 멀티모달 연산·계층형 메모리 진화",
-      "summary": "AI 가속기를 내장한 최신 MCU가 멀티모달 연산과 대용량 DRAM 기반 계층형 메모리를 통합하며, 엣지 단에서의 온디바이스 AI 구현 수준을 끌어올리고 있다. 이는 센서·IoT·임베디드 시스템용 반도체 제품 경쟁 구도를 지능형 연산 중심으로 전환시키는 계기가 되고 있다.",
+      "title": "멀티모달 연산과 계층형 메모리를 통합한 엣지 AI MCU 부상",
+      "summary": "AI용 가속기를 내장한 신규 엣지 MCU가 등장해 멀티모달 연산(음성·영상·센서)을 단일 칩에서 처리할 수 있게 됐다. 수백 MB까지 확장 가능한 DRAM 기반 계층형 메모리를 통합해, 기존 MCU 대비 현장 학습과 고용량 모델 실행 여지가 크게 확대된다. 이는 센서 노드·산업용 IoT·소형 기기에서의 온디바이스 AI 구현을 촉진해 MCU와 SoC 경계가 흐려지는 추세를 가속할 전망이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -245,24 +245,24 @@
       ]
     },
     {
-      "id": "sem-4",
+      "id": 4,
       "status": "SHIFTING",
-      "title": "맞춤형 칩 준수 테스트 통제권을 둘러싼 법·규제 리스크 부상",
-      "summary": "맞춤형 칩 출하 전 필수인 테스트 수트의 통제권이 법적 분쟁으로 부상하며, 실제 손해액보다 규격·인증 체계 지배력이 핵심 쟁점으로 떠오르고 있다. 향후 반도체 IP·테스트 인프라 사업자 간 계약 구조와 규제 환경 변화가 제조·경쟁 전략에 영향을 줄 가능성이 커지고 있다.",
+      "title": "AI 확산으로 메모리가 반도체 생태계의 중심 축으로 이동",
+      "summary": "AI 학습·추론과 대형 데이터센터 확대로 고성능 DRAM과 대용량 저장장치의 전략적 가치가 급격히 상승하고 있다. 메모리 대역폭·용량이 시스템 성능을 좌우하는 병목이 되면서, 메모리 제조사는 공정 미세화뿐 아니라 CXL, HBM, PIM 등 아키텍처 혁신을 포함한 생태계 주도권을 강화하고 있다. 이는 전통적 로직 중심 패러다임에서 메모리·스토리지 중심 패러다임으로의 구조적 전환 흐름을 반영한다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "EE Times",
-          "title": "Two Dollars and a Test Suite",
-          "url": "https://www.eetimes.com/two-dollars-and-a-test-suite/"
+          "source": "SK hynix Newsroom",
+          "title": "[AI Ecosystem] The semiconductor paradigm shifts toward memory",
+          "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep4-2/"
         }
       ]
     },
     {
-      "id": "sem-5",
+      "id": 5,
       "status": "ONGOING",
-      "title": "GPS 취약성 보완을 위한 통신·NTN 기반 위치 인프라 수요 확대",
-      "summary": "GNSS 재밍·스푸핑 사례 증가로 기존 위치 인프라의 보안·신뢰성 한계가 드러나면서, 4G·5G 및 NTN 기반 보조 측위 계층 구축 논의가 확산되고 있다. 이에 따라 통신 칩셋, 위성·NTN SoC 등 반도체 수요가 국방·모빌리티·인프라 영역에서 구조적으로 확대되는 흐름이 이어지고 있다.",
+      "title": "GNSS 취약성 부각 속 4G·5G·NTN 기반 차세대 위치 인프라 필요성",
+      "summary": "GPS 재밍·스푸핑 사례가 늘며 단일 GNSS 의존의 한계가 드러나고 있다. 이에 따라 기지국·위성망 신호를 활용하는 4G·5G·NTN(비지상망) 기반 보조 측위 계층 구축이 논의되며, 저전력·저비용 위치 칩셋과 RF·베이스밴드 통합이 중요해지고 있다. 향후 통신과 위치 기능 융합 SoC 수요가 확대되면서 관련 RF·모뎀·보안 IP 시장도 동반 성장할 가능성이 크다.",
       "articleCount": 1,
       "relatedArticles": [
         {

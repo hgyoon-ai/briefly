@@ -1,62 +1,38 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "highlights": {
     "bullets": [
-      "핵심: 법원 배상액은 상징적인 2달러에 그쳤다.",
-      "핵심: 칩 출하 전 통과해야 할 준수 테스트의 통제권이 쟁점이다."
+      "핵심: 배심의 2달러 명목 손해배상 판결을 Arm이 자사 입장 검증으로 해석했으며 전문가들은 RISC-V 등 개방형 아키텍처에 주목했다."
     ],
     "topTopics": [
-      "Manufacturing",
       "Competition",
-      "Policy",
       "Roadmap"
     ],
     "stats": {
-      "collected": 2,
-      "deduped": 2
+      "collected": 1,
+      "deduped": 1
     }
   },
   "cards": [
     {
       "id": "semiconductor_0001",
       "tab": "semiconductor",
-      "publishedAt": "2026-10-23T17:03:27+09:00",
+      "publishedAt": "2026-10-24T09:00:00+09:00",
       "source": "EE Times",
-      "title": "Two Dollars and a Test Suite",
+      "title": "Arm Comments on Jury Decision in Qualcomm Trial",
       "summary": [
-        "법원 배상액은 상징적인 2달러에 불과했다.",
-        "핵심 쟁점은 맞춤형 칩이 출하되기 전 통과해야 할 준수 테스트(test suite)의 통제권이다.",
-        "테스트 통제권은 제조 과정, 경쟁 구도와 제품 출하 시점에 중대한 영향을 줄 수 있다."
+        "Arm의 Ami Badani는 배심이 2달러의 명목적 손해배상만을 인정한 판결을 자사 입장의 검증으로 해석했다.",
+        "칩 설계 전문가들은 RISC‑V 등 개방형 아키텍처가 AI 워크로드에서 장기적 유연성 대안으로 부상할 수 있다고 지적했다.",
+        "이번 판결은 반도체 IP 라이선싱과 경쟁 구도, 업체 로드맵에 영향을 줄 여지가 있다."
       ],
-      "whyItMatters": "테스트 소유권은 기술 호환성·진입장벽·업체 간 경쟁을 좌우해 반도체 설계와 출하 관행을 바꿀 수 있기 때문이다.",
+      "whyItMatters": "법적 결과가 Arm의 라이선스 모델을 부분 확인하는 동시에 개방형 아키텍처에 대한 관심을 증대시켜 산업의 경쟁 및 제품 전략 변화를 촉발할 수 있기 때문입니다.",
       "topics": [
-        "Manufacturing",
         "Competition",
-        "Policy"
+        "Roadmap"
       ],
       "status": "SHIFTING",
-      "hash": "f31f67e54eb9b11943eccff241ba54140232363634499c5f2eb0bfe5f0424f03",
-      "url": "https://www.eetimes.com/two-dollars-and-a-test-suite/"
-    },
-    {
-      "id": "semiconductor_0002",
-      "tab": "semiconductor",
-      "publishedAt": "2026-10-23T17:00:00+09:00",
-      "source": "Samsung Newsroom",
-      "title": "Inside JBL Playback Gallery: 80 Years of Sound Innovation",
-      "summary": [
-        "JBL이 80주년을 맞아 10월 24일부터 31일까지 서울 프로젝트 스페이스 라인에서 JBL Playback Gallery를 개최합니다.",
-        "전시회는 8개 시대를 통해 브랜드의 혁신과 대표 제품들을 소개하며 방문객이 역사와 기술을 직접 체험하도록 구성되었습니다.",
-        "HARMAN은 연중 JBL의 아이코닉 제품들을 선보이며 브랜드 유산을 지속적으로 홍보해 왔습니다."
-      ],
-      "whyItMatters": "브랜드 유산과 기술 혁신을 대중에 직접 보여줘 소비자 인지도와 수요에 긍정적 영향을 줄 수 있기 때문입니다.",
-      "topics": [
-        "Roadmap",
-        "Demand"
-      ],
-      "status": "NEW",
-      "hash": "3ef57b0556c218ed521b055c279ec35a04b4a46fb931f7afe4e60dcecec9bd54",
-      "url": "https://news.samsung.com/global/inside-jbl-playback-gallery-80-years-of-sound-innovation"
+      "hash": "6ca40cd756942c82f8d5081a620ff529895b8db8b9de7faee5ac6fa9b9f15156",
+      "url": "https://www.eetimes.com/arm-comments-on-jury-decision-in-qualcomm-trial/"
     }
   ]
 }

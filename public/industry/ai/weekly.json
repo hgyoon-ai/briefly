@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-10-18",
-    "to": "2026-10-24"
+    "from": "2026-10-19",
+    "to": "2026-10-25"
   },
   "kpis": {
     "collected": 17,
@@ -28,30 +28,6 @@
   ],
   "topicTrend": [
     {
-      "date": "2026-10-18",
-      "dayOfWeek": "Sun",
-      "topic": "Tooling",
-      "count": 0
-    },
-    {
-      "date": "2026-10-18",
-      "dayOfWeek": "Sun",
-      "topic": "Product",
-      "count": 0
-    },
-    {
-      "date": "2026-10-18",
-      "dayOfWeek": "Sun",
-      "topic": "Research",
-      "count": 0
-    },
-    {
-      "date": "2026-10-18",
-      "dayOfWeek": "Sun",
-      "topic": "Models",
-      "count": 0
-    },
-    {
       "date": "2026-10-19",
       "dayOfWeek": "Mon",
       "topic": "Tooling",
@@ -192,6 +168,30 @@
     {
       "date": "2026-10-24",
       "dayOfWeek": "Sat",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Research",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
       "topic": "Models",
       "count": 0
     }
@@ -200,8 +200,8 @@
     {
       "id": "ai-1",
       "status": "ONGOING",
-      "title": "대규모 LLM 추론 최적화: NVIDIA TensorRT Global Performance Tuner",
-      "summary": "NVIDIA TensorRT 11.1의 Global Performance Tuner를 활용해 단일 빌드 경로를 넘어 다양한 컴파일·실행 조합을 자동 탐색함으로써 LLM·비전 모델 추론 성능을 극대화하는 아키텍처와 실무 튜닝 사례가 연속 시리즈로 정리되었다.",
+      "title": "NVIDIA TensorRT Global Performance Tuner로 추론 성능 자동 최적화",
+      "summary": "NVIDIA TensorRT 11.1의 Global Performance Tuner는 단일 빌드 경로를 넘어 여러 컴파일·빌드 조합을 자동 탐색해 GPU 추론 워크로드의 최적 실행 경로를 찾는다. Part 1·2에 걸쳐 다양한 빌드 루트 전반에 튜닝을 확장하는 방법과 실제 적용 사례를 제시해, 동일 모델로도 하드웨어 효율과 처리량을 크게 끌어올리는 전략을 제공한다.",
       "articleCount": 2,
       "relatedArticles": [
         {
@@ -219,8 +219,8 @@
     {
       "id": "ai-2",
       "status": "ONGOING",
-      "title": "10억+ 사용자 대응을 위한 ChatGPT 스토리지·캐시 인프라 확장",
-      "summary": "OpenAI는 Habitat 기반 멀티테넌시, 글로벌 캐싱, Azure Cosmos DB 통합을 통해 ChatGPT 온라인 스토리지를 재설계해, 전 세계 10억 명 이상의 사용자 트래픽에서도 읽기 성능을 최대 12배 향상시키는 클라우드 네이티브 데이터 계층을 구축했다.",
+      "title": "10억+ ChatGPT 사용자를 위한 온라인 스토리지·캐시 아키텍처 확장",
+      "summary": "OpenAI는 Habitat 기반 멀티테넌시와 글로벌 캐싱, Azure Cosmos DB 통합을 통해 ChatGPT 온라인 스토리지를 대규모로 리팩터링했다. 읽기 경로 최적화로 최대 12배 속도 향상을 달성하며, 전 세계 수억~수십억 사용자 요청을 안정적으로 처리하는 분산 저장·캐시 아키텍처 운영 전략을 공유한다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -233,8 +233,8 @@
     {
       "id": "ai-3",
       "status": "NEW",
-      "title": "연구 아이디어 발굴을 위한 문헌 지형 기반 에이아이 도구 LitPivot",
-      "summary": "LitPivot는 대규모 논문 데이터에서 토픽 맵핑과 관련 논문 연결을 수행해 연구 아이디어를 동적으로 재구성하고, 컨텍스트 기반 제안을 통해 새로운 연구 방향 및 후속 실험 설계를 돕는 문헌 탐색·아이디에이션 보조 도구로 소개되었다.",
+      "title": "LitPivot: LLM을 활용한 문헌 기반 연구 아이디어 발굴 플랫폼",
+      "summary": "LitPivot는 방대한 논문 코퍼스 위에서 토픽 맵핑과 연관 논문 연결, 컨텍스트 기반 제안 기능을 제공해 연구 아이디어를 동적으로 맥락화한다. 연구자는 문헌 지형에서 빈틈과 신규 조합을 빠르게 찾아 새로운 연구 방향을 설계·정교화할 수 있어, AI 기반 학술 리서치 워크플로우 자동화에 초점을 둔 도구로 볼 수 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -247,33 +247,28 @@
     {
       "id": "ai-4",
       "status": "ONGOING",
-      "title": "프론티어 모델 훈련 환경 보안 강화와 취약점 공동 대응",
-      "summary": "OpenAI는 오프라인 격리, 고성능 레드팀 평가 등으로 프론티어 모델 훈련·검증 파이프라인의 보안을 강화하는 한편, Patch the Planet 프로그램을 통해 에이전트 기반 취약점 발굴과 오픈소스 생태계 참여자 간 글로벌 공조로 치명적 취약점 패치·배포 속도를 높이고 있다.",
-      "articleCount": 2,
+      "title": "프론티어 AI 모델 훈련 환경 보안·격리 강화",
+      "summary": "OpenAI는 프론티어 모델 훈련을 위한 환경을 오프라인·고격리 구조로 설계하고, 고성능 레드팀 평가를 통해 데이터 유출·조작 리스크를 줄이고 있다. 훈련·검증 파이프라인 전반에 엄격한 접근 통제와 모니터링을 적용해, 대규모 모델 개발 단계에서의 안전·보안 거버넌스를 강화하는 방향으로 지속 개선 중이다.",
+      "articleCount": 1,
       "relatedArticles": [
         {
           "source": "OpenAI Blog",
           "title": "Securing our frontier model training environment",
           "url": "https://openai.com/index/securing-our-frontier-model-training-environment"
-        },
-        {
-          "source": "OpenAI Blog",
-          "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities"
         }
       ]
     },
     {
       "id": "ai-5",
       "status": "ONGOING",
-      "title": "현업 비즈니스 워크플로우에 특화된 ChatGPT Work 활용 사례",
-      "summary": "프랜차이즈 운영 현장에서 ChatGPT Work를 도입해 현금 정산과 메뉴 가격 재조정 등 반복·규칙 기반 업무를 자동화함으로써 현금 조정 시간을 94%, 가격 조정 워크플로우를 95% 단축한 구체적인 생산성 향상 사례가 공개되었다.",
+      "title": "Patch the Planet: 에이전트 기반 오픈소스 취약점 글로벌 대응",
+      "summary": "Patch the Planet 이니셔티브는 보안 연구자, 프로젝트 유지관리자, 사고 대응팀을 하나의 협업 루프로 묶어 치명적 오픈소스 취약점을 신속 발견·공개·패치·배포하도록 지원한다. 에이전트와 도구 체인을 활용해 취약점 라이프사이클을 자동화·가속화함으로써, AI 인프라를 포함한 소프트웨어 생태계 전반의 보안 대응 시간을 크게 단축하는 것을 목표로 한다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "OpenAI Blog",
-          "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-          "url": "https://openai.com/index/ted-taylor-restaurant"
+          "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities"
         }
       ]
     }

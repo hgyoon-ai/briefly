@@ -1,103 +1,126 @@
 {
   "range": {
-    "from": "2026-09-25",
-    "to": "2026-10-24"
+    "from": "2026-09-26",
+    "to": "2026-10-25"
   },
   "kpis": {
-    "collected": 115,
-    "deduped": 115,
+    "collected": 113,
+    "deduped": 113,
     "uniqueTopics": 10,
     "marketShare": {
       "Market": 30,
-      "Supply": 26,
-      "Policy": 19,
-      "Construction": 13,
-      "Rental": 12,
-      "Other": 0
+      "Supply": 25,
+      "Policy": 18,
+      "Construction": 14,
+      "UrbanRenewal": 12,
+      "Other": 1
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (09/25-10/01)",
+      "week": "Week 1 (09/26-10/02)",
       "topicCounts": {
-        "Market": 19,
-        "Supply": 17,
-        "Policy": 8,
-        "Construction": 8,
-        "Rental": 9
+        "Market": 18,
+        "Supply": 16,
+        "Policy": 7,
+        "Construction": 7,
+        "UrbanRenewal": 10
       }
     },
     {
-      "week": "Week 2 (10/02-10/08)",
+      "week": "Week 2 (10/03-10/09)",
       "topicCounts": {
-        "Market": 16,
-        "Supply": 14,
-        "Policy": 9,
-        "Construction": 8,
-        "Rental": 4
+        "Market": 14,
+        "Supply": 11,
+        "Policy": 7,
+        "Construction": 6,
+        "UrbanRenewal": 4
       }
     },
     {
-      "week": "Week 3 (10/09-10/15)",
+      "week": "Week 3 (10/10-10/16)",
+      "topicCounts": {
+        "Market": 15,
+        "Supply": 18,
+        "Policy": 20,
+        "Construction": 10,
+        "UrbanRenewal": 9
+      }
+    },
+    {
+      "week": "Week 4 (10/17-10/23)",
       "topicCounts": {
         "Market": 17,
-        "Supply": 16,
-        "Policy": 17,
-        "Construction": 9,
-        "Rental": 6
+        "Supply": 11,
+        "Policy": 10,
+        "Construction": 7,
+        "UrbanRenewal": 4
       }
     },
     {
-      "week": "Week 4 (10/16-10/22)",
+      "week": "Week 5 (10/24-10/25)",
       "topicCounts": {
-        "Market": 20,
-        "Supply": 14,
-        "Policy": 12,
-        "Construction": 8,
-        "Rental": 11
-      }
-    },
-    {
-      "week": "Week 5 (10/23-10/24)",
-      "topicCounts": {
-        "Market": 5,
-        "Supply": 5,
-        "Policy": 1,
+        "Market": 3,
+        "Supply": 1,
+        "Policy": 0,
         "Construction": 2,
-        "Rental": 3
+        "UrbanRenewal": 1
       }
     }
   ],
   "topIssues": [
     {
       "id": 1,
-      "status": "ONGOING",
-      "title": "공급 부족·인허가 감소가 촉발한 집값·전세 가격 동시 불안",
-      "summary": "정부·전문가 모두 최근 집값 상승과 전세난의 근본 원인으로 과거 주택 공급 부족과 인허가·착공 감소를 지목하고 있다. LH 사장은 전 정부 시기 공급 부족이 현재 집값 상승을 불렀으며 향후 3년간 공급이 본격화되면 가격 급락 가능성까지 경고했다. 동시에 인허가·착공 감소로 전세 물량이 부족해지고 있어 매매·전세 시장이 함께 왜곡되는 구조적 위험이 이어지고 있다.",
-      "articleCount": 3,
+      "status": "SHIFTING",
+      "title": "삼성 등 대기업 사내대출에 대한 규제 검토와 ‘막차 수요’ 증가",
+      "summary": "정부가 기업 사내대출을 일반 금융권 수준으로 규제하는 방안을 검토하면서, 삼성전자 사내대출을 활용한 내 집 마련 수요가 동탄 등 일부 지역으로 몰리고 있다. 규제 전 마지막 기회를 노린 매수세가 신고가 거래를 이끌며 특정 신도시 아파트 가격에 단기적인 상승 압력을 주는 모습이다.",
+      "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "매일경제(부동산)",
-          "title": "LH 사장 “집값 상승은 前정부 공급부족 탓…공급 본격화하면 폭락”",
-          "url": "https://www.mk.co.kr/news/realestate/12184564"
-        },
-        {
-          "source": "한국경제(부동산)",
-          "title": "홍지선 \"주택 인허가·착공 감소가 전세난 원인\"",
-          "url": "https://www.hankyung.com/article/2026102316861"
-        },
-        {
-          "source": "한국경제(부동산)",
-          "title": "지방 공공택지의 '눈물'…5만 가구 공급 올스톱",
-          "url": "https://www.hankyung.com/article/2026101394721"
+          "source": "헤럴드경제(부동산)",
+          "title": "“곧 대출 막힌대요, 빨리 사야겠네요” ‘삼성맨’ 사내대출 규제 검토에 ‘막차 수요’ 몰리나[부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10913657"
         }
       ]
     },
     {
       "id": 2,
       "status": "ONGOING",
-      "title": "비서울 지역까지 번진 고가 전세…지역 불균형 심화",
-      "summary": "서울이 아닌 지역에서도 전세 8억원대 사례가 등장할 만큼 전세 가격이 급등하고 있다. 공급 부족과 꾸준한 전세 수요, 대출·금리 여건 변화 등이 복합적으로 작용하며 지방까지 전세 부담이 확산되는 양상으로, 수도권·지방 간 주거비 격차뿐 아니라 지역 내 계층 격차도 심화될 우려가 커지고 있다.",
+      "title": "주택 공급부족 논쟁과 향후 3년 집값 전망",
+      "summary": "LH 사장이 최근 집값 상승을 전 정부의 공급 부족 탓으로 규정하면서, 향후 3년간 대규모 공급이 본격화되면 집값이 ‘폭락’할 수 있다고 경고했다. 공급시기·물량에 대한 논쟁이 이어지는 가운데, 시장에서는 실제 착공·분양 속도와 수요 둔화 여부에 따라 가격 조정 폭이 달라질 것이란 관측이 맞서고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "LH 사장 “집값 상승은 前정부 공급부족 탓…공급 본격화하면 폭락”",
+          "url": "https://www.mk.co.kr/news/realestate/12184564"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "인허가·착공 감소와 지방 공공택지 올스톱이 불러온 구조적 공급위기",
+      "summary": "지방 공공택지에서 약 5만 가구 공급이 전면 중단된 가운데, 주택 인허가·착공 감소가 전세난과 향후 매매가격 불안의 근본 원인이라는 지적이 나오고 있다. 공공·민간 모두 공급 파이프라인이 동시에 위축되며, 단기적인 미분양 해소와 별개로 중장기 공급 공백에 대한 우려가 커지는 국면이다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "지방 공공택지의 '눈물'…5만 가구 공급 올스톱",
+          "url": "https://www.hankyung.com/article/2026101394721"
+        },
+        {
+          "source": "한국경제(부동산)",
+          "title": "홍지선 \"주택 인허가·착공 감소가 전세난 원인\"",
+          "url": "https://www.hankyung.com/article/2026102316861"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "비서울 지역까지 번진 고가 전세와 전세난 심화",
+      "summary": "서울 외 지역에서도 전세 8억원대 사례가 나오며 세입자 부담이 급증하고 있다. 공급 부족과 전세 선호, 금리·대출 여건 변화가 맞물려 비서울 권역의 전세가격까지 크게 끌어올리는 양상으로, 향후 전세 제도 개편과 월세 전환 가속화 논의에 영향을 줄 전망이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -108,44 +131,16 @@
       ]
     },
     {
-      "id": 3,
-      "status": "ONGOING",
-      "title": "대형 정비사업 본격화…목동9단지 재건축으로 도심 공급 확대 기대",
-      "summary": "목동 9단지가 공사비 2조6000억 원대 규모로 시공사 선정 절차에 착수하면서 대규모 재건축이 가시화됐다. 기존 2030가구를 최고 49층, 3958가구 단지로 재건축해 도심 내 중장기 공급 확대와 주거환경 개선이 기대되며, 시공권을 두고 대형 건설사 간 경쟁도 부각되고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "헤럴드경제(부동산)",
-          "title": "‘공사비 2.6조’ 목동 9단지 시공사 선정…삼성물산·GS건설 ‘촉각’[부동산360]",
-          "url": "https://biz.heraldcorp.com/article/10913198"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "status": "ONGOING",
-      "title": "건설사 폐업 급증과 규제 부담…주택 135만호 공급 차질 우려",
-      "summary": "종합건설업 폐업 신고가 전년 대비 16% 늘어 역대 최대를 기록하는 가운데, 사고 발생 시 매출 3% 과징금 부과 법안 추진으로 업계 부담이 가중되고 있다. 공사비 상승과 수주 위축이 겹치면서 한계기업이 늘고, 이는 계획된 135만호 주택 공급 차질로 이어질 수 있다는 우려가 제기된다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "헤럴드경제(부동산)",
-          "title": "종합건설업 폐업 역대 최대…건설협회 “매출 3% 과징금, 135만호 공급 차질 우려” [부동산360]",
-          "url": "https://biz.heraldcorp.com/article/10910316"
-        }
-      ]
-    },
-    {
       "id": 5,
-      "status": "NEW",
-      "title": "임대 관리비 신고 의무화…월세 편법 인상·깜깜이 부담 차단",
-      "summary": "정부가 임대 관리비 신고를 의무화해 관리비를 통한 사실상 월세 인상, 이른바 ‘꼼수 월세 인상’을 막겠다는 방침을 내놨다. 관리비 항목과 금액이 투명해지면서 세입자의 주거비 예측 가능성을 높이고, 임대차 시장의 불투명 관행을 줄이는 효과가 기대된다.",
+      "status": "ONGOING",
+      "title": "한강변 초고층 재건축 설계 조정과 스카이라인 재편",
+      "summary": "압구정3구역이 65층 랜드마크 동을 2개에서 3개로 늘리면서 전체 동수는 줄이고 단지 밀도를 낮추는 설계 변경을 추진 중이다. 한강 조망과 개방감을 극대화하는 방향으로 초고층 재건축이 재조정되며, 향후 인근 구역 및 서울 주요 한강변 재건축 설계에 영향을 줄 가능성이 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "한국경제(부동산)",
-          "title": "임대 관리비 신고 의무화…정부, 월세 편법 인상 차단",
-          "url": "https://www.hankyung.com/article/2026102039561"
+          "source": "헤럴드경제(부동산)",
+          "title": "“한강변 개방감 살리자” 압구정3구역, 65층 랜드마크동 2→3개로 늘린다 [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10913391"
         }
       ]
     }

@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-25",
+  "highlights": {
+    "bullets": [
+      "핵심: 배심의 2달러 명목 손해배상 판결을 Arm이 자사 입장 검증으로 해석했으며 전문가들은 RISC-V 등 개방형 아키텍처에 주목했다."
+    ],
+    "topTopics": [
+      "Competition",
+      "Roadmap"
+    ],
+    "stats": {
+      "collected": 1,
+      "deduped": 1
+    }
+  },
+  "cards": [
+    {
+      "id": "semiconductor_0001",
+      "tab": "semiconductor",
+      "publishedAt": "2026-10-24T09:00:00+09:00",
+      "source": "EE Times",
+      "title": "Arm Comments on Jury Decision in Qualcomm Trial",
+      "summary": [
+        "Arm의 Ami Badani는 배심이 2달러의 명목적 손해배상만을 인정한 판결을 자사 입장의 검증으로 해석했다.",
+        "칩 설계 전문가들은 RISC‑V 등 개방형 아키텍처가 AI 워크로드에서 장기적 유연성 대안으로 부상할 수 있다고 지적했다.",
+        "이번 판결은 반도체 IP 라이선싱과 경쟁 구도, 업체 로드맵에 영향을 줄 여지가 있다."
+      ],
+      "whyItMatters": "법적 결과가 Arm의 라이선스 모델을 부분 확인하는 동시에 개방형 아키텍처에 대한 관심을 증대시켜 산업의 경쟁 및 제품 전략 변화를 촉발할 수 있기 때문입니다.",
+      "topics": [
+        "Competition",
+        "Roadmap"
+      ],
+      "status": "SHIFTING",
+      "hash": "6ca40cd756942c82f8d5081a620ff529895b8db8b9de7faee5ac6fa9b9f15156",
+      "url": "https://www.eetimes.com/arm-comments-on-jury-decision-in-qualcomm-trial/"
+    }
+  ]
+}
