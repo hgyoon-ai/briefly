@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-10-18",
+    "to": "2026-10-24"
+  },
+  "kpis": {
+    "collected": 10,
+    "deduped": 10,
+    "uniqueTopics": 7
+  },
+  "topTopics": [
+    {
+      "name": "Roadmap",
+      "count": 9
+    },
+    {
+      "name": "Competition",
+      "count": 7
+    },
+    {
+      "name": "Investment",
+      "count": 7
+    },
+    {
+      "name": "Policy",
+      "count": 4
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "리비안, 미국 EV 시장 점유율 2위로 급부상",
+      "summary": "리비안이 미국 전기차 시장 점유율 기준으로 불과 1년 만에 10위에서 2위로 올라섰다. 쉐보레를 제치며 ‘빅 오토’ 전통 완성차 업체들이 전기차 전환 속도에서 스스로 입지를 약화시키는 사이, 순수 EV 스타트업이 시장을 빠르게 잠식하고 있다는 점을 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Rivian now #2 US EV brand, up from #10, as Big Auto marginalizes itself",
+          "url": "https://electrek.co/2026/10/20/rivian-now-2-us-ev-brand-up-from-10-as-big-auto-marginalizes-itself/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "테슬라 FSD 비감독 모드, 2027년 2분기로 재연기 및 로보택시 존 제한",
+      "summary": "테슬라는 고객 소유 차량에서의 비감독 FSD(완전자율주행) 출시 시점을 2027년 2분기로 다시 미뤘으며, 초기에는 테슬라가 관리하는 로보택시 존 내 플릿 운행으로만 허용할 계획이다. 완전 자율주행 상용화 일정이 계속 늦춰지면서 규제·기술·사업 모델 불확실성이 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla pushes unsupervised FSD to Q2 2027, and only inside Robotaxi zones",
+          "url": "https://electrek.co/2026/10/21/tesla-unsupervised-fsd-q2-2027-robotaxi-fleet/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "테슬라 Q3 2026 실적 전망: 매출 정체·이익 감소 우려",
+      "summary": "월가 컨센서스에 따르면 테슬라의 2026년 3분기 매출은 전년 동기 대비 정체되고, 주당순이익은 10% 감소할 것으로 예상된다. 성장 둔화와 수익성 하락이 동시에 나타나며 EV 수요·가격 경쟁·원가 구조에 대한 시장의 재평가가 이어질 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla (TSLA) Q3 2026 earnings preview: flat revenue, falling profits",
+          "url": "https://electrek.co/2026/10/20/tesla-tsla-q3-2026-earnings-preview/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "SHIFTING",
+      "title": "토요타, 코롤라 EV를 중국 생산으로 전동화 전환 가속",
+      "summary": "토요타는 베스트셀러 모델 코롤라의 전기차 버전을 2028년부터 중국에서 생산할 계획이다. 코롤라 EV는 기존 내연·하이브리드 모델과 같은 라인에서 생산되며, 토요타의 보수적이던 전동화 전략이 중국 현지 생산과 볼륨 모델 전동화 중심으로 재편되고 있음을 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Toyota’s best-selling Corolla is going electric, and it will be made in China",
+          "url": "https://electrek.co/2026/10/19/toyotas-best-selling-corolla-going-electric/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "테슬라 텍사스 100억 달러급 태양광 공장, 최대 35년 지방 세제 혜택 추진",
+      "summary": "텍사스 포트벤드 카운티는 테슬라의 100억 달러 규모 ‘프로젝트 크리스털 선’ 태양광 공장 설비에 대해 최대 35년간 지방세 감면을 제공하는 네 건의 세제 협정을 만장일치로 승인했다. 이는 테슬라의 에너지·태양광 제조 역량 확대와 미국 내 클린에너지 제조 인센티브 트렌드를 반영한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla’s $10B solar factory could get 35 years of tax breaks in Texas",
+          "url": "https://electrek.co/2026/10/23/tesla-solar-factory-texas-35-years-tax-breaks-fort-bend/"
+        }
+      ]
+    }
+  ]
+}

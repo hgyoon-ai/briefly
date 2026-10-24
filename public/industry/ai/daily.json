@@ -1,131 +1,129 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-24",
   "highlights": {
     "bullets": [
-      "핵심: 도메인 특화 어휘로 SLM의 추론 비용을 최대 77%까지 줄일 수 있다고 보고됐다.",
-      "핵심: 상용 AI 모델들이 클라우드 플랫폼의 모델 환경에 통합되어 마켓플레이스를 통해 제공될 예정이다.",
-      "트렌드: 오늘 사례들은 실무 적용과 인프라 통합이 AI 기술 보급의 핵심 축으로 부상하고 있음을 보여준다."
+      "핵심: 멀티테넌시와 글로벌 캐싱 도입으로 온라인 스토리지 확장을 추진했다.",
+      "핵심: 프론티어 모델 훈련 환경에서 오프라인 격리와 레드팀 평가로 통제를 강화했다.",
+      "트렌드: 인프라와 툴링을 통해 성능 최적화와 안전 통제를 동시에 강화하는 흐름이 확인된다."
     ],
     "topTopics": [
-      "Product",
-      "Tooling",
       "Infra",
-      "Models"
+      "Tooling",
+      "Models",
+      "Product"
     ],
     "stats": {
-      "collected": 17,
-      "deduped": 17
+      "collected": 8,
+      "deduped": 8
     }
   },
   "cards": [
     {
       "id": "ai_0001",
       "tab": "ai",
-      "publishedAt": "2026-10-22T02:35:36+09:00",
-      "source": "Hugging Face Blog",
-      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "publishedAt": "2026-10-24T02:00:00+09:00",
+      "source": "OpenAI Blog",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
       "summary": [
-        "허깅페이스 블로그는 SLM의 어휘를 도메인 특화하면 실제 애플리케이션에서 추론 비용을 최대 77%까지 절감할 수 있다고 보고했다.",
-        "어휘 특화는 토큰 수 감소로 임베딩·출력층 연산과 메모리 사용을 줄여 비용과 지연을 낮춘다.",
-        "실무 적용을 위해 어휘 재구성, 도메인 데이터 기반 토크나이저 재학습과 배포·인프라 최적화가 필요하다고 제안한다."
+        "OpenAI가 Habitat를 활용해 멀티테넌시와 글로벌 캐싱을 도입하며 온라인 스토리지를 대규모로 확장했다.",
+        "Azure Cosmos DB 통합과 아키텍처 최적화로 읽기 성능이 최대 12배 빨라졌다.",
+        "이번 설계는 10억 명 이상의 ChatGPT 사용자에 대해 낮은 레이턴시와 높은 신뢰성을 제공하도록 설계되었다."
       ],
-      "whyItMatters": "도메인 특화 어휘가 토큰화와 연산량을 크게 줄여 추론 비용·지연·인프라 부담을 즉시 낮추므로 상용화·스케일링에 큰 영향을 미치기 때문입니다.",
+      "whyItMatters": "대규모 사용자 기반에서 일관된 성능과 비용 효율적 확장이 가능해져 서비스 안정성과 사용자 경험이 크게 개선되기 때문이다.",
       "topics": [
-        "Models",
-        "Inference",
-        "Tooling",
         "Infra",
+        "Tooling",
+        "Data",
         "Product"
       ],
-      "status": "SHIFTING",
-      "hash": "40a01666d562060bfdf96e1bee46311ea36b1fbc4128b476c54664266fe1cab8",
-      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+      "status": "ONGOING",
+      "hash": "ee4c22366ef7e7abd786b0a4bc8d65774ddf350a3208b6c38568ae822ed0b9b0",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
     },
     {
       "id": "ai_0002",
       "tab": "ai",
-      "publishedAt": "2026-10-22T01:00:00+09:00",
-      "source": "Microsoft Research Blog",
-      "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
+      "publishedAt": "2026-10-23T19:00:00+09:00",
+      "source": "OpenAI Blog",
+      "title": "Securing our frontier model training environment",
       "summary": [
-        "마이크로소프트 리서치가 1995년에 제기된 고차원 확률·기하의 난제인 KLS 추측을 해결했다고 보고했습니다.",
-        "이 증명은 고차원 공간에서의 계산 복잡도와 등방 로그오목 분포의 구조를 명확히 해, 랜덤화 알고리즘 이론의 핵심 난제를 제거합니다.",
-        "그 결과 과학·컴퓨팅 전반에서 사용되는 샘플링·최적화·체적추정 등 고차원 랜덤화 알고리즘의 효율성 이해와 향후 개선 가능성이 크게 높아졌습니다."
+        "프론티어 모델 훈련 환경의 격리·통제 역량을 강화했습니다.",
+        "오프라인 환경과 고성능 레드팀 평가를 통해 훈련·검증 프로세스를 엄격히 운영합니다.",
+        "이를 통해 모델 간섭과 데이터 유출 위험을 줄이고 안전한 배포 준비를 목표로 합니다."
       ],
-      "whyItMatters": "수십 년간 미해결이었던 기초 수학·이론컴퓨터과학 난제를 해결함으로써, 향후 고차원 랜덤화 알고리즘의 성능 한계 분석과 새로운 알고리즘 설계에 장기적으로 큰 이론적 기반을 제공하기 때문입니다.",
+      "whyItMatters": "오용·유출 위험을 낮추고 고위험 모델의 안전한 개발·배포를 보장하기 때문입니다.",
       "topics": [
-        "Research",
-        "Inference",
-        "Data"
+        "Models",
+        "Safety",
+        "Training",
+        "Infra"
       ],
-      "status": "NEW",
-      "hash": "f5a67a23b0dd5c70b4db35e5f8f70dda8a0a53f6299ecb9f65e4ea58783a0418",
-      "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/"
+      "status": "ONGOING",
+      "hash": "f8c156dba7886826388b35c0408d87e493aa3c6ad59ba61bfe6146ea7a6b00f6",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment"
     },
     {
       "id": "ai_0003",
       "tab": "ai",
-      "publishedAt": "2026-10-21T21:00:00+09:00",
-      "source": "OpenAI Blog",
-      "title": "OpenAI models are coming to Google Cloud",
+      "publishedAt": "2026-10-24T02:27:52+09:00",
+      "source": "NVIDIA Developer Blog",
+      "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2",
       "summary": [
-        "OpenAI의 최신 모델들과 Codex 워크플로가 구글 클라우드의 Gemini 모델 가든에 통합됩니다.",
-        "이 통합은 Google Cloud Marketplace를 통해 기업과 개발자에게 제공될 예정입니다.",
-        "클라우드 기반 AI 접근성 향상과 개발자 생산성, 클라우드 경쟁 구도에 영향을 미칠 가능성이 큽니다."
+        "NVIDIA TensorRT 11.1의 Global Performance Tuner는 자동적이고 정확도 인지 성능 튜닝을 제공한다.",
+        "이 글(Part 2)은 단일 빌드 경로를 넘어 여러 빌드 경로에 걸친 튜닝을 확장하는 방법과 실무 적용 사례를 다룬다.",
+        "이를 통해 다양한 하드웨어와 설정에서 추론 처리량과 지연시간을 개선하고 배포 복잡도를 낮출 수 있다."
       ],
-      "whyItMatters": "기업 고객과 개발자에게 OpenAI 모델을 더 쉽게 제공함으로써 채택 확대와 클라우드 사업 경쟁에 직접적인 영향을 주기 때문입니다.",
+      "whyItMatters": "자동화된 전역 튜닝으로 다양한 빌드 옵션과 하드웨어에서 최적 성능을 빠르게 확보할 수 있기 때문에 중요하다.",
       "topics": [
-        "Models",
+        "Inference",
         "Tooling",
-        "Product",
-        "Business"
+        "Infra"
       ],
-      "status": "NEW",
-      "hash": "95dedf578de78f3ec264f66e37a7c309d1f2cf3d8987fe8b4de9182187d1ff7b",
-      "url": "https://openai.com/index/openai-models-google-cloud"
+      "status": "ONGOING",
+      "hash": "7383f2fa84171fd11edce71b3f9a06da6d896695b2aab3f0a6ac840a7cf0159a",
+      "url": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-2/"
     },
     {
       "id": "ai_0004",
       "tab": "ai",
-      "publishedAt": "2026-10-21T16:00:00+09:00",
-      "source": "OpenAI Blog",
-      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "publishedAt": "2026-10-24T02:27:35+09:00",
+      "source": "NVIDIA Developer Blog",
+      "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 1",
       "summary": [
-        "Patch the Planet은 보안 연구자, 유지관리자, 사고 대응팀을 연결해 오픈소스의 치명적 취약점을 공동으로 해결한다.",
-        "글로벌 협업으로 취약점 식별·패치·배포 과정을 가속화해 대응 시간을 단축한다.",
-        "이니셔티브는 오픈소스 공급망의 전반적 안정성과 신뢰성을 강화하는 것을 목표로 한다."
+        "TensorRT 성능 최적화는 단일 빌드 경로를 넘어 다양한 컴파일 답안을 탐색하는 문제다.",
+        "Global Performance Tuner는 여러 빌드 조합을 자동으로 탐색해 최적 실행 경로를 찾도록 설계되었다.",
+        "이 글(Part 1)은 도구의 개념과 필요성, 초기 적용 사례를 소개하며 후속 내용을 예고한다."
       ],
-      "whyItMatters": "오픈소스 취약점은 광범위한 시스템에 영향을 미치므로 전 세계적 조정으로 보안·운영 리스크를 크게 줄일 수 있다.",
+      "whyItMatters": "컴파일 시 선택이 런타임 성능과 하드웨어 효율에 큰 영향을 미치므로 자동화된 탐색 도구는 배포 성능을 실질적으로 향상시킨다.",
       "topics": [
-        "Safety",
+        "Inference",
         "Tooling",
-        "Product"
+        "Infra"
       ],
       "status": "ONGOING",
-      "hash": "de9db6f384cbc788775550a92a01be7699e7a41c8058849be39721a76c544e4d",
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities"
+      "hash": "7e6eaaa1dc0a2da95bb52dc1b8d09bb4e6c0d609c36e6ba94924e2ae7093dbf9",
+      "url": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-1/"
     },
     {
       "id": "ai_0005",
       "tab": "ai",
-      "publishedAt": "2026-10-22T03:26:30+09:00",
+      "publishedAt": "2026-10-24T01:15:50+09:00",
       "source": "Hugging Face Blog",
-      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
       "summary": [
-        "NVIDIA의 Kumo Relational이 학습 없이도 관계형 데이터에서 감독 학습 모델보다 높은 성능을 기록했다.",
-        "해당 기술은 별도의 재학습이나 라벨링 없이 즉시 적용 가능한 방식으로 소개되었다.",
-        "이로 인해 관계형 데이터 처리의 비용과 시간 소요가 크게 줄어 기존 ML 파이프라인 재검토가 필요하다."
+        "LitPivot는 문헌 경관 내에서 연구 아이디어를 동적으로 맥락화해 새로운 연구 방향을 생성하도록 돕는 도구입니다.",
+        "토픽 맵핑과 관련 논문 연결, 컨텍스트 기반 제안 기능으로 아이디어 발굴과 정교화를 지원합니다.",
+        "Hugging Face 생태계와 연계되어 협업 워크플로와 통합 사용이 용이하도록 설계되었습니다."
       ],
-      "whyItMatters": "학습 불필요한 고성능 솔루션은 라벨링·훈련 자원 의존도를 낮춰 실무 적용 장벽을 크게 줄이기 때문이다.",
+      "whyItMatters": "연구자가 방대한 문헌을 빠르게 탐색하고 기여 가치를 명확히 하여 초기 아이디어 발굴 시간을 단축하기 때문입니다.",
       "topics": [
-        "Models",
-        "Inference",
         "Research",
-        "Data"
+        "Tooling",
+        "Product"
       ],
       "status": "NEW",
-      "hash": "94a5f6526eada9bc0f52700eb51d921a09fcfe01b2b364c8982be81ac1418089",
-      "url": "https://huggingface.co/blog/nvidia/kumo-relational"
+      "hash": "5d794c3788a3a4be0d4215599516884eae43a82888c86723f4c4d433d59805d7",
+      "url": "https://huggingface.co/blog/allenai/litpivot"
     }
   ]
 }

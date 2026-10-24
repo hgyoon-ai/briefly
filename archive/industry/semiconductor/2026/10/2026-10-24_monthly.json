@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-09-25",
+    "to": "2026-10-24"
+  },
+  "kpis": {
+    "collected": 68,
+    "deduped": 68,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 30,
+      "Competition": 27,
+      "Manufacturing": 18,
+      "Demand": 13,
+      "Investment": 12,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (09/25-10/01)",
+      "topicCounts": {
+        "Roadmap": 15,
+        "Competition": 14,
+        "Manufacturing": 5,
+        "Demand": 9,
+        "Investment": 5
+      }
+    },
+    {
+      "week": "Week 2 (10/02-10/08)",
+      "topicCounts": {
+        "Roadmap": 11,
+        "Competition": 9,
+        "Manufacturing": 5,
+        "Demand": 1,
+        "Investment": 4
+      }
+    },
+    {
+      "week": "Week 3 (10/09-10/15)",
+      "topicCounts": {
+        "Roadmap": 12,
+        "Competition": 9,
+        "Manufacturing": 11,
+        "Demand": 2,
+        "Investment": 4
+      }
+    },
+    {
+      "week": "Week 4 (10/16-10/22)",
+      "topicCounts": {
+        "Roadmap": 13,
+        "Competition": 12,
+        "Manufacturing": 9,
+        "Demand": 9,
+        "Investment": 3
+      }
+    },
+    {
+      "week": "Week 5 (10/23-10/24)",
+      "topicCounts": {
+        "Roadmap": 1,
+        "Competition": 1,
+        "Manufacturing": 1,
+        "Demand": 1,
+        "Investment": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "맞춤형 반도체 ‘테스트 스위트’ 지배권을 둘러싼 법적 공방",
+      "summary": "맞춤형 칩 출하 전 필수인 준수 테스트 스위트의 통제권이 소송 쟁점으로 부상했다. 배상액은 상징적 수준(2달러)에 그쳤지만, 테스트 기준·툴을 누가 소유·운영하느냐에 따라 파운드리·고객 간 권한 배분과 향후 반도체 공급망 내 협상 구조가 달라질 수 있어, 제조 경쟁력과 IP 정책 측면에서 중장기 이슈로 부각되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Two Dollars and a Test Suite",
+          "url": "https://www.eetimes.com/two-dollars-and-a-test-suite/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "Applied Materials의 50억 달러 EPIC 설비 투자와 장비 생태계 전략",
+      "summary": "Applied Materials가 EPIC 센터에 50억 달러 투자를 추진하며 차세대 반도체 제조 공정 R&D와 고객 공동개발을 강화하고 있다. CEO는 인터뷰에서 대규모 설비 투자가 장비 수요 선점과 공정 난이도 상승에 따른 ASP 방어로 이어져 중장기 수익성을 높일 수 있다고 설명해, 전공정 장비 공급망과 파운드리·IDM의 공정 로드맵에도 영향을 미칠 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Video Interview: Applied Materials CEO on the Economics Behind Its $5B EPIC Bet",
+          "url": "https://www.eetimes.com/video-interview-applied-materials-ceo-on-the-economics-behind-its-5b-epic-bet/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "삼성전자 2026년 3분기 실적 가이던스와 메모리·시스템 반도체 수요 회복 시그널",
+      "summary": "삼성전자가 2026년 3분기 연결 매출 약 195조원, 영업이익 약 107.40조원을 제시하며 큰 폭의 실적 개선을 예고했다. 이는 고대역폭 메모리와 파운드리 수요 회복, AI·고성능 컴퓨팅 중심의 서버·모바일향 반도체 출하 증가에 따른 것으로 해석되며, 업황 저점 통과 후 투자·CAPEX 재확대 가능성을 시사한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung Electronics Announces Earnings Guidance for Third Quarter 2026",
+          "url": "https://news.samsung.com/global/samsung-electronics-announces-earnings-guidance-for-third-quarter-2026"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "엣지 AI용 멀티모달 MCU와 계층형 메모리 구조의 확산",
+      "summary": "AI 네이티브 가속기를 내장한 신규 MCU가 멀티모달 연산과 고대역폭 DRAM 기반 계층형 메모리를 제공하면서, 센서·IoT 단에서의 온디바이스 추론 수요를 겨냥하고 있다. 수백 MB급 메모리 확장은 이미지·음성·센서 융합 처리를 가능하게 해, 서버 의존도를 낮추고 엣지용 반도체 아키텍처 경쟁을 가속화하는 방향으로 시장 구조 변화를 예고한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Edge AI MCU Features Multimodal Compute, Tiered Memory",
+          "url": "https://www.eetimes.com/edge-ai-mcu-features-multimodal-compute-tiered-memory/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "에너지 그리드 현대화와 반도체 기반 OT 보안 수요 확대",
+      "summary": "전력망 현대화로 IT·OT 시스템이 고도로 연결되면서 사이버 공격 표면이 급격히 넓어지고 있다. 그리드 자산의 실시간 모니터링과 보호를 위해 보안 기능 내장형 마이크로컨트롤러, 암호화 가속기, 보안 부트·TPM 등 반도체 솔루션 수요가 늘어날 것으로 예상되며, 전력·산업 인프라용 전력반도체 및 제어칩 시장의 구조적 성장을 뒷받침하는 요인으로 작용하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Grid Modernization’s Hidden Cost: A Growing Attack Surface Few Are Watching",
+          "url": "https://www.eetimes.com/grid-modernization-hidden-cost-a-growing-attack-surface-few-are-watching/"
+        }
+      ]
+    }
+  ]
+}

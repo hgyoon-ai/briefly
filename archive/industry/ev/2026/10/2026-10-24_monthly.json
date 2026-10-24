@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-09-25",
+    "to": "2026-10-24"
+  },
+  "kpis": {
+    "collected": 52,
+    "deduped": 52,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 27,
+      "Competition": 24,
+      "Demand": 21,
+      "Investment": 18,
+      "Manufacturing": 10,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (09/25-10/01)",
+      "topicCounts": {
+        "Roadmap": 11,
+        "Competition": 7,
+        "Demand": 7,
+        "Investment": 8,
+        "Manufacturing": 4
+      }
+    },
+    {
+      "week": "Week 2 (10/02-10/08)",
+      "topicCounts": {
+        "Roadmap": 7,
+        "Competition": 4,
+        "Demand": 5,
+        "Investment": 4,
+        "Manufacturing": 4
+      }
+    },
+    {
+      "week": "Week 3 (10/09-10/15)",
+      "topicCounts": {
+        "Roadmap": 9,
+        "Competition": 10,
+        "Demand": 9,
+        "Investment": 9,
+        "Manufacturing": 4
+      }
+    },
+    {
+      "week": "Week 4 (10/16-10/22)",
+      "topicCounts": {
+        "Roadmap": 9,
+        "Competition": 10,
+        "Demand": 8,
+        "Investment": 5,
+        "Manufacturing": 2
+      }
+    },
+    {
+      "week": "Week 5 (10/23-10/24)",
+      "topicCounts": {
+        "Roadmap": 2,
+        "Competition": 1,
+        "Demand": 0,
+        "Investment": 2,
+        "Manufacturing": 1
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "BYD 초고급 플래그십 전기 세단, 해외 럭셔리 EV 시장 본격 진출",
+      "summary": "BYD가 롤스로이스 스타일 코치 도어를 갖춘 자사 최상위 플래그십 전기 세단을 해외 시장에 출시하며, 프리미엄·럭셔리 EV 세그먼트에서 유럽·미국 고급 브랜드와의 직접 경쟁에 나선다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "BYD’s Rolls-Royce-like flagship EV is heading overseas",
+          "url": "https://electrek.co/2026/10/23/byd-taking-rolls-royce-like-flagship-ev-overseas/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "테슬라, 텍사스 100억 달러 규모 태양광 공장에 장기 세제 혜택 확보",
+      "summary": "텍사스 포트벤드 카운티가 테슬라 ‘프로젝트 크리스털 선’ 태양광 공장 장비에 대해 최대 35년간 지방 세제 혜택을 승인하면서, 테슬라의 대규모 재생에너지·배터리 제조 투자와 미국 내 제조 기반 확대가 가속화될 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla’s $10B solar factory could get 35 years of tax breaks in Texas",
+          "url": "https://electrek.co/2026/10/23/tesla-solar-factory-texas-35-years-tax-breaks-fort-bend/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "리오틴토, 알루미나 공정 탈탄소 위한 대형 ‘핫 브릭’ 열배터리 검토",
+      "summary": "리오틴토가 야윈 알루미나 정제소에서 낮 시간대 저렴한 전력을 활용해 벽돌에 열을 저장했다가 밤에 증기 생산에 사용하는 대형 열배터리 도입을 검토하며, 에너지 다소비 산업 공정의 탈화석연료 전환 솔루션으로 주목받고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Rio Tinto eyes a giant hot-brick battery to cut fossil fuel use",
+          "url": "https://electrek.co/2026/10/21/rio-tinto-eyes-a-giant-hot-brick-battery-to-cut-fossil-fuel-use/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "SHIFTING",
+      "title": "테슬라, 비감독 FSD 2027년 2분기로 재연기…로보택시 존 한정 전략 전환",
+      "summary": "테슬라가 고객 차량에서의 비감독 FSD 출시를 2027년 2분기로 다시 미루고, 테슬라가 관리하는 로보택시 존과 플릿에 한해 허용하는 방식으로 전략을 조정하면서 자율주행 상용화 일정과 규제·책임 리스크 관리에 중대한 변화를 예고했다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla pushes unsupervised FSD to Q2 2027, and only inside Robotaxi zones",
+          "url": "https://electrek.co/2026/10/21/tesla-unsupervised-fsd-q2-2027-robotaxi-fleet/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "리비안, 미국 EV 점유율 2위로 급부상…전통 완성차 ‘빅 오토’는 입지 약화",
+      "summary": "리비안이 미국 EV 브랜드 순위에서 10위에서 2위로 급등하며 쉐보레를 제치고 테슬라 다음 규모로 자리 잡았고, 이에 따라 전통 완성차 업체들의 EV 전환 지연과 전략 부재가 시장 내 주변화로 이어지는 흐름이 가시화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Rivian now #2 US EV brand, up from #10, as Big Auto marginalizes itself",
+          "url": "https://electrek.co/2026/10/20/rivian-now-2-us-ev-brand-up-from-10-as-big-auto-marginalizes-itself/"
+        }
+      ]
+    }
+  ]
+}

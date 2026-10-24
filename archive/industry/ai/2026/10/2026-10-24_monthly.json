@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-09-25",
+    "to": "2026-10-24"
+  },
+  "kpis": {
+    "collected": 77,
+    "deduped": 77,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "Tooling": 28,
+      "Product": 24,
+      "Models": 20,
+      "Infra": 14,
+      "Research": 14,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (09/25-10/01)",
+      "topicCounts": {
+        "Tooling": 11,
+        "Product": 10,
+        "Models": 11,
+        "Infra": 6,
+        "Research": 5
+      }
+    },
+    {
+      "week": "Week 2 (10/02-10/08)",
+      "topicCounts": {
+        "Tooling": 8,
+        "Product": 8,
+        "Models": 4,
+        "Infra": 2,
+        "Research": 4
+      }
+    },
+    {
+      "week": "Week 3 (10/09-10/15)",
+      "topicCounts": {
+        "Tooling": 10,
+        "Product": 11,
+        "Models": 10,
+        "Infra": 6,
+        "Research": 6
+      }
+    },
+    {
+      "week": "Week 4 (10/16-10/22)",
+      "topicCounts": {
+        "Tooling": 11,
+        "Product": 12,
+        "Models": 8,
+        "Infra": 4,
+        "Research": 8
+      }
+    },
+    {
+      "week": "Week 5 (10/23-10/24)",
+      "topicCounts": {
+        "Tooling": 4,
+        "Product": 2,
+        "Models": 1,
+        "Infra": 4,
+        "Research": 1
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "ai-1",
+      "status": "ONGOING",
+      "title": "대규모 AI 서비스 인프라와 스토리지 확장",
+      "summary": "OpenAI가 Habitat와 Azure Cosmos DB 기반 아키텍처로 온라인 스토리지를 재설계해 10억+ 사용자를 처리하도록 확장했다. 멀티테넌시, 글로벌 캐싱, 읽기 경로 최적화로 읽기 성능을 최대 12배 향상하며, 초대규모 AI 제품 운영을 위한 스토리지·데이터 레이어 모범사례를 제시한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+        }
+      ]
+    },
+    {
+      "id": "ai-2",
+      "status": "ONGOING",
+      "title": "고성능 추론을 위한 NVIDIA TensorRT 글로벌 튜닝 확장",
+      "summary": "NVIDIA TensorRT 11.1의 Global Performance Tuner가 단일 빌드 경로를 넘어 여러 빌드 경로 전반의 자동 성능 튜닝을 지원하도록 확장됐다. 다양한 하드웨어·모델 조합에서 정확도 보존을 전제로 추론 성능을 극대화하는 실무 적용 방법이 제시되며, 대규모 배포 환경에서의 효율적 최적화를 가능하게 한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2",
+          "url": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-2/"
+        }
+      ]
+    },
+    {
+      "id": "ai-3",
+      "status": "NEW",
+      "title": "AI 기반 통합 개발·배포 환경 RTX Spark 출시",
+      "summary": "NVIDIA RTX Spark는 단일 머신에서 코드 작성, 테스트, 배포까지 수행할 수 있는 AI 통합 개발 환경을 제공한다. 개발자는 AI 에이전트에 작업을 지시해 코드 생성과 검증, 배포를 자동화할 수 있어, 소규모 팀과 로컬 개발 환경에서도 MLOps·DevOps 수준의 워크플로 구축이 가능해진다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Code, Test, and Deploy on One Machine with NVIDIA RTX Spark",
+          "url": "https://developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark/"
+        }
+      ]
+    },
+    {
+      "id": "ai-4",
+      "status": "NEW",
+      "title": "연구 아이디어 생성을 지원하는 문헌 맥락화 도구 LitPivot",
+      "summary": "LitPivot는 대규모 논문 코퍼스를 기반으로 토픽 맵을 구성하고, 관련 논문과 컨텍스트를 동적으로 연결해 연구 아이디어를 제안하는 도구다. 연구자는 관심 영역을 탐색하며 새로운 문제 설정과 후속 실험 방향을 도출할 수 있어, AI 지원 문헌 리뷰와 아이디어 발굴이 구조화된 워크플로로 정착되는 흐름을 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+          "url": "https://huggingface.co/blog/allenai/litpivot"
+        }
+      ]
+    },
+    {
+      "id": "ai-5",
+      "status": "ONGOING",
+      "title": "프론티어 모델 훈련 환경 보안·격리 강화",
+      "summary": "OpenAI는 프론티어 모델 훈련을 오프라인 격리 환경에서 수행하고, 고성능 레드팀 평가를 통해 훈련·검증 체인을 점검하는 등 보안을 대폭 강화했다. 데이터 접근 통제, 환경 분리, 검증 프로세스 고도화가 병행되며, 초대형 모델 개발의 필수 요건으로 안전·보안 거버넌스를 제도화하는 추세를 반영한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "Securing our frontier model training environment",
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment"
+        }
+      ]
+    }
+  ]
+}

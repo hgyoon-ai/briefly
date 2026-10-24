@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-10-16",
-    "to": "2026-10-22"
+    "from": "2026-10-18",
+    "to": "2026-10-24"
   },
   "kpis": {
     "collected": 14,
@@ -11,7 +11,7 @@
   "topTopics": [
     {
       "name": "Roadmap",
-      "count": 12
+      "count": 13
     },
     {
       "name": "Competition",
@@ -19,63 +19,15 @@
     },
     {
       "name": "Demand",
-      "count": 9
+      "count": 8
     },
     {
       "name": "Manufacturing",
-      "count": 8
+      "count": 7
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-10-16",
-      "dayOfWeek": "Fri",
-      "topic": "Roadmap",
-      "count": 0
-    },
-    {
-      "date": "2026-10-16",
-      "dayOfWeek": "Fri",
-      "topic": "Competition",
-      "count": 1
-    },
-    {
-      "date": "2026-10-16",
-      "dayOfWeek": "Fri",
-      "topic": "Demand",
-      "count": 1
-    },
-    {
-      "date": "2026-10-16",
-      "dayOfWeek": "Fri",
-      "topic": "Manufacturing",
-      "count": 1
-    },
-    {
-      "date": "2026-10-17",
-      "dayOfWeek": "Sat",
-      "topic": "Roadmap",
-      "count": 0
-    },
-    {
-      "date": "2026-10-17",
-      "dayOfWeek": "Sat",
-      "topic": "Competition",
-      "count": 0
-    },
-    {
-      "date": "2026-10-17",
-      "dayOfWeek": "Sat",
-      "topic": "Demand",
-      "count": 1
-    },
-    {
-      "date": "2026-10-17",
-      "dayOfWeek": "Sat",
-      "topic": "Manufacturing",
-      "count": 1
-    },
-    {
       "date": "2026-10-18",
       "dayOfWeek": "Sun",
       "topic": "Roadmap",
@@ -192,16 +144,64 @@
     {
       "date": "2026-10-22",
       "dayOfWeek": "Thu",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
       "topic": "Manufacturing",
       "count": 0
     }
   ],
   "topIssues": [
     {
-      "id": 1,
+      "id": "sem-1",
       "status": "SHIFTING",
-      "title": "AI 확산으로 메모리가 반도체 패러다임의 중심으로 이동",
-      "summary": "AI·데이터센터·고성능 컴퓨팅 수요 폭증으로 메모리의 용량·대역폭·지연 특성이 시스템 성능을 좌우하는 핵심 요소로 부상했다. HBM, CXL 기반 계층형 메모리, PIM 등 메모리 중심 구조에 대한 투자와 로드맵이 강화되며 반도체 생태계 주도권이 메모리로 이동하는 구조적 변화가 진행 중이다.",
+      "title": "AI 확산으로 메모리 중심 반도체 패러다임 가속",
+      "summary": "AI·데이터센터 수요 급증으로 메모리가 반도체 가치사슬의 중심으로 이동하고 있다. HBM, CXL 기반 계층형 메모리, PIM 등 메모리-컴퓨트 융합 기술이 차세대 인프라의 핵심 축으로 부상하며, 관련 제조·투자 로드맵이 전방위적으로 재편되고 있다.",
       "articleCount": 2,
       "relatedArticles": [
         {
@@ -217,24 +217,10 @@
       ]
     },
     {
-      "id": 2,
-      "status": "NEW",
-      "title": "멀티모달 연산과 계층형 메모리를 갖춘 엣지 AI MCU 등장",
-      "summary": "AI 전용 가속기를 내장한 신규 MCU가 멀티모달 AI 연산을 지원하고, 통합 고대역폭 DRAM 기반의 확장 가능한 계층형 메모리를 제공한다. 이는 엣지 디바이스에서 대용량·고대역폭 메모리 요구를 충족해 주며, 메모리 중심 AI 컴퓨팅 트렌드가 MCU 레벨까지 확산되고 있음을 보여준다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "EE Times",
-          "title": "Edge AI MCU Features Multimodal Compute, Tiered Memory",
-          "url": "https://www.eetimes.com/edge-ai-mcu-features-multimodal-compute-tiered-memory/"
-        }
-      ]
-    },
-    {
-      "id": 3,
+      "id": "sem-2",
       "status": "ONGOING",
-      "title": "Applied Materials, EPIC 센터에 50억 달러 투자로 반도체 제조 혁신 가속",
-      "summary": "Applied Materials가 차세대 반도체 장비·공정 혁신을 위한 EPIC 센터에 50억 달러 규모 투자를 집행하며 제조 경쟁력 강화를 노린다. CEO는 인터뷰에서 이 투자가 공정 미세화, 생산성 제고, 고객 맞춤 공정 개발을 통한 중장기 수익성 개선에 기여할 것이라고 설명했다.",
+      "title": "장비업계의 대규모 EPIC 투자로 반도체 제조 경쟁 심화",
+      "summary": "Applied Materials가 50억 달러 규모 EPIC 센터 투자를 내걸며 공정 개발·장비 생태계 선점을 노리고 있다. 첨단 노드 제조 역량과 공정 혁신을 둘러싼 글로벌 경쟁이 심화되는 가운데, 장비·소재 분야로 반도체 투자 초점이 확산되는 흐름이 이어지고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -245,30 +231,44 @@
       ]
     },
     {
-      "id": 4,
+      "id": "sem-3",
+      "status": "NEW",
+      "title": "엣지 AI용 MCU의 멀티모달 연산·계층형 메모리 진화",
+      "summary": "AI 가속기를 내장한 최신 MCU가 멀티모달 연산과 대용량 DRAM 기반 계층형 메모리를 통합하며, 엣지 단에서의 온디바이스 AI 구현 수준을 끌어올리고 있다. 이는 센서·IoT·임베디드 시스템용 반도체 제품 경쟁 구도를 지능형 연산 중심으로 전환시키는 계기가 되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Edge AI MCU Features Multimodal Compute, Tiered Memory",
+          "url": "https://www.eetimes.com/edge-ai-mcu-features-multimodal-compute-tiered-memory/"
+        }
+      ]
+    },
+    {
+      "id": "sem-4",
+      "status": "SHIFTING",
+      "title": "맞춤형 칩 준수 테스트 통제권을 둘러싼 법·규제 리스크 부상",
+      "summary": "맞춤형 칩 출하 전 필수인 테스트 수트의 통제권이 법적 분쟁으로 부상하며, 실제 손해액보다 규격·인증 체계 지배력이 핵심 쟁점으로 떠오르고 있다. 향후 반도체 IP·테스트 인프라 사업자 간 계약 구조와 규제 환경 변화가 제조·경쟁 전략에 영향을 줄 가능성이 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Two Dollars and a Test Suite",
+          "url": "https://www.eetimes.com/two-dollars-and-a-test-suite/"
+        }
+      ]
+    },
+    {
+      "id": "sem-5",
       "status": "ONGOING",
-      "title": "GNSS 취약성 부각 속 4G·5G·NTN 기반 보조 측위 기술 부상",
-      "summary": "GPS 재밍과 스푸핑 증가로 GNSS 의존 설계의 리스크가 커지면서 통신망 기반 측위가 반도체·시스템 로드맵의 주요 이슈로 떠오르고 있다. 4G·5G 기지국, 비지상망(NTN) 위성 네트워크를 활용한 하이브리드 측위 솔루션이 차량·인프라·산업용 디바이스용 ‘2차 안전망’으로 검토되고 있다.",
+      "title": "GPS 취약성 보완을 위한 통신·NTN 기반 위치 인프라 수요 확대",
+      "summary": "GNSS 재밍·스푸핑 사례 증가로 기존 위치 인프라의 보안·신뢰성 한계가 드러나면서, 4G·5G 및 NTN 기반 보조 측위 계층 구축 논의가 확산되고 있다. 이에 따라 통신 칩셋, 위성·NTN SoC 등 반도체 수요가 국방·모빌리티·인프라 영역에서 구조적으로 확대되는 흐름이 이어지고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "EE Times",
           "title": "When GPS Isn’t Enough: Building a Second Layer of Positioning",
           "url": "https://www.eetimes.com/when-gps-isnt-enough-building-a-second-layer-of-positioning/"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "status": "ONGOING",
-      "title": "초고수명 전자태그로 확장되는 특수 환경용 반도체 수요",
-      "summary": "수년~수십 년 수명을 요구하는 어류 추적 태그에 소형 전자장치가 통합되며, 배터리 효율·센서 신뢰성·내환경성을 동시에 만족하는 특수 반도체 설계 수요가 커지고 있다. 이는 해양·환경 모니터링 등 니치 산업에서 장기 동작·저전력·고신뢰성을 특징으로 하는 새 부품 시장을 형성 중이다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "EE Times",
-          "title": "Innovasea Packs Long-Life Electronics into Fish Tags",
-          "url": "https://www.eetimes.com/innovasea-packs-long-life-electronics-into-fish-tags/"
         }
       ]
     }
