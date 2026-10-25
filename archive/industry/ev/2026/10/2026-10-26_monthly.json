@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-09-27",
+    "to": "2026-10-26"
+  },
+  "kpis": {
+    "collected": 52,
+    "deduped": 52,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 27,
+      "Competition": 23,
+      "Demand": 22,
+      "Investment": 18,
+      "Policy": 10,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (09/27-10/03)",
+      "topicCounts": {
+        "Roadmap": 11,
+        "Competition": 7,
+        "Demand": 7,
+        "Investment": 6,
+        "Policy": 4
+      }
+    },
+    {
+      "week": "Week 2 (10/04-10/10)",
+      "topicCounts": {
+        "Roadmap": 8,
+        "Competition": 6,
+        "Demand": 6,
+        "Investment": 4,
+        "Policy": 3
+      }
+    },
+    {
+      "week": "Week 3 (10/11-10/17)",
+      "topicCounts": {
+        "Roadmap": 6,
+        "Competition": 10,
+        "Demand": 9,
+        "Investment": 6,
+        "Policy": 4
+      }
+    },
+    {
+      "week": "Week 4 (10/18-10/24)",
+      "topicCounts": {
+        "Roadmap": 9,
+        "Competition": 7,
+        "Demand": 4,
+        "Investment": 7,
+        "Policy": 4
+      }
+    },
+    {
+      "week": "Week 5 (10/25-10/26)",
+      "topicCounts": {
+        "Roadmap": 2,
+        "Competition": 0,
+        "Demand": 2,
+        "Investment": 2,
+        "Policy": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "ev-1",
+      "status": "NEW",
+      "title": "완전 자율·전동 무인 터미널 트랙터 상용화 가속",
+      "summary": "XCMG가 운전석이 완전히 없는 레벨4 자율주행 전동 터미널 트랙터 콘셉트를 공개하면서 항만·물류 터미널에서의 무인 전기 상용차 도입이 본격화되고 있다. 전동화와 고도 자율주행을 결합한 물류 장비가 EV 산업 내 신규 성장 축으로 부상하는 흐름이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "XCMG debuts new, fully autonomous electric terminal tractor [video]",
+          "url": "https://electrek.co/2026/10/25/xcmg-debuts-new-fully-autonomous-electric-terminal-tractor-video/"
+        }
+      ]
+    },
+    {
+      "id": "ev-2",
+      "status": "NEW",
+      "title": "저가 장주행 EV로 격화되는 중국 승용차 가격 경쟁",
+      "summary": "폭스바겐이 중국 시장에 약 1만2천 달러 미만 가격으로 285마일 이상 주행 가능한 전기 제타를 선보이며, 중국 로컬 및 글로벌 완성차 간 EV 가격 경쟁이 한층 심화되고 있다. 보급형 장주행 모델 확대로 내연기관 수요 잠식이 가속될 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Volkswagen’s new electric Jetta offers 285 miles of range for under $12K",
+          "url": "https://electrek.co/2026/10/24/volkswagens-new-electric-jetta-offers-285-miles-of-range-for-under-12k/"
+        }
+      ]
+    },
+    {
+      "id": "ev-3",
+      "status": "ONGOING",
+      "title": "중고 중국산 EV, 우회 경로 통해 서방 시장 잠식",
+      "summary": "중국산 전기차가 중고차 형태로 서방 시장에 유입되며 신차 대비 최대 40% 저렴한 가격을 내세워 점유율을 확대하고 있다. 이란발 유가·물가 상승으로 서방 제조사의 신차 가격 부담이 커진 가운데, 중국산 EV의 가격 우위가 글로벌 경쟁 구도를 재편하는 흐름이 이어지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Chinese EVs found back door into Western car markets – at 40% off MSRP",
+          "url": "https://electrek.co/2026/10/24/chinese-evs-found-back-door-into-western-car-markets-at-40-off-msrp/"
+        }
+      ]
+    },
+    {
+      "id": "ev-4",
+      "status": "ONGOING",
+      "title": "테슬라 텍사스 초대형 태양광 공장, 장기 세제 혜택으로 투자 모멘텀 강화",
+      "summary": "텍사스 포트벤드 카운티가 약 100억 달러 규모의 테슬라 태양광 공장에 대해 최대 35년간 지방 세제 혜택을 승인하며, 북미 재생에너지·배터리 관련 제조 투자 유치 경쟁이 강화되고 있다. 이는 EV·에너지 사업 통합을 추진하는 테슬라의 제조 기반 확대에 중요한 정책 지원으로 평가된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla’s $10B solar factory could get 35 years of tax breaks in Texas",
+          "url": "https://electrek.co/2026/10/23/tesla-solar-factory-texas-35-years-tax-breaks-fort-bend/"
+        }
+      ]
+    },
+    {
+      "id": "ev-5",
+      "status": "NEW",
+      "title": "중공업·제련 공정 탈탄소화 위한 대형 열 배터리 실증",
+      "summary": "리오 틴토가 호주 알루미나 정제소에 대형 ‘뜨거운 벽돌’ 열 배터리 도입을 검토하며, 저가 전력을 활용한 열 저장을 통해 화석연료 사용을 줄이려 하고 있다. 에너지 다소비 산업에서 전기·열 저장 기술을 활용한 간접 전기화가 EV 배터리 기술과 병행해 중요한 탈탄소 솔루션으로 부상하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Rio Tinto eyes a giant hot-brick battery to cut fossil fuel use",
+          "url": "https://electrek.co/2026/10/21/rio-tinto-eyes-a-giant-hot-brick-battery-to-cut-fossil-fuel-use/"
+        }
+      ]
+    }
+  ]
+}

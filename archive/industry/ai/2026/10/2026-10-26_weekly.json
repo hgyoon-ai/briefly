@@ -1,0 +1,276 @@
+{
+  "range": {
+    "from": "2026-10-20",
+    "to": "2026-10-26"
+  },
+  "kpis": {
+    "collected": 15,
+    "deduped": 15,
+    "uniqueTopics": 10
+  },
+  "topTopics": [
+    {
+      "name": "Tooling",
+      "count": 9
+    },
+    {
+      "name": "Product",
+      "count": 9
+    },
+    {
+      "name": "Research",
+      "count": 7
+    },
+    {
+      "name": "Inference",
+      "count": 5
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Tooling",
+      "count": 1
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Product",
+      "count": 2
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Research",
+      "count": 1
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Inference",
+      "count": 0
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Tooling",
+      "count": 3
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Product",
+      "count": 4
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Research",
+      "count": 3
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Inference",
+      "count": 0
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Tooling",
+      "count": 1
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Product",
+      "count": 1
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Research",
+      "count": 2
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Inference",
+      "count": 3
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Research",
+      "count": 0
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Inference",
+      "count": 0
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Tooling",
+      "count": 4
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Product",
+      "count": 2
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Research",
+      "count": 1
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Inference",
+      "count": 2
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Research",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Inference",
+      "count": 0
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Research",
+      "count": 0
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Inference",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "대규모 AI 인퍼런스 최적화: NVIDIA TensorRT Global Performance Tuner 확장",
+      "summary": "NVIDIA TensorRT 11.1의 Global Performance Tuner가 단일 빌드 경로를 넘어 다양한 컴파일·실행 조합을 자동 탐색해 최적 성능을 찾는 방식으로 인퍼런스 효율을 크게 높이고 있다. Part 1에서는 여러 빌드 조합 탐색 개념을, Part 2에서는 이를 실제 서비스 환경 등 복수 빌드 경로에 확장하는 실무 적용 전략을 제시해, 복잡한 모델 배포 환경에서 자동화된 성능 튜닝 흐름을 정립하고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 1",
+          "url": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-1/"
+        },
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2",
+          "url": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-2/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "ChatGPT 10억+ 사용자 규모를 지탱하는 온라인 스토리지 아키텍처",
+      "summary": "OpenAI는 Habitat 기반 멀티테넌시, 글로벌 캐싱, Azure Cosmos DB 통합을 통해 ChatGPT를 위한 온라인 스토리지를 대규모로 확장했다. 이를 통해 읽기 성능을 최대 12배 향상시키며, 전 세계 10억 명이 넘는 사용자를 지원할 수 있는 고가용성·고성능 AI 서비스 인프라의 기준선을 제시하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "프론티어 AI 모델 훈련 환경 보안 강화",
+      "summary": "OpenAI는 차세대 프론티어 모델 훈련을 위해 오프라인 격리, 엄격한 접근 통제, 고성능 레드팀 평가 등을 포함한 보안 체계를 강화했다. 훈련·검증 전 과정에서 안전성과 무결성을 보장하는 인프라·프로세스를 수립해, 대형 모델 개발 단계에서의 리스크를 줄이는 방향으로 지속 개선하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "Securing our frontier model training environment",
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "AI 기반 보안 협업: 오픈소스 취약점 글로벌 패치 네트워크",
+      "summary": "OpenAI의 Patch the Planet 이니셔티브는 보안 연구자, 프로젝트 유지관리자, 사고 대응팀을 하나의 네트워크로 묶어 오픈소스의 치명적 취약점을 조기에 발견하고 신속히 패치·배포하도록 지원한다. 에이전트와 협업 도구를 활용해 취약점 식별부터 조정된 공개, 패치 롤아웃까지의 전 과정을 가속화한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "실제 비즈니스에서의 ChatGPT Work 생산성 향상 사례",
+      "summary": "한 프랜차이즈 점주는 ChatGPT Work를 활용해 매장 현금 조정 시간은 94%, 메뉴 가격 재조정 업무는 95% 단축했다. 반복적인 재무·운영 업무를 워크플로우로 자동화함으로써 중소 비즈니스 현장에서도 AI 도입이 직접적인 시간·비용 절감 효과로 연결되고 있음을 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+          "url": "https://openai.com/index/ted-taylor-restaurant"
+        }
+      ]
+    }
+  ]
+}

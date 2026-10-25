@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-10-20",
+    "to": "2026-10-26"
+  },
+  "kpis": {
+    "collected": 10,
+    "deduped": 10,
+    "uniqueTopics": 7
+  },
+  "topTopics": [
+    {
+      "name": "Investment",
+      "count": 9
+    },
+    {
+      "name": "Roadmap",
+      "count": 8
+    },
+    {
+      "name": "Demand",
+      "count": 6
+    },
+    {
+      "name": "Competition",
+      "count": 6
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Demand",
+      "count": 2
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Demand",
+      "count": 2
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "ev-1",
+      "status": "NEW",
+      "title": "완전자율 전동 터미널 트랙터 등장으로 상용 전기 물류 혁신 가속",
+      "summary": "XCMG가 운전석이 없는 레벨4 완전 자율주행 전동 터미널 트랙터 SDA411 콘셉트를 공개하면서, 컨테이너 터미널 등 B2B 물류 현장에서 전기·자율주행 융합 솔루션 상용화 경쟁이 본격화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "XCMG debuts new, fully autonomous electric terminal tractor [video]",
+          "url": "https://electrek.co/2026/10/25/xcmg-debuts-new-fully-autonomous-electric-terminal-tractor-video/"
+        }
+      ]
+    },
+    {
+      "id": "ev-2",
+      "status": "NEW",
+      "title": "중국 저가 장거리 EV 출시로 글로벌 승용 전기차 가격 경쟁 격화",
+      "summary": "폭스바겐이 중국 시장에 1만2천 달러 미만의 전기 제타 M6를 출시하며, 460km 수준의 주행거리와 초저가 가격을 앞세워 로컬 브랜드와의 경쟁뿐 아니라 글로벌 메이커의 EV 가격 전략 전반에 압박을 가하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Volkswagen’s new electric Jetta offers 285 miles of range for under $12K",
+          "url": "https://electrek.co/2026/10/24/volkswagens-new-electric-jetta-offers-285-miles-of-range-for-under-12k/"
+        }
+      ]
+    },
+    {
+      "id": "ev-3",
+      "status": "ONGOING",
+      "title": "중국산 중고 EV, 우회 경로 통해 서방 시장 잠식",
+      "summary": "신차 대비 최대 40% 저렴한 중국산 중고 전기차가 서방 시장으로 유입되면서, 중국 브랜드 EV의 가격 경쟁력이 한층 부각되고 기존 완성차 업체의 EV 수익성과 재고 전략에 구조적 압력을 주고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Chinese EVs found back door into Western car markets – at 40% off MSRP",
+          "url": "https://electrek.co/2026/10/24/chinese-evs-found-back-door-into-western-car-markets-at-40-off-msrp/"
+        }
+      ]
+    },
+    {
+      "id": "ev-4",
+      "status": "ONGOING",
+      "title": "테슬라 텍사스 100억 달러 규모 태양광 공장, 대규모 세제 혜택으로 에너지 밸류체인 확대",
+      "summary": "텍사스 포트벤드 카운티가 테슬라의 ‘프로젝트 크리스털 선’ 태양광 공장 설비에 대해 최대 35년간 지방세 감면을 승인함에 따라, 테슬라는 EV 외 태양광·에너지 제조 역량을 강화하며 통합 청정에너지 기업으로의 전환을 가속하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla’s $10B solar factory could get 35 years of tax breaks in Texas",
+          "url": "https://electrek.co/2026/10/23/tesla-solar-factory-texas-35-years-tax-breaks-fort-bend/"
+        }
+      ]
+    },
+    {
+      "id": "ev-5",
+      "status": "NEW",
+      "title": "산업 공정 탈탄소화를 위한 대형 열 배터리 도입 확대 조짐",
+      "summary": "리오틴토가 알루미나 정제소에 대형 열 저장 ‘핫 브릭’ 배터리 도입을 검토하며, 낮 시간 저렴한 전기를 열로 저장해 야간 공정에 활용함으로써 화석연료 의존도를 줄이고 에너지 비용·탄소배출을 동시 절감을 노리고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Rio Tinto eyes a giant hot-brick battery to cut fossil fuel use",
+          "url": "https://electrek.co/2026/10/21/rio-tinto-eyes-a-giant-hot-brick-battery-to-cut-fossil-fuel-use/"
+        }
+      ]
+    }
+  ]
+}

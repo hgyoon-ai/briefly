@@ -1,79 +1,93 @@
 {
   "range": {
-    "from": "2026-09-26",
-    "to": "2026-10-25"
+    "from": "2026-09-27",
+    "to": "2026-10-26"
   },
   "kpis": {
     "collected": 52,
     "deduped": 52,
     "uniqueTopics": 7,
     "marketShare": {
-      "Roadmap": 26,
-      "Competition": 24,
-      "Demand": 21,
+      "Roadmap": 27,
+      "Competition": 23,
+      "Demand": 22,
       "Investment": 18,
       "Policy": 10,
-      "Other": 1
+      "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (09/26-10/02)",
+      "week": "Week 1 (09/27-10/03)",
       "topicCounts": {
         "Roadmap": 11,
         "Competition": 7,
-        "Demand": 8,
+        "Demand": 7,
+        "Investment": 6,
+        "Policy": 4
+      }
+    },
+    {
+      "week": "Week 2 (10/04-10/10)",
+      "topicCounts": {
+        "Roadmap": 8,
+        "Competition": 6,
+        "Demand": 6,
+        "Investment": 4,
+        "Policy": 3
+      }
+    },
+    {
+      "week": "Week 3 (10/11-10/17)",
+      "topicCounts": {
+        "Roadmap": 6,
+        "Competition": 10,
+        "Demand": 9,
+        "Investment": 6,
+        "Policy": 4
+      }
+    },
+    {
+      "week": "Week 4 (10/18-10/24)",
+      "topicCounts": {
+        "Roadmap": 9,
+        "Competition": 7,
+        "Demand": 4,
         "Investment": 7,
         "Policy": 4
       }
     },
     {
-      "week": "Week 2 (10/03-10/09)",
+      "week": "Week 5 (10/25-10/26)",
       "topicCounts": {
-        "Roadmap": 7,
-        "Competition": 5,
-        "Demand": 5,
-        "Investment": 3,
-        "Policy": 3
-      }
-    },
-    {
-      "week": "Week 3 (10/10-10/16)",
-      "topicCounts": {
-        "Roadmap": 9,
-        "Competition": 11,
-        "Demand": 9,
-        "Investment": 8,
-        "Policy": 3
-      }
-    },
-    {
-      "week": "Week 4 (10/17-10/23)",
-      "topicCounts": {
-        "Roadmap": 9,
-        "Competition": 8,
-        "Demand": 6,
-        "Investment": 5,
-        "Policy": 3
-      }
-    },
-    {
-      "week": "Week 5 (10/24-10/25)",
-      "topicCounts": {
-        "Roadmap": 1,
-        "Competition": 2,
+        "Roadmap": 2,
+        "Competition": 0,
         "Demand": 2,
         "Investment": 2,
-        "Policy": 1
+        "Policy": 0
       }
     }
   ],
   "topIssues": [
     {
-      "id": 1,
+      "id": "ev-1",
       "status": "NEW",
-      "title": "저가 중국 시장형 폭스바겐 전기 제타 출시로 글로벌 EV 가격 경쟁 심화",
-      "summary": "폭스바겐이 중국 전용 전기 세단 제타 M6를 약 1만2천 달러 미만 가격, 460km급 주행거리로 선보이며, 중국 로컬 및 글로벌 브랜드 간 저가·중장거리 EV 경쟁이 본격화되고 있다. 이는 서방 고가 EV와의 가격 격차를 더욱 벌려 중저가 세그먼트의 글로벌 경쟁 구도를 흔들 수 있다.",
+      "title": "완전 자율·전동 무인 터미널 트랙터 상용화 가속",
+      "summary": "XCMG가 운전석이 완전히 없는 레벨4 자율주행 전동 터미널 트랙터 콘셉트를 공개하면서 항만·물류 터미널에서의 무인 전기 상용차 도입이 본격화되고 있다. 전동화와 고도 자율주행을 결합한 물류 장비가 EV 산업 내 신규 성장 축으로 부상하는 흐름이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "XCMG debuts new, fully autonomous electric terminal tractor [video]",
+          "url": "https://electrek.co/2026/10/25/xcmg-debuts-new-fully-autonomous-electric-terminal-tractor-video/"
+        }
+      ]
+    },
+    {
+      "id": "ev-2",
+      "status": "NEW",
+      "title": "저가 장주행 EV로 격화되는 중국 승용차 가격 경쟁",
+      "summary": "폭스바겐이 중국 시장에 약 1만2천 달러 미만 가격으로 285마일 이상 주행 가능한 전기 제타를 선보이며, 중국 로컬 및 글로벌 완성차 간 EV 가격 경쟁이 한층 심화되고 있다. 보급형 장주행 모델 확대로 내연기관 수요 잠식이 가속될 전망이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -84,10 +98,10 @@
       ]
     },
     {
-      "id": 2,
+      "id": "ev-3",
       "status": "ONGOING",
-      "title": "중국산 중고 EV, 서방 시장에 저가 유입되며 기존 완성차의 가격 압박 가속",
-      "summary": "중국산 중고 전기차가 신차 대비 최대 40% 낮은 가격으로 서방 시장에 유입되며 사실상 ‘우회 수출’ 통로로 작동하고 있다. 유가·물가 상승으로 서방 브랜드 신차 가격이 높게 형성된 가운데, 저가 중국 EV의 공세가 기존 완성차 업체들의 마진과 판매량에 지속적인 압박을 줄 전망이다.",
+      "title": "중고 중국산 EV, 우회 경로 통해 서방 시장 잠식",
+      "summary": "중국산 전기차가 중고차 형태로 서방 시장에 유입되며 신차 대비 최대 40% 저렴한 가격을 내세워 점유율을 확대하고 있다. 이란발 유가·물가 상승으로 서방 제조사의 신차 가격 부담이 커진 가운데, 중국산 EV의 가격 우위가 글로벌 경쟁 구도를 재편하는 흐름이 이어지고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -98,10 +112,10 @@
       ]
     },
     {
-      "id": 3,
+      "id": "ev-4",
       "status": "ONGOING",
-      "title": "텍사스 테슬라 100억 달러 규모 태양광 공장, 35년 세제 혜택으로 장기 제조 허브화",
-      "summary": "텍사스 포트벤드 카운티가 테슬라의 100억 달러 규모 ‘프로젝트 크리스털 선’ 태양광 공장 설비에 대해 최대 35년간 지방 세제 혜택을 승인했다. 이를 통해 테슬라는 미국 내 태양광 및 관련 전력·에너지 스토리지 제조 역량을 대규모로 확장하며, 장기적 생산 거점 및 일자리 창출 기지로 삼을 수 있게 됐다.",
+      "title": "테슬라 텍사스 초대형 태양광 공장, 장기 세제 혜택으로 투자 모멘텀 강화",
+      "summary": "텍사스 포트벤드 카운티가 약 100억 달러 규모의 테슬라 태양광 공장에 대해 최대 35년간 지방 세제 혜택을 승인하며, 북미 재생에너지·배터리 관련 제조 투자 유치 경쟁이 강화되고 있다. 이는 EV·에너지 사업 통합을 추진하는 테슬라의 제조 기반 확대에 중요한 정책 지원으로 평가된다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -112,30 +126,16 @@
       ]
     },
     {
-      "id": 4,
+      "id": "ev-5",
       "status": "NEW",
-      "title": "리오 틴토, ‘뜨거운 벽돌’ 열 배터리로 산업 열공정 탈탄소 테스트",
-      "summary": "리오 틴토가 야윈 알루미나 정제소에 대형 열 배터리 도입을 검토하며, 낮 시간대 저렴한 전력을 이용해 고체 벽돌에 열을 저장한 뒤 야간 증기 생산에 사용하는 방식을 시험 중이다. 이는 전기·배터리 기반이 아닌 열 저장 기술로 중공업 공정의 화석연료 사용을 줄이는 새로운 탈탄소 옵션으로 주목받고 있다.",
+      "title": "중공업·제련 공정 탈탄소화 위한 대형 열 배터리 실증",
+      "summary": "리오 틴토가 호주 알루미나 정제소에 대형 ‘뜨거운 벽돌’ 열 배터리 도입을 검토하며, 저가 전력을 활용한 열 저장을 통해 화석연료 사용을 줄이려 하고 있다. 에너지 다소비 산업에서 전기·열 저장 기술을 활용한 간접 전기화가 EV 배터리 기술과 병행해 중요한 탈탄소 솔루션으로 부상하고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
           "title": "Rio Tinto eyes a giant hot-brick battery to cut fossil fuel use",
           "url": "https://electrek.co/2026/10/21/rio-tinto-eyes-a-giant-hot-brick-battery-to-cut-fossil-fuel-use/"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "status": "SHIFTING",
-      "title": "테슬라 비감독 FSD 재연기 및 로보택시 존 제한으로 자율주행 상용화 로드맵 수정",
-      "summary": "테슬라는 고객 소유 차량 대상 비감독 FSD 출시를 2027년 2분기로 다시 미루고, 테슬라가 관리하는 로보택시 존·플릿 내에서만 비감독 운행을 허용하는 방향으로 전략을 조정했다. 이는 완전 자율주행의 전면적 보급보다는, 규제가 상대적으로 용이한 지정 구역·운영형 모델에 먼저 집중하겠다는 로드맵 변화로 해석된다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "Tesla pushes unsupervised FSD to Q2 2027, and only inside Robotaxi zones",
-          "url": "https://electrek.co/2026/10/21/tesla-unsupervised-fsd-q2-2027-robotaxi-fleet/"
         }
       ]
     }

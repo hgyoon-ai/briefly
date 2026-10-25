@@ -1,70 +1,70 @@
 {
   "range": {
-    "from": "2026-09-26",
-    "to": "2026-10-25"
+    "from": "2026-09-27",
+    "to": "2026-10-26"
   },
   "kpis": {
     "collected": 52,
     "deduped": 52,
     "uniqueTopics": 9,
     "marketShare": {
-      "MarketInfra": 40,
-      "Policy": 28,
+      "MarketInfra": 39,
+      "Policy": 27,
       "Regulation": 14,
       "Compliance": 10,
       "Fintech": 9,
-      "Other": 0
+      "Other": 1
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (09/26-10/02)",
+      "week": "Week 1 (09/27-10/03)",
       "topicCounts": {
-        "MarketInfra": 10,
-        "Policy": 4,
-        "Regulation": 3,
+        "MarketInfra": 11,
+        "Policy": 5,
+        "Regulation": 4,
         "Compliance": 3,
-        "Fintech": 5
+        "Fintech": 4
       }
     },
     {
-      "week": "Week 2 (10/03-10/09)",
+      "week": "Week 2 (10/04-10/10)",
       "topicCounts": {
-        "MarketInfra": 8,
-        "Policy": 6,
+        "MarketInfra": 9,
+        "Policy": 7,
         "Regulation": 2,
         "Compliance": 2,
         "Fintech": 2
       }
     },
     {
-      "week": "Week 3 (10/10-10/16)",
+      "week": "Week 3 (10/11-10/17)",
       "topicCounts": {
-        "MarketInfra": 10,
-        "Policy": 8,
+        "MarketInfra": 13,
+        "Policy": 10,
         "Regulation": 3,
         "Compliance": 2,
-        "Fintech": 3
+        "Fintech": 2
       }
     },
     {
-      "week": "Week 4 (10/17-10/23)",
+      "week": "Week 4 (10/18-10/24)",
       "topicCounts": {
         "MarketInfra": 9,
-        "Policy": 6,
-        "Regulation": 7,
-        "Compliance": 4,
+        "Policy": 7,
+        "Regulation": 6,
+        "Compliance": 3,
         "Fintech": 1
       }
     },
     {
-      "week": "Week 5 (10/24-10/25)",
+      "week": "Week 5 (10/25-10/26)",
       "topicCounts": {
         "MarketInfra": 2,
-        "Policy": 2,
-        "Regulation": 0,
-        "Compliance": 0,
-        "Fintech": 0
+        "Policy": 1,
+        "Regulation": 1,
+        "Compliance": 1,
+        "Fintech": 1
       }
     }
   ],
@@ -72,50 +72,8 @@
     {
       "id": 1,
       "status": "ONGOING",
-      "title": "고금리·변동성 국면에서 보험주의 배당·방어주 매력 부각",
-      "summary": "금리 상승과 증시 급락 속에서 보험주는 상대적으로 주가 방어력을 보이며 고배당·디펜시브 종목으로 재평가받고 있다. 시장 변동성이 확대될수록 연말 배당과 안정적 실적이 부각되며 포트폴리오 재조정 이슈로 이어지는 흐름이다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "매일경제(증권)",
-          "title": "증시 큰 변동성에도 버티는 보험주…배당·방어주로 부각된다는데",
-          "url": "https://www.mk.co.kr/news/stock/12184896"
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "status": "SHIFTING",
-      "title": "미국 스테이블코인 활성화와 베센트 발언으로 불붙는 크립토 정책 기대",
-      "summary": "미 재무당국이 스테이블코인 활성화 조치를 내놓은 직후 베센트 장관이 링컨까지 언급하며 시장 친화적 메시지를 발신하면서, 다음 달로 예상되는 앤트로픽 상장과 함께 미국 내 디지털자산·핀테크 규제 완화 및 제도권 편입 기대가 커지고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "매일경제(증권)",
-          "title": "링컨까지 소환한 베센트... 앤트로픽 상장, 다음달 확정인가",
-          "url": "https://www.mk.co.kr/news/business/12182433"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "status": "ONGOING",
-      "title": "주가조작 처벌 실효성 논란…범죄수익 대부분 환수 못 하는 자본시장 제재 구조",
-      "summary": "최근 5년간 주가조작 등 자본시장 교란 사건의 판결을 보면 1.5조원 범죄수익 중 실제 추징은 18%에 그쳤고, 3건 중 2건은 추징금이 0원이었다. 제재·환수 실효성 부족이 드러나며 국내 자본시장 신뢰와 공정성 회복을 위한 입법·제도 개선 요구가 커지고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "매일경제(증권)",
-          "title": "[단독] 주가조작, 패가망신 맞나요?…3건 중 2건은 추징금 ‘0원’",
-          "url": "https://www.mk.co.kr/news/society/12181989"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "status": "ONGOING",
-      "title": "코스피·코스닥 동반 급락 이후 정부 ‘증시 대책’ 기대와 정책 리스크",
-      "summary": "코스피와 코스닥이 3% 이상 급락하며 심리적 지지선이 붕괴되자, 이재명 대통령이 언급한 증시 안정 대책에 시장의 관심이 집중되고 있다. 단기 유동성 공급, 공매도·세제·연기금 수급 등 정책 패키지의 방향성이 향후 국내 증시 흐름을 좌우할 주요 변수로 부상했다.",
+      "title": "코스피·코스닥 급락 이후 정부 증시 안정 대책 모색",
+      "summary": "코스피와 코스닥이 동반 급락하면서 시장 변동성이 확대된 가운데, 이재명 대통령이 증시 대책을 언급하며 정책·규제 측 대응에 대한 투자자 관심이 커지고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -126,16 +84,58 @@
       ]
     },
     {
-      "id": 5,
+      "id": 2,
       "status": "ONGOING",
-      "title": "증권사 임직원 불법·편법 매매 확산과 내부통제 부실 문제",
-      "summary": "최근 5년간 주요 증권사 임직원 다수가 사규를 어긴 주식 매매로 제재를 받았지만, 거래 규모에 비해 과태료와 제재 수위가 낮아 실효성 논란이 제기되고 있다. 이해상충 관리와 내부통제 강화, 임직원 자기매매 규제 정비가 시급한 과제로 떠올랐다.",
+      "title": "자본시장 교란·주가조작 처벌 및 추징 실효성 논란",
+      "summary": "최근 5년간 판결 분석 결과, 주가조작 등 자본시장 교란 사건의 상당수에서 추징금이 제대로 부과되지 않아 범죄수익 환수와 제재 실효성 부족 문제가 제기되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[단독] 주가조작, 패가망신 맞나요?…3건 중 2건은 추징금 ‘0원’",
+          "url": "https://www.mk.co.kr/news/society/12181989"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "임직원 불법·내부자성 주식투자 규정 위반과 제재 강화 이슈",
+      "summary": "대형 증권사 임직원의 주식매매 규정 위반 사례가 이어지는 가운데, 위반 규모 대비 과태료 수준이 낮다는 지적이 나오며 내부통제와 징계 기준 강화 요구가 커지고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
           "title": "“불법 투자로 돈 벌다가, 퇴사하면 그만?”…증권가 주식투자의 민낯",
           "url": "https://www.mk.co.kr/news/economy/12180261"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "부실 상장사 정리 가속화와 상장폐지 증가",
+      "summary": "올해 들어 부실기업 상장폐지 건수가 전년 대비 두 배 수준으로 늘며, 거래소의 퇴출 심사가 강화되고 투자자 보호와 시장 체질 개선을 둘러싼 논의가 진행되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "부실기업 증시퇴출, 작년보다 두배 급증",
+          "url": "https://www.mk.co.kr/news/stock/12168228"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "넥스트레이드 거래량 급감과 유동성·가격 왜곡 리스크",
+      "summary": "넥스트레이드의 전체 거래량이 급감하고 거래가 소수 인기 종목에 집중되면서, 기관 참여 부족과 유동성 편중에 따른 가격 왜곡 및 시장 인프라 설계 한계가 부각되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "장 열리니 하이닉스 30% 폭락?…외면받는 넥스트레이드, 거래량 급감 이유는",
+          "url": "https://www.mk.co.kr/news/stock/12185324"
         }
       ]
     }

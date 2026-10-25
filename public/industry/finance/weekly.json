@@ -1,56 +1,32 @@
 {
   "range": {
-    "from": "2026-10-19",
-    "to": "2026-10-25"
+    "from": "2026-10-20",
+    "to": "2026-10-26"
   },
   "kpis": {
-    "collected": 10,
-    "deduped": 10,
+    "collected": 12,
+    "deduped": 12,
     "uniqueTopics": 7
   },
   "topTopics": [
     {
       "name": "MarketInfra",
-      "count": 9
+      "count": 11
     },
     {
       "name": "Policy",
-      "count": 8
+      "count": 9
     },
     {
       "name": "Regulation",
-      "count": 4
+      "count": 5
     },
     {
-      "name": "Enforcement",
-      "count": 2
+      "name": "Compliance",
+      "count": 3
     }
   ],
   "topicTrend": [
-    {
-      "date": "2026-10-19",
-      "dayOfWeek": "Mon",
-      "topic": "MarketInfra",
-      "count": 0
-    },
-    {
-      "date": "2026-10-19",
-      "dayOfWeek": "Mon",
-      "topic": "Policy",
-      "count": 0
-    },
-    {
-      "date": "2026-10-19",
-      "dayOfWeek": "Mon",
-      "topic": "Regulation",
-      "count": 0
-    },
-    {
-      "date": "2026-10-19",
-      "dayOfWeek": "Mon",
-      "topic": "Enforcement",
-      "count": 0
-    },
     {
       "date": "2026-10-20",
       "dayOfWeek": "Tue",
@@ -72,7 +48,7 @@
     {
       "date": "2026-10-20",
       "dayOfWeek": "Tue",
-      "topic": "Enforcement",
+      "topic": "Compliance",
       "count": 1
     },
     {
@@ -96,7 +72,7 @@
     {
       "date": "2026-10-21",
       "dayOfWeek": "Wed",
-      "topic": "Enforcement",
+      "topic": "Compliance",
       "count": 1
     },
     {
@@ -120,7 +96,7 @@
     {
       "date": "2026-10-22",
       "dayOfWeek": "Thu",
-      "topic": "Enforcement",
+      "topic": "Compliance",
       "count": 0
     },
     {
@@ -144,7 +120,7 @@
     {
       "date": "2026-10-23",
       "dayOfWeek": "Fri",
-      "topic": "Enforcement",
+      "topic": "Compliance",
       "count": 0
     },
     {
@@ -168,7 +144,7 @@
     {
       "date": "2026-10-24",
       "dayOfWeek": "Sat",
-      "topic": "Enforcement",
+      "topic": "Compliance",
       "count": 0
     },
     {
@@ -192,8 +168,32 @@
     {
       "date": "2026-10-25",
       "dayOfWeek": "Sun",
-      "topic": "Enforcement",
+      "topic": "Compliance",
       "count": 0
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Regulation",
+      "count": 1
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Compliance",
+      "count": 1
     }
   ],
   "topIssues": [
@@ -201,8 +201,8 @@
       "id": 1,
       "status": "ONGOING",
       "title": "국내 증시 급락과 정부 ‘증시 대책’ 논의",
-      "summary": "코스피·코스닥이 동반 급락하며 지수가 4개월 만에 대폭 하락하자, 정부와 대통령의 증시 안정 대책에 시장의 관심이 집중되고 있다. 실적 개선에도 국내 증시가 미국보다 더 크게 빠지는 원인으로 금리·유동성·수급 악화 등이 지목되며, 향후 정책 대응과 반등 가능성이 핵심 이슈로 부상했다.",
-      "articleCount": 3,
+      "summary": "코스피가 9100선에서 5500선까지 4개월간 급락하고 하루에만 3%대 하락을 기록하는 등 변동성이 극심해지자, 역사적 저점 인식과 함께 정부의 증시 부양·안정 대책 발표 여부에 시장 관심이 집중되고 있다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
@@ -213,33 +213,14 @@
           "source": "매일경제(증권)",
           "title": "9100→5500까지 하락한 코스피…“11월은 W자 반등에 주목”",
           "url": "https://www.mk.co.kr/news/stock/12184843"
-        },
-        {
-          "source": "매일경제(증권)",
-          "title": "실적 좋은데도 미장보다 더 크게 빠지는 국장…전문가 원인 분석은",
-          "url": "https://www.mk.co.kr/news/stock/12184712"
         }
       ]
     },
     {
       "id": 2,
       "status": "ONGOING",
-      "title": "고금리·변동성 장세 속 ‘보험주’의 배당·방어 매력 부각",
-      "summary": "금리 상승과 증시 변동성 확대 국면에서 이익 체력이 견조한 보험주가 고배당과 방어주 성격으로 재부각되고 있다. 은행·증권 대비 변동성이 상대적으로 낮고 배당 수익률이 높다는 점이 부각되며, 변동성 회피 수단이자 중장기 배당 투자처로 관심을 받고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "매일경제(증권)",
-          "title": "증시 큰 변동성에도 버티는 보험주…배당·방어주로 부각된다는데",
-          "url": "https://www.mk.co.kr/news/stock/12184896"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "status": "ONGOING",
-      "title": "국내 자본시장 불공정거래·내부통제 실효성 논란",
-      "summary": "최근 5년간 주가조작 등 자본시장 교란 사건의 범죄수익 1.5조원 중 실제 추징은 18%에 그치고, 3건 중 2건은 추징금이 0원인 것으로 드러나 제재 실효성 논란이 커지고 있다. 동시에 대형 증권사 임직원의 불법·사적 주식거래가 반복되고 과태료도 법정 상한에 미달하는 등 내부통제와 컴플라이언스 체계 전반에 대한 신뢰가 흔들리고 있다.",
+      "title": "주가조작·불법투자에 대한 제재 실효성 논란",
+      "summary": "최근 5년간 주가조작 등 자본시장 교란 범죄 239건을 분석한 결과 범죄수익 1.5조원 중 18%만 추징되는 등 3건 중 2건은 추징금이 ‘0원’이었고, 대형 증권사 임직원 97명이 주식매매 규정 위반으로 적발됐음에도 과태료가 법정 상한에 못 미치는 등 자본시장 불법행위 제재가 지나치게 약하다는 비판이 커지고 있다.",
       "articleCount": 2,
       "relatedArticles": [
         {
@@ -255,30 +236,44 @@
       ]
     },
     {
-      "id": 4,
-      "status": "SHIFTING",
-      "title": "글로벌 자금 이동: AI 과열 이후 미국 채권으로의 피난",
-      "summary": "미국 증시에서 AI 관련 자산 과열과 밸류에이션 부담 우려가 커지면서 투자자들이 상대적으로 안전한 미국 국채 등 채권으로 자금을 이동시키고 있다. 10년물 국채 금리가 5% 아래로 내려가는 과정에서도 안전자산 선호가 이어지며, 위험자산 회피와 포트폴리오 재조정 흐름이 뚜렷해지고 있다.",
+      "id": 3,
+      "status": "ONGOING",
+      "title": "넥스트레이드 거래량 급감과 대체거래소 유동성 문제",
+      "summary": "넥스트레이드(NXT)의 전체 거래량이 기존 거래소 대비 큰 폭으로 줄어들고, 기관 참여 부진으로 거래의 95%가 상위 5% 소수 종목에 쏠리면서 호가 공백과 가격 왜곡이 빈번해지는 등 국내 대체거래소의 유동성·시장품질 저하가 구조적 문제로 부상하고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
-          "title": "요즘 미국선 “아직도 AI 돈 안뺐어?”…대신 돈몰리는 ‘국밥’ 어디",
-          "url": "https://www.mk.co.kr/news/world/12184703"
+          "title": "장 열리니 하이닉스 30% 폭락?…외면받는 넥스트레이드, 거래량 급감 이유는",
+          "url": "https://www.mk.co.kr/news/stock/12185324"
         }
       ]
     },
     {
-      "id": 5,
+      "id": 4,
       "status": "SHIFTING",
-      "title": "스테이블코인 정책과 함께 부각되는 베센트 발언·앤트로픽 상장 기대",
-      "summary": "미 재무장관 스콧 베센트가 링컨을 언급한 발언을 내놓으며 정부의 스테이블코인 활성화 조치 이후 규제 방향과 시장 파급효과가 주목받고 있다. 동시에 AI 기업 앤트로픽의 상장 시기·규모에 대한 기대가 겹치며 크립토·핀테크·빅테크 규제 프레임과 자본시장 유입 가능성이 함께 논의되고 있다.",
+      "title": "글로벌 스테이블코인 규제와 앤트로픽 상장 기대",
+      "summary": "미 재무당국이 스테이블코인 활성화 조치를 내놓은 직후 베센트 재무장관이 링컨을 언급하며 규제 원칙과 혁신 지원의 균형을 강조했고, 이를 계기로 암호화폐 규제 완화와 함께 앤트로픽의 상장 가능성이 다음 달로 구체화될 수 있다는 관측이 커지고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
           "title": "링컨까지 소환한 베센트... 앤트로픽 상장, 다음달 확정인가",
           "url": "https://www.mk.co.kr/news/business/12182433"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "삼성전자 사상 최대 실적과 개별주 부진의 괴리",
+      "summary": "삼성전자가 분기 영업이익 100조원을 돌파하는 국내 기업 최초 기록을 세웠지만, 일부 개인투자자 보유 종목은 동반 상승에 실패하면서 대형 IT 실적 호황과 개인 포트폴리오 수익률 간 격차, 업종·종목별 차별화 장세에 대한 관심이 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“석달 만에 100조 벌었다는데” … 내 주식만 왜 떨어지는지 궁금하다면",
+          "url": "https://www.mk.co.kr/news/stock/12185059"
         }
       ]
     }

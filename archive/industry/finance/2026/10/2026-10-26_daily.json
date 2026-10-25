@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-26",
+  "highlights": {
+    "bullets": [
+      "핵심: 삼성전자가 분기 영업이익 100조원을 처음으로 돌파했다고 발표했다.",
+      "핵심: 넥스트레이드의 전체 거래량이 기존 거래소 대비 큰 폭으로 감소하고 기관 참여가 극히 적어 유동성 부족으로 가격 왜곡이 빈번하다."
+    ],
+    "topTopics": [
+      "MarketInfra",
+      "Regulation",
+      "Compliance",
+      "Policy"
+    ],
+    "stats": {
+      "collected": 15,
+      "deduped": 15
+    }
+  },
+  "cards": [
+    {
+      "id": "finance_0001",
+      "tab": "finance",
+      "publishedAt": "2026-10-26T05:00:00+09:00",
+      "source": "매일경제(증권)",
+      "title": "“석달 만에 100조 벌었다는데” … 내 주식만 왜 떨어지는지 궁금하다면",
+      "summary": [
+        "삼성전자가 분기 영업이익 100조원을 처음으로 돌파했다고 발표했다.",
+        "국내 기업 사상 최초 기록으로 시장의 주목을 받고 있다.",
+        "그럼에도 개인 투자자들의 보유 주식은 하락해 투자자 혼란이 이어지고 있다."
+      ],
+      "whyItMatters": "거대한 실적 개선에도 불구하고 주가가 하락한 것은 시장 기대치, 밸류에이션 재평가 및 대외 불확실성으로 투자심리가 엇갈렸기 때문이다.",
+      "topics": [
+        "MarketInfra",
+        "Policy"
+      ],
+      "status": "ONGOING",
+      "hash": "7eb5bec5d09f0b04abfd55d23fa1a4eebd66fd16a3815de5c7fc827d7a236ecb",
+      "url": "https://www.mk.co.kr/news/stock/12185059"
+    },
+    {
+      "id": "finance_0002",
+      "tab": "finance",
+      "publishedAt": "2026-10-26T06:06:47+09:00",
+      "source": "매일경제(증권)",
+      "title": "장 열리니 하이닉스 30% 폭락?…외면받는 넥스트레이드, 거래량 급감 이유는",
+      "summary": [
+        "넥스트레이드(NXT)의 전체 거래량이 기존 거래소 대비 큰 폭으로 감소했다.",
+        "기관 참여가 극히 적어 거래의 95%가 상위 5% 종목에 집중되며 유동성 부족으로 가격 왜곡이 빈번하다.",
+        "유동성 취약으로 일부 종목에서 급격한 급락·급등(예: 하이닉스 30%급락)이 발생하고 있다."
+      ],
+      "whyItMatters": "기관 참여 저조와 거래가 소수 종목에 집중된 편중 구조로 인해 유동성이 부족해 가격 왜곡이 발생하고 있다.",
+      "topics": [
+        "MarketInfra",
+        "Fintech",
+        "Regulation",
+        "Compliance"
+      ],
+      "status": "ONGOING",
+      "hash": "12076389262fd416c75fb1b9953f0c94101ba7cb895270dfd228599dc49cfb8c",
+      "url": "https://www.mk.co.kr/news/stock/12185324"
+    }
+  ]
+}

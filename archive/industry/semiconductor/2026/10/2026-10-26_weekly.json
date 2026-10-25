@@ -1,0 +1,267 @@
+{
+  "range": {
+    "from": "2026-10-20",
+    "to": "2026-10-26"
+  },
+  "kpis": {
+    "collected": 12,
+    "deduped": 12,
+    "uniqueTopics": 5
+  },
+  "topTopics": [
+    {
+      "name": "Roadmap",
+      "count": 11
+    },
+    {
+      "name": "Competition",
+      "count": 10
+    },
+    {
+      "name": "Demand",
+      "count": 7
+    },
+    {
+      "name": "Manufacturing",
+      "count": 5
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 3
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 3
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Demand",
+      "count": 2
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": "Tue",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 5
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 5
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Demand",
+      "count": 3
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Manufacturing",
+      "count": 4
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Manufacturing",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "Arm-퀄컴 소송 결과와 RISC‑V 부상: 생태계·지배력 재편 신호",
+      "summary": "Arm과 퀄컴 간 재판에서 손해배상은 2달러에 그쳤지만, 맞춤형 칩 출하 전 통과해야 할 준수 테스트 통제권이 핵심 쟁점으로 부각됐다. 이는 IP 라이선스 구조와 생태계 통제 방식에 대한 갈등으로, 장기적으로는 RISC‑V 등 개방형 ISA가 AI 워크로드용 칩 설계에서 전략적 대안으로 부상하는 흐름과 맞물려 CPU IP 지형 재편을 예고한다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Arm Comments on Jury Decision in Qualcomm Trial",
+          "url": "https://www.eetimes.com/arm-comments-on-jury-decision-in-qualcomm-trial/"
+        },
+        {
+          "source": "EE Times",
+          "title": "Two Dollars and a Test Suite",
+          "url": "https://www.eetimes.com/two-dollars-and-a-test-suite/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "에지 AI용 MCU 진화: 멀티모달 연산과 계층형 메모리 통합",
+      "summary": "신형 에지 AI MCU가 전용 AI 가속기를 탑재해 멀티모달 연산을 지원하고, 고대역폭 DRAM을 결합해 수백 MB까지 확장 가능한 계층형 메모리를 제공한다. 이는 센서·음성·이미지 등을 동시에 처리하는 초저전력 엣지 단에서 메모리 병목을 줄이고, MCU와 메모리/스토리지 반도체 간 아키텍처 통합 수요를 가속하는 방향의 로드맵으로 볼 수 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Edge AI MCU Features Multimodal Compute, Tiered Memory",
+          "url": "https://www.eetimes.com/edge-ai-mcu-features-multimodal-compute-tiered-memory/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "AI 확산에 따른 메모리 중심 패러다임 전환",
+      "summary": "AI·데이터센터 워크로드 확대로 용량·대역폭·지연 요구가 급증하며 메모리가 반도체 생태계의 중심으로 이동하고 있다. HBM, CXL 기반 계층형 메모리, PIM 등 메모리-컴퓨트 통합 기술 투자가 확대되며, 공정·패키징·인터페이스 전반에서 메모리 최적화가 반도체 경쟁력의 핵심 축으로 재정의되는 전환 국면이 진행 중이다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "SK hynix Newsroom",
+          "title": "[AI Ecosystem] The semiconductor paradigm shifts toward memory",
+          "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep4-2/"
+        },
+        {
+          "source": "SK hynix Newsroom",
+          "title": "[AI Ecosystem] The semiconductor paradigm shifts toward memory",
+          "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep4-1/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "위성·5G 기반 보조 측위 확산과 관련 반도체 수요",
+      "summary": "GPS 재밍·스푸핑 증가로 GNSS 단일 의존의 취약성이 부각되면서, 4G·5G 네트워크와 NTN(비지상망)을 활용한 2계층 측위 인프라가 논의되고 있다. 이는 RF 프런트엔드, 위성·통신용 모뎀, 저전력 위치추적 SoC와 보안 칩 등 다양한 반도체에 대한 수요를 중장기적으로 견인하는 요인으로 작용한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "When GPS Isn’t Enough: Building a Second Layer of Positioning",
+          "url": "https://www.eetimes.com/when-gps-isnt-enough-building-a-second-layer-of-positioning/"
+        }
+      ]
+    }
+  ]
+}

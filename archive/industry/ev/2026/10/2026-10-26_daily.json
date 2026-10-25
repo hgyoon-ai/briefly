@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-26",
+  "highlights": {
+    "bullets": [
+      "핵심: XCMG가 레벨4 자율주행을 적용한 캐빈 없는 전동 터미널 트랙터 SDA411 콘셉트를 공개했다.",
+      "핵심: 호주의 첫 양산형 태양광 배터리 전기 냉장 트레일러가 Wickham Freight Lines에 인도됐다."
+    ],
+    "topTopics": [
+      "Roadmap",
+      "Demand",
+      "Investment",
+      "Competition"
+    ],
+    "stats": {
+      "collected": 4,
+      "deduped": 4
+    }
+  },
+  "cards": [
+    {
+      "id": "ev_0001",
+      "tab": "ev",
+      "publishedAt": "2026-10-26T03:34:53+09:00",
+      "source": "Electrek",
+      "title": "XCMG debuts new, fully autonomous electric terminal tractor [video]",
+      "summary": [
+        "XCMG가 완전 전동식이자 레벨4 자율주행 기술을 탑재한 신규 무인 터미널 트랙터 SDA411 콘셉트를 공개했습니다.",
+        "해당 차량은 운전석(캐빈)이 전혀 없는 형태로 설계되어 컨테이너 터미널 등 무인 물류 운영에 최적화되어 있습니다.",
+        "XCMG는 이 모델을 통해 향후 드레이지(단거리 화물 운송) 트럭 운행 방식의 변화를 주도하려 하고 있습니다."
+      ],
+      "whyItMatters": "전동화와 고도 자율주행이 결합된 무인 물류 전용 차량은 항만·터미널 운영 효율과 인건비 구조, 관련 장비 투자 방향에 구조적 변화를 일으킬 수 있기 때문입니다.",
+      "topics": [
+        "Roadmap",
+        "Investment",
+        "Demand"
+      ],
+      "status": "NEW",
+      "hash": "95df730f3fd3e76c630d5e9e2cfe94c4529925a01271713c4b7d47cd9e39e6cd",
+      "url": "https://electrek.co/2026/10/25/xcmg-debuts-new-fully-autonomous-electric-terminal-tractor-video/"
+    },
+    {
+      "id": "ev_0002",
+      "tab": "ev",
+      "publishedAt": "2026-10-26T02:28:39+09:00",
+      "source": "Electrek",
+      "title": "Battery electric, solar-powered reefer units reach their first customers",
+      "summary": [
+        "호주의 첫 양산형 태양광 배터리 전기 냉장 트레일러 유닛이 실제 고객사에 공급됐다.",
+        "가족 경영 운송사인 Wickham Freight Lines가 혁신적인 전기 리퍼 장치를 인도받아 운행을 시작했다.",
+        "이는 운송 냉장 장비 전동화와 탈탄소화를 위한 상용화 단계 진입을 의미한다."
+      ],
+      "whyItMatters": "화물 운송 분야의 냉장·냉동 장치까지 전동화·태양광 연계 솔루션이 상용화되면서 물류 부문의 탄소 감축 및 연료비 절감 가능성이 커졌기 때문이다.",
+      "topics": [
+        "Roadmap",
+        "Investment",
+        "Demand"
+      ],
+      "status": "NEW",
+      "hash": "f9f5f9d80595be9c22024ed93c33147fd679e825c8b4395b255c6686739283de",
+      "url": "https://electrek.co/2026/10/25/battery-electric-solar-powered-reefer-units-reach-their-first-customers/"
+    }
+  ]
+}

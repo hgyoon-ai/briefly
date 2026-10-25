@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-09-26",
-    "to": "2026-10-25"
+    "from": "2026-09-27",
+    "to": "2026-10-26"
   },
   "kpis": {
     "collected": 67,
@@ -18,50 +18,50 @@
   },
   "weeklyData": [
     {
-      "week": "Week 1 (09/26-10/02)",
+      "week": "Week 1 (09/27-10/03)",
       "topicCounts": {
-        "Roadmap": 16,
-        "Competition": 15,
-        "Manufacturing": 5,
+        "Roadmap": 21,
+        "Competition": 19,
+        "Manufacturing": 7,
         "Demand": 8,
-        "Investment": 8
+        "Investment": 11
       }
     },
     {
-      "week": "Week 2 (10/03-10/09)",
+      "week": "Week 2 (10/04-10/10)",
       "topicCounts": {
-        "Roadmap": 7,
-        "Competition": 7,
-        "Manufacturing": 5,
+        "Roadmap": 9,
+        "Competition": 9,
+        "Manufacturing": 7,
         "Demand": 3,
         "Investment": 3
       }
     },
     {
-      "week": "Week 3 (10/10-10/16)",
+      "week": "Week 3 (10/11-10/17)",
       "topicCounts": {
-        "Roadmap": 13,
-        "Competition": 10,
-        "Manufacturing": 10,
-        "Demand": 3,
-        "Investment": 6
+        "Roadmap": 14,
+        "Competition": 12,
+        "Manufacturing": 13,
+        "Demand": 5,
+        "Investment": 8
       }
     },
     {
-      "week": "Week 4 (10/17-10/23)",
+      "week": "Week 4 (10/18-10/24)",
       "topicCounts": {
-        "Roadmap": 12,
-        "Competition": 10,
-        "Manufacturing": 6,
-        "Demand": 7,
+        "Roadmap": 13,
+        "Competition": 11,
+        "Manufacturing": 7,
+        "Demand": 8,
         "Investment": 1
       }
     },
     {
-      "week": "Week 5 (10/24-10/25)",
+      "week": "Week 5 (10/25-10/26)",
       "topicCounts": {
-        "Roadmap": 1,
-        "Competition": 1,
+        "Roadmap": 0,
+        "Competition": 0,
         "Manufacturing": 0,
         "Demand": 0,
         "Investment": 0
@@ -72,8 +72,8 @@
     {
       "id": 1,
       "status": "SHIFTING",
-      "title": "Arm-Qualcomm 소송 판결과 RISC‑V로 대표되는 개방형 ISA 부상",
-      "summary": "Qualcomm과의 특허 분쟁에서 Arm이 실질 손해배상은 2달러에 그쳤지만, 커스텀 칩 출하 전 통과해야 하는 준수 테스트(test suite)의 통제권이 핵심 쟁점으로 남았다. 이 과정에서 RISC‑V 등 개방형 아키텍처가 AI 워크로드 대응을 위한 유연한 대안으로 부상하며, 향후 반도체 설계 생태계의 권한 배분과 라이선스 구조가 재편될 가능성이 커지고 있다.",
+      "title": "Arm-퀄컴 소송 이후 CPU ISA 경쟁 구도와 RISC‑V 부상",
+      "summary": "Arm과 퀄컴 간 재판에서 손해배상은 2달러에 그쳤지만, 맞춤형 칩 출하 전 필수 ‘테스트 스위트’ 통제권이 핵심 쟁점으로 부각됐다. 이는 Arm IP 라이선스 구조와 고객 종속 이슈를 재조명했으며, AI 워크로드용 칩 설계에서 개방형 RISC‑V 아키텍처가 장기적으로 더 유연한 대안으로 부상하는 계기가 되고 있다. 반도체 설계·검증 단계에서 ISA 선택과 생태계 의존도 리스크 관리가 전략 이슈로 재정렬되는 흐름이다.",
       "articleCount": 2,
       "relatedArticles": [
         {
@@ -91,8 +91,8 @@
     {
       "id": 2,
       "status": "ONGOING",
-      "title": "Applied Materials의 50억 달러 EPIC 투자와 반도체 제조 생태계 영향",
-      "summary": "Applied Materials가 EPIC 센터를 중심으로 50억 달러 규모 투자를 추진하며 반도체 제조 장비·공정 혁신에 장기 베팅을 하고 있다. CEO는 인터뷰에서 공정 미세화, AI·HPC 수요 확대에 대응하기 위한 필수 인프라 투자임을 강조했으며, 이는 파운드리·메모리 업체의 CAPEX 전략과 장비 공급망 재편에 중대한 변수로 작용하고 있다.",
+      "title": "Applied Materials의 50억 달러 EPIC 투자와 반도체 제조 경쟁력 강화",
+      "summary": "Applied Materials가 EPIC(연구·제조 통합) 센터에 50억 달러 투자를 발표하며 장비·공정 혁신을 가속하고 있다. CEO는 인터뷰에서 대규모 투자를 통해 첨단 노드 공정 개발, 생산성 향상, 고객사와의 공동 R&D를 강화해 장기적인 수익성과 시장 지배력을 확보하겠다는 전략을 제시했다. 이는 파운드리와 IDM의 capex 확대 기조와 맞물려 장비 생태계 중심의 제조 경쟁 구도가 심화되는 흐름을 보여준다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -105,8 +105,8 @@
     {
       "id": 3,
       "status": "NEW",
-      "title": "삼성전자 2026년 3분기 실적 가이던스와 메모리·파운드리 수요 회복 시그널",
-      "summary": "삼성전자가 2026년 3분기 연결 매출 195조원, 영업이익 107.40조원을 제시하며 가이던스 기준 역대 최고 수준의 실적 모멘텀을 예고했다. 이는 AI 서버용 HBM·고대역폭 메모리와 첨단 파운드리 수요가 동반 견인하고 있음을 시사하며, 경쟁사 투자·증설 전략과 메모리 가격 사이클에 중대한 방향성을 제공한다.",
+      "title": "삼성전자 2026년 3분기 실적 가이던스와 메모리·파운드리 업사이클 시그널",
+      "summary": "삼성전자가 2026년 3분기 연결 매출 약 195조원, 영업이익 약 107.40조원을 제시하며 사상 최대 수준의 실적 가이던스를 공개했다. 이는 AI 서버·HPC 수요에 따른 고대역폭 메모리(HBM)와 첨단 파운드리 수요 급증, 세트 수요 회복이 복합적으로 반영된 것으로 해석된다. 반도체 업황이 강한 업사이클 국면에 진입했음을 시사하며, 대규모 설비 투자와 공정 전환 전략의 추가 가속 가능성도 높아지고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -119,8 +119,8 @@
     {
       "id": 4,
       "status": "ONGOING",
-      "title": "GNSS 취약성 부각과 4G·5G·NTN 기반 이중화 위치 인프라 수요",
-      "summary": "GPS 재밍 사례 증가로 GNSS 단일 의존 구조의 위험이 커지면서, 4G·5G 통신망과 NTN(비지상망)을 활용한 보조 위치 계층 구축 필요성이 대두되고 있다. 이는 통신용·위치측위용 RF 프런트엔드, 위성통신 칩셋, 엣지 단말용 저전력 SoC 수요를 자극해 관련 반도체 시장의 신규 성장 영역으로 부상하고 있다.",
+      "title": "위성·5G를 활용한 차세대 위치 파악 솔루션과 RF·칩셋 수요",
+      "summary": "GPS 재밍과 스푸핑 증가로 단일 GNSS 의존의 한계가 부각되면서 4G·5G, NTN(비지상망) 기반 보조 측위 계층이 대안으로 부상하고 있다. 이는 기지국·위성 통신용 RF 프론트엔드, 저전력 GNSS/셀룰러 듀얼 칩셋, 엣지 AI 기반 융합 센서 처리 등 반도체 수요를 확대시킬 전망이다. 국방·인프라·자율주행 영역에서 고신뢰 위치 인프라 투자가 늘며 통신·위성용 SoC 및 아날로그·혼합신호 칩의 중장기 성장 기회가 커지고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -133,8 +133,8 @@
     {
       "id": 5,
       "status": "ONGOING",
-      "title": "전력 그리드 현대화와 OT 보안 취약성 확대로 인한 반도체·보안 수요",
-      "summary": "스마트 그리드 전환으로 전력 인프라의 디지털화가 가속되면서, IT·OT 네트워크가 연결된 설비의 사이버 공격 표면이 확대되고 있다. 이에 따라 보안 기능이 내장된 산업용 MCU·FPGA, 보안 칩, 네트워크 모니터링용 ASIC 등 전력·인프라용 반도체에서 하드웨어 기반 보안 기능 수요가 꾸준히 늘고 있다.",
+      "title": "전력 그리드 디지털화와 OT·IT 융합이 여는 보안 반도체 수요",
+      "summary": "전력 그리드 현대화로 스마트 미터, 재생에너지 인버터, 분산 자원 제어 장비 등이 대거 네트워크에 연결되면서 사이버 공격 표면이 빠르게 확대되고 있다. OT와 IT 네트워크 간 가시성 부족이 문제로 지적되며, 보안 부트, 암호 가속, PUF 기반 신뢰 앵커를 내장한 보안 MCU·칩셋 수요가 늘어날 것으로 예상된다. 인프라 레벨에서의 보안 규제 강화와 함께, 산업용·전력용 반도체에 보안 기능이 기본 스펙으로 요구되는 추세가 강화되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
