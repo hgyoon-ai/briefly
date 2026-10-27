@@ -1,198 +1,198 @@
 {
   "range": {
-    "from": "2026-10-20",
-    "to": "2026-10-26"
+    "from": "2026-10-21",
+    "to": "2026-10-27"
   },
   "kpis": {
-    "collected": 12,
-    "deduped": 12,
+    "collected": 9,
+    "deduped": 9,
     "uniqueTopics": 5
   },
   "topTopics": [
     {
       "name": "Roadmap",
-      "count": 11
+      "count": 8
     },
     {
       "name": "Competition",
-      "count": 10
-    },
-    {
-      "name": "Demand",
-      "count": 7
+      "count": 6
     },
     {
       "name": "Manufacturing",
-      "count": 5
+      "count": 4
+    },
+    {
+      "name": "Demand",
+      "count": 4
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-10-20",
-      "dayOfWeek": "Tue",
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
       "topic": "Roadmap",
-      "count": 3
-    },
-    {
-      "date": "2026-10-20",
-      "dayOfWeek": "Tue",
-      "topic": "Competition",
-      "count": 3
-    },
-    {
-      "date": "2026-10-20",
-      "dayOfWeek": "Tue",
-      "topic": "Demand",
       "count": 2
     },
     {
-      "date": "2026-10-20",
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Manufacturing",
+      "count": 2
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-27",
       "dayOfWeek": "Tue",
       "topic": "Manufacturing",
       "count": 0
     },
     {
-      "date": "2026-10-21",
-      "dayOfWeek": "Wed",
-      "topic": "Roadmap",
-      "count": 5
-    },
-    {
-      "date": "2026-10-21",
-      "dayOfWeek": "Wed",
-      "topic": "Competition",
-      "count": 5
-    },
-    {
-      "date": "2026-10-21",
-      "dayOfWeek": "Wed",
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
       "topic": "Demand",
-      "count": 3
-    },
-    {
-      "date": "2026-10-21",
-      "dayOfWeek": "Wed",
-      "topic": "Manufacturing",
-      "count": 4
-    },
-    {
-      "date": "2026-10-22",
-      "dayOfWeek": "Thu",
-      "topic": "Roadmap",
-      "count": 1
-    },
-    {
-      "date": "2026-10-22",
-      "dayOfWeek": "Thu",
-      "topic": "Competition",
-      "count": 0
-    },
-    {
-      "date": "2026-10-22",
-      "dayOfWeek": "Thu",
-      "topic": "Demand",
-      "count": 1
-    },
-    {
-      "date": "2026-10-22",
-      "dayOfWeek": "Thu",
-      "topic": "Manufacturing",
-      "count": 0
-    },
-    {
-      "date": "2026-10-23",
-      "dayOfWeek": "Fri",
-      "topic": "Roadmap",
-      "count": 1
-    },
-    {
-      "date": "2026-10-23",
-      "dayOfWeek": "Fri",
-      "topic": "Competition",
-      "count": 1
-    },
-    {
-      "date": "2026-10-23",
-      "dayOfWeek": "Fri",
-      "topic": "Demand",
-      "count": 1
-    },
-    {
-      "date": "2026-10-23",
-      "dayOfWeek": "Fri",
-      "topic": "Manufacturing",
-      "count": 1
-    },
-    {
-      "date": "2026-10-24",
-      "dayOfWeek": "Sat",
-      "topic": "Roadmap",
-      "count": 1
-    },
-    {
-      "date": "2026-10-24",
-      "dayOfWeek": "Sat",
-      "topic": "Competition",
-      "count": 1
-    },
-    {
-      "date": "2026-10-24",
-      "dayOfWeek": "Sat",
-      "topic": "Demand",
-      "count": 0
-    },
-    {
-      "date": "2026-10-24",
-      "dayOfWeek": "Sat",
-      "topic": "Manufacturing",
-      "count": 0
-    },
-    {
-      "date": "2026-10-25",
-      "dayOfWeek": "Sun",
-      "topic": "Roadmap",
-      "count": 0
-    },
-    {
-      "date": "2026-10-25",
-      "dayOfWeek": "Sun",
-      "topic": "Competition",
-      "count": 0
-    },
-    {
-      "date": "2026-10-25",
-      "dayOfWeek": "Sun",
-      "topic": "Demand",
-      "count": 0
-    },
-    {
-      "date": "2026-10-25",
-      "dayOfWeek": "Sun",
-      "topic": "Manufacturing",
-      "count": 0
-    },
-    {
-      "date": "2026-10-26",
-      "dayOfWeek": "Mon",
-      "topic": "Roadmap",
-      "count": 0
-    },
-    {
-      "date": "2026-10-26",
-      "dayOfWeek": "Mon",
-      "topic": "Competition",
-      "count": 0
-    },
-    {
-      "date": "2026-10-26",
-      "dayOfWeek": "Mon",
-      "topic": "Demand",
-      "count": 0
-    },
-    {
-      "date": "2026-10-26",
-      "dayOfWeek": "Mon",
-      "topic": "Manufacturing",
       "count": 0
     }
   ],
@@ -200,8 +200,22 @@
     {
       "id": 1,
       "status": "SHIFTING",
-      "title": "Arm-퀄컴 소송 결과와 RISC‑V 부상: 생태계·지배력 재편 신호",
-      "summary": "Arm과 퀄컴 간 재판에서 손해배상은 2달러에 그쳤지만, 맞춤형 칩 출하 전 통과해야 할 준수 테스트 통제권이 핵심 쟁점으로 부각됐다. 이는 IP 라이선스 구조와 생태계 통제 방식에 대한 갈등으로, 장기적으로는 RISC‑V 등 개방형 ISA가 AI 워크로드용 칩 설계에서 전략적 대안으로 부상하는 흐름과 맞물려 CPU IP 지형 재편을 예고한다.",
+      "title": "AI 확산으로 패널 레벨 패키징(PLP) 부상",
+      "summary": "AI 칩 수요 폭증으로 기존 웨이퍼 기반 패키징의 비용·수율·공정 유연성 한계가 드러나면서, 대형 패널을 활용하는 패널 레벨 패키징이 첨단 패키징 확장의 핵심 옵션으로 부상하고 있다. 이는 HBM·CoWoS·패널 팬아웃 등 반도체 후공정 생태계 재편을 가속하고, OSAT·장비·소재 업체들의 중장기 투자 방향을 바꾸는 이슈다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "The AI Packaging Challenge: 5 Reasons Panels Are Gaining Momentum",
+          "url": "https://www.eetimes.com/the-ai-packaging-challenge-5-reasons-panels-are-gaining-momentum/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "Arm–퀄컴 소송 이후 IP·테스트 스위트 통제권 재조명",
+      "summary": "Arm과 퀄컴 간 소송에서 손해배상 규모는 2달러로 상징적이었지만, 맞춤형 칩 출하 전 필수 준수 테스트 스위트의 통제권이 핵심 쟁점으로 부각됐다. 이 판결을 계기로 Arm은 자사 비즈니스 모델의 정당성을 강조했고, 업계 일각에서는 RISC‑V 등 개방형 ISA가 장기적으로 AI 워크로드의 유연한 대안이 될 수 있다는 시각이 힘을 얻고 있다.",
       "articleCount": 2,
       "relatedArticles": [
         {
@@ -217,49 +231,49 @@
       ]
     },
     {
-      "id": 2,
-      "status": "NEW",
-      "title": "에지 AI용 MCU 진화: 멀티모달 연산과 계층형 메모리 통합",
-      "summary": "신형 에지 AI MCU가 전용 AI 가속기를 탑재해 멀티모달 연산을 지원하고, 고대역폭 DRAM을 결합해 수백 MB까지 확장 가능한 계층형 메모리를 제공한다. 이는 센서·음성·이미지 등을 동시에 처리하는 초저전력 엣지 단에서 메모리 병목을 줄이고, MCU와 메모리/스토리지 반도체 간 아키텍처 통합 수요를 가속하는 방향의 로드맵으로 볼 수 있다.",
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "유럽 NCAP 강화로 차량 인-캐빈 센싱 아키텍처 전환 가속",
+      "summary": "유럽 NCAP의 안전 평가 기준이 강화되면서 완성차 업체들이 기존 스티어링휠 기반 센서를 넘어 통합 인-캐빈 센서 시스템을 재검토하고 있다. 이를 위해 카메라·ToF·레이더 등 다양한 센서와 전용 SoC 및 AI 추론용 반도체의 채택이 늘어날 전망으로, 자동차 반도체 업체에는 새로운 설계·공급 기회가 열리고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "EE Times",
-          "title": "Edge AI MCU Features Multimodal Compute, Tiered Memory",
-          "url": "https://www.eetimes.com/edge-ai-mcu-features-multimodal-compute-tiered-memory/"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "status": "SHIFTING",
-      "title": "AI 확산에 따른 메모리 중심 패러다임 전환",
-      "summary": "AI·데이터센터 워크로드 확대로 용량·대역폭·지연 요구가 급증하며 메모리가 반도체 생태계의 중심으로 이동하고 있다. HBM, CXL 기반 계층형 메모리, PIM 등 메모리-컴퓨트 통합 기술 투자가 확대되며, 공정·패키징·인터페이스 전반에서 메모리 최적화가 반도체 경쟁력의 핵심 축으로 재정의되는 전환 국면이 진행 중이다.",
-      "articleCount": 2,
-      "relatedArticles": [
-        {
-          "source": "SK hynix Newsroom",
-          "title": "[AI Ecosystem] The semiconductor paradigm shifts toward memory",
-          "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep4-2/"
-        },
-        {
-          "source": "SK hynix Newsroom",
-          "title": "[AI Ecosystem] The semiconductor paradigm shifts toward memory",
-          "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep4-1/"
+          "title": "Automakers Reconsider In-Cabin Sensing for Euro NCAP Ratings",
+          "url": "https://www.eetimes.com/automakers-reconsider-in-cabin-sensing-for-euro-ncap-ratings/"
         }
       ]
     },
     {
       "id": 4,
       "status": "ONGOING",
-      "title": "위성·5G 기반 보조 측위 확산과 관련 반도체 수요",
-      "summary": "GPS 재밍·스푸핑 증가로 GNSS 단일 의존의 취약성이 부각되면서, 4G·5G 네트워크와 NTN(비지상망)을 활용한 2계층 측위 인프라가 논의되고 있다. 이는 RF 프런트엔드, 위성·통신용 모뎀, 저전력 위치추적 SoC와 보안 칩 등 다양한 반도체에 대한 수요를 중장기적으로 견인하는 요인으로 작용한다.",
+      "title": "GNSS 취약성 부각과 4G·5G·NTN 기반 다중 계층 측위 수요 증가",
+      "summary": "GPS 재밍·스푸핑 사례가 늘어나면서 GNSS 단일 의존 구조의 리스크가 커지고 있다. 통신사·칩벤더·장비업체들은 4G·5G 신호와 비지상망(NTN)을 활용한 보조 측위 계층을 제안하고 있으며, 관련 RF·베이스밴드·위성 모뎀 반도체 수요가 중장기적으로 확대될 가능성이 크다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "EE Times",
           "title": "When GPS Isn’t Enough: Building a Second Layer of Positioning",
           "url": "https://www.eetimes.com/when-gps-isnt-enough-building-a-second-layer-of-positioning/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "JBL·하만 생태계를 통한 오디오용 반도체·시스템 통합 강화",
+      "summary": "JBL 80주년을 계기로 공개된 인터뷰·인포그래픽은 프로 오디오에서 소비자 기기까지 영역을 넓혀온 JBL과 하만 생태계의 진화를 보여준다. 삼성 계열사 편입 이후 헤드폰·자동차·홈 오디오에 이르는 시스템 통합이 심화되며, 오디오 DSP, ANC, 무선 코덱, 차량용 인포테인먼트용 반도체 수요와 공동 개발 기회가 확대되고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "[Interview] Sound That Connects: 80 Years of Audio and the Future of Connected Experiences",
+          "url": "https://news.samsung.com/global/interview-sound-that-connects-80-years-of-audio-and-the-future-of-connected-experiences"
+        },
+        {
+          "source": "Samsung Newsroom",
+          "title": "[Infographic] 80 Years of JBL: From Studios and Stages to Everyday Life",
+          "url": "https://news.samsung.com/global/infographic-80-years-of-jbl-from-studios-and-stages-to-everyday-life"
         }
       ]
     }

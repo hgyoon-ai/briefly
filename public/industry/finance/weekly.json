@@ -1,245 +1,226 @@
 {
   "range": {
-    "from": "2026-10-20",
-    "to": "2026-10-26"
+    "from": "2026-10-21",
+    "to": "2026-10-27"
   },
   "kpis": {
-    "collected": 12,
-    "deduped": 12,
+    "collected": 10,
+    "deduped": 10,
     "uniqueTopics": 7
   },
   "topTopics": [
     {
       "name": "MarketInfra",
-      "count": 11
+      "count": 9
     },
     {
       "name": "Policy",
-      "count": 9
+      "count": 7
     },
     {
       "name": "Regulation",
       "count": 5
     },
     {
-      "name": "Compliance",
+      "name": "Fintech",
       "count": 3
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-10-20",
-      "dayOfWeek": "Tue",
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Regulation",
+      "count": 1
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Fintech",
+      "count": 0
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Regulation",
+      "count": 1
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Fintech",
+      "count": 1
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Fintech",
+      "count": 0
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "MarketInfra",
+      "count": 4
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 4
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Fintech",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Fintech",
+      "count": 0
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
       "topic": "MarketInfra",
       "count": 3
     },
     {
-      "date": "2026-10-20",
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Regulation",
+      "count": 2
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Fintech",
+      "count": 1
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-10-27",
       "dayOfWeek": "Tue",
       "topic": "Policy",
-      "count": 2
+      "count": 1
     },
     {
-      "date": "2026-10-20",
+      "date": "2026-10-27",
       "dayOfWeek": "Tue",
       "topic": "Regulation",
-      "count": 2
+      "count": 1
     },
     {
-      "date": "2026-10-20",
+      "date": "2026-10-27",
       "dayOfWeek": "Tue",
-      "topic": "Compliance",
-      "count": 1
-    },
-    {
-      "date": "2026-10-21",
-      "dayOfWeek": "Wed",
-      "topic": "MarketInfra",
-      "count": 2
-    },
-    {
-      "date": "2026-10-21",
-      "dayOfWeek": "Wed",
-      "topic": "Policy",
-      "count": 1
-    },
-    {
-      "date": "2026-10-21",
-      "dayOfWeek": "Wed",
-      "topic": "Regulation",
-      "count": 1
-    },
-    {
-      "date": "2026-10-21",
-      "dayOfWeek": "Wed",
-      "topic": "Compliance",
-      "count": 1
-    },
-    {
-      "date": "2026-10-22",
-      "dayOfWeek": "Thu",
-      "topic": "MarketInfra",
-      "count": 0
-    },
-    {
-      "date": "2026-10-22",
-      "dayOfWeek": "Thu",
-      "topic": "Policy",
-      "count": 1
-    },
-    {
-      "date": "2026-10-22",
-      "dayOfWeek": "Thu",
-      "topic": "Regulation",
-      "count": 1
-    },
-    {
-      "date": "2026-10-22",
-      "dayOfWeek": "Thu",
-      "topic": "Compliance",
-      "count": 0
-    },
-    {
-      "date": "2026-10-23",
-      "dayOfWeek": "Fri",
-      "topic": "MarketInfra",
-      "count": 0
-    },
-    {
-      "date": "2026-10-23",
-      "dayOfWeek": "Fri",
-      "topic": "Policy",
-      "count": 0
-    },
-    {
-      "date": "2026-10-23",
-      "dayOfWeek": "Fri",
-      "topic": "Regulation",
-      "count": 0
-    },
-    {
-      "date": "2026-10-23",
-      "dayOfWeek": "Fri",
-      "topic": "Compliance",
-      "count": 0
-    },
-    {
-      "date": "2026-10-24",
-      "dayOfWeek": "Sat",
-      "topic": "MarketInfra",
-      "count": 4
-    },
-    {
-      "date": "2026-10-24",
-      "dayOfWeek": "Sat",
-      "topic": "Policy",
-      "count": 4
-    },
-    {
-      "date": "2026-10-24",
-      "dayOfWeek": "Sat",
-      "topic": "Regulation",
-      "count": 0
-    },
-    {
-      "date": "2026-10-24",
-      "dayOfWeek": "Sat",
-      "topic": "Compliance",
-      "count": 0
-    },
-    {
-      "date": "2026-10-25",
-      "dayOfWeek": "Sun",
-      "topic": "MarketInfra",
-      "count": 0
-    },
-    {
-      "date": "2026-10-25",
-      "dayOfWeek": "Sun",
-      "topic": "Policy",
-      "count": 0
-    },
-    {
-      "date": "2026-10-25",
-      "dayOfWeek": "Sun",
-      "topic": "Regulation",
-      "count": 0
-    },
-    {
-      "date": "2026-10-25",
-      "dayOfWeek": "Sun",
-      "topic": "Compliance",
-      "count": 0
-    },
-    {
-      "date": "2026-10-26",
-      "dayOfWeek": "Mon",
-      "topic": "MarketInfra",
-      "count": 2
-    },
-    {
-      "date": "2026-10-26",
-      "dayOfWeek": "Mon",
-      "topic": "Policy",
-      "count": 1
-    },
-    {
-      "date": "2026-10-26",
-      "dayOfWeek": "Mon",
-      "topic": "Regulation",
-      "count": 1
-    },
-    {
-      "date": "2026-10-26",
-      "dayOfWeek": "Mon",
-      "topic": "Compliance",
+      "topic": "Fintech",
       "count": 1
     }
   ],
   "topIssues": [
     {
-      "id": 1,
+      "id": "finance-1",
       "status": "ONGOING",
-      "title": "국내 증시 급락과 정부 ‘증시 대책’ 논의",
-      "summary": "코스피가 9100선에서 5500선까지 4개월간 급락하고 하루에만 3%대 하락을 기록하는 등 변동성이 극심해지자, 역사적 저점 인식과 함께 정부의 증시 부양·안정 대책 발표 여부에 시장 관심이 집중되고 있다.",
+      "title": "AI 붐 의존 글로벌 금융시장 리스크 확대와 앤트로픽 상장 이슈",
+      "summary": "한국은행은 인공지능 투자 붐이 꺾일 경우 최대 132조원 규모의 손실이 발생할 수 있는 ‘최악 시나리오’를 제시하며 금융시스템 리스크를 경고했다. 동시에 초거대 AI 기업 앤트로픽이 상반기에만 100조원대 적자를 기록한 가운데 나스닥 상장을 추진하면서, 기술주 버블·빅테크 실적 의존도·AI 관련 자본시장의 변동성이 글로벌 금융시장의 핵심 변수로 부각되고 있다.",
       "articleCount": 2,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
-          "title": "급락한 주가...이재명 대통령이 언급한 ‘증시 대책’에 쏠리는 시장 관심",
-          "url": "https://www.mk.co.kr/news/stock/12180892"
+          "title": "“AI 꺾이면 132조원 증발”...한은이 던진 ‘최악 시나리오’",
+          "url": "https://www.mk.co.kr/news/stock/12186625"
         },
         {
           "source": "매일경제(증권)",
-          "title": "9100→5500까지 하락한 코스피…“11월은 W자 반등에 주목”",
-          "url": "https://www.mk.co.kr/news/stock/12184843"
+          "title": "앤트로픽, 나스닥 상장 신청",
+          "url": "https://www.mk.co.kr/news/stock/12186407"
         }
       ]
     },
     {
-      "id": 2,
-      "status": "ONGOING",
-      "title": "주가조작·불법투자에 대한 제재 실효성 논란",
-      "summary": "최근 5년간 주가조작 등 자본시장 교란 범죄 239건을 분석한 결과 범죄수익 1.5조원 중 18%만 추징되는 등 3건 중 2건은 추징금이 ‘0원’이었고, 대형 증권사 임직원 97명이 주식매매 규정 위반으로 적발됐음에도 과태료가 법정 상한에 못 미치는 등 자본시장 불법행위 제재가 지나치게 약하다는 비판이 커지고 있다.",
-      "articleCount": 2,
-      "relatedArticles": [
-        {
-          "source": "매일경제(증권)",
-          "title": "[단독] 주가조작, 패가망신 맞나요?…3건 중 2건은 추징금 ‘0원’",
-          "url": "https://www.mk.co.kr/news/society/12181989"
-        },
-        {
-          "source": "매일경제(증권)",
-          "title": "“불법 투자로 돈 벌다가, 퇴사하면 그만?”…증권가 주식투자의 민낯",
-          "url": "https://www.mk.co.kr/news/economy/12180261"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "status": "ONGOING",
-      "title": "넥스트레이드 거래량 급감과 대체거래소 유동성 문제",
-      "summary": "넥스트레이드(NXT)의 전체 거래량이 기존 거래소 대비 큰 폭으로 줄어들고, 기관 참여 부진으로 거래의 95%가 상위 5% 소수 종목에 쏠리면서 호가 공백과 가격 왜곡이 빈번해지는 등 국내 대체거래소의 유동성·시장품질 저하가 구조적 문제로 부상하고 있다.",
+      "id": "finance-2",
+      "status": "SHIFTING",
+      "title": "넥스트레이드 거래량 급감과 유동성 부족에 따른 가격 왜곡 논란",
+      "summary": "대체거래소 넥스트레이드(NXT)의 전체 거래량이 기존 거래소 대비 빠르게 줄어들고 있다. 기관 참여 부진으로 거래의 95%가 상위 소수 종목에 쏠리면서 유동성 부족에 따른 가격 왜곡과 변동성 확대가 빈번해져, 국내 자본시장 구조 개편 방향과 대체거래 플랫폼의 역할을 둘러싼 논쟁이 심화되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -250,30 +231,44 @@
       ]
     },
     {
-      "id": 4,
-      "status": "SHIFTING",
-      "title": "글로벌 스테이블코인 규제와 앤트로픽 상장 기대",
-      "summary": "미 재무당국이 스테이블코인 활성화 조치를 내놓은 직후 베센트 재무장관이 링컨을 언급하며 규제 원칙과 혁신 지원의 균형을 강조했고, 이를 계기로 암호화폐 규제 완화와 함께 앤트로픽의 상장 가능성이 다음 달로 구체화될 수 있다는 관측이 커지고 있다.",
+      "id": "finance-3",
+      "status": "ONGOING",
+      "title": "주가조작 범죄수익 환수 부실로 인한 자본시장 신뢰도 하락",
+      "summary": "최근 5년간 자본시장 교란범죄 판결 239건을 분석한 결과, 약 1.5조원의 범죄수익 가운데 실제 추징은 18% 수준에 그쳤고 3건 중 2건은 추징금이 0원인 것으로 드러났다. 주가조작·시세조종 등 불공정거래에 대한 사후 환수·제재 실효성이 낮다는 지적이 거세지며, 금융당국과 사법당국의 공조 강화, 부당이득 전액 환수와 손해배상 체계 개선이 시급한 과제로 부각되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
-          "title": "링컨까지 소환한 베센트... 앤트로픽 상장, 다음달 확정인가",
-          "url": "https://www.mk.co.kr/news/business/12182433"
+          "title": "[단독] 주가조작, 패가망신 맞나요?…3건 중 2건은 추징금 ‘0원’",
+          "url": "https://www.mk.co.kr/news/society/12181989"
         }
       ]
     },
     {
-      "id": 5,
+      "id": "finance-4",
       "status": "ONGOING",
-      "title": "삼성전자 사상 최대 실적과 개별주 부진의 괴리",
-      "summary": "삼성전자가 분기 영업이익 100조원을 돌파하는 국내 기업 최초 기록을 세웠지만, 일부 개인투자자 보유 종목은 동반 상승에 실패하면서 대형 IT 실적 호황과 개인 포트폴리오 수익률 간 격차, 업종·종목별 차별화 장세에 대한 관심이 커지고 있다.",
+      "title": "고금리·변동성 국면에서 부각되는 보험주의 방어·배당 매력",
+      "summary": "글로벌 금리 고공행진과 증시 변동성 확대 속에서 국내 보험주는 상대적으로 견조한 흐름을 보이며 대표적인 방어주·배당주로 재평가되고 있다. 장기 금리 상승이 보험사의 이자수익과 책임준비금 평가에 우호적으로 작용하는 가운데, 안정적 배당과 경기 민감도가 낮은 사업 구조가 투자자들의 위험 회피 수요를 흡수하고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
-          "title": "“석달 만에 100조 벌었다는데” … 내 주식만 왜 떨어지는지 궁금하다면",
-          "url": "https://www.mk.co.kr/news/stock/12185059"
+          "title": "증시 큰 변동성에도 버티는 보험주…배당·방어주로 부각된다는데",
+          "url": "https://www.mk.co.kr/news/stock/12184896"
+        }
+      ]
+    },
+    {
+      "id": "finance-5",
+      "status": "SHIFTING",
+      "title": "코스피 급락 이후 11월 W자 반등 가능성에 대한 전략 재점검",
+      "summary": "코스피가 6월 9100선에서 약 4개월간 급락해 5500선까지 밀리며 투자심리가 크게 위축된 가운데, 일부 증권사는 역사적 저점 인식과 실적 모멘텀 회복 기대를 근거로 11월 W자형 기술적 반등 가능성에 주목하고 있다. 단기 매크로 불확실성은 여전하지만 실적·밸류에이션·수급 요인을 종합한 저가 매수 전략과 업종 재배분 논의가 활발해지는 국면이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "9100→5500까지 하락한 코스피…“11월은 W자 반등에 주목”",
+          "url": "https://www.mk.co.kr/news/stock/12184843"
         }
       ]
     }

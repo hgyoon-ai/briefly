@@ -1,0 +1,148 @@
+{
+  "range": {
+    "from": "2026-09-28",
+    "to": "2026-10-27"
+  },
+  "kpis": {
+    "collected": 52,
+    "deduped": 52,
+    "uniqueTopics": 9,
+    "marketShare": {
+      "MarketInfra": 39,
+      "Policy": 27,
+      "Regulation": 15,
+      "Compliance": 10,
+      "Fintech": 9,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (09/28-10/04)",
+      "topicCounts": {
+        "MarketInfra": 9,
+        "Policy": 4,
+        "Regulation": 3,
+        "Compliance": 1,
+        "Fintech": 3
+      }
+    },
+    {
+      "week": "Week 2 (10/05-10/11)",
+      "topicCounts": {
+        "MarketInfra": 9,
+        "Policy": 8,
+        "Regulation": 2,
+        "Compliance": 2,
+        "Fintech": 2
+      }
+    },
+    {
+      "week": "Week 3 (10/12-10/18)",
+      "topicCounts": {
+        "MarketInfra": 12,
+        "Policy": 9,
+        "Regulation": 4,
+        "Compliance": 3,
+        "Fintech": 1
+      }
+    },
+    {
+      "week": "Week 4 (10/19-10/25)",
+      "topicCounts": {
+        "MarketInfra": 9,
+        "Policy": 8,
+        "Regulation": 4,
+        "Compliance": 2,
+        "Fintech": 1
+      }
+    },
+    {
+      "week": "Week 5 (10/26-10/27)",
+      "topicCounts": {
+        "MarketInfra": 2,
+        "Policy": 1,
+        "Regulation": 2,
+        "Compliance": 1,
+        "Fintech": 1
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "AI 버블 리스크와 글로벌 증시 충격 시나리오",
+      "summary": "한국은행이 AI 투자 열기가 꺾일 경우 국내 금융시장과 실물경제에 최대 132조원 손실이 발생할 수 있다고 경고하면서, AI 관련 자산 가격 조정이 주요 거시 리스크로 부상했다. 상반기에만 대규모 적자를 기록한 AI 기업 앤트로픽 사례가 거론되며, 향후 글로벌 AI·빅테크 조정 시 국내 증시·연기금·기관투자가의 손실 가능성에 대한 경계감이 확대되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“AI 꺾이면 132조원 증발”...한은이 던진 ‘최악 시나리오’",
+          "url": "https://www.mk.co.kr/news/stock/12186625"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "앤트로픽 나스닥 상장 추진과 AI 테마 자본시장 수급 변화",
+      "summary": "앤트로픽이 미국 증권거래위원회(SEC)에 나스닥 IPO를 위한 증권신고서를 제출하면서, 엔비디아·오픈AI에 이은 또 하나의 대형 AI 플레이어 상장이 가시화됐다. 상장이 현실화될 경우 글로벌 AI 테마 자금이 다시 미국 대형 기술주·신규 상장주로 쏠리며 한국 등 주변 시장의 성장주·2차·3차 수혜주 수급에 변동성을 키울 수 있다는 관측이 제기된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "앤트로픽, 나스닥 상장 신청",
+          "url": "https://www.mk.co.kr/news/stock/12186407"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "한국 증시 급락과 새 정부 ‘증시 대책’ 기대·불확실성",
+      "summary": "코스피와 코스닥이 동반 급락하며 주요 지수가 하루 만에 3%대 넘게 떨어지자, 이재명 대통령이 언급한 증시 안정 대책에 시장의 관심이 집중되고 있다. 공매도 제도, 연금·국부펀드의 매수 역할, 개인투자자 세제·거래제도 완화 등 전반적인 자본시장 정책 방향이 단기 수급뿐 아니라 중장기 밸류에이션 재평가에 핵심 변수로 부상했다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "급락한 주가...이재명 대통령이 언급한 ‘증시 대책’에 쏠리는 시장 관심",
+          "url": "https://www.mk.co.kr/news/stock/12180892"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "주가조작·임직원 불공정거래에 허술한 제재 구조",
+      "summary": "최근 5년간 자본시장 교란 사건 판결을 분석한 결과 범죄수익 약 1.5조원 중 18%만 추징되고, 3건 중 2건은 추징금이 0원인 것으로 나타났다. 동시에 대형 증권사 임직원의 불법·편법 자사주 및 고객정보 활용 거래가 적발되고도 상대적으로 가벼운 과태료에 그치면서, 불공정거래 억지력 약화와 금융투자업계 내부통제 실효성에 대한 비판이 커지고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[단독] 주가조작, 패가망신 맞나요?…3건 중 2건은 추징금 ‘0원’",
+          "url": "https://www.mk.co.kr/news/society/12181989"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "“불법 투자로 돈 벌다가, 퇴사하면 그만?”…증권가 주식투자의 민낯",
+          "url": "https://www.mk.co.kr/news/economy/12180261"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "부실기업 상장폐지 급증과 코스닥·중소형주 구조조정",
+      "summary": "올해 9월까지 상장폐지된 부실기업 수가 전년의 두 배 수준인 36곳에 이르며, 자본잠식·감사의견 거절 등 재무건전성 악화 기업에 대한 시장 퇴출이 가속화되고 있다. 이는 단기적으로는 관련 종목 투자손실과 변동성을 키우지만, 중장기적으로는 코스닥과 중소형주 시장의 체질 개선과 상장·퇴출 심사 기준 강화로 이어질 가능성이 부각된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "부실기업 증시퇴출, 작년보다 두배 급증",
+          "url": "https://www.mk.co.kr/news/stock/12168228"
+        }
+      ]
+    }
+  ]
+}

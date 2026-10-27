@@ -1,0 +1,148 @@
+{
+  "range": {
+    "from": "2026-09-28",
+    "to": "2026-10-27"
+  },
+  "kpis": {
+    "collected": 69,
+    "deduped": 69,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 31,
+      "Competition": 27,
+      "Manufacturing": 18,
+      "Demand": 12,
+      "Investment": 12,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (09/28-10/04)",
+      "topicCounts": {
+        "Roadmap": 20,
+        "Competition": 18,
+        "Manufacturing": 7,
+        "Demand": 7,
+        "Investment": 11
+      }
+    },
+    {
+      "week": "Week 2 (10/05-10/11)",
+      "topicCounts": {
+        "Roadmap": 9,
+        "Competition": 9,
+        "Manufacturing": 7,
+        "Demand": 3,
+        "Investment": 3
+      }
+    },
+    {
+      "week": "Week 3 (10/12-10/18)",
+      "topicCounts": {
+        "Roadmap": 14,
+        "Competition": 12,
+        "Manufacturing": 13,
+        "Demand": 5,
+        "Investment": 8
+      }
+    },
+    {
+      "week": "Week 4 (10/19-10/25)",
+      "topicCounts": {
+        "Roadmap": 14,
+        "Competition": 12,
+        "Manufacturing": 7,
+        "Demand": 8,
+        "Investment": 1
+      }
+    },
+    {
+      "week": "Week 5 (10/26-10/27)",
+      "topicCounts": {
+        "Roadmap": 3,
+        "Competition": 2,
+        "Manufacturing": 2,
+        "Demand": 1,
+        "Investment": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "AI 고성능 패키징 전환: 패널 레벨 공정이 차세대 반도체 패키징 축으로 부상",
+      "summary": "AI 워크로드 확대로 기존 웨이퍼 기반 패키징의 비용·확장성 한계가 드러나면서, 대형 기판을 사용하는 패널 레벨 공정이 HBM·고대역폭 패키지 양산의 핵심 옵션으로 재부상하고 있다. 이는 후공정 장비·소재, OSAT, 파운드리 모두의 투자 방향을 재조정하는 이슈로, AI용 반도체 공급망의 병목을 패키징 단계에서 해소하려는 움직임이 강화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "The AI Packaging Challenge: 5 Reasons Panels Are Gaining Momentum",
+          "url": "https://www.eetimes.com/the-ai-packaging-challenge-5-reasons-panels-are-gaining-momentum/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "Arm–Qualcomm 분쟁이 드러낸 ISA·IP 규제와 테스트 통제권 쟁점",
+      "summary": "Arm–Qualcomm 재판에서 배상액은 2달러에 그쳤지만, 맞춤형 칩 출하시 필수인 준수 테스트 스위트 통제권과 라이선스 조건 해석이 핵심 쟁점으로 부각됐다. 동시에 업계에서는 RISC‑V 등 개방형 ISA가 AI·맞춤형 가속기 설계에서 장기적 유연성을 제공하는 대안으로 거론되며, CPU IP 시장 구조와 생태계 의존도 재조정 논의가 확산되고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Arm Comments on Jury Decision in Qualcomm Trial",
+          "url": "https://www.eetimes.com/arm-comments-on-jury-decision-in-qualcomm-trial/"
+        },
+        {
+          "source": "EE Times",
+          "title": "Two Dollars and a Test Suite",
+          "url": "https://www.eetimes.com/two-dollars-and-a-test-suite/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "차량용 In‑Cabin 센싱 재편: 유럽 NCAP 규제가 반도체 센서 구조 변화 촉발",
+      "summary": "유럽 NCAP의 강화된 안전 평가 기준으로 운전자 모니터링이 필수 항목이 되면서, 완성차 업체들은 기존 스티어링휠 센서에서 카메라·레이더·IR를 결합한 통합 인캐빈 센싱으로 이동하고 있다. 이 과정에서 차량용 이미지센서, ToF, 레이더, 엣지 AI SoC 등 반도체 수요 구조가 변하고, 센서 융합용 SoC·ISP 설계 경쟁이 심화되는 방향으로 시장이 재편되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Automakers Reconsider In-Cabin Sensing for Euro NCAP Ratings",
+          "url": "https://www.eetimes.com/automakers-reconsider-in-cabin-sensing-for-euro-ncap-ratings/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "GNSS 취약성 부각 속 4G·5G·NTN 기반 멀티 레이어 위치결정 칩셋 수요 확대",
+      "summary": "GPS 재밍과 스푸핑 사례가 늘면서 단일 GNSS 의존의 한계가 드러나고 있고, 지상 이동통신(4G·5G) 및 위성 NTN 신호를 결합한 2차 위치결정 계층이 대안으로 추진되고 있다. 이에 따라 RF 프론트엔드, 멀티밴드 GNSS 수신기, 셀룰러·NTN 융합 모뎀 등 위치·동기화용 반도체의 통합 설계와 보안 기능 강화가 통신·자동차·산업용 칩 로드맵의 핵심 요구사항으로 부상하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "When GPS Isn’t Enough: Building a Second Layer of Positioning",
+          "url": "https://www.eetimes.com/when-gps-isnt-enough-building-a-second-layer-of-positioning/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "장비·소재 생태계 투자 확대: Applied Materials의 50억달러 EPIC 베팅",
+      "summary": "Applied Materials가 50억달러 규모 EPIC 센터 투자를 공개하며 첨단 공정 장비·소재 개발에 대한 장기 수요를 재확인했다. AI·고성능 컴퓨팅용 미세공정, 어드밴스드 패키징, 전력반도체 등 복합 수요를 겨냥해 고객 공동개발(CoE)과 전 공정·후공정을 아우르는 통합 솔루션을 강화하려는 움직임으로, 반도체 장비 섹터의 CapEx 사이클이 장기화되는 신호로 해석된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Video Interview: Applied Materials CEO on the Economics Behind Its $5B EPIC Bet",
+          "url": "https://www.eetimes.com/video-interview-applied-materials-ceo-on-the-economics-behind-its-5b-epic-bet/"
+        }
+      ]
+    }
+  ]
+}

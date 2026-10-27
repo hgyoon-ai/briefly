@@ -1,12 +1,106 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "highlights": {
-    "bullets": [],
-    "topTopics": [],
+    "bullets": [
+      "핵심: Greptile이 GPT-6 Astra로 코드 리뷰를 넘어 사용자 워크플로 자동 테스트를 도입했습니다.",
+      "핵심: NVIDIA Mission Control 2.5가 Kubernetes에 자율 복구와 텔레메트리 기반 운영 자동화를 도입했습니다.",
+      "트렌드: 고급 모델과 인프라·도구의 결합으로 자동화된 검증과 복구 기능이 강화되고 있습니다."
+    ],
+    "topTopics": [
+      "Tooling",
+      "Product",
+      "Models",
+      "Safety"
+    ],
     "stats": {
-      "collected": 0,
-      "deduped": 0
+      "collected": 8,
+      "deduped": 8
     }
   },
-  "cards": []
+  "cards": [
+    {
+      "id": "ai_0001",
+      "tab": "ai",
+      "publishedAt": "2026-10-27T07:00:00+09:00",
+      "source": "OpenAI Blog",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "summary": [
+        "Greptile가 GPT-6 Astra로 코드 리뷰를 넘어 사용자 워크플로를 자동으로 테스트합니다.",
+        "Daybreak 통합으로 보안 취약점 탐지·대응을 강화합니다.",
+        "Codex를 활용해 반복 작업과 재작업을 줄여 개발 효율을 높입니다."
+      ],
+      "whyItMatters": "고급 LLM과 보안·개발 도구의 결합으로 버그 탐지와 워크플로 검증을 자동화해 품질과 속도를 동시에 개선하기 때문입니다.",
+      "topics": [
+        "Models",
+        "Tooling",
+        "Safety",
+        "Product"
+      ],
+      "status": "ONGOING",
+      "hash": "a9c488820a62ac4adcd9d66c87dfdb487fb6897ef015ab83ccdf2e6a9db2968a",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra"
+    },
+    {
+      "id": "ai_0002",
+      "tab": "ai",
+      "publishedAt": "2026-10-27T01:00:00+09:00",
+      "source": "NVIDIA Developer Blog",
+      "title": "How NVIDIA Minerva Turns Telemetry Chaos Into Peak GPU Yield",
+      "summary": [
+        "Minerva는 대규모 AI 팩토리의 분산된 텔레메트리 데이터를 통합·정규화해 GPU 수율과 활용률을 최적화합니다.",
+        "KV 기반 인덱싱과 실시간 분석으로 이상 탐지, 근본 원인 분석, 자동 복구 워크플로우를 지원합니다.",
+        "대규모 스케일과 낮은 지연으로 운영 자동화와 인프라 안정성을 개선해 비용과 다운타임을 줄입니다."
+      ],
+      "whyItMatters": "대규모 GPU 인프라의 가용성·효율·운영비용에 직접적인 영향을 주어 AI 서비스의 확장성과 신뢰성을 높이기 때문입니다.",
+      "topics": [
+        "Infra",
+        "Tooling",
+        "Data"
+      ],
+      "status": "ONGOING",
+      "hash": "ad48058b46de9c2a9d8420466dec25674a1de19a98f5c770675c10b724aed568",
+      "url": "https://developer.nvidia.com/blog/how-nvidia-minerva-turns-telemetry-chaos-into-peak-gpu-yield/"
+    },
+    {
+      "id": "ai_0003",
+      "tab": "ai",
+      "publishedAt": "2026-10-27T00:00:00+09:00",
+      "source": "NVIDIA Developer Blog",
+      "title": "How NVIDIA Mission Control 2.5 Brings Autonomous Recovery to Kubernetes",
+      "summary": [
+        "NVIDIA Mission Control 2.5이 Kubernetes에 자율 복구 기능을 도입해 GPU 클러스터 복원력을 강화합니다.",
+        "자동 장애 감지·수정, 텔레메트리 통합과 운영 자동화로 대규모 AI 훈련 중단을 최소화합니다.",
+        "관리자 개입을 줄여 운영 효율성 향상과 GPU 워크로드 안정성 개선을 목표로 합니다."
+      ],
+      "whyItMatters": "대규모 GPU 훈련에서 다운타임과 수동 복구 비용을 낮춰 모델 학습 연속성과 운영 효율을 크게 향상시키기 때문입니다.",
+      "topics": [
+        "Tooling",
+        "Infra",
+        "Product"
+      ],
+      "status": "ONGOING",
+      "hash": "ec17f0212ac94073d7e39967538b8681ea5549a4f2594729e327c97163891a62",
+      "url": "https://developer.nvidia.com/blog/how-nvidia-mission-control-2-5-brings-autonomous-recovery-to-kubernetes/"
+    },
+    {
+      "id": "ai_0004",
+      "tab": "ai",
+      "publishedAt": "2026-10-26T23:30:00+09:00",
+      "source": "OpenAI Blog",
+      "title": "Working with academic communities to build scientific understanding",
+      "summary": [
+        "OpenAI가 수학·물리학 관련 모델 결과(카케야 추측, 지수 시간 가설, 양자 색역학)를 공개했습니다.",
+        "연구자들이 결과를 검증하고 확장할 수 있도록 방법과 자료를 제공한다고 밝혔습니다.",
+        "학계와의 협력을 통해 과학적 이해와 재현성을 높이는 것을 목표로 합니다."
+      ],
+      "whyItMatters": "모델 기반 과학적 주장에 대한 투명성과 재현성을 높여 전문가 검증과 후속 연구를 촉진하기 때문입니다.",
+      "topics": [
+        "Models",
+        "Research"
+      ],
+      "status": "ONGOING",
+      "hash": "8eb6001a836a6e50b8fb133e1590f182de0e7997306db3a54dcb8d2c2e5a6daa",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities"
+    }
+  ]
 }

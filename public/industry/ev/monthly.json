@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-09-27",
-    "to": "2026-10-26"
+    "from": "2026-09-28",
+    "to": "2026-10-27"
   },
   "kpis": {
     "collected": 52,
@@ -9,85 +9,99 @@
     "uniqueTopics": 7,
     "marketShare": {
       "Roadmap": 27,
-      "Competition": 23,
-      "Demand": 22,
-      "Investment": 18,
-      "Policy": 10,
+      "Competition": 24,
+      "Demand": 21,
+      "Investment": 19,
+      "Policy": 9,
       "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (09/27-10/03)",
+      "week": "Week 1 (09/28-10/04)",
       "topicCounts": {
-        "Roadmap": 11,
-        "Competition": 7,
-        "Demand": 7,
+        "Roadmap": 9,
+        "Competition": 6,
+        "Demand": 6,
         "Investment": 6,
-        "Policy": 4
+        "Policy": 2
       }
     },
     {
-      "week": "Week 2 (10/04-10/10)",
+      "week": "Week 2 (10/05-10/11)",
       "topicCounts": {
-        "Roadmap": 8,
-        "Competition": 6,
+        "Roadmap": 10,
+        "Competition": 8,
         "Demand": 6,
-        "Investment": 4,
+        "Investment": 5,
         "Policy": 3
       }
     },
     {
-      "week": "Week 3 (10/11-10/17)",
+      "week": "Week 3 (10/12-10/18)",
       "topicCounts": {
         "Roadmap": 6,
-        "Competition": 10,
-        "Demand": 9,
-        "Investment": 6,
+        "Competition": 11,
+        "Demand": 10,
+        "Investment": 5,
         "Policy": 4
       }
     },
     {
-      "week": "Week 4 (10/18-10/24)",
+      "week": "Week 4 (10/19-10/25)",
       "topicCounts": {
-        "Roadmap": 9,
-        "Competition": 7,
+        "Roadmap": 8,
+        "Competition": 8,
         "Demand": 4,
-        "Investment": 7,
+        "Investment": 8,
         "Policy": 4
       }
     },
     {
-      "week": "Week 5 (10/25-10/26)",
+      "week": "Week 5 (10/26-10/27)",
       "topicCounts": {
         "Roadmap": 2,
-        "Competition": 0,
-        "Demand": 2,
-        "Investment": 2,
+        "Competition": 2,
+        "Demand": 0,
+        "Investment": 1,
         "Policy": 0
       }
     }
   ],
   "topIssues": [
     {
-      "id": "ev-1",
+      "id": 1,
       "status": "NEW",
-      "title": "완전 자율·전동 무인 터미널 트랙터 상용화 가속",
-      "summary": "XCMG가 운전석이 완전히 없는 레벨4 자율주행 전동 터미널 트랙터 콘셉트를 공개하면서 항만·물류 터미널에서의 무인 전기 상용차 도입이 본격화되고 있다. 전동화와 고도 자율주행을 결합한 물류 장비가 EV 산업 내 신규 성장 축으로 부상하는 흐름이다.",
+      "title": "BYD 초럭셔리 EV 플래그십·전고체 배터리 출격 임박",
+      "summary": "BYD가 롤스로이스식 코치 도어와 전고체 배터리 적용이 예상되는 초럭셔리 전기 세단 플래그십을 곧 공개할 예정입니다. 중국 프리미엄 EV 시장 상향화와 고급 세단 세그먼트에서의 BYD 위상 확대, 전고체 배터리 상용화 경쟁 가속이 주요 관전 포인트입니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
-          "title": "XCMG debuts new, fully autonomous electric terminal tractor [video]",
-          "url": "https://electrek.co/2026/10/25/xcmg-debuts-new-fully-autonomous-electric-terminal-tractor-video/"
+          "title": "BYD’s ultra-luxury EV could debut next week with solid-state batteries and much more",
+          "url": "https://electrek.co/2026/10/26/byds-ultra-luxury-ev-may-debut-next-week-with-solid-state-batteries/"
         }
       ]
     },
     {
-      "id": "ev-2",
+      "id": 2,
       "status": "NEW",
-      "title": "저가 장주행 EV로 격화되는 중국 승용차 가격 경쟁",
-      "summary": "폭스바겐이 중국 시장에 약 1만2천 달러 미만 가격으로 285마일 이상 주행 가능한 전기 제타를 선보이며, 중국 로컬 및 글로벌 완성차 간 EV 가격 경쟁이 한층 심화되고 있다. 보급형 장주행 모델 확대로 내연기관 수요 잠식이 가속될 전망이다.",
+      "title": "렉서스 RZ 2027년형, 5만 달러 미만·300마일 이상 주행으로 프리미엄 EV 본격 확대",
+      "summary": "2027년형 렉서스 RZ가 내년 초 출시되며, 5만 달러 미만 시작가와 300마일 이상 주행거리로 프리미엄 중형 전기 SUV 시장 경쟁이 심화되고 있습니다. 토요타 그룹의 EV 라인업 강화와 북미·글로벌 프리미엄 EV 수요 흡수가 기대됩니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "The 2027 Lexus RZ starts at under $50,000 and offers over 300 miles of range",
+          "url": "https://electrek.co/2026/10/26/2027-lexus-rz-starts-under-50000-with-300-miles-range/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "폭스바겐, 1.2만 달러 미만 전기 제타로 초저가 EV 시장 정면 승부",
+      "summary": "폭스바겐이 중국 시장용 전기 세단 제타 M6를 1만2천 달러 미만 가격과 최대 약 460km(CLTC) 주행거리로 선보이며 초저가 EV 세그먼트 공략을 강화하고 있습니다. 현지 브랜드 중심이던 보급형 EV 시장에 유럽 OEM의 가격 경쟁이 본격화되는 신호입니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -98,24 +112,10 @@
       ]
     },
     {
-      "id": "ev-3",
+      "id": 4,
       "status": "ONGOING",
-      "title": "중고 중국산 EV, 우회 경로 통해 서방 시장 잠식",
-      "summary": "중국산 전기차가 중고차 형태로 서방 시장에 유입되며 신차 대비 최대 40% 저렴한 가격을 내세워 점유율을 확대하고 있다. 이란발 유가·물가 상승으로 서방 제조사의 신차 가격 부담이 커진 가운데, 중국산 EV의 가격 우위가 글로벌 경쟁 구도를 재편하는 흐름이 이어지고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "Chinese EVs found back door into Western car markets – at 40% off MSRP",
-          "url": "https://electrek.co/2026/10/24/chinese-evs-found-back-door-into-western-car-markets-at-40-off-msrp/"
-        }
-      ]
-    },
-    {
-      "id": "ev-4",
-      "status": "ONGOING",
-      "title": "테슬라 텍사스 초대형 태양광 공장, 장기 세제 혜택으로 투자 모멘텀 강화",
-      "summary": "텍사스 포트벤드 카운티가 약 100억 달러 규모의 테슬라 태양광 공장에 대해 최대 35년간 지방 세제 혜택을 승인하며, 북미 재생에너지·배터리 관련 제조 투자 유치 경쟁이 강화되고 있다. 이는 EV·에너지 사업 통합을 추진하는 테슬라의 제조 기반 확대에 중요한 정책 지원으로 평가된다.",
+      "title": "테슬라 텍사스 100억 달러급 태양광 공장, 최대 35년 지방 세제 혜택 가시화",
+      "summary": "텍사스 포트벤드 카운티가 테슬라 ‘프로젝트 크리스털 선’ 태양광 공장 설비에 대해 최대 35년간 지방 세제 혜택을 만장일치로 승인했습니다. 미국 내 태양광·에너지 제조 투자 확대와 장기 고용·지역 산업 클러스터 형성이 기대되는 가운데, 테슬라의 에너지 사업 비중 확대 기조가 이어지고 있습니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -126,10 +126,10 @@
       ]
     },
     {
-      "id": "ev-5",
+      "id": 5,
       "status": "NEW",
-      "title": "중공업·제련 공정 탈탄소화 위한 대형 열 배터리 실증",
-      "summary": "리오 틴토가 호주 알루미나 정제소에 대형 ‘뜨거운 벽돌’ 열 배터리 도입을 검토하며, 저가 전력을 활용한 열 저장을 통해 화석연료 사용을 줄이려 하고 있다. 에너지 다소비 산업에서 전기·열 저장 기술을 활용한 간접 전기화가 EV 배터리 기술과 병행해 중요한 탈탄소 솔루션으로 부상하고 있다.",
+      "title": "리오틴토, 고온 벽돌 배터리로 산업 공정 탈탄소 시범 추진",
+      "summary": "리오틴토가 호주 야윈 알루미나 정제소에 낮 시간 저렴한 전력을 활용해 열을 저장하고 야간 증기 생산에 쓰는 대형 ‘핫 브릭’ 열 배터리 도입을 검토 중입니다. 에너지 집약적 제조업에서 전력·열 수요를 재생에너지 중심으로 전환하려는 시도로, 산업 공정 전동화·탈화석연료 트렌드와 맞물려 주목됩니다.",
       "articleCount": 1,
       "relatedArticles": [
         {

@@ -1,0 +1,281 @@
+{
+  "range": {
+    "from": "2026-10-21",
+    "to": "2026-10-27"
+  },
+  "kpis": {
+    "collected": 9,
+    "deduped": 9,
+    "uniqueTopics": 5
+  },
+  "topTopics": [
+    {
+      "name": "Roadmap",
+      "count": 8
+    },
+    {
+      "name": "Competition",
+      "count": 6
+    },
+    {
+      "name": "Manufacturing",
+      "count": 4
+    },
+    {
+      "name": "Demand",
+      "count": 4
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Manufacturing",
+      "count": 2
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "Demand",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "AI 확산으로 패널 레벨 패키징(PLP) 부상",
+      "summary": "AI 칩 수요 폭증으로 기존 웨이퍼 기반 패키징의 비용·수율·공정 유연성 한계가 드러나면서, 대형 패널을 활용하는 패널 레벨 패키징이 첨단 패키징 확장의 핵심 옵션으로 부상하고 있다. 이는 HBM·CoWoS·패널 팬아웃 등 반도체 후공정 생태계 재편을 가속하고, OSAT·장비·소재 업체들의 중장기 투자 방향을 바꾸는 이슈다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "The AI Packaging Challenge: 5 Reasons Panels Are Gaining Momentum",
+          "url": "https://www.eetimes.com/the-ai-packaging-challenge-5-reasons-panels-are-gaining-momentum/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "Arm–퀄컴 소송 이후 IP·테스트 스위트 통제권 재조명",
+      "summary": "Arm과 퀄컴 간 소송에서 손해배상 규모는 2달러로 상징적이었지만, 맞춤형 칩 출하 전 필수 준수 테스트 스위트의 통제권이 핵심 쟁점으로 부각됐다. 이 판결을 계기로 Arm은 자사 비즈니스 모델의 정당성을 강조했고, 업계 일각에서는 RISC‑V 등 개방형 ISA가 장기적으로 AI 워크로드의 유연한 대안이 될 수 있다는 시각이 힘을 얻고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Arm Comments on Jury Decision in Qualcomm Trial",
+          "url": "https://www.eetimes.com/arm-comments-on-jury-decision-in-qualcomm-trial/"
+        },
+        {
+          "source": "EE Times",
+          "title": "Two Dollars and a Test Suite",
+          "url": "https://www.eetimes.com/two-dollars-and-a-test-suite/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "유럽 NCAP 강화로 차량 인-캐빈 센싱 아키텍처 전환 가속",
+      "summary": "유럽 NCAP의 안전 평가 기준이 강화되면서 완성차 업체들이 기존 스티어링휠 기반 센서를 넘어 통합 인-캐빈 센서 시스템을 재검토하고 있다. 이를 위해 카메라·ToF·레이더 등 다양한 센서와 전용 SoC 및 AI 추론용 반도체의 채택이 늘어날 전망으로, 자동차 반도체 업체에는 새로운 설계·공급 기회가 열리고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Automakers Reconsider In-Cabin Sensing for Euro NCAP Ratings",
+          "url": "https://www.eetimes.com/automakers-reconsider-in-cabin-sensing-for-euro-ncap-ratings/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "GNSS 취약성 부각과 4G·5G·NTN 기반 다중 계층 측위 수요 증가",
+      "summary": "GPS 재밍·스푸핑 사례가 늘어나면서 GNSS 단일 의존 구조의 리스크가 커지고 있다. 통신사·칩벤더·장비업체들은 4G·5G 신호와 비지상망(NTN)을 활용한 보조 측위 계층을 제안하고 있으며, 관련 RF·베이스밴드·위성 모뎀 반도체 수요가 중장기적으로 확대될 가능성이 크다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "When GPS Isn’t Enough: Building a Second Layer of Positioning",
+          "url": "https://www.eetimes.com/when-gps-isnt-enough-building-a-second-layer-of-positioning/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "JBL·하만 생태계를 통한 오디오용 반도체·시스템 통합 강화",
+      "summary": "JBL 80주년을 계기로 공개된 인터뷰·인포그래픽은 프로 오디오에서 소비자 기기까지 영역을 넓혀온 JBL과 하만 생태계의 진화를 보여준다. 삼성 계열사 편입 이후 헤드폰·자동차·홈 오디오에 이르는 시스템 통합이 심화되며, 오디오 DSP, ANC, 무선 코덱, 차량용 인포테인먼트용 반도체 수요와 공동 개발 기회가 확대되고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "[Interview] Sound That Connects: 80 Years of Audio and the Future of Connected Experiences",
+          "url": "https://news.samsung.com/global/interview-sound-that-connects-80-years-of-audio-and-the-future-of-connected-experiences"
+        },
+        {
+          "source": "Samsung Newsroom",
+          "title": "[Infographic] 80 Years of JBL: From Studios and Stages to Everyday Life",
+          "url": "https://news.samsung.com/global/infographic-80-years-of-jbl-from-studios-and-stages-to-everyday-life"
+        }
+      ]
+    }
+  ]
+}

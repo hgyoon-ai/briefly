@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-09-28",
+    "to": "2026-10-27"
+  },
+  "kpis": {
+    "collected": 114,
+    "deduped": 114,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "Market": 30,
+      "Supply": 25,
+      "Policy": 19,
+      "Construction": 13,
+      "Rental": 13,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (09/28-10/04)",
+      "topicCounts": {
+        "Market": 15,
+        "Supply": 13,
+        "Policy": 8,
+        "Construction": 6,
+        "Rental": 3
+      }
+    },
+    {
+      "week": "Week 2 (10/05-10/11)",
+      "topicCounts": {
+        "Market": 15,
+        "Supply": 12,
+        "Policy": 9,
+        "Construction": 5,
+        "Rental": 8
+      }
+    },
+    {
+      "week": "Week 3 (10/12-10/18)",
+      "topicCounts": {
+        "Market": 15,
+        "Supply": 16,
+        "Policy": 18,
+        "Construction": 10,
+        "Rental": 3
+      }
+    },
+    {
+      "week": "Week 4 (10/19-10/25)",
+      "topicCounts": {
+        "Market": 20,
+        "Supply": 13,
+        "Policy": 8,
+        "Construction": 10,
+        "Rental": 9
+      }
+    },
+    {
+      "week": "Week 5 (10/26-10/27)",
+      "topicCounts": {
+        "Market": 5,
+        "Supply": 1,
+        "Policy": 0,
+        "Construction": 0,
+        "Rental": 4
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "전세 공급 축소와 월세 전환 가속으로 임대시장 구조 변화",
+      "summary": "서울을 중심으로 전셋값 상승률이 전년 대비 4배 수준으로 뛰는 동시에 전세 물량은 줄고 월세 계약 비중이 57%까지 확대되며 임대차 시장이 월세 중심 구조로 빠르게 전환되고 있다. 이 추세가 이어질 경우 내후년 전세난이 정점에 이를 수 있다는 우려가 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "지금 전월셋값 확 올랐는데 “아직 지옥이 아니다”…내후년이 전세난 피크",
+          "url": "https://www.mk.co.kr/news/realestate/12186603"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "수도권 고가 월세의 일상화와 서울·강남 집값 흐름 분화",
+      "summary": "경기도 일부 지역에서 월 200만원대 고가 월세가 ‘뉴노멀’로 자리 잡는 등 주거비 부담이 커지는 가운데, 서울 아파트값은 89주 연속 상승세를 이어가지만 강남권은 약세를 보이며 지역별 가격 흐름이 갈라지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "경기도 월세도 200만원이 ‘뉴노멀’ … 강남 집값 약세는 지속",
+          "url": "https://www.mk.co.kr/news/realestate/12186106"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "은행 대신 집주인 대출 확산으로 부동산 셀러파이낸싱 부상",
+      "summary": "주택담보대출 규제 강화 여파로 집주인이 매수자에게 직접 매매대금 일부를 빌려주는 셀러파이낸싱이 강남권 등에서 늘고 있다. 연 5% 안팎의 단기·고금리 조건이 일반적이어서 거래 활성화와 함께 차주의 상환 부담, 법·제도 공백에 대한 우려가 동시에 제기된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "“2년치 소득명세서 떼오세요” 은행 대신 집주인 대출, 강남 7억 근저당의 비밀 [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10915210"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "정비사업 권한 자치구 이양 논의와 난개발·도시계획 파편화 우려",
+      "summary": "정비사업 인허가 권한을 자치구로 넘기는 방안을 둘러싸고 국회 입법조사처가 자치구별 계획 수립 역량 차이와 이해관계에 따라 도시계획이 파편화되고 난개발이 촉진될 수 있다고 경고했다. 정비사업 분권 추진 과정에서 중앙·광역 차원의 조정·관리 장치 필요성이 부각되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "국회 입법처 \"정비사업 자치구 이양, 난개발 우려\"",
+          "url": "https://www.hankyung.com/article/2026102535601"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "SHIFTING",
+      "title": "그린벨트 환경등급 재평가로 주택공급 확대 모색",
+      "summary": "정부가 6년 만에 그린벨트 환경평가 등급을 내년에 전면 재평가하기로 하면서 그동안 해제가 까다로웠던 일부 토지의 개발 가능성이 커지고 있다. 환경성·공공성 검토 기준을 손질해 신규 주택공급의 숨은 후보지를 발굴하려는 움직임으로, 환경 보전과 공급 확대 간 규제 조정이 본격화되는 단계에 접어들었다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "[단독] 그린벨트 등급 재평가…주택공급 길 넓힌다",
+          "url": "https://www.mk.co.kr/news/realestate/12185262"
+        }
+      ]
+    }
+  ]
+}

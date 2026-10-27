@@ -1,0 +1,64 @@
+{
+  "date": "2026-10-27",
+  "highlights": {
+    "bullets": [
+      "핵심: 한은은 AI 붐이 꺾일 경우 최악 시나리오로 132조원 규모 손실을 제시했다.",
+      "핵심: 최첨단 AI 기업 앤트로픽은 나스닥 상장을 위해 10월 26일 SEC에 IPO 증권신고서를 제출했다."
+    ],
+    "topTopics": [
+      "MarketInfra",
+      "Policy",
+      "Fintech",
+      "Regulation"
+    ],
+    "stats": {
+      "collected": 15,
+      "deduped": 15
+    }
+  },
+  "cards": [
+    {
+      "id": "finance_0001",
+      "tab": "finance",
+      "publishedAt": "2026-10-27T09:28:48+09:00",
+      "source": "매일경제(증권)",
+      "title": "“AI 꺾이면 132조원 증발”...한은이 던진 ‘최악 시나리오’",
+      "summary": [
+        "한은은 AI 붐이 꺾일 경우 최악 시나리오로 132조원 손실을 제시했다.",
+        "앤트로픽은 상반기에만 106조원 적자를 기록하며 상장 전후 시장 불안 요인이 되고 있다.",
+        "전문가들은 AI 기업 가치 급락이 금융시장과 투자자 신뢰에 큰 충격을 줄 수 있다고 우려한다."
+      ],
+      "whyItMatters": "AI 관련 대형 기업의 가치 급락은 대규모 시가총액 증발로 금융안정과 시장기반에 중대한 리스크를 초래하기 때문에 중요하다.",
+      "topics": [
+        "Fintech",
+        "MarketInfra",
+        "Policy",
+        "Regulation"
+      ],
+      "status": "ONGOING",
+      "hash": "a441db3878a3a8bbb4827337c9fb412b46ccd7bc70c4ac82f0007d2c4ee66fda",
+      "url": "https://www.mk.co.kr/news/stock/12186625"
+    },
+    {
+      "id": "finance_0002",
+      "tab": "finance",
+      "publishedAt": "2026-10-26T23:18:26+09:00",
+      "source": "매일경제(증권)",
+      "title": "앤트로픽, 나스닥 상장 신청",
+      "summary": [
+        "최첨단 인공지능 기업 앤트로픽이 나스닥 상장을 위해 미국 증권거래위원회(SEC)에 IPO 증권신고서를 제출했다.",
+        "해당 서류는 10월 26일(현지시간) 제출돼 상장 준비가 공식화됐다.",
+        "이번 공모는 AI 산업의 자금조달과 증시 영향력을 가늠할 시험대가 될 전망이다."
+      ],
+      "whyItMatters": "앤트로픽의 상장은 대규모 자금조달과 기술 경쟁력으로 AI 생태계 및 주식시장에 큰 영향을 미칠 수 있기 때문에 중요하다.",
+      "topics": [
+        "MarketInfra",
+        "Compliance",
+        "Regulation"
+      ],
+      "status": "NEW",
+      "hash": "1390ed9f6d61697f3aff99d81aaa647159716c931a3a4d239004ade5f051708f",
+      "url": "https://www.mk.co.kr/news/stock/12186407"
+    }
+  ]
+}

@@ -1,12 +1,85 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "highlights": {
-    "bullets": [],
-    "topTopics": [],
+    "bullets": [
+      "핵심: AI 수요로 패널 기반 칩 패키징이 웨이퍼 한계를 넘어 확장되고 있다.",
+      "핵심: 유로 NCAP의 강화된 기준으로 자동차업체들이 인-캐빈 센서 도입을 검토하고 있다.",
+      "트렌드: 통합·고집적화와 사용자 경험 중심 혁신이 제조와 제품 전략에서 부상하고 있다."
+    ],
+    "topTopics": [
+      "Roadmap",
+      "Manufacturing",
+      "Competition",
+      "Demand"
+    ],
     "stats": {
-      "collected": 0,
-      "deduped": 0
+      "collected": 6,
+      "deduped": 6
     }
   },
-  "cards": []
+  "cards": [
+    {
+      "id": "semiconductor_0001",
+      "tab": "semiconductor",
+      "publishedAt": "2026-10-26T22:00:00+09:00",
+      "source": "EE Times",
+      "title": "The AI Packaging Challenge: 5 Reasons Panels Are Gaining Momentum",
+      "summary": [
+        "AI 수요로 칩 패키징이 전통적 웨이퍼 한계를 넘어섰다.",
+        "패널 레벨 처리(panel-level processing)가 첨단 패키징 확장의 핵심 경로로 부상하고 있다.",
+        "패널은 더 큰 기판과 향상된 처리량으로 AI 패키징의 비용·효율성을 개선한다."
+      ],
+      "whyItMatters": "패널 기술이 웨이퍼 크기 한계를 극복해 대형·고집적 AI 패키징을 더 빠르고 저비용으로 실현할 수 있기 때문입니다.",
+      "topics": [
+        "Manufacturing",
+        "Demand",
+        "Roadmap"
+      ],
+      "status": "SHIFTING",
+      "hash": "2218e047dcdc5873c9595325859c18b73ad2b512e97f84a5a1638646885f46a9",
+      "url": "https://www.eetimes.com/the-ai-packaging-challenge-5-reasons-panels-are-gaining-momentum/"
+    },
+    {
+      "id": "semiconductor_0002",
+      "tab": "semiconductor",
+      "publishedAt": "2026-10-27T02:00:11+09:00",
+      "source": "EE Times",
+      "title": "Automakers Reconsider In-Cabin Sensing for Euro NCAP Ratings",
+      "summary": [
+        "유럽 NCAP의 강화된 안전 평가 기준이 자동차 업체들의 센서 전략 변화를 촉발하고 있습니다.",
+        "많은 제조사가 기존 스티어링휠 기반 센서를 폐지하고 통합된 인-캐빈(차내) 센서 시스템 도입을 검토 중입니다.",
+        "이 변화는 차량 설계와 제품 로드맵, 경쟁 구도에 실질적 영향을 미칠 것으로 보입니다."
+      ],
+      "whyItMatters": "유로 NCAP의 강화된 평가 요구사항이 규제 준수를 위해 인-캐빈 통합 센서로의 전환을 촉진하고 있기 때문입니다.",
+      "topics": [
+        "Policy",
+        "Roadmap",
+        "Competition"
+      ],
+      "status": "SHIFTING",
+      "hash": "c95a81c8c1952791d156728b122d391026df6018f136e705b6740cee8e05d9ba",
+      "url": "https://www.eetimes.com/automakers-reconsider-in-cabin-sensing-for-euro-ncap-ratings/"
+    },
+    {
+      "id": "semiconductor_0003",
+      "tab": "semiconductor",
+      "publishedAt": "2026-10-26T17:00:00+09:00",
+      "source": "Samsung Newsroom",
+      "title": "[Interview] Sound That Connects: 80 Years of Audio and the Future of Connected Experiences",
+      "summary": [
+        "JBL과 Bowers & Wilkins가 각각 80년·60년 동안 고음질 사운드와 문화적 연계를 유지해 왔습니다.",
+        "콘서트·자동차·가정·헤드폰 등 다양한 환경에서 고품질 오디오 경험을 확장해 왔습니다.",
+        "향후 연결된(connected) 경험을 위한 기술적·설계적 방향성과 장인정신을 강조합니다."
+      ],
+      "whyItMatters": "두 브랜드의 장기간 기술·제품 전략과 연결된 경험 혁신은 소비자 경험과 시장 경쟁에 직접적인 영향을 미치기 때문입니다.",
+      "topics": [
+        "Roadmap",
+        "Competition",
+        "Manufacturing"
+      ],
+      "status": "ONGOING",
+      "hash": "832c8adc024fb8a450965c6f4f39a20f1af209b2fae398f5beef35f9d190cf5a",
+      "url": "https://news.samsung.com/global/interview-sound-that-connects-80-years-of-audio-and-the-future-of-connected-experiences"
+    }
+  ]
 }

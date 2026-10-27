@@ -1,14 +1,14 @@
 {
   "range": {
-    "from": "2026-09-27",
-    "to": "2026-10-26"
+    "from": "2026-09-28",
+    "to": "2026-10-27"
   },
   "kpis": {
-    "collected": 76,
-    "deduped": 76,
+    "collected": 80,
+    "deduped": 80,
     "uniqueTopics": 10,
     "marketShare": {
-      "Tooling": 28,
+      "Tooling": 29,
       "Product": 24,
       "Models": 20,
       "Infra": 14,
@@ -18,7 +18,7 @@
   },
   "weeklyData": [
     {
-      "week": "Week 1 (09/27-10/03)",
+      "week": "Week 1 (09/28-10/04)",
       "topicCounts": {
         "Tooling": 19,
         "Product": 15,
@@ -28,7 +28,7 @@
       }
     },
     {
-      "week": "Week 2 (10/04-10/10)",
+      "week": "Week 2 (10/05-10/11)",
       "topicCounts": {
         "Tooling": 11,
         "Product": 10,
@@ -38,7 +38,7 @@
       }
     },
     {
-      "week": "Week 3 (10/11-10/17)",
+      "week": "Week 3 (10/12-10/18)",
       "topicCounts": {
         "Tooling": 18,
         "Product": 14,
@@ -48,7 +48,7 @@
       }
     },
     {
-      "week": "Week 4 (10/18-10/24)",
+      "week": "Week 4 (10/19-10/25)",
       "topicCounts": {
         "Tooling": 10,
         "Product": 10,
@@ -58,13 +58,13 @@
       }
     },
     {
-      "week": "Week 5 (10/25-10/26)",
+      "week": "Week 5 (10/26-10/27)",
       "topicCounts": {
-        "Tooling": 0,
-        "Product": 0,
-        "Models": 0,
-        "Infra": 0,
-        "Research": 0
+        "Tooling": 3,
+        "Product": 2,
+        "Models": 2,
+        "Infra": 2,
+        "Research": 1
       }
     }
   ],
@@ -72,85 +72,70 @@
     {
       "id": "ai-1",
       "status": "ONGOING",
-      "title": "초대규모 사용자 대응을 위한 AI 서비스 스토리지·인프라 확장",
-      "summary": "ChatGPT 등 초대규모 AI 서비스를 위해 온라인 스토리지와 인프라를 수평 확장하는 사례가 이어지고 있습니다. OpenAI는 Habitat 기반 멀티테넌시와 글로벌 캐싱, Azure Cosmos DB 통합을 통해 수십억 수준의 읽기 요청을 처리하면서도 최대 12배의 읽기 성능 향상을 달성했습니다. 이는 AI 제품이 빠르게 성장하는 상황에서 데이터 레이어를 어떻게 재설계해야 하는지에 대한 실무적 기준을 제시합니다.",
+      "title": "코드 리뷰를 넘어선 자동 버그 탐지·보안 테스트 워크플로우",
+      "summary": "Greptile이 GPT-6 Astra와 Daybreak 통합을 통해 코드 리뷰를 넘어 실제 사용자 워크플로를 자동 테스트하고, 보안 취약점 탐지·대응을 결합한 차세대 AI 기반 품질·보안 자동화 흐름이 확산되고 있습니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "OpenAI Blog",
-          "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+          "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "url": "https://openai.com/index/greptile-code-review-codex-astra"
         }
       ]
     },
     {
       "id": "ai-2",
       "status": "ONGOING",
-      "title": "프론티어 모델 훈련 환경 보안 강화와 취약점 공동 대응",
-      "summary": "대규모 AI 모델 훈련·배포 전반에서 보안을 핵심 설계 요소로 삼는 움직임이 가속화되고 있습니다. OpenAI는 프론티어 모델 훈련 환경을 오프라인·격리 구조로 운영하고 고성능 레드팀 검증을 강화해 안전 조치를 체계화하고 있습니다. 동시에 Patch the Planet 이니셔티브를 통해 에이전트와 연구자, 유지관리자, 사고 대응팀을 연결하여 오픈소스의 치명적 취약점을 신속히 발견·공개·패치하는 글로벌 협업 체계를 구축하고 있습니다.",
-      "articleCount": 2,
+      "title": "GPU 텔레메트리 데이터 통합을 통한 AI 팩토리 운영 최적화",
+      "summary": "NVIDIA Minerva는 분산된 GPU 텔레메트리 데이터를 통합·정규화하고 KV 인덱싱과 실시간 분석으로 이상 탐지와 근본 원인 분석, 자동 복구 워크플로우를 지원해 대규모 AI 팩토리의 수율·가동률을 극대화하는 인프라 운영 전환을 보여줍니다.",
+      "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "OpenAI Blog",
-          "title": "Securing our frontier model training environment",
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment"
-        },
-        {
-          "source": "OpenAI Blog",
-          "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities"
+          "source": "NVIDIA Developer Blog",
+          "title": "How NVIDIA Minerva Turns Telemetry Chaos Into Peak GPU Yield",
+          "url": "https://developer.nvidia.com/blog/how-nvidia-minerva-turns-telemetry-chaos-into-peak-gpu-yield/"
         }
       ]
     },
     {
       "id": "ai-3",
       "status": "ONGOING",
-      "title": "고성능 추론 및 사전학습을 위한 AI 인프라·데이터 파이프라인 고도화",
-      "summary": "고성능 추론과 대규모 사전학습을 동시에 뒷받침하는 인프라 고도화가 진행 중입니다. NVIDIA TensorRT 11.1의 Global Performance Tuner는 여러 빌드 경로 전반에서 자동 정확도 인지 튜닝을 제공하며, Hugging Face와 NVIDIA는 2.8조 토큰 규모 인디크 언어 사전학습을 위해 수집·정제·중복 제거를 자동화한 오픈 데이터 생성 파이프라인을 공개했습니다. 이를 통해 다양한 언어권을 포괄하는 대형 모델을 재현 가능하게 학습하는 토대가 마련되고 있습니다.",
-      "articleCount": 2,
+      "title": "Kubernetes 기반 GPU 클러스터의 자율 복구·운영 자동화",
+      "summary": "NVIDIA Mission Control 2.5는 Kubernetes 환경에서 GPU 클러스터 장애를 자동 감지·수정하고 텔레메트리와 연동된 운영 자동화 기능을 제공해 대규모 AI 훈련·추론 워크로드의 중단 시간을 최소화하는 자율 인프라로 진화시키고 있습니다.",
+      "articleCount": 1,
       "relatedArticles": [
         {
           "source": "NVIDIA Developer Blog",
-          "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2",
-          "url": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-2/"
-        },
-        {
-          "source": "Hugging Face Blog",
-          "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-          "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
+          "title": "How NVIDIA Mission Control 2.5 Brings Autonomous Recovery to Kubernetes",
+          "url": "https://developer.nvidia.com/blog/how-nvidia-mission-control-2-5-brings-autonomous-recovery-to-kubernetes/"
         }
       ]
     },
     {
       "id": "ai-4",
-      "status": "NEW",
-      "title": "연구와 개발 워크플로우를 재구성하는 AI 도구와 에이전트형 IDE",
-      "summary": "연구 아이디어 발굴과 소프트웨어 개발 전 과정을 AI가 보조·자동화하는 도구가 등장하고 있습니다. LitPivot는 문헌 토픽 맵핑과 관련 논문 연결, 컨텍스트 기반 제안으로 연구 주제를 동적으로 정교화하도록 돕고, NVIDIA RTX Spark는 한 대의 머신에서 코드 작성·테스트·배포까지 AI 에이전트가 주도하는 통합 개발 환경을 제공합니다. 이는 지식 탐색과 코드 생산성을 동시에 끌어올리는 방향으로 AI 툴링 생태계를 확장시키고 있습니다.",
-      "articleCount": 2,
+      "status": "ONGOING",
+      "title": "TensorRT 글로벌 퍼포먼스 튜너를 활용한 AI 추론 성능 자동 최적화",
+      "summary": "TensorRT 11.1의 Global Performance Tuner는 정확도를 고려한 자동 성능 튜닝을 여러 빌드 경로로 확장해, 다양한 하드웨어·모델 조합에서 수작업 없이 추론 최적화를 수행하는 방향으로 AI 배포 효율을 끌어올리고 있습니다.",
+      "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "Hugging Face Blog",
-          "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-          "url": "https://huggingface.co/blog/allenai/litpivot"
-        },
-        {
           "source": "NVIDIA Developer Blog",
-          "title": "Code, Test, and Deploy on One Machine with NVIDIA RTX Spark",
-          "url": "https://developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark/"
+          "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2",
+          "url": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-2/"
         }
       ]
     },
     {
       "id": "ai-5",
-      "status": "ONGOING",
-      "title": "현업 비즈니스 프로세스에 AI 업무용 제품을 도입하는 흐름",
-      "summary": "AI가 지식 노동뿐 아니라 오프라인 서비스 업종의 정산·가격 관리 같은 반복 업무까지 대체·보조하는 사례가 나타나고 있습니다. ChatGPT Work를 활용한 프랜차이즈 점주는 현금 조정과 메뉴 가격 재조정 시간을 각각 94%, 95% 단축하는 워크플로우를 구축해, 중소 사업자 수준에서도 AI 업무 자동화를 빠르게 확산할 수 있음을 보여줍니다.",
+      "status": "NEW",
+      "title": "연구 아이디어 발굴을 위한 문헌 경관 기반 AI 보조 도구 부상",
+      "summary": "LitPivot는 방대한 논문을 토픽 맵과 연관 논문 네트워크로 시각화하고 컨텍스트 기반 제안을 제공해, 연구자가 새로운 아이디어를 찾고 기존 아이디어를 정교화하는 과정을 AI로 보조하는 ‘문헌 경관 내 아이디어 설계’ 도구의 등장을 보여줍니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "OpenAI Blog",
-          "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-          "url": "https://openai.com/index/ted-taylor-restaurant"
+          "source": "Hugging Face Blog",
+          "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+          "url": "https://huggingface.co/blog/allenai/litpivot"
         }
       ]
     }

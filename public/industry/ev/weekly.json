@@ -1,78 +1,60 @@
 {
   "range": {
-    "from": "2026-10-20",
-    "to": "2026-10-26"
+    "from": "2026-10-21",
+    "to": "2026-10-27"
   },
   "kpis": {
     "collected": 10,
     "deduped": 10,
-    "uniqueTopics": 7
+    "uniqueTopics": 6
   },
   "topTopics": [
+    {
+      "name": "Roadmap",
+      "count": 9
+    },
     {
       "name": "Investment",
       "count": 9
     },
     {
-      "name": "Roadmap",
-      "count": 8
+      "name": "Competition",
+      "count": 6
     },
     {
       "name": "Demand",
-      "count": 6
-    },
-    {
-      "name": "Competition",
-      "count": 6
+      "count": 4
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-10-20",
-      "dayOfWeek": "Tue",
-      "topic": "Investment",
-      "count": 0
-    },
-    {
-      "date": "2026-10-20",
-      "dayOfWeek": "Tue",
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
       "topic": "Roadmap",
-      "count": 0
-    },
-    {
-      "date": "2026-10-20",
-      "dayOfWeek": "Tue",
-      "topic": "Demand",
-      "count": 0
-    },
-    {
-      "date": "2026-10-20",
-      "dayOfWeek": "Tue",
-      "topic": "Competition",
       "count": 0
     },
     {
       "date": "2026-10-21",
       "dayOfWeek": "Wed",
       "topic": "Investment",
-      "count": 1
-    },
-    {
-      "date": "2026-10-21",
-      "dayOfWeek": "Wed",
-      "topic": "Roadmap",
-      "count": 1
-    },
-    {
-      "date": "2026-10-21",
-      "dayOfWeek": "Wed",
-      "topic": "Demand",
-      "count": 2
+      "count": 0
     },
     {
       "date": "2026-10-21",
       "dayOfWeek": "Wed",
       "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": "Wed",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
       "count": 2
     },
     {
@@ -84,8 +66,8 @@
     {
       "date": "2026-10-22",
       "dayOfWeek": "Thu",
-      "topic": "Roadmap",
-      "count": 2
+      "topic": "Competition",
+      "count": 1
     },
     {
       "date": "2026-10-22",
@@ -94,18 +76,6 @@
       "count": 0
     },
     {
-      "date": "2026-10-22",
-      "dayOfWeek": "Thu",
-      "topic": "Competition",
-      "count": 1
-    },
-    {
-      "date": "2026-10-23",
-      "dayOfWeek": "Fri",
-      "topic": "Investment",
-      "count": 1
-    },
-    {
       "date": "2026-10-23",
       "dayOfWeek": "Fri",
       "topic": "Roadmap",
@@ -114,8 +84,8 @@
     {
       "date": "2026-10-23",
       "dayOfWeek": "Fri",
-      "topic": "Demand",
-      "count": 0
+      "topic": "Investment",
+      "count": 1
     },
     {
       "date": "2026-10-23",
@@ -124,10 +94,10 @@
       "count": 0
     },
     {
-      "date": "2026-10-24",
-      "dayOfWeek": "Sat",
-      "topic": "Investment",
-      "count": 2
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 0
     },
     {
       "date": "2026-10-24",
@@ -138,8 +108,8 @@
     {
       "date": "2026-10-24",
       "dayOfWeek": "Sat",
-      "topic": "Demand",
-      "count": 1
+      "topic": "Investment",
+      "count": 2
     },
     {
       "date": "2026-10-24",
@@ -148,9 +118,9 @@
       "count": 2
     },
     {
-      "date": "2026-10-25",
-      "dayOfWeek": "Sun",
-      "topic": "Investment",
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Demand",
       "count": 1
     },
     {
@@ -162,7 +132,7 @@
     {
       "date": "2026-10-25",
       "dayOfWeek": "Sun",
-      "topic": "Demand",
+      "topic": "Investment",
       "count": 1
     },
     {
@@ -172,10 +142,10 @@
       "count": 1
     },
     {
-      "date": "2026-10-26",
-      "dayOfWeek": "Mon",
-      "topic": "Investment",
-      "count": 2
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Demand",
+      "count": 1
     },
     {
       "date": "2026-10-26",
@@ -186,38 +156,73 @@
     {
       "date": "2026-10-26",
       "dayOfWeek": "Mon",
-      "topic": "Demand",
+      "topic": "Investment",
       "count": 2
     },
     {
       "date": "2026-10-26",
       "dayOfWeek": "Mon",
       "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Demand",
+      "count": 2
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "Demand",
       "count": 0
     }
   ],
   "topIssues": [
     {
-      "id": "ev-1",
+      "id": 1,
       "status": "NEW",
-      "title": "완전자율 전동 터미널 트랙터 등장으로 상용 전기 물류 혁신 가속",
-      "summary": "XCMG가 운전석이 없는 레벨4 완전 자율주행 전동 터미널 트랙터 SDA411 콘셉트를 공개하면서, 컨테이너 터미널 등 B2B 물류 현장에서 전기·자율주행 융합 솔루션 상용화 경쟁이 본격화되고 있다.",
+      "title": "BYD 초럭셔리 플래그십 EV, 차세대 배터리와 함께 출시 임박",
+      "summary": "BYD가 코치 도어와 고급 내장, 고성능 전동화 파워트레인, 고체전지 탑재 가능성이 있는 초럭셔리 세단 플래그십을 조만간 공개한다. 중국발 프리미엄 EV 경쟁이 롤스로이스·벤틀리급 세그먼트까지 확장되는 신호로, 고가 EV 수요와 브랜드 포지셔닝 변화를 주간 관전 포인트로 삼을 필요가 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
-          "title": "XCMG debuts new, fully autonomous electric terminal tractor [video]",
-          "url": "https://electrek.co/2026/10/25/xcmg-debuts-new-fully-autonomous-electric-terminal-tractor-video/"
+          "title": "BYD’s ultra-luxury EV could debut next week with solid-state batteries and much more",
+          "url": "https://electrek.co/2026/10/26/byds-ultra-luxury-ev-may-debut-next-week-with-solid-state-batteries/"
         }
       ]
     },
     {
-      "id": "ev-2",
+      "id": 2,
       "status": "NEW",
-      "title": "중국 저가 장거리 EV 출시로 글로벌 승용 전기차 가격 경쟁 격화",
-      "summary": "폭스바겐이 중국 시장에 1만2천 달러 미만의 전기 제타 M6를 출시하며, 460km 수준의 주행거리와 초저가 가격을 앞세워 로컬 브랜드와의 경쟁뿐 아니라 글로벌 메이커의 EV 가격 전략 전반에 압박을 가하고 있다.",
-      "articleCount": 1,
+      "title": "렉서스 RZ·폭스바겐 제타 M6, 프리미엄·초저가 EV로 양극단 시장 공략",
+      "summary": "렉서스는 5만 달러 미만 가격에 300마일 이상 주행거리의 2027년형 RZ로 프리미엄 전기 SUV 시장을 노리고, 폭스바겐은 중국 시장에 1만2천 달러 미만 가격과 460km급 주행거리를 내세운 전기 제타 M6를 출시했다. 동일 시기 발표된 두 모델은 EV 시장에서 고급·초저가 세그먼트 모두에서 가격·성능 경쟁이 심화되는 흐름을 보여준다.",
+      "articleCount": 2,
       "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "The 2027 Lexus RZ starts at under $50,000 and offers over 300 miles of range",
+          "url": "https://electrek.co/2026/10/26/2027-lexus-rz-starts-under-50000-with-300-miles-range/"
+        },
         {
           "source": "Electrek",
           "title": "Volkswagen’s new electric Jetta offers 285 miles of range for under $12K",
@@ -226,24 +231,10 @@
       ]
     },
     {
-      "id": "ev-3",
+      "id": 3,
       "status": "ONGOING",
-      "title": "중국산 중고 EV, 우회 경로 통해 서방 시장 잠식",
-      "summary": "신차 대비 최대 40% 저렴한 중국산 중고 전기차가 서방 시장으로 유입되면서, 중국 브랜드 EV의 가격 경쟁력이 한층 부각되고 기존 완성차 업체의 EV 수익성과 재고 전략에 구조적 압력을 주고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "Chinese EVs found back door into Western car markets – at 40% off MSRP",
-          "url": "https://electrek.co/2026/10/24/chinese-evs-found-back-door-into-western-car-markets-at-40-off-msrp/"
-        }
-      ]
-    },
-    {
-      "id": "ev-4",
-      "status": "ONGOING",
-      "title": "테슬라 텍사스 100억 달러 규모 태양광 공장, 대규모 세제 혜택으로 에너지 밸류체인 확대",
-      "summary": "텍사스 포트벤드 카운티가 테슬라의 ‘프로젝트 크리스털 선’ 태양광 공장 설비에 대해 최대 35년간 지방세 감면을 승인함에 따라, 테슬라는 EV 외 태양광·에너지 제조 역량을 강화하며 통합 청정에너지 기업으로의 전환을 가속하고 있다.",
+      "title": "테슬라 텍사스 100억 달러급 태양광 공장, 최대 35년 지방 세제 혜택 추진",
+      "summary": "텍사스 포트벤드 카운티가 테슬라의 ‘프로젝트 크리스털 선’ 태양광 공장에 대해 최대 35년간 재산세 감면을 포함한 세제 혜택 패키지를 만장일치로 승인했다. 이는 미국 남부 지역에서 친환경 제조·에너지 인프라 투자를 유치하려는 정책 기조의 연장선으로, 테슬라의 재생에너지·스토리지 제조 역량 확대와 장기 CAPEX 구조에 중대한 변수가 될 수 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -254,16 +245,30 @@
       ]
     },
     {
-      "id": "ev-5",
+      "id": 4,
       "status": "NEW",
-      "title": "산업 공정 탈탄소화를 위한 대형 열 배터리 도입 확대 조짐",
-      "summary": "리오틴토가 알루미나 정제소에 대형 열 저장 ‘핫 브릭’ 배터리 도입을 검토하며, 낮 시간 저렴한 전기를 열로 저장해 야간 공정에 활용함으로써 화석연료 의존도를 줄이고 에너지 비용·탄소배출을 동시 절감을 노리고 있다.",
+      "title": "리오 틴토, ‘핫 브릭’ 열 배터리로 공정 탈탄소화 시험",
+      "summary": "리오 틴토가 야윈 알루미나 정제소에서 낮 시간대 저렴한 전력을 벽돌형 열 저장 장치에 저장해 야간 증기 생산에 사용하는 대형 열 배터리 도입을 검토 중이다. 전통 중공업 공정의 화석연료 보일러를 대체·보완하려는 시도로, 재생에너지 기반 산업용 열 스토리지 시장의 실증 단계 진입을 보여준다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
           "title": "Rio Tinto eyes a giant hot-brick battery to cut fossil fuel use",
           "url": "https://electrek.co/2026/10/21/rio-tinto-eyes-a-giant-hot-brick-battery-to-cut-fossil-fuel-use/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "무인 전동 물류 장비 확산: XCMG 자율 전기 터미널 트랙터 공개",
+      "summary": "XCMG가 운전석이 없는 구조의 완전자율 전기 터미널 트랙터 SDA411 컨셉을 선보였다. 레벨4 자율주행과 전동 파워트레인을 결합해 컨테이너 터미널 등 폐쇄형 황색물류 현장에서 인건비·배출량을 동시에 줄이는 솔루션으로, 상용차 EV·자율주행 융합 시장의 신규 수요 창출이 기대된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "XCMG debuts new, fully autonomous electric terminal tractor [video]",
+          "url": "https://electrek.co/2026/10/25/xcmg-debuts-new-fully-autonomous-electric-terminal-tractor-video/"
         }
       ]
     }
