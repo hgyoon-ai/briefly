@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "kpis": {
     "clusters": 20,
     "sources": 2,
@@ -7,359 +7,410 @@
   },
   "clusters": [
     {
-      "id": "4132d33f7172f1810b1581a061842d230331996e",
-      "name": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+      "id": "5ff1c602f4df03ba851414bdf5f619fafa4b24fc",
+      "name": "Anthropic S-1",
       "section": "discussions",
       "status": "NEW",
-      "score": 667.2,
-      "oneLiner": "메타가 브라질 법원의 볼소나로 편애 중단 명령을 무시한다",
-      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "466p · 323c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50229587"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "28563ae5713e55e45a5782feb48394118472d31d",
-      "name": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 451.8,
-      "oneLiner": "10년 된 CNN이 피부암 진단에서 최신 LLM을 능가한다",
-      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "385p · 184c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50233779"
-        },
-        {
-          "label": "Source",
-          "url": "https://lynchlab.net/llm-skin-cancer"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "6923ad380de1d973a6d87ea4984f0e6014e524ed",
-      "name": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 432.0,
-      "oneLiner": "검열된 인터넷을 거부하며 FOSDEM 27에 함께하자고 호소한다",
-      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "360p · 180c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50233929"
-        },
-        {
-          "label": "Source",
-          "url": "https://talkweb.eu/openweb/4558/"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "b10afbc48070116722bf167325d53ffbf0114b46",
-      "name": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 430.8,
-      "oneLiner": "AI 사용으로 UC 버클리 수학 교수가 과제 채점의 의미를 못 느낀다고 밝혔다",
-      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "184p · 267c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50233304"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "348b8111bda38d501ab26ab280516c039d1a068b",
-      "name": "ihhub/fheroes2",
-      "section": "trending",
-      "status": "NEW",
-      "score": 362.32,
-      "oneLiner": "fheroes2는 Heroes of Might and Magic II 게임 엔진을 재구현한 프로젝트다",
-      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다.",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "metric": "stars",
-          "value": "3,656"
-        },
-        {
-          "source": "GitHub",
-          "metric": "forks",
-          "value": "514"
-        },
-        {
-          "source": "GitHub",
-          "metric": "updated",
-          "value": "2026-10-25"
-        },
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "201p · 71c"
-        }
-      ],
-      "links": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/ihhub/fheroes2"
-        },
-        {
-          "label": "Release",
-          "url": "https://github.com/ihhub/fheroes2/releases/tag/1.1.17"
-        },
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50230384"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "2a4192d0c31eeb2ff03b137f7379c4bfa615dbb8",
-      "name": "Cerebras Deploys Trillion-Parameter AI Models",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 361.2,
-      "oneLiner": "Cerebras가 조 규모 매개변수 AI 모델을 배포한다",
-      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "348p · 127c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50227356"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "68f0e5e62818b6c37caf78dd5d8cbdbc67cc2e6e",
-      "name": "JetBrains/thinkrail",
-      "section": "releases",
-      "status": "NEW",
-      "score": 318.04,
-      "oneLiner": "thinkrail은 작업 방식에 맞춰 자체 커스터마이즈되는 가벼운 실사용 IDE다",
-      "whyNow": "업데이트가 트리거가 되어 레퍼런스가 모이는 구간입니다.",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "metric": "stars",
-          "value": "1,685"
-        },
-        {
-          "source": "GitHub",
-          "metric": "forks",
-          "value": "102"
-        },
-        {
-          "source": "GitHub",
-          "metric": "updated",
-          "value": "2026-10-25"
-        },
-        {
-          "source": "GitHub",
-          "metric": "release",
-          "value": "v0.2.0"
-        },
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "159p · 111c"
-        }
-      ],
-      "links": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/JetBrains/thinkrail"
-        },
-        {
-          "label": "Release",
-          "url": "https://github.com/JetBrains/thinkrail/releases/tag/v0.2.0"
-        },
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50233294"
-        }
-      ],
-      "tags": [
-        "agent tooling",
-        "editor"
-      ]
-    },
-    {
-      "id": "87ec3e2d671966158ca0cb5cb45703dcb9af02ef",
-      "name": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
-      "section": "trending",
-      "status": "NEW",
-      "score": 309.6,
-      "oneLiner": "오리건 경찰이 한 경찰관 관련 기록 열람에 현지 언론에 250만 달러를 청구한다",
+      "score": 2587.8,
+      "oneLiner": "Anthropic S-1 문서를 가리키는 SEC 아카이브 링크",
       "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "346p · 85c"
+          "value": "1459p · 1427c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50234232"
+          "url": "https://news.ycombinator.com/item?id=50242939"
         },
         {
           "label": "Source",
-          "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/"
+          "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm"
         }
       ],
       "tags": []
     },
     {
-      "id": "91dfa2e40c12b3a28c381a85784e76e99167e937",
-      "name": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
+      "id": "da40e88ec4b070fad85589233f312e4575f047d3",
+      "name": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
       "section": "discussions",
       "status": "NEW",
-      "score": 269.4,
-      "oneLiner": "메타 직원들이 루라의 계정이 브라질 선거에서 제한됐다고 보고했다",
-      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "score": 1216.8,
+      "oneLiner": "Microsoft의 대규모 희망퇴직 제안 소식을 전하는 기사",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "179p · 135c"
+          "value": "736p · 646c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50227639"
+          "url": "https://news.ycombinator.com/item?id=50245524"
         },
         {
           "label": "Source",
-          "url": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report"
+          "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/"
         }
       ],
       "tags": []
     },
     {
-      "id": "af189983591b9dcb5c243d1d3d749fe9e0325bf8",
-      "name": "Dolly Parton's Imagination Library",
-      "section": "trending",
+      "id": "3d2845450ab4a691c609923af1f253057b04b362",
+      "name": "GPT-6.1 Terra",
+      "section": "discussions",
       "status": "NEW",
-      "score": 262.2,
-      "oneLiner": "Dolly Parton's Imagination Library는 돌리 파튼의 프로젝트 이름이다",
+      "score": 661.8,
+      "oneLiner": "GPT-6.1 Terra를 소개하는 공식 제품 페이지",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "487p · 308c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50248124"
+        },
+        {
+          "label": "Source",
+          "url": "https://openai.com/index/introducing-gpt-6-1-terra/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "05f1a12e7b2c0d478ddfa01701a8706ad612c769",
+      "name": "IBM CEO says open weight models are now good and cheap on-prem",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 637.2,
+      "oneLiner": "IBM CEO 발언을 전하며 오픈 웨이트 모델의 온프레미스 가능성을 다룬 기사",
       "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "325p · 56c"
+          "value": "414p · 324c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50234474"
+          "url": "https://news.ycombinator.com/item?id=50238088"
         },
         {
           "label": "Source",
-          "url": "https://imaginationlibrary.com/"
+          "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640"
         }
       ],
       "tags": []
     },
     {
-      "id": "c208ae9cff53544670cbc8a38d4d4a96bc6fda42",
-      "name": "slee-persis/GVS5H",
-      "section": "trending",
+      "id": "1e14698f3fd3f70513dfa6bc2b4a6e3dd807805e",
+      "name": "Switzerland. Block by block. At 1:1 scale",
+      "section": "discussions",
       "status": "NEW",
-      "score": 232.52,
-      "oneLiner": "GVS5H는 다섯 개의 Qwen3.8-27B 모델이 LiveCodeBench Hard에서 Claude Fable 5에 견줄 수 있다고 소개한다",
-      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
+      "score": 532.2,
+      "oneLiner": "스위스를 블록 단위로 1대1 축척으로 재현한 웹 프로젝트",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
-        {
-          "source": "GitHub",
-          "metric": "stars",
-          "value": "974"
-        },
-        {
-          "source": "GitHub",
-          "metric": "forks",
-          "value": "108"
-        },
-        {
-          "source": "GitHub",
-          "metric": "updated",
-          "value": "2026-10-25"
-        },
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "181p · 69c"
+          "value": "459p · 214c"
         }
       ],
       "links": [
         {
-          "label": "GitHub",
-          "url": "https://github.com/slee-persis/GVS5H"
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50240922"
         },
         {
+          "label": "Source",
+          "url": "https://blocks.manifold3d.ch/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "ca5983a3a86252b38774ff8a5ffbb42dfed5f607",
+      "name": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "section": "trending",
+      "status": "NEW",
+      "score": 418.2,
+      "oneLiner": "Sebastian Raschka가 제공하는 추론 모델 제작의 기초 비디오 강좌",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "537p · 80c"
+        }
+      ],
+      "links": [
+        {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50228167"
+          "url": "https://news.ycombinator.com/item?id=50245138"
+        },
+        {
+          "label": "Source",
+          "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models"
+        }
+      ],
+      "tags": [
+        "editor"
+      ]
+    },
+    {
+      "id": "7c2afb0af360ad98723280658813fc7edb948a28",
+      "name": "Announcing three new discoveries in mathematics, computer science, and physics",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 388.2,
+      "oneLiner": "학계와 협력해 수학·컴퓨터과학·물리학의 발견을 소개하는 글",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "365p · 141c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50251344"
+        },
+        {
+          "label": "Source",
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "c6bb59afff75a95e76270766e0a215de878ddd98",
+      "name": "Oldest GUI application that still runs on Windows 11",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 369.6,
+      "oneLiner": "Windows 11에서 여전히 실행되는 오래된 GUI 응용 프로그램을 다룬 글",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "266p · 175c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50248055"
+        },
+        {
+          "label": "Source",
+          "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "f6a4ddd4347a1ee4abb561cb96eebca7b7cf1c6d",
+      "name": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 364.2,
+      "oneLiner": "유출된 음성에서 Flock CEO의 발언을 보도한 기사",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 운영/비용 관점 해석이 갈리며 논의가 이어지고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "281p · 163c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50248005"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/"
+        }
+      ],
+      "tags": [
+        "infra"
+      ]
+    },
+    {
+      "id": "3fc8a8001c673561f14546f2e9e520ecf8d14b0f",
+      "name": "Websites Should Be Printable",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 363.0,
+      "oneLiner": "웹사이트를 인쇄 가능한 형태로 만들어야 한다는 주장을 담은 글",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "261p · 172c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50241664"
+        },
+        {
+          "label": "Source",
+          "url": "https://brennenputh.me/blog/printable-websites/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "f1fafe17c0b8fec5b912bde3e4a89314f74db07b",
+      "name": "Meta Employees Denounce Interference in Brazilian Elections",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 346.2,
+      "oneLiner": "Meta 직원들이 브라질 선거 개입을 규탄한 내용을 다룬 기사",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "303p · 137c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50248061"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.panamericandispatch.org/p/meta-employees-denounce-interference"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "482d471a8712f0c1cef4a36720c131acc82273df",
+      "name": "Behind the scenes at the NeXT Computer office",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 328.8,
+      "oneLiner": "NeXT Computer 사무실의 내부를 보여주는 전시 자료 모음",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "246p · 151c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50238763"
+        },
+        {
+          "label": "Source",
+          "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "6aedd5cce2823f285c59959d443be1ef835cf010",
+      "name": "CSS-Tricks has a new owner",
+      "section": "trending",
+      "status": "NEW",
+      "score": 328.2,
+      "oneLiner": "CSS-Tricks의 소유권 변경 소식을 알리는 공지",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "371p · 88c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50245831"
+        },
+        {
+          "label": "Source",
+          "url": "https://css-tricks.com/css-tricks-has-a-new-owner/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "1e1a1a629c93f7d99d741300998c57c7b39072e0",
+      "name": "Show HN: TitleArt – Make text like it's 1997",
+      "section": "trending",
+      "status": "NEW",
+      "score": 322.8,
+      "oneLiner": "1997 스타일의 텍스트를 만들어 주는 TitleArt 도구 소개",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "388p · 75c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50238708"
+        },
+        {
+          "label": "Source",
+          "url": "https://titleart.dvy.io/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "9e35da896f2c6607bc15314c33ac03be58abc4fa",
+      "name": "Concerning behavior from a popular open-weight AI model",
+      "section": "trending",
+      "status": "NEW",
+      "score": 280.8,
+      "oneLiner": "인기 오픈 웨이트 AI 모델의 우려스러운 동작을 다룬 글",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "252p · 108c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50246658"
+        },
+        {
+          "label": "Source",
+          "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model"
         }
       ],
       "tags": []
@@ -369,29 +420,29 @@
       "name": "pengchujin/aerial-tv",
       "section": "releases",
       "status": "ONGOING",
-      "score": 226.82,
-      "oneLiner": "aerial-tv는 중국 시장 TV용 tvOS 스타일의 오픈소스 런처다",
-      "whyNow": "버전 업데이트 이후 재확산이 시작된 흐름입니다.",
+      "score": 273.88,
+      "oneLiner": "tvOS 스타일의 광고 없는 오픈소스 Android TV 런처 프로젝트",
+      "whyNow": "릴리즈 직후라 적용/마이그레이션 경험이 모이고 있습니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "4,975"
+          "value": "6,090"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "391"
+          "value": "514"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-10-25"
+          "value": "2026-10-27"
         },
         {
           "source": "GitHub",
           "metric": "release",
-          "value": "v1.51"
+          "value": "v1.57"
         }
       ],
       "links": [
@@ -401,186 +452,34 @@
         },
         {
           "label": "Release",
-          "url": "https://github.com/pengchujin/aerial-tv/releases/tag/v1.51"
+          "url": "https://github.com/pengchujin/aerial-tv/releases/tag/v1.57"
         }
       ],
       "tags": []
-    },
-    {
-      "id": "69d398c744569c2e5b2cbdd7ac7f8441bebd2140",
-      "name": "simbasjungles/free-my-tv",
-      "section": "releases",
-      "status": "ONGOING",
-      "score": 219.34,
-      "oneLiner": "free-my-tv는 Google TV·LG webOS·Samsung Tizen용 빠르고 광고 없는 홈 화면을 제공한다",
-      "whyNow": "최근 릴리즈가 나오며 실사용 공유가 빠르게 늘고 있습니다.",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "metric": "stars",
-          "value": "4,602"
-        },
-        {
-          "source": "GitHub",
-          "metric": "forks",
-          "value": "763"
-        },
-        {
-          "source": "GitHub",
-          "metric": "updated",
-          "value": "2026-10-25"
-        },
-        {
-          "source": "GitHub",
-          "metric": "release",
-          "value": "v1.2.0"
-        }
-      ],
-      "links": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/simbasjungles/free-my-tv"
-        },
-        {
-          "label": "Release",
-          "url": "https://github.com/simbasjungles/free-my-tv/releases/tag/v1.2.0"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "85220c2fac89e1edd8eea912f684055268f770bb",
-      "name": "Serbia's Vucic concedes election defeat in historic win for student movement",
-      "section": "trending",
-      "status": "NEW",
-      "score": 195.0,
-      "oneLiner": "세르비아에서 부치치가 선거 패배를 인정하며 학생 운동의 승리를 기록했다",
-      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "177p · 74c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50236081"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "ef09b175b37dbbf44cdc7b0475556d3baff22692",
-      "name": "Tool book of a Nuremberg knight from 1505",
-      "section": "trending",
-      "status": "NEW",
-      "score": 192.6,
-      "oneLiner": "1505년 뉘른베르크 기사의 도구책을 소개한다",
-      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "161p · 80c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50230917"
-        },
-        {
-          "label": "Source",
-          "url": "https://loeffelholz-codex.org/en/"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "d18881d6d3d0be437965c4128b7c0f910df9023c",
-      "name": "Samsung running a TensorFlow lite model on 960x540 image to track you",
-      "section": "trending",
-      "status": "NEW",
-      "score": 172.2,
-      "oneLiner": "삼성이 960x540 이미지에서 TensorFlow Lite 모델을 실행해 추적한다는 주장이 제기되었다",
-      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "285p · 1c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50230181"
-        },
-        {
-          "label": "Source",
-          "url": "https://twitter.com/mike64_t/status/2114150399406202896"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "11fc5aede945bbd50843db14cc5927adfa1a8cc3",
-      "name": "Show HN: I put employees inside S&P 500 market-cap bubbles",
-      "section": "trending",
-      "status": "NEW",
-      "score": 154.2,
-      "oneLiner": "S&P 500 시가총액 버블 안에 직원들을 넣어 시각화한 프로젝트다",
-      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 개발자 경험 개선 관점에서 관심이 커지고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "163p · 47c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50232312"
-        },
-        {
-          "label": "Source",
-          "url": "https://bigwhalehunting.com/workforce/"
-        }
-      ],
-      "tags": [
-        "editor"
-      ]
     },
     {
       "id": "bb05af3d7a9314f4a3124c894f26cba7e149e14e",
       "name": "JustAResearcher/gpu-unlock-ada",
       "section": "releases",
-      "status": "NEW",
-      "score": 129.2,
-      "oneLiner": "gpu-unlock-ada는 RTX 4090과 실험용 RTX 4070 Ti SUPER용 GPU 텐서 언락 소스를 제공한다",
-      "whyNow": "새 릴리즈 영향으로 관심이 재점화되고 있습니다.",
+      "status": "ONGOING",
+      "score": 183.48,
+      "oneLiner": "RTX 계열 GPU의 텐서 잠금 해제 소스 코드를 공개한 저장소",
+      "whyNow": "최근 릴리즈가 나오며 실사용 공유가 빠르게 늘고 있습니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "2,570"
+          "value": "3,836"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "320"
+          "value": "502"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-10-25"
+          "value": "2026-10-27"
         },
         {
           "source": "GitHub",
@@ -601,61 +500,28 @@
       "tags": []
     },
     {
-      "id": "9bc5945e041c9d82e50445b819a3652ad27164f1",
-      "name": "JoasASantos/REA-Prompts",
-      "section": "trending",
-      "status": "ONGOING",
-      "score": 105.28,
-      "oneLiner": "REA-Prompts는 REA를 활용해 프로그램을 분석하거나 복제하기 위한 프롬프트 모음이다",
-      "whyNow": "커밋/업데이트가 이어져 당분간 추이를 보기에 좋습니다.",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "metric": "stars",
-          "value": "2,420"
-        },
-        {
-          "source": "GitHub",
-          "metric": "forks",
-          "value": "424"
-        },
-        {
-          "source": "GitHub",
-          "metric": "updated",
-          "value": "2026-10-25"
-        }
-      ],
-      "links": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/JoasASantos/REA-Prompts"
-        }
-      ],
-      "tags": []
-    },
-    {
       "id": "a96057cabfde292c151ebec70e1498e630e9e047",
       "name": "xevrion/hatchzip",
       "section": "releases",
-      "status": "NEW",
-      "score": 98.4,
-      "oneLiner": "HatchZip은 ZIP·7z·RAR·tar 등 아카이브를 제자리에서 추출하는 무료 오픈소스 추출기다",
-      "whyNow": "업데이트가 트리거가 되어 레퍼런스가 모이는 구간입니다.",
+      "status": "ONGOING",
+      "score": 103.56,
+      "oneLiner": "여러 압축 형식을 제자리에서 추출하는 오픈소스 압축 해제기",
+      "whyNow": "최근 릴리즈가 나오며 실사용 공유가 빠르게 늘고 있습니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "1,935"
+          "value": "2,058"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "50"
+          "value": "62"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-10-25"
+          "value": "2026-10-27"
         },
         {
           "source": "GitHub",
@@ -671,6 +537,81 @@
         {
           "label": "Release",
           "url": "https://github.com/xevrion/hatchzip/releases/tag/v0.1.5"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "ef4d9c9d8b2ab54b039bcb29d5f99dc3d727073f",
+      "name": "rddmwmddr/android-ad-cleaner",
+      "section": "releases",
+      "status": "NEW",
+      "score": 99.36,
+      "oneLiner": "중국 시장용 안드로이드 시스템의 광고와 추천을 차단하는 비루트 도구",
+      "whyNow": "업데이트가 트리거가 되어 레퍼런스가 모이는 구간입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "1,905"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "158"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-27"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v0.2.3"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/rddmwmddr/android-ad-cleaner"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/rddmwmddr/android-ad-cleaner/releases/tag/v0.2.3"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "f45e3ccc9e3a762a876e99d072e816c3adb4eae5",
+      "name": "Jakeschincariol/day-trader-skill",
+      "section": "trending",
+      "status": "NEW",
+      "score": 91.08,
+      "oneLiner": "데이 트레이딩을 지원하는 11개의 Claude 스킬 모음 저장소",
+      "whyNow": "스타 증가와 업데이트 흐름이 동시에 관측되는 상승 구간입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,063"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "428"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-27"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/Jakeschincariol/day-trader-skill"
         }
       ],
       "tags": []
