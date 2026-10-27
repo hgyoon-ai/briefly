@@ -2,6 +2,29 @@
   "month": "2026-10",
   "events": [
     {
+      "id": "news:삼성증권:https://www.fnnews.com/news/202610270831200901",
+      "date": "2026-10-27",
+      "company": "삼성증권",
+      "title": "\"감정가보다 19% 싸게 매입…\" 코람코리츠, 안양 물류센터 편입",
+      "oneLiner": "코람코리츠의 안양물류센터 인수에 삼성증권이 자본 참여(투자·재무구조 참여)를 한 거래 보도 — 증권사의 투자·사업참여 관련 이벤트로 분류.",
+      "type": "제휴",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"감정가보다 19% 싸게 매입…\" 코람코리츠, 안양 물류센터 편입",
+          "url": "https://www.fnnews.com/news/202610270831200901"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-10-27"
+    },
+    {
       "id": "news:한국투자증권:https://www.fnnews.com/news/202610260713133001",
       "date": "2026-10-26",
       "company": "한국투자증권",
@@ -23,6 +46,192 @@
       "tags": [],
       "confidence": 0.9,
       "updatedAt": "2026-10-26"
+    },
+    {
+      "id": "698a384f4dbf1c4fd320b5c9d1ceb5cb47368926",
+      "date": "2026-10-26",
+      "company": "NH투자증권",
+      "title": "최대주주등소유주식변동신고서              ",
+      "oneLiner": "NH투자증권의 최대주주 등 소유주식 변동 신고서 제출(지배구조·주식 보유 변동 관련 중요 공시).",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "최대주주등소유주식변동신고서              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026800408"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-10-27"
+    },
+    {
+      "id": "8a894e8846586d7d59dfb9ba25c95b133627325b",
+      "date": "2026-10-26",
+      "company": "NH투자증권",
+      "title": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "oneLiner": "NH투자증권의 연결재무제표기준 영업(잠정)실적 공정공시로, 실적 관련 중요한 기업 공시입니다.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026800330"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-10-27"
+    },
+    {
+      "id": "news:한국투자증권:https://www.hankyung.com/article/2026102659301",
+      "date": "2026-10-26",
+      "company": "한국투자증권",
+      "title": "한투운용, 홍콩서 반도체 ETF 상장",
+      "oneLiner": "한국투자신탁운용(한투운용)이 홍콩거래소에 반도체 ETF를 상장한 상품 출시 공지입니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "한투운용, 홍콩서 반도체 ETF 상장",
+          "url": "https://www.hankyung.com/article/2026102659301"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-10-27"
+    },
+    {
+      "id": "news:한국투자증권:https://www.hankyung.com/article/202610265752i",
+      "date": "2026-10-26",
+      "company": "한국투자증권",
+      "title": "한투운용, 홍콩 ETF 첫발…중국 반도체에 60% 베팅",
+      "oneLiner": "한투운용의 홍콩 ETF 첫 상장 관련 보도로, 해당 ETF의 투자비중(반도체 60%) 등 상품 내용이 언급됩니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "한투운용, 홍콩 ETF 첫발…중국 반도체에 60% 베팅",
+          "url": "https://www.hankyung.com/article/202610265752i"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.88,
+      "updatedAt": "2026-10-27"
+    },
+    {
+      "id": "news:한국투자증권:https://www.hankyung.com/article/202610265798i",
+      "date": "2026-10-26",
+      "company": "한국투자증권",
+      "title": "한투운용, 홍콩 ETF 시장 진출…中 본토 투자자까지 노린다",
+      "oneLiner": "한투운용의 홍콩 ETF 시장 진출 보도(현지 파트너십 및 중국 본토 투자자 대상 전략 포함)입니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "한투운용, 홍콩 ETF 시장 진출…中 본토 투자자까지 노린다",
+          "url": "https://www.hankyung.com/article/202610265798i"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.88,
+      "updatedAt": "2026-10-27"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12185514",
+      "date": "2026-10-26",
+      "company": "한국투자증권",
+      "title": "한투운용, 홍콩 ETF 시장 진출…반도체 ETF 상장",
+      "oneLiner": "한투운용이 차이나유니버설자산운용과 협력해 홍콩시장에 반도체 ETF를 상장한 사실을 보도한 기사입니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한투운용, 홍콩 ETF 시장 진출…반도체 ETF 상장",
+          "url": "https://www.mk.co.kr/news/stock/12185514"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-10-27"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202610261418353433",
+      "date": "2026-10-26",
+      "company": "한국투자증권",
+      "title": "신한투자증권, 미성년 자녀 계좌개설부터 자산관리까지 원스톱 강화",
+      "oneLiner": "신한투자증권이 미성년자 대상 비대면 계좌개설 절차를 간소화하고 가족관계 서류 스크래핑 등 계좌개설·자산관리 연계 서비스를 개선한 발표.",
+      "type": "시스템",
+      "areas": [
+        "WM",
+        "상담"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "신한투자증권, 미성년 자녀 계좌개설부터 자산관리까지 원스톱 강화",
+          "url": "https://www.fnnews.com/news/202610261418353433"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-10-27"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202610261527443626",
+      "date": "2026-10-26",
+      "company": "하나증권",
+      "title": "하나증권, 퇴직연금 DC 장기수익률 증권사 선두…5·7·10년 모두 1위",
+      "oneLiner": "하나증권이 퇴직연금(DC) 장기수익률에서 업계 1위를 기록했으며 대면 상담과 비대면 자산관리 서비스를 함께 강화하고 있다고 밝힘 — 서비스·운영 개선으로 분류.",
+      "type": "시스템",
+      "areas": [
+        "WM",
+        "상담"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "하나증권, 퇴직연금 DC 장기수익률 증권사 선두…5·7·10년 모두 1위",
+          "url": "https://www.fnnews.com/news/202610261527443626"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-10-27"
     },
     {
       "id": "news:키움증권:https://www.fnnews.com/news/202610241342100490",
