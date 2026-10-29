@@ -1,0 +1,281 @@
+{
+  "range": {
+    "from": "2026-10-23",
+    "to": "2026-10-29"
+  },
+  "kpis": {
+    "collected": 10,
+    "deduped": 10,
+    "uniqueTopics": 6
+  },
+  "topTopics": [
+    {
+      "name": "Investment",
+      "count": 9
+    },
+    {
+      "name": "Roadmap",
+      "count": 8
+    },
+    {
+      "name": "Competition",
+      "count": 7
+    },
+    {
+      "name": "Demand",
+      "count": 4
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Demand",
+      "count": 2
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Demand",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "BYD, 102만 명 고용으로 글로벌 완성차 인력 지형 재편",
+      "summary": "BYD가 10개월 만에 약 15만 명을 추가 고용해 총 직원 수 102만 명을 돌파함으로써, 토요타·GM·포드·테슬라 인력을 합친 것보다 많은 규모를 형성했다. 이는 EV·배터리 수직계열화, 내재화 생산 확대, 해외공장 증설 등 공격적인 제조·투자 전략이 인력 구조에 그대로 반영되고 있는 것으로, 글로벌 EV 제조 경쟁 구도가 ‘초대형 고용·생산 플랫폼’ 중심으로 재편되고 있음을 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "BYD now has 1.02 million workers, more than Toyota, GM, Ford, and Tesla combined",
+          "url": "https://electrek.co/2026/10/28/byd-1-million-employees-more-than-toyota-gm-ford-tesla/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "CATL, 20Ah 전고체 배터리로 500Wh/kg 상용화 경쟁 선도",
+      "summary": "CATL이 20Ah급 전고체 셀 개발에 성공하며 에너지 밀도 500Wh/kg를 목표로 한 차세대 배터리 상용화 경쟁에서 한발 앞서 나가고 있다. 이는 동일 차량 패키지 내 주행거리 확대와 경량화, 고급 전기 세단·항공 모빌리티 등 고부가 응용 분야에서 CATL의 기술·공급망 우위를 강화할 수 있는 진전으로, 글로벌 OEM들의 장기 배터리 로드맵과 투자 방향에 영향을 줄 핵심 이슈다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "CATL pushes ahead with 20 Ah solid-state EV batteries, with 500 Wh/kg in sight",
+          "url": "https://electrek.co/2026/10/28/catl-pushes-ahead-20-ah-solid-state-ev-batteries-500-wh-kg/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "렉서스 RZ·VW 전기 제타, 중저가·고효율 EV 시장 경쟁 본격화",
+      "summary": "2027년형 렉서스 RZ가 5만 달러 미만, 300마일+ 주행거리로 북미 프리미엄 EV 세단 시장 공략에 나서는 동시에, 폭스바겐이 중국에 1만2천 달러 미만 가격에 285마일급 전기 제타 M6를 선보이며 ‘합리적 가격대 장거리 EV’의 글로벌 경쟁이 가속 중이다. 이는 고급 브랜드의 가격 허들을 낮추고, 중국 로컬 특화 저가 장거리 모델이 확대되면서 EV 대중화와 가격 압박이 동시에 심화되는 흐름을 보여준다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "The 2027 Lexus RZ starts at under $50,000 and offers over 300 miles of range",
+          "url": "https://electrek.co/2026/10/26/2027-lexus-rz-starts-under-50000-with-300-miles-range/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Volkswagen’s new electric Jetta offers 285 miles of range for under $12K",
+          "url": "https://electrek.co/2026/10/24/volkswagens-new-electric-jetta-offers-285-miles-of-range-for-under-12k/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "BYD·XCMG, 초럭셔리 승용·완전 자율 화물 EV로 제품 포트폴리오 확장",
+      "summary": "BYD가 롤스로이스급 초럭셔리 전기 세단 플래그십을 전고체 배터리 등 차세대 기술과 함께 예고하고, XCMG가 레벨4 자율주행을 탑재한 무인 전동 터미널 트랙터 SDA411 콘셉트를 공개하면서, 중국 제조사들이 한쪽 끝에서는 초고가 럭셔리 승용, 다른 쪽 끝에서는 무인 상용·물류 특화 EV로 포트폴리오를 양극단으로 확장 중이다. 이는 브랜드 위상 제고와 동시에 항만·물류 자동화 수요를 선점하려는 전략적 행보로 해석된다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "BYD’s ultra-luxury EV could debut next week with solid-state batteries and much more",
+          "url": "https://electrek.co/2026/10/26/byds-ultra-luxury-ev-may-debut-next-week-with-solid-state-batteries/"
+        },
+        {
+          "source": "Electrek",
+          "title": "XCMG debuts new, fully autonomous electric terminal tractor [video]",
+          "url": "https://electrek.co/2026/10/25/xcmg-debuts-new-fully-autonomous-electric-terminal-tractor-video/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "태양광·배터리 냉장 트레일러 상용화, 전기 화물 콜드체인 전환 가속",
+      "summary": "호주에서 태양광·배터리 기반 전기 냉장 트레일러 유닛이 처음으로 실제 화물 운송사에 인도되며, 디젤 리퍼를 대체하는 전기 콜드체인 솔루션이 본격 상용 단계에 진입했다. 이는 장거리 냉장 물류의 탄소·소음·연료비를 동시에 줄이는 사례로, 향후 리퍼 트레일러 전동화와 태양광 보조전원 통합 트렌드를 가속할 수 있는 실증 이정표다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Battery electric, solar-powered reefer units reach their first customers",
+          "url": "https://electrek.co/2026/10/25/battery-electric-solar-powered-reefer-units-reach-their-first-customers/"
+        }
+      ]
+    }
+  ]
+}

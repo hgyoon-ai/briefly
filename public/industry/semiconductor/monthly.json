@@ -1,16 +1,16 @@
 {
   "range": {
-    "from": "2026-09-28",
-    "to": "2026-10-27"
+    "from": "2026-09-30",
+    "to": "2026-10-29"
   },
   "kpis": {
-    "collected": 69,
-    "deduped": 69,
+    "collected": 63,
+    "deduped": 63,
     "uniqueTopics": 7,
     "marketShare": {
-      "Roadmap": 31,
-      "Competition": 27,
-      "Manufacturing": 18,
+      "Roadmap": 30,
+      "Competition": 26,
+      "Manufacturing": 21,
       "Demand": 12,
       "Investment": 12,
       "Other": 0
@@ -18,53 +18,53 @@
   },
   "weeklyData": [
     {
-      "week": "Week 1 (09/28-10/04)",
+      "week": "Week 1 (09/30-10/06)",
       "topicCounts": {
-        "Roadmap": 20,
-        "Competition": 18,
+        "Roadmap": 14,
+        "Competition": 12,
         "Manufacturing": 7,
-        "Demand": 7,
-        "Investment": 11
+        "Demand": 2,
+        "Investment": 6
       }
     },
     {
-      "week": "Week 2 (10/05-10/11)",
+      "week": "Week 2 (10/07-10/13)",
       "topicCounts": {
-        "Roadmap": 9,
-        "Competition": 9,
-        "Manufacturing": 7,
-        "Demand": 3,
+        "Roadmap": 5,
+        "Competition": 4,
+        "Manufacturing": 6,
+        "Demand": 2,
         "Investment": 3
       }
     },
     {
-      "week": "Week 3 (10/12-10/18)",
+      "week": "Week 3 (10/14-10/20)",
       "topicCounts": {
-        "Roadmap": 14,
-        "Competition": 12,
-        "Manufacturing": 13,
+        "Roadmap": 12,
+        "Competition": 11,
+        "Manufacturing": 10,
         "Demand": 5,
         "Investment": 8
       }
     },
     {
-      "week": "Week 4 (10/19-10/25)",
+      "week": "Week 4 (10/21-10/27)",
       "topicCounts": {
-        "Roadmap": 14,
-        "Competition": 12,
-        "Manufacturing": 7,
-        "Demand": 8,
-        "Investment": 1
+        "Roadmap": 8,
+        "Competition": 6,
+        "Manufacturing": 4,
+        "Demand": 4,
+        "Investment": 0
       }
     },
     {
-      "week": "Week 5 (10/26-10/27)",
+      "week": "Week 5 (10/28-10/29)",
       "topicCounts": {
-        "Roadmap": 3,
-        "Competition": 2,
-        "Manufacturing": 2,
-        "Demand": 1,
-        "Investment": 0
+        "Roadmap": 2,
+        "Competition": 1,
+        "Manufacturing": 3,
+        "Demand": 2,
+        "Investment": 3
       }
     }
   ],
@@ -72,41 +72,50 @@
     {
       "id": 1,
       "status": "SHIFTING",
-      "title": "AI 고성능 패키징 전환: 패널 레벨 공정이 차세대 반도체 패키징 축으로 부상",
-      "summary": "AI 워크로드 확대로 기존 웨이퍼 기반 패키징의 비용·확장성 한계가 드러나면서, 대형 기판을 사용하는 패널 레벨 공정이 HBM·고대역폭 패키지 양산의 핵심 옵션으로 재부상하고 있다. 이는 후공정 장비·소재, OSAT, 파운드리 모두의 투자 방향을 재조정하는 이슈로, AI용 반도체 공급망의 병목을 패키징 단계에서 해소하려는 움직임이 강화되고 있다.",
+      "title": "AI 확산이 촉발한 차세대 고대역폭 인터커넥트: 실리콘 포토닉스·CPO 부상",
+      "summary": "수만 개 GPU를 연결해야 하는 초대형 AI 시스템에서 기존 전기 신호 기반 인터커넥트가 속도·전력·지연 측면 한계에 직면하면서, 실리콘 포토닉스와 CPO(칩 근접 광연결)가 데이터센터용 ‘광 고속도로’ 기술로 빠르게 부상하고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "EE Times",
-          "title": "The AI Packaging Challenge: 5 Reasons Panels Are Gaining Momentum",
-          "url": "https://www.eetimes.com/the-ai-packaging-challenge-5-reasons-panels-are-gaining-momentum/"
+          "source": "SK hynix Newsroom",
+          "title": "[Tech Note] Why does AI still have to wait with tens of thousands of GPUs? How silicon photonics and CPO are building the ‘highways of light’",
+          "url": "https://news.skhynix.com/en/tech-note-series-ep3/"
         }
       ]
     },
     {
       "id": 2,
       "status": "SHIFTING",
-      "title": "Arm–Qualcomm 분쟁이 드러낸 ISA·IP 규제와 테스트 통제권 쟁점",
-      "summary": "Arm–Qualcomm 재판에서 배상액은 2달러에 그쳤지만, 맞춤형 칩 출하시 필수인 준수 테스트 스위트 통제권과 라이선스 조건 해석이 핵심 쟁점으로 부각됐다. 동시에 업계에서는 RISC‑V 등 개방형 ISA가 AI·맞춤형 가속기 설계에서 장기적 유연성을 제공하는 대안으로 거론되며, CPU IP 시장 구조와 생태계 의존도 재조정 논의가 확산되고 있다.",
-      "articleCount": 2,
+      "title": "AI 메모리 초호황: SK하이닉스, 고대역폭 메모리 수요로 분기 최대 실적",
+      "summary": "생성형 AI 확산으로 HBM 등 AI 특화 메모리 수요와 가격이 동반 급등하면서 SK하이닉스가 장기 공급 계약 확대와 수익성 개선에 힘입어 분기 사상 최대 실적을 기록, 메모리 업황이 AI 중심 구조적 호황 국면에 진입하고 있다.",
+      "articleCount": 1,
       "relatedArticles": [
         {
           "source": "EE Times",
-          "title": "Arm Comments on Jury Decision in Qualcomm Trial",
-          "url": "https://www.eetimes.com/arm-comments-on-jury-decision-in-qualcomm-trial/"
-        },
-        {
-          "source": "EE Times",
-          "title": "Two Dollars and a Test Suite",
-          "url": "https://www.eetimes.com/two-dollars-and-a-test-suite/"
+          "title": "SK Hynix Reports Record Q3 Results Driven by AI Memory Surge",
+          "url": "https://www.eetimes.com/sk-hynix-reports-record-q3-results-driven-by-ai-memory-surge/"
         }
       ]
     },
     {
       "id": 3,
       "status": "ONGOING",
-      "title": "차량용 In‑Cabin 센싱 재편: 유럽 NCAP 규제가 반도체 센서 구조 변화 촉발",
-      "summary": "유럽 NCAP의 강화된 안전 평가 기준으로 운전자 모니터링이 필수 항목이 되면서, 완성차 업체들은 기존 스티어링휠 센서에서 카메라·레이더·IR를 결합한 통합 인캐빈 센싱으로 이동하고 있다. 이 과정에서 차량용 이미지센서, ToF, 레이더, 엣지 AI SoC 등 반도체 수요 구조가 변하고, 센서 융합용 SoC·ISP 설계 경쟁이 심화되는 방향으로 시장이 재편되고 있다.",
+      "title": "삼성전자, 프리미엄 반도체·디바이스 전략 기반 글로벌 톱티어 브랜드 위상 유지",
+      "summary": "삼성전자가 인터브랜드 ‘베스트 글로벌 브랜드 2026’에서 7년 연속 5위를 차지하며 1,052억 달러의 브랜드 가치를 인정받는 등, 메모리·파운드리·시스템반도체와 프리미엄 디바이스 투자가 장기 경쟁력과 브랜드 자산을 강화하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung Ranks No. 5 in Interbrand’s ‘Best Global Brands 2026’ for Seventh Consecutive Year",
+          "url": "https://news.samsung.com/global/samsung-ranks-no-5-in-interbrands-best-global-brands-2026-for-seventh-consecutive-year"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "차량용 반도체 수요 지형 변화: 유럽 NCAP 규제로 인-캐빈 센싱 재편",
+      "summary": "강화된 유럽 NCAP 안전 규제로 완성차 업체들이 스티어링휠 기반 센서에서 카메라·레이더·적외선을 통합한 인-캐빈 센싱으로 전환을 검토하면서, 센서·MCU·AI 칩 등 차량용 반도체 구조와 수요가 고도화되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -117,24 +126,10 @@
       ]
     },
     {
-      "id": 4,
-      "status": "ONGOING",
-      "title": "GNSS 취약성 부각 속 4G·5G·NTN 기반 멀티 레이어 위치결정 칩셋 수요 확대",
-      "summary": "GPS 재밍과 스푸핑 사례가 늘면서 단일 GNSS 의존의 한계가 드러나고 있고, 지상 이동통신(4G·5G) 및 위성 NTN 신호를 결합한 2차 위치결정 계층이 대안으로 추진되고 있다. 이에 따라 RF 프론트엔드, 멀티밴드 GNSS 수신기, 셀룰러·NTN 융합 모뎀 등 위치·동기화용 반도체의 통합 설계와 보안 기능 강화가 통신·자동차·산업용 칩 로드맵의 핵심 요구사항으로 부상하고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "EE Times",
-          "title": "When GPS Isn’t Enough: Building a Second Layer of Positioning",
-          "url": "https://www.eetimes.com/when-gps-isnt-enough-building-a-second-layer-of-positioning/"
-        }
-      ]
-    },
-    {
       "id": 5,
       "status": "ONGOING",
-      "title": "장비·소재 생태계 투자 확대: Applied Materials의 50억달러 EPIC 베팅",
-      "summary": "Applied Materials가 50억달러 규모 EPIC 센터 투자를 공개하며 첨단 공정 장비·소재 개발에 대한 장기 수요를 재확인했다. AI·고성능 컴퓨팅용 미세공정, 어드밴스드 패키징, 전력반도체 등 복합 수요를 겨냥해 고객 공동개발(CoE)과 전 공정·후공정을 아우르는 통합 솔루션을 강화하려는 움직임으로, 반도체 장비 섹터의 CapEx 사이클이 장기화되는 신호로 해석된다.",
+      "title": "반도체 장비 대형 투자: 어플라이드 머티리얼즈의 50억 달러 EPIC 센터 베팅",
+      "summary": "어플라이드 머티리얼즈가 차세대 공정·장비 혁신을 가속하기 위해 50억 달러 규모 EPIC 센터 투자를 단행, 미세공정·첨단 패키징·AI·전력반도체 등에서 장기 공정 로드맵과 생태계 주도권 확보에 나서고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {

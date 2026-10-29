@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-10-23",
+    "to": "2026-10-29"
+  },
+  "kpis": {
+    "collected": 10,
+    "deduped": 10,
+    "uniqueTopics": 7
+  },
+  "topTopics": [
+    {
+      "name": "Roadmap",
+      "count": 7
+    },
+    {
+      "name": "Manufacturing",
+      "count": 6
+    },
+    {
+      "name": "Competition",
+      "count": 5
+    },
+    {
+      "name": "Demand",
+      "count": 4
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Manufacturing",
+      "count": 2
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Manufacturing",
+      "count": 3
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Demand",
+      "count": 2
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "AI 시대 ‘광(光) 인터커넥트’ 전환 가속: 실리콘 포토닉스·CPO 부상",
+      "summary": "수만 개 GPU를 묶는 AI 데이터센터에서 전기 신호 기반 인터커넥트가 속도·전력·발열 한계에 직면하면서, 실리콘 포토닉스와 CPO(칩 근접 광연결)가 차세대 고속·저지연 네트워크의 핵심 기술로 부상하고 있다. 이는 메모리·패키징·스위치까지 포함한 시스템 아키텍처 재설계를 요구해 반도체 공급망 전반에 중장기 투자·로드맵 수정을 촉발하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "SK hynix Newsroom",
+          "title": "[Tech Note] Why does AI still have to wait with tens of thousands of GPUs? How silicon photonics and CPO are building the ‘highways of light’",
+          "url": "https://news.skhynix.com/en/tech-note-series-ep3/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "AI 메모리 수퍼사이클 본격화: SK하이닉스 분기 최대 실적",
+      "summary": "HBM을 중심으로 한 AI 메모리 수요 폭증과 가격 상승으로 SK하이닉스가 분기 사상 최대 실적을 기록했다. 장기 공급 계약 확대와 고부가 메모리 믹스 개선이 수익성을 끌어올리며, AI 인프라 투자가 장기간 메모리 업황을 지지하는 ‘수퍼사이클’ 국면에 진입했다는 신호로 해석된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "SK Hynix Reports Record Q3 Results Driven by AI Memory Surge",
+          "url": "https://www.eetimes.com/sk-hynix-reports-record-q3-results-driven-by-ai-memory-surge/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "AI 칩 패키징 패러다임 변화: 패널 레벨 공정 부상",
+      "summary": "고대역폭·저지연을 요구하는 AI 칩 수요가 폭증하면서 웨이퍼 기반 패키징만으로는 비용·수율·확장성 한계에 봉착했다. 대형 기판을 한 번에 처리하는 패널 레벨 패키징이 첨단 패키징의 유력 대안으로 부상해, 파운드리·OSAT·장비업체의 설비 투자 및 공정 로드맵 재편을 이끌고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "The AI Packaging Challenge: 5 Reasons Panels Are Gaining Momentum",
+          "url": "https://www.eetimes.com/the-ai-packaging-challenge-5-reasons-panels-are-gaining-momentum/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "SHIFTING",
+      "title": "Arm–Qualcomm 분쟁 이후: CPU IP 지형과 RISC‑V 대안 부상",
+      "summary": "Arm이 퀄컴과의 소송에서 명목상 승소에도 불구하고 실질 손해배상이 2달러에 그치며, 칩 설계 생태계에서 Arm 의존 구조에 대한 재검토가 본격화되고 있다. 업계 전문가들은 AI 워크로드에서 개방형 아키텍처인 RISC‑V가 장기 유연성과 라이선스 리스크 완화 측면의 대안으로 부상할 수 있다고 전망하며, 이는 반도체 설계·툴·IP 생태계 전반의 구조 변화를 예고한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Arm Comments on Jury Decision in Qualcomm Trial",
+          "url": "https://www.eetimes.com/arm-comments-on-jury-decision-in-qualcomm-trial/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "양자 컴퓨팅 인프라용 신소재·냉각 기술 투자 확대",
+      "summary": "캐나다 스타트업 Meissner Technologies가 AI 기반 소재 탐색을 통해 초전도 물질과 냉각 비용 절감 기술을 개발하며 ‘양자 컴퓨팅용 곡괭이와 삽’ 역할을 지향하고 있다. 이는 반도체·재료·장비 산업이 양자 컴퓨팅 인프라를 차세대 성장 축으로 보고 선제적 투자와 파트너십을 확대하는 흐름과 맞물려 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Canadian Startup Aims to Be Quantum’s ‘Picks’ and ‘Shovels’",
+          "url": "https://www.eetimes.com/canadian-startup-aims-to-be-quantums-picks-and-shovels/"
+        }
+      ]
+    }
+  ]
+}

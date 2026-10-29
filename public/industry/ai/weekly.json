@@ -1,11 +1,11 @@
 {
   "range": {
-    "from": "2026-10-21",
-    "to": "2026-10-27"
+    "from": "2026-10-23",
+    "to": "2026-10-29"
   },
   "kpis": {
-    "collected": 14,
-    "deduped": 14,
+    "collected": 13,
+    "deduped": 13,
     "uniqueTopics": 10
   },
   "topTopics": [
@@ -15,67 +15,19 @@
     },
     {
       "name": "Product",
-      "count": 7
-    },
-    {
-      "name": "Infra",
-      "count": 7
+      "count": 8
     },
     {
       "name": "Models",
+      "count": 6
+    },
+    {
+      "name": "Infra",
       "count": 6
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-10-21",
-      "dayOfWeek": "Wed",
-      "topic": "Tooling",
-      "count": 2
-    },
-    {
-      "date": "2026-10-21",
-      "dayOfWeek": "Wed",
-      "topic": "Product",
-      "count": 2
-    },
-    {
-      "date": "2026-10-21",
-      "dayOfWeek": "Wed",
-      "topic": "Infra",
-      "count": 0
-    },
-    {
-      "date": "2026-10-21",
-      "dayOfWeek": "Wed",
-      "topic": "Models",
-      "count": 1
-    },
-    {
-      "date": "2026-10-22",
-      "dayOfWeek": "Thu",
-      "topic": "Tooling",
-      "count": 1
-    },
-    {
-      "date": "2026-10-22",
-      "dayOfWeek": "Thu",
-      "topic": "Product",
-      "count": 1
-    },
-    {
-      "date": "2026-10-22",
-      "dayOfWeek": "Thu",
-      "topic": "Infra",
-      "count": 1
-    },
-    {
-      "date": "2026-10-22",
-      "dayOfWeek": "Thu",
-      "topic": "Models",
-      "count": 2
-    },
-    {
       "date": "2026-10-23",
       "dayOfWeek": "Fri",
       "topic": "Tooling",
@@ -90,13 +42,13 @@
     {
       "date": "2026-10-23",
       "dayOfWeek": "Fri",
-      "topic": "Infra",
+      "topic": "Models",
       "count": 1
     },
     {
       "date": "2026-10-23",
       "dayOfWeek": "Fri",
-      "topic": "Models",
+      "topic": "Infra",
       "count": 1
     },
     {
@@ -114,14 +66,14 @@
     {
       "date": "2026-10-24",
       "dayOfWeek": "Sat",
-      "topic": "Infra",
-      "count": 3
+      "topic": "Models",
+      "count": 0
     },
     {
       "date": "2026-10-24",
       "dayOfWeek": "Sat",
-      "topic": "Models",
-      "count": 0
+      "topic": "Infra",
+      "count": 3
     },
     {
       "date": "2026-10-25",
@@ -138,13 +90,13 @@
     {
       "date": "2026-10-25",
       "dayOfWeek": "Sun",
-      "topic": "Infra",
+      "topic": "Models",
       "count": 0
     },
     {
       "date": "2026-10-25",
       "dayOfWeek": "Sun",
-      "topic": "Models",
+      "topic": "Infra",
       "count": 0
     },
     {
@@ -157,12 +109,6 @@
       "date": "2026-10-26",
       "dayOfWeek": "Mon",
       "topic": "Product",
-      "count": 0
-    },
-    {
-      "date": "2026-10-26",
-      "dayOfWeek": "Mon",
-      "topic": "Infra",
       "count": 0
     },
     {
@@ -170,6 +116,12 @@
       "dayOfWeek": "Mon",
       "topic": "Models",
       "count": 1
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Infra",
+      "count": 0
     },
     {
       "date": "2026-10-27",
@@ -186,41 +138,98 @@
     {
       "date": "2026-10-27",
       "dayOfWeek": "Tue",
-      "topic": "Infra",
-      "count": 2
+      "topic": "Models",
+      "count": 1
     },
     {
       "date": "2026-10-27",
       "dayOfWeek": "Tue",
+      "topic": "Infra",
+      "count": 2
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Tooling",
+      "count": 3
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Product",
+      "count": 3
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Models",
+      "count": 2
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Product",
+      "count": 1
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
       "topic": "Models",
       "count": 1
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Infra",
+      "count": 0
     }
   ],
   "topIssues": [
     {
-      "id": "ai-1",
-      "status": "ONGOING",
-      "title": "AI 코드·보안 워크플로의 자동화 고도화",
-      "summary": "GPT-6 Astra를 활용한 Greptile의 자동 테스트·보안 점검과 OpenAI의 Patch the Planet 이니셔티브가 결합되며, 코드 리뷰를 넘어 실제 워크플로와 오픈소스 생태계 전반에서 취약점 탐지·패치·배포를 자동화·표준화하는 흐름이 강화되고 있습니다.",
-      "articleCount": 2,
+      "id": 1,
+      "status": "NEW",
+      "title": "차세대 프런티어 모델 경쟁: Google DeepMind의 Gemini 4 Carbon 발표",
+      "summary": "Google DeepMind가 Gemini 4 Carbon을 차세대 프런티어 모델로 공개하며 성능·효율·안전성을 모두 강화한 대형 모델 경쟁 국면을 열었다. 연구용과 제품 적용 모두를 겨냥해 설계되었고, 고성능 추론과 비용 효율, 안전 장치를 결합한 점이 특징이다.",
+      "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "OpenAI Blog",
-          "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "url": "https://openai.com/index/greptile-code-review-codex-astra"
-        },
-        {
-          "source": "OpenAI Blog",
-          "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities"
+          "source": "Google DeepMind Blog",
+          "title": "Gemini 4 Carbon: Our next frontier model",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/"
         }
       ]
     },
     {
-      "id": "ai-2",
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "AI가 조직 구조와 일하는 방식에 미치는 구조적 변화",
+      "summary": "OpenAI는 AI가 단순 자동화를 넘어 조직의 ‘아래·옆·사이’에 들어와 동료, 중개자, 보조 의사결정자로 작동하는 시나리오를 제시했다. 이는 직무 설계, 권한 구조, 프로세스 설계 전반을 재편해 ‘AI를 전제로 한 조직 설계’ 논의를 본격화하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "The future of the firm",
+          "url": "https://openai.com/index/the-future-of-the-firm"
+        }
+      ]
+    },
+    {
+      "id": 3,
       "status": "ONGOING",
-      "title": "GPU 텔레메트리·클러스터 운영의 지능형 자동화",
-      "summary": "NVIDIA Minerva와 Mission Control 2.5는 대규모 AI 팩토리와 GPU Kubernetes 클러스터에서 분산 텔레메트리를 통합·분석해 이상 탐지, 근본 원인 분석, 자율 복구를 자동화함으로써 GPU 수율과 가용성을 극대화하는 운영 인프라 방향을 제시하고 있습니다.",
+      "title": "GPU 팩토리 운영 고도화: 텔레메트리 분석과 자율 복구 인프라",
+      "summary": "NVIDIA는 Minerva로 분산 텔레메트리 데이터를 통합 분석해 GPU 수율과 활용률을 최적화하고, Mission Control 2.5를 통해 Kubernetes 수준에서 자율 복구를 구현하고 있다. 대규모 AI 클러스터에서 이상 탐지, 근본 원인 분석, 자동 복구 워크플로우를 결합해 다운타임을 최소화하는 ‘자율 운영 인프라’ 흐름이 강화되는 중이다.",
       "articleCount": 2,
       "relatedArticles": [
         {
@@ -236,17 +245,12 @@
       ]
     },
     {
-      "id": "ai-3",
+      "id": 4,
       "status": "ONGOING",
-      "title": "TensorRT 글로벌 튜너를 통한 추론 최적화 패러다임 전환",
-      "summary": "TensorRT 11.1의 Global Performance Tuner는 단일 빌드 경로를 수동 조정하는 방식에서 벗어나, 여러 빌드 조합을 자동 탐색해 정확도를 고려한 최적 성능 지점을 찾는 방식으로 추론 최적화 프로세스를 재구성하고 있으며, Part 1·2를 통해 이 접근의 이론과 실무 적용 사례가 구체화되고 있습니다.",
-      "articleCount": 2,
+      "title": "추론 성능 극대화를 위한 TensorRT 자동 튜닝 확산",
+      "summary": "TensorRT 11.1의 Global Performance Tuner는 단일 빌드 경로를 넘어 다양한 빌드 조합에 대해 자동·정밀한 성능 튜닝을 제공한다. 이는 모델 아키텍처와 하드웨어 조합이 다양해지는 환경에서 수작업 최적화 부담을 줄이고, 대규모 추론 서비스의 비용·지연시간을 지속적으로 줄이려는 흐름의 연장선에 있다.",
+      "articleCount": 1,
       "relatedArticles": [
-        {
-          "source": "NVIDIA Developer Blog",
-          "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 1",
-          "url": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-1/"
-        },
         {
           "source": "NVIDIA Developer Blog",
           "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2",
@@ -255,30 +259,16 @@
       ]
     },
     {
-      "id": "ai-4",
+      "id": 5,
       "status": "NEW",
-      "title": "연구 아이디어 발굴·검증을 위한 AI 기반 문헌 탐색 도구 부상",
-      "summary": "Hugging Face의 LitPivot는 토픽 맵핑과 컨텍스트 기반 추천으로 방대한 문헌 속에서 새로운 연구 아이디어를 생성·정교화하도록 돕는 등, 연구 기획 단계에 특화된 AI 도구가 본격적으로 등장하고 있습니다.",
+      "title": "연구 아이디어 발굴을 위한 문헌 기반 AI 도구 부상",
+      "summary": "LitPivot는 대규모 논문 지형을 토픽 맵과 연결 그래프로 보여주고, 컨텍스트 기반 제안을 통해 새로운 연구 방향을 제안하는 도구다. 연구자는 문헌 검색을 넘어 ‘아이디어 설계와 정교화’를 AI와 함께 수행하게 되며, 이는 학술 연구 워크플로의 상류 단계까지 AI 지원이 확대되고 있음을 시사한다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Hugging Face Blog",
           "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
           "url": "https://huggingface.co/blog/allenai/litpivot"
-        }
-      ]
-    },
-    {
-      "id": "ai-5",
-      "status": "ONGOING",
-      "title": "학계와의 협력을 통한 AI 과학 능력 검증·심화",
-      "summary": "OpenAI는 수학·물리학 난제에 대한 모델 결과와 방법론을 공개하고 학계와 공동 검증·확장을 추진하며, 첨단 모델의 과학적 추론 능력을 체계적으로 평가하고 신뢰 가능한 연구 도구로 자리 잡게 하려는 움직임을 이어가고 있습니다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "OpenAI Blog",
-          "title": "Working with academic communities to build scientific understanding",
-          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities"
         }
       ]
     }

@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-29",
+  "highlights": {
+    "bullets": [
+      "핵심: 실리콘 포토닉스와 CPO가 대규모 GPU 클러스터의 고속·저지연 광연결을 구축한다.",
+      "핵심: SK하이닉스가 AI 메모리 수요 급증으로 분기 사상 최대 실적을 기록했다.",
+      "트렌드: AI 수요가 메모리·연결기술·소재 개발을 촉진하고 있다."
+    ],
+    "topTopics": [
+      "Investment",
+      "Roadmap",
+      "Demand",
+      "Manufacturing"
+    ],
+    "stats": {
+      "collected": 7,
+      "deduped": 7
+    }
+  },
+  "cards": [
+    {
+      "id": "semiconductor_0001",
+      "tab": "semiconductor",
+      "publishedAt": "2026-10-29T09:00:21+09:00",
+      "source": "SK hynix Newsroom",
+      "title": "[Tech Note] Why does AI still have to wait with tens of thousands of GPUs? How silicon photonics and CPO are building the ‘highways of light’",
+      "summary": [
+        "대규모 AI는 수만 개 GPU를 연결할 고속·저지연 통로가 필요하다.",
+        "실리콘 포토닉스와 CPO(칩 근접 광연결)는 전기 연결의 한계를 넘어 '빛의 고속도로'를 구축한다.",
+        "이는 반도체 제조·패키징과 데이터센터 설계 전반의 재편을 촉발한다."
+      ],
+      "whyItMatters": "해당 기술들이 GPU 클러스터의 대역폭·전력·지연 병목을 해소해 AI 확장성과 비용 구조를 근본적으로 바꿀 가능성이 크기 때문입니다.",
+      "topics": [
+        "Manufacturing",
+        "Roadmap",
+        "Demand"
+      ],
+      "status": "SHIFTING",
+      "hash": "6127a47756b168be11e62be5672b83acb258d8aefd6d4fb6512ced1e003d58e6",
+      "url": "https://news.skhynix.com/en/tech-note-series-ep3/"
+    },
+    {
+      "id": "semiconductor_0002",
+      "tab": "semiconductor",
+      "publishedAt": "2026-10-29T01:43:42+09:00",
+      "source": "EE Times",
+      "title": "SK Hynix Reports Record Q3 Results Driven by AI Memory Surge",
+      "summary": [
+        "SK하이닉스가 AI 메모리 수요 급증으로 분기 사상 최대 실적을 기록했습니다.",
+        "장기 고객 계약 확대와 메모리 가격 상승이 수익성 개선을 견인하고 있습니다.",
+        "이는 다년간 생산능력 및 설비투자(CapEx) 관리 방식의 변화를 촉발할 가능성이 큽니다."
+      ],
+      "whyItMatters": "AI 중심 수요와 장기 계약은 메모리업체들의 캐파·투자 전략을 근본적으로 바꿔 업계 수익구조와 공급조절에 큰 영향을 줄 수 있기 때문입니다.",
+      "topics": [
+        "Earnings",
+        "Demand",
+        "Manufacturing",
+        "Investment"
+      ],
+      "status": "SHIFTING",
+      "hash": "ba3d1febbb87d0adc890c5f2172d5507ca251e8e8a29e4eb025b4ac24c660979",
+      "url": "https://www.eetimes.com/sk-hynix-reports-record-q3-results-driven-by-ai-memory-surge/"
+    },
+    {
+      "id": "semiconductor_0003",
+      "tab": "semiconductor",
+      "publishedAt": "2026-10-29T05:50:32+09:00",
+      "source": "EE Times",
+      "title": "Canadian Startup Aims to Be Quantum’s ‘Picks’ and ‘Shovels’",
+      "summary": [
+        "토론토의 Meissner Technologies가 AI와 실험실 테스트를 결합해 초전도 물질을 탐색하고 있습니다.",
+        "이 기술은 양자컴퓨터의 냉각 비용을 줄여 시스템 확장성 개선에 기여할 수 있습니다.",
+        "회사는 양자 하드웨어 생태계에 필요한 '인프라' 공급자가 되려는 전략을 추진하고 있습니다."
+      ],
+      "whyItMatters": "초전도 물질로 냉각 비용과 확장성 문제를 완화하면 양자컴퓨팅 상용화 로드맵과 투자 유인에 직접적 영향을 미치기 때문입니다.",
+      "topics": [
+        "Manufacturing",
+        "Roadmap",
+        "Investment"
+      ],
+      "status": "ONGOING",
+      "hash": "f886046fde688fdd6817722341705e838b00de5508d239965f65c44a9e82ff16",
+      "url": "https://www.eetimes.com/canadian-startup-aims-to-be-quantums-picks-and-shovels/"
+    },
+    {
+      "id": "semiconductor_0004",
+      "tab": "semiconductor",
+      "publishedAt": "2026-10-28T22:39:00+09:00",
+      "source": "Samsung Newsroom",
+      "title": "Samsung Ranks No. 5 in Interbrand’s ‘Best Global Brands 2026’ for Seventh Consecutive Year",
+      "summary": [
+        "삼성전자가 인터브랜드의 '베스트 글로벌 브랜드 2026'에서 7년 연속 5위에 올랐습니다.",
+        "브랜드 가치는 미화 1,052억 달러로 평가되었습니다.",
+        "2020년 이후 매년 글로벌 톱5에 오른 아시아 기업 가운데 유일합니다."
+      ],
+      "whyItMatters": "지속적인 톱5 등재는 삼성의 글로벌 브랜드 영향력과 경쟁 우위를 공고히 해 투자자 신뢰와 시장 지위에 긍정적 영향을 미칩니다.",
+      "topics": [
+        "Competition",
+        "Investment"
+      ],
+      "status": "ONGOING",
+      "hash": "66478dce034e7bc6fa2e19ffb461294e4a72e0b019811772f6416b61a5161430",
+      "url": "https://news.samsung.com/global/samsung-ranks-no-5-in-interbrands-best-global-brands-2026-for-seventh-consecutive-year"
+    }
+  ]
+}

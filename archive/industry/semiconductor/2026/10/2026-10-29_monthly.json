@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-09-30",
+    "to": "2026-10-29"
+  },
+  "kpis": {
+    "collected": 63,
+    "deduped": 63,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 30,
+      "Competition": 26,
+      "Manufacturing": 21,
+      "Demand": 12,
+      "Investment": 12,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (09/30-10/06)",
+      "topicCounts": {
+        "Roadmap": 14,
+        "Competition": 12,
+        "Manufacturing": 7,
+        "Demand": 2,
+        "Investment": 6
+      }
+    },
+    {
+      "week": "Week 2 (10/07-10/13)",
+      "topicCounts": {
+        "Roadmap": 5,
+        "Competition": 4,
+        "Manufacturing": 6,
+        "Demand": 2,
+        "Investment": 3
+      }
+    },
+    {
+      "week": "Week 3 (10/14-10/20)",
+      "topicCounts": {
+        "Roadmap": 12,
+        "Competition": 11,
+        "Manufacturing": 10,
+        "Demand": 5,
+        "Investment": 8
+      }
+    },
+    {
+      "week": "Week 4 (10/21-10/27)",
+      "topicCounts": {
+        "Roadmap": 8,
+        "Competition": 6,
+        "Manufacturing": 4,
+        "Demand": 4,
+        "Investment": 0
+      }
+    },
+    {
+      "week": "Week 5 (10/28-10/29)",
+      "topicCounts": {
+        "Roadmap": 2,
+        "Competition": 1,
+        "Manufacturing": 3,
+        "Demand": 2,
+        "Investment": 3
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "AI 확산이 촉발한 차세대 고대역폭 인터커넥트: 실리콘 포토닉스·CPO 부상",
+      "summary": "수만 개 GPU를 연결해야 하는 초대형 AI 시스템에서 기존 전기 신호 기반 인터커넥트가 속도·전력·지연 측면 한계에 직면하면서, 실리콘 포토닉스와 CPO(칩 근접 광연결)가 데이터센터용 ‘광 고속도로’ 기술로 빠르게 부상하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "SK hynix Newsroom",
+          "title": "[Tech Note] Why does AI still have to wait with tens of thousands of GPUs? How silicon photonics and CPO are building the ‘highways of light’",
+          "url": "https://news.skhynix.com/en/tech-note-series-ep3/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "AI 메모리 초호황: SK하이닉스, 고대역폭 메모리 수요로 분기 최대 실적",
+      "summary": "생성형 AI 확산으로 HBM 등 AI 특화 메모리 수요와 가격이 동반 급등하면서 SK하이닉스가 장기 공급 계약 확대와 수익성 개선에 힘입어 분기 사상 최대 실적을 기록, 메모리 업황이 AI 중심 구조적 호황 국면에 진입하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "SK Hynix Reports Record Q3 Results Driven by AI Memory Surge",
+          "url": "https://www.eetimes.com/sk-hynix-reports-record-q3-results-driven-by-ai-memory-surge/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "삼성전자, 프리미엄 반도체·디바이스 전략 기반 글로벌 톱티어 브랜드 위상 유지",
+      "summary": "삼성전자가 인터브랜드 ‘베스트 글로벌 브랜드 2026’에서 7년 연속 5위를 차지하며 1,052억 달러의 브랜드 가치를 인정받는 등, 메모리·파운드리·시스템반도체와 프리미엄 디바이스 투자가 장기 경쟁력과 브랜드 자산을 강화하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung Ranks No. 5 in Interbrand’s ‘Best Global Brands 2026’ for Seventh Consecutive Year",
+          "url": "https://news.samsung.com/global/samsung-ranks-no-5-in-interbrands-best-global-brands-2026-for-seventh-consecutive-year"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "차량용 반도체 수요 지형 변화: 유럽 NCAP 규제로 인-캐빈 센싱 재편",
+      "summary": "강화된 유럽 NCAP 안전 규제로 완성차 업체들이 스티어링휠 기반 센서에서 카메라·레이더·적외선을 통합한 인-캐빈 센싱으로 전환을 검토하면서, 센서·MCU·AI 칩 등 차량용 반도체 구조와 수요가 고도화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Automakers Reconsider In-Cabin Sensing for Euro NCAP Ratings",
+          "url": "https://www.eetimes.com/automakers-reconsider-in-cabin-sensing-for-euro-ncap-ratings/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "반도체 장비 대형 투자: 어플라이드 머티리얼즈의 50억 달러 EPIC 센터 베팅",
+      "summary": "어플라이드 머티리얼즈가 차세대 공정·장비 혁신을 가속하기 위해 50억 달러 규모 EPIC 센터 투자를 단행, 미세공정·첨단 패키징·AI·전력반도체 등에서 장기 공정 로드맵과 생태계 주도권 확보에 나서고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Video Interview: Applied Materials CEO on the Economics Behind Its $5B EPIC Bet",
+          "url": "https://www.eetimes.com/video-interview-applied-materials-ceo-on-the-economics-behind-its-5b-epic-bet/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,81 +1,86 @@
 {
   "range": {
-    "from": "2026-09-28",
-    "to": "2026-10-27"
+    "from": "2026-09-30",
+    "to": "2026-10-29"
   },
   "kpis": {
-    "collected": 52,
-    "deduped": 52,
+    "collected": 50,
+    "deduped": 50,
     "uniqueTopics": 7,
     "marketShare": {
-      "Roadmap": 27,
-      "Competition": 24,
-      "Demand": 21,
-      "Investment": 19,
-      "Policy": 9,
-      "Other": 0
+      "Roadmap": 26,
+      "Competition": 25,
+      "Demand": 20,
+      "Investment": 18,
+      "Manufacturing": 10,
+      "Other": 1
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (09/28-10/04)",
+      "week": "Week 1 (09/30-10/06)",
+      "topicCounts": {
+        "Roadmap": 9,
+        "Competition": 7,
+        "Demand": 7,
+        "Investment": 4,
+        "Manufacturing": 5
+      }
+    },
+    {
+      "week": "Week 2 (10/07-10/13)",
+      "topicCounts": {
+        "Roadmap": 8,
+        "Competition": 9,
+        "Demand": 7,
+        "Investment": 6,
+        "Manufacturing": 3
+      }
+    },
+    {
+      "week": "Week 3 (10/14-10/20)",
+      "topicCounts": {
+        "Roadmap": 9,
+        "Competition": 10,
+        "Demand": 9,
+        "Investment": 3,
+        "Manufacturing": 1
+      }
+    },
+    {
+      "week": "Week 4 (10/21-10/27)",
       "topicCounts": {
         "Roadmap": 9,
         "Competition": 6,
-        "Demand": 6,
-        "Investment": 6,
-        "Policy": 2
-      }
-    },
-    {
-      "week": "Week 2 (10/05-10/11)",
-      "topicCounts": {
-        "Roadmap": 10,
-        "Competition": 8,
-        "Demand": 6,
-        "Investment": 5,
-        "Policy": 3
-      }
-    },
-    {
-      "week": "Week 3 (10/12-10/18)",
-      "topicCounts": {
-        "Roadmap": 6,
-        "Competition": 11,
-        "Demand": 10,
-        "Investment": 5,
-        "Policy": 4
-      }
-    },
-    {
-      "week": "Week 4 (10/19-10/25)",
-      "topicCounts": {
-        "Roadmap": 8,
-        "Competition": 8,
         "Demand": 4,
-        "Investment": 8,
-        "Policy": 4
+        "Investment": 9,
+        "Manufacturing": 2
       }
     },
     {
-      "week": "Week 5 (10/26-10/27)",
+      "week": "Week 5 (10/28-10/29)",
       "topicCounts": {
-        "Roadmap": 2,
+        "Roadmap": 1,
         "Competition": 2,
         "Demand": 0,
-        "Investment": 1,
-        "Policy": 0
+        "Investment": 2,
+        "Manufacturing": 2
       }
     }
   ],
   "topIssues": [
     {
       "id": 1,
-      "status": "NEW",
-      "title": "BYD 초럭셔리 EV 플래그십·전고체 배터리 출격 임박",
-      "summary": "BYD가 롤스로이스식 코치 도어와 전고체 배터리 적용이 예상되는 초럭셔리 전기 세단 플래그십을 곧 공개할 예정입니다. 중국 프리미엄 EV 시장 상향화와 고급 세단 세그먼트에서의 BYD 위상 확대, 전고체 배터리 상용화 경쟁 가속이 주요 관전 포인트입니다.",
-      "articleCount": 1,
+      "status": "ONGOING",
+      "title": "BYD 인력 100만 명 돌파로 글로벌 완성차 제조 경쟁 구도 변화",
+      "summary": "BYD가 10개월 만에 약 15만 명을 추가 고용해 총 102만 명 규모의 초대형 인력 기반을 구축, 토요타·GM·포드·테슬라 인력을 모두 합친 것보다 많아지며 전기차 및 배터리 수직계열화·내재화 경쟁에서 생산·공급망 우위를 강화하고 있습니다.",
+      "articleCount": 2,
       "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "BYD now has 1.02 million workers, more than Toyota, GM, Ford, and Tesla combined",
+          "url": "https://electrek.co/2026/10/28/byd-1-million-employees-more-than-toyota-gm-ford-tesla/"
+        },
         {
           "source": "Electrek",
           "title": "BYD’s ultra-luxury EV could debut next week with solid-state batteries and much more",
@@ -85,9 +90,23 @@
     },
     {
       "id": 2,
+      "status": "ONGOING",
+      "title": "CATL 전고체 배터리 20Ah 셀 개발로 차세대 고에너지밀도 경쟁 본격화",
+      "summary": "CATL이 20Ah급 전고체 배터리 셀 개발에 성공하며 셀 에너지 밀도 500Wh/kg 달성을 내다보고 있어, 차세대 EV 플랫폼과 고급 전기차, 항공 모빌리티 등에서 전고체 채택 경쟁이 가속화될 전망입니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "CATL pushes ahead with 20 Ah solid-state EV batteries, with 500 Wh/kg in sight",
+          "url": "https://electrek.co/2026/10/28/catl-pushes-ahead-20-ah-solid-state-ev-batteries-500-wh-kg/"
+        }
+      ]
+    },
+    {
+      "id": 3,
       "status": "NEW",
-      "title": "렉서스 RZ 2027년형, 5만 달러 미만·300마일 이상 주행으로 프리미엄 EV 본격 확대",
-      "summary": "2027년형 렉서스 RZ가 내년 초 출시되며, 5만 달러 미만 시작가와 300마일 이상 주행거리로 프리미엄 중형 전기 SUV 시장 경쟁이 심화되고 있습니다. 토요타 그룹의 EV 라인업 강화와 북미·글로벌 프리미엄 EV 수요 흡수가 기대됩니다.",
+      "title": "렉서스 RZ 2027년형, 5만 달러 미만·300마일 이상으로 프리미엄 EV 시장 공략",
+      "summary": "토요타 고급 브랜드 렉서스가 2027년형 RZ를 5만 달러 미만 시작가와 300마일 이상 주행거리로 출시 예고하면서, 프리미엄 전기 SUV 세그먼트에서 가격·효율을 동시에 앞세운 경쟁에 나서고 있습니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -98,10 +117,10 @@
       ]
     },
     {
-      "id": 3,
+      "id": 4,
       "status": "NEW",
-      "title": "폭스바겐, 1.2만 달러 미만 전기 제타로 초저가 EV 시장 정면 승부",
-      "summary": "폭스바겐이 중국 시장용 전기 세단 제타 M6를 1만2천 달러 미만 가격과 최대 약 460km(CLTC) 주행거리로 선보이며 초저가 EV 세그먼트 공략을 강화하고 있습니다. 현지 브랜드 중심이던 보급형 EV 시장에 유럽 OEM의 가격 경쟁이 본격화되는 신호입니다.",
+      "title": "폭스바겐, 1만2천 달러 미만 EV 제타로 중국 보급형 전기차 가격파괴",
+      "summary": "폭스바겐이 중국 시장 전용 전기 세단 제타 M6를 1만2천 달러 미만에 출시하며 CLTC 기준 최대 약 460km 주행거리를 제공, 현지 보급형 EV 시장에서 BYD 등 로컬 업체와의 가격·성능 경쟁을 정면 돌파하려 하고 있습니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -112,30 +131,16 @@
       ]
     },
     {
-      "id": 4,
+      "id": 5,
       "status": "ONGOING",
-      "title": "테슬라 텍사스 100억 달러급 태양광 공장, 최대 35년 지방 세제 혜택 가시화",
-      "summary": "텍사스 포트벤드 카운티가 테슬라 ‘프로젝트 크리스털 선’ 태양광 공장 설비에 대해 최대 35년간 지방 세제 혜택을 만장일치로 승인했습니다. 미국 내 태양광·에너지 제조 투자 확대와 장기 고용·지역 산업 클러스터 형성이 기대되는 가운데, 테슬라의 에너지 사업 비중 확대 기조가 이어지고 있습니다.",
+      "title": "텍사스 테슬라 100억 달러 태양광 공장, 최대 35년 세제 혜택으로 장기 투자 기반 확보",
+      "summary": "텍사스 포트벤드 카운티가 테슬라 ‘프로젝트 크리스털 선’ 태양광 공장에 대해 장비 기준 최대 35년간 지방 세제 감면을 승인하면서, 테슬라의 미국 내 재생에너지·전력 사업 확장과 제조 허브 구축이 가속화될 가능성이 커졌습니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
           "title": "Tesla’s $10B solar factory could get 35 years of tax breaks in Texas",
           "url": "https://electrek.co/2026/10/23/tesla-solar-factory-texas-35-years-tax-breaks-fort-bend/"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "status": "NEW",
-      "title": "리오틴토, 고온 벽돌 배터리로 산업 공정 탈탄소 시범 추진",
-      "summary": "리오틴토가 호주 야윈 알루미나 정제소에 낮 시간 저렴한 전력을 활용해 열을 저장하고 야간 증기 생산에 쓰는 대형 ‘핫 브릭’ 열 배터리 도입을 검토 중입니다. 에너지 집약적 제조업에서 전력·열 수요를 재생에너지 중심으로 전환하려는 시도로, 산업 공정 전동화·탈화석연료 트렌드와 맞물려 주목됩니다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "Rio Tinto eyes a giant hot-brick battery to cut fossil fuel use",
-          "url": "https://electrek.co/2026/10/21/rio-tinto-eyes-a-giant-hot-brick-battery-to-cut-fossil-fuel-use/"
         }
       ]
     }

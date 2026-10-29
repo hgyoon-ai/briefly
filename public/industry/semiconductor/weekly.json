@@ -1,25 +1,25 @@
 {
   "range": {
-    "from": "2026-10-21",
-    "to": "2026-10-27"
+    "from": "2026-10-23",
+    "to": "2026-10-29"
   },
   "kpis": {
-    "collected": 9,
-    "deduped": 9,
-    "uniqueTopics": 5
+    "collected": 10,
+    "deduped": 10,
+    "uniqueTopics": 7
   },
   "topTopics": [
     {
       "name": "Roadmap",
-      "count": 8
-    },
-    {
-      "name": "Competition",
-      "count": 6
+      "count": 7
     },
     {
       "name": "Manufacturing",
-      "count": 4
+      "count": 6
+    },
+    {
+      "name": "Competition",
+      "count": 5
     },
     {
       "name": "Demand",
@@ -28,54 +28,6 @@
   ],
   "topicTrend": [
     {
-      "date": "2026-10-21",
-      "dayOfWeek": "Wed",
-      "topic": "Roadmap",
-      "count": 2
-    },
-    {
-      "date": "2026-10-21",
-      "dayOfWeek": "Wed",
-      "topic": "Competition",
-      "count": 2
-    },
-    {
-      "date": "2026-10-21",
-      "dayOfWeek": "Wed",
-      "topic": "Manufacturing",
-      "count": 1
-    },
-    {
-      "date": "2026-10-21",
-      "dayOfWeek": "Wed",
-      "topic": "Demand",
-      "count": 1
-    },
-    {
-      "date": "2026-10-22",
-      "dayOfWeek": "Thu",
-      "topic": "Roadmap",
-      "count": 1
-    },
-    {
-      "date": "2026-10-22",
-      "dayOfWeek": "Thu",
-      "topic": "Competition",
-      "count": 0
-    },
-    {
-      "date": "2026-10-22",
-      "dayOfWeek": "Thu",
-      "topic": "Manufacturing",
-      "count": 0
-    },
-    {
-      "date": "2026-10-22",
-      "dayOfWeek": "Thu",
-      "topic": "Demand",
-      "count": 1
-    },
-    {
       "date": "2026-10-23",
       "dayOfWeek": "Fri",
       "topic": "Roadmap",
@@ -84,13 +36,13 @@
     {
       "date": "2026-10-23",
       "dayOfWeek": "Fri",
-      "topic": "Competition",
+      "topic": "Manufacturing",
       "count": 1
     },
     {
       "date": "2026-10-23",
       "dayOfWeek": "Fri",
-      "topic": "Manufacturing",
+      "topic": "Competition",
       "count": 1
     },
     {
@@ -108,14 +60,14 @@
     {
       "date": "2026-10-24",
       "dayOfWeek": "Sat",
-      "topic": "Competition",
-      "count": 1
+      "topic": "Manufacturing",
+      "count": 0
     },
     {
       "date": "2026-10-24",
       "dayOfWeek": "Sat",
-      "topic": "Manufacturing",
-      "count": 0
+      "topic": "Competition",
+      "count": 1
     },
     {
       "date": "2026-10-24",
@@ -132,13 +84,13 @@
     {
       "date": "2026-10-25",
       "dayOfWeek": "Sun",
-      "topic": "Competition",
+      "topic": "Manufacturing",
       "count": 0
     },
     {
       "date": "2026-10-25",
       "dayOfWeek": "Sun",
-      "topic": "Manufacturing",
+      "topic": "Competition",
       "count": 0
     },
     {
@@ -156,14 +108,14 @@
     {
       "date": "2026-10-26",
       "dayOfWeek": "Mon",
-      "topic": "Competition",
-      "count": 1
+      "topic": "Manufacturing",
+      "count": 2
     },
     {
       "date": "2026-10-26",
       "dayOfWeek": "Mon",
-      "topic": "Manufacturing",
-      "count": 2
+      "topic": "Competition",
+      "count": 1
     },
     {
       "date": "2026-10-26",
@@ -180,28 +132,104 @@
     {
       "date": "2026-10-27",
       "dayOfWeek": "Tue",
-      "topic": "Competition",
-      "count": 1
-    },
-    {
-      "date": "2026-10-27",
-      "dayOfWeek": "Tue",
       "topic": "Manufacturing",
       "count": 0
     },
     {
       "date": "2026-10-27",
       "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
       "topic": "Demand",
       "count": 0
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Manufacturing",
+      "count": 3
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Demand",
+      "count": 2
     }
   ],
   "topIssues": [
     {
       "id": 1,
       "status": "SHIFTING",
-      "title": "AI 확산으로 패널 레벨 패키징(PLP) 부상",
-      "summary": "AI 칩 수요 폭증으로 기존 웨이퍼 기반 패키징의 비용·수율·공정 유연성 한계가 드러나면서, 대형 패널을 활용하는 패널 레벨 패키징이 첨단 패키징 확장의 핵심 옵션으로 부상하고 있다. 이는 HBM·CoWoS·패널 팬아웃 등 반도체 후공정 생태계 재편을 가속하고, OSAT·장비·소재 업체들의 중장기 투자 방향을 바꾸는 이슈다.",
+      "title": "AI 시대 ‘광(光) 인터커넥트’ 전환 가속: 실리콘 포토닉스·CPO 부상",
+      "summary": "수만 개 GPU를 묶는 AI 데이터센터에서 전기 신호 기반 인터커넥트가 속도·전력·발열 한계에 직면하면서, 실리콘 포토닉스와 CPO(칩 근접 광연결)가 차세대 고속·저지연 네트워크의 핵심 기술로 부상하고 있다. 이는 메모리·패키징·스위치까지 포함한 시스템 아키텍처 재설계를 요구해 반도체 공급망 전반에 중장기 투자·로드맵 수정을 촉발하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "SK hynix Newsroom",
+          "title": "[Tech Note] Why does AI still have to wait with tens of thousands of GPUs? How silicon photonics and CPO are building the ‘highways of light’",
+          "url": "https://news.skhynix.com/en/tech-note-series-ep3/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "AI 메모리 수퍼사이클 본격화: SK하이닉스 분기 최대 실적",
+      "summary": "HBM을 중심으로 한 AI 메모리 수요 폭증과 가격 상승으로 SK하이닉스가 분기 사상 최대 실적을 기록했다. 장기 공급 계약 확대와 고부가 메모리 믹스 개선이 수익성을 끌어올리며, AI 인프라 투자가 장기간 메모리 업황을 지지하는 ‘수퍼사이클’ 국면에 진입했다는 신호로 해석된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "SK Hynix Reports Record Q3 Results Driven by AI Memory Surge",
+          "url": "https://www.eetimes.com/sk-hynix-reports-record-q3-results-driven-by-ai-memory-surge/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "AI 칩 패키징 패러다임 변화: 패널 레벨 공정 부상",
+      "summary": "고대역폭·저지연을 요구하는 AI 칩 수요가 폭증하면서 웨이퍼 기반 패키징만으로는 비용·수율·확장성 한계에 봉착했다. 대형 기판을 한 번에 처리하는 패널 레벨 패키징이 첨단 패키징의 유력 대안으로 부상해, 파운드리·OSAT·장비업체의 설비 투자 및 공정 로드맵 재편을 이끌고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -212,68 +240,30 @@
       ]
     },
     {
-      "id": 2,
+      "id": 4,
       "status": "SHIFTING",
-      "title": "Arm–퀄컴 소송 이후 IP·테스트 스위트 통제권 재조명",
-      "summary": "Arm과 퀄컴 간 소송에서 손해배상 규모는 2달러로 상징적이었지만, 맞춤형 칩 출하 전 필수 준수 테스트 스위트의 통제권이 핵심 쟁점으로 부각됐다. 이 판결을 계기로 Arm은 자사 비즈니스 모델의 정당성을 강조했고, 업계 일각에서는 RISC‑V 등 개방형 ISA가 장기적으로 AI 워크로드의 유연한 대안이 될 수 있다는 시각이 힘을 얻고 있다.",
-      "articleCount": 2,
+      "title": "Arm–Qualcomm 분쟁 이후: CPU IP 지형과 RISC‑V 대안 부상",
+      "summary": "Arm이 퀄컴과의 소송에서 명목상 승소에도 불구하고 실질 손해배상이 2달러에 그치며, 칩 설계 생태계에서 Arm 의존 구조에 대한 재검토가 본격화되고 있다. 업계 전문가들은 AI 워크로드에서 개방형 아키텍처인 RISC‑V가 장기 유연성과 라이선스 리스크 완화 측면의 대안으로 부상할 수 있다고 전망하며, 이는 반도체 설계·툴·IP 생태계 전반의 구조 변화를 예고한다.",
+      "articleCount": 1,
       "relatedArticles": [
         {
           "source": "EE Times",
           "title": "Arm Comments on Jury Decision in Qualcomm Trial",
           "url": "https://www.eetimes.com/arm-comments-on-jury-decision-in-qualcomm-trial/"
-        },
-        {
-          "source": "EE Times",
-          "title": "Two Dollars and a Test Suite",
-          "url": "https://www.eetimes.com/two-dollars-and-a-test-suite/"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "status": "SHIFTING",
-      "title": "유럽 NCAP 강화로 차량 인-캐빈 센싱 아키텍처 전환 가속",
-      "summary": "유럽 NCAP의 안전 평가 기준이 강화되면서 완성차 업체들이 기존 스티어링휠 기반 센서를 넘어 통합 인-캐빈 센서 시스템을 재검토하고 있다. 이를 위해 카메라·ToF·레이더 등 다양한 센서와 전용 SoC 및 AI 추론용 반도체의 채택이 늘어날 전망으로, 자동차 반도체 업체에는 새로운 설계·공급 기회가 열리고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "EE Times",
-          "title": "Automakers Reconsider In-Cabin Sensing for Euro NCAP Ratings",
-          "url": "https://www.eetimes.com/automakers-reconsider-in-cabin-sensing-for-euro-ncap-ratings/"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "status": "ONGOING",
-      "title": "GNSS 취약성 부각과 4G·5G·NTN 기반 다중 계층 측위 수요 증가",
-      "summary": "GPS 재밍·스푸핑 사례가 늘어나면서 GNSS 단일 의존 구조의 리스크가 커지고 있다. 통신사·칩벤더·장비업체들은 4G·5G 신호와 비지상망(NTN)을 활용한 보조 측위 계층을 제안하고 있으며, 관련 RF·베이스밴드·위성 모뎀 반도체 수요가 중장기적으로 확대될 가능성이 크다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "EE Times",
-          "title": "When GPS Isn’t Enough: Building a Second Layer of Positioning",
-          "url": "https://www.eetimes.com/when-gps-isnt-enough-building-a-second-layer-of-positioning/"
         }
       ]
     },
     {
       "id": 5,
       "status": "ONGOING",
-      "title": "JBL·하만 생태계를 통한 오디오용 반도체·시스템 통합 강화",
-      "summary": "JBL 80주년을 계기로 공개된 인터뷰·인포그래픽은 프로 오디오에서 소비자 기기까지 영역을 넓혀온 JBL과 하만 생태계의 진화를 보여준다. 삼성 계열사 편입 이후 헤드폰·자동차·홈 오디오에 이르는 시스템 통합이 심화되며, 오디오 DSP, ANC, 무선 코덱, 차량용 인포테인먼트용 반도체 수요와 공동 개발 기회가 확대되고 있다.",
-      "articleCount": 2,
+      "title": "양자 컴퓨팅 인프라용 신소재·냉각 기술 투자 확대",
+      "summary": "캐나다 스타트업 Meissner Technologies가 AI 기반 소재 탐색을 통해 초전도 물질과 냉각 비용 절감 기술을 개발하며 ‘양자 컴퓨팅용 곡괭이와 삽’ 역할을 지향하고 있다. 이는 반도체·재료·장비 산업이 양자 컴퓨팅 인프라를 차세대 성장 축으로 보고 선제적 투자와 파트너십을 확대하는 흐름과 맞물려 있다.",
+      "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "Samsung Newsroom",
-          "title": "[Interview] Sound That Connects: 80 Years of Audio and the Future of Connected Experiences",
-          "url": "https://news.samsung.com/global/interview-sound-that-connects-80-years-of-audio-and-the-future-of-connected-experiences"
-        },
-        {
-          "source": "Samsung Newsroom",
-          "title": "[Infographic] 80 Years of JBL: From Studios and Stages to Everyday Life",
-          "url": "https://news.samsung.com/global/infographic-80-years-of-jbl-from-studios-and-stages-to-everyday-life"
+          "source": "EE Times",
+          "title": "Canadian Startup Aims to Be Quantum’s ‘Picks’ and ‘Shovels’",
+          "url": "https://www.eetimes.com/canadian-startup-aims-to-be-quantums-picks-and-shovels/"
         }
       ]
     }

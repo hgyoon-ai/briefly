@@ -1,0 +1,148 @@
+{
+  "range": {
+    "from": "2026-09-30",
+    "to": "2026-10-29"
+  },
+  "kpis": {
+    "collected": 111,
+    "deduped": 111,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "Market": 29,
+      "Supply": 25,
+      "Policy": 21,
+      "Construction": 13,
+      "UrbanRenewal": 12,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (09/30-10/06)",
+      "topicCounts": {
+        "Market": 18,
+        "Supply": 15,
+        "Policy": 10,
+        "Construction": 7,
+        "UrbanRenewal": 8
+      }
+    },
+    {
+      "week": "Week 2 (10/07-10/13)",
+      "topicCounts": {
+        "Market": 14,
+        "Supply": 11,
+        "Policy": 9,
+        "Construction": 3,
+        "UrbanRenewal": 4
+      }
+    },
+    {
+      "week": "Week 3 (10/14-10/20)",
+      "topicCounts": {
+        "Market": 16,
+        "Supply": 16,
+        "Policy": 16,
+        "Construction": 10,
+        "UrbanRenewal": 8
+      }
+    },
+    {
+      "week": "Week 4 (10/21-10/27)",
+      "topicCounts": {
+        "Market": 19,
+        "Supply": 13,
+        "Policy": 7,
+        "Construction": 7,
+        "UrbanRenewal": 5
+      }
+    },
+    {
+      "week": "Week 5 (10/28-10/29)",
+      "topicCounts": {
+        "Market": 2,
+        "Supply": 5,
+        "Policy": 4,
+        "Construction": 1,
+        "UrbanRenewal": 3
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "수도권 6곳 그린벨트 해제로 7.7만가구 공급 추진",
+      "summary": "정부가 김포아라·구리건원·하남미사 등 서울 경계 5km 이내 그린벨트 6곳을 신규 택지 후보지로 묶어 약 7만6700가구 주택 공급을 추진하고 있다. 다만 서울 시내와 강남권 그린벨트는 후보지에서 제외돼 수도권 외곽 위주로 공급 압력이 집중되는 구조가 이어질 전망이다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "서울 옆에 7.7만가구, 서울은 ‘0’…강남 그린벨트는 빠졌다 [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10918612"
+        },
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "서울 5㎞내 김포·하남 등 6곳 7.7만호 신속 공급 [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10918565"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "전국 그린벨트 등급 재평가로 중장기 주택공급 기반 확대 모색",
+      "summary": "정부가 6년 만에 그린벨트 환경평가 등급을 전면 재평가하기로 하면서, 그간 개발·해제가 어려웠던 토지까지 주택공급 후보지로 다시 검토될 가능성이 커졌다. 관련 절차와 기준을 손질해 공급 물량을 장기적으로 늘리려는 정책 변화가 진행 중이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "[단독] 그린벨트 등급 재평가…주택공급 길 넓힌다",
+          "url": "https://www.mk.co.kr/news/realestate/12185262"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "강남-해운대 집값 5배 격차…지역 맞춤형 ‘핀셋 규제’ 요구",
+      "summary": "강남 아파트 가격이 해운대의 약 5배 수준으로 벌어지면서 지역 간 자산 격차가 심화되고 있다. 전문가들은 수요·공급·투기 요인이 다른 지역을 일률 규제로 관리하기보다, 고가·과열 지역에 초점을 맞춘 맞춤형 규제가 필요하다고 지적한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "\"강남 집값, 해운대의 5배…시장특성 맞는 핀셋 정책 필요\"",
+          "url": "https://www.hankyung.com/article/2026102813431"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "전세 공급 감소와 월세 전환 가속…내후년 전세난 우려",
+      "summary": "서울 24개구에서 월세 계약 비중이 약 57%로 전세를 앞지르며 임대차 시장의 월세화가 빠르게 진행 중이다. 전셋값 상승률은 전년 대비 4배 수준으로 뛰고 전세 물량은 줄어들고 있어, 시장에서는 내후년을 전세난의 피크 시점으로 우려하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "지금 전월셋값 확 올랐는데 “아직 지옥이 아니다”…내후년이 전세난 피크",
+          "url": "https://www.mk.co.kr/news/realestate/12186603"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "은행 대신 집주인 대출 확산…고금리 ‘셀러파이낸싱’ 리스크",
+      "summary": "주택담보대출 규제가 강화되자 강남 등 일부 지역에서 집주인이 매수자에게 매매대금 일부를 직접 빌려주는 셀러파이낸싱 거래가 늘고 있다. 연 5% 안팎의 고금리와 6개월 내 만기 등 조건이 까다로워, 금리·상환 리스크를 충분히 점검할 필요가 있다는 지적이 나온다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "“2년치 소득명세서 떼오세요” 은행 대신 집주인 대출, 강남 7억 근저당의 비밀 [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10915210"
+        }
+      ]
+    }
+  ]
+}

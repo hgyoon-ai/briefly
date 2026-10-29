@@ -1,0 +1,148 @@
+{
+  "range": {
+    "from": "2026-09-30",
+    "to": "2026-10-29"
+  },
+  "kpis": {
+    "collected": 74,
+    "deduped": 74,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "Tooling": 28,
+      "Product": 24,
+      "Models": 20,
+      "Research": 15,
+      "Infra": 13,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (09/30-10/06)",
+      "topicCounts": {
+        "Tooling": 11,
+        "Product": 9,
+        "Models": 8,
+        "Research": 5,
+        "Infra": 5
+      }
+    },
+    {
+      "week": "Week 2 (10/07-10/13)",
+      "topicCounts": {
+        "Tooling": 7,
+        "Product": 6,
+        "Models": 5,
+        "Research": 3,
+        "Infra": 3
+      }
+    },
+    {
+      "week": "Week 3 (10/14-10/20)",
+      "topicCounts": {
+        "Tooling": 15,
+        "Product": 10,
+        "Models": 11,
+        "Research": 8,
+        "Infra": 8
+      }
+    },
+    {
+      "week": "Week 4 (10/21-10/27)",
+      "topicCounts": {
+        "Tooling": 10,
+        "Product": 7,
+        "Models": 6,
+        "Research": 4,
+        "Infra": 7
+      }
+    },
+    {
+      "week": "Week 5 (10/28-10/29)",
+      "topicCounts": {
+        "Tooling": 3,
+        "Product": 4,
+        "Models": 3,
+        "Research": 2,
+        "Infra": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "차세대 프런티어 모델 경쟁: Google DeepMind의 Gemini 4 Carbon 발표",
+      "summary": "Google DeepMind가 Gemini 4 Carbon을 차세대 프런티어 모델로 공개하며 성능·효율·안전성을 동시에 강화하는 청사진을 제시했다. 연구와 제품을 한 축에서 가속하는 전략으로, 초거대 모델 경쟁이 단순 파라미터 확장에서 비용·안전·실사용 최적화 중심으로 재편되는 흐름을 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Google DeepMind Blog",
+          "title": "Gemini 4 Carbon: Our next frontier model",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "AI가 조직 구조를 재편: ‘디지털 동료’와 중개자로서의 역할 부상",
+      "summary": "OpenAI는 AI가 조직도 상에서 관리자·실무자 사이, 혹은 팀 간을 잇는 ‘아래·옆·사이’ 계층으로 들어오는 시나리오를 제시한다. 이는 단순 자동화 도구를 넘어 의사결정 보조, 협업 조율, 업무 중개 역할을 수행하는 디지털 동료로의 전환을 의미하며, 권한 구조와 업무 설계 방식의 중장기 변화를 예고한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "The future of the firm",
+          "url": "https://openai.com/index/the-future-of-the-firm"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "AI 팩토리 인프라 고도화: GPU 텔레메트리와 자율 복구형 클러스터 운영",
+      "summary": "NVIDIA는 대규모 AI 팩토리 운영을 위해 텔레메트리 통합 플랫폼 Minerva와 Kubernetes 자율 복구를 제공하는 Mission Control 2.5를 강화하고 있다. 분산된 GPU 메트릭을 통합·정규화해 수율과 활용률을 극대화하고, 장애 자동 감지·복구를 통해 대규모 학습 중단을 최소화하는 등, 고가용성·고효율 인프라가 AI 경쟁력의 핵심 축으로 부상하고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "How NVIDIA Minerva Turns Telemetry Chaos Into Peak GPU Yield",
+          "url": "https://developer.nvidia.com/blog/how-nvidia-minerva-turns-telemetry-chaos-into-peak-gpu-yield/"
+        },
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "How NVIDIA Mission Control 2.5 Brings Autonomous Recovery to Kubernetes",
+          "url": "https://developer.nvidia.com/blog/how-nvidia-mission-control-2-5-brings-autonomous-recovery-to-kubernetes/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "추론 최적화 자동화: TensorRT Global Performance Tuner의 멀티 빌드 튜닝",
+      "summary": "NVIDIA TensorRT 11.1의 Global Performance Tuner는 정확도를 고려한 자동 성능 튜닝을 단일 빌드 경로에서 다중 빌드 경로로 확장하고 있다. 이를 통해 다양한 하드웨어·배포 구성에 맞춘 추론 성능 탐색을 체계적으로 자동화함으로써, 수작업 프로파일링 의존도를 줄이고 대규모 서비스 환경에서 일관된 최적화 전략 수립을 가능하게 한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2",
+          "url": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-2/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "연구 아이디어 발굴 지원 도구 부상: 문헌 경관 기반 동적 컨텍스트화",
+      "summary": "Hugging Face의 LitPivot는 대규모 논문 코퍼스를 토픽 맵과 네트워크로 시각화하고, 아이디어 후보를 관련 문헌·연구 흐름과 동적으로 연결해준다. 이는 LLM과 결합된 ‘연구용 코파일럿’이 아이디어 생성부터 정교화까지 지원하는 방향으로 발전하고 있음을 보여주며, 학술 연구 워크플로우의 자동화 수준을 높이고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+          "url": "https://huggingface.co/blog/allenai/litpivot"
+        }
+      ]
+    }
+  ]
+}

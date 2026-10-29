@@ -1,0 +1,64 @@
+{
+  "date": "2026-10-29",
+  "highlights": {
+    "bullets": [
+      "핵심: CATL이 20Ah급 전고체 배터리 셀 개발에 성공했으며 500Wh/kg 달성을 목표로 합니다.",
+      "핵심: BYD는 직원 수가 102만 명을 넘어 토요타·GM·포드·테슬라 합산을 웃돌았습니다."
+    ],
+    "topTopics": [
+      "Competition",
+      "Roadmap",
+      "Investment",
+      "Demand"
+    ],
+    "stats": {
+      "collected": 14,
+      "deduped": 14
+    }
+  },
+  "cards": [
+    {
+      "id": "ev_0001",
+      "tab": "ev",
+      "publishedAt": "2026-10-29T00:12:41+09:00",
+      "source": "Electrek",
+      "title": "CATL pushes ahead with 20 Ah solid-state EV batteries, with 500 Wh/kg in sight",
+      "summary": [
+        "CATL이 20Ah급 전고체 배터리 셀 개발에 성공하며 새로운 마일스톤을 달성했습니다.",
+        "해당 전고체 셀은 500Wh/kg 에너지 밀도 달성을 목표로 하고 있습니다.",
+        "CATL은 2027년부터 소규모 양산을 시작한다는 계획을 제시했습니다."
+      ],
+      "whyItMatters": "전고체 배터리의 고에너지 밀도와 상용화 일정이 전기차 성능·원가·경쟁 구도에 중대한 영향을 줄 수 있기 때문입니다.",
+      "topics": [
+        "Roadmap",
+        "Manufacturing",
+        "Competition",
+        "Investment"
+      ],
+      "status": "ONGOING",
+      "hash": "9bd2b20111b2735ef5b2ec3c8db50556f89871fbe42463b0e793d562d88d5805",
+      "url": "https://electrek.co/2026/10/28/catl-pushes-ahead-20-ah-solid-state-ev-batteries-500-wh-kg/"
+    },
+    {
+      "id": "ev_0002",
+      "tab": "ev",
+      "publishedAt": "2026-10-29T09:41:17+09:00",
+      "source": "Electrek",
+      "title": "BYD now has 1.02 million workers, more than Toyota, GM, Ford, and Tesla combined",
+      "summary": [
+        "BYD는 현재 102만 명 이상의 직원을 보유해 토요타·GM·포드·테슬라 인력을 모두 합친 것보다 많습니다.",
+        "2025년 말 약 86만 9,600명에서 10개월 만에 약 15만 명을 추가 고용했습니다.",
+        "이는 차량 판매 감소 국면에서도 대규모 인력 확충을 단행한 이례적 움직임입니다."
+      ],
+      "whyItMatters": "판매 둔화에도 불구하고 BYD가 공격적인 인력 확대를 통해 생산·내재화·신사업 확장을 준비하는 신호로, 향후 경쟁 구도와 수익성에 중대한 영향을 줄 수 있기 때문입니다.",
+      "topics": [
+        "Manufacturing",
+        "Competition",
+        "Investment"
+      ],
+      "status": "ONGOING",
+      "hash": "42ef63bd12f112c82f7ffe7f5656991b9008633f8a0ed027f3becd0bb5a21c4b",
+      "url": "https://electrek.co/2026/10/28/byd-1-million-employees-more-than-toyota-gm-ford-tesla/"
+    }
+  ]
+}
