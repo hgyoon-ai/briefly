@@ -1,169 +1,34 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-29",
   "kpis": {
     "clusters": 20,
     "sources": 2,
-    "new": 17
+    "new": 20
   },
   "clusters": [
     {
-      "id": "5ff1c602f4df03ba851414bdf5f619fafa4b24fc",
-      "name": "Anthropic S-1",
+      "id": "193f05609973ea28ac4d20e72f5f04b89f46f152",
+      "name": "Evidence of a spying operation by ICE against left-wing social movements",
       "section": "discussions",
       "status": "NEW",
-      "score": 2587.8,
-      "oneLiner": "Anthropic S-1 문서를 가리키는 SEC 아카이브 링크",
+      "score": 1752.6,
+      "oneLiner": "ICE의 좌파 사회운동에 대한 감시 작전 증거를 제시한다",
       "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "1459p · 1427c"
+          "value": "1099p · 911c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50242939"
+          "url": "https://news.ycombinator.com/item?id=50272749"
         },
         {
           "label": "Source",
-          "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "da40e88ec4b070fad85589233f312e4575f047d3",
-      "name": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 1216.8,
-      "oneLiner": "Microsoft의 대규모 희망퇴직 제안 소식을 전하는 기사",
-      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "736p · 646c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50245524"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "3d2845450ab4a691c609923af1f253057b04b362",
-      "name": "GPT-6.1 Terra",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 661.8,
-      "oneLiner": "GPT-6.1 Terra를 소개하는 공식 제품 페이지",
-      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "487p · 308c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50248124"
-        },
-        {
-          "label": "Source",
-          "url": "https://openai.com/index/introducing-gpt-6-1-terra/"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "05f1a12e7b2c0d478ddfa01701a8706ad612c769",
-      "name": "IBM CEO says open weight models are now good and cheap on-prem",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 637.2,
-      "oneLiner": "IBM CEO 발언을 전하며 오픈 웨이트 모델의 온프레미스 가능성을 다룬 기사",
-      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "414p · 324c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50238088"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "1e14698f3fd3f70513dfa6bc2b4a6e3dd807805e",
-      "name": "Switzerland. Block by block. At 1:1 scale",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 532.2,
-      "oneLiner": "스위스를 블록 단위로 1대1 축척으로 재현한 웹 프로젝트",
-      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "459p · 214c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50240922"
-        },
-        {
-          "label": "Source",
-          "url": "https://blocks.manifold3d.ch/"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "ca5983a3a86252b38774ff8a5ffbb42dfed5f607",
-      "name": "Sebastian Raschka's from-scratch video course on building reasoning models",
-      "section": "trending",
-      "status": "NEW",
-      "score": 418.2,
-      "oneLiner": "Sebastian Raschka가 제공하는 추론 모델 제작의 기초 비디오 강좌",
-      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "537p · 80c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50245138"
-        },
-        {
-          "label": "Source",
-          "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models"
+          "url": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/"
         }
       ],
       "tags": [
@@ -171,315 +36,414 @@
       ]
     },
     {
-      "id": "7c2afb0af360ad98723280658813fc7edb948a28",
-      "name": "Announcing three new discoveries in mathematics, computer science, and physics",
+      "id": "e1d7e8ce67259eaac9c9be818355744351e97731",
+      "name": "MacBook Pro with PROLED XDR Display and Touch",
       "section": "discussions",
       "status": "NEW",
-      "score": 388.2,
-      "oneLiner": "학계와 협력해 수학·컴퓨터과학·물리학의 발견을 소개하는 글",
+      "score": 1320.6,
+      "oneLiner": "PROLED XDR 디스플레이와 터치를 갖춘 MacBook Pro를 소개한다",
       "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "365p · 141c"
+          "value": "499p · 851c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50251344"
+          "url": "https://news.ycombinator.com/item?id=50276940"
         },
         {
           "label": "Source",
-          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/"
+          "url": "https://www.apple.com/macbook-pro/proled-xdr-display/"
         }
       ],
       "tags": []
     },
     {
-      "id": "c6bb59afff75a95e76270766e0a215de878ddd98",
-      "name": "Oldest GUI application that still runs on Windows 11",
+      "id": "49c3564dc0e8d71242f95a9edd4116b50e15d24e",
+      "name": "Gemini 4 Carbon",
       "section": "discussions",
       "status": "NEW",
-      "score": 369.6,
-      "oneLiner": "Windows 11에서 여전히 실행되는 오래된 GUI 응용 프로그램을 다룬 글",
-      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
+      "score": 1276.8,
+      "oneLiner": "Gemini 4 Carbon 모델을 소개한다",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 블로그 해석과 후기가 빠르게 붙는 흐름입니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "266p · 175c"
+          "value": "804p · 662c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50248055"
+          "url": "https://news.ycombinator.com/item?id=50276792"
         },
         {
           "label": "Source",
-          "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/"
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
         }
       ],
       "tags": []
     },
     {
-      "id": "f6a4ddd4347a1ee4abb561cb96eebca7b7cf1c6d",
-      "name": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real",
+      "id": "99f1879f66c1addaedc23e7870dfae62c163bbf0",
+      "name": "Apple's git still trusts the compromised eMudhra certificates",
       "section": "discussions",
       "status": "NEW",
-      "score": 364.2,
-      "oneLiner": "유출된 음성에서 Flock CEO의 발언을 보도한 기사",
-      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 운영/비용 관점 해석이 갈리며 논의가 이어지고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "281p · 163c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50248005"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/"
-        }
-      ],
-      "tags": [
-        "infra"
-      ]
-    },
-    {
-      "id": "3fc8a8001c673561f14546f2e9e520ecf8d14b0f",
-      "name": "Websites Should Be Printable",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 363.0,
-      "oneLiner": "웹사이트를 인쇄 가능한 형태로 만들어야 한다는 주장을 담은 글",
-      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "261p · 172c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50241664"
-        },
-        {
-          "label": "Source",
-          "url": "https://brennenputh.me/blog/printable-websites/"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "f1fafe17c0b8fec5b912bde3e4a89314f74db07b",
-      "name": "Meta Employees Denounce Interference in Brazilian Elections",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 346.2,
-      "oneLiner": "Meta 직원들이 브라질 선거 개입을 규탄한 내용을 다룬 기사",
-      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "303p · 137c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50248061"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.panamericandispatch.org/p/meta-employees-denounce-interference"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "482d471a8712f0c1cef4a36720c131acc82273df",
-      "name": "Behind the scenes at the NeXT Computer office",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 328.8,
-      "oneLiner": "NeXT Computer 사무실의 내부를 보여주는 전시 자료 모음",
-      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "246p · 151c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50238763"
-        },
-        {
-          "label": "Source",
-          "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "6aedd5cce2823f285c59959d443be1ef835cf010",
-      "name": "CSS-Tricks has a new owner",
-      "section": "trending",
-      "status": "NEW",
-      "score": 328.2,
-      "oneLiner": "CSS-Tricks의 소유권 변경 소식을 알리는 공지",
+      "score": 1075.8,
+      "oneLiner": "Apple의 git이 손상된 eMudhra 인증서를 여전히 신뢰한다",
       "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "371p · 88c"
+          "value": "1037p · 378c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50245831"
+          "url": "https://news.ycombinator.com/item?id=50271640"
         },
         {
           "label": "Source",
-          "url": "https://css-tricks.com/css-tricks-has-a-new-owner/"
+          "url": "https://emudhra.we-have-a-problem.com/apple.html"
         }
       ],
       "tags": []
     },
     {
-      "id": "1e1a1a629c93f7d99d741300998c57c7b39072e0",
-      "name": "Show HN: TitleArt – Make text like it's 1997",
-      "section": "trending",
+      "id": "90b736769d3fb078cf69063b02dd90f12b9746bc",
+      "name": "Kentucky man becomes the first humanist granted religious exemption from AI",
+      "section": "discussions",
       "status": "NEW",
-      "score": 322.8,
-      "oneLiner": "1997 스타일의 텍스트를 만들어 주는 TitleArt 도구 소개",
+      "score": 825.6,
+      "oneLiner": "켄터키 남성이 AI 사용에 대한 인문주의자 종교 면제를 처음으로 받았다",
       "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "388p · 75c"
+          "value": "430p · 473c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50238708"
+          "url": "https://news.ycombinator.com/item?id=50273396"
         },
         {
           "label": "Source",
-          "url": "https://titleart.dvy.io/"
+          "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/"
         }
       ],
       "tags": []
     },
     {
-      "id": "9e35da896f2c6607bc15314c33ac03be58abc4fa",
-      "name": "Concerning behavior from a popular open-weight AI model",
-      "section": "trending",
+      "id": "c8a64a276ce8aab4f384545824360e78a6fb7bba",
+      "name": "Why is this fingerprinting script creating bioweapons?",
+      "section": "discussions",
       "status": "NEW",
-      "score": 280.8,
-      "oneLiner": "인기 오픈 웨이트 AI 모델의 우려스러운 동작을 다룬 글",
+      "score": 730.8,
+      "oneLiner": "지문 수집 스크립트가 생물무기 생성 의혹을 제기한다",
       "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "252p · 108c"
+          "value": "848p · 185c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50246658"
+          "url": "https://news.ycombinator.com/item?id=50276998"
         },
         {
           "label": "Source",
-          "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model"
+          "url": "https://nullpt.rs/fingerprinting-bioweapons"
         }
       ],
       "tags": []
     },
     {
-      "id": "732ab642d06f4c16ccfa0dcced3a0fb6df3eb40b",
-      "name": "pengchujin/aerial-tv",
-      "section": "releases",
-      "status": "ONGOING",
-      "score": 273.88,
-      "oneLiner": "tvOS 스타일의 광고 없는 오픈소스 Android TV 런처 프로젝트",
-      "whyNow": "릴리즈 직후라 적용/마이그레이션 경험이 모이고 있습니다.",
+      "id": "ec0e93c11f37942d7b972942ba5da8037d31bc9d",
+      "name": "Wealth Inequality in America drawn to scale",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 679.8,
+      "oneLiner": "미국의 부의 불평등을 규모에 맞게 시각화한다",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다.",
       "evidence": [
         {
-          "source": "GitHub",
-          "metric": "stars",
-          "value": "6,090"
-        },
-        {
-          "source": "GitHub",
-          "metric": "forks",
-          "value": "514"
-        },
-        {
-          "source": "GitHub",
-          "metric": "updated",
-          "value": "2026-10-27"
-        },
-        {
-          "source": "GitHub",
-          "metric": "release",
-          "value": "v1.57"
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "327p · 403c"
         }
       ],
       "links": [
         {
-          "label": "GitHub",
-          "url": "https://github.com/pengchujin/aerial-tv"
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50270764"
         },
         {
-          "label": "Release",
-          "url": "https://github.com/pengchujin/aerial-tv/releases/tag/v1.57"
+          "label": "Source",
+          "url": "https://dreamagainusa.org/"
         }
       ],
       "tags": []
+    },
+    {
+      "id": "25cc37c85e9c6d03884e13c04866d0ee0a464d25",
+      "name": "Git for the US Code",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 564.6,
+      "oneLiner": "미국 법전을 위한 Git 기반 관리 방안을 제시한다",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "427p · 257c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50268380"
+        },
+        {
+          "label": "Source",
+          "url": "https://lexifina.com/blog/git-for-the-us-code"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "ccb27211518b8a416f9085537db0a93af8a1b471",
+      "name": "Emacs Turns 50",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 457.8,
+      "oneLiner": "에맥스의 50주년을 다룬다",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "413p · 175c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50273171"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "12cd49362a43505f2a75f38e0849f8a8fb9551d2",
+      "name": "CNC Stone Carving",
+      "section": "trending",
+      "status": "NEW",
+      "score": 381.6,
+      "oneLiner": "CNC 기술을 활용한 석재 조각을 소개한다",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "400p · 118c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50274409"
+        },
+        {
+          "label": "Source",
+          "url": "https://carmelitegothic.com/cnc-stone-carving/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "67d7fef168f6b24734184491e6620de9b7410690",
+      "name": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 330.6,
+      "oneLiner": "유출로 41,000명의 국토안보 직원과 잠복 ICE 요원이 드러났다",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "277p · 137c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50280864"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/"
+        }
+      ],
+      "tags": [
+        "agent tooling",
+        "security"
+      ]
+    },
+    {
+      "id": "8798bf6b4d2b5c828ed531a186164f9ecfad1d89",
+      "name": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 274.2,
+      "oneLiner": "AI 에이전트를 전문 세무 과제 50건으로 평가한 결과를 다룬다",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "203p · 127c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50275626"
+        },
+        {
+          "label": "Source",
+          "url": "https://surgehq.ai/blog/dayjob-tax"
+        }
+      ],
+      "tags": [
+        "agent tooling",
+        "eval"
+      ]
+    },
+    {
+      "id": "79dd6cd7b2d6b010033ee4bfae1a8e40faaf512f",
+      "name": "Archive.today links going forward",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 268.8,
+      "oneLiner": "앞으로 Archive.today 링크 사용에 관한 논의를 전한다",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "194p · 127c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50275373"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "709e279b1fdb9a5c86a5fe1d8af406c648461c10",
+      "name": "US agency approves Amazon Leo’s $11.5B acquisition of Globalstar",
+      "section": "trending",
+      "status": "NEW",
+      "score": 255.0,
+      "oneLiner": "미국 기관이 Amazon Leo의 Globalstar 11.5B 달러 인수를 승인했다",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "225p · 100c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50272145"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "5748ed059b10a44798616220b52525caf2a43597",
+      "name": "Meta censored the No Kings Instagram account during a nationwide campaign",
+      "section": "trending",
+      "status": "NEW",
+      "score": 235.8,
+      "oneLiner": "Meta가 전국 캠페인 중 No Kings 인스타그램 계정을 검열했다",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 개발자 경험 개선 관점에서 관심이 커지고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "255p · 69c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50275887"
+        },
+        {
+          "label": "Source",
+          "url": "https://paulfwalsh.substack.com/p/meta-censored-the-no-kings-instagram"
+        }
+      ],
+      "tags": [
+        "editor"
+      ]
     },
     {
       "id": "bb05af3d7a9314f4a3124c894f26cba7e149e14e",
       "name": "JustAResearcher/gpu-unlock-ada",
       "section": "releases",
-      "status": "ONGOING",
-      "score": 183.48,
-      "oneLiner": "RTX 계열 GPU의 텐서 잠금 해제 소스 코드를 공개한 저장소",
+      "status": "NEW",
+      "score": 208.08,
+      "oneLiner": "RTX 4090과 RTX 4070 Ti SUPER용 GPU 텐서 언락 소스를 제공한다",
       "whyNow": "최근 릴리즈가 나오며 실사용 공유가 빠르게 늘고 있습니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "3,836"
+          "value": "4,419"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "502"
+          "value": "566"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-10-27"
+          "value": "2026-10-29"
         },
         {
           "source": "GitHub",
@@ -500,75 +464,33 @@
       "tags": []
     },
     {
-      "id": "a96057cabfde292c151ebec70e1498e630e9e047",
-      "name": "xevrion/hatchzip",
-      "section": "releases",
-      "status": "ONGOING",
-      "score": 103.56,
-      "oneLiner": "여러 압축 형식을 제자리에서 추출하는 오픈소스 압축 해제기",
-      "whyNow": "최근 릴리즈가 나오며 실사용 공유가 빠르게 늘고 있습니다.",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "metric": "stars",
-          "value": "2,058"
-        },
-        {
-          "source": "GitHub",
-          "metric": "forks",
-          "value": "62"
-        },
-        {
-          "source": "GitHub",
-          "metric": "updated",
-          "value": "2026-10-27"
-        },
-        {
-          "source": "GitHub",
-          "metric": "release",
-          "value": "v0.1.5"
-        }
-      ],
-      "links": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/xevrion/hatchzip"
-        },
-        {
-          "label": "Release",
-          "url": "https://github.com/xevrion/hatchzip/releases/tag/v0.1.5"
-        }
-      ],
-      "tags": []
-    },
-    {
       "id": "ef4d9c9d8b2ab54b039bcb29d5f99dc3d727073f",
       "name": "rddmwmddr/android-ad-cleaner",
       "section": "releases",
       "status": "NEW",
-      "score": 99.36,
-      "oneLiner": "중국 시장용 안드로이드 시스템의 광고와 추천을 차단하는 비루트 도구",
-      "whyNow": "업데이트가 트리거가 되어 레퍼런스가 모이는 구간입니다.",
+      "score": 201.06,
+      "oneLiner": "안드로이드 시스템의 광고와 추천을 비루트로 제거하고 복원 가능한 도구",
+      "whyNow": "새 릴리즈 영향으로 관심이 재점화되고 있습니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "1,905"
+          "value": "4,331"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "158"
+          "value": "391"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-10-27"
+          "value": "2026-10-29"
         },
         {
           "source": "GitHub",
           "metric": "release",
-          "value": "v0.2.3"
+          "value": "v0.2.6"
         }
       ],
       "links": [
@@ -578,43 +500,120 @@
         },
         {
           "label": "Release",
-          "url": "https://github.com/rddmwmddr/android-ad-cleaner/releases/tag/v0.2.3"
+          "url": "https://github.com/rddmwmddr/android-ad-cleaner/releases/tag/v0.2.6"
         }
       ],
       "tags": []
     },
     {
-      "id": "f45e3ccc9e3a762a876e99d072e816c3adb4eae5",
-      "name": "Jakeschincariol/day-trader-skill",
+      "id": "b201fdf1624eac5698ae3c9cb659322410d2aaab",
+      "name": "unclebob/ub-mode",
       "section": "trending",
       "status": "NEW",
-      "score": 91.08,
-      "oneLiner": "데이 트레이딩을 지원하는 11개의 Claude 스킬 모음 저장소",
-      "whyNow": "스타 증가와 업데이트 흐름이 동시에 관측되는 상승 구간입니다.",
+      "score": 155.88,
+      "oneLiner": "오픈 소스 개발 도구/프로젝트입니다.",
+      "whyNow": "개발 신호가 이어지면서 사용 사례가 늘고 있습니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "2,063"
+          "value": "3,795"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "428"
+          "value": "204"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-10-27"
+          "value": "2026-10-29"
         }
       ],
       "links": [
         {
           "label": "GitHub",
-          "url": "https://github.com/Jakeschincariol/day-trader-skill"
+          "url": "https://github.com/unclebob/ub-mode"
         }
       ],
       "tags": []
+    },
+    {
+      "id": "22c48253e510b4efc562052f2001f821680e873a",
+      "name": "interplains/Zero-Breach-Toolkit",
+      "section": "releases",
+      "status": "NEW",
+      "score": 137.92,
+      "oneLiner": "무료 오픈소스로 오프라인에서 알려진 스파이웨어 흔적을 검사한다",
+      "whyNow": "릴리즈 직후라 적용/마이그레이션 경험이 모이고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,797"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "302"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-29"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v0.1.10"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/interplains/Zero-Breach-Toolkit"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/interplains/Zero-Breach-Toolkit/releases/tag/v0.1.10"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "cbb16ea8bc660c971e784bdfe6892beea610a744",
+      "name": "designfuchen/word-atlas",
+      "section": "trending",
+      "status": "NEW",
+      "score": 135.82,
+      "oneLiner": "7,298개 단어와 오디오를 포함한 IELTS 어휘 오픈소스 앱과 데이터셋",
+      "whyNow": "업데이트가 유지되며 관심이 꾸준히 쌓이는 흐름입니다. 데이터 품질/거버넌스 관점 논의가 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "3,056"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "679"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-10-29"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/designfuchen/word-atlas"
+        }
+      ],
+      "tags": [
+        "data"
+      ]
     }
   ]
 }
