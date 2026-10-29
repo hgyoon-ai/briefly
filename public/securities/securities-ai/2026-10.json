@@ -2,6 +2,169 @@
   "month": "2026-10",
   "events": [
     {
+      "id": "news:KB증권:https://www.hankyung.com/article/2026102920656",
+      "date": "2026-10-29",
+      "company": "KB증권",
+      "title": "\"삼성전기, AI발 초호황 지속…4분기도 '깜짝 실적' 전망\"-KB",
+      "oneLiner": "KB증권은 삼성전기가 AI 수요에 힘입어 초호황을 이어가며 4분기에도 깜짝 실적이 예상된다고 분석했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "\"삼성전기, AI발 초호황 지속…4분기도 '깜짝 실적' 전망\"-KB",
+          "url": "https://www.hankyung.com/article/2026102920656"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-10-29"
+    },
+    {
+      "id": "news:하나증권:https://www.mk.co.kr/news/stock/12189470",
+      "date": "2026-10-29",
+      "company": "하나증권",
+      "title": "최대 실적 낸 삼성전기, 목표가는 300만→200만원 하락한 이유가",
+      "oneLiner": "하나증권은 비교기업 밸류에이션 하락 등을 반영해 삼성전기의 목표주가를 300만→200만원으로 하향 조정했으나 AI 데이터센터용 부품 수요는 주목할 만하다고 설명했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "최대 실적 낸 삼성전기, 목표가는 300만→200만원 하락한 이유가",
+          "url": "https://www.mk.co.kr/news/stock/12189470"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-10-29"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202610290817050969",
+      "date": "2026-10-29",
+      "company": "한국투자증권",
+      "title": "LG전자, 3Q 컨센 하회했지만 AI 냉각 사업 성장성 주목해야 할 때",
+      "oneLiner": "한국투자증권은 LG전자의 3분기 실적이 컨센서스에 미치지 못했지만 AI 데이터센터용 냉각 솔루션 사업의 성장성을 주목할 시점이라고 평가했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "LG전자, 3Q 컨센 하회했지만 AI 냉각 사업 성장성 주목해야 할 때",
+          "url": "https://www.fnnews.com/news/202610290817050969"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-10-29"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202610290844227176",
+      "date": "2026-10-29",
+      "company": "KB증권",
+      "title": "\"130만원→340만원 간다\"…실적만 믿고 사라? '올 매수추천' 받은 '이 종목' [주주클럽]",
+      "oneLiner": "여러 증권사가 삼성전기에 대해 매수의견을 유지하며 AI 서버용 부품 수요를 근거로 높은 목표주가를 제시하고 있다고 보도했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"130만원→340만원 간다\"…실적만 믿고 사라? '올 매수추천' 받은 '이 종목' [주주클럽]",
+          "url": "https://www.fnnews.com/news/202610290844227176"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-10-29"
+    },
+    {
+      "id": "news:KB증권:https://www.mk.co.kr/news/stock/12188393",
+      "date": "2026-10-28",
+      "company": "KB증권",
+      "title": "KB증권, SK텔레콤과 MOU…‘모두의 AI’ 금융서비스 협력 추진",
+      "oneLiner": "KB증권이 SK텔레콤과 MOU를 맺고 '모두의 AI' 플랫폼과 금융 AI 기술 연계를 추진하며 금융정보 제공과 맞춤형 자산관리 협력을 검토한다.",
+      "type": "제휴",
+      "areas": [
+        "상담",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "KB증권, SK텔레콤과 MOU…‘모두의 AI’ 금융서비스 협력 추진",
+          "url": "https://www.mk.co.kr/news/stock/12188393"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-10-29"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202610281715037764",
+      "date": "2026-10-28",
+      "company": "KB증권",
+      "title": "KB증권, SKT '모두의AI' 컨소시엄 합류",
+      "oneLiner": "KB증권이 SKT의 '모두의 AI' 컨소시엄에 합류해 금융 특화 AI 기능 설계·고도화와 플랫폼 연계를 협력하기로 했다.",
+      "type": "제휴",
+      "areas": [
+        "상담",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "KB증권, SKT '모두의AI' 컨소시엄 합류",
+          "url": "https://www.fnnews.com/news/202610281715037764"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-10-29"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202610281816137089",
+      "date": "2026-10-28",
+      "company": "미래에셋증권",
+      "title": "금융권 겨냥한 AI 해킹… 증권사·가상자산 거래소도 뚫렸다",
+      "oneLiner": "AI를 활용한 것으로 보이는 해킹 공격으로 증권사·자산운용사·가상자산 거래소에서 정보유출과 시스템 침해가 보고되며 금융권 전반의 보안 리스크가 부각됐다.",
+      "type": "시스템",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "금융권 겨냥한 AI 해킹… 증권사·가상자산 거래소도 뚫렸다",
+          "url": "https://www.fnnews.com/news/202610281816137089"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-10-29"
+    },
+    {
       "id": "news:NH투자증권:https://www.fnnews.com/news/202610260819301979",
       "date": "2026-10-26",
       "company": "NH투자증권",
