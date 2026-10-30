@@ -2,6 +2,121 @@
   "month": "2026-10",
   "events": [
     {
+      "id": "8e14bff241337150e374165c4f4909cba34f378c",
+      "date": "2026-10-30",
+      "company": "키움증권",
+      "title": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "oneLiner": "키움증권이 연결재무제표 기준 영업(잠정)실적을 공시한 재무정보 공개 건.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030800044"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-10-30"
+    },
+    {
+      "id": "news:하나증권:https://www.mk.co.kr/news/stock/12191163",
+      "date": "2026-10-30",
+      "company": "하나증권",
+      "title": "하나증권, 현대차 목표가 48만원으로 하향…“4분기 판매 회복 예상”",
+      "oneLiner": "하나증권 리서치가 현대차 목표주가를 51만원에서 48만원으로 하향 조정한 리서치 발표 내용.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "하나증권, 현대차 목표가 48만원으로 하향…“4분기 판매 회복 예상”",
+          "url": "https://www.mk.co.kr/news/stock/12191163"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-10-30"
+    },
+    {
+      "id": "news:KB증권:https://www.mk.co.kr/news/stock/12190841",
+      "date": "2026-10-30",
+      "company": "KB증권",
+      "title": "KB증권, 3분기 순이익 2730억…전년 동기比 70% 증가",
+      "oneLiner": "KB증권의 3분기 실적(당기순이익·영업이익 등) 발표·보도로서 회사의 재무·영업 변화 관련 공시성 뉴스.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "KB증권, 3분기 순이익 2730억…전년 동기比 70% 증가",
+          "url": "https://www.mk.co.kr/news/stock/12190841"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-10-30"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202610300820249001",
+      "date": "2026-10-30",
+      "company": "한국투자증권",
+      "title": "실적 90% 늘었는데 목표가는 18.5%↓…두산에너빌리티 왜",
+      "oneLiner": "신한투자증권이 두산에너빌리티의 목표주가를 하향 조정한 리서치 내용 보도(목표가·밸류에이션 조정 설명 포함).",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "실적 90% 늘었는데 목표가는 18.5%↓…두산에너빌리티 왜",
+          "url": "https://www.fnnews.com/news/202610300820249001"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-10-30"
+    },
+    {
+      "id": "news:키움증권:https://www.fnnews.com/news/202610300917156829",
+      "date": "2026-10-30",
+      "company": "키움증권",
+      "title": "키움증권, 3Q 영업이익 4536억원…전년比 26.1% 증가",
+      "oneLiner": "키움증권의 3·4분기 별도 영업이익 및 당기순이익 등 실적 발표 관련 보도.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "키움증권, 3Q 영업이익 4536억원…전년比 26.1% 증가",
+          "url": "https://www.fnnews.com/news/202610300917156829"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-10-30"
+    },
+    {
       "id": "news:미래에셋증권:https://www.mk.co.kr/news/world/12189447",
       "date": "2026-10-29",
       "company": "미래에셋증권",
@@ -96,6 +211,75 @@
       "tags": [],
       "confidence": 0.9,
       "updatedAt": "2026-10-29"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202610291119254435",
+      "date": "2026-10-29",
+      "company": "미래에셋증권",
+      "title": "미래에셋증권, 日 산코증권 인수 계약…일본 사업에 1006억원 투입",
+      "oneLiner": "미래에셋증권이 일본 산코증권 지분 전량 인수를 위한 주식매매계약(SPA)을 체결하기로 한 전략적 인수·해외사업 확장 공시.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋증권, 日 산코증권 인수 계약…일본 사업에 1006억원 투입",
+          "url": "https://www.fnnews.com/news/202610291119254435"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-10-30"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202610291356077929",
+      "date": "2026-10-29",
+      "company": "한국투자증권",
+      "title": "글로벌 우량주 30~40개 압축투자…한투운용, 모건스탠리 펀드 출시",
+      "oneLiner": "한국투자신탁운용이 모건스탠리 펀드를 국내 출시·한국투자증권에서 단독 판매를 시작한 상품 출시 공지.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "글로벌 우량주 30~40개 압축투자…한투운용, 모건스탠리 펀드 출시",
+          "url": "https://www.fnnews.com/news/202610291356077929"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-10-30"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202610291826537665",
+      "date": "2026-10-29",
+      "company": "미래에셋증권",
+      "title": "日 산코證 품은 미래에셋… 리테일 사업으로 영토 개척",
+      "oneLiner": "미래에셋증권의 일본 산코증권 인수 관련 추가 보도·해설로, 인수 금액 및 향후 리테일 확대 계획을 설명.",
+      "type": "제휴",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "日 산코證 품은 미래에셋… 리테일 사업으로 영토 개척",
+          "url": "https://www.fnnews.com/news/202610291826537665"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-10-30"
     },
     {
       "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12188720",
@@ -234,7 +418,7 @@
       ],
       "tags": [],
       "confidence": 0.8,
-      "updatedAt": "2026-10-29"
+      "updatedAt": "2026-10-30"
     },
     {
       "id": "news:한국투자증권:https://www.fnnews.com/news/202610260713133001",

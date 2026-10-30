@@ -2,6 +2,29 @@
   "month": "2026-10",
   "events": [
     {
+      "id": "news:메리츠증권:https://www.fnnews.com/news/202610300846536154",
+      "date": "2026-10-30",
+      "company": "메리츠증권",
+      "title": "아모레퍼시픽, 국내 수익성 개선에 3분기 영업익 25%↑…목표가 18만원",
+      "oneLiner": "메리츠증권 리서치가 아모레퍼시픽에 대해 '매수' 의견과 목표주가 18만원을 유지했다. 국내 사업의 수익성 개선과 포트폴리오 다각화를 근거로 제시했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "아모레퍼시픽, 국내 수익성 개선에 3분기 영업익 25%↑…목표가 18만원",
+          "url": "https://www.fnnews.com/news/202610300846536154"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-10-30"
+    },
+    {
       "id": "news:KB증권:https://www.hankyung.com/article/2026102920656",
       "date": "2026-10-29",
       "company": "KB증권",
@@ -92,6 +115,100 @@
       "tags": [],
       "confidence": 0.85,
       "updatedAt": "2026-10-29"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12190030",
+      "date": "2026-10-29",
+      "company": "미래에셋증권",
+      "title": "몸값 ‘2680조원’인데 韓증권사들 “참여 안 하겠습니다”…앤트로픽IPO 불참 왜",
+      "oneLiner": "韓 증권사들이 앤트로픽(생성형 AI) IPO 참여를 기피하며 인수·참여를 보류하고 있다. 고평가와 과거 배정 문제 등으로 리스크를 우려한 결정이다.",
+      "type": "기타",
+      "areas": [
+        "리스크",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "몸값 ‘2680조원’인데 韓증권사들 “참여 안 하겠습니다”…앤트로픽IPO 불참 왜",
+          "url": "https://www.mk.co.kr/news/stock/12190030"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-10-30"
+    },
+    {
+      "id": "news:토스증권:https://www.fnnews.com/news/202610291417419103",
+      "date": "2026-10-29",
+      "company": "토스증권",
+      "title": "토스증권 \"AI가 바꾼 메모리 시장…반도체 사이클 진폭 줄어들 것\"",
+      "oneLiner": "토스증권 리서치센터가 AI 산업 성장에 따른 메모리 시장 변화 보고서를 발간했다. AI 수요 증가로 메모리 비중이 확대되고 수요·투자 구조가 변화할 것이라는 분석이다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "토스증권 \"AI가 바꾼 메모리 시장…반도체 사이클 진폭 줄어들 것\"",
+          "url": "https://www.fnnews.com/news/202610291417419103"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-10-30"
+    },
+    {
+      "id": "news:삼성증권:https://www.fnnews.com/news/202610291413532454",
+      "date": "2026-10-29",
+      "company": "삼성증권",
+      "title": "삼성금융, AI 핀테크 스타트업 4곳 선정…사업화 협력 확대",
+      "oneLiner": "삼성금융이 AI·핀테크 스타트업 4곳을 선정해 사업화 협력을 확대하기로 했다. 선정 기업들과 교육콘텐츠 제작·보험 심사·투자정보 제공 등 실무 협업을 검토한다.",
+      "type": "제휴",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "삼성금융, AI 핀테크 스타트업 4곳 선정…사업화 협력 확대",
+          "url": "https://www.fnnews.com/news/202610291413532454"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-10-30"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202610291553508648",
+      "date": "2026-10-29",
+      "company": "KB증권",
+      "title": "KB증권, 3Q 영업이익 1조4347억원…WM 올해 누적 1.5조",
+      "oneLiner": "KB증권이 3·4분기 누적 영업이익과 WM 부문 실적을 발표하며 AI 기반 투자정보 서비스 확대를 디지털 고객 기반 성장 요인으로 언급했다. WM은 상품 공급과 위기대응 체계로 실적을 방어했다.",
+      "type": "기타",
+      "areas": [
+        "WM",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "KB증권, 3Q 영업이익 1조4347억원…WM 올해 누적 1.5조",
+          "url": "https://www.fnnews.com/news/202610291553508648"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.6,
+      "updatedAt": "2026-10-30"
     },
     {
       "id": "news:KB증권:https://www.mk.co.kr/news/stock/12188393",
