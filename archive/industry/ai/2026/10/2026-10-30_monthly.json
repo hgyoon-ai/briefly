@@ -1,0 +1,148 @@
+{
+  "range": {
+    "from": "2026-10-01",
+    "to": "2026-10-30"
+  },
+  "kpis": {
+    "collected": 74,
+    "deduped": 74,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "Tooling": 28,
+      "Product": 24,
+      "Models": 20,
+      "Research": 15,
+      "Infra": 14,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/01-10/07)",
+      "topicCounts": {
+        "Tooling": 13,
+        "Product": 11,
+        "Models": 6,
+        "Research": 4,
+        "Infra": 5
+      }
+    },
+    {
+      "week": "Week 2 (10/08-10/14)",
+      "topicCounts": {
+        "Tooling": 10,
+        "Product": 11,
+        "Models": 9,
+        "Research": 5,
+        "Infra": 4
+      }
+    },
+    {
+      "week": "Week 3 (10/15-10/21)",
+      "topicCounts": {
+        "Tooling": 12,
+        "Product": 10,
+        "Models": 8,
+        "Research": 8,
+        "Infra": 5
+      }
+    },
+    {
+      "week": "Week 4 (10/22-10/28)",
+      "topicCounts": {
+        "Tooling": 7,
+        "Product": 4,
+        "Models": 3,
+        "Research": 2,
+        "Infra": 6
+      }
+    },
+    {
+      "week": "Week 5 (10/29-10/30)",
+      "topicCounts": {
+        "Tooling": 2,
+        "Product": 2,
+        "Models": 3,
+        "Research": 4,
+        "Infra": 3
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "ai-1",
+      "status": "NEW",
+      "title": "유익한 AI 개발을 위한 OpenAI 업데이트 모델 명세",
+      "summary": "OpenAI가 최신 모델 명세를 공개하며 건전한 판단, 인간의 주체성 존중, 인간 의도에 대한 충실성 등 다섯 가지 핵심 가치를 구체화했다. 이는 향후 모델 설계·평가·정책 수립의 기준으로 활용될 것으로 보이며, 실사용 환경에서의 책임 있는 AI 거버넌스를 강화하는 방향으로 주간·월간 논의가 이어지는 핵심 이슈다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "An updated Model Spec for more capable and beneficial AI",
+          "url": "https://openai.com/index/updated-model-spec"
+        }
+      ]
+    },
+    {
+      "id": "ai-2",
+      "status": "ONGOING",
+      "title": "프런티어 모델 정렬 모니터링과 안전성 강화",
+      "summary": "OpenAI가 계층화된 모니터링 체계로 프런티어 모델의 오작동·탈선 행동을 조기 탐지하는 접근법을 공유했다. 에이전트의 무단 행동을 실시간에 가깝게 포착해 대응자가 개입할 수 있도록 설계되었으며, 고성능 모델 배포 시 필수적인 안전 관리 레이어로서 향후 지속적인 개선이 예상된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "How we detect frontier model misalignment",
+          "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
+        }
+      ]
+    },
+    {
+      "id": "ai-3",
+      "status": "NEW",
+      "title": "ML 가속을 위한 NVIDIA 텐서 코어·TensorRT 성능 최적화",
+      "summary": "NVIDIA는 텐서 코어에 최적화된 머신러닝 기반 상호원자 퍼텐셜(MLIP) 기법과, TensorRT 11.1 Global Performance Tuner를 통한 정확도 인지형 자동 성능 튜닝 전략을 제시했다. 행렬 연산 재구성과 다중 빌드 경로 튜닝으로 시뮬레이션·추론 처리량을 크게 높이는 등, 주간·월간 단위로 계속되는 AI 인프라 성능 향상 흐름을 보여준다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Unlocking Tensor Core Performance for Machine Learning Interatomic Potentials",
+          "url": "https://developer.nvidia.com/blog/unlocking-tensor-core-performance-for-machine-learning-interatomic-potentials/"
+        },
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2",
+          "url": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-2/"
+        }
+      ]
+    },
+    {
+      "id": "ai-4",
+      "status": "NEW",
+      "title": "모델을 소프트웨어처럼 운영하는 Granite Switch 4.1.1",
+      "summary": "Hugging Face의 Granite Switch 4.1.1은 모델 버전 관리, 롤아웃·롤백 자동화 등 MLOps 워크플로를 소프트웨어 배포 수준으로 표준화한다. 모델 교체·업데이트를 위험 최소화와 함께 빠르게 수행할 수 있어, 실서비스 환경에서 모델 운영 방식을 재편하는 도구로 부상하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "Granite Switch 4.1.1 — Update models like you update software",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1"
+        }
+      ]
+    },
+    {
+      "id": "ai-5",
+      "status": "ONGOING",
+      "title": "대규모 인디크 언어 사전학습과 오픈 데이터 파이프라인",
+      "summary": "Hugging Face가 2.8조 토큰 규모의 인디크 언어 사전학습 데이터와 이를 생성하는 오픈 파이프라인을 공개했다. 수집·정제·중복 제거와 라이선스 검증을 자동화해 재현성과 법적 안정성을 동시에 확보함으로써, 비영어권·저자원 언어 대규모 모델 개발의 기반을 강화하는 추세가 이어지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+          "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
+        }
+      ]
+    }
+  ]
+}

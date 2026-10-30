@@ -1,0 +1,148 @@
+{
+  "range": {
+    "from": "2026-10-01",
+    "to": "2026-10-30"
+  },
+  "kpis": {
+    "collected": 50,
+    "deduped": 50,
+    "uniqueTopics": 8,
+    "marketShare": {
+      "MarketInfra": 39,
+      "Policy": 29,
+      "Regulation": 15,
+      "Compliance": 9,
+      "Fintech": 8,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/01-10/07)",
+      "topicCounts": {
+        "MarketInfra": 10,
+        "Policy": 8,
+        "Regulation": 3,
+        "Compliance": 2,
+        "Fintech": 1
+      }
+    },
+    {
+      "week": "Week 2 (10/08-10/14)",
+      "topicCounts": {
+        "MarketInfra": 11,
+        "Policy": 8,
+        "Regulation": 2,
+        "Compliance": 2,
+        "Fintech": 4
+      }
+    },
+    {
+      "week": "Week 3 (10/15-10/21)",
+      "topicCounts": {
+        "MarketInfra": 12,
+        "Policy": 8,
+        "Regulation": 6,
+        "Compliance": 4,
+        "Fintech": 0
+      }
+    },
+    {
+      "week": "Week 4 (10/22-10/28)",
+      "topicCounts": {
+        "MarketInfra": 8,
+        "Policy": 6,
+        "Regulation": 3,
+        "Compliance": 2,
+        "Fintech": 2
+      }
+    },
+    {
+      "week": "Week 5 (10/29-10/30)",
+      "topicCounts": {
+        "MarketInfra": 1,
+        "Policy": 1,
+        "Regulation": 1,
+        "Compliance": 0,
+        "Fintech": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "코스피·코스닥 동반 급락과 시장 안정 조치 발동",
+      "summary": "코스피와 코스닥이 3~4%대 급락하며 지수가 큰 폭으로 하락했고, 장중 코스피에는 매도 사이드카가 발동됐다. 변동성 확대 속에서 정부와 당국의 증시 안정 대책에 대한 기대와 불안이 동시에 커지며, 단기 유동성·공매도·수급 대책 등이 향후 핵심 변수로 부각되고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[속보] 코스피 4%대 급락…매도 사이드카 발동",
+          "url": "https://www.mk.co.kr/news/stock/12191260"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "급락한 주가...이재명 대통령이 언급한 ‘증시 대책’에 쏠리는 시장 관심",
+          "url": "https://www.mk.co.kr/news/stock/12180892"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "AI 테마 의존 심화와 한은의 ‘AI 버블’ 리스크 경고",
+      "summary": "한국은행은 AI 투자 열기가 꺾일 경우 국내외 금융시장과 실물경제에서 100조원대 손실이 발생할 수 있다는 최악의 시나리오를 제시했다. 최근 앤트로픽 등 대형 AI 기업의 대규모 적자와 상장 불확실성이 커지며, 국내 증시의 AI 편중·테마 과열에 따른 조정 위험이 정책·투자 양측에서 핵심 이슈로 부상하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“AI 꺾이면 132조원 증발”...한은이 던진 ‘최악 시나리오’",
+          "url": "https://www.mk.co.kr/news/stock/12186625"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "미국 스테이블코인·AI 관련 규제 완화 기대와 앤트로픽 상장 모멘텀",
+      "summary": "미 재무당국이 스테이블코인 활성화 등 디지털 자산 친화 정책 방향을 시사하면서, 앤트로픽 상장 이슈와 맞물려 글로벌 크립토·핀테크 자본시장에 훈풍 기대가 형성되고 있다. 다만 규제 완화 속도와 실제 상장 일정이 아직 유동적인 만큼, 정책 방향성 변화에 따른 밸류에이션 재조정 가능성도 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "링컨까지 소환한 베센트... 앤트로픽 상장, 다음달 확정인가",
+          "url": "https://www.mk.co.kr/news/business/12182433"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "주가조작·불공정거래 솜방망이 처벌과 자본시장 신뢰 훼손",
+      "summary": "최근 5년간 주가조작 등 자본시장 교란 사건에서 범죄수익 추징률이 18%에 그치고, 유죄 사건 3건 중 2건은 추징금이 0원인 것으로 나타났다. 실제 이득을 대부분 환수하지 못하는 구조가 확인되면서, 형사 제재·추징 강화와 불공정거래 수사 역량 제고 등 제도 개선 요구가 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[단독] 주가조작, 패가망신 맞나요?…3건 중 2건은 추징금 ‘0원’",
+          "url": "https://www.mk.co.kr/news/society/12181989"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "증권사 임직원 불법 내부거래와 이해상충 관리 실패",
+      "summary": "최근 5년간 10대 증권사 임직원 97명이 자기매매·미공개정보 이용 등 주식매매 규정 위반으로 제재를 받았으며, 관련 거래 규모는 88억원에 달한다. 과태료가 법정 상한에도 미치지 못하는 사례가 많아 내부통제·컴플라이언스 실효성에 대한 비판이 이어지고, 금융투자업계 전반의 내부 거래 감시 강화 필요성이 부각되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“불법 투자로 돈 벌다가, 퇴사하면 그만?”…증권가 주식투자의 민낯",
+          "url": "https://www.mk.co.kr/news/economy/12180261"
+        }
+      ]
+    }
+  ]
+}

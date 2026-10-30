@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-10-23",
-    "to": "2026-10-29"
+    "from": "2026-10-24",
+    "to": "2026-10-30"
   },
   "kpis": {
     "collected": 13,
@@ -10,60 +10,24 @@
   },
   "topTopics": [
     {
-      "name": "Tooling",
-      "count": 10
+      "name": "Models",
+      "count": 8
     },
     {
       "name": "Product",
       "count": 8
     },
     {
-      "name": "Models",
-      "count": 6
+      "name": "Tooling",
+      "count": 8
     },
     {
-      "name": "Infra",
-      "count": 6
+      "name": "Research",
+      "count": 7
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-10-23",
-      "dayOfWeek": "Fri",
-      "topic": "Tooling",
-      "count": 0
-    },
-    {
-      "date": "2026-10-23",
-      "dayOfWeek": "Fri",
-      "topic": "Product",
-      "count": 0
-    },
-    {
-      "date": "2026-10-23",
-      "dayOfWeek": "Fri",
-      "topic": "Models",
-      "count": 1
-    },
-    {
-      "date": "2026-10-23",
-      "dayOfWeek": "Fri",
-      "topic": "Infra",
-      "count": 1
-    },
-    {
-      "date": "2026-10-24",
-      "dayOfWeek": "Sat",
-      "topic": "Tooling",
-      "count": 4
-    },
-    {
-      "date": "2026-10-24",
-      "dayOfWeek": "Sat",
-      "topic": "Product",
-      "count": 2
-    },
-    {
       "date": "2026-10-24",
       "dayOfWeek": "Sat",
       "topic": "Models",
@@ -72,19 +36,19 @@
     {
       "date": "2026-10-24",
       "dayOfWeek": "Sat",
-      "topic": "Infra",
-      "count": 3
+      "topic": "Product",
+      "count": 0
     },
     {
-      "date": "2026-10-25",
-      "dayOfWeek": "Sun",
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
       "topic": "Tooling",
       "count": 0
     },
     {
-      "date": "2026-10-25",
-      "dayOfWeek": "Sun",
-      "topic": "Product",
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Research",
       "count": 0
     },
     {
@@ -96,19 +60,19 @@
     {
       "date": "2026-10-25",
       "dayOfWeek": "Sun",
-      "topic": "Infra",
+      "topic": "Product",
       "count": 0
     },
     {
-      "date": "2026-10-26",
-      "dayOfWeek": "Mon",
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
       "topic": "Tooling",
       "count": 0
     },
     {
-      "date": "2026-10-26",
-      "dayOfWeek": "Mon",
-      "topic": "Product",
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Research",
       "count": 0
     },
     {
@@ -120,14 +84,26 @@
     {
       "date": "2026-10-26",
       "dayOfWeek": "Mon",
-      "topic": "Infra",
+      "topic": "Product",
       "count": 0
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Research",
+      "count": 1
     },
     {
       "date": "2026-10-27",
       "dayOfWeek": "Tue",
-      "topic": "Tooling",
-      "count": 3
+      "topic": "Models",
+      "count": 1
     },
     {
       "date": "2026-10-27",
@@ -138,26 +114,14 @@
     {
       "date": "2026-10-27",
       "dayOfWeek": "Tue",
-      "topic": "Models",
-      "count": 1
+      "topic": "Tooling",
+      "count": 3
     },
     {
       "date": "2026-10-27",
       "dayOfWeek": "Tue",
-      "topic": "Infra",
-      "count": 2
-    },
-    {
-      "date": "2026-10-28",
-      "dayOfWeek": "Wed",
-      "topic": "Tooling",
-      "count": 3
-    },
-    {
-      "date": "2026-10-28",
-      "dayOfWeek": "Wed",
-      "topic": "Product",
-      "count": 3
+      "topic": "Research",
+      "count": 0
     },
     {
       "date": "2026-10-28",
@@ -168,14 +132,26 @@
     {
       "date": "2026-10-28",
       "dayOfWeek": "Wed",
-      "topic": "Infra",
-      "count": 0
+      "topic": "Product",
+      "count": 3
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Tooling",
+      "count": 3
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Research",
+      "count": 1
     },
     {
       "date": "2026-10-29",
       "dayOfWeek": "Thu",
-      "topic": "Tooling",
-      "count": 0
+      "topic": "Models",
+      "count": 2
     },
     {
       "date": "2026-10-29",
@@ -186,22 +162,74 @@
     {
       "date": "2026-10-29",
       "dayOfWeek": "Thu",
-      "topic": "Models",
-      "count": 1
+      "topic": "Tooling",
+      "count": 2
     },
     {
       "date": "2026-10-29",
       "dayOfWeek": "Thu",
-      "topic": "Infra",
+      "topic": "Research",
+      "count": 2
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Models",
+      "count": 2
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Product",
+      "count": 2
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Tooling",
       "count": 0
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Research",
+      "count": 3
     }
   ],
   "topIssues": [
     {
-      "id": 1,
+      "id": "ai-1",
       "status": "NEW",
-      "title": "차세대 프런티어 모델 경쟁: Google DeepMind의 Gemini 4 Carbon 발표",
-      "summary": "Google DeepMind가 Gemini 4 Carbon을 차세대 프런티어 모델로 공개하며 성능·효율·안전성을 모두 강화한 대형 모델 경쟁 국면을 열었다. 연구용과 제품 적용 모두를 겨냥해 설계되었고, 고성능 추론과 비용 효율, 안전 장치를 결합한 점이 특징이다.",
+      "title": "차세대 프런티어 모델 거버넌스: OpenAI 모델 명세 업데이트",
+      "summary": "OpenAI가 업데이트된 모델 명세를 통해 고성능 AI에 요구되는 핵심 원칙(건전한 판단, 인간 주체성 존중, 인간 의도에 대한 충실성 등)을 재정의했다. 이는 고도화되는 모델을 제품에 적용할 때 일관된 행동 규칙과 안전 기준을 부여하기 위한 일종의 ‘제품·정책 사양서’로, 향후 모델 업그레이드와 기능 확장 시 준거점 역할을 하게 된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "An updated Model Spec for more capable and beneficial AI",
+          "url": "https://openai.com/index/updated-model-spec"
+        }
+      ]
+    },
+    {
+      "id": "ai-2",
+      "status": "ONGOING",
+      "title": "프런티어 모델 정렬 모니터링 체계 고도화",
+      "summary": "OpenAI는 계층화된 모니터링 시스템을 통해 프런티어 모델의 오작동·오남용 신호를 조기에 포착하는 방법을 소개했다. 에이전트가 의도와 다르게 행동하거나 위험 패턴을 보일 때 이를 탐지·차단할 수 있도록 설계되어, 점점 자율성이 커지는 AI 시스템의 안전 운용을 위한 핵심 인프라로 기능한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "How we detect frontier model misalignment",
+          "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
+        }
+      ]
+    },
+    {
+      "id": "ai-3",
+      "status": "NEW",
+      "title": "프런티어 모델 경쟁: Google DeepMind의 Gemini 4 Carbon 발표",
+      "summary": "Google DeepMind가 Gemini 4 Carbon을 차세대 프런티어 모델로 공개하며 성능·효율·안전성을 모두 개선하겠다는 전략을 제시했다. 연구·제품 양쪽에서 활용을 전제로 설계된 모델로, 대규모 멀티모달·대화형 작업에서 상용 서비스 품질을 끌어올리는 데 초점이 맞춰져 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -212,63 +240,30 @@
       ]
     },
     {
-      "id": 2,
-      "status": "SHIFTING",
-      "title": "AI가 조직 구조와 일하는 방식에 미치는 구조적 변화",
-      "summary": "OpenAI는 AI가 단순 자동화를 넘어 조직의 ‘아래·옆·사이’에 들어와 동료, 중개자, 보조 의사결정자로 작동하는 시나리오를 제시했다. 이는 직무 설계, 권한 구조, 프로세스 설계 전반을 재편해 ‘AI를 전제로 한 조직 설계’ 논의를 본격화하고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "OpenAI Blog",
-          "title": "The future of the firm",
-          "url": "https://openai.com/index/the-future-of-the-firm"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "status": "ONGOING",
-      "title": "GPU 팩토리 운영 고도화: 텔레메트리 분석과 자율 복구 인프라",
-      "summary": "NVIDIA는 Minerva로 분산 텔레메트리 데이터를 통합 분석해 GPU 수율과 활용률을 최적화하고, Mission Control 2.5를 통해 Kubernetes 수준에서 자율 복구를 구현하고 있다. 대규모 AI 클러스터에서 이상 탐지, 근본 원인 분석, 자동 복구 워크플로우를 결합해 다운타임을 최소화하는 ‘자율 운영 인프라’ 흐름이 강화되는 중이다.",
-      "articleCount": 2,
-      "relatedArticles": [
-        {
-          "source": "NVIDIA Developer Blog",
-          "title": "How NVIDIA Minerva Turns Telemetry Chaos Into Peak GPU Yield",
-          "url": "https://developer.nvidia.com/blog/how-nvidia-minerva-turns-telemetry-chaos-into-peak-gpu-yield/"
-        },
-        {
-          "source": "NVIDIA Developer Blog",
-          "title": "How NVIDIA Mission Control 2.5 Brings Autonomous Recovery to Kubernetes",
-          "url": "https://developer.nvidia.com/blog/how-nvidia-mission-control-2-5-brings-autonomous-recovery-to-kubernetes/"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "status": "ONGOING",
-      "title": "추론 성능 극대화를 위한 TensorRT 자동 튜닝 확산",
-      "summary": "TensorRT 11.1의 Global Performance Tuner는 단일 빌드 경로를 넘어 다양한 빌드 조합에 대해 자동·정밀한 성능 튜닝을 제공한다. 이는 모델 아키텍처와 하드웨어 조합이 다양해지는 환경에서 수작업 최적화 부담을 줄이고, 대규모 추론 서비스의 비용·지연시간을 지속적으로 줄이려는 흐름의 연장선에 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "NVIDIA Developer Blog",
-          "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2",
-          "url": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-2/"
-        }
-      ]
-    },
-    {
-      "id": 5,
+      "id": "ai-4",
       "status": "NEW",
-      "title": "연구 아이디어 발굴을 위한 문헌 기반 AI 도구 부상",
-      "summary": "LitPivot는 대규모 논문 지형을 토픽 맵과 연결 그래프로 보여주고, 컨텍스트 기반 제안을 통해 새로운 연구 방향을 제안하는 도구다. 연구자는 문헌 검색을 넘어 ‘아이디어 설계와 정교화’를 AI와 함께 수행하게 되며, 이는 학술 연구 워크플로의 상류 단계까지 AI 지원이 확대되고 있음을 시사한다.",
+      "title": "AI 모델 배포를 ‘소프트웨어처럼’: Granite Switch 4.1.1",
+      "summary": "Hugging Face가 Granite Switch 4.1.1을 통해 모델을 애플리케이션처럼 버전 관리하고 롤아웃·롤백을 빠르게 수행할 수 있는 워크플로를 제안했다. 이는 다양한 모델을 빈번히 교체·실험하는 환경에서 운영 리스크를 줄이고, 제품 수준의 배포 파이프라인을 표준화하는 방향으로 인프라를 진화시키는 신호다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Hugging Face Blog",
-          "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-          "url": "https://huggingface.co/blog/allenai/litpivot"
+          "title": "Granite Switch 4.1.1 — Update models like you update software",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1"
+        }
+      ]
+    },
+    {
+      "id": "ai-5",
+      "status": "NEW",
+      "title": "다국어 음성 AI의 제품화: Nemotron 3.5 Transcribe와 Granary v2",
+      "summary": "NVIDIA는 Nemotron 3.5 Transcribe와 Granary v2로 프롬프트 기반 제어와 도메인 적응이 가능한 다국어 음성 인식 스택을 내놓았다. 사용자는 프롬프트와 데이터로 모델 동작을 세밀하게 조정할 수 있어, 콜센터·회의록·미디어 등 각 산업별로 특화된 음성 AI 서비스 구축이 용이해지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary"
         }
       ]
     }

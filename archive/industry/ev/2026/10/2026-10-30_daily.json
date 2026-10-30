@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-30",
+  "highlights": {
+    "bullets": [
+      "핵심: 도요타의 전기차 판매가 전년 대비 127% 증가했으나 글로벌 판매는 감소했다.",
+      "핵심: 리비안 3분기 매출이 전년 대비 38% 증가했고 R2가 베스트셀러가 됐다."
+    ],
+    "topTopics": [
+      "Competition",
+      "Roadmap",
+      "Demand",
+      "Investment"
+    ],
+    "stats": {
+      "collected": 12,
+      "deduped": 12
+    }
+  },
+  "cards": [
+    {
+      "id": "ev_0001",
+      "tab": "ev",
+      "publishedAt": "2026-10-30T05:02:40+09:00",
+      "source": "Electrek",
+      "title": "Toyota’s EV sales more than doubled in a year, but gas cars are getting crushed in China",
+      "summary": [
+        "도요타의 EV 판매는 9월까지 전년 대비 127% 증가했지만, 전체 판매 흐름을 완전히 상쇄하지는 못하고 있다.",
+        "중국에서 내연기관 및 하이브리드 차량 수요가 급감하면서 도요타의 글로벌 판매는 3개월 연속 감소했다.",
+        "EV 성장과 동시에 핵심 시장인 중국에서의 가솔린차 부진이 도요타의 제품 믹스와 지역 전략 재조정을 요구하고 있다."
+      ],
+      "whyItMatters": "전기차 판매 급증에도 불구하고 중국에서의 내연기관·하이브리드 수요 붕괴가 글로벌 판매에 직접적인 압박을 주어 도요타의 수익성과 중장기 전동화 전략에 중대한 영향을 미치기 때문이다.",
+      "topics": [
+        "Demand",
+        "Competition",
+        "Roadmap"
+      ],
+      "status": "SHIFTING",
+      "hash": "98e22f4a73cedb1bbe1d8f45b62d12cc467f32db92ce0fae39f7360b0225a376",
+      "url": "https://electrek.co/2026/10/29/toyotas-ev-sales-doubled-but-gas-cars-getting-crushed-china/"
+    },
+    {
+      "id": "ev_0002",
+      "tab": "ev",
+      "publishedAt": "2026-10-30T05:02:00+09:00",
+      "source": "Electrek",
+      "title": "Rivian (RIVN) Q3 2026 earnings: revenue up 38%, R2 now its best-seller",
+      "summary": [
+        "리비안은 2026년 3분기 매출이 전년 대비 38% 증가한 21.55억 달러를 기록해 시장 기대치를 상회했습니다.",
+        "R2 모델은 첫 번째 완전 분기 출하만에 R1과 아마존 밴을 제치고 리비안의 베스트셀러 차량이 되었습니다.",
+        "다만 R2 증산 과정에서 자동차 부문 마진이 악화되며 여전히 차량 사업은 손실을 내고 있습니다."
+      ],
+      "whyItMatters": "실적 서프라이즈와 R2의 강한 수요로 성장 스토리는 강화됐지만, R2 램프로 인한 수익성 악화가 중장기 밸류에이션과 투자심리에 중요한 변수가 되기 때문입니다.",
+      "topics": [
+        "Earnings",
+        "Demand",
+        "Roadmap"
+      ],
+      "status": "ONGOING",
+      "hash": "42138451c65933f61b08b63ec1ba5a7d07159e642816dd7a7ab8cf02d88f58e3",
+      "url": "https://electrek.co/2026/10/29/rivian-rivn-q3-2026-earnings-r2-best-seller/"
+    }
+  ]
+}

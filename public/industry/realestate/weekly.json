@@ -1,213 +1,218 @@
 {
   "range": {
-    "from": "2026-10-23",
-    "to": "2026-10-29"
+    "from": "2026-10-24",
+    "to": "2026-10-30"
   },
   "kpis": {
     "collected": 23,
     "deduped": 23,
-    "uniqueTopics": 9
+    "uniqueTopics": 10
   },
   "topTopics": [
-    {
-      "name": "Market",
-      "count": 16
-    },
     {
       "name": "Supply",
       "count": 15
     },
     {
-      "name": "Policy",
-      "count": 9
+      "name": "Market",
+      "count": 14
     },
     {
-      "name": "Rental",
-      "count": 9
+      "name": "UrbanRenewal",
+      "count": 10
+    },
+    {
+      "name": "Land",
+      "count": 10
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-10-23",
-      "dayOfWeek": "Fri",
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Supply",
+      "count": 1
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
       "topic": "Market",
+      "count": 2
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "UrbanRenewal",
+      "count": 1
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Land",
+      "count": 1
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Supply",
+      "count": 3
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Market",
+      "count": 2
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "UrbanRenewal",
+      "count": 2
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Land",
+      "count": 2
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Market",
+      "count": 2
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "UrbanRenewal",
+      "count": 0
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Land",
+      "count": 0
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "Supply",
+      "count": 1
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "Market",
+      "count": 3
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "UrbanRenewal",
+      "count": 1
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "Land",
+      "count": 0
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Supply",
+      "count": 2
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Market",
+      "count": 2
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "UrbanRenewal",
+      "count": 0
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Land",
+      "count": 1
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Supply",
       "count": 5
     },
     {
-      "date": "2026-10-23",
-      "dayOfWeek": "Fri",
-      "topic": "Supply",
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Market",
+      "count": 0
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "UrbanRenewal",
       "count": 5
     },
     {
-      "date": "2026-10-23",
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Land",
+      "count": 5
+    },
+    {
+      "date": "2026-10-30",
       "dayOfWeek": "Fri",
-      "topic": "Policy",
-      "count": 1
+      "topic": "Supply",
+      "count": 3
     },
     {
-      "date": "2026-10-23",
+      "date": "2026-10-30",
       "dayOfWeek": "Fri",
-      "topic": "Rental",
+      "topic": "Market",
       "count": 3
     },
     {
-      "date": "2026-10-24",
-      "dayOfWeek": "Sat",
-      "topic": "Market",
-      "count": 2
-    },
-    {
-      "date": "2026-10-24",
-      "dayOfWeek": "Sat",
-      "topic": "Supply",
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "UrbanRenewal",
       "count": 1
     },
     {
-      "date": "2026-10-24",
-      "dayOfWeek": "Sat",
-      "topic": "Policy",
-      "count": 0
-    },
-    {
-      "date": "2026-10-24",
-      "dayOfWeek": "Sat",
-      "topic": "Rental",
-      "count": 0
-    },
-    {
-      "date": "2026-10-25",
-      "dayOfWeek": "Sun",
-      "topic": "Market",
-      "count": 2
-    },
-    {
-      "date": "2026-10-25",
-      "dayOfWeek": "Sun",
-      "topic": "Supply",
-      "count": 3
-    },
-    {
-      "date": "2026-10-25",
-      "dayOfWeek": "Sun",
-      "topic": "Policy",
-      "count": 4
-    },
-    {
-      "date": "2026-10-25",
-      "dayOfWeek": "Sun",
-      "topic": "Rental",
-      "count": 2
-    },
-    {
-      "date": "2026-10-26",
-      "dayOfWeek": "Mon",
-      "topic": "Market",
-      "count": 2
-    },
-    {
-      "date": "2026-10-26",
-      "dayOfWeek": "Mon",
-      "topic": "Supply",
-      "count": 0
-    },
-    {
-      "date": "2026-10-26",
-      "dayOfWeek": "Mon",
-      "topic": "Policy",
-      "count": 0
-    },
-    {
-      "date": "2026-10-26",
-      "dayOfWeek": "Mon",
-      "topic": "Rental",
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Land",
       "count": 1
-    },
-    {
-      "date": "2026-10-27",
-      "dayOfWeek": "Tue",
-      "topic": "Market",
-      "count": 3
-    },
-    {
-      "date": "2026-10-27",
-      "dayOfWeek": "Tue",
-      "topic": "Supply",
-      "count": 1
-    },
-    {
-      "date": "2026-10-27",
-      "dayOfWeek": "Tue",
-      "topic": "Policy",
-      "count": 0
-    },
-    {
-      "date": "2026-10-27",
-      "dayOfWeek": "Tue",
-      "topic": "Rental",
-      "count": 3
-    },
-    {
-      "date": "2026-10-28",
-      "dayOfWeek": "Wed",
-      "topic": "Market",
-      "count": 2
-    },
-    {
-      "date": "2026-10-28",
-      "dayOfWeek": "Wed",
-      "topic": "Supply",
-      "count": 2
-    },
-    {
-      "date": "2026-10-28",
-      "dayOfWeek": "Wed",
-      "topic": "Policy",
-      "count": 2
-    },
-    {
-      "date": "2026-10-28",
-      "dayOfWeek": "Wed",
-      "topic": "Rental",
-      "count": 0
-    },
-    {
-      "date": "2026-10-29",
-      "dayOfWeek": "Thu",
-      "topic": "Market",
-      "count": 0
-    },
-    {
-      "date": "2026-10-29",
-      "dayOfWeek": "Thu",
-      "topic": "Supply",
-      "count": 3
-    },
-    {
-      "date": "2026-10-29",
-      "dayOfWeek": "Thu",
-      "topic": "Policy",
-      "count": 2
-    },
-    {
-      "date": "2026-10-29",
-      "dayOfWeek": "Thu",
-      "topic": "Rental",
-      "count": 0
     }
   ],
   "topIssues": [
     {
       "id": 1,
       "status": "ONGOING",
-      "title": "수도권 6곳 그린벨트 해제 통한 7만6700가구 주택 공급 추진",
-      "summary": "정부가 김포아라·구리건원·하남미사 등 서울 경계 5km 이내 수도권 6곳 그린벨트를 해제해 약 7만6700가구를 신속 공급하는 신규 택지 계획을 발표했다. 서울, 특히 강남권 그린벨트는 후보지에서 제외되면서 공급 효과가 수도권 외곽에 집중될 전망이다.",
-      "articleCount": 2,
+      "title": "서울 인접 그린벨트 해제와 김포아라 공공택지 등 7.7만 가구 신규 공급 드라이브",
+      "summary": "정부가 서울 경계 5km 이내 김포·구리·하남 등 6곳 그린벨트를 해제해 약 7만7천 가구를 공급하고, 김포아라 공공택지(3만7천 가구) 조성 계획까지 더해 수도권 외곽 중심의 대규모 택지 공급을 추진하고 있다. 서울 및 강남권 그린벨트는 제외돼 도심 공급 공백과 김포 등 외곽 지역 교통난 심화 가능성이 동시에 제기된다.",
+      "articleCount": 4,
       "relatedArticles": [
         {
           "source": "헤럴드경제(부동산)",
-          "title": "서울 옆에 7.7만가구, 서울은 ‘0’…강남 그린벨트는 빠졌다 [부동산360]",
-          "url": "https://biz.heraldcorp.com/article/10918612"
+          "title": "“‘내 땅 포함됐냐’ 전화에 내비 못들어” 3.7만 쏟는 김포, 교통난은 여전히 숙제 [르포] [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10920099"
+        },
+        {
+          "source": "한국경제(부동산)",
+          "title": "서울 인접 5㎞ 내 그린벨트 풀어 7.7만가구 공급",
+          "url": "https://www.hankyung.com/article/2026102944171"
         },
         {
           "source": "헤럴드경제(부동산)",
@@ -219,36 +224,27 @@
     {
       "id": 2,
       "status": "SHIFTING",
-      "title": "그린벨트 환경등급 6년 만에 재평가…주택 개발 가능성 확대",
-      "summary": "정부가 내년에 개발제한구역(그린벨트) 환경평가 등급을 6년 만에 전면 재평가하기로 했다. 해제가 까다로웠던 토지까지 개발 가능성을 다시 검토하도록 절차를 손질하면서 중장기적으로 수도권 및 주요 도시권의 신규 주택 공급 여지가 넓어질 수 있다는 관측이 나온다.",
-      "articleCount": 1,
+      "title": "서울 아파트 매물 급증과 거래 급감이 동시에 나타나는 시장 냉각 국면",
+      "summary": "서울 전역 아파트 매물이 세제 강화와 추가 금리 인상 전망으로 8·3 세제개편 당시보다 30% 넘게 늘어나는 반면, 실제 매매 거래량은 1년 사이 42% 이상 급감하며 9월 기준 4천 건을 밑돌았다. 공급 매물 증가는 계속되지만 매수심리는 위축돼 매도·매수 간 눈치싸움이 장기화되는 조정장이 형성되고 있다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
           "source": "매일경제(부동산)",
-          "title": "[단독] 그린벨트 등급 재평가…주택공급 길 넓힌다",
-          "url": "https://www.mk.co.kr/news/realestate/12185262"
+          "title": "“강남 얘기 아니었어?”…서울 전역서 아파트 매물 급증",
+          "url": "https://www.mk.co.kr/news/economy/12191172"
+        },
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "서울 아파트 거래 1년 새 42% 급감…9월 4000건 밑돌았다 [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10919550"
         }
       ]
     },
     {
       "id": 3,
       "status": "ONGOING",
-      "title": "지역별 집값 격차 심화…강남은 해운대 5배, 맞춤형 규제 필요성 부각",
-      "summary": "강남 아파트값이 부산 해운대의 5배 수준에 달하는 등 지역 간 가격 격차가 크게 벌어지고 있다. 전문가들은 수요·공급 구조와 투기 요인이 지역마다 다른 만큼 일률적인 규제보다 지역 특성을 반영한 ‘핀셋 정책’이 필요하다고 지적한다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "한국경제(부동산)",
-          "title": "\"강남 집값, 해운대의 5배…시장특성 맞는 핀셋 정책 필요\"",
-          "url": "https://www.hankyung.com/article/2026102813431"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "status": "ONGOING",
-      "title": "전셋값 급등·월세 전환 심화…내후년 전세 대란 우려",
-      "summary": "서울 24개구에서 월세 계약 비중이 57%를 차지하며 전월세 시장이 월세 중심으로 재편되고 있다. 전셋값 상승률은 전년 대비 4배 수준으로 뛰고 공급은 줄어 내후년께 전세난이 정점에 이를 수 있다는 전망이 제기된다.",
+      "title": "전셋값 급등과 월세 비중 확대 속 내후년 전세난 고조 우려",
+      "summary": "서울 24개 구에서 월세 계약 비중이 57%까지 올라 전월세 시장이 월세 중심으로 재편되는 가운데, 전셋값 상승률이 전년 대비 4배 수준으로 뛰고 전세 물량은 줄어들고 있다. 전세 공급 부족이 지속될 경우 내후년 전세난이 피크에 이를 것이라는 전망이 커지며 실수요자의 주거비 부담이 급증하는 국면이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -259,10 +255,10 @@
       ]
     },
     {
-      "id": 5,
+      "id": 4,
       "status": "ONGOING",
-      "title": "주담대 규제 속 확산되는 셀러파이낸싱…강남 고가 주택 거래 활용",
-      "summary": "주택담보대출 규제가 강화되면서 집주인이 매수자에게 매매대금 일부를 직접 빌려주는 셀러파이낸싱 거래가 강남 등 고가 주택 시장에서 늘고 있다. 연 5% 안팎의 고금리·단기 상환 조건이 일반적이어서 차주 리스크 관리가 필요하다는 지적이다.",
+      "title": "은행 대신 집주인이 빌려주는 ‘셀러파이낸싱’ 확산",
+      "summary": "주택담보대출 규제 강화와 금리 부담 속에서 집주인이 매수자에게 직접 매매대금 일부를 빌려주는 셀러파이낸싱 사례가 강남권을 중심으로 늘고 있다. 연 5% 안팎의 고금리·단기 대출이 일반적이라, 제도권 규제를 피해 형성되는 고위험 비공식 금융 관행으로 굳어질 우려가 제기된다.",
       "articleCount": 1,
       "relatedArticles": [
         {

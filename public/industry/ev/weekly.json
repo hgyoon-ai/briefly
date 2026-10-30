@@ -1,18 +1,14 @@
 {
   "range": {
-    "from": "2026-10-23",
-    "to": "2026-10-29"
+    "from": "2026-10-24",
+    "to": "2026-10-30"
   },
   "kpis": {
     "collected": 10,
     "deduped": 10,
-    "uniqueTopics": 6
+    "uniqueTopics": 7
   },
   "topTopics": [
-    {
-      "name": "Investment",
-      "count": 9
-    },
     {
       "name": "Roadmap",
       "count": 8
@@ -22,63 +18,37 @@
       "count": 7
     },
     {
+      "name": "Investment",
+      "count": 7
+    },
+    {
       "name": "Demand",
-      "count": 4
+      "count": 6
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-10-23",
-      "dayOfWeek": "Fri",
-      "topic": "Investment",
-      "count": 1
-    },
-    {
-      "date": "2026-10-23",
-      "dayOfWeek": "Fri",
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
       "topic": "Roadmap",
-      "count": 1
-    },
-    {
-      "date": "2026-10-23",
-      "dayOfWeek": "Fri",
-      "topic": "Competition",
-      "count": 0
-    },
-    {
-      "date": "2026-10-23",
-      "dayOfWeek": "Fri",
-      "topic": "Demand",
       "count": 0
     },
     {
       "date": "2026-10-24",
       "dayOfWeek": "Sat",
-      "topic": "Investment",
-      "count": 2
-    },
-    {
-      "date": "2026-10-24",
-      "dayOfWeek": "Sat",
-      "topic": "Roadmap",
+      "topic": "Competition",
       "count": 1
     },
     {
       "date": "2026-10-24",
       "dayOfWeek": "Sat",
-      "topic": "Competition",
-      "count": 2
+      "topic": "Investment",
+      "count": 1
     },
     {
       "date": "2026-10-24",
       "dayOfWeek": "Sat",
       "topic": "Demand",
-      "count": 1
-    },
-    {
-      "date": "2026-10-25",
-      "dayOfWeek": "Sun",
-      "topic": "Investment",
       "count": 1
     },
     {
@@ -96,18 +66,18 @@
     {
       "date": "2026-10-25",
       "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
       "topic": "Demand",
       "count": 1
     },
     {
       "date": "2026-10-26",
       "dayOfWeek": "Mon",
-      "topic": "Investment",
-      "count": 2
-    },
-    {
-      "date": "2026-10-26",
-      "dayOfWeek": "Mon",
       "topic": "Roadmap",
       "count": 2
     },
@@ -120,7 +90,25 @@
     {
       "date": "2026-10-26",
       "dayOfWeek": "Mon",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
       "topic": "Demand",
+      "count": 2
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
       "count": 2
     },
     {
@@ -132,25 +120,7 @@
     {
       "date": "2026-10-27",
       "dayOfWeek": "Tue",
-      "topic": "Roadmap",
-      "count": 2
-    },
-    {
-      "date": "2026-10-27",
-      "dayOfWeek": "Tue",
-      "topic": "Competition",
-      "count": 2
-    },
-    {
-      "date": "2026-10-27",
-      "dayOfWeek": "Tue",
       "topic": "Demand",
-      "count": 0
-    },
-    {
-      "date": "2026-10-28",
-      "dayOfWeek": "Wed",
-      "topic": "Investment",
       "count": 0
     },
     {
@@ -168,14 +138,14 @@
     {
       "date": "2026-10-28",
       "dayOfWeek": "Wed",
-      "topic": "Demand",
+      "topic": "Investment",
       "count": 0
     },
     {
-      "date": "2026-10-29",
-      "dayOfWeek": "Thu",
-      "topic": "Investment",
-      "count": 2
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Demand",
+      "count": 0
     },
     {
       "date": "2026-10-29",
@@ -192,16 +162,74 @@
     {
       "date": "2026-10-29",
       "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
       "topic": "Demand",
       "count": 0
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 2
     }
   ],
   "topIssues": [
     {
       "id": 1,
+      "status": "SHIFTING",
+      "title": "도요타: EV 급성장에도 중국발 내연기관 수요 급감으로 전체 실적 부담",
+      "summary": "도요타는 EV 판매가 전년 대비 127% 증가하며 빠르게 확대되고 있으나, 중국에서 내연기관·하이브리드 수요가 급락하면서 글로벌 판매가 3개월 연속 감소했습니다. 전기차 전환 속도가 빨라지는 가운데 기존 내연기관 중심 포트폴리오의 구조적 조정 압력이 커지고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Toyota’s EV sales more than doubled in a year, but gas cars are getting crushed in China",
+          "url": "https://electrek.co/2026/10/29/toyotas-ev-sales-doubled-but-gas-cars-getting-crushed-china/"
+        }
+      ]
+    },
+    {
+      "id": 2,
       "status": "ONGOING",
-      "title": "BYD, 102만 명 고용으로 글로벌 완성차 인력 지형 재편",
-      "summary": "BYD가 10개월 만에 약 15만 명을 추가 고용해 총 직원 수 102만 명을 돌파함으로써, 토요타·GM·포드·테슬라 인력을 합친 것보다 많은 규모를 형성했다. 이는 EV·배터리 수직계열화, 내재화 생산 확대, 해외공장 증설 등 공격적인 제조·투자 전략이 인력 구조에 그대로 반영되고 있는 것으로, 글로벌 EV 제조 경쟁 구도가 ‘초대형 고용·생산 플랫폼’ 중심으로 재편되고 있음을 보여준다.",
+      "title": "리비안, R2 흥행으로 매출 38% 성장…본격 볼륨 모델 효과 가시화",
+      "summary": "리비안은 2026년 3분기 매출이 21.55억 달러로 전년 대비 38% 증가하며 시장 기대를 상회했습니다. 중형급 R2가 첫 완전 분기만에 R1과 아마존 밴을 제치고 베스트셀러로 올라서며, 프리미엄 니치에서 대중형 볼륨 시장으로 사업 축이 이동하고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Rivian (RIVN) Q3 2026 earnings: revenue up 38%, R2 now its best-seller",
+          "url": "https://electrek.co/2026/10/29/rivian-rivn-q3-2026-earnings-r2-best-seller/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "BYD, 100만 명 이상 초대형 인력 기반으로 글로벌 EV·배터리 공세 강화",
+      "summary": "BYD는 10개월 만에 약 15만 명을 추가 고용해 총 102만 명 이상의 직원을 확보, 토요타·GM·포드·테슬라 인력을 합친 것보다 많은 규모로 성장했습니다. 수직계열화와 내재화를 앞세운 대규모 인력 확대로 제조·R&D·해외 생산기지 확대에 속도를 내고 있습니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -212,10 +240,10 @@
       ]
     },
     {
-      "id": 2,
+      "id": 4,
       "status": "ONGOING",
-      "title": "CATL, 20Ah 전고체 배터리로 500Wh/kg 상용화 경쟁 선도",
-      "summary": "CATL이 20Ah급 전고체 셀 개발에 성공하며 에너지 밀도 500Wh/kg를 목표로 한 차세대 배터리 상용화 경쟁에서 한발 앞서 나가고 있다. 이는 동일 차량 패키지 내 주행거리 확대와 경량화, 고급 전기 세단·항공 모빌리티 등 고부가 응용 분야에서 CATL의 기술·공급망 우위를 강화할 수 있는 진전으로, 글로벌 OEM들의 장기 배터리 로드맵과 투자 방향에 영향을 줄 핵심 이슈다.",
+      "title": "CATL 전고체 배터리 진전: 20Ah 셀로 500Wh/kg 상용화 경쟁 가속",
+      "summary": "CATL이 20Ah급 전고체 배터리 셀 개발에 성공하며 고에너지밀도 상용화 경쟁에서 한 걸음 앞서가고 있습니다. 500Wh/kg 수준을 목표로 해 주행거리·차량 경량화·팩 설계 혁신 여지가 커지며, 향후 프리미엄 EV 및 항공 모빌리티까지 응용 범위가 넓어질 수 있습니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -226,54 +254,16 @@
       ]
     },
     {
-      "id": 3,
+      "id": 5,
       "status": "NEW",
-      "title": "렉서스 RZ·VW 전기 제타, 중저가·고효율 EV 시장 경쟁 본격화",
-      "summary": "2027년형 렉서스 RZ가 5만 달러 미만, 300마일+ 주행거리로 북미 프리미엄 EV 세단 시장 공략에 나서는 동시에, 폭스바겐이 중국에 1만2천 달러 미만 가격에 285마일급 전기 제타 M6를 선보이며 ‘합리적 가격대 장거리 EV’의 글로벌 경쟁이 가속 중이다. 이는 고급 브랜드의 가격 허들을 낮추고, 중국 로컬 특화 저가 장거리 모델이 확대되면서 EV 대중화와 가격 압박이 동시에 심화되는 흐름을 보여준다.",
-      "articleCount": 2,
+      "title": "2027년형 렉서스 RZ: 5만 달러 이하 가격·300마일+ 주행거리로 프리미엄 EV 경쟁 진입",
+      "summary": "렉서스가 2027년형 RZ를 5만 달러 미만 시작가와 300마일 이상 주행거리를 내세워 출시할 예정입니다. 프리미엄 브랜드가 테슬라·독일 3사와의 가격·성능 경쟁에 본격적으로 가세하면서 중상위 가격대 전기 SUV 시장 경쟁이 심화될 전망입니다.",
+      "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
           "title": "The 2027 Lexus RZ starts at under $50,000 and offers over 300 miles of range",
           "url": "https://electrek.co/2026/10/26/2027-lexus-rz-starts-under-50000-with-300-miles-range/"
-        },
-        {
-          "source": "Electrek",
-          "title": "Volkswagen’s new electric Jetta offers 285 miles of range for under $12K",
-          "url": "https://electrek.co/2026/10/24/volkswagens-new-electric-jetta-offers-285-miles-of-range-for-under-12k/"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "status": "NEW",
-      "title": "BYD·XCMG, 초럭셔리 승용·완전 자율 화물 EV로 제품 포트폴리오 확장",
-      "summary": "BYD가 롤스로이스급 초럭셔리 전기 세단 플래그십을 전고체 배터리 등 차세대 기술과 함께 예고하고, XCMG가 레벨4 자율주행을 탑재한 무인 전동 터미널 트랙터 SDA411 콘셉트를 공개하면서, 중국 제조사들이 한쪽 끝에서는 초고가 럭셔리 승용, 다른 쪽 끝에서는 무인 상용·물류 특화 EV로 포트폴리오를 양극단으로 확장 중이다. 이는 브랜드 위상 제고와 동시에 항만·물류 자동화 수요를 선점하려는 전략적 행보로 해석된다.",
-      "articleCount": 2,
-      "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "BYD’s ultra-luxury EV could debut next week with solid-state batteries and much more",
-          "url": "https://electrek.co/2026/10/26/byds-ultra-luxury-ev-may-debut-next-week-with-solid-state-batteries/"
-        },
-        {
-          "source": "Electrek",
-          "title": "XCMG debuts new, fully autonomous electric terminal tractor [video]",
-          "url": "https://electrek.co/2026/10/25/xcmg-debuts-new-fully-autonomous-electric-terminal-tractor-video/"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "status": "NEW",
-      "title": "태양광·배터리 냉장 트레일러 상용화, 전기 화물 콜드체인 전환 가속",
-      "summary": "호주에서 태양광·배터리 기반 전기 냉장 트레일러 유닛이 처음으로 실제 화물 운송사에 인도되며, 디젤 리퍼를 대체하는 전기 콜드체인 솔루션이 본격 상용 단계에 진입했다. 이는 장거리 냉장 물류의 탄소·소음·연료비를 동시에 줄이는 사례로, 향후 리퍼 트레일러 전동화와 태양광 보조전원 통합 트렌드를 가속할 수 있는 실증 이정표다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "Battery electric, solar-powered reefer units reach their first customers",
-          "url": "https://electrek.co/2026/10/25/battery-electric-solar-powered-reefer-units-reach-their-first-customers/"
         }
       ]
     }

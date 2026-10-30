@@ -1,110 +1,130 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "highlights": {
     "bullets": [
-      "핵심: Google DeepMind가 Gemini 4 Carbon을 차세대 프런티어 모델로 발표했다.",
-      "핵심: NVIDIA가 Nemotron 3.5 Transcribe와 Granary v2로 다국어 음성인식 적응성을 강화했다.",
-      "트렌드: 모델·도구·제품 통합을 통한 기업 적용과 운영 도구화가 공통적으로 강조되고 있다."
+      "핵심: 더 능력 있고 유익한 AI를 목표로 한 업데이트된 모델 명세가 발표됐다.",
+      "핵심: 모델을 소프트웨어처럼 버전 관리하고 롤아웃·롤백을 간소화하는 배포 도구 업데이트가 공개됐다.",
+      "트렌드: 모델 안전성·성능·배포를 지원하는 연구·인프라·도구 개선이 공통적으로 강조됐다."
     ],
     "topTopics": [
-      "Product",
+      "Research",
       "Models",
-      "Tooling",
-      "Business"
+      "Product",
+      "Tooling"
     ],
     "stats": {
-      "collected": 5,
-      "deduped": 5
+      "collected": 6,
+      "deduped": 6
     }
   },
   "cards": [
     {
       "id": "ai_0001",
       "tab": "ai",
-      "publishedAt": "2026-10-29T02:00:58+09:00",
-      "source": "Google DeepMind Blog",
-      "title": "Gemini 4 Carbon: Our next frontier model",
+      "publishedAt": "2026-10-30T02:00:00+09:00",
+      "source": "OpenAI Blog",
+      "title": "An updated Model Spec for more capable and beneficial AI",
       "summary": [
-        "Google DeepMind가 Gemini 4 Carbon을 차세대 프런티어 모델로 발표했습니다.",
-        "모델은 성능·효율·안전성 개선을 목표로 하며 연구와 제품 적용을 가속화할 것으로 보입니다.",
-        "접근성·가격·툴·배포 방식 등 구체적 도입 조건은 추후 공개될 가능성이 큽니다."
+        "OpenAI가 더 능력 있고 유익한 AI를 위한 업데이트된 모델 명세를 발표했다.",
+        "명세는 건전한 판단, 인간의 주체성, 인간 의도에 대한 충실성 등 다섯 가지 핵심 가치를 제시한다.",
+        "이 가이드는 모델 설계·평가·배포 기준을 정비해 업계와 규제 방향에 영향을 줄 가능성이 크다."
       ],
-      "whyItMatters": "대규모 AI 역량과 안전·제품 도입에 미치는 영향이 커 업계와 연구에 중요한 전환점이 될 수 있기 때문입니다.",
+      "whyItMatters": "이는 강력한 AI의 안전성과 정렬 기준을 구체화해 업계와 정책에 실질적 영향을 미칠 수 있기 때문이다.",
       "topics": [
         "Models",
+        "Safety",
         "Research",
-        "Product",
-        "Safety"
+        "Product"
       ],
       "status": "NEW",
-      "hash": "e8e0cb1d0e685ced8c0e7ac9d1fec69ff1aeb58dda3bc427572a678f29f8cd65",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/"
+      "hash": "9349f418e7bc7ab45091d36c0bfe75e2136622d8b5dbcf107bb7aa7386820b2a",
+      "url": "https://openai.com/index/updated-model-spec"
     },
     {
       "id": "ai_0002",
       "tab": "ai",
-      "publishedAt": "2026-10-28T23:58:17+09:00",
-      "source": "Hugging Face Blog",
-      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "publishedAt": "2026-10-29T18:00:00+09:00",
+      "source": "OpenAI Blog",
+      "title": "How we detect frontier model misalignment",
       "summary": [
-        "NVIDIA가 Nemotron 3.5 Transcribe와 Granary v2를 발표해 다국어 음성인식 성능과 적응성을 강화했습니다.",
-        "모델은 프롬프트로 제어 가능하며 사용자 도메인에 맞춰 빠르게 커스터마이징할 수 있도록 설계되었습니다.",
-        "Hugging Face에서 배포되어 추론 성능과 통합 툴링을 통해 실무 적용이 쉬워졌습니다."
+        "OpenAI는 계층화된 모니터링으로 최첨단 모델의 정렬 문제를 탐지한다.",
+        "무단 에이전트 행동을 조기에 식별해 대응자가 사건 확산을 막을 수 있도록 설계되었다.",
+        "여러 신호와 시스템을 결합해 위험을 사전 관리한다."
       ],
-      "whyItMatters": "프롬프트 기반의 적응형 고성능 ASR은 제품화 속도와 라벨링·운영 비용을 낮추고 서비스 범위를 확장할 수 있기 때문입니다.",
+      "whyItMatters": "최첨단 모델의 오작동 및 악용은 광범위한 피해를 초래할 수 있어 사전 탐지와 개입이 필수적이다.",
       "topics": [
-        "Models",
-        "Inference",
+        "Safety",
         "Tooling",
-        "Product"
+        "Infra",
+        "Research"
       ],
-      "status": "NEW",
-      "hash": "ec733f799e1aaee3d1ac15d7aac92b358c82bd195281ac7a4de4982266b1d5fd",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary"
+      "status": "ONGOING",
+      "hash": "0f01adb2acab0a67ba71c0b077a856b8d5e6ddb0aecdbfc3051cca05fba1e4d6",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
     },
     {
       "id": "ai_0003",
       "tab": "ai",
-      "publishedAt": "2026-10-28T22:15:00+09:00",
-      "source": "OpenAI Blog",
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "publishedAt": "2026-10-30T04:19:16+09:00",
+      "source": "Microsoft Research Blog",
+      "title": "Microsoft Research Focus – Edition #97",
       "summary": [
-        "OpenAI와 ServiceNow가 파트너십을 확장했습니다.",
-        "OpenAI 모델과 에이전트가 ServiceNow에 통합됩니다.",
-        "ServiceNow 워크플로가 ChatGPT와 Codex에 연동되어 엔터프라이즈 자동화가 강화됩니다."
+        "코딩 에이전트가 직면한 과제들이 논의되었다.",
+        "직장에서의 AI 활용 방식과 사용자 행태에 대한 인사이트가 공유되었다.",
+        "확장 범위 기상 예보 성능을 개선하는 연구가 소개되었다."
       ],
-      "whyItMatters": "엔터프라이즈 워크플로와 대화형 AI 도구의 양방향 통합이 기업용 AI 도입과 운영 효율을 크게 높이기 때문입니다.",
+      "whyItMatters": "코딩 도구 개선·업무용 AI 채택 인사이트·기상 예측 향상 등 실용적 영향과 연구 진전을 동시에 제공해 향후 제품·모델·데이터 활용에 중요한 시사점을 주기 때문이다.",
       "topics": [
+        "Research",
         "Models",
         "Product",
-        "Business",
-        "Tooling"
+        "Data"
       ],
       "status": "ONGOING",
-      "hash": "a395c7da350b5086cc15f6b616a71f222298172ced3c491458f1fd1d38e79b77",
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion"
+      "hash": "d368308dafb9bf4a5ac8b05985cacf3f3f4350f6b0327b24d638c3eebe41ca26",
+      "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/"
     },
     {
       "id": "ai_0004",
       "tab": "ai",
-      "publishedAt": "2026-10-28T19:00:00+09:00",
-      "source": "OpenAI Blog",
-      "title": "The future of the firm",
+      "publishedAt": "2026-10-29T22:37:07+09:00",
+      "source": "Hugging Face Blog",
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
       "summary": [
-        "AI가 조직도에 '아래·옆·사이'로 진입하는 여러 시나리오를 설명한다.",
-        "AI는 단순 자동화를 넘어 협업 파트너와 중개자 역할을 수행하며 업무와 권한 구조를 바꿀 것이다.",
-        "이에 따라 역할 설계·거버넌스·인력전략을 재정비해야 한다고 주장한다."
+        "Hugging Face가 Granite Switch 4.1.1을 출시해 모델 전환·배포 워크플로를 개선했습니다.",
+        "이번 버전은 소프트웨어처럼 모델을 버전 관리하고 롤아웃·롤백을 간소화하는 기능을 제공합니다.",
+        "강화된 안정성·통합·CLI/API로 MLOps 파이프라인 자동화와 운영 효율이 향상됩니다."
       ],
-      "whyItMatters": "조직 운영과 인력·거버넌스에 직접적 영향을 미쳐 기업 경쟁력과 비즈니스 모델을 좌우할 잠재력이 있기 때문에.",
+      "whyItMatters": "모델 관리와 배포를 표준화해 운영 리스크를 줄이고 반복 작업을 크게 감소시키기 때문에 중요합니다.",
       "topics": [
-        "Product",
-        "Business",
         "Tooling",
+        "Infra",
+        "Models"
+      ],
+      "status": "NEW",
+      "hash": "e508e29ae812fe586e8d04934be66406c6967422e675f969f84a3d3abfd18b22",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1"
+    },
+    {
+      "id": "ai_0005",
+      "tab": "ai",
+      "publishedAt": "2026-10-30T00:00:00+09:00",
+      "source": "NVIDIA Developer Blog",
+      "title": "Unlocking Tensor Core Performance for Machine Learning Interatomic Potentials",
+      "summary": [
+        "NVIDIA가 머신러닝 기반 상호원자 퍼텐셜(MLIP)을 텐서 코어에 최적화해 원자 수준 시뮬레이션 성능을 높이는 방법을 소개했습니다.",
+        "행렬 연산 형태로 재구성해 GPU 텐서 코어를 최대 활용함으로써 기존 방식 대비 더 높은 처리량과 효율을 달성합니다.",
+        "이를 통해 화학 반응, 재료 물성, 파괴 메커니즘 등 대규모 원자 시뮬레이션을 더 빠르게 수행할 수 있는 기반을 제공합니다."
+      ],
+      "whyItMatters": "과학·공학에서 핵심인 대규모 원자 시뮬레이션을 GPU 텐서 코어에 맞춰 가속함으로써 연구 속도와 시뮬레이션 규모를 크게 확장할 수 있는 인프라·모델 최적화 방향을 제시하기 때문입니다.",
+      "topics": [
+        "Infra",
+        "Training",
         "Research"
       ],
-      "status": "SHIFTING",
-      "hash": "e2ed7680c50ae3f074e04f962f033e8bab070f352fa8087e45258e537064a005",
-      "url": "https://openai.com/index/the-future-of-the-firm"
+      "status": "NEW",
+      "hash": "411c66dec517a32dcc1770eaa8e56480ed599057c05d006e27010a8ae316124d",
+      "url": "https://developer.nvidia.com/blog/unlocking-tensor-core-performance-for-machine-learning-interatomic-potentials/"
     }
   ]
 }

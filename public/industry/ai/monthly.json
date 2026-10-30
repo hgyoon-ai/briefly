@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-09-30",
-    "to": "2026-10-29"
+    "from": "2026-10-01",
+    "to": "2026-10-30"
   },
   "kpis": {
     "collected": 74,
@@ -12,117 +12,103 @@
       "Product": 24,
       "Models": 20,
       "Research": 15,
-      "Infra": 13,
+      "Infra": 14,
       "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (09/30-10/06)",
+      "week": "Week 1 (10/01-10/07)",
       "topicCounts": {
-        "Tooling": 11,
-        "Product": 9,
-        "Models": 8,
-        "Research": 5,
+        "Tooling": 13,
+        "Product": 11,
+        "Models": 6,
+        "Research": 4,
         "Infra": 5
       }
     },
     {
-      "week": "Week 2 (10/07-10/13)",
-      "topicCounts": {
-        "Tooling": 7,
-        "Product": 6,
-        "Models": 5,
-        "Research": 3,
-        "Infra": 3
-      }
-    },
-    {
-      "week": "Week 3 (10/14-10/20)",
-      "topicCounts": {
-        "Tooling": 15,
-        "Product": 10,
-        "Models": 11,
-        "Research": 8,
-        "Infra": 8
-      }
-    },
-    {
-      "week": "Week 4 (10/21-10/27)",
+      "week": "Week 2 (10/08-10/14)",
       "topicCounts": {
         "Tooling": 10,
-        "Product": 7,
-        "Models": 6,
-        "Research": 4,
-        "Infra": 7
+        "Product": 11,
+        "Models": 9,
+        "Research": 5,
+        "Infra": 4
       }
     },
     {
-      "week": "Week 5 (10/28-10/29)",
+      "week": "Week 3 (10/15-10/21)",
       "topicCounts": {
-        "Tooling": 3,
+        "Tooling": 12,
+        "Product": 10,
+        "Models": 8,
+        "Research": 8,
+        "Infra": 5
+      }
+    },
+    {
+      "week": "Week 4 (10/22-10/28)",
+      "topicCounts": {
+        "Tooling": 7,
         "Product": 4,
         "Models": 3,
         "Research": 2,
-        "Infra": 0
+        "Infra": 6
+      }
+    },
+    {
+      "week": "Week 5 (10/29-10/30)",
+      "topicCounts": {
+        "Tooling": 2,
+        "Product": 2,
+        "Models": 3,
+        "Research": 4,
+        "Infra": 3
       }
     }
   ],
   "topIssues": [
     {
-      "id": 1,
+      "id": "ai-1",
       "status": "NEW",
-      "title": "차세대 프런티어 모델 경쟁: Google DeepMind의 Gemini 4 Carbon 발표",
-      "summary": "Google DeepMind가 Gemini 4 Carbon을 차세대 프런티어 모델로 공개하며 성능·효율·안전성을 동시에 강화하는 청사진을 제시했다. 연구와 제품을 한 축에서 가속하는 전략으로, 초거대 모델 경쟁이 단순 파라미터 확장에서 비용·안전·실사용 최적화 중심으로 재편되는 흐름을 보여준다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Google DeepMind Blog",
-          "title": "Gemini 4 Carbon: Our next frontier model",
-          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/"
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "status": "SHIFTING",
-      "title": "AI가 조직 구조를 재편: ‘디지털 동료’와 중개자로서의 역할 부상",
-      "summary": "OpenAI는 AI가 조직도 상에서 관리자·실무자 사이, 혹은 팀 간을 잇는 ‘아래·옆·사이’ 계층으로 들어오는 시나리오를 제시한다. 이는 단순 자동화 도구를 넘어 의사결정 보조, 협업 조율, 업무 중개 역할을 수행하는 디지털 동료로의 전환을 의미하며, 권한 구조와 업무 설계 방식의 중장기 변화를 예고한다.",
+      "title": "유익한 AI 개발을 위한 OpenAI 업데이트 모델 명세",
+      "summary": "OpenAI가 최신 모델 명세를 공개하며 건전한 판단, 인간의 주체성 존중, 인간 의도에 대한 충실성 등 다섯 가지 핵심 가치를 구체화했다. 이는 향후 모델 설계·평가·정책 수립의 기준으로 활용될 것으로 보이며, 실사용 환경에서의 책임 있는 AI 거버넌스를 강화하는 방향으로 주간·월간 논의가 이어지는 핵심 이슈다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "OpenAI Blog",
-          "title": "The future of the firm",
-          "url": "https://openai.com/index/the-future-of-the-firm"
+          "title": "An updated Model Spec for more capable and beneficial AI",
+          "url": "https://openai.com/index/updated-model-spec"
         }
       ]
     },
     {
-      "id": 3,
+      "id": "ai-2",
       "status": "ONGOING",
-      "title": "AI 팩토리 인프라 고도화: GPU 텔레메트리와 자율 복구형 클러스터 운영",
-      "summary": "NVIDIA는 대규모 AI 팩토리 운영을 위해 텔레메트리 통합 플랫폼 Minerva와 Kubernetes 자율 복구를 제공하는 Mission Control 2.5를 강화하고 있다. 분산된 GPU 메트릭을 통합·정규화해 수율과 활용률을 극대화하고, 장애 자동 감지·복구를 통해 대규모 학습 중단을 최소화하는 등, 고가용성·고효율 인프라가 AI 경쟁력의 핵심 축으로 부상하고 있다.",
+      "title": "프런티어 모델 정렬 모니터링과 안전성 강화",
+      "summary": "OpenAI가 계층화된 모니터링 체계로 프런티어 모델의 오작동·탈선 행동을 조기 탐지하는 접근법을 공유했다. 에이전트의 무단 행동을 실시간에 가깝게 포착해 대응자가 개입할 수 있도록 설계되었으며, 고성능 모델 배포 시 필수적인 안전 관리 레이어로서 향후 지속적인 개선이 예상된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "How we detect frontier model misalignment",
+          "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
+        }
+      ]
+    },
+    {
+      "id": "ai-3",
+      "status": "NEW",
+      "title": "ML 가속을 위한 NVIDIA 텐서 코어·TensorRT 성능 최적화",
+      "summary": "NVIDIA는 텐서 코어에 최적화된 머신러닝 기반 상호원자 퍼텐셜(MLIP) 기법과, TensorRT 11.1 Global Performance Tuner를 통한 정확도 인지형 자동 성능 튜닝 전략을 제시했다. 행렬 연산 재구성과 다중 빌드 경로 튜닝으로 시뮬레이션·추론 처리량을 크게 높이는 등, 주간·월간 단위로 계속되는 AI 인프라 성능 향상 흐름을 보여준다.",
       "articleCount": 2,
       "relatedArticles": [
         {
           "source": "NVIDIA Developer Blog",
-          "title": "How NVIDIA Minerva Turns Telemetry Chaos Into Peak GPU Yield",
-          "url": "https://developer.nvidia.com/blog/how-nvidia-minerva-turns-telemetry-chaos-into-peak-gpu-yield/"
+          "title": "Unlocking Tensor Core Performance for Machine Learning Interatomic Potentials",
+          "url": "https://developer.nvidia.com/blog/unlocking-tensor-core-performance-for-machine-learning-interatomic-potentials/"
         },
-        {
-          "source": "NVIDIA Developer Blog",
-          "title": "How NVIDIA Mission Control 2.5 Brings Autonomous Recovery to Kubernetes",
-          "url": "https://developer.nvidia.com/blog/how-nvidia-mission-control-2-5-brings-autonomous-recovery-to-kubernetes/"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "status": "ONGOING",
-      "title": "추론 최적화 자동화: TensorRT Global Performance Tuner의 멀티 빌드 튜닝",
-      "summary": "NVIDIA TensorRT 11.1의 Global Performance Tuner는 정확도를 고려한 자동 성능 튜닝을 단일 빌드 경로에서 다중 빌드 경로로 확장하고 있다. 이를 통해 다양한 하드웨어·배포 구성에 맞춘 추론 성능 탐색을 체계적으로 자동화함으로써, 수작업 프로파일링 의존도를 줄이고 대규모 서비스 환경에서 일관된 최적화 전략 수립을 가능하게 한다.",
-      "articleCount": 1,
-      "relatedArticles": [
         {
           "source": "NVIDIA Developer Blog",
           "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2",
@@ -131,16 +117,30 @@
       ]
     },
     {
-      "id": 5,
+      "id": "ai-4",
       "status": "NEW",
-      "title": "연구 아이디어 발굴 지원 도구 부상: 문헌 경관 기반 동적 컨텍스트화",
-      "summary": "Hugging Face의 LitPivot는 대규모 논문 코퍼스를 토픽 맵과 네트워크로 시각화하고, 아이디어 후보를 관련 문헌·연구 흐름과 동적으로 연결해준다. 이는 LLM과 결합된 ‘연구용 코파일럿’이 아이디어 생성부터 정교화까지 지원하는 방향으로 발전하고 있음을 보여주며, 학술 연구 워크플로우의 자동화 수준을 높이고 있다.",
+      "title": "모델을 소프트웨어처럼 운영하는 Granite Switch 4.1.1",
+      "summary": "Hugging Face의 Granite Switch 4.1.1은 모델 버전 관리, 롤아웃·롤백 자동화 등 MLOps 워크플로를 소프트웨어 배포 수준으로 표준화한다. 모델 교체·업데이트를 위험 최소화와 함께 빠르게 수행할 수 있어, 실서비스 환경에서 모델 운영 방식을 재편하는 도구로 부상하고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Hugging Face Blog",
-          "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-          "url": "https://huggingface.co/blog/allenai/litpivot"
+          "title": "Granite Switch 4.1.1 — Update models like you update software",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1"
+        }
+      ]
+    },
+    {
+      "id": "ai-5",
+      "status": "ONGOING",
+      "title": "대규모 인디크 언어 사전학습과 오픈 데이터 파이프라인",
+      "summary": "Hugging Face가 2.8조 토큰 규모의 인디크 언어 사전학습 데이터와 이를 생성하는 오픈 파이프라인을 공개했다. 수집·정제·중복 제거와 라이선스 검증을 자동화해 재현성과 법적 안정성을 동시에 확보함으로써, 비영어권·저자원 언어 대규모 모델 개발의 기반을 강화하는 추세가 이어지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+          "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
         }
       ]
     }

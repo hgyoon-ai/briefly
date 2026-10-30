@@ -1,78 +1,54 @@
 {
   "range": {
-    "from": "2026-10-23",
-    "to": "2026-10-29"
+    "from": "2026-10-24",
+    "to": "2026-10-30"
   },
   "kpis": {
     "collected": 10,
     "deduped": 10,
-    "uniqueTopics": 6
+    "uniqueTopics": 7
   },
   "topTopics": [
     {
       "name": "MarketInfra",
-      "count": 10
+      "count": 9
     },
     {
       "name": "Policy",
-      "count": 6
-    },
-    {
-      "name": "Fintech",
-      "count": 3
+      "count": 5
     },
     {
       "name": "Regulation",
+      "count": 4
+    },
+    {
+      "name": "Fintech",
       "count": 3
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-10-23",
-      "dayOfWeek": "Fri",
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
       "topic": "MarketInfra",
-      "count": 0
+      "count": 2
     },
     {
-      "date": "2026-10-23",
-      "dayOfWeek": "Fri",
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
       "topic": "Policy",
-      "count": 0
+      "count": 2
     },
     {
-      "date": "2026-10-23",
-      "dayOfWeek": "Fri",
-      "topic": "Fintech",
-      "count": 0
-    },
-    {
-      "date": "2026-10-23",
-      "dayOfWeek": "Fri",
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
       "topic": "Regulation",
       "count": 0
     },
     {
       "date": "2026-10-24",
       "dayOfWeek": "Sat",
-      "topic": "MarketInfra",
-      "count": 4
-    },
-    {
-      "date": "2026-10-24",
-      "dayOfWeek": "Sat",
-      "topic": "Policy",
-      "count": 4
-    },
-    {
-      "date": "2026-10-24",
-      "dayOfWeek": "Sat",
       "topic": "Fintech",
-      "count": 0
-    },
-    {
-      "date": "2026-10-24",
-      "dayOfWeek": "Sat",
-      "topic": "Regulation",
       "count": 0
     },
     {
@@ -90,13 +66,13 @@
     {
       "date": "2026-10-25",
       "dayOfWeek": "Sun",
-      "topic": "Fintech",
+      "topic": "Regulation",
       "count": 0
     },
     {
       "date": "2026-10-25",
       "dayOfWeek": "Sun",
-      "topic": "Regulation",
+      "topic": "Fintech",
       "count": 0
     },
     {
@@ -114,73 +90,79 @@
     {
       "date": "2026-10-26",
       "dayOfWeek": "Mon",
-      "topic": "Fintech",
-      "count": 1
+      "topic": "Regulation",
+      "count": 2
     },
     {
       "date": "2026-10-26",
       "dayOfWeek": "Mon",
+      "topic": "Fintech",
+      "count": 1
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
       "topic": "Regulation",
+      "count": 1
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "Fintech",
+      "count": 1
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Fintech",
+      "count": 0
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "MarketInfra",
       "count": 2
     },
     {
-      "date": "2026-10-27",
-      "dayOfWeek": "Tue",
-      "topic": "MarketInfra",
-      "count": 1
-    },
-    {
-      "date": "2026-10-27",
-      "dayOfWeek": "Tue",
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
       "topic": "Policy",
-      "count": 1
-    },
-    {
-      "date": "2026-10-27",
-      "dayOfWeek": "Tue",
-      "topic": "Fintech",
-      "count": 1
-    },
-    {
-      "date": "2026-10-27",
-      "dayOfWeek": "Tue",
-      "topic": "Regulation",
-      "count": 1
-    },
-    {
-      "date": "2026-10-28",
-      "dayOfWeek": "Wed",
-      "topic": "MarketInfra",
-      "count": 0
-    },
-    {
-      "date": "2026-10-28",
-      "dayOfWeek": "Wed",
-      "topic": "Policy",
-      "count": 0
-    },
-    {
-      "date": "2026-10-28",
-      "dayOfWeek": "Wed",
-      "topic": "Fintech",
-      "count": 0
-    },
-    {
-      "date": "2026-10-28",
-      "dayOfWeek": "Wed",
-      "topic": "Regulation",
       "count": 0
     },
     {
       "date": "2026-10-29",
       "dayOfWeek": "Thu",
-      "topic": "MarketInfra",
-      "count": 2
-    },
-    {
-      "date": "2026-10-29",
-      "dayOfWeek": "Thu",
-      "topic": "Policy",
+      "topic": "Regulation",
       "count": 0
     },
     {
@@ -190,9 +172,27 @@
       "count": 1
     },
     {
-      "date": "2026-10-29",
-      "dayOfWeek": "Thu",
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
       "topic": "Regulation",
+      "count": 1
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Fintech",
       "count": 0
     }
   ],
@@ -200,27 +200,36 @@
     {
       "id": 1,
       "status": "NEW",
-      "title": "SK하이닉스·삼성전자, 사상 최대 실적이 던지는 증시 영향",
-      "summary": "SK하이닉스와 삼성전자가 잇따라 분기 기준 사상 최대 수준의 실적을 발표하며 국내 반도체 업종과 코스피 전반의 이익 추정치 상향을 이끌고 있다. 다만 환율·AI 수요 지속 가능성 등 외부 변수에 따라 밸류에이션 변동성이 커질 수 있어, 단기 주가 과열 및 향후 조정 가능성도 동시에 제기되는 상황이다.",
-      "articleCount": 2,
+      "title": "코스피 4% 급락과 매도 사이드카 발동",
+      "summary": "국내 증시 코스피가 장중 4%대 급락하면서 프로그램 매도 물량을 제어하기 위한 매도 사이드카가 발동됐다. 변동성 확대 국면에서 시장 안정 장치가 실제로 작동했다는 점에서 단기 수급불안과 향후 추가 변동성에 대한 경계가 필요한 상황이다.",
+      "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
-          "title": "하이닉스 역대급 실적날 구글이 ‘경고장’ 내던졌다?",
-          "url": "https://www.mk.co.kr/news/stock/12189564"
-        },
-        {
-          "source": "매일경제(증권)",
-          "title": "“석달 만에 100조 벌었다는데” … 내 주식만 왜 떨어지는지 궁금하다면",
-          "url": "https://www.mk.co.kr/news/stock/12185059"
+          "title": "[속보] 코스피 4%대 급락…매도 사이드카 발동",
+          "url": "https://www.mk.co.kr/news/stock/12191260"
         }
       ]
     },
     {
       "id": 2,
       "status": "ONGOING",
-      "title": "AI 버블 리스크와 앤트로픽 IPO가 촉발한 기술주 변동성",
-      "summary": "한국은행은 AI 투자 열기가 꺾일 경우 최대 132조원 규모의 손실이 발생할 수 있다고 경고하며 AI 관련 자산 가격 조정 위험을 부각했다. 동시에 대규모 적자를 기록 중인 앤트로픽이 나스닥 상장을 추진하면서, 기술주 IPO가 시장 유동성을 끌어들이는 기회인 동시에 거품 논란과 변동성 확대 요인으로 작용하고 있다.",
+      "title": "북한·AI 활용 사이버 공격 리스크의 금융시장 파급",
+      "summary": "MS 보고서에 따르면 북한 해킹 조직이 한국을 겨냥해 100여 개의 악성코드를 살포했고, AI 기반 해킹 역량이 최고 수준에 도달한 것으로 평가된다. 금융사·핀테크를 포함한 국내 디지털 금융 인프라에 대한 보안 투자 확대와 규제 강화 압력이 커질 수 있는 이슈다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[단독] MS “北, 한국에 악성코드 100개 뿌렸다…AI 해킹, 최고 수준”",
+          "url": "https://www.mk.co.kr/news/stock/12191238"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "AI 버블·앤트로픽 실적 우려와 글로벌 증시 리스크",
+      "summary": "한국은행은 AI 투자 열기가 꺾일 경우 132조원 규모 손실이 발생할 수 있는 최악 시나리오를 제시했다. 상반기에만 106조원 적자를 낸 앤트로픽은 상장 전후로 글로벌 기술주 밸류에이션과 변동성의 핵심 변수로 떠오르며, AI 테마에 대한 국내외 자금의 리레이팅 가능성을 키우고 있다.",
       "articleCount": 2,
       "relatedArticles": [
         {
@@ -236,44 +245,35 @@
       ]
     },
     {
-      "id": 3,
-      "status": "ONGOING",
-      "title": "넥스트레이드 유동성 위축과 가격 왜곡 논란",
-      "summary": "대체거래소 넥스트레이드의 거래량이 급감하고 기관 참여가 부족해 상위 소수 종목으로 거래가 과도하게 쏠리면서 유동성 부족과 가격 왜곡 문제가 부각되고 있다. 새 시장 인프라 활성화를 위한 제도·수수료 구조 개선 및 투자자 보호 장치 논의가 필요한 시점이라는 평가가 나온다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "매일경제(증권)",
-          "title": "장 열리니 하이닉스 30% 폭락?…외면받는 넥스트레이드, 거래량 급감 이유는",
-          "url": "https://www.mk.co.kr/news/stock/12185324"
-        }
-      ]
-    },
-    {
       "id": 4,
-      "status": "ONGOING",
-      "title": "방어주로 부각되는 보험주와 고금리 배당 전략",
-      "summary": "글로벌 증시 변동성이 확대되는 가운데 금리 상승 기조가 이어지며 보험주가 고배당·방어주로 재조명되고 있다. 성장주는 조정받는 반면 안정적 이익과 배당 성향을 가진 금융·보험 섹터로 자금이 이동하는 흐름이 관찰되고 있다.",
+      "status": "NEW",
+      "title": "SK하이닉스 사상 최대 실적과 글로벌 반도체 시장 영향",
+      "summary": "SK하이닉스가 3분기 매출 104조6000억원, 영업이익 83조3000억원의 사상 최대 실적을 기록하며 메모리 사이클 반등을 재확인시켰다. 다만 빅테크 고객사 견제와 규제 가능성 등으로 인해 글로벌 반도체 밸류체인 전반의 전략 조정이 필요한 국면이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
-          "title": "증시 큰 변동성에도 버티는 보험주…배당·방어주로 부각된다는데",
-          "url": "https://www.mk.co.kr/news/stock/12184896"
+          "title": "하이닉스 역대급 실적날 구글이 ‘경고장’ 내던졌다?",
+          "url": "https://www.mk.co.kr/news/stock/12189564"
         }
       ]
     },
     {
       "id": 5,
       "status": "ONGOING",
-      "title": "코스피 급락 후 11월 ‘W자 반등’ 가능성 주목",
-      "summary": "코스피가 4개월 동안 9100선에서 5500선까지 급락한 뒤 역사적 저점 부근에 근접하면서, 증권가는 11월을 저가 매수와 기술적 ‘W자 반등’ 구간으로 제시하고 있다. 다만 반등 강도는 글로벌 긴축 기조, 반도체 사이클, 환율 재료에 따라 달라질 수 있어 순환매 중심 대응 전략이 강조된다.",
-      "articleCount": 1,
+      "title": "삼성전자·삼성전기 실적 모멘텀과 IT 하드웨어 리레이팅",
+      "summary": "삼성전자가 분기 영업이익 100조원을 돌파한 데 이어, 삼성전기는 시장 예상치를 상회하는 3분기 실적으로 목표주가가 상향 조정됐다. 환율 부담에도 실적이 개선되며 IT·전자 부품주 전반의 밸류에이션 정상화 및 수급 유입 가능성이 부각되고 있다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
-          "title": "9100→5500까지 하락한 코스피…“11월은 W자 반등에 주목”",
-          "url": "https://www.mk.co.kr/news/stock/12184843"
+          "title": "“환율 뚫은 압도적 실적”…삼성전기 목표주가 175만→190만원 [오늘 나온 보고서]",
+          "url": "https://www.mk.co.kr/news/stock/12189492"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "“석달 만에 100조 벌었다는데” … 내 주식만 왜 떨어지는지 궁금하다면",
+          "url": "https://www.mk.co.kr/news/stock/12185059"
         }
       ]
     }

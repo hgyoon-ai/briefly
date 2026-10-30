@@ -1,63 +1,33 @@
 {
   "range": {
-    "from": "2026-10-23",
-    "to": "2026-10-29"
+    "from": "2026-10-24",
+    "to": "2026-10-30"
   },
   "kpis": {
-    "collected": 10,
-    "deduped": 10,
+    "collected": 12,
+    "deduped": 12,
     "uniqueTopics": 7
   },
   "topTopics": [
     {
+      "name": "Manufacturing",
+      "count": 9
+    },
+    {
       "name": "Roadmap",
+      "count": 8
+    },
+    {
+      "name": "Investment",
       "count": 7
     },
     {
-      "name": "Manufacturing",
-      "count": 6
-    },
-    {
-      "name": "Competition",
-      "count": 5
-    },
-    {
       "name": "Demand",
-      "count": 4
+      "count": 5
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-10-23",
-      "dayOfWeek": "Fri",
-      "topic": "Roadmap",
-      "count": 1
-    },
-    {
-      "date": "2026-10-23",
-      "dayOfWeek": "Fri",
-      "topic": "Manufacturing",
-      "count": 1
-    },
-    {
-      "date": "2026-10-23",
-      "dayOfWeek": "Fri",
-      "topic": "Competition",
-      "count": 1
-    },
-    {
-      "date": "2026-10-23",
-      "dayOfWeek": "Fri",
-      "topic": "Demand",
-      "count": 1
-    },
-    {
-      "date": "2026-10-24",
-      "dayOfWeek": "Sat",
-      "topic": "Roadmap",
-      "count": 1
-    },
-    {
       "date": "2026-10-24",
       "dayOfWeek": "Sat",
       "topic": "Manufacturing",
@@ -66,19 +36,19 @@
     {
       "date": "2026-10-24",
       "dayOfWeek": "Sat",
-      "topic": "Competition",
-      "count": 1
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Investment",
+      "count": 0
     },
     {
       "date": "2026-10-24",
       "dayOfWeek": "Sat",
       "topic": "Demand",
-      "count": 0
-    },
-    {
-      "date": "2026-10-25",
-      "dayOfWeek": "Sun",
-      "topic": "Roadmap",
       "count": 0
     },
     {
@@ -90,7 +60,13 @@
     {
       "date": "2026-10-25",
       "dayOfWeek": "Sun",
-      "topic": "Competition",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
       "count": 0
     },
     {
@@ -98,12 +74,6 @@
       "dayOfWeek": "Sun",
       "topic": "Demand",
       "count": 0
-    },
-    {
-      "date": "2026-10-26",
-      "dayOfWeek": "Mon",
-      "topic": "Roadmap",
-      "count": 2
     },
     {
       "date": "2026-10-26",
@@ -114,8 +84,14 @@
     {
       "date": "2026-10-26",
       "dayOfWeek": "Mon",
-      "topic": "Competition",
-      "count": 1
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Investment",
+      "count": 0
     },
     {
       "date": "2026-10-26",
@@ -126,20 +102,20 @@
     {
       "date": "2026-10-27",
       "dayOfWeek": "Tue",
-      "topic": "Roadmap",
-      "count": 1
-    },
-    {
-      "date": "2026-10-27",
-      "dayOfWeek": "Tue",
       "topic": "Manufacturing",
       "count": 0
     },
     {
       "date": "2026-10-27",
       "dayOfWeek": "Tue",
-      "topic": "Competition",
+      "topic": "Roadmap",
       "count": 1
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 0
     },
     {
       "date": "2026-10-27",
@@ -150,19 +126,19 @@
     {
       "date": "2026-10-28",
       "dayOfWeek": "Wed",
-      "topic": "Roadmap",
-      "count": 0
-    },
-    {
-      "date": "2026-10-28",
-      "dayOfWeek": "Wed",
       "topic": "Manufacturing",
       "count": 0
     },
     {
       "date": "2026-10-28",
       "dayOfWeek": "Wed",
-      "topic": "Competition",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Investment",
       "count": 1
     },
     {
@@ -174,96 +150,135 @@
     {
       "date": "2026-10-29",
       "dayOfWeek": "Thu",
-      "topic": "Roadmap",
-      "count": 2
+      "topic": "Manufacturing",
+      "count": 6
     },
     {
       "date": "2026-10-29",
       "dayOfWeek": "Thu",
-      "topic": "Manufacturing",
+      "topic": "Roadmap",
+      "count": 5
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 5
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Demand",
       "count": 3
     },
     {
-      "date": "2026-10-29",
-      "dayOfWeek": "Thu",
-      "topic": "Competition",
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
       "count": 0
     },
     {
-      "date": "2026-10-29",
-      "dayOfWeek": "Thu",
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
       "topic": "Demand",
-      "count": 2
+      "count": 1
     }
   ],
   "topIssues": [
     {
-      "id": 1,
-      "status": "SHIFTING",
-      "title": "AI 시대 ‘광(光) 인터커넥트’ 전환 가속: 실리콘 포토닉스·CPO 부상",
-      "summary": "수만 개 GPU를 묶는 AI 데이터센터에서 전기 신호 기반 인터커넥트가 속도·전력·발열 한계에 직면하면서, 실리콘 포토닉스와 CPO(칩 근접 광연결)가 차세대 고속·저지연 네트워크의 핵심 기술로 부상하고 있다. 이는 메모리·패키징·스위치까지 포함한 시스템 아키텍처 재설계를 요구해 반도체 공급망 전반에 중장기 투자·로드맵 수정을 촉발하고 있다.",
+      "id": "semicon-1",
+      "status": "ONGOING",
+      "title": "AI 메모리 호황에 따른 삼성전자 실적 도약",
+      "summary": "AI 서버·가속기용 고대역폭 메모리 수요 급증으로 삼성전자의 분기 영업이익과 매출이 사상 최대 수준을 기록했다. AI용 D램·HBM 등 고부가 메모리가 수익성을 견인하며, 메모리 중심 실적 회복 국면이 지속되는 흐름이다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Samsung Electronics Posts $80B Operating Profit on AI Memory Demand",
+          "url": "https://www.eetimes.com/samsung-electronics-posts-80b-operating-profit-on-ai-memory-demand/"
+        },
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung Electronics Announces Third Quarter 2026 Results",
+          "url": "https://news.samsung.com/global/samsung-electronics-announces-third-quarter-2026-results"
+        }
+      ]
+    },
+    {
+      "id": "semicon-2",
+      "status": "ONGOING",
+      "title": "AI가 견인하는 차세대 반도체 제조·소재 혁신",
+      "summary": "고성능 AI 칩의 전력 효율과 수율을 높이기 위해 반도체 업계는 신규 반도체 소재, 정밀 공정, 첨단 패키징에 대한 투자를 확대하고 있다. 설계·제조·장비·패키징 전 공정에서 AI 워크로드 최적화가 핵심 기준으로 자리잡는 추세다.",
       "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "How AI Redefines Semiconductor Manufacturing, From Materials Up",
+          "url": "https://www.eetimes.com/how-ai-redefines-semiconductor-manufacturing-from-materials-up/"
+        }
+      ]
+    },
+    {
+      "id": "semicon-3",
+      "status": "SHIFTING",
+      "title": "유럽 NCAP 규제로 인한 차량용 센서·반도체 수요 재편",
+      "summary": "유럽 NCAP 안전 기준 강화로 완성차 업체들이 스티어링휠 기반 센서에서 차내 통합 센서 시스템으로 전환을 검토하고 있다. 이에 따라 카메라·레이더·적외선 센서 등 차량용 반도체 구성과 아키텍처가 중장기적으로 재편될 가능성이 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Automakers Reconsider In-Cabin Sensing for Euro NCAP Ratings",
+          "url": "https://www.eetimes.com/automakers-reconsider-in-cabin-sensing-for-euro-ncap-ratings/"
+        }
+      ]
+    },
+    {
+      "id": "semicon-4",
+      "status": "SHIFTING",
+      "title": "실리콘 포토닉스·CPO 기반 AI 데이터센터 광인터커넥트 전환",
+      "summary": "AI 클러스터의 병목이 GPU 연산보다 데이터 이동으로 집중되면서, 실리콘 포토닉스와 CPO를 활용한 광인터커넥트가 차세대 데이터센터 인프라의 핵심 기술로 부상하고 있다. LPO·NPO 등 다양한 광 패키징 방식이 검토되며 네트워크 구조와 패키징 생태계 변화가 진행 중이다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
           "source": "SK hynix Newsroom",
           "title": "[Tech Note] Why does AI still have to wait with tens of thousands of GPUs? How silicon photonics and CPO are building the ‘highways of light’",
-          "url": "https://news.skhynix.com/en/tech-note-series-ep3/"
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "status": "SHIFTING",
-      "title": "AI 메모리 수퍼사이클 본격화: SK하이닉스 분기 최대 실적",
-      "summary": "HBM을 중심으로 한 AI 메모리 수요 폭증과 가격 상승으로 SK하이닉스가 분기 사상 최대 실적을 기록했다. 장기 공급 계약 확대와 고부가 메모리 믹스 개선이 수익성을 끌어올리며, AI 인프라 투자가 장기간 메모리 업황을 지지하는 ‘수퍼사이클’ 국면에 진입했다는 신호로 해석된다.",
-      "articleCount": 1,
-      "relatedArticles": [
+          "url": "https://news.skhynix.com/en/tech-note-series-ep3-6/"
+        },
         {
-          "source": "EE Times",
-          "title": "SK Hynix Reports Record Q3 Results Driven by AI Memory Surge",
-          "url": "https://www.eetimes.com/sk-hynix-reports-record-q3-results-driven-by-ai-memory-surge/"
+          "source": "SK hynix Newsroom",
+          "title": "[Tech Note] Why does AI still have to wait with tens of thousands of GPUs? How silicon photonics and CPO are building the ‘highways of light’",
+          "url": "https://news.skhynix.com/en/tech-note-series-ep3-5/"
         }
       ]
     },
     {
-      "id": 3,
-      "status": "SHIFTING",
-      "title": "AI 칩 패키징 패러다임 변화: 패널 레벨 공정 부상",
-      "summary": "고대역폭·저지연을 요구하는 AI 칩 수요가 폭증하면서 웨이퍼 기반 패키징만으로는 비용·수율·확장성 한계에 봉착했다. 대형 기판을 한 번에 처리하는 패널 레벨 패키징이 첨단 패키징의 유력 대안으로 부상해, 파운드리·OSAT·장비업체의 설비 투자 및 공정 로드맵 재편을 이끌고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "EE Times",
-          "title": "The AI Packaging Challenge: 5 Reasons Panels Are Gaining Momentum",
-          "url": "https://www.eetimes.com/the-ai-packaging-challenge-5-reasons-panels-are-gaining-momentum/"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "status": "SHIFTING",
-      "title": "Arm–Qualcomm 분쟁 이후: CPU IP 지형과 RISC‑V 대안 부상",
-      "summary": "Arm이 퀄컴과의 소송에서 명목상 승소에도 불구하고 실질 손해배상이 2달러에 그치며, 칩 설계 생태계에서 Arm 의존 구조에 대한 재검토가 본격화되고 있다. 업계 전문가들은 AI 워크로드에서 개방형 아키텍처인 RISC‑V가 장기 유연성과 라이선스 리스크 완화 측면의 대안으로 부상할 수 있다고 전망하며, 이는 반도체 설계·툴·IP 생태계 전반의 구조 변화를 예고한다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "EE Times",
-          "title": "Arm Comments on Jury Decision in Qualcomm Trial",
-          "url": "https://www.eetimes.com/arm-comments-on-jury-decision-in-qualcomm-trial/"
-        }
-      ]
-    },
-    {
-      "id": 5,
+      "id": "semicon-5",
       "status": "ONGOING",
-      "title": "양자 컴퓨팅 인프라용 신소재·냉각 기술 투자 확대",
-      "summary": "캐나다 스타트업 Meissner Technologies가 AI 기반 소재 탐색을 통해 초전도 물질과 냉각 비용 절감 기술을 개발하며 ‘양자 컴퓨팅용 곡괭이와 삽’ 역할을 지향하고 있다. 이는 반도체·재료·장비 산업이 양자 컴퓨팅 인프라를 차세대 성장 축으로 보고 선제적 투자와 파트너십을 확대하는 흐름과 맞물려 있다.",
-      "articleCount": 1,
+      "title": "프리미엄 오디오·브랜드 경쟁력과 반도체 수요 연계",
+      "summary": "JBL, Bowers & Wilkins 등 프리미엄 오디오 브랜드의 차량·가정·모바일 확장은 오디오 코덱, 앰프, DSP 등 관련 반도체 수요 확대와 직결된다. 삼성전자의 글로벌 브랜드 가치 유지 역시 시스템 반도체·디바이스 생태계 확장 전략과 맞물려 있다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
-          "source": "EE Times",
-          "title": "Canadian Startup Aims to Be Quantum’s ‘Picks’ and ‘Shovels’",
-          "url": "https://www.eetimes.com/canadian-startup-aims-to-be-quantums-picks-and-shovels/"
+          "source": "Samsung Newsroom",
+          "title": "[Interview] Sound That Connects: 80 Years of Audio and the Future of Connected Experiences",
+          "url": "https://news.samsung.com/global/interview-sound-that-connects-80-years-of-audio-and-the-future-of-connected-experiences"
+        },
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung Ranks No. 5 in Interbrand’s ‘Best Global Brands 2026’ for Seventh Consecutive Year",
+          "url": "https://news.samsung.com/global/samsung-ranks-no-5-in-interbrands-best-global-brands-2026-for-seventh-consecutive-year"
         }
       ]
     }

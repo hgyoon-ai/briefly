@@ -1,64 +1,63 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "highlights": {
     "bullets": [
-      "핵심: CATL이 20Ah급 전고체 배터리 셀 개발에 성공했으며 500Wh/kg 달성을 목표로 합니다.",
-      "핵심: BYD는 직원 수가 102만 명을 넘어 토요타·GM·포드·테슬라 합산을 웃돌았습니다."
+      "핵심: 도요타의 전기차 판매가 전년 대비 127% 증가했으나 글로벌 판매는 감소했다.",
+      "핵심: 리비안 3분기 매출이 전년 대비 38% 증가했고 R2가 베스트셀러가 됐다."
     ],
     "topTopics": [
       "Competition",
       "Roadmap",
-      "Investment",
-      "Demand"
+      "Demand",
+      "Investment"
     ],
     "stats": {
-      "collected": 14,
-      "deduped": 14
+      "collected": 12,
+      "deduped": 12
     }
   },
   "cards": [
     {
       "id": "ev_0001",
       "tab": "ev",
-      "publishedAt": "2026-10-29T00:12:41+09:00",
+      "publishedAt": "2026-10-30T05:02:40+09:00",
       "source": "Electrek",
-      "title": "CATL pushes ahead with 20 Ah solid-state EV batteries, with 500 Wh/kg in sight",
+      "title": "Toyota’s EV sales more than doubled in a year, but gas cars are getting crushed in China",
       "summary": [
-        "CATL이 20Ah급 전고체 배터리 셀 개발에 성공하며 새로운 마일스톤을 달성했습니다.",
-        "해당 전고체 셀은 500Wh/kg 에너지 밀도 달성을 목표로 하고 있습니다.",
-        "CATL은 2027년부터 소규모 양산을 시작한다는 계획을 제시했습니다."
+        "도요타의 EV 판매는 9월까지 전년 대비 127% 증가했지만, 전체 판매 흐름을 완전히 상쇄하지는 못하고 있다.",
+        "중국에서 내연기관 및 하이브리드 차량 수요가 급감하면서 도요타의 글로벌 판매는 3개월 연속 감소했다.",
+        "EV 성장과 동시에 핵심 시장인 중국에서의 가솔린차 부진이 도요타의 제품 믹스와 지역 전략 재조정을 요구하고 있다."
       ],
-      "whyItMatters": "전고체 배터리의 고에너지 밀도와 상용화 일정이 전기차 성능·원가·경쟁 구도에 중대한 영향을 줄 수 있기 때문입니다.",
+      "whyItMatters": "전기차 판매 급증에도 불구하고 중국에서의 내연기관·하이브리드 수요 붕괴가 글로벌 판매에 직접적인 압박을 주어 도요타의 수익성과 중장기 전동화 전략에 중대한 영향을 미치기 때문이다.",
       "topics": [
-        "Roadmap",
-        "Manufacturing",
+        "Demand",
         "Competition",
-        "Investment"
+        "Roadmap"
       ],
-      "status": "ONGOING",
-      "hash": "9bd2b20111b2735ef5b2ec3c8db50556f89871fbe42463b0e793d562d88d5805",
-      "url": "https://electrek.co/2026/10/28/catl-pushes-ahead-20-ah-solid-state-ev-batteries-500-wh-kg/"
+      "status": "SHIFTING",
+      "hash": "98e22f4a73cedb1bbe1d8f45b62d12cc467f32db92ce0fae39f7360b0225a376",
+      "url": "https://electrek.co/2026/10/29/toyotas-ev-sales-doubled-but-gas-cars-getting-crushed-china/"
     },
     {
       "id": "ev_0002",
       "tab": "ev",
-      "publishedAt": "2026-10-29T09:41:17+09:00",
+      "publishedAt": "2026-10-30T05:02:00+09:00",
       "source": "Electrek",
-      "title": "BYD now has 1.02 million workers, more than Toyota, GM, Ford, and Tesla combined",
+      "title": "Rivian (RIVN) Q3 2026 earnings: revenue up 38%, R2 now its best-seller",
       "summary": [
-        "BYD는 현재 102만 명 이상의 직원을 보유해 토요타·GM·포드·테슬라 인력을 모두 합친 것보다 많습니다.",
-        "2025년 말 약 86만 9,600명에서 10개월 만에 약 15만 명을 추가 고용했습니다.",
-        "이는 차량 판매 감소 국면에서도 대규모 인력 확충을 단행한 이례적 움직임입니다."
+        "리비안은 2026년 3분기 매출이 전년 대비 38% 증가한 21.55억 달러를 기록해 시장 기대치를 상회했습니다.",
+        "R2 모델은 첫 번째 완전 분기 출하만에 R1과 아마존 밴을 제치고 리비안의 베스트셀러 차량이 되었습니다.",
+        "다만 R2 증산 과정에서 자동차 부문 마진이 악화되며 여전히 차량 사업은 손실을 내고 있습니다."
       ],
-      "whyItMatters": "판매 둔화에도 불구하고 BYD가 공격적인 인력 확대를 통해 생산·내재화·신사업 확장을 준비하는 신호로, 향후 경쟁 구도와 수익성에 중대한 영향을 줄 수 있기 때문입니다.",
+      "whyItMatters": "실적 서프라이즈와 R2의 강한 수요로 성장 스토리는 강화됐지만, R2 램프로 인한 수익성 악화가 중장기 밸류에이션과 투자심리에 중요한 변수가 되기 때문입니다.",
       "topics": [
-        "Manufacturing",
-        "Competition",
-        "Investment"
+        "Earnings",
+        "Demand",
+        "Roadmap"
       ],
       "status": "ONGOING",
-      "hash": "42ef63bd12f112c82f7ffe7f5656991b9008633f8a0ed027f3becd0bb5a21c4b",
-      "url": "https://electrek.co/2026/10/28/byd-1-million-employees-more-than-toyota-gm-ford-tesla/"
+      "hash": "42138451c65933f61b08b63ec1ba5a7d07159e642816dd7a7ab8cf02d88f58e3",
+      "url": "https://electrek.co/2026/10/29/rivian-rivn-q3-2026-earnings-r2-best-seller/"
     }
   ]
 }

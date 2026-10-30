@@ -1,98 +1,121 @@
 {
   "range": {
-    "from": "2026-09-30",
-    "to": "2026-10-29"
+    "from": "2026-10-01",
+    "to": "2026-10-30"
   },
   "kpis": {
     "collected": 50,
     "deduped": 50,
     "uniqueTopics": 7,
     "marketShare": {
-      "Roadmap": 26,
+      "Roadmap": 27,
       "Competition": 25,
-      "Demand": 20,
+      "Demand": 21,
       "Investment": 18,
-      "Manufacturing": 10,
-      "Other": 1
+      "Manufacturing": 9,
+      "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (09/30-10/06)",
+      "week": "Week 1 (10/01-10/07)",
       "topicCounts": {
         "Roadmap": 9,
-        "Competition": 7,
+        "Competition": 6,
         "Demand": 7,
         "Investment": 4,
-        "Manufacturing": 5
+        "Manufacturing": 4
       }
     },
     {
-      "week": "Week 2 (10/07-10/13)",
-      "topicCounts": {
-        "Roadmap": 8,
-        "Competition": 9,
-        "Demand": 7,
-        "Investment": 6,
-        "Manufacturing": 3
-      }
-    },
-    {
-      "week": "Week 3 (10/14-10/20)",
+      "week": "Week 2 (10/08-10/14)",
       "topicCounts": {
         "Roadmap": 9,
-        "Competition": 10,
+        "Competition": 11,
+        "Demand": 8,
+        "Investment": 8,
+        "Manufacturing": 4
+      }
+    },
+    {
+      "week": "Week 3 (10/15-10/21)",
+      "topicCounts": {
+        "Roadmap": 8,
+        "Competition": 11,
         "Demand": 9,
         "Investment": 3,
         "Manufacturing": 1
       }
     },
     {
-      "week": "Week 4 (10/21-10/27)",
+      "week": "Week 4 (10/22-10/28)",
       "topicCounts": {
-        "Roadmap": 9,
-        "Competition": 6,
+        "Roadmap": 7,
+        "Competition": 5,
         "Demand": 4,
-        "Investment": 9,
-        "Manufacturing": 2
+        "Investment": 7,
+        "Manufacturing": 1
       }
     },
     {
-      "week": "Week 5 (10/28-10/29)",
+      "week": "Week 5 (10/29-10/30)",
       "topicCounts": {
-        "Roadmap": 1,
-        "Competition": 2,
-        "Demand": 0,
-        "Investment": 2,
-        "Manufacturing": 2
+        "Roadmap": 2,
+        "Competition": 1,
+        "Demand": 2,
+        "Investment": 0,
+        "Manufacturing": 0
       }
     }
   ],
   "topIssues": [
     {
       "id": 1,
-      "status": "ONGOING",
-      "title": "BYD 인력 100만 명 돌파로 글로벌 완성차 제조 경쟁 구도 변화",
-      "summary": "BYD가 10개월 만에 약 15만 명을 추가 고용해 총 102만 명 규모의 초대형 인력 기반을 구축, 토요타·GM·포드·테슬라 인력을 모두 합친 것보다 많아지며 전기차 및 배터리 수직계열화·내재화 경쟁에서 생산·공급망 우위를 강화하고 있습니다.",
-      "articleCount": 2,
+      "status": "SHIFTING",
+      "title": "도요타: EV 판매 급증 vs 중국 내연기관 수요 급락으로 포트폴리오 재조정 압박",
+      "summary": "도요타의 EV 판매가 1년 새 127% 증가했지만, 중국에서 내연기관·하이브리드 차량 수요가 크게 줄며 글로벌 판매가 3개월 연속 감소하고 있다. 이는 도요타가 중국 중심으로 EV 전환 속도를 높이고 제품·가격 전략을 조정해야 할 필요성을 키우는 신호다.",
+      "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
-          "title": "BYD now has 1.02 million workers, more than Toyota, GM, Ford, and Tesla combined",
-          "url": "https://electrek.co/2026/10/28/byd-1-million-employees-more-than-toyota-gm-ford-tesla/"
-        },
-        {
-          "source": "Electrek",
-          "title": "BYD’s ultra-luxury EV could debut next week with solid-state batteries and much more",
-          "url": "https://electrek.co/2026/10/26/byds-ultra-luxury-ev-may-debut-next-week-with-solid-state-batteries/"
+          "title": "Toyota’s EV sales more than doubled in a year, but gas cars are getting crushed in China",
+          "url": "https://electrek.co/2026/10/29/toyotas-ev-sales-doubled-but-gas-cars-getting-crushed-china/"
         }
       ]
     },
     {
       "id": 2,
       "status": "ONGOING",
-      "title": "CATL 전고체 배터리 20Ah 셀 개발로 차세대 고에너지밀도 경쟁 본격화",
-      "summary": "CATL이 20Ah급 전고체 배터리 셀 개발에 성공하며 셀 에너지 밀도 500Wh/kg 달성을 내다보고 있어, 차세대 EV 플랫폼과 고급 전기차, 항공 모빌리티 등에서 전고체 채택 경쟁이 가속화될 전망입니다.",
+      "title": "리비안, R2 흥행으로 성장 모멘텀 강화 및 제품 믹스 전환 가속",
+      "summary": "리비안은 2026년 3분기 매출이 전년 대비 38% 증가한 21.55억 달러로 시장 기대를 웃돌았고, 중저가 포지션의 R2가 첫 완전 분기만에 R1·아마존 밴을 제치고 베스트셀러가 됐다. 이는 리비안이 볼륨 모델 중심으로 수익 구조와 생산 계획을 재편하는 전환 국면이 이어지고 있음을 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Rivian (RIVN) Q3 2026 earnings: revenue up 38%, R2 now its best-seller",
+          "url": "https://electrek.co/2026/10/29/rivian-rivn-q3-2026-earnings-r2-best-seller/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "BYD, 100만 명 이상 초대형 인력 기반으로 글로벌 EV 패권 확장",
+      "summary": "BYD는 불과 10개월 만에 약 15만 명을 추가 고용해 총 인력이 102만 명을 넘어서며 토요타·GM·포드·테슬라 인력을 모두 합친 것보다 많아졌다. 초대형 제조·R&D 인력 풀은 공정 내재화와 원가 경쟁력, 신차·신기술 개발 속도 측면에서 BYD의 글로벌 확장 전략을 뒷받침하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "BYD now has 1.02 million workers, more than Toyota, GM, Ford, and Tesla combined",
+          "url": "https://electrek.co/2026/10/28/byd-1-million-employees-more-than-toyota-gm-ford-tesla/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "CATL, 20Ah 전고체 배터리로 차세대 고에너지 밀도 EV 경쟁 선도",
+      "summary": "CATL이 20Ah급 전고체 배터리 셀을 개발하며 500Wh/kg 에너지 밀도 달성을 목표로 하는 차세대 기술 로드맵을 구체화했다. 이는 고급 EV·항공 모빌리티 등에서 주행거리·경량화 경쟁을 좌우할 핵심 기술로, 향후 완성차·배터리 파트너십 구도 재편 가능성을 높이고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -103,44 +126,16 @@
       ]
     },
     {
-      "id": 3,
+      "id": 5,
       "status": "NEW",
-      "title": "렉서스 RZ 2027년형, 5만 달러 미만·300마일 이상으로 프리미엄 EV 시장 공략",
-      "summary": "토요타 고급 브랜드 렉서스가 2027년형 RZ를 5만 달러 미만 시작가와 300마일 이상 주행거리로 출시 예고하면서, 프리미엄 전기 SUV 세그먼트에서 가격·효율을 동시에 앞세운 경쟁에 나서고 있습니다.",
+      "title": "렉서스 RZ 2027년형, 5만 달러 이하·300마일 이상으로 프리미엄 EV 경쟁 가열",
+      "summary": "2027년형 렉서스 RZ가 5만 달러 미만 시작가와 300마일 이상 주행거리로 내년 초 출시되며, 독일·미국 프리미엄 브랜드와의 전기 SUV 경쟁에 본격 합류한다. 토요타 그룹의 고급 전동화 포트폴리오 확대를 통해 브랜드 이미지 개선과 EV 고객층 확대를 노리는 움직임이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
           "title": "The 2027 Lexus RZ starts at under $50,000 and offers over 300 miles of range",
           "url": "https://electrek.co/2026/10/26/2027-lexus-rz-starts-under-50000-with-300-miles-range/"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "status": "NEW",
-      "title": "폭스바겐, 1만2천 달러 미만 EV 제타로 중국 보급형 전기차 가격파괴",
-      "summary": "폭스바겐이 중국 시장 전용 전기 세단 제타 M6를 1만2천 달러 미만에 출시하며 CLTC 기준 최대 약 460km 주행거리를 제공, 현지 보급형 EV 시장에서 BYD 등 로컬 업체와의 가격·성능 경쟁을 정면 돌파하려 하고 있습니다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "Volkswagen’s new electric Jetta offers 285 miles of range for under $12K",
-          "url": "https://electrek.co/2026/10/24/volkswagens-new-electric-jetta-offers-285-miles-of-range-for-under-12k/"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "status": "ONGOING",
-      "title": "텍사스 테슬라 100억 달러 태양광 공장, 최대 35년 세제 혜택으로 장기 투자 기반 확보",
-      "summary": "텍사스 포트벤드 카운티가 테슬라 ‘프로젝트 크리스털 선’ 태양광 공장에 대해 장비 기준 최대 35년간 지방 세제 감면을 승인하면서, 테슬라의 미국 내 재생에너지·전력 사업 확장과 제조 허브 구축이 가속화될 가능성이 커졌습니다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "Tesla’s $10B solar factory could get 35 years of tax breaks in Texas",
-          "url": "https://electrek.co/2026/10/23/tesla-solar-factory-texas-35-years-tax-breaks-fort-bend/"
         }
       ]
     }

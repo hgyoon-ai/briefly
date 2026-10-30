@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-10-01",
+    "to": "2026-10-30"
+  },
+  "kpis": {
+    "collected": 64,
+    "deduped": 64,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 29,
+      "Competition": 24,
+      "Manufacturing": 21,
+      "Investment": 14,
+      "Demand": 12,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/01-10/07)",
+      "topicCounts": {
+        "Roadmap": 14,
+        "Competition": 11,
+        "Manufacturing": 6,
+        "Investment": 7,
+        "Demand": 1
+      }
+    },
+    {
+      "week": "Week 2 (10/08-10/14)",
+      "topicCounts": {
+        "Roadmap": 8,
+        "Competition": 7,
+        "Manufacturing": 9,
+        "Investment": 3,
+        "Demand": 3
+      }
+    },
+    {
+      "week": "Week 3 (10/15-10/21)",
+      "topicCounts": {
+        "Roadmap": 13,
+        "Competition": 13,
+        "Manufacturing": 9,
+        "Investment": 5,
+        "Demand": 8
+      }
+    },
+    {
+      "week": "Week 4 (10/22-10/28)",
+      "topicCounts": {
+        "Roadmap": 5,
+        "Competition": 4,
+        "Manufacturing": 3,
+        "Investment": 0,
+        "Demand": 2
+      }
+    },
+    {
+      "week": "Week 5 (10/29-10/30)",
+      "topicCounts": {
+        "Roadmap": 3,
+        "Competition": 2,
+        "Manufacturing": 4,
+        "Investment": 4,
+        "Demand": 2
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "issue_001",
+      "status": "ONGOING",
+      "title": "Earnings 업데이트 집중",
+      "summary": "삼성전자는 3분기 영업이익 $80B(약 800억 달러)를 기록했습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "title": "Samsung Electronics Posts $80B Operating Profit on AI Memory Demand",
+          "source": "EE Times",
+          "url": "https://www.eetimes.com/samsung-electronics-posts-80b-operating-profit-on-ai-memory-demand/"
+        }
+      ]
+    },
+    {
+      "id": "issue_002",
+      "status": "ONGOING",
+      "title": "Manufacturing 업데이트 집중",
+      "summary": "AI 성능 요구가 설계뿐 아니라 재료, 제조 장비, 패키징 혁신을 촉발하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "title": "How AI Redefines Semiconductor Manufacturing, From Materials Up",
+          "source": "EE Times",
+          "url": "https://www.eetimes.com/how-ai-redefines-semiconductor-manufacturing-from-materials-up/"
+        }
+      ]
+    },
+    {
+      "id": "issue_003",
+      "status": "ONGOING",
+      "title": "Competition 업데이트 집중",
+      "summary": "삼성전자가 인터브랜드의 '베스트 글로벌 브랜드 2026'에서 7년 연속 5위에 올랐습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "title": "Samsung Ranks No. 5 in Interbrand’s ‘Best Global Brands 2026’ for Seventh Consecutive Year",
+          "source": "Samsung Newsroom",
+          "url": "https://news.samsung.com/global/samsung-ranks-no-5-in-interbrands-best-global-brands-2026-for-seventh-consecutive-year"
+        }
+      ]
+    },
+    {
+      "id": "issue_004",
+      "status": "SHIFTING",
+      "title": "Policy 업데이트 집중",
+      "summary": "유럽 NCAP의 강화된 안전 평가 기준이 자동차 업체들의 센서 전략 변화를 촉발하고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "title": "Automakers Reconsider In-Cabin Sensing for Euro NCAP Ratings",
+          "source": "EE Times",
+          "url": "https://www.eetimes.com/automakers-reconsider-in-cabin-sensing-for-euro-ncap-ratings/"
+        }
+      ]
+    },
+    {
+      "id": "issue_005",
+      "status": "ONGOING",
+      "title": "Roadmap 업데이트 집중",
+      "summary": "JBL과 Bowers & Wilkins가 각각 80년·60년 동안 고음질 사운드와 문화적 연계를 유지해 왔습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "title": "[Interview] Sound That Connects: 80 Years of Audio and the Future of Connected Experiences",
+          "source": "Samsung Newsroom",
+          "url": "https://news.samsung.com/global/interview-sound-that-connects-80-years-of-audio-and-the-future-of-connected-experiences"
+        }
+      ]
+    }
+  ]
+}

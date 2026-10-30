@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-30",
+  "highlights": {
+    "bullets": [
+      "핵심: 마이크로소프트 보고서에 따르면 북한 해킹 조직이 한국에 악성코드 100여 개를 유포했다.",
+      "핵심: 코스피가 장중 4%대 급락하며 매도 사이드카가 발동했다."
+    ],
+    "topTopics": [
+      "MarketInfra",
+      "Policy",
+      "Fintech",
+      "Regulation"
+    ],
+    "stats": {
+      "collected": 15,
+      "deduped": 15
+    }
+  },
+  "cards": [
+    {
+      "id": "finance_0001",
+      "tab": "finance",
+      "publishedAt": "2026-10-30T09:50:56+09:00",
+      "source": "매일경제(증권)",
+      "title": "[단독] MS “北, 한국에 악성코드 100개 뿌렸다…AI 해킹, 최고 수준”",
+      "summary": [
+        "마이크로소프트(MSTIC) 보고서에 따르면 북한 해킹 조직이 한국에 악성코드 100여 개를 뿌린 것으로 확인됐다.",
+        "북한은 AI 기반 해킹 기법을 빠르게 흡수해 공격 역량이 최고 수준에 도달했다.",
+        "사이버 위협이 '완전정착' 단계에 있어 즉각적인 방어 강화와 정책 대응이 필요하다."
+      ],
+      "whyItMatters": "국가적 기반시설과 민간 분야 전반에 걸친 광범위한 피해 가능성 및 고도화된 공격 기술로 대응 우선순위가 높아졌기 때문이다.",
+      "topics": [
+        "Security",
+        "Enforcement",
+        "Policy"
+      ],
+      "status": "ONGOING",
+      "hash": "a3b07521bd9cfb3cc36555c7ef94b76dba5c5ce64a7ad906309027142aa81032",
+      "url": "https://www.mk.co.kr/news/stock/12191238"
+    },
+    {
+      "id": "finance_0002",
+      "tab": "finance",
+      "publishedAt": "2026-10-30T10:09:27+09:00",
+      "source": "매일경제(증권)",
+      "title": "[속보] 코스피 4%대 급락…매도 사이드카 발동",
+      "summary": [
+        "코스피가 장중 4%대 급락했다.",
+        "급락으로 인해 매도 사이드카가 발동되어 매도 호가 제한이 시행됐다.",
+        "시장 변동성이 급증하며 투자심리가 크게 위축됐다."
+      ],
+      "whyItMatters": "단시간 내 큰 폭의 지수 하락으로 자동 시장 안정장치가 가동되어 유동성과 거래 체결에 즉각적 영향이 발생했기 때문이다.",
+      "topics": [
+        "MarketInfra",
+        "Regulation"
+      ],
+      "status": "NEW",
+      "hash": "8cdcbedd29dcd3038d878b34e43a4503c69bd83a3f4a6aa10118151aafc8bde2",
+      "url": "https://www.mk.co.kr/news/stock/12191260"
+    }
+  ]
+}

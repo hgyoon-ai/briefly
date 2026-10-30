@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-10-24",
+    "to": "2026-10-30"
+  },
+  "kpis": {
+    "collected": 13,
+    "deduped": 13,
+    "uniqueTopics": 10
+  },
+  "topTopics": [
+    {
+      "name": "Models",
+      "count": 8
+    },
+    {
+      "name": "Product",
+      "count": 8
+    },
+    {
+      "name": "Tooling",
+      "count": 8
+    },
+    {
+      "name": "Research",
+      "count": 7
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Research",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Research",
+      "count": 0
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Models",
+      "count": 1
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Research",
+      "count": 1
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "Models",
+      "count": 1
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "Product",
+      "count": 2
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "Tooling",
+      "count": 3
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "Research",
+      "count": 0
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Models",
+      "count": 2
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Product",
+      "count": 3
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Tooling",
+      "count": 3
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Research",
+      "count": 1
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Models",
+      "count": 2
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Product",
+      "count": 1
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Tooling",
+      "count": 2
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Research",
+      "count": 2
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Models",
+      "count": 2
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Product",
+      "count": 2
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Research",
+      "count": 3
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "ai-1",
+      "status": "NEW",
+      "title": "차세대 프런티어 모델 거버넌스: OpenAI 모델 명세 업데이트",
+      "summary": "OpenAI가 업데이트된 모델 명세를 통해 고성능 AI에 요구되는 핵심 원칙(건전한 판단, 인간 주체성 존중, 인간 의도에 대한 충실성 등)을 재정의했다. 이는 고도화되는 모델을 제품에 적용할 때 일관된 행동 규칙과 안전 기준을 부여하기 위한 일종의 ‘제품·정책 사양서’로, 향후 모델 업그레이드와 기능 확장 시 준거점 역할을 하게 된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "An updated Model Spec for more capable and beneficial AI",
+          "url": "https://openai.com/index/updated-model-spec"
+        }
+      ]
+    },
+    {
+      "id": "ai-2",
+      "status": "ONGOING",
+      "title": "프런티어 모델 정렬 모니터링 체계 고도화",
+      "summary": "OpenAI는 계층화된 모니터링 시스템을 통해 프런티어 모델의 오작동·오남용 신호를 조기에 포착하는 방법을 소개했다. 에이전트가 의도와 다르게 행동하거나 위험 패턴을 보일 때 이를 탐지·차단할 수 있도록 설계되어, 점점 자율성이 커지는 AI 시스템의 안전 운용을 위한 핵심 인프라로 기능한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "How we detect frontier model misalignment",
+          "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
+        }
+      ]
+    },
+    {
+      "id": "ai-3",
+      "status": "NEW",
+      "title": "프런티어 모델 경쟁: Google DeepMind의 Gemini 4 Carbon 발표",
+      "summary": "Google DeepMind가 Gemini 4 Carbon을 차세대 프런티어 모델로 공개하며 성능·효율·안전성을 모두 개선하겠다는 전략을 제시했다. 연구·제품 양쪽에서 활용을 전제로 설계된 모델로, 대규모 멀티모달·대화형 작업에서 상용 서비스 품질을 끌어올리는 데 초점이 맞춰져 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Google DeepMind Blog",
+          "title": "Gemini 4 Carbon: Our next frontier model",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/"
+        }
+      ]
+    },
+    {
+      "id": "ai-4",
+      "status": "NEW",
+      "title": "AI 모델 배포를 ‘소프트웨어처럼’: Granite Switch 4.1.1",
+      "summary": "Hugging Face가 Granite Switch 4.1.1을 통해 모델을 애플리케이션처럼 버전 관리하고 롤아웃·롤백을 빠르게 수행할 수 있는 워크플로를 제안했다. 이는 다양한 모델을 빈번히 교체·실험하는 환경에서 운영 리스크를 줄이고, 제품 수준의 배포 파이프라인을 표준화하는 방향으로 인프라를 진화시키는 신호다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "Granite Switch 4.1.1 — Update models like you update software",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1"
+        }
+      ]
+    },
+    {
+      "id": "ai-5",
+      "status": "NEW",
+      "title": "다국어 음성 AI의 제품화: Nemotron 3.5 Transcribe와 Granary v2",
+      "summary": "NVIDIA는 Nemotron 3.5 Transcribe와 Granary v2로 프롬프트 기반 제어와 도메인 적응이 가능한 다국어 음성 인식 스택을 내놓았다. 사용자는 프롬프트와 데이터로 모델 동작을 세밀하게 조정할 수 있어, 콜센터·회의록·미디어 등 각 산업별로 특화된 음성 AI 서비스 구축이 용이해지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary"
+        }
+      ]
+    }
+  ]
+}

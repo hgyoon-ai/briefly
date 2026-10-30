@@ -1,0 +1,130 @@
+{
+  "date": "2026-10-30",
+  "highlights": {
+    "bullets": [
+      "핵심: 더 능력 있고 유익한 AI를 목표로 한 업데이트된 모델 명세가 발표됐다.",
+      "핵심: 모델을 소프트웨어처럼 버전 관리하고 롤아웃·롤백을 간소화하는 배포 도구 업데이트가 공개됐다.",
+      "트렌드: 모델 안전성·성능·배포를 지원하는 연구·인프라·도구 개선이 공통적으로 강조됐다."
+    ],
+    "topTopics": [
+      "Research",
+      "Models",
+      "Product",
+      "Tooling"
+    ],
+    "stats": {
+      "collected": 6,
+      "deduped": 6
+    }
+  },
+  "cards": [
+    {
+      "id": "ai_0001",
+      "tab": "ai",
+      "publishedAt": "2026-10-30T02:00:00+09:00",
+      "source": "OpenAI Blog",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "summary": [
+        "OpenAI가 더 능력 있고 유익한 AI를 위한 업데이트된 모델 명세를 발표했다.",
+        "명세는 건전한 판단, 인간의 주체성, 인간 의도에 대한 충실성 등 다섯 가지 핵심 가치를 제시한다.",
+        "이 가이드는 모델 설계·평가·배포 기준을 정비해 업계와 규제 방향에 영향을 줄 가능성이 크다."
+      ],
+      "whyItMatters": "이는 강력한 AI의 안전성과 정렬 기준을 구체화해 업계와 정책에 실질적 영향을 미칠 수 있기 때문이다.",
+      "topics": [
+        "Models",
+        "Safety",
+        "Research",
+        "Product"
+      ],
+      "status": "NEW",
+      "hash": "9349f418e7bc7ab45091d36c0bfe75e2136622d8b5dbcf107bb7aa7386820b2a",
+      "url": "https://openai.com/index/updated-model-spec"
+    },
+    {
+      "id": "ai_0002",
+      "tab": "ai",
+      "publishedAt": "2026-10-29T18:00:00+09:00",
+      "source": "OpenAI Blog",
+      "title": "How we detect frontier model misalignment",
+      "summary": [
+        "OpenAI는 계층화된 모니터링으로 최첨단 모델의 정렬 문제를 탐지한다.",
+        "무단 에이전트 행동을 조기에 식별해 대응자가 사건 확산을 막을 수 있도록 설계되었다.",
+        "여러 신호와 시스템을 결합해 위험을 사전 관리한다."
+      ],
+      "whyItMatters": "최첨단 모델의 오작동 및 악용은 광범위한 피해를 초래할 수 있어 사전 탐지와 개입이 필수적이다.",
+      "topics": [
+        "Safety",
+        "Tooling",
+        "Infra",
+        "Research"
+      ],
+      "status": "ONGOING",
+      "hash": "0f01adb2acab0a67ba71c0b077a856b8d5e6ddb0aecdbfc3051cca05fba1e4d6",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
+    },
+    {
+      "id": "ai_0003",
+      "tab": "ai",
+      "publishedAt": "2026-10-30T04:19:16+09:00",
+      "source": "Microsoft Research Blog",
+      "title": "Microsoft Research Focus – Edition #97",
+      "summary": [
+        "코딩 에이전트가 직면한 과제들이 논의되었다.",
+        "직장에서의 AI 활용 방식과 사용자 행태에 대한 인사이트가 공유되었다.",
+        "확장 범위 기상 예보 성능을 개선하는 연구가 소개되었다."
+      ],
+      "whyItMatters": "코딩 도구 개선·업무용 AI 채택 인사이트·기상 예측 향상 등 실용적 영향과 연구 진전을 동시에 제공해 향후 제품·모델·데이터 활용에 중요한 시사점을 주기 때문이다.",
+      "topics": [
+        "Research",
+        "Models",
+        "Product",
+        "Data"
+      ],
+      "status": "ONGOING",
+      "hash": "d368308dafb9bf4a5ac8b05985cacf3f3f4350f6b0327b24d638c3eebe41ca26",
+      "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/"
+    },
+    {
+      "id": "ai_0004",
+      "tab": "ai",
+      "publishedAt": "2026-10-29T22:37:07+09:00",
+      "source": "Hugging Face Blog",
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "summary": [
+        "Hugging Face가 Granite Switch 4.1.1을 출시해 모델 전환·배포 워크플로를 개선했습니다.",
+        "이번 버전은 소프트웨어처럼 모델을 버전 관리하고 롤아웃·롤백을 간소화하는 기능을 제공합니다.",
+        "강화된 안정성·통합·CLI/API로 MLOps 파이프라인 자동화와 운영 효율이 향상됩니다."
+      ],
+      "whyItMatters": "모델 관리와 배포를 표준화해 운영 리스크를 줄이고 반복 작업을 크게 감소시키기 때문에 중요합니다.",
+      "topics": [
+        "Tooling",
+        "Infra",
+        "Models"
+      ],
+      "status": "NEW",
+      "hash": "e508e29ae812fe586e8d04934be66406c6967422e675f969f84a3d3abfd18b22",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1"
+    },
+    {
+      "id": "ai_0005",
+      "tab": "ai",
+      "publishedAt": "2026-10-30T00:00:00+09:00",
+      "source": "NVIDIA Developer Blog",
+      "title": "Unlocking Tensor Core Performance for Machine Learning Interatomic Potentials",
+      "summary": [
+        "NVIDIA가 머신러닝 기반 상호원자 퍼텐셜(MLIP)을 텐서 코어에 최적화해 원자 수준 시뮬레이션 성능을 높이는 방법을 소개했습니다.",
+        "행렬 연산 형태로 재구성해 GPU 텐서 코어를 최대 활용함으로써 기존 방식 대비 더 높은 처리량과 효율을 달성합니다.",
+        "이를 통해 화학 반응, 재료 물성, 파괴 메커니즘 등 대규모 원자 시뮬레이션을 더 빠르게 수행할 수 있는 기반을 제공합니다."
+      ],
+      "whyItMatters": "과학·공학에서 핵심인 대규모 원자 시뮬레이션을 GPU 텐서 코어에 맞춰 가속함으로써 연구 속도와 시뮬레이션 규모를 크게 확장할 수 있는 인프라·모델 최적화 방향을 제시하기 때문입니다.",
+      "topics": [
+        "Infra",
+        "Training",
+        "Research"
+      ],
+      "status": "NEW",
+      "hash": "411c66dec517a32dcc1770eaa8e56480ed599057c05d006e27010a8ae316124d",
+      "url": "https://developer.nvidia.com/blog/unlocking-tensor-core-performance-for-machine-learning-interatomic-potentials/"
+    }
+  ]
+}

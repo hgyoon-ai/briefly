@@ -1,0 +1,272 @@
+{
+  "range": {
+    "from": "2026-10-24",
+    "to": "2026-10-30"
+  },
+  "kpis": {
+    "collected": 23,
+    "deduped": 23,
+    "uniqueTopics": 10
+  },
+  "topTopics": [
+    {
+      "name": "Supply",
+      "count": 15
+    },
+    {
+      "name": "Market",
+      "count": 14
+    },
+    {
+      "name": "UrbanRenewal",
+      "count": 10
+    },
+    {
+      "name": "Land",
+      "count": 10
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Supply",
+      "count": 1
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Market",
+      "count": 2
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "UrbanRenewal",
+      "count": 1
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": "Sat",
+      "topic": "Land",
+      "count": 1
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Supply",
+      "count": 3
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Market",
+      "count": 2
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "UrbanRenewal",
+      "count": 2
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": "Sun",
+      "topic": "Land",
+      "count": 2
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Market",
+      "count": 2
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "UrbanRenewal",
+      "count": 0
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Land",
+      "count": 0
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "Supply",
+      "count": 1
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "Market",
+      "count": 3
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "UrbanRenewal",
+      "count": 1
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "Land",
+      "count": 0
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Supply",
+      "count": 2
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Market",
+      "count": 2
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "UrbanRenewal",
+      "count": 0
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Land",
+      "count": 1
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Supply",
+      "count": 5
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Market",
+      "count": 0
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "UrbanRenewal",
+      "count": 5
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Land",
+      "count": 5
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Supply",
+      "count": 3
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Market",
+      "count": 3
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "UrbanRenewal",
+      "count": 1
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Land",
+      "count": 1
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "서울 인접 그린벨트 해제와 김포아라 공공택지 등 7.7만 가구 신규 공급 드라이브",
+      "summary": "정부가 서울 경계 5km 이내 김포·구리·하남 등 6곳 그린벨트를 해제해 약 7만7천 가구를 공급하고, 김포아라 공공택지(3만7천 가구) 조성 계획까지 더해 수도권 외곽 중심의 대규모 택지 공급을 추진하고 있다. 서울 및 강남권 그린벨트는 제외돼 도심 공급 공백과 김포 등 외곽 지역 교통난 심화 가능성이 동시에 제기된다.",
+      "articleCount": 4,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "“‘내 땅 포함됐냐’ 전화에 내비 못들어” 3.7만 쏟는 김포, 교통난은 여전히 숙제 [르포] [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10920099"
+        },
+        {
+          "source": "한국경제(부동산)",
+          "title": "서울 인접 5㎞ 내 그린벨트 풀어 7.7만가구 공급",
+          "url": "https://www.hankyung.com/article/2026102944171"
+        },
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "서울 5㎞내 김포·하남 등 6곳 7.7만호 신속 공급 [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10918565"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "서울 아파트 매물 급증과 거래 급감이 동시에 나타나는 시장 냉각 국면",
+      "summary": "서울 전역 아파트 매물이 세제 강화와 추가 금리 인상 전망으로 8·3 세제개편 당시보다 30% 넘게 늘어나는 반면, 실제 매매 거래량은 1년 사이 42% 이상 급감하며 9월 기준 4천 건을 밑돌았다. 공급 매물 증가는 계속되지만 매수심리는 위축돼 매도·매수 간 눈치싸움이 장기화되는 조정장이 형성되고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "“강남 얘기 아니었어?”…서울 전역서 아파트 매물 급증",
+          "url": "https://www.mk.co.kr/news/economy/12191172"
+        },
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "서울 아파트 거래 1년 새 42% 급감…9월 4000건 밑돌았다 [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10919550"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "전셋값 급등과 월세 비중 확대 속 내후년 전세난 고조 우려",
+      "summary": "서울 24개 구에서 월세 계약 비중이 57%까지 올라 전월세 시장이 월세 중심으로 재편되는 가운데, 전셋값 상승률이 전년 대비 4배 수준으로 뛰고 전세 물량은 줄어들고 있다. 전세 공급 부족이 지속될 경우 내후년 전세난이 피크에 이를 것이라는 전망이 커지며 실수요자의 주거비 부담이 급증하는 국면이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "지금 전월셋값 확 올랐는데 “아직 지옥이 아니다”…내후년이 전세난 피크",
+          "url": "https://www.mk.co.kr/news/realestate/12186603"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "은행 대신 집주인이 빌려주는 ‘셀러파이낸싱’ 확산",
+      "summary": "주택담보대출 규제 강화와 금리 부담 속에서 집주인이 매수자에게 직접 매매대금 일부를 빌려주는 셀러파이낸싱 사례가 강남권을 중심으로 늘고 있다. 연 5% 안팎의 고금리·단기 대출이 일반적이라, 제도권 규제를 피해 형성되는 고위험 비공식 금융 관행으로 굳어질 우려가 제기된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "“2년치 소득명세서 떼오세요” 은행 대신 집주인 대출, 강남 7억 근저당의 비밀 [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10915210"
+        }
+      ]
+    }
+  ]
+}
