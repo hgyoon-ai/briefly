@@ -1,141 +1,156 @@
 {
   "range": {
-    "from": "2026-10-01",
-    "to": "2026-10-30"
+    "from": "2026-10-03",
+    "to": "2026-11-01"
   },
   "kpis": {
-    "collected": 64,
-    "deduped": 64,
+    "collected": 55,
+    "deduped": 55,
     "uniqueTopics": 7,
     "marketShare": {
-      "Roadmap": 29,
+      "Roadmap": 28,
       "Competition": 24,
-      "Manufacturing": 21,
-      "Investment": 14,
-      "Demand": 12,
+      "Manufacturing": 23,
+      "Demand": 13,
+      "Investment": 12,
       "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/01-10/07)",
+      "week": "Week 1 (10/03-10/09)",
+      "topicCounts": {
+        "Roadmap": 7,
+        "Competition": 7,
+        "Manufacturing": 5,
+        "Demand": 3,
+        "Investment": 3
+      }
+    },
+    {
+      "week": "Week 2 (10/10-10/16)",
       "topicCounts": {
         "Roadmap": 14,
         "Competition": 11,
-        "Manufacturing": 6,
-        "Investment": 7,
-        "Demand": 1
+        "Manufacturing": 11,
+        "Demand": 3,
+        "Investment": 7
       }
     },
     {
-      "week": "Week 2 (10/08-10/14)",
+      "week": "Week 3 (10/17-10/23)",
+      "topicCounts": {
+        "Roadmap": 12,
+        "Competition": 10,
+        "Manufacturing": 6,
+        "Demand": 7,
+        "Investment": 1
+      }
+    },
+    {
+      "week": "Week 4 (10/24-10/30)",
       "topicCounts": {
         "Roadmap": 8,
-        "Competition": 7,
+        "Competition": 5,
         "Manufacturing": 9,
-        "Investment": 3,
-        "Demand": 3
+        "Demand": 5,
+        "Investment": 7
       }
     },
     {
-      "week": "Week 3 (10/15-10/21)",
+      "week": "Week 5 (10/31-11/01)",
       "topicCounts": {
-        "Roadmap": 13,
-        "Competition": 13,
-        "Manufacturing": 9,
-        "Investment": 5,
-        "Demand": 8
-      }
-    },
-    {
-      "week": "Week 4 (10/22-10/28)",
-      "topicCounts": {
-        "Roadmap": 5,
-        "Competition": 4,
-        "Manufacturing": 3,
-        "Investment": 0,
-        "Demand": 2
-      }
-    },
-    {
-      "week": "Week 5 (10/29-10/30)",
-      "topicCounts": {
-        "Roadmap": 3,
-        "Competition": 2,
-        "Manufacturing": 4,
-        "Investment": 4,
-        "Demand": 2
+        "Roadmap": 0,
+        "Competition": 0,
+        "Manufacturing": 0,
+        "Demand": 0,
+        "Investment": 0
       }
     }
   ],
   "topIssues": [
     {
-      "id": "issue_001",
+      "id": 1,
       "status": "ONGOING",
-      "title": "Earnings 업데이트 집중",
-      "summary": "삼성전자는 3분기 영업이익 $80B(약 800억 달러)를 기록했습니다.",
-      "articleCount": 1,
+      "title": "AI 메모리 호황에 따른 삼성전자 실적 급증",
+      "summary": "AI 서버용 HBM·고용량 DDR 등 AI 메모리 수요가 폭발하며 삼성전자가 분기 기준 사상 최고 수준의 매출과 영업이익을 기록했다. 메모리 단가 회복과 첨단 공정 투자 확대가 맞물리며 반도체 업황 회복이 본격화되고 있다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
-          "title": "Samsung Electronics Posts $80B Operating Profit on AI Memory Demand",
           "source": "EE Times",
+          "title": "Samsung Electronics Posts $80B Operating Profit on AI Memory Demand",
           "url": "https://www.eetimes.com/samsung-electronics-posts-80b-operating-profit-on-ai-memory-demand/"
+        },
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung Electronics Announces Third Quarter 2026 Results",
+          "url": "https://news.samsung.com/global/samsung-electronics-announces-third-quarter-2026-results"
         }
       ]
     },
     {
-      "id": "issue_002",
+      "id": 2,
       "status": "ONGOING",
-      "title": "Manufacturing 업데이트 집중",
-      "summary": "AI 성능 요구가 설계뿐 아니라 재료, 제조 장비, 패키징 혁신을 촉발하고 있다.",
+      "title": "AI가 촉발한 반도체 제조·소재·패키징 전방위 혁신",
+      "summary": "초고성능 AI 칩 요구로 공정 미세화뿐 아니라 신소재, 노광·증착 장비, 첨단 패키징(칩렛, 2.5D/3D)까지 전 밸류체인 혁신이 가속 중이다. 수율·전력 효율·집적도 확보를 위해 AI 워크로드 최적화 중심의 제조 로드맵 재편이 진행되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "title": "How AI Redefines Semiconductor Manufacturing, From Materials Up",
           "source": "EE Times",
+          "title": "How AI Redefines Semiconductor Manufacturing, From Materials Up",
           "url": "https://www.eetimes.com/how-ai-redefines-semiconductor-manufacturing-from-materials-up/"
         }
       ]
     },
     {
-      "id": "issue_003",
+      "id": 3,
       "status": "ONGOING",
-      "title": "Competition 업데이트 집중",
-      "summary": "삼성전자가 인터브랜드의 '베스트 글로벌 브랜드 2026'에서 7년 연속 5위에 올랐습니다.",
-      "articleCount": 1,
+      "title": "글로벌 반도체 리더십 경쟁과 브랜드·IP 생태계 강화",
+      "summary": "삼성전자가 인터브랜드 글로벌 브랜드 순위 5위를 7년 연속 유지하며 반도체·전자 전반의 프리미엄 이미지를 공고히 하고 있다. 오디오 등 소비자 경험 영역에서 장기 파트너십과 기술 IP를 확대해 시스템·디바이스 중심의 생태계 경쟁력을 강화하는 흐름이 이어지고 있다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
+          "source": "Samsung Newsroom",
           "title": "Samsung Ranks No. 5 in Interbrand’s ‘Best Global Brands 2026’ for Seventh Consecutive Year",
-          "source": "Samsung Newsroom",
           "url": "https://news.samsung.com/global/samsung-ranks-no-5-in-interbrands-best-global-brands-2026-for-seventh-consecutive-year"
-        }
-      ]
-    },
-    {
-      "id": "issue_004",
-      "status": "SHIFTING",
-      "title": "Policy 업데이트 집중",
-      "summary": "유럽 NCAP의 강화된 안전 평가 기준이 자동차 업체들의 센서 전략 변화를 촉발하고 있습니다.",
-      "articleCount": 1,
-      "relatedArticles": [
+        },
         {
-          "title": "Automakers Reconsider In-Cabin Sensing for Euro NCAP Ratings",
-          "source": "EE Times",
-          "url": "https://www.eetimes.com/automakers-reconsider-in-cabin-sensing-for-euro-ncap-ratings/"
-        }
-      ]
-    },
-    {
-      "id": "issue_005",
-      "status": "ONGOING",
-      "title": "Roadmap 업데이트 집중",
-      "summary": "JBL과 Bowers & Wilkins가 각각 80년·60년 동안 고음질 사운드와 문화적 연계를 유지해 왔습니다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "title": "[Interview] Sound That Connects: 80 Years of Audio and the Future of Connected Experiences",
           "source": "Samsung Newsroom",
+          "title": "[Interview] Sound That Connects: 80 Years of Audio and the Future of Connected Experiences",
           "url": "https://news.samsung.com/global/interview-sound-that-connects-80-years-of-audio-and-the-future-of-connected-experiences"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "반도체 장비·인프라 대규모 투자 경쟁 심화",
+      "summary": "첨단 공정·AI 칩 수요 대응을 위해 글로벌 장비·소재 기업들이 수십억 달러 수준의 제조·R&D 허브 투자를 확대하고 있다. 이는 파운드리·IDM뿐 아니라 장비 업체까지 포함한 전 산업의 공급능력 확충과 지역별 클러스터 형성을 가속하는 요인으로 작용한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Video Interview: Applied Materials CEO on the Economics Behind Its $5B EPIC Bet",
+          "url": "https://www.eetimes.com/video-interview-applied-materials-ceo-on-the-economics-behind-its-5b-epic-bet/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "SHIFTING",
+      "title": "차량용 센싱·위치 기술의 고신뢰·다중 레이어화",
+      "summary": "유럽 NCAP의 강화된 안전 기준과 GPS 재밍 증가로, 자동차 업계는 스티어링휠 센서에서 차내 통합 센서로 전환하고 GNSS를 보완하는 4G·5G·NTN 기반 보조 측위 계층 도입을 검토 중이다. 이는 차량용 센서·칩·통신 모듈의 수요 구조와 설계 방향에 변화를 주고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Automakers Reconsider In-Cabin Sensing for Euro NCAP Ratings",
+          "url": "https://www.eetimes.com/automakers-reconsider-in-cabin-sensing-for-euro-ncap-ratings/"
+        },
+        {
+          "source": "EE Times",
+          "title": "When GPS Isn’t Enough: Building a Second Layer of Positioning",
+          "url": "https://www.eetimes.com/when-gps-isnt-enough-building-a-second-layer-of-positioning/"
         }
       ]
     }

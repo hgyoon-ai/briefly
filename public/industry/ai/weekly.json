@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-10-24",
-    "to": "2026-10-30"
+    "from": "2026-10-26",
+    "to": "2026-11-01"
   },
   "kpis": {
     "collected": 13,
@@ -28,54 +28,6 @@
   ],
   "topicTrend": [
     {
-      "date": "2026-10-24",
-      "dayOfWeek": "Sat",
-      "topic": "Models",
-      "count": 0
-    },
-    {
-      "date": "2026-10-24",
-      "dayOfWeek": "Sat",
-      "topic": "Product",
-      "count": 0
-    },
-    {
-      "date": "2026-10-24",
-      "dayOfWeek": "Sat",
-      "topic": "Tooling",
-      "count": 0
-    },
-    {
-      "date": "2026-10-24",
-      "dayOfWeek": "Sat",
-      "topic": "Research",
-      "count": 0
-    },
-    {
-      "date": "2026-10-25",
-      "dayOfWeek": "Sun",
-      "topic": "Models",
-      "count": 0
-    },
-    {
-      "date": "2026-10-25",
-      "dayOfWeek": "Sun",
-      "topic": "Product",
-      "count": 0
-    },
-    {
-      "date": "2026-10-25",
-      "dayOfWeek": "Sun",
-      "topic": "Tooling",
-      "count": 0
-    },
-    {
-      "date": "2026-10-25",
-      "dayOfWeek": "Sun",
-      "topic": "Research",
-      "count": 0
-    },
-    {
       "date": "2026-10-26",
       "dayOfWeek": "Mon",
       "topic": "Models",
@@ -194,14 +146,62 @@
       "dayOfWeek": "Fri",
       "topic": "Research",
       "count": 3
+    },
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "Research",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Research",
+      "count": 0
     }
   ],
   "topIssues": [
     {
       "id": "ai-1",
       "status": "NEW",
-      "title": "차세대 프런티어 모델 거버넌스: OpenAI 모델 명세 업데이트",
-      "summary": "OpenAI가 업데이트된 모델 명세를 통해 고성능 AI에 요구되는 핵심 원칙(건전한 판단, 인간 주체성 존중, 인간 의도에 대한 충실성 등)을 재정의했다. 이는 고도화되는 모델을 제품에 적용할 때 일관된 행동 규칙과 안전 기준을 부여하기 위한 일종의 ‘제품·정책 사양서’로, 향후 모델 업그레이드와 기능 확장 시 준거점 역할을 하게 된다.",
+      "title": "대형 AI 모델 거버넌스: OpenAI 업데이트된 모델 명세",
+      "summary": "OpenAI가 모델 행동을 규정하는 업데이트된 모델 명세를 공개하며, 건전한 판단·인간 주체성 존중·사용자 의도 충실성 등 핵심 원칙을 명문화했다. 이는 향후 모델 개발·배포 시 준수해야 할 일종의 ‘AI 헌법’ 역할을 하며, 고도화된 모델일수록 정책·제품 설계 전반에 더 깊이 통합될 전망이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -214,8 +214,8 @@
     {
       "id": "ai-2",
       "status": "ONGOING",
-      "title": "프런티어 모델 정렬 모니터링 체계 고도화",
-      "summary": "OpenAI는 계층화된 모니터링 시스템을 통해 프런티어 모델의 오작동·오남용 신호를 조기에 포착하는 방법을 소개했다. 에이전트가 의도와 다르게 행동하거나 위험 패턴을 보일 때 이를 탐지·차단할 수 있도록 설계되어, 점점 자율성이 커지는 AI 시스템의 안전 운용을 위한 핵심 인프라로 기능한다.",
+      "title": "프런티어 모델 정렬·모니터링 체계 고도화",
+      "summary": "고성능 프런티어 모델이 확산되는 가운데, OpenAI는 계층화된 모니터링 체계를 통해 무단 에이전트 행동과 정렬 실패를 조기에 탐지·차단하는 방법을 공개했다. 실시간 관측, 위험 시나리오별 테스트, 사람 개입 포인트 설계 등으로 대형 모델 운영의 상시 감시·대응 체계를 강화하는 흐름이 이어지고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -228,8 +228,8 @@
     {
       "id": "ai-3",
       "status": "NEW",
-      "title": "프런티어 모델 경쟁: Google DeepMind의 Gemini 4 Carbon 발표",
-      "summary": "Google DeepMind가 Gemini 4 Carbon을 차세대 프런티어 모델로 공개하며 성능·효율·안전성을 모두 개선하겠다는 전략을 제시했다. 연구·제품 양쪽에서 활용을 전제로 설계된 모델로, 대규모 멀티모달·대화형 작업에서 상용 서비스 품질을 끌어올리는 데 초점이 맞춰져 있다.",
+      "title": "차세대 프런티어 모델 경쟁: Gemini 4 Carbon 발표",
+      "summary": "Google DeepMind가 Gemini 4 Carbon을 차세대 프런티어 모델로 공개하며 성능·효율·안전성을 동시에 강화하겠다고 밝혔다. 연구용 벤치마크와 상용 서비스 양쪽에 걸쳐 활용될 예정으로, OpenAI 등과 함께 초거대 멀티모달 모델 경쟁과 안전성 중심 설계가 더욱 가속화되는 국면이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -242,8 +242,8 @@
     {
       "id": "ai-4",
       "status": "NEW",
-      "title": "AI 모델 배포를 ‘소프트웨어처럼’: Granite Switch 4.1.1",
-      "summary": "Hugging Face가 Granite Switch 4.1.1을 통해 모델을 애플리케이션처럼 버전 관리하고 롤아웃·롤백을 빠르게 수행할 수 있는 워크플로를 제안했다. 이는 다양한 모델을 빈번히 교체·실험하는 환경에서 운영 리스크를 줄이고, 제품 수준의 배포 파이프라인을 표준화하는 방향으로 인프라를 진화시키는 신호다.",
+      "title": "AI 모델 배포·버전관리의 소프트웨어화",
+      "summary": "Hugging Face의 Granite Switch 4.1.1은 모델을 소프트웨어처럼 버전 관리하고, 롤아웃·롤백을 자동화하는 기능을 제공한다. 이를 통해 여러 모델·버전을 빠르게 전환하며 실험하고, 장애 시 신속히 이전 상태로 되돌리는 등 대규모 AI 서비스 운영에 필수적인 MLOps·배포 워크플로가 정교해지고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -256,14 +256,14 @@
     {
       "id": "ai-5",
       "status": "NEW",
-      "title": "다국어 음성 AI의 제품화: Nemotron 3.5 Transcribe와 Granary v2",
-      "summary": "NVIDIA는 Nemotron 3.5 Transcribe와 Granary v2로 프롬프트 기반 제어와 도메인 적응이 가능한 다국어 음성 인식 스택을 내놓았다. 사용자는 프롬프트와 데이터로 모델 동작을 세밀하게 조정할 수 있어, 콜센터·회의록·미디어 등 각 산업별로 특화된 음성 AI 서비스 구축이 용이해지고 있다.",
+      "title": "GPU 텐서 코어 최적화를 통한 과학 AI 시뮬레이션 가속",
+      "summary": "NVIDIA는 머신러닝 기반 상호원자 퍼텐셜(MLIP)을 GPU 텐서 코어에 맞게 행렬 연산 형태로 재구성해 원자 규모 시뮬레이션 성능을 크게 높이는 기법을 제시했다. 이는 재료·화학·에너지 등 분야에서 물리 시뮬레이션을 AI로 대체·보완하는 흐름을 촉진하며, 고성능 컴퓨팅과 AI의 융합을 가속한다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "Hugging Face Blog",
-          "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary"
+          "source": "NVIDIA Developer Blog",
+          "title": "Unlocking Tensor Core Performance for Machine Learning Interatomic Potentials",
+          "url": "https://developer.nvidia.com/blog/unlocking-tensor-core-performance-for-machine-learning-interatomic-potentials/"
         }
       ]
     }

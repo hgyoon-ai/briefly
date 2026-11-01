@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-10-03",
+    "to": "2026-11-01"
+  },
+  "kpis": {
+    "collected": 46,
+    "deduped": 46,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 26,
+      "Competition": 25,
+      "Demand": 21,
+      "Investment": 19,
+      "Manufacturing": 9,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/03-10/09)",
+      "topicCounts": {
+        "Roadmap": 7,
+        "Competition": 5,
+        "Demand": 5,
+        "Investment": 3,
+        "Manufacturing": 3
+      }
+    },
+    {
+      "week": "Week 2 (10/10-10/16)",
+      "topicCounts": {
+        "Roadmap": 8,
+        "Competition": 10,
+        "Demand": 9,
+        "Investment": 7,
+        "Manufacturing": 4
+      }
+    },
+    {
+      "week": "Week 3 (10/17-10/23)",
+      "topicCounts": {
+        "Roadmap": 9,
+        "Competition": 8,
+        "Demand": 6,
+        "Investment": 5,
+        "Manufacturing": 2
+      }
+    },
+    {
+      "week": "Week 4 (10/24-10/30)",
+      "topicCounts": {
+        "Roadmap": 8,
+        "Competition": 7,
+        "Demand": 6,
+        "Investment": 7,
+        "Manufacturing": 2
+      }
+    },
+    {
+      "week": "Week 5 (10/31-11/01)",
+      "topicCounts": {
+        "Roadmap": 0,
+        "Competition": 0,
+        "Demand": 0,
+        "Investment": 0,
+        "Manufacturing": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "도요타: EV 판매 급증에도 중국 내연기관 수요 급락으로 포트폴리오 전환 압력 확대",
+      "summary": "도요타의 EV 판매가 전년 대비 127% 증가했지만, 중국에서 내연기관·하이브리드 차량 수요가 급감하면서 전체 글로벌 판매는 3개월 연속 감소세입니다. 이는 중국 시장에서 내연기관 중심 전략의 한계를 드러내며, 도요타가 EV 비중 확대와 제품 믹스 조정에 속도를 내야 하는 국면으로 전환되고 있음을 보여줍니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Toyota’s EV sales more than doubled in a year, but gas cars are getting crushed in China",
+          "url": "https://electrek.co/2026/10/29/toyotas-ev-sales-doubled-but-gas-cars-getting-crushed-china/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "리비안: R2가 베스트셀러로 부상하며 성장 국면 가속",
+      "summary": "리비안은 2026년 3분기 매출이 전년 대비 38% 증가한 21.55억 달러를 기록해 시장 기대를 상회했습니다. 특히 R2 모델이 첫 전체 분기 출하만에 R1과 아마존 밴을 제치고 베스트셀러가 되면서, 리비안의 볼륨 확대와 수익성 개선의 핵심 축으로 자리 잡는 흐름이 이어지고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Rivian (RIVN) Q3 2026 earnings: revenue up 38%, R2 now its best-seller",
+          "url": "https://electrek.co/2026/10/29/rivian-rivn-q3-2026-earnings-r2-best-seller/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "BYD: 100만 명 이상 초대형 인력 기반으로 글로벌 EV 생산·수직계열화 강화",
+      "summary": "BYD의 임직원 수가 102만 명을 넘어서며 토요타·GM·포드·테슬라 인력을 모두 합친 규모를 상회했습니다. 10개월 만에 약 15만 명을 추가 고용한 것으로, 배터리·차량·부품까지 아우르는 수직계열화와 공격적 증설 전략을 뒷받침하는 인력 확대로 글로벌 EV 시장 지배력 강화를 예고합니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "BYD now has 1.02 million workers, more than Toyota, GM, Ford, and Tesla combined",
+          "url": "https://electrek.co/2026/10/28/byd-1-million-employees-more-than-toyota-gm-ford-tesla/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "CATL: 20Ah 전고체 배터리로 500Wh/kg 에너지 밀도 경쟁 가속",
+      "summary": "CATL이 20Ah급 전고체 배터리 셀 개발에 성공하며 차세대 EV 배터리 경쟁에서 기술 리더십을 강화하고 있습니다. 500Wh/kg 에너지 밀도 달성을 목표로 하고 있어, 향후 고급 EV 및 항공 모빌리티 등에서 주행거리·경량화 경쟁 구도를 크게 바꿀 잠재력이 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "CATL pushes ahead with 20 Ah solid-state EV batteries, with 500 Wh/kg in sight",
+          "url": "https://electrek.co/2026/10/28/catl-pushes-ahead-20-ah-solid-state-ev-batteries-500-wh-kg/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "렉서스 RZ 2027년형: 5만 달러 미만·300마일+로 프리미엄 EV 가격·주행거리 재조정",
+      "summary": "2027년형 렉서스 RZ가 5만 달러 미만의 시작가와 300마일 이상의 주행거리를 앞세워 내년 초 출시될 예정입니다. 이는 프리미엄 브랜드가 중가대 EV 세그먼트까지 적극 진입하며, 테슬라와 독일 프리미엄 브랜드 중심의 기존 경쟁 구도를 재편할 수 있는 시도로 해석됩니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "The 2027 Lexus RZ starts at under $50,000 and offers over 300 miles of range",
+          "url": "https://electrek.co/2026/10/26/2027-lexus-rz-starts-under-50000-with-300-miles-range/"
+        }
+      ]
+    }
+  ]
+}

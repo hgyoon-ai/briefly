@@ -1,86 +1,100 @@
 {
   "range": {
-    "from": "2026-10-01",
-    "to": "2026-10-30"
+    "from": "2026-10-03",
+    "to": "2026-11-01"
   },
   "kpis": {
-    "collected": 112,
-    "deduped": 112,
+    "collected": 107,
+    "deduped": 107,
     "uniqueTopics": 10,
     "marketShare": {
       "Market": 29,
-      "Supply": 25,
+      "Supply": 26,
       "Policy": 20,
-      "UrbanRenewal": 13,
+      "Rental": 13,
       "Construction": 13,
       "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/01-10/07)",
+      "week": "Week 1 (10/03-10/09)",
       "topicCounts": {
-        "Market": 18,
-        "Supply": 15,
-        "Policy": 11,
-        "UrbanRenewal": 8,
-        "Construction": 8
+        "Market": 15,
+        "Supply": 12,
+        "Policy": 7,
+        "Rental": 7,
+        "Construction": 6
       }
     },
     {
-      "week": "Week 2 (10/08-10/14)",
+      "week": "Week 2 (10/10-10/16)",
       "topicCounts": {
-        "Market": 18,
+        "Market": 15,
+        "Supply": 18,
+        "Policy": 20,
+        "Rental": 4,
+        "Construction": 10
+      }
+    },
+    {
+      "week": "Week 3 (10/17-10/23)",
+      "topicCounts": {
+        "Market": 17,
+        "Supply": 11,
+        "Policy": 10,
+        "Rental": 11,
+        "Construction": 7
+      }
+    },
+    {
+      "week": "Week 4 (10/24-10/30)",
+      "topicCounts": {
+        "Market": 13,
         "Supply": 14,
-        "Policy": 14,
-        "UrbanRenewal": 6,
+        "Policy": 10,
+        "Rental": 6,
         "Construction": 5
       }
     },
     {
-      "week": "Week 3 (10/15-10/21)",
+      "week": "Week 5 (10/31-11/01)",
       "topicCounts": {
-        "Market": 18,
-        "Supply": 15,
-        "Policy": 14,
-        "UrbanRenewal": 7,
-        "Construction": 9
-      }
-    },
-    {
-      "week": "Week 4 (10/22-10/28)",
-      "topicCounts": {
-        "Market": 14,
-        "Supply": 10,
-        "Policy": 5,
-        "UrbanRenewal": 5,
-        "Construction": 5
-      }
-    },
-    {
-      "week": "Week 5 (10/29-10/30)",
-      "topicCounts": {
-        "Market": 3,
-        "Supply": 5,
-        "Policy": 2,
-        "UrbanRenewal": 3,
-        "Construction": 1
+        "Market": 4,
+        "Supply": 2,
+        "Policy": 1,
+        "Rental": 1,
+        "Construction": 0
       }
     }
   ],
   "topIssues": [
     {
       "id": 1,
-      "status": "ONGOING",
-      "title": "서울 인접 그린벨트 해제와 김포·하남 등 7.7만가구 공급 추진",
-      "summary": "정부가 서울 경계 5㎞ 내 그린벨트 6곳(김포아라·구리건원·하남미사 등)을 해제해 약 7만7000가구 규모의 신규 주택을 공급하기로 하면서 수도권 외곽 대규모 택지 개발이 본격화되고 있다. 서울과 강남권 그린벨트는 제외돼 도심 내 직접 공급 확대는 제한적이라는 평가가 나온다.",
-      "articleCount": 4,
+      "status": "SHIFTING",
+      "title": "서울 아파트 매물 8만건 돌파…거래 절벽과 가격 하방 압력 심화",
+      "summary": "서울 전역에서 아파트 매물이 약 8만건까지 쌓이면서 매물 적체가 심각해지고 있다. 세부담 확대와 추가 금리 인상 우려가 맞물려 매도자는 늘지만 매수 심리는 위축돼 거래 절벽과 함께 가격 하방 압력이 커지는 구간으로 접어들고 있다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
-          "source": "헤럴드경제(부동산)",
-          "title": "“‘내 땅 포함됐냐’ 전화에 내비 못들어” 3.7만 쏟는 김포, 교통난은 여전히 숙제 [르포] [부동산360]",
-          "url": "https://biz.heraldcorp.com/article/10920099"
+          "source": "한국경제(부동산)",
+          "title": "\"집 내놔도 안 팔려요\"…서울 아파트 매물 8만건 쌓였다",
+          "url": "https://www.hankyung.com/article/2026103174997"
         },
+        {
+          "source": "매일경제(부동산)",
+          "title": "“강남 얘기 아니었어?”…서울 전역서 아파트 매물 급증",
+          "url": "https://www.mk.co.kr/news/economy/12191172"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "그린벨트 해제·공공택지로 수도권 10만가구 이상 공급 가속",
+      "summary": "정부와 지자체가 서울 인접 5km 내 그린벨트 일부를 해제해 7만7000가구를 공급하고, 김포아라 공공택지(3만7000가구) 조성도 추진하면서 수도권 외곽 대규모 택지 개발이 동시에 진행되고 있다. 토지 수용, 교통 인프라 확충, 주변 집값 및 토지시장 불확실성이 핵심 이슈로 떠오르고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
         {
           "source": "한국경제(부동산)",
           "title": "서울 인접 5㎞ 내 그린벨트 풀어 7.7만가구 공급",
@@ -88,35 +102,16 @@
         },
         {
           "source": "헤럴드경제(부동산)",
-          "title": "서울 옆에 7.7만가구, 서울은 ‘0’…강남 그린벨트는 빠졌다 [부동산360]",
-          "url": "https://biz.heraldcorp.com/article/10918612"
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "status": "SHIFTING",
-      "title": "서울 아파트 매물 급증과 거래량 급감으로 본 매매시장 약세",
-      "summary": "서울 전역에서 아파트 매물이 8만건 가까이로 늘어나는 동시에 월 기준 매매 거래량은 1년 새 42% 이상 줄어 4000건을 밑돌며, 세부담 확대와 금리 인상 우려 속에 매수심리가 위축된 약세장이 심화되고 있다.",
-      "articleCount": 2,
-      "relatedArticles": [
-        {
-          "source": "매일경제(부동산)",
-          "title": "“강남 얘기 아니었어?”…서울 전역서 아파트 매물 급증",
-          "url": "https://www.mk.co.kr/news/economy/12191172"
-        },
-        {
-          "source": "헤럴드경제(부동산)",
-          "title": "서울 아파트 거래 1년 새 42% 급감…9월 4000건 밑돌았다 [부동산360]",
-          "url": "https://biz.heraldcorp.com/article/10919550"
+          "title": "“‘내 땅 포함됐냐’ 전화에 내비 못들어” 3.7만 쏟는 김포, 교통난은 여전히 숙제 [르포] [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10920099"
         }
       ]
     },
     {
       "id": 3,
       "status": "ONGOING",
-      "title": "서울 임대차 시장 월세 전환 가속과 전세난 심화 전망",
-      "summary": "서울 24개구에서 신규 임대차 계약의 월세 비중이 57%를 차지할 정도로 월세 전환이 빠르게 진행되는 가운데, 전셋값은 전년 대비 4배 가까운 상승률을 기록하고 공급은 줄어들어 향후 1~2년 내 전세난이 정점에 달할 수 있다는 우려가 커지고 있다.",
+      "title": "전세 급등·월세 전환 가속…내후년 전세난 피크 우려",
+      "summary": "서울 24개 구에서 월세 계약 비중이 57%까지 늘고 전셋값 상승률은 전년 대비 4배 수준으로 급등했다. 전세 공급 감소와 갭투자 위축, 대출 규제 여파로 세입자가 월세로 밀려나면서 향후 1~2년 뒤 입주 공백 시점에 전세난이 정점을 찍을 것이란 전망이 확산되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -129,8 +124,22 @@
     {
       "id": 4,
       "status": "ONGOING",
-      "title": "주택담보대출 규제 속 확산되는 ‘셀러파이낸싱’ 거래 관행",
-      "summary": "주택담보대출 규제가 강화되자 일부 집주인들이 매수자에게 직접 매매대금 일부를 빌려주는 이른바 셀러파이낸싱 사례가 강남권 등을 중심으로 늘고 있으며, 연 5% 안팎의 고금리·단기 조건과 근저당 설정을 동반해 향후 새로운 금융·거래 리스크 요인으로 부각되고 있다.",
+      "title": "지분적립형 분양 도입…광교신도시 ‘마지막 물량’ 청약 관심 집중",
+      "summary": "광교신도시 마지막 공급 단지로 꼽히는 ‘광교 자연앤 센트레빌’이 전국 최초로 지분적립형을 도입해 실수요자 관심을 모으고 있다. 초기 분담금을 낮추고 장기간에 걸쳐 지분을 확보하는 구조로, 고금리·대출 규제 환경에서 내 집 마련 방식 변화의 시험대가 되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "“광교신도시 마지막 공급… ‘광교 자연앤 센트레빌’ 수요자 발길 이어져",
+          "url": "https://www.mk.co.kr/news/realestate/12191946"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "주담대 규제 속 셀러파이낸싱 확산…비제도권 고금리 리스크 부상",
+      "summary": "주택담보대출 규제가 강화되면서 집주인이 매수자에게 직접 매매대금 일부를 빌려주는 셀러파이낸싱 거래가 강남 등에서 늘고 있다. 연 5% 안팎의 고금리·6개월 내 단기 만기 조건이 일반적이라, 금융당국 규제 밖에서 레버리지가 확대되는 새로운 위험 요인으로 지목된다.",
       "articleCount": 1,
       "relatedArticles": [
         {

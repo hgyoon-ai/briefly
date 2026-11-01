@@ -1,0 +1,281 @@
+{
+  "range": {
+    "from": "2026-10-26",
+    "to": "2026-11-01"
+  },
+  "kpis": {
+    "collected": 19,
+    "deduped": 19,
+    "uniqueTopics": 10
+  },
+  "topTopics": [
+    {
+      "name": "Market",
+      "count": 14
+    },
+    {
+      "name": "Supply",
+      "count": 13
+    },
+    {
+      "name": "UrbanRenewal",
+      "count": 8
+    },
+    {
+      "name": "Policy",
+      "count": 7
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Market",
+      "count": 2
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "UrbanRenewal",
+      "count": 0
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "Market",
+      "count": 3
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "Supply",
+      "count": 1
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "UrbanRenewal",
+      "count": 1
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Market",
+      "count": 2
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Supply",
+      "count": 2
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "UrbanRenewal",
+      "count": 0
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Market",
+      "count": 0
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Supply",
+      "count": 5
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "UrbanRenewal",
+      "count": 5
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 4
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Market",
+      "count": 3
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Supply",
+      "count": 3
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "UrbanRenewal",
+      "count": 1
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "Market",
+      "count": 4
+    },
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "Supply",
+      "count": 2
+    },
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "UrbanRenewal",
+      "count": 1
+    },
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Market",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "UrbanRenewal",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "서울 아파트 매물 8만건 적체, 거래절벽 심화",
+      "summary": "서울 아파트 매물이 8만건 안팎까지 쌓이면서 거래 부진이 장기화되고 있다. 세부담 확대, 추가 금리 인상 전망 등이 맞물리며 급매 중심 시장으로 재편되고 있고, 매물 적체는 향후 가격 하방 압력과 실거래 위축을 동시에 키우는 방향으로 전개되는 중이다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "\"집 내놔도 안 팔려요\"…서울 아파트 매물 8만건 쌓였다",
+          "url": "https://www.hankyung.com/article/2026103174997"
+        },
+        {
+          "source": "매일경제(부동산)",
+          "title": "“강남 얘기 아니었어?”…서울 전역서 아파트 매물 급증",
+          "url": "https://www.mk.co.kr/news/economy/12191172"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "그린벨트 해제·공공택지로 수도권 대규모 주택공급 가속",
+      "summary": "정부가 서울 인접 5km 내 그린벨트 일부를 해제해 7만7000가구 공급을 추진하고, 김포아라 공공택지에 3만7000가구 조성을 발표하면서 수도권 외곽을 중심으로 신규 주택공급·도시확장 전략이 본격화되고 있다. 토지 수용 문의, 매물 회수 등 현장 반응이 즉각 나타나며 인근 토지·주택시장 변동성이 확대되는 양상이다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "서울 인접 5㎞ 내 그린벨트 풀어 7.7만가구 공급",
+          "url": "https://www.hankyung.com/article/2026102944171"
+        },
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "“‘내 땅 포함됐냐’ 전화에 내비 못들어” 3.7만 쏟는 김포, 교통난은 여전히 숙제 [르포] [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10920099"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "월세 전환 가속과 전셋값 급등, 임대차 시장 구조 변화",
+      "summary": "서울 24개구에서 월세 비중이 57%를 넘는 등 전·월세 거래 중심축이 월세로 빠르게 이동하고 있다. 전셋값 상승률은 전년 대비 4배 수준으로 뛰었지만 전세 공급은 줄어 세입자 부담이 커지고 있으며, 전문가들은 본격적인 전세난 피크가 내후년에 올 수 있다고 보고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "지금 전월셋값 확 올랐는데 “아직 지옥이 아니다”…내후년이 전세난 피크",
+          "url": "https://www.mk.co.kr/news/realestate/12186603"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "규제 강화 속 ‘셀러파이낸싱’ 확산, 새로운 주택자금 조달 관행 부상",
+      "summary": "주택담보대출 규제가 강화되면서 집주인이 매수자에게 직접 매매대금 일부를 빌려주는 셀러파이낸싱 사례가 강남권 등을 중심으로 늘고 있다. 연 5% 안팎의 고금리·단기 만기 조건이 일반적이어서 실수요자 부담과 향후 채무 분쟁 가능성에 대한 우려도 함께 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "“2년치 소득명세서 떼오세요” 은행 대신 집주인 대출, 강남 7억 근저당의 비밀 [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10915210"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "신도시·공공분양 마지막 물량, 특화 설계·지분적립형으로 수요자 공략",
+      "summary": "광교신도시 마지막 공급 단지인 ‘광교 자연앤 센트레빌’이 견본주택을 열고 분양에 나섰다. 전국 최초로 지분적립형이 도입되고 특화 설계를 내세우면서 실수요자 관심이 집중되고 있으며, 신도시 막바지 공급 단지의 희소성이 분양 시장 경쟁력을 높이는 요인으로 작용하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "“광교신도시 마지막 공급… ‘광교 자연앤 센트레빌’ 수요자 발길 이어져",
+          "url": "https://www.mk.co.kr/news/realestate/12191946"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "range": {
+    "from": "2026-10-03",
+    "to": "2026-11-01"
+  },
+  "kpis": {
+    "collected": 107,
+    "deduped": 107,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "Market": 29,
+      "Supply": 26,
+      "Policy": 20,
+      "Rental": 13,
+      "Construction": 13,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/03-10/09)",
+      "topicCounts": {
+        "Market": 15,
+        "Supply": 12,
+        "Policy": 7,
+        "Rental": 7,
+        "Construction": 6
+      }
+    },
+    {
+      "week": "Week 2 (10/10-10/16)",
+      "topicCounts": {
+        "Market": 15,
+        "Supply": 18,
+        "Policy": 20,
+        "Rental": 4,
+        "Construction": 10
+      }
+    },
+    {
+      "week": "Week 3 (10/17-10/23)",
+      "topicCounts": {
+        "Market": 17,
+        "Supply": 11,
+        "Policy": 10,
+        "Rental": 11,
+        "Construction": 7
+      }
+    },
+    {
+      "week": "Week 4 (10/24-10/30)",
+      "topicCounts": {
+        "Market": 13,
+        "Supply": 14,
+        "Policy": 10,
+        "Rental": 6,
+        "Construction": 5
+      }
+    },
+    {
+      "week": "Week 5 (10/31-11/01)",
+      "topicCounts": {
+        "Market": 4,
+        "Supply": 2,
+        "Policy": 1,
+        "Rental": 1,
+        "Construction": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "서울 아파트 매물 8만건 돌파…거래 절벽과 가격 하방 압력 심화",
+      "summary": "서울 전역에서 아파트 매물이 약 8만건까지 쌓이면서 매물 적체가 심각해지고 있다. 세부담 확대와 추가 금리 인상 우려가 맞물려 매도자는 늘지만 매수 심리는 위축돼 거래 절벽과 함께 가격 하방 압력이 커지는 구간으로 접어들고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "\"집 내놔도 안 팔려요\"…서울 아파트 매물 8만건 쌓였다",
+          "url": "https://www.hankyung.com/article/2026103174997"
+        },
+        {
+          "source": "매일경제(부동산)",
+          "title": "“강남 얘기 아니었어?”…서울 전역서 아파트 매물 급증",
+          "url": "https://www.mk.co.kr/news/economy/12191172"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "그린벨트 해제·공공택지로 수도권 10만가구 이상 공급 가속",
+      "summary": "정부와 지자체가 서울 인접 5km 내 그린벨트 일부를 해제해 7만7000가구를 공급하고, 김포아라 공공택지(3만7000가구) 조성도 추진하면서 수도권 외곽 대규모 택지 개발이 동시에 진행되고 있다. 토지 수용, 교통 인프라 확충, 주변 집값 및 토지시장 불확실성이 핵심 이슈로 떠오르고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "서울 인접 5㎞ 내 그린벨트 풀어 7.7만가구 공급",
+          "url": "https://www.hankyung.com/article/2026102944171"
+        },
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "“‘내 땅 포함됐냐’ 전화에 내비 못들어” 3.7만 쏟는 김포, 교통난은 여전히 숙제 [르포] [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10920099"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "전세 급등·월세 전환 가속…내후년 전세난 피크 우려",
+      "summary": "서울 24개 구에서 월세 계약 비중이 57%까지 늘고 전셋값 상승률은 전년 대비 4배 수준으로 급등했다. 전세 공급 감소와 갭투자 위축, 대출 규제 여파로 세입자가 월세로 밀려나면서 향후 1~2년 뒤 입주 공백 시점에 전세난이 정점을 찍을 것이란 전망이 확산되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "지금 전월셋값 확 올랐는데 “아직 지옥이 아니다”…내후년이 전세난 피크",
+          "url": "https://www.mk.co.kr/news/realestate/12186603"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "지분적립형 분양 도입…광교신도시 ‘마지막 물량’ 청약 관심 집중",
+      "summary": "광교신도시 마지막 공급 단지로 꼽히는 ‘광교 자연앤 센트레빌’이 전국 최초로 지분적립형을 도입해 실수요자 관심을 모으고 있다. 초기 분담금을 낮추고 장기간에 걸쳐 지분을 확보하는 구조로, 고금리·대출 규제 환경에서 내 집 마련 방식 변화의 시험대가 되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "“광교신도시 마지막 공급… ‘광교 자연앤 센트레빌’ 수요자 발길 이어져",
+          "url": "https://www.mk.co.kr/news/realestate/12191946"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "주담대 규제 속 셀러파이낸싱 확산…비제도권 고금리 리스크 부상",
+      "summary": "주택담보대출 규제가 강화되면서 집주인이 매수자에게 직접 매매대금 일부를 빌려주는 셀러파이낸싱 거래가 강남 등에서 늘고 있다. 연 5% 안팎의 고금리·6개월 내 단기 만기 조건이 일반적이라, 금융당국 규제 밖에서 레버리지가 확대되는 새로운 위험 요인으로 지목된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "“2년치 소득명세서 떼오세요” 은행 대신 집주인 대출, 강남 7억 근저당의 비밀 [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10915210"
+        }
+      ]
+    }
+  ]
+}

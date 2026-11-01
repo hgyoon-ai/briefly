@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-10-03",
+    "to": "2026-11-01"
+  },
+  "kpis": {
+    "collected": 48,
+    "deduped": 48,
+    "uniqueTopics": 8,
+    "marketShare": {
+      "MarketInfra": 39,
+      "Policy": 28,
+      "Regulation": 16,
+      "Compliance": 10,
+      "Fintech": 8,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/03-10/09)",
+      "topicCounts": {
+        "MarketInfra": 8,
+        "Policy": 6,
+        "Regulation": 2,
+        "Compliance": 2,
+        "Fintech": 2
+      }
+    },
+    {
+      "week": "Week 2 (10/10-10/16)",
+      "topicCounts": {
+        "MarketInfra": 11,
+        "Policy": 9,
+        "Regulation": 3,
+        "Compliance": 2,
+        "Fintech": 2
+      }
+    },
+    {
+      "week": "Week 3 (10/17-10/23)",
+      "topicCounts": {
+        "MarketInfra": 9,
+        "Policy": 6,
+        "Regulation": 7,
+        "Compliance": 4,
+        "Fintech": 1
+      }
+    },
+    {
+      "week": "Week 4 (10/24-10/30)",
+      "topicCounts": {
+        "MarketInfra": 8,
+        "Policy": 4,
+        "Regulation": 3,
+        "Compliance": 2,
+        "Fintech": 3
+      }
+    },
+    {
+      "week": "Week 5 (10/31-11/01)",
+      "topicCounts": {
+        "MarketInfra": 2,
+        "Policy": 1,
+        "Regulation": 1,
+        "Compliance": 0,
+        "Fintech": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "issue_001",
+      "status": "ONGOING",
+      "title": "MarketInfra 업데이트 집중",
+      "summary": "앤트로픽이 나스닥 상장 신고서를 제출하며 '몸값 2700조' 수준의 기대감이 형성되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "title": "‘몸값 2700조’ 앤트로픽 상장에 기대감 높은데…국내서 투자되나 보니",
+          "source": "매일경제(증권)",
+          "url": "https://www.mk.co.kr/news/stock/12192529"
+        }
+      ]
+    },
+    {
+      "id": "issue_002",
+      "status": "ONGOING",
+      "title": "Security 업데이트 집중",
+      "summary": "마이크로소프트(MSTIC) 보고서에 따르면 북한 해킹 조직이 한국에 악성코드 100여 개를 뿌린 것으로 확인됐다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "title": "[단독] MS “北, 한국에 악성코드 100개 뿌렸다…AI 해킹, 최고 수준”",
+          "source": "매일경제(증권)",
+          "url": "https://www.mk.co.kr/news/stock/12191238"
+        }
+      ]
+    },
+    {
+      "id": "issue_003",
+      "status": "ONGOING",
+      "title": "Fintech 업데이트 집중",
+      "summary": "한은은 AI 붐이 꺾일 경우 최악 시나리오로 132조원 손실을 제시했다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "title": "“AI 꺾이면 132조원 증발”...한은이 던진 ‘최악 시나리오’",
+          "source": "매일경제(증권)",
+          "url": "https://www.mk.co.kr/news/stock/12186625"
+        }
+      ]
+    },
+    {
+      "id": "issue_004",
+      "status": "SHIFTING",
+      "title": "Crypto 업데이트 집중",
+      "summary": "미 재무장관 스콧 베센트가 링컨을 언급하는 발언을 했다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "title": "링컨까지 소환한 베센트... 앤트로픽 상장, 다음달 확정인가",
+          "source": "매일경제(증권)",
+          "url": "https://www.mk.co.kr/news/business/12182433"
+        }
+      ]
+    },
+    {
+      "id": "issue_005",
+      "status": "ONGOING",
+      "title": "Enforcement 업데이트 집중",
+      "summary": "최근 5년 판결문 239건을 분석한 결과 범죄수익 1.5조원 중 추징은 18%에 불과했다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "title": "[단독] 주가조작, 패가망신 맞나요?…3건 중 2건은 추징금 ‘0원’",
+          "source": "매일경제(증권)",
+          "url": "https://www.mk.co.kr/news/society/12181989"
+        }
+      ]
+    }
+  ]
+}

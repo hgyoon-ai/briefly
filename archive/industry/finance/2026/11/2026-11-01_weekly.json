@@ -1,0 +1,281 @@
+{
+  "range": {
+    "from": "2026-10-26",
+    "to": "2026-11-01"
+  },
+  "kpis": {
+    "collected": 8,
+    "deduped": 8,
+    "uniqueTopics": 7
+  },
+  "topTopics": [
+    {
+      "name": "MarketInfra",
+      "count": 7
+    },
+    {
+      "name": "Regulation",
+      "count": 4
+    },
+    {
+      "name": "Policy",
+      "count": 3
+    },
+    {
+      "name": "Enforcement",
+      "count": 2
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Regulation",
+      "count": 1
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": "Mon",
+      "topic": "Enforcement",
+      "count": 0
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "Regulation",
+      "count": 1
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": "Tue",
+      "topic": "Enforcement",
+      "count": 0
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Enforcement",
+      "count": 0
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Enforcement",
+      "count": 1
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Regulation",
+      "count": 1
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Enforcement",
+      "count": 1
+    },
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "Enforcement",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Regulation",
+      "count": 1
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Enforcement",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "앤트로픽 나스닥 IPO와 AI 거품·국내 투자 노출 논쟁",
+      "summary": "최첨단 AI 기업 앤트로픽이 나스닥 상장 신고서를 제출하며 2700조원대로 추산되는 몸값 기대가 형성됐다. 상장 과정에서 공모 규모·밸류에이션이 확정되지 않은 가운데, 상반기 100조원대 적자 등 수익성 검증 부담이 부각되고 있어 글로벌 AI 버블 논쟁과 함께 국내 기관·개인투자자의 투자 노출과 리스크 관리가 핵심 이슈로 부상했다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "‘몸값 2700조’ 앤트로픽 상장에 기대감 높은데…국내서 투자되나 보니",
+          "url": "https://www.mk.co.kr/news/stock/12192529"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "앤트로픽, 나스닥 상장 신청",
+          "url": "https://www.mk.co.kr/news/stock/12186407"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "AI 붐 꺾일 경우 금융시장 충격 시나리오와 시스템 리스크",
+      "summary": "한국은행은 AI 투자 열기가 둔화되거나 거품이 붕괴될 경우 최대 132조원 규모의 자산가치 손실이 발생할 수 있다는 최악의 시나리오를 제시했다. 대형 AI·반도체·빅테크 관련 주식·채권·벤처투자에 쏠린 자금이 동시에 되돌려질 경우 국내외 금융시장의 변동성이 급격히 확대될 수 있어, 정책당국과 금융기관의 스트레스 테스트 및 익스포저 관리가 요구되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“AI 꺾이면 132조원 증발”...한은이 던진 ‘최악 시나리오’",
+          "url": "https://www.mk.co.kr/news/stock/12186625"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "인텔 52년 만의 폭락과 글로벌 반도체·성장주 리레이팅",
+      "summary": "인텔 주가가 실적 가이던스 쇼크로 하루 29% 급락하며 시가총액 약 183조원이 증발했다. EPS·매출 전망이 시장 기대를 크게 밑돌면서 전통 반도체주의 이익 체력과 투자 매력에 대한 재평가가 진행되고 있고, 국내 반도체·IT 성장주 밸류에이션에도 할인 요인으로 작용할 수 있다는 우려가 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“52년 만에 최악의 하루”…주가 29% 폭락 인텔, 시총 183조원 증발",
+          "url": "https://www.mk.co.kr/news/stock/12192398"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "코스피 4%대 급락과 사이드카 발동이 드러낸 국내 변동성 리스크",
+      "summary": "코스피가 장중 4%대 급락하며 매도 사이드카가 발동됐다. 파생·프로그램 매매가 확대된 상황에서 단기 급락이 지수 선물·현물에 연쇄 충격을 준 모습으로, 대외 악재와 AI·반도체 중심 조정이 겹치며 국내 증시의 변동성 관리와 시장 안정 장치의 실효성이 재점검되는 계기가 되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[속보] 코스피 4%대 급락…매도 사이드카 발동",
+          "url": "https://www.mk.co.kr/news/stock/12191260"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "국내 메모리·부품주의 실적 서프라이즈와 밸류에이션 재평가",
+      "summary": "SK하이닉스가 분기 기준 사상 최대 매출·영업이익을 기록하고, 삼성전기는 환율 부담에도 3분기 실적이 컨센서스를 상회하면서 목표주가가 190만원으로 상향되는 등 실적 서프라이즈가 이어지고 있다. 글로벌 반도체 수요 회복과 AI 관련 고부가 메모리·부품 매출 확대가 동력이지만, 일시적 호황인지 구조적 성장인지에 따라 향후 밸류에이션 프리미엄이 갈릴 전망이다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "하이닉스 역대급 실적날 구글이 ‘경고장’ 내던졌다?",
+          "url": "https://www.mk.co.kr/news/stock/12189564"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "“환율 뚫은 압도적 실적”…삼성전기 목표주가 175만→190만원 [오늘 나온 보고서]",
+          "url": "https://www.mk.co.kr/news/stock/12189492"
+        }
+      ]
+    }
+  ]
+}
