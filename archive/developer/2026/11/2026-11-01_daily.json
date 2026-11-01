@@ -1,0 +1,612 @@
+{
+  "date": "2026-11-01",
+  "kpis": {
+    "clusters": 20,
+    "sources": 2,
+    "new": 20
+  },
+  "clusters": [
+    {
+      "id": "de8cc960863a4f8d732c116d417c136e8bcf4662",
+      "name": "Serbia just elected the world's brainiest parliament",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 1034.4,
+      "oneLiner": "세르비아가 세계에서 가장 똑똑한 의회를 선출했다",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "802p · 461c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50314654"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "72b5a38c9d83249bff2c09b290ad941091309d05",
+      "name": "HackerTube: YouTube built from videos recommended by HN",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 649.8,
+      "oneLiner": "HackerTube는 HN 추천 동영상으로 구성한 유튜브형 사이트다",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 개발자 경험 개선 관점에서 관심이 커지고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "633p · 225c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50319510"
+        },
+        {
+          "label": "Source",
+          "url": "https://karpathy.bearblog.dev/hacker-tube/"
+        }
+      ],
+      "tags": [
+        "editor"
+      ]
+    },
+    {
+      "id": "2cb37d72e2ba346cc9a0643949710ba403fb5172",
+      "name": "Digital minimalism",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 455.4,
+      "oneLiner": "디지털 미니멀리즘을 주제로 한 글",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "305p · 227c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50313661"
+        },
+        {
+          "label": "Source",
+          "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "e94a6b839f0eff7cd2c54d48f3f09fb8f9c82165",
+      "name": "UK Green party drops longstanding opposition to nuclear power",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 397.8,
+      "oneLiner": "영국 녹색당이 오랜 핵발전 반대 입장을 철회했다",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "199p · 232c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50318189"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.theguardian.com/politics/2026/oct/05/green-party-nuclear-power-policy"
+        }
+      ],
+      "tags": [
+        "infra"
+      ]
+    },
+    {
+      "id": "0ad5901afbfef025585d1aa58c2c69a0b1ed4974",
+      "name": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 389.4,
+      "oneLiner": "Signal 포크 Molly가 3개월간 업데이트되지 않아 취약하다고 전해졌다",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 보안 관점에서 재점검 흐름이 이어지고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "299p · 175c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50314666"
+        },
+        {
+          "label": "Source",
+          "url": "https://piefed.world/post/1503394"
+        }
+      ],
+      "tags": [
+        "security"
+      ]
+    },
+    {
+      "id": "d637e13ce7b6f1509d092755a919cdba89d71fb7",
+      "name": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 364.2,
+      "oneLiner": "TCP Use-After-Free 취약점 CVE-2026-98432(CVSS 9.8)에 관한 글",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "309p · 149c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50319143"
+        },
+        {
+          "label": "Source",
+          "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "556e9029207f91f4a2f1a0e0b96abb030b12c422",
+      "name": "Do the math: How we took over ChatGPT accounts",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 357.6,
+      "oneLiner": "ChatGPT 계정 탈취 과정을 수학적으로 설명한 글",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "300p · 148c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50314699"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "06c8d52582e7e530d1fca148a8259c83942a8ff8",
+      "name": "OpenAI raises less than half of $30B target",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 331.8,
+      "oneLiner": "OpenAI가 300억 달러 목표의 절반도 채 못 모금했다",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "181p · 186c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50312922"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "a6bf0c2c8bdcd2ea0c304b7a9412d1993550796a",
+      "name": "Malware uses LLMs to rank victims by how much they're worth",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 289.2,
+      "oneLiner": "악성코드가 LLM을 이용해 피해자 가치를 기준으로 우선순위를 매긴다",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 블로그 해석과 후기가 빠르게 붙는 흐름입니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "230p · 126c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50316531"
+        },
+        {
+          "label": "Source",
+          "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "7199088360b5bb03f0bc2b70243293190dc05f90",
+      "name": "Casio Watches of the 1980s",
+      "section": "trending",
+      "status": "NEW",
+      "score": 254.4,
+      "oneLiner": "1980년대 카시오 시계들을 소개한 역사적 자료 페이지",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "208p · 108c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50317363"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.casio.com/us/watches/50th/Heritage/1980s/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "0bbcf4c8fcd1ae3b7acce6076747dc71c431e26c",
+      "name": "Prospero: A new coding harness for a more civilized age",
+      "section": "trending",
+      "status": "NEW",
+      "score": 250.2,
+      "oneLiner": "Prospero라는 새로운 코딩 하네스를 소개하는 글",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "181p · 118c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50315226"
+        },
+        {
+          "label": "Source",
+          "url": "https://nullprogram.com/blog/2026/10/31/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "b201fdf1624eac5698ae3c9cb659322410d2aaab",
+      "name": "unclebob/ub-mode",
+      "section": "trending",
+      "status": "NEW",
+      "score": 239.02,
+      "oneLiner": "오픈 소스 개발 도구/프로젝트입니다.",
+      "whyNow": "활동성과 관심도가 같이 살아 있는 프로젝트입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "5,816"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "319"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-01"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/unclebob/ub-mode"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "858ea00b35b7aec14b48e7f57caf175fb03d4c26",
+      "name": "Jepsen: ParticleDB 1.1.4",
+      "section": "trending",
+      "status": "NEW",
+      "score": 230.4,
+      "oneLiner": "Jepsen이 ParticleDB 1.1.4 분석을 다룬 글",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "188p · 98c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50316100"
+        },
+        {
+          "label": "Source",
+          "url": "https://jepsen.io/analyses/particledb-1.1.4"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "80f3e79265e261d30e102d7604396f0c97bb57f6",
+      "name": "anhao/ai-pose-gallery-zh",
+      "section": "trending",
+      "status": "NEW",
+      "score": 210.92,
+      "oneLiner": "중국어판 AI 자세 참고 갤러리로 1439세트·2878장 이미지를 포함한다",
+      "whyNow": "활동성과 관심도가 같이 살아 있는 프로젝트입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "4,678"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "1,190"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-01"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/anhao/ai-pose-gallery-zh"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "67167cab95ac074bbe7286a522bf53af9adfbb23",
+      "name": "Anthropic blocks users for anything touching training larger models",
+      "section": "trending",
+      "status": "NEW",
+      "score": 196.2,
+      "oneLiner": "Anthropic이 대규모 모델 훈련 관련 행위를 차단한다고 보도되었다",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "171p · 78c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50319358"
+        },
+        {
+          "label": "Source",
+          "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "22c48253e510b4efc562052f2001f821680e873a",
+      "name": "interplains/Zero-Breach-Toolkit",
+      "section": "releases",
+      "status": "NEW",
+      "score": 188.8,
+      "oneLiner": "오프라인에서 알려진 용병 스파이웨어 흔적을 검사하는 무료 오픈소스 툴킷",
+      "whyNow": "릴리즈 직후라 적용/마이그레이션 경험이 모이고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "4,006"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "428"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-01"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v0.1.15"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/interplains/Zero-Breach-Toolkit"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/interplains/Zero-Breach-Toolkit/releases/tag/v0.1.15"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "b741ad723b5ced95d57c5c9db0518dc7599b8bfc",
+      "name": "ccch1mneyyy/dsh-Go",
+      "section": "releases",
+      "status": "NEW",
+      "score": 167.78,
+      "oneLiner": "dsh-Go는 휴대폰에서 실행해 컴퓨터를 원격 제어할 수 있는 도구다",
+      "whyNow": "새 릴리즈 영향으로 관심이 재점화되고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "3,613"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "163"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-01"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v1.0.7"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/ccch1mneyyy/dsh-Go"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/ccch1mneyyy/dsh-Go/releases/tag/v1.0.7"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "a08940180544f7f8e7d693f4d2588ceafd5ac819",
+      "name": "Switch Lowering in GCC",
+      "section": "trending",
+      "status": "NEW",
+      "score": 164.4,
+      "oneLiner": "GCC에서 switch 문 하향 변환 기법을 설명한 글",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "196p · 39c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50314085"
+        },
+        {
+          "label": "Source",
+          "url": "https://xoranth.net/gcc-switch/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "cbb16ea8bc660c971e784bdfe6892beea610a744",
+      "name": "designfuchen/word-atlas",
+      "section": "trending",
+      "status": "NEW",
+      "score": 157.82,
+      "oneLiner": "Word Atlas는 7,298단어 일러스트 IELTS 어휘와 오픈소스 앱을 제공한다",
+      "whyNow": "활동성과 관심도가 같이 살아 있는 프로젝트입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "3,557"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "777"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-01"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/designfuchen/word-atlas"
+        }
+      ],
+      "tags": [
+        "data"
+      ]
+    },
+    {
+      "id": "d1061f4db02e27231a4037e4372c48310a0fe57b",
+      "name": "heydamir/unslop",
+      "section": "trending",
+      "status": "NEW",
+      "score": 143.2,
+      "oneLiner": "unslop은 AI풍 UI를 디자인된 인터페이스로 바꿔주는 Claude 스킬이다",
+      "whyNow": "개발 신호가 이어지면서 사용 사례가 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "3,494"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "172"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-01"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/heydamir/unslop"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}
