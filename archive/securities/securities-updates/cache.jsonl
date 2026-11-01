@@ -3210,3 +3210,15 @@
 {"id": "news:미래에셋증권:https://www.fnnews.com/news/202610291119254435", "keep": true, "oneLiner": "미래에셋증권이 일본 산코증권 지분 전량 인수를 위한 주식매매계약(SPA)을 체결하기로 한 전략적 인수·해외사업 확장 공시.", "type_raw": "제휴", "areas_raw": ["브로커리지"], "confidence": 0.95}
 {"id": "news:한국투자증권:https://www.fnnews.com/news/202610291356077929", "keep": true, "oneLiner": "한국투자신탁운용이 모건스탠리 펀드를 국내 출시·한국투자증권에서 단독 판매를 시작한 상품 출시 공지.", "type_raw": "출시", "areas_raw": ["WM"], "confidence": 0.9}
 {"id": "news:미래에셋증권:https://www.fnnews.com/news/202610291826537665", "keep": true, "oneLiner": "미래에셋증권의 일본 산코증권 인수 관련 추가 보도·해설로, 인수 금액 및 향후 리테일 확대 계획을 설명.", "type_raw": "제휴", "areas_raw": ["브로커리지"], "confidence": 0.95}
+{"id": "a58380ce7dbd6c9563612e5c94d56250c9fdd164", "keep": true, "oneLiner": "한국투자증권 iOS 앱에서 관심종목 완전 개편, 자녀 주식 트렌드 메뉴 추가, 중개형 ISA RP 자동매수 지원 등 기능 업데이트가 이루어졌습니다.", "type_raw": "출시", "areas_raw": ["브로커리지", "WM"], "confidence": 0.9}
+{"id": "f64b32048d89802dd82e16f7648c163323e282fe", "keep": false, "oneLiner": "삼성증권 iOS 앱에서 '시스템 안정화' 및 디자인 개선만 언급된 일반적인 업데이트입니다.", "type_raw": "시스템", "areas_raw": ["기타"], "confidence": 0.8}
+{"id": "8edfc5fde31f3c4dbefce5614ad718a1def87b43", "keep": true, "oneLiner": "키움증권 iOS 앱에서 일부 기능 개선과 보안 안정성 강화가 이루어져 보안 및 운영 관련 변화로 판단됩니다.", "type_raw": "시스템", "areas_raw": ["브로커리지", "기타"], "confidence": 0.85}
+{"id": "1e638653b8a7cc7e6135cc40d787db01ab9bc9d6", "keep": false, "oneLiner": "메리츠증권 iOS 앱의 일반적인 업데이트(시스템 개선·편의성 강화)로 구체적 제품·정책 변경 내용이 없음.", "type_raw": "시스템", "areas_raw": ["기타"], "confidence": 0.8}
+{"id": "5c134b857ff0f9a2b2a6721760bbcb95dec55e84", "keep": false, "oneLiner": "토스증권 앱 릴리즈노트는 주로 버그 수정 안내로, 특별한 기능·정책 변경 내용은 없습니다.", "type_raw": "시스템", "areas_raw": ["기타"], "confidence": 0.85}
+{"id": "b759b7e2d2ee2d1494ed9a770ea645fa1b718a55", "keep": true, "oneLiner": "삼성증권이 지속가능경영보고서 등 관련 자율공시를 등록했습니다(지속가능성·정책 관련 공시로 해석됨).", "type_raw": "기타", "areas_raw": ["기타"], "confidence": 0.6}
+{"id": "344d09c162a8efc1faa9375bfb9778cf88a17b3a", "keep": false, "oneLiner": "키움증권의 기업설명회(IR) 개최 안내 공시로, 제품·운영·정책 변화와 직접 연결되지는 않습니다.", "type_raw": "기타", "areas_raw": ["기타"], "confidence": 0.9}
+{"id": "8e14bff241337150e374165c4f4909cba34f378c", "keep": true, "oneLiner": "키움증권이 연결재무제표 기준 영업(잠정)실적을 공시한 재무정보 공개 건.", "type_raw": "기타", "areas_raw": ["기타"], "confidence": 0.9}
+{"id": "news:키움증권:https://www.mk.co.kr/news/stock/12191863", "keep": false, "oneLiner": "매체 보도로 키움증권의 3분기 실적 부진과 주가 하락을 보도한 기사입니다(시황·주가 관련 기사).", "type_raw": "리서치", "areas_raw": ["리서치"], "confidence": 0.8}
+{"id": "news:토스증권:https://www.mk.co.kr/news/stock/12191795", "keep": true, "oneLiner": "토스(비바리퍼블리카)가 일본의 치어증권을 인수한다는 보도로, 해외 시장 진출 및 사업 확장(제휴/인수) 관련 핵심 변화입니다.", "type_raw": "제휴", "areas_raw": ["브로커리지"], "confidence": 0.9}
+{"id": "news:키움증권:https://www.mk.co.kr/news/stock/12191796", "keep": false, "oneLiner": "키움증권 자회사 실적 부진으로 인한 어닝쇼크 보도로, 주가·실적 관련 기사에 해당합니다.", "type_raw": "리서치", "areas_raw": ["리서치"], "confidence": 0.8}
+{"id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12191708", "keep": true, "oneLiner": "신한투자증권이 공모주 플랫폼 '일육공'과 제휴해 신규 고객 대상 예수금 이자 혜택을 제공한다는 제휴 소식입니다.", "type_raw": "제휴", "areas_raw": ["WM", "브로커리지"], "confidence": 0.7}
