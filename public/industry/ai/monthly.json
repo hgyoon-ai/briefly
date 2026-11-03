@@ -1,54 +1,54 @@
 {
   "range": {
-    "from": "2026-10-03",
-    "to": "2026-11-01"
+    "from": "2026-10-05",
+    "to": "2026-11-03"
   },
   "kpis": {
-    "collected": 66,
-    "deduped": 66,
+    "collected": 70,
+    "deduped": 70,
     "uniqueTopics": 10,
     "marketShare": {
       "Tooling": 27,
       "Product": 24,
-      "Models": 20,
+      "Models": 19,
       "Research": 16,
-      "Infra": 14,
+      "Infra": 15,
       "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/03-10/09)",
+      "week": "Week 1 (10/05-10/11)",
       "topicCounts": {
-        "Tooling": 9,
-        "Product": 8,
-        "Models": 4,
+        "Tooling": 11,
+        "Product": 10,
+        "Models": 5,
         "Research": 4,
-        "Infra": 2
+        "Infra": 4
       }
     },
     {
-      "week": "Week 2 (10/10-10/16)",
+      "week": "Week 2 (10/12-10/18)",
       "topicCounts": {
-        "Tooling": 15,
-        "Product": 12,
-        "Models": 14,
-        "Research": 9,
-        "Infra": 8
+        "Tooling": 18,
+        "Product": 14,
+        "Models": 15,
+        "Research": 10,
+        "Infra": 10
       }
     },
     {
-      "week": "Week 3 (10/17-10/23)",
+      "week": "Week 3 (10/19-10/25)",
       "topicCounts": {
-        "Tooling": 6,
-        "Product": 8,
-        "Models": 6,
-        "Research": 7,
-        "Infra": 1
+        "Tooling": 10,
+        "Product": 10,
+        "Models": 7,
+        "Research": 8,
+        "Infra": 5
       }
     },
     {
-      "week": "Week 4 (10/24-10/30)",
+      "week": "Week 4 (10/26-11/01)",
       "topicCounts": {
         "Tooling": 8,
         "Product": 8,
@@ -58,38 +58,62 @@
       }
     },
     {
-      "week": "Week 5 (10/31-11/01)",
+      "week": "Week 5 (11/02-11/03)",
       "topicCounts": {
-        "Tooling": 0,
-        "Product": 0,
+        "Tooling": 3,
+        "Product": 2,
         "Models": 0,
         "Research": 0,
-        "Infra": 0
+        "Infra": 4
       }
     }
   ],
   "topIssues": [
     {
-      "id": "ai-1",
+      "id": 1,
       "status": "NEW",
-      "title": "더 유익한 AI를 위한 OpenAI 업데이트 모델 명세",
-      "summary": "OpenAI가 최신 모델 명세를 공개하며 AI가 따를 다섯 가지 핵심 가치(건전한 판단, 인간 주체성 존중, 인간 의도 충실성 등)를 구체화했다. 에이전트형 모델 확산에 맞춰 행동 가이드라인을 세분화해, 제품 개발·정책·평가에 공통 기준을 제공하려는 움직임이다.",
+      "title": "분산 AI 학습 안정성·복구 체계 고도화",
+      "summary": "NVIDIA가 Attribution과 자동 워크로드 복구 기술을 통해 분산 AI 학습 환경에서 장애 원인을 정밀 추적하고, 체크포인트 기반 자동 복구·재스케줄링으로 다운타임을 최소화하는 운영 체계를 제시한다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Diagnose Distributed AI Workload Failures with NVIDIA Attribution",
+          "url": "https://developer.nvidia.com/blog/diagnose-distributed-ai-workload-failures-with-nvidia-attribution/"
+        },
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Keep Distributed Training Running with Automated Workload Recovery",
+          "url": "https://developer.nvidia.com/blog/keep-distributed-training-running-with-automated-workload-recovery/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "AI 데이터센터의 전력망 연계 및 그리드 보호 전략",
+      "summary": "OpenAI의 Grid Protectors Program은 대규모 컴퓨트 캠퍼스와 유틸리티 간 협력을 통해 전력 수요를 조정하고 인프라 부담과 전기요금 상승을 완화하려는 시도로, AI 인프라 확장과 전력망 안정성을 함께 고려하는 거버넌스 모델을 제안한다.",
       "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "Introducing the Grid Protectors Program",
+          "url": "https://openai.com/index/grid-protectors-program"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "더 유익하고 책임 있는 AI를 위한 모델 명세·정렬 모니터링 강화",
+      "summary": "OpenAI는 건전한 판단과 인간 주체성 존중 등 핵심 가치를 담은 업데이트된 모델 명세와, 계층화된 모니터링으로 최첨단 모델의 오정렬 행동을 조기 탐지하는 방법을 공개하며, 고성능 모델의 안전·정렬 프레임워크를 구체화하고 있다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
           "source": "OpenAI Blog",
           "title": "An updated Model Spec for more capable and beneficial AI",
           "url": "https://openai.com/index/updated-model-spec"
-        }
-      ]
-    },
-    {
-      "id": "ai-2",
-      "status": "ONGOING",
-      "title": "프런티어 모델 정렬·오탐지 대응을 위한 계층형 모니터링",
-      "summary": "OpenAI는 프런티어 모델이 보이는 비의도적·유해 행동을 조기에 포착하기 위해 계층형 모니터링 체계를 공개했다. 에이전트 실행 로그와 내부 신호를 단계별로 분석해 무단 행동을 탐지하고, 대응자가 신속히 개입할 수 있도록 설계해 안전 엔지니어링 프로세스를 강화하고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
+        },
         {
           "source": "OpenAI Blog",
           "title": "How we detect frontier model misalignment",
@@ -98,44 +122,35 @@
       ]
     },
     {
-      "id": "ai-3",
-      "status": "NEW",
-      "title": "Tensor 코어 최적화를 통한 과학 시뮬레이션용 ML 모델 가속",
-      "summary": "NVIDIA는 머신러닝 상호원자 퍼텐셜(MLIP)을 행렬 연산 형태로 재구성해 GPU Tensor 코어를 극대 활용하는 방법을 제시했다. 이를 통해 원자 수준 물질 시뮬레이션에서 기존 방식 대비 처리량과 에너지 효율을 크게 높이며, 과학·공학 분야에서 AI 기반 계산의 상용 활용을 가속하고 있다.",
+      "id": 4,
+      "status": "SHIFTING",
+      "title": "조직 구조와 업무 방식 재편에서의 AI 역할",
+      "summary": "OpenAI와 Microsoft 리서치는 AI가 단순 자동화를 넘어 코드 작성 에이전트, 협업 파트너, 중개자로 조직 내에 스며들며 권한 구조와 업무 프로세스를 재구성하고 있음을 다루고, 직장 내 AI 사용 행태와 미래 기업 구조 변화를 탐색한다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "The future of the firm",
+          "url": "https://openai.com/index/the-future-of-the-firm"
+        },
+        {
+          "source": "Microsoft Research Blog",
+          "title": "Microsoft Research Focus – Edition #97",
+          "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "고성능 추론을 위한 NVIDIA TensorRT 글로벌 튜닝",
+      "summary": "NVIDIA TensorRT 11.1의 Global Performance Tuner는 여러 빌드 경로 전반에서 자동·정확도 인지형 성능 튜닝을 제공해, 대규모 AI 서비스의 추론 효율과 비용 구조를 지속적으로 최적화하는 방향을 보여준다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "NVIDIA Developer Blog",
-          "title": "Unlocking Tensor Core Performance for Machine Learning Interatomic Potentials",
-          "url": "https://developer.nvidia.com/blog/unlocking-tensor-core-performance-for-machine-learning-interatomic-potentials/"
-        }
-      ]
-    },
-    {
-      "id": "ai-4",
-      "status": "NEW",
-      "title": "소프트웨어처럼 버전 관리되는 모델 롤아웃·롤백",
-      "summary": "Hugging Face의 Granite Switch 4.1.1은 모델을 애플리케이션 코드처럼 버전 관리하고, 환경별 전환과 롤백을 쉽게 하는 워크플로를 제공한다. 이를 통해 기업은 여러 모델·버전을 병렬로 실험하면서도 배포 리스크를 줄이고, 운영 환경에서의 모델 교체를 점진적·가역적으로 관리할 수 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Hugging Face Blog",
-          "title": "Granite Switch 4.1.1 — Update models like you update software",
-          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1"
-        }
-      ]
-    },
-    {
-      "id": "ai-5",
-      "status": "ONGOING",
-      "title": "대규모 다언어 사전학습을 위한 오픈 데이터 파이프라인",
-      "summary": "Hugging Face와 파트너는 인디크 언어권을 대상으로 2.8조 토큰 규모의 데이터셋과 생성 파이프라인을 공개했다. 수집·정제·중복 제거를 자동화하고 라이선스·재현성 문제를 명시적으로 관리해, 저대표 언어용 LLM 개발과 투명한 데이터 활용 관행 확산에 기여하고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Hugging Face Blog",
-          "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-          "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
+          "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2",
+          "url": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-2/"
         }
       ]
     }

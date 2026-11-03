@@ -1,0 +1,148 @@
+{
+  "range": {
+    "from": "2026-10-05",
+    "to": "2026-11-03"
+  },
+  "kpis": {
+    "collected": 46,
+    "deduped": 46,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 26,
+      "Competition": 25,
+      "Demand": 21,
+      "Investment": 19,
+      "Manufacturing": 9,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/05-10/11)",
+      "topicCounts": {
+        "Roadmap": 10,
+        "Competition": 8,
+        "Demand": 6,
+        "Investment": 5,
+        "Manufacturing": 4
+      }
+    },
+    {
+      "week": "Week 2 (10/12-10/18)",
+      "topicCounts": {
+        "Roadmap": 6,
+        "Competition": 11,
+        "Demand": 10,
+        "Investment": 5,
+        "Manufacturing": 1
+      }
+    },
+    {
+      "week": "Week 3 (10/19-10/25)",
+      "topicCounts": {
+        "Roadmap": 8,
+        "Competition": 8,
+        "Demand": 4,
+        "Investment": 8,
+        "Manufacturing": 3
+      }
+    },
+    {
+      "week": "Week 4 (10/26-11/01)",
+      "topicCounts": {
+        "Roadmap": 5,
+        "Competition": 5,
+        "Demand": 2,
+        "Investment": 3,
+        "Manufacturing": 2
+      }
+    },
+    {
+      "week": "Week 5 (11/02-11/03)",
+      "topicCounts": {
+        "Roadmap": 1,
+        "Competition": 1,
+        "Demand": 2,
+        "Investment": 1,
+        "Manufacturing": 1
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "ev-1",
+      "status": "ONGOING",
+      "title": "BYD의 초고속 성장: 글로벌 EV 수요·고용 확대",
+      "summary": "BYD가 10월 한 달에만 30만 대 이상 전기차를 판매해 미국 전체 3분기 판매량을 넘어서는 기록을 세웠고, 직원 수도 102만 명으로 도요타·GM·포드·테슬라를 합친 것보다 많은 수준으로 확대됐다. 이는 생산·고용·판매를 동시에 공격적으로 늘리며 글로벌 EV 경쟁 구도를 재편하고 있음을 보여준다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "BYD sold more EVs last month than the US did all quarter, topping 300,000",
+          "url": "https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/"
+        },
+        {
+          "source": "Electrek",
+          "title": "BYD now has 1.02 million workers, more than Toyota, GM, Ford, and Tesla combined",
+          "url": "https://electrek.co/2026/10/28/byd-1-million-employees-more-than-toyota-gm-ford-tesla/"
+        }
+      ]
+    },
+    {
+      "id": "ev-2",
+      "status": "ONGOING",
+      "title": "리비안 R2 중심 체질 개선: 실적 개선과 제품 포트폴리오 전환",
+      "summary": "리비안은 2026년 3분기 매출이 전년 대비 38% 증가하며 예상치를 상회했고, 보다 대중형인 R2가 첫 완전 분기부터 R1과 아마존 밴을 제치고 베스트셀러가 됐다. 이는 프리미엄 위주에서 볼륨 모델 중심으로 전환하며 수익성과 시장 점유율을 동시에 노리는 전략 전환의 신호로 읽힌다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Rivian (RIVN) Q3 2026 earnings: revenue up 38%, R2 now its best-seller",
+          "url": "https://electrek.co/2026/10/29/rivian-rivn-q3-2026-earnings-r2-best-seller/"
+        }
+      ]
+    },
+    {
+      "id": "ev-3",
+      "status": "ONGOING",
+      "title": "CATL 전고체 배터리 진전: 고에너지 밀도 EV 시대 가속",
+      "summary": "CATL이 20Ah급 전고체 배터리 셀을 개발하며 500Wh/kg급 고에너지 밀도 상용화를 향한 중요한 이정표를 세웠다. 이는 향후 전기차 주행거리 확대와 경량화, 프리미엄 세그먼트 경쟁력 제고에 직접적인 영향을 줄 수 있는 기술 업데이트다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "CATL pushes ahead with 20 Ah solid-state EV batteries, with 500 Wh/kg in sight",
+          "url": "https://electrek.co/2026/10/28/catl-pushes-ahead-20-ah-solid-state-ev-batteries-500-wh-kg/"
+        }
+      ]
+    },
+    {
+      "id": "ev-4",
+      "status": "NEW",
+      "title": "렉서스 RZ 2027년형: 프리미엄 EV의 가격·주행거리 경쟁 본격화",
+      "summary": "2027년형 렉서스 RZ가 5만 달러 미만의 시작가와 300마일 이상 주행거리를 내세우며 내년 초 출시를 예고했다. 이는 프리미엄 브랜드까지 가격·성능을 앞세운 볼륨 확대 단계에 진입했음을 보여주며, 고급 EV 시장의 경쟁을 한층 심화시킬 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "The 2027 Lexus RZ starts at under $50,000 and offers over 300 miles of range",
+          "url": "https://electrek.co/2026/10/26/2027-lexus-rz-starts-under-50000-with-300-miles-range/"
+        }
+      ]
+    },
+    {
+      "id": "ev-5",
+      "status": "ONGOING",
+      "title": "테슬라 텍사스 100억 달러급 태양광 공장: 장기 세제 혜택 기반 제조 허브 부상",
+      "summary": "텍사스 포트벤드 카운티가 테슬라의 100억 달러 규모 ‘프로젝트 크리스털 선’ 태양광 공장에 대해 최대 35년간 지방 세제 혜택을 승인했다. 장기 인센티브를 통해 테슬라의 에너지·제조 거점을 텍사스에 고착시키고, 전기차·재생에너지 밸류체인의 미국 내 리쇼어링을 가속하는 효과가 기대된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla’s $10B solar factory could get 35 years of tax breaks in Texas",
+          "url": "https://electrek.co/2026/10/23/tesla-solar-factory-texas-35-years-tax-breaks-fort-bend/"
+        }
+      ]
+    }
+  ]
+}

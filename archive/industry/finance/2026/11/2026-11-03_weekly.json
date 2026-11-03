@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-10-28",
+    "to": "2026-11-03"
+  },
+  "kpis": {
+    "collected": 8,
+    "deduped": 8,
+    "uniqueTopics": 8
+  },
+  "topTopics": [
+    {
+      "name": "MarketInfra",
+      "count": 6
+    },
+    {
+      "name": "Regulation",
+      "count": 3
+    },
+    {
+      "name": "Policy",
+      "count": 3
+    },
+    {
+      "name": "Security",
+      "count": 2
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Security",
+      "count": 0
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Security",
+      "count": 0
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Regulation",
+      "count": 1
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Security",
+      "count": 1
+    },
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "Security",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Regulation",
+      "count": 1
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Security",
+      "count": 0
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "Security",
+      "count": 0
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Regulation",
+      "count": 1
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Security",
+      "count": 1
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "의무공개매수 제도 개선 요구와 소액주주 보호 이슈",
+      "summary": "거버넌스포럼이 50%+1주 보유 시 잔여주식 의무공개매수 면제 규정이 대주주에게만 경영권 프리미엄을 독점시켜 소액주주 이익을 침해한다고 지적했다. 영국·독일·프랑스처럼 잔여지분 전체에 대한 의무공개매수를 도입해 인수·합병(M&A) 과정에서 소액주주 보호를 강화해야 한다는 제도 전면 보완 요구가 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "거버넌스포럼 “50%+1주 의무공개매수제 대주주만 프리미엄 독점”…전면 보완 촉구",
+          "url": "https://www.mk.co.kr/news/stock/12194561"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "금융투자업권 전반으로 확산되는 해킹·개인정보 유출 리스크",
+      "summary": "한양증권에서 고객 계좌·주민등록번호·주소 등 민감정보 31건이 유출되며 증권사·가상자산거래소가 공통으로 쓰는 그룹웨어 ‘다우오피스’ 취약점이 의심되고 있다. 최근 잇따른 해킹 사고로 금융투자업권 전반의 사이버 보안 체계와 전자문서·그룹웨어 등 외부 솔루션 의존 구조에 대한 리스크 관리 강화가 시급한 과제로 부상했다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한양증권서도 개인정보 유출…금투업권 해킹 비상",
+          "url": "https://www.mk.co.kr/news/stock/12194338"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "AI 빅테크 앤트로픽 나스닥 상장 기대와 글로벌 자본시장 파급",
+      "summary": "생성형 AI 기업 앤트로픽이 나스닥 상장 신고서를 제출하면서 기업가치 2700조원 수준의 기대가 형성됐다. 급격한 매출 성장에도 불구하고 아직 수익성과 성장 지속 가능성 검증 부담이 남아 있어 공모 규모·밸류에이션 산정이 관건이다. 국내 투자자 입장에선 해외 AI 빅테크 IPO 참여 여부, 관련 ETF·2차 수혜주 등 글로벌 자본시장 내 AI 밸류체인 재평가 흐름이 핵심 관전 포인트다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "‘몸값 2700조’ 앤트로픽 상장에 기대감 높은데…국내서 투자되나 보니",
+          "url": "https://www.mk.co.kr/news/stock/12192529"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "국가 지원 해킹과 금융·시장 인프라 안보 리스크 고조",
+      "summary": "마이크로소프트 위협정보센터(MSTIC)가 북한 해킹 조직이 한국을 겨냥해 100여 개의 악성코드를 살포했고, AI를 활용한 해킹 역량이 최고 수준에 도달했다고 분석했다. 금융사·증권사·핀테크 등 디지털 인프라가 고도화될수록 국가 지원형 사이버 공격의 표적이 될 가능성이 커지면서, 금융 안보 차원의 규제·감독 강화와 인프라 방어투자 확대가 불가피한 국면에 접어들고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[단독] MS “北, 한국에 악성코드 100개 뿌렸다…AI 해킹, 최고 수준”",
+          "url": "https://www.mk.co.kr/news/stock/12191238"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "인텔 하루 29% 폭락이 촉발한 글로벌 반도체·증시 리프라이싱",
+      "summary": "인텔 주가가 실적·가이던스 부진으로 하루 만에 29% 급락해 시가총액 약 183조원이 증발했다. EPS·매출 전망이 시장 기대치를 크게 밑돌며 서버·PC 수요와 파운드리 전환 전략에 대한 의구심이 커졌고, 이는 글로벌 반도체 밸류에이션 조정과 미국 증시 변동성 확대, 국내 관련주 투자심리 위축으로 이어질 가능성이 제기되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“52년 만에 최악의 하루”…주가 29% 폭락 인텔, 시총 183조원 증발",
+          "url": "https://www.mk.co.kr/news/stock/12192398"
+        }
+      ]
+    }
+  ]
+}

@@ -1,12 +1,12 @@
 {
   "range": {
-    "from": "2026-10-03",
-    "to": "2026-11-01"
+    "from": "2026-10-05",
+    "to": "2026-11-03"
   },
   "kpis": {
     "collected": 48,
     "deduped": 48,
-    "uniqueTopics": 8,
+    "uniqueTopics": 9,
     "marketShare": {
       "MarketInfra": 39,
       "Policy": 28,
@@ -18,123 +18,133 @@
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/03-10/09)",
+      "week": "Week 1 (10/05-10/11)",
       "topicCounts": {
-        "MarketInfra": 8,
-        "Policy": 6,
+        "MarketInfra": 9,
+        "Policy": 8,
         "Regulation": 2,
         "Compliance": 2,
         "Fintech": 2
       }
     },
     {
-      "week": "Week 2 (10/10-10/16)",
+      "week": "Week 2 (10/12-10/18)",
       "topicCounts": {
-        "MarketInfra": 11,
+        "MarketInfra": 12,
         "Policy": 9,
-        "Regulation": 3,
-        "Compliance": 2,
-        "Fintech": 2
-      }
-    },
-    {
-      "week": "Week 3 (10/17-10/23)",
-      "topicCounts": {
-        "MarketInfra": 9,
-        "Policy": 6,
-        "Regulation": 7,
-        "Compliance": 4,
+        "Regulation": 4,
+        "Compliance": 3,
         "Fintech": 1
       }
     },
     {
-      "week": "Week 4 (10/24-10/30)",
+      "week": "Week 3 (10/19-10/25)",
       "topicCounts": {
-        "MarketInfra": 8,
-        "Policy": 4,
-        "Regulation": 3,
+        "MarketInfra": 9,
+        "Policy": 8,
+        "Regulation": 4,
         "Compliance": 2,
-        "Fintech": 3
+        "Fintech": 1
       }
     },
     {
-      "week": "Week 5 (10/31-11/01)",
+      "week": "Week 4 (10/26-11/01)",
       "topicCounts": {
-        "MarketInfra": 2,
+        "MarketInfra": 7,
+        "Policy": 3,
+        "Regulation": 4,
+        "Compliance": 1,
+        "Fintech": 2
+      }
+    },
+    {
+      "week": "Week 5 (11/02-11/03)",
+      "topicCounts": {
+        "MarketInfra": 1,
         "Policy": 1,
         "Regulation": 1,
-        "Compliance": 0,
-        "Fintech": 0
+        "Compliance": 1,
+        "Fintech": 1
       }
     }
   ],
   "topIssues": [
     {
-      "id": "issue_001",
+      "id": "finance-1",
       "status": "ONGOING",
-      "title": "MarketInfra 업데이트 집중",
-      "summary": "앤트로픽이 나스닥 상장 신고서를 제출하며 '몸값 2700조' 수준의 기대감이 형성되고 있다.",
+      "title": "의무공개매수 제도 개편 논의와 소액주주 보호 쟁점",
+      "summary": "거버넌스포럼이 50%+1주만 매수해도 경영권을 확보할 수 있도록 한 현행 의무공개매수 면제 규정이 대주주의 경영권 프리미엄을 독점하게 만든다고 비판했다. 영국·독일·프랑스처럼 잔여주식을 전량 공개매수하도록 제도를 전면 보완해 소액주주 보호를 강화해야 한다는 요구가 커지며 자본시장 M&A 규제 체계 재정비 논의가 확산되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "title": "‘몸값 2700조’ 앤트로픽 상장에 기대감 높은데…국내서 투자되나 보니",
           "source": "매일경제(증권)",
-          "url": "https://www.mk.co.kr/news/stock/12192529"
+          "title": "거버넌스포럼 “50%+1주 의무공개매수제 대주주만 프리미엄 독점”…전면 보완 촉구",
+          "url": "https://www.mk.co.kr/news/stock/12194561"
         }
       ]
     },
     {
-      "id": "issue_002",
+      "id": "finance-2",
       "status": "ONGOING",
-      "title": "Security 업데이트 집중",
-      "summary": "마이크로소프트(MSTIC) 보고서에 따르면 북한 해킹 조직이 한국에 악성코드 100여 개를 뿌린 것으로 확인됐다.",
-      "articleCount": 1,
+      "title": "증권사·가상자산사 동시 노린 해킹…금투업권 사이버 리스크 급부상",
+      "summary": "한양증권에서 고객 계좌, 주민번호, 주소 등 민감 정보가 유출된 사건이 빗썸 해킹과 동일한 그룹웨어 ‘다우오피스’ 취약점에서 비롯된 것으로 추정되면서 금융투자업권 전반의 보안 리스크가 부각되고 있다. 북한 연계 조직의 대규모 악성코드 살포와 AI 기반 해킹 고도화까지 더해져, 증권사·가상자산사업자·핀테크사의 보안 투자와 규제·감독 강화 논의가 주간·월간 핵심 이슈로 부상했다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
-          "title": "[단독] MS “北, 한국에 악성코드 100개 뿌렸다…AI 해킹, 최고 수준”",
           "source": "매일경제(증권)",
+          "title": "한양증권서도 개인정보 유출…금투업권 해킹 비상",
+          "url": "https://www.mk.co.kr/news/stock/12194338"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "[단독] MS “北, 한국에 악성코드 100개 뿌렸다…AI 해킹, 최고 수준”",
           "url": "https://www.mk.co.kr/news/stock/12191238"
         }
       ]
     },
     {
-      "id": "issue_003",
+      "id": "finance-3",
       "status": "ONGOING",
-      "title": "Fintech 업데이트 집중",
-      "summary": "한은은 AI 붐이 꺾일 경우 최악 시나리오로 132조원 손실을 제시했다.",
-      "articleCount": 1,
+      "title": "AI·빅테크 상장 열풍과 거품 논쟁, 금융시장 변동성 요인으로 부각",
+      "summary": "나스닥 상장을 추진 중인 앤트로픽을 둘러싸고 수천조원대 기업가치 기대가 형성되는 한편, 상반기 막대한 적자와 불확실한 수익성으로 밸류에이션 거품 논쟁이 커지고 있다. 한국은행은 AI 열기가 꺼질 경우 최대 132조원의 손실 가능성을 제시하며 금융시장과 실물경제에 미칠 충격을 경고해, AI·빅테크 투자 열풍이 중장기 리스크 요인으로 집중 재조명되고 있다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
-          "title": "“AI 꺾이면 132조원 증발”...한은이 던진 ‘최악 시나리오’",
           "source": "매일경제(증권)",
+          "title": "‘몸값 2700조’ 앤트로픽 상장에 기대감 높은데…국내서 투자되나 보니",
+          "url": "https://www.mk.co.kr/news/stock/12192529"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "“AI 꺾이면 132조원 증발”...한은이 던진 ‘최악 시나리오’",
           "url": "https://www.mk.co.kr/news/stock/12186625"
         }
       ]
     },
     {
-      "id": "issue_004",
+      "id": "finance-4",
       "status": "SHIFTING",
-      "title": "Crypto 업데이트 집중",
-      "summary": "미 재무장관 스콧 베센트가 링컨을 언급하는 발언을 했다.",
+      "title": "스테이블코인·크립토 규율 정비 속 미 재무당국 발언으로 정책 방향성 주목",
+      "summary": "미 재무장관 스콧 베센트가 링컨을 언급하며 시장 신뢰와 규범을 강조하는 발언을 내놓은 시점에, 미국 정부가 스테이블코인 활성화를 위한 조치를 잇달아 내놓고 있다. 전통 금융과 크립토 시장의 연계성이 커지는 가운데 규제 명확화와 시장 육성을 병행하는 정책 기조가 감지돼, 글로벌 디지털자산 규제 환경 변화가 금융시장 참여자들의 중기 투자 전략 변수로 떠오르고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "title": "링컨까지 소환한 베센트... 앤트로픽 상장, 다음달 확정인가",
           "source": "매일경제(증권)",
+          "title": "링컨까지 소환한 베센트... 앤트로픽 상장, 다음달 확정인가",
           "url": "https://www.mk.co.kr/news/business/12182433"
         }
       ]
     },
     {
-      "id": "issue_005",
+      "id": "finance-5",
       "status": "ONGOING",
-      "title": "Enforcement 업데이트 집중",
-      "summary": "최근 5년 판결문 239건을 분석한 결과 범죄수익 1.5조원 중 추징은 18%에 불과했다.",
+      "title": "주가조작 처벌·추징 실효성 논란과 자본시장 법집행 개혁 요구",
+      "summary": "최근 5년간 판결문 분석에서 주가조작 등 자본시장 교란 사건의 범죄수익 1.5조원 중 실제 추징이 18%에 그치고, 3건 중 2건은 추징금이 전혀 없었던 것으로 드러났다. 형량·추징의 실효성 부족이 시장 교란 행위를 부추긴다는 비판과 함께, 금융당국과 사법당국의 공조 강화, 부당이득 전액 환수 및 형사·행정 제재 정비 필요성이 월간 핵심 개혁 과제로 제기되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "title": "[단독] 주가조작, 패가망신 맞나요?…3건 중 2건은 추징금 ‘0원’",
           "source": "매일경제(증권)",
+          "title": "[단독] 주가조작, 패가망신 맞나요?…3건 중 2건은 추징금 ‘0원’",
           "url": "https://www.mk.co.kr/news/society/12181989"
         }
       ]

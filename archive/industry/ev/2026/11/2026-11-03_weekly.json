@@ -1,0 +1,276 @@
+{
+  "range": {
+    "from": "2026-10-28",
+    "to": "2026-11-03"
+  },
+  "kpis": {
+    "collected": 6,
+    "deduped": 6,
+    "uniqueTopics": 7
+  },
+  "topTopics": [
+    {
+      "name": "Demand",
+      "count": 4
+    },
+    {
+      "name": "Competition",
+      "count": 4
+    },
+    {
+      "name": "Roadmap",
+      "count": 4
+    },
+    {
+      "name": "Manufacturing",
+      "count": 3
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Manufacturing",
+      "count": 2
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 2
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Manufacturing",
+      "count": 1
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "ev-1",
+      "status": "ONGOING",
+      "title": "BYD, 미국 분기 판매량을 뛰어넘는 월 30만 대 EV 판매로 글로벌 격차 확대",
+      "summary": "BYD가 10월 한 달에만 30만 대 이상의 전기차를 판매하며 미국 전체 3분기 EV 판매량을 상회하는 기록을 세웠습니다. 이는 공격적인 생산·고용 확대와 내수·수출 동시 성장 전략이 맞물린 결과로, 글로벌 EV 시장에서 BYD와 후발 주자 간 격차가 구조적으로 벌어지고 있음을 보여줍니다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "BYD sold more EVs last month than the US did all quarter, topping 300,000",
+          "url": "https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/"
+        },
+        {
+          "source": "Electrek",
+          "title": "BYD now has 1.02 million workers, more than Toyota, GM, Ford, and Tesla combined",
+          "url": "https://electrek.co/2026/10/28/byd-1-million-employees-more-than-toyota-gm-ford-tesla/"
+        }
+      ]
+    },
+    {
+      "id": "ev-2",
+      "status": "ONGOING",
+      "title": "리비안, R2 흥행에 힘입어 실적 개선 및 제품 포트폴리오 전환 가속",
+      "summary": "리비안은 2026년 3분기 매출이 전년 대비 38% 증가하며 시장 기대를 상회했고, 중형급 R2가 첫 완전 분기부터 R1·아마존 밴을 제치고 주력 모델로 자리 잡았습니다. 이는 프리미엄·플릿 중심에서 보다 대중적인 볼륨 세그먼트로 전략 축을 옮기며 규모의 경제와 수익성 개선을 동시에 노리는 전환 국면을 의미합니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Rivian (RIVN) Q3 2026 earnings: revenue up 38%, R2 now its best-seller",
+          "url": "https://electrek.co/2026/10/29/rivian-rivn-q3-2026-earnings-r2-best-seller/"
+        }
+      ]
+    },
+    {
+      "id": "ev-3",
+      "status": "ONGOING",
+      "title": "CATL, 20Ah 전고체 배터리로 500Wh/kg 상용화 경쟁에 앞서가",
+      "summary": "CATL이 20Ah급 전고체 셀 개발에 성공하며 500Wh/kg 에너지 밀도 달성을 내다보고 있습니다. 이는 주행거리·경량화·원가 구조를 동시에 개선할 수 있는 차세대 배터리 경쟁에서 CATL의 기술 리더십을 강화하는 이정표로, 프리미엄 EV와 항공 모빌리티 등 고성능 전동화 시장에 중장기적인 파급 효과가 예상됩니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "CATL pushes ahead with 20 Ah solid-state EV batteries, with 500 Wh/kg in sight",
+          "url": "https://electrek.co/2026/10/28/catl-pushes-ahead-20-ah-solid-state-ev-batteries-500-wh-kg/"
+        }
+      ]
+    },
+    {
+      "id": "ev-4",
+      "status": "ONGOING",
+      "title": "중국 대형 상용차 전동화 가속: 전기 트럭이 판매의 절반 돌파",
+      "summary": "중국 대형 트럭 시장에서 9월 전기 트럭 비중이 50.3%를 기록해 디젤 중심이던 중·대형 상용차 부문에서 구조적 전환이 본격화되고 있습니다. 전체 대형 트럭 수요가 감소하는 가운데 전기 트럭만 역성장하는 모습으로, 석유 수요 둔화와 상용차용 충전·배터리 스와핑 인프라 투자 확대를 촉발하는 방향으로 정책·투자 축이 옮겨가고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Electric trucks hit 50% of China’s heavy truck sales, diesel demand falls",
+          "url": "https://electrek.co/2026/11/02/electric-trucks-50-percent-china-heavy-truck-sales-diesel-demand/"
+        }
+      ]
+    },
+    {
+      "id": "ev-5",
+      "status": "SHIFTING",
+      "title": "도요타, EV 성장에도 중국 내연기관 부진으로 글로벌 포트폴리오 재조정 압력",
+      "summary": "도요타의 EV 판매는 1년 새 2배 이상 늘었지만, 중국에서 내연기관·하이브리드 수요가 급락하면서 글로벌 판매는 3개월 연속 감소했습니다. 하이브리드 중심 전략만으로는 성장이 제한되고 있어, 중국·글로벌 모두에서 순수 전기차 비중 확대와 현지 맞춤형 EV 플랫폼 전환이 불가피해지는 국면입니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Toyota’s EV sales more than doubled in a year, but gas cars are getting crushed in China",
+          "url": "https://electrek.co/2026/10/29/toyotas-ev-sales-doubled-but-gas-cars-getting-crushed-china/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "date": "2026-11-03",
+  "highlights": {
+    "bullets": [
+      "핵심: NVIDIA Attribution으로 분산 AI 워크로드의 연쇄 오류 증상을 추적한다.",
+      "핵심: OpenAI는 대규모 자동화 워크플로를 처리하기 위한 Git 호환 백엔드 Pando를 개발했다.",
+      "트렌드: 분산 AI 서비스의 안정성과 확장을 위해 인프라와 도구 개선이 공통으로 강조된다."
+    ],
+    "topTopics": [
+      "Infra",
+      "Tooling",
+      "Product",
+      "Training"
+    ],
+    "stats": {
+      "collected": 8,
+      "deduped": 8
+    }
+  },
+  "cards": [
+    {
+      "id": "ai_0001",
+      "tab": "ai",
+      "publishedAt": "2026-11-03T08:39:34+09:00",
+      "source": "NVIDIA Developer Blog",
+      "title": "Diagnose Distributed AI Workload Failures with NVIDIA Attribution",
+      "summary": [
+        "NVIDIA Attribution으로 분산 AI 워크로드의 단일 오류가 일으키는 연쇄 증상을 추적할 수 있다.",
+        "GPU나 패브릭 이벤트가 다른 랭크의 NCCL 오류나 스케줄러 상태로 표출되는 사례를 텔레메트리로 상호 연관시켜 진단한다.",
+        "하드웨어·라이브러리·스케줄러 로그를 통합해 근본 원인 파악과 디버깅 시간을 단축한다."
+      ],
+      "whyItMatters": "분산 학습·추론 환경에서 신속한 근본 원인 분석은 시스템 안정성과 리소스 효율을 바로 개선하기 때문이다.",
+      "topics": [
+        "Tooling",
+        "Infra",
+        "Training"
+      ],
+      "status": "NEW",
+      "hash": "218c5dc9b18cefceb61f7895c73107c2482125dd78be514db07958fae3b7a718",
+      "url": "https://developer.nvidia.com/blog/diagnose-distributed-ai-workload-failures-with-nvidia-attribution/"
+    },
+    {
+      "id": "ai_0002",
+      "tab": "ai",
+      "publishedAt": "2026-11-03T07:43:05+09:00",
+      "source": "NVIDIA Developer Blog",
+      "title": "Keep Distributed Training Running with Automated Workload Recovery",
+      "summary": [
+        "분산 AI 학습에서 하드웨어와 소프트웨어 의존성으로 인한 장애가 학습 중단을 자주 발생시킨다.",
+        "NVIDIA는 자동화된 워크로드 복구로 장애 감지, 체크포인트 복원, 재스케줄링을 통해 학습을 신속히 복구하는 방안을 소개한다.",
+        "이 방법은 중단 시간을 줄여 자원 효율과 학습 완료율을 높이고 대규모 훈련의 신뢰성을 개선한다."
+      ],
+      "whyItMatters": "빠른 자동 복구는 대규모 분산 훈련의 실패 비용을 줄이고 자원 활용과 모델 수렴에 직접적인 영향을 미치기 때문이다.",
+      "topics": [
+        "Training",
+        "Infra",
+        "Tooling"
+      ],
+      "status": "ONGOING",
+      "hash": "84a791d3975ddc36c15006d587677b06bac4f371da1d43c00e788a21afe8b505",
+      "url": "https://developer.nvidia.com/blog/keep-distributed-training-running-with-automated-workload-recovery/"
+    },
+    {
+      "id": "ai_0003",
+      "tab": "ai",
+      "publishedAt": "2026-11-03T00:30:00+09:00",
+      "source": "OpenAI Blog",
+      "title": "Scaling Git at OpenAI",
+      "summary": [
+        "OpenAI는 Pando라는 Git 호환 백엔드를 개발했다.",
+        "Pando는 Codex가 가능하게 한 대규모 자동화·동시작업 워크플로를 처리하도록 설계되었다.",
+        "대규모 리포지토리와 높은 동시성에서 성능·인프라 효율을 개선하는 데 중점을 두었다."
+      ],
+      "whyItMatters": "기존 Git의 한계를 극복해 대규모 AI 기반 개발 환경에서 생산성과 운영 효율을 크게 향상시키기 때문입니다.",
+      "topics": [
+        "Tooling",
+        "Infra",
+        "Product"
+      ],
+      "status": "NEW",
+      "hash": "277870ffc8d71544c0465c137654062f6f2bf7e7d7a1ec8af9071c966d86edc3",
+      "url": "https://openai.com/index/scaling-git-at-openai"
+    },
+    {
+      "id": "ai_0004",
+      "tab": "ai",
+      "publishedAt": "2026-11-03T00:00:00+09:00",
+      "source": "OpenAI Blog",
+      "title": "Introducing the Grid Protectors Program",
+      "summary": [
+        "OpenAI가 전력망 안정성과 소비자 전기요금 보호를 위해 'Grid Protectors Program'을 발표했습니다.",
+        "이 프로그램은 대형 컴퓨트 캠퍼스와 유틸리티 간 협력을 통해 전력 수요를 관리하고 인프라 부담을 줄이는 것을 목표로 합니다.",
+        "유틸리티와의 파트너십을 통해 캠퍼스의 전력 사용을 최적화하고 지역 전력망 신뢰성 강화를 도모합니다."
+      ],
+      "whyItMatters": "대규모 연산센터의 전력 수요가 지역 전력망과 소비자 비용에 미치는 영향을 줄이기 위한 실질적 대응이기 때문입니다.",
+      "topics": [
+        "Infra",
+        "Product",
+        "Business"
+      ],
+      "status": "NEW",
+      "hash": "5d33ed0c66ace544e65f6063efa96737fd184e0288033033361ae48877b21fc8",
+      "url": "https://openai.com/index/grid-protectors-program"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "range": {
+    "from": "2026-10-05",
+    "to": "2026-11-03"
+  },
+  "kpis": {
+    "collected": 58,
+    "deduped": 58,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 29,
+      "Competition": 23,
+      "Manufacturing": 22,
+      "Demand": 13,
+      "Investment": 13,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/05-10/11)",
+      "topicCounts": {
+        "Roadmap": 9,
+        "Competition": 9,
+        "Manufacturing": 7,
+        "Demand": 3,
+        "Investment": 3
+      }
+    },
+    {
+      "week": "Week 2 (10/12-10/18)",
+      "topicCounts": {
+        "Roadmap": 14,
+        "Competition": 12,
+        "Manufacturing": 13,
+        "Demand": 5,
+        "Investment": 8
+      }
+    },
+    {
+      "week": "Week 3 (10/19-10/25)",
+      "topicCounts": {
+        "Roadmap": 14,
+        "Competition": 12,
+        "Manufacturing": 7,
+        "Demand": 8,
+        "Investment": 1
+      }
+    },
+    {
+      "week": "Week 4 (10/26-11/01)",
+      "topicCounts": {
+        "Roadmap": 8,
+        "Competition": 5,
+        "Manufacturing": 9,
+        "Demand": 5,
+        "Investment": 7
+      }
+    },
+    {
+      "week": "Week 5 (11/02-11/03)",
+      "topicCounts": {
+        "Roadmap": 3,
+        "Competition": 0,
+        "Manufacturing": 1,
+        "Demand": 1,
+        "Investment": 2
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "semi-1",
+      "status": "ONGOING",
+      "title": "AI 수요가 견인하는 메모리 중심 반도체 호황",
+      "summary": "생성형 AI 확산으로 HBM·고대역폭 DDR 등 AI 서버용 메모리 수요가 폭발적으로 증가하며 반도체 업계 실적을 견인하고 있다. 삼성전자는 분기 기준 사상 최고 수준의 영업이익을 기록하며 AI 메모리 리더십을 강화했고, 메모리 투자·증설 및 제품 믹스 고도화가 글로벌 경쟁 구도의 핵심 변수로 부상하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Samsung Electronics Posts $80B Operating Profit on AI Memory Demand",
+          "url": "https://www.eetimes.com/samsung-electronics-posts-80b-operating-profit-on-ai-memory-demand/"
+        }
+      ]
+    },
+    {
+      "id": "semi-2",
+      "status": "ONGOING",
+      "title": "AI가 재정의하는 반도체 제조: 재료·장비·패키징 혁신",
+      "summary": "고성능 AI 칩 요구가 공정 미세화 수준을 넘어 재료, 공정 제어, 장비, 패키징까지 전방위 혁신을 촉발하고 있다. 공정 복잡도와 비용이 급증하면서 수율·전력 효율을 높이기 위한 고급 재료, 공정 최적화용 AI, 첨단 패키징(RDL, 2.5D/3D 등)에 대한 투자가 제조 경쟁력의 핵심 요소로 부상하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "How AI Redefines Semiconductor Manufacturing, From Materials Up",
+          "url": "https://www.eetimes.com/how-ai-redefines-semiconductor-manufacturing-from-materials-up/"
+        }
+      ]
+    },
+    {
+      "id": "semi-3",
+      "status": "SHIFTING",
+      "title": "양자·첨단 센서 등 신산업에서의 국가 주도 반도체 인프라 전략",
+      "summary": "캐나다는 국방 조달, 장기 투자 자본, 공동 인프라를 축으로 양자 기술 상용화를 추진하며 차세대 컴퓨팅·센서용 반도체 생태계 기반을 강화하고 있다. 동시에 유럽에서는 Euro NCAP 기준 강화로 차량 인캐빈 센서 아키텍처 재편이 진행되며, 정책·규제가 고부가가치 센서·SoC 수요를 구조적으로 확대하는 방향으로 작동하고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Canada’s Quantum Sector Sets Sights on Commercialization",
+          "url": "https://www.eetimes.com/canadas-quantum-sector-sets-sights-on-commercialization/"
+        },
+        {
+          "source": "EE Times",
+          "title": "Automakers Reconsider In-Cabin Sensing for Euro NCAP Ratings",
+          "url": "https://www.eetimes.com/automakers-reconsider-in-cabin-sensing-for-euro-ncap-ratings/"
+        }
+      ]
+    },
+    {
+      "id": "semi-4",
+      "status": "ONGOING",
+      "title": "차세대 위치·내비게이션용 반도체 및 통신 인프라 수요 확대",
+      "summary": "GNSS 재밍·스푸핑이 증가하면서 단일 GPS 의존에서 벗어나 4G·5G, NTN(비지상망) 등 다계층 위치 결정 솔루션이 부상하고 있다. 이에 따라 통신·위치 결합형 칩셋, 저전력 RF·베이스밴드, 보안 기능 통합 위치 칩 등 신규 반도체 수요가 확대되며, 인프라·디바이스 양측에서 투자가 이어지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "When GPS Isn’t Enough: Building a Second Layer of Positioning",
+          "url": "https://www.eetimes.com/when-gps-isnt-enough-building-a-second-layer-of-positioning/"
+        }
+      ]
+    },
+    {
+      "id": "semi-5",
+      "status": "ONGOING",
+      "title": "엣지·로보틱스용 생성형 AI와 전용 SoC 설계 트렌드",
+      "summary": "로봇 및 자율시스템에 생성형 AI를 도입하기 위해 엣지 인퍼런스 최적화, 온디바이스 학습, 저전력 AI 가속기 통합 등 새로운 반도체 설계 요구가 커지고 있다. 이를 지원하는 로보틱스·엣지 AI SoC, 모듈, 레퍼런스 플랫폼에 대한 관심이 높아지며, 차세대 공정과 설계 IP를 결합한 제품 로드맵이 논의되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "AI to the Edge: Generative Intelligence for Robotics and Autonomous Systems",
+          "url": "https://www.eetimes.com/ai-to-the-edge-generative-intelligence-for-robotics-and-autonomous-systems/"
+        }
+      ]
+    }
+  ]
+}

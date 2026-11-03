@@ -1,12 +1,84 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-03",
   "highlights": {
-    "bullets": [],
-    "topTopics": [],
+    "bullets": [
+      "핵심: 캐나다 양자 기술 분야가 상용화를 목표로 정책 수요와 장기자본·공유 인프라에 주력합니다.",
+      "핵심: 엣지 환경에서 생성형 인텔리전스가 로봇 및 자율시스템의 설계와 운영 변화를 주제로 웨비나가 개최됩니다.",
+      "트렌드: 기술 상용화와 현장 적용을 위해 기업·투자·공유 인프라와 로드맵 논의가 강조됩니다."
+    ],
+    "topTopics": [
+      "Roadmap",
+      "Investment",
+      "Manufacturing",
+      "Demand"
+    ],
     "stats": {
-      "collected": 0,
-      "deduped": 0
+      "collected": 10,
+      "deduped": 10
     }
   },
-  "cards": []
+  "cards": [
+    {
+      "id": "semiconductor_0001",
+      "tab": "semiconductor",
+      "publishedAt": "2026-11-03T03:58:45+09:00",
+      "source": "EE Times",
+      "title": "Canada’s Quantum Sector Sets Sights on Commercialization",
+      "summary": [
+        "캐나다 양자 기술 분야가 상용화를 목표로 방향을 전환하고 있습니다.",
+        "국방 조달, 장기 투자 자본(페이션트 캐피탈), 공동 인프라가 국내 기업의 확장을 지원할 것으로 제시됩니다.",
+        "목표는 연구 중심 생태계에서 시장 지향적 상용화·스케일업으로의 전환입니다."
+      ],
+      "whyItMatters": "상용화에는 정책적 수요 창출과 장기 자본·공유 인프라라는 실질적 지원이 필수적이기 때문입니다.",
+      "topics": [
+        "Investment",
+        "Policy",
+        "Roadmap"
+      ],
+      "status": "SHIFTING",
+      "hash": "3c8f314648cc9f827c5a920ff7250924ccc7cf4c926a55983fe55b73f966ce1e",
+      "url": "https://www.eetimes.com/canadas-quantum-sector-sets-sights-on-commercialization/"
+    },
+    {
+      "id": "semiconductor_0002",
+      "tab": "semiconductor",
+      "publishedAt": "2026-11-03T03:29:50+09:00",
+      "source": "EE Times",
+      "title": "AI to the Edge: Generative Intelligence for Robotics and Autonomous Systems",
+      "summary": [
+        "임베디드 엔지니어와 로봇 개발자, AI 실무자와 기술 리더를 대상으로 한 웨비나입니다.",
+        "엣지 환경에서 생성형 인텔리전스가 로봇 및 자율시스템의 설계·운영을 어떻게 변화시키는지 탐구합니다.",
+        "물리적 AI의 미래 로드맵, 현장 적용 사례와 구현 과제를 중심으로 논의합니다."
+      ],
+      "whyItMatters": "엣지 기반 생성형 AI는 로봇의 자율성·효율성·현장 처리능력을 크게 향상시켜 산업 전반의 제품 설계와 운영 방식에 중요한 영향을 미치기 때문에 중요합니다.",
+      "topics": [
+        "Roadmap",
+        "Manufacturing",
+        "Demand"
+      ],
+      "status": "ONGOING",
+      "hash": "56104451c6019691aa1e3fedc29ff79b271b2894cf4c5262aa8ed2e8f1421186",
+      "url": "https://www.eetimes.com/ai-to-the-edge-generative-intelligence-for-robotics-and-autonomous-systems/"
+    },
+    {
+      "id": "semiconductor_0003",
+      "tab": "semiconductor",
+      "publishedAt": "2026-11-02T17:00:00+09:00",
+      "source": "Samsung Newsroom",
+      "title": "Samsung Champions Young Olympians at Dakar 2026, First-Ever Olympic Event on African Continent",
+      "summary": [
+        "삼성전자가 다카르 2026 유스올림픽에 갤럭시 기술과 선수 중심 프로그램을 제공합니다.",
+        "이번 대회는 아프리카 대륙에서 처음 열리는 올림픽 행사로 선수 경험 강화에 중점을 둡니다.",
+        "삼성의 참여는 브랜드 영향력 확대와 향후 올림픽 협력 로드맵의 일환입니다."
+      ],
+      "whyItMatters": "아프리카 최초의 올림픽 무대에서 삼성의 기술 제공은 브랜드 가시성과 선수 지원 역량을 동시에 강화하기 때문입니다.",
+      "topics": [
+        "Roadmap",
+        "Investment"
+      ],
+      "status": "ONGOING",
+      "hash": "4e5e2e720890cdb08bb0b8603cf9a0e2f96f8466b95739da0ccda0a9cc8c05ba",
+      "url": "https://news.samsung.com/global/samsung-champions-young-olympians-at-dakar-2026-first-ever-olympic-event-on-african-continent"
+    }
+  ]
 }

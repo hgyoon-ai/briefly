@@ -1,0 +1,281 @@
+{
+  "range": {
+    "from": "2026-10-28",
+    "to": "2026-11-03"
+  },
+  "kpis": {
+    "collected": 13,
+    "deduped": 13,
+    "uniqueTopics": 10
+  },
+  "topTopics": [
+    {
+      "name": "Tooling",
+      "count": 8
+    },
+    {
+      "name": "Product",
+      "count": 8
+    },
+    {
+      "name": "Infra",
+      "count": 7
+    },
+    {
+      "name": "Research",
+      "count": 6
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Tooling",
+      "count": 3
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Product",
+      "count": 3
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Research",
+      "count": 1
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Tooling",
+      "count": 2
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Product",
+      "count": 1
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Infra",
+      "count": 2
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Research",
+      "count": 2
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Product",
+      "count": 2
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Infra",
+      "count": 1
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Research",
+      "count": 3
+    },
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "Research",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Research",
+      "count": 0
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "Research",
+      "count": 0
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Tooling",
+      "count": 3
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Product",
+      "count": 2
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Infra",
+      "count": 4
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Research",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "분산 AI 학습 장애 진단·복구 자동화",
+      "summary": "NVIDIA Attribution과 자동 워크로드 복구 기술로 대규모 분산 AI 학습에서 발생하는 GPU·패브릭 오류와 NCCL 장애를 신속히 추적·복원해 중단 시간을 최소화하는 인프라 운영 전략이 부상하고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Diagnose Distributed AI Workload Failures with NVIDIA Attribution",
+          "url": "https://developer.nvidia.com/blog/diagnose-distributed-ai-workload-failures-with-nvidia-attribution/"
+        },
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Keep Distributed Training Running with Automated Workload Recovery",
+          "url": "https://developer.nvidia.com/blog/keep-distributed-training-running-with-automated-workload-recovery/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "AI 데이터센터 전력 수요 관리와 전력망 보호",
+      "summary": "OpenAI의 Grid Protectors Program은 대형 AI 컴퓨트 캠퍼스와 전력 유틸리티 간 협력을 통해 전력 피크를 완화하고 전력망 안정성과 소비자 전기요금을 동시에 보호하려는 신규 이니셔티브로, AI 인프라의 에너지 책임성을 강조한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "Introducing the Grid Protectors Program",
+          "url": "https://openai.com/index/grid-protectors-program"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "보다 유익하고 책임 있는 AI를 위한 모델 명세 업데이트",
+      "summary": "OpenAI는 건전한 판단, 인간 주체성 존중, 사용자 의도에 대한 충실성 등 다섯 가지 핵심 가치를 포함한 새로운 모델 스펙을 공개해, 모델 개발·배포 전 과정에서 일관된 안전·윤리 기준을 적용하려 하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "An updated Model Spec for more capable and beneficial AI",
+          "url": "https://openai.com/index/updated-model-spec"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "프런티어 모델 정렬 상태 모니터링과 오용 방지",
+      "summary": "OpenAI는 계층화된 모니터링 시스템을 통해 최첨단 모델의 비의도적 에이전트 행동과 정렬 실패 신호를 조기 탐지해, 내부 대응자가 잠재적 사고 확산 전에介입할 수 있도록 하는 안전 인프라를 고도화하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "How we detect frontier model misalignment",
+          "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "AI 에이전트와 직장·조직 구조의 재편",
+      "summary": "연구·블로그 논의에서 코딩 에이전트를 포함한 AI가 업무 흐름의 ‘아래·옆·사이’에 들어와 협업 파트너이자 중개자로 기능하며, 전통적 조직도와 권한 구조, 업무 배분 방식이 장기적으로 재구성될 것이라는 시나리오가 제시되고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "Microsoft Research Blog",
+          "title": "Microsoft Research Focus – Edition #97",
+          "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/"
+        },
+        {
+          "source": "OpenAI Blog",
+          "title": "The future of the firm",
+          "url": "https://openai.com/index/the-future-of-the-firm"
+        }
+      ]
+    }
+  ]
+}

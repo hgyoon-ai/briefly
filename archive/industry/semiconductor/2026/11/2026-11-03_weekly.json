@@ -1,0 +1,276 @@
+{
+  "range": {
+    "from": "2026-10-28",
+    "to": "2026-11-03"
+  },
+  "kpis": {
+    "collected": 12,
+    "deduped": 12,
+    "uniqueTopics": 7
+  },
+  "topTopics": [
+    {
+      "name": "Investment",
+      "count": 9
+    },
+    {
+      "name": "Roadmap",
+      "count": 8
+    },
+    {
+      "name": "Manufacturing",
+      "count": 8
+    },
+    {
+      "name": "Demand",
+      "count": 5
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 5
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 5
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Manufacturing",
+      "count": 6
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Demand",
+      "count": 3
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Demand",
+      "count": 1
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "캐나다 양자 반도체·컴퓨팅 상용화 가속: 국방·공동 인프라 축으로 생태계 전환",
+      "summary": "캐나다 양자 기술 산업이 연구 중심에서 상용화 중심으로 무게를 옮기고 있다. 국방 조달을 초기 수요처로 삼고, 장기 투자 자본과 공동 인프라를 통해 양자 센서·통신·컴퓨팅 스타트업을 키우는 방향으로 산업전략이 재편되는 중이다. 이는 차세대 양자 반도체와 시스템 공급망에서 캐나다의 존재감을 확대하려는 움직임으로, 글로벌 파운드리·장비사와의 협력 수요도 늘어날 가능성이 높다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Canada’s Quantum Sector Sets Sights on Commercialization",
+          "url": "https://www.eetimes.com/canadas-quantum-sector-sets-sights-on-commercialization/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "엣지용 생성형 AI 반도체 수요 부상: 로봇·자율시스템이 새로운 성장 축으로",
+      "summary": "로봇과 자율주행·자율시스템에 생성형 AI를 적용하기 위한 엣지 컴퓨팅 수요가 커지면서, 고성능·저전력 엣지 AI SoC와 센서·AI 가속기 반도체의 중장기 수요가 구조적으로 확대되고 있다. 이는 데이터센터 중심에서 엣지·온디바이스로 AI 워크로드가 분산되는 추세를 반영하며, IP 설계, SoC 아키텍처, 전력 최적화 공정에서 새로운 설계 패러다임을 요구하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "AI to the Edge: Generative Intelligence for Robotics and Autonomous Systems",
+          "url": "https://www.eetimes.com/ai-to-the-edge-generative-intelligence-for-robotics-and-autonomous-systems/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "AI 메모리 호황과 삼성 3분기 실적 급등: HBM·고대역폭 D램이 이익 레버리지로 부상",
+      "summary": "AI 서버와 GPU 클러스터 확산으로 HBM과 고대역폭 D램 수요가 폭발하면서 삼성전자의 반도체 실적이 크게 개선되고 있다. 3분기 기준 글로벌 AI 메모리 수요를 선점한 효과로 영업이익이 급증했으며, 향후 공정 미세화·첨단 패키징 투자와 함께 메모리 단가 및 믹스 개선이 이익의 핵심 동력이 될 전망이다. AI 메모리에 대한 중장기 CAPEX 확대와 경쟁사 대비 기술·공급 우위 유지 여부가 시장 지배력에 직접적인 변수가 되고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Samsung Electronics Posts $80B Operating Profit on AI Memory Demand",
+          "url": "https://www.eetimes.com/samsung-electronics-posts-80b-operating-profit-on-ai-memory-demand/"
+        },
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung Electronics Announces Third Quarter 2026 Results",
+          "url": "https://news.samsung.com/global/samsung-electronics-announces-third-quarter-2026-results"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "AI 칩 제조 패러다임 전환: 소재·장비·패키징까지 통합 최적화 경쟁",
+      "summary": "초고성능 AI 칩 수요가 증가하면서 설계뿐 아니라 소재, 공정 장비, 패키징까지 전 공정 단계에서 성능·전력·수율을 동시 최적화하려는 움직임이 강화되고 있다. 신소재 도입, 공정 미세화 한계 극복, 2.5D/3D 패키징 확산 등으로 파운드리·장비·소재 업체 간 공동 개발이 필수화되고 있으며, 이는 장비·소재사에도 중장기 투자 기회를 제공하는 동시에 공급망 복잡도를 높이고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "How AI Redefines Semiconductor Manufacturing, From Materials Up",
+          "url": "https://www.eetimes.com/how-ai-redefines-semiconductor-manufacturing-from-materials-up/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "실리콘 포토닉스·CPO 부상: 대규모 AI 칩 클러스터의 ‘데이터 이동 병목’ 해소 전쟁",
+      "summary": "수만 개 GPU를 묶는 초대형 AI 클러스터에서 메모리·칩 간 데이터 이동 병목이 성능의 최대 제약으로 부각되면서, 실리콘 포토닉스와 CPO(Cochip/Chip Package Optics) 기반 광 인터커넥트가 차세대 인프라 핵심 기술로 부상하고 있다. 패키지 수준에서 전기 신호를 광 신호로 변환해 고대역·저지연 연결을 구현하려는 시도가 확산되면서, 관련 반도체 공정·패키징·테스트 기술에 대한 투자가 본격화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "SK hynix Newsroom",
+          "title": "[Tech Note] Why does AI still have to wait with tens of thousands of GPUs? How silicon photonics and CPO are building the ‘highways of light’",
+          "url": "https://news.skhynix.com/en/tech-note-series-ep3-6/"
+        }
+      ]
+    }
+  ]
+}

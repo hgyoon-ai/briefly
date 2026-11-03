@@ -1,0 +1,64 @@
+{
+  "date": "2026-11-03",
+  "highlights": {
+    "bullets": [
+      "핵심: BYD가 10월에 30만 대 이상의 전기차를 판매했다.",
+      "핵심: 9월 중국 대형 트럭 판매의 50.3%가 전기 트럭이었다."
+    ],
+    "topTopics": [
+      "Demand",
+      "Roadmap",
+      "Competition",
+      "Investment"
+    ],
+    "stats": {
+      "collected": 13,
+      "deduped": 13
+    }
+  },
+  "cards": [
+    {
+      "id": "ev_0001",
+      "tab": "ev",
+      "publishedAt": "2026-11-03T02:24:44+09:00",
+      "source": "Electrek",
+      "title": "BYD sold more EVs last month than the US did all quarter, topping 300,000",
+      "summary": [
+        "BYD가 10월에 30만 대 이상의 전기차를 판매하며 월간 신기록을 세웠다.",
+        "이 수치는 미국이 전체 3분기 동안 판매한 전기차 수보다 많다.",
+        "이는 BYD의 생산 확대와 강한 글로벌 수요를 반영한다."
+      ],
+      "whyItMatters": "BYD의 대규모 판매는 글로벌 전기차 시장 점유율 재편과 경쟁사·공급망 전략에 직접적인 영향을 미치기 때문에 중요합니다.",
+      "topics": [
+        "Demand",
+        "Manufacturing",
+        "Competition"
+      ],
+      "status": "ONGOING",
+      "hash": "082378c60bc906a638b42c98c1d2b5038457ff8d1cfa3e3934ea3c50d28560fc",
+      "url": "https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/"
+    },
+    {
+      "id": "ev_0002",
+      "tab": "ev",
+      "publishedAt": "2026-11-02T23:44:40+09:00",
+      "source": "Electrek",
+      "title": "Electric trucks hit 50% of China’s heavy truck sales, diesel demand falls",
+      "summary": [
+        "중국에서 9월 중 대형 트럭 판매의 50.3%가 전기 트럭으로, 전년 대비 37% 증가했습니다.",
+        "동기간 전체 대형 트럭 시장 규모는 21% 감소했음에도 전기 트럭 판매는 크게 성장했습니다.",
+        "이로 인해 중국의 올해 디젤 수요는 하루 약 23만 배럴 감소할 것으로 예상되며, 전기 및 천연가스 트럭이 이를 주도하고 있습니다."
+      ],
+      "whyItMatters": "전기 트럭이 대형 상용차 시장의 절반을 차지하며 디젤 수요 구조를 근본적으로 변화시키고 있어 에너지·운송·정책 전반에 중대한 구조적 전환 신호이기 때문입니다.",
+      "topics": [
+        "Demand",
+        "Policy",
+        "Roadmap",
+        "Investment"
+      ],
+      "status": "ONGOING",
+      "hash": "b36dcf1a1e37f9fb20c0c6bf53f778ab25b98a5374aca69078d55ce98eb6b094",
+      "url": "https://electrek.co/2026/11/02/electric-trucks-50-percent-china-heavy-truck-sales-diesel-demand/"
+    }
+  ]
+}

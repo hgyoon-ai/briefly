@@ -1,0 +1,276 @@
+{
+  "range": {
+    "from": "2026-10-28",
+    "to": "2026-11-03"
+  },
+  "kpis": {
+    "collected": 19,
+    "deduped": 19,
+    "uniqueTopics": 10
+  },
+  "topTopics": [
+    {
+      "name": "Market",
+      "count": 14
+    },
+    {
+      "name": "Supply",
+      "count": 13
+    },
+    {
+      "name": "Policy",
+      "count": 9
+    },
+    {
+      "name": "UrbanRenewal",
+      "count": 9
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Market",
+      "count": 2
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Supply",
+      "count": 2
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": "Wed",
+      "topic": "UrbanRenewal",
+      "count": 0
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Market",
+      "count": 0
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Supply",
+      "count": 5
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 4
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": "Thu",
+      "topic": "UrbanRenewal",
+      "count": 5
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Market",
+      "count": 3
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Supply",
+      "count": 3
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": "Fri",
+      "topic": "UrbanRenewal",
+      "count": 1
+    },
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "Market",
+      "count": 4
+    },
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "Supply",
+      "count": 2
+    },
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "UrbanRenewal",
+      "count": 1
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Market",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "UrbanRenewal",
+      "count": 0
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "Market",
+      "count": 1
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "UrbanRenewal",
+      "count": 0
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Market",
+      "count": 4
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Supply",
+      "count": 1
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "UrbanRenewal",
+      "count": 2
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "강남 고가 아파트 매매에서 급증하는 ‘셀러파이낸싱’",
+      "summary": "압구정·강남권 50억 이상 고가 아파트 거래에서 집주인이 매수자에게 직접 자금을 빌려주는 ‘셀러파이낸싱’ 비중이 크게 늘고 있다. 일부 거래에서는 5억~10억 원을 6개월 기준 연 5% 안팎 금리로 빌려주며, 근저당 설정과 함께 2년치 소득명세서 등 까다로운 조건을 요구하는 등, 고금리·대출규제 속 새로운 자금 조달 관행으로 자리잡는 양상이다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "압구정 50억 이상 거래 45%가 ‘집주인 대출’ [H-EXCLUSIVE]",
+          "url": "https://biz.heraldcorp.com/article/10924010"
+        },
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "“6개월간 5억~10억 대여에 금리 5%” 집주인 “2년치 소득명세서 떼오세요”",
+          "url": "https://biz.heraldcorp.com/article/10923987"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "민간 정비사업 용적률 1.2배 상향 추진과 임대비율 논쟁",
+      "summary": "당정이 민간 정비사업의 용적률을 최대 1.2배까지 상향해 서울에서만 2031년까지 약 4만3000가구 추가 공급을 내다보고 있다. 그러나 기반시설 과부하, 중저가 주택 가격 자극, 공공임대·공공기여 비율을 둘러싼 형평성 논란 등으로, 시장에서는 용적률 확대보다 임대 비율·기반시설 확충 기준을 먼저 현실화해야 한다는 지적이 나온다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "당정, 민간 용적률 1.2배 상향 추진한다는데…시장선 “임대비율 먼저 현실화 해야”",
+          "url": "https://www.mk.co.kr/news/realestate/12194434"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "세금 부담 회피 수단으로 다시 부각되는 재건축 투자",
+      "summary": "보유세·양도세 부담이 커지면서 다주택자와 투자 수요가 신축 대신 재건축 단지로 이동하려는 움직임이 나타나고 있다. 다만 재건축 규제 변화, 조합·사업 지연 리스크, 장기 보유에 따른 세금·자금여력 등 변수가 커 투자 전 사업 단계와 세 부담 구조를 정밀 점검해야 하는 이슈로 부각되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "세금 더 내느니 재건축 물건 살까…새 아파트 투자 전 따져볼 것들",
+          "url": "https://www.hankyung.com/article/202611031969i"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "하남 신규 택지 개발 앞둔 토지 지분쪼개기·투기 논란",
+      "summary": "하남 신규 택지 예정지 일대 토지 거래의 약 80%가 지분 쪼개기 의심 사례로 드러나며, 그린벨트 해제 발표 전부터 사전 투기 정황이 포착됐다. 공공택지 개발과 맞물려 토지 보상·지분권자 정리 문제, 개발이익 환수와 투기 차단을 위한 규제 강화 필요성이 다시 쟁점이 되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "신규 택지 하남 땅 거래 80% '쪼개기'",
+          "url": "https://www.mk.co.kr/news/realestate/12193831"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "대규모 공공택지 조성 속 토지시장 급반응과 교통난 우려",
+      "summary": "김포시에 3만7000가구 규모 김포아라 공공택지 조성 계획이 발표되자, 토지 수용 여부 문의와 매물 회수 등 토지시장이 즉각 반응하고 있다. 그러나 기존에도 만성적인 교통난을 겪는 지역인 만큼, 대량 주택 공급에 비해 광역교통망 확충 계획이 미흡하다는 비판이 제기되며 교통 인프라가 사업 성패의 핵심 변수로 떠오르고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "“‘내 땅 포함됐냐’ 전화에 내비 못들어” 3.7만 쏟는 김포, 교통난은 여전히 숙제 [르포] [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10920099"
+        }
+      ]
+    }
+  ]
+}

@@ -1,54 +1,54 @@
 {
   "range": {
-    "from": "2026-10-03",
-    "to": "2026-11-01"
+    "from": "2026-10-05",
+    "to": "2026-11-03"
   },
   "kpis": {
-    "collected": 55,
-    "deduped": 55,
+    "collected": 58,
+    "deduped": 58,
     "uniqueTopics": 7,
     "marketShare": {
-      "Roadmap": 28,
-      "Competition": 24,
-      "Manufacturing": 23,
+      "Roadmap": 29,
+      "Competition": 23,
+      "Manufacturing": 22,
       "Demand": 13,
-      "Investment": 12,
+      "Investment": 13,
       "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/03-10/09)",
+      "week": "Week 1 (10/05-10/11)",
       "topicCounts": {
-        "Roadmap": 7,
-        "Competition": 7,
-        "Manufacturing": 5,
+        "Roadmap": 9,
+        "Competition": 9,
+        "Manufacturing": 7,
         "Demand": 3,
         "Investment": 3
       }
     },
     {
-      "week": "Week 2 (10/10-10/16)",
+      "week": "Week 2 (10/12-10/18)",
       "topicCounts": {
         "Roadmap": 14,
-        "Competition": 11,
-        "Manufacturing": 11,
-        "Demand": 3,
-        "Investment": 7
+        "Competition": 12,
+        "Manufacturing": 13,
+        "Demand": 5,
+        "Investment": 8
       }
     },
     {
-      "week": "Week 3 (10/17-10/23)",
+      "week": "Week 3 (10/19-10/25)",
       "topicCounts": {
-        "Roadmap": 12,
-        "Competition": 10,
-        "Manufacturing": 6,
-        "Demand": 7,
+        "Roadmap": 14,
+        "Competition": 12,
+        "Manufacturing": 7,
+        "Demand": 8,
         "Investment": 1
       }
     },
     {
-      "week": "Week 4 (10/24-10/30)",
+      "week": "Week 4 (10/26-11/01)",
       "topicCounts": {
         "Roadmap": 8,
         "Competition": 5,
@@ -58,41 +58,36 @@
       }
     },
     {
-      "week": "Week 5 (10/31-11/01)",
+      "week": "Week 5 (11/02-11/03)",
       "topicCounts": {
-        "Roadmap": 0,
+        "Roadmap": 3,
         "Competition": 0,
-        "Manufacturing": 0,
-        "Demand": 0,
-        "Investment": 0
+        "Manufacturing": 1,
+        "Demand": 1,
+        "Investment": 2
       }
     }
   ],
   "topIssues": [
     {
-      "id": 1,
+      "id": "semi-1",
       "status": "ONGOING",
-      "title": "AI 메모리 호황에 따른 삼성전자 실적 급증",
-      "summary": "AI 서버용 HBM·고용량 DDR 등 AI 메모리 수요가 폭발하며 삼성전자가 분기 기준 사상 최고 수준의 매출과 영업이익을 기록했다. 메모리 단가 회복과 첨단 공정 투자 확대가 맞물리며 반도체 업황 회복이 본격화되고 있다.",
-      "articleCount": 2,
+      "title": "AI 수요가 견인하는 메모리 중심 반도체 호황",
+      "summary": "생성형 AI 확산으로 HBM·고대역폭 DDR 등 AI 서버용 메모리 수요가 폭발적으로 증가하며 반도체 업계 실적을 견인하고 있다. 삼성전자는 분기 기준 사상 최고 수준의 영업이익을 기록하며 AI 메모리 리더십을 강화했고, 메모리 투자·증설 및 제품 믹스 고도화가 글로벌 경쟁 구도의 핵심 변수로 부상하고 있다.",
+      "articleCount": 1,
       "relatedArticles": [
         {
           "source": "EE Times",
           "title": "Samsung Electronics Posts $80B Operating Profit on AI Memory Demand",
           "url": "https://www.eetimes.com/samsung-electronics-posts-80b-operating-profit-on-ai-memory-demand/"
-        },
-        {
-          "source": "Samsung Newsroom",
-          "title": "Samsung Electronics Announces Third Quarter 2026 Results",
-          "url": "https://news.samsung.com/global/samsung-electronics-announces-third-quarter-2026-results"
         }
       ]
     },
     {
-      "id": 2,
+      "id": "semi-2",
       "status": "ONGOING",
-      "title": "AI가 촉발한 반도체 제조·소재·패키징 전방위 혁신",
-      "summary": "초고성능 AI 칩 요구로 공정 미세화뿐 아니라 신소재, 노광·증착 장비, 첨단 패키징(칩렛, 2.5D/3D)까지 전 밸류체인 혁신이 가속 중이다. 수율·전력 효율·집적도 확보를 위해 AI 워크로드 최적화 중심의 제조 로드맵 재편이 진행되고 있다.",
+      "title": "AI가 재정의하는 반도체 제조: 재료·장비·패키징 혁신",
+      "summary": "고성능 AI 칩 요구가 공정 미세화 수준을 넘어 재료, 공정 제어, 장비, 패키징까지 전방위 혁신을 촉발하고 있다. 공정 복잡도와 비용이 급증하면서 수율·전력 효율을 높이기 위한 고급 재료, 공정 최적화용 AI, 첨단 패키징(RDL, 2.5D/3D 등)에 대한 투자가 제조 경쟁력의 핵심 요소로 부상하고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -103,54 +98,49 @@
       ]
     },
     {
-      "id": 3,
-      "status": "ONGOING",
-      "title": "글로벌 반도체 리더십 경쟁과 브랜드·IP 생태계 강화",
-      "summary": "삼성전자가 인터브랜드 글로벌 브랜드 순위 5위를 7년 연속 유지하며 반도체·전자 전반의 프리미엄 이미지를 공고히 하고 있다. 오디오 등 소비자 경험 영역에서 장기 파트너십과 기술 IP를 확대해 시스템·디바이스 중심의 생태계 경쟁력을 강화하는 흐름이 이어지고 있다.",
+      "id": "semi-3",
+      "status": "SHIFTING",
+      "title": "양자·첨단 센서 등 신산업에서의 국가 주도 반도체 인프라 전략",
+      "summary": "캐나다는 국방 조달, 장기 투자 자본, 공동 인프라를 축으로 양자 기술 상용화를 추진하며 차세대 컴퓨팅·센서용 반도체 생태계 기반을 강화하고 있다. 동시에 유럽에서는 Euro NCAP 기준 강화로 차량 인캐빈 센서 아키텍처 재편이 진행되며, 정책·규제가 고부가가치 센서·SoC 수요를 구조적으로 확대하는 방향으로 작동하고 있다.",
       "articleCount": 2,
-      "relatedArticles": [
-        {
-          "source": "Samsung Newsroom",
-          "title": "Samsung Ranks No. 5 in Interbrand’s ‘Best Global Brands 2026’ for Seventh Consecutive Year",
-          "url": "https://news.samsung.com/global/samsung-ranks-no-5-in-interbrands-best-global-brands-2026-for-seventh-consecutive-year"
-        },
-        {
-          "source": "Samsung Newsroom",
-          "title": "[Interview] Sound That Connects: 80 Years of Audio and the Future of Connected Experiences",
-          "url": "https://news.samsung.com/global/interview-sound-that-connects-80-years-of-audio-and-the-future-of-connected-experiences"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "status": "ONGOING",
-      "title": "반도체 장비·인프라 대규모 투자 경쟁 심화",
-      "summary": "첨단 공정·AI 칩 수요 대응을 위해 글로벌 장비·소재 기업들이 수십억 달러 수준의 제조·R&D 허브 투자를 확대하고 있다. 이는 파운드리·IDM뿐 아니라 장비 업체까지 포함한 전 산업의 공급능력 확충과 지역별 클러스터 형성을 가속하는 요인으로 작용한다.",
-      "articleCount": 1,
       "relatedArticles": [
         {
           "source": "EE Times",
-          "title": "Video Interview: Applied Materials CEO on the Economics Behind Its $5B EPIC Bet",
-          "url": "https://www.eetimes.com/video-interview-applied-materials-ceo-on-the-economics-behind-its-5b-epic-bet/"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "status": "SHIFTING",
-      "title": "차량용 센싱·위치 기술의 고신뢰·다중 레이어화",
-      "summary": "유럽 NCAP의 강화된 안전 기준과 GPS 재밍 증가로, 자동차 업계는 스티어링휠 센서에서 차내 통합 센서로 전환하고 GNSS를 보완하는 4G·5G·NTN 기반 보조 측위 계층 도입을 검토 중이다. 이는 차량용 센서·칩·통신 모듈의 수요 구조와 설계 방향에 변화를 주고 있다.",
-      "articleCount": 2,
-      "relatedArticles": [
+          "title": "Canada’s Quantum Sector Sets Sights on Commercialization",
+          "url": "https://www.eetimes.com/canadas-quantum-sector-sets-sights-on-commercialization/"
+        },
         {
           "source": "EE Times",
           "title": "Automakers Reconsider In-Cabin Sensing for Euro NCAP Ratings",
           "url": "https://www.eetimes.com/automakers-reconsider-in-cabin-sensing-for-euro-ncap-ratings/"
-        },
+        }
+      ]
+    },
+    {
+      "id": "semi-4",
+      "status": "ONGOING",
+      "title": "차세대 위치·내비게이션용 반도체 및 통신 인프라 수요 확대",
+      "summary": "GNSS 재밍·스푸핑이 증가하면서 단일 GPS 의존에서 벗어나 4G·5G, NTN(비지상망) 등 다계층 위치 결정 솔루션이 부상하고 있다. 이에 따라 통신·위치 결합형 칩셋, 저전력 RF·베이스밴드, 보안 기능 통합 위치 칩 등 신규 반도체 수요가 확대되며, 인프라·디바이스 양측에서 투자가 이어지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
         {
           "source": "EE Times",
           "title": "When GPS Isn’t Enough: Building a Second Layer of Positioning",
           "url": "https://www.eetimes.com/when-gps-isnt-enough-building-a-second-layer-of-positioning/"
+        }
+      ]
+    },
+    {
+      "id": "semi-5",
+      "status": "ONGOING",
+      "title": "엣지·로보틱스용 생성형 AI와 전용 SoC 설계 트렌드",
+      "summary": "로봇 및 자율시스템에 생성형 AI를 도입하기 위해 엣지 인퍼런스 최적화, 온디바이스 학습, 저전력 AI 가속기 통합 등 새로운 반도체 설계 요구가 커지고 있다. 이를 지원하는 로보틱스·엣지 AI SoC, 모듈, 레퍼런스 플랫폼에 대한 관심이 높아지며, 차세대 공정과 설계 IP를 결합한 제품 로드맵이 논의되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "AI to the Edge: Generative Intelligence for Robotics and Autonomous Systems",
+          "url": "https://www.eetimes.com/ai-to-the-edge-generative-intelligence-for-robotics-and-autonomous-systems/"
         }
       ]
     }
