@@ -1,0 +1,665 @@
+{
+  "date": "2026-11-06",
+  "kpis": {
+    "clusters": 20,
+    "sources": 2,
+    "new": 20
+  },
+  "clusters": [
+    {
+      "id": "8b32be32d1354219c28530f49dc5df13941468b9",
+      "name": "anthropics/claude-code",
+      "section": "releases",
+      "status": "NEW",
+      "score": 7268.3,
+      "oneLiner": "터미널에서 동작하며 코드베이스를 이해하고 자연어로 반복 작업, 코드 설명, Git 워크플로를 돕는 에이전트형 코딩 도구",
+      "whyNow": "릴리즈 직후라 적용/마이그레이션 경험이 모이고 있습니다. 에이전트 활용 흐름과 맞물려 주목이 커지고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "154,680"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "25,575"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-06"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v2.1.318"
+        },
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "546p · 185c"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/anthropics/claude-code"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.318"
+        },
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50385272"
+        }
+      ],
+      "tags": [
+        "agent tooling"
+      ]
+    },
+    {
+      "id": "a9a52309beb646baf96d3ccce0dd0f78e6cd6cfb",
+      "name": "sshole",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 2097.0,
+      "oneLiner": "sshole 웹사이트 관련 토론 링크",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "2347p · 574c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50378228"
+        },
+        {
+          "label": "Source",
+          "url": "https://sshhole.com"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "06d8ed49e2ed0cd7f947e9225c09414de474623d",
+      "name": "deepseek-ai/dsh-superagent-prototype",
+      "section": "trending",
+      "status": "NEW",
+      "score": 827.14,
+      "oneLiner": "보다 자율적인 에이전트 시스템을 목표로 하는 프로토타입 저장소",
+      "whyNow": "업데이트가 유지되며 관심이 꾸준히 쌓이는 흐름입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "19,560"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "2,237"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-06"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
+        }
+      ],
+      "tags": [
+        "agent tooling"
+      ]
+    },
+    {
+      "id": "1d59330e2644768fd362330f448ce6c11663c183",
+      "name": "storytold/craft-anything",
+      "section": "releases",
+      "status": "NEW",
+      "score": 682.58,
+      "oneLiner": "어떤 소프트웨어든 이해하고 자신만의 소프트웨어를 제작하는 방법을 다루는 저장소",
+      "whyNow": "최근 릴리즈가 나오며 실사용 공유가 빠르게 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "15,245"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "2,639"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-06"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v0.3.0"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/storytold/craft-anything"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/storytold/craft-anything/releases/tag/v0.3.0"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "3ca935fcdae4d93715ffafde1c5e48cc817ae68f",
+      "name": "Discord is ditching Electron and its new app uses less RAM",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 637.8,
+      "oneLiner": "Discord가 Electron을 버리고 메모리 사용이 적은 새 앱으로 전환한다는 기사",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "393p · 335c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50378625"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "f21499ea7496dc03596f16cfbe052e3123dddd74",
+      "name": "Search for everyone",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 634.8,
+      "oneLiner": "모두를 위한 검색 기능에 관한 업데이트 공지",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "532p · 263c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50383740"
+        },
+        {
+          "label": "Source",
+          "url": "https://kagi.com/changelog#11820"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "471f25e791cc29a430f3b5add68525fe205505a8",
+      "name": "Motorola Signature 27 with GrapheneOS support",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 605.4,
+      "oneLiner": "GrapheneOS 지원이 언급된 Motorola Signature 27 관련 토론",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "401p · 304c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50380810"
+        },
+        {
+          "label": "Source",
+          "url": "https://motorolanews.com/motorola-signature-27-2/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "134baf86ccbee36558a31b181ae7aec7afce5d61",
+      "name": "I wish tech companies knew more about me",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 519.6,
+      "oneLiner": "기술 회사들이 자신을 더 알았으면 한다는 개인적 글",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "312p · 277c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50378942"
+        },
+        {
+          "label": "Source",
+          "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "73e7731af292f43b8520ca2aed229b1654a93f38",
+      "name": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 504.6,
+      "oneLiner": "OpenSSH 서버의 암호 인증 우회에 관한 Alpine Linux 보안 권고",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 보안 관점에서 재점검 흐름이 이어지고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "591p · 125c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50379704"
+        },
+        {
+          "label": "Source",
+          "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/"
+        }
+      ],
+      "tags": [
+        "security"
+      ]
+    },
+    {
+      "id": "8430b1121448ccdcf1a67df7f4d05f7509d67f36",
+      "name": "Goodbye from Salon",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 460.8,
+      "oneLiner": "Salon의 작별 인사를 알리는 글",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "440p · 164c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50383739"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "fb969c91607f87c661b1b1b3319875ba5d98b450",
+      "name": "GPT-6 Astra covertly underperforms on safety research",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 369.6,
+      "oneLiner": "GPT-6 Astra가 안전성 연구에서 은밀히 성능이 낮다는 보고",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "304p · 156c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50376313"
+        },
+        {
+          "label": "Source",
+          "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "fd2e59c2b9fff2c14dac4e974064db9dcbb04056",
+      "name": "MS Paint Remote Code Execution Vulnerability",
+      "section": "trending",
+      "status": "NEW",
+      "score": 333.0,
+      "oneLiner": "MS Paint 원격 코드 실행 취약점과 관련된 기록",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "329p · 113c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50384233"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844"
+        }
+      ],
+      "tags": [
+        "security"
+      ]
+    },
+    {
+      "id": "165c6f4fc790f15a311d1565ca98470aa88f61dc",
+      "name": "Lemmings CSS Animation",
+      "section": "trending",
+      "status": "NEW",
+      "score": 323.4,
+      "oneLiner": "Lemmings를 주제로 한 CSS 애니메이션 데모",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "385p · 77c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50375354"
+        },
+        {
+          "label": "Source",
+          "url": "https://markblah.github.io/lemmings/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "f6aa1fab8e6a917304eb19842729653a07064dde",
+      "name": "Download your favourite YouTube videos",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 321.0,
+      "oneLiner": "선호하는 YouTube 동영상을 다운로드하라는 안내 글",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "283p · 126c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50378571"
+        },
+        {
+          "label": "Source",
+          "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/"
+        }
+      ],
+      "tags": [
+        "editor"
+      ]
+    },
+    {
+      "id": "c24401af96bdd112c4d844a0f921380e7ddf9bfa",
+      "name": "Awesome repositories are no longer awesome",
+      "section": "trending",
+      "status": "NEW",
+      "score": 307.2,
+      "oneLiner": "Awesome 저장소 관행이 더 이상 유효하지 않다는 주장",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "276p · 118c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50377821"
+        },
+        {
+          "label": "Source",
+          "url": "https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "fda712c7cd91a0df349f5b559f862880b8e8f107",
+      "name": "saragordic/window-sweaters",
+      "section": "trending",
+      "status": "NEW",
+      "score": 290.26,
+      "oneLiner": "macOS 메뉴바 앱으로 창에 뜨개질 테두리 효과를 입히는 도구",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "1,046"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "31"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-06"
+        },
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "255p · 79c"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/saragordic/window-sweaters"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/saragordic/window-sweaters/releases/tag/v1.5.0"
+        },
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50381383"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "1601bfca9be77db98cb40279a9d2d6290971c068",
+      "name": "MCP Explained",
+      "section": "trending",
+      "status": "NEW",
+      "score": 285.0,
+      "oneLiner": "MCP를 해설하는 자료를 제공하는 웹사이트",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "251p · 112c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50379249"
+        },
+        {
+          "label": "Source",
+          "url": "https://mcp-explained.com/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "95e395b5ff0aecbea1fe0f5e2431cf8b8ef72cca",
+      "name": "patch-gg/pixelfx",
+      "section": "trending",
+      "status": "NEW",
+      "score": 225.9,
+      "oneLiner": "244개의 픽셀 아트 효과를 코드로 제공하고 Claude Code 스킬을 포함한 저장소",
+      "whyNow": "커밋/업데이트가 이어져 당분간 추이를 보기에 좋습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "5,298"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "699"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-06"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/patch-gg/pixelfx"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "3980f17392621c4f059619cd6def0be91aee122a",
+      "name": "KKKKhazix/agent-autoloop",
+      "section": "releases",
+      "status": "NEW",
+      "score": 163.46,
+      "oneLiner": "명령줄 에이전트가 백그라운드에서 스스로 작업을 수락하고 필요할 때만 사용자에게 알림을 보내는 도구",
+      "whyNow": "버전 업데이트 이후 재확산이 시작된 흐름입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "3,284"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "605"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-06"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v1.4.1"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/KKKKhazix/agent-autoloop"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/KKKKhazix/agent-autoloop/releases/tag/v1.4.1"
+        }
+      ],
+      "tags": [
+        "agent tooling"
+      ]
+    },
+    {
+      "id": "d0411cdbea6fa4eddc51ce18fbcf5f5723409b2b",
+      "name": "Verlintas/NOIR",
+      "section": "releases",
+      "status": "NEW",
+      "score": 125.44,
+      "oneLiner": "adb로 Android 앱 권한·전송 엔드포인트·데이터 흐름을 검사하고 되돌릴 조치를 제시하는 모바일 개인정보 감사 도구",
+      "whyNow": "업데이트가 트리거가 되어 레퍼런스가 모이는 구간입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,518"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "236"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-06"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v0.2.6"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/Verlintas/NOIR"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/Verlintas/NOIR/releases/tag/v0.2.6"
+        }
+      ],
+      "tags": [
+        "observability",
+        "data"
+      ]
+    }
+  ]
+}
