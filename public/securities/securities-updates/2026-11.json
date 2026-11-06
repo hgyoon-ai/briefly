@@ -2,6 +2,52 @@
   "month": "2026-11",
   "events": [
     {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12198599",
+      "date": "2026-11-05",
+      "company": "미래에셋증권",
+      "title": "[인사] 미래에셋그룹",
+      "oneLiner": "미래에셋그룹 인사 공지로 정보보호부문 등 주요 부문 대표이사 선임 내정이 포함되어 있어 조직·운영·보안 책임자 변화로 실무 영향 가능성이 있음.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[인사] 미래에셋그룹",
+          "url": "https://www.mk.co.kr/news/stock/12198599"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-11-06"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202611051134106658",
+      "date": "2026-11-05",
+      "company": "한국투자증권",
+      "title": "한투, ISA 대기자금도 자동 굴린다…RP 자동매수 서비스 출시",
+      "oneLiner": "한국투자증권이 중개형 ISA 대기자금을 자동으로 RP에 투자하는 'RP 자동매수 서비스'를 출시했으며 이는 실무적 상품·서비스 출시로 분류됨.",
+      "type": "출시",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투, ISA 대기자금도 자동 굴린다…RP 자동매수 서비스 출시",
+          "url": "https://www.fnnews.com/news/202611051134106658"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-11-06"
+    },
+    {
       "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12194331",
       "date": "2026-11-03",
       "company": "한국투자증권",
