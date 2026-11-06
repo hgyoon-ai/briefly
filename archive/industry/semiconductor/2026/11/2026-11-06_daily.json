@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-06",
+  "highlights": {
+    "bullets": [
+      "핵심: 반도체 제조와 패키징 분야의 최신 기술 진보가 조명되었다.",
+      "핵심: GaN 기술의 상용화 가속과 제조·공급망 과제가 언급되었다.",
+      "트렌드: 기술 상용화와 응용 확대에 산업 전반의 관심이 집중되는 공통점이 있다."
+    ],
+    "topTopics": [
+      "Roadmap",
+      "Investment",
+      "Manufacturing",
+      "Competition"
+    ],
+    "stats": {
+      "collected": 10,
+      "deduped": 10
+    }
+  },
+  "cards": [
+    {
+      "id": "semiconductor_0001",
+      "tab": "semiconductor",
+      "publishedAt": "2026-11-06T07:30:00+09:00",
+      "source": "EE Times",
+      "title": "EE Times Magazine – November 2026",
+      "summary": [
+        "이번 호는 반도체 제조 및 패키징의 최신 기술 진보를 조명합니다.",
+        "농업 자율화(팜 오토노미) 기술의 적용 사례와 잠재적 영향을 다룹니다.",
+        "캐나다의 신기술 상용화 전략과 생태계 구축 노력을 소개합니다."
+      ],
+      "whyItMatters": "반도체 제조 혁신과 기술 상용화는 산업 경쟁력·투자 기회·공급망에 직접적 영향을 미치기 때문입니다.",
+      "topics": [
+        "Manufacturing",
+        "Investment",
+        "Roadmap"
+      ],
+      "status": "ONGOING",
+      "hash": "347e3bde3860d63b41567e91451072b0d1fdea1326c4467705802ede1d6015f0",
+      "url": "https://www.eetimes.com/ee-times-magazine-november-2026/"
+    },
+    {
+      "id": "semiconductor_0002",
+      "tab": "semiconductor",
+      "publishedAt": "2026-11-06T04:15:17+09:00",
+      "source": "EE Times",
+      "title": "Infineon’s Johannes Schoiswohl on the GaN Market at OktoberTech",
+      "summary": [
+        "인피니언의 요하네스 쇠스볼이 OktoberTech에서 GaN(질화갈륨) 시장 현황과 전망을 소개했다.",
+        "인터뷰에서는 GaN의 상용화 가속, 애플리케이션 확대 및 제조·공급망 과제가 언급되었다.",
+        "인피니언의 기술 로드맵과 경쟁 전략이 시장 채택에 핵심 요소로 강조되었다."
+      ],
+      "whyItMatters": "이 발언은 GaN 기술의 상용화 추세와 인피니언의 제품·생산 전략이 제조 역량과 경쟁 구도에 미치는 영향을 보여주기 때문에 중요하다.",
+      "topics": [
+        "Manufacturing",
+        "Competition",
+        "Roadmap",
+        "Demand"
+      ],
+      "status": "ONGOING",
+      "hash": "e89217c15a3887b2297e431a7a1f827a24cc86f95c6488a0d17ab472a7044a60",
+      "url": "https://www.eetimes.com/infineons-johannes-schoiswohl-on-the-gan-market-at-oktobertech/"
+    },
+    {
+      "id": "semiconductor_0003",
+      "tab": "semiconductor",
+      "publishedAt": "2026-11-05T17:00:00+09:00",
+      "source": "Samsung Newsroom",
+      "title": "Beyond the Medal: Samsung Helps Young Athletes Explore What Comes Next at Dakar 2026",
+      "summary": [
+        "삼성전자는 다카르 2026 유스올림픽에서 젊은 선수들이 '그다음'을 탐색할 수 있도록 지원하고 있다.",
+        "갤럭시 기술을 활용해 선수들의 경험 확대와 진로·학습 기회를 제공한다.",
+        "이번 대회는 아프리카에서 처음 열리는 올림픽 행사로 약 2,700명의 선수들이 참가한다."
+      ],
+      "whyItMatters": "스포츠와 기술을 결합한 지원은 삼성의 글로벌 브랜드 이미지 강화와 젊은 인재 발굴·사회공헌 효과를 동시에 노리기 때문이다.",
+      "topics": [
+        "Competition",
+        "Investment",
+        "Roadmap"
+      ],
+      "status": "ONGOING",
+      "hash": "80a2723d090cf292f7d9d966718fe6811d23bc5a65df923c752515b577d100fe",
+      "url": "https://news.samsung.com/global/beyond-the-medal-samsung-helps-young-athletes-explore-what-comes-next-at-dakar-2026"
+    }
+  ]
+}

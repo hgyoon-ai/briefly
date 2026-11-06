@@ -1,0 +1,281 @@
+{
+  "range": {
+    "from": "2026-10-31",
+    "to": "2026-11-06"
+  },
+  "kpis": {
+    "collected": 13,
+    "deduped": 13,
+    "uniqueTopics": 10
+  },
+  "topTopics": [
+    {
+      "name": "Market",
+      "count": 12
+    },
+    {
+      "name": "Regulation",
+      "count": 7
+    },
+    {
+      "name": "Supply",
+      "count": 6
+    },
+    {
+      "name": "Mortgage",
+      "count": 5
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "Market",
+      "count": 3
+    },
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "Regulation",
+      "count": 1
+    },
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "Supply",
+      "count": 1
+    },
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "Mortgage",
+      "count": 2
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Market",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Mortgage",
+      "count": 0
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "Market",
+      "count": 1
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "Regulation",
+      "count": 1
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "Mortgage",
+      "count": 0
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Market",
+      "count": 4
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Regulation",
+      "count": 2
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Supply",
+      "count": 1
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Mortgage",
+      "count": 2
+    },
+    {
+      "date": "2026-11-04",
+      "dayOfWeek": "Wed",
+      "topic": "Market",
+      "count": 0
+    },
+    {
+      "date": "2026-11-04",
+      "dayOfWeek": "Wed",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-11-04",
+      "dayOfWeek": "Wed",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-11-04",
+      "dayOfWeek": "Wed",
+      "topic": "Mortgage",
+      "count": 0
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Market",
+      "count": 1
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Supply",
+      "count": 1
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Mortgage",
+      "count": 0
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Market",
+      "count": 3
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Regulation",
+      "count": 3
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Supply",
+      "count": 3
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Mortgage",
+      "count": 1
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "강남3구 아파트 가격 조정 심화와 거래 양상 변화",
+      "summary": "강남3구에서 한 주 사이 하락 거래가 다수 발생하며 고가 신축 단지를 포함한 아파트 실거래가가 빠르게 조정되고 있다. 반포 원베일리 일부 물건이 단기간에 수억 원 하락하는 등 고점 대비 가격 조정 국면이 본격화되면서, 급매·급전세·셀러파이낸싱 등 다양한 변칙 거래 형태가 동시에 나타나 고가 주택 시장의 불확실성이 커지고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "집 안가보고 잡던 원베일리도 14.5억 ‘뚝’, 강남 아파트 시련의 계절 왔다",
+          "url": "https://www.mk.co.kr/news/economy/12200273"
+        },
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "“6개월간 5억~10억 대여에 금리 5%” 집주인 “2년치 소득명세서 떼오세요”",
+          "url": "https://biz.heraldcorp.com/article/10923987"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "수도권·경기 주택 및 전세가격 동반 상승과 규제지정 가능성",
+      "summary": "수도권 전셋값이 80주 넘게 오르며 경기도 평균 평형 전세가 10억 원을 돌파하는 등 전세 시장 과열이 이어지고 있다. 동시에 군포·병점·권선 등 경기도 34개 지역의 주택가격 상승률이 투기과열지구 지정 기준을 초과해, 반도체 산업 수혜 기대가 인접 비규제 지역으로 번지면서 추가 규제 지정과 시장 냉각 조치 가능성이 커지는 국면이다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "군포·병점·권선 등 경기 34곳, 투기과열지구 지정 기준 넘었다[부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10928147"
+        },
+        {
+          "source": "한국경제(부동산)",
+          "title": "수도권 전셋값 88주째 상승…경기도 '국평' 전세도 10억 넘었다",
+          "url": "https://www.hankyung.com/article/202611059046i"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "재건축 초과이익환수제 폐지 요구와 정비사업 제도 변화 논의",
+      "summary": "서울 서초구가 재건축 초과이익 환수제가 주택 공급을 위축시킨다며 정부에 제도 폐지를 공식 건의하면서, 정비사업 수익 구조와 분담금 부담을 둘러싼 정책 논쟁이 재점화됐다. 지방자치단체 차원에서 제도 개선 요구가 가시화됨에 따라 재건축·재개발 추진 여건이 중장기적으로 바뀔 가능성이 부각되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "서초구 \"재초환은 주택공급 위축\"…정부에 폐지 건의",
+          "url": "https://www.hankyung.com/article/202611058319i"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "서울 주요 재건축·재개발 사업 인허가 진전과 도심 공급 확대",
+      "summary": "서울시 통합심의에서 여의도 목화아파트와 창신1구역 제3지구 등 핵심 입지 재건축 단지가 조건부 의결·수정가결을 받으며 고층 복합단지 조성에 속도가 붙고 있다. 도심 내 노후 주거지 정비를 통해 중장기 주택 공급 기반을 확대하려는 흐름이 이어지면서, 정비구역별 사업성·규제 수준에 따른 투자 수요 선별이 강화되는 양상이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "여의도 목화 통합심의 통과...창신동 동대문역 초역세권에도 291가구 [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10927870"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "SHIFTING",
+      "title": "세제 부담 심화 속 재건축 단지로의 투자 수요 이동",
+      "summary": "보유세·양도세 부담이 커지면서 신축·입주 10년 미만 아파트보다 재건축 예정 단지로 투자 수요가 일부 이동하고 있다. 다만 재건축 규제, 조합 내부 리스크, 초과이익 환수 가능성 등을 감안한 정밀한 수익성 검토 필요성이 커지며, 세제·규제 환경 변화에 따라 투자 전략을 재정비하는 움직임이 나타나고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "세금 더 내느니 재건축 물건 살까…새 아파트 투자 전 따져볼 것들",
+          "url": "https://www.hankyung.com/article/202611031969i"
+        }
+      ]
+    }
+  ]
+}

@@ -1,106 +1,131 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-06",
   "highlights": {
     "bullets": [
-      "핵심: NVIDIA Attribution으로 분산 AI 워크로드의 연쇄 오류 증상을 추적한다.",
-      "핵심: OpenAI는 대규모 자동화 워크플로를 처리하기 위한 Git 호환 백엔드 Pando를 개발했다.",
-      "트렌드: 분산 AI 서비스의 안정성과 확장을 위해 인프라와 도구 개선이 공통으로 강조된다."
+      "핵심: AI 팩토리에서 HBM 바이트 활용을 극대화하는 하드웨어·소프트웨어 공동설계 방안을 제시",
+      "핵심: 취약점 탐지와 수정 제안을 전문으로 하는 사이버보안 특화 모델 GPT-6 Cyber가 공개됨",
+      "트렌드: 모델과 도구에서 성능·특화·신뢰성 개선에 집중하는 경향이 공통으로 나타남"
     ],
     "topTopics": [
-      "Infra",
       "Tooling",
       "Product",
-      "Training"
+      "Models",
+      "Infra"
     ],
     "stats": {
-      "collected": 8,
-      "deduped": 8
+      "collected": 9,
+      "deduped": 9
     }
   },
   "cards": [
     {
       "id": "ai_0001",
       "tab": "ai",
-      "publishedAt": "2026-11-03T08:39:34+09:00",
+      "publishedAt": "2026-11-06T01:00:00+09:00",
       "source": "NVIDIA Developer Blog",
-      "title": "Diagnose Distributed AI Workload Failures with NVIDIA Attribution",
+      "title": "Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory",
       "summary": [
-        "NVIDIA Attribution으로 분산 AI 워크로드의 단일 오류가 일으키는 연쇄 증상을 추적할 수 있다.",
-        "GPU나 패브릭 이벤트가 다른 랭크의 NCCL 오류나 스케줄러 상태로 표출되는 사례를 텔레메트리로 상호 연관시켜 진단한다.",
-        "하드웨어·라이브러리·스케줄러 로그를 통합해 근본 원인 파악과 디버깅 시간을 단축한다."
+        "엔비디아는 AI 팩토리에서 HBM 바이트 활용을 극대화하기 위한 하드웨어·소프트웨어 공동설계 방안을 제시한다.",
+        "중복 가중치 제거, 압축·저정밀 연산, 메모리 계층 및 스케줄링 최적화 등 다섯 가지 기법을 중심으로 설명한다.",
+        "이를 통해 훈련·추론 성능을 높이고 비용과 전력 소모를 줄여 대규모 모델 운영 효율을 개선한다."
       ],
-      "whyItMatters": "분산 학습·추론 환경에서 신속한 근본 원인 분석은 시스템 안정성과 리소스 효율을 바로 개선하기 때문이다.",
+      "whyItMatters": "HBM의 한정된 대역폭과 비용 제약을 해결하는 공동설계는 대규모 AI 시스템의 성능·비용 효율성에 직접적인 영향을 미치기 때문이다.",
       "topics": [
-        "Tooling",
         "Infra",
-        "Training"
+        "Training",
+        "Tooling",
+        "Inference"
       ],
-      "status": "NEW",
-      "hash": "218c5dc9b18cefceb61f7895c73107c2482125dd78be514db07958fae3b7a718",
-      "url": "https://developer.nvidia.com/blog/diagnose-distributed-ai-workload-failures-with-nvidia-attribution/"
+      "status": "ONGOING",
+      "hash": "d1f9ec74570c490654295aec15cf9f8dd665a3273311dd94a6706aa636d0cab3",
+      "url": "https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory/"
     },
     {
       "id": "ai_0002",
       "tab": "ai",
-      "publishedAt": "2026-11-03T07:43:05+09:00",
-      "source": "NVIDIA Developer Blog",
-      "title": "Keep Distributed Training Running with Automated Workload Recovery",
+      "publishedAt": "2026-11-05T18:00:00+09:00",
+      "source": "OpenAI Blog",
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
       "summary": [
-        "분산 AI 학습에서 하드웨어와 소프트웨어 의존성으로 인한 장애가 학습 중단을 자주 발생시킨다.",
-        "NVIDIA는 자동화된 워크로드 복구로 장애 감지, 체크포인트 복원, 재스케줄링을 통해 학습을 신속히 복구하는 방안을 소개한다.",
-        "이 방법은 중단 시간을 줄여 자원 효율과 학습 완료율을 높이고 대규모 훈련의 신뢰성을 개선한다."
+        "OpenAI가 GPT‑6 Cyber를 공개했다.",
+        "취약점 탐지와 수정 제안을 전문으로 하는 사이버보안 특화 모델이다.",
+        "권한 범위 내 작동하도록 훈련해 오용 위험을 줄였다고 주장한다."
       ],
-      "whyItMatters": "빠른 자동 복구는 대규모 분산 훈련의 실패 비용을 줄이고 자원 활용과 모델 수렴에 직접적인 영향을 미치기 때문이다.",
+      "whyItMatters": "신속한 취약점 식별과 자동화된 패치 제안으로 보안 대응 속도와 효율을 높이려는 의도다.",
       "topics": [
-        "Training",
-        "Infra",
-        "Tooling"
+        "Models",
+        "Safety",
+        "Research",
+        "Product"
       ],
-      "status": "ONGOING",
-      "hash": "84a791d3975ddc36c15006d587677b06bac4f371da1d43c00e788a21afe8b505",
-      "url": "https://developer.nvidia.com/blog/keep-distributed-training-running-with-automated-workload-recovery/"
+      "status": "NEW",
+      "hash": "14e90e72d3401ddf817f6448fcef8d95a77a43c8c720ccf3b66937d995ee0634",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber"
     },
     {
       "id": "ai_0003",
       "tab": "ai",
-      "publishedAt": "2026-11-03T00:30:00+09:00",
-      "source": "OpenAI Blog",
-      "title": "Scaling Git at OpenAI",
+      "publishedAt": "2026-11-06T04:35:16+09:00",
+      "source": "Hugging Face Blog",
+      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
       "summary": [
-        "OpenAI는 Pando라는 Git 호환 백엔드를 개발했다.",
-        "Pando는 Codex가 가능하게 한 대규모 자동화·동시작업 워크플로를 처리하도록 설계되었다.",
-        "대규모 리포지토리와 높은 동시성에서 성능·인프라 효율을 개선하는 데 중점을 두었다."
+        "NVIDIA가 Cosmos 3라는 오픈 모델을 공개해 상호작용형 세계 시뮬레이션을 지원합니다.",
+        "모델은 물리, 그래픽, 에이전트 행동을 결합해 몰입형 시뮬레이션과 로보틱스·게임 개발을 가속화합니다.",
+        "Hugging Face에 공개되어 연구자와 개발자가 손쉽게 접근하고 확장할 수 있습니다."
       ],
-      "whyItMatters": "기존 Git의 한계를 극복해 대규모 AI 기반 개발 환경에서 생산성과 운영 효율을 크게 향상시키기 때문입니다.",
+      "whyItMatters": "오픈 시뮬레이션 모델은 실험·개발 비용을 낮추고 생태계 전반의 혁신을 촉진하기 때문입니다.",
       "topics": [
+        "Models",
         "Tooling",
-        "Infra",
-        "Product"
+        "Research"
       ],
       "status": "NEW",
-      "hash": "277870ffc8d71544c0465c137654062f6f2bf7e7d7a1ec8af9071c966d86edc3",
-      "url": "https://openai.com/index/scaling-git-at-openai"
+      "hash": "f25b9201ad6bdcc6fc966e82e19169484871d5662fdac1ebb6313d2e0a7a1d5f",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"
     },
     {
       "id": "ai_0004",
       "tab": "ai",
-      "publishedAt": "2026-11-03T00:00:00+09:00",
-      "source": "OpenAI Blog",
-      "title": "Introducing the Grid Protectors Program",
+      "publishedAt": "2026-11-06T02:05:16+09:00",
+      "source": "Google DeepMind Blog",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
       "summary": [
-        "OpenAI가 전력망 안정성과 소비자 전기요금 보호를 위해 'Grid Protectors Program'을 발표했습니다.",
-        "이 프로그램은 대형 컴퓨트 캠퍼스와 유틸리티 간 협력을 통해 전력 수요를 관리하고 인프라 부담을 줄이는 것을 목표로 합니다.",
-        "유틸리티와의 파트너십을 통해 캠퍼스의 전력 사용을 최적화하고 지역 전력망 신뢰성 강화를 도모합니다."
+        "Gemini Omni 1.2 Flash가 공개되어 추론 속도와 비용 효율이 크게 향상되었습니다.",
+        "더 긴 클립(멀티모달 컨텍스트) 지원으로 연속적 시각·오디오 입력 처리 능력이 개선되었습니다.",
+        "경량화·최적화된 구현으로 실시간 서비스와 대규모 배포에 적합합니다."
       ],
-      "whyItMatters": "대규모 연산센터의 전력 수요가 지역 전력망과 소비자 비용에 미치는 영향을 줄이기 위한 실질적 대응이기 때문입니다.",
+      "whyItMatters": "빠른 추론과 긴 컨텍스트 처리는 실무 적용성과 클라우드 운영 비용에 즉각적인 영향을 주기 때문입니다.",
       "topics": [
+        "Models",
+        "Inference",
         "Infra",
-        "Product",
-        "Business"
+        "Product"
       ],
       "status": "NEW",
-      "hash": "5d33ed0c66ace544e65f6063efa96737fd184e0288033033361ae48877b21fc8",
-      "url": "https://openai.com/index/grid-protectors-program"
+      "hash": "f09d7876c1e95fcaa2b60c323af19ad289d82ef6491e6c110393ed00f6fe0f95",
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/"
+    },
+    {
+      "id": "ai_0005",
+      "tab": "ai",
+      "publishedAt": "2026-11-06T01:00:00+09:00",
+      "source": "Microsoft Research Blog",
+      "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
+      "summary": [
+        "PDD Kit은 에이전트가 생성한 풀스택 웹 앱 코드에 대해 개발자 의도를 형식 명세로 변환해 검증하는 도구다.",
+        "Verus 기반 정형 검증을 통해 모든 입력에 대해 AI 생성 코드가 의도한 동작을 만족하는지 증명하며, 증명이 어려운 부분은 테스트로 보완한다.",
+        "개발자는 코드 라인별 검토 대신 상위 수준의 의도와 명세만 집중적으로 검토해 검증 효율성과 신뢰성을 높일 수 있다."
+      ],
+      "whyItMatters": "대규모로 자동 생성되는 코드의 신뢰성과 안전성을 정형 기법으로 체계적으로 보증하려는 실질적 시도로, 에이전트 기반 소프트웨어 개발 패러다임에 직접적 영향을 줄 수 있다.",
+      "topics": [
+        "Tooling",
+        "Safety",
+        "Research",
+        "Product"
+      ],
+      "status": "NEW",
+      "hash": "b28ecfb79591f96a93e5ce4dbf8e96ef6ee80c64e74da1500e0255bd7a8e51b1",
+      "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/"
     }
   ]
 }

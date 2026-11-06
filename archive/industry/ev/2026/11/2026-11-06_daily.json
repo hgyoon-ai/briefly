@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-06",
+  "highlights": {
+    "bullets": [
+      "핵심: 포드 F-150 라이트닝 중고차가 약 50% 할인된 가격에 빠르게 판매되고 있다.",
+      "핵심: 테슬라는 사이버캡 관련 선서 답변을 NHTSA에 제출하며 전면 비공개를 요청했다."
+    ],
+    "topTopics": [
+      "Roadmap",
+      "Demand",
+      "Competition",
+      "Investment"
+    ],
+    "stats": {
+      "collected": 15,
+      "deduped": 15
+    }
+  },
+  "cards": [
+    {
+      "id": "ev_0001",
+      "tab": "ev",
+      "publishedAt": "2026-11-06T07:17:39+09:00",
+      "source": "Electrek",
+      "title": "Ford’s electric pickup is suddenly selling like hotcakes at 50% off used",
+      "summary": [
+        "포드 F-150 라이트닝 중고차가 약 50% 할인된 가격에 빠르게 판매되고 있다.",
+        "한때 인기 있던 전기 픽업이 중고시장에 대거 등장하며 거래가 활발해졌다.",
+        "급격한 가격 하락은 잔존가치와 브랜드 수익성, 소비자 인식에 영향을 줄 수 있다."
+      ],
+      "whyItMatters": "대규모 할인으로 중고 수요가 급증해 시장 구조와 포드의 수익성에 즉각적 영향을 미치고 있기 때문이다.",
+      "topics": [
+        "Demand",
+        "Competition"
+      ],
+      "status": "SHIFTING",
+      "hash": "a057770c52c40025a258bc91ff6781cb74e8dfe31615ddccd3c7729cbd11bb9a",
+      "url": "https://electrek.co/2026/11/05/fords-electric-pickup-selling-like-hotcakes-50-off-used/"
+    },
+    {
+      "id": "ev_0002",
+      "tab": "ev",
+      "publishedAt": "2026-11-06T03:32:57+09:00",
+      "source": "Electrek",
+      "title": "Tesla wants its sworn Cybercab answers to NHTSA kept entirely secret",
+      "summary": [
+        "테슬라는 사이버캡이 연방법 안전 기준을 충족한다는 선서 답변을 NHTSA에 제출하며 전면 기밀 유지를 요청했다.",
+        "공개된 내용은 소방관용 30페이지 안전 가이드뿐이며, 인증 근거와 기술 세부 사항은 모두 비공개 처리됐다.",
+        "핸들·페달·거울이 없는 차량의 안전 규제 적합성 검증이 투명성 논란과 규제 리스크로 이어질 가능성이 있다."
+      ],
+      "whyItMatters": "완전자율주행 기반 로보택시 상용화의 핵심인 안전 규제 적합성과 규제 당국과의 긴장이 향후 사업 추진과 일정에 큰 영향을 줄 수 있기 때문이다.",
+      "topics": [
+        "Policy",
+        "Roadmap",
+        "Investment",
+        "Competition"
+      ],
+      "status": "ONGOING",
+      "hash": "e13ff33a0ad4441ace7dd50badf1b0353cfb3c012421cce9806ce6169d2183f2",
+      "url": "https://electrek.co/2026/11/05/tesla-cybercab-nhtsa-sworn-answers-confidential/"
+    }
+  ]
+}

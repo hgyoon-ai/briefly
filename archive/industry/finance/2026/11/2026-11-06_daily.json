@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-06",
+  "highlights": {
+    "bullets": [
+      "핵심: 코스피가 장 초반 8% 이상 급락해 서킷브레이커가 발동했다.",
+      "핵심: 코스닥은 장 초반 5~6%대 하락세를 보였다."
+    ],
+    "topTopics": [
+      "MarketInfra",
+      "Policy",
+      "Regulation",
+      "Fintech"
+    ],
+    "stats": {
+      "collected": 15,
+      "deduped": 15
+    }
+  },
+  "cards": [
+    {
+      "id": "finance_0001",
+      "tab": "finance",
+      "publishedAt": "2026-11-06T09:07:15+09:00",
+      "source": "매일경제(증권)",
+      "title": "[속보] 증시 급락에 코스피 서킷브레이커 발동…5000피 밑으로",
+      "summary": [
+        "코스피가 장 초반 8% 이상 급락해 서킷브레이커가 발동됐다.",
+        "하락 원인으로 AI 데이터센터 건설 둔화 우려와 미국 반도체주 폭락이 지목된다.",
+        "지수는 5000포인트 아래로 내려가 시장 불안이 확대되고 있다."
+      ],
+      "whyItMatters": "글로벌 반도체 급락과 AI 수요 둔화 전망이 동시에 충격을 주며 유동성·심리적 불안을 촉발해 서킷브레이커를 작동시켰다.",
+      "topics": [
+        "MarketInfra",
+        "Regulation"
+      ],
+      "status": "ONGOING",
+      "hash": "2c8c0044d981ccd582fd1ef5af7865ab7fb60bee2dcfcb8d9163d0a0bfcb2829",
+      "url": "https://www.mk.co.kr/news/stock/12200170"
+    },
+    {
+      "id": "finance_0002",
+      "tab": "finance",
+      "publishedAt": "2026-11-06T09:05:16+09:00",
+      "source": "매일경제(증권)",
+      "title": "[속보] 코스피, 8%대 급락 출발…코스닥 5~6%대↓",
+      "summary": [
+        "코스피가 장 초반 8%대 급락으로 거래를 시작했습니다.",
+        "코스닥은 5~6%대 하락세를 보이고 있습니다.",
+        "전반적인 매도세 확산으로 시장 변동성이 급증한 상황입니다."
+      ],
+      "whyItMatters": "글로벌 위험회피 심화와 금리·환율 변동, 외국인 매도 등으로 투자심리가 급격히 위축된 영향으로 보입니다.",
+      "topics": [
+        "MarketInfra",
+        "Policy"
+      ],
+      "status": "ONGOING",
+      "hash": "3738a44ed58db042a670f552c94e021a5a56ea5299d08b4c4d28236b2746d7c9",
+      "url": "https://www.mk.co.kr/news/stock/12200167"
+    }
+  ]
+}

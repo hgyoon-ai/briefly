@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-10-08",
+    "to": "2026-11-06"
+  },
+  "kpis": {
+    "collected": 102,
+    "deduped": 102,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "Market": 30,
+      "Supply": 25,
+      "Policy": 20,
+      "UrbanRenewal": 13,
+      "Rental": 12,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/08-10/14)",
+      "topicCounts": {
+        "Market": 18,
+        "Supply": 14,
+        "Policy": 14,
+        "UrbanRenewal": 6,
+        "Rental": 8
+      }
+    },
+    {
+      "week": "Week 2 (10/15-10/21)",
+      "topicCounts": {
+        "Market": 18,
+        "Supply": 15,
+        "Policy": 14,
+        "UrbanRenewal": 7,
+        "Rental": 10
+      }
+    },
+    {
+      "week": "Week 3 (10/22-10/28)",
+      "topicCounts": {
+        "Market": 14,
+        "Supply": 10,
+        "Policy": 5,
+        "UrbanRenewal": 5,
+        "Rental": 9
+      }
+    },
+    {
+      "week": "Week 4 (10/29-11/04)",
+      "topicCounts": {
+        "Market": 12,
+        "Supply": 8,
+        "Policy": 5,
+        "UrbanRenewal": 6,
+        "Rental": 2
+      }
+    },
+    {
+      "week": "Week 5 (11/05-11/06)",
+      "topicCounts": {
+        "Market": 4,
+        "Supply": 4,
+        "Policy": 1,
+        "UrbanRenewal": 2,
+        "Rental": 1
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "강남3구 아파트 가격 조정 본격화",
+      "summary": "강남3구에서 급매·하락 거래가 잇따르며 원베일리 등 주요 단지 실거래가가 짧은 기간에 수억 원씩 떨어지고 있다. 고가 아파트를 중심으로 매수심리가 위축되면서 강남권 주택시장이 조정 국면에 진입했다는 신호로 해석된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "집 안가보고 잡던 원베일리도 14.5억 ‘뚝’, 강남 아파트 시련의 계절 왔다",
+          "url": "https://www.mk.co.kr/news/economy/12200273"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "경기도 집값 급등…투기과열지구 추가 지정 가능성 확대",
+      "summary": "군포·병점·권선 등 경기도 34개 지역의 집값 상승률이 투기과열지구 지정 기준을 웃도는 수준으로 뛰었다. 반도체 산업 배후 수요와 인접 비규제지역 풍선효과가 맞물리며 규제지역 추가 확대와 대출·세제 규제 강화 가능성이 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "군포·병점·권선 등 경기 34곳, 투기과열지구 지정 기준 넘었다[부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10928147"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "서울 재건축·정비사업 인허가 진전으로 도심 공급 기반 확대",
+      "summary": "여의도 목화아파트, 창신1구역 제3지구 등 주요 재건축 사업이 서울시 통합심의를 통과하며 도심 내 중·대규모 신규 주택 공급이 가시화되고 있다. 초역세권·복합개발 형태로 추진되면서 향후 도심 주거·상업 환경 재편에 영향을 줄 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "여의도 목화 통합심의 통과...창신동 동대문역 초역세권에도 291가구 [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10927870"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "지자체가 나선 재건축 초과이익환수제 폐지 요구",
+      "summary": "서울 서초구가 재건축 초과이익환수제가 주택 공급을 위축시키고 있다며 정부에 공식 폐지를 건의했다. 지방자치단체가 전면 완화를 요구하고 나서면서 재건축 부담금 제도 개편과 정비사업 수익성 개선 논의가 본격화될 수 있다는 관측이 나온다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "서초구 \"재초환은 주택공급 위축\"…정부에 폐지 건의",
+          "url": "https://www.hankyung.com/article/202611058319i"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "수도권 전셋값 88주 연속 상승…고가 전세 시대 심화",
+      "summary": "수도권 전셋값이 88주 연속 오르며 장기 상승세를 이어가고 있고, 경기도에서도 전용 84㎡(국평) 전세가격이 10억 원을 돌파한 사례가 나타났다. 매매·청약 대기 수요와 공급 부족이 겹치며 세입자 부담이 크게 가중되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "수도권 전셋값 88주째 상승…경기도 '국평' 전세도 10억 넘었다",
+          "url": "https://www.hankyung.com/article/202611059046i"
+        }
+      ]
+    }
+  ]
+}

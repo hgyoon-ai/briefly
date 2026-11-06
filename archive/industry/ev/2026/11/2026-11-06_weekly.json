@@ -1,0 +1,257 @@
+{
+  "range": {
+    "from": "2026-10-31",
+    "to": "2026-11-06"
+  },
+  "kpis": {
+    "collected": 4,
+    "deduped": 4,
+    "uniqueTopics": 6
+  },
+  "topTopics": [
+    {
+      "name": "Demand",
+      "count": 3
+    },
+    {
+      "name": "Competition",
+      "count": 3
+    },
+    {
+      "name": "Policy",
+      "count": 2
+    },
+    {
+      "name": "Roadmap",
+      "count": 2
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-04",
+      "dayOfWeek": "Wed",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-11-04",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-04",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-04",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 1
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "ev-1",
+      "status": "SHIFTING",
+      "title": "포드 F-150 라이트닝 중고가 50% 급락, 전기 픽업 잔존가치 리스크 부각",
+      "summary": "한때 대기 수요까지 있던 포드 F-150 라이트닝이 중고 시장에 대거 풀리며 신차 대비 약 50% 할인된 가격에 빠르게 거래되고 있다. 이는 전기 픽업의 감가상각 속도와 리스·플릿 잔존가치 모델 전반에 대한 재평가를 촉발하며, 향후 전기 픽업 수요 구조와 가격 전략에 변동 가능성을 키우고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Ford’s electric pickup is suddenly selling like hotcakes at 50% off used",
+          "url": "https://electrek.co/2026/11/05/fords-electric-pickup-selling-like-hotcakes-50-off-used/"
+        }
+      ]
+    },
+    {
+      "id": "ev-2",
+      "status": "ONGOING",
+      "title": "테슬라 사이버캡, 안전 인증 근거 전면 비공개 요청으로 규제 투명성 논쟁",
+      "summary": "테슬라는 자율주행 로보택시인 사이버캡이 연방법 안전 기준을 충족한다는 선서 답변을 NHTSA에 제출하면서, 기술 세부와 인증 근거 전부를 기밀로 유지해 달라고 요청했다. 현재 외부에 공개된 것은 소방 대응용 30페이지 안전 가이드뿐이며, 이로 인해 자율주행 안전 규제의 투명성과 기업 영업기밀 보호 간 균형을 둘러싼 논쟁이 이어지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla wants its sworn Cybercab answers to NHTSA kept entirely secret",
+          "url": "https://electrek.co/2026/11/05/tesla-cybercab-nhtsa-sworn-answers-confidential/"
+        }
+      ]
+    },
+    {
+      "id": "ev-3",
+      "status": "ONGOING",
+      "title": "BYD, 한 달 30만 대 판매로 글로벌 EV 양산 체제 우위 확정",
+      "summary": "BYD가 10월에 전기차 30만 대 이상을 판매하며 사상 최대 월간 실적을 기록했고, 이는 미국 전체가 3분기 동안 판매한 EV 수요를 웃도는 수준이다. 중국 내수와 신흥국을 중심으로 한 공격적 가격 전략과 수직 계열화된 배터리·부품 공급망이 결합되며, 글로벌 EV 시장에서 BYD의 양산·원가 경쟁력 우위가 더욱 공고해지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "BYD sold more EVs last month than the US did all quarter, topping 300,000",
+          "url": "https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/"
+        }
+      ]
+    },
+    {
+      "id": "ev-4",
+      "status": "ONGOING",
+      "title": "중국 대형 트럭의 절반이 전기화, 디젤 수요 구조적 하락 본격화",
+      "summary": "중국에서 9월 대형 트럭 판매 가운데 50.3%가 전기 트럭으로, 시장 전체 규모가 21% 감소한 가운데서도 전기 트럭 비중은 전년 대비 37% 급증했다. 보조금·규제와 함께 대형 물류·항만 운송에서 전기 트럭 도입이 가속화되며, 상용차 부문에서 디젤 수요가 구조적으로 줄어드는 전환점이 나타나고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Electric trucks hit 50% of China’s heavy truck sales, diesel demand falls",
+          "url": "https://electrek.co/2026/11/02/electric-trucks-50-percent-china-heavy-truck-sales-diesel-demand/"
+        }
+      ]
+    }
+  ]
+}
