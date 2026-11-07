@@ -2,6 +2,75 @@
   "month": "2026-11",
   "events": [
     {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12201388",
+      "date": "2026-11-07",
+      "company": "미래에셋증권",
+      "title": "은행·보험사 이어 미래에셋증권까지···연쇄 해킹에 시달리는 금융사",
+      "oneLiner": "미래에셋증권에서 고객 계좌번호 등 정보유출 발생, 기사에는 AI 에이전트를 활용한 추정 공격 언급으로 금융권 전반의 사이버 리스크 확대 우려가 제기됨.",
+      "type": "기타",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "은행·보험사 이어 미래에셋증권까지···연쇄 해킹에 시달리는 금융사",
+          "url": "https://www.mk.co.kr/news/stock/12201388"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-07"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202611061524123827",
+      "date": "2026-11-06",
+      "company": "미래에셋증권",
+      "title": "미래에셋증권, 'Global AI Festival 2026' 성료..글로벌 AI 금융인재 발굴",
+      "oneLiner": "미래에셋증권이 알리바바 클라우드와 공동 주최한 'Global AI Festival 2026'을 성료하며 AI 금융 인재 발굴 및 글로벌 AI 협력 강화를 추진함.",
+      "type": "제휴",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋증권, 'Global AI Festival 2026' 성료..글로벌 AI 금융인재 발굴",
+          "url": "https://www.fnnews.com/news/202611061524123827"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-11-07"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202611061703029002",
+      "date": "2026-11-06",
+      "company": "NH투자증권",
+      "title": "NHN클라우드, 日서 첫 파트너 세미나…현지 AI 시장 공략",
+      "oneLiner": "NHN클라우드가 일본에서 파트너 세미나를 개최해 AI 인프라 및 솔루션 협력을 확대하며 일본 시장 공략에 속도를 내고 있음.",
+      "type": "제휴",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "NHN클라우드, 日서 첫 파트너 세미나…현지 AI 시장 공략",
+          "url": "https://www.fnnews.com/news/202611061703029002"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-11-07"
+    },
+    {
       "id": "news:미래에셋증권:https://www.hankyung.com/article/202611058895i",
       "date": "2026-11-05",
       "company": "미래에셋증권",

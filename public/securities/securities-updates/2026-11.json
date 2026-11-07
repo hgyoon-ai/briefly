@@ -2,6 +2,126 @@
   "month": "2026-11",
   "events": [
     {
+      "id": "35efdc2d5882712b0e967b2024689d9ef3ce9038",
+      "date": "2026-11-07",
+      "company": "한국투자증권",
+      "title": "한국투자증권 iOS 앱 업데이트 v2.29.01",
+      "oneLiner": "한국투자증권 iOS 앱에서 관심종목 UI 개편, 자녀 주식 트렌드 메뉴 추가, 중개형 ISA RP 자동매수 지원 등 기능이 추가·변경되었습니다.",
+      "type": "출시",
+      "areas": [
+        "브로커리지",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "app_store",
+      "sources": [
+        {
+          "source": "App Store",
+          "title": "한국투자증권 iOS 앱 업데이트 v2.29.01",
+          "url": "https://apps.apple.com/kr/app/%ED%95%9C%ED%88%AC-%ED%95%9C%EA%B5%AD%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C-mts-%ED%88%AC%EC%9E%90-%EC%A6%9D%EA%B6%8C-%ED%95%B4%EC%99%B8%EC%A3%BC%EC%8B%9D-%EC%A3%BC%EC%8B%9D%EC%96%B4%ED%94%8C/id1621986905?uo=4"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-07"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/economy/12201367",
+      "date": "2026-11-07",
+      "company": "미래에셋증권",
+      "title": "[속보] 미래에셋증권도 해킹 당해…“고객·임직원 정보 일부 유출”",
+      "oneLiner": "미래에셋증권이 해킹을 당해 모바일웹 인증 로그인 및 그룹웨어 침해로 고객·임직원 일부 정보가 유출된 사고가 발생했습니다.",
+      "type": "시스템",
+      "areas": [
+        "리스크",
+        "상담"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[속보] 미래에셋증권도 해킹 당해…“고객·임직원 정보 일부 유출”",
+          "url": "https://www.mk.co.kr/news/economy/12201367"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-11-07"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202611070752505816",
+      "date": "2026-11-07",
+      "company": "미래에셋증권",
+      "title": "[속보] 미래에셋증권도 해킹 피해…고객·임직원 정보 일부 유출",
+      "oneLiner": "미래에셋증권에서 외부 공격으로 고객 3800여명 계좌번호 및 임직원 3만여명의 개인정보가 유출되는 해킹 사고가 발생했다고 보도되었습니다.",
+      "type": "시스템",
+      "areas": [
+        "리스크",
+        "상담"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "[속보] 미래에셋증권도 해킹 피해…고객·임직원 정보 일부 유출",
+          "url": "https://www.fnnews.com/news/202611070752505816"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-11-07"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202611070803069202",
+      "date": "2026-11-07",
+      "company": "미래에셋증권",
+      "title": "미래에셋증권 해킹 사고…고객·임직원 3만9000여명 정보 유출",
+      "oneLiner": "미래에셋증권 해킹으로 고객·임직원 대규모 정보 유출이 확인되었으며 회사는 비정상 접근 차단 및 관계기관 보고 등 대응을 진행하고 있습니다.",
+      "type": "시스템",
+      "areas": [
+        "리스크",
+        "상담"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋증권 해킹 사고…고객·임직원 3만9000여명 정보 유출",
+          "url": "https://www.fnnews.com/news/202611070803069202"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-11-07"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202611070825226459",
+      "date": "2026-11-07",
+      "company": "미래에셋증권",
+      "title": "미래에셋증권 해킹에 고객 3800여명 계좌번호 유출…임직원 정보도 빠져나가",
+      "oneLiner": "해킹 사고로 고객 계좌번호 및 임직원 정보가 유출된 사실이 추가 보도되었으며 민감정보는 유출되지 않은 것으로 알려졌습니다.",
+      "type": "시스템",
+      "areas": [
+        "리스크",
+        "상담"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋증권 해킹에 고객 3800여명 계좌번호 유출…임직원 정보도 빠져나가",
+          "url": "https://www.fnnews.com/news/202611070825226459"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-11-07"
+    },
+    {
       "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12198599",
       "date": "2026-11-05",
       "company": "미래에셋증권",
