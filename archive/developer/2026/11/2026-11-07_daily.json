@@ -1,0 +1,643 @@
+{
+  "date": "2026-11-07",
+  "kpis": {
+    "clusters": 20,
+    "sources": 2,
+    "new": 17
+  },
+  "clusters": [
+    {
+      "id": "66ca421d0225f5ce62628ebbe1cd008b5becaa78",
+      "name": "Tesla to wind down Cybertruck production",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 2515.8,
+      "oneLiner": "테슬라가 사이버트럭 생산을 축소한다는 보도",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "835p · 1679c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50391456"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "5beb0fadc7c57c33764811bb64cffc6f649f07fa",
+      "name": "PrivSec-dev/banking-apps-compat-report",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 872.9,
+      "oneLiner": "GrapheneOS와 은행 앱 호환성을 보고하고 우회법을 추적하는 저장소",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 보안 관점에서 재점검 흐름이 이어지고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "367"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "11"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-07"
+        },
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "618p · 406c"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/PrivSec-dev/banking-apps-compat-report"
+        },
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50390124"
+        }
+      ],
+      "tags": [
+        "security"
+      ]
+    },
+    {
+      "id": "06d8ed49e2ed0cd7f947e9225c09414de474623d",
+      "name": "deepseek-ai/dsh-superagent-prototype",
+      "section": "trending",
+      "status": "ONGOING",
+      "score": 857.48,
+      "oneLiner": "더 자율적인 에이전트 시스템을 지향하는 프로토타입 저장소",
+      "whyNow": "스타 증가와 업데이트 흐름이 동시에 관측되는 상승 구간입니다. 에이전트 활용 흐름과 맞물려 주목이 커지고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "20,260"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "2,354"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-07"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
+        }
+      ],
+      "tags": [
+        "agent tooling"
+      ]
+    },
+    {
+      "id": "924678f8ccba2aa41b35719463a672722fe3f97b",
+      "name": "Britain to make salary disclosure in job ads mandatory",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 850.2,
+      "oneLiner": "영국이 채용 공고에 급여 공개를 의무화하려 한다는 보도",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "563p · 427c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50389222"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "9d80ad0603c28182a6117cda6709ae9208a6a2c4",
+      "name": "ppmpreetham/BUI",
+      "section": "releases",
+      "status": "NEW",
+      "score": 818.78,
+      "oneLiner": "Blender의 GPU 가속 UI를 원본 코드베이스와 분리해 지원하는 프로젝트",
+      "whyNow": "버전 업데이트 이후 재확산이 시작된 흐름입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "1,395"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "39"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-07"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v0.4.1"
+        },
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "685p · 276c"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/ppmpreetham/BUI"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/ppmpreetham/BUI/releases/tag/v0.4.1"
+        },
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50389333"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "1d59330e2644768fd362330f448ce6c11663c183",
+      "name": "storytold/craft-anything",
+      "section": "releases",
+      "status": "ONGOING",
+      "score": 812.98,
+      "oneLiner": "어떤 소프트웨어든 이해하고 직접 제작하는 법을 정리한 저장소",
+      "whyNow": "최근 릴리즈가 나오며 실사용 공유가 빠르게 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "18,152"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "3,345"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-07"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v0.5.0"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/storytold/craft-anything"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/storytold/craft-anything/releases/tag/v0.5.0"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "4ddeec261a90221a427845e5baf264740f3a3191",
+      "name": "Anthropic IPO buyers see valuation as low as $1.1T",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 705.6,
+      "oneLiner": "Anthropic IPO 매수자가 1.1T 수준의 낮은 가치 평가를 본다는 보도",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "222p · 477c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50394906"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "b3f592853ea02ddaccd6e1ba32fa6fb9f0aaa4b8",
+      "name": "Gemini Omni 1.2 Flash",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 438.0,
+      "oneLiner": "Gemini Omni 1.2 Flash를 소개하는 구글 개발자 도구 관련 블로그 글",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 블로그 해석과 후기가 빠르게 붙는 흐름입니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "294p · 218c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50392118"
+        },
+        {
+          "label": "Source",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "0f04b429e06606c9126d8ffec19476e47a2ac351",
+      "name": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 427.8,
+      "oneLiner": "미 FAA가 항공 관제에서 플로피 디스크 사용을 2028년까지 중단한다고 발표",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "275p · 219c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50388001"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "bbb221f82669e1986b156761c0a0789148b7b16a",
+      "name": "Deus Ex",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 411.0,
+      "oneLiner": "Deus Ex를 주제로 한 기사나 글",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "339p · 173c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50393758"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.filfre.net/2026/11/deus-ex/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "f95c128e907274168c18b5caf03a4dcc59da986a",
+      "name": "From Linux to Wikipedia: How Volunteers Build the Internet",
+      "section": "trending",
+      "status": "NEW",
+      "score": 298.8,
+      "oneLiner": "리눅스부터 위키백과까지 자원봉사자가 인터넷을 만드는 방식을 다룬 글",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "298p · 100c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50388122"
+        },
+        {
+          "label": "Source",
+          "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "46b0a63c92c60ba8b8486643c4a7fda0e98cd64a",
+      "name": "AI is dramatically accelerating AI research",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 293.4,
+      "oneLiner": "AI가 AI 연구를 극적으로 가속화한다는 논의를 담은 글",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "193p · 148c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50397994"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "ca0378ae7b6ade62461ac3c1aa85a30f7560ef9a",
+      "name": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "section": "trending",
+      "status": "NEW",
+      "score": 278.4,
+      "oneLiner": "Jev가 Opus에 도움을 요청해 정확도를 4배 낮은 비용으로 제공한다고 소개된 글",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "324p · 70c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50397429"
+        },
+        {
+          "label": "Source",
+          "url": "https://hightouch.com/blog/llm-judges-identity-resolution"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "3a4f349a55e55776786be9ca66a05c893a361e54",
+      "name": "Pwn.college",
+      "section": "trending",
+      "status": "NEW",
+      "score": 246.6,
+      "oneLiner": "보안 실습과 문제 해결을 위한 Pwn.college 사이트",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "305p · 53c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50387796"
+        },
+        {
+          "label": "Source",
+          "url": "https://pwn.college/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "b0476b42864928c818e3ec73d2d5ff9453be336d",
+      "name": "Kugelblitz – Mac-Native Google Earth Alternative",
+      "section": "trending",
+      "status": "NEW",
+      "score": 223.8,
+      "oneLiner": "Mac 네이티브 구글 어스 대안인 Kugelblitz를 소개하는 페이지",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "243p · 65c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50389370"
+        },
+        {
+          "label": "Source",
+          "url": "https://apps.metaebene.me/en/kugelblitz"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "0bd16ba1dcc9df3747a112720f71d289ab593669",
+      "name": "RIP Cybertruck",
+      "section": "trending",
+      "status": "NEW",
+      "score": 184.8,
+      "oneLiner": "사이버트럭에 대한 비판적이고 회고적인 관점을 다룬 기사",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "300p · 4c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50393154"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "3980f17392621c4f059619cd6def0be91aee122a",
+      "name": "KKKKhazix/agent-autoloop",
+      "section": "releases",
+      "status": "ONGOING",
+      "score": 181.32,
+      "oneLiner": "명령행 에이전트가 백그라운드에서 스스로 작업을 처리하고 알림을 주는 도구",
+      "whyNow": "버전 업데이트 이후 재확산이 시작된 흐름입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "3,695"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "676"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-07"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v1.6.2"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/KKKKhazix/agent-autoloop"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/KKKKhazix/agent-autoloop/releases/tag/v1.6.2"
+        }
+      ],
+      "tags": [
+        "agent tooling"
+      ]
+    },
+    {
+      "id": "a1a0ccdbff5234e673741ce4e2fa062ab83e1c3c",
+      "name": "zortos293/Lichii",
+      "section": "trending",
+      "status": "NEW",
+      "score": 172.62,
+      "oneLiner": "매우 실험적인 닌텐도 스위치 2 에뮬레이터 시도 프로젝트",
+      "whyNow": "활동성과 관심도가 같이 살아 있는 프로젝트입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "4,005"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "621"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-07"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/zortos293/Lichii"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "de2e7c4404bcfc5e9a8620858436a1c28c6e520a",
+      "name": "First steps in bare-metal programming using UEFI",
+      "section": "trending",
+      "status": "NEW",
+      "score": 148.8,
+      "oneLiner": "UEFI를 이용한 베어메탈 프로그래밍 첫걸음을 안내하는 글",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "186p · 31c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50394855"
+        },
+        {
+          "label": "Source",
+          "url": "https://kevinboone.me/efitest_index.html"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "a96b65fd613b83a35885ed33fd37d6336a250822",
+      "name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "section": "trending",
+      "status": "NEW",
+      "score": 138.16,
+      "oneLiner": "Google_AI_Pro 2년 무상 자동화 관련 자료를 모아둔 저장소",
+      "whyNow": "스타 증가와 업데이트 흐름이 동시에 관측되는 상승 구간입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,890"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "1,128"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-07"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}
