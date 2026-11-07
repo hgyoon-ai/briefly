@@ -1,0 +1,148 @@
+{
+  "range": {
+    "from": "2026-10-09",
+    "to": "2026-11-07"
+  },
+  "kpis": {
+    "collected": 44,
+    "deduped": 44,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Competition": 26,
+      "Roadmap": 25,
+      "Demand": 22,
+      "Investment": 19,
+      "Manufacturing": 8,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/09-10/15)",
+      "topicCounts": {
+        "Competition": 10,
+        "Roadmap": 9,
+        "Demand": 9,
+        "Investment": 9,
+        "Manufacturing": 4
+      }
+    },
+    {
+      "week": "Week 2 (10/16-10/22)",
+      "topicCounts": {
+        "Competition": 10,
+        "Roadmap": 9,
+        "Demand": 8,
+        "Investment": 5,
+        "Manufacturing": 2
+      }
+    },
+    {
+      "week": "Week 3 (10/23-10/29)",
+      "topicCounts": {
+        "Competition": 7,
+        "Roadmap": 8,
+        "Demand": 4,
+        "Investment": 9,
+        "Manufacturing": 3
+      }
+    },
+    {
+      "week": "Week 4 (10/30-11/05)",
+      "topicCounts": {
+        "Competition": 1,
+        "Roadmap": 1,
+        "Demand": 2,
+        "Investment": 1,
+        "Manufacturing": 1
+      }
+    },
+    {
+      "week": "Week 5 (11/06-11/07)",
+      "topicCounts": {
+        "Competition": 1,
+        "Roadmap": 2,
+        "Demand": 2,
+        "Investment": 0,
+        "Manufacturing": 1
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "ev-1",
+      "status": "SHIFTING",
+      "title": "테슬라, 사이버트럭 생산 중단 기조 속 대폭 가격 인상",
+      "summary": "테슬라는 판매 부진으로 2027년 중반까지 사이버트럭 생산을 단계적으로 중단하면서도, 미국 내 사이버트럭 가격을 최대 10% 인상하고 듀얼 모터 AWD 기본 트림 주문을 중단했다. 실제로 주문 가능한 최저가 트림은 약 9만 2,490달러 수준으로 올라가, 수요 부진·생산 조정·가격 전략이 동시에 재편되는 국면이다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla hikes Cybertruck prices up to 10% after announcing it will kill production",
+          "url": "https://electrek.co/2026/11/06/tesla-raises-cybertruck-prices-after-ending-production/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Tesla to end Cybertruck production as sales stall at ~10% of plan",
+          "url": "https://electrek.co/2026/11/06/tesla-ending-cybertruck-production-sales-10-percent-plan/"
+        }
+      ]
+    },
+    {
+      "id": "ev-2",
+      "status": "ONGOING",
+      "title": "테슬라 사이버캡, NHTSA 안전 답변 전면 비공개 요청",
+      "summary": "테슬라는 사이버캡이 연방법 안전 기준을 충족한다는 선서 답변을 NHTSA에 제출하면서, 내용 전체에 대한 기밀 유지를 요구했다. 외부에 공개된 것은 소방관용 30페이지짜리 안전 가이드뿐이며, 실제 인증 근거와 기술 세부 정보는 모두 비공개 처리돼 자율주행·로보택시 안전성과 규제 투명성을 둘러싼 논쟁이 이어질 가능성이 크다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla wants its sworn Cybercab answers to NHTSA kept entirely secret",
+          "url": "https://electrek.co/2026/11/05/tesla-cybercab-nhtsa-sworn-answers-confidential/"
+        }
+      ]
+    },
+    {
+      "id": "ev-3",
+      "status": "ONGOING",
+      "title": "BYD, 100만 명 이상 고용하며 글로벌 완성차 중 최대 인력 규모 달성",
+      "summary": "BYD는 102만 명 이상을 고용해 토요타·GM·포드·테슬라 인력을 모두 합친 것보다 많은 수준을 기록했다. 2025년 말 대비 10개월 새 약 15만 명을 추가 고용한 것으로, 배터리·완성차·부품 내재화를 통한 공격적 증설과 글로벌 EV 경쟁 확대를 뒷받침하는 인력 확장이 진행 중이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "BYD now has 1.02 million workers, more than Toyota, GM, Ford, and Tesla combined",
+          "url": "https://electrek.co/2026/10/28/byd-1-million-employees-more-than-toyota-gm-ford-tesla/"
+        }
+      ]
+    },
+    {
+      "id": "ev-4",
+      "status": "ONGOING",
+      "title": "CATL, 20Ah 전고체 배터리로 500Wh/kg 에너지 밀도 도전",
+      "summary": "CATL은 20Ah급 전고체 배터리 셀 개발에 성공하며 차세대 EV 배터리 로드맵에서 중요한 마일스톤을 달성했다. 목표 에너지 밀도는 500Wh/kg 수준으로, 장거리 주행 전기차와 고성능 모델 상용화에 필요한 핵심 기술 진전에 속도를 내고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "CATL pushes ahead with 20 Ah solid-state EV batteries, with 500 Wh/kg in sight",
+          "url": "https://electrek.co/2026/10/28/catl-pushes-ahead-20-ah-solid-state-ev-batteries-500-wh-kg/"
+        }
+      ]
+    },
+    {
+      "id": "ev-5",
+      "status": "NEW",
+      "title": "렉서스, 5만 달러 미만·300마일 이상 주행 2027년형 RZ 공개",
+      "summary": "렉서스는 내년 초 딜러 출고를 목표로 2027년형 전기 SUV RZ를 출시할 예정이며, 시작 가격은 5만 달러 미만, 1회 충전 주행거리는 300마일 이상으로 제시했다. 프리미엄 EV 시장에서 테슬라와 독일·중국 브랜드에 맞선 토요타/Lexus의 전략 차종으로 주목된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "The 2027 Lexus RZ starts at under $50,000 and offers over 300 miles of range",
+          "url": "https://electrek.co/2026/10/26/2027-lexus-rz-starts-under-50000-with-300-miles-range/"
+        }
+      ]
+    }
+  ]
+}

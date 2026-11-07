@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-10-08",
-    "to": "2026-11-06"
+    "from": "2026-10-09",
+    "to": "2026-11-07"
   },
   "kpis": {
     "collected": 68,
@@ -9,71 +9,113 @@
     "uniqueTopics": 10,
     "marketShare": {
       "Tooling": 26,
-      "Product": 23,
-      "Models": 20,
+      "Product": 22,
+      "Models": 19,
+      "Infra": 17,
       "Research": 16,
-      "Infra": 15,
       "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/08-10/14)",
+      "week": "Week 1 (10/09-10/15)",
+      "topicCounts": {
+        "Tooling": 11,
+        "Product": 11,
+        "Models": 11,
+        "Infra": 7,
+        "Research": 7
+      }
+    },
+    {
+      "week": "Week 2 (10/16-10/22)",
+      "topicCounts": {
+        "Tooling": 9,
+        "Product": 10,
+        "Models": 7,
+        "Infra": 3,
+        "Research": 8
+      }
+    },
+    {
+      "week": "Week 3 (10/23-10/29)",
       "topicCounts": {
         "Tooling": 10,
-        "Product": 11,
-        "Models": 9,
-        "Research": 5,
-        "Infra": 4
+        "Product": 8,
+        "Models": 6,
+        "Infra": 6,
+        "Research": 4
       }
     },
     {
-      "week": "Week 2 (10/15-10/21)",
-      "topicCounts": {
-        "Tooling": 12,
-        "Product": 10,
-        "Models": 8,
-        "Research": 8,
-        "Infra": 5
-      }
-    },
-    {
-      "week": "Week 3 (10/22-10/28)",
-      "topicCounts": {
-        "Tooling": 7,
-        "Product": 4,
-        "Models": 3,
-        "Research": 2,
-        "Infra": 6
-      }
-    },
-    {
-      "week": "Week 4 (10/29-11/04)",
-      "topicCounts": {
-        "Tooling": 5,
-        "Product": 4,
-        "Models": 3,
-        "Research": 4,
-        "Infra": 7
-      }
-    },
-    {
-      "week": "Week 5 (11/05-11/06)",
+      "week": "Week 4 (10/30-11/05)",
       "topicCounts": {
         "Tooling": 3,
-        "Product": 3,
-        "Models": 3,
-        "Research": 3,
-        "Infra": 2
+        "Product": 2,
+        "Models": 0,
+        "Infra": 4,
+        "Research": 0
+      }
+    },
+    {
+      "week": "Week 5 (11/06-11/07)",
+      "topicCounts": {
+        "Tooling": 3,
+        "Product": 1,
+        "Models": 1,
+        "Infra": 3,
+        "Research": 1
       }
     }
   ],
   "topIssues": [
     {
-      "id": 1,
+      "id": "ai-1",
       "status": "NEW",
-      "title": "상호작용형 세계 시뮬레이션용 오픈 모델 부상",
-      "summary": "NVIDIA Cosmos 3 공개로 물리·그래픽·에이전트 행동을 통합한 상호작용형 세계 시뮬레이션 모델이 본격 등장했다. 로보틱스와 게임, 에이전트 기반 환경 테스트 등 AI가 가상 세계에서 학습·실험하는 기반 인프라가 확대되는 흐름이다.",
+      "title": "차세대 GPU 최적화로 실시간에 가까운 이미지 생성 가속",
+      "summary": "NVIDIA Blackwell GPU에서 FLUX 3 Image Klein 확산 모델을 최적화해 지연 시간을 크게 줄이고, 디자인 툴·이미지 편집기 등에서 실시간에 가까운 고속 이미지 생성을 구현하는 추론 가속 기법이 제안되었습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
+          "url": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/"
+        }
+      ]
+    },
+    {
+      "id": "ai-2",
+      "status": "ONGOING",
+      "title": "Reshard Collective로 강화학습 포스트트레이닝 병목 해소",
+      "summary": "NVIDIA는 RL 포스트트레이닝에서 실시간으로 생성되는 트레이젝토리와 병행해 가중치 리핏을 고속 처리하는 Reshard Collective를 도입해, 대규모 강화학습의 학습·추론 병목을 줄이는 분산 학습 인프라 개선 방향을 제시했습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Accelerating Reinforcement Learning Weight Refit with the Reshard Collective",
+          "url": "https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective/"
+        }
+      ]
+    },
+    {
+      "id": "ai-3",
+      "status": "NEW",
+      "title": "표준화된 로봇 학습·평가용 시뮬레이션 환경 ToyBlocks 공개",
+      "summary": "Hugging Face의 ToyBlocks는 통제된 3D 환경에서 로봇 태스크를 표준화된 지표와 재현 가능한 파이프라인으로 평가할 수 있게 해, 로봇 강화학습·조작 연구의 벤치마크와 실험 재현성을 강화합니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+          "url": "https://huggingface.co/blog/allenai/toyblocks"
+        }
+      ]
+    },
+    {
+      "id": "ai-4",
+      "status": "NEW",
+      "title": "Cosmos 3 오픈 모델로 상호작용형 세계 시뮬레이션 가속",
+      "summary": "NVIDIA Cosmos 3는 물리·그래픽·에이전트 행동을 통합한 오픈 시뮬레이션 모델로, 상호작용형 세계 모델링을 통해 로보틱스, 게임 개발, 에이전트 연구에 활용 가능한 범용 시뮬레이션 인프라를 제공합니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -84,58 +126,16 @@
       ]
     },
     {
-      "id": 2,
+      "id": "ai-5",
       "status": "ONGOING",
-      "title": "AI 팩토리 시대의 메모리·연산 공동설계 최적화",
-      "summary": "엔비디아는 HBM 자원 효율 극대화를 위해 중복 가중치 제거, 압축·저정밀 연산, 계층형 메모리 및 스케줄링 최적화 등 하드웨어-소프트웨어 공동설계 전략을 제시하고 있다. 대규모 모델 학습·추론 비용을 줄이기 위한 인프라 수준의 최적화 경쟁이 이어지는 추세다.",
+      "title": "AI 팩토리에서 메모리 효율 극대화를 위한 하드웨어·소프트웨어 공동설계",
+      "summary": "엔비디아는 HBM 메모리 활용을 극대화하기 위해 가중치 중복 제거, 압축·저정밀 연산, 메모리 계층 구조·스케줄링 최적화 등 다섯 가지 공설계 전략을 소개하며, 대규모 AI 팩토리의 비용·성능 균형 최적화 흐름이 지속되고 있습니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "NVIDIA Developer Blog",
           "title": "Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory",
           "url": "https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory/"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "status": "NEW",
-      "title": "에이전트 생성 코드의 정형 검증 도입",
-      "summary": "Microsoft의 PDD Kit은 에이전트가 작성한 풀스택 웹 앱에 대해 개발자 의도를 형식 명세로 변환하고, Verus 기반 정형 검증과 테스트를 통해 모든 입력에서 의도한 동작을 보장하려 한다. AI 코드 생성 확산에 맞춰 안정성과 신뢰성을 수학적으로 검증하려는 시도가 강화되고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Microsoft Research Blog",
-          "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
-          "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "status": "ONGOING",
-      "title": "분산 학습 운영 안정성 및 자동 복구 강화",
-      "summary": "대규모 분산 학습 환경에서 잦은 장애를 줄이기 위해, NVIDIA는 장애 감지·체크포인트 복원·재스케줄링을 포함한 자동 워크로드 복구 방식을 제안하고 있다. AI 인프라 운영에서 가용성과 회복력을 높이는 자동화가 핵심 과제로 부상하고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "NVIDIA Developer Blog",
-          "title": "Keep Distributed Training Running with Automated Workload Recovery",
-          "url": "https://developer.nvidia.com/blog/keep-distributed-training-running-with-automated-workload-recovery/"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "status": "ONGOING",
-      "title": "코딩 에이전트와 직장 내 AI 활용 연구 심화",
-      "summary": "Microsoft Research Focus에서는 코딩 에이전트가 직면한 한계와 과제, 직장 내 AI 도입에 따른 사용자 행태 변화가 논의되고 있다. 생산성 도구로서의 AI 활용 패턴과 협업 방식, 조직 문화 변화에 대한 계량적·질적 연구가 이어지는 흐름이다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Microsoft Research Blog",
-          "title": "Microsoft Research Focus – Edition #97",
-          "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/"
         }
       ]
     }

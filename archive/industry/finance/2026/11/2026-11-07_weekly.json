@@ -1,0 +1,258 @@
+{
+  "range": {
+    "from": "2026-11-01",
+    "to": "2026-11-07"
+  },
+  "kpis": {
+    "collected": 6,
+    "deduped": 6,
+    "uniqueTopics": 7
+  },
+  "topTopics": [
+    {
+      "name": "Security",
+      "count": 3
+    },
+    {
+      "name": "Privacy",
+      "count": 3
+    },
+    {
+      "name": "Fintech",
+      "count": 3
+    },
+    {
+      "name": "Compliance",
+      "count": 3
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Security",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Privacy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Fintech",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "Security",
+      "count": 0
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "Privacy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "Fintech",
+      "count": 0
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Security",
+      "count": 1
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Privacy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Fintech",
+      "count": 1
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Compliance",
+      "count": 1
+    },
+    {
+      "date": "2026-11-04",
+      "dayOfWeek": "Wed",
+      "topic": "Security",
+      "count": 0
+    },
+    {
+      "date": "2026-11-04",
+      "dayOfWeek": "Wed",
+      "topic": "Privacy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-04",
+      "dayOfWeek": "Wed",
+      "topic": "Fintech",
+      "count": 0
+    },
+    {
+      "date": "2026-11-04",
+      "dayOfWeek": "Wed",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Security",
+      "count": 0
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Privacy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Fintech",
+      "count": 0
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Security",
+      "count": 0
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Privacy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Fintech",
+      "count": 0
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Security",
+      "count": 2
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Privacy",
+      "count": 2
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Fintech",
+      "count": 2
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Compliance",
+      "count": 2
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "finance-1",
+      "status": "ONGOING",
+      "title": "국내 증권·금융사 연쇄 해킹으로 개인정보·계좌정보 유출 비상",
+      "summary": "미래에셋증권과 한양증권 등에서 고객 계좌번호, 주민등록번호, 주소 등 민감정보가 잇따라 유출되며 금융투자업권 전반에 보안 비상이 걸렸다. 다우오피스 그룹웨어·인증 시스템 취약점을 노린 것으로 추정되며, AI 에이전트를 활용한 지능형 공격 가능성도 제기된다. 금융사 전산·보안 체계 전면 점검과 규제 당국의 관리·감독 강화 필요성이 급부상하고 있다.",
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "은행·보험사 이어 미래에셋증권까지···연쇄 해킹에 시달리는 금융사",
+          "url": "https://www.mk.co.kr/news/stock/12201388"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "[속보] 미래에셋증권도 해킹 당해…“고객·임직원 정보 일부 유출”",
+          "url": "https://www.mk.co.kr/news/economy/12201367"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "한양증권서도 개인정보 유출…금투업권 해킹 비상",
+          "url": "https://www.mk.co.kr/news/stock/12194338"
+        }
+      ]
+    },
+    {
+      "id": "finance-2",
+      "status": "ONGOING",
+      "title": "코스피·코스닥 급락과 서킷브레이커 발동, 변동성 확대 국면 진입",
+      "summary": "코스피가 장 초반 8% 이상 급락하며 5000p 아래로 떨어져 서킷브레이커가 발동됐고, 코스닥도 5~6%대 급락세를 보였다. AI 데이터센터 투자 둔화 우려와 미국 반도체주 폭락 등 대외 악재가 복합적으로 작용하며 국내 증시 변동성이 극단적으로 확대되는 국면에 진입했다는 평가가 나온다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[속보] 증시 급락에 코스피 서킷브레이커 발동…5000피 밑으로",
+          "url": "https://www.mk.co.kr/news/stock/12200170"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "[속보] 코스피, 8%대 급락 출발…코스닥 5~6%대↓",
+          "url": "https://www.mk.co.kr/news/stock/12200167"
+        }
+      ]
+    },
+    {
+      "id": "finance-3",
+      "status": "ONGOING",
+      "title": "의무공개매수 제도 개편 요구…소액주주 보호 강화 논쟁",
+      "summary": "거버넌스포럼은 현행 50%+1주 기준 공개매수 면제 규정이 대주주에게만 경영권 프리미엄을 집중시키고 소액주주는 소외시킨다고 비판하며, 영국·독일·프랑스처럼 잔여주식 전체에 대한 의무공개매수 도입 등 제도 전면 보완을 촉구했다. 지배구조 개선과 자본시장 공정성 강화를 둘러싼 정책·규제 논쟁이 이어질 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "거버넌스포럼 “50%+1주 의무공개매수제 대주주만 프리미엄 독점”…전면 보완 촉구",
+          "url": "https://www.mk.co.kr/news/stock/12194561"
+        }
+      ]
+    }
+  ]
+}

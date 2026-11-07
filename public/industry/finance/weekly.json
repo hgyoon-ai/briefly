@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-10-31",
-    "to": "2026-11-06"
+    "from": "2026-11-01",
+    "to": "2026-11-07"
   },
   "kpis": {
     "collected": 6,
@@ -10,63 +10,39 @@
   },
   "topTopics": [
     {
-      "name": "MarketInfra",
-      "count": 5
-    },
-    {
-      "name": "Regulation",
+      "name": "Security",
       "count": 3
     },
     {
-      "name": "Policy",
+      "name": "Privacy",
+      "count": 3
+    },
+    {
+      "name": "Fintech",
       "count": 3
     },
     {
       "name": "Compliance",
-      "count": 1
+      "count": 3
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-10-31",
-      "dayOfWeek": "Sat",
-      "topic": "MarketInfra",
-      "count": 1
-    },
-    {
-      "date": "2026-10-31",
-      "dayOfWeek": "Sat",
-      "topic": "Regulation",
-      "count": 0
-    },
-    {
-      "date": "2026-10-31",
-      "dayOfWeek": "Sat",
-      "topic": "Policy",
-      "count": 1
-    },
-    {
-      "date": "2026-10-31",
-      "dayOfWeek": "Sat",
-      "topic": "Compliance",
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Security",
       "count": 0
     },
     {
       "date": "2026-11-01",
       "dayOfWeek": "Sun",
-      "topic": "MarketInfra",
-      "count": 1
+      "topic": "Privacy",
+      "count": 0
     },
     {
       "date": "2026-11-01",
       "dayOfWeek": "Sun",
-      "topic": "Regulation",
-      "count": 1
-    },
-    {
-      "date": "2026-11-01",
-      "dayOfWeek": "Sun",
-      "topic": "Policy",
+      "topic": "Fintech",
       "count": 0
     },
     {
@@ -78,19 +54,19 @@
     {
       "date": "2026-11-02",
       "dayOfWeek": "Mon",
-      "topic": "MarketInfra",
+      "topic": "Security",
       "count": 0
     },
     {
       "date": "2026-11-02",
       "dayOfWeek": "Mon",
-      "topic": "Regulation",
+      "topic": "Privacy",
       "count": 0
     },
     {
       "date": "2026-11-02",
       "dayOfWeek": "Mon",
-      "topic": "Policy",
+      "topic": "Fintech",
       "count": 0
     },
     {
@@ -102,19 +78,19 @@
     {
       "date": "2026-11-03",
       "dayOfWeek": "Tue",
-      "topic": "MarketInfra",
+      "topic": "Security",
       "count": 1
     },
     {
       "date": "2026-11-03",
       "dayOfWeek": "Tue",
-      "topic": "Regulation",
+      "topic": "Privacy",
       "count": 1
     },
     {
       "date": "2026-11-03",
       "dayOfWeek": "Tue",
-      "topic": "Policy",
+      "topic": "Fintech",
       "count": 1
     },
     {
@@ -126,19 +102,19 @@
     {
       "date": "2026-11-04",
       "dayOfWeek": "Wed",
-      "topic": "MarketInfra",
+      "topic": "Security",
       "count": 0
     },
     {
       "date": "2026-11-04",
       "dayOfWeek": "Wed",
-      "topic": "Regulation",
+      "topic": "Privacy",
       "count": 0
     },
     {
       "date": "2026-11-04",
       "dayOfWeek": "Wed",
-      "topic": "Policy",
+      "topic": "Fintech",
       "count": 0
     },
     {
@@ -150,19 +126,19 @@
     {
       "date": "2026-11-05",
       "dayOfWeek": "Thu",
-      "topic": "MarketInfra",
+      "topic": "Security",
       "count": 0
     },
     {
       "date": "2026-11-05",
       "dayOfWeek": "Thu",
-      "topic": "Regulation",
+      "topic": "Privacy",
       "count": 0
     },
     {
       "date": "2026-11-05",
       "dayOfWeek": "Thu",
-      "topic": "Policy",
+      "topic": "Fintech",
       "count": 0
     },
     {
@@ -174,34 +150,82 @@
     {
       "date": "2026-11-06",
       "dayOfWeek": "Fri",
-      "topic": "MarketInfra",
+      "topic": "Security",
+      "count": 0
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Privacy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Fintech",
+      "count": 0
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Security",
       "count": 2
     },
     {
-      "date": "2026-11-06",
-      "dayOfWeek": "Fri",
-      "topic": "Regulation",
-      "count": 1
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Privacy",
+      "count": 2
     },
     {
-      "date": "2026-11-06",
-      "dayOfWeek": "Fri",
-      "topic": "Policy",
-      "count": 1
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Fintech",
+      "count": 2
     },
     {
-      "date": "2026-11-06",
-      "dayOfWeek": "Fri",
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
       "topic": "Compliance",
-      "count": 0
+      "count": 2
     }
   ],
   "topIssues": [
     {
-      "id": 1,
+      "id": "finance-1",
       "status": "ONGOING",
-      "title": "국내 증시 급락과 코스피 서킷브레이커 발동",
-      "summary": "코스피가 장 초반 8% 이상 급락하며 5000선 아래로 밀려나 서킷브레이커가 발동됐다. 코스닥도 5~6%대 동반 하락했고, AI 데이터센터 투자 둔화 우려와 미국 반도체주 급락이 복합적으로 작용해 글로벌 반도체·기술주 조정이 국내 시장 전반의 패닉성 매도로 이어지고 있다.",
+      "title": "국내 증권·금융사 연쇄 해킹으로 개인정보·계좌정보 유출 비상",
+      "summary": "미래에셋증권과 한양증권 등에서 고객 계좌번호, 주민등록번호, 주소 등 민감정보가 잇따라 유출되며 금융투자업권 전반에 보안 비상이 걸렸다. 다우오피스 그룹웨어·인증 시스템 취약점을 노린 것으로 추정되며, AI 에이전트를 활용한 지능형 공격 가능성도 제기된다. 금융사 전산·보안 체계 전면 점검과 규제 당국의 관리·감독 강화 필요성이 급부상하고 있다.",
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "은행·보험사 이어 미래에셋증권까지···연쇄 해킹에 시달리는 금융사",
+          "url": "https://www.mk.co.kr/news/stock/12201388"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "[속보] 미래에셋증권도 해킹 당해…“고객·임직원 정보 일부 유출”",
+          "url": "https://www.mk.co.kr/news/economy/12201367"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "한양증권서도 개인정보 유출…금투업권 해킹 비상",
+          "url": "https://www.mk.co.kr/news/stock/12194338"
+        }
+      ]
+    },
+    {
+      "id": "finance-2",
+      "status": "ONGOING",
+      "title": "코스피·코스닥 급락과 서킷브레이커 발동, 변동성 확대 국면 진입",
+      "summary": "코스피가 장 초반 8% 이상 급락하며 5000p 아래로 떨어져 서킷브레이커가 발동됐고, 코스닥도 5~6%대 급락세를 보였다. AI 데이터센터 투자 둔화 우려와 미국 반도체주 폭락 등 대외 악재가 복합적으로 작용하며 국내 증시 변동성이 극단적으로 확대되는 국면에 진입했다는 평가가 나온다.",
       "articleCount": 2,
       "relatedArticles": [
         {
@@ -217,58 +241,16 @@
       ]
     },
     {
-      "id": 2,
+      "id": "finance-3",
       "status": "ONGOING",
-      "title": "50%+1주 의무공개매수제 논란과 소액주주 보호 이슈",
-      "summary": "거버넌스포럼이 현행 50%+1주 의무공개매수 면제 규정이 경영권 거래 시 대주주에게만 경영 프리미엄을 몰아주고 소액주주는 소외된다고 비판했다. 영국·독일·프랑스처럼 잔여 지분 전체에 대한 의무공개매수를 도입해 지배구조 투명성과 소액주주 보호를 강화해야 한다는 제도 전면 보완 요구가 커지고 있다.",
+      "title": "의무공개매수 제도 개편 요구…소액주주 보호 강화 논쟁",
+      "summary": "거버넌스포럼은 현행 50%+1주 기준 공개매수 면제 규정이 대주주에게만 경영권 프리미엄을 집중시키고 소액주주는 소외시킨다고 비판하며, 영국·독일·프랑스처럼 잔여주식 전체에 대한 의무공개매수 도입 등 제도 전면 보완을 촉구했다. 지배구조 개선과 자본시장 공정성 강화를 둘러싼 정책·규제 논쟁이 이어질 전망이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
           "title": "거버넌스포럼 “50%+1주 의무공개매수제 대주주만 프리미엄 독점”…전면 보완 촉구",
           "url": "https://www.mk.co.kr/news/stock/12194561"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "status": "ONGOING",
-      "title": "증권사 연쇄 해킹과 금융투자업권 사이버 보안 리스크",
-      "summary": "한양증권에서 고객 계좌, 주민등록번호, 주소 등 민감 정보 31건이 유출됐다. 최근 빗썸 사례와 마찬가지로 그룹웨어 ‘다우오피스’ 취약점이 공통 원인으로 지목되며, 금융투자업권 전반의 보안 인프라와 외부 솔루션 의존 구조에 대한 리스크 점검, 규제당국의 점검 강화 필요성이 부각되고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "매일경제(증권)",
-          "title": "한양증권서도 개인정보 유출…금투업권 해킹 비상",
-          "url": "https://www.mk.co.kr/news/stock/12194338"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "status": "ONGOING",
-      "title": "앤트로픽 나스닥 상장 추진과 국내 투자 접근성 논의",
-      "summary": "생성형 AI 기업 앤트로픽이 나스닥 상장 신고서를 제출하며 시가총액 2700조원 수준까지 거론되는 몸값 기대가 형성되고 있다. 다만 공모 규모와 가격이 미정인 가운데 고성장에도 불구하고 수익성과 밸류에이션 부담이 커 국내 투자자들의 직접·간접 투자 경로, 관련 ETF 및 글로벌 빅테크와의 밸류 비교 등 투자전략 논의가 진행 중이다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "매일경제(증권)",
-          "title": "‘몸값 2700조’ 앤트로픽 상장에 기대감 높은데…국내서 투자되나 보니",
-          "url": "https://www.mk.co.kr/news/stock/12192529"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "status": "NEW",
-      "title": "인텔 29% 폭락과 글로벌 반도체 투자심리 위축",
-      "summary": "인텔 주가가 하루 만에 29% 급락하며 약 183조원의 시가총액이 증발했다. 시장 기대치를 크게 밑도는 EPS와 매출 가이던스가 제시되면서 PC·데이터센터 수요 둔화 우려가 재부각됐고, 이는 미국 증시 반도체 섹터 전반의 급락과 함께 한국을 포함한 글로벌 반도체·AI 관련주의 밸류에이션 및 실적 모멘텀 재평가를 촉발하고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "매일경제(증권)",
-          "title": "“52년 만에 최악의 하루”…주가 29% 폭락 인텔, 시총 183조원 증발",
-          "url": "https://www.mk.co.kr/news/stock/12192398"
         }
       ]
     }

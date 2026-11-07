@@ -1,79 +1,93 @@
 {
   "range": {
-    "from": "2026-10-08",
-    "to": "2026-11-06"
+    "from": "2026-10-09",
+    "to": "2026-11-07"
   },
   "kpis": {
-    "collected": 55,
-    "deduped": 55,
+    "collected": 54,
+    "deduped": 54,
     "uniqueTopics": 7,
     "marketShare": {
-      "Roadmap": 28,
-      "Manufacturing": 22,
+      "Roadmap": 29,
       "Competition": 22,
+      "Manufacturing": 22,
       "Investment": 14,
-      "Demand": 14,
+      "Demand": 13,
       "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/08-10/14)",
+      "week": "Week 1 (10/09-10/15)",
       "topicCounts": {
-        "Roadmap": 10,
-        "Manufacturing": 11,
+        "Roadmap": 12,
         "Competition": 9,
+        "Manufacturing": 11,
         "Investment": 4,
-        "Demand": 3
-      }
-    },
-    {
-      "week": "Week 2 (10/15-10/21)",
-      "topicCounts": {
-        "Roadmap": 13,
-        "Manufacturing": 9,
-        "Competition": 13,
-        "Investment": 5,
-        "Demand": 8
-      }
-    },
-    {
-      "week": "Week 3 (10/22-10/28)",
-      "topicCounts": {
-        "Roadmap": 5,
-        "Manufacturing": 3,
-        "Competition": 4,
-        "Investment": 0,
         "Demand": 2
       }
     },
     {
-      "week": "Week 4 (10/29-11/04)",
+      "week": "Week 2 (10/16-10/22)",
       "topicCounts": {
-        "Roadmap": 6,
-        "Manufacturing": 5,
-        "Competition": 2,
-        "Investment": 6,
-        "Demand": 3
+        "Roadmap": 12,
+        "Competition": 11,
+        "Manufacturing": 8,
+        "Investment": 2,
+        "Demand": 9
       }
     },
     {
-      "week": "Week 5 (11/05-11/06)",
+      "week": "Week 3 (10/23-10/29)",
+      "topicCounts": {
+        "Roadmap": 7,
+        "Competition": 5,
+        "Manufacturing": 6,
+        "Investment": 3,
+        "Demand": 4
+      }
+    },
+    {
+      "week": "Week 4 (10/30-11/05)",
       "topicCounts": {
         "Roadmap": 3,
-        "Manufacturing": 2,
-        "Competition": 2,
+        "Competition": 0,
+        "Manufacturing": 1,
         "Investment": 2,
         "Demand": 1
+      }
+    },
+    {
+      "week": "Week 5 (11/06-11/07)",
+      "topicCounts": {
+        "Roadmap": 2,
+        "Competition": 1,
+        "Manufacturing": 0,
+        "Investment": 2,
+        "Demand": 0
       }
     }
   ],
   "topIssues": [
     {
-      "id": 1,
+      "id": "semic-1",
+      "status": "SHIFTING",
+      "title": "유럽 반도체 산업, 지정학·투자 압력 속 공급망·로드맵 재편 가속",
+      "summary": "SEMICON Europa 2026을 계기로 유럽 반도체 산업이 지정학적 갈등, 보조금 경쟁, 기술 격차 등 '퍼펙트 스톰'에 직면하면서 공급망 재편과 투자 우선순위, 기술 로드맵을 대대적으로 조정하는 국면에 들어갔습니다. 이는 유럽 내 생산·패키징 역량 강화와 동시에 글로벌 파운드리·장비·소재 업체와의 전략적 제휴 확대를 동반할 전망입니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Europe’s Chip Industry: Perfect Storm or Perfect Timing?",
+          "url": "https://www.eetimes.com/europe-chip-industry-perfect-storm-or-perfect-timing/"
+        }
+      ]
+    },
+    {
+      "id": "semic-2",
       "status": "ONGOING",
-      "title": "AI 메모리 수요 급증에 따른 삼성전자 실적 폭증",
-      "summary": "AI 워크로드용 고대역폭·고용량 메모리 수요가 급증하면서 삼성전자가 분기 영업이익 800억 달러를 기록했다. 이는 메모리 가격 및 믹스 개선, AI 인프라 투자 확대가 맞물린 결과로, 향후 메모리 증설·공정 전환과 장기 투자 전략의 핵심 이슈로 부상하고 있다.",
+      "title": "AI 메모리 수요 폭증, 삼성전자 3분기 실적과 메모리 투자 전략 재편 견인",
+      "summary": "삼성전자가 AI 서버 및 고대역폭 메모리(HBM) 수요 급증에 힘입어 약 800억 달러 규모의 분기 영업이익을 기록하며, AI 중심 메모리 포트폴리오와 생산 캐파 확장을 가속하고 있습니다. 이는 메모리 가격 구조, 설비투자(CAPEX) 계획, 패키징·공정 미세화 경쟁에 직접적인 영향을 주며 글로벌 메모리 공급사들의 투자 방향을 재정렬시키는 신호로 해석됩니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -84,10 +98,10 @@
       ]
     },
     {
-      "id": 2,
+      "id": "semic-3",
       "status": "ONGOING",
-      "title": "차세대 반도체 제조·패키징 기술 로드맵 가속",
-      "summary": "최신 반도체 제조 및 고급 패키징 기술이 수율·성능·전력 효율 향상의 핵심 축으로 부상하고 있다. 팜 오토노미 등 응용 확대에 따라 후공정·패키징 혁신, 공정 미세화와 함께 공정·설계 통합 로드맵 수립이 업계 전반의 주요 과제가 되고 있다.",
+      "title": "차세대 반도체 제조·패키징 혁신, 시스템·응용 통합 경쟁 심화",
+      "summary": "최신 반도체 제조와 첨단 패키징 기술이 동시 발전하면서 칩렛, 2.5D/3D 패키징, 이기종 통합 등 시스템 수준 설계 전략이 핵심 경쟁 요소로 부상하고 있습니다. EE Times 11월호는 이러한 공정·패키징 혁신이 AI, 자동차, 농업 자율화(팜 오토노미) 등 수요처와 맞물려 새로운 공급망·투자 생태계를 형성하고 있음을 조명합니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -98,24 +112,10 @@
       ]
     },
     {
-      "id": 3,
-      "status": "ONGOING",
-      "title": "엣지 로보틱스를 겨냥한 생성형 AI 및 반도체 수요 확대",
-      "summary": "로봇·자율시스템에 생성형 인텔리전스를 도입하기 위한 엣지 컴퓨팅 수요가 증가하고 있다. 고성능·저전력 프로세서, 센서, 메모리 등 반도체 요구 사양이 재정의되면서, 엣지 AI 전용 SoC 및 플랫폼 개발이 중장기 로드맵의 핵심 축으로 부각된다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "EE Times",
-          "title": "AI to the Edge: Generative Intelligence for Robotics and Autonomous Systems",
-          "url": "https://www.eetimes.com/ai-to-the-edge-generative-intelligence-for-robotics-and-autonomous-systems/"
-        }
-      ]
-    },
-    {
-      "id": 4,
+      "id": "semic-4",
       "status": "SHIFTING",
-      "title": "캐나다 양자기술 상용화를 위한 인프라·투자·정책 정비",
-      "summary": "캐나다가 양자 기술을 연구 중심에서 상용화 단계로 전환하기 위해 국방 조달, 장기 투자 자본, 공동 인프라를 연계한 전략을 추진 중이다. 이는 양자 컴퓨팅·통신·센싱용 반도체 및 관련 생태계 형성을 촉진하는 국가 단위 정책 변화로 해석된다.",
+      "title": "양자 상용화 경쟁 본격화, 캐나다를 필두로 양자-반도체 융합 투자 확대",
+      "summary": "캐나다가 국방 조달, 장기 투자 자본, 공동 인프라를 앞세워 양자 기술의 상용화를 본격 추진하면서, 양자 컴퓨팅·센싱·통신을 뒷받침할 특수 반도체(저잡음 소자, 극저온 제어칩 등) 수요도 구조적으로 증가하고 있습니다. 이는 북미·유럽의 양자 인프라 투자와 맞물려 양자 친화 공정, 패키징, IP 생태계를 선점하려는 글로벌 반도체 기업 간 경쟁을 촉발하고 있습니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -126,16 +126,16 @@
       ]
     },
     {
-      "id": 5,
-      "status": "SHIFTING",
-      "title": "Euro NCAP 기준 강화로 인-캐빈 센싱 반도체 수요 재편",
-      "summary": "강화된 Euro NCAP 안전 평가를 계기로 완성차 업체들이 스티어링휠 기반 센서에서 통합 인-캐빈 센서 시스템으로 이동하고 있다. 이에 따라 다중 센서 퓨전, 이미지·ToF·레이더 센서 및 관련 SoC에 대한 수요와 설계 기준이 재정립되는 중이다.",
+      "id": "semic-5",
+      "status": "ONGOING",
+      "title": "엣지 생성형 AI·로보틱스 확산, 고성능 저전력 SoC·센서 수요 구조 변화",
+      "summary": "로봇 및 자율 시스템에 생성형 인텔리전스를 탑재하려는 수요가 늘어나면서, 엣지 단에서 고성능 추론이 가능한 AI 가속기, 이미지·LiDAR·IMU 센서, 실시간 통신용 RF 칩 등 특화 반도체의 설계 방향이 재편되고 있습니다. 관련 웨비나는 임베디드·로봇 개발자들을 대상으로 엣지 AI를 위한 반도체 아키텍처, 메모리 대역폭, 전력 최적화 전략을 구체적으로 제시합니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "EE Times",
-          "title": "Automakers Reconsider In-Cabin Sensing for Euro NCAP Ratings",
-          "url": "https://www.eetimes.com/automakers-reconsider-in-cabin-sensing-for-euro-ncap-ratings/"
+          "title": "AI to the Edge: Generative Intelligence for Robotics and Autonomous Systems",
+          "url": "https://www.eetimes.com/ai-to-the-edge-generative-intelligence-for-robotics-and-autonomous-systems/"
         }
       ]
     }

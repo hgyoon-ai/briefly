@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-11-01",
+    "to": "2026-11-07"
+  },
+  "kpis": {
+    "collected": 15,
+    "deduped": 15,
+    "uniqueTopics": 10
+  },
+  "topTopics": [
+    {
+      "name": "Market",
+      "count": 14
+    },
+    {
+      "name": "Supply",
+      "count": 9
+    },
+    {
+      "name": "Regulation",
+      "count": 7
+    },
+    {
+      "name": "Construction",
+      "count": 6
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Market",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
+      "topic": "Construction",
+      "count": 0
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "Market",
+      "count": 1
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "Regulation",
+      "count": 1
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "Construction",
+      "count": 0
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Market",
+      "count": 4
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Supply",
+      "count": 1
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Regulation",
+      "count": 2
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Construction",
+      "count": 1
+    },
+    {
+      "date": "2026-11-04",
+      "dayOfWeek": "Wed",
+      "topic": "Market",
+      "count": 0
+    },
+    {
+      "date": "2026-11-04",
+      "dayOfWeek": "Wed",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-11-04",
+      "dayOfWeek": "Wed",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-11-04",
+      "dayOfWeek": "Wed",
+      "topic": "Construction",
+      "count": 0
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Market",
+      "count": 1
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Supply",
+      "count": 1
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Construction",
+      "count": 0
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Market",
+      "count": 7
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Supply",
+      "count": 6
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Regulation",
+      "count": 4
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Construction",
+      "count": 4
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Market",
+      "count": 1
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Supply",
+      "count": 1
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Construction",
+      "count": 1
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "정부 모듈러주택 1.8만 가구 공급 추진과 해외 실패 사례 대비",
+      "summary": "정부가 공공·민간을 통해 모듈러주택 1.8만 가구 공급을 본격 추진하면서 신속 공급 카드로 부상했다. 다만 영국 등 해외에선 대규모 투자에도 잇단 업체 도산, 생산·품질 문제, 자금난으로 사업이 중단된 선례가 있어 국내 도입 시 품질관리·재무안전성·표준화 기준 마련이 핵심 이슈로 떠오르고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "‘1.8만 가구 공급’ 정부가 띄운 모듈러주택…영국선 잇단 도산 [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10928743"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "재건축초과이익환수제 부담 확대와 민간 재건축 사업성 악화",
+      "summary": "정부가 민간 재건축 용적률 상향을 통해 공급 확대를 추진하는 가운데, 영등포·강북 등지에서 재건축초과이익환수제(재초환)에 따른 억대 부담금이 현실화되며 사업 속도가 둔화되고 있다. 사업성 악화와 조합원 부담 가중으로 일부 단지는 사업 재검토·지연 가능성이 커지고 있어 규제·부담금 조정 여부가 핵심 변수로 부각된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "영등포 2.2억·강북 1.2억…재초환 억대 부담금에 '닥공' 발목",
+          "url": "https://www.mk.co.kr/news/realestate/12200669"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "서초구, 재건축초과이익환수제 폐지 공식 건의와 제도 변화 가능성",
+      "summary": "서초구가 재건축초과이익환수제(재초환)가 주택공급을 위축시킨다며 정부에 폐지를 공식 건의했다. 지방자치단체 차원의 첫 강경 대응으로, 중앙정부의 정비사업 규제 완화 논의와 맞물려 재건축·재개발 추진 환경이 중장기적으로 바뀔 수 있다는 기대와 우려가 동시에 확산되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "서초구 \"재초환은 주택공급 위축\"…정부에 폐지 건의",
+          "url": "https://www.hankyung.com/article/202611058319i"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "강남권 아파트 가격 조정 심화와 소형 평형 하락 확산",
+      "summary": "서울 강남권에서 매매가격 조정이 이어지며 20억 원대 아파트가 14억 원 수준에 거래되는 사례까지 나오고 있다. 그동안 수요가 견조하던 소형 평형마저 하락 거래가 잇따르면서 고가·대출규제·보유비용 부담이 누적된 결과 수요 위축과 가격 조정이 동시 진행되는 국면으로 평가된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "“20억 하던 강남 아파트가 14억?”…강남 소형 아파트까지 가격 ‘뚝’",
+          "url": "https://www.mk.co.kr/news/realestate/12200391"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "여의도·창신동 등 도심 재건축·복합개발 본격화",
+      "summary": "서울시 통합심의위가 여의도 목화아파트 재건축을 조건부 의결하고, 창신1구역 제3지구 역시 조건부·수정가결을 통해 최고 49층 복합단지로 재탄생 길을 열었다. 도심 내 노후 주거지 재정비와 상업·업무 기능을 결합한 고밀 복합개발이 동시에 추진되며 한강변·역세권 중심의 도심 스카이라인과 공급 구조 변화가 가속화되는 흐름이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "여의도 목화 통합심의 통과...창신동 동대문역 초역세권에도 291가구 [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10927870"
+        }
+      ]
+    }
+  ]
+}

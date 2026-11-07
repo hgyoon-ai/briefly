@@ -1,121 +1,107 @@
 {
   "range": {
-    "from": "2026-10-08",
-    "to": "2026-11-06"
+    "from": "2026-10-09",
+    "to": "2026-11-07"
   },
   "kpis": {
-    "collected": 102,
-    "deduped": 102,
+    "collected": 103,
+    "deduped": 103,
     "uniqueTopics": 10,
     "marketShare": {
       "Market": 30,
       "Supply": 25,
       "Policy": 20,
-      "UrbanRenewal": 13,
-      "Rental": 12,
+      "Construction": 13,
+      "UrbanRenewal": 12,
       "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/08-10/14)",
+      "week": "Week 1 (10/09-10/15)",
       "topicCounts": {
-        "Market": 18,
-        "Supply": 14,
-        "Policy": 14,
-        "UrbanRenewal": 6,
-        "Rental": 8
-      }
-    },
-    {
-      "week": "Week 2 (10/15-10/21)",
-      "topicCounts": {
-        "Market": 18,
+        "Market": 16,
         "Supply": 15,
-        "Policy": 14,
-        "UrbanRenewal": 7,
-        "Rental": 10
+        "Policy": 17,
+        "Construction": 9,
+        "UrbanRenewal": 8
       }
     },
     {
-      "week": "Week 3 (10/22-10/28)",
+      "week": "Week 2 (10/16-10/22)",
       "topicCounts": {
-        "Market": 14,
-        "Supply": 10,
-        "Policy": 5,
-        "UrbanRenewal": 5,
-        "Rental": 9
+        "Market": 20,
+        "Supply": 14,
+        "Policy": 12,
+        "Construction": 8,
+        "UrbanRenewal": 5
       }
     },
     {
-      "week": "Week 4 (10/29-11/04)",
+      "week": "Week 3 (10/23-10/29)",
       "topicCounts": {
-        "Market": 12,
-        "Supply": 8,
-        "Policy": 5,
-        "UrbanRenewal": 6,
-        "Rental": 2
+        "Market": 16,
+        "Supply": 14,
+        "Policy": 8,
+        "Construction": 6,
+        "UrbanRenewal": 7
       }
     },
     {
-      "week": "Week 5 (11/05-11/06)",
+      "week": "Week 4 (10/30-11/05)",
       "topicCounts": {
-        "Market": 4,
-        "Supply": 4,
-        "Policy": 1,
-        "UrbanRenewal": 2,
-        "Rental": 1
+        "Market": 9,
+        "Supply": 3,
+        "Policy": 3,
+        "Construction": 1,
+        "UrbanRenewal": 3
+      }
+    },
+    {
+      "week": "Week 5 (11/06-11/07)",
+      "topicCounts": {
+        "Market": 7,
+        "Supply": 5,
+        "Policy": 3,
+        "Construction": 3,
+        "UrbanRenewal": 1
       }
     }
   ],
   "topIssues": [
     {
       "id": 1,
-      "status": "SHIFTING",
-      "title": "강남3구 아파트 가격 조정 본격화",
-      "summary": "강남3구에서 급매·하락 거래가 잇따르며 원베일리 등 주요 단지 실거래가가 짧은 기간에 수억 원씩 떨어지고 있다. 고가 아파트를 중심으로 매수심리가 위축되면서 강남권 주택시장이 조정 국면에 진입했다는 신호로 해석된다.",
+      "status": "NEW",
+      "title": "모듈러주택 1.8만 가구 추진과 해외 실패 사례 논쟁",
+      "summary": "정부가 공사 기간을 줄여 공급을 늘리겠다며 모듈러주택 1.8만 가구 도입을 추진하는 가운데, 영국에서는 관련 업체 도산과 품질·자금난으로 대형 프로젝트가 잇따라 중단된 사례가 드러나 국내 적용 시 안정성·경제성 검증 요구가 커지고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "매일경제(부동산)",
-          "title": "집 안가보고 잡던 원베일리도 14.5억 ‘뚝’, 강남 아파트 시련의 계절 왔다",
-          "url": "https://www.mk.co.kr/news/economy/12200273"
+          "source": "헤럴드경제(부동산)",
+          "title": "‘1.8만 가구 공급’ 정부가 띄운 모듈러주택…영국선 잇단 도산 [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10928743"
         }
       ]
     },
     {
       "id": 2,
-      "status": "ONGOING",
-      "title": "경기도 집값 급등…투기과열지구 추가 지정 가능성 확대",
-      "summary": "군포·병점·권선 등 경기도 34개 지역의 집값 상승률이 투기과열지구 지정 기준을 웃도는 수준으로 뛰었다. 반도체 산업 배후 수요와 인접 비규제지역 풍선효과가 맞물리며 규제지역 추가 확대와 대출·세제 규제 강화 가능성이 커지고 있다.",
+      "status": "SHIFTING",
+      "title": "재초환 부담금 확산과 서울 주요 재건축 사업성 악화",
+      "summary": "정부가 용적률 완화를 통해 민간 재건축 공급 확대를 유도하는 와중에 영등포·강북 등지에서 재건축초과이익환수제 부담금이 억대 규모로 산정되며 사업 속도와 추진 의지에 제동이 걸리는 등 재건축 사업성이 다시 도마 위에 올랐다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "헤럴드경제(부동산)",
-          "title": "군포·병점·권선 등 경기 34곳, 투기과열지구 지정 기준 넘었다[부동산360]",
-          "url": "https://biz.heraldcorp.com/article/10928147"
+          "source": "매일경제(부동산)",
+          "title": "영등포 2.2억·강북 1.2억…재초환 억대 부담금에 '닥공' 발목",
+          "url": "https://www.mk.co.kr/news/realestate/12200669"
         }
       ]
     },
     {
       "id": 3,
-      "status": "ONGOING",
-      "title": "서울 재건축·정비사업 인허가 진전으로 도심 공급 기반 확대",
-      "summary": "여의도 목화아파트, 창신1구역 제3지구 등 주요 재건축 사업이 서울시 통합심의를 통과하며 도심 내 중·대규모 신규 주택 공급이 가시화되고 있다. 초역세권·복합개발 형태로 추진되면서 향후 도심 주거·상업 환경 재편에 영향을 줄 전망이다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "헤럴드경제(부동산)",
-          "title": "여의도 목화 통합심의 통과...창신동 동대문역 초역세권에도 291가구 [부동산360]",
-          "url": "https://biz.heraldcorp.com/article/10927870"
-        }
-      ]
-    },
-    {
-      "id": 4,
       "status": "NEW",
-      "title": "지자체가 나선 재건축 초과이익환수제 폐지 요구",
-      "summary": "서울 서초구가 재건축 초과이익환수제가 주택 공급을 위축시키고 있다며 정부에 공식 폐지를 건의했다. 지방자치단체가 전면 완화를 요구하고 나서면서 재건축 부담금 제도 개편과 정비사업 수익성 개선 논의가 본격화될 수 있다는 관측이 나온다.",
+      "title": "서초구, 재건축 초과이익 환수제 폐지 공식 건의",
+      "summary": "서초구청이 재건축 초과이익 환수제가 주택 공급을 위축시킨다며 정부에 제도 폐지를 공식 건의하면서, 지자체 차원의 규제 완화 요구가 노골화되고 향후 재건축·재개발 규제 체계 전반에 변화 가능성이 제기되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -126,16 +112,35 @@
       ]
     },
     {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "강남권 아파트 가격 하락과 고가 주택 거래 구조 변화",
+      "summary": "강남권 아파트 가격이 중대형뿐 아니라 그동안 강세였던 소형까지 하락 거래가 늘어나는 가운데, 일부 고가 단지에서는 매도인이 매수자에게 수억 원을 직접 빌려주는 셀러파이낸싱 거래가 퍼지며 금리 부담과 대출 규제를 우회하는 새로운 거래 관행이 나타나고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "“20억 하던 강남 아파트가 14억?”…강남 소형 아파트까지 가격 ‘뚝’",
+          "url": "https://www.mk.co.kr/news/realestate/12200391"
+        },
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "“6개월간 5억~10억 대여에 금리 5%” 집주인 “2년치 소득명세서 떼오세요”",
+          "url": "https://biz.heraldcorp.com/article/10923987"
+        }
+      ]
+    },
+    {
       "id": 5,
       "status": "ONGOING",
-      "title": "수도권 전셋값 88주 연속 상승…고가 전세 시대 심화",
-      "summary": "수도권 전셋값이 88주 연속 오르며 장기 상승세를 이어가고 있고, 경기도에서도 전용 84㎡(국평) 전세가격이 10억 원을 돌파한 사례가 나타났다. 매매·청약 대기 수요와 공급 부족이 겹치며 세입자 부담이 크게 가중되고 있다.",
+      "title": "서울 도심 재건축·복합개발 속도전과 초고층 공급 확대",
+      "summary": "서울시 통합심의를 통해 여의도 목화아파트 재건축과 창신1구역 제3지구 49층 복합단지가 조건부 의결되면서, 한강변·역세권을 중심으로 도심 고밀 재건축과 주거·상업 복합개발이 본궤도에 오르고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "한국경제(부동산)",
-          "title": "수도권 전셋값 88주째 상승…경기도 '국평' 전세도 10억 넘었다",
-          "url": "https://www.hankyung.com/article/202611059046i"
+          "source": "헤럴드경제(부동산)",
+          "title": "여의도 목화 통합심의 통과...창신동 동대문역 초역세권에도 291가구 [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10927870"
         }
       ]
     }

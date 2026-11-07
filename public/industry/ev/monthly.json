@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-10-08",
-    "to": "2026-11-06"
+    "from": "2026-10-09",
+    "to": "2026-11-07"
   },
   "kpis": {
     "collected": 44,
@@ -10,61 +10,61 @@
     "marketShare": {
       "Competition": 26,
       "Roadmap": 25,
-      "Demand": 21,
+      "Demand": 22,
       "Investment": 19,
-      "Policy": 9,
+      "Manufacturing": 8,
       "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/08-10/14)",
+      "week": "Week 1 (10/09-10/15)",
       "topicCounts": {
-        "Competition": 11,
+        "Competition": 10,
+        "Roadmap": 9,
+        "Demand": 9,
+        "Investment": 9,
+        "Manufacturing": 4
+      }
+    },
+    {
+      "week": "Week 2 (10/16-10/22)",
+      "topicCounts": {
+        "Competition": 10,
         "Roadmap": 9,
         "Demand": 8,
-        "Investment": 8,
-        "Policy": 3
+        "Investment": 5,
+        "Manufacturing": 2
       }
     },
     {
-      "week": "Week 2 (10/15-10/21)",
+      "week": "Week 3 (10/23-10/29)",
       "topicCounts": {
-        "Competition": 11,
+        "Competition": 7,
         "Roadmap": 8,
-        "Demand": 9,
-        "Investment": 3,
-        "Policy": 4
-      }
-    },
-    {
-      "week": "Week 3 (10/22-10/28)",
-      "topicCounts": {
-        "Competition": 5,
-        "Roadmap": 7,
         "Demand": 4,
-        "Investment": 7,
-        "Policy": 2
+        "Investment": 9,
+        "Manufacturing": 3
       }
     },
     {
-      "week": "Week 4 (10/29-11/04)",
+      "week": "Week 4 (10/30-11/05)",
       "topicCounts": {
-        "Competition": 2,
-        "Roadmap": 3,
-        "Demand": 4,
-        "Investment": 1,
-        "Policy": 1
-      }
-    },
-    {
-      "week": "Week 5 (11/05-11/06)",
-      "topicCounts": {
-        "Competition": 2,
+        "Competition": 1,
         "Roadmap": 1,
-        "Demand": 1,
+        "Demand": 2,
         "Investment": 1,
-        "Policy": 1
+        "Manufacturing": 1
+      }
+    },
+    {
+      "week": "Week 5 (11/06-11/07)",
+      "topicCounts": {
+        "Competition": 1,
+        "Roadmap": 2,
+        "Demand": 2,
+        "Investment": 0,
+        "Manufacturing": 1
       }
     }
   ],
@@ -72,22 +72,27 @@
     {
       "id": "ev-1",
       "status": "SHIFTING",
-      "title": "미국산 전기 픽업 F-150 라이트닝, 중고 시장에서 50% 할인 특수",
-      "summary": "포드 F-150 라이트닝이 출시 초기 신차 수요 둔화와 리스/플릿 물량 만기 도래로 중고 매물로 쏟아지며 약 50% 할인된 가격에 빠르게 거래되고 있다. 이는 전기 픽업의 잔존가치와 향후 신규 전기 픽업 수요, 금융/리스 조건 재조정 등 미국 전기차 시장 구조에 변화를 예고하는 신호로 평가된다.",
-      "articleCount": 1,
+      "title": "테슬라, 사이버트럭 생산 중단 기조 속 대폭 가격 인상",
+      "summary": "테슬라는 판매 부진으로 2027년 중반까지 사이버트럭 생산을 단계적으로 중단하면서도, 미국 내 사이버트럭 가격을 최대 10% 인상하고 듀얼 모터 AWD 기본 트림 주문을 중단했다. 실제로 주문 가능한 최저가 트림은 약 9만 2,490달러 수준으로 올라가, 수요 부진·생산 조정·가격 전략이 동시에 재편되는 국면이다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
           "source": "Electrek",
-          "title": "Ford’s electric pickup is suddenly selling like hotcakes at 50% off used",
-          "url": "https://electrek.co/2026/11/05/fords-electric-pickup-selling-like-hotcakes-50-off-used/"
+          "title": "Tesla hikes Cybertruck prices up to 10% after announcing it will kill production",
+          "url": "https://electrek.co/2026/11/06/tesla-raises-cybertruck-prices-after-ending-production/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Tesla to end Cybertruck production as sales stall at ~10% of plan",
+          "url": "https://electrek.co/2026/11/06/tesla-ending-cybertruck-production-sales-10-percent-plan/"
         }
       ]
     },
     {
       "id": "ev-2",
       "status": "ONGOING",
-      "title": "테슬라 사이버캡 안전성 심사, NHTSA와 비공개 공방 심화",
-      "summary": "테슬라는 완전자율 택시용 사이버캡이 연방법 안전 기준을 충족한다는 선서 답변을 NHTSA에 제출했지만, 핵심 기술과 인증 근거 전면 비공개를 요구했다. 외부에는 소방관·구조대용 30페이지 안전 가이드만 공개된 상황으로, 로보택시 상용화 일정, 규제 기관의 정보 공개 요구, 투자자 리스크 평가 등에서 긴장이 지속되고 있다.",
+      "title": "테슬라 사이버캡, NHTSA 안전 답변 전면 비공개 요청",
+      "summary": "테슬라는 사이버캡이 연방법 안전 기준을 충족한다는 선서 답변을 NHTSA에 제출하면서, 내용 전체에 대한 기밀 유지를 요구했다. 외부에 공개된 것은 소방관용 30페이지짜리 안전 가이드뿐이며, 실제 인증 근거와 기술 세부 정보는 모두 비공개 처리돼 자율주행·로보택시 안전성과 규제 투명성을 둘러싼 논쟁이 이어질 가능성이 크다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -100,47 +105,42 @@
     {
       "id": "ev-3",
       "status": "ONGOING",
-      "title": "리비안, R2 흥행으로 매출 38% 성장…중형 EV 대중시장 안착",
-      "summary": "리비안은 2026년 3분기 매출이 전년 대비 38% 증가한 21.55억 달러로 시장 기대를 상회했고, R2가 첫 완전 분기만에 R1과 아마존 밴을 제치고 베스트셀러가 됐다. 더 저렴한 R2 중심의 믹스 전환은 리비안이 프리미엄 니치에서 벗어나 본격적인 대중형 전기 SUV·크로스오버 시장에서 점유율 확대 단계로 진입했음을 보여준다.",
+      "title": "BYD, 100만 명 이상 고용하며 글로벌 완성차 중 최대 인력 규모 달성",
+      "summary": "BYD는 102만 명 이상을 고용해 토요타·GM·포드·테슬라 인력을 모두 합친 것보다 많은 수준을 기록했다. 2025년 말 대비 10개월 새 약 15만 명을 추가 고용한 것으로, 배터리·완성차·부품 내재화를 통한 공격적 증설과 글로벌 EV 경쟁 확대를 뒷받침하는 인력 확장이 진행 중이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
-          "title": "Rivian (RIVN) Q3 2026 earnings: revenue up 38%, R2 now its best-seller",
-          "url": "https://electrek.co/2026/10/29/rivian-rivn-q3-2026-earnings-r2-best-seller/"
+          "title": "BYD now has 1.02 million workers, more than Toyota, GM, Ford, and Tesla combined",
+          "url": "https://electrek.co/2026/10/28/byd-1-million-employees-more-than-toyota-gm-ford-tesla/"
         }
       ]
     },
     {
       "id": "ev-4",
       "status": "ONGOING",
-      "title": "BYD, 100만 명 고용·월 30만 대 판매로 글로벌 EV 패권 굳히기",
-      "summary": "BYD는 직원 수가 102만 명을 넘어 토요타·GM·포드·테슬라 합산보다 많아졌고, 10개월 새 약 15만 명을 추가 채용했다. 동시에 10월 전기차 판매가 30만 대를 돌파해 미국 전체 3분기 EV 판매량을 단일 월 판매로 상회했으며, 초대형 인력 기반의 수직계열화·공장 증설을 통해 생산 규모와 가격 경쟁력을 앞세운 글로벌 시장 지배력 확대가 가속되고 있다.",
-      "articleCount": 2,
-      "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "BYD now has 1.02 million workers, more than Toyota, GM, Ford, and Tesla combined",
-          "url": "https://electrek.co/2026/10/28/byd-1-million-employees-more-than-toyota-gm-ford-tesla/"
-        },
-        {
-          "source": "Electrek",
-          "title": "BYD sold more EVs last month than the US did all quarter, topping 300,000",
-          "url": "https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/"
-        }
-      ]
-    },
-    {
-      "id": "ev-5",
-      "status": "ONGOING",
-      "title": "CATL 전고체 배터리 진전, 500Wh/kg 목표로 차세대 EV 플랫폼 압박",
-      "summary": "CATL이 20Ah급 전고체 배터리 셀 개발에 성공하며 에너지 밀도 500Wh/kg 달성을 목표로 차세대 셀 로드맵을 구체화하고 있다. 이 성과는 주행거리·경량화·안전성 측면에서 기존 리튬이온 대비 우위를 예고하며, 향후 중국 OEM은 물론 글로벌 완성차의 신규 EV 플랫폼·고급형 모델 설계에 CATL 의존도를 더욱 높일 가능성이 크다.",
+      "title": "CATL, 20Ah 전고체 배터리로 500Wh/kg 에너지 밀도 도전",
+      "summary": "CATL은 20Ah급 전고체 배터리 셀 개발에 성공하며 차세대 EV 배터리 로드맵에서 중요한 마일스톤을 달성했다. 목표 에너지 밀도는 500Wh/kg 수준으로, 장거리 주행 전기차와 고성능 모델 상용화에 필요한 핵심 기술 진전에 속도를 내고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
           "title": "CATL pushes ahead with 20 Ah solid-state EV batteries, with 500 Wh/kg in sight",
           "url": "https://electrek.co/2026/10/28/catl-pushes-ahead-20-ah-solid-state-ev-batteries-500-wh-kg/"
+        }
+      ]
+    },
+    {
+      "id": "ev-5",
+      "status": "NEW",
+      "title": "렉서스, 5만 달러 미만·300마일 이상 주행 2027년형 RZ 공개",
+      "summary": "렉서스는 내년 초 딜러 출고를 목표로 2027년형 전기 SUV RZ를 출시할 예정이며, 시작 가격은 5만 달러 미만, 1회 충전 주행거리는 300마일 이상으로 제시했다. 프리미엄 EV 시장에서 테슬라와 독일·중국 브랜드에 맞선 토요타/Lexus의 전략 차종으로 주목된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "The 2027 Lexus RZ starts at under $50,000 and offers over 300 miles of range",
+          "url": "https://electrek.co/2026/10/26/2027-lexus-rz-starts-under-50000-with-300-miles-range/"
         }
       ]
     }

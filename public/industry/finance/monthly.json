@@ -1,70 +1,70 @@
 {
   "range": {
-    "from": "2026-10-08",
-    "to": "2026-11-06"
+    "from": "2026-10-09",
+    "to": "2026-11-07"
   },
   "kpis": {
     "collected": 46,
     "deduped": 46,
     "uniqueTopics": 9,
     "marketShare": {
-      "MarketInfra": 39,
-      "Policy": 27,
+      "MarketInfra": 37,
+      "Policy": 26,
       "Regulation": 17,
-      "Compliance": 9,
-      "Fintech": 8,
+      "Compliance": 11,
+      "Fintech": 9,
       "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/08-10/14)",
+      "week": "Week 1 (10/09-10/15)",
+      "topicCounts": {
+        "MarketInfra": 11,
+        "Policy": 9,
+        "Regulation": 3,
+        "Compliance": 2,
+        "Fintech": 3
+      }
+    },
+    {
+      "week": "Week 2 (10/16-10/22)",
       "topicCounts": {
         "MarketInfra": 11,
         "Policy": 8,
-        "Regulation": 2,
-        "Compliance": 2,
-        "Fintech": 4
+        "Regulation": 8,
+        "Compliance": 5,
+        "Fintech": 1
       }
     },
     {
-      "week": "Week 2 (10/15-10/21)",
+      "week": "Week 3 (10/23-10/29)",
       "topicCounts": {
-        "MarketInfra": 12,
-        "Policy": 8,
-        "Regulation": 6,
-        "Compliance": 4,
-        "Fintech": 0
-      }
-    },
-    {
-      "week": "Week 3 (10/22-10/28)",
-      "topicCounts": {
-        "MarketInfra": 8,
+        "MarketInfra": 10,
         "Policy": 6,
         "Regulation": 3,
         "Compliance": 2,
-        "Fintech": 2
+        "Fintech": 3
       }
     },
     {
-      "week": "Week 4 (10/29-11/04)",
+      "week": "Week 4 (10/30-11/05)",
       "topicCounts": {
         "MarketInfra": 4,
-        "Policy": 3,
+        "Policy": 2,
         "Regulation": 3,
         "Compliance": 1,
         "Fintech": 1
       }
     },
     {
-      "week": "Week 5 (11/05-11/06)",
+      "week": "Week 5 (11/06-11/07)",
       "topicCounts": {
-        "MarketInfra": 2,
-        "Policy": 1,
-        "Regulation": 1,
-        "Compliance": 0,
-        "Fintech": 0
+        "MarketInfra": 0,
+        "Policy": 0,
+        "Regulation": 0,
+        "Compliance": 2,
+        "Fintech": 2
       }
     }
   ],
@@ -72,8 +72,27 @@
     {
       "id": 1,
       "status": "ONGOING",
-      "title": "코스피 급락·서킷브레이커 발동 및 증시안정 대책 논의",
-      "summary": "AI 데이터센터 투자 둔화 우려와 미국 반도체주 폭락 여파로 코스피가 8% 이상 급락하며 서킷브레이커가 발동되고, 코스피·코스닥이 동반 폭락했다. 이재명 대통령까지 나서 증시 대책을 언급하면서 정부·당국의 단기 안정조치와 중장기 시장 신뢰 회복 방안이 금융시장의 핵심 이슈로 부상했다.",
+      "title": "증권사 연쇄 해킹으로 금융보안 리스크 급부상",
+      "summary": "미래에셋증권과 한양증권 등 주요 증권사에서 고객 계좌번호·주민번호 등 민감 정보가 연달아 유출되며 금융투자업권 전반에 사이버 보안 비상이 걸렸다. 동일 협업툴 취약점과 AI 기반 지능형 공격 가능성이 지목되면서 금융사 보안 투자와 규제 강화 논의가 가속화되고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "은행·보험사 이어 미래에셋증권까지···연쇄 해킹에 시달리는 금융사",
+          "url": "https://www.mk.co.kr/news/stock/12201388"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "한양증권서도 개인정보 유출…금투업권 해킹 비상",
+          "url": "https://www.mk.co.kr/news/stock/12194338"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "코스피 급락과 서킷브레이커 발동으로 확대된 변동성",
+      "summary": "AI 데이터센터 투자 둔화 우려와 미국 반도체주 폭락 여파로 코스피가 장중 8% 이상 급락해 서킷브레이커가 발동되는 등 변동성이 극단적으로 확대됐다. 코스피·코스닥 모두 지수가 큰 폭으로 밀리면서 국내 증시 안정화 대책에 대한 요구가 커지고 있다.",
       "articleCount": 2,
       "relatedArticles": [
         {
@@ -89,38 +108,10 @@
       ]
     },
     {
-      "id": 2,
-      "status": "ONGOING",
-      "title": "상장사 인수·지배구조 변화 시 소액주주 보호제도 전면 재검토",
-      "summary": "50%+1주 의무공개매수 예외 규정이 사실상 대주주에게 경영권 프리미엄을 독점시켜 소액주주 이익을 침해한다는 비판이 커지고 있다. 영국·독일·프랑스처럼 잔여주식 전체에 대한 의무공개매수 제도 도입 등 자본시장 지배구조·M&A 관련 규제 전반의 보완 요구가 강화되며, 향후 관련 법·제도 개편이 금융시장 핵심 쟁점으로 부상하고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "매일경제(증권)",
-          "title": "거버넌스포럼 “50%+1주 의무공개매수제 대주주만 프리미엄 독점”…전면 보완 촉구",
-          "url": "https://www.mk.co.kr/news/stock/12194561"
-        }
-      ]
-    },
-    {
       "id": 3,
       "status": "ONGOING",
-      "title": "금융투자업권 연쇄 해킹과 개인정보 유출로 본 사이버 리스크 부각",
-      "summary": "한양증권에서 고객 계좌·주민번호·주소 등 민감정보가 유출된 데 이어, 빗썸 사건과 같은 그룹웨어(다우오피스) 취약점이 공통 경로로 지목되며 금융투자업권 전반의 사이버 보안이 도마에 올랐다. 고객 신뢰 훼손과 함께 전자금융·클라우드·외부 솔루션에 대한 보안 규제 강화와 투자 확대가 불가피한 흐름으로 자리 잡고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "매일경제(증권)",
-          "title": "한양증권서도 개인정보 유출…금투업권 해킹 비상",
-          "url": "https://www.mk.co.kr/news/stock/12194338"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "status": "ONGOING",
-      "title": "AI 열풍 버블·붕괴 가능성에 따른 금융시장 시스템 리스크 경고",
-      "summary": "한국은행이 AI 투자 붐이 꺾일 경우 최대 132조원 손실이 발생할 수 있는 최악 시나리오를 제시하며, AI 관련 자산 가격 조정이 실물·금융시장 전반으로 전이될 수 있다고 경고했다. 미국 AI 기업 앤트로픽이 상반기에만 100조원대 적자를 기록한 가운데, AI·데이터센터 투자와 관련 기업 가치에 대한 재평가와 금융권 익스포저 관리가 중요한 리스크 관리 과제로 부상했다.",
+      "title": "AI 버블 리스크와 글로벌 빅테크·핀테크 자산가격 조정 우려",
+      "summary": "한국은행은 AI 투자 열기가 꺾일 경우 132조원 규모 손실 가능성을 제시하며 국내외 금융시장 충격을 경고했다. 상반기에만 대규모 적자를 기록한 앤트로픽 등 AI 기업의 실적 부진이 상장 전후 변동성 요인으로 지목되며 AI 관련 자산가격 조정 리스크가 부각되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -131,16 +122,30 @@
       ]
     },
     {
-      "id": 5,
-      "status": "SHIFTING",
-      "title": "스테이블코인 규제·육성과 AI 빅테크 상장 이슈가 뒤섞인 미국 디지털자산 정책",
-      "summary": "미 재무장관 스콧 베센트가 링컨을 언급하며 스테이블코인 활성화 정책을 두둔하는 메시지를 낸 가운데, 대규모 적자를 내고 있는 AI 스타트업 앤트로픽의 상장 가능성이 다음 달로 거론되고 있다. 스테이블코인 규제 체계 정비와 AI 기업 IPO가 동시에 진행되면 디지털자산과 기술주 중심 자금 흐름에 구조적 변화를 일으킬 수 있어 글로벌 자본시장 참여자의 주시 대상이 되고 있다.",
+      "id": 4,
+      "status": "ONGOING",
+      "title": "주가조작 범죄에 대한 미흡한 추징과 자본시장 집행력 논란",
+      "summary": "최근 5년간 자본시장 교란 사건 판결 239건을 분석한 결과 범죄수익 1.5조원 중 실제 추징액은 18%에 그치고, 사건 3건 중 2건은 추징금이 0원으로 나타났다. 주가조작에 대한 실질 처벌과 불법이익 환수 장치가 미흡하다는 지적이 이어지며 수사·사법 시스템 전반의 개편 요구가 커지고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
-          "title": "링컨까지 소환한 베센트... 앤트로픽 상장, 다음달 확정인가",
-          "url": "https://www.mk.co.kr/news/business/12182433"
+          "title": "[단독] 주가조작, 패가망신 맞나요?…3건 중 2건은 추징금 ‘0원’",
+          "url": "https://www.mk.co.kr/news/society/12181989"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "의무공개매수 제도 개선 요구와 소액주주 보호 강화 논쟁",
+      "summary": "50%+1주 의무공개매수 면제 규정이 경영권 거래 시 대주주에게만 프리미엄을 집중시키고 소액주주 보호에는 미흡하다는 비판이 제기됐다. 영국·독일·프랑스처럼 잔여주식 전체를 대상으로 한 의무공개매수 도입 필요성이 거론되며 공정한 M&A·지배구조 개선을 둘러싼 정책 논의가 심화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "거버넌스포럼 “50%+1주 의무공개매수제 대주주만 프리미엄 독점”…전면 보완 촉구",
+          "url": "https://www.mk.co.kr/news/stock/12194561"
         }
       ]
     }

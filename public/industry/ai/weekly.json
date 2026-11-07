@@ -1,66 +1,42 @@
 {
   "range": {
-    "from": "2026-10-31",
-    "to": "2026-11-06"
+    "from": "2026-11-01",
+    "to": "2026-11-07"
   },
   "kpis": {
-    "collected": 9,
-    "deduped": 9,
-    "uniqueTopics": 9
+    "collected": 13,
+    "deduped": 13,
+    "uniqueTopics": 10
   },
   "topTopics": [
     {
-      "name": "Tooling",
-      "count": 6
+      "name": "Infra",
+      "count": 9
     },
     {
-      "name": "Infra",
-      "count": 6
+      "name": "Tooling",
+      "count": 9
     },
     {
       "name": "Product",
-      "count": 5
+      "count": 6
     },
     {
-      "name": "Models",
-      "count": 3
+      "name": "Training",
+      "count": 5
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-10-31",
-      "dayOfWeek": "Sat",
-      "topic": "Tooling",
-      "count": 0
-    },
-    {
-      "date": "2026-10-31",
-      "dayOfWeek": "Sat",
+      "date": "2026-11-01",
+      "dayOfWeek": "Sun",
       "topic": "Infra",
-      "count": 0
-    },
-    {
-      "date": "2026-10-31",
-      "dayOfWeek": "Sat",
-      "topic": "Product",
-      "count": 0
-    },
-    {
-      "date": "2026-10-31",
-      "dayOfWeek": "Sat",
-      "topic": "Models",
       "count": 0
     },
     {
       "date": "2026-11-01",
       "dayOfWeek": "Sun",
       "topic": "Tooling",
-      "count": 0
-    },
-    {
-      "date": "2026-11-01",
-      "dayOfWeek": "Sun",
-      "topic": "Infra",
       "count": 0
     },
     {
@@ -72,13 +48,7 @@
     {
       "date": "2026-11-01",
       "dayOfWeek": "Sun",
-      "topic": "Models",
-      "count": 0
-    },
-    {
-      "date": "2026-11-02",
-      "dayOfWeek": "Mon",
-      "topic": "Tooling",
+      "topic": "Training",
       "count": 0
     },
     {
@@ -90,20 +60,20 @@
     {
       "date": "2026-11-02",
       "dayOfWeek": "Mon",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
       "topic": "Product",
       "count": 0
     },
     {
       "date": "2026-11-02",
       "dayOfWeek": "Mon",
-      "topic": "Models",
+      "topic": "Training",
       "count": 0
-    },
-    {
-      "date": "2026-11-03",
-      "dayOfWeek": "Tue",
-      "topic": "Tooling",
-      "count": 3
     },
     {
       "date": "2026-11-03",
@@ -114,13 +84,25 @@
     {
       "date": "2026-11-03",
       "dayOfWeek": "Tue",
+      "topic": "Tooling",
+      "count": 3
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
       "topic": "Product",
       "count": 2
     },
     {
       "date": "2026-11-03",
       "dayOfWeek": "Tue",
-      "topic": "Models",
+      "topic": "Training",
+      "count": 2
+    },
+    {
+      "date": "2026-11-04",
+      "dayOfWeek": "Wed",
+      "topic": "Infra",
       "count": 0
     },
     {
@@ -132,19 +114,19 @@
     {
       "date": "2026-11-04",
       "dayOfWeek": "Wed",
-      "topic": "Infra",
-      "count": 0
-    },
-    {
-      "date": "2026-11-04",
-      "dayOfWeek": "Wed",
       "topic": "Product",
       "count": 0
     },
     {
       "date": "2026-11-04",
       "dayOfWeek": "Wed",
-      "topic": "Models",
+      "topic": "Training",
+      "count": 0
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Infra",
       "count": 0
     },
     {
@@ -156,32 +138,26 @@
     {
       "date": "2026-11-05",
       "dayOfWeek": "Thu",
-      "topic": "Infra",
-      "count": 0
-    },
-    {
-      "date": "2026-11-05",
-      "dayOfWeek": "Thu",
       "topic": "Product",
       "count": 1
     },
     {
       "date": "2026-11-05",
       "dayOfWeek": "Thu",
-      "topic": "Models",
-      "count": 1
+      "topic": "Training",
+      "count": 0
     },
     {
       "date": "2026-11-06",
       "dayOfWeek": "Fri",
-      "topic": "Tooling",
+      "topic": "Infra",
       "count": 3
     },
     {
       "date": "2026-11-06",
       "dayOfWeek": "Fri",
-      "topic": "Infra",
-      "count": 2
+      "topic": "Tooling",
+      "count": 5
     },
     {
       "date": "2026-11-06",
@@ -192,18 +168,75 @@
     {
       "date": "2026-11-06",
       "dayOfWeek": "Fri",
-      "topic": "Models",
+      "topic": "Training",
       "count": 2
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Infra",
+      "count": 2
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Tooling",
+      "count": 1
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Product",
+      "count": 1
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Training",
+      "count": 1
     }
   ],
   "topIssues": [
     {
       "id": "ai-1",
       "status": "NEW",
-      "title": "엔비디아 Cosmos 3: 상호작용형 세계 시뮬레이션 오픈 모델 공개",
-      "summary": "엔비디아가 물리, 그래픽, 에이전트 행동을 결합한 오픈 모델 Cosmos 3를 발표해 상호작용형 세계 시뮬레이션을 한층 정교하게 구현할 수 있게 했다. 이를 통해 로보틱스, 게임, 가상환경에서 현실감 있는 시뮬레이션과 실험을 빠르게 반복할 수 있는 기반이 강화되고 있다.",
+      "title": "차세대 GPU 최적화로 실시간에 가까운 이미지 생성 가속",
+      "summary": "NVIDIA Blackwell GPU에서 FLUX 3 Image Klein 확산 모델을 최적화해 이미지 생성 지연 시간을 대폭 줄였다. 이를 통해 디자인 툴·이미지 편집기·비주얼 제작 워크플로우에서 사실상 실시간에 가까운 고품질 이미지 생성이 가능해지며, 멀티모달·창작형 서비스의 반응성을 크게 높일 수 있다.",
       "articleCount": 1,
       "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
+          "url": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/"
+        }
+      ]
+    },
+    {
+      "id": "ai-2",
+      "status": "ONGOING",
+      "title": "강화학습 파이프라인 병목 제거를 위한 가중치 리핏 가속",
+      "summary": "NVIDIA의 Reshard Collective는 RL 포스트트레이닝 단계에서 실시간으로 생성되는 트레이젝토리와 병렬로 가중치 리핏을 수행해 학습·추론 병목을 줄인다. 대규모 RL 기반 에이전트 서비스에서 학습 주기를 단축하고 온라인/온디바이스 적응형 모델 업데이트를 더 실용적으로 만드는 방향의 성능 최적화 흐름이 이어지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Accelerating Reinforcement Learning Weight Refit with the Reshard Collective",
+          "url": "https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective/"
+        }
+      ]
+    },
+    {
+      "id": "ai-3",
+      "status": "NEW",
+      "title": "로봇 학습용 표준화 시뮬레이션 환경과 세계 시뮬레이션 오픈 모델 등장",
+      "summary": "Hugging Face의 ToyBlocks는 재현 가능한 태스크·평가지표·파이프라인을 갖춘 로봇 학습용 통제 환경을 제공하며, NVIDIA의 Cosmos 3 오픈 모델은 물리·그래픽·에이전트 행동을 결합한 상호작용형 세계 시뮬레이션을 지원한다. 두 기술 모두 로보틱스와 에이전트 연구에서 시뮬레이션 기반 학습·평가를 정교하게 만들고, 게임·가상환경 제작까지 활용 범위를 넓히는 방향의 업데이트다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+          "url": "https://huggingface.co/blog/allenai/toyblocks"
+        },
         {
           "source": "Hugging Face Blog",
           "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
@@ -212,10 +245,10 @@
       ]
     },
     {
-      "id": "ai-2",
+      "id": "ai-4",
       "status": "ONGOING",
-      "title": "AI 팩토리 메모리 효율 극대화: 엔비디아 하드웨어·소프트웨어 공동설계 전략",
-      "summary": "대규모 AI 클러스터에서 HBM 메모리 활용 효율을 끌어올리기 위한 엔비디아의 공동설계(Co-design) 접근이 계속 고도화되고 있다. 중복 가중치 제거, 압축 및 저정밀 연산, 메모리 계층 구조와 스케줄링 최적화 등 다섯 가지 기법을 결합해 동일 인프라에서 더 큰 모델과 더 많은 작업을 처리하려는 흐름이 이어지는 중이다.",
+      "title": "AI 팩토리 메모리·하드웨어 공동설계로 비용 효율 극대화",
+      "summary": "NVIDIA는 AI 팩토리에서 HBM 메모리 활용 가치를 높이기 위해 중복 가중치 제거, 압축·저정밀 연산, 메모리 계층·스케줄링 최적화 등 다섯 가지 공동설계 전략을 제시했다. 이는 초거대 모델 훈련·추론에서 메모리 병목을 줄이고, 동일 인프라에서 더 많은 파라미터와 워크로드를 처리하려는 장기적인 인프라 최적화 추세와 맞닿아 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -226,49 +259,21 @@
       ]
     },
     {
-      "id": "ai-3",
+      "id": "ai-5",
       "status": "NEW",
-      "title": "PDD Kit: 에이전트 생성 풀스택 웹앱의 정형 검증 도구",
-      "summary": "마이크로소프트가 공개한 PDD Kit은 에이전트가 작성한 풀스택 웹 애플리케이션 코드를 개발자 의도에 맞춰 형식 명세로 변환하고, Verus 기반 정형 검증으로 모든 입력에 대해 기대 동작을 만족하는지 증명하는 툴이다. 증명이 어려운 부분은 테스트로 보완해, 에이전트 코딩 시대에 안정성과 신뢰성을 높이는 실험적 접근으로 주목받고 있다.",
-      "articleCount": 1,
+      "title": "AI 시스템 보안 강화: 레드팀 파트너십과 정형 검증 기반 코드 검증",
+      "summary": "OpenAI는 보안 스타트업 Hacktron과 협력해 서드파티 연동을 포함한 시스템 공격 표면을 점검하고, Microsoft Research의 PDD Kit은 에이전트가 생성한 풀스택 웹 앱을 형식 명세로 검증해 의도한 동작을 보장한다. 외부 레드팀 및 정형 검증 도구를 결합해 AI 시스템의 취약점 탐지와 AI 생성 코드의 신뢰성을 동시에 끌어올리려는 보안·안전 강화 움직임이 부각되고 있다.",
+      "articleCount": 2,
       "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+          "url": "https://openai.com/index/partnering-with-hacktron"
+        },
         {
           "source": "Microsoft Research Blog",
           "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
           "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/"
-        }
-      ]
-    },
-    {
-      "id": "ai-4",
-      "status": "ONGOING",
-      "title": "분산 학습 안정성 향상: 자동 복구와 장애 원인 추적 도구 확산",
-      "summary": "대규모 분산 학습에서 빈번한 노드·네트워크 장애를 줄이기 위해 엔비디아는 자동 워크로드 복구와 텔레메트리 기반 원인 추적 도구를 연이어 소개하고 있다. 체크포인트 복원 및 재스케줄링으로 학습을 자동 재개하는 워크플로와, GPU·패브릭 이벤트를 NCCL 오류·스케줄러 상태와 상호 연관해 단일 고장점을 식별하는 Attribution 도구가 함께 사용되며, 운영 관점에서의 AI 인프라 신뢰성이 점진적으로 강화되는 추세다.",
-      "articleCount": 2,
-      "relatedArticles": [
-        {
-          "source": "NVIDIA Developer Blog",
-          "title": "Keep Distributed Training Running with Automated Workload Recovery",
-          "url": "https://developer.nvidia.com/blog/keep-distributed-training-running-with-automated-workload-recovery/"
-        },
-        {
-          "source": "NVIDIA Developer Blog",
-          "title": "Diagnose Distributed AI Workload Failures with NVIDIA Attribution",
-          "url": "https://developer.nvidia.com/blog/diagnose-distributed-ai-workload-failures-with-nvidia-attribution/"
-        }
-      ]
-    },
-    {
-      "id": "ai-5",
-      "status": "NEW",
-      "title": "Gemini Omni 1.2 Flash: 더 빠르고 저렴해진 장기 멀티모달 추론",
-      "summary": "Google DeepMind는 Gemini Omni 1.2 Flash를 통해 멀티모달 추론 비용과 지연 시간을 크게 낮추면서도 더 긴 비디오·오디오 클립을 다룰 수 있는 모델을 선보였다. 고성능 플래그십과 경량 추론 모델 사이에서, 장기 컨텍스트 멀티모달 애플리케이션을 경제적으로 운영할 수 있는 실용 모델 구간이 넓어지고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Google DeepMind Blog",
-          "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-          "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/"
         }
       ]
     }

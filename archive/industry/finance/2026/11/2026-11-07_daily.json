@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-07",
+  "highlights": {
+    "bullets": [
+      "핵심: 미래에셋증권에서 고객 3,800명의 계좌번호 등 정보가 유출됐다.",
+      "핵심: 임직원 약 3만5,000명이 공격 대상이었고 공격에 AI 에이전트 활용이 추정된다."
+    ],
+    "topTopics": [
+      "MarketInfra",
+      "Policy",
+      "Compliance",
+      "Fintech"
+    ],
+    "stats": {
+      "collected": 15,
+      "deduped": 15
+    }
+  },
+  "cards": [
+    {
+      "id": "finance_0001",
+      "tab": "finance",
+      "publishedAt": "2026-11-07T09:22:20+09:00",
+      "source": "매일경제(증권)",
+      "title": "은행·보험사 이어 미래에셋증권까지···연쇄 해킹에 시달리는 금융사",
+      "summary": [
+        "미래에셋증권에서 고객 3,800명의 계좌번호 등 정보유출이 발생했다.",
+        "임직원 약 3만5,000명이 공격 대상이었고 공격에는 AI 에이전트 활용이 추정된다.",
+        "이번 사건은 KB·신한은행을 시작으로 보험사, 증권사, 가상자산까지 확산된 연쇄 해킹의 일환이다."
+      ],
+      "whyItMatters": "금융 전반으로 확산되는 데이터 유출과 AI 기반 공격은 고객 피해와 금융 신뢰·안정성 저하를 초래해 신속한 규제·대응 강화가 필요하다.",
+      "topics": [
+        "Security",
+        "Privacy",
+        "Fintech",
+        "Compliance"
+      ],
+      "status": "ONGOING",
+      "hash": "52c9b2bb50510da82f4204fb3588f7276acd05af043dcdaab67221c408384f9b",
+      "url": "https://www.mk.co.kr/news/stock/12201388"
+    },
+    {
+      "id": "finance_0002",
+      "tab": "finance",
+      "publishedAt": "2026-11-07T07:42:58+09:00",
+      "source": "매일경제(증권)",
+      "title": "[속보] 미래에셋증권도 해킹 당해…“고객·임직원 정보 일부 유출”",
+      "summary": [
+        "미래에셋증권이 해킹을 당해 고객·임직원 정보 일부가 유출됐다.",
+        "사건은 11월 4~5일 모바일웹 휴대폰 인증 로그인 서비스와 그룹웨어에서 발생했다.",
+        "금융권 연쇄 해킹 가운데 추가 피해 우려가 제기되며 조사와 대응이 진행 중이다."
+      ],
+      "whyItMatters": "금융회사 개인정보 유출은 고객 신뢰와 시장 안정성에 직결되므로 신속한 대응과 보안·규제 점검이 필요하다.",
+      "topics": [
+        "Security",
+        "Privacy",
+        "Fintech",
+        "Compliance"
+      ],
+      "status": "ONGOING",
+      "hash": "144378f7932555a41c99f7f8af4d9c53ec6bba18cb23f63a025d257f220f287f",
+      "url": "https://www.mk.co.kr/news/economy/12201367"
+    }
+  ]
+}

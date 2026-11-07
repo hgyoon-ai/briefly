@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "highlights": {
     "bullets": [
-      "핵심: 포드 F-150 라이트닝 중고차가 약 50% 할인된 가격에 빠르게 판매되고 있다.",
-      "핵심: 테슬라는 사이버캡 관련 선서 답변을 NHTSA에 제출하며 전면 비공개를 요청했다."
+      "핵심: 테슬라는 2027년 중반까지 텍사스 공장에서 사이버트럭 생산을 단계적으로 중단할 계획입니다.",
+      "핵심: 테슬라는 미국에서 사이버트럭 가격을 최대 10% 인상하고 듀얼 모터 AWD 기본 트림 주문을 중단했습니다."
     ],
     "topTopics": [
       "Roadmap",
@@ -20,44 +20,45 @@
     {
       "id": "ev_0001",
       "tab": "ev",
-      "publishedAt": "2026-11-06T07:17:39+09:00",
+      "publishedAt": "2026-11-06T20:33:25+09:00",
       "source": "Electrek",
-      "title": "Ford’s electric pickup is suddenly selling like hotcakes at 50% off used",
+      "title": "Tesla to end Cybertruck production as sales stall at ~10% of plan",
       "summary": [
-        "포드 F-150 라이트닝 중고차가 약 50% 할인된 가격에 빠르게 판매되고 있다.",
-        "한때 인기 있던 전기 픽업이 중고시장에 대거 등장하며 거래가 활발해졌다.",
-        "급격한 가격 하락은 잔존가치와 브랜드 수익성, 소비자 인식에 영향을 줄 수 있다."
+        "테슬라는 2027년 중반까지 텍사스 공장에서 사이버트럭 생산을 단계적으로 중단할 계획입니다.",
+        "공식 이유는 사이버캡 생산 확대 공간 확보이지만, 실제로는 연 25만대 설비 대비 약 10% 수준의 부진한 판매가 핵심 원인으로 보입니다.",
+        "사이버트럭 단종은 테슬라의 제품 포트폴리오 조정과 자본·라인을 보다 수익성 높은 모델로 재배치하려는 전략으로 해석됩니다."
       ],
-      "whyItMatters": "대규모 할인으로 중고 수요가 급증해 시장 구조와 포드의 수익성에 즉각적 영향을 미치고 있기 때문이다.",
+      "whyItMatters": "테슬라가 대규모 투자와 상징성이 컸던 사이버트럭 생산을 조기 종료하면서 수요 부진과 제품 전략 전환이 드러나 향후 실적과 밸류에이션에 의미 있는 영향을 줄 수 있기 때문입니다.",
       "topics": [
         "Demand",
-        "Competition"
+        "Manufacturing",
+        "Roadmap"
       ],
       "status": "SHIFTING",
-      "hash": "a057770c52c40025a258bc91ff6781cb74e8dfe31615ddccd3c7729cbd11bb9a",
-      "url": "https://electrek.co/2026/11/05/fords-electric-pickup-selling-like-hotcakes-50-off-used/"
+      "hash": "c028f5b07eebe5e3e567d8e8284335bb3331ba3ba20b16113f32542a0f97fc19",
+      "url": "https://electrek.co/2026/11/06/tesla-ending-cybertruck-production-sales-10-percent-plan/"
     },
     {
       "id": "ev_0002",
       "tab": "ev",
-      "publishedAt": "2026-11-06T03:32:57+09:00",
+      "publishedAt": "2026-11-06T23:03:57+09:00",
       "source": "Electrek",
-      "title": "Tesla wants its sworn Cybercab answers to NHTSA kept entirely secret",
+      "title": "Tesla hikes Cybertruck prices up to 10% after announcing it will kill production",
       "summary": [
-        "테슬라는 사이버캡이 연방법 안전 기준을 충족한다는 선서 답변을 NHTSA에 제출하며 전면 기밀 유지를 요청했다.",
-        "공개된 내용은 소방관용 30페이지 안전 가이드뿐이며, 인증 근거와 기술 세부 사항은 모두 비공개 처리됐다.",
-        "핸들·페달·거울이 없는 차량의 안전 규제 적합성 검증이 투명성 논란과 규제 리스크로 이어질 가능성이 있다."
+        "테슬라는 미국에서 사이버트럭 가격을 최대 10% 인상했고, 듀얼 모터 AWD 기본 트림 주문을 중단했습니다.",
+        "현재 고객이 실제로 주문할 수 있는 가장 저렴한 사이버트럭은 9만2,490달러 수준입니다.",
+        "이번 조치는 2027년 중반 텍사스 기가팩토리에서 사이버트럭 생산을 종료하겠다고 밝힌 직후에 나왔습니다."
       ],
-      "whyItMatters": "완전자율주행 기반 로보택시 상용화의 핵심인 안전 규제 적합성과 규제 당국과의 긴장이 향후 사업 추진과 일정에 큰 영향을 줄 수 있기 때문이다.",
+      "whyItMatters": "생산 종료가 예고된 모델의 가격을 인상하고 저가 트림을 없애면서 수익성 극대화 및 제품 포트폴리오 조정 의도가 드러나 향후 테슬라 전기 픽업 전략과 수요·경쟁 구도에 영향을 줄 수 있기 때문입니다.",
       "topics": [
-        "Policy",
+        "Earnings",
+        "Demand",
         "Roadmap",
-        "Investment",
         "Competition"
       ],
-      "status": "ONGOING",
-      "hash": "e13ff33a0ad4441ace7dd50badf1b0353cfb3c012421cce9806ce6169d2183f2",
-      "url": "https://electrek.co/2026/11/05/tesla-cybercab-nhtsa-sworn-answers-confidential/"
+      "status": "SHIFTING",
+      "hash": "35d3ba6ff4b6dc9170f7f11c1cd28525f80d2f8461f5bce546486ffc18d72362",
+      "url": "https://electrek.co/2026/11/06/tesla-raises-cybertruck-prices-after-ending-production/"
     }
   ]
 }

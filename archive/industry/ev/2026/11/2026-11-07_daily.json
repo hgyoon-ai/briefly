@@ -1,0 +1,64 @@
+{
+  "date": "2026-11-07",
+  "highlights": {
+    "bullets": [
+      "핵심: 테슬라는 2027년 중반까지 텍사스 공장에서 사이버트럭 생산을 단계적으로 중단할 계획입니다.",
+      "핵심: 테슬라는 미국에서 사이버트럭 가격을 최대 10% 인상하고 듀얼 모터 AWD 기본 트림 주문을 중단했습니다."
+    ],
+    "topTopics": [
+      "Roadmap",
+      "Demand",
+      "Competition",
+      "Investment"
+    ],
+    "stats": {
+      "collected": 15,
+      "deduped": 15
+    }
+  },
+  "cards": [
+    {
+      "id": "ev_0001",
+      "tab": "ev",
+      "publishedAt": "2026-11-06T20:33:25+09:00",
+      "source": "Electrek",
+      "title": "Tesla to end Cybertruck production as sales stall at ~10% of plan",
+      "summary": [
+        "테슬라는 2027년 중반까지 텍사스 공장에서 사이버트럭 생산을 단계적으로 중단할 계획입니다.",
+        "공식 이유는 사이버캡 생산 확대 공간 확보이지만, 실제로는 연 25만대 설비 대비 약 10% 수준의 부진한 판매가 핵심 원인으로 보입니다.",
+        "사이버트럭 단종은 테슬라의 제품 포트폴리오 조정과 자본·라인을 보다 수익성 높은 모델로 재배치하려는 전략으로 해석됩니다."
+      ],
+      "whyItMatters": "테슬라가 대규모 투자와 상징성이 컸던 사이버트럭 생산을 조기 종료하면서 수요 부진과 제품 전략 전환이 드러나 향후 실적과 밸류에이션에 의미 있는 영향을 줄 수 있기 때문입니다.",
+      "topics": [
+        "Demand",
+        "Manufacturing",
+        "Roadmap"
+      ],
+      "status": "SHIFTING",
+      "hash": "c028f5b07eebe5e3e567d8e8284335bb3331ba3ba20b16113f32542a0f97fc19",
+      "url": "https://electrek.co/2026/11/06/tesla-ending-cybertruck-production-sales-10-percent-plan/"
+    },
+    {
+      "id": "ev_0002",
+      "tab": "ev",
+      "publishedAt": "2026-11-06T23:03:57+09:00",
+      "source": "Electrek",
+      "title": "Tesla hikes Cybertruck prices up to 10% after announcing it will kill production",
+      "summary": [
+        "테슬라는 미국에서 사이버트럭 가격을 최대 10% 인상했고, 듀얼 모터 AWD 기본 트림 주문을 중단했습니다.",
+        "현재 고객이 실제로 주문할 수 있는 가장 저렴한 사이버트럭은 9만2,490달러 수준입니다.",
+        "이번 조치는 2027년 중반 텍사스 기가팩토리에서 사이버트럭 생산을 종료하겠다고 밝힌 직후에 나왔습니다."
+      ],
+      "whyItMatters": "생산 종료가 예고된 모델의 가격을 인상하고 저가 트림을 없애면서 수익성 극대화 및 제품 포트폴리오 조정 의도가 드러나 향후 테슬라 전기 픽업 전략과 수요·경쟁 구도에 영향을 줄 수 있기 때문입니다.",
+      "topics": [
+        "Earnings",
+        "Demand",
+        "Roadmap",
+        "Competition"
+      ],
+      "status": "SHIFTING",
+      "hash": "35d3ba6ff4b6dc9170f7f11c1cd28525f80d2f8461f5bce546486ffc18d72362",
+      "url": "https://electrek.co/2026/11/06/tesla-raises-cybertruck-prices-after-ending-production/"
+    }
+  ]
+}

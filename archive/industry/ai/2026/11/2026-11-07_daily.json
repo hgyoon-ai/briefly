@@ -1,0 +1,109 @@
+{
+  "date": "2026-11-07",
+  "highlights": {
+    "bullets": [
+      "핵심: 강화학습 포스트트레이닝에서 가중치 리핏 연산을 가속하는 기술이 도입되었습니다.",
+      "핵심: 로봇 학습과 평가를 위한 통제된 시뮬레이션 환경이 공개되어 표준화된 실험을 제공합니다.",
+      "트렌드: 학습 및 추론, 보안과 평가 측면에서 인프라와 도구 개선이 공통적으로 강조되었습니다."
+    ],
+    "topTopics": [
+      "Tooling",
+      "Infra",
+      "Training",
+      "Inference"
+    ],
+    "stats": {
+      "collected": 4,
+      "deduped": 4
+    }
+  },
+  "cards": [
+    {
+      "id": "ai_0001",
+      "tab": "ai",
+      "publishedAt": "2026-11-07T03:03:26+09:00",
+      "source": "NVIDIA Developer Blog",
+      "title": "Accelerating Reinforcement Learning Weight Refit with the Reshard Collective",
+      "summary": [
+        "NVIDIA가 RL 포스트트레이닝에서 가중치 리핏(refit) 연산을 가속하는 'Reshard Collective'를 소개했습니다.",
+        "이 기술은 추론으로 실시간 생성되는 트레이젝토리와 병행해 가중치를 빠르게 재분배해 학습·추론 병목을 줄입니다.",
+        "대규모 다중 GPU/노드 환경에서 재분할 오버헤드를 낮춰 처리량 증가와 지연 감소를 기대할 수 있습니다."
+      ],
+      "whyItMatters": "실시간 정책 업데이트가 필요한 대규모 RL 파이프라인에서 가중치 재배치 비용이 성능 병목이기 때문에 이를 줄이는 것이 효율성에 큰 영향을 줍니다.",
+      "topics": [
+        "Training",
+        "Inference",
+        "Infra",
+        "Tooling"
+      ],
+      "status": "ONGOING",
+      "hash": "e20e4a2681dc2afc642f4cf8d36844950d2a5025c452e864186307cab7c489fb",
+      "url": "https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective/"
+    },
+    {
+      "id": "ai_0002",
+      "tab": "ai",
+      "publishedAt": "2026-11-06T23:00:48+09:00",
+      "source": "Hugging Face Blog",
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "summary": [
+        "Hugging Face가 로봇 학습과 평가를 위한 통제된 시뮬레이션 환경 'ToyBlocks'를 공개했습니다.",
+        "ToyBlocks는 표준화된 태스크와 평가 지표, 재현 가능한 실험 파이프라인을 제공합니다.",
+        "오픈 소스 인터페이스와 데이터 연동으로 연구자와 엔지니어의 벤치마킹·협업을 지원합니다."
+      ],
+      "whyItMatters": "로봇 학습의 재현성과 벤치마크 일관성을 높여 연구 및 제품 개발 속도를 가속할 수 있기 때문입니다.",
+      "topics": [
+        "Research",
+        "Tooling",
+        "Training",
+        "Data"
+      ],
+      "status": "NEW",
+      "hash": "5a90caffb2c87d2e6e8eb5c3f6e99436fe1d4b1da4789f4c2ad70b79f5a9dd5d",
+      "url": "https://huggingface.co/blog/allenai/toyblocks"
+    },
+    {
+      "id": "ai_0003",
+      "tab": "ai",
+      "publishedAt": "2026-11-06T17:00:00+09:00",
+      "source": "OpenAI Blog",
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "summary": [
+        "OpenAI가 보안 스타트업 Hacktron과 협력해 자사 시스템의 취약점을 찾아냅니다.",
+        "서드파티 서비스와의 연결을 테스트하고 공격 표면을 점검합니다.",
+        "최첨단 AI 기법을 활용해 방어체계를 강화하고 보안 대응을 개선합니다."
+      ],
+      "whyItMatters": "제3자 연동 보안과 플랫폼 취약점 개선을 통해 서비스 안전성과 신뢰도를 신속히 높여야 하기 때문입니다.",
+      "topics": [
+        "Safety",
+        "Infra",
+        "Tooling"
+      ],
+      "status": "NEW",
+      "hash": "a0a44ed09dc9a1089b4e099f4e0fbf8e71ea906b8e386a1df3e114e9f9678292",
+      "url": "https://openai.com/index/partnering-with-hacktron"
+    },
+    {
+      "id": "ai_0004",
+      "tab": "ai",
+      "publishedAt": "2026-11-07T07:20:20+09:00",
+      "source": "NVIDIA Developer Blog",
+      "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
+      "summary": [
+        "NVIDIA Blackwell GPU에서 FLUX 3 Image Klein 확산 모델 추론 속도를 크게 높이는 최적화 방법을 소개한다.",
+        "디자인 툴, 이미지 편집기, 비주얼 제작 워크플로우에서 실시간에 가까운 이미지 생성이 가능하도록 지연 시간을 줄이는 것이 핵심이다.",
+        "하드웨어 특화 커널 및 추론 파이프라인 튜닝을 통해 고품질 이미지를 유지하면서도 생성 효율을 극대화한다."
+      ],
+      "whyItMatters": "대규모 생성형 이미지 워크로드가 상용 서비스와 제작 툴에 빠르게 확산되는 상황에서, Blackwell 기반 최적화는 추론 비용 절감과 실시간 사용자 경험 확보에 직접적인 영향을 주기 때문이다.",
+      "topics": [
+        "Inference",
+        "Models",
+        "Infra",
+        "Product"
+      ],
+      "status": "NEW",
+      "hash": "a6bcd182b2895683681b649d87c6c94c1dfa7acee7e907218eae4df264f8a241",
+      "url": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/"
+    }
+  ]
+}

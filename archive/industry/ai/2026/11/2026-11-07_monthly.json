@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-10-09",
+    "to": "2026-11-07"
+  },
+  "kpis": {
+    "collected": 68,
+    "deduped": 68,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "Tooling": 26,
+      "Product": 22,
+      "Models": 19,
+      "Infra": 17,
+      "Research": 16,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/09-10/15)",
+      "topicCounts": {
+        "Tooling": 11,
+        "Product": 11,
+        "Models": 11,
+        "Infra": 7,
+        "Research": 7
+      }
+    },
+    {
+      "week": "Week 2 (10/16-10/22)",
+      "topicCounts": {
+        "Tooling": 9,
+        "Product": 10,
+        "Models": 7,
+        "Infra": 3,
+        "Research": 8
+      }
+    },
+    {
+      "week": "Week 3 (10/23-10/29)",
+      "topicCounts": {
+        "Tooling": 10,
+        "Product": 8,
+        "Models": 6,
+        "Infra": 6,
+        "Research": 4
+      }
+    },
+    {
+      "week": "Week 4 (10/30-11/05)",
+      "topicCounts": {
+        "Tooling": 3,
+        "Product": 2,
+        "Models": 0,
+        "Infra": 4,
+        "Research": 0
+      }
+    },
+    {
+      "week": "Week 5 (11/06-11/07)",
+      "topicCounts": {
+        "Tooling": 3,
+        "Product": 1,
+        "Models": 1,
+        "Infra": 3,
+        "Research": 1
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "ai-1",
+      "status": "NEW",
+      "title": "차세대 GPU 최적화로 실시간에 가까운 이미지 생성 가속",
+      "summary": "NVIDIA Blackwell GPU에서 FLUX 3 Image Klein 확산 모델을 최적화해 지연 시간을 크게 줄이고, 디자인 툴·이미지 편집기 등에서 실시간에 가까운 고속 이미지 생성을 구현하는 추론 가속 기법이 제안되었습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
+          "url": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/"
+        }
+      ]
+    },
+    {
+      "id": "ai-2",
+      "status": "ONGOING",
+      "title": "Reshard Collective로 강화학습 포스트트레이닝 병목 해소",
+      "summary": "NVIDIA는 RL 포스트트레이닝에서 실시간으로 생성되는 트레이젝토리와 병행해 가중치 리핏을 고속 처리하는 Reshard Collective를 도입해, 대규모 강화학습의 학습·추론 병목을 줄이는 분산 학습 인프라 개선 방향을 제시했습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Accelerating Reinforcement Learning Weight Refit with the Reshard Collective",
+          "url": "https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective/"
+        }
+      ]
+    },
+    {
+      "id": "ai-3",
+      "status": "NEW",
+      "title": "표준화된 로봇 학습·평가용 시뮬레이션 환경 ToyBlocks 공개",
+      "summary": "Hugging Face의 ToyBlocks는 통제된 3D 환경에서 로봇 태스크를 표준화된 지표와 재현 가능한 파이프라인으로 평가할 수 있게 해, 로봇 강화학습·조작 연구의 벤치마크와 실험 재현성을 강화합니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+          "url": "https://huggingface.co/blog/allenai/toyblocks"
+        }
+      ]
+    },
+    {
+      "id": "ai-4",
+      "status": "NEW",
+      "title": "Cosmos 3 오픈 모델로 상호작용형 세계 시뮬레이션 가속",
+      "summary": "NVIDIA Cosmos 3는 물리·그래픽·에이전트 행동을 통합한 오픈 시뮬레이션 모델로, 상호작용형 세계 모델링을 통해 로보틱스, 게임 개발, 에이전트 연구에 활용 가능한 범용 시뮬레이션 인프라를 제공합니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+          "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"
+        }
+      ]
+    },
+    {
+      "id": "ai-5",
+      "status": "ONGOING",
+      "title": "AI 팩토리에서 메모리 효율 극대화를 위한 하드웨어·소프트웨어 공동설계",
+      "summary": "엔비디아는 HBM 메모리 활용을 극대화하기 위해 가중치 중복 제거, 압축·저정밀 연산, 메모리 계층 구조·스케줄링 최적화 등 다섯 가지 공설계 전략을 소개하며, 대규모 AI 팩토리의 비용·성능 균형 최적화 흐름이 지속되고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory",
+          "url": "https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory/"
+        }
+      ]
+    }
+  ]
+}
