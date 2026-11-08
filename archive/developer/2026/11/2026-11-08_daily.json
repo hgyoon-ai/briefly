@@ -1,0 +1,630 @@
+{
+  "date": "2026-11-08",
+  "kpis": {
+    "clusters": 20,
+    "sources": 2,
+    "new": 18
+  },
+  "clusters": [
+    {
+      "id": "734c308d80b65e4cb5378c9b2818987c24c7ce13",
+      "name": "Every Mac comes with an (undocumented) family member classifier",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 765.6,
+      "oneLiner": "모든 Mac에 문서화되지 않은 가족 구성원 분류기가 포함되었음을 다룬 글.",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "590p · 343c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50403097"
+        },
+        {
+          "label": "Source",
+          "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "6de8bd901974d67eae4e27034e3519d950a1bce9",
+      "name": "Need for Speed Underground 2 online in the browser",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 750.6,
+      "oneLiner": "브라우저에서 Need for Speed Underground 2를 온라인으로 구현한 프로젝트.",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "801p · 225c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50403052"
+        },
+        {
+          "label": "Source",
+          "url": "https://nfsu2.xyz/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "4ffb1718dc6952c7592078ceb54faca32a1a9807",
+      "name": "Asahi Linux Progress Linux 7.3",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 496.2,
+      "oneLiner": "Asahi Linux의 진행 보고서 7.3을 안내하는 글.",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "315p · 256c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50401867"
+        },
+        {
+          "label": "Source",
+          "url": "https://asahilinux.org/2026/11/progress-report-7-3/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "40088af6e3acb7afced47636e1fb20791f089691",
+      "name": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 481.8,
+      "oneLiner": "iPhone이 맞춤법 도움을 제공하지 않는 단어와 구절을 다룬 기사.",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "341p · 231c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50406111"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "d7f1bf3fda820b40f65552e2b67d56b099f7c4c1",
+      "name": "The end of Microsoft Research's AI Frontiers group",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 471.6,
+      "oneLiner": "Microsoft Research의 AI Frontiers 그룹 종료 소식을 전하는 글.",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "366p · 210c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50406563"
+        },
+        {
+          "label": "Source",
+          "url": "https://hunch.net/?p=13764006"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "69e4d917baa512b339af9c1e2b3fba9676ef5463",
+      "name": "Upload Your RAM",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 455.4,
+      "oneLiner": "Upload Your RAM 프로젝트를 소개하는 링크.",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "265p · 247c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50403214"
+        },
+        {
+          "label": "Source",
+          "url": "https://uploadyourram.org"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "9198ec35ac7141f8d46bf0a4b38e2d5bc2867c1c",
+      "name": "Every Windows 11 app should kill Electron, and Discord just showed why",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 376.2,
+      "oneLiner": "Windows 11 앱이 Electron을 대체해야 한다는 주장을 다룬 글.",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "209p · 209c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50403507"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "173b6ec64d38aa2717292b96e2c6ddd3c5e37d8d",
+      "name": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 348.0,
+      "oneLiner": "고대 DNA로 한 부족의 신화적 기원 이야기가 사실임을 밝힌 연구를 다룬 기사.",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "208p · 186c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50401740"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "6e925b4f8821abf82f8c1d7c51a60d4ab20bedf9",
+      "name": "What I run on my $10 USD OpenStick homelab",
+      "section": "trending",
+      "status": "NEW",
+      "score": 290.4,
+      "oneLiner": "$10 OpenStick 홈랩에서 무엇을 운영하는지 정리한 글.",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "324p · 80c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50406670"
+        },
+        {
+          "label": "Source",
+          "url": "https://blog.bosscher.ch/posts/openstick/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "e12c1941a4b194561cf5d24229ce26bb605d311d",
+      "name": "Running a law firm on Free software",
+      "section": "trending",
+      "status": "NEW",
+      "score": 276.0,
+      "oneLiner": "자유 소프트웨어로 법률 회사를 운영한 경험을 소개한 글.",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "232p · 114c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50403066"
+        },
+        {
+          "label": "Source",
+          "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "264a6d3dba55dffcc9b65a98a25dec090faaf909",
+      "name": "They don't make 'em like that any more: Borland Turbo Pascal 7",
+      "section": "trending",
+      "status": "NEW",
+      "score": 238.2,
+      "oneLiner": "Borland Turbo Pascal 7에 관한 회고와 소개를 다룬 글.",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "187p · 105c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50405678"
+        },
+        {
+          "label": "Source",
+          "url": "https://kevinboone.me/tpwin.html"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "51d604e5ccfcfcced062cdd0a75740a680f1f491",
+      "name": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "section": "trending",
+      "status": "NEW",
+      "score": 228.6,
+      "oneLiner": "Claude Code의 Dont Ask Again 기능이 공개 GitHub 파일에서 비밀번호를 노출한 사례를 다룬 글.",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "161p · 110c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50407882"
+        },
+        {
+          "label": "Source",
+          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "22cbd790b1d37a9d493aa2b73a2b9cadee645845",
+      "name": "The $8 Linux Computer (2022)",
+      "section": "trending",
+      "status": "NEW",
+      "score": 217.2,
+      "oneLiner": "2022년 제작된 8달러 Linux 컴퓨터 프로젝트를 소개한 글.",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 블로그 해석과 후기가 빠르게 붙는 흐름입니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "194p · 84c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50404599"
+        },
+        {
+          "label": "Source",
+          "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "3980f17392621c4f059619cd6def0be91aee122a",
+      "name": "KKKKhazix/agent-autoloop",
+      "section": "releases",
+      "status": "ONGOING",
+      "score": 192.88,
+      "oneLiner": "명령줄 에이전트가 백그라운드에서 스스로 작업을 처리하고 필요시 알림을 보내는 도구.",
+      "whyNow": "새 릴리즈 영향으로 관심이 재점화되고 있습니다. 워크플로우 자동화 관점에서 재평가가 진행 중입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "3,961"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "722"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-08"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v1.6.3"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/KKKKhazix/agent-autoloop"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/KKKKhazix/agent-autoloop/releases/tag/v1.6.3"
+        }
+      ],
+      "tags": [
+        "agent tooling"
+      ]
+    },
+    {
+      "id": "1272d736d04bc747b7c7f58ecb8aae3b2af90ada",
+      "name": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+      "section": "trending",
+      "status": "NEW",
+      "score": 181.2,
+      "oneLiner": "MaxxBench의 DeepSWE 점수 신뢰성을 검토하는 글.",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "190p · 56c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50406222"
+        },
+        {
+          "label": "Source",
+          "url": "https://maxxbench.unlap.ai/research/why-maxxbench/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "f2cfef3449d6b64c5d49e0298dc80e87f6dbfd6b",
+      "name": "hedgerow-dev/coldframe",
+      "section": "trending",
+      "status": "NEW",
+      "score": 162.08,
+      "oneLiner": "슈퍼마켓 냉장 제어기를 위한 저상호작용 허니팟 도구 저장소.",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "32"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-08"
+        },
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "190p · 39c"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/hedgerow-dev/coldframe"
+        },
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50406292"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "a96b65fd613b83a35885ed33fd37d6336a250822",
+      "name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "section": "trending",
+      "status": "ONGOING",
+      "score": 145.76,
+      "oneLiner": "Google AI Pro 2년 무상 자동화 관련 저장소.",
+      "whyNow": "개발 신호가 이어지면서 사용 사례가 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "3,057"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "1,174"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-08"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "722152b8f5f6641e4fccdf19f67f5ab18432e25b",
+      "name": "Minireel/HGhub",
+      "section": "releases",
+      "status": "NEW",
+      "score": 135.38,
+      "oneLiner": "YellowFruit의 서드파티 클라이언트인 HGhub 저장소.",
+      "whyNow": "새 릴리즈 영향으로 관심이 재점화되고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,322"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "1,125"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-08"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v1.1.0"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/Minireel/HGhub"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/Minireel/HGhub/releases/tag/v1.1.0"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "91a3d21074e43e6fe6cd5a94e48e8873f5e22b3a",
+      "name": "govijr/terminal-mac",
+      "section": "releases",
+      "status": "NEW",
+      "score": 112.72,
+      "oneLiner": "터미널에서 전체 MacOS를 실행하는 프로젝트 저장소.",
+      "whyNow": "버전 업데이트 이후 재확산이 시작된 흐름입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,245"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "146"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-08"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v0.2.0-6"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/govijr/terminal-mac"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/govijr/terminal-mac/releases/tag/v0.2.0-6"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "62d77e4830963e650e3a20b664205ec7b9c3c8ec",
+      "name": "caru-ini/stack-diagram",
+      "section": "releases",
+      "status": "NEW",
+      "score": 104.94,
+      "oneLiner": "스택을 한 문장으로 설명하면 공식 로고 포함 아키텍처 다이어그램을 생성하는 에이전트 스킬 저장소.",
+      "whyNow": "새 릴리즈 영향으로 관심이 재점화되고 있습니다. 에이전트 활용 흐름과 맞물려 주목이 커지고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,074"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "99"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-08"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v0.4.0"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/caru-ini/stack-diagram"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/caru-ini/stack-diagram/releases/tag/v0.4.0"
+        }
+      ],
+      "tags": [
+        "agent tooling"
+      ]
+    }
+  ]
+}
