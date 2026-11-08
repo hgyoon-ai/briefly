@@ -3259,3 +3259,11 @@
 {"id": "news:미래에셋증권:https://www.fnnews.com/news/202611070803069202", "keep": true, "oneLiner": "미래에셋증권 해킹으로 고객·임직원 대규모 정보 유출이 확인되었으며 회사는 비정상 접근 차단 및 관계기관 보고 등 대응을 진행하고 있습니다.", "type_raw": "시스템", "areas_raw": ["리스크", "상담"], "confidence": 0.95}
 {"id": "news:미래에셋증권:https://www.fnnews.com/news/202611070825226459", "keep": true, "oneLiner": "해킹 사고로 고객 계좌번호 및 임직원 정보가 유출된 사실이 추가 보도되었으며 민감정보는 유출되지 않은 것으로 알려졌습니다.", "type_raw": "시스템", "areas_raw": ["리스크", "상담"], "confidence": 0.95}
 {"id": "news:KB증권:https://www.fnnews.com/news/202611061334226736", "keep": false, "oneLiner": "카카오의 지역사회 공헌·시상 관련 기사로 증권사 제품·정책 변화와 무관합니다.", "type_raw": "기타", "areas_raw": ["기타"], "confidence": 0.6}
+{"id": "35efdc2d5882712b0e967b2024689d9ef3ce9038", "keep": true, "oneLiner": "한국투자증권 iOS 앱에서 관심종목 UI 개편, 자녀 주식 트렌드 메뉴 추가, 중개형 ISA RP 자동매수 지원 등 기능이 추가·변경되었습니다.", "type_raw": "출시", "areas_raw": ["브로커리지", "WM"], "confidence": 0.9}
+{"id": "6d8816f64067596ffb72ddd46f5cff9888d2fc80", "keep": false, "oneLiner": "버그 수정 중심의 릴리즈 노트로 기능·정책 변경 내용이 없어 데이터셋에서 제외합니다.", "type_raw": "출시", "areas_raw": ["기타"], "confidence": 0.9}
+{"id": "513951f8306d5aebeab76d3ffdbac8345318e3b0", "keep": false, "oneLiner": "삼성증권의 기업설명회(IR) 개최 안내 공시로 투자자 대상 일정·행사 통지에 해당하며 증권사 제품·운영 변경 사항은 아님.", "type_raw": "기타", "areas_raw": ["기타"], "confidence": 0.9}
+{"id": "0b9839ea9384b1b0a16b9e760b154b770105f771", "keep": false, "oneLiner": "삼성증권의 기업설명회(IR) 개최 안내 공시로서 공시성 일정 안내에 해당하고 서비스·정책 변경 사항은 아님.", "type_raw": "기타", "areas_raw": ["기타"], "confidence": 0.9}
+{"id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12201398", "keep": false, "oneLiner": "매일경제 보도: 미래에셋·NH투자증권 고객의 주식자산이 상위 10%에 집중되어 있으며 연령대별·세대 내 자산 격차가 커진다는 분석 기사.", "type_raw": "리서치", "areas_raw": ["리서치"], "confidence": 0.9}
+{"id": "news:미래에셋증권:https://www.mk.co.kr/news/economy/12201367", "keep": true, "oneLiner": "미래에셋증권이 해킹을 당해 모바일웹 인증 로그인 및 그룹웨어 침해로 고객·임직원 일부 정보가 유출된 사고가 발생했습니다.", "type_raw": "시스템", "areas_raw": ["리스크", "상담"], "confidence": 0.95}
+{"id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12200535", "keep": false, "oneLiner": "초고수 매매동향을 전하는 시장·거래 관련 기사로 증권사 제품·정책 변화와 무관합니다.", "type_raw": "기타", "areas_raw": ["기타"], "confidence": 0.8}
+{"id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12200331", "keep": false, "oneLiner": "코스피·초고수 매매동향 관련 시장 기사로 증권사 내부 변화나 조치와 관련이 없습니다.", "type_raw": "기타", "areas_raw": ["기타"], "confidence": 0.8}
