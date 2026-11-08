@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-08",
+  "highlights": {
+    "bullets": [
+      "핵심: 중도금대출 금리가 5%에 육박해 수분양자 이자 부담이 커졌다.",
+      "핵심: 월세 300만원 이상 고액 임대가 노도강·금관구 등 외곽으로 확산됐다.",
+      "트렌드: 자금과 비용 관련 압력이 분양·임대·정비사업 전반에서 드러난다."
+    ],
+    "topTopics": [
+      "Market",
+      "Supply",
+      "Mortgage",
+      "Regulation"
+    ],
+    "stats": {
+      "collected": 3,
+      "deduped": 3
+    }
+  },
+  "cards": [
+    {
+      "id": "realestate_0001",
+      "tab": "realestate",
+      "publishedAt": "2026-11-07T20:05:45+09:00",
+      "source": "매일경제(부동산)",
+      "title": "“앞날이 캄캄”…당첨 기쁨은 잠깐, 대출 금리에 한숨만",
+      "summary": [
+        "중도금대출 금리가 5%에 육박하면서 수분양자들의 이자 부담이 커졌다.",
+        "수분양자들은 대출 완화를 요구하지만 정부는 규제 유지 입장이다.",
+        "이로 인해 분양시장의 불안과 실수요자의 금융부담이 증가하고 있다."
+      ],
+      "whyItMatters": "중도금 금리 상승은 실수요자의 주택구입 비용을 크게 높여 분양시장 거래와 금융안정에 직결되기 때문이다.",
+      "topics": [
+        "Mortgage",
+        "Regulation",
+        "Market"
+      ],
+      "status": "ONGOING",
+      "hash": "65b86442feb47a930aee47718db6fa76580f11187cfcbd38360aa0aa38ad7304",
+      "url": "https://www.mk.co.kr/news/realestate/12201523"
+    },
+    {
+      "id": "realestate_0002",
+      "tab": "realestate",
+      "publishedAt": "2026-11-07T14:23:57+09:00",
+      "source": "매일경제(부동산)",
+      "title": "“강남도 아닌데 월세가 300만원 속출”…노도강·금관구 집주인도 놀랄 판",
+      "summary": [
+        "강남권에서 주로 보이던 월세 300만원 이상 고액 임대가 노도강·금관구 등 서울 외곽으로 확산되고 있다.",
+        "지역 주민과 집주인들도 높은 임대료 급등에 놀라며 전반적 월세 시장 과열 조짐을 보이고 있다.",
+        "공급 부족과 수요 이동이 맞물리며 주거비 부담과 주택시장 불안이 확대될 우려가 있다."
+      ],
+      "whyItMatters": "외곽까지 고액 월세가 확산되면 더 넓은 계층의 주거비 부담이 커지고 시장·정책적 대응 필요성이 커지기 때문이다.",
+      "topics": [
+        "Market",
+        "Rental",
+        "Supply"
+      ],
+      "status": "SHIFTING",
+      "hash": "671b445d3949344710ec5dba0f18fe8ddacdaf26fecb33039916c7cdfef5914a",
+      "url": "https://www.mk.co.kr/news/realestate/12201448"
+    },
+    {
+      "id": "realestate_0003",
+      "tab": "realestate",
+      "publishedAt": "2026-11-07T15:27:13+09:00",
+      "source": "헤럴드경제(부동산)",
+      "title": "레인필드투자자문, 신촌 공동주택 후순위 500억 투자 성사",
+      "summary": [
+        "레인필드투자자문이 신촌 정비4구역 공동주택 개발에 후순위 대출 500억원 투자를 성사시켰다.",
+        "사업은 서강대역 인근 마포구 노고산동 일대에 383세대 규모 공동주택을 조성하는 프로젝트다.",
+        "해당 지역은 노후·불량 건축물이 밀집해 도시경관 및 기반시설 개선 필요성이 제기돼 왔다."
+      ],
+      "whyItMatters": "이번 후순위 자금 투입은 도시정비사업의 자금조달 다변화와 도심 주택공급에 대한 민간 투자 의지를 보여준다.",
+      "topics": [
+        "UrbanRenewal",
+        "Supply",
+        "Market"
+      ],
+      "status": "ONGOING",
+      "hash": "7ba474ffe206c6c9f45f904598cf8a3985f5016c7b1357be89d42375dfca142a",
+      "url": "https://biz.heraldcorp.com/article/10929237"
+    }
+  ]
+}

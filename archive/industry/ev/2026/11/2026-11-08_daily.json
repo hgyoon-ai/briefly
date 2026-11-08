@@ -1,0 +1,64 @@
+{
+  "date": "2026-11-08",
+  "highlights": {
+    "bullets": [
+      "핵심: 전기 트럭 제조사 Harbinger가 시리즈 D에서 추가로 2억4천만 달러를 조달했습니다.",
+      "핵심: 캘리포니아 법원이 주택 솔라 루프 관련 소송에서 테슬라의 사기 책임을 인정했습니다."
+    ],
+    "topTopics": [
+      "Investment",
+      "Competition",
+      "Roadmap",
+      "Demand"
+    ],
+    "stats": {
+      "collected": 6,
+      "deduped": 6
+    }
+  },
+  "cards": [
+    {
+      "id": "ev_0001",
+      "tab": "ev",
+      "publishedAt": "2026-11-07T21:53:45+09:00",
+      "source": "Electrek",
+      "title": "Harbinger scores another $240M in latest investment round",
+      "summary": [
+        "전기 트럭 제조사 Harbinger가 시리즈 D 투자 라운드에서 추가로 2억4천만 달러를 조달했습니다.",
+        "최근 Harbinger는 FedEx로부터 3억 달러 규모의 주문과 미 국방부 계약을 연이어 확보했습니다.",
+        "이번 대규모 투자 유치는 상용 전기트럭 시장에서 Harbinger의 성장성과 신뢰도를 강화하는 신호입니다."
+      ],
+      "whyItMatters": "대형 고객사 주문과 국방 계약에 이어 상당한 규모의 추가 투자를 확보함으로써 Harbinger의 생산·확장 능력과 시장 영향력이 크게 확대될 수 있습니다.",
+      "topics": [
+        "Investment",
+        "Demand",
+        "Competition",
+        "Roadmap"
+      ],
+      "status": "NEW",
+      "hash": "5489412910ce0ce8aac8cc3f2495371b09d9e377572fc520f7e2ca14b593f38d",
+      "url": "https://electrek.co/2026/11/07/harbinger-scores-another-240m-in-latest-investment-round/"
+    },
+    {
+      "id": "ev_0002",
+      "tab": "ev",
+      "publishedAt": "2026-11-08T01:01:23+09:00",
+      "source": "Electrek",
+      "title": "Tesla deemed liable for fraud after Solar Roof ‘experiment’ on a home",
+      "summary": [
+        "캘리포니아 판사가 테슬라의 주택 솔라 루프 프로젝트 관련 소송에서 테슬라의 사기 책임을 인정했습니다.",
+        "테슬라는 이미 계약 위반, 보증 위반, 시공상 과실을 인정했으며, 증거 제출을 반복적으로 거부한 점이 불리하게 작용했습니다.",
+        "집주인은 피해 복구 비용이 250만 달러 이상이라고 주장하는 반면, 테슬라는 과거 5,000달러 배상만을 제안한 것으로 전해졌습니다."
+      ],
+      "whyItMatters": "제품·서비스 신뢰도와 법적 리스크가 부각되면서 테슬라의 에너지 사업 전반에 대한 규제·소송 리스크와 브랜드 평판 악화 가능성이 커졌기 때문입니다.",
+      "topics": [
+        "Policy",
+        "Competition",
+        "Investment"
+      ],
+      "status": "NEW",
+      "hash": "9af6c64f47f6400b2803a37a748f29558a287b56a9633f7082158e423a40f406",
+      "url": "https://electrek.co/2026/11/07/tesla-solar-roof-fraud-liable-experiment-lawsuit/"
+    }
+  ]
+}

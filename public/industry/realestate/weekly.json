@@ -1,57 +1,33 @@
 {
   "range": {
-    "from": "2026-11-01",
-    "to": "2026-11-07"
+    "from": "2026-11-02",
+    "to": "2026-11-08"
   },
   "kpis": {
-    "collected": 15,
-    "deduped": 15,
+    "collected": 18,
+    "deduped": 18,
     "uniqueTopics": 10
   },
   "topTopics": [
     {
       "name": "Market",
-      "count": 14
+      "count": 17
     },
     {
       "name": "Supply",
-      "count": 9
+      "count": 11
     },
     {
       "name": "Regulation",
-      "count": 7
+      "count": 8
     },
     {
-      "name": "Construction",
+      "name": "UrbanRenewal",
       "count": 6
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-11-01",
-      "dayOfWeek": "Sun",
-      "topic": "Market",
-      "count": 0
-    },
-    {
-      "date": "2026-11-01",
-      "dayOfWeek": "Sun",
-      "topic": "Supply",
-      "count": 0
-    },
-    {
-      "date": "2026-11-01",
-      "dayOfWeek": "Sun",
-      "topic": "Regulation",
-      "count": 0
-    },
-    {
-      "date": "2026-11-01",
-      "dayOfWeek": "Sun",
-      "topic": "Construction",
-      "count": 0
-    },
-    {
       "date": "2026-11-02",
       "dayOfWeek": "Mon",
       "topic": "Market",
@@ -72,7 +48,7 @@
     {
       "date": "2026-11-02",
       "dayOfWeek": "Mon",
-      "topic": "Construction",
+      "topic": "UrbanRenewal",
       "count": 0
     },
     {
@@ -96,8 +72,8 @@
     {
       "date": "2026-11-03",
       "dayOfWeek": "Tue",
-      "topic": "Construction",
-      "count": 1
+      "topic": "UrbanRenewal",
+      "count": 2
     },
     {
       "date": "2026-11-04",
@@ -120,7 +96,7 @@
     {
       "date": "2026-11-04",
       "dayOfWeek": "Wed",
-      "topic": "Construction",
+      "topic": "UrbanRenewal",
       "count": 0
     },
     {
@@ -144,7 +120,7 @@
     {
       "date": "2026-11-05",
       "dayOfWeek": "Thu",
-      "topic": "Construction",
+      "topic": "UrbanRenewal",
       "count": 0
     },
     {
@@ -168,70 +144,104 @@
     {
       "date": "2026-11-06",
       "dayOfWeek": "Fri",
-      "topic": "Construction",
-      "count": 4
+      "topic": "UrbanRenewal",
+      "count": 3
     },
     {
       "date": "2026-11-07",
       "dayOfWeek": "Sat",
       "topic": "Market",
-      "count": 1
+      "count": 4
     },
     {
       "date": "2026-11-07",
       "dayOfWeek": "Sat",
       "topic": "Supply",
-      "count": 1
+      "count": 3
     },
     {
       "date": "2026-11-07",
       "dayOfWeek": "Sat",
       "topic": "Regulation",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-11-07",
       "dayOfWeek": "Sat",
-      "topic": "Construction",
+      "topic": "UrbanRenewal",
       "count": 1
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Market",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "UrbanRenewal",
+      "count": 0
     }
   ],
   "topIssues": [
     {
       "id": 1,
       "status": "ONGOING",
-      "title": "정부 모듈러주택 1.8만 가구 공급 추진과 해외 실패 사례 대비",
-      "summary": "정부가 공공·민간을 통해 모듈러주택 1.8만 가구 공급을 본격 추진하면서 신속 공급 카드로 부상했다. 다만 영국 등 해외에선 대규모 투자에도 잇단 업체 도산, 생산·품질 문제, 자금난으로 사업이 중단된 선례가 있어 국내 도입 시 품질관리·재무안전성·표준화 기준 마련이 핵심 이슈로 떠오르고 있다.",
+      "title": "고금리 중도금·주담대 부담 심화로 실수요자 자금 경색",
+      "summary": "중도금대출 금리가 5% 안팎까지 오르면서 분양대금 이자 부담이 급격히 커지고 있다. 당첨 이후 잔금·중도금 조달에 난항을 겪는 실수요자가 늘고, 대출 규제 완화 요구도 커지고 있지만 정부는 가계부채 관리를 이유로 규제 유지 기조를 고수해 향후 분양시장·실수요 매수세 위축이 이어질 가능성이 크다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "헤럴드경제(부동산)",
-          "title": "‘1.8만 가구 공급’ 정부가 띄운 모듈러주택…영국선 잇단 도산 [부동산360]",
-          "url": "https://biz.heraldcorp.com/article/10928743"
+          "source": "매일경제(부동산)",
+          "title": "“앞날이 캄캄”…당첨 기쁨은 잠깐, 대출 금리에 한숨만",
+          "url": "https://www.mk.co.kr/news/realestate/12201523"
         }
       ]
     },
     {
       "id": 2,
       "status": "SHIFTING",
-      "title": "재건축초과이익환수제 부담 확대와 민간 재건축 사업성 악화",
-      "summary": "정부가 민간 재건축 용적률 상향을 통해 공급 확대를 추진하는 가운데, 영등포·강북 등지에서 재건축초과이익환수제(재초환)에 따른 억대 부담금이 현실화되며 사업 속도가 둔화되고 있다. 사업성 악화와 조합원 부담 가중으로 일부 단지는 사업 재검토·지연 가능성이 커지고 있어 규제·부담금 조정 여부가 핵심 변수로 부각된다.",
-      "articleCount": 1,
+      "title": "서울 외곽까지 확산된 고액 월세…전월세 시장 과열과 수급 불균형",
+      "summary": "강남에 집중되던 월세 300만 원 이상 고액 임대가 노도강·금관구 등 비강남 외곽 지역으로 확산되며 임대료 전반이 상향 재편되고 있다. 동시에 수도권 전셋값은 88주 연속 상승하고 경기도 ‘국평’ 전세가 10억 원을 돌파하는 등 전세·월세 동반 강세가 나타나 주거비 부담과 전세에서 월세로의 구조적 전환 압력이 심화되고 있다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
           "source": "매일경제(부동산)",
-          "title": "영등포 2.2억·강북 1.2억…재초환 억대 부담금에 '닥공' 발목",
-          "url": "https://www.mk.co.kr/news/realestate/12200669"
+          "title": "“강남도 아닌데 월세가 300만원 속출”…노도강·금관구 집주인도 놀랄 판",
+          "url": "https://www.mk.co.kr/news/realestate/12201448"
+        },
+        {
+          "source": "한국경제(부동산)",
+          "title": "수도권 전셋값 88주째 상승…경기도 '국평' 전세도 10억 넘었다",
+          "url": "https://www.hankyung.com/article/202611059046i"
         }
       ]
     },
     {
       "id": 3,
-      "status": "NEW",
-      "title": "서초구, 재건축초과이익환수제 폐지 공식 건의와 제도 변화 가능성",
-      "summary": "서초구가 재건축초과이익환수제(재초환)가 주택공급을 위축시킨다며 정부에 폐지를 공식 건의했다. 지방자치단체 차원의 첫 강경 대응으로, 중앙정부의 정비사업 규제 완화 논의와 맞물려 재건축·재개발 추진 환경이 중장기적으로 바뀔 수 있다는 기대와 우려가 동시에 확산되고 있다.",
-      "articleCount": 1,
+      "status": "SHIFTING",
+      "title": "재건축 초과이익환수제 폐지 논의 부상…공급 확대 vs 조세 형평 갈림길",
+      "summary": "영등포·강북 등에서 억대 재건축초과이익환수금이 현실화되며 민간 재건축 사업성이 약화되고 ‘닥공’ 속도 조절이 불가피해졌다. 이런 가운데 서초구가 재초환이 주택공급을 위축시킨다며 정부에 공식 폐지를 건의해 제도 존치·완화·폐지 논의가 본격화될 조짐이며, 재건축 투자 수요와 정비사업 추진 일정에도 적지 않은 변곡점이 될 전망이다.",
+      "articleCount": 2,
       "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "영등포 2.2억·강북 1.2억…재초환 억대 부담금에 '닥공' 발목",
+          "url": "https://www.mk.co.kr/news/realestate/12200669"
+        },
         {
           "source": "한국경제(부동산)",
           "title": "서초구 \"재초환은 주택공급 위축\"…정부에 폐지 건의",
@@ -242,28 +252,28 @@
     {
       "id": 4,
       "status": "ONGOING",
-      "title": "강남권 아파트 가격 조정 심화와 소형 평형 하락 확산",
-      "summary": "서울 강남권에서 매매가격 조정이 이어지며 20억 원대 아파트가 14억 원 수준에 거래되는 사례까지 나오고 있다. 그동안 수요가 견조하던 소형 평형마저 하락 거래가 잇따르면서 고가·대출규제·보유비용 부담이 누적된 결과 수요 위축과 가격 조정이 동시 진행되는 국면으로 평가된다.",
+      "title": "정비구역·도심 공동주택 개발에 민간 자본 유입 확대",
+      "summary": "마포구 노고산동 신촌 정비4구역 공동주택 개발에서 500억 원 규모 후순위 대출 투자 계약이 성사되는 등 도심 정비구역·공동주택 사업에 프로젝트 파이낸싱 성격의 민간 자본이 꾸준히 유입되고 있다. 고금리·규제 환경 속에서도 입지·사업성이 검증된 정비사업에는 자금이 선별적으로 몰리며 도심 공급 확충의 한 축을 형성하고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "매일경제(부동산)",
-          "title": "“20억 하던 강남 아파트가 14억?”…강남 소형 아파트까지 가격 ‘뚝’",
-          "url": "https://www.mk.co.kr/news/realestate/12200391"
+          "source": "헤럴드경제(부동산)",
+          "title": "레인필드투자자문, 신촌 공동주택 후순위 500억 투자 성사",
+          "url": "https://biz.heraldcorp.com/article/10929237"
         }
       ]
     },
     {
       "id": 5,
       "status": "ONGOING",
-      "title": "여의도·창신동 등 도심 재건축·복합개발 본격화",
-      "summary": "서울시 통합심의위가 여의도 목화아파트 재건축을 조건부 의결하고, 창신1구역 제3지구 역시 조건부·수정가결을 통해 최고 49층 복합단지로 재탄생 길을 열었다. 도심 내 노후 주거지 재정비와 상업·업무 기능을 결합한 고밀 복합개발이 동시에 추진되며 한강변·역세권 중심의 도심 스카이라인과 공급 구조 변화가 가속화되는 흐름이다.",
+      "title": "모듈러주택 1.8만 가구 추진 속 해외 사례 리스크 부각",
+      "summary": "정부가 신속한 공급 확대를 위해 모듈러주택 1.8만 가구 공급 계획을 추진 중이지만, 영국 등 해외에서는 품질·생산 차질과 재무 구조 악화로 관련 업체 도산이 잇따른 사례가 있다. 국내에서도 자금조달 구조, 시공 품질·안전 기준, 장기 유지관리 비용 등에 대한 검증과 제도 정비가 수반되지 않으면 단기 공급 확대가 중장기 리스크로 돌아올 수 있다는 우려가 제기된다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "헤럴드경제(부동산)",
-          "title": "여의도 목화 통합심의 통과...창신동 동대문역 초역세권에도 291가구 [부동산360]",
-          "url": "https://biz.heraldcorp.com/article/10927870"
+          "title": "‘1.8만 가구 공급’ 정부가 띄운 모듈러주택…영국선 잇단 도산 [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10928743"
         }
       ]
     }

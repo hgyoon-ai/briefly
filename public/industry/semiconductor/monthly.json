@@ -1,93 +1,117 @@
 {
   "range": {
-    "from": "2026-10-09",
-    "to": "2026-11-07"
+    "from": "2026-10-10",
+    "to": "2026-11-08"
   },
   "kpis": {
-    "collected": 54,
-    "deduped": 54,
+    "collected": 52,
+    "deduped": 52,
     "uniqueTopics": 7,
     "marketShare": {
       "Roadmap": 29,
-      "Competition": 22,
-      "Manufacturing": 22,
-      "Investment": 14,
+      "Competition": 21,
+      "Manufacturing": 21,
+      "Investment": 15,
       "Demand": 13,
-      "Other": 0
+      "Other": 1
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/09-10/15)",
+      "week": "Week 1 (10/10-10/16)",
+      "topicCounts": {
+        "Roadmap": 14,
+        "Competition": 11,
+        "Manufacturing": 11,
+        "Investment": 7,
+        "Demand": 3
+      }
+    },
+    {
+      "week": "Week 2 (10/17-10/23)",
       "topicCounts": {
         "Roadmap": 12,
-        "Competition": 9,
-        "Manufacturing": 11,
+        "Competition": 10,
+        "Manufacturing": 6,
+        "Investment": 1,
+        "Demand": 7
+      }
+    },
+    {
+      "week": "Week 3 (10/24-10/30)",
+      "topicCounts": {
+        "Roadmap": 8,
+        "Competition": 5,
+        "Manufacturing": 9,
+        "Investment": 7,
+        "Demand": 5
+      }
+    },
+    {
+      "week": "Week 4 (10/31-11/06)",
+      "topicCounts": {
+        "Roadmap": 6,
+        "Competition": 2,
+        "Manufacturing": 3,
         "Investment": 4,
         "Demand": 2
       }
     },
     {
-      "week": "Week 2 (10/16-10/22)",
+      "week": "Week 5 (11/07-11/08)",
       "topicCounts": {
-        "Roadmap": 12,
-        "Competition": 11,
-        "Manufacturing": 8,
-        "Investment": 2,
-        "Demand": 9
-      }
-    },
-    {
-      "week": "Week 3 (10/23-10/29)",
-      "topicCounts": {
-        "Roadmap": 7,
-        "Competition": 5,
-        "Manufacturing": 6,
-        "Investment": 3,
-        "Demand": 4
-      }
-    },
-    {
-      "week": "Week 4 (10/30-11/05)",
-      "topicCounts": {
-        "Roadmap": 3,
+        "Roadmap": 0,
         "Competition": 0,
-        "Manufacturing": 1,
-        "Investment": 2,
-        "Demand": 1
-      }
-    },
-    {
-      "week": "Week 5 (11/06-11/07)",
-      "topicCounts": {
-        "Roadmap": 2,
-        "Competition": 1,
         "Manufacturing": 0,
-        "Investment": 2,
+        "Investment": 0,
         "Demand": 0
       }
     }
   ],
   "topIssues": [
     {
-      "id": "semic-1",
+      "id": 1,
       "status": "SHIFTING",
-      "title": "유럽 반도체 산업, 지정학·투자 압력 속 공급망·로드맵 재편 가속",
-      "summary": "SEMICON Europa 2026을 계기로 유럽 반도체 산업이 지정학적 갈등, 보조금 경쟁, 기술 격차 등 '퍼펙트 스톰'에 직면하면서 공급망 재편과 투자 우선순위, 기술 로드맵을 대대적으로 조정하는 국면에 들어갔습니다. 이는 유럽 내 생산·패키징 역량 강화와 동시에 글로벌 파운드리·장비·소재 업체와의 전략적 제휴 확대를 동반할 전망입니다.",
-      "articleCount": 1,
+      "title": "양자 보안 위협 부상과 반도체·암호 인프라 전환 압력",
+      "summary": "양자컴퓨터 성능 향상으로 블록체인 등 공개키 암호가 2년 내 위험해질 수 있다는 경고가 나오며, 반도체 설계·보안 IP·HSM 및 통신 인프라 전반에 양자내성암호(PQC) 지원 요구가 급격히 커지고 있다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
           "source": "EE Times",
-          "title": "Europe’s Chip Industry: Perfect Storm or Perfect Timing?",
-          "url": "https://www.eetimes.com/europe-chip-industry-perfect-storm-or-perfect-timing/"
+          "title": "The Countdown to Q-Day Has Begun",
+          "url": "https://www.eetimes.com/the-countdown-to-q-day-has-begun/"
+        },
+        {
+          "source": "EE Times",
+          "title": "Canada’s Quantum Sector Sets Sights on Commercialization",
+          "url": "https://www.eetimes.com/canadas-quantum-sector-sets-sights-on-commercialization/"
         }
       ]
     },
     {
-      "id": "semic-2",
+      "id": 2,
       "status": "ONGOING",
-      "title": "AI 메모리 수요 폭증, 삼성전자 3분기 실적과 메모리 투자 전략 재편 견인",
-      "summary": "삼성전자가 AI 서버 및 고대역폭 메모리(HBM) 수요 급증에 힘입어 약 800억 달러 규모의 분기 영업이익을 기록하며, AI 중심 메모리 포트폴리오와 생산 캐파 확장을 가속하고 있습니다. 이는 메모리 가격 구조, 설비투자(CAPEX) 계획, 패키징·공정 미세화 경쟁에 직접적인 영향을 주며 글로벌 메모리 공급사들의 투자 방향을 재정렬시키는 신호로 해석됩니다.",
+      "title": "첨단 반도체 제조·패키징 기술 진보와 응용 다변화",
+      "summary": "최신 공정·패키징 기술이 잡지 특집과 웨비나를 통해 공유되며, 고성능·저전력 칩 요구에 대응한 후공정 혁신과 함께 농업 자율화, 로봇·자율시스템 등 새로운 응용 시장으로의 확장이 진행 중이다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "EE Times Magazine – November 2026",
+          "url": "https://www.eetimes.com/ee-times-magazine-november-2026/"
+        },
+        {
+          "source": "EE Times",
+          "title": "AI to the Edge: Generative Intelligence for Robotics and Autonomous Systems",
+          "url": "https://www.eetimes.com/ai-to-the-edge-generative-intelligence-for-robotics-and-autonomous-systems/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "AI 메모리 슈퍼사이클과 삼성전자의 실적 급등",
+      "summary": "AI 서버와 가속기 수요가 HBM·고대역폭 D램 등 AI 특화 메모리의 대규모 증설을 견인하며, 삼성전자가 분기 영업이익 800억 달러를 기록하는 등 메모리 중심 반도체 호황 국면이 이어지고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -98,44 +122,30 @@
       ]
     },
     {
-      "id": "semic-3",
-      "status": "ONGOING",
-      "title": "차세대 반도체 제조·패키징 혁신, 시스템·응용 통합 경쟁 심화",
-      "summary": "최신 반도체 제조와 첨단 패키징 기술이 동시 발전하면서 칩렛, 2.5D/3D 패키징, 이기종 통합 등 시스템 수준 설계 전략이 핵심 경쟁 요소로 부상하고 있습니다. EE Times 11월호는 이러한 공정·패키징 혁신이 AI, 자동차, 농업 자율화(팜 오토노미) 등 수요처와 맞물려 새로운 공급망·투자 생태계를 형성하고 있음을 조명합니다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "EE Times",
-          "title": "EE Times Magazine – November 2026",
-          "url": "https://www.eetimes.com/ee-times-magazine-november-2026/"
-        }
-      ]
-    },
-    {
-      "id": "semic-4",
+      "id": 4,
       "status": "SHIFTING",
-      "title": "양자 상용화 경쟁 본격화, 캐나다를 필두로 양자-반도체 융합 투자 확대",
-      "summary": "캐나다가 국방 조달, 장기 투자 자본, 공동 인프라를 앞세워 양자 기술의 상용화를 본격 추진하면서, 양자 컴퓨팅·센싱·통신을 뒷받침할 특수 반도체(저잡음 소자, 극저온 제어칩 등) 수요도 구조적으로 증가하고 있습니다. 이는 북미·유럽의 양자 인프라 투자와 맞물려 양자 친화 공정, 패키징, IP 생태계를 선점하려는 글로벌 반도체 기업 간 경쟁을 촉발하고 있습니다.",
+      "title": "유럽 반도체, 지정학·경쟁 압력 속 공급망·투자 재편",
+      "summary": "SEMICON Europa 2026을 통해 유럽 반도체 산업이 미·중 경쟁, 기술 격차, 인플레이션 등 ‘퍼펙트 스톰’에 직면했음이 드러났으며, 이에 따라 공급망 자립, 전략 분야 집중 투자, 로드맵 재조정이 본격화되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "EE Times",
-          "title": "Canada’s Quantum Sector Sets Sights on Commercialization",
-          "url": "https://www.eetimes.com/canadas-quantum-sector-sets-sights-on-commercialization/"
+          "title": "Europe’s Chip Industry: Perfect Storm or Perfect Timing?",
+          "url": "https://www.eetimes.com/europe-chip-industry-perfect-storm-or-perfect-timing/"
         }
       ]
     },
     {
-      "id": "semic-5",
+      "id": 5,
       "status": "ONGOING",
-      "title": "엣지 생성형 AI·로보틱스 확산, 고성능 저전력 SoC·센서 수요 구조 변화",
-      "summary": "로봇 및 자율 시스템에 생성형 인텔리전스를 탑재하려는 수요가 늘어나면서, 엣지 단에서 고성능 추론이 가능한 AI 가속기, 이미지·LiDAR·IMU 센서, 실시간 통신용 RF 칩 등 특화 반도체의 설계 방향이 재편되고 있습니다. 관련 웨비나는 임베디드·로봇 개발자들을 대상으로 엣지 AI를 위한 반도체 아키텍처, 메모리 대역폭, 전력 최적화 전략을 구체적으로 제시합니다.",
+      "title": "위성·5G 기반 멀티레이어 위치결정 기술 수요 확대",
+      "summary": "GPS 재밍과 스푸핑 사례 증가로 GNSS 단일 의존의 한계가 부각되면서, 4G·5G·NTN(비지상망)을 결합한 복수 계층 위치결정 기술에 대한 정책·시장 수요가 커지고 있으며, 관련 RF·위성·통신용 반도체 수요도 동반 확대되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "EE Times",
-          "title": "AI to the Edge: Generative Intelligence for Robotics and Autonomous Systems",
-          "url": "https://www.eetimes.com/ai-to-the-edge-generative-intelligence-for-robotics-and-autonomous-systems/"
+          "title": "When GPS Isn’t Enough: Building a Second Layer of Positioning",
+          "url": "https://www.eetimes.com/when-gps-isnt-enough-building-a-second-layer-of-positioning/"
         }
       ]
     }

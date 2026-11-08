@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-08",
+  "highlights": {
+    "bullets": [
+      "핵심: 다음 주 미국 CPI 발표가 국채금리와 환율을 통해 국내 증시에 영향을 줄 전망.",
+      "핵심: 주식 결제주기가 현행 T+2에서 2028년부터 T+1으로 단축돼 미수 반대매매 위험이 커진다."
+    ],
+    "topTopics": [
+      "MarketInfra",
+      "Policy",
+      "Regulation",
+      "Compliance"
+    ],
+    "stats": {
+      "collected": 8,
+      "deduped": 8
+    }
+  },
+  "cards": [
+    {
+      "id": "finance_0001",
+      "tab": "finance",
+      "publishedAt": "2026-11-08T08:08:16+09:00",
+      "source": "매일경제(증권)",
+      "title": "“미국 물가부터 옵션 만기까지”…다음 주 증시 변수, 미리 대비하려면",
+      "summary": [
+        "다음 주 미국 CPI 발표가 국채금리와 환율을 통해 국내 증시에 영향 줄 전망.",
+        "코어위브 실적 등 AI 섹터 성과가 투자심리에 중요한 변수로 작용할 수 있다.",
+        "코스피200 옵션 만기가 수급 변수로 작용해 단기 변동성을 키울 가능성이 있다."
+      ],
+      "whyItMatters": "금리·환율·수급은 포지션과 투자심리에 직접적인 영향을 미쳐 단기 시장 방향을 좌우하기 때문입니다.",
+      "topics": [
+        "MarketInfra",
+        "Policy",
+        "Fintech"
+      ],
+      "status": "ONGOING",
+      "hash": "c04e9e7a85933e2e9ca67b8ed70eaeed78dcefe4a80005592a437e964d96c991",
+      "url": "https://www.mk.co.kr/news/stock/12201573"
+    },
+    {
+      "id": "finance_0002",
+      "tab": "finance",
+      "publishedAt": "2026-11-08T06:13:56+09:00",
+      "source": "매일경제(증권)",
+      "title": "“주식 판 돈, 2028년부터 다음날 찾는다는데”…개미들 주의할 ‘이것’",
+      "summary": [
+        "주식 결제주기가 현행 T+2에서 2028년부터 T+1으로 단축된다.",
+        "매도 대금은 다음날 찾을 수 있게 되지만 미수거래는 결제·대금지급이 하루 빨라져 반대매매 위험이 커진다.",
+        "개인투자자들은 계좌 유동성 관리와 증권사 안내·시스템 변화를 미리 점검해야 한다."
+      ],
+      "whyItMatters": "결제 효율성과 글로벌 정합성 제고로 자금 회전은 빨라지지만 미수·결제 리스크가 증가해 투자자 보호와 운영 대비가 필요하기 때문이다.",
+      "topics": [
+        "MarketInfra",
+        "Payments",
+        "Compliance"
+      ],
+      "status": "ONGOING",
+      "hash": "53e11d845ad36a4057768f4efc48ae332e9295cd1b5e69e131591bace641ab53",
+      "url": "https://www.mk.co.kr/news/stock/12201558"
+    }
+  ]
+}

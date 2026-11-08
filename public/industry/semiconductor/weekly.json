@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-11-01",
-    "to": "2026-11-07"
+    "from": "2026-11-02",
+    "to": "2026-11-08"
   },
   "kpis": {
     "collected": 8,
@@ -28,30 +28,6 @@
   ],
   "topicTrend": [
     {
-      "date": "2026-11-01",
-      "dayOfWeek": "Sun",
-      "topic": "Roadmap",
-      "count": 0
-    },
-    {
-      "date": "2026-11-01",
-      "dayOfWeek": "Sun",
-      "topic": "Investment",
-      "count": 0
-    },
-    {
-      "date": "2026-11-01",
-      "dayOfWeek": "Sun",
-      "topic": "Policy",
-      "count": 0
-    },
-    {
-      "date": "2026-11-01",
-      "dayOfWeek": "Sun",
-      "topic": "Competition",
-      "count": 0
-    },
-    {
       "date": "2026-11-02",
       "dayOfWeek": "Mon",
       "topic": "Roadmap",
@@ -194,14 +170,57 @@
       "dayOfWeek": "Sat",
       "topic": "Competition",
       "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 0
     }
   ],
   "topIssues": [
     {
       "id": 1,
       "status": "SHIFTING",
-      "title": "유럽 반도체 산업, 지정학·투자 압력 속 공급망·로드맵 재편 가속",
-      "summary": "SEMICON Europa 2026을 계기로 유럽 반도체 산업이 지정학적 긴장, 보조금 경쟁, 기술 격차 등 ‘퍼펙트 스톰’에 직면했습니다. 이에 따라 역내 생산 확대, 핵심 공정·장비 투자 재배분, 장기 기술 로드맵 조정 등 구조적 재편이 본격화되는 흐름입니다.",
+      "title": "양자컴퓨팅 부상으로 반도체·보안 로드맵 재편 가속",
+      "summary": "양자컴퓨터 발전으로 블록체인과 기존 공개키 암호가 2~3년 내 위협받을 수 있다는 전망과 함께, 캐나다 등 각국이 양자 상용화·방위 조달·공동 인프라에 투자하며 양자-반도체 연계 생태계를 키우고 있다. 보안 IP, 양자내성암호(PQC) 가속기, 양자센서·제어용 반도체가 중장기 핵심 성장 영역으로 부상한다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "The Countdown to Q-Day Has Begun",
+          "url": "https://www.eetimes.com/the-countdown-to-q-day-has-begun/"
+        },
+        {
+          "source": "EE Times",
+          "title": "Canada’s Quantum Sector Sets Sights on Commercialization",
+          "url": "https://www.eetimes.com/canadas-quantum-sector-sets-sights-on-commercialization/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "유럽 반도체, 지정학·투자 압력 속 공급망·기술 전략 재조정",
+      "summary": "SEMICON Europa 2026 논의를 통해 유럽 반도체 산업이 지정학 리스크, 보조금 경쟁, 기술 격차라는 ‘퍼펙트 스톰’에 직면했음이 드러났다. 이에 따라 제조 거점 다변화, 공공·민간 투자 재배치, 특정 공정·패키징 기술 집중 등 중장기 로드맵 수정이 요구되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -212,58 +231,54 @@
       ]
     },
     {
-      "id": 2,
-      "status": "ONGOING",
-      "title": "양자컴퓨팅 부상으로 반도체·보안 생태계의 포스트 양자 암호 전환 압박",
-      "summary": "양자컴퓨터 성능 향상으로 기존 공개키 기반 암호가 수년 내 무력화될 수 있다는 우려가 커지면서, 반도체·보안 칩 설계 단계부터 포스트 양자 암호(PQC) 지원 요구가 커지고 있습니다. 국가·산업 차원의 표준 정립과 하드웨어 구현 로드맵 마련이 시급한 이슈로 부상했습니다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "EE Times",
-          "title": "The Countdown to Q-Day Has Begun",
-          "url": "https://www.eetimes.com/the-countdown-to-q-day-has-begun/"
-        }
-      ]
-    },
-    {
       "id": 3,
-      "status": "SHIFTING",
-      "title": "캐나다, 양자·반도체 융합 상용화 위해 국방 조달·공동 인프라 전략 추진",
-      "summary": "캐나다는 양자 기술 상용화를 위해 국방 조달을 초기 수요처로 활용하고, 장기 투자 자본 및 공동 인프라를 통해 스타트업과 소재·소자 기업 성장을 뒷받침하려 합니다. 이는 양자 센서·통신·컴퓨팅과 반도체 제조·패키징 역량을 연계해 글로벌 밸류체인에서 입지를 넓히려는 움직임입니다.",
-      "articleCount": 1,
+      "status": "ONGOING",
+      "title": "첨단 패키징·제조 기술이 시스템·응용 주도권의 핵심 축으로 부상",
+      "summary": "최신 반도체 제조·패키징 기술이 전력 효율, 집적도, 시스템 성능 경쟁의 핵심 요소로 부각되고 있다. GaN 전력소자 상용화 가속, 애플리케이션 확대와 더불어 생산·공급망 과제가 남아 있으며, 이는 유럽·글로벌 IDMs의 투자 우선순위와 파운드리·OSAT 협력 구조에 영향을 준다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
           "source": "EE Times",
-          "title": "Canada’s Quantum Sector Sets Sights on Commercialization",
-          "url": "https://www.eetimes.com/canadas-quantum-sector-sets-sights-on-commercialization/"
+          "title": "EE Times Magazine – November 2026",
+          "url": "https://www.eetimes.com/ee-times-magazine-november-2026/"
+        },
+        {
+          "source": "EE Times",
+          "title": "Infineon’s Johannes Schoiswohl on the GaN Market at OktoberTech",
+          "url": "https://www.eetimes.com/infineons-johannes-schoiswohl-on-the-gan-market-at-oktobertech/"
         }
       ]
     },
     {
       "id": 4,
       "status": "ONGOING",
-      "title": "첨단 패키징·제조 공정 혁신과 자율화 수요가 반도체 장비·소재 로드맵 재정의",
-      "summary": "최신 반도체 제조·패키징 기술 진보와 농업 자율화 등 고신뢰·고성능 연산 수요가 맞물리면서, 후공정 패키징, 고대역폭 인터커넥트, 전력·신호 무결성 최적화를 위한 장비·소재 투자가 확대되고 있습니다. 이는 시스템 수준 설계와 패키지 기술 통합을 가속하는 방향으로 업계 로드맵을 재정의하고 있습니다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "EE Times",
-          "title": "EE Times Magazine – November 2026",
-          "url": "https://www.eetimes.com/ee-times-magazine-november-2026/"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "status": "ONGOING",
-      "title": "엣지 생성형 AI 확산으로 로봇·자율시스템용 반도체 수요 구조 변화",
-      "summary": "로봇 및 자율시스템에 생성형 인텔리전스를 엣지에서 직접 구동하려는 요구가 커지면서, 고성능 NPU·GPU, 저전력 AI 가속기, 실시간 센서 융합용 SoC 등 특화 반도체 수요가 확대되고 있습니다. 설계 단계에서 모델 경량화·전력 최적화를 전제로 하는 새로운 아키텍처와 소프트웨어-하드웨어 코디자인이 핵심 이슈로 부각되고 있습니다.",
+      "title": "엣지 생성형 AI와 로보틱스가 반도체 아키텍처 수요 재정의",
+      "summary": "로봇·자율시스템에 생성형 AI를 엣지에서 구현하려는 움직임이 커지면서, 온디바이스 연산, 저전력 고성능 NPU, 센서·제어용 MCU/SoC 통합 등 특화 반도체 설계 수요가 증가하고 있다. 이는 메모리 대역폭, 패키징, 전력반도체와의 시스템 수준 최적화를 요구한다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "EE Times",
           "title": "AI to the Edge: Generative Intelligence for Robotics and Autonomous Systems",
           "url": "https://www.eetimes.com/ai-to-the-edge-generative-intelligence-for-robotics-and-autonomous-systems/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "삼성, 스포츠·교육 연계를 통한 장기 생태계·브랜드 투자 확대",
+      "summary": "삼성전자는 다카르 2026 유스올림픽을 계기로 아프리카 최초 올림픽 행사에 참여해 갤럭시 기술과 선수 중심 프로그램을 제공하며, 청소년 선수 대상 진로·학습 지원과 디지털 경험을 강화하고 있다. 이는 장기적으로 모바일·반도체 브랜드 인지도와 신흥시장 사용자 기반 확대 전략과 맞물린다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Beyond the Medal: Samsung Helps Young Athletes Explore What Comes Next at Dakar 2026",
+          "url": "https://news.samsung.com/global/beyond-the-medal-samsung-helps-young-athletes-explore-what-comes-next-at-dakar-2026"
+        },
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung Champions Young Olympians at Dakar 2026, First-Ever Olympic Event on African Continent",
+          "url": "https://news.samsung.com/global/samsung-champions-young-olympians-at-dakar-2026-first-ever-olympic-event-on-african-continent"
         }
       ]
     }

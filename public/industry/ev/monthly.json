@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-10-09",
-    "to": "2026-11-07"
+    "from": "2026-10-10",
+    "to": "2026-11-08"
   },
   "kpis": {
     "collected": 44,
@@ -9,62 +9,62 @@
     "uniqueTopics": 7,
     "marketShare": {
       "Competition": 26,
-      "Roadmap": 25,
+      "Roadmap": 24,
       "Demand": 22,
       "Investment": 19,
-      "Manufacturing": 8,
+      "Policy": 9,
       "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/09-10/15)",
+      "week": "Week 1 (10/10-10/16)",
       "topicCounts": {
         "Competition": 10,
-        "Roadmap": 9,
+        "Roadmap": 8,
         "Demand": 9,
-        "Investment": 9,
-        "Manufacturing": 4
+        "Investment": 7,
+        "Policy": 3
       }
     },
     {
-      "week": "Week 2 (10/16-10/22)",
+      "week": "Week 2 (10/17-10/23)",
       "topicCounts": {
-        "Competition": 10,
+        "Competition": 8,
         "Roadmap": 9,
-        "Demand": 8,
+        "Demand": 6,
         "Investment": 5,
-        "Manufacturing": 2
+        "Policy": 3
       }
     },
     {
-      "week": "Week 3 (10/23-10/29)",
+      "week": "Week 3 (10/24-10/30)",
       "topicCounts": {
         "Competition": 7,
         "Roadmap": 8,
-        "Demand": 4,
-        "Investment": 9,
-        "Manufacturing": 3
+        "Demand": 6,
+        "Investment": 7,
+        "Policy": 1
       }
     },
     {
-      "week": "Week 4 (10/30-11/05)",
+      "week": "Week 4 (10/31-11/06)",
       "topicCounts": {
-        "Competition": 1,
-        "Roadmap": 1,
-        "Demand": 2,
-        "Investment": 1,
-        "Manufacturing": 1
-      }
-    },
-    {
-      "week": "Week 5 (11/06-11/07)",
-      "topicCounts": {
-        "Competition": 1,
+        "Competition": 3,
         "Roadmap": 2,
-        "Demand": 2,
-        "Investment": 0,
-        "Manufacturing": 1
+        "Demand": 3,
+        "Investment": 2,
+        "Policy": 2
+      }
+    },
+    {
+      "week": "Week 5 (11/07-11/08)",
+      "topicCounts": {
+        "Competition": 2,
+        "Roadmap": 1,
+        "Demand": 1,
+        "Investment": 2,
+        "Policy": 1
       }
     }
   ],
@@ -72,8 +72,8 @@
     {
       "id": "ev-1",
       "status": "SHIFTING",
-      "title": "테슬라, 사이버트럭 생산 중단 기조 속 대폭 가격 인상",
-      "summary": "테슬라는 판매 부진으로 2027년 중반까지 사이버트럭 생산을 단계적으로 중단하면서도, 미국 내 사이버트럭 가격을 최대 10% 인상하고 듀얼 모터 AWD 기본 트림 주문을 중단했다. 실제로 주문 가능한 최저가 트림은 약 9만 2,490달러 수준으로 올라가, 수요 부진·생산 조정·가격 전략이 동시에 재편되는 국면이다.",
+      "title": "테슬라 사이버트럭 생산 중단 및 가격 인상으로 전기 픽업 전략 재편",
+      "summary": "테슬라가 2027년 중반까지 사이버트럭 생산을 단계적으로 종료하는 동시에 미국 내 가격을 최대 10% 인상하면서, 전기 픽업 중심 전략에서 사이버캡 등 다른 라인업으로 생산 여력을 이동시키고 있습니다. 설비 대비 약 10% 수준에 그친 판매 부진이 핵심 원인으로 거론되며, 고가 위주 재포지셔닝과 생산 축소로 수익성 방어에 나선 모습입니다.",
       "articleCount": 2,
       "relatedArticles": [
         {
@@ -90,23 +90,37 @@
     },
     {
       "id": "ev-2",
-      "status": "ONGOING",
-      "title": "테슬라 사이버캡, NHTSA 안전 답변 전면 비공개 요청",
-      "summary": "테슬라는 사이버캡이 연방법 안전 기준을 충족한다는 선서 답변을 NHTSA에 제출하면서, 내용 전체에 대한 기밀 유지를 요구했다. 외부에 공개된 것은 소방관용 30페이지짜리 안전 가이드뿐이며, 실제 인증 근거와 기술 세부 정보는 모두 비공개 처리돼 자율주행·로보택시 안전성과 규제 투명성을 둘러싼 논쟁이 이어질 가능성이 크다.",
+      "status": "NEW",
+      "title": "테슬라 주택용 솔라 루프 ‘실험’ 판결, 신사업 신뢰도에 타격",
+      "summary": "캘리포니아 법원이 주택 솔라 루프 프로젝트 관련 소송에서 테슬라의 사기 책임을 인정했습니다. 테슬라는 이미 계약 및 보증 위반, 시공 과실을 시인한 상태에서 증거 제출까지 소극적으로 대응해 불리한 판결을 받았고, 이는 에너지·주택 솔루션 영역에서 테슬라의 브랜드 신뢰와 향후 프로젝트 수주에 부담으로 작용할 수 있습니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
-          "title": "Tesla wants its sworn Cybercab answers to NHTSA kept entirely secret",
-          "url": "https://electrek.co/2026/11/05/tesla-cybercab-nhtsa-sworn-answers-confidential/"
+          "title": "Tesla deemed liable for fraud after Solar Roof ‘experiment’ on a home",
+          "url": "https://electrek.co/2026/11/07/tesla-solar-roof-fraud-liable-experiment-lawsuit/"
         }
       ]
     },
     {
       "id": "ev-3",
+      "status": "NEW",
+      "title": "Harbinger, 대형 투자·수주로 전기 트럭 시장에서 존재감 확대",
+      "summary": "전기 트럭 스타트업 Harbinger가 시리즈 D에서 2억4천만 달러를 추가 유치하고, FedEx 3억 달러 규모 주문과 미 국방부 계약을 확보하며 상용 전기 트럭 분야의 유망 경쟁자로 부상하고 있습니다. 대형 물류·공공 부문의 신뢰를 확보함에 따라 향후 생산 능력 확충과 제품 라인업 확대가 가속될 전망입니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Harbinger scores another $240M in latest investment round",
+          "url": "https://electrek.co/2026/11/07/harbinger-scores-another-240m-in-latest-investment-round/"
+        }
+      ]
+    },
+    {
+      "id": "ev-4",
       "status": "ONGOING",
-      "title": "BYD, 100만 명 이상 고용하며 글로벌 완성차 중 최대 인력 규모 달성",
-      "summary": "BYD는 102만 명 이상을 고용해 토요타·GM·포드·테슬라 인력을 모두 합친 것보다 많은 수준을 기록했다. 2025년 말 대비 10개월 새 약 15만 명을 추가 고용한 것으로, 배터리·완성차·부품 내재화를 통한 공격적 증설과 글로벌 EV 경쟁 확대를 뒷받침하는 인력 확장이 진행 중이다.",
+      "title": "BYD, 100만 명 넘는 인력으로 글로벌 완성차·배터리 밸류체인 장악 박차",
+      "summary": "BYD가 102만 명 이상의 직원을 보유하며 토요타·GM·포드·테슬라 인력을 모두 합친 규모를 넘어섰습니다. 1년이 채 안 되는 기간에 약 15만 명을 추가 채용할 정도로 제조·R&D·배터리 내재화에 공격적으로 인력을 투입하고 있어, 향후 원가 경쟁력과 수직계열화 측면에서 글로벌 EV 시장 주도권을 더욱 강화할 가능성이 큽니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -117,30 +131,16 @@
       ]
     },
     {
-      "id": "ev-4",
+      "id": "ev-5",
       "status": "ONGOING",
-      "title": "CATL, 20Ah 전고체 배터리로 500Wh/kg 에너지 밀도 도전",
-      "summary": "CATL은 20Ah급 전고체 배터리 셀 개발에 성공하며 차세대 EV 배터리 로드맵에서 중요한 마일스톤을 달성했다. 목표 에너지 밀도는 500Wh/kg 수준으로, 장거리 주행 전기차와 고성능 모델 상용화에 필요한 핵심 기술 진전에 속도를 내고 있다.",
+      "title": "CATL, 20Ah 전고체 배터리로 500Wh/kg 시대 선도 경쟁",
+      "summary": "CATL이 20Ah급 전고체 셀 개발에 성공하며 500Wh/kg 에너지 밀도를 목표로 하는 차세대 배터리 로드맵을 구체화하고 있습니다. 상용화 시 주행거리·경량화 측면에서 기존 리튬이온을 크게 상회할 수 있어, 고급 승용 EV와 항공 모빌리티 등 신규 시장에서 CATL의 기술·공급망 우위가 강화될 전망입니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
           "title": "CATL pushes ahead with 20 Ah solid-state EV batteries, with 500 Wh/kg in sight",
           "url": "https://electrek.co/2026/10/28/catl-pushes-ahead-20-ah-solid-state-ev-batteries-500-wh-kg/"
-        }
-      ]
-    },
-    {
-      "id": "ev-5",
-      "status": "NEW",
-      "title": "렉서스, 5만 달러 미만·300마일 이상 주행 2027년형 RZ 공개",
-      "summary": "렉서스는 내년 초 딜러 출고를 목표로 2027년형 전기 SUV RZ를 출시할 예정이며, 시작 가격은 5만 달러 미만, 1회 충전 주행거리는 300마일 이상으로 제시했다. 프리미엄 EV 시장에서 테슬라와 독일·중국 브랜드에 맞선 토요타/Lexus의 전략 차종으로 주목된다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "The 2027 Lexus RZ starts at under $50,000 and offers over 300 miles of range",
-          "url": "https://electrek.co/2026/10/26/2027-lexus-rz-starts-under-50000-with-300-miles-range/"
         }
       ]
     }

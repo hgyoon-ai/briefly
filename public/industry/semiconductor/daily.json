@@ -1,64 +1,12 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "highlights": {
-    "bullets": [
-      "핵심: 양자컴퓨터 발전으로 블록체인 암호가 향후 2년 내 위험해질 수 있다는 경고가 나왔습니다.",
-      "핵심: SEMICON Europa 2026에서 유럽 반도체 산업이 지정학·기술·경쟁 압력으로 퍼펙트 스톰에 직면했습니다."
-    ],
-    "topTopics": [
-      "Roadmap",
-      "Investment",
-      "Policy",
-      "Competition"
-    ],
+    "bullets": [],
+    "topTopics": [],
     "stats": {
-      "collected": 4,
-      "deduped": 4
+      "collected": 0,
+      "deduped": 0
     }
   },
-  "cards": [
-    {
-      "id": "semiconductor_0001",
-      "tab": "semiconductor",
-      "publishedAt": "2026-11-07T06:00:00+09:00",
-      "source": "EE Times",
-      "title": "The Countdown to Q-Day Has Begun",
-      "summary": [
-        "양자컴퓨터의 발전으로 블록체인 암호가 향후 2년 내에 위험해질 수 있다고 경고합니다.",
-        "기존 공개키 암호는 양자공격에 취약해 즉각적인 전환이 필요합니다.",
-        "표준화·마이그레이션·정책 대응 속도가 피해 범위를 결정합니다."
-      ],
-      "whyItMatters": "양자 하드웨어와 공격 기법의 빠른 진전으로 현재의 암호체계가 곧 실질적 위협에 노출될 가능성이 높기 때문입니다.",
-      "topics": [
-        "Policy",
-        "Roadmap",
-        "Investment"
-      ],
-      "status": "ONGOING",
-      "hash": "fdc7c1b72bb51eb10450c78b4aeb12dc3253671e3491dc4d75b06db91e0b61c9",
-      "url": "https://www.eetimes.com/the-countdown-to-q-day-has-begun/"
-    },
-    {
-      "id": "semiconductor_0002",
-      "tab": "semiconductor",
-      "publishedAt": "2026-11-06T18:53:05+09:00",
-      "source": "EE Times",
-      "title": "Europe’s Chip Industry: Perfect Storm or Perfect Timing?",
-      "summary": [
-        "SEMICON Europa 2026에서 유럽 반도체 산업이 지정학적·기술적·경쟁적 압력의 '퍼펙트 스톰'에 직면한다.",
-        "이로 인해 공급망 재편, 투자 우선순위 변경, 기술 로드맵 조정이 요구된다.",
-        "행사는 유럽의 정책 대응과 산업 협력 능력을 시험하는 계기가 될 것이다."
-      ],
-      "whyItMatters": "글은 이러한 압력들이 유럽의 글로벌 경쟁력과 산업 전략에 중대한 영향을 미쳐 즉각적 정책·투자 대응이 필요하다고 경고한다.",
-      "topics": [
-        "Policy",
-        "Competition",
-        "Investment",
-        "Roadmap"
-      ],
-      "status": "SHIFTING",
-      "hash": "1845b180d377245b1cd3d4651097adff0150fb6bc8ba046cd07203ab48c77e63",
-      "url": "https://www.eetimes.com/europe-chip-industry-perfect-storm-or-perfect-timing/"
-    }
-  ]
+  "cards": []
 }

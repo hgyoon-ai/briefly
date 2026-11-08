@@ -1,0 +1,153 @@
+{
+  "range": {
+    "from": "2026-10-10",
+    "to": "2026-11-08"
+  },
+  "kpis": {
+    "collected": 52,
+    "deduped": 52,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 29,
+      "Competition": 21,
+      "Manufacturing": 21,
+      "Investment": 15,
+      "Demand": 13,
+      "Other": 1
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/10-10/16)",
+      "topicCounts": {
+        "Roadmap": 14,
+        "Competition": 11,
+        "Manufacturing": 11,
+        "Investment": 7,
+        "Demand": 3
+      }
+    },
+    {
+      "week": "Week 2 (10/17-10/23)",
+      "topicCounts": {
+        "Roadmap": 12,
+        "Competition": 10,
+        "Manufacturing": 6,
+        "Investment": 1,
+        "Demand": 7
+      }
+    },
+    {
+      "week": "Week 3 (10/24-10/30)",
+      "topicCounts": {
+        "Roadmap": 8,
+        "Competition": 5,
+        "Manufacturing": 9,
+        "Investment": 7,
+        "Demand": 5
+      }
+    },
+    {
+      "week": "Week 4 (10/31-11/06)",
+      "topicCounts": {
+        "Roadmap": 6,
+        "Competition": 2,
+        "Manufacturing": 3,
+        "Investment": 4,
+        "Demand": 2
+      }
+    },
+    {
+      "week": "Week 5 (11/07-11/08)",
+      "topicCounts": {
+        "Roadmap": 0,
+        "Competition": 0,
+        "Manufacturing": 0,
+        "Investment": 0,
+        "Demand": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "양자 보안 위협 부상과 반도체·암호 인프라 전환 압력",
+      "summary": "양자컴퓨터 성능 향상으로 블록체인 등 공개키 암호가 2년 내 위험해질 수 있다는 경고가 나오며, 반도체 설계·보안 IP·HSM 및 통신 인프라 전반에 양자내성암호(PQC) 지원 요구가 급격히 커지고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "The Countdown to Q-Day Has Begun",
+          "url": "https://www.eetimes.com/the-countdown-to-q-day-has-begun/"
+        },
+        {
+          "source": "EE Times",
+          "title": "Canada’s Quantum Sector Sets Sights on Commercialization",
+          "url": "https://www.eetimes.com/canadas-quantum-sector-sets-sights-on-commercialization/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "첨단 반도체 제조·패키징 기술 진보와 응용 다변화",
+      "summary": "최신 공정·패키징 기술이 잡지 특집과 웨비나를 통해 공유되며, 고성능·저전력 칩 요구에 대응한 후공정 혁신과 함께 농업 자율화, 로봇·자율시스템 등 새로운 응용 시장으로의 확장이 진행 중이다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "EE Times Magazine – November 2026",
+          "url": "https://www.eetimes.com/ee-times-magazine-november-2026/"
+        },
+        {
+          "source": "EE Times",
+          "title": "AI to the Edge: Generative Intelligence for Robotics and Autonomous Systems",
+          "url": "https://www.eetimes.com/ai-to-the-edge-generative-intelligence-for-robotics-and-autonomous-systems/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "AI 메모리 슈퍼사이클과 삼성전자의 실적 급등",
+      "summary": "AI 서버와 가속기 수요가 HBM·고대역폭 D램 등 AI 특화 메모리의 대규모 증설을 견인하며, 삼성전자가 분기 영업이익 800억 달러를 기록하는 등 메모리 중심 반도체 호황 국면이 이어지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Samsung Electronics Posts $80B Operating Profit on AI Memory Demand",
+          "url": "https://www.eetimes.com/samsung-electronics-posts-80b-operating-profit-on-ai-memory-demand/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "SHIFTING",
+      "title": "유럽 반도체, 지정학·경쟁 압력 속 공급망·투자 재편",
+      "summary": "SEMICON Europa 2026을 통해 유럽 반도체 산업이 미·중 경쟁, 기술 격차, 인플레이션 등 ‘퍼펙트 스톰’에 직면했음이 드러났으며, 이에 따라 공급망 자립, 전략 분야 집중 투자, 로드맵 재조정이 본격화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Europe’s Chip Industry: Perfect Storm or Perfect Timing?",
+          "url": "https://www.eetimes.com/europe-chip-industry-perfect-storm-or-perfect-timing/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "위성·5G 기반 멀티레이어 위치결정 기술 수요 확대",
+      "summary": "GPS 재밍과 스푸핑 사례 증가로 GNSS 단일 의존의 한계가 부각되면서, 4G·5G·NTN(비지상망)을 결합한 복수 계층 위치결정 기술에 대한 정책·시장 수요가 커지고 있으며, 관련 RF·위성·통신용 반도체 수요도 동반 확대되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "When GPS Isn’t Enough: Building a Second Layer of Positioning",
+          "url": "https://www.eetimes.com/when-gps-isnt-enough-building-a-second-layer-of-positioning/"
+        }
+      ]
+    }
+  ]
+}

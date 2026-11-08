@@ -1,0 +1,286 @@
+{
+  "range": {
+    "from": "2026-11-02",
+    "to": "2026-11-08"
+  },
+  "kpis": {
+    "collected": 8,
+    "deduped": 8,
+    "uniqueTopics": 6
+  },
+  "topTopics": [
+    {
+      "name": "Roadmap",
+      "count": 8
+    },
+    {
+      "name": "Investment",
+      "count": 6
+    },
+    {
+      "name": "Policy",
+      "count": 3
+    },
+    {
+      "name": "Competition",
+      "count": 3
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-02",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-04",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-04",
+      "dayOfWeek": "Wed",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-04",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-04",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 3
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "양자컴퓨팅 부상으로 반도체·보안 로드맵 재편 가속",
+      "summary": "양자컴퓨터 발전으로 블록체인과 기존 공개키 암호가 2~3년 내 위협받을 수 있다는 전망과 함께, 캐나다 등 각국이 양자 상용화·방위 조달·공동 인프라에 투자하며 양자-반도체 연계 생태계를 키우고 있다. 보안 IP, 양자내성암호(PQC) 가속기, 양자센서·제어용 반도체가 중장기 핵심 성장 영역으로 부상한다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "The Countdown to Q-Day Has Begun",
+          "url": "https://www.eetimes.com/the-countdown-to-q-day-has-begun/"
+        },
+        {
+          "source": "EE Times",
+          "title": "Canada’s Quantum Sector Sets Sights on Commercialization",
+          "url": "https://www.eetimes.com/canadas-quantum-sector-sets-sights-on-commercialization/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "유럽 반도체, 지정학·투자 압력 속 공급망·기술 전략 재조정",
+      "summary": "SEMICON Europa 2026 논의를 통해 유럽 반도체 산업이 지정학 리스크, 보조금 경쟁, 기술 격차라는 ‘퍼펙트 스톰’에 직면했음이 드러났다. 이에 따라 제조 거점 다변화, 공공·민간 투자 재배치, 특정 공정·패키징 기술 집중 등 중장기 로드맵 수정이 요구되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Europe’s Chip Industry: Perfect Storm or Perfect Timing?",
+          "url": "https://www.eetimes.com/europe-chip-industry-perfect-storm-or-perfect-timing/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "첨단 패키징·제조 기술이 시스템·응용 주도권의 핵심 축으로 부상",
+      "summary": "최신 반도체 제조·패키징 기술이 전력 효율, 집적도, 시스템 성능 경쟁의 핵심 요소로 부각되고 있다. GaN 전력소자 상용화 가속, 애플리케이션 확대와 더불어 생산·공급망 과제가 남아 있으며, 이는 유럽·글로벌 IDMs의 투자 우선순위와 파운드리·OSAT 협력 구조에 영향을 준다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "EE Times Magazine – November 2026",
+          "url": "https://www.eetimes.com/ee-times-magazine-november-2026/"
+        },
+        {
+          "source": "EE Times",
+          "title": "Infineon’s Johannes Schoiswohl on the GaN Market at OktoberTech",
+          "url": "https://www.eetimes.com/infineons-johannes-schoiswohl-on-the-gan-market-at-oktobertech/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "엣지 생성형 AI와 로보틱스가 반도체 아키텍처 수요 재정의",
+      "summary": "로봇·자율시스템에 생성형 AI를 엣지에서 구현하려는 움직임이 커지면서, 온디바이스 연산, 저전력 고성능 NPU, 센서·제어용 MCU/SoC 통합 등 특화 반도체 설계 수요가 증가하고 있다. 이는 메모리 대역폭, 패키징, 전력반도체와의 시스템 수준 최적화를 요구한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "AI to the Edge: Generative Intelligence for Robotics and Autonomous Systems",
+          "url": "https://www.eetimes.com/ai-to-the-edge-generative-intelligence-for-robotics-and-autonomous-systems/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "삼성, 스포츠·교육 연계를 통한 장기 생태계·브랜드 투자 확대",
+      "summary": "삼성전자는 다카르 2026 유스올림픽을 계기로 아프리카 최초 올림픽 행사에 참여해 갤럭시 기술과 선수 중심 프로그램을 제공하며, 청소년 선수 대상 진로·학습 지원과 디지털 경험을 강화하고 있다. 이는 장기적으로 모바일·반도체 브랜드 인지도와 신흥시장 사용자 기반 확대 전략과 맞물린다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Beyond the Medal: Samsung Helps Young Athletes Explore What Comes Next at Dakar 2026",
+          "url": "https://news.samsung.com/global/beyond-the-medal-samsung-helps-young-athletes-explore-what-comes-next-at-dakar-2026"
+        },
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung Champions Young Olympians at Dakar 2026, First-Ever Olympic Event on African Continent",
+          "url": "https://news.samsung.com/global/samsung-champions-young-olympians-at-dakar-2026-first-ever-olympic-event-on-african-continent"
+        }
+      ]
+    }
+  ]
+}
