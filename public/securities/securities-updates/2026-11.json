@@ -2,6 +2,147 @@
   "month": "2026-11",
   "events": [
     {
+      "id": "news:KB증권:https://www.hankyung.com/article/2026110936436",
+      "date": "2026-11-09",
+      "company": "KB증권",
+      "title": "\"한국콜마, 생산능력 확대로 비용 부담 증가…목표가↓\"-KB",
+      "oneLiner": "KB증권이 한국콜마의 생산능력 확대에 따른 비용 증가를 이유로 목표주가를 하향 조정했다는 리서트 기사입니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "\"한국콜마, 생산능력 확대로 비용 부담 증가…목표가↓\"-KB",
+          "url": "https://www.hankyung.com/article/2026110936436"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-09"
+    },
+    {
+      "id": "news:KB증권:https://www.mk.co.kr/news/stock/12202022",
+      "date": "2026-11-09",
+      "company": "KB증권",
+      "title": "“주문 늘어도 비용 부담”…한국콜마 목표가 18만→15만원",
+      "oneLiner": "KB증권이 한국콜마에 대해 생산능력 확대로 비용 부담이 커져 목표주가를 18만에서 15만원으로 낮췄다고 보도했습니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“주문 늘어도 비용 부담”…한국콜마 목표가 18만→15만원",
+          "url": "https://www.mk.co.kr/news/stock/12202022"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-09"
+    },
+    {
+      "id": "news:KB증권:https://www.mk.co.kr/news/stock/12202007",
+      "date": "2026-11-09",
+      "company": "KB증권",
+      "title": "“삼성전자, 지금은 반등 가능성 주목할 때”…비관론 정점 속 돋보인 리포트",
+      "oneLiner": "KB증권이 삼성전자에 대해 비관론 정점 국면에서 반등 가능성에 주목해야 한다는 분석을 담은 리포트를 냈습니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“삼성전자, 지금은 반등 가능성 주목할 때”…비관론 정점 속 돋보인 리포트",
+          "url": "https://www.mk.co.kr/news/stock/12202007"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-09"
+    },
+    {
+      "id": "news:삼성증권:https://www.fnnews.com/news/202611090940529707",
+      "date": "2026-11-09",
+      "company": "삼성증권",
+      "title": "\"금·은·구리 가격 올라도 내려도 투자\"…삼성증권, ETN 6종 상장",
+      "oneLiner": "삼성증권이 금·은·구리 선물에 투자하는 정방향·인버스 ETN 6종을 신규 상장했다고 발표했습니다.",
+      "type": "출시",
+      "areas": [
+        "트레이딩",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"금·은·구리 가격 올라도 내려도 투자\"…삼성증권, ETN 6종 상장",
+          "url": "https://www.fnnews.com/news/202611090940529707"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-09"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12201813",
+      "date": "2026-11-08",
+      "company": "미래에셋증권",
+      "title": "미래에셋증권까지 뚫렸다 … 임직원 3만5천명 정보유출",
+      "oneLiner": "미래에셋증권에서 해킹으로 임직원 및 일부 고객 정보 약 3만5천여건이 유출됐다는 보도로, 보안 사고·운영 리스크 발생을 알립니다.",
+      "type": "시스템",
+      "areas": [
+        "리스크",
+        "상담"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "미래에셋증권까지 뚫렸다 … 임직원 3만5천명 정보유출",
+          "url": "https://www.mk.co.kr/news/stock/12201813"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-11-09"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202611081810418615",
+      "date": "2026-11-08",
+      "company": "미래에셋증권",
+      "title": "미래에셋證도 뚫렸다… 한 달 새 금투업 5곳 해킹 피해",
+      "oneLiner": "미래에셋증권의 모바일웹 인증로그인과 사내 그룹웨어가 외부공격을 받아 고객·임직원 약 3만9천명의 정보가 유출된 것으로 보고되었으며, 대응 조치 및 관계기관 신고가 이뤄졌습니다.",
+      "type": "시스템",
+      "areas": [
+        "리스크",
+        "상담"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋證도 뚫렸다… 한 달 새 금투업 5곳 해킹 피해",
+          "url": "https://www.fnnews.com/news/202611081810418615"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.98,
+      "updatedAt": "2026-11-09"
+    },
+    {
       "id": "35efdc2d5882712b0e967b2024689d9ef3ce9038",
       "date": "2026-11-07",
       "company": "한국투자증권",
@@ -23,7 +164,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-11-08"
+      "updatedAt": "2026-11-09"
     },
     {
       "id": "news:미래에셋증권:https://www.mk.co.kr/news/economy/12201367",

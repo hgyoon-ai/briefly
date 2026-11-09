@@ -2,6 +2,31 @@
   "month": "2026-11",
   "events": [
     {
+      "id": "news:삼성증권:https://www.fnnews.com/news/202611081759575925",
+      "date": "2026-11-08",
+      "company": "삼성증권",
+      "title": "S&P500·반도체·전력 나눠 담아도 결국 AI 쏠림… 퇴직연금 분산 착시",
+      "oneLiner": "삼성증권의 퇴직연금 보유 상위 ETF 분석에서 표면적 분산에도 불구하고 AI 산업 노출로 인한 집합적 쏠림(집중 리스크)이 확인되어 분산 착시가 발생하고 있음을 경고함.",
+      "type": "리서치",
+      "areas": [
+        "리스크",
+        "WM",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "S&P500·반도체·전력 나눠 담아도 결국 AI 쏠림… 퇴직연금 분산 착시",
+          "url": "https://www.fnnews.com/news/202611081759575925"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-09"
+    },
+    {
       "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12201388",
       "date": "2026-11-07",
       "company": "미래에셋증권",
@@ -22,7 +47,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-11-08"
+      "updatedAt": "2026-11-09"
     },
     {
       "id": "news:미래에셋증권:https://www.fnnews.com/news/202611061524123827",
