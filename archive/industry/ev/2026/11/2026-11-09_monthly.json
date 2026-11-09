@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-10-11",
+    "to": "2026-11-09"
+  },
+  "kpis": {
+    "collected": 44,
+    "deduped": 44,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Competition": 26,
+      "Roadmap": 24,
+      "Demand": 21,
+      "Investment": 20,
+      "Policy": 9,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/11-10/17)",
+      "topicCounts": {
+        "Competition": 10,
+        "Roadmap": 6,
+        "Demand": 9,
+        "Investment": 6,
+        "Policy": 4
+      }
+    },
+    {
+      "week": "Week 2 (10/18-10/24)",
+      "topicCounts": {
+        "Competition": 7,
+        "Roadmap": 9,
+        "Demand": 4,
+        "Investment": 7,
+        "Policy": 4
+      }
+    },
+    {
+      "week": "Week 3 (10/25-10/31)",
+      "topicCounts": {
+        "Competition": 5,
+        "Roadmap": 7,
+        "Demand": 4,
+        "Investment": 5,
+        "Policy": 0
+      }
+    },
+    {
+      "week": "Week 4 (11/01-11/07)",
+      "topicCounts": {
+        "Competition": 4,
+        "Roadmap": 4,
+        "Demand": 5,
+        "Investment": 2,
+        "Policy": 2
+      }
+    },
+    {
+      "week": "Week 5 (11/08-11/09)",
+      "topicCounts": {
+        "Competition": 2,
+        "Roadmap": 2,
+        "Demand": 1,
+        "Investment": 2,
+        "Policy": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "ev-1",
+      "status": "NEW",
+      "title": "르노, 자율 전기차 기반 군용 로봇 플랫폼 사업 진출",
+      "summary": "르노가 자사 전기·자율주행 기술을 기반으로 프랑스 육군용 군용 로봇 플랫폼 시장 진출을 추진하며, 민간 전기차 기술을 방산·국방 영역으로 확장하는 움직임이 가시화되고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "French carmaker Renault wants to get into the military robot business",
+          "url": "https://electrek.co/2026/11/08/french-carmaker-renault-wants-to-get-into-the-military-robot-business/"
+        }
+      ]
+    },
+    {
+      "id": "ev-2",
+      "status": "ONGOING",
+      "title": "폭스바겐, ID. AURA로 중국 중심 대중형 전기차 재도약 시도",
+      "summary": "폭스바겐이 중국 합작사 FAW-VW를 통해 대중형 전기 세단 ID. AURA L5를 출시하며, 비틀에 이은 ‘국민 EV’ 포지셔닝과 소프트웨어 경쟁력 강화를 통해 글로벌 전기차 시장 점유율 회복을 노리고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "New ID. AURA is the mainstream EV VW needs – but its software is the real story",
+          "url": "https://electrek.co/2026/11/08/new-id-aura-is-the-mainstream-ev-vw-needs-but-its-software-is-the-real-story/"
+        }
+      ]
+    },
+    {
+      "id": "ev-3",
+      "status": "NEW",
+      "title": "테슬라 솔라 루프 사기 책임 인정 판결, 브랜드 신뢰·규제 리스크 확대",
+      "summary": "캘리포니아 소송에서 테슬라 솔라 루프 프로젝트와 관련해 법원이 사기 책임을 인정하며, 이미 드러난 계약 위반·보증 위반·시공 과실에 더해 증거 제출 거부까지 문제시되면서 테슬라의 신뢰도와 향후 규제·소송 리스크가 커지고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla deemed liable for fraud after Solar Roof ‘experiment’ on a home",
+          "url": "https://electrek.co/2026/11/07/tesla-solar-roof-fraud-liable-experiment-lawsuit/"
+        }
+      ]
+    },
+    {
+      "id": "ev-4",
+      "status": "SHIFTING",
+      "title": "테슬라 사이버트럭 생산 중단 속 가격 최대 10% 인상",
+      "summary": "테슬라가 사이버트럭 생산 종료를 발표한 가운데 미국에서 가격을 최대 10% 올리고 듀얼 모터 기본 트림 주문을 중단해, 실제 구매 가능한 최저가가 9만 달러대 초반으로 높아지면서 수요 구조와 수익성 전략 조정이 진행되고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla hikes Cybertruck prices up to 10% after announcing it will kill production",
+          "url": "https://electrek.co/2026/11/06/tesla-raises-cybertruck-prices-after-ending-production/"
+        }
+      ]
+    },
+    {
+      "id": "ev-5",
+      "status": "ONGOING",
+      "title": "BYD, 100만 명 이상 인력 기반 초대형 EV 제조 생태계 구축",
+      "summary": "BYD가 불과 10개월 만에 약 15만 명을 추가 고용해 총 102만 명 인력을 확보, 토요타·GM·포드·테슬라 인력을 합친 것보다 많은 규모로 EV·배터리 수직계열화와 글로벌 생산 확대를 가속하고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "BYD now has 1.02 million workers, more than Toyota, GM, Ford, and Tesla combined",
+          "url": "https://electrek.co/2026/10/28/byd-1-million-employees-more-than-toyota-gm-ford-tesla/"
+        }
+      ]
+    }
+  ]
+}

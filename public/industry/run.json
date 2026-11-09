@@ -1,6 +1,6 @@
 {
-  "id": "2026-11-08T09:48:41.597780+09:00",
-  "ts": "2026-11-08T09:48:41.597780+09:00",
+  "id": "2026-11-09T10:03:15.295069+09:00",
+  "ts": "2026-11-09T10:03:15.295069+09:00",
   "timezone": "Asia/Seoul",
   "selectedTabs": [
     "ai",
@@ -10,14 +10,14 @@
     "realestate"
   ],
   "pipeline": {
-    "rawTotal": 206,
+    "rawTotal": 207,
     "rawClamped": 150,
     "rawByTabBeforeClamp": {
       "ai": 100,
       "finance": 30,
       "semiconductor": 45,
       "ev": 15,
-      "realestate": 16
+      "realestate": 17
     },
     "rawByTabAfterClamp": {
       "ai": 70,
@@ -32,7 +32,7 @@
   },
   "sources": {
     "rss": {
-      "total": 176,
+      "total": 177,
       "bySource": {
         "OpenAI Blog": 15,
         "Google DeepMind Blog": 15,
@@ -46,9 +46,9 @@
         "Electrek": 15,
         "매일경제(증권)": 15,
         "벤처스퀘어": 15,
-        "한국경제(부동산)": 4,
-        "매일경제(부동산)": 2,
-        "헤럴드경제(부동산)": 10
+        "한국경제(부동산)": 3,
+        "매일경제(부동산)": 6,
+        "헤럴드경제(부동산)": 8
       }
     },
     "hf": {
@@ -71,7 +71,7 @@
         "cards": 0
       },
       "weekly": {
-        "items": 13,
+        "items": 9,
         "issues": 5
       },
       "monthly": {
@@ -81,11 +81,11 @@
     },
     "finance": {
       "daily": {
-        "raw": 8,
+        "raw": 15,
         "cards": 2
       },
       "weekly": {
-        "items": 8,
+        "items": 9,
         "issues": 5
       },
       "monthly": {
@@ -99,7 +99,7 @@
         "cards": 0
       },
       "weekly": {
-        "items": 8,
+        "items": 5,
         "issues": 5
       },
       "monthly": {
@@ -109,7 +109,7 @@
     },
     "ev": {
       "daily": {
-        "raw": 6,
+        "raw": 4,
         "cards": 2
       },
       "weekly": {
@@ -123,15 +123,15 @@
     },
     "realestate": {
       "daily": {
-        "raw": 3,
-        "cards": 3
+        "raw": 15,
+        "cards": 5
       },
       "weekly": {
-        "items": 18,
+        "items": 21,
         "issues": 5
       },
       "monthly": {
-        "items": 102,
+        "items": 105,
         "issues": 5
       }
     }

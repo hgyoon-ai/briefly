@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-11-02",
-    "to": "2026-11-08"
+    "from": "2026-11-03",
+    "to": "2026-11-09"
   },
   "kpis": {
     "collected": 8,
@@ -11,57 +11,27 @@
   "topTopics": [
     {
       "name": "Competition",
-      "count": 6
-    },
-    {
-      "name": "Demand",
-      "count": 6
+      "count": 7
     },
     {
       "name": "Roadmap",
-      "count": 5
+      "count": 6
     },
     {
       "name": "Investment",
-      "count": 4
+      "count": 5
+    },
+    {
+      "name": "Demand",
+      "count": 5
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-11-02",
-      "dayOfWeek": "Mon",
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
       "topic": "Competition",
       "count": 0
-    },
-    {
-      "date": "2026-11-02",
-      "dayOfWeek": "Mon",
-      "topic": "Demand",
-      "count": 1
-    },
-    {
-      "date": "2026-11-02",
-      "dayOfWeek": "Mon",
-      "topic": "Roadmap",
-      "count": 1
-    },
-    {
-      "date": "2026-11-02",
-      "dayOfWeek": "Mon",
-      "topic": "Investment",
-      "count": 1
-    },
-    {
-      "date": "2026-11-03",
-      "dayOfWeek": "Tue",
-      "topic": "Competition",
-      "count": 1
-    },
-    {
-      "date": "2026-11-03",
-      "dayOfWeek": "Tue",
-      "topic": "Demand",
-      "count": 1
     },
     {
       "date": "2026-11-03",
@@ -76,15 +46,15 @@
       "count": 0
     },
     {
-      "date": "2026-11-04",
-      "dayOfWeek": "Wed",
-      "topic": "Competition",
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Demand",
       "count": 0
     },
     {
       "date": "2026-11-04",
       "dayOfWeek": "Wed",
-      "topic": "Demand",
+      "topic": "Competition",
       "count": 0
     },
     {
@@ -100,15 +70,15 @@
       "count": 0
     },
     {
-      "date": "2026-11-05",
-      "dayOfWeek": "Thu",
-      "topic": "Competition",
+      "date": "2026-11-04",
+      "dayOfWeek": "Wed",
+      "topic": "Demand",
       "count": 0
     },
     {
       "date": "2026-11-05",
       "dayOfWeek": "Thu",
-      "topic": "Demand",
+      "topic": "Competition",
       "count": 0
     },
     {
@@ -121,18 +91,18 @@
       "date": "2026-11-05",
       "dayOfWeek": "Thu",
       "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Demand",
       "count": 0
     },
     {
       "date": "2026-11-06",
       "dayOfWeek": "Fri",
       "topic": "Competition",
-      "count": 3
-    },
-    {
-      "date": "2026-11-06",
-      "dayOfWeek": "Fri",
-      "topic": "Demand",
       "count": 3
     },
     {
@@ -148,15 +118,15 @@
       "count": 1
     },
     {
-      "date": "2026-11-07",
-      "dayOfWeek": "Sat",
-      "topic": "Competition",
-      "count": 1
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 3
     },
     {
       "date": "2026-11-07",
       "dayOfWeek": "Sat",
-      "topic": "Demand",
+      "topic": "Competition",
       "count": 1
     },
     {
@@ -172,36 +142,66 @@
       "count": 1
     },
     {
-      "date": "2026-11-08",
-      "dayOfWeek": "Sun",
-      "topic": "Competition",
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Demand",
       "count": 1
     },
     {
       "date": "2026-11-08",
       "dayOfWeek": "Sun",
-      "topic": "Demand",
-      "count": 0
+      "topic": "Competition",
+      "count": 2
     },
     {
       "date": "2026-11-08",
       "dayOfWeek": "Sun",
       "topic": "Roadmap",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-11-08",
       "dayOfWeek": "Sun",
       "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Demand",
       "count": 1
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Demand",
+      "count": 0
     }
   ],
   "topIssues": [
     {
-      "id": 1,
+      "id": "ev-1",
       "status": "SHIFTING",
-      "title": "테슬라 사이버트럭 생산 중단 및 가격 인상으로 EV 픽업 전략 전환 가속",
-      "summary": "테슬라가 텍사스 공장에서 2027년 중반까지 사이버트럭 생산을 단계적으로 종료하면서 동시에 미국에서 사이버트럭 가격을 최대 10% 인상했다. 연 25만 대 생산 능력 대비 약 10% 수준에 그친 판매 부진이 중단 결정의 배경으로, 단종 직전 가격 인상과 듀얼 모터 AWD 기본 트림 주문 중단은 수익성 방어와 생산·투자 자원 재배치를 위한 전략적 조정으로 해석된다.",
+      "title": "테슬라 사이버트럭 생산 중단 및 가격 인상으로 북미 전기 픽업 전략 재조정",
+      "summary": "테슬라가 텍사스 공장에서 2027년 중반까지 사이버트럭 생산을 단계적으로 중단하고, 동시에 미국 내 사이버트럭 가격을 최대 10% 인상하며 듀얼 모터 AWD 기본 트림 주문을 중단했다. 설비 기준 연 25만대 목표 대비 약 10% 수준의 부진한 판매가 근본 원인으로 해석되며, 테슬라는 사이버캡 생산 공간 확보를 명분으로 픽업 트럭 중심 전략에서 로보택시·플릿 중심 전략으로 무게중심을 옮기는 흐름을 보이고 있다.",
       "articleCount": 2,
       "relatedArticles": [
         {
@@ -217,38 +217,24 @@
       ]
     },
     {
-      "id": 2,
+      "id": "ev-2",
       "status": "ONGOING",
-      "title": "테슬라 사이버캡, 안전 인증 정보 전면 비공개 요청으로 규제 리스크·불확실성 확대",
-      "summary": "테슬라는 사이버캡이 연방법 안전 기준을 충족한다는 선서 답변을 NHTSA에 제출하면서, 기술 세부 사항과 인증 근거 전체를 기밀로 유지해 달라고 요청했다. 현재 공개된 것은 소방관용 30페이지 안전 가이드뿐이며, 자율주행·보안 관련 핵심 정보는 모두 비공개 처리돼 향후 규제 협의, 투자 심리, 경쟁사 대비 기술 리더십 평가에 불확실성이 커지고 있다.",
+      "title": "폭스바겐, 중국 시장 겨냥 대중형 전기 세단 ID. AURA로 소프트웨어 중심 전환 가속",
+      "summary": "폭스바겐이 중국 합작사 FAW-VW를 통해 대중형 전기 세단 ID. AURA L5를 출시하며 전기차 재도약을 노리고 있다. 내연기관 시절 비틀처럼 가격 경쟁력과 보급형 포지셔닝을 앞세워 중국 대중 시장을 다시 공략하는 한편, 차량 내 소프트웨어·디지털 경험을 차별화 포인트로 내세워 기존 하드웨어 중심 전략에서 소프트웨어·서비스 중심으로 전환을 가속하는 것이 핵심이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
-          "title": "Tesla wants its sworn Cybercab answers to NHTSA kept entirely secret",
-          "url": "https://electrek.co/2026/11/05/tesla-cybercab-nhtsa-sworn-answers-confidential/"
+          "title": "New ID. AURA is the mainstream EV VW needs – but its software is the real story",
+          "url": "https://electrek.co/2026/11/08/new-id-aura-is-the-mainstream-ev-vw-needs-but-its-software-is-the-real-story/"
         }
       ]
     },
     {
-      "id": 3,
+      "id": "ev-3",
       "status": "NEW",
-      "title": "테슬라 솔라 루프 ‘실험’ 소송서 사기 책임 인정, 에너지 사업 신뢰도 타격",
-      "summary": "캘리포니아 법원은 테슬라의 주택용 솔라 루프 프로젝트를 둘러싼 소송에서 테슬라의 사기 책임을 인정했다. 테슬라는 이미 계약 위반, 보증 위반, 시공상 과실을 인정한 상태였으며, 재판 과정에서 핵심 증거 제출을 반복적으로 거부한 점이 불리하게 작용했다. 이는 EV와 더불어 에너지 솔루션을 축으로 하는 테슬라의 브랜드 신뢰도와 향후 주택용 에너지 사업 확장에 부정적 변수가 될 수 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "Tesla deemed liable for fraud after Solar Roof ‘experiment’ on a home",
-          "url": "https://electrek.co/2026/11/07/tesla-solar-roof-fraud-liable-experiment-lawsuit/"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "status": "NEW",
-      "title": "Harbinger, 2억4천만 달러 추가 투자와 대형 계약으로 전기 트럭 성장세 가속",
-      "summary": "전기 트럭 제조사 Harbinger가 시리즈 D 라운드에서 2억4천만 달러를 유치하며 성장 자금을 대거 확보했다. 최근 FedEx로부터 3억 달러 규모 주문과 미 국방부 계약까지 연이어 수주하며 상용 전기 트럭 분야에서 수요 검증과 레퍼런스를 동시에 확보, 기존 완성차 제조사와의 경쟁 구도 속에서 생산 확대와 제품 라인업 확장에 유리한 발판을 마련했다.",
+      "title": "Harbinger, 대규모 투자와 주문 확보로 전기 트럭 상용 물류·군수 시장에서 급부상",
+      "summary": "전기 트럭 스타트업 Harbinger가 시리즈 D 라운드에서 2억4천만 달러를 추가 조달하고, FedEx로부터 3억 달러 규모 상용 주문과 미 국방부 계약을 연이어 확보했다. 상용 물류 플릿과 군수 분야를 동시에 공략할 재원을 확보함으로써 중·대형 전기 트럭 세그먼트에서 기존 완성차 업체와의 경쟁이 본격화되고 있으며, 북미 상용 EV 시장 내 신흥 강자로 부상하고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -259,16 +245,30 @@
       ]
     },
     {
-      "id": 5,
+      "id": "ev-4",
       "status": "SHIFTING",
-      "title": "포드 F-150 라이트닝, 중고 시장 50% 할인 ‘불티’…EV 픽업 가치 재평가 신호",
-      "summary": "포드 F-150 라이트닝이 중고 시장에서 신차 대비 약 50% 할인된 가격에 빠르게 소진되고 있다. 한때 인기였던 전기 픽업이 단기간에 대량으로 중고 시장에 풀리면서 거래는 활발하지만, 잔존가치 하락과 초기 수요 과열의 후유증이 드러나는 모습이다. 이는 EV 픽업 세그먼트의 가격 전략, 리스·잔가 보장 프로그램 설계에 재조정을 요구하는 신호로 해석된다.",
+      "title": "포드 F-150 라이트닝, 중고 시장 50% 급락가에도 빠른 소진으로 수요 구조 변화 시사",
+      "summary": "포드 F-150 라이트닝이 중고 시장에서 신차 대비 약 50% 할인된 가격에 거래되면서도 물량이 빠르게 소진되고 있다. 초기 신차 수요가 둔화된 반면, 가격 민감도가 높은 소비자층이 중고 전기 픽업으로 유입되며 EV 픽업 수요가 고가 신차에서 저가 중고차 중심으로 재편되는 조짐을 보여준다. 이는 제조사들의 가격 전략·잔존가치 관리 및 향후 전기 픽업 포트폴리오 조정에 영향을 줄 가능성이 크다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
           "title": "Ford’s electric pickup is suddenly selling like hotcakes at 50% off used",
           "url": "https://electrek.co/2026/11/05/fords-electric-pickup-selling-like-hotcakes-50-off-used/"
+        }
+      ]
+    },
+    {
+      "id": "ev-5",
+      "status": "NEW",
+      "title": "르노, 자율 전기차 기술 활용한 군용 로봇 플랫폼 진출로 EV 기술 군수 전환 본격화",
+      "summary": "르노가 프랑스 육군 임무 수행을 지원하기 위한 자율 전기차 기반 군용 로봇 플랫폼 사업 진출을 추진하고 있다. 민수용 전기·자율주행 기술을 고난도 군 작전 요구사항에 맞게 재설계해 적용하려는 시도로, 유럽에서 전기차·자율주행 기술이 군수 및 방위 산업으로 확장되는 대표 사례가 되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "French carmaker Renault wants to get into the military robot business",
+          "url": "https://electrek.co/2026/11/08/french-carmaker-renault-wants-to-get-into-the-military-robot-business/"
         }
       ]
     }

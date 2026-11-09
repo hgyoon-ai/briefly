@@ -1,0 +1,281 @@
+{
+  "range": {
+    "from": "2026-11-03",
+    "to": "2026-11-09"
+  },
+  "kpis": {
+    "collected": 9,
+    "deduped": 9,
+    "uniqueTopics": 8
+  },
+  "topTopics": [
+    {
+      "name": "MarketInfra",
+      "count": 6
+    },
+    {
+      "name": "Security",
+      "count": 4
+    },
+    {
+      "name": "Policy",
+      "count": 4
+    },
+    {
+      "name": "Compliance",
+      "count": 4
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Security",
+      "count": 0
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Compliance",
+      "count": 1
+    },
+    {
+      "date": "2026-11-04",
+      "dayOfWeek": "Wed",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-04",
+      "dayOfWeek": "Wed",
+      "topic": "Security",
+      "count": 0
+    },
+    {
+      "date": "2026-11-04",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-04",
+      "dayOfWeek": "Wed",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Security",
+      "count": 0
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Security",
+      "count": 0
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Security",
+      "count": 2
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Compliance",
+      "count": 2
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Security",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Compliance",
+      "count": 1
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Security",
+      "count": 2
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Compliance",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "FIN-1",
+      "status": "ONGOING",
+      "title": "코스피 5000선 붕괴와 서킷브레이커 발동: AI·반도체 충격 여파",
+      "summary": "미국 반도체주 급락과 AI 데이터센터 투자 둔화 우려가 겹치며 코스피가 5000선 아래로 밀리고 서킷브레이커까지 발동되는 등 국내 증시 변동성이 극단적으로 확대됐다. 외국인 매도세가 강하게 유입되며 대형 반도체주 중심으로 조정이 심화되고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "美 반도체 반등에도 코스피 ‘흔들’…장중 다시 5000선 밑으로",
+          "url": "https://www.mk.co.kr/news/stock/12202067"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "[속보] 증시 급락에 코스피 서킷브레이커 발동…5000피 밑으로",
+          "url": "https://www.mk.co.kr/news/stock/12200170"
+        }
+      ]
+    },
+    {
+      "id": "FIN-2",
+      "status": "ONGOING",
+      "title": "미래에셋증권 해킹과 연쇄 보안 사고: 금융권 사이버 리스크 확대",
+      "summary": "미래에셋증권에서 고객 3800명 계좌번호 등 민감 정보가 유출되고 임직원 3만5000명이 공격 대상이 된 해킹 사고가 발생했다. AI 기반 공격이 활용된 것으로 추정되는 가운데, 은행·보험사에 이어 대형 증권사까지 연쇄 보안 사고가 이어지며 금융권 전반의 사이버 보안 규제와 투자 확대 필요성이 커지고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "은행·보험사 이어 미래에셋증권까지···연쇄 해킹에 시달리는 금융사",
+          "url": "https://www.mk.co.kr/news/stock/12201388"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "[속보] 미래에셋증권도 해킹 당해…“고객·임직원 정보 일부 유출”",
+          "url": "https://www.mk.co.kr/news/economy/12201367"
+        }
+      ]
+    },
+    {
+      "id": "FIN-3",
+      "status": "ONGOING",
+      "title": "미국 CPI·옵션 만기·AI 실적이 좌우하는 단기 증시 변수",
+      "summary": "다음 주 발표될 미국 소비자물가지수(CPI)와 옵션 만기, 코어위브 등 AI 관련 기업 실적이 금리와 환율을 통해 국내 증시 방향성을 가를 핵심 변수로 부각되고 있다. 인플레이션 재가열 여부와 AI 투자 모멘텀 유지 가능성이 단기 리스크 관리의 관건으로 제시된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“미국 물가부터 옵션 만기까지”…다음 주 증시 변수, 미리 대비하려면",
+          "url": "https://www.mk.co.kr/news/stock/12201573"
+        }
+      ]
+    },
+    {
+      "id": "FIN-4",
+      "status": "ONGOING",
+      "title": "주식 결제주기 T+1 전환: 유동성 개선 vs 반대매매 리스크",
+      "summary": "2028년부터 국내 주식 결제주기가 T+2에서 T+1로 단축돼 매도 대금을 다음날 바로 찾을 수 있게 되지만, 미수·신용거래의 결제와 대금지급이 하루 앞당겨지면서 개인투자자의 반대매매 위험이 커질 전망이다. 금융투자업계는 시스템 정비와 투자자 교육이 필수 과제로 떠오르고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“주식 판 돈, 2028년부터 다음날 찾는다는데”…개미들 주의할 ‘이것’",
+          "url": "https://www.mk.co.kr/news/stock/12201558"
+        }
+      ]
+    },
+    {
+      "id": "FIN-5",
+      "status": "ONGOING",
+      "title": "50%+1주 의무공개매수제 논란: 소액주주 보호 강화 요구",
+      "summary": "국내 50%+1주 공개매수 면제 제도가 대주주에게 경영권 프리미엄을 독점하게 한다는 비판이 제기됐다. 거버넌스포럼은 영국·독일·프랑스처럼 잔여주식 전체에 대한 의무공개매수를 도입해 소액주주 보호와 기업지배구조 개선을 강화해야 한다고 주장하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "거버넌스포럼 “50%+1주 의무공개매수제 대주주만 프리미엄 독점”…전면 보완 촉구",
+          "url": "https://www.mk.co.kr/news/stock/12194561"
+        }
+      ]
+    }
+  ]
+}

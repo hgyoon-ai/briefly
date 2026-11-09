@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-11-03",
+    "to": "2026-11-09"
+  },
+  "kpis": {
+    "collected": 5,
+    "deduped": 5,
+    "uniqueTopics": 6
+  },
+  "topTopics": [
+    {
+      "name": "Roadmap",
+      "count": 5
+    },
+    {
+      "name": "Investment",
+      "count": 4
+    },
+    {
+      "name": "Competition",
+      "count": 3
+    },
+    {
+      "name": "Policy",
+      "count": 2
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-04",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-04",
+      "dayOfWeek": "Wed",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-04",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-04",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 3
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "Q-Day 대비: 양자컴퓨팅 시대의 반도체·보안 로드맵 재편",
+      "summary": "향후 2년 내 양자컴퓨터의 실용화 수준이 높아지면서 현행 블록체인·공개키 암호가 붕괴될 위험이 제기되고 있다. 이는 보안 IP, 보안 칩, 암호 가속기 등 반도체 설계·표준 전반의 즉각적인 PQC(양자내성암호) 전환과 장기 로드맵 수정이 필요한 이슈로 부상했다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "The Countdown to Q-Day Has Begun",
+          "url": "https://www.eetimes.com/the-countdown-to-q-day-has-begun/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "차세대 반도체 제조·패키징 기술 가속과 응용 확장",
+      "summary": "최신 공정, 첨단 패키징, 시스템 수준 최적화 기술이 동시다발적으로 고도화되며, 전통적 IT를 넘어 농업 자율화 등 비(非)전통 산업으로 반도체 응용이 확대되고 있다. 이는 장비·소재 투자, 패키징 역량 강화, 팹·OSAT 협업 구조 재편을 촉진하는 흐름이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "EE Times Magazine – November 2026",
+          "url": "https://www.eetimes.com/ee-times-magazine-november-2026/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "유럽 반도체 산업: 지정학·투자·공급망이 교차하는 전환기",
+      "summary": "SEMICON Europa 2026을 통해 드러난 유럽 반도체 산업은 미국·아시아와의 기술 경쟁, 지정학적 리스크, 산업정책 변화가 겹치며 공급망 재편과 투자 우선순위 조정이 불가피한 국면에 들어섰다. 이는 유럽 내 생산역량 확대, 전략 노드 선택, 보조금·규제 정책 재설계 논의를 촉발하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Europe’s Chip Industry: Perfect Storm or Perfect Timing?",
+          "url": "https://www.eetimes.com/europe-chip-industry-perfect-storm-or-perfect-timing/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "GaN 전력반도체 상용화 가속과 공급망 과제",
+      "summary": "인피니언 등 주요 업체가 GaN 전력반도체의 상용화와 애플리케이션 확장을 서두르며, 데이터센터·전기차·소형 전원 등에서 수요가 커지고 있다. 동시에 웨이퍼·에피 성장·패키징 등 제조 기술 성숙도와 공급망 안정성이 핵심 과제로 떠오르고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Infineon’s Johannes Schoiswohl on the GaN Market at OktoberTech",
+          "url": "https://www.eetimes.com/infineons-johannes-schoiswohl-on-the-gan-market-at-oktobertech/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "글로벌 ICT 기업의 스포츠·청소년 투자와 반도체 브랜드 전략",
+      "summary": "삼성전자가 다카르 2026 유스올림픽에서 갤럭시 기술을 활용해 선수들의 경험과 교육 기회를 확대하는 프로그램을 전개하며, 첨단 ICT·반도체 역량을 스포츠·청소년 후원과 결합한 장기 브랜드·생태계 전략을 강화하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Beyond the Medal: Samsung Helps Young Athletes Explore What Comes Next at Dakar 2026",
+          "url": "https://news.samsung.com/global/beyond-the-medal-samsung-helps-young-athletes-explore-what-comes-next-at-dakar-2026"
+        }
+      ]
+    }
+  ]
+}

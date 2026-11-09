@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-10-10",
-    "to": "2026-11-08"
+    "from": "2026-10-11",
+    "to": "2026-11-09"
   },
   "kpis": {
     "collected": 65,
@@ -18,27 +18,27 @@
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/10-10/16)",
+      "week": "Week 1 (10/11-10/17)",
       "topicCounts": {
-        "Tooling": 15,
-        "Product": 12,
-        "Models": 14,
-        "Infra": 8,
-        "Research": 9
+        "Tooling": 18,
+        "Product": 14,
+        "Models": 15,
+        "Infra": 10,
+        "Research": 10
       }
     },
     {
-      "week": "Week 2 (10/17-10/23)",
+      "week": "Week 2 (10/18-10/24)",
       "topicCounts": {
-        "Tooling": 6,
-        "Product": 8,
-        "Models": 6,
-        "Infra": 1,
-        "Research": 7
+        "Tooling": 10,
+        "Product": 10,
+        "Models": 7,
+        "Infra": 5,
+        "Research": 8
       }
     },
     {
-      "week": "Week 3 (10/24-10/30)",
+      "week": "Week 3 (10/25-10/31)",
       "topicCounts": {
         "Tooling": 8,
         "Product": 8,
@@ -48,17 +48,17 @@
       }
     },
     {
-      "week": "Week 4 (10/31-11/06)",
+      "week": "Week 4 (11/01-11/07)",
       "topicCounts": {
-        "Tooling": 6,
-        "Product": 5,
-        "Models": 3,
-        "Infra": 6,
-        "Research": 3
+        "Tooling": 9,
+        "Product": 6,
+        "Models": 4,
+        "Infra": 9,
+        "Research": 4
       }
     },
     {
-      "week": "Week 5 (11/07-11/08)",
+      "week": "Week 5 (11/08-11/09)",
       "topicCounts": {
         "Tooling": 0,
         "Product": 0,
@@ -72,8 +72,8 @@
     {
       "id": 1,
       "status": "NEW",
-      "title": "Blackwell GPU 최적화로 실시간 수준 이미지 생성 가속",
-      "summary": "NVIDIA Blackwell GPU에서 FLUX 3 Image Klein 확산 모델을 최적화해 이미지 생성 지연 시간을 크게 줄이고, 디자인 툴·이미지 편집기 등에서 실시간에 가까운 생성 워크플로우를 가능하게 하는 추론 가속 기법이 공개됐다.",
+      "title": "GPU 최적화를 통한 초고속 이미지 생성",
+      "summary": "엔비디아 Blackwell GPU에서 FLUX 3 Image Klein 확산 모델을 최적화해 지연 시간을 크게 줄이고, 디자인·이미지 편집 등에서 거의 실시간에 가까운 이미지 생성을 가능하게 하는 방법이 제시됐다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -86,56 +86,71 @@
     {
       "id": 2,
       "status": "ONGOING",
-      "title": "Reshard Collective 기반 RL 포스트트레이닝 가속",
-      "summary": "NVIDIA는 Reshard Collective를 통해 RL 포스트트레이닝에서 실시간으로 생성되는 트레이젝토리와 병렬로 가중치를 재분배해, 가중치 리핏 단계의 병목을 줄이고 학습·추론 파이프라인 전체를 가속하는 방법을 제시했다.",
-      "articleCount": 1,
+      "title": "강화학습·AI 팩토리에서의 효율 극대화",
+      "summary": "엔비디아는 RL 포스트트레이닝에서 Reshard Collective로 가중치 리핏을 가속하고, AI 팩토리에서는 HBM 활용을 극대화하는 공동설계 전략(압축·저정밀·메모리 계층 최적화 등)을 통해 학습·추론 병목을 줄이는 인프라 개선을 지속하고 있다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
           "source": "NVIDIA Developer Blog",
           "title": "Accelerating Reinforcement Learning Weight Refit with the Reshard Collective",
           "url": "https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective/"
+        },
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory",
+          "url": "https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory/"
         }
       ]
     },
     {
       "id": 3,
       "status": "NEW",
-      "title": "ToyBlocks: 로봇 학습·평가를 위한 표준화 시뮬레이션 환경",
-      "summary": "Hugging Face가 공개한 ToyBlocks는 로봇 학습용 통제된 가상 환경으로, 표준화된 태스크와 평가 지표, 재현 가능한 실험 파이프라인을 제공해 로봇 AI 연구의 비교 가능성과 재현성을 높이는 데 초점을 맞춘다.",
-      "articleCount": 1,
+      "title": "로봇·세계 시뮬레이션용 표준화된 가상 환경 부상",
+      "summary": "Hugging Face의 ToyBlocks는 통제된 로봇 학습·평가 환경을, 엔비디아의 Cosmos 3는 물리·그래픽·에이전트 행동을 결합한 상호작용형 세계 시뮬레이션 오픈 모델을 제공해 로보틱스와 게임·시뮬레이션 연구를 가속한다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
           "source": "Hugging Face Blog",
           "title": "ToyBlocks: A controlled world for robot learning and evaluation",
           "url": "https://huggingface.co/blog/allenai/toyblocks"
+        },
+        {
+          "source": "Hugging Face Blog",
+          "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+          "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"
         }
       ]
     },
     {
       "id": 4,
       "status": "NEW",
-      "title": "OpenAI–Hacktron 제휴를 통한 AI 시스템 보안 점검 강화",
-      "summary": "OpenAI는 보안 스타트업 Hacktron과 협력해 자사 시스템 및 서드파티 연동 지점을 집중 점검하고, 공격 표면 분석과 모의 침투를 통해 LLM·에이전트 인프라 전반의 취약점을 체계적으로 발굴·완화하려 하고 있다.",
-      "articleCount": 1,
+      "title": "AI 보안과 정형 검증 도구 강화",
+      "summary": "OpenAI는 보안 스타트업 Hacktron과 협력해 시스템 취약점과 공격 표면을 점검하고, 마이크로소프트는 PDD Kit으로 에이전트가 작성한 풀스택 웹 앱을 정형 검증·테스트 기반으로 검증해 AI 코드의 안전성과 신뢰성을 높이고 있다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
           "source": "OpenAI Blog",
           "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
           "url": "https://openai.com/index/partnering-with-hacktron"
+        },
+        {
+          "source": "Microsoft Research Blog",
+          "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
+          "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/"
         }
       ]
     },
     {
       "id": 5,
-      "status": "NEW",
-      "title": "Cosmos 3 오픈 모델로 상호작용형 세계 시뮬레이션 가속",
-      "summary": "NVIDIA의 Cosmos 3 오픈 모델은 물리, 그래픽, 에이전트 행동을 통합해 상호작용형 세계를 시뮬레이션하며, 로보틱스, 게임, 몰입형 환경 개발에서 복잡한 세계 모델링과 시나리오 실험을 쉽게 만드는 것을 목표로 한다.",
+      "status": "SHIFTING",
+      "title": "AI 도입으로 재편되는 기업 조직 구조",
+      "summary": "OpenAI는 AI가 단순 자동화를 넘어 조직 구조의 아래·옆·사이에 침투해 협업 파트너이자 중개자로 기능하며 업무 흐름과 권한 구조를 근본적으로 바꿀 것이라는 시나리오를 제시한다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "Hugging Face Blog",
-          "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-          "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"
+          "source": "OpenAI Blog",
+          "title": "The future of the firm",
+          "url": "https://openai.com/index/the-future-of-the-firm"
         }
       ]
     }

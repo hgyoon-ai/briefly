@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-11-03",
+    "to": "2026-11-09"
+  },
+  "kpis": {
+    "collected": 9,
+    "deduped": 9,
+    "uniqueTopics": 9
+  },
+  "topTopics": [
+    {
+      "name": "Tooling",
+      "count": 6
+    },
+    {
+      "name": "Infra",
+      "count": 5
+    },
+    {
+      "name": "Inference",
+      "count": 4
+    },
+    {
+      "name": "Models",
+      "count": 4
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Inference",
+      "count": 0
+    },
+    {
+      "date": "2026-11-03",
+      "dayOfWeek": "Tue",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-11-04",
+      "dayOfWeek": "Wed",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-11-04",
+      "dayOfWeek": "Wed",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-04",
+      "dayOfWeek": "Wed",
+      "topic": "Inference",
+      "count": 0
+    },
+    {
+      "date": "2026-11-04",
+      "dayOfWeek": "Wed",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Inference",
+      "count": 0
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Models",
+      "count": 1
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Tooling",
+      "count": 5
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Infra",
+      "count": 3
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Inference",
+      "count": 2
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Models",
+      "count": 2
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Tooling",
+      "count": 1
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Infra",
+      "count": 2
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Inference",
+      "count": 2
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Models",
+      "count": 1
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Inference",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Inference",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Models",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "차세대 GPU 최적화로 실시간에 가까운 이미지 생성 가속",
+      "summary": "NVIDIA Blackwell GPU에 맞춘 FLUX 3 Image Klein 최적화로 확산 기반 이미지 생성의 지연 시간을 크게 줄여, 디자인 툴·이미지 편집기 등에서 실시간에 가까운 고속 생성이 가능해지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
+          "url": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "대규모 RL 파이프라인에서 학습·추론 병목 제거를 위한 분산 최적화",
+      "summary": "NVIDIA의 Reshard Collective는 RL 포스트트레이닝 단계에서 실시간으로 생성되는 트레이젝토리와 병행해 가중치를 재분배해, 분산 환경에서 RL 학습·추론 병목을 줄이는 인프라 최적화 기법을 제시한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Accelerating Reinforcement Learning Weight Refit with the Reshard Collective",
+          "url": "https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "로봇 학습·평가를 위한 표준화된 시뮬레이션 환경 부상",
+      "summary": "Hugging Face의 ToyBlocks는 통제된 3D 환경에서 표준 태스크·지표·실험 파이프라인을 제공해, 로봇 조작 연구의 재현성과 벤치마크 비교 가능성을 높이는 로봇 학습 전용 테스트베드로 사용될 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+          "url": "https://huggingface.co/blog/allenai/toyblocks"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "AI 기업이 외부 레드팀과 협력해 보안 취약점 상시 점검",
+      "summary": "OpenAI는 보안 스타트업 Hacktron과 협업해 서드파티 연동과 공격 표면을 집중적으로 점검하는 프로그램을 도입하며, 모델·플랫폼 레벨의 취약점을 선제적으로 찾는 상시 레드팀 체계를 강화하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+          "url": "https://openai.com/index/partnering-with-hacktron"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "상호작용형 세계 시뮬레이션용 오픈 모델로 로보틱스·게임 개발 가속",
+      "summary": "NVIDIA의 오픈 모델 Cosmos 3는 물리·그래픽·에이전트 행동을 통합해 상호작용형 세계를 시뮬레이션함으로써, 로보틱스, 게임, 가상 환경 연구에서 복잡한 시나리오를 빠르게 설계·실험할 수 있게 한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+          "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-10-11",
+    "to": "2026-11-09"
+  },
+  "kpis": {
+    "collected": 105,
+    "deduped": 105,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "Market": 30,
+      "Supply": 25,
+      "Policy": 20,
+      "UrbanRenewal": 13,
+      "Construction": 12,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/11-10/17)",
+      "topicCounts": {
+        "Market": 17,
+        "Supply": 20,
+        "Policy": 20,
+        "UrbanRenewal": 10,
+        "Construction": 11
+      }
+    },
+    {
+      "week": "Week 2 (10/18-10/24)",
+      "topicCounts": {
+        "Market": 20,
+        "Supply": 15,
+        "Policy": 10,
+        "UrbanRenewal": 5,
+        "Construction": 9
+      }
+    },
+    {
+      "week": "Week 3 (10/25-10/31)",
+      "topicCounts": {
+        "Market": 11,
+        "Supply": 14,
+        "Policy": 10,
+        "UrbanRenewal": 9,
+        "Construction": 3
+      }
+    },
+    {
+      "week": "Week 4 (11/01-11/07)",
+      "topicCounts": {
+        "Market": 14,
+        "Supply": 9,
+        "Policy": 6,
+        "UrbanRenewal": 5,
+        "Construction": 6
+      }
+    },
+    {
+      "week": "Week 5 (11/08-11/09)",
+      "topicCounts": {
+        "Market": 4,
+        "Supply": 2,
+        "Policy": 3,
+        "UrbanRenewal": 2,
+        "Construction": 1
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "서울시 vs LH 공공정비사업 갈등 심화",
+      "summary": "서울시는 공공 주도 정비사업의 속도·실효성을 문제 삼으며 ‘공공개발 만능론’을 경계하고, LH는 계획 차질 없이 추진 중이라 반박하면서 공공재개발·정비사업 주도권을 둘러싼 갈등이 이어지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "서울시 “공공개발 만능론 안 돼” vs LH “계획 차질 없이 진행중”…정비사업 갈등",
+          "url": "https://www.mk.co.kr/news/realestate/12202080"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "세종 5-1생활권 3조원대 스마트시티 개발 본격 추진",
+      "summary": "세종 5-1생활권에서 공공 개발역량과 민간 기술을 결합한 3조원 규모 스마트시티 사업이 추진되며, 도시계획 단계부터 배송로봇·자율주행 등 첨단 서비스 운영을 고려한 인프라와 동선 설계가 진행되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "공공 개발역량에 민간 기술 결합…3조원대 세종 스마트시티 사업 추진",
+          "url": "https://biz.heraldcorp.com/article/10930113"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "대출 규제로 서울 중소형 아파트 평형 간 가격차 축소",
+      "summary": "대출 규제 강화로 상대적으로 가격이 낮은 소형 평형 수요가 늘면서 서울 아파트 59㎡와 국민평형 84㎡ 간 가격 격차가 약 1억7000만원 수준으로 좁혀지는 등 평형 선택 기준이 대출 여력 중심으로 재편되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "“좀더 보태면 국평 가는데”…대출 규제에 중소형 가격차 1.7억까지 좁혀져",
+          "url": "https://www.mk.co.kr/news/realestate/12202027"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "전세에서 월세로의 전환 가속…월세 비중 80%대 지역 등장",
+      "summary": "일부 지역에서 월세 비중이 85%까지 치솟는 등 전세 물량 감소와 월세 전환이 빠르게 진행되며, 임차인의 월세 부담 확대와 전월세 시장 구조 변화가 두드러지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "\"전세요? 요즘 누가 해요\"…월세 비중 85% 찍은 동네 어디 [시장톡]",
+          "url": "https://www.hankyung.com/article/2026110608116"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "SHIFTING",
+      "title": "종부세 비거주 공제 상향 검토…과세 완화로 정책 기조 이동",
+      "summary": "여당이 종부세 비거주 공제 기준을 9억원에서 12억·14억원으로 높이는 방안을 논의하면서, 여론 악화를 계기로 비거주자·다주택자에 대한 보유세 부담을 일부 완화하는 방향으로 세제 기조가 변하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "종부세 '비거주 공제' 9억→12억→14억?…여론 악화에 움직인 與 [종합]",
+          "url": "https://www.hankyung.com/article/2026110834457"
+        }
+      ]
+    }
+  ]
+}

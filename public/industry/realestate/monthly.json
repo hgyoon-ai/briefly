@@ -1,15 +1,15 @@
 {
   "range": {
-    "from": "2026-10-10",
-    "to": "2026-11-08"
+    "from": "2026-10-11",
+    "to": "2026-11-09"
   },
   "kpis": {
-    "collected": 102,
-    "deduped": 102,
+    "collected": 105,
+    "deduped": 105,
     "uniqueTopics": 10,
     "marketShare": {
       "Market": 30,
-      "Supply": 26,
+      "Supply": 25,
       "Policy": 20,
       "UrbanRenewal": 13,
       "Construction": 12,
@@ -18,53 +18,53 @@
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/10-10/16)",
-      "topicCounts": {
-        "Market": 15,
-        "Supply": 18,
-        "Policy": 20,
-        "UrbanRenewal": 9,
-        "Construction": 10
-      }
-    },
-    {
-      "week": "Week 2 (10/17-10/23)",
+      "week": "Week 1 (10/11-10/17)",
       "topicCounts": {
         "Market": 17,
-        "Supply": 11,
-        "Policy": 10,
-        "UrbanRenewal": 4,
-        "Construction": 7
+        "Supply": 20,
+        "Policy": 20,
+        "UrbanRenewal": 10,
+        "Construction": 11
       }
     },
     {
-      "week": "Week 3 (10/24-10/30)",
+      "week": "Week 2 (10/18-10/24)",
       "topicCounts": {
-        "Market": 14,
+        "Market": 20,
         "Supply": 15,
         "Policy": 10,
-        "UrbanRenewal": 10,
-        "Construction": 5
+        "UrbanRenewal": 5,
+        "Construction": 9
       }
     },
     {
-      "week": "Week 4 (10/31-11/06)",
+      "week": "Week 3 (10/25-10/31)",
       "topicCounts": {
-        "Market": 10,
-        "Supply": 5,
-        "Policy": 4,
-        "UrbanRenewal": 4,
-        "Construction": 2
+        "Market": 11,
+        "Supply": 14,
+        "Policy": 10,
+        "UrbanRenewal": 9,
+        "Construction": 3
       }
     },
     {
-      "week": "Week 5 (11/07-11/08)",
+      "week": "Week 4 (11/01-11/07)",
       "topicCounts": {
-        "Market": 3,
+        "Market": 14,
+        "Supply": 9,
+        "Policy": 6,
+        "UrbanRenewal": 5,
+        "Construction": 6
+      }
+    },
+    {
+      "week": "Week 5 (11/08-11/09)",
+      "topicCounts": {
+        "Market": 4,
         "Supply": 2,
-        "Policy": 0,
-        "UrbanRenewal": 1,
-        "Construction": 0
+        "Policy": 3,
+        "UrbanRenewal": 2,
+        "Construction": 1
       }
     }
   ],
@@ -72,85 +72,70 @@
     {
       "id": 1,
       "status": "ONGOING",
-      "title": "고금리 중도금·전세 대출 부담 급증, 실수요자 자금 압박 심화",
-      "summary": "중도금대출 금리가 5% 안팎까지 오르며 분양 수분양자의 이자 부담이 커지는 동시에, 수도권 전셋값이 88주 연속 상승하고 일부 경기도 중형 전세가격이 10억 원을 돌파했다. 정부는 대출·규제 완화에는 신중한 입장을 유지하고 있어 무주택 실수요자의 내 집 마련·거주 비용 부담이 단기간에 해소되기 어려운 상황이다.",
-      "articleCount": 2,
+      "title": "서울시 vs LH 공공정비사업 갈등 심화",
+      "summary": "서울시는 공공 주도 정비사업의 속도·실효성을 문제 삼으며 ‘공공개발 만능론’을 경계하고, LH는 계획 차질 없이 추진 중이라 반박하면서 공공재개발·정비사업 주도권을 둘러싼 갈등이 이어지고 있다.",
+      "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(부동산)",
-          "title": "“앞날이 캄캄”…당첨 기쁨은 잠깐, 대출 금리에 한숨만",
-          "url": "https://www.mk.co.kr/news/realestate/12201523"
-        },
-        {
-          "source": "한국경제(부동산)",
-          "title": "수도권 전셋값 88주째 상승…경기도 '국평' 전세도 10억 넘었다",
-          "url": "https://www.hankyung.com/article/202611059046i"
+          "title": "서울시 “공공개발 만능론 안 돼” vs LH “계획 차질 없이 진행중”…정비사업 갈등",
+          "url": "https://www.mk.co.kr/news/realestate/12202080"
         }
       ]
     },
     {
       "id": 2,
-      "status": "SHIFTING",
-      "title": "서울 외곽까지 번진 고액 월세·전세, 임대시장 과열과 수급 불균형",
-      "summary": "월세 300만 원 이상 고액 임대가 강남을 넘어 노도강·금관구 등 서울 외곽으로 확산되고, 수도권 전셋값도 장기 상승세를 이어가며 임대료 전반이 과열 양상을 보이고 있다. 실거주 수요는 높은데 신규 공급이 충분치 않고, 전세에서 월세로의 구조적 전환까지 겹치며 중·저가 임대 물건 품귀 현상이 심화되고 있다.",
-      "articleCount": 2,
+      "status": "ONGOING",
+      "title": "세종 5-1생활권 3조원대 스마트시티 개발 본격 추진",
+      "summary": "세종 5-1생활권에서 공공 개발역량과 민간 기술을 결합한 3조원 규모 스마트시티 사업이 추진되며, 도시계획 단계부터 배송로봇·자율주행 등 첨단 서비스 운영을 고려한 인프라와 동선 설계가 진행되고 있다.",
+      "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "매일경제(부동산)",
-          "title": "“강남도 아닌데 월세가 300만원 속출”…노도강·금관구 집주인도 놀랄 판",
-          "url": "https://www.mk.co.kr/news/realestate/12201448"
-        },
-        {
-          "source": "한국경제(부동산)",
-          "title": "수도권 전셋값 88주째 상승…경기도 '국평' 전세도 10억 넘었다",
-          "url": "https://www.hankyung.com/article/202611059046i"
+          "source": "헤럴드경제(부동산)",
+          "title": "공공 개발역량에 민간 기술 결합…3조원대 세종 스마트시티 사업 추진",
+          "url": "https://biz.heraldcorp.com/article/10930113"
         }
       ]
     },
     {
       "id": 3,
-      "status": "SHIFTING",
-      "title": "재건축초과이익환수제(재초환) 둘러싼 규제 완화·폐지 논쟁 격화",
-      "summary": "영등포·강북 등에서 억대 재건축초과이익환수제 부담금이 현실화되며 재건축 사업 속도가 떨어지는 가운데, 서초구가 재초환이 주택공급을 위축시킨다며 정부에 제도 폐지를 공식 건의했다. 규제 유지 시 공급 지연 우려와, 폐지·완화 시 과도한 개발이익 논란이 맞서면서 재건축 시장과 정책 방향 모두 불확실성이 커지고 있다.",
-      "articleCount": 2,
+      "status": "ONGOING",
+      "title": "대출 규제로 서울 중소형 아파트 평형 간 가격차 축소",
+      "summary": "대출 규제 강화로 상대적으로 가격이 낮은 소형 평형 수요가 늘면서 서울 아파트 59㎡와 국민평형 84㎡ 간 가격 격차가 약 1억7000만원 수준으로 좁혀지는 등 평형 선택 기준이 대출 여력 중심으로 재편되고 있다.",
+      "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(부동산)",
-          "title": "영등포 2.2억·강북 1.2억…재초환 억대 부담금에 '닥공' 발목",
-          "url": "https://www.mk.co.kr/news/realestate/12200669"
-        },
-        {
-          "source": "한국경제(부동산)",
-          "title": "서초구 \"재초환은 주택공급 위축\"…정부에 폐지 건의",
-          "url": "https://www.hankyung.com/article/202611058319i"
+          "title": "“좀더 보태면 국평 가는데”…대출 규제에 중소형 가격차 1.7억까지 좁혀져",
+          "url": "https://www.mk.co.kr/news/realestate/12202027"
         }
       ]
     },
     {
       "id": 4,
       "status": "ONGOING",
-      "title": "재건축·신축 아파트 투자 쏠림과 규제·세제 리스크 확대",
-      "summary": "세금 부담을 피하려는 수요와 노후 단지 가치 상승 기대가 맞물리며 재건축 매물과 새 아파트에 투자 수요가 몰리고 있다. 다만 재건축 규제, 조합·사업 추진 리스크, 보유세·양도세 변수 등으로 수익성과 위험이 크게 갈릴 수 있어, 개별 단지의 사업성·세제·공사 리스크를 정밀 검토해야 한다는 경고가 커지고 있다.",
+      "title": "전세에서 월세로의 전환 가속…월세 비중 80%대 지역 등장",
+      "summary": "일부 지역에서 월세 비중이 85%까지 치솟는 등 전세 물량 감소와 월세 전환이 빠르게 진행되며, 임차인의 월세 부담 확대와 전월세 시장 구조 변화가 두드러지고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "한국경제(부동산)",
-          "title": "세금 더 내느니 재건축 물건 살까…새 아파트 투자 전 따져볼 것들",
-          "url": "https://www.hankyung.com/article/202611031969i"
+          "title": "\"전세요? 요즘 누가 해요\"…월세 비중 85% 찍은 동네 어디 [시장톡]",
+          "url": "https://www.hankyung.com/article/2026110608116"
         }
       ]
     },
     {
       "id": 5,
-      "status": "ONGOING",
-      "title": "정부의 모듈러주택 대량 공급 추진과 해외 실패 사례 논쟁",
-      "summary": "정부가 공급 속도를 높이기 위해 1.8만 가구 규모의 모듈러주택 도입을 추진하지만, 영국에서는 모듈러 업체 도산과 품질·자금 문제로 사업이 잇따라 중단된 전례가 있다. 공기 단축과 초기 비용 절감 효과에도 불구하고 품질 관리, 장기 내구성, 금융 구조 설계 등 제도·기술적 보완 없이는 대규모 공급 정책이 위험할 수 있다는 우려가 제기된다.",
+      "status": "SHIFTING",
+      "title": "종부세 비거주 공제 상향 검토…과세 완화로 정책 기조 이동",
+      "summary": "여당이 종부세 비거주 공제 기준을 9억원에서 12억·14억원으로 높이는 방안을 논의하면서, 여론 악화를 계기로 비거주자·다주택자에 대한 보유세 부담을 일부 완화하는 방향으로 세제 기조가 변하고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "헤럴드경제(부동산)",
-          "title": "‘1.8만 가구 공급’ 정부가 띄운 모듈러주택…영국선 잇단 도산 [부동산360]",
-          "url": "https://biz.heraldcorp.com/article/10928743"
+          "source": "한국경제(부동산)",
+          "title": "종부세 '비거주 공제' 9억→12억→14억?…여론 악화에 움직인 與 [종합]",
+          "url": "https://www.hankyung.com/article/2026110834457"
         }
       ]
     }

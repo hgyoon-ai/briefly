@@ -1,0 +1,153 @@
+{
+  "range": {
+    "from": "2026-10-11",
+    "to": "2026-11-09"
+  },
+  "kpis": {
+    "collected": 46,
+    "deduped": 46,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "MarketInfra": 38,
+      "Policy": 25,
+      "Regulation": 16,
+      "Compliance": 11,
+      "Fintech": 9,
+      "Other": 1
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/11-10/17)",
+      "topicCounts": {
+        "MarketInfra": 12,
+        "Policy": 9,
+        "Regulation": 3,
+        "Compliance": 2,
+        "Fintech": 2
+      }
+    },
+    {
+      "week": "Week 2 (10/18-10/24)",
+      "topicCounts": {
+        "MarketInfra": 9,
+        "Policy": 7,
+        "Regulation": 6,
+        "Compliance": 3,
+        "Fintech": 1
+      }
+    },
+    {
+      "week": "Week 3 (10/25-10/31)",
+      "topicCounts": {
+        "MarketInfra": 7,
+        "Policy": 3,
+        "Regulation": 4,
+        "Compliance": 2,
+        "Fintech": 3
+      }
+    },
+    {
+      "week": "Week 4 (11/01-11/07)",
+      "topicCounts": {
+        "MarketInfra": 3,
+        "Policy": 2,
+        "Regulation": 2,
+        "Compliance": 3,
+        "Fintech": 3
+      }
+    },
+    {
+      "week": "Week 5 (11/08-11/09)",
+      "topicCounts": {
+        "MarketInfra": 2,
+        "Policy": 1,
+        "Regulation": 0,
+        "Compliance": 0,
+        "Fintech": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "국내 증시 급락과 변동성 확대, 정책 대응 촉각",
+      "summary": "코스피가 5500선을 내주며 장중 5000선 밑으로 밀리는 등 급락 장세가 이어지고 있다. 미국 반도체주의 반등에도 불구하고 외국인 매도세와 투자심리 위축이 지속되며 변동성이 확대되고, 정부·청와대의 ‘증시 대책’ 및 정책 대응 방향에 시장의 시선이 집중되고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "美 반도체 반등에도 코스피 ‘흔들’…장중 다시 5000선 밑으로",
+          "url": "https://www.mk.co.kr/news/stock/12202067"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "급락한 주가...이재명 대통령이 언급한 ‘증시 대책’에 쏠리는 시장 관심",
+          "url": "https://www.mk.co.kr/news/stock/12180892"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "증권사·은행 연쇄 해킹으로 금융보안 리스크 급부상",
+      "summary": "미래에셋증권과 한양증권에서 고객 계좌·주민번호 등 민감 정보 유출 사고가 잇따르며 금융투자 업권 전반에 보안 비상이 걸렸다. 동일 그룹웨어 서비스 취약점과 AI 에이전트를 활용한 공격이 지목되면서 금융사 전반의 사이버 방어 체계 강화와 개인정보 보호 규제 강화 필요성이 부각되고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "은행·보험사 이어 미래에셋증권까지···연쇄 해킹에 시달리는 금융사",
+          "url": "https://www.mk.co.kr/news/stock/12201388"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "한양증권서도 개인정보 유출…금투업권 해킹 비상",
+          "url": "https://www.mk.co.kr/news/stock/12194338"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "의무공개매수 제도 개편 논쟁과 소액주주 보호 이슈",
+      "summary": "거버넌스포럼이 ‘50%+1주’ 공개매수 면제가 대주주에게 경영권 프리미엄을 독점시키고 소액주주를 소외시킨다고 지적하며 제도 전면 보완을 요구했다. 영국·독일·프랑스처럼 잔여주식 전체에 대한 의무공개매수 도입 여부가 향후 자본시장 지배구조와 투자자 보호 정책의 핵심 쟁점으로 부상하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "거버넌스포럼 “50%+1주 의무공개매수제 대주주만 프리미엄 독점”…전면 보완 촉구",
+          "url": "https://www.mk.co.kr/news/stock/12194561"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "주가조작 범죄수익 환수 부실, 자본시장 신뢰 저하 우려",
+      "summary": "최근 5년간 자본시장 교란 사건 239건을 분석한 결과 약 1.5조원의 범죄수익 가운데 실제 추징된 금액은 18%에 그쳤고, 유죄 사건 3건 중 2건은 추징금이 0원으로 드러났다. 주가조작에 대한 실효적 처벌과 이익 환수가 이뤄지지 않고 있다는 비판 속에 자본시장 법 집행 강화와 제도 개선 논의가 불가피해지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[단독] 주가조작, 패가망신 맞나요?…3건 중 2건은 추징금 ‘0원’",
+          "url": "https://www.mk.co.kr/news/society/12181989"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "AI·빅테크 투자 버블 가능성과 금융안정 리스크",
+      "summary": "한국은행은 AI 투자 열풍이 꺾일 경우 최대 132조원의 손실이 발생할 수 있다는 최악의 시나리오를 제시하며 금융시장 충격 가능성을 경고했다. 상반기에만 106조원 적자를 낸 앤트로픽 등 대형 AI 기업들의 수익성·밸류에이션 리스크가 부각되면서, 국내외 증시와 금융기관의 익스포저 관리가 핵심 이슈로 떠오르고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“AI 꺾이면 132조원 증발”...한은이 던진 ‘최악 시나리오’",
+          "url": "https://www.mk.co.kr/news/stock/12186625"
+        }
+      ]
+    }
+  ]
+}

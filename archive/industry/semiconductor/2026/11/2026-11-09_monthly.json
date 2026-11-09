@@ -1,0 +1,148 @@
+{
+  "range": {
+    "from": "2026-10-11",
+    "to": "2026-11-09"
+  },
+  "kpis": {
+    "collected": 52,
+    "deduped": 52,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 29,
+      "Competition": 21,
+      "Manufacturing": 21,
+      "Investment": 15,
+      "Demand": 13,
+      "Other": 1
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/11-10/17)",
+      "topicCounts": {
+        "Roadmap": 14,
+        "Competition": 12,
+        "Manufacturing": 13,
+        "Investment": 8,
+        "Demand": 5
+      }
+    },
+    {
+      "week": "Week 2 (10/18-10/24)",
+      "topicCounts": {
+        "Roadmap": 14,
+        "Competition": 12,
+        "Manufacturing": 7,
+        "Investment": 1,
+        "Demand": 8
+      }
+    },
+    {
+      "week": "Week 3 (10/25-10/31)",
+      "topicCounts": {
+        "Roadmap": 8,
+        "Competition": 5,
+        "Manufacturing": 9,
+        "Investment": 7,
+        "Demand": 5
+      }
+    },
+    {
+      "week": "Week 4 (11/01-11/07)",
+      "topicCounts": {
+        "Roadmap": 8,
+        "Competition": 3,
+        "Manufacturing": 3,
+        "Investment": 6,
+        "Demand": 2
+      }
+    },
+    {
+      "week": "Week 5 (11/08-11/09)",
+      "topicCounts": {
+        "Roadmap": 0,
+        "Competition": 0,
+        "Manufacturing": 0,
+        "Investment": 0,
+        "Demand": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "양자컴퓨팅 부상으로 인한 반도체·보안 로드맵 재편 압력",
+      "summary": "양자컴퓨터 성능 향상으로 기존 공개키 암호 기반 블록체인·통신 인프라가 2년 내 위협받을 수 있다는 전망이 나오며, 후공개(Post-Quantum) 암호를 지원하는 보안 칩·보안 모듈 수요가 커지고 있다. 이에 따라 반도체 업계는 양자내성암호(PQC)를 위한 연산·메모리 구조와 인증용 보안 IP 통합 등을 로드맵에 조기 반영해야 하는 상황이다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "The Countdown to Q-Day Has Begun",
+          "url": "https://www.eetimes.com/the-countdown-to-q-day-has-begun/"
+        },
+        {
+          "source": "EE Times",
+          "title": "Canada’s Quantum Sector Sets Sights on Commercialization",
+          "url": "https://www.eetimes.com/canadas-quantum-sector-sets-sights-on-commercialization/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "AI 메모리 호황으로 인한 삼성전자 실적 급증과 메모리 사이클 전환",
+      "summary": "생성형 AI 확산으로 고대역폭 메모리(HBM)와 고성능 DRAM 등 AI 특화 메모리 수요가 폭발하면서 삼성전자의 분기 영업이익이 800억 달러 수준으로 급증했다. 이는 메모리 업황 회복을 넘어 AI 인프라용 반도체가 신규 성장 축으로 자리 잡았음을 보여주며, 설비투자와 공정 미세화, 패키징 기술 경쟁을 더욱 가속하는 계기가 되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Samsung Electronics Posts $80B Operating Profit on AI Memory Demand",
+          "url": "https://www.eetimes.com/samsung-electronics-posts-80b-operating-profit-on-ai-memory-demand/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "첨단 패키징·제조 공정이 차세대 반도체 경쟁력의 핵심 축으로 부상",
+      "summary": "최신 반도체 제조와 고밀도 패키징 기술이 성능·전력·비용 최적화를 좌우하는 핵심 요소로 부상하고 있다. 칩렛, 2.5D/3D 패키징, 고급 후공정 기술 등을 통해 동일 공정 노드에서도 차별화된 시스템 성능을 구현하려는 움직임이 강화되며, 설계-공정-패키징 간 동시 최적화가 산업 전반의 핵심 화두가 되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "EE Times Magazine – November 2026",
+          "url": "https://www.eetimes.com/ee-times-magazine-november-2026/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "SHIFTING",
+      "title": "유럽 반도체 산업, 지정학·투자·기술 변화 속 공급망 재편 본격화",
+      "summary": "SEMICON Europa 2026를 계기로 유럽 반도체 산업은 지정학적 긴장, 미국·아시아와의 경쟁, 자국 내 제조 역량 강화 요구가 겹친 ‘퍼펙트 스톰’ 국면에 진입했다. 각국 정부와 기업들은 보조금·규제 정책과 함께 공급망 다변화, 전략 노드 집중 투자, R&D 클러스터 조성 등으로 유럽 중심의 반도체 생태계를 재구성하려 하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Europe’s Chip Industry: Perfect Storm or Perfect Timing?",
+          "url": "https://www.eetimes.com/europe-chip-industry-perfect-storm-or-perfect-timing/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "로봇·자율시스템을 겨냥한 엣지 AI 반도체 수요 확대",
+      "summary": "로봇과 자율주행·자율운항 시스템에 생성형 AI를 탑재하려는 수요가 증가하면서, 엣지 단에서 저전력·고성능 추론을 구현할 수 있는 전용 프로세서와 센서·메모리 통합 칩의 중요성이 커지고 있다. 이에 따라 반도체 업체와 시스템 기업은 엣지 AI SoC, 신경망 가속기, 실시간 제어용 MCU 등의 제품 로드맵을 재정비하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "AI to the Edge: Generative Intelligence for Robotics and Autonomous Systems",
+          "url": "https://www.eetimes.com/ai-to-the-edge-generative-intelligence-for-robotics-and-autonomous-systems/"
+        }
+      ]
+    }
+  ]
+}
