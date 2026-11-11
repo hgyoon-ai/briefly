@@ -1,0 +1,651 @@
+{
+  "date": "2026-11-11",
+  "kpis": {
+    "clusters": 20,
+    "sources": 2,
+    "new": 20
+  },
+  "clusters": [
+    {
+      "id": "e79c74996d9067779a1759735c73214a57788759",
+      "name": "Smart home devices should work without the internet",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 727.8,
+      "oneLiner": "스마트 홈 장치는 인터넷 없이도 작동해야 한다고 주장한다.",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "709p · 252c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50441707"
+        },
+        {
+          "label": "Source",
+          "url": "https://docodethatmatters.com/home-automation-overnight-success/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "8d0e7d9dfc9de3abfa87b70bec59f65a07d277ea",
+      "name": "AI usage generates a fragile codebase",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 711.6,
+      "oneLiner": "AI 사용은 취약한 코드베이스를 생성한다.",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "376p · 405c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50438318"
+        },
+        {
+          "label": "Source",
+          "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "8643aa358a460878a0f96756462c9151a4d9881e",
+      "name": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 702.6,
+      "oneLiner": "Amazon이 Sonnet 4.6을 Strands Decider로 교체했다.",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 개발자 경험 개선 관점에서 관심이 커지고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "687p · 242c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50436640"
+        },
+        {
+          "label": "Source",
+          "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/"
+        }
+      ],
+      "tags": [
+        "editor"
+      ]
+    },
+    {
+      "id": "9c025055611e1fbf32ebe33d42bd93df095f69e7",
+      "name": ".name Grandfathered",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 598.8,
+      "oneLiner": ".name 도메인에 대한 기존 권리 문제를 다룬다.",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "684p · 157c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50442736"
+        },
+        {
+          "label": "Source",
+          "url": "https://neil.fraser.name/news/2026/11/10/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "93b3c2015864d797414c0272c7fc854c7733f733",
+      "name": "AlphaProof Code",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 558.6,
+      "oneLiner": "AlphaProof Code를 소개한다.",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "577p · 177c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50439193"
+        },
+        {
+          "label": "Source",
+          "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "21c251887ed2f3092c14faf79b985eb09fd82fff",
+      "name": "Ableton Live 13",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 519.0,
+      "oneLiner": "Ableton Live 13에 관한 소식이다.",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "273p · 296c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50439695"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.ableton.com/en/live/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "9d7748eeb54bc3bfacd1389833a9dc1ffb571255",
+      "name": "Scion is back and is going to sell a kei truck in America",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 487.8,
+      "oneLiner": "Scion이 부활해 미국에서 경트럭을 판매할 계획이다.",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "323p · 245c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50445401"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "5c11e4f26037b971feaf19b360c824d8617b9e47",
+      "name": "Starlink Mini 2",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 433.2,
+      "oneLiner": "Starlink Mini 2에 관한 정보다.",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "232p · 245c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50444129"
+        },
+        {
+          "label": "Source",
+          "url": "https://starlink.com/mini-2"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "2769f95bd8308412f7ab026f1a73b22d5132b76d",
+      "name": "GoogleChrome/modern-web-guidance",
+      "section": "releases",
+      "status": "NEW",
+      "score": 401.52,
+      "oneLiner": "코딩 에이전트를 최신 웹 모범사례에 맞춰 유지하라는 지침이다.",
+      "whyNow": "업데이트가 트리거가 되어 레퍼런스가 모이는 구간입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "3,256"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "114"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-11"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v1.0.0"
+        },
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "261p · 77c"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/GoogleChrome/modern-web-guidance"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/GoogleChrome/modern-web-guidance/releases/tag/v1.0.0"
+        },
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50443812"
+        }
+      ],
+      "tags": [
+        "agent tooling",
+        "testing"
+      ]
+    },
+    {
+      "id": "d6535934d7cb327135a3cb473db1b7c133afdcde",
+      "name": "Synaptics patent claims stop work on DisplayLink drivers",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 371.4,
+      "oneLiner": "Synaptics의 특허 주장으로 DisplayLink 드라이버 작업이 중단되었다.",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "293p · 163c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50443824"
+        },
+        {
+          "label": "Source",
+          "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "e4251a56bd534bd92d60ac915515ccf587d69813",
+      "name": "What's new in the .NET 11 runtime",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 352.2,
+      "oneLiner": ".NET 11 런타임의 새로운 변경사항을 정리한다.",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 성능/안정성 관점 논의가 빠르게 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "239p · 174c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50439284"
+        },
+        {
+          "label": "Source",
+          "url": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime"
+        }
+      ],
+      "tags": [
+        "runtime"
+      ]
+    },
+    {
+      "id": "0a012f397c1b3e9df365eec1381c92f46021acd6",
+      "name": "Gemini 4 Carbon is now available",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 343.8,
+      "oneLiner": "Gemini 4 Carbon이 이제 이용 가능하다는 소식이다.",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "275p · 149c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50442303"
+        },
+        {
+          "label": "Source",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "bd0daf8fc873582ca7276812ad9380c61de10c63",
+      "name": "Blender 5.3 released with Gaussian Splat support",
+      "section": "trending",
+      "status": "NEW",
+      "score": 338.4,
+      "oneLiner": "Blender 5.3이 Gaussian Splat 지원을 포함해 발표되었다.",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "434p · 65c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50442426"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.blender.org/download/releases/5-3/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "4d1bba8e248aa0caa488e34ccb34f79e95523b9c",
+      "name": "Your TV can see through walls (2025)",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 308.4,
+      "oneLiner": "TV가 벽 너머를 볼 수 있다는 연구 내용을 다룬다.",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "258p · 128c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50436410"
+        },
+        {
+          "label": "Source",
+          "url": "https://maurycyz.com/projects/fading/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "e95d9b3e56acee5bba788782842efafb6387d966",
+      "name": "NotRexed/Hookshot",
+      "section": "releases",
+      "status": "NEW",
+      "score": 295.82,
+      "oneLiner": "NotRexed/Hookshot은 젤다 오카리나의 네이티브 리컴파일 프로젝트다.",
+      "whyNow": "릴리즈 직후라 적용/마이그레이션 경험이 모이고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "6,602"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "587"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-11"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v2.0.14"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/NotRexed/Hookshot"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/NotRexed/Hookshot/releases/tag/v2.0.14"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "0b0ab9c951200a4be290a67ccd56b05126a46486",
+      "name": "Val Town is winding down",
+      "section": "trending",
+      "status": "NEW",
+      "score": 280.2,
+      "oneLiner": "Val Town이 운영 종료를 알리고 있음을 전한다.",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 블로그 해석과 후기가 빠르게 붙는 흐름입니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "305p · 81c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50443427"
+        },
+        {
+          "label": "Source",
+          "url": "https://blog.val.town/winding-down"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "2aa68c78a3e77fec398fc0cad46e58bd8c64a723",
+      "name": "huamidev/GestaltX",
+      "section": "releases",
+      "status": "NEW",
+      "score": 251.52,
+      "oneLiner": "GestaltX는 iOS 27.x용 MobileGestalt 편집기다.",
+      "whyNow": "릴리즈 직후라 적용/마이그레이션 경험이 모이고 있습니다. 개발자 경험 개선 관점에서 관심이 커지고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "4,864"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "1,848"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-11"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v1.0.4"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/huamidev/GestaltX"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/huamidev/GestaltX/releases/tag/v1.0.4"
+        }
+      ],
+      "tags": [
+        "editor"
+      ]
+    },
+    {
+      "id": "fe1d27765c974d66f6d9d9e981c631215a56fa81",
+      "name": "tangerineturtle1/NX2navi",
+      "section": "releases",
+      "status": "NEW",
+      "score": 140.06,
+      "oneLiner": "오픈 소스 개발 도구/프로젝트입니다.",
+      "whyNow": "버전 업데이트 이후 재확산이 시작된 흐름입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,906"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "191"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-11"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v0.7.1"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/tangerineturtle1/NX2navi"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/tangerineturtle1/NX2navi/releases/tag/v0.7.1"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "ee3252aa3d4110656eb05d0ecf500b3cfb180f1c",
+      "name": "jhaizhou-ops/S2Arm",
+      "section": "releases",
+      "status": "NEW",
+      "score": 124.8,
+      "oneLiner": "S2Arm은 Switch 게임을 ARM64로 재작성해 Apple 기기에서 실행한다.",
+      "whyNow": "최근 릴리즈가 나오며 실사용 공유가 빠르게 늘고 있습니다. 운영/비용 관점 해석이 갈리며 논의가 이어지고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,397"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "446"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-11"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v0.2.6"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/jhaizhou-ops/S2Arm"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/jhaizhou-ops/S2Arm/releases/tag/v0.2.6"
+        }
+      ],
+      "tags": [
+        "infra"
+      ]
+    },
+    {
+      "id": "695ff79963cfb639871cc8d05d63291260e0ba9c",
+      "name": "JenkinWoo/sheeridVerify",
+      "section": "trending",
+      "status": "NEW",
+      "score": 102.08,
+      "oneLiner": "오픈 소스 개발 도구/프로젝트입니다.",
+      "whyNow": "커밋/업데이트가 이어져 당분간 추이를 보기에 좋습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,008"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "1,088"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-11"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/JenkinWoo/sheeridVerify"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}
