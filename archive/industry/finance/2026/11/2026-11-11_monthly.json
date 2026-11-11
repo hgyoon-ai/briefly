@@ -1,0 +1,153 @@
+{
+  "range": {
+    "from": "2026-10-13",
+    "to": "2026-11-11"
+  },
+  "kpis": {
+    "collected": 45,
+    "deduped": 45,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "MarketInfra": 38,
+      "Policy": 25,
+      "Regulation": 16,
+      "Compliance": 12,
+      "Fintech": 9,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/13-10/19)",
+      "topicCounts": {
+        "MarketInfra": 13,
+        "Policy": 9,
+        "Regulation": 5,
+        "Compliance": 3,
+        "Fintech": 1
+      }
+    },
+    {
+      "week": "Week 2 (10/20-10/26)",
+      "topicCounts": {
+        "MarketInfra": 9,
+        "Policy": 8,
+        "Regulation": 4,
+        "Compliance": 2,
+        "Fintech": 2
+      }
+    },
+    {
+      "week": "Week 3 (10/27-11/02)",
+      "topicCounts": {
+        "MarketInfra": 5,
+        "Policy": 2,
+        "Regulation": 2,
+        "Compliance": 0,
+        "Fintech": 1
+      }
+    },
+    {
+      "week": "Week 4 (11/03-11/09)",
+      "topicCounts": {
+        "MarketInfra": 6,
+        "Policy": 4,
+        "Regulation": 2,
+        "Compliance": 4,
+        "Fintech": 3
+      }
+    },
+    {
+      "week": "Week 5 (11/10-11/11)",
+      "topicCounts": {
+        "MarketInfra": 2,
+        "Policy": 1,
+        "Regulation": 1,
+        "Compliance": 2,
+        "Fintech": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "국내 증권·금투업권 연쇄 해킹과 금융보안 위기",
+      "summary": "미래에셋증권과 한양증권 등에서 고객 계좌·주민번호 등 민감 정보가 연이어 유출되며 금융투자업권 전반에 보안 비상이 걸렸다. 공통적으로 외부 그룹웨어·협업툴 취약점과 AI 에이전트를 활용한 지능형 공격이 지목되면서, 금융사 자체 보안뿐 아니라 외부 IT·클라우드 의존 구조 전반에 대한 리스크 관리와 규제 강화 요구가 커지고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "은행·보험사 이어 미래에셋증권까지···연쇄 해킹에 시달리는 금융사",
+          "url": "https://www.mk.co.kr/news/stock/12201388"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "한양증권서도 개인정보 유출…금투업권 해킹 비상",
+          "url": "https://www.mk.co.kr/news/stock/12194338"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "엔비디아 ‘젠슨 황 스캔들’과 AI 투자 심리 둔화 가능성",
+      "summary": "엔비디아가 경영진 관련 스캔들 여파로 이틀 새 주가 10% 안팎 급락을 기록하면서 글로벌 AI 랠리의 피로감과 밸류에이션 조정 가능성이 부각됐다. 동기간 한국은행은 AI 붐이 꺾일 경우 132조원 규모 손실이 발생할 수 있는 최악 시나리오를 제시해, 국내외 자본시장 전반에서 AI 중심 성장 서사에 대한 재평가와 변동성 확대 우려가 커지고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "‘젠슨황 스캔들’ 엔비디아 이틀새 주가 -10%… 앤트로픽은 상장 강행?",
+          "url": "https://www.mk.co.kr/news/stock/12205004"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "“AI 꺾이면 132조원 증발”...한은이 던진 ‘최악 시나리오’",
+          "url": "https://www.mk.co.kr/news/stock/12186625"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "국내 주가조작 처벌 및 추징제도 실효성 논란",
+      "summary": "최근 5년간 자본시장 교란·주가조작 사건 239건 판결 분석 결과, 약 1.5조원 규모 범죄수익 가운데 실제 추징된 비율이 18%에 그치고, 유죄 사건 3건 중 2건은 추징금이 0원인 것으로 나타났다. 형사처벌과 경제적 환수 모두에서 억지력(deterence)이 부족하다는 지적이 제기되며, 금융당국과 사법부의 집행 강화, 제도 손질 요구가 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[단독] 주가조작, 패가망신 맞나요?…3건 중 2건은 추징금 ‘0원’",
+          "url": "https://www.mk.co.kr/news/society/12181989"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "코스피·코스닥 급락과 정부 증시 대책 기대감",
+      "summary": "코스피와 코스닥이 각각 3%대 이상 급락하며 코스피 5,500선 붕괴 등 변동성이 확대되자, 시장은 이재명 대통령이 언급한 증시 안정 대책의 구체적 내용과 속도에 주목하고 있다. 단기 급락이 구조적 하락으로 번질지, 정부의 유동성·세제·공매도 관련 대응이 어느 수준까지 나올지가 향후 국내 주식시장 방향성의 핵심 변수로 부상했다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "급락한 주가...이재명 대통령이 언급한 ‘증시 대책’에 쏠리는 시장 관심",
+          "url": "https://www.mk.co.kr/news/stock/12180892"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "SHIFTING",
+      "title": "미 재무부의 스테이블코인 완화 기조와 크립토 시장 재편",
+      "summary": "미국 재무장관 스콧 베센트가 링컨을 언급하며 스테이블코인 활성화 의지를 재차 강조하고, 정부 차원의 규제 완화·제도화 조치를 예고했다. 이는 글로벌 크립토·핀테크 기업들의 사업 확장에 우호적 환경을 조성하는 동시에, 국내 규제체계와 디지털자산 산업 전략 재정비 압박 요인으로 작용하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "링컨까지 소환한 베센트... 앤트로픽 상장, 다음달 확정인가",
+          "url": "https://www.mk.co.kr/news/business/12182433"
+        }
+      ]
+    }
+  ]
+}

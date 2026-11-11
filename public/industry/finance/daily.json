@@ -1,15 +1,15 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-11",
   "highlights": {
     "bullets": [
-      "핵심: TSMC가 차세대 3D D램을 직접 제조하려는 정황이 포착됐다.",
-      "핵심: 미국 반도체주 반등에도 코스피는 외국인 매도로 장중 한때 5000선 아래로 밀렸다."
+      "핵심: 엔비디아는 '젠슨 황 스캔들' 여파로 이틀 새 주가가 약 10% 급락했다.",
+      "핵심: 디엑스앤브이엑스는 PCR 위양성 판별 기술 '멜픽'에 대해 특허를 출원했다."
     ],
     "topTopics": [
       "MarketInfra",
-      "Compliance",
+      "Policy",
       "Security",
-      "Policy"
+      "Compliance"
     ],
     "stats": {
       "collected": 15,
@@ -20,43 +20,44 @@
     {
       "id": "finance_0001",
       "tab": "finance",
-      "publishedAt": "2026-11-09T09:23:19+09:00",
+      "publishedAt": "2026-11-11T09:18:34+09:00",
       "source": "매일경제(증권)",
-      "title": "TSMC가 D램을 직접? … 엔비디아의 ‘비밀 요청’",
+      "title": "‘젠슨황 스캔들’ 엔비디아 이틀새 주가 -10%… 앤트로픽은 상장 강행?",
       "summary": [
-        "대만 파운드리 1위 TSMC가 차세대 3D D램을 직접 제조하려는 구체적 정황이 포착됐다.",
-        "엔비디아가 비밀 요청의 배후로 지목되며 맞춤형 메모리 공급 가능성이 제기됐다.",
-        "TSMC의 진출은 글로벌 메모리 시장과 반도체 공급망 판도를 바꿀 잠재력이 있다."
+        "엔비디아가 '젠슨 황 스캔들' 여파로 이틀 새 주가가 약 10% 급락했다.",
+        "한 달 전 228달러대에서 168달러선까지 밀리며 단기간에 큰 조정을 겪고 있다.",
+        "앤트로픽의 상장 강행 여부가 시장의 추가 변동 요인으로 주목받고 있다."
       ],
-      "whyItMatters": "TSMC의 메모리 직접 제조는 파운드리 중심 생태계에 구조적 변화를 일으켜 메모리 업체·AI칩 설계자·국가 안보에 광범위한 영향을 미칠 수 있기 때문이다.",
+      "whyItMatters": "엔비디아의 신뢰 훼손은 글로벌 AI·증시 투자심리에 직접적인 충격을 주어 IPO·자금조달 환경과 규제·정책 논의에도 파급될 수 있다.",
       "topics": [
         "MarketInfra",
-        "Policy",
-        "Security"
+        "Compliance",
+        "Policy"
       ],
-      "status": "SHIFTING",
-      "hash": "a2547ba8903351433544d2caa6cce51545d294e5f44b635fdbf9991a82a36f52",
-      "url": "https://www.mk.co.kr/news/stock/12202048"
+      "status": "ONGOING",
+      "hash": "32acb331b75cb6de964a4f2cc6ffec2dbaa923be6cb4b4e0a07e3ff6cc022bc3",
+      "url": "https://www.mk.co.kr/news/stock/12205004"
     },
     {
       "id": "finance_0002",
       "tab": "finance",
-      "publishedAt": "2026-11-09T09:35:37+09:00",
+      "publishedAt": "2026-11-11T09:47:35+09:00",
       "source": "매일경제(증권)",
-      "title": "美 반도체 반등에도 코스피 ‘흔들’…장중 다시 5000선 밑으로",
+      "title": "DXVX, PCR 위양성 판별 기술 ‘멜픽’ 특허 출원…분자진단 시장 공략",
       "summary": [
-        "미국 반도체주의 반등에도 코스피가 장 초반 약세를 보였다.",
-        "외국인 매도세가 이어지며 장중 한때 5000선 아래로 밀렸다.",
-        "지수는 전일 대비 약 25.49포인트 하락했다."
+        "디엑스앤브이엑스(DXVX)가 PCR 위양성 판별 기술 '멜픽'에 대해 특허를 출원했다.",
+        "멜픽은 실시간 유전자증폭(Real-time PCR) 검사에서 극미량 타깃 검출 시 발생하는 위양성을 판별하는 기술이다.",
+        "회사는 해당 기술을 바탕으로 글로벌 분자진단 시장 공략을 추진하고 있다."
       ],
-      "whyItMatters": "외국인 매도 지속으로 투자심리가 위축되며 지수가 하락했다.",
+      "whyItMatters": "위양성 판별 능력 향상은 진단 정확도와 임상 신뢰도를 높여 분자진단 시장에서 경쟁력을 강화할 수 있기 때문이다.",
       "topics": [
-        "MarketInfra",
-        "Security"
+        "Regulation",
+        "Compliance",
+        "MarketInfra"
       ],
-      "status": "ONGOING",
-      "hash": "173bf0ea8fdb94f9cc7307df442c58492735b5128cb2ee566c90884503165264",
-      "url": "https://www.mk.co.kr/news/stock/12202067"
+      "status": "NEW",
+      "hash": "57d64b2faa2fb6cc384be472177cb95bbf0ef2201b7b947b997b0e98e798a448",
+      "url": "https://www.mk.co.kr/news/stock/12205084"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
   "range": {
-    "from": "2026-11-03",
-    "to": "2026-11-09"
+    "from": "2026-11-05",
+    "to": "2026-11-11"
   },
   "kpis": {
-    "collected": 21,
-    "deduped": 21,
-    "uniqueTopics": 9
+    "collected": 22,
+    "deduped": 22,
+    "uniqueTopics": 10
   },
   "topTopics": [
     {
@@ -15,11 +15,11 @@
     },
     {
       "name": "Supply",
-      "count": 13
+      "count": 15
     },
     {
-      "name": "Regulation",
-      "count": 9
+      "name": "Construction",
+      "count": 8
     },
     {
       "name": "Policy",
@@ -28,54 +28,6 @@
   ],
   "topicTrend": [
     {
-      "date": "2026-11-03",
-      "dayOfWeek": "Tue",
-      "topic": "Market",
-      "count": 3
-    },
-    {
-      "date": "2026-11-03",
-      "dayOfWeek": "Tue",
-      "topic": "Supply",
-      "count": 1
-    },
-    {
-      "date": "2026-11-03",
-      "dayOfWeek": "Tue",
-      "topic": "Regulation",
-      "count": 2
-    },
-    {
-      "date": "2026-11-03",
-      "dayOfWeek": "Tue",
-      "topic": "Policy",
-      "count": 1
-    },
-    {
-      "date": "2026-11-04",
-      "dayOfWeek": "Wed",
-      "topic": "Market",
-      "count": 0
-    },
-    {
-      "date": "2026-11-04",
-      "dayOfWeek": "Wed",
-      "topic": "Supply",
-      "count": 0
-    },
-    {
-      "date": "2026-11-04",
-      "dayOfWeek": "Wed",
-      "topic": "Regulation",
-      "count": 0
-    },
-    {
-      "date": "2026-11-04",
-      "dayOfWeek": "Wed",
-      "topic": "Policy",
-      "count": 0
-    },
-    {
       "date": "2026-11-05",
       "dayOfWeek": "Thu",
       "topic": "Market",
@@ -90,7 +42,7 @@
     {
       "date": "2026-11-05",
       "dayOfWeek": "Thu",
-      "topic": "Regulation",
+      "topic": "Construction",
       "count": 0
     },
     {
@@ -114,7 +66,7 @@
     {
       "date": "2026-11-06",
       "dayOfWeek": "Fri",
-      "topic": "Regulation",
+      "topic": "Construction",
       "count": 4
     },
     {
@@ -138,7 +90,7 @@
     {
       "date": "2026-11-07",
       "dayOfWeek": "Sat",
-      "topic": "Regulation",
+      "topic": "Construction",
       "count": 1
     },
     {
@@ -162,7 +114,7 @@
     {
       "date": "2026-11-08",
       "dayOfWeek": "Sun",
-      "topic": "Regulation",
+      "topic": "Construction",
       "count": 0
     },
     {
@@ -186,36 +138,117 @@
     {
       "date": "2026-11-09",
       "dayOfWeek": "Mon",
-      "topic": "Regulation",
-      "count": 2
+      "topic": "Construction",
+      "count": 1
     },
     {
       "date": "2026-11-09",
       "dayOfWeek": "Mon",
       "topic": "Policy",
       "count": 2
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Market",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Construction",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Market",
+      "count": 3
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Supply",
+      "count": 3
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Construction",
+      "count": 2
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 1
     }
   ],
   "topIssues": [
     {
       "id": 1,
       "status": "ONGOING",
-      "title": "서울시-LH 공공정비사업 역할 갈등",
-      "summary": "서울시는 공공주도 정비사업의 속도·실효성을 문제 삼으며 ‘공공개발 만능론’을 경계하고, LH는 계획 차질 없이 추진 중이라고 맞서면서 공공재개발·재건축 추진 체계와 역할 분담을 둘러싼 갈등이 이어지고 있다.",
+      "title": "서울 아파트 주차난 심화와 자치구 간 격차",
+      "summary": "서울 아파트의 가구당 평균 주차대수는 1.08대에 그치며, 노원·금천·도봉구 등 일부 지역에서 주차 여건이 특히 열악한 것으로 집계됐다. 인구·차량은 늘었지만 노후 단지와 저밀도 지역의 주차 인프라 확충이 지연되면서 주거 만족도와 지역 가치에도 영향을 주는 구조적 문제로 부각되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(부동산)",
-          "title": "서울시 “공공개발 만능론 안 돼” vs LH “계획 차질 없이 진행중”…정비사업 갈등",
-          "url": "https://www.mk.co.kr/news/realestate/12202080"
+          "title": "“친구야, 미안한데 버스 타고 와”…서울 아파트 가구당 주차 평균 1.08대",
+          "url": "https://www.mk.co.kr/news/realestate/12205102"
         }
       ]
     },
     {
       "id": 2,
+      "status": "SHIFTING",
+      "title": "비거주 1주택자 종부세 공제 기준 상향 논쟁",
+      "summary": "비거주 1주택자에 대한 종합부동산세 기본공제와 관련해 정부는 12억원 유지를, 여당은 14억원 상향을 주장하며 이견을 보이고 있다. 여론 악화 속에 여당이 비거주 공제 기준을 9억원에서 12억·14억원으로 높이는 방안을 검토하면서 마용성 등 인기 지역 고가 아파트 실수요·임대사업자 모두의 보유세 부담과 시장 심리에 변수가 되고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "마래푸 34평 보유세 777만원→605만원→520만원…당정 ‘종부세’ 충돌, 혼돈의 마용성 [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10933263"
+        },
+        {
+          "source": "한국경제(부동산)",
+          "title": "종부세 '비거주 공제' 9억→12억→14억?…여론 악화에 움직인 與 [종합]",
+          "url": "https://www.hankyung.com/article/2026110834457"
+        }
+      ]
+    },
+    {
+      "id": 3,
       "status": "ONGOING",
-      "title": "세종 3조원대 스마트시티 추진과 공공·민간 기술 결합",
-      "summary": "세종 5-1생활권에 약 3조원이 투입되는 스마트시티가 추진되며, 공공 개발역량과 민간 첨단기술을 결합해 도시계획 단계부터 배송로봇·자율주행 등 서비스를 반영하는 차세대 신도시 모델 구축이 진행되고 있다.",
+      "title": "공원·녹지 인접 ‘숲세권’ 새 아파트 선호 확산",
+      "summary": "도심 내 공원·녹지 인접 단지, 이른바 ‘숲세권’에 대한 선호가 높아지며 최근 분양 시장에서 녹지 접근성을 앞세운 단지들이 높은 청약 경쟁률을 기록하고 있다. 미세먼지·폭염 등 환경 이슈와 함께 주거 쾌적성이 가치 요소로 부상하면서 분양 전략과 입지 선정의 핵심 변수로 굳어지는 추세다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "“숲세권이 대세다”…문래동 녹지 품은 ‘해링턴 플레이스 문래’ 분양 눈길",
+          "url": "https://biz.heraldcorp.com/article/10933204"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "세종 5-1생활권 3조원대 스마트시티 개발 본격 추진",
+      "summary": "세종시 5-1생활권에 약 3조원이 투입되는 스마트시티 사업이 추진되며, 공공 개발역량과 민간 기술을 결합한 첨단 도시 모델 구축이 진행되고 있다. 도시계획 단계부터 배송로봇·자율주행 등 서비스 운영에 필요한 인프라와 동선을 반영해 향후 전국 스마트시티·신도시 개발의 정책·기술 시범 사례가 될 전망이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -226,44 +259,16 @@
       ]
     },
     {
-      "id": 3,
+      "id": 5,
       "status": "ONGOING",
-      "title": "대출 규제로 서울 중소형 아파트 가격 격차 축소",
-      "summary": "대출 규제 강화 속에 대출 부담이 상대적으로 적은 소형 평형 수요가 늘면서, 서울 아파트 국민평형(84㎡)과 소형(59㎡)의 가격 차이가 약 1억7000만원 수준까지 좁혀지는 등 평형별 가격 구조가 재편되고 있다.",
+      "title": "대출 규제 속 소형·국민평형 아파트 간 가격 격차 축소",
+      "summary": "대출 규제 강화와 금리 부담 속에서 서울 아파트 수요가 중소형 위주로 재편되며, 전용 59㎡와 84㎡ 사이 가격 격차가 약 1억7000만원 수준까지 좁혀지고 있다. ‘조금 더 보태면 국민평형’이라는 인식 속에 실수요자 선택지가 넓어지는 한편, 중소형 공급 전략과 단지 내 평형 구성 조정에 영향을 미치는 흐름이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(부동산)",
           "title": "“좀더 보태면 국평 가는데”…대출 규제에 중소형 가격차 1.7억까지 좁혀져",
           "url": "https://www.mk.co.kr/news/realestate/12202027"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "status": "ONGOING",
-      "title": "전세 약화와 월세 시장 비중 급증",
-      "summary": "일부 지역에서 월세 비중이 85%까지 치솟는 등 전세에서 월세로의 전환이 가속화되며, 임대차 시장이 월세 중심 구조로 빠르게 재편되고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "한국경제(부동산)",
-          "title": "\"전세요? 요즘 누가 해요\"…월세 비중 85% 찍은 동네 어디 [시장톡]",
-          "url": "https://www.hankyung.com/article/2026110608116"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "status": "SHIFTING",
-      "title": "종부세 비거주 공제 상향 검토 등 보유세 완화 움직임",
-      "summary": "여당이 종부세 비거주 공제 기준을 9억원에서 12억·14억원으로 상향하는 방안을 논의하며, 여론 악화를 배경으로 고가 1주택자 및 다주택자의 보유세 부담을 완화하는 방향으로 세제 기조가 변하는 조짐을 보이고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "한국경제(부동산)",
-          "title": "종부세 '비거주 공제' 9억→12억→14억?…여론 악화에 움직인 與 [종합]",
-          "url": "https://www.hankyung.com/article/2026110834457"
         }
       ]
     }

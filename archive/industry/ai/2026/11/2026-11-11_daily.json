@@ -1,0 +1,132 @@
+{
+  "date": "2026-11-11",
+  "highlights": {
+    "bullets": [
+      "핵심: 숨겨진 트리거로 활성화되는 백도어 Lazarus가 에이전트를 통해 악성 명령을 수행할 수 있음이 확인됐다.",
+      "핵심: 에이전트 기반 형식검증 도구가 복잡한 소프트웨어의 핵심 암호를 대규모로 자동 검증했다.",
+      "트렌드: 에이전트와 모델의 안전성 확보와 대규모 운영을 위한 인프라·툴링 개선이 공통으로 부각됐다."
+    ],
+    "topTopics": [
+      "Product",
+      "Infra",
+      "Tooling",
+      "Safety"
+    ],
+    "stats": {
+      "collected": 11,
+      "deduped": 11
+    }
+  },
+  "cards": [
+    {
+      "id": "ai_0001",
+      "tab": "ai",
+      "publishedAt": "2026-11-11T05:52:56+09:00",
+      "source": "Microsoft Research Blog",
+      "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+      "summary": [
+        "마이크로소프트 연구진이 숨겨진 트리거로 활성화되는 백도어 기법 'Lazarus'를 발견해, 휴면 뉴런을 재프로그램해 에이전트에게 악성 명령을 수행시킬 수 있음을 보였습니다.",
+        "이 백도어는 겉으로는 정상적으로 보이는 모델 안에 잠복해 있다가 특정 패턴이 나타나면 툴·터미널 사용 권한을 남용해 코드 다운로드 및 실행 등을 조용히 수행할 수 있습니다.",
+        "연구는 고급 AI 에이전트의 공급망·배포 과정에서 모델 무결성과 백도어 탐지·방어 메커니즘을 강화해야 할 필요성을 강조합니다."
+      ],
+      "whyItMatters": "에이전트형 모델에 은밀히 삽입될 수 있는 백도어 메커니즘을 구체적으로 제시해, AI 안전·보안 아키텍처 전반을 재설계해야 할 수준의 새로운 위협 벡터를 드러냈기 때문입니다.",
+      "topics": [
+        "Safety",
+        "Research",
+        "Models",
+        "Infra"
+      ],
+      "status": "NEW",
+      "hash": "e1742b0ed40ea563844b0ca18817ebece785ca33ae02107ae324f99b35a7d306",
+      "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/"
+    },
+    {
+      "id": "ai_0002",
+      "tab": "ai",
+      "publishedAt": "2026-11-11T01:00:00+09:00",
+      "source": "NVIDIA Developer Blog",
+      "title": "Running AV Reasoning Models Within Onboard Compute and Latency Limits",
+      "summary": [
+        "자율주행 AV 개발자는 온보드 컴퓨트와 엄격한 지연 시간 제약 내에서 동작하는 추론(reasoning) 모델이 필요하다.",
+        "대형 모델은 성능을 높이지만 온보드 자원 한계 때문에 양자화·프루닝·지식증류 등 모델 최적화와 하드웨어·소프트웨어 공조가 필수적이다.",
+        "실제 해법은 모델 압축, 하드웨어 가속기 활용, 런타임 스케줄링 및 센서/ECU 간 분할과 함께 안전성 검증을 병행하는 것이다."
+      ],
+      "whyItMatters": "실시간 안전 의사결정과 시스템 신뢰성에 직접적인 영향을 미치므로 온보드 연산·지연 제약을 맞추는 것이 필수적이다.",
+      "topics": [
+        "Models",
+        "Inference",
+        "Infra",
+        "Safety",
+        "Tooling"
+      ],
+      "status": "ONGOING",
+      "hash": "fbdb5550e0a6a1d5aa6fbfd851de87d7d1a47ac6369b659f255d25e97b21d59e",
+      "url": "https://developer.nvidia.com/blog/running-av-reasoning-models-within-onboard-compute-and-latency-limits/"
+    },
+    {
+      "id": "ai_0003",
+      "tab": "ai",
+      "publishedAt": "2026-11-10T21:02:28+09:00",
+      "source": "Google DeepMind Blog",
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "summary": [
+        "AlphaProof Code 에이전트들이 Lean으로 300만 줄의 증명을 작성해 Signal의 핵심 암호를 형식검증했다.",
+        "DeepMind 블로그 발표에 따르면 이 기술은 복잡한 소프트웨어의 깊이 있는 형식검증을 자동화한다.",
+        "프로덕션 수준 암호 구현에 대한 대규모 검증은 보안과 신뢰성 향상에 직접적인 영향을 준다."
+      ],
+      "whyItMatters": "실제 서비스의 핵심 암호를 자동으로 대규모 검증한 성과는 소프트웨어 신뢰성·안전성 보장 방식에 근본적 변화를 일으킬 잠재력이 있기 때문입니다.",
+      "topics": [
+        "Safety",
+        "Research",
+        "Tooling",
+        "Models"
+      ],
+      "status": "NEW",
+      "hash": "f321c904268bcef29356d2d155bbcafcddbf602b9c293f4ee1395ec1aeca5a94",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+    },
+    {
+      "id": "ai_0004",
+      "tab": "ai",
+      "publishedAt": "2026-11-11T01:03:47+09:00",
+      "source": "Google DeepMind Blog",
+      "title": "Gemini 4 Carbon is now available",
+      "summary": [
+        "Gemini 4 Carbon이 공개되어 이용 가능해졌습니다.",
+        "Google DeepMind 블로그에서 공식 발표되었습니다.",
+        "새 모델은 제품·서비스와 인프라 및 추론 워크플로우에 즉각적 영향을 줄 가능성이 큽니다."
+      ],
+      "whyItMatters": "사용자 접근성 확대와 성능·비용 개선으로 기업과 개발자의 서비스 개선과 전환을 촉진할 수 있기 때문입니다.",
+      "topics": [
+        "Models",
+        "Product",
+        "Inference",
+        "Infra"
+      ],
+      "status": "NEW",
+      "hash": "6d8eb3bcd497222db1584f1aa2993835a109f04276471f75e3d9dbc836822f75",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
+    },
+    {
+      "id": "ai_0005",
+      "tab": "ai",
+      "publishedAt": "2026-11-11T00:00:00+09:00",
+      "source": "NVIDIA Developer Blog",
+      "title": "Agent Substrate: Advancing Kubernetes for Agents at Scale",
+      "summary": [
+        "Agent Substrate는 에이전트를 대규모로 운영하기 위해 Kubernetes를 재구성한다.",
+        "AI 에이전트는 대부분 유휴 상태여서 기존 파드 기반 접근법이 자원과 비용 측면에서 비효율적이다.",
+        "이 접근법은 파드 관리, 자원 공유 및 응답 대기 시간 최적화를 통해 효율성과 확장성을 개선한다."
+      ],
+      "whyItMatters": "대규모 에이전트 서비스의 비용·성능 문제를 해결해 실용적 배포와 확장을 가능하게 하기 때문이다.",
+      "topics": [
+        "Infra",
+        "Tooling",
+        "Product"
+      ],
+      "status": "ONGOING",
+      "hash": "b140b110e619a8ce7d3739d16b81ed2101f5ac3a961fb009f0ca50886240cde3",
+      "url": "https://developer.nvidia.com/blog/agent-substrate-advancing-kubernetes-for-agents-at-scale/"
+    }
+  ]
+}

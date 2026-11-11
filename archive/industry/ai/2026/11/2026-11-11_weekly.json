@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-11-05",
+    "to": "2026-11-11"
+  },
+  "kpis": {
+    "collected": 14,
+    "deduped": 14,
+    "uniqueTopics": 9
+  },
+  "topTopics": [
+    {
+      "name": "Infra",
+      "count": 9
+    },
+    {
+      "name": "Tooling",
+      "count": 9
+    },
+    {
+      "name": "Models",
+      "count": 8
+    },
+    {
+      "name": "Safety",
+      "count": 6
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Models",
+      "count": 1
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Safety",
+      "count": 1
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Infra",
+      "count": 3
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Tooling",
+      "count": 5
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Models",
+      "count": 2
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Safety",
+      "count": 2
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Infra",
+      "count": 2
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Tooling",
+      "count": 1
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Models",
+      "count": 1
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Safety",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Safety",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Safety",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Tooling",
+      "count": 1
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Models",
+      "count": 1
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Safety",
+      "count": 1
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Infra",
+      "count": 4
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Tooling",
+      "count": 2
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Models",
+      "count": 3
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Safety",
+      "count": 2
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "에이전트 백도어 위협: 잠복 뉴런을 이용한 ‘Lazarus’ 기법 등장",
+      "summary": "마이크로소프트가 에이전트 내 잠복 뉴런을 재프로그램해 특정 트리거가 나타날 때만 악성 행위를 수행하는 백도어 기법 ‘Lazarus’를 공개했습니다. 겉보기엔 정상 모델이지만, 조건이 맞으면 툴·터미널 권한을 악용해 코드 다운로드·실행 등 공격을 수행할 수 있어, 에이전트 보안·검증 방식 전반에 대한 재점검이 요구되고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Microsoft Research Blog",
+          "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+          "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "Gemini 4 Carbon 출시: 차세대 대형 모델 제품화 가속",
+      "summary": "Google DeepMind가 Gemini 4 Carbon을 공식 공개하며 상용 이용을 시작했습니다. 최신 Gemini 계열 모델을 기반으로 한 이 릴리스는 추론 성능과 제품 통합을 개선해, 다양한 애플리케이션에서 고성능 멀티모달·에이전트 기능을 손쉽게 쓸 수 있도록 하는 것에 초점을 둡니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Google DeepMind Blog",
+          "title": "Gemini 4 Carbon is now available",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "대규모 AI 에이전트 인프라: Kubernetes 재설계 ‘Agent Substrate’",
+      "summary": "NVIDIA는 대부분의 시간이 유휴 상태인 대규모 AI 에이전트를 기존 파드 기반 Kubernetes로 운영할 때 발생하는 자원·비용 비효율을 해결하기 위해 ‘Agent Substrate’를 제안했습니다. 이는 에이전트 수천~수만 개를 탄력적으로 스케줄링해 GPU 활용률과 비용 효율을 높이는 인프라 레벨 재구성을 목표로 합니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Agent Substrate: Advancing Kubernetes for Agents at Scale",
+          "url": "https://developer.nvidia.com/blog/agent-substrate-advancing-kubernetes-for-agents-at-scale/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "이미지 생성 가속: FLUX 3 Image Klein과 Blackwell GPU 최적화",
+      "summary": "NVIDIA는 Blackwell GPU에서 FLUX 3 Image Klein 확산 모델의 추론을 최적화해 이미지 생성 지연 시간을 크게 줄이는 방법을 공개했습니다. 이를 통해 디자인 툴, 이미지 편집기, 비주얼 제작 워크플로우에서 실시간에 가까운 고품질 이미지 생성을 지원해, 생성형 AI 기반 크리에이티브 작업의 상용화를 촉진합니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
+          "url": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "강화학습 포스트트레이닝 가속: Reshard Collective로 RL 리핏 최적화",
+      "summary": "NVIDIA는 RL 포스트트레이닝에서 실시간으로 생성되는 트레이젝토리와 병행해 가중치를 빠르게 재배치하는 ‘Reshard Collective’를 소개했습니다. 이 기술은 가중치 리핏 연산의 병목을 줄여 학습·추론 파이프라인을 동시에 가속함으로써, 복잡한 RL 기반 에이전트의 실시간 업데이트와 효율적 스케일링을 가능하게 합니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Accelerating Reinforcement Learning Weight Refit with the Reshard Collective",
+          "url": "https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective/"
+        }
+      ]
+    }
+  ]
+}

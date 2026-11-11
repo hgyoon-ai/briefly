@@ -1,0 +1,276 @@
+{
+  "range": {
+    "from": "2026-11-05",
+    "to": "2026-11-11"
+  },
+  "kpis": {
+    "collected": 22,
+    "deduped": 22,
+    "uniqueTopics": 10
+  },
+  "topTopics": [
+    {
+      "name": "Market",
+      "count": 19
+    },
+    {
+      "name": "Supply",
+      "count": 15
+    },
+    {
+      "name": "Construction",
+      "count": 8
+    },
+    {
+      "name": "Policy",
+      "count": 8
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Market",
+      "count": 1
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Supply",
+      "count": 1
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Construction",
+      "count": 0
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Market",
+      "count": 7
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Supply",
+      "count": 6
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Construction",
+      "count": 4
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 3
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Market",
+      "count": 4
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Supply",
+      "count": 3
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Construction",
+      "count": 1
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Market",
+      "count": 1
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Construction",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Market",
+      "count": 3
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Supply",
+      "count": 2
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Construction",
+      "count": 1
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Market",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Construction",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Market",
+      "count": 3
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Supply",
+      "count": 3
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Construction",
+      "count": 2
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 1
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "서울 아파트 주차난 심화와 자치구 간 격차",
+      "summary": "서울 아파트의 가구당 평균 주차대수는 1.08대에 그치며, 노원·금천·도봉구 등 일부 지역에서 주차 여건이 특히 열악한 것으로 집계됐다. 인구·차량은 늘었지만 노후 단지와 저밀도 지역의 주차 인프라 확충이 지연되면서 주거 만족도와 지역 가치에도 영향을 주는 구조적 문제로 부각되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "“친구야, 미안한데 버스 타고 와”…서울 아파트 가구당 주차 평균 1.08대",
+          "url": "https://www.mk.co.kr/news/realestate/12205102"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "비거주 1주택자 종부세 공제 기준 상향 논쟁",
+      "summary": "비거주 1주택자에 대한 종합부동산세 기본공제와 관련해 정부는 12억원 유지를, 여당은 14억원 상향을 주장하며 이견을 보이고 있다. 여론 악화 속에 여당이 비거주 공제 기준을 9억원에서 12억·14억원으로 높이는 방안을 검토하면서 마용성 등 인기 지역 고가 아파트 실수요·임대사업자 모두의 보유세 부담과 시장 심리에 변수가 되고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "마래푸 34평 보유세 777만원→605만원→520만원…당정 ‘종부세’ 충돌, 혼돈의 마용성 [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10933263"
+        },
+        {
+          "source": "한국경제(부동산)",
+          "title": "종부세 '비거주 공제' 9억→12억→14억?…여론 악화에 움직인 與 [종합]",
+          "url": "https://www.hankyung.com/article/2026110834457"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "공원·녹지 인접 ‘숲세권’ 새 아파트 선호 확산",
+      "summary": "도심 내 공원·녹지 인접 단지, 이른바 ‘숲세권’에 대한 선호가 높아지며 최근 분양 시장에서 녹지 접근성을 앞세운 단지들이 높은 청약 경쟁률을 기록하고 있다. 미세먼지·폭염 등 환경 이슈와 함께 주거 쾌적성이 가치 요소로 부상하면서 분양 전략과 입지 선정의 핵심 변수로 굳어지는 추세다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "“숲세권이 대세다”…문래동 녹지 품은 ‘해링턴 플레이스 문래’ 분양 눈길",
+          "url": "https://biz.heraldcorp.com/article/10933204"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "세종 5-1생활권 3조원대 스마트시티 개발 본격 추진",
+      "summary": "세종시 5-1생활권에 약 3조원이 투입되는 스마트시티 사업이 추진되며, 공공 개발역량과 민간 기술을 결합한 첨단 도시 모델 구축이 진행되고 있다. 도시계획 단계부터 배송로봇·자율주행 등 서비스 운영에 필요한 인프라와 동선을 반영해 향후 전국 스마트시티·신도시 개발의 정책·기술 시범 사례가 될 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "공공 개발역량에 민간 기술 결합…3조원대 세종 스마트시티 사업 추진",
+          "url": "https://biz.heraldcorp.com/article/10930113"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "대출 규제 속 소형·국민평형 아파트 간 가격 격차 축소",
+      "summary": "대출 규제 강화와 금리 부담 속에서 서울 아파트 수요가 중소형 위주로 재편되며, 전용 59㎡와 84㎡ 사이 가격 격차가 약 1억7000만원 수준까지 좁혀지고 있다. ‘조금 더 보태면 국민평형’이라는 인식 속에 실수요자 선택지가 넓어지는 한편, 중소형 공급 전략과 단지 내 평형 구성 조정에 영향을 미치는 흐름이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "“좀더 보태면 국평 가는데”…대출 규제에 중소형 가격차 1.7억까지 좁혀져",
+          "url": "https://www.mk.co.kr/news/realestate/12202027"
+        }
+      ]
+    }
+  ]
+}

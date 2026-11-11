@@ -1,79 +1,107 @@
 {
   "range": {
-    "from": "2026-10-11",
-    "to": "2026-11-09"
+    "from": "2026-10-13",
+    "to": "2026-11-11"
   },
   "kpis": {
-    "collected": 44,
-    "deduped": 44,
+    "collected": 42,
+    "deduped": 42,
     "uniqueTopics": 7,
     "marketShare": {
+      "Roadmap": 26,
       "Competition": 26,
-      "Roadmap": 24,
       "Demand": 21,
-      "Investment": 20,
+      "Investment": 19,
       "Policy": 9,
       "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/11-10/17)",
+      "week": "Week 1 (10/13-10/19)",
       "topicCounts": {
+        "Roadmap": 8,
         "Competition": 10,
-        "Roadmap": 6,
-        "Demand": 9,
-        "Investment": 6,
+        "Demand": 10,
+        "Investment": 4,
         "Policy": 4
       }
     },
     {
-      "week": "Week 2 (10/18-10/24)",
+      "week": "Week 2 (10/20-10/26)",
       "topicCounts": {
-        "Competition": 7,
-        "Roadmap": 9,
-        "Demand": 4,
-        "Investment": 7,
-        "Policy": 4
+        "Roadmap": 8,
+        "Competition": 6,
+        "Demand": 6,
+        "Investment": 9,
+        "Policy": 3
       }
     },
     {
-      "week": "Week 3 (10/25-10/31)",
+      "week": "Week 3 (10/27-11/02)",
       "topicCounts": {
-        "Competition": 5,
-        "Roadmap": 7,
-        "Demand": 4,
-        "Investment": 5,
+        "Roadmap": 3,
+        "Competition": 3,
+        "Demand": 2,
+        "Investment": 2,
         "Policy": 0
       }
     },
     {
-      "week": "Week 4 (11/01-11/07)",
+      "week": "Week 4 (11/03-11/09)",
       "topicCounts": {
-        "Competition": 4,
-        "Roadmap": 4,
+        "Roadmap": 6,
+        "Competition": 7,
         "Demand": 5,
-        "Investment": 2,
+        "Investment": 5,
         "Policy": 2
       }
     },
     {
-      "week": "Week 5 (11/08-11/09)",
+      "week": "Week 5 (11/10-11/11)",
       "topicCounts": {
-        "Competition": 2,
         "Roadmap": 2,
+        "Competition": 1,
         "Demand": 1,
-        "Investment": 2,
+        "Investment": 1,
         "Policy": 0
       }
     }
   ],
   "topIssues": [
     {
-      "id": "ev-1",
+      "id": 1,
+      "status": "ONGOING",
+      "title": "루시드, 재고 차량 위치 관리 실패로 주문 손실 인정",
+      "summary": "루시드가 Q3 실적 발표에서 올여름까지 재고 차량의 위치를 제대로 파악하지 못해, 고객 차량 인도에 최대 2주가 소요되며 주문 취소와 매출 손실이 발생했다고 밝혔습니다. 고가 프리미엄 EV에서 기본 물류·재고 관리 문제까지 드러나며 생산·수요 관리 역량에 대한 시장 우려가 커지고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Lucid CEO admits it ‘did not even know where cars were’ and lost orders",
+          "url": "https://electrek.co/2026/11/10/lucid-ceo-did-not-know-where-cars-were-lost-orders/"
+        }
+      ]
+    },
+    {
+      "id": 2,
       "status": "NEW",
-      "title": "르노, 자율 전기차 기반 군용 로봇 플랫폼 사업 진출",
-      "summary": "르노가 자사 전기·자율주행 기술을 기반으로 프랑스 육군용 군용 로봇 플랫폼 시장 진출을 추진하며, 민간 전기차 기술을 방산·국방 영역으로 확장하는 움직임이 가시화되고 있습니다.",
+      "title": "BYD, 5분 급속충전 로봇 암으로 EV 자동 충전 혁신 가속",
+      "summary": "BYD가 5분 내 초고속 충전을 지원하는 ‘플래시 차징’ 기술에 로봇 충전 암을 결합한 시스템을 공개했습니다. 로봇 팔이 차량을 자동 인식해 플러그를 연결하고, 통합 태양광 설비로 전력을 보조해 충전 효율을 높이며, 향후 무인 충전소·플릿 운영 자동화 등 상용 EV 인프라 경쟁에서 우위를 노리고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Watch BYD’s robotic charging arm plug itself in and charge EVs in 5 minutes [Video]",
+          "url": "https://electrek.co/2026/11/10/byds-robot-charger-plugs-itself-in-charges-evs-5-mins-video/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "르노, 자율 전기 플랫폼 기반 군용 로봇 시장 진출 모색",
+      "summary": "르노가 프랑스 육군 임무 수행을 위한 자율 전기차 기반 군용 로봇 플랫폼 사업을 추진하며, 민수용 EV·자율주행 기술을 국방 영역으로 확장하려 하고 있습니다. 이는 전통 완성차 업체가 전동화·소프트웨어 역량을 활용해 군용·로봇 분야로 다각화하는 흐름을 보여줍니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -84,10 +112,10 @@
       ]
     },
     {
-      "id": "ev-2",
+      "id": 4,
       "status": "ONGOING",
-      "title": "폭스바겐, ID. AURA로 중국 중심 대중형 전기차 재도약 시도",
-      "summary": "폭스바겐이 중국 합작사 FAW-VW를 통해 대중형 전기 세단 ID. AURA L5를 출시하며, 비틀에 이은 ‘국민 EV’ 포지셔닝과 소프트웨어 경쟁력 강화를 통해 글로벌 전기차 시장 점유율 회복을 노리고 있습니다.",
+      "title": "폭스바겐, 중국 시장 공략용 대중형 EV ‘ID. AURA L5’로 재도약 노린다",
+      "summary": "폭스바겐이 중국 합작사 FAW-VW를 통해 대중형 전기 세단 ID. AURA L5를 출시하며, 비틀처럼 저렴하고 접근 가능한 대표 EV 모델로 시장 점유율 회복을 노리고 있습니다. 특히 가격 경쟁력뿐 아니라 소프트웨어 경험을 핵심 차별화 요소로 내세우며 중국 로컬 업체들과의 경쟁 구도를 재정비하고 있습니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -98,44 +126,16 @@
       ]
     },
     {
-      "id": "ev-3",
+      "id": 5,
       "status": "NEW",
-      "title": "테슬라 솔라 루프 사기 책임 인정 판결, 브랜드 신뢰·규제 리스크 확대",
-      "summary": "캘리포니아 소송에서 테슬라 솔라 루프 프로젝트와 관련해 법원이 사기 책임을 인정하며, 이미 드러난 계약 위반·보증 위반·시공 과실에 더해 증거 제출 거부까지 문제시되면서 테슬라의 신뢰도와 향후 규제·소송 리스크가 커지고 있습니다.",
+      "title": "미 법원, 테슬라 주택 솔라 루프 프로젝트 사기 책임 인정",
+      "summary": "캘리포니아 주 소송에서 판사는 테슬라의 주택 솔라 루프 설치를 ‘실험’으로 진행한 정황과 반복적인 증거 제출 거부를 근거로 사기 책임을 인정했습니다. 테슬라는 이미 계약·보증 위반과 시공 과실을 인정한 상태로, 이번 판결은 에너지·주택 연계 사업에서의 리스크 관리와 브랜드 신뢰도에 부담이 될 전망입니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
           "title": "Tesla deemed liable for fraud after Solar Roof ‘experiment’ on a home",
           "url": "https://electrek.co/2026/11/07/tesla-solar-roof-fraud-liable-experiment-lawsuit/"
-        }
-      ]
-    },
-    {
-      "id": "ev-4",
-      "status": "SHIFTING",
-      "title": "테슬라 사이버트럭 생산 중단 속 가격 최대 10% 인상",
-      "summary": "테슬라가 사이버트럭 생산 종료를 발표한 가운데 미국에서 가격을 최대 10% 올리고 듀얼 모터 기본 트림 주문을 중단해, 실제 구매 가능한 최저가가 9만 달러대 초반으로 높아지면서 수요 구조와 수익성 전략 조정이 진행되고 있습니다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "Tesla hikes Cybertruck prices up to 10% after announcing it will kill production",
-          "url": "https://electrek.co/2026/11/06/tesla-raises-cybertruck-prices-after-ending-production/"
-        }
-      ]
-    },
-    {
-      "id": "ev-5",
-      "status": "ONGOING",
-      "title": "BYD, 100만 명 이상 인력 기반 초대형 EV 제조 생태계 구축",
-      "summary": "BYD가 불과 10개월 만에 약 15만 명을 추가 고용해 총 102만 명 인력을 확보, 토요타·GM·포드·테슬라 인력을 합친 것보다 많은 규모로 EV·배터리 수직계열화와 글로벌 생산 확대를 가속하고 있습니다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "BYD now has 1.02 million workers, more than Toyota, GM, Ford, and Tesla combined",
-          "url": "https://electrek.co/2026/10/28/byd-1-million-employees-more-than-toyota-gm-ford-tesla/"
         }
       ]
     }

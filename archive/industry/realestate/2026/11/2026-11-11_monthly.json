@@ -1,0 +1,148 @@
+{
+  "range": {
+    "from": "2026-10-13",
+    "to": "2026-11-11"
+  },
+  "kpis": {
+    "collected": 102,
+    "deduped": 102,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "Market": 30,
+      "Supply": 25,
+      "Policy": 19,
+      "UrbanRenewal": 13,
+      "Construction": 13,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/13-10/19)",
+      "topicCounts": {
+        "Market": 16,
+        "Supply": 17,
+        "Policy": 18,
+        "UrbanRenewal": 9,
+        "Construction": 11
+      }
+    },
+    {
+      "week": "Week 2 (10/20-10/26)",
+      "topicCounts": {
+        "Market": 17,
+        "Supply": 14,
+        "Policy": 9,
+        "UrbanRenewal": 6,
+        "Construction": 10
+      }
+    },
+    {
+      "week": "Week 3 (10/27-11/02)",
+      "topicCounts": {
+        "Market": 9,
+        "Supply": 12,
+        "Policy": 7,
+        "UrbanRenewal": 7,
+        "Construction": 2
+      }
+    },
+    {
+      "week": "Week 4 (11/03-11/09)",
+      "topicCounts": {
+        "Market": 19,
+        "Supply": 13,
+        "Policy": 8,
+        "UrbanRenewal": 7,
+        "Construction": 6
+      }
+    },
+    {
+      "week": "Week 5 (11/10-11/11)",
+      "topicCounts": {
+        "Market": 3,
+        "Supply": 3,
+        "Policy": 1,
+        "UrbanRenewal": 1,
+        "Construction": 2
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "서울 아파트 심화되는 주차난, 가구당 1.08대 수준",
+      "summary": "서울 아파트 가구당 평균 주차대수는 1.08대로, 특히 노원·금천·도봉구 등 외곽·노후 단지 위주로 주차 여건이 열악한 상황이 지속되고 있다. 공급 위주 개발 과정에서 주차 인프라 확충이 상대적으로 뒤처지며, 향후 재건축·정비사업과 연계한 주차장 확충이 핵심 이슈로 부상하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "“친구야, 미안한데 버스 타고 와”…서울 아파트 가구당 주차 평균 1.08대",
+          "url": "https://www.mk.co.kr/news/realestate/12205102"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "비거주 1주택자 종부세 공제 기준 상향 논쟁",
+      "summary": "비거주 1주택자의 종합부동산세 기본공제를 놓고 정부는 12억원 유지, 여당은 14억원 상향을 주장하며 갈등 중이다. 여론 악화에 따라 여당이 비거주 공제 9억→12억→14억원 상향을 검토하면서, 마용성 등 고가 아파트 보유세 부담이 점진적으로 줄어드는 시뮬레이션이 제시되는 등 종부세 완화 기조가 강화되는 추세다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "마래푸 34평 보유세 777만원→605만원→520만원…당정 ‘종부세’ 충돌, 혼돈의 마용성 [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10933263"
+        },
+        {
+          "source": "한국경제(부동산)",
+          "title": "종부세 '비거주 공제' 9억→12억→14억?…여론 악화에 움직인 與 [종합]",
+          "url": "https://www.hankyung.com/article/2026110834457"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "‘숲세권’ 선호 확산…도심 녹지 인접 단지 청약 강세",
+      "summary": "공원·녹지 인접 이른바 ‘숲세권’ 단지에 대한 주거 선호가 꾸준히 높아지며, 최근 분양 단지들이 녹지 접근성을 전면에 내세워 높은 청약 경쟁률을 기록하고 있다. 도심 내에서도 공원·수변 등 친환경 요소가 핵심 가치로 부각되면서 향후 분양 시장의 상품 기획 방향에 영향을 미치고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "“숲세권이 대세다”…문래동 녹지 품은 ‘해링턴 플레이스 문래’ 분양 눈길",
+          "url": "https://biz.heraldcorp.com/article/10933204"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "세종 5-1생활권 3조원대 스마트시티 개발 본격 추진",
+      "summary": "세종 5-1생활권에 공공 개발역량과 민간 기술을 결합한 3조원 규모 스마트시티 사업이 추진된다. 도시계획 단계부터 배송로봇·자율주행 등 첨단 서비스 운영을 전제로 교통·물류 동선과 인프라를 설계하는 방식으로, 향후 전국 신규 도시개발·도심복합사업의 레퍼런스가 될지 주목된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "공공 개발역량에 민간 기술 결합…3조원대 세종 스마트시티 사업 추진",
+          "url": "https://biz.heraldcorp.com/article/10930113"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "대출 규제 속 소형·국민평형 아파트 가격 격차 축소",
+      "summary": "대출 규제 강화로 중저가 매수 여력이 제한되면서 서울 아파트 59㎡와 84㎡ 사이의 가격 차가 약 1억7000만원 수준까지 좁혀졌다. 대출 한도 영향으로 수요가 소형에서 국민평형으로 일부 이동하며, 중소형 간 상대 가치 조정이 진행되는 양상이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "“좀더 보태면 국평 가는데”…대출 규제에 중소형 가격차 1.7억까지 좁혀져",
+          "url": "https://www.mk.co.kr/news/realestate/12202027"
+        }
+      ]
+    }
+  ]
+}

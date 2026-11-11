@@ -1,12 +1,108 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-11",
   "highlights": {
-    "bullets": [],
-    "topTopics": [],
+    "bullets": [
+      "핵심: SK hynix가 LPDDR5X에 IEC 61508 SIL 3 기능안전 인증과 ISO/SAE 21434 기반 CSMS 인증을 획득했다.",
+      "핵심: 전력 접근성이 AI 클러스터 확장에 중요한 재정적 장벽으로 작용하고 있다.",
+      "트렌드: 성능·보안·연결성·인프라 요소가 제품 채택과 경쟁에 영향을 미친다."
+    ],
+    "topTopics": [
+      "Competition",
+      "Roadmap",
+      "Manufacturing",
+      "Demand"
+    ],
     "stats": {
-      "collected": 0,
-      "deduped": 0
+      "collected": 9,
+      "deduped": 9
     }
   },
-  "cards": []
+  "cards": [
+    {
+      "id": "semiconductor_0001",
+      "tab": "semiconductor",
+      "publishedAt": "2026-11-11T08:59:29+09:00",
+      "source": "SK hynix Newsroom",
+      "title": "‘Safeguarding against system failures and cyber threats’: SK hynix builds trust in physical AI memory",
+      "summary": [
+        "SK hynix가 LPDDR5X에 대해 IEC 61508 SIL 3 기능안전 인증을 획득했다.",
+        "제품 라이프사이클 프로세스에 대해 ISO/SAE 21434 기반 사이버보안 관리체계(CSMS) 인증을 확보했다.",
+        "작년 TISAX 획득에 이어 국제 안전·보안 인증을 확장하며 물리적 AI 메모리의 신뢰성을 강화하고 있다."
+      ],
+      "whyItMatters": "해당 인증들은 자동차·산업용 등 안전·보안 민감 시장에서 제품 채택과 경쟁력 확보에 직접적인 영향을 미친다.",
+      "topics": [
+        "Manufacturing",
+        "Policy",
+        "Competition"
+      ],
+      "status": "ONGOING",
+      "hash": "b9ebdec51220b74fa2645d8157644d10fdbbf1dd953a5653b158a3bb8efc62f8",
+      "url": "https://news.skhynix.com/en/iec-61508-certification-2026/"
+    },
+    {
+      "id": "semiconductor_0002",
+      "tab": "semiconductor",
+      "publishedAt": "2026-11-11T00:00:00+09:00",
+      "source": "EE Times",
+      "title": "The AI Power Bill: Who Gets Grid Capacity, and Who Bears the Risk?",
+      "summary": [
+        "전력 접근성이 AI 클러스터 확장에 중요한 재정적 장벽으로 작용하고 있다.",
+        "미국과 중국은 그리드 용량 확보와 비용·리스크 분담에서 서로 다른 전략과 취약점을 보인다.",
+        "투자와 정책 결정이 누가 비용을 부담하고 누가 이득을 보는지를 좌우하며 AI 산업 성장에 직접적인 영향을 준다."
+      ],
+      "whyItMatters": "전력 인프라와 비용 분담 방식이 국가별 AI 경쟁력과 시장 구조를 결정하므로 중요하다.",
+      "topics": [
+        "Demand",
+        "Policy",
+        "Investment",
+        "Competition"
+      ],
+      "status": "ONGOING",
+      "hash": "b902cf59dea89e3b58689cfaa4d6c767b6446f9f48f950f557a52f8404e7c782",
+      "url": "https://www.eetimes.com/the-ai-power-bill-who-gets-grid-capacity-and-who-bears-the-risk/"
+    },
+    {
+      "id": "semiconductor_0003",
+      "tab": "semiconductor",
+      "publishedAt": "2026-11-10T23:00:00+09:00",
+      "source": "EE Times",
+      "title": "Bluetooth® High Data Throughput: a Foundation for Next Generation Wireless Experiences",
+      "summary": [
+        "Bluetooth 고속 데이터 처리(High Data Throughput, HDT)는 전송 속도와 용량을 크게 향상시킨다.",
+        "에너지 효율성과 연결 신뢰성도 개선되어 AR/VR, 고해상도 오디오, 대용량 IoT 등 고대역폭 애플리케이션을 지원한다.",
+        "이 기술은 차세대 무선 경험의 기반으로서 제품 로드맵과 경쟁 구도에 영향을 미칠 전망이다."
+      ],
+      "whyItMatters": "HDT는 무선 서비스의 성능 한계를 확장해 산업 전반의 채택과 투자·제품 전략에 직접적인 영향을 주기 때문이다.",
+      "topics": [
+        "Roadmap",
+        "Demand",
+        "Competition",
+        "Investment"
+      ],
+      "status": "ONGOING",
+      "hash": "f1f5ef6da3aca1945a258026a3ab79f92a62dde2e149971574591bf7e458cd3e",
+      "url": "https://www.eetimes.com/bluetooth-high-data-throughput-a-foundation-for-next-generation-wireless-experiences/"
+    },
+    {
+      "id": "semiconductor_0004",
+      "tab": "semiconductor",
+      "publishedAt": "2026-11-11T06:00:00+09:00",
+      "source": "Samsung Newsroom",
+      "title": "Samsung Gallery Makes It Easier To Access Photos and Videos Across Galaxy Devices",
+      "summary": [
+        "삼성 갤러리가 구글 스토리지와 연동되는 동기화 서비스를 제공해 갤럭시 기기 간 사진·영상 접근을 간편하게 했다.",
+        "사용자는 여러 기기에 저장된 추억을 안전하게 보관하고 쉽게 불러올 수 있으며, 구글과의 협업으로 호환성과 저장 인프라를 강화했다.",
+        "이번 업데이트는 사용자 경험 개선과 에코시스템 락인을 강화하는 전략적 기능이다."
+      ],
+      "whyItMatters": "기기 간 원활한 동기화는 사용자 만족도와 플랫폼 고착화를 높여 경쟁우위를 확보할 수 있기 때문이다.",
+      "topics": [
+        "Roadmap",
+        "Competition",
+        "Demand"
+      ],
+      "status": "NEW",
+      "hash": "f557e3da2da78317e86fb637989e6ba0c6d66eec9aff99798af7ef722659dda0",
+      "url": "https://news.samsung.com/global/samsung-gallery-makes-it-easier-to-access-photos-and-videos-across-galaxy-devices"
+    }
+  ]
 }

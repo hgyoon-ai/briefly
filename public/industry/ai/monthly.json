@@ -1,79 +1,121 @@
 {
   "range": {
-    "from": "2026-10-11",
-    "to": "2026-11-09"
+    "from": "2026-10-13",
+    "to": "2026-11-11"
   },
   "kpis": {
-    "collected": 65,
-    "deduped": 65,
+    "collected": 68,
+    "deduped": 68,
     "uniqueTopics": 10,
     "marketShare": {
       "Tooling": 26,
-      "Product": 22,
-      "Models": 19,
+      "Product": 21,
+      "Models": 20,
       "Infra": 17,
-      "Research": 17,
+      "Research": 16,
       "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/11-10/17)",
+      "week": "Week 1 (10/13-10/19)",
       "topicCounts": {
-        "Tooling": 18,
-        "Product": 14,
-        "Models": 15,
-        "Infra": 10,
-        "Research": 10
-      }
-    },
-    {
-      "week": "Week 2 (10/18-10/24)",
-      "topicCounts": {
-        "Tooling": 10,
-        "Product": 10,
-        "Models": 7,
-        "Infra": 5,
+        "Tooling": 17,
+        "Product": 13,
+        "Models": 13,
+        "Infra": 9,
         "Research": 8
       }
     },
     {
-      "week": "Week 3 (10/25-10/31)",
+      "week": "Week 2 (10/20-10/26)",
       "topicCounts": {
-        "Tooling": 8,
+        "Tooling": 9,
         "Product": 8,
-        "Models": 8,
+        "Models": 5,
         "Infra": 5,
-        "Research": 7
+        "Research": 6
       }
     },
     {
-      "week": "Week 4 (11/01-11/07)",
+      "week": "Week 3 (10/27-11/02)",
       "topicCounts": {
-        "Tooling": 9,
+        "Tooling": 5,
         "Product": 6,
+        "Models": 6,
+        "Infra": 3,
+        "Research": 6
+      }
+    },
+    {
+      "week": "Week 4 (11/03-11/09)",
+      "topicCounts": {
+        "Tooling": 6,
+        "Product": 4,
         "Models": 4,
-        "Infra": 9,
+        "Infra": 5,
         "Research": 4
       }
     },
     {
-      "week": "Week 5 (11/08-11/09)",
+      "week": "Week 5 (11/10-11/11)",
       "topicCounts": {
-        "Tooling": 0,
-        "Product": 0,
-        "Models": 0,
-        "Infra": 0,
-        "Research": 0
+        "Tooling": 3,
+        "Product": 2,
+        "Models": 4,
+        "Infra": 4,
+        "Research": 2
       }
     }
   ],
   "topIssues": [
     {
-      "id": 1,
+      "id": "ai-1",
       "status": "NEW",
-      "title": "GPU 최적화를 통한 초고속 이미지 생성",
-      "summary": "엔비디아 Blackwell GPU에서 FLUX 3 Image Klein 확산 모델을 최적화해 지연 시간을 크게 줄이고, 디자인·이미지 편집 등에서 거의 실시간에 가까운 이미지 생성을 가능하게 하는 방법이 제시됐다.",
+      "title": "에이전트용 AI 모델 백도어 기법 ‘Lazarus’ 발견",
+      "summary": "마이크로소프트가 휴면 뉴런을 재프로그램해 특정 트리거로만 활성화되는 백도어 ‘Lazarus’를 공개했습니다. 겉으로는 정상인 에이전트 모델 안에 숨어 있다가 특정 패턴 입력 시 툴·터미널 권한을 악용해 코드 다운로드·실행 등 악성 행위를 수행할 수 있어, 에이전트 보안·평가 체계 전반의 재점검이 필요해졌습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Microsoft Research Blog",
+          "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+          "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/"
+        }
+      ]
+    },
+    {
+      "id": "ai-2",
+      "status": "NEW",
+      "title": "구글, 차세대 모델 Gemini 4 Carbon 공개",
+      "summary": "Google DeepMind가 Gemini 4 Carbon을 공식 출시했습니다. 구체적인 성능 수치나 아키텍처 상세는 제한적이지만, 상용 배포를 전제로 한 고성능 멀티모달 모델로 포지셔닝되며, 추론 인프라 및 제품 통합 측면에서 구글 생태계 전반에 걸친 AI 고도화를 예고합니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Google DeepMind Blog",
+          "title": "Gemini 4 Carbon is now available",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
+        }
+      ]
+    },
+    {
+      "id": "ai-3",
+      "status": "ONGOING",
+      "title": "에이전트 대규모 운영을 위한 Kubernetes 재구성 ‘Agent Substrate’",
+      "summary": "NVIDIA가 대규모 AI 에이전트 실행을 위해 Kubernetes를 재설계한 Agent Substrate를 제안했습니다. 대부분 유휴 상태인 에이전트 특성을 반영해, 전통적인 파드 기반 스케줄링의 자원·비용 비효율을 줄이고, 대량의 에이전트 인스턴스를 탄력적으로 운영하는 인프라 패턴으로 자리잡는 흐름이 이어지고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Agent Substrate: Advancing Kubernetes for Agents at Scale",
+          "url": "https://developer.nvidia.com/blog/agent-substrate-advancing-kubernetes-for-agents-at-scale/"
+        }
+      ]
+    },
+    {
+      "id": "ai-4",
+      "status": "NEW",
+      "title": "Blackwell GPU에서 실시간에 가까운 이미지 생성 최적화",
+      "summary": "NVIDIA가 Blackwell GPU 상에서 FLUX 3 Image Klein 확산 모델의 추론 속도를 크게 높이는 최적화 기법을 공개했습니다. 지연 시간을 줄여 디자인 도구, 이미지 편집기, 비주얼 제작 워크플로우에서 실시간에 가까운 이미지 생성을 목표로 하며, 차세대 GPU·모델 공동 최적화 추세를 보여줍니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -84,73 +126,16 @@
       ]
     },
     {
-      "id": 2,
+      "id": "ai-5",
       "status": "ONGOING",
-      "title": "강화학습·AI 팩토리에서의 효율 극대화",
-      "summary": "엔비디아는 RL 포스트트레이닝에서 Reshard Collective로 가중치 리핏을 가속하고, AI 팩토리에서는 HBM 활용을 극대화하는 공동설계 전략(압축·저정밀·메모리 계층 최적화 등)을 통해 학습·추론 병목을 줄이는 인프라 개선을 지속하고 있다.",
-      "articleCount": 2,
+      "title": "RL 사후학습 가속을 위한 ‘Reshard Collective’",
+      "summary": "NVIDIA는 강화학습 포스트트레이닝에서 실시간으로 생성되는 트레이젝토리와 병렬로 가중치를 재배치해 리핏 연산 병목을 줄이는 Reshard Collective를 소개했습니다. 학습·추론 파이프라인 전체의 분산 효율을 높여, 대규모 RL 기반 에이전트 및 정책 업데이트 주기를 단축하는 방향의 인프라 최적화가 지속되고 있습니다.",
+      "articleCount": 1,
       "relatedArticles": [
         {
           "source": "NVIDIA Developer Blog",
           "title": "Accelerating Reinforcement Learning Weight Refit with the Reshard Collective",
           "url": "https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective/"
-        },
-        {
-          "source": "NVIDIA Developer Blog",
-          "title": "Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory",
-          "url": "https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory/"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "status": "NEW",
-      "title": "로봇·세계 시뮬레이션용 표준화된 가상 환경 부상",
-      "summary": "Hugging Face의 ToyBlocks는 통제된 로봇 학습·평가 환경을, 엔비디아의 Cosmos 3는 물리·그래픽·에이전트 행동을 결합한 상호작용형 세계 시뮬레이션 오픈 모델을 제공해 로보틱스와 게임·시뮬레이션 연구를 가속한다.",
-      "articleCount": 2,
-      "relatedArticles": [
-        {
-          "source": "Hugging Face Blog",
-          "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-          "url": "https://huggingface.co/blog/allenai/toyblocks"
-        },
-        {
-          "source": "Hugging Face Blog",
-          "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-          "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "status": "NEW",
-      "title": "AI 보안과 정형 검증 도구 강화",
-      "summary": "OpenAI는 보안 스타트업 Hacktron과 협력해 시스템 취약점과 공격 표면을 점검하고, 마이크로소프트는 PDD Kit으로 에이전트가 작성한 풀스택 웹 앱을 정형 검증·테스트 기반으로 검증해 AI 코드의 안전성과 신뢰성을 높이고 있다.",
-      "articleCount": 2,
-      "relatedArticles": [
-        {
-          "source": "OpenAI Blog",
-          "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-          "url": "https://openai.com/index/partnering-with-hacktron"
-        },
-        {
-          "source": "Microsoft Research Blog",
-          "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
-          "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "status": "SHIFTING",
-      "title": "AI 도입으로 재편되는 기업 조직 구조",
-      "summary": "OpenAI는 AI가 단순 자동화를 넘어 조직 구조의 아래·옆·사이에 침투해 협업 파트너이자 중개자로 기능하며 업무 흐름과 권한 구조를 근본적으로 바꿀 것이라는 시나리오를 제시한다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "OpenAI Blog",
-          "title": "The future of the firm",
-          "url": "https://openai.com/index/the-future-of-the-firm"
         }
       ]
     }

@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-10-13",
+    "to": "2026-11-11"
+  },
+  "kpis": {
+    "collected": 68,
+    "deduped": 68,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "Tooling": 26,
+      "Product": 21,
+      "Models": 20,
+      "Infra": 17,
+      "Research": 16,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/13-10/19)",
+      "topicCounts": {
+        "Tooling": 17,
+        "Product": 13,
+        "Models": 13,
+        "Infra": 9,
+        "Research": 8
+      }
+    },
+    {
+      "week": "Week 2 (10/20-10/26)",
+      "topicCounts": {
+        "Tooling": 9,
+        "Product": 8,
+        "Models": 5,
+        "Infra": 5,
+        "Research": 6
+      }
+    },
+    {
+      "week": "Week 3 (10/27-11/02)",
+      "topicCounts": {
+        "Tooling": 5,
+        "Product": 6,
+        "Models": 6,
+        "Infra": 3,
+        "Research": 6
+      }
+    },
+    {
+      "week": "Week 4 (11/03-11/09)",
+      "topicCounts": {
+        "Tooling": 6,
+        "Product": 4,
+        "Models": 4,
+        "Infra": 5,
+        "Research": 4
+      }
+    },
+    {
+      "week": "Week 5 (11/10-11/11)",
+      "topicCounts": {
+        "Tooling": 3,
+        "Product": 2,
+        "Models": 4,
+        "Infra": 4,
+        "Research": 2
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "ai-1",
+      "status": "NEW",
+      "title": "에이전트용 AI 모델 백도어 기법 ‘Lazarus’ 발견",
+      "summary": "마이크로소프트가 휴면 뉴런을 재프로그램해 특정 트리거로만 활성화되는 백도어 ‘Lazarus’를 공개했습니다. 겉으로는 정상인 에이전트 모델 안에 숨어 있다가 특정 패턴 입력 시 툴·터미널 권한을 악용해 코드 다운로드·실행 등 악성 행위를 수행할 수 있어, 에이전트 보안·평가 체계 전반의 재점검이 필요해졌습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Microsoft Research Blog",
+          "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+          "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/"
+        }
+      ]
+    },
+    {
+      "id": "ai-2",
+      "status": "NEW",
+      "title": "구글, 차세대 모델 Gemini 4 Carbon 공개",
+      "summary": "Google DeepMind가 Gemini 4 Carbon을 공식 출시했습니다. 구체적인 성능 수치나 아키텍처 상세는 제한적이지만, 상용 배포를 전제로 한 고성능 멀티모달 모델로 포지셔닝되며, 추론 인프라 및 제품 통합 측면에서 구글 생태계 전반에 걸친 AI 고도화를 예고합니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Google DeepMind Blog",
+          "title": "Gemini 4 Carbon is now available",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
+        }
+      ]
+    },
+    {
+      "id": "ai-3",
+      "status": "ONGOING",
+      "title": "에이전트 대규모 운영을 위한 Kubernetes 재구성 ‘Agent Substrate’",
+      "summary": "NVIDIA가 대규모 AI 에이전트 실행을 위해 Kubernetes를 재설계한 Agent Substrate를 제안했습니다. 대부분 유휴 상태인 에이전트 특성을 반영해, 전통적인 파드 기반 스케줄링의 자원·비용 비효율을 줄이고, 대량의 에이전트 인스턴스를 탄력적으로 운영하는 인프라 패턴으로 자리잡는 흐름이 이어지고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Agent Substrate: Advancing Kubernetes for Agents at Scale",
+          "url": "https://developer.nvidia.com/blog/agent-substrate-advancing-kubernetes-for-agents-at-scale/"
+        }
+      ]
+    },
+    {
+      "id": "ai-4",
+      "status": "NEW",
+      "title": "Blackwell GPU에서 실시간에 가까운 이미지 생성 최적화",
+      "summary": "NVIDIA가 Blackwell GPU 상에서 FLUX 3 Image Klein 확산 모델의 추론 속도를 크게 높이는 최적화 기법을 공개했습니다. 지연 시간을 줄여 디자인 도구, 이미지 편집기, 비주얼 제작 워크플로우에서 실시간에 가까운 이미지 생성을 목표로 하며, 차세대 GPU·모델 공동 최적화 추세를 보여줍니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
+          "url": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/"
+        }
+      ]
+    },
+    {
+      "id": "ai-5",
+      "status": "ONGOING",
+      "title": "RL 사후학습 가속을 위한 ‘Reshard Collective’",
+      "summary": "NVIDIA는 강화학습 포스트트레이닝에서 실시간으로 생성되는 트레이젝토리와 병렬로 가중치를 재배치해 리핏 연산 병목을 줄이는 Reshard Collective를 소개했습니다. 학습·추론 파이프라인 전체의 분산 효율을 높여, 대규모 RL 기반 에이전트 및 정책 업데이트 주기를 단축하는 방향의 인프라 최적화가 지속되고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Accelerating Reinforcement Learning Weight Refit with the Reshard Collective",
+          "url": "https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective/"
+        }
+      ]
+    }
+  ]
+}

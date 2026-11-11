@@ -1,64 +1,64 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-11",
   "highlights": {
     "bullets": [
-      "핵심: 폭스바겐이 중국 합작사 FAW-VW를 통해 대중형 전기 세단 ID. AURA L5를 출시하며 재도약을 모색하고 있다.",
-      "핵심: 르노가 프랑스 육군용 자율 전기차 기반 군용 로봇 플랫폼 진출을 추진하고 있다."
+      "핵심: Lucid 최고경영자는 재고 차량의 위치를 제대로 파악하지 못해 주문 인도가 최대 2주 지연되며 일부 주문을 잃었다고 인정했습니다.",
+      "핵심: BYD는 로봇 충전 암으로 차량에 자동으로 플러그를 연결해 5분 내 초고속 충전을 지원하고 통합 태양광으로 전력을 보조하는 솔루션을 공개했습니다."
     ],
     "topTopics": [
-      "Investment",
+      "Competition",
       "Roadmap",
       "Demand",
-      "Competition"
+      "Investment"
     ],
     "stats": {
-      "collected": 4,
-      "deduped": 4
+      "collected": 15,
+      "deduped": 15
     }
   },
   "cards": [
     {
       "id": "ev_0001",
       "tab": "ev",
-      "publishedAt": "2026-11-08T22:42:16+09:00",
+      "publishedAt": "2026-11-11T06:03:24+09:00",
       "source": "Electrek",
-      "title": "New ID. AURA is the mainstream EV VW needs – but its software is the real story",
+      "title": "Lucid CEO admits it ‘did not even know where cars were’ and lost orders",
       "summary": [
-        "폭스바겐이 중국 합작사 FAW-VW를 통해 대중형 전기 세단 ID. AURA L5를 출시하며 재도약을 모색하고 있다.",
-        "내연기관 시절 비틀처럼, 이번 모델은 저렴하고 접근 가능한 전기차를 앞세워 대중 시장 공략에 초점을 맞추고 있다.",
-        "특히 차량을 뒷받침하는 소프트웨어 플랫폼이 새로운 세대 소비자 확보의 핵심 경쟁 요소로 부각되고 있다."
+        "Lucid CEO는 Q3 실적 발표에서 올여름까지도 회사가 재고 차량의 위치를 제대로 파악하지 못했다고 인정했습니다.",
+        "주문 고객에게 차량을 찾고 인도하는 데 최대 2주가 걸리면서 일부 고객이 구매를 포기하는 상황이 발생했습니다.",
+        "수천 대의 미판매 차량을 보유한 상태에서 기본적인 물류·재고 관리 실패가 드러나며 운영 역량과 수요 대응력에 대한 우려가 커지고 있습니다."
       ],
-      "whyItMatters": "폭스바겐의 전략적 전기차 전환과 소프트웨어 역량 강화가 향후 글로벌 전기차 경쟁 구도와 수익성에 중대한 영향을 줄 수 있기 때문이다.",
+      "whyItMatters": "기본적인 재고·물류 관리 실패로 주문 손실까지 발생한 것은 수요 전환, 비용 구조, 장기 생존 가능성에 중대한 부정적 신호이기 때문입니다.",
       "topics": [
+        "Earnings",
         "Demand",
-        "Competition",
-        "Roadmap",
-        "Investment"
+        "Manufacturing",
+        "Roadmap"
       ],
       "status": "ONGOING",
-      "hash": "77d77f528f9790c0d433fc4f2d3005af7d5c2f418187d00f5b34479e79a58954",
-      "url": "https://electrek.co/2026/11/08/new-id-aura-is-the-mainstream-ev-vw-needs-but-its-software-is-the-real-story/"
+      "hash": "4e28fcf33172af776a65cc92b8e8c96517136006cce9632458dceb0c58574602",
+      "url": "https://electrek.co/2026/11/10/lucid-ceo-did-not-know-where-cars-were-lost-orders/"
     },
     {
       "id": "ev_0002",
       "tab": "ev",
-      "publishedAt": "2026-11-09T02:19:39+09:00",
+      "publishedAt": "2026-11-11T05:43:51+09:00",
       "source": "Electrek",
-      "title": "French carmaker Renault wants to get into the military robot business",
+      "title": "Watch BYD’s robotic charging arm plug itself in and charge EVs in 5 minutes [Video]",
       "summary": [
-        "르노가 프랑스 육군의 임무 수행을 위한 자율 전기차 기반 군용 로봇 플랫폼 진출을 추진하고 있습니다.",
-        "이 플랫폼은 군의 고난도 작전 요구를 충족하도록 설계된 전기·자율주행 기술을 핵심으로 합니다.",
-        "민수용 전기차 기술을 군사용으로 확장하며 르노의 신규 방산·로봇 사업 기회가 열리고 있습니다."
+        "BYD가 5분 내 EV 급속충전을 지원하는 ‘플래시 차징’ 기술에 로봇 충전 암을 결합한 솔루션을 공개했습니다.",
+        "이 시스템은 로봇 팔이 자동으로 차량에 플러그를 연결하고, 통합 태양광 발전을 통해 전력을 보조합니다.",
+        "완전 자동화·고출력·재생에너지 결합 충전 인프라로 EV 운용 효율성과 사용자 편의성이 크게 향상될 가능성이 있습니다."
       ],
-      "whyItMatters": "전통적인 자동차 업체인 르노가 자율 전기차 기술을 군용 로봇 시장으로 확장하면서 새로운 수익원과 사업 포트폴리오 변화를 예고하기 때문입니다.",
+      "whyItMatters": "초고속·무인·태양광 결합 충전 기술은 전기차 충전 인프라의 비용 구조와 운영 모델을 바꾸며 BYD의 기술·서비스 경쟁력을 강화할 수 있기 때문입니다.",
       "topics": [
-        "Investment",
         "Roadmap",
+        "Investment",
         "Competition"
       ],
       "status": "NEW",
-      "hash": "e787ce2e30d7b819af5379efad1ee4f18b87b66772dbb5b5e5c906835c65bd96",
-      "url": "https://electrek.co/2026/11/08/french-carmaker-renault-wants-to-get-into-the-military-robot-business/"
+      "hash": "58c01f5226951e3644dd01bc8f02af810164a012037f3be297d77ee98cd130db",
+      "url": "https://electrek.co/2026/11/10/byds-robot-charger-plugs-itself-in-charges-evs-5-mins-video/"
     }
   ]
 }

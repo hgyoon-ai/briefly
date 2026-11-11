@@ -1,0 +1,281 @@
+{
+  "range": {
+    "from": "2026-11-05",
+    "to": "2026-11-11"
+  },
+  "kpis": {
+    "collected": 10,
+    "deduped": 10,
+    "uniqueTopics": 8
+  },
+  "topTopics": [
+    {
+      "name": "MarketInfra",
+      "count": 8
+    },
+    {
+      "name": "Compliance",
+      "count": 5
+    },
+    {
+      "name": "Policy",
+      "count": 4
+    },
+    {
+      "name": "Security",
+      "count": 4
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-05",
+      "dayOfWeek": "Thu",
+      "topic": "Security",
+      "count": 0
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Security",
+      "count": 0
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Compliance",
+      "count": 2
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Security",
+      "count": 2
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Compliance",
+      "count": 1
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Security",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Security",
+      "count": 2
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Security",
+      "count": 0
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Compliance",
+      "count": 2
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Security",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "finance-1",
+      "status": "ONGOING",
+      "title": "미래에셋증권 해킹 포함, 금융권 연쇄 사이버 공격 심화",
+      "summary": "미래에셋증권에서 수천 명 고객 계좌번호와 임직원 정보가 유출되는 등 은행·보험·증권사를 잇는 연쇄 해킹이 이어지고 있다. 모바일 인증·그룹웨어 등 핵심 시스템이 공격받고 AI 기반 에이전트 활용이 추정되면서, 금융보안 체계 전반의 고도화와 개인정보·계정 보호 강화가 시급한 이슈로 부상했다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "은행·보험사 이어 미래에셋증권까지···연쇄 해킹에 시달리는 금융사",
+          "url": "https://www.mk.co.kr/news/stock/12201388"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "[속보] 미래에셋증권도 해킹 당해…“고객·임직원 정보 일부 유출”",
+          "url": "https://www.mk.co.kr/news/economy/12201367"
+        }
+      ]
+    },
+    {
+      "id": "finance-2",
+      "status": "ONGOING",
+      "title": "엔비디아 주가 급락과 AI 빅테크 리스크의 금융시장 파급",
+      "summary": "‘젠슨 황 스캔들’ 여파로 엔비디아 주가가 이틀 새 약 10% 급락하며 AI 대표주의 변동성이 커졌다. 단기간 과열됐던 밸류에이션 조정과 함께, 글로벌 반도체·AI 관련 ETF와 국내외 연기금·개인투자자의 수익률 변동성이 확대되는 등 금융시장 전반으로 리스크 전이가 진행되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "‘젠슨황 스캔들’ 엔비디아 이틀새 주가 -10%… 앤트로픽은 상장 강행?",
+          "url": "https://www.mk.co.kr/news/stock/12205004"
+        }
+      ]
+    },
+    {
+      "id": "finance-3",
+      "status": "ONGOING",
+      "title": "미국 CPI·옵션 만기 등 대외 변수에 흔들리는 코스피",
+      "summary": "미국 반도체주 반등에도 불구하고 외국인 매도세가 이어지며 코스피가 장중 5000선 아래로 밀리는 등 약세를 보이고 있다. 미국 CPI 발표, 옵션 만기, 국채금리와 환율, 그리고 코어위브 등 AI 섹터 실적이 향후 국내 증시 방향성을 좌우하는 핵심 변수로 부각되고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "美 반도체 반등에도 코스피 ‘흔들’…장중 다시 5000선 밑으로",
+          "url": "https://www.mk.co.kr/news/stock/12202067"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "“미국 물가부터 옵션 만기까지”…다음 주 증시 변수, 미리 대비하려면",
+          "url": "https://www.mk.co.kr/news/stock/12201573"
+        }
+      ]
+    },
+    {
+      "id": "finance-4",
+      "status": "ONGOING",
+      "title": "2028년 주식 결제주기 T+1 전환과 개인투자자 리스크 관리",
+      "summary": "2028년부터 국내 주식 결제주기가 T+2에서 T+1로 단축돼 매도 대금을 다음날 찾을 수 있게 된다. 다만 결제와 대금지급이 하루 빨라지는 만큼 미수·신용거래의 반대매매 시점도 앞당겨져, 레버리지 거래 비중이 높은 개인투자자의 유동성 관리와 리스크 통제가 중요한 이슈로 떠오르고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“주식 판 돈, 2028년부터 다음날 찾는다는데”…개미들 주의할 ‘이것’",
+          "url": "https://www.mk.co.kr/news/stock/12201558"
+        }
+      ]
+    },
+    {
+      "id": "finance-5",
+      "status": "SHIFTING",
+      "title": "TSMC의 3D D램 진출 모색과 엔비디아 맞춤형 메모리 전략",
+      "summary": "TSMC가 차세대 3D D램을 직접 생산하려는 정황이 포착되며, 엔비디아가 배후에서 맞춤형 메모리 공급을 요청했다는 관측이 제기되고 있다. 이는 AI용 고대역폭 메모리 공급 구조와 메모리·파운드리 산업의 밸류체인 재편 가능성을 키우며, 관련 반도체·IT 기업 및 금융시장의 중장기 투자 전략에도 변화를 예고한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "TSMC가 D램을 직접? … 엔비디아의 ‘비밀 요청’",
+          "url": "https://www.mk.co.kr/news/stock/12202048"
+        }
+      ]
+    }
+  ]
+}
