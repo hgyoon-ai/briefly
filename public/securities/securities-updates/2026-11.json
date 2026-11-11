@@ -2,6 +2,169 @@
   "month": "2026-11",
   "events": [
     {
+      "id": "news:하나증권:https://www.mk.co.kr/news/stock/12204912",
+      "date": "2026-11-11",
+      "company": "하나증권",
+      "title": "“백화점 성장 둔화 부담”…하나증권, 신세계 목표가 43만원→36만5000원 하향",
+      "oneLiner": "하나증권 리서치가 신세계 목표주가를 43만원에서 36만5000원으로 하향 조정함(리서치·투자 의견 변경).",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“백화점 성장 둔화 부담”…하나증권, 신세계 목표가 43만원→36만5000원 하향",
+          "url": "https://www.mk.co.kr/news/stock/12204912"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-11-11"
+    },
+    {
+      "id": "news:신한투자증권:https://www.fnnews.com/news/202611110835120866",
+      "date": "2026-11-11",
+      "company": "신한투자증권",
+      "title": "월분배 수요에 커진 커버드콜…신한운용 2종 순자산 5500억",
+      "oneLiner": "신한자산운용의 코스피200 기반 커버드콜 ETF 2종(신규 상장 포함)의 자금 유입·신상품 출시 소식으로, 상품 출시(출시) 및 자산운용 관련 변화로 보존.",
+      "type": "출시",
+      "areas": [
+        "WM",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "월분배 수요에 커진 커버드콜…신한운용 2종 순자산 5500억",
+          "url": "https://www.fnnews.com/news/202611110835120866"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-11-11"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12203930",
+      "date": "2026-11-10",
+      "company": "한국투자증권",
+      "title": "신한투자증권, 저평가 가치株 발굴하는 ‘신영K순수가치’ 펀드 판매",
+      "oneLiner": "신한투자증권이 저평가 가치주에 투자하는 ‘신영K순수가치’ 펀드를 판매 개시(신규 펀드 출시·판매).",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "신한투자증권, 저평가 가치株 발굴하는 ‘신영K순수가치’ 펀드 판매",
+          "url": "https://www.mk.co.kr/news/stock/12203930"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-11-11"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202611100931209980",
+      "date": "2026-11-10",
+      "company": "한국투자증권",
+      "title": "글로벌 리서치 경쟁력 높이는 한투, 모간스탠리 투자정보 독점 공급",
+      "oneLiner": "한국투자증권이 모간스탠리운용과 MOU 체결, 모간스탠리의 글로벌 투자정보·리서치 콘텐츠를 국내에 독점 제공하기로 합의(제휴·콘텐츠 제공 확대).",
+      "type": "제휴",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "글로벌 리서치 경쟁력 높이는 한투, 모간스탠리 투자정보 독점 공급",
+          "url": "https://www.fnnews.com/news/202611100931209980"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-11-11"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202611101813185743",
+      "date": "2026-11-10",
+      "company": "한국투자증권",
+      "title": "한투證, 모건스탠리운용 투자정보 국내에 독점 제공",
+      "oneLiner": "한국투자증권이 모건스탠리운용과 전략적 업무협약(MOU)을 체결해 모건스탠리의 글로벌 투자정보를 국내 독점 제공하기로 함(제휴·리서치 제공 확대).",
+      "type": "제휴",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투證, 모건스탠리운용 투자정보 국내에 독점 제공",
+          "url": "https://www.fnnews.com/news/202611101813185743"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-11"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202611101813224608",
+      "date": "2026-11-10",
+      "company": "미래에셋증권",
+      "title": "\"반대매매 도미노 막아라\"… 담보비율 낮추고 강제청산 유예",
+      "oneLiner": "증권사들이 금융당국의 면제 조치에 맞춰 신용거래 담보유지비율을 인하하고 일부는 반대매매(강제청산) 유예 조치를 시행함(신용거래 리스크·운영정책 변경).",
+      "type": "규제",
+      "areas": [
+        "리스크",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"반대매매 도미노 막아라\"… 담보비율 낮추고 강제청산 유예",
+          "url": "https://www.fnnews.com/news/202611101813224608"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-11-11"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202611101813299341",
+      "date": "2026-11-10",
+      "company": "NH투자증권",
+      "title": "\"해외서만 삼전닉스 토큰 거래 가슴 아파\"... 김형년 부회장, 디지털자산법 입법 촉구",
+      "oneLiner": "두나무 경영진이 토큰화 주식·무기한 선물 등의 제도화 필요성을 언급하며 디지털자산법 입법을 촉구함(정책·규제 환경 관련 발언).",
+      "type": "규제",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"해외서만 삼전닉스 토큰 거래 가슴 아파\"... 김형년 부회장, 디지털자산법 입법 촉구",
+          "url": "https://www.fnnews.com/news/202611101813299341"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-11"
+    },
+    {
       "id": "news:KB증권:https://www.hankyung.com/article/2026110936436",
       "date": "2026-11-09",
       "company": "KB증권",
@@ -93,6 +256,29 @@
       "tags": [],
       "confidence": 0.9,
       "updatedAt": "2026-11-09"
+    },
+    {
+      "id": "2023c30d78471f02722606323eac1671a7814ea9",
+      "date": "2026-11-09",
+      "company": "NH투자증권",
+      "title": "최대주주등소유주식변동신고서              ",
+      "oneLiner": "최대주주 등 소유주식 변동신고서 제출 공시 — 주요주주 지분 변동에 따른 공시(지분 변동 관련 운영/지배구조 영향).",
+      "type": "규제",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "최대주주등소유주식변동신고서              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109800352"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-11"
     },
     {
       "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12201813",
