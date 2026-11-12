@@ -2,6 +2,98 @@
   "month": "2026-11",
   "events": [
     {
+      "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12205981",
+      "date": "2026-11-12",
+      "company": "미래에셋증권",
+      "title": "“어제까진 2730억 흑자, 오늘은 591억 적자”…폭탄 떨어진 증권가 근황 [오늘 나온 보고서]",
+      "oneLiner": "국고채 입찰 담합 관련 1.4조원 규모 과징금 부과 보도로 증권사들(KB·NH·미래에셋 등)에 대한 대규모 제재 및 재무적 영향 우려가 제기됨.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“어제까진 2730억 흑자, 오늘은 591억 적자”…폭탄 떨어진 증권가 근황 [오늘 나온 보고서]",
+          "url": "https://www.mk.co.kr/news/stock/12205981"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202611111448359712",
+      "date": "2026-11-12",
+      "company": "미래에셋증권",
+      "title": "금융복합기업집단 자본비율 186%로 상승…7곳 모두 규제선 웃돌아",
+      "oneLiner": "금융감독원 조사 결과 7개 금융복합기업집단의 통합자본비율이 186%로 보고되어 금융복합기업집단법상 자본적정성·규제 준수 현황에 대한 영향이 확인됨.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "금융복합기업집단 자본비율 186%로 상승…7곳 모두 규제선 웃돌아",
+          "url": "https://www.fnnews.com/news/202611111448359712"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202611120806320365",
+      "date": "2026-11-12",
+      "company": "한국투자증권",
+      "title": "삼양식품, 불닭 인기에 사상 최대 영업익…목표가 185만원 유지",
+      "oneLiner": "한국투자증권이 삼양식품에 대해 투자의견 '매수'와 목표주가 185만원 유지를 발표한 리서치 보고서를 공개함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "삼양식품, 불닭 인기에 사상 최대 영업익…목표가 185만원 유지",
+          "url": "https://www.fnnews.com/news/202611120806320365"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202611120901422865",
+      "date": "2026-11-12",
+      "company": "하나증권",
+      "title": "\"삼성전자, 재평가 필요하지만...\" 목표가는 낮춘 이유",
+      "oneLiner": "하나증권 리서치팀이 삼성전자의 목표주가를 기존 48만원에서 40만원으로 하향 조정한 보고서를 발표했음.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"삼성전자, 재평가 필요하지만...\" 목표가는 낮춘 이유",
+          "url": "https://www.fnnews.com/news/202611120901422865"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-11-12"
+    },
+    {
       "id": "news:하나증권:https://www.mk.co.kr/news/stock/12204912",
       "date": "2026-11-11",
       "company": "하나증권",
@@ -47,6 +139,147 @@
       "tags": [],
       "confidence": 0.85,
       "updatedAt": "2026-11-11"
+    },
+    {
+      "id": "d792f43497ae910853cecbf3f74aff5b598dfbb1",
+      "date": "2026-11-11",
+      "company": "NH투자증권",
+      "title": "벌금등의부과              ",
+      "oneLiner": "NH투자증권이 DART 공시로 벌금 등 제재 관련 공시를 제출한 것으로 보이며, 제재·벌금으로 인한 운영·규제 리스크가 발생할 가능성이 있음.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "벌금등의부과              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111800234"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "e1a8635dffc29e09d3f940b693749f771e622814",
+      "date": "2026-11-11",
+      "company": "키움증권",
+      "title": "[기재정정]연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "oneLiner": "키움증권이 연결재무제표 기준 영업(잠정)실적에 대해 기재정정(공정공시)을 제출했으며 회계·공시 변경으로 투자자 및 규제 영향이 예상됨.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "[기재정정]연결재무제표기준영업(잠정)실적(공정공시)              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111800831"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202611111322111132",
+      "date": "2026-11-11",
+      "company": "미래에셋증권",
+      "title": "미래에셋증권, 11월 개인투자용 국채 청약…총 2000억원 규모",
+      "oneLiner": "미래에셋증권이 11월 개인투자용 국채 청약을 공지했다. 영업점 및 MTS 'MAPS'를 통해 3·5·10·20년물 청약이 가능하다.",
+      "type": "출시",
+      "areas": [
+        "브로커리지",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋증권, 11월 개인투자용 국채 청약…총 2000억원 규모",
+          "url": "https://www.fnnews.com/news/202611111322111132"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202611111429309873",
+      "date": "2026-11-11",
+      "company": "한국투자증권",
+      "title": "한국투자증권, 퇴직연금으로 국채 투자…10년물 연 6%",
+      "oneLiner": "한국투자증권이 IRP·DC 계좌를 통한 개인투자용 국채 청약을 공지했다. 10년물·20년물 선택 가능하고 퇴직연금 세제 혜택을 함께 안내한다.",
+      "type": "출시",
+      "areas": [
+        "WM",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한국투자증권, 퇴직연금으로 국채 투자…10년물 연 6%",
+          "url": "https://www.fnnews.com/news/202611111429309873"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202611111701255987",
+      "date": "2026-11-11",
+      "company": "미래에셋증권",
+      "title": "미래에셋증권, WM 지점장 인사..고객 수익률 중심 자산관리 강화",
+      "oneLiner": "미래에셋증권이 WM 지점장 인사를 단행해 고객 수익률 중심 자산관리와 현장 리더십을 강화했다. VIP 거점에 우수 자산관리 인력을 배치한다.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋증권, WM 지점장 인사..고객 수익률 중심 자산관리 강화",
+          "url": "https://www.fnnews.com/news/202611111701255987"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202611111812482483",
+      "date": "2026-11-11",
+      "company": "미래에셋증권",
+      "title": "미래에셋증권, 개인투자용 국채 청약",
+      "oneLiner": "미래에셋증권의 11월 개인투자용 국채 청약 공지(총 발행규모 2000억원, 10·20년물 비중 높음) 관련 기사이다.",
+      "type": "출시",
+      "areas": [
+        "브로커리지",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋증권, 개인투자용 국채 청약",
+          "url": "https://www.fnnews.com/news/202611111812482483"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-11-12"
     },
     {
       "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12203930",
@@ -278,7 +511,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-12"
     },
     {
       "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12201813",
