@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-11-06",
+    "to": "2026-11-12"
+  },
+  "kpis": {
+    "collected": 22,
+    "deduped": 22,
+    "uniqueTopics": 10
+  },
+  "topTopics": [
+    {
+      "name": "Market",
+      "count": 17
+    },
+    {
+      "name": "Supply",
+      "count": 13
+    },
+    {
+      "name": "Policy",
+      "count": 10
+    },
+    {
+      "name": "UrbanRenewal",
+      "count": 7
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Market",
+      "count": 4
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Supply",
+      "count": 3
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "UrbanRenewal",
+      "count": 1
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Market",
+      "count": 4
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Supply",
+      "count": 3
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "UrbanRenewal",
+      "count": 1
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Market",
+      "count": 1
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "UrbanRenewal",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Market",
+      "count": 3
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Supply",
+      "count": 2
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "UrbanRenewal",
+      "count": 2
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Market",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "UrbanRenewal",
+      "count": 0
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Market",
+      "count": 5
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Supply",
+      "count": 3
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "UrbanRenewal",
+      "count": 1
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Market",
+      "count": 0
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Supply",
+      "count": 2
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "UrbanRenewal",
+      "count": 2
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "공공재개발 수수료 인하로 사업비 부담 완화",
+      "summary": "국토부·LH가 공공재개발 시행자 수수료를 총사업비의 3%에서 1%로 낮추면서 구역당 약 130억원 수준의 비용 절감이 예상된다. 재개발 사업성 개선과 사업 추진 촉진 효과가 기대된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "“공공재개발 수수료 3%→1%” 구역당 130억원 줄어든다",
+          "url": "https://biz.heraldcorp.com/article/10934793"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "대형 택지·국가산단에 2조원 추가 투입…공급 기반 확충",
+      "summary": "LH가 광명시흥 공공주택지구와 용인 반도체 국가산단 등에 올해 2조원을 추가 집행해 총 사업비를 41조원 규모로 확대한다. 국가 단위 주거·산업용 토지 공급을 차질 없이 추진하려는 재정 보강 조치다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "LH, 광명시흥·용인 반도체 국가산단에 2조원 수혈",
+          "url": "https://biz.heraldcorp.com/article/10934747"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "전세 7억 초과 증가로 보증 사각지대 확대",
+      "summary": "전세 거래 3건 중 1건이 보증금 7억원을 넘어서면서 보증 한도 밖 고액 전세가 빠르게 늘고 있다. 세입자 상당수가 보증보험의 보호를 받지 못하는 구조적 리스크가 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "전세 3건 중 1건이 7억 넘어…보증 사각지대 몰린 세입자",
+          "url": "https://www.hankyung.com/article/2026111109921"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "아파트 커뮤니티 시스템 개인정보 유출에 첫 직권조사",
+      "summary": "GS건설이 운영하는 아파트 커뮤니티 예약·관리 시스템에서 개인정보 유출 사고가 발생해 과기정통부가 신설 제도를 활용한 1호 직권조사에 착수했다. 향후 디지털 기반 주거 서비스 전반에 대한 규제·보안 기준 강화로 이어질 가능성이 크다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "GS건설 아파트 커뮤니티 개인정보 유출…과기정통부, ‘1호 직권조사’ 결정",
+          "url": "https://www.mk.co.kr/news/realestate/12206129"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "고금리 중도금대출로 분양 수분양자 이자부담 급증",
+      "summary": "중도금대출 금리가 5%에 근접하며 새 아파트 수분양자의 금융 비용이 크게 늘고 있다. 수분양자들은 대출 규제 완화를 요구하지만 정부가 기조 유지를 고수하면서 분양시장 체감 부담이 커지는 양상이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "“앞날이 캄캄”…당첨 기쁨은 잠깐, 대출 금리에 한숨만",
+          "url": "https://www.mk.co.kr/news/realestate/12201523"
+        }
+      ]
+    }
+  ]
+}

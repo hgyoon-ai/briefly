@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-11-05",
-    "to": "2026-11-11"
+    "from": "2026-11-06",
+    "to": "2026-11-12"
   },
   "kpis": {
     "collected": 9,
@@ -10,11 +10,11 @@
   },
   "topTopics": [
     {
-      "name": "Competition",
+      "name": "Roadmap",
       "count": 7
     },
     {
-      "name": "Roadmap",
+      "name": "Competition",
       "count": 7
     },
     {
@@ -23,185 +23,199 @@
     },
     {
       "name": "Policy",
-      "count": 4
+      "count": 5
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-11-05",
-      "dayOfWeek": "Thu",
-      "topic": "Competition",
-      "count": 1
-    },
-    {
-      "date": "2026-11-05",
-      "dayOfWeek": "Thu",
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
       "topic": "Roadmap",
       "count": 1
-    },
-    {
-      "date": "2026-11-05",
-      "dayOfWeek": "Thu",
-      "topic": "Investment",
-      "count": 1
-    },
-    {
-      "date": "2026-11-05",
-      "dayOfWeek": "Thu",
-      "topic": "Policy",
-      "count": 0
     },
     {
       "date": "2026-11-06",
       "dayOfWeek": "Fri",
       "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
       "count": 2
     },
     {
-      "date": "2026-11-06",
-      "dayOfWeek": "Fri",
-      "topic": "Roadmap",
-      "count": 3
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 4
     },
     {
-      "date": "2026-11-06",
-      "dayOfWeek": "Fri",
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
       "topic": "Investment",
       "count": 2
-    },
-    {
-      "date": "2026-11-06",
-      "dayOfWeek": "Fri",
-      "topic": "Policy",
-      "count": 1
-    },
-    {
-      "date": "2026-11-07",
-      "dayOfWeek": "Sat",
-      "topic": "Competition",
-      "count": 0
-    },
-    {
-      "date": "2026-11-07",
-      "dayOfWeek": "Sat",
-      "topic": "Roadmap",
-      "count": 1
-    },
-    {
-      "date": "2026-11-07",
-      "dayOfWeek": "Sat",
-      "topic": "Investment",
-      "count": 1
-    },
-    {
-      "date": "2026-11-07",
-      "dayOfWeek": "Sat",
-      "topic": "Policy",
-      "count": 1
-    },
-    {
-      "date": "2026-11-08",
-      "dayOfWeek": "Sun",
-      "topic": "Competition",
-      "count": 0
-    },
-    {
-      "date": "2026-11-08",
-      "dayOfWeek": "Sun",
-      "topic": "Roadmap",
-      "count": 0
-    },
-    {
-      "date": "2026-11-08",
-      "dayOfWeek": "Sun",
-      "topic": "Investment",
-      "count": 0
-    },
-    {
-      "date": "2026-11-08",
-      "dayOfWeek": "Sun",
-      "topic": "Policy",
-      "count": 0
-    },
-    {
-      "date": "2026-11-09",
-      "dayOfWeek": "Mon",
-      "topic": "Competition",
-      "count": 0
-    },
-    {
-      "date": "2026-11-09",
-      "dayOfWeek": "Mon",
-      "topic": "Roadmap",
-      "count": 0
-    },
-    {
-      "date": "2026-11-09",
-      "dayOfWeek": "Mon",
-      "topic": "Investment",
-      "count": 0
-    },
-    {
-      "date": "2026-11-09",
-      "dayOfWeek": "Mon",
-      "topic": "Policy",
-      "count": 0
-    },
-    {
-      "date": "2026-11-10",
-      "dayOfWeek": "Tue",
-      "topic": "Competition",
-      "count": 1
-    },
-    {
-      "date": "2026-11-10",
-      "dayOfWeek": "Tue",
-      "topic": "Roadmap",
-      "count": 1
-    },
-    {
-      "date": "2026-11-10",
-      "dayOfWeek": "Tue",
-      "topic": "Investment",
-      "count": 1
-    },
-    {
-      "date": "2026-11-10",
-      "dayOfWeek": "Tue",
-      "topic": "Policy",
-      "count": 0
-    },
-    {
-      "date": "2026-11-11",
-      "dayOfWeek": "Wed",
-      "topic": "Competition",
-      "count": 3
-    },
-    {
-      "date": "2026-11-11",
-      "dayOfWeek": "Wed",
-      "topic": "Roadmap",
-      "count": 1
-    },
-    {
-      "date": "2026-11-11",
-      "dayOfWeek": "Wed",
-      "topic": "Investment",
-      "count": 1
     },
     {
       "date": "2026-11-11",
       "dayOfWeek": "Wed",
       "topic": "Policy",
       "count": 2
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 1
     }
   ],
   "topIssues": [
     {
       "id": 1,
       "status": "ONGOING",
-      "title": "AI·자동차용 메모리 안전·보안 규제 대응 가속",
-      "summary": "SK하이닉스가 LPDDR5X에 대해 IEC 61508 SIL 3 기능안전 인증과 ISO/SAE 21434 기반 CSMS 인증을 확보하며, 차량·산업용·AI 서버용 메모리에서 기능안전·사이버보안 요구를 동시에 충족하는 선행 레퍼런스를 마련했다. 이는 물리 AI·자동차 반도체 시장에서 프리미엄 메모리 채택을 촉진하고, 향후 글로벌 안전 규제 강화에 따른 수주 경쟁력 확보로 이어질 가능성이 크다.",
+      "title": "레벨 4 자율주행 상용화를 향한 자동차용 반도체·AI 안전 로드맵",
+      "summary": "레벨 4 자율주행 달성을 위해 차량용 SoC, 센서, AI 가속기 등 자동차 반도체의 기능안전, 규제 준수, 신뢰성 확보가 핵심 이슈로 부상하고 있다. 패널은 안전 표준과 정책 환경에 맞춘 칩 아키텍처 설계, 검증·인증 비용 부담, 완성차-반도체-규제기관 간 협력 구조가 향후 2~3년 내 상용화를 좌우할 주요 과제로 보고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Automotive Tech Forum: Panel Discussion the Make-or-Break Milestones Toward Level 4 Autonomous Driving",
+          "url": "https://www.eetimes.com/automotive-tech-forum-panel-discussion-the-make-or-break-milestones-toward-level-4-autonomous-driving/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "SK하이닉스, AI 메모리용 기능안전·사이버보안 인증으로 차량·산업용 시장 공략 가속",
+      "summary": "SK하이닉스가 LPDDR5X에 대해 IEC 61508 SIL 3 기능안전과 ISO/SAE 21434 기반 CSMS 인증을 확보하며, 물리 AI 메모리를 자율주행·산업용·서버용 등 안전 규제가 엄격한 시장에 공급할 수 있는 기반을 마련했다. 이는 차량용 반도체와 데이터센터용 메모리에서 안전·보안이 설계 초기부터 필수 요건으로 반영되는 추세를 보여주며, 국내 메모리 업체의 고부가 AI·오토모티브 수요 선점 경쟁이 본격화되고 있음을 의미한다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -212,10 +226,24 @@
       ]
     },
     {
-      "id": 2,
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "EV 전력전자에서 GaN 전력반도체 채택 확대와 2026년 이후 설계 로드맵",
+      "summary": "전기차 메인 인버터, 온보드 차저(OBC), DC-DC 컨버터 등에서 GaN 전력반도체가 Si 기반 디바이스를 대체하며 효율·전력밀도 향상과 시스템 비용 절감을 동시에 노린 설계가 확산되고 있다. 발표에 따르면 2026년 이후에는 신뢰성 검증 표준화, 패키징·열관리 혁신, 차량용 인증 강화가 진행되며, 완성차와 티어1이 레퍼런스 설계를 기반으로 GaN 채택을 가속하면서 관련 파운드리·IDM들의 투자 방향도 EV 중심으로 재편되는 흐름이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Automotive Tech Forum: GaN Building Blocks in EV’s and Their Design Roadmap in 2026 and Beyond",
+          "url": "https://www.eetimes.com/automotive-tech-forum-gan-building-blocks-in-evs-and-their-design-roadmap-in-2026-and-beyond/"
+        }
+      ]
+    },
+    {
+      "id": 4,
       "status": "ONGOING",
-      "title": "AI 데이터센터 전력망 확보 경쟁, 반도체 인프라 리스크 확대",
-      "summary": "AI 가속 클러스터 확대로 전력 수요가 급증하면서, 미국·중국 간 그리드 용량 선점과 비용·리스크 분담 전략 차이가 커지고 있다. 전력 인프라 제약은 첨단 반도체(특히 GPU·HBM·고성능 로직) 생산·패키징·테스트 및 클라우드 사업자의 투자 타이밍에 직접적인 제약 요인으로 작용해, 향후 팹 및 데이터센터 입지, 전력 효율 칩 아키텍처, 전력 계약 구조가 반도체 밸류체인의 핵심 경쟁 요소로 부각되고 있다.",
+      "title": "AI 반도체 클러스터 확산이 촉발한 전력망 용량 경쟁과 투자 리스크 분담",
+      "summary": "미국과 중국을 중심으로 GPU·가속기 기반 AI 데이터센터 증설이 급증하면서, 전력망 용량과 인프라 투자 비용이 AI 반도체 수요의 실질적인 병목으로 부상하고 있다. 각국 정부·전력사·클라우드 사업자는 장기 전력 공급계약, 송배전망 업그레이드, 재생에너지 연계 투자 등의 방식으로 리스크를 분담하고 있으며, 전력제약을 완화하기 위한 저전력 칩 설계와 고효율 패키징·전원 관리 반도체에 대한 수요도 함께 커지고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -226,44 +254,16 @@
       ]
     },
     {
-      "id": 3,
-      "status": "SHIFTING",
-      "title": "유럽 반도체, 지정학·보조금 경쟁 속 공급망 재편 기로",
-      "summary": "SEMICON Europa 2026 논의에 따르면 유럽 반도체 산업은 미국·아시아의 보조금 경쟁, 기술 주권 요구, 공급망 리쇼어링 압력이 동시에 겹치며 ‘퍼펙트 스톰’에 직면해 있다. 이에 따라 유럽 내 로직·전력반도체·자동차용 반도체 중심의 특화 전략, 설계·장비·소재 밸류체인 강화, 장기 CAPEX·인센티브 구조 조정이 요구되며, 글로벌 팹 위치와 수주 구조 변화로 한국·대만·미국 업체에도 중장기 영향이 예상된다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "EE Times",
-          "title": "Europe’s Chip Industry: Perfect Storm or Perfect Timing?",
-          "url": "https://www.eetimes.com/europe-chip-industry-perfect-storm-or-perfect-timing/"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "status": "ONGOING",
-      "title": "차세대 무선 경험을 위한 고대역폭·저전력 칩 수요 부상",
-      "summary": "Bluetooth 고속 데이터 처리(HDT) 기술이 AR/VR, 고해상도 오디오, 대용량 IoT 등 고대역폭 애플리케이션을 겨냥해 등장하면서, RF·아날로그·혼합신호 SoC 및 패키지 수준에서 저전력·고신뢰성 무선 칩 설계 수요가 확대되고 있다. 이는 모바일·웨어러블·엣지 디바이스용 통합 무선 칩과 공정 미세화, 고집적 패키징 투자를 자극해 시스템 반도체 내에서 연결성(Connectivity) IP의 전략적 중요성을 더욱 높이고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "EE Times",
-          "title": "Bluetooth® High Data Throughput: a Foundation for Next Generation Wireless Experiences",
-          "url": "https://www.eetimes.com/bluetooth-high-data-throughput-a-foundation-for-next-generation-wireless-experiences/"
-        }
-      ]
-    },
-    {
       "id": 5,
       "status": "ONGOING",
-      "title": "첨단 패키징·제조 혁신과 비전통 산업(농업)으로의 반도체 확산",
-      "summary": "EE Times 2026년 11월호는 첨단 패키징·제조 기술 진보와 함께 농업 자율화(팜 오토노미)에 반도체 적용이 확대되는 흐름을 조명한다. 고성능 센서, 엣지 AI, 전력반도체, 내환경성 패키지 등 기술 수요가 농업 장비·인프라로 확장되며, 기존 PC·모바일·자동차를 넘어 새로운 수직 시장에서 반도체 수요 다변화와 장기 성장 모멘텀이 형성되고 있다.",
+      "title": "양자컴퓨팅 시대 대비, 암호·보안용 반도체의 PQC 전환 압력 확대",
+      "summary": "양자컴퓨터가 상용 수준에 근접하면서 블록체인·금융·통신 인프라에서 사용하는 기존 공개키 암호가 수년 내 취약해질 수 있다는 우려가 커지고 있다. 이에 따라 보안 칩, HSM, 신용카드·eSIM 등 암호·보안용 반도체는 후방 호환성과 연산 성능을 고려한 PQC(양자내성암호) 지원 설계가 시급해졌고, 신규 표준 채택 속도와 마이그레이션 비용이 향후 보안 반도체 시장의 핵심 변수가 되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "EE Times",
-          "title": "EE Times Magazine – November 2026",
-          "url": "https://www.eetimes.com/ee-times-magazine-november-2026/"
+          "title": "The Countdown to Q-Day Has Begun",
+          "url": "https://www.eetimes.com/the-countdown-to-q-day-has-begun/"
         }
       ]
     }

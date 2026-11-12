@@ -1,54 +1,54 @@
 {
   "range": {
-    "from": "2026-10-13",
-    "to": "2026-11-11"
+    "from": "2026-10-14",
+    "to": "2026-11-12"
   },
   "kpis": {
-    "collected": 68,
-    "deduped": 68,
+    "collected": 67,
+    "deduped": 67,
     "uniqueTopics": 10,
     "marketShare": {
-      "Tooling": 26,
+      "Tooling": 27,
       "Product": 21,
-      "Models": 20,
-      "Infra": 17,
+      "Models": 19,
+      "Infra": 18,
       "Research": 16,
       "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/13-10/19)",
+      "week": "Week 1 (10/14-10/20)",
       "topicCounts": {
-        "Tooling": 17,
-        "Product": 13,
-        "Models": 13,
-        "Infra": 9,
+        "Tooling": 15,
+        "Product": 9,
+        "Models": 10,
+        "Infra": 8,
         "Research": 8
       }
     },
     {
-      "week": "Week 2 (10/20-10/26)",
+      "week": "Week 2 (10/21-10/27)",
       "topicCounts": {
-        "Tooling": 9,
-        "Product": 8,
-        "Models": 5,
-        "Infra": 5,
-        "Research": 6
-      }
-    },
-    {
-      "week": "Week 3 (10/27-11/02)",
-      "topicCounts": {
-        "Tooling": 5,
-        "Product": 6,
+        "Tooling": 10,
+        "Product": 7,
         "Models": 6,
-        "Infra": 3,
+        "Infra": 7,
+        "Research": 4
+      }
+    },
+    {
+      "week": "Week 3 (10/28-11/03)",
+      "topicCounts": {
+        "Tooling": 8,
+        "Product": 8,
+        "Models": 6,
+        "Infra": 7,
         "Research": 6
       }
     },
     {
-      "week": "Week 4 (11/03-11/09)",
+      "week": "Week 4 (11/04-11/10)",
       "topicCounts": {
         "Tooling": 6,
         "Product": 4,
@@ -58,22 +58,36 @@
       }
     },
     {
-      "week": "Week 5 (11/10-11/11)",
+      "week": "Week 5 (11/11-11/12)",
       "topicCounts": {
         "Tooling": 3,
-        "Product": 2,
-        "Models": 4,
-        "Infra": 4,
-        "Research": 2
+        "Product": 4,
+        "Models": 2,
+        "Infra": 1,
+        "Research": 1
       }
     }
   ],
   "topIssues": [
     {
-      "id": "ai-1",
+      "id": 1,
       "status": "NEW",
-      "title": "에이전트용 AI 모델 백도어 기법 ‘Lazarus’ 발견",
-      "summary": "마이크로소프트가 휴면 뉴런을 재프로그램해 특정 트리거로만 활성화되는 백도어 ‘Lazarus’를 공개했습니다. 겉으로는 정상인 에이전트 모델 안에 숨어 있다가 특정 패턴 입력 시 툴·터미널 권한을 악용해 코드 다운로드·실행 등 악성 행위를 수행할 수 있어, 에이전트 보안·평가 체계 전반의 재점검이 필요해졌습니다.",
+      "title": "AlphaGenome 2로 세포별 DNA 해독 가속: 질병 이해에 특화된 AI 유전체 모델",
+      "summary": "Google DeepMind의 AlphaGenome 2는 DNA 서열과 변이가 특정 세포 유형에 어떤 영향을 주는지 예측해, 유전자 발현·기능 변화를 정밀하게 해석하는 모델이다. 대규모 유전체·세포 표현형 데이터를 통합해 질병 기전 분석과 타겟 발굴에 바로 활용 가능한 수준으로 발전했다는 점에서 바이오·제약 분야 AI 적용이 새로운 단계로 진입하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Google DeepMind Blog",
+          "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+          "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "AI 에이전트 백도어 위협 부각: ‘Lazarus’ 기법으로 휴면 뉴런 악용",
+      "summary": "Microsoft 연구진은 겉으로는 정상인 에이전트형 모델 내부의 휴면 뉴런을 재프로그램해, 특정 트리거가 들어올 때만 악성 도구 사용·코드 실행을 하게 만드는 ‘Lazarus’ 백도어 기법을 공개했다. 이는 툴·터미널 권한을 가진 AI 에이전트에서 은밀한 공격이 가능함을 보여주며, 에이전트 보안 평가·감사 도구와 백도어 탐지 연구의 시급성을 크게 끌어올렸다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -84,58 +98,44 @@
       ]
     },
     {
-      "id": "ai-2",
-      "status": "NEW",
-      "title": "구글, 차세대 모델 Gemini 4 Carbon 공개",
-      "summary": "Google DeepMind가 Gemini 4 Carbon을 공식 출시했습니다. 구체적인 성능 수치나 아키텍처 상세는 제한적이지만, 상용 배포를 전제로 한 고성능 멀티모달 모델로 포지셔닝되며, 추론 인프라 및 제품 통합 측면에서 구글 생태계 전반에 걸친 AI 고도화를 예고합니다.",
+      "id": 3,
+      "status": "ONGOING",
+      "title": "온디바이스 AI 비서 경쟁 심화: 경량 에이전트 LLM ‘BotPsy’ 등장",
+      "summary": "Hugging Face의 BotPsy는 서브-십억 매개변수 규모로, 스마트폰·PC 등 디바이스 상에서 직접 실행되는 개인 비서형 언어모델이다. 기기 내 추론으로 개인정보 보호와 지연 시간·비용을 줄이면서도 툴 연동, 계획 수립, 컨텍스트 유지 등 에이전트 기능을 제공해, 클라우드 중심이던 AI 비서를 온디바이스로 옮기려는 흐름을 가속하고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "Google DeepMind Blog",
-          "title": "Gemini 4 Carbon is now available",
-          "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
+          "source": "Hugging Face Blog",
+          "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+          "url": "https://huggingface.co/blog/qvac/botpsy"
         }
       ]
     },
     {
-      "id": "ai-3",
+      "id": 4,
       "status": "ONGOING",
-      "title": "에이전트 대규모 운영을 위한 Kubernetes 재구성 ‘Agent Substrate’",
-      "summary": "NVIDIA가 대규모 AI 에이전트 실행을 위해 Kubernetes를 재설계한 Agent Substrate를 제안했습니다. 대부분 유휴 상태인 에이전트 특성을 반영해, 전통적인 파드 기반 스케줄링의 자원·비용 비효율을 줄이고, 대량의 에이전트 인스턴스를 탄력적으로 운영하는 인프라 패턴으로 자리잡는 흐름이 이어지고 있습니다.",
+      "title": "엔터프라이즈 GPU 운영 인사이트 강화: NVIDIA DSX AI Factory의 런타임 인벤토리",
+      "summary": "NVIDIA DSX AI Factory는 Dynamo, Kubeflow, Slurm 등 다양한 오케스트레이션 환경에서 실제 실행되는 AI 워크로드를 런타임 인벤토리로 수집·가시화한다. 이를 통해 GPU 플랫폼의 활용도·성능·안정성을 검증하고, 리소스 계획·비용 최적화·SLA 관리까지 연결하는 엔터프라이즈급 AI 인프라 운영 체계가 더욱 정교해지고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "NVIDIA Developer Blog",
-          "title": "Agent Substrate: Advancing Kubernetes for Agents at Scale",
-          "url": "https://developer.nvidia.com/blog/agent-substrate-advancing-kubernetes-for-agents-at-scale/"
+          "title": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory",
+          "url": "https://developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory/"
         }
       ]
     },
     {
-      "id": "ai-4",
+      "id": 5,
       "status": "NEW",
-      "title": "Blackwell GPU에서 실시간에 가까운 이미지 생성 최적화",
-      "summary": "NVIDIA가 Blackwell GPU 상에서 FLUX 3 Image Klein 확산 모델의 추론 속도를 크게 높이는 최적화 기법을 공개했습니다. 지연 시간을 줄여 디자인 도구, 이미지 편집기, 비주얼 제작 워크플로우에서 실시간에 가까운 이미지 생성을 목표로 하며, 차세대 GPU·모델 공동 최적화 추세를 보여줍니다.",
+      "title": "이미지 생성의 실시간화: Blackwell + FLUX 3 Klein 최적화",
+      "summary": "NVIDIA는 Blackwell GPU에서 FLUX 3 Image Klein 확산 모델의 추론 속도를 높이는 최적화 기법을 공개했다. 이를 통해 디자인 툴과 이미지 편집기, 비주얼 제작 파이프라인에서 실시간에 가까운 이미지 생성을 구현해, 생성형 모델을 그래픽·크리에이티브 워크플로의 기본 기능으로 통합하는 흐름이 빨라지고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "NVIDIA Developer Blog",
           "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
           "url": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/"
-        }
-      ]
-    },
-    {
-      "id": "ai-5",
-      "status": "ONGOING",
-      "title": "RL 사후학습 가속을 위한 ‘Reshard Collective’",
-      "summary": "NVIDIA는 강화학습 포스트트레이닝에서 실시간으로 생성되는 트레이젝토리와 병렬로 가중치를 재배치해 리핏 연산 병목을 줄이는 Reshard Collective를 소개했습니다. 학습·추론 파이프라인 전체의 분산 효율을 높여, 대규모 RL 기반 에이전트 및 정책 업데이트 주기를 단축하는 방향의 인프라 최적화가 지속되고 있습니다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "NVIDIA Developer Blog",
-          "title": "Accelerating Reinforcement Learning Weight Refit with the Reshard Collective",
-          "url": "https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective/"
         }
       ]
     }

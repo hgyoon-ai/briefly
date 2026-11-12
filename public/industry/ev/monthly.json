@@ -1,69 +1,69 @@
 {
   "range": {
-    "from": "2026-10-13",
-    "to": "2026-11-11"
+    "from": "2026-10-14",
+    "to": "2026-11-12"
   },
   "kpis": {
     "collected": 42,
     "deduped": 42,
     "uniqueTopics": 7,
     "marketShare": {
-      "Roadmap": 26,
       "Competition": 26,
+      "Roadmap": 26,
       "Demand": 21,
       "Investment": 19,
-      "Policy": 9,
+      "Policy": 8,
       "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/13-10/19)",
+      "week": "Week 1 (10/14-10/20)",
       "topicCounts": {
-        "Roadmap": 8,
         "Competition": 10,
-        "Demand": 10,
-        "Investment": 4,
+        "Roadmap": 9,
+        "Demand": 9,
+        "Investment": 3,
         "Policy": 4
       }
     },
     {
-      "week": "Week 2 (10/20-10/26)",
+      "week": "Week 2 (10/21-10/27)",
       "topicCounts": {
-        "Roadmap": 8,
         "Competition": 6,
-        "Demand": 6,
+        "Roadmap": 9,
+        "Demand": 4,
         "Investment": 9,
         "Policy": 3
       }
     },
     {
-      "week": "Week 3 (10/27-11/02)",
+      "week": "Week 3 (10/28-11/03)",
       "topicCounts": {
-        "Roadmap": 3,
-        "Competition": 3,
-        "Demand": 2,
-        "Investment": 2,
-        "Policy": 0
+        "Competition": 4,
+        "Roadmap": 4,
+        "Demand": 4,
+        "Investment": 3,
+        "Policy": 1
       }
     },
     {
-      "week": "Week 4 (11/03-11/09)",
+      "week": "Week 4 (11/04-11/10)",
       "topicCounts": {
-        "Roadmap": 6,
         "Competition": 7,
+        "Roadmap": 6,
         "Demand": 5,
         "Investment": 5,
         "Policy": 2
       }
     },
     {
-      "week": "Week 5 (11/10-11/11)",
+      "week": "Week 5 (11/11-11/12)",
       "topicCounts": {
-        "Roadmap": 2,
-        "Competition": 1,
+        "Competition": 2,
+        "Roadmap": 1,
         "Demand": 1,
-        "Investment": 1,
+        "Investment": 2,
         "Policy": 0
       }
     }
@@ -72,8 +72,36 @@
     {
       "id": 1,
       "status": "ONGOING",
-      "title": "루시드, 재고 차량 위치 관리 실패로 주문 손실 인정",
-      "summary": "루시드가 Q3 실적 발표에서 올여름까지 재고 차량의 위치를 제대로 파악하지 못해, 고객 차량 인도에 최대 2주가 소요되며 주문 취소와 매출 손실이 발생했다고 밝혔습니다. 고가 프리미엄 EV에서 기본 물류·재고 관리 문제까지 드러나며 생산·수요 관리 역량에 대한 시장 우려가 커지고 있습니다.",
+      "title": "유럽 전기차 판매 급증, 글로벌 EV 수요 회복 신호",
+      "summary": "10월 글로벌 전기차 판매가 전년 대비 8% 성장한 가운데, 유럽 BEV 판매가 49% 급증하며 글로벌 수요 반등을 주도하고 있습니다. 지역별 수요 편차에도 불구하고 유럽 시장의 고성장이 EV 수요의 구조적 확대 신호로 해석됩니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Europe’s electric car sales jump 49% as global EV sales grow",
+          "url": "https://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "퀀텀스케이프, 1기압 1,000회 사이클 달성한 황화물계 전고체 ‘오스프리’ 공개",
+      "summary": "퀀텀스케이프가 캐소드 측 액체 전해질을 황화물 고체 전해질로 대체한 신규 전고체 배터리 플랫폼 ‘오스프리’를 발표했습니다. 1기압 환경에서 80% 용량 유지 기준 1,000회 완전 충·방전을 달성해, 기존 황화물계 전해질의 고압 클램핑 필요성을 줄이며 전고체 상용화 난제를 완화할 가능성을 보여줍니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "QuantumScape unveils Osprey all-solid-state cell: 1,000 cycles at 1 atm",
+          "url": "https://electrek.co/2026/11/11/quantumscape-osprey-all-solid-state-sulfide-battery/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "루시드, 재고 위치 파악 실패로 주문 손실…운영·수요 관리 리스크 부각",
+      "summary": "루시드 CEO가 Q3 실적 발표에서 올여름까지 재고 차량의 위치를 제대로 파악하지 못해 인도 지연이 발생했고, 이로 인해 일부 고객이 구매를 포기했다고 인정했습니다. 고급 EV 시장 경쟁 심화 속에서 물류·운영 관리 미비가 브랜드 신뢰와 수요에 직접적인 리스크로 작용하고 있습니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -84,24 +112,10 @@
       ]
     },
     {
-      "id": 2,
-      "status": "NEW",
-      "title": "BYD, 5분 급속충전 로봇 암으로 EV 자동 충전 혁신 가속",
-      "summary": "BYD가 5분 내 초고속 충전을 지원하는 ‘플래시 차징’ 기술에 로봇 충전 암을 결합한 시스템을 공개했습니다. 로봇 팔이 차량을 자동 인식해 플러그를 연결하고, 통합 태양광 설비로 전력을 보조해 충전 효율을 높이며, 향후 무인 충전소·플릿 운영 자동화 등 상용 EV 인프라 경쟁에서 우위를 노리고 있습니다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "Watch BYD’s robotic charging arm plug itself in and charge EVs in 5 minutes [Video]",
-          "url": "https://electrek.co/2026/11/10/byds-robot-charger-plugs-itself-in-charges-evs-5-mins-video/"
-        }
-      ]
-    },
-    {
-      "id": 3,
+      "id": 4,
       "status": "NEW",
       "title": "르노, 자율 전기 플랫폼 기반 군용 로봇 시장 진출 모색",
-      "summary": "르노가 프랑스 육군 임무 수행을 위한 자율 전기차 기반 군용 로봇 플랫폼 사업을 추진하며, 민수용 EV·자율주행 기술을 국방 영역으로 확장하려 하고 있습니다. 이는 전통 완성차 업체가 전동화·소프트웨어 역량을 활용해 군용·로봇 분야로 다각화하는 흐름을 보여줍니다.",
+      "summary": "르노가 프랑스 육군용 자율 전기차 기반 군용 로봇 플랫폼 사업 진출을 추진하며, 민수 EV·자율주행 기술을 국방 분야로 확장하려 하고 있습니다. 이는 완성차 업체의 전기·자율주행 역량이 방산·로봇 등 특수 목적 차량 시장으로 다변화되는 흐름을 보여줍니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -112,24 +126,10 @@
       ]
     },
     {
-      "id": 4,
-      "status": "ONGOING",
-      "title": "폭스바겐, 중국 시장 공략용 대중형 EV ‘ID. AURA L5’로 재도약 노린다",
-      "summary": "폭스바겐이 중국 합작사 FAW-VW를 통해 대중형 전기 세단 ID. AURA L5를 출시하며, 비틀처럼 저렴하고 접근 가능한 대표 EV 모델로 시장 점유율 회복을 노리고 있습니다. 특히 가격 경쟁력뿐 아니라 소프트웨어 경험을 핵심 차별화 요소로 내세우며 중국 로컬 업체들과의 경쟁 구도를 재정비하고 있습니다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "New ID. AURA is the mainstream EV VW needs – but its software is the real story",
-          "url": "https://electrek.co/2026/11/08/new-id-aura-is-the-mainstream-ev-vw-needs-but-its-software-is-the-real-story/"
-        }
-      ]
-    },
-    {
       "id": 5,
       "status": "NEW",
-      "title": "미 법원, 테슬라 주택 솔라 루프 프로젝트 사기 책임 인정",
-      "summary": "캘리포니아 주 소송에서 판사는 테슬라의 주택 솔라 루프 설치를 ‘실험’으로 진행한 정황과 반복적인 증거 제출 거부를 근거로 사기 책임을 인정했습니다. 테슬라는 이미 계약·보증 위반과 시공 과실을 인정한 상태로, 이번 판결은 에너지·주택 연계 사업에서의 리스크 관리와 브랜드 신뢰도에 부담이 될 전망입니다.",
+      "title": "테슬라, 주택 솔라 루프 프로젝트 관련 소송에서 사기 책임 인정 판결",
+      "summary": "캘리포니아 법원이 테슬라의 특정 주택 솔라 루프 프로젝트를 ‘실험’ 수준으로 진행한 것과 관련해 사기 책임을 인정했습니다. 테슬라는 이미 계약·보증 위반과 시공 과실을 인정했으며, 증거 제출 거부가 불리하게 작용해 브랜드 신뢰와 에너지 사업 리스크 요인으로 부각되고 있습니다.",
       "articleCount": 1,
       "relatedArticles": [
         {

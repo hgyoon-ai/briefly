@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-11-06",
+    "to": "2026-11-12"
+  },
+  "kpis": {
+    "collected": 10,
+    "deduped": 10,
+    "uniqueTopics": 7
+  },
+  "topTopics": [
+    {
+      "name": "Competition",
+      "count": 8
+    },
+    {
+      "name": "Roadmap",
+      "count": 8
+    },
+    {
+      "name": "Investment",
+      "count": 7
+    },
+    {
+      "name": "Demand",
+      "count": 6
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 2
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 3
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Demand",
+      "count": 1
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "유럽 전기차 판매 급증과 글로벌 EV 수요 회복 신호",
+      "summary": "10월 글로벌 전기차 판매가 전년 대비 8% 증가한 가운데, 유럽 BEV 판매는 49% 급등해 성장의 대부분을 견인했다. 금리·보조금 축소 등으로 둔화되던 글로벌 EV 수요가 유럽을 중심으로 점진적 회복 국면에 진입했음을 시사하며, 완성차·배터리 업체들의 유럽 전략 재조정이 필요한 시점이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Europe’s electric car sales jump 49% as global EV sales grow",
+          "url": "https://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "퀀텀스케이프, 1기압 구동 황화물계 올솔리드스테이트 ‘오스프리’ 공개",
+      "summary": "퀀텀스케이프가 캐소드 측 액체 전해질을 황화물 고체전해질로 대체한 ‘오스프리’ 올솔리드스테이트 플랫폼을 공개했다. 1기압 조건에서 80% 용량까지 1,000회 완전 충·방전을 달성해 고압 클램핑이 필요하던 기존 황화물계 한계를 완화할 가능성을 보여주며, 중장기 EV용 차세대 배터리 상용화 경쟁에 변수가 될 수 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "QuantumScape unveils Osprey all-solid-state cell: 1,000 cycles at 1 atm",
+          "url": "https://electrek.co/2026/11/11/quantumscape-osprey-all-solid-state-sulfide-battery/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "Lucid, 재고·물류 관리 실패로 주문 손실 인정",
+      "summary": "Lucid CEO는 Q3 실적 발표에서 올여름까지 회사가 재고 차량 위치를 제대로 파악하지 못해, 고객 인도에 최대 2주가 소요되며 일부 주문이 취소됐다고 인정했다. 이는 고가 프리미엄 EV 스타트업의 운영·물류 역량 부족을 드러내는 사례로, 비용 절감과 동시에 공급망·재고 시스템 개선이 생존 과제로 부각되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Lucid CEO admits it ‘did not even know where cars were’ and lost orders",
+          "url": "https://electrek.co/2026/11/10/lucid-ceo-did-not-know-where-cars-were-lost-orders/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "르노, 자율 전기 플랫폼 기반 군용 로봇 시장 진출 모색",
+      "summary": "르노가 프랑스 육군용 자율 전기차 기반 군용 로봇 플랫폼 사업을 추진하며 국방·보안 분야로 EV 기술을 확장하고 있다. 자율주행·전동화 기술을 군의 고난도 작전 요구에 맞춰 재설계함으로써, 기존 민수 위주였던 EV 기술이 국방·로봇 모빌리티로 다각화되는 흐름을 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "French carmaker Renault wants to get into the military robot business",
+          "url": "https://electrek.co/2026/11/08/french-carmaker-renault-wants-to-get-into-the-military-robot-business/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "테슬라, 주택 솔라 루프 ‘실험’ 소송에서 사기 책임 인정 판결",
+      "summary": "캘리포니아 법원은 테슬라의 주택 솔라 루프 프로젝트 관련 소송에서, 테슬라가 계약·보증 위반과 시공 과실을 이미 인정한 데 더해 사기 책임까지 있다고 판단했다. 개선 요구에도 증거 제출을 반복적으로 거부한 점이 불리하게 작용했으며, 이는 에너지·솔라 사업에서의 테슬라 브랜드 신뢰도와 규제 리스크 확대 우려를 키우고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla deemed liable for fraud after Solar Roof ‘experiment’ on a home",
+          "url": "https://electrek.co/2026/11/07/tesla-solar-roof-fraud-liable-experiment-lawsuit/"
+        }
+      ]
+    }
+  ]
+}

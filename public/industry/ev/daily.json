@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "highlights": {
     "bullets": [
-      "핵심: Lucid 최고경영자는 재고 차량의 위치를 제대로 파악하지 못해 주문 인도가 최대 2주 지연되며 일부 주문을 잃었다고 인정했습니다.",
-      "핵심: BYD는 로봇 충전 암으로 차량에 자동으로 플러그를 연결해 5분 내 초고속 충전을 지원하고 통합 태양광으로 전력을 보조하는 솔루션을 공개했습니다."
+      "핵심: 10월 글로벌 전기차 판매가 전년 대비 8% 증가했고 유럽 BEV 판매는 49% 급증했다.",
+      "핵심: 퀀텀스케이프가 황화물 고체전해질을 적용한 오스프리 전지를 공개했으며 1기압에서 1,000회에 걸쳐 80% 용량을 유지했다."
     ],
     "topTopics": [
       "Competition",
@@ -12,53 +12,53 @@
       "Investment"
     ],
     "stats": {
-      "collected": 15,
-      "deduped": 15
+      "collected": 13,
+      "deduped": 13
     }
   },
   "cards": [
     {
       "id": "ev_0001",
       "tab": "ev",
-      "publishedAt": "2026-11-11T06:03:24+09:00",
+      "publishedAt": "2026-11-12T09:01:00+09:00",
       "source": "Electrek",
-      "title": "Lucid CEO admits it ‘did not even know where cars were’ and lost orders",
+      "title": "Europe’s electric car sales jump 49% as global EV sales grow",
       "summary": [
-        "Lucid CEO는 Q3 실적 발표에서 올여름까지도 회사가 재고 차량의 위치를 제대로 파악하지 못했다고 인정했습니다.",
-        "주문 고객에게 차량을 찾고 인도하는 데 최대 2주가 걸리면서 일부 고객이 구매를 포기하는 상황이 발생했습니다.",
-        "수천 대의 미판매 차량을 보유한 상태에서 기본적인 물류·재고 관리 실패가 드러나며 운영 역량과 수요 대응력에 대한 우려가 커지고 있습니다."
+        "10월 글로벌 전기차 판매는 전년 대비 8% 증가했다.",
+        "유럽 BEV 판매는 같은 기간 49% 급증하며 성장을 주도했다.",
+        "북미도 2026년 들어 처음으로 전년 대비 판매 증가를 기록했지만, 세부 조건에 '단서'가 있는 반등으로 보인다."
       ],
-      "whyItMatters": "기본적인 재고·물류 관리 실패로 주문 손실까지 발생한 것은 수요 전환, 비용 구조, 장기 생존 가능성에 중대한 부정적 신호이기 때문입니다.",
+      "whyItMatters": "글로벌 전기차 수요가 다시 가속화되고 있으며, 특히 유럽과 북미의 회복이 완성차·배터리·충전 인프라 투자 및 경쟁 구도에 중대한 영향을 줄 수 있기 때문이다.",
       "topics": [
-        "Earnings",
         "Demand",
-        "Manufacturing",
-        "Roadmap"
+        "Competition",
+        "Investment"
       ],
       "status": "ONGOING",
-      "hash": "4e28fcf33172af776a65cc92b8e8c96517136006cce9632458dceb0c58574602",
-      "url": "https://electrek.co/2026/11/10/lucid-ceo-did-not-know-where-cars-were-lost-orders/"
+      "hash": "4778aaf5f79e754289f83d1c0328679c06bfc6709ca25455796acb473ea7e242",
+      "url": "https://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/"
     },
     {
       "id": "ev_0002",
       "tab": "ev",
-      "publishedAt": "2026-11-11T05:43:51+09:00",
+      "publishedAt": "2026-11-11T23:00:00+09:00",
       "source": "Electrek",
-      "title": "Watch BYD’s robotic charging arm plug itself in and charge EVs in 5 minutes [Video]",
+      "title": "QuantumScape unveils Osprey all-solid-state cell: 1,000 cycles at 1 atm",
       "summary": [
-        "BYD가 5분 내 EV 급속충전을 지원하는 ‘플래시 차징’ 기술에 로봇 충전 암을 결합한 솔루션을 공개했습니다.",
-        "이 시스템은 로봇 팔이 자동으로 차량에 플러그를 연결하고, 통합 태양광 발전을 통해 전력을 보조합니다.",
-        "완전 자동화·고출력·재생에너지 결합 충전 인프라로 EV 운용 효율성과 사용자 편의성이 크게 향상될 가능성이 있습니다."
+        "퀀텀스케이프가 캐소드 측 액체를 황화물 고체전해질로 대체한 신규 올솔리드스테이트 ‘오스프리’ 플랫폼을 공개했다.",
+        "해당 셀은 1기압 조건에서 80% 용량까지 1,000회 완전 충·방전을 달성해 기존 황화물계가 필요로 하던 고압 클램핑 문제를 완화할 가능성을 보여준다.",
+        "다만 이번 결과는 소형 초기 실험실 셀 기준이며, 일부 성능 수치는 조건이 붙어 상용화까지는 추가 검증과 스케일업이 필요하다."
       ],
-      "whyItMatters": "초고속·무인·태양광 결합 충전 기술은 전기차 충전 인프라의 비용 구조와 운영 모델을 바꾸며 BYD의 기술·서비스 경쟁력을 강화할 수 있기 때문입니다.",
+      "whyItMatters": "황화물계 전고체 배터리의 구조적 제약(고압 클램핑)을 낮출 수 있는 기술적 진전으로, 전고체 배터리 상용화 경쟁 구도와 중장기 EV·ESS 성능 로드맵에 의미 있는 변곡점이 될 수 있기 때문이다.",
       "topics": [
         "Roadmap",
-        "Investment",
-        "Competition"
+        "Manufacturing",
+        "Competition",
+        "Investment"
       ],
       "status": "NEW",
-      "hash": "58c01f5226951e3644dd01bc8f02af810164a012037f3be297d77ee98cd130db",
-      "url": "https://electrek.co/2026/11/10/byds-robot-charger-plugs-itself-in-charges-evs-5-mins-video/"
+      "hash": "09f4a1fe5270b8f143d2652c2d001eb4be5e2f355ccf79d0066162ad3815be9f",
+      "url": "https://electrek.co/2026/11/11/quantumscape-osprey-all-solid-state-sulfide-battery/"
     }
   ]
 }

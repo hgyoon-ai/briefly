@@ -1,0 +1,64 @@
+{
+  "date": "2026-11-12",
+  "highlights": {
+    "bullets": [
+      "핵심: 10월 글로벌 전기차 판매가 전년 대비 8% 증가했고 유럽 BEV 판매는 49% 급증했다.",
+      "핵심: 퀀텀스케이프가 황화물 고체전해질을 적용한 오스프리 전지를 공개했으며 1기압에서 1,000회에 걸쳐 80% 용량을 유지했다."
+    ],
+    "topTopics": [
+      "Competition",
+      "Roadmap",
+      "Demand",
+      "Investment"
+    ],
+    "stats": {
+      "collected": 13,
+      "deduped": 13
+    }
+  },
+  "cards": [
+    {
+      "id": "ev_0001",
+      "tab": "ev",
+      "publishedAt": "2026-11-12T09:01:00+09:00",
+      "source": "Electrek",
+      "title": "Europe’s electric car sales jump 49% as global EV sales grow",
+      "summary": [
+        "10월 글로벌 전기차 판매는 전년 대비 8% 증가했다.",
+        "유럽 BEV 판매는 같은 기간 49% 급증하며 성장을 주도했다.",
+        "북미도 2026년 들어 처음으로 전년 대비 판매 증가를 기록했지만, 세부 조건에 '단서'가 있는 반등으로 보인다."
+      ],
+      "whyItMatters": "글로벌 전기차 수요가 다시 가속화되고 있으며, 특히 유럽과 북미의 회복이 완성차·배터리·충전 인프라 투자 및 경쟁 구도에 중대한 영향을 줄 수 있기 때문이다.",
+      "topics": [
+        "Demand",
+        "Competition",
+        "Investment"
+      ],
+      "status": "ONGOING",
+      "hash": "4778aaf5f79e754289f83d1c0328679c06bfc6709ca25455796acb473ea7e242",
+      "url": "https://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/"
+    },
+    {
+      "id": "ev_0002",
+      "tab": "ev",
+      "publishedAt": "2026-11-11T23:00:00+09:00",
+      "source": "Electrek",
+      "title": "QuantumScape unveils Osprey all-solid-state cell: 1,000 cycles at 1 atm",
+      "summary": [
+        "퀀텀스케이프가 캐소드 측 액체를 황화물 고체전해질로 대체한 신규 올솔리드스테이트 ‘오스프리’ 플랫폼을 공개했다.",
+        "해당 셀은 1기압 조건에서 80% 용량까지 1,000회 완전 충·방전을 달성해 기존 황화물계가 필요로 하던 고압 클램핑 문제를 완화할 가능성을 보여준다.",
+        "다만 이번 결과는 소형 초기 실험실 셀 기준이며, 일부 성능 수치는 조건이 붙어 상용화까지는 추가 검증과 스케일업이 필요하다."
+      ],
+      "whyItMatters": "황화물계 전고체 배터리의 구조적 제약(고압 클램핑)을 낮출 수 있는 기술적 진전으로, 전고체 배터리 상용화 경쟁 구도와 중장기 EV·ESS 성능 로드맵에 의미 있는 변곡점이 될 수 있기 때문이다.",
+      "topics": [
+        "Roadmap",
+        "Manufacturing",
+        "Competition",
+        "Investment"
+      ],
+      "status": "NEW",
+      "hash": "09f4a1fe5270b8f143d2652c2d001eb4be5e2f355ccf79d0066162ad3815be9f",
+      "url": "https://electrek.co/2026/11/11/quantumscape-osprey-all-solid-state-sulfide-battery/"
+    }
+  ]
+}

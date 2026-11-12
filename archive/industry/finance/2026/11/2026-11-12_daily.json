@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-12",
+  "highlights": {
+    "bullets": [
+      "핵심: 앤트로픽이 나스닥 상장을 앞두고 기업가치 최대 1조4000억달러를 제시했다.",
+      "핵심: 엔비디아 이사회가 젠슨 황 CEO에 대한 공식 해임 절차를 개시했다."
+    ],
+    "topTopics": [
+      "MarketInfra",
+      "Compliance",
+      "Fintech",
+      "Regulation"
+    ],
+    "stats": {
+      "collected": 15,
+      "deduped": 15
+    }
+  },
+  "cards": [
+    {
+      "id": "finance_0001",
+      "tab": "finance",
+      "publishedAt": "2026-11-12T09:38:32+09:00",
+      "source": "매일경제(증권)",
+      "title": "“AI주 더 갈까, 꺾일까”…‘몸값 1.4조 달러’ 앤트로픽 상장에 투심 달렸다",
+      "summary": [
+        "앤트로픽이 나스닥 상장을 앞두고 기업가치 최대 1조4000억달러를 제시했다.",
+        "공모액은 최대 644억달러로 역대급 규모다.",
+        "AI 거품론 속에서 투자심리가 시험대에 오르며 반도체·빅테크 영향도 주목된다."
+      ],
+      "whyItMatters": "거대한 공모규모와 기업가치가 글로벌 자본시장과 AI 섹터의 투자심리에 큰 파급효과를 미칠 수 있기 때문이다.",
+      "topics": [
+        "MarketInfra",
+        "Regulation"
+      ],
+      "status": "ONGOING",
+      "hash": "a29f300c172bff6f8936cadd151540f7b0751a5b4d2aef6e547a9e1b296c3e7c",
+      "url": "https://www.mk.co.kr/news/stock/12206044"
+    },
+    {
+      "id": "finance_0002",
+      "tab": "finance",
+      "publishedAt": "2026-11-12T09:14:47+09:00",
+      "source": "매일경제(증권)",
+      "title": "“사내 여성 임원과도 또 불륜”…엔비디아, 젠슨황 해임 준비",
+      "summary": [
+        "엔비디아 이사회가 젠슨 황 CEO에 대한 공식 해임 절차를 개시했습니다.",
+        "해임 배경에는 사내 여성 임원과의 불륜 의혹과 과거 칩의 중국 밀반입 및 스파이 연루 의혹 등이 거론됩니다.",
+        "이사회는 이전에 견뎠던 논란들보다 상황을 심각하게 판단해 리더십 교체에 착수했습니다."
+      ],
+      "whyItMatters": "엔비디아 경영진 불안은 글로벌 반도체·AI 시장과 투자자 신뢰에 중대한 파급효과를 미칠 수 있어 규제·보안 이슈로도 확산될 가능성이 큽니다.",
+      "topics": [
+        "Compliance",
+        "Security",
+        "Policy"
+      ],
+      "status": "ONGOING",
+      "hash": "030c58c93e1b6335de5b34ab61e871363293cc3608748c50714a594df2c9a652",
+      "url": "https://www.mk.co.kr/news/stock/12205989"
+    }
+  ]
+}

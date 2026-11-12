@@ -1,70 +1,70 @@
 {
   "range": {
-    "from": "2026-10-13",
-    "to": "2026-11-11"
+    "from": "2026-10-14",
+    "to": "2026-11-12"
   },
   "kpis": {
-    "collected": 54,
-    "deduped": 54,
+    "collected": 52,
+    "deduped": 52,
     "uniqueTopics": 7,
     "marketShare": {
       "Roadmap": 28,
-      "Competition": 23,
-      "Manufacturing": 20,
+      "Competition": 22,
+      "Manufacturing": 18,
+      "Investment": 16,
       "Demand": 15,
-      "Investment": 15,
-      "Other": 0
+      "Other": 1
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/13-10/19)",
+      "week": "Week 1 (10/14-10/20)",
       "topicCounts": {
-        "Roadmap": 12,
-        "Competition": 12,
-        "Manufacturing": 11,
-        "Demand": 5,
-        "Investment": 7
+        "Roadmap": 10,
+        "Competition": 9,
+        "Manufacturing": 8,
+        "Investment": 7,
+        "Demand": 5
       }
     },
     {
-      "week": "Week 2 (10/20-10/26)",
+      "week": "Week 2 (10/21-10/27)",
       "topicCounts": {
-        "Roadmap": 11,
-        "Competition": 10,
-        "Manufacturing": 5,
-        "Demand": 7,
-        "Investment": 0
+        "Roadmap": 8,
+        "Competition": 6,
+        "Manufacturing": 4,
+        "Investment": 0,
+        "Demand": 4
       }
     },
     {
-      "week": "Week 3 (10/27-11/02)",
+      "week": "Week 3 (10/28-11/03)",
       "topicCounts": {
-        "Roadmap": 5,
+        "Roadmap": 8,
         "Competition": 3,
-        "Manufacturing": 7,
-        "Demand": 4,
-        "Investment": 7
+        "Manufacturing": 8,
+        "Investment": 9,
+        "Demand": 5
       }
     },
     {
-      "week": "Week 4 (11/03-11/09)",
+      "week": "Week 4 (11/04-11/10)",
       "topicCounts": {
         "Roadmap": 5,
         "Competition": 3,
         "Manufacturing": 2,
-        "Demand": 1,
-        "Investment": 4
+        "Investment": 4,
+        "Demand": 1
       }
     },
     {
-      "week": "Week 5 (11/10-11/11)",
+      "week": "Week 5 (11/11-11/12)",
       "topicCounts": {
-        "Roadmap": 2,
-        "Competition": 4,
+        "Roadmap": 3,
+        "Competition": 2,
         "Manufacturing": 1,
-        "Demand": 3,
-        "Investment": 2
+        "Investment": 2,
+        "Demand": 0
       }
     }
   ],
@@ -72,22 +72,8 @@
     {
       "id": 1,
       "status": "ONGOING",
-      "title": "AI 메모리 기능안전·사이버보안 규제 대응 강화",
-      "summary": "SK hynix가 LPDDR5X에 대해 IEC 61508 SIL 3 기능안전 인증과 ISO/SAE 21434 기반 CSMS 인증을 획득하며, 차량·산업용·AI 서버용 메모리에서도 안전·보안 요건이 핵심 경쟁 요소로 부상하고 있다. 이는 향후 반도체 고객사의 인증 요구 수준을 높이고, 고부가가치 AI 메모리 시장에서 선제 대응한 업체에 수주·가격 협상력 우위를 줄 가능성이 크다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "SK hynix Newsroom",
-          "title": "‘Safeguarding against system failures and cyber threats’: SK hynix builds trust in physical AI memory",
-          "url": "https://news.skhynix.com/en/iec-61508-certification-2026/"
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "status": "ONGOING",
-      "title": "AI 메모리 수요 급증에 따른 삼성전자 실적 레버리지 확대",
-      "summary": "삼성전자가 3분기 약 800억 달러 영업이익을 기록할 정도로 AI 메모리 수요가 폭발하면서, HBM·DDR5 등 고대역폭·고용량 제품이 실적을 견인하고 있다. 이는 서버·클라우드 업체의 AI 인프라 투자 지속을 전제로 하며, 향후 가격 사이클, CAPEX 확대, 경쟁사 대비 제품 믹스 전략이 메모리 업황의 핵심 변수로 작용할 전망이다.",
+      "title": "AI 메모리 초호황 속 삼성전자 실적 급등",
+      "summary": "AI 서버용 고대역폭 메모리(HBM 등) 수요가 폭발하며 삼성전자의 분기 영업이익이 약 800억 달러 수준으로 급등했다. 이는 메모리 업황 반등과 AI 인프라 투자 확대가 맞물린 결과로, AI 특화 메모리·첨단 공정에 대한 설비 투자와 경쟁 심화가 계속될 전망이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -98,54 +84,58 @@
       ]
     },
     {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "SK하이닉스, 기능안전·사이버보안 인증으로 차량·산업용 메모리 신뢰도 강화",
+      "summary": "SK하이닉스가 LPDDR5X 제품에 대해 IEC 61508 SIL 3 기능안전 인증과 ISO/SAE 21434 기반 CSMS 인증을 확보했다. 차량용·산업용·엣지 AI 시스템에서 메모리 신뢰성과 보안이 핵심 경쟁요소로 부상하는 가운데, 고안전·고신뢰 메모리 시장 공략을 본격화하는 신호탄으로 해석된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "SK hynix Newsroom",
+          "title": "‘Safeguarding against system failures and cyber threats’: SK hynix builds trust in physical AI memory",
+          "url": "https://news.skhynix.com/en/iec-61508-certification-2026/"
+        }
+      ]
+    },
+    {
       "id": 3,
       "status": "ONGOING",
-      "title": "AI 데이터센터 전력 인프라 제약이 반도체 투자와 수요에 미치는 영향",
-      "summary": "AI 클러스터 확장 시 전력 그리드 용량 확보와 비용·리스크 분담 구조가 핵심 이슈로 부상하며, 미국·중국이 서로 다른 정책·투자 전략을 취하고 있다. 고성능 GPU·AI 메모리 수요는 여전히 강하지만, 전력 인프라 병목이 신규 데이터센터 인허가·착공을 지연시킬 경우 서버·메모리 출하 타이밍과 지역별 수요 분포에 변동성을 줄 수 있다.",
+      "title": "레벨 4 자율주행 상용화를 좌우할 반도체·안전·규제 이슈",
+      "summary": "전문가 패널 논의에서 레벨 4 자율주행 구현을 위해 고성능 SoC·센서·메모리 등 반도체 스택뿐 아니라, 기능안전 표준 준수, AI 검증, 규제 정비, 신뢰 확보가 핵심 이정표로 제시됐다. 이는 차량용 반도체 설계·패키징·테스트 전 영역에 대한 장기 로드맵 수립 필요성을 시사한다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "EE Times",
-          "title": "The AI Power Bill: Who Gets Grid Capacity, and Who Bears the Risk?",
-          "url": "https://www.eetimes.com/the-ai-power-bill-who-gets-grid-capacity-and-who-bears-the-risk/"
+          "title": "Automotive Tech Forum: Panel Discussion the Make-or-Break Milestones Toward Level 4 Autonomous Driving",
+          "url": "https://www.eetimes.com/automotive-tech-forum-panel-discussion-the-make-or-break-milestones-toward-level-4-autonomous-driving/"
         }
       ]
     },
     {
       "id": 4,
       "status": "SHIFTING",
-      "title": "양자 기술 상용화·보안 전환 가속이 반도체 로드맵에 주는 시사점",
-      "summary": "블록체인·공개키 암호가 2년 내 양자컴퓨터에 취약해질 수 있다는 경고와 함께, 캐나다 등 주요국이 양자 기술 상용화에 초점을 맞추고 있다. 이는 양자 보안용 암호칩, 양자센싱·통신용 디바이스, 양자컴퓨팅용 특화 반도체 수요의 중장기 성장을 의미하며, 메모리·로직 공정 로드맵과 IP·보안 솔루션 생태계 재편을 촉진할 수 있다.",
-      "articleCount": 2,
+      "title": "EV 전력전자용 GaN 반도체, 2026년 이후 핵심 파워 디바이스로 부상",
+      "summary": "자동차 기술 포럼에서 GaN 기반 전력 반도체가 전기차 파워트레인 효율 개선과 시스템 비용 절감의 핵심 기술로 지목됐다. 향후 2026년 이후를 겨냥한 GaN 신뢰성 검증, 레퍼런스 디자인, 패키징·양산 로드맵이 제시되며 실차 적용 확대가 가속될 것으로 전망된다.",
+      "articleCount": 1,
       "relatedArticles": [
         {
           "source": "EE Times",
-          "title": "The Countdown to Q-Day Has Begun",
-          "url": "https://www.eetimes.com/the-countdown-to-q-day-has-begun/"
-        },
-        {
-          "source": "EE Times",
-          "title": "Canada’s Quantum Sector Sets Sights on Commercialization",
-          "url": "https://www.eetimes.com/canadas-quantum-sector-sets-sights-on-commercialization/"
+          "title": "Automotive Tech Forum: GaN Building Blocks in EV’s and Their Design Roadmap in 2026 and Beyond",
+          "url": "https://www.eetimes.com/automotive-tech-forum-gan-building-blocks-in-evs-and-their-design-roadmap-in-2026-and-beyond/"
         }
       ]
     },
     {
       "id": 5,
       "status": "ONGOING",
-      "title": "차세대 무선·모바일 서비스 고도화가 시스템·메모리 반도체 수요를 견인",
-      "summary": "Bluetooth 고속 데이터 처리 기술과 삼성 갤러리의 클라우드 연동 확대 등으로 모바일·웨어러블·AR/VR 기기의 데이터 처리량과 저장 수요가 늘고 있다. 이는 애플리케이션 프로세서, 통신칩, 모바일 DRAM·낸드 등 시스템·메모리 반도체의 성능·용량 경쟁을 강화하고, 에너지 효율·연결 안정성을 고려한 설계 수요를 동반 확대시키는 추세다.",
-      "articleCount": 2,
+      "title": "AI 데이터센터 전력 인프라 경쟁, 반도체 투자·입지 전략에 직격탄",
+      "summary": "AI 클러스터 확장이 전력망 용량 확보와 비용·리스크 분담 문제에 막히며, 미국과 중국이 서로 다른 정책·투자 전략을 취하고 있다. 이는 대규모 AI GPU·메모리 수요를 노리는 파운드리·메모리 업체들의 팹 입지, 장기 투자 계획, 에너지 효율형 칩 설계 방향에 직접적인 영향을 미친다.",
+      "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "Samsung Newsroom",
-          "title": "Samsung Gallery Makes It Easier To Access Photos and Videos Across Galaxy Devices",
-          "url": "https://news.samsung.com/global/samsung-gallery-makes-it-easier-to-access-photos-and-videos-across-galaxy-devices"
-        },
-        {
           "source": "EE Times",
-          "title": "Bluetooth® High Data Throughput: a Foundation for Next Generation Wireless Experiences",
-          "url": "https://www.eetimes.com/bluetooth-high-data-throughput-a-foundation-for-next-generation-wireless-experiences/"
+          "title": "The AI Power Bill: Who Gets Grid Capacity, and Who Bears the Risk?",
+          "url": "https://www.eetimes.com/the-ai-power-bill-who-gets-grid-capacity-and-who-bears-the-risk/"
         }
       ]
     }

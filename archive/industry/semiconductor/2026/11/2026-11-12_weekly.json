@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-11-06",
+    "to": "2026-11-12"
+  },
+  "kpis": {
+    "collected": 9,
+    "deduped": 9,
+    "uniqueTopics": 6
+  },
+  "topTopics": [
+    {
+      "name": "Roadmap",
+      "count": 7
+    },
+    {
+      "name": "Competition",
+      "count": 7
+    },
+    {
+      "name": "Investment",
+      "count": 6
+    },
+    {
+      "name": "Policy",
+      "count": 5
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 4
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 1
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "레벨 4 자율주행 상용화를 향한 자동차용 반도체·AI 안전 로드맵",
+      "summary": "레벨 4 자율주행 달성을 위해 차량용 SoC, 센서, AI 가속기 등 자동차 반도체의 기능안전, 규제 준수, 신뢰성 확보가 핵심 이슈로 부상하고 있다. 패널은 안전 표준과 정책 환경에 맞춘 칩 아키텍처 설계, 검증·인증 비용 부담, 완성차-반도체-규제기관 간 협력 구조가 향후 2~3년 내 상용화를 좌우할 주요 과제로 보고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Automotive Tech Forum: Panel Discussion the Make-or-Break Milestones Toward Level 4 Autonomous Driving",
+          "url": "https://www.eetimes.com/automotive-tech-forum-panel-discussion-the-make-or-break-milestones-toward-level-4-autonomous-driving/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "SK하이닉스, AI 메모리용 기능안전·사이버보안 인증으로 차량·산업용 시장 공략 가속",
+      "summary": "SK하이닉스가 LPDDR5X에 대해 IEC 61508 SIL 3 기능안전과 ISO/SAE 21434 기반 CSMS 인증을 확보하며, 물리 AI 메모리를 자율주행·산업용·서버용 등 안전 규제가 엄격한 시장에 공급할 수 있는 기반을 마련했다. 이는 차량용 반도체와 데이터센터용 메모리에서 안전·보안이 설계 초기부터 필수 요건으로 반영되는 추세를 보여주며, 국내 메모리 업체의 고부가 AI·오토모티브 수요 선점 경쟁이 본격화되고 있음을 의미한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "SK hynix Newsroom",
+          "title": "‘Safeguarding against system failures and cyber threats’: SK hynix builds trust in physical AI memory",
+          "url": "https://news.skhynix.com/en/iec-61508-certification-2026/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "EV 전력전자에서 GaN 전력반도체 채택 확대와 2026년 이후 설계 로드맵",
+      "summary": "전기차 메인 인버터, 온보드 차저(OBC), DC-DC 컨버터 등에서 GaN 전력반도체가 Si 기반 디바이스를 대체하며 효율·전력밀도 향상과 시스템 비용 절감을 동시에 노린 설계가 확산되고 있다. 발표에 따르면 2026년 이후에는 신뢰성 검증 표준화, 패키징·열관리 혁신, 차량용 인증 강화가 진행되며, 완성차와 티어1이 레퍼런스 설계를 기반으로 GaN 채택을 가속하면서 관련 파운드리·IDM들의 투자 방향도 EV 중심으로 재편되는 흐름이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Automotive Tech Forum: GaN Building Blocks in EV’s and Their Design Roadmap in 2026 and Beyond",
+          "url": "https://www.eetimes.com/automotive-tech-forum-gan-building-blocks-in-evs-and-their-design-roadmap-in-2026-and-beyond/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "AI 반도체 클러스터 확산이 촉발한 전력망 용량 경쟁과 투자 리스크 분담",
+      "summary": "미국과 중국을 중심으로 GPU·가속기 기반 AI 데이터센터 증설이 급증하면서, 전력망 용량과 인프라 투자 비용이 AI 반도체 수요의 실질적인 병목으로 부상하고 있다. 각국 정부·전력사·클라우드 사업자는 장기 전력 공급계약, 송배전망 업그레이드, 재생에너지 연계 투자 등의 방식으로 리스크를 분담하고 있으며, 전력제약을 완화하기 위한 저전력 칩 설계와 고효율 패키징·전원 관리 반도체에 대한 수요도 함께 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "The AI Power Bill: Who Gets Grid Capacity, and Who Bears the Risk?",
+          "url": "https://www.eetimes.com/the-ai-power-bill-who-gets-grid-capacity-and-who-bears-the-risk/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "양자컴퓨팅 시대 대비, 암호·보안용 반도체의 PQC 전환 압력 확대",
+      "summary": "양자컴퓨터가 상용 수준에 근접하면서 블록체인·금융·통신 인프라에서 사용하는 기존 공개키 암호가 수년 내 취약해질 수 있다는 우려가 커지고 있다. 이에 따라 보안 칩, HSM, 신용카드·eSIM 등 암호·보안용 반도체는 후방 호환성과 연산 성능을 고려한 PQC(양자내성암호) 지원 설계가 시급해졌고, 신규 표준 채택 속도와 마이그레이션 비용이 향후 보안 반도체 시장의 핵심 변수가 되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "The Countdown to Q-Day Has Begun",
+          "url": "https://www.eetimes.com/the-countdown-to-q-day-has-begun/"
+        }
+      ]
+    }
+  ]
+}

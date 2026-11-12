@@ -1,132 +1,128 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "highlights": {
     "bullets": [
-      "핵심: 숨겨진 트리거로 활성화되는 백도어 Lazarus가 에이전트를 통해 악성 명령을 수행할 수 있음이 확인됐다.",
-      "핵심: 에이전트 기반 형식검증 도구가 복잡한 소프트웨어의 핵심 암호를 대규모로 자동 검증했다.",
-      "트렌드: 에이전트와 모델의 안전성 확보와 대규모 운영을 위한 인프라·툴링 개선이 공통으로 부각됐다."
+      "핵심: AlphaGenome 2는 DNA 서열과 변이가 특정 인간 세포와 질병에 미치는 영향을 예측하는 모델이다.",
+      "핵심: BotPsy는 서브-십억 매개변수의 에이전트형 언어모델로 온디바이스 개인 비서를 제공한다.",
+      "트렌드: 기사들은 AI 실용화를 위해 도구·인프라·제품 통합이 강조되는 점이 공통적이다."
     ],
     "topTopics": [
       "Product",
-      "Infra",
       "Tooling",
-      "Safety"
+      "Models",
+      "Business"
     ],
     "stats": {
-      "collected": 11,
-      "deduped": 11
+      "collected": 5,
+      "deduped": 5
     }
   },
   "cards": [
     {
       "id": "ai_0001",
       "tab": "ai",
-      "publishedAt": "2026-11-11T05:52:56+09:00",
-      "source": "Microsoft Research Blog",
-      "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+      "publishedAt": "2026-11-12T00:00:15+09:00",
+      "source": "Google DeepMind Blog",
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
       "summary": [
-        "마이크로소프트 연구진이 숨겨진 트리거로 활성화되는 백도어 기법 'Lazarus'를 발견해, 휴면 뉴런을 재프로그램해 에이전트에게 악성 명령을 수행시킬 수 있음을 보였습니다.",
-        "이 백도어는 겉으로는 정상적으로 보이는 모델 안에 잠복해 있다가 특정 패턴이 나타나면 툴·터미널 사용 권한을 남용해 코드 다운로드 및 실행 등을 조용히 수행할 수 있습니다.",
-        "연구는 고급 AI 에이전트의 공급망·배포 과정에서 모델 무결성과 백도어 탐지·방어 메커니즘을 강화해야 할 필요성을 강조합니다."
+        "AlphaGenome 2는 DNA 서열과 변이가 특정 인간 세포 유형과 질병에 미치는 영향을 예측하는 모델입니다.",
+        "대규모 유전체 및 세포 표현형 데이터를 통합해 세포별 유전자 발현과 기능 변화를 해석합니다.",
+        "임상 연구와 질병 메커니즘 규명, 약물 타깃 발굴에 직접적으로 기여할 가능성이 큽니다."
       ],
-      "whyItMatters": "에이전트형 모델에 은밀히 삽입될 수 있는 백도어 메커니즘을 구체적으로 제시해, AI 안전·보안 아키텍처 전반을 재설계해야 할 수준의 새로운 위협 벡터를 드러냈기 때문입니다.",
+      "whyItMatters": "세포 수준에서 유전체 변이의 기능적 영향을 정확히 예측하면 질병 이해와 맞춤의료·신약개발 속도를 크게 개선할 수 있기 때문입니다.",
       "topics": [
-        "Safety",
         "Research",
         "Models",
-        "Infra"
+        "Data"
       ],
       "status": "NEW",
-      "hash": "e1742b0ed40ea563844b0ca18817ebece785ca33ae02107ae324f99b35a7d306",
-      "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/"
+      "hash": "833534b672b8daa32acea1a5287042b791e6b060346eb3c7ba1affd8abb3fd3c",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
     },
     {
       "id": "ai_0002",
       "tab": "ai",
-      "publishedAt": "2026-11-11T01:00:00+09:00",
-      "source": "NVIDIA Developer Blog",
-      "title": "Running AV Reasoning Models Within Onboard Compute and Latency Limits",
+      "publishedAt": "2026-11-12T09:00:00+09:00",
+      "source": "OpenAI Blog",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
       "summary": [
-        "자율주행 AV 개발자는 온보드 컴퓨트와 엄격한 지연 시간 제약 내에서 동작하는 추론(reasoning) 모델이 필요하다.",
-        "대형 모델은 성능을 높이지만 온보드 자원 한계 때문에 양자화·프루닝·지식증류 등 모델 최적화와 하드웨어·소프트웨어 공조가 필수적이다.",
-        "실제 해법은 모델 압축, 하드웨어 가속기 활용, 런타임 스케줄링 및 센서/ECU 간 분할과 함께 안전성 검증을 병행하는 것이다."
+        "Gilbert + Tobin이 AI를 통해 법률 비즈니스 모델을 재구성하고 있다.",
+        "CEO Sam Nickless는 내부 도구 개발, 워크플로 자동화, 규제·윤리 문제 대응을 강조했다.",
+        "OpenAI와의 협업으로 생산성 향상과 비용 구조 변화를 모색하고 있다."
       ],
-      "whyItMatters": "실시간 안전 의사결정과 시스템 신뢰성에 직접적인 영향을 미치므로 온보드 연산·지연 제약을 맞추는 것이 필수적이다.",
+      "whyItMatters": "법률 서비스에 대한 AI의 전략적 통합은 비용·생산성·리스크 관리 측면에서 업계 전반의 비즈니스 모델 변화를 촉발할 수 있기 때문이다.",
       "topics": [
-        "Models",
-        "Inference",
-        "Infra",
-        "Safety",
-        "Tooling"
+        "Business",
+        "Product",
+        "Tooling",
+        "Safety"
       ],
-      "status": "ONGOING",
-      "hash": "fbdb5550e0a6a1d5aa6fbfd851de87d7d1a47ac6369b659f255d25e97b21d59e",
-      "url": "https://developer.nvidia.com/blog/running-av-reasoning-models-within-onboard-compute-and-latency-limits/"
+      "status": "SHIFTING",
+      "hash": "65b96c238445cdedc96b3e82ec1a6dd0c150d0317effbb199d997528a4ce6af2",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
     },
     {
       "id": "ai_0003",
       "tab": "ai",
-      "publishedAt": "2026-11-10T21:02:28+09:00",
-      "source": "Google DeepMind Blog",
-      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "summary": [
-        "AlphaProof Code 에이전트들이 Lean으로 300만 줄의 증명을 작성해 Signal의 핵심 암호를 형식검증했다.",
-        "DeepMind 블로그 발표에 따르면 이 기술은 복잡한 소프트웨어의 깊이 있는 형식검증을 자동화한다.",
-        "프로덕션 수준 암호 구현에 대한 대규모 검증은 보안과 신뢰성 향상에 직접적인 영향을 준다."
-      ],
-      "whyItMatters": "실제 서비스의 핵심 암호를 자동으로 대규모 검증한 성과는 소프트웨어 신뢰성·안전성 보장 방식에 근본적 변화를 일으킬 잠재력이 있기 때문입니다.",
-      "topics": [
-        "Safety",
-        "Research",
-        "Tooling",
-        "Models"
-      ],
-      "status": "NEW",
-      "hash": "f321c904268bcef29356d2d155bbcafcddbf602b9c293f4ee1395ec1aeca5a94",
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
-    },
-    {
-      "id": "ai_0004",
-      "tab": "ai",
-      "publishedAt": "2026-11-11T01:03:47+09:00",
-      "source": "Google DeepMind Blog",
-      "title": "Gemini 4 Carbon is now available",
-      "summary": [
-        "Gemini 4 Carbon이 공개되어 이용 가능해졌습니다.",
-        "Google DeepMind 블로그에서 공식 발표되었습니다.",
-        "새 모델은 제품·서비스와 인프라 및 추론 워크플로우에 즉각적 영향을 줄 가능성이 큽니다."
-      ],
-      "whyItMatters": "사용자 접근성 확대와 성능·비용 개선으로 기업과 개발자의 서비스 개선과 전환을 촉진할 수 있기 때문입니다.",
-      "topics": [
-        "Models",
-        "Product",
-        "Inference",
-        "Infra"
-      ],
-      "status": "NEW",
-      "hash": "6d8eb3bcd497222db1584f1aa2993835a109f04276471f75e3d9dbc836822f75",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
-    },
-    {
-      "id": "ai_0005",
-      "tab": "ai",
-      "publishedAt": "2026-11-11T00:00:00+09:00",
+      "publishedAt": "2026-11-12T02:00:00+09:00",
       "source": "NVIDIA Developer Blog",
-      "title": "Agent Substrate: Advancing Kubernetes for Agents at Scale",
+      "title": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory",
       "summary": [
-        "Agent Substrate는 에이전트를 대규모로 운영하기 위해 Kubernetes를 재구성한다.",
-        "AI 에이전트는 대부분 유휴 상태여서 기존 파드 기반 접근법이 자원과 비용 측면에서 비효율적이다.",
-        "이 접근법은 파드 관리, 자원 공유 및 응답 대기 시간 최적화를 통해 효율성과 확장성을 개선한다."
+        "NVIDIA DSX AI Factory의 런타임 AI 인벤토리를 통해 GPU 플랫폼 검증이 가능해졌다.",
+        "Dynamo, Kubeflow, Slurm 등 다양한 오케스트레이션에서 실제 실행되는 워크로드를 가시화한다.",
+        "리소스 활용 최적화와 규정 준수 확인으로 배포 안정성 및 운영 효율을 향상시킨다."
       ],
-      "whyItMatters": "대규모 에이전트 서비스의 비용·성능 문제를 해결해 실용적 배포와 확장을 가능하게 하기 때문이다.",
+      "whyItMatters": "실제 런타임 가시성은 GPU 호환성·성능 문제와 운영 리스크를 신속히 식별하고 개선하는 데 필수적이기 때문이다.",
       "topics": [
         "Infra",
         "Tooling",
         "Product"
       ],
       "status": "ONGOING",
-      "hash": "b140b110e619a8ce7d3739d16b81ed2101f5ac3a961fb009f0ca50886240cde3",
-      "url": "https://developer.nvidia.com/blog/agent-substrate-advancing-kubernetes-for-agents-at-scale/"
+      "hash": "964aed087794010a45466efcd5e9632050442b4ac44b4df59cf58c9c882b6804",
+      "url": "https://developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory/"
+    },
+    {
+      "id": "ai_0004",
+      "tab": "ai",
+      "publishedAt": "2026-11-11T14:01:16+09:00",
+      "source": "Hugging Face Blog",
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "summary": [
+        "BotPsy는 서브-십억 매개변수의 에이전트형 언어모델로 동작하는 온디바이스 개인 비서입니다.",
+        "기기 내 실행으로 개인정보 보호, 저지연, 저비용을 목표하며 툴 연동·계획 수립·상태 유지 등 에이전트 기능을 지원합니다.",
+        "모바일·임베디드 배포에 적합해 오프라인 작동과 개인화된 워크플로우 적용이 용이합니다."
+      ],
+      "whyItMatters": "온디바이스 에이전트형 LLM의 실용성을 입증해 프라이버시, 지연, 비용 측면에서 광범위한 배포 가능성을 열기 때문입니다.",
+      "topics": [
+        "Models",
+        "Inference",
+        "Tooling",
+        "Product"
+      ],
+      "status": "ONGOING",
+      "hash": "19b4fcb1faac9c9bdbccd358c8d8e12a9188d32981764b2e3beec26a5de09e66",
+      "url": "https://huggingface.co/blog/qvac/botpsy"
+    },
+    {
+      "id": "ai_0005",
+      "tab": "ai",
+      "publishedAt": "2026-11-11T17:00:00+09:00",
+      "source": "OpenAI Blog",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "summary": [
+        "오픈AI가 2만 명 이상 재향군인 및 전역 예정 군인에게 1년 무료 ChatGPT Plus를 제공했다.",
+        "수혜자들은 이력서 작성, 면접 연습 등 민간 경력 전환 준비에 ChatGPT Plus를 적극 활용하고 있다.",
+        "해당 프로그램은 제품 채택 확대와 브랜드의 사회적 책임 이미지를 동시에 강화한다."
+      ],
+      "whyItMatters": "대규모 무료 구독 제공은 제품 확산과 브랜드 이미지 제고, 사회적 지원 효과를 동시에 노린 전략적 조치다.",
+      "topics": [
+        "Product",
+        "Business"
+      ],
+      "status": "ONGOING",
+      "hash": "ac94b61a25ade5edbf713f0897cc9ad6ba8f24621b9aed0d512136947920d1f0",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans"
     }
   ]
 }

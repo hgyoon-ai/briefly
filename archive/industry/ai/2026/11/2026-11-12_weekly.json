@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-11-06",
+    "to": "2026-11-12"
+  },
+  "kpis": {
+    "collected": 14,
+    "deduped": 14,
+    "uniqueTopics": 10
+  },
+  "topTopics": [
+    {
+      "name": "Tooling",
+      "count": 9
+    },
+    {
+      "name": "Infra",
+      "count": 8
+    },
+    {
+      "name": "Product",
+      "count": 7
+    },
+    {
+      "name": "Models",
+      "count": 7
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Tooling",
+      "count": 2
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Infra",
+      "count": 1
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-11-06",
+      "dayOfWeek": "Fri",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Tooling",
+      "count": 1
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Infra",
+      "count": 2
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Product",
+      "count": 1
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Models",
+      "count": 1
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Tooling",
+      "count": 1
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Models",
+      "count": 1
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Tooling",
+      "count": 3
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Infra",
+      "count": 4
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Product",
+      "count": 4
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Models",
+      "count": 4
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Tooling",
+      "count": 2
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Infra",
+      "count": 1
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Product",
+      "count": 2
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Models",
+      "count": 1
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "AlphaGenome 2로 질병 연관 유전자 기능 예측 고도화",
+      "summary": "Google DeepMind의 AlphaGenome 2는 대규모 유전체·세포 표현형 데이터를 통합해, 특정 DNA 서열과 변이가 세포 유형별 유전자 발현과 기능에 어떤 영향을 주는지 예측하는 모델이다. 질병 메커니즘 이해와 타깃 발굴을 정밀화해 AI 기반 정밀의학 연구 흐름을 가속하는 것이 핵심 이슈다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Google DeepMind Blog",
+          "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+          "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "Lazarus 백도어: 휴면 뉴런을 악용한 에이전트형 AI 보안 위협",
+      "summary": "Microsoft Research가 제시한 'Lazarus' 기법은 모델 내부의 휴면 뉴런을 재프로그램해, 특정 트리거가 주어졌을 때만 악성 행위를 수행하도록 하는 백도어 공격을 보여준다. 겉으로는 정상적인 에이전트가 숨겨진 패턴을 만나면 툴·터미널 권한을 남용해 코드 다운로드·실행 등 보이지 않는 공격을 수행할 수 있어, 에이전트형 AI 안전·검증 프레임워크 재정비가 요구된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Microsoft Research Blog",
+          "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+          "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "GPU 인프라 운영 가시성 강화: NVIDIA DSX AI Factory 런타임 인벤토리",
+      "summary": "NVIDIA DSX AI Factory는 런타임 AI 인벤토리를 통해 Dynamo, Kubeflow, Slurm 등 다양한 오케스트레이터에서 실제 실행 중인 워크로드를 통합 가시화한다. 이를 통해 GPU 리소스 사용 현황과 플랫폼 안정성을 검증하고, 대규모 AI 인프라 운영·비용 최적화·컴플라이언스 대응을 체계화하는 방향으로 진화하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory",
+          "url": "https://developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "Blackwell 기반 FLUX 3 최적화로 실시간 수준 이미지 생성 가속",
+      "summary": "NVIDIA는 Blackwell GPU에서 FLUX 3 Image Klein 확산 모델의 추론을 최적화해 지연 시간을 크게 줄이는 방법을 공개했다. 디자인 도구, 이미지 편집기, 비주얼 제작 워크플로 등에서 사실상 실시간에 가까운 고품질 이미지 생성을 목표로 하며, 차세대 생성형 비주얼 애플리케이션의 상용화를 뒷받침하는 성능 개선 이슈다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
+          "url": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "RL 포스트트레이닝 효율화: Reshard Collective로 가중치 리핏 가속",
+      "summary": "NVIDIA의 Reshard Collective는 강화학습(RL) 포스트트레이닝에서 추론으로 생성되는 트레이젝토리와 병렬로 가중치 리핏 연산을 빠르게 수행하도록 돕는 통신·분산 연산 기술이다. 학습·추론 병목을 줄여 대규모 RL 기반 정책·에이전트 업데이트를 더 자주, 실시간에 가깝게 수행하려는 시도가 이어지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Accelerating Reinforcement Learning Weight Refit with the Reshard Collective",
+          "url": "https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective/"
+        }
+      ]
+    }
+  ]
+}
