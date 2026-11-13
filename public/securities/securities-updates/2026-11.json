@@ -2,6 +2,29 @@
   "month": "2026-11",
   "events": [
     {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202611130957550323",
+      "date": "2026-11-13",
+      "company": "NH투자증권",
+      "title": "두나무 FDI팀 김대현 연구원, 사이버치안대상 경찰청장 감사장 수상",
+      "oneLiner": "가상자산 거래 추적 기술을 수사기관에 제공한 사례로 경찰청 감사장을 수상했으며, 수사기관과의 협력·기술공유 관련 사례다.",
+      "type": "제휴",
+      "areas": [
+        "AML"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "두나무 FDI팀 김대현 연구원, 사이버치안대상 경찰청장 감사장 수상",
+          "url": "https://www.fnnews.com/news/202611130957550323"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-13"
+    },
+    {
       "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12205981",
       "date": "2026-11-12",
       "company": "미래에셋증권",
@@ -22,7 +45,7 @@
       ],
       "tags": [],
       "confidence": 0.8,
-      "updatedAt": "2026-11-12"
+      "updatedAt": "2026-11-13"
     },
     {
       "id": "news:미래에셋증권:https://www.fnnews.com/news/202611111448359712",
@@ -94,6 +117,52 @@
       "updatedAt": "2026-11-12"
     },
     {
+      "id": "60ed7df9cb3ea2f7f2458c72cf603d817a63407d",
+      "date": "2026-11-12",
+      "company": "삼성증권",
+      "title": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "oneLiner": "삼성증권의 연결 재무제표 기준 영업(잠정)실적 공시로 재무상태 및 실적 변동에 대한 공식 공시이다.",
+      "type": "규제",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112800651"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-11-13"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202611121110504739",
+      "date": "2026-11-12",
+      "company": "KB증권",
+      "title": "알뜰폰 8개사, 주민번호·카드번호 암호화않고 보관...과태료 제재",
+      "oneLiner": "알뜰폰 사업자들의 개인정보보호법 위반에 따른 과징금·과태료 부과 관련 규제 집행 보도로, 개인정보 관리·컴플라이언스 리스크와 관련이 깊다.",
+      "type": "규제",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "알뜰폰 8개사, 주민번호·카드번호 암호화않고 보관...과태료 제재",
+          "url": "https://www.fnnews.com/news/202611121110504739"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-11-13"
+    },
+    {
       "id": "news:하나증권:https://www.mk.co.kr/news/stock/12204912",
       "date": "2026-11-11",
       "company": "하나증권",
@@ -161,7 +230,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-11-12"
+      "updatedAt": "2026-11-13"
     },
     {
       "id": "e1a8635dffc29e09d3f940b693749f771e622814",
@@ -184,7 +253,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-11-12"
+      "updatedAt": "2026-11-13"
     },
     {
       "id": "news:미래에셋증권:https://www.fnnews.com/news/202611111322111132",

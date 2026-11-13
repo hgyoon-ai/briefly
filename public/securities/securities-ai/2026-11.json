@@ -2,6 +2,103 @@
   "month": "2026-11",
   "events": [
     {
+      "id": "news:키움증권:https://www.mk.co.kr/news/stock/12207628",
+      "date": "2026-11-13",
+      "company": "키움증권",
+      "title": "증권가 ‘4천피’ 경고 나왔다…“젠슨 황 사임, 반도체 불확실성 커져” [오늘 나온 보고서]",
+      "oneLiner": "키움증권 리포트 요약으로 엔비디아 등 반도체·AI 관련 수요 전망과 불확실성을 경고하며 시장 리스크를 강조한 기사입니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치",
+        "리스크",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "증권가 ‘4천피’ 경고 나왔다…“젠슨 황 사임, 반도체 불확실성 커져” [오늘 나온 보고서]",
+          "url": "https://www.mk.co.kr/news/stock/12207628"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-13"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202611130843438987",
+      "date": "2026-11-13",
+      "company": "하나증권",
+      "title": "네이버 목표주가 낮췄지만...\"AI, 믿음으로 간다\"",
+      "oneLiner": "하나증권의 기업 리포트로 네이버 목표주가를 하향했지만 AI 신사업 전망은 긍정적으로 유지한다는 내용의 리서치입니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "네이버 목표주가 낮췄지만...\"AI, 믿음으로 간다\"",
+          "url": "https://www.fnnews.com/news/202611130843438987"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-13"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202611130911323021",
+      "date": "2026-11-13",
+      "company": "한국투자증권",
+      "title": "연금도 AI에 분산투자…한투운용, AI 밸류체인 TDF 출시",
+      "oneLiner": "한국투자신탁운용이 글로벌 AI 밸류체인에 분산투자하는 타깃데이트펀드(TDF)를 출시한 상품 출시 기사입니다.",
+      "type": "출시",
+      "areas": [
+        "WM",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "연금도 AI에 분산투자…한투운용, AI 밸류체인 TDF 출시",
+          "url": "https://www.fnnews.com/news/202611130911323021"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-11-13"
+    },
+    {
+      "id": "news:토스증권:https://www.mk.co.kr/news/stock/12206352",
+      "date": "2026-11-12",
+      "company": "토스증권",
+      "title": "“AI 돈맥 어디로 흐르나”…5개국 발로 뛴 토스증권, 투자 지도 그렸다",
+      "oneLiner": "토스증권의 글로벌 현장 조사 기반 AI 산업·국가별 투자 지도와 ETF 전략을 제시한 리서치성 기사입니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“AI 돈맥 어디로 흐르나”…5개국 발로 뛴 토스증권, 투자 지도 그렸다",
+          "url": "https://www.mk.co.kr/news/stock/12206352"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-13"
+    },
+    {
       "id": "news:NH투자증권:https://www.fnnews.com/news/202611110812298706",
       "date": "2026-11-11",
       "company": "NH투자증권",
