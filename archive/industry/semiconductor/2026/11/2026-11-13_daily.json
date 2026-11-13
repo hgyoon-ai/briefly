@@ -1,0 +1,105 @@
+{
+  "date": "2026-11-13",
+  "highlights": {
+    "bullets": [
+      "핵심: 엔비디아 최고경영자가 두 번째 불륜 스캔들로 사임했다.",
+      "핵심: 삼성전자가 지능형 안경을 12월 10일 미국과 한국에 출시한다고 발표했다.",
+      "트렌드: 오늘 기사들은 반도체 기반의 AI·센서 통합 제품과 전략 변화가 부각된다는 공통점이 있다."
+    ],
+    "topTopics": [
+      "Roadmap",
+      "Competition",
+      "Manufacturing",
+      "Investment"
+    ],
+    "stats": {
+      "collected": 7,
+      "deduped": 7
+    }
+  },
+  "cards": [
+    {
+      "id": "semiconductor_0001",
+      "tab": "semiconductor",
+      "publishedAt": "2026-11-13T05:48:35+09:00",
+      "source": "EE Times",
+      "title": "Jensen Resigns Over Second Affair",
+      "summary": [
+        "엔비디아 CEO가 두 번째 불륜 스캔들로 사임했다.",
+        "이사회가 새 리더를 찾기 위해 후임자 물색에 들어갔다.",
+        "경영 불확실성으로 회사 전략·투자·주가에 즉각적 영향이 예상된다."
+      ],
+      "whyItMatters": "글로벌 반도체·AI 선도기업의 최고경영자 교체는 전략, 투자심리, 경쟁 구도에 중대한 영향을 미치기 때문이다.",
+      "topics": [
+        "Investment",
+        "Competition",
+        "Roadmap"
+      ],
+      "status": "ONGOING",
+      "hash": "73636fc6be111dbe841b29d6741a861b21487450a2b32c36b12ec22a8898ddaa",
+      "url": "https://www.eetimes.com/jensen-resigns-over-second-affair/"
+    },
+    {
+      "id": "semiconductor_0002",
+      "tab": "semiconductor",
+      "publishedAt": "2026-11-13T08:00:00+09:00",
+      "source": "Samsung Newsroom",
+      "title": "Samsung Announces December Release for Intelligent Eyewear, Bringing a Smarter Way To See the World",
+      "summary": [
+        "삼성전자가 지능형 안경 풀 라인업을 12월 10일 미국과 한국에 출시한다고 발표했습니다.",
+        "제품은 직관적 핸즈프리 AI 보조 기능과 30가지 디자인을 결합해 모바일 엔지니어링을 활용합니다.",
+        "오늘부터 예약 주문이 시작되어 소비자 접근성과 시장 진입을 빠르게 추진합니다."
+      ],
+      "whyItMatters": "이번 출시가 웨어러블 AI 시장 경쟁과 삼성의 하드웨어·소프트웨어 통합 역량을 시험하는 중요한 기회이기 때문입니다.",
+      "topics": [
+        "Roadmap",
+        "Competition",
+        "Manufacturing"
+      ],
+      "status": "NEW",
+      "hash": "3f8e5d7449817e2a9dd5d8bbb1f9297e32f65d30e6933a1d2d00bd902a650b06",
+      "url": "https://news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world"
+    },
+    {
+      "id": "semiconductor_0003",
+      "tab": "semiconductor",
+      "publishedAt": "2026-11-12T22:00:00+09:00",
+      "source": "EE Times",
+      "title": "Can Machines See a Sick Plant Before a Farmer Can?",
+      "summary": [
+        "초분광 이미징으로 콩 병해 조기 탐지가 가능함을 보여줌.",
+        "반도체 기술 발전이 스펙트럴 센서의 비용을 낮춰 농민용 보급을 촉진할 전망.",
+        "정밀농업과 현장 모니터링 방식에 실질적 변화를 가져올 수 있음."
+      ],
+      "whyItMatters": "고감도·저비용 스펙트럴 센서는 농작물 손실 감소와 생산성 향상으로 이어져 농업 전반에 큰 영향을 미치기 때문이다.",
+      "topics": [
+        "Manufacturing",
+        "Demand",
+        "Roadmap"
+      ],
+      "status": "ONGOING",
+      "hash": "bc486ec69bb49f79eaa2606fe84daa1736fccd9f3eb0f9e22d27e6b9c63c151d",
+      "url": "https://www.eetimes.com/can-machines-see-a-sick-plant-before-a-farmer-can/"
+    },
+    {
+      "id": "semiconductor_0004",
+      "tab": "semiconductor",
+      "publishedAt": "2026-11-12T17:00:00+09:00",
+      "source": "Samsung Newsroom",
+      "title": "Finding the Perfect TV: A Guide to Samsung TVs",
+      "summary": [
+        "삼성 TV 구매 가이드는 화면 크기·화질·밝기·시청 환경·콘텐츠 선호 등 장기 사용을 고려한 핵심 요소를 설명합니다.",
+        "OLED, QLED, Neo QLED에서 최신 Micro RGB까지 다양한 디스플레이 기술 발전을 소개합니다.",
+        "AI가 화질·사운드 최적화를 넘어 사용자 경험을 지원하는 기능으로 확장되고 있음을 강조합니다."
+      ],
+      "whyItMatters": "기술 진화와 AI 기능 확장은 소비자 선택과 제품 포지셔닝에 직접적인 영향을 미치기 때문입니다.",
+      "topics": [
+        "Roadmap",
+        "Competition"
+      ],
+      "status": "ONGOING",
+      "hash": "480450c61a30f0f17ab72cb3ea346e9ade43f968acf4ed9a590341f77eaf687a",
+      "url": "https://news.samsung.com/global/finding-the-perfect-tv-a-guide-to-samsung-tvs"
+    }
+  ]
+}

@@ -1,85 +1,105 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "highlights": {
     "bullets": [
-      "핵심: 패널이 레벨4 자율주행의 안전, AI, 규제, 신뢰 문제를 논의했다.",
-      "핵심: 발표에서 EV 전력전자용 GaN의 효율성과 신뢰성 검증 로드맵을 제시했다.",
-      "트렌드: 세 보도 모두 기술 로드맵과 상용화 준비에 초점을 뒀다."
+      "핵심: 엔비디아 최고경영자가 두 번째 불륜 스캔들로 사임했다.",
+      "핵심: 삼성전자가 지능형 안경을 12월 10일 미국과 한국에 출시한다고 발표했다.",
+      "트렌드: 오늘 기사들은 반도체 기반의 AI·센서 통합 제품과 전략 변화가 부각된다는 공통점이 있다."
     ],
     "topTopics": [
       "Roadmap",
       "Competition",
       "Manufacturing",
-      "Policy"
+      "Investment"
     ],
     "stats": {
-      "collected": 11,
-      "deduped": 11
+      "collected": 7,
+      "deduped": 7
     }
   },
   "cards": [
     {
       "id": "semiconductor_0001",
       "tab": "semiconductor",
-      "publishedAt": "2026-11-12T08:39:41+09:00",
+      "publishedAt": "2026-11-13T05:48:35+09:00",
       "source": "EE Times",
-      "title": "Automotive Tech Forum: Panel Discussion the Make-or-Break Milestones Toward Level 4 Autonomous Driving",
+      "title": "Jensen Resigns Over Second Affair",
       "summary": [
-        "전문가들이 레벨 4 자율주행을 위한 안전, AI, 규제, 신뢰 문제를 논의했다.",
-        "패널은 상용화로 가는 핵심 이정표와 기술·정책적 과제를 강조했다.",
-        "규제 조화와 신뢰 구축이 도입 속도와 경쟁 구도를 좌우할 것이라고 전망했다."
+        "엔비디아 CEO가 두 번째 불륜 스캔들로 사임했다.",
+        "이사회가 새 리더를 찾기 위해 후임자 물색에 들어갔다.",
+        "경영 불확실성으로 회사 전략·투자·주가에 즉각적 영향이 예상된다."
       ],
-      "whyItMatters": "이 논의는 상용화 시기와 산업 경쟁력, 규제 방향에 직접적인 영향을 미치기 때문에 중요하다.",
+      "whyItMatters": "글로벌 반도체·AI 선도기업의 최고경영자 교체는 전략, 투자심리, 경쟁 구도에 중대한 영향을 미치기 때문이다.",
       "topics": [
-        "Roadmap",
-        "Policy",
-        "Competition"
+        "Investment",
+        "Competition",
+        "Roadmap"
       ],
       "status": "ONGOING",
-      "hash": "3ea07f5e21fe1eb3b19254740df84b3dd3f186caa95d9735467631be0a2d6352",
-      "url": "https://www.eetimes.com/automotive-tech-forum-panel-discussion-the-make-or-break-milestones-toward-level-4-autonomous-driving/"
+      "hash": "73636fc6be111dbe841b29d6741a861b21487450a2b32c36b12ec22a8898ddaa",
+      "url": "https://www.eetimes.com/jensen-resigns-over-second-affair/"
     },
     {
       "id": "semiconductor_0002",
       "tab": "semiconductor",
-      "publishedAt": "2026-11-12T08:22:01+09:00",
-      "source": "EE Times",
-      "title": "Automotive Tech Forum: GaN Building Blocks in EV’s and Their Design Roadmap in 2026 and Beyond",
+      "publishedAt": "2026-11-13T08:00:00+09:00",
+      "source": "Samsung Newsroom",
+      "title": "Samsung Announces December Release for Intelligent Eyewear, Bringing a Smarter Way To See the World",
       "summary": [
-        "핵심 발표는 EV 전력전자에서 GaN이 높은 효율과 시스템 비용 절감의 핵심이라고 강조했다.",
-        "발표는 GaN 신뢰성 검증과 실무용 빌딩블록 및 2026년 이후 설계 로드맵을 제시했다.",
-        "이는 전력시스템 설계와 공급망 재편을 촉발해 업계 전환을 가속할 전망이다."
+        "삼성전자가 지능형 안경 풀 라인업을 12월 10일 미국과 한국에 출시한다고 발표했습니다.",
+        "제품은 직관적 핸즈프리 AI 보조 기능과 30가지 디자인을 결합해 모바일 엔지니어링을 활용합니다.",
+        "오늘부터 예약 주문이 시작되어 소비자 접근성과 시장 진입을 빠르게 추진합니다."
       ],
-      "whyItMatters": "GaN이 효율·비용·신뢰성 측면에서 EV 전력전자 설계의 전환을 가능하게 해 산업적 영향이 크기 때문입니다.",
+      "whyItMatters": "이번 출시가 웨어러블 AI 시장 경쟁과 삼성의 하드웨어·소프트웨어 통합 역량을 시험하는 중요한 기회이기 때문입니다.",
       "topics": [
         "Roadmap",
-        "Manufacturing",
-        "Investment"
+        "Competition",
+        "Manufacturing"
       ],
-      "status": "SHIFTING",
-      "hash": "a3e69beb1214f0b2752484054503b154177d60110f6f399a235cfb48f60fa0b5",
-      "url": "https://www.eetimes.com/automotive-tech-forum-gan-building-blocks-in-evs-and-their-design-roadmap-in-2026-and-beyond/"
+      "status": "NEW",
+      "hash": "3f8e5d7449817e2a9dd5d8bbb1f9297e32f65d30e6933a1d2d00bd902a650b06",
+      "url": "https://news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world"
     },
     {
       "id": "semiconductor_0003",
       "tab": "semiconductor",
-      "publishedAt": "2026-11-11T23:00:00+09:00",
-      "source": "Samsung Newsroom",
-      "title": "Samsung and IOC Back Young Innovators at Africa’s First Olympic Games",
+      "publishedAt": "2026-11-12T22:00:00+09:00",
+      "source": "EE Times",
+      "title": "Can Machines See a Sick Plant Before a Farmer Can?",
       "summary": [
-        "삼성전자와 IOC가 다카르 2026 청소년 올림픽에서 삼성 Solve for Tomorrow 프로그램의 젊은 혁신가들을 조명했습니다.",
-        "참가자들은 지역사회 문제 해결을 위한 기술 기반 솔루션을 공유하고 시연하고 있습니다.",
-        "2010년 출범한 SFT는 지속적으로 청년의 사회적 혁신과 역량 강화를 지원해왔습니다."
+        "초분광 이미징으로 콩 병해 조기 탐지가 가능함을 보여줌.",
+        "반도체 기술 발전이 스펙트럴 센서의 비용을 낮춰 농민용 보급을 촉진할 전망.",
+        "정밀농업과 현장 모니터링 방식에 실질적 변화를 가져올 수 있음."
       ],
-      "whyItMatters": "이는 삼성의 글로벌 사회공헌 및 인재육성 전략을 드러내며 아프리카 최초 올림픽에서 기술 기반 사회문제 해결 능력을 부각시키기 때문입니다.",
+      "whyItMatters": "고감도·저비용 스펙트럴 센서는 농작물 손실 감소와 생산성 향상으로 이어져 농업 전반에 큰 영향을 미치기 때문이다.",
       "topics": [
-        "Investment",
+        "Manufacturing",
+        "Demand",
+        "Roadmap"
+      ],
+      "status": "ONGOING",
+      "hash": "bc486ec69bb49f79eaa2606fe84daa1736fccd9f3eb0f9e22d27e6b9c63c151d",
+      "url": "https://www.eetimes.com/can-machines-see-a-sick-plant-before-a-farmer-can/"
+    },
+    {
+      "id": "semiconductor_0004",
+      "tab": "semiconductor",
+      "publishedAt": "2026-11-12T17:00:00+09:00",
+      "source": "Samsung Newsroom",
+      "title": "Finding the Perfect TV: A Guide to Samsung TVs",
+      "summary": [
+        "삼성 TV 구매 가이드는 화면 크기·화질·밝기·시청 환경·콘텐츠 선호 등 장기 사용을 고려한 핵심 요소를 설명합니다.",
+        "OLED, QLED, Neo QLED에서 최신 Micro RGB까지 다양한 디스플레이 기술 발전을 소개합니다.",
+        "AI가 화질·사운드 최적화를 넘어 사용자 경험을 지원하는 기능으로 확장되고 있음을 강조합니다."
+      ],
+      "whyItMatters": "기술 진화와 AI 기능 확장은 소비자 선택과 제품 포지셔닝에 직접적인 영향을 미치기 때문입니다.",
+      "topics": [
         "Roadmap",
         "Competition"
       ],
       "status": "ONGOING",
-      "hash": "47ad6f9a6cbbd0d6ced7b8120a562ba39d9f29f55e88ef75f6b54c8867a9e4fc",
-      "url": "https://news.samsung.com/global/samsung-and-ioc-back-young-innovators-at-africas-first-olympic-games"
+      "hash": "480450c61a30f0f17ab72cb3ea346e9ade43f968acf4ed9a590341f77eaf687a",
+      "url": "https://news.samsung.com/global/finding-the-perfect-tv-a-guide-to-samsung-tvs"
     }
   ]
 }

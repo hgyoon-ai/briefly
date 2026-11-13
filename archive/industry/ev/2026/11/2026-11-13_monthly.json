@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-10-15",
+    "to": "2026-11-13"
+  },
+  "kpis": {
+    "collected": 42,
+    "deduped": 42,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 25,
+      "Competition": 25,
+      "Investment": 20,
+      "Demand": 20,
+      "Policy": 10,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/15-10/21)",
+      "topicCounts": {
+        "Roadmap": 8,
+        "Competition": 11,
+        "Investment": 3,
+        "Demand": 9,
+        "Policy": 4
+      }
+    },
+    {
+      "week": "Week 2 (10/22-10/28)",
+      "topicCounts": {
+        "Roadmap": 7,
+        "Competition": 5,
+        "Investment": 7,
+        "Demand": 4,
+        "Policy": 2
+      }
+    },
+    {
+      "week": "Week 3 (10/29-11/04)",
+      "topicCounts": {
+        "Roadmap": 3,
+        "Competition": 2,
+        "Investment": 1,
+        "Demand": 4,
+        "Policy": 1
+      }
+    },
+    {
+      "week": "Week 4 (11/05-11/11)",
+      "topicCounts": {
+        "Roadmap": 8,
+        "Competition": 8,
+        "Investment": 6,
+        "Demand": 6,
+        "Policy": 2
+      }
+    },
+    {
+      "week": "Week 5 (11/12-11/13)",
+      "topicCounts": {
+        "Roadmap": 2,
+        "Competition": 1,
+        "Investment": 2,
+        "Demand": 1,
+        "Policy": 2
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "머스크의 테슬라-스페이스X 초대형 합병 가능성 부각",
+      "summary": "일론 머스크가 지배하는 테슬라와 스페이스X가 12월 약 1.5조 달러 규모의 합병을 발표할 수 있다는 보도가 나오며, EV·우주·AI 사업을 아우르는 초대형 지배구조 재편 이슈가 부상하고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "SpaceX could announce $1.5 trillion Tesla merger in December: report",
+          "url": "https://electrek.co/2026/11/12/spacex-tesla-merger-announcement-december-report/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "캐나다, 대규모 예산으로 전국 EV 충전 인프라 확충 가속",
+      "summary": "캐나다 정부가 예산안에 55,000기 이상 신규 전기차 충전기 구축과 전력망 현대화를 포함한 40억 캐나다달러 이상 투자를 담으면서, 북미 EV 충전 인프라 확대와 장거리 주행 신뢰도 제고가 본격화되고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Latest Canadian budget packs funding for 55,000 new EV chargers",
+          "url": "https://electrek.co/2026/11/12/latest-canadian-budget-packs-funding-for-55000-new-ev-chargers/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "유럽 중심 글로벌 EV 수요 성장세 지속",
+      "summary": "10월 글로벌 전기차 판매가 전년 대비 8% 증가하고 특히 유럽 BEV 판매가 49% 급증하면서, 고금리와 보조금 축소 우려에도 유럽을 축으로 한 EV 수요 성장 추세가 이어지고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Europe’s electric car sales jump 49% as global EV sales grow",
+          "url": "https://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "퀀텀스케이프, 1기압·1,000사이클 성능의 신규 전고체 배터리 플랫폼 공개",
+      "summary": "퀀텀스케이프가 황화물 고체전해질을 적용한 ‘오스프리’ 전고체 셀을 공개하며 1기압 조건에서 80% 용량까지 1,000회 충·방전 성능을 입증, 고압 클램핑 이슈 완화와 전고체 상용화 가능성을 높이고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "QuantumScape unveils Osprey all-solid-state cell: 1,000 cycles at 1 atm",
+          "url": "https://electrek.co/2026/11/11/quantumscape-osprey-all-solid-state-sulfide-battery/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "루시드, 공급망·재고 관리 문제로 브랜드 신뢰도 시험대",
+      "summary": "루시드 CEO가 재고 차량 위치를 제때 파악하지 못해 인도 지연과 주문 취소가 발생했다고 인정하면서, 프리미엄 EV 스타트업의 운영 역량·딜리버리 체계 개선이 긴급 과제로 부상했습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Lucid CEO admits it ‘did not even know where cars were’ and lost orders",
+          "url": "https://electrek.co/2026/11/10/lucid-ceo-did-not-know-where-cars-were-lost-orders/"
+        }
+      ]
+    }
+  ]
+}

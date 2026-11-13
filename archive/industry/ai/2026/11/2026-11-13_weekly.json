@@ -1,0 +1,276 @@
+{
+  "range": {
+    "from": "2026-11-07",
+    "to": "2026-11-13"
+  },
+  "kpis": {
+    "collected": 15,
+    "deduped": 15,
+    "uniqueTopics": 9
+  },
+  "topTopics": [
+    {
+      "name": "Models",
+      "count": 10
+    },
+    {
+      "name": "Tooling",
+      "count": 10
+    },
+    {
+      "name": "Product",
+      "count": 10
+    },
+    {
+      "name": "Infra",
+      "count": 6
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Models",
+      "count": 1
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Tooling",
+      "count": 1
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Models",
+      "count": 4
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Tooling",
+      "count": 3
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Product",
+      "count": 4
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Infra",
+      "count": 4
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Models",
+      "count": 2
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Tooling",
+      "count": 3
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Product",
+      "count": 3
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Infra",
+      "count": 1
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Models",
+      "count": 3
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Tooling",
+      "count": 3
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Product",
+      "count": 3
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Infra",
+      "count": 1
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "AI 연구 성과 가속: 범용 번역·수학 난제·코딩 에이전트 혁신",
+      "summary": "마이크로소프트 리서치가 AI 기반 범용 번역, 31년 된 수학 난제 해결의 돌파구, 그리고 코딩 에이전트의 속도·효율 개선을 공개했다. 기초 연구부터 개발 생산성 향상까지 AI 연구의 스펙트럼이 빠르게 확장되고 있음을 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Microsoft Research Blog",
+          "title": "Microsoft Research Focus – Edition #98",
+          "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "AI 코딩·제품 에이전트의 실전 도입 확산",
+      "summary": "Amplitude와 Gondola 사례에서 보이듯, 기업들은 LLM 기반 코딩·제품 에이전트를 활용해 기능 아이디어 도출부터 코드 작성·배포까지의 사이클을 1~2일 수준으로 단축하고 있다. 이는 엔지니어 생산성 50% 이상 향상과 수익 증대로 이어지며, 소프트웨어 개발·제품 운영 방식의 구조적 변화를 이끌고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+          "url": "https://openai.com/business/customer-stories/amplitude"
+        },
+        {
+          "source": "OpenAI Blog",
+          "title": "Gondola doubles revenue as its team builds more with Codex",
+          "url": "https://openai.com/business/customer-stories/gondola"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "LLM 특화 마크업·툴링으로 구조화된 지시와 에이전트 제어 강화",
+      "summary": "Hugging Face가 IBM Granite 4.1 3B/8B 모델에 LLM 특화 마크업 언어 LLMON을 통합했다. 이를 통해 구조화된 지시, 툴 호출, 워크플로 정의가 쉬워지면서 LLM을 에이전트·툴 허브로 사용하는 패턴이 표준화되는 흐름이 강해지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+          "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "GPU·클러스터 인프라의 AI 워크로드 가시화와 검증 고도화",
+      "summary": "NVIDIA DSX AI Factory는 런타임 AI 인벤토리를 통해 실제 실행 중인 AI 워크로드를 Dynamo, Kubeflow, Slurm 등 다양한 오케스트레이션 환경에서 추적·검증할 수 있게 한다. 이는 대규모 GPU 인프라 운영의 투명성과 리소스 효율, 규제 대응력을 함께 끌어올리는 방향의 인프라 트렌드를 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory",
+          "url": "https://developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "에이전트 백도어와 휴면 뉴런 악용: AI 보안 위협의 정교화",
+      "summary": "마이크로소프트 연구진은 겉으로 정상적으로 보이는 모델 내부의 휴면 뉴런을 재프로그램해, 특정 트리거에만 반응하는 백도어를 심는 ‘Lazarus’ 기법을 제시했다. 이 방식은 툴·터미널 권한을 가진 에이전트가 특정 입력에서만 조용히 악성 코드를 내려받고 실행하게 만들 수 있어, 향후 에이전트 보안·감사·모델 검증 체계의 재설계를 요구하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Microsoft Research Blog",
+          "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+          "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/"
+        }
+      ]
+    }
+  ]
+}

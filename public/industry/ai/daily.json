@@ -1,128 +1,130 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "highlights": {
     "bullets": [
-      "핵심: AlphaGenome 2는 DNA 서열과 변이가 특정 인간 세포와 질병에 미치는 영향을 예측하는 모델이다.",
-      "핵심: BotPsy는 서브-십억 매개변수의 에이전트형 언어모델로 온디바이스 개인 비서를 제공한다.",
-      "트렌드: 기사들은 AI 실용화를 위해 도구·인프라·제품 통합이 강조되는 점이 공통적이다."
+      "핵심: 팟캐스트에서 최신 연구 성과와 AI 기반 번역·31년 된 수학 난제 돌파를 소개했다.",
+      "핵심: 신형 대형 모델이 공개되어 성능·효율 개선과 제품 통합을 목표로 한다.",
+      "트렌드: 기업들이 대형 언어 모델과 툴링을 제품 개발과 배포에 직접 통합하고 있다."
     ],
     "topTopics": [
-      "Product",
       "Tooling",
+      "Product",
       "Models",
-      "Business"
+      "Research"
     ],
     "stats": {
-      "collected": 5,
-      "deduped": 5
+      "collected": 6,
+      "deduped": 6
     }
   },
   "cards": [
     {
       "id": "ai_0001",
       "tab": "ai",
-      "publishedAt": "2026-11-12T00:00:15+09:00",
-      "source": "Google DeepMind Blog",
-      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "publishedAt": "2026-11-13T06:31:57+09:00",
+      "source": "Microsoft Research Blog",
+      "title": "Microsoft Research Focus – Edition #98",
       "summary": [
-        "AlphaGenome 2는 DNA 서열과 변이가 특정 인간 세포 유형과 질병에 미치는 영향을 예측하는 모델입니다.",
-        "대규모 유전체 및 세포 표현형 데이터를 통합해 세포별 유전자 발현과 기능 변화를 해석합니다.",
-        "임상 연구와 질병 메커니즘 규명, 약물 타깃 발굴에 직접적으로 기여할 가능성이 큽니다."
+        "Microsoft Research 팟캐스트 에디션 #98에서 최신 연구 성과들을 소개합니다.",
+        "AI 기반 범용 번역, 31년 된 수학 난제의 돌파구, AI 코딩 에이전트의 속도·효율성 향상이 핵심 입니다.",
+        "호스트 Anson Ho가 주요 결과와 적용 가능성을 간결하게 설명합니다."
       ],
-      "whyItMatters": "세포 수준에서 유전체 변이의 기능적 영향을 정확히 예측하면 질병 이해와 맞춤의료·신약개발 속도를 크게 개선할 수 있기 때문입니다.",
+      "whyItMatters": "이 업데이트는 기초 연구의 획기적 진전과 실용적 AI 기술 개선이 동시에 보고되어 즉각적·장기적 영향 가능성을 제시하기 때문입니다.",
       "topics": [
         "Research",
         "Models",
-        "Data"
+        "Tooling",
+        "Inference"
       ],
       "status": "NEW",
-      "hash": "833534b672b8daa32acea1a5287042b791e6b060346eb3c7ba1affd8abb3fd3c",
-      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
+      "hash": "16dbc3338bdcccfff78de1ca7435204061fbb1433e88cad7b8ed0dba05cac047",
+      "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/"
     },
     {
       "id": "ai_0002",
       "tab": "ai",
-      "publishedAt": "2026-11-12T09:00:00+09:00",
-      "source": "OpenAI Blog",
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "publishedAt": "2026-11-13T03:00:50+09:00",
+      "source": "Google DeepMind Blog",
+      "title": "Introducing Gemini 4 Hydrogen",
       "summary": [
-        "Gilbert + Tobin이 AI를 통해 법률 비즈니스 모델을 재구성하고 있다.",
-        "CEO Sam Nickless는 내부 도구 개발, 워크플로 자동화, 규제·윤리 문제 대응을 강조했다.",
-        "OpenAI와의 협업으로 생산성 향상과 비용 구조 변화를 모색하고 있다."
+        "Google DeepMind가 Gemini 4 Hydrogen을 공개했다.",
+        "새 버전은 성능·효율성 개선과 제품 통합을 목표로 하는 주요 모델 업데이트로 보인다.",
+        "기업용 서비스와 인프라·생태계에 즉각적·중장기적 영향을 줄 가능성이 크다."
       ],
-      "whyItMatters": "법률 서비스에 대한 AI의 전략적 통합은 비용·생산성·리스크 관리 측면에서 업계 전반의 비즈니스 모델 변화를 촉발할 수 있기 때문이다.",
+      "whyItMatters": "대형 AI 경쟁 구도와 제품·인프라 전략에 영향을 주어 채택·비용·규제 측면에서 주시할 필요가 있다.",
       "topics": [
-        "Business",
+        "Models",
         "Product",
-        "Tooling",
-        "Safety"
+        "Infra"
       ],
-      "status": "SHIFTING",
-      "hash": "65b96c238445cdedc96b3e82ec1a6dd0c150d0317effbb199d997528a4ce6af2",
-      "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
+      "status": "NEW",
+      "hash": "c7a410ad3b8628097c7278673e6a34ddff7e2c0f2dee6f72d49256797258779d",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"
     },
     {
       "id": "ai_0003",
       "tab": "ai",
-      "publishedAt": "2026-11-12T02:00:00+09:00",
-      "source": "NVIDIA Developer Blog",
-      "title": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory",
+      "publishedAt": "2026-11-13T05:00:00+09:00",
+      "source": "OpenAI Blog",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
       "summary": [
-        "NVIDIA DSX AI Factory의 런타임 AI 인벤토리를 통해 GPU 플랫폼 검증이 가능해졌다.",
-        "Dynamo, Kubeflow, Slurm 등 다양한 오케스트레이션에서 실제 실행되는 워크로드를 가시화한다.",
-        "리소스 활용 최적화와 규정 준수 확인으로 배포 안정성 및 운영 효율을 향상시킨다."
+        "Amplitude는 OpenAI 모델 기반의 능동적 제품 에이전트 'Wave'를 도입했다.",
+        "Wave는 어떤 기능을 만들지 식별하고 코딩 에이전트로 빠르게 변경을 배포한다.",
+        "변경의 효과를 측정해 제품 개선 주기를 1–2일로 단축시켰다."
       ],
-      "whyItMatters": "실제 런타임 가시성은 GPU 호환성·성능 문제와 운영 리스크를 신속히 식별하고 개선하는 데 필수적이기 때문이다.",
+      "whyItMatters": "개발·배포·측정 단계를 자동화해 제품 실험 속도와 반복 효율을 크게 높였기 때문이다.",
       "topics": [
-        "Infra",
+        "Product",
         "Tooling",
-        "Product"
+        "Data"
       ],
       "status": "ONGOING",
-      "hash": "964aed087794010a45466efcd5e9632050442b4ac44b4df59cf58c9c882b6804",
-      "url": "https://developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory/"
+      "hash": "67672a694e389b29af5588bf1be29a978063408e3c6a0262fcadf6da500500d7",
+      "url": "https://openai.com/business/customer-stories/amplitude"
     },
     {
       "id": "ai_0004",
       "tab": "ai",
-      "publishedAt": "2026-11-11T14:01:16+09:00",
+      "publishedAt": "2026-11-13T04:07:35+09:00",
       "source": "Hugging Face Blog",
-      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
       "summary": [
-        "BotPsy는 서브-십억 매개변수의 에이전트형 언어모델로 동작하는 온디바이스 개인 비서입니다.",
-        "기기 내 실행으로 개인정보 보호, 저지연, 저비용을 목표하며 툴 연동·계획 수립·상태 유지 등 에이전트 기능을 지원합니다.",
-        "모바일·임베디드 배포에 적합해 오프라인 작동과 개인화된 워크플로우 적용이 용이합니다."
+        "LLMON은 LLM에 최적화된 마크업 언어로 구조화된 지시와 툴 연동을 지원한다.",
+        "Hugging Face가 Granite 4.1의 3B 및 8B 모델에 LLMON을 통합해 즉시 사용 가능하게 했다.",
+        "이를 통해 프롬프트 안정성, 툴 호출의 표준화, 모델 간 호환성이 개선될 전망이다."
       ],
-      "whyItMatters": "온디바이스 에이전트형 LLM의 실용성을 입증해 프라이버시, 지연, 비용 측면에서 광범위한 배포 가능성을 열기 때문입니다.",
+      "whyItMatters": "LLMON 통합은 LLM 활용을 더 예측 가능하고 모듈화된 방식으로 만들어 개발 생산성과 생태계 표준화를 촉진한다.",
       "topics": [
         "Models",
-        "Inference",
         "Tooling",
-        "Product"
+        "Product",
+        "Research"
       ],
       "status": "ONGOING",
-      "hash": "19b4fcb1faac9c9bdbccd358c8d8e12a9188d32981764b2e3beec26a5de09e66",
-      "url": "https://huggingface.co/blog/qvac/botpsy"
+      "hash": "84ec87286cb35a64f463f0646caa372ff180d409581b33a91619e73354134567",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
     },
     {
       "id": "ai_0005",
       "tab": "ai",
-      "publishedAt": "2026-11-11T17:00:00+09:00",
+      "publishedAt": "2026-11-12T21:00:00+09:00",
       "source": "OpenAI Blog",
-      "title": "ChatGPT Plus for veterans and servicemembers",
+      "title": "Gondola doubles revenue as its team builds more with Codex",
       "summary": [
-        "오픈AI가 2만 명 이상 재향군인 및 전역 예정 군인에게 1년 무료 ChatGPT Plus를 제공했다.",
-        "수혜자들은 이력서 작성, 면접 연습 등 민간 경력 전환 준비에 ChatGPT Plus를 적극 활용하고 있다.",
-        "해당 프로그램은 제품 채택 확대와 브랜드의 사회적 책임 이미지를 동시에 강화한다."
+        "Gondola가 Codex와 ChatGPT를 활용해 수익을 두 배로 늘렸다.",
+        "Codex는 리드 엔지니어의 생산성을 50% 향상시켰다.",
+        "ChatGPT는 일상 업무를 단순화해 팀의 효율을 높였다."
       ],
-      "whyItMatters": "대규모 무료 구독 제공은 제품 확산과 브랜드 이미지 제고, 사회적 지원 효과를 동시에 노린 전략적 조치다.",
+      "whyItMatters": "이 사례는 대형 언어 모델 도구들이 제품 개발 속도와 수익 성장에 직접 기여할 수 있음을 보여준다.",
       "topics": [
+        "Models",
+        "Tooling",
         "Product",
         "Business"
       ],
       "status": "ONGOING",
-      "hash": "ac94b61a25ade5edbf713f0897cc9ad6ba8f24621b9aed0d512136947920d1f0",
-      "url": "https://openai.com/index/chatgpt-plus-for-veterans"
+      "hash": "b9840fd67063a36a400d5e1d91fe182c1b415df6997c889b681a58ba22957843",
+      "url": "https://openai.com/business/customer-stories/gondola"
     }
   ]
 }

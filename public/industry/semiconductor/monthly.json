@@ -1,79 +1,79 @@
 {
   "range": {
-    "from": "2026-10-14",
-    "to": "2026-11-12"
+    "from": "2026-10-15",
+    "to": "2026-11-13"
   },
   "kpis": {
-    "collected": 52,
-    "deduped": 52,
+    "collected": 53,
+    "deduped": 53,
     "uniqueTopics": 7,
     "marketShare": {
-      "Roadmap": 28,
-      "Competition": 22,
+      "Roadmap": 29,
+      "Competition": 23,
       "Manufacturing": 18,
-      "Investment": 16,
+      "Investment": 15,
       "Demand": 15,
-      "Other": 1
+      "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/14-10/20)",
+      "week": "Week 1 (10/15-10/21)",
       "topicCounts": {
-        "Roadmap": 10,
-        "Competition": 9,
-        "Manufacturing": 8,
-        "Investment": 7,
-        "Demand": 5
+        "Roadmap": 13,
+        "Competition": 13,
+        "Manufacturing": 9,
+        "Investment": 5,
+        "Demand": 8
       }
     },
     {
-      "week": "Week 2 (10/21-10/27)",
+      "week": "Week 2 (10/22-10/28)",
       "topicCounts": {
-        "Roadmap": 8,
-        "Competition": 6,
-        "Manufacturing": 4,
+        "Roadmap": 5,
+        "Competition": 4,
+        "Manufacturing": 3,
         "Investment": 0,
+        "Demand": 2
+      }
+    },
+    {
+      "week": "Week 3 (10/29-11/04)",
+      "topicCounts": {
+        "Roadmap": 6,
+        "Competition": 2,
+        "Manufacturing": 5,
+        "Investment": 6,
+        "Demand": 3
+      }
+    },
+    {
+      "week": "Week 4 (11/05-11/11)",
+      "topicCounts": {
+        "Roadmap": 7,
+        "Competition": 7,
+        "Manufacturing": 3,
+        "Investment": 6,
         "Demand": 4
       }
     },
     {
-      "week": "Week 3 (10/28-11/03)",
+      "week": "Week 5 (11/12-11/13)",
       "topicCounts": {
-        "Roadmap": 8,
-        "Competition": 3,
-        "Manufacturing": 8,
-        "Investment": 9,
-        "Demand": 5
-      }
-    },
-    {
-      "week": "Week 4 (11/04-11/10)",
-      "topicCounts": {
-        "Roadmap": 5,
+        "Roadmap": 4,
         "Competition": 3,
         "Manufacturing": 2,
-        "Investment": 4,
+        "Investment": 1,
         "Demand": 1
-      }
-    },
-    {
-      "week": "Week 5 (11/11-11/12)",
-      "topicCounts": {
-        "Roadmap": 3,
-        "Competition": 2,
-        "Manufacturing": 1,
-        "Investment": 2,
-        "Demand": 0
       }
     }
   ],
   "topIssues": [
     {
-      "id": 1,
-      "status": "ONGOING",
-      "title": "AI 메모리 초호황 속 삼성전자 실적 급등",
-      "summary": "AI 서버용 고대역폭 메모리(HBM 등) 수요가 폭발하며 삼성전자의 분기 영업이익이 약 800억 달러 수준으로 급등했다. 이는 메모리 업황 반등과 AI 인프라 투자 확대가 맞물린 결과로, AI 특화 메모리·첨단 공정에 대한 설비 투자와 경쟁 심화가 계속될 전망이다.",
+      "id": "sem-1",
+      "status": "NEW",
+      "title": "삼성 AI 메모리 호황과 3분기 영업이익 급증",
+      "summary": "삼성전자가 AI 서버용 메모리 수요 급증에 힘입어 3분기 약 800억 달러의 영업이익을 기록했다. HBM·DDR5 등 고부가 메모리 중심의 제품 믹스 개선이 두드러지며, AI 인프라 투자가 반도체 실적의 핵심 성장 동력으로 재확인됐다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -84,58 +84,58 @@
       ]
     },
     {
-      "id": 2,
+      "id": "sem-2",
       "status": "ONGOING",
-      "title": "SK하이닉스, 기능안전·사이버보안 인증으로 차량·산업용 메모리 신뢰도 강화",
-      "summary": "SK하이닉스가 LPDDR5X 제품에 대해 IEC 61508 SIL 3 기능안전 인증과 ISO/SAE 21434 기반 CSMS 인증을 확보했다. 차량용·산업용·엣지 AI 시스템에서 메모리 신뢰성과 보안이 핵심 경쟁요소로 부상하는 가운데, 고안전·고신뢰 메모리 시장 공략을 본격화하는 신호탄으로 해석된다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "SK hynix Newsroom",
-          "title": "‘Safeguarding against system failures and cyber threats’: SK hynix builds trust in physical AI memory",
-          "url": "https://news.skhynix.com/en/iec-61508-certification-2026/"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "status": "ONGOING",
-      "title": "레벨 4 자율주행 상용화를 좌우할 반도체·안전·규제 이슈",
-      "summary": "전문가 패널 논의에서 레벨 4 자율주행 구현을 위해 고성능 SoC·센서·메모리 등 반도체 스택뿐 아니라, 기능안전 표준 준수, AI 검증, 규제 정비, 신뢰 확보가 핵심 이정표로 제시됐다. 이는 차량용 반도체 설계·패키징·테스트 전 영역에 대한 장기 로드맵 수립 필요성을 시사한다.",
+      "title": "엔비디아 CEO 사임과 AI 반도체 시장 리더십 변동 가능성",
+      "summary": "엔비디아 CEO의 사임으로 GPU 중심 AI 반도체 시장의 리더십에 불확실성이 커지고 있다. 이사회가 후임자를 찾는 동안 제품 로드맵, 고객사 관계, 경쟁 구도가 영향을 받을 수 있어, 삼성·TSMC·AMD 등 경쟁사의 전략 변화와 파운드리·메모리 투자 방향에도 파급이 예상된다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "EE Times",
-          "title": "Automotive Tech Forum: Panel Discussion the Make-or-Break Milestones Toward Level 4 Autonomous Driving",
-          "url": "https://www.eetimes.com/automotive-tech-forum-panel-discussion-the-make-or-break-milestones-toward-level-4-autonomous-driving/"
+          "title": "Jensen Resigns Over Second Affair",
+          "url": "https://www.eetimes.com/jensen-resigns-over-second-affair/"
         }
       ]
     },
     {
-      "id": 4,
-      "status": "SHIFTING",
-      "title": "EV 전력전자용 GaN 반도체, 2026년 이후 핵심 파워 디바이스로 부상",
-      "summary": "자동차 기술 포럼에서 GaN 기반 전력 반도체가 전기차 파워트레인 효율 개선과 시스템 비용 절감의 핵심 기술로 지목됐다. 향후 2026년 이후를 겨냥한 GaN 신뢰성 검증, 레퍼런스 디자인, 패키징·양산 로드맵이 제시되며 실차 적용 확대가 가속될 것으로 전망된다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "EE Times",
-          "title": "Automotive Tech Forum: GaN Building Blocks in EV’s and Their Design Roadmap in 2026 and Beyond",
-          "url": "https://www.eetimes.com/automotive-tech-forum-gan-building-blocks-in-evs-and-their-design-roadmap-in-2026-and-beyond/"
-        }
-      ]
-    },
-    {
-      "id": 5,
+      "id": "sem-3",
       "status": "ONGOING",
-      "title": "AI 데이터센터 전력 인프라 경쟁, 반도체 투자·입지 전략에 직격탄",
-      "summary": "AI 클러스터 확장이 전력망 용량 확보와 비용·리스크 분담 문제에 막히며, 미국과 중국이 서로 다른 정책·투자 전략을 취하고 있다. 이는 대규모 AI GPU·메모리 수요를 노리는 파운드리·메모리 업체들의 팹 입지, 장기 투자 계획, 에너지 효율형 칩 설계 방향에 직접적인 영향을 미친다.",
+      "title": "AI 데이터센터 전력망 한계와 반도체 수요·투자 구조 변화",
+      "summary": "AI 클러스터 확장에 필요한 전력망 용량이 미국·중국 모두에서 주요 병목으로 부상했다. 그리드 증설 속도가 GPU·메모리·가속기 수요를 제약할 수 있으며, 전력 접근성에 따라 팹 위치·데이터센터 입지와 장기 설비투자 계획이 재조정되는 흐름이 진행 중이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "EE Times",
           "title": "The AI Power Bill: Who Gets Grid Capacity, and Who Bears the Risk?",
           "url": "https://www.eetimes.com/the-ai-power-bill-who-gets-grid-capacity-and-who-bears-the-risk/"
+        }
+      ]
+    },
+    {
+      "id": "sem-4",
+      "status": "ONGOING",
+      "title": "양자컴퓨팅 시대 대비: 암호 인프라 전환과 보안 반도체 기회",
+      "summary": "양자컴퓨터 발전으로 현행 공개키 암호 체계가 수년 내 위협받을 수 있다는 전망이 나오며, 포스트 양자암호(PQC)로의 전환 필요성이 커지고 있다. 이는 보안 칩, 하드웨어 암호 가속기, 안전한 키 스토리지 등 보안 반도체 수요 확대와 정부·산업계의 관련 정책·투자 논의를 자극하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "The Countdown to Q-Day Has Begun",
+          "url": "https://www.eetimes.com/the-countdown-to-q-day-has-begun/"
+        }
+      ]
+    },
+    {
+      "id": "sem-5",
+      "status": "NEW",
+      "title": "지능형 안경 출시와 비전·센서 반도체 수요 확대",
+      "summary": "삼성전자가 12월 미국·한국 동시 출시를 앞둔 지능형 안경 풀 라인업을 공개했다. 핸즈프리 AI 보조 기능과 다양한 디자인을 특징으로 하며, 고성능 모바일 AP, 이미지 센서, 저전력 디스플레이·패키징 등 웨어러블용 반도체 수요를 넓히는 신흥 폼팩터로 주목된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung Announces December Release for Intelligent Eyewear, Bringing a Smarter Way To See the World",
+          "url": "https://news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world"
         }
       ]
     }

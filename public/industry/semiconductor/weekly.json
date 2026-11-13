@@ -1,61 +1,37 @@
 {
   "range": {
-    "from": "2026-11-06",
-    "to": "2026-11-12"
+    "from": "2026-11-07",
+    "to": "2026-11-13"
   },
   "kpis": {
-    "collected": 9,
-    "deduped": 9,
+    "collected": 11,
+    "deduped": 11,
     "uniqueTopics": 6
   },
   "topTopics": [
     {
       "name": "Roadmap",
-      "count": 7
+      "count": 9
     },
     {
       "name": "Competition",
-      "count": 7
+      "count": 9
     },
     {
       "name": "Investment",
-      "count": 6
+      "count": 5
     },
     {
-      "name": "Policy",
-      "count": 5
+      "name": "Manufacturing",
+      "count": 4
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-11-06",
-      "dayOfWeek": "Fri",
-      "topic": "Roadmap",
-      "count": 1
-    },
-    {
-      "date": "2026-11-06",
-      "dayOfWeek": "Fri",
-      "topic": "Competition",
-      "count": 1
-    },
-    {
-      "date": "2026-11-06",
-      "dayOfWeek": "Fri",
-      "topic": "Investment",
-      "count": 1
-    },
-    {
-      "date": "2026-11-06",
-      "dayOfWeek": "Fri",
-      "topic": "Policy",
-      "count": 1
-    },
-    {
       "date": "2026-11-07",
       "dayOfWeek": "Sat",
       "topic": "Roadmap",
-      "count": 1
+      "count": 0
     },
     {
       "date": "2026-11-07",
@@ -67,13 +43,13 @@
       "date": "2026-11-07",
       "dayOfWeek": "Sat",
       "topic": "Investment",
-      "count": 1
+      "count": 0
     },
     {
       "date": "2026-11-07",
       "dayOfWeek": "Sat",
-      "topic": "Policy",
-      "count": 1
+      "topic": "Manufacturing",
+      "count": 0
     },
     {
       "date": "2026-11-08",
@@ -96,7 +72,7 @@
     {
       "date": "2026-11-08",
       "dayOfWeek": "Sun",
-      "topic": "Policy",
+      "topic": "Manufacturing",
       "count": 0
     },
     {
@@ -120,7 +96,7 @@
     {
       "date": "2026-11-09",
       "dayOfWeek": "Mon",
-      "topic": "Policy",
+      "topic": "Manufacturing",
       "count": 0
     },
     {
@@ -144,7 +120,7 @@
     {
       "date": "2026-11-10",
       "dayOfWeek": "Tue",
-      "topic": "Policy",
+      "topic": "Manufacturing",
       "count": 0
     },
     {
@@ -168,20 +144,20 @@
     {
       "date": "2026-11-11",
       "dayOfWeek": "Wed",
-      "topic": "Policy",
-      "count": 2
+      "topic": "Manufacturing",
+      "count": 1
     },
     {
       "date": "2026-11-12",
       "dayOfWeek": "Thu",
       "topic": "Roadmap",
-      "count": 2
+      "count": 4
     },
     {
       "date": "2026-11-12",
       "dayOfWeek": "Thu",
       "topic": "Competition",
-      "count": 1
+      "count": 2
     },
     {
       "date": "2026-11-12",
@@ -192,58 +168,82 @@
     {
       "date": "2026-11-12",
       "dayOfWeek": "Thu",
-      "topic": "Policy",
+      "topic": "Manufacturing",
+      "count": 2
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Manufacturing",
       "count": 1
     }
   ],
   "topIssues": [
     {
-      "id": 1,
+      "id": "semic-1",
+      "status": "NEW",
+      "title": "AI 기반 지능형 안경 출시와 반도체 수요 확장",
+      "summary": "삼성전자가 12월 미국·한국에 지능형 안경 풀 라인업을 출시하면서, 온디바이스 AI 연산과 센서·디스플레이를 위한 고집적 저전력 반도체 수요가 늘어날 전망입니다. 웨어러블용 AP, 전력관리, 통신 칩 등 패키징·공정 최적화 경쟁이 가속화될 이슈입니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung Announces December Release for Intelligent Eyewear, Bringing a Smarter Way To See the World",
+          "url": "https://news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world"
+        }
+      ]
+    },
+    {
+      "id": "semic-2",
       "status": "ONGOING",
-      "title": "레벨 4 자율주행 상용화를 향한 자동차용 반도체·AI 안전 로드맵",
-      "summary": "레벨 4 자율주행 달성을 위해 차량용 SoC, 센서, AI 가속기 등 자동차 반도체의 기능안전, 규제 준수, 신뢰성 확보가 핵심 이슈로 부상하고 있다. 패널은 안전 표준과 정책 환경에 맞춘 칩 아키텍처 설계, 검증·인증 비용 부담, 완성차-반도체-규제기관 간 협력 구조가 향후 2~3년 내 상용화를 좌우할 주요 과제로 보고 있다.",
+      "title": "엔비디아 CEO 사임으로 인한 AI GPU·반도체 밸류체인 영향",
+      "summary": "엔비디아 CEO의 돌연 사임은 AI GPU 로드맵과 capex 집행, 파운드리·메모리 업체와의 공급 협상 구조에 불확실성을 키워 반도체 밸류체인 전반에 전략 조정 이슈를 야기할 수 있습니다. 단기 주가 변동성과 중장기 투자·경쟁 구도 재편이 관건입니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "EE Times",
-          "title": "Automotive Tech Forum: Panel Discussion the Make-or-Break Milestones Toward Level 4 Autonomous Driving",
-          "url": "https://www.eetimes.com/automotive-tech-forum-panel-discussion-the-make-or-break-milestones-toward-level-4-autonomous-driving/"
+          "title": "Jensen Resigns Over Second Affair",
+          "url": "https://www.eetimes.com/jensen-resigns-over-second-affair/"
         }
       ]
     },
     {
-      "id": 2,
+      "id": "semic-3",
       "status": "ONGOING",
-      "title": "SK하이닉스, AI 메모리용 기능안전·사이버보안 인증으로 차량·산업용 시장 공략 가속",
-      "summary": "SK하이닉스가 LPDDR5X에 대해 IEC 61508 SIL 3 기능안전과 ISO/SAE 21434 기반 CSMS 인증을 확보하며, 물리 AI 메모리를 자율주행·산업용·서버용 등 안전 규제가 엄격한 시장에 공급할 수 있는 기반을 마련했다. 이는 차량용 반도체와 데이터센터용 메모리에서 안전·보안이 설계 초기부터 필수 요건으로 반영되는 추세를 보여주며, 국내 메모리 업체의 고부가 AI·오토모티브 수요 선점 경쟁이 본격화되고 있음을 의미한다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "SK hynix Newsroom",
-          "title": "‘Safeguarding against system failures and cyber threats’: SK hynix builds trust in physical AI memory",
-          "url": "https://news.skhynix.com/en/iec-61508-certification-2026/"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "status": "SHIFTING",
-      "title": "EV 전력전자에서 GaN 전력반도체 채택 확대와 2026년 이후 설계 로드맵",
-      "summary": "전기차 메인 인버터, 온보드 차저(OBC), DC-DC 컨버터 등에서 GaN 전력반도체가 Si 기반 디바이스를 대체하며 효율·전력밀도 향상과 시스템 비용 절감을 동시에 노린 설계가 확산되고 있다. 발표에 따르면 2026년 이후에는 신뢰성 검증 표준화, 패키징·열관리 혁신, 차량용 인증 강화가 진행되며, 완성차와 티어1이 레퍼런스 설계를 기반으로 GaN 채택을 가속하면서 관련 파운드리·IDM들의 투자 방향도 EV 중심으로 재편되는 흐름이다.",
+      "title": "초분광 이미징 센서 상용화와 농업용 반도체 신규 수요",
+      "summary": "콩 병해 조기 탐지 사례처럼 초분광 이미징 기술이 농업에 적용되면서, CMOS 이미지센서와 전용 신호처리·AI 엣지칩 수요가 확대되고 있습니다. 반도체 공정 미세화와 원가 절감이 센서 대중화를 가속하며 비(非)모바일·비자동차 분야의 신규 수요원으로 부상 중입니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "EE Times",
-          "title": "Automotive Tech Forum: GaN Building Blocks in EV’s and Their Design Roadmap in 2026 and Beyond",
-          "url": "https://www.eetimes.com/automotive-tech-forum-gan-building-blocks-in-evs-and-their-design-roadmap-in-2026-and-beyond/"
+          "title": "Can Machines See a Sick Plant Before a Farmer Can?",
+          "url": "https://www.eetimes.com/can-machines-see-a-sick-plant-before-a-farmer-can/"
         }
       ]
     },
     {
-      "id": 4,
+      "id": "semic-4",
       "status": "ONGOING",
-      "title": "AI 반도체 클러스터 확산이 촉발한 전력망 용량 경쟁과 투자 리스크 분담",
-      "summary": "미국과 중국을 중심으로 GPU·가속기 기반 AI 데이터센터 증설이 급증하면서, 전력망 용량과 인프라 투자 비용이 AI 반도체 수요의 실질적인 병목으로 부상하고 있다. 각국 정부·전력사·클라우드 사업자는 장기 전력 공급계약, 송배전망 업그레이드, 재생에너지 연계 투자 등의 방식으로 리스크를 분담하고 있으며, 전력제약을 완화하기 위한 저전력 칩 설계와 고효율 패키징·전원 관리 반도체에 대한 수요도 함께 커지고 있다.",
+      "title": "AI 데이터센터 전력 제약과 칩 투자·공급 전략 재편",
+      "summary": "AI 클러스터 확장 시 전력망 용량과 비용·리스크 분담이 핵심 제약으로 부상하며, 미국·중국의 상이한 전력 인프라 전략이 고성능 GPU·ASIC 투자 속도와 생산 지역 선택에 영향을 주고 있습니다. 전력 효율 중심의 칩 설계와 패키징, 그리고 전력 인프라 연계형 설비투자가 핵심 이슈입니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -254,16 +254,16 @@
       ]
     },
     {
-      "id": 5,
+      "id": "semic-5",
       "status": "ONGOING",
-      "title": "양자컴퓨팅 시대 대비, 암호·보안용 반도체의 PQC 전환 압력 확대",
-      "summary": "양자컴퓨터가 상용 수준에 근접하면서 블록체인·금융·통신 인프라에서 사용하는 기존 공개키 암호가 수년 내 취약해질 수 있다는 우려가 커지고 있다. 이에 따라 보안 칩, HSM, 신용카드·eSIM 등 암호·보안용 반도체는 후방 호환성과 연산 성능을 고려한 PQC(양자내성암호) 지원 설계가 시급해졌고, 신규 표준 채택 속도와 마이그레이션 비용이 향후 보안 반도체 시장의 핵심 변수가 되고 있다.",
+      "title": "프리미엄 TV용 디스플레이·이미지 프로세서 기술 고도화",
+      "summary": "OLED, QLED, Neo QLED, Micro RGB 등 고급 TV 기술 경쟁이 심화되며, 초고해상도·고휘도·저전력 디스플레이 드라이버 IC와 영상 처리용 SoC의 성능·공정 난도가 동시에 상승하고 있습니다. 고부가가치 디스플레이용 반도체와 첨단 패키징 수요 증가가 반도체 업체의 중장기 성장 축으로 작용합니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "EE Times",
-          "title": "The Countdown to Q-Day Has Begun",
-          "url": "https://www.eetimes.com/the-countdown-to-q-day-has-begun/"
+          "source": "Samsung Newsroom",
+          "title": "Finding the Perfect TV: A Guide to Samsung TVs",
+          "url": "https://news.samsung.com/global/finding-the-perfect-tv-a-guide-to-samsung-tvs"
         }
       ]
     }

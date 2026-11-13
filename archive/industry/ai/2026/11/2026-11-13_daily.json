@@ -1,0 +1,130 @@
+{
+  "date": "2026-11-13",
+  "highlights": {
+    "bullets": [
+      "핵심: 팟캐스트에서 최신 연구 성과와 AI 기반 번역·31년 된 수학 난제 돌파를 소개했다.",
+      "핵심: 신형 대형 모델이 공개되어 성능·효율 개선과 제품 통합을 목표로 한다.",
+      "트렌드: 기업들이 대형 언어 모델과 툴링을 제품 개발과 배포에 직접 통합하고 있다."
+    ],
+    "topTopics": [
+      "Tooling",
+      "Product",
+      "Models",
+      "Research"
+    ],
+    "stats": {
+      "collected": 6,
+      "deduped": 6
+    }
+  },
+  "cards": [
+    {
+      "id": "ai_0001",
+      "tab": "ai",
+      "publishedAt": "2026-11-13T06:31:57+09:00",
+      "source": "Microsoft Research Blog",
+      "title": "Microsoft Research Focus – Edition #98",
+      "summary": [
+        "Microsoft Research 팟캐스트 에디션 #98에서 최신 연구 성과들을 소개합니다.",
+        "AI 기반 범용 번역, 31년 된 수학 난제의 돌파구, AI 코딩 에이전트의 속도·효율성 향상이 핵심 입니다.",
+        "호스트 Anson Ho가 주요 결과와 적용 가능성을 간결하게 설명합니다."
+      ],
+      "whyItMatters": "이 업데이트는 기초 연구의 획기적 진전과 실용적 AI 기술 개선이 동시에 보고되어 즉각적·장기적 영향 가능성을 제시하기 때문입니다.",
+      "topics": [
+        "Research",
+        "Models",
+        "Tooling",
+        "Inference"
+      ],
+      "status": "NEW",
+      "hash": "16dbc3338bdcccfff78de1ca7435204061fbb1433e88cad7b8ed0dba05cac047",
+      "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/"
+    },
+    {
+      "id": "ai_0002",
+      "tab": "ai",
+      "publishedAt": "2026-11-13T03:00:50+09:00",
+      "source": "Google DeepMind Blog",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "summary": [
+        "Google DeepMind가 Gemini 4 Hydrogen을 공개했다.",
+        "새 버전은 성능·효율성 개선과 제품 통합을 목표로 하는 주요 모델 업데이트로 보인다.",
+        "기업용 서비스와 인프라·생태계에 즉각적·중장기적 영향을 줄 가능성이 크다."
+      ],
+      "whyItMatters": "대형 AI 경쟁 구도와 제품·인프라 전략에 영향을 주어 채택·비용·규제 측면에서 주시할 필요가 있다.",
+      "topics": [
+        "Models",
+        "Product",
+        "Infra"
+      ],
+      "status": "NEW",
+      "hash": "c7a410ad3b8628097c7278673e6a34ddff7e2c0f2dee6f72d49256797258779d",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"
+    },
+    {
+      "id": "ai_0003",
+      "tab": "ai",
+      "publishedAt": "2026-11-13T05:00:00+09:00",
+      "source": "OpenAI Blog",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "summary": [
+        "Amplitude는 OpenAI 모델 기반의 능동적 제품 에이전트 'Wave'를 도입했다.",
+        "Wave는 어떤 기능을 만들지 식별하고 코딩 에이전트로 빠르게 변경을 배포한다.",
+        "변경의 효과를 측정해 제품 개선 주기를 1–2일로 단축시켰다."
+      ],
+      "whyItMatters": "개발·배포·측정 단계를 자동화해 제품 실험 속도와 반복 효율을 크게 높였기 때문이다.",
+      "topics": [
+        "Product",
+        "Tooling",
+        "Data"
+      ],
+      "status": "ONGOING",
+      "hash": "67672a694e389b29af5588bf1be29a978063408e3c6a0262fcadf6da500500d7",
+      "url": "https://openai.com/business/customer-stories/amplitude"
+    },
+    {
+      "id": "ai_0004",
+      "tab": "ai",
+      "publishedAt": "2026-11-13T04:07:35+09:00",
+      "source": "Hugging Face Blog",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "summary": [
+        "LLMON은 LLM에 최적화된 마크업 언어로 구조화된 지시와 툴 연동을 지원한다.",
+        "Hugging Face가 Granite 4.1의 3B 및 8B 모델에 LLMON을 통합해 즉시 사용 가능하게 했다.",
+        "이를 통해 프롬프트 안정성, 툴 호출의 표준화, 모델 간 호환성이 개선될 전망이다."
+      ],
+      "whyItMatters": "LLMON 통합은 LLM 활용을 더 예측 가능하고 모듈화된 방식으로 만들어 개발 생산성과 생태계 표준화를 촉진한다.",
+      "topics": [
+        "Models",
+        "Tooling",
+        "Product",
+        "Research"
+      ],
+      "status": "ONGOING",
+      "hash": "84ec87286cb35a64f463f0646caa372ff180d409581b33a91619e73354134567",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
+    },
+    {
+      "id": "ai_0005",
+      "tab": "ai",
+      "publishedAt": "2026-11-12T21:00:00+09:00",
+      "source": "OpenAI Blog",
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "summary": [
+        "Gondola가 Codex와 ChatGPT를 활용해 수익을 두 배로 늘렸다.",
+        "Codex는 리드 엔지니어의 생산성을 50% 향상시켰다.",
+        "ChatGPT는 일상 업무를 단순화해 팀의 효율을 높였다."
+      ],
+      "whyItMatters": "이 사례는 대형 언어 모델 도구들이 제품 개발 속도와 수익 성장에 직접 기여할 수 있음을 보여준다.",
+      "topics": [
+        "Models",
+        "Tooling",
+        "Product",
+        "Business"
+      ],
+      "status": "ONGOING",
+      "hash": "b9840fd67063a36a400d5e1d91fe182c1b415df6997c889b681a58ba22957843",
+      "url": "https://openai.com/business/customer-stories/gondola"
+    }
+  ]
+}

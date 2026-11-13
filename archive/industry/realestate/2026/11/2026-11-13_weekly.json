@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-11-07",
+    "to": "2026-11-13"
+  },
+  "kpis": {
+    "collected": 22,
+    "deduped": 22,
+    "uniqueTopics": 10
+  },
+  "topTopics": [
+    {
+      "name": "Market",
+      "count": 16
+    },
+    {
+      "name": "Supply",
+      "count": 12
+    },
+    {
+      "name": "Policy",
+      "count": 9
+    },
+    {
+      "name": "UrbanRenewal",
+      "count": 8
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Market",
+      "count": 3
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Supply",
+      "count": 2
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "UrbanRenewal",
+      "count": 1
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Market",
+      "count": 1
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "UrbanRenewal",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Market",
+      "count": 3
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Supply",
+      "count": 2
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "UrbanRenewal",
+      "count": 2
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Market",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "UrbanRenewal",
+      "count": 0
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Market",
+      "count": 5
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Supply",
+      "count": 3
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "UrbanRenewal",
+      "count": 1
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Market",
+      "count": 1
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Supply",
+      "count": 2
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 3
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "UrbanRenewal",
+      "count": 2
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Market",
+      "count": 3
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Supply",
+      "count": 3
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "UrbanRenewal",
+      "count": 2
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "비수도권 거점 산업 투자 확대로 지방 주거지 재편 가속",
+      "summary": "기업 약 27%가 비수도권 투자를 검토하면서 지방 일자리와 직주근접 수요가 동시에 늘고 있다. 정부가 입지 기준 완화와 816억 원 규모 보조금을 통해 거점 산업 투자를 밀어주면서, 산업단지 인근 신도시·배후 주거단지 재편이 본격화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "“일자리가 살자리”…거점 산업 투자에 지방 주거지 재편",
+          "url": "https://www.mk.co.kr/news/business/12207818"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "용인 반도체 클러스터 배후 주거 공급 막판 분양 러시",
+      "summary": "용인 반도체클러스터 인근에 대규모 아파트 공급이 막바지 단계에 들어섰다. 연말 약 1200가구 분양이 예정돼 있어 반도체 산업 종사자 중심의 직주근접 수요 유입과 인근 집값·전셋값 재평가가 예상된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "용인 반도체클러스터 아파트 공급 막바지…연말 1200가구 분양 앞둬",
+          "url": "https://www.mk.co.kr/news/realestate/12207768"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "재건축 단지, 안전진단·추진위 통과로 사업 속도전",
+      "summary": "서울 서초 우면한라아파트가 예비안전진단 신청 2년 만에 조합설립추진위원회 구성을 승인받으며 재건축 절차가 본격화됐다. 추진위 승인과 임원 선임이 이뤄지면서 강남권 노후 단지들의 추가 재건축 기대감도 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "서초 우면한라, 예비안전진단 신청 2년 만에 추진위 승인…재건축 사업 속도",
+          "url": "https://biz.heraldcorp.com/article/10936041"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "전셋값, 내년 매매가의 두 배 상승 전망…전·월세 시장 압박 심화",
+      "summary": "내년 전국 전셋값이 4.5% 오를 것으로 예상되는 반면, 매매가격은 고금리와 대출 규제로 2% 상승에 그칠 전망이다. 전세 대체 수요와 대출 부담이 겹치면서 실수요자들의 전·월세난이 지속될 가능성이 크다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "내년 집값보다 전셋값 두배 더 뛴다…매매 2%·전세 4.5% 상승 전망[부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10935840"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "SHIFTING",
+      "title": "집값 체감 상승 vs 정부의 ‘하락기 시그널’…시장 인식 괴리 확대",
+      "summary": "국토부 장관이 집값 하락기 진입 신호를 강조했지만, 서민층이 체감하는 매매·전세 가격은 여전히 높다는 지적이 커지고 있다. 정책 당국의 메시지와 실수요자 체감 사이의 간극이 확대되면서 시장 혼선과 불신 가능성이 제기된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "서민 집값은 더 올랐는데…국토부 장관 \"하락기 시그널\"",
+          "url": "https://www.hankyung.com/article/202611123097i"
+        }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-10-14",
-    "to": "2026-11-12"
+    "from": "2026-10-15",
+    "to": "2026-11-13"
   },
   "kpis": {
     "collected": 44,
@@ -9,16 +9,16 @@
     "uniqueTopics": 10,
     "marketShare": {
       "MarketInfra": 37,
-      "Policy": 24,
+      "Policy": 23,
       "Regulation": 17,
-      "Compliance": 14,
+      "Compliance": 15,
       "Security": 8,
       "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/14-10/20)",
+      "week": "Week 1 (10/15-10/21)",
       "topicCounts": {
         "MarketInfra": 12,
         "Policy": 8,
@@ -28,73 +28,59 @@
       }
     },
     {
-      "week": "Week 2 (10/21-10/27)",
+      "week": "Week 2 (10/22-10/28)",
       "topicCounts": {
-        "MarketInfra": 9,
-        "Policy": 7,
-        "Regulation": 5,
-        "Compliance": 3,
+        "MarketInfra": 8,
+        "Policy": 6,
+        "Regulation": 3,
+        "Compliance": 2,
         "Security": 0
       }
     },
     {
-      "week": "Week 3 (10/28-11/03)",
+      "week": "Week 3 (10/29-11/04)",
       "topicCounts": {
-        "MarketInfra": 6,
-        "Policy": 2,
-        "Regulation": 2,
-        "Compliance": 0,
+        "MarketInfra": 4,
+        "Policy": 3,
+        "Regulation": 3,
+        "Compliance": 1,
         "Security": 2
       }
     },
     {
-      "week": "Week 4 (11/04-11/10)",
+      "week": "Week 4 (11/05-11/11)",
       "topicCounts": {
-        "MarketInfra": 6,
-        "Policy": 3,
-        "Regulation": 1,
-        "Compliance": 3,
+        "MarketInfra": 8,
+        "Policy": 4,
+        "Regulation": 2,
+        "Compliance": 5,
         "Security": 4
       }
     },
     {
-      "week": "Week 5 (11/11-11/12)",
+      "week": "Week 5 (11/12-11/13)",
       "topicCounts": {
-        "MarketInfra": 1,
+        "MarketInfra": 2,
         "Policy": 1,
         "Regulation": 1,
         "Compliance": 1,
-        "Security": 1
+        "Security": 0
       }
     }
   ],
   "topIssues": [
     {
       "id": 1,
-      "status": "ONGOING",
-      "title": "앤트로픽 초대형 나스닥 상장 추진과 AI 버블 논쟁",
-      "summary": "생성형 AI 기업 앤트로픽이 나스닥 상장을 앞두고 최대 1조4000억달러 기업가치와 644억달러 공모를 제시하면서, 국내외 증시에서 AI 관련주의 밸류에이션 부담과 버블 논쟁이 심화되고 있다. 상반기 106조원대 대규모 적자에도 불구하고 몸값이 치솟자, 한국은행은 AI 열풍이 꺾일 경우 최대 132조원 손실 가능성을 제시하며 금융·실물경제 리스크를 경고했다.",
+      "status": "SHIFTING",
+      "title": "엔비디아 시가총액 급락과 AI 투자 리프레이싱",
+      "summary": "엔비디아 시가총액이 불과 5주 만에 약 2400조원 증발하며 글로벌 AI·빅테크 밸류에이션이 전반적으로 재평가되고 있다. AI 인프라 투자비, 수익성, 규제 리스크에 대한 우려가 겹치며 기술주 중심 증시 변동성이 확대되는 국면이다.",
       "articleCount": 2,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
-          "title": "“AI주 더 갈까, 꺾일까”…‘몸값 1.4조 달러’ 앤트로픽 상장에 투심 달렸다",
-          "url": "https://www.mk.co.kr/news/stock/12206044"
+          "title": "돈 녹는 속도, 유례가 없었다…단 5주 만에 2400조원 증발한 엔비디아",
+          "url": "https://www.mk.co.kr/news/stock/12207784"
         },
-        {
-          "source": "매일경제(증권)",
-          "title": "“AI 꺾이면 132조원 증발”...한은이 던진 ‘최악 시나리오’",
-          "url": "https://www.mk.co.kr/news/stock/12186625"
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "status": "ONGOING",
-      "title": "엔비디아 젠슨 황 CEO 해임 절차 착수와 AI·반도체 투자심리 불확실성",
-      "summary": "엔비디아 이사회가 젠슨 황 CEO에 대한 공식 해임 절차에 돌입했다는 보도가 나오며, 사내 불륜 의혹과 중국 칩 밀반입·스파이 연루 의혹 등이 거론되고 있다. AI 붐의 핵심 수혜주인 엔비디아의 지배구조 리스크가 부각되면서 글로벌 반도체·AI 관련 금융자산 가격 변동성과 투자심리 위축 우려가 커지고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
         {
           "source": "매일경제(증권)",
           "title": "“사내 여성 임원과도 또 불륜”…엔비디아, 젠슨황 해임 준비",
@@ -103,10 +89,24 @@
       ]
     },
     {
+      "id": 2,
+      "status": "NEW",
+      "title": "대통령, 금융시장 불공정거래 전담 수사 강화 지시",
+      "summary": "이재명 대통령이 금융시장 불공정행위에 대해 중대범죄수사청에 별도 지시를 내리며 전담 수사와 엄정 단속을 주문했다. 금융투자상품 거래, 시세조종, 내부자거래 등 자본시장 범죄에 대한 규제·수사 강도가 높아질 가능성이 커졌다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[속보] 李대통령 “금융시장 불공정행위 엄정단속, 중수청에 별도 지시”",
+          "url": "https://www.mk.co.kr/news/economy/12207754"
+        }
+      ]
+    },
+    {
       "id": 3,
       "status": "ONGOING",
-      "title": "증권·은행권 연쇄 해킹과 금융보안·개인정보 보호 비상",
-      "summary": "미래에셋증권에서 3800명 고객 계좌번호 등 정보 유출과 임직원 3만5000명을 겨냥한 공격이 발생한 데 이어, 한양증권에서도 계좌·주민번호·주소 등 개인정보 유출이 확인됐다. 두 사건 모두 다우오피스 취약점을 활용한 것으로 추정되며, AI 에이전트까지 동원된 정교한 공격 양상이 포착되면서 금융투자업권 전반의 보안 체계 강화와 규제 재점검 필요성이 급부상하고 있다.",
+      "title": "증권사 연쇄 해킹으로 금융보안·개인정보 보호 비상",
+      "summary": "은행·보험사에 이어 미래에셋증권과 한양증권에서도 고객 계좌·주민번호 등 민감 정보가 유출되며 금융권 전반에 사이버 보안 리스크가 확산되고 있다. 공통 업무시스템 취약점과 AI 기반 공격 가능성이 지적되며 금융감독·보안투자 강화 압력이 커지는 중이다.",
       "articleCount": 2,
       "relatedArticles": [
         {
@@ -124,28 +124,33 @@
     {
       "id": 4,
       "status": "ONGOING",
-      "title": "국내 자본시장 교란 범죄 제재 부실과 규제 신뢰도 논란",
-      "summary": "최근 5년간 자본시장 교란 범죄 판결문 239건 분석 결과, 추징 대상 범죄수익 1.5조원 중 실제 추징은 18%에 그치고, 사건 3건 중 2건은 추징금 0원으로 드러났다. 주가조작·시세조종에 대한 실효적 환수와 처벌이 미흡하다는 지적이 커지며, 금융당국과 사법당국의 제재 체계 전반에 대한 신뢰도와 시장 공정성에 의문이 제기되고 있다.",
-      "articleCount": 1,
+      "title": "AI 버블 우려와 앤트로픽 상장·적자 리스크",
+      "summary": "한국은행이 AI 열풍이 꺾일 경우 132조원 손실 가능성을 제시하며 AI·빅테크 중심 금융시장의 버블 우려를 경고했다. 대규모 적자를 기록 중인 앤트로픽의 상장 이슈와 맞물려, AI 관련 자산 가격과 자본시장 변동성 확대가 주요 리스크로 부각되고 있다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
-          "title": "[단독] 주가조작, 패가망신 맞나요?…3건 중 2건은 추징금 ‘0원’",
-          "url": "https://www.mk.co.kr/news/society/12181989"
+          "title": "“AI 꺾이면 132조원 증발”...한은이 던진 ‘최악 시나리오’",
+          "url": "https://www.mk.co.kr/news/stock/12186625"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "링컨까지 소환한 베센트... 앤트로픽 상장, 다음달 확정인가",
+          "url": "https://www.mk.co.kr/news/business/12182433"
         }
       ]
     },
     {
       "id": 5,
-      "status": "SHIFTING",
-      "title": "미 재무당국의 스테이블코인 활성화 발언과 크립토 규제 기조 변화 조짐",
-      "summary": "미 재무장관 스콧 베센트가 링컨을 언급하며 스테이블코인 활성화 조치를 뒷받침하는 발언을 내놓으면서, 미국의 암호화폐·스테이블코인 규제 기조가 완화·정교화되는 방향으로 이동하는 신호로 해석되고 있다. 이는 글로벌 크립토·핀테크 시장과 관련 금융상품, 자본 흐름에 중장기적인 제도 변화와 투자 기회를 가져올 수 있다는 기대와 경계심을 동시에 낳고 있다.",
+      "status": "NEW",
+      "title": "바이오·분자진단 기업의 특허 전략과 자본시장 진출 모색",
+      "summary": "디엑스앤브이엑스(DXVX)가 PCR 위양성 판별 기술 ‘멜픽’ 특허를 출원하며 고급 분자진단 시장 공략에 나섰다. 정밀 진단 기술 고도화와 지식재산권 확보를 통해 바이오기업의 기업가치 제고 및 향후 자본시장 활용 전략이 강화되는 흐름이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
-          "title": "링컨까지 소환한 베센트... 앤트로픽 상장, 다음달 확정인가",
-          "url": "https://www.mk.co.kr/news/business/12182433"
+          "title": "DXVX, PCR 위양성 판별 기술 ‘멜픽’ 특허 출원…분자진단 시장 공략",
+          "url": "https://www.mk.co.kr/news/stock/12205084"
         }
       ]
     }

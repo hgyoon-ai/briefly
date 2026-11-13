@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-13",
+  "highlights": {
+    "bullets": [
+      "핵심: 엔비디아 시가총액이 고점 대비 5주 만에 약 1.8조달러(약 2400조원) 증발했다.",
+      "핵심: 이재명 대통령이 금융시장 불공정행위 엄정 단속을 지시하고 중수청에 관련 사안을 별도 지시했다."
+    ],
+    "topTopics": [
+      "MarketInfra",
+      "Policy",
+      "Compliance",
+      "Security"
+    ],
+    "stats": {
+      "collected": 15,
+      "deduped": 15
+    }
+  },
+  "cards": [
+    {
+      "id": "finance_0001",
+      "tab": "finance",
+      "publishedAt": "2026-11-13T10:17:04+09:00",
+      "source": "매일경제(증권)",
+      "title": "돈 녹는 속도, 유례가 없었다…단 5주 만에 2400조원 증발한 엔비디아",
+      "summary": [
+        "엔비디아 시가총액이 고점 대비 5주 만에 약 1.8조달러(약 2400조원) 증발했다.",
+        "AI 투자비와 수익성에 대한 의문이 재평가를 촉발하며 기술주 전반에 충격을 주고 있다.",
+        "조정의 속도와 규모는 과거 사례와 비교해 유례가 없다는 평가다."
+      ],
+      "whyItMatters": "단기간의 대규모 재평가는 AI 성장 가정의 불확실성을 반영해 글로벌 금융시장과 투자심리에 중대한 영향을 미치기 때문이다.",
+      "topics": [
+        "MarketInfra",
+        "Policy"
+      ],
+      "status": "SHIFTING",
+      "hash": "001d8d82e5aaa9d092cddb74827b7c9ba8ec55dae5261ad342a9f50fc24b62c1",
+      "url": "https://www.mk.co.kr/news/stock/12207784"
+    },
+    {
+      "id": "finance_0002",
+      "tab": "finance",
+      "publishedAt": "2026-11-13T09:48:21+09:00",
+      "source": "매일경제(증권)",
+      "title": "[속보] 李대통령 “금융시장 불공정행위 엄정단속, 중수청에 별도 지시”",
+      "summary": [
+        "이재명 대통령이 금융시장 불공정행위에 대해 엄정 단속을 지시했다.",
+        "중대범죄수사청(중수청)에 관련 사안을 별도 지시해 전담 수사 체계를 강화했다.",
+        "부실·저성과 기업에 대해 상장폐지 요건을 신속히 적용해 시장 건전성을 회복하라고 주문했다."
+      ],
+      "whyItMatters": "금융시장 신뢰와 투자자 보호를 위해 불법·부실행위를 조속히 근절하려는 목적이다.",
+      "topics": [
+        "Enforcement",
+        "Regulation",
+        "Compliance",
+        "MarketInfra"
+      ],
+      "status": "NEW",
+      "hash": "fa2e4fb5250f0594339deea63b9110b9966174900f6cce6844b09e5609f27eb5",
+      "url": "https://www.mk.co.kr/news/economy/12207754"
+    }
+  ]
+}

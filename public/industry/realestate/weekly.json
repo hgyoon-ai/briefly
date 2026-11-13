@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-11-06",
-    "to": "2026-11-12"
+    "from": "2026-11-07",
+    "to": "2026-11-13"
   },
   "kpis": {
     "collected": 22,
@@ -11,63 +11,39 @@
   "topTopics": [
     {
       "name": "Market",
-      "count": 17
+      "count": 16
     },
     {
       "name": "Supply",
-      "count": 13
+      "count": 12
     },
     {
       "name": "Policy",
-      "count": 10
+      "count": 9
     },
     {
       "name": "UrbanRenewal",
-      "count": 7
+      "count": 8
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-11-06",
-      "dayOfWeek": "Fri",
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
       "topic": "Market",
-      "count": 4
-    },
-    {
-      "date": "2026-11-06",
-      "dayOfWeek": "Fri",
-      "topic": "Supply",
       "count": 3
     },
     {
-      "date": "2026-11-06",
-      "dayOfWeek": "Fri",
-      "topic": "Policy",
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Supply",
       "count": 2
     },
     {
-      "date": "2026-11-06",
-      "dayOfWeek": "Fri",
-      "topic": "UrbanRenewal",
-      "count": 1
-    },
-    {
-      "date": "2026-11-07",
-      "dayOfWeek": "Sat",
-      "topic": "Market",
-      "count": 4
-    },
-    {
-      "date": "2026-11-07",
-      "dayOfWeek": "Sat",
-      "topic": "Supply",
-      "count": 3
-    },
-    {
       "date": "2026-11-07",
       "dayOfWeek": "Sat",
       "topic": "Policy",
-      "count": 1
+      "count": 0
     },
     {
       "date": "2026-11-07",
@@ -175,7 +151,7 @@
       "date": "2026-11-12",
       "dayOfWeek": "Thu",
       "topic": "Market",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-11-12",
@@ -187,11 +163,35 @@
       "date": "2026-11-12",
       "dayOfWeek": "Thu",
       "topic": "Policy",
-      "count": 2
+      "count": 3
     },
     {
       "date": "2026-11-12",
       "dayOfWeek": "Thu",
+      "topic": "UrbanRenewal",
+      "count": 2
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Market",
+      "count": 3
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Supply",
+      "count": 3
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
       "topic": "UrbanRenewal",
       "count": 2
     }
@@ -200,70 +200,70 @@
     {
       "id": 1,
       "status": "ONGOING",
-      "title": "공공재개발 수수료 인하로 사업비 부담 완화",
-      "summary": "국토부·LH가 공공재개발 시행자 수수료를 총사업비의 3%에서 1%로 낮추면서 구역당 약 130억원 수준의 비용 절감이 예상된다. 재개발 사업성 개선과 사업 추진 촉진 효과가 기대된다.",
+      "title": "비수도권 거점 산업 투자 확대로 지방 주거지 재편 가속",
+      "summary": "기업 약 27%가 비수도권 투자를 검토하면서 지방 일자리와 직주근접 수요가 동시에 늘고 있다. 정부가 입지 기준 완화와 816억 원 규모 보조금을 통해 거점 산업 투자를 밀어주면서, 산업단지 인근 신도시·배후 주거단지 재편이 본격화되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "헤럴드경제(부동산)",
-          "title": "“공공재개발 수수료 3%→1%” 구역당 130억원 줄어든다",
-          "url": "https://biz.heraldcorp.com/article/10934793"
+          "source": "매일경제(부동산)",
+          "title": "“일자리가 살자리”…거점 산업 투자에 지방 주거지 재편",
+          "url": "https://www.mk.co.kr/news/business/12207818"
         }
       ]
     },
     {
       "id": 2,
       "status": "ONGOING",
-      "title": "대형 택지·국가산단에 2조원 추가 투입…공급 기반 확충",
-      "summary": "LH가 광명시흥 공공주택지구와 용인 반도체 국가산단 등에 올해 2조원을 추가 집행해 총 사업비를 41조원 규모로 확대한다. 국가 단위 주거·산업용 토지 공급을 차질 없이 추진하려는 재정 보강 조치다.",
+      "title": "용인 반도체 클러스터 배후 주거 공급 막판 분양 러시",
+      "summary": "용인 반도체클러스터 인근에 대규모 아파트 공급이 막바지 단계에 들어섰다. 연말 약 1200가구 분양이 예정돼 있어 반도체 산업 종사자 중심의 직주근접 수요 유입과 인근 집값·전셋값 재평가가 예상된다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "헤럴드경제(부동산)",
-          "title": "LH, 광명시흥·용인 반도체 국가산단에 2조원 수혈",
-          "url": "https://biz.heraldcorp.com/article/10934747"
+          "source": "매일경제(부동산)",
+          "title": "용인 반도체클러스터 아파트 공급 막바지…연말 1200가구 분양 앞둬",
+          "url": "https://www.mk.co.kr/news/realestate/12207768"
         }
       ]
     },
     {
       "id": 3,
       "status": "ONGOING",
-      "title": "전세 7억 초과 증가로 보증 사각지대 확대",
-      "summary": "전세 거래 3건 중 1건이 보증금 7억원을 넘어서면서 보증 한도 밖 고액 전세가 빠르게 늘고 있다. 세입자 상당수가 보증보험의 보호를 받지 못하는 구조적 리스크가 커지고 있다.",
+      "title": "재건축 단지, 안전진단·추진위 통과로 사업 속도전",
+      "summary": "서울 서초 우면한라아파트가 예비안전진단 신청 2년 만에 조합설립추진위원회 구성을 승인받으며 재건축 절차가 본격화됐다. 추진위 승인과 임원 선임이 이뤄지면서 강남권 노후 단지들의 추가 재건축 기대감도 커지고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "한국경제(부동산)",
-          "title": "전세 3건 중 1건이 7억 넘어…보증 사각지대 몰린 세입자",
-          "url": "https://www.hankyung.com/article/2026111109921"
+          "source": "헤럴드경제(부동산)",
+          "title": "서초 우면한라, 예비안전진단 신청 2년 만에 추진위 승인…재건축 사업 속도",
+          "url": "https://biz.heraldcorp.com/article/10936041"
         }
       ]
     },
     {
       "id": 4,
       "status": "ONGOING",
-      "title": "아파트 커뮤니티 시스템 개인정보 유출에 첫 직권조사",
-      "summary": "GS건설이 운영하는 아파트 커뮤니티 예약·관리 시스템에서 개인정보 유출 사고가 발생해 과기정통부가 신설 제도를 활용한 1호 직권조사에 착수했다. 향후 디지털 기반 주거 서비스 전반에 대한 규제·보안 기준 강화로 이어질 가능성이 크다.",
+      "title": "전셋값, 내년 매매가의 두 배 상승 전망…전·월세 시장 압박 심화",
+      "summary": "내년 전국 전셋값이 4.5% 오를 것으로 예상되는 반면, 매매가격은 고금리와 대출 규제로 2% 상승에 그칠 전망이다. 전세 대체 수요와 대출 부담이 겹치면서 실수요자들의 전·월세난이 지속될 가능성이 크다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "매일경제(부동산)",
-          "title": "GS건설 아파트 커뮤니티 개인정보 유출…과기정통부, ‘1호 직권조사’ 결정",
-          "url": "https://www.mk.co.kr/news/realestate/12206129"
+          "source": "헤럴드경제(부동산)",
+          "title": "내년 집값보다 전셋값 두배 더 뛴다…매매 2%·전세 4.5% 상승 전망[부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10935840"
         }
       ]
     },
     {
       "id": 5,
-      "status": "ONGOING",
-      "title": "고금리 중도금대출로 분양 수분양자 이자부담 급증",
-      "summary": "중도금대출 금리가 5%에 근접하며 새 아파트 수분양자의 금융 비용이 크게 늘고 있다. 수분양자들은 대출 규제 완화를 요구하지만 정부가 기조 유지를 고수하면서 분양시장 체감 부담이 커지는 양상이다.",
+      "status": "SHIFTING",
+      "title": "집값 체감 상승 vs 정부의 ‘하락기 시그널’…시장 인식 괴리 확대",
+      "summary": "국토부 장관이 집값 하락기 진입 신호를 강조했지만, 서민층이 체감하는 매매·전세 가격은 여전히 높다는 지적이 커지고 있다. 정책 당국의 메시지와 실수요자 체감 사이의 간극이 확대되면서 시장 혼선과 불신 가능성이 제기된다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "매일경제(부동산)",
-          "title": "“앞날이 캄캄”…당첨 기쁨은 잠깐, 대출 금리에 한숨만",
-          "url": "https://www.mk.co.kr/news/realestate/12201523"
+          "source": "한국경제(부동산)",
+          "title": "서민 집값은 더 올랐는데…국토부 장관 \"하락기 시그널\"",
+          "url": "https://www.hankyung.com/article/202611123097i"
         }
       ]
     }

@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-11-07",
+    "to": "2026-11-13"
+  },
+  "kpis": {
+    "collected": 11,
+    "deduped": 11,
+    "uniqueTopics": 6
+  },
+  "topTopics": [
+    {
+      "name": "Roadmap",
+      "count": 9
+    },
+    {
+      "name": "Competition",
+      "count": 9
+    },
+    {
+      "name": "Investment",
+      "count": 5
+    },
+    {
+      "name": "Manufacturing",
+      "count": 4
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-07",
+      "dayOfWeek": "Sat",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 4
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 4
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Manufacturing",
+      "count": 2
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Manufacturing",
+      "count": 1
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "semic-1",
+      "status": "NEW",
+      "title": "AI 기반 지능형 안경 출시와 반도체 수요 확장",
+      "summary": "삼성전자가 12월 미국·한국에 지능형 안경 풀 라인업을 출시하면서, 온디바이스 AI 연산과 센서·디스플레이를 위한 고집적 저전력 반도체 수요가 늘어날 전망입니다. 웨어러블용 AP, 전력관리, 통신 칩 등 패키징·공정 최적화 경쟁이 가속화될 이슈입니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung Announces December Release for Intelligent Eyewear, Bringing a Smarter Way To See the World",
+          "url": "https://news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world"
+        }
+      ]
+    },
+    {
+      "id": "semic-2",
+      "status": "ONGOING",
+      "title": "엔비디아 CEO 사임으로 인한 AI GPU·반도체 밸류체인 영향",
+      "summary": "엔비디아 CEO의 돌연 사임은 AI GPU 로드맵과 capex 집행, 파운드리·메모리 업체와의 공급 협상 구조에 불확실성을 키워 반도체 밸류체인 전반에 전략 조정 이슈를 야기할 수 있습니다. 단기 주가 변동성과 중장기 투자·경쟁 구도 재편이 관건입니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Jensen Resigns Over Second Affair",
+          "url": "https://www.eetimes.com/jensen-resigns-over-second-affair/"
+        }
+      ]
+    },
+    {
+      "id": "semic-3",
+      "status": "ONGOING",
+      "title": "초분광 이미징 센서 상용화와 농업용 반도체 신규 수요",
+      "summary": "콩 병해 조기 탐지 사례처럼 초분광 이미징 기술이 농업에 적용되면서, CMOS 이미지센서와 전용 신호처리·AI 엣지칩 수요가 확대되고 있습니다. 반도체 공정 미세화와 원가 절감이 센서 대중화를 가속하며 비(非)모바일·비자동차 분야의 신규 수요원으로 부상 중입니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Can Machines See a Sick Plant Before a Farmer Can?",
+          "url": "https://www.eetimes.com/can-machines-see-a-sick-plant-before-a-farmer-can/"
+        }
+      ]
+    },
+    {
+      "id": "semic-4",
+      "status": "ONGOING",
+      "title": "AI 데이터센터 전력 제약과 칩 투자·공급 전략 재편",
+      "summary": "AI 클러스터 확장 시 전력망 용량과 비용·리스크 분담이 핵심 제약으로 부상하며, 미국·중국의 상이한 전력 인프라 전략이 고성능 GPU·ASIC 투자 속도와 생산 지역 선택에 영향을 주고 있습니다. 전력 효율 중심의 칩 설계와 패키징, 그리고 전력 인프라 연계형 설비투자가 핵심 이슈입니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "The AI Power Bill: Who Gets Grid Capacity, and Who Bears the Risk?",
+          "url": "https://www.eetimes.com/the-ai-power-bill-who-gets-grid-capacity-and-who-bears-the-risk/"
+        }
+      ]
+    },
+    {
+      "id": "semic-5",
+      "status": "ONGOING",
+      "title": "프리미엄 TV용 디스플레이·이미지 프로세서 기술 고도화",
+      "summary": "OLED, QLED, Neo QLED, Micro RGB 등 고급 TV 기술 경쟁이 심화되며, 초고해상도·고휘도·저전력 디스플레이 드라이버 IC와 영상 처리용 SoC의 성능·공정 난도가 동시에 상승하고 있습니다. 고부가가치 디스플레이용 반도체와 첨단 패키징 수요 증가가 반도체 업체의 중장기 성장 축으로 작용합니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Finding the Perfect TV: A Guide to Samsung TVs",
+          "url": "https://news.samsung.com/global/finding-the-perfect-tv-a-guide-to-samsung-tvs"
+        }
+      ]
+    }
+  ]
+}
