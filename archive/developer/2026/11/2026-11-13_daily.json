@@ -1,0 +1,707 @@
+{
+  "date": "2026-11-13",
+  "kpis": {
+    "clusters": 20,
+    "sources": 2,
+    "new": 16
+  },
+  "clusters": [
+    {
+      "id": "9f292efadbb17a0a602bd5555db7353887cb10eb",
+      "name": "rust-lang/rust",
+      "section": "releases",
+      "status": "NEW",
+      "score": 5423.16,
+      "oneLiner": "신뢰할 수 있고 효율적인 소프트웨어 개발을 돕는 Rust 언어 저장소.",
+      "whyNow": "새 릴리즈 영향으로 관심이 재점화되고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "121,858"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "16,662"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-13"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "1.100.0"
+        },
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "308p · 9c"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/rust-lang/rust"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/rust-lang/rust/releases/tag/1.100.0"
+        },
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50471793"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "f6def2c09ef7f675cb807d902152fbab5dce8ed4",
+      "name": "Jensen Huang resigns",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 5218.8,
+      "oneLiner": "Jensen Huang resigns라는 제목의 토론 항목.",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "3026p · 2836c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50467087"
+        },
+        {
+          "label": "Source",
+          "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "e23f2916740aaaa39108d16b3c498dd1a70ecb83",
+      "name": "Anthropic IPO",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 1473.0,
+      "oneLiner": "Anthropic IPO 관련 토론 항목.",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "831p · 812c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50465829"
+        },
+        {
+          "label": "Source",
+          "url": "https://ipo.anthropic.com/us/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "af04d2b7e3810d174423d992aa04714275c95042",
+      "name": "Service degradation on Microsoft 365",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 918.0,
+      "oneLiner": "Microsoft 365 서비스 장애 관련 토론 항목.",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "536p · 497c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50471731"
+        },
+        {
+          "label": "Source",
+          "url": "https://status.cloud.microsoft/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "0645a72251e186828ff53ba1f7728bb7390aa278",
+      "name": "Gemini 4 Hydrogen",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 643.2,
+      "oneLiner": "Gemini 4 Hydrogen 관련 토론 항목.",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 블로그 해석과 후기가 빠르게 붙는 흐름입니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "472p · 300c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50471431"
+        },
+        {
+          "label": "Source",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "a09af69a313cbad5062dafbbe9c319f811a4802d",
+      "name": "Rust 1.100",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 499.2,
+      "oneLiner": "Rust 1.100 관련 토론 항목.",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 블로그 해석과 후기가 빠르게 붙는 흐름입니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "452p · 190c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50472038"
+        },
+        {
+          "label": "Source",
+          "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "f749d0e7ef253ba585a3c77bd3efbe1e94027045",
+      "name": "\"Humble Bundle just killed most of their security through vibecoding\"",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 489.0,
+      "oneLiner": "Humble Bundle just killed most of their security through vibecoding라는 보안 관련 토론.",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "371p · 222c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50463899"
+        },
+        {
+          "label": "Source",
+          "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/"
+        }
+      ],
+      "tags": [
+        "security"
+      ]
+    },
+    {
+      "id": "89c749ece7e0832480567c89caebea260ccd1661",
+      "name": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 421.8,
+      "oneLiner": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep 관련 토론.",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "277p · 213c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50469994"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "6bd2519965bf932642f8059c96f3e51c989c55fb",
+      "name": "Writing correct software is hard and math alone won’t help us (2016)",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 419.4,
+      "oneLiner": "Writing correct software is hard and math alone won’t help us (2016)라는 토론 글.",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "359p · 170c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50465352"
+        },
+        {
+          "label": "Source",
+          "url": "https://pron.github.io/posts/correctness-and-complexity"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "1926a30a83a93aaf07d5d1ccd5a4e373105a8588",
+      "name": "simpsoka/zigzag",
+      "section": "releases",
+      "status": "NEW",
+      "score": 417.44,
+      "oneLiner": "Mac과 Windows용 SVG를 자수 디자인으로 변환하는 무료 오픈소스 소프트웨어.",
+      "whyNow": "릴리즈 직후라 적용/마이그레이션 경험이 모이고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "268"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "16"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-13"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v0.1.2"
+        },
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "358p · 143c"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/simpsoka/zigzag"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/simpsoka/zigzag/releases/tag/v0.1.2"
+        },
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50470488"
+        }
+      ],
+      "tags": [
+        "agent tooling",
+        "editor"
+      ]
+    },
+    {
+      "id": "2aa68c78a3e77fec398fc0cad46e58bd8c64a723",
+      "name": "huamidev/GestaltX",
+      "section": "releases",
+      "status": "ONGOING",
+      "score": 349.98,
+      "oneLiner": "iOS 27.x용 MobileGestalt 편집기로 지역 코드 조정과 기기 프리셋 및 백업을 지원.",
+      "whyNow": "새 릴리즈 영향으로 관심이 재점화되고 있습니다. 개발자 경험 개선 관점에서 관심이 커지고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "6,971"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "2,557"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-13"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v1.0.7"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/huamidev/GestaltX"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/huamidev/GestaltX/releases/tag/v1.0.7"
+        }
+      ],
+      "tags": [
+        "editor"
+      ]
+    },
+    {
+      "id": "8dc3d883783dda2519f919310396c83de5562358",
+      "name": "hyperionaidev/smolmaxxing",
+      "section": "trending",
+      "status": "NEW",
+      "score": 300.58,
+      "oneLiner": "가장 작은 기기에서 여러 LLM을 실행할 수 있게 하는 프로젝트.",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 개발자 경험 개선 관점에서 관심이 커지고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "309"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "11"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-13"
+        },
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "284p · 98c"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/hyperionaidev/smolmaxxing"
+        },
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50468888"
+        }
+      ],
+      "tags": [
+        "editor"
+      ]
+    },
+    {
+      "id": "362ec43e600ed175689ec20cd0eda291dc1e921f",
+      "name": "Gemini 4 Hydrogen and Orchestrator",
+      "section": "trending",
+      "status": "NEW",
+      "score": 284.4,
+      "oneLiner": "Gemini 4 Hydrogen and Orchestrator 관련 화제 항목.",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "318p · 78c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50472260"
+        },
+        {
+          "label": "Source",
+          "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "7442fa233884af683d30fddce8bfc4f9fb8d8e73",
+      "name": "Abandoned Quake 4 expansion finished by modders and now playable",
+      "section": "trending",
+      "status": "NEW",
+      "score": 246.6,
+      "oneLiner": "Abandoned Quake 4 expansion finished by modders and now playable 관련 트렌드.",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "243p · 84c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50467618"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "6b928e118bc922aaa604189bb57d6e2c7cec41c3",
+      "name": "Jensen Huang resigns as Nvidia CEO immediately",
+      "section": "trending",
+      "status": "NEW",
+      "score": 241.2,
+      "oneLiner": "Jensen Huang resigns as Nvidia CEO immediately라는 트렌드 항목.",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "374p · 14c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50467132"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "fe1d27765c974d66f6d9d9e981c631215a56fa81",
+      "name": "tangerineturtle1/NX2navi",
+      "section": "releases",
+      "status": "ONGOING",
+      "score": 168.6,
+      "oneLiner": "오픈 소스 개발 도구/프로젝트입니다.",
+      "whyNow": "새 릴리즈 영향으로 관심이 재점화되고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "3,590"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "250"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-13"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v0.9.2"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/tangerineturtle1/NX2navi"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/tangerineturtle1/NX2navi/releases/tag/v0.9.2"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "ee3252aa3d4110656eb05d0ecf500b3cfb180f1c",
+      "name": "jhaizhou-ops/S2Arm",
+      "section": "releases",
+      "status": "ONGOING",
+      "score": 140.86,
+      "oneLiner": "Switch 게임을 iPhone, iPad, Mac에서 네이티브로 실행하도록 하는 프로젝트.",
+      "whyNow": "버전 업데이트 이후 재확산이 시작된 흐름입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,768"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "507"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-13"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v0.3.4"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/jhaizhou-ops/S2Arm"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/jhaizhou-ops/S2Arm/releases/tag/v0.3.4"
+        }
+      ],
+      "tags": [
+        "infra"
+      ]
+    },
+    {
+      "id": "695ff79963cfb639871cc8d05d63291260e0ba9c",
+      "name": "JenkinWoo/sheeridVerify",
+      "section": "trending",
+      "status": "ONGOING",
+      "score": 106.3,
+      "oneLiner": "오픈 소스 개발 도구/프로젝트입니다.",
+      "whyNow": "스타 증가와 업데이트 흐름이 동시에 관측되는 상승 구간입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,092"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "1,131"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-13"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/JenkinWoo/sheeridVerify"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "d2b99ea335d0ab6b13926478a85ec02f67559774",
+      "name": "DIYgod/pinky",
+      "section": "releases",
+      "status": "NEW",
+      "score": 104.6,
+      "oneLiner": "AI 에이전트가 사용자 개입과 함께 휴대폰을 사용하도록 하는 도구.",
+      "whyNow": "최근 릴리즈가 나오며 실사용 공유가 빠르게 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,008"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "214"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-13"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v2026.1113.2"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/DIYgod/pinky"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/DIYgod/pinky/releases/tag/v2026.1113.2"
+        }
+      ],
+      "tags": [
+        "agent tooling"
+      ]
+    },
+    {
+      "id": "d835949a0ad661deaa540aaebc7a69fe46b4dc92",
+      "name": "Kianuni/Erosion-CN",
+      "section": "releases",
+      "status": "NEW",
+      "score": 96.94,
+      "oneLiner": "iOS와 iPadOS 설정 및 MobileGestalt 연구를 위한 도구 모음.",
+      "whyNow": "릴리즈 직후라 적용/마이그레이션 경험이 모이고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "1,735"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "377"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-13"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v0.9.1"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/Kianuni/Erosion-CN"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/Kianuni/Erosion-CN/releases/tag/v0.9.1"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}
