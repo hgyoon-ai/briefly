@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-11-08",
+    "to": "2026-11-14"
+  },
+  "kpis": {
+    "collected": 10,
+    "deduped": 10,
+    "uniqueTopics": 7
+  },
+  "topTopics": [
+    {
+      "name": "Roadmap",
+      "count": 9
+    },
+    {
+      "name": "Competition",
+      "count": 8
+    },
+    {
+      "name": "Investment",
+      "count": 7
+    },
+    {
+      "name": "Demand",
+      "count": 5
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 3
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Demand",
+      "count": 2
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Demand",
+      "count": 1
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "테슬라–스페이스X 1.5조 달러 규모 초대형 합병 가능성",
+      "summary": "블룸버그 보도에 따르면 테슬라와 스페이스X가 12월 약 1.5조 달러 규모의 초대형 합병을 발표할 수 있다는 관측이 나왔습니다. 성사될 경우 사상 최대 규모의 M&A로, 일론 머스크가 두 회사를 하나의 지배 구조 아래 재편해 자본 조달, 기술·인력 통합, 자율주행·우주·에너지 사업 간 시너지를 노리는 전략적 움직임으로 해석됩니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "SpaceX could announce $1.5 trillion Tesla merger in December: report",
+          "url": "https://electrek.co/2026/11/12/spacex-tesla-merger-announcement-december-report/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "캐나다, 55,000기 신규 EV 충전기 예산 포함한 대규모 인프라 투자",
+      "summary": "캐나다 정부가 최신 예산안에서 55,000개 이상의 신규 전기차 충전기 구축과 전력망 현대화를 위해 40억 캐나다달러 이상을 배정했습니다. 정부는 장거리 주행 불안 해소와 충전 접근성 개선을 통해 전기차 보급률을 끌어올리고, 동시에 송배전망 업그레이드로 재생에너지·EV 수요 증가에 대비하려는 정책 방향을 제시했습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Latest Canadian budget packs funding for 55,000 new EV chargers",
+          "url": "https://electrek.co/2026/11/12/latest-canadian-budget-packs-funding-for-55000-new-ev-chargers/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "유럽 중심 글로벌 전기차 판매 성장세 재가속",
+      "summary": "10월 글로벌 전기차 판매가 전년 동기 대비 8% 증가한 가운데, 유럽 순수전기차(BEV) 판매가 49% 급증하며 시장 성장을 주도했습니다. 보조금·규제 강화, 로컬 OEM의 신차 출시, 중국산 EV 유입 등 요인이 겹치면서 유럽이 다시 성장 엔진 역할을 하고 있으며, 이는 배터리·충전 인프라 투자 및 경쟁 구도 변화로 이어질 전망입니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Europe’s electric car sales jump 49% as global EV sales grow",
+          "url": "https://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "퀀텀스케이프, 1기압 조건 1,000사이클 달성한 ‘오스프리’ 올솔리드스테이트 셀 공개",
+      "summary": "퀀텀스케이프가 캐소드 측 액체 전해질을 황화물 고체전해질로 대체한 신규 올솔리드스테이트 ‘오스프리’ 플랫폼을 발표했습니다. 이 셀은 1기압 환경에서 80% 용량까지 1,000회 완전 충·방전을 달성해 고압 클램핑 없이도 상용 수준 내구성에 근접할 가능성을 보여주며, 차세대 고에너지밀도 배터리 상용화 일정과 경쟁 구도에 중요한 이정표로 평가됩니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "QuantumScape unveils Osprey all-solid-state cell: 1,000 cycles at 1 atm",
+          "url": "https://electrek.co/2026/11/11/quantumscape-osprey-all-solid-state-sulfide-battery/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "BYD, 5분급 초급속 ‘플래시 차징’과 로봇 충전 암 결합 솔루션 공개",
+      "summary": "BYD가 5분 이내 초급속 충전을 목표로 하는 ‘플래시 차징’ 기술에 자동 플러그 연결이 가능한 로봇 충전 암을 결합한 시스템을 선보였습니다. 로봇 팔이 차량 포트를 자동 인식·접속하고, 일부 전력은 통합 태양광 발전으로 보조하는 구조로, 무인·고속 충전 스테이션 및 차량 공유·로보택시용 인프라의 레퍼런스로 주목받고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Watch BYD’s robotic charging arm plug itself in and charge EVs in 5 minutes [Video]",
+          "url": "https://electrek.co/2026/11/10/byds-robot-charger-plugs-itself-in-charges-evs-5-mins-video/"
+        }
+      ]
+    }
+  ]
+}

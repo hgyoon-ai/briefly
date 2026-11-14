@@ -1,105 +1,64 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "highlights": {
     "bullets": [
-      "핵심: 엔비디아 최고경영자가 두 번째 불륜 스캔들로 사임했다.",
-      "핵심: 삼성전자가 지능형 안경을 12월 10일 미국과 한국에 출시한다고 발표했다.",
-      "트렌드: 오늘 기사들은 반도체 기반의 AI·센서 통합 제품과 전략 변화가 부각된다는 공통점이 있다."
+      "핵심: electronica 2026에서 반도체업체들이 AI 플랫폼으로 사업을 확장했다.",
+      "핵심: NovoGenius MCU+는 아날로그·전력·드라이버를 통합해 자동차 엣지 노드의 시스템을 단순화하고 효율을 개선한다."
     ],
     "topTopics": [
       "Roadmap",
-      "Competition",
       "Manufacturing",
-      "Investment"
+      "Competition",
+      "Demand"
     ],
     "stats": {
-      "collected": 7,
-      "deduped": 7
+      "collected": 4,
+      "deduped": 4
     }
   },
   "cards": [
     {
       "id": "semiconductor_0001",
       "tab": "semiconductor",
-      "publishedAt": "2026-11-13T05:48:35+09:00",
+      "publishedAt": "2026-11-13T23:47:27+09:00",
       "source": "EE Times",
-      "title": "Jensen Resigns Over Second Affair",
+      "title": "electronica 2026: Chipmakers Move Up the Stack as Data Centers and Physical AI Take Center Stage",
       "summary": [
-        "엔비디아 CEO가 두 번째 불륜 스캔들로 사임했다.",
-        "이사회가 새 리더를 찾기 위해 후임자 물색에 들어갔다.",
-        "경영 불확실성으로 회사 전략·투자·주가에 즉각적 영향이 예상된다."
+        "electronica 2026에서 반도체업체들이 AI 플랫폼으로 사업 영역을 확장하는 동향을 부각시켰다.",
+        "데이터센터, 엣지 AI, 로보틱스가 전력 설계와 실리콘 아키텍처 수요를 재편하고 있다.",
+        "업체들은 하드웨어를 넘어 소프트웨어·시스템 통합으로 이동하며 플랫폼 경쟁을 강화하고 있다."
       ],
-      "whyItMatters": "글로벌 반도체·AI 선도기업의 최고경영자 교체는 전략, 투자심리, 경쟁 구도에 중대한 영향을 미치기 때문이다.",
+      "whyItMatters": "데이터센터와 물리적 AI의 성장으로 통합 플랫폼과 차별화된 전력·실리콘 설계에 대한 수요가 급증하고 있어서입니다.",
       "topics": [
-        "Investment",
+        "Roadmap",
         "Competition",
-        "Roadmap"
+        "Demand",
+        "Manufacturing"
       ],
-      "status": "ONGOING",
-      "hash": "73636fc6be111dbe841b29d6741a861b21487450a2b32c36b12ec22a8898ddaa",
-      "url": "https://www.eetimes.com/jensen-resigns-over-second-affair/"
+      "status": "SHIFTING",
+      "hash": "b5abd8448f74b98a748b3672e2caa39b9e74a71b65e20f561ce0ee4fee262c96",
+      "url": "https://www.eetimes.com/electronica-2026-chipmakers-move-up-the-stack-as-data-centers-and-physical-ai-take-center-stage/"
     },
     {
       "id": "semiconductor_0002",
       "tab": "semiconductor",
-      "publishedAt": "2026-11-13T08:00:00+09:00",
-      "source": "Samsung Newsroom",
-      "title": "Samsung Announces December Release for Intelligent Eyewear, Bringing a Smarter Way To See the World",
+      "publishedAt": "2026-11-13T19:41:03+09:00",
+      "source": "EE Times",
+      "title": "How NovoGenius® MCU+ Devices Are Reshaping the Automotive Edge Node",
       "summary": [
-        "삼성전자가 지능형 안경 풀 라인업을 12월 10일 미국과 한국에 출시한다고 발표했습니다.",
-        "제품은 직관적 핸즈프리 AI 보조 기능과 30가지 디자인을 결합해 모바일 엔지니어링을 활용합니다.",
-        "오늘부터 예약 주문이 시작되어 소비자 접근성과 시장 진입을 빠르게 추진합니다."
+        "NovoGenius MCU+는 아날로그, 전력, 드라이버를 통합해 자동차 엣지 노드에 인텔리전스를 제공한다.",
+        "모터 제어·센싱·조명 기능을 단일 칩으로 처리해 시스템 단순화와 효율 개선을 유도한다.",
+        "이 제품은 전장 아키텍처 통합을 가속화해 경쟁 구도와 제조 방식을 변화시킬 가능성이 있다."
       ],
-      "whyItMatters": "이번 출시가 웨어러블 AI 시장 경쟁과 삼성의 하드웨어·소프트웨어 통합 역량을 시험하는 중요한 기회이기 때문입니다.",
+      "whyItMatters": "통합형 MCU가 비용·성능·설계 복잡도에 직접 영향을 주어 자동차 전장 설계와 경쟁 구도에 즉각적 영향을 미치기 때문이다.",
       "topics": [
         "Roadmap",
         "Competition",
         "Manufacturing"
       ],
-      "status": "NEW",
-      "hash": "3f8e5d7449817e2a9dd5d8bbb1f9297e32f65d30e6933a1d2d00bd902a650b06",
-      "url": "https://news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world"
-    },
-    {
-      "id": "semiconductor_0003",
-      "tab": "semiconductor",
-      "publishedAt": "2026-11-12T22:00:00+09:00",
-      "source": "EE Times",
-      "title": "Can Machines See a Sick Plant Before a Farmer Can?",
-      "summary": [
-        "초분광 이미징으로 콩 병해 조기 탐지가 가능함을 보여줌.",
-        "반도체 기술 발전이 스펙트럴 센서의 비용을 낮춰 농민용 보급을 촉진할 전망.",
-        "정밀농업과 현장 모니터링 방식에 실질적 변화를 가져올 수 있음."
-      ],
-      "whyItMatters": "고감도·저비용 스펙트럴 센서는 농작물 손실 감소와 생산성 향상으로 이어져 농업 전반에 큰 영향을 미치기 때문이다.",
-      "topics": [
-        "Manufacturing",
-        "Demand",
-        "Roadmap"
-      ],
       "status": "ONGOING",
-      "hash": "bc486ec69bb49f79eaa2606fe84daa1736fccd9f3eb0f9e22d27e6b9c63c151d",
-      "url": "https://www.eetimes.com/can-machines-see-a-sick-plant-before-a-farmer-can/"
-    },
-    {
-      "id": "semiconductor_0004",
-      "tab": "semiconductor",
-      "publishedAt": "2026-11-12T17:00:00+09:00",
-      "source": "Samsung Newsroom",
-      "title": "Finding the Perfect TV: A Guide to Samsung TVs",
-      "summary": [
-        "삼성 TV 구매 가이드는 화면 크기·화질·밝기·시청 환경·콘텐츠 선호 등 장기 사용을 고려한 핵심 요소를 설명합니다.",
-        "OLED, QLED, Neo QLED에서 최신 Micro RGB까지 다양한 디스플레이 기술 발전을 소개합니다.",
-        "AI가 화질·사운드 최적화를 넘어 사용자 경험을 지원하는 기능으로 확장되고 있음을 강조합니다."
-      ],
-      "whyItMatters": "기술 진화와 AI 기능 확장은 소비자 선택과 제품 포지셔닝에 직접적인 영향을 미치기 때문입니다.",
-      "topics": [
-        "Roadmap",
-        "Competition"
-      ],
-      "status": "ONGOING",
-      "hash": "480450c61a30f0f17ab72cb3ea346e9ade43f968acf4ed9a590341f77eaf687a",
-      "url": "https://news.samsung.com/global/finding-the-perfect-tv-a-guide-to-samsung-tvs"
+      "hash": "e62ef8cdd0b0a787c2c4cb4db7b3000b709913de0348f421e5b1367dacb5ed78",
+      "url": "https://www.eetimes.com/how-novogenius-mcu-devices-are-reshaping-the-automotive-edge-node/"
     }
   ]
 }

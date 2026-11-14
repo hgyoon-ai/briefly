@@ -1,0 +1,64 @@
+{
+  "date": "2026-11-14",
+  "highlights": {
+    "bullets": [
+      "핵심: electronica 2026에서 반도체업체들이 AI 플랫폼으로 사업을 확장했다.",
+      "핵심: NovoGenius MCU+는 아날로그·전력·드라이버를 통합해 자동차 엣지 노드의 시스템을 단순화하고 효율을 개선한다."
+    ],
+    "topTopics": [
+      "Roadmap",
+      "Manufacturing",
+      "Competition",
+      "Demand"
+    ],
+    "stats": {
+      "collected": 4,
+      "deduped": 4
+    }
+  },
+  "cards": [
+    {
+      "id": "semiconductor_0001",
+      "tab": "semiconductor",
+      "publishedAt": "2026-11-13T23:47:27+09:00",
+      "source": "EE Times",
+      "title": "electronica 2026: Chipmakers Move Up the Stack as Data Centers and Physical AI Take Center Stage",
+      "summary": [
+        "electronica 2026에서 반도체업체들이 AI 플랫폼으로 사업 영역을 확장하는 동향을 부각시켰다.",
+        "데이터센터, 엣지 AI, 로보틱스가 전력 설계와 실리콘 아키텍처 수요를 재편하고 있다.",
+        "업체들은 하드웨어를 넘어 소프트웨어·시스템 통합으로 이동하며 플랫폼 경쟁을 강화하고 있다."
+      ],
+      "whyItMatters": "데이터센터와 물리적 AI의 성장으로 통합 플랫폼과 차별화된 전력·실리콘 설계에 대한 수요가 급증하고 있어서입니다.",
+      "topics": [
+        "Roadmap",
+        "Competition",
+        "Demand",
+        "Manufacturing"
+      ],
+      "status": "SHIFTING",
+      "hash": "b5abd8448f74b98a748b3672e2caa39b9e74a71b65e20f561ce0ee4fee262c96",
+      "url": "https://www.eetimes.com/electronica-2026-chipmakers-move-up-the-stack-as-data-centers-and-physical-ai-take-center-stage/"
+    },
+    {
+      "id": "semiconductor_0002",
+      "tab": "semiconductor",
+      "publishedAt": "2026-11-13T19:41:03+09:00",
+      "source": "EE Times",
+      "title": "How NovoGenius® MCU+ Devices Are Reshaping the Automotive Edge Node",
+      "summary": [
+        "NovoGenius MCU+는 아날로그, 전력, 드라이버를 통합해 자동차 엣지 노드에 인텔리전스를 제공한다.",
+        "모터 제어·센싱·조명 기능을 단일 칩으로 처리해 시스템 단순화와 효율 개선을 유도한다.",
+        "이 제품은 전장 아키텍처 통합을 가속화해 경쟁 구도와 제조 방식을 변화시킬 가능성이 있다."
+      ],
+      "whyItMatters": "통합형 MCU가 비용·성능·설계 복잡도에 직접 영향을 주어 자동차 전장 설계와 경쟁 구도에 즉각적 영향을 미치기 때문이다.",
+      "topics": [
+        "Roadmap",
+        "Competition",
+        "Manufacturing"
+      ],
+      "status": "ONGOING",
+      "hash": "e62ef8cdd0b0a787c2c4cb4db7b3000b709913de0348f421e5b1367dacb5ed78",
+      "url": "https://www.eetimes.com/how-novogenius-mcu-devices-are-reshaping-the-automotive-edge-node/"
+    }
+  ]
+}

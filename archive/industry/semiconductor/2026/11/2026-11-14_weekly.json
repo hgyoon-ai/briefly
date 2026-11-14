@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-11-08",
+    "to": "2026-11-14"
+  },
+  "kpis": {
+    "collected": 13,
+    "deduped": 13,
+    "uniqueTopics": 6
+  },
+  "topTopics": [
+    {
+      "name": "Roadmap",
+      "count": 11
+    },
+    {
+      "name": "Competition",
+      "count": 11
+    },
+    {
+      "name": "Manufacturing",
+      "count": 6
+    },
+    {
+      "name": "Demand",
+      "count": 5
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 4
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Demand",
+      "count": 2
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 4
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Manufacturing",
+      "count": 2
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 4
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 4
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Manufacturing",
+      "count": 3
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Demand",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "데이터센터·피지컬 AI 부상에 따른 반도체 업체의 플랫폼 전환",
+      "summary": "electronica 2026에서 반도체 기업들이 단순 칩 공급을 넘어 AI 플랫폼·솔루션 레벨로 상위 스택 진입을 가속하는 흐름이 확인됐다. 데이터센터와 엣지·로보틱스용 AI 수요가 전력 설계, 패키징, 실리콘 아키텍처 로드맵을 재편하며 고성능·저전력 최적화를 둘러싼 경쟁이 심화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "electronica 2026: Chipmakers Move Up the Stack as Data Centers and Physical AI Take Center Stage",
+          "url": "https://www.eetimes.com/electronica-2026-chipmakers-move-up-the-stack-as-data-centers-and-physical-ai-take-center-stage/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "AI 인프라 확장 병목으로 부상한 전력 그리드 용량·비용 리스크",
+      "summary": "초거대 AI 클러스터 구축에서 전력망 용량 확보와 요금·투자 리스크 분담이 핵심 이슈로 부상했다. 미국과 중국은 각각 규제·시장 구조 차이로 인해 그리드 증설 전략과 비용 부담 주체가 다르게 설계되고 있으며, 이는 고성능 반도체 수요의 실제 실현 속도와 지역별 데이터센터 투자를 좌우하는 변수로 작용하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "The AI Power Bill: Who Gets Grid Capacity, and Who Bears the Risk?",
+          "url": "https://www.eetimes.com/the-ai-power-bill-who-gets-grid-capacity-and-who-bears-the-risk/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "자동차 엣지 노드용 고집적 MCU 등장과 시스템 아키텍처 변화",
+      "summary": "NovoGenius MCU+와 같이 아날로그·전력·드라이버를 통합한 고집적 MCU가 자동차 엣지 노드 설계를 재구성하고 있다. 모터 제어, 센싱, 조명 기능을 단일 칩에서 처리함으로써 부품 수를 줄이고 전력 효율을 높여, 전기차·ADAS용 반도체 수요를 보다 지능형·통합형 방향으로 이동시키고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "How NovoGenius® MCU+ Devices Are Reshaping the Automotive Edge Node",
+          "url": "https://www.eetimes.com/how-novogenius-mcu-devices-are-reshaping-the-automotive-edge-node/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "삼성 지능형 안경 출시와 웨어러블·엣지 반도체 수요 확대",
+      "summary": "삼성전자가 12월 미국·한국 동시 출시를 예고한 지능형 안경 라인업은 온디바이스 AI, 저전력 통신, 디스플레이·센서 집적이 결합된 웨어러블 플랫폼이다. 이는 모바일 SoC, 저전력 ISP, 마이크로디스플레이, 배터리 관리 IC 등 웨어러블 특화 반도체 수요를 촉진하며, AR·AI 보조형 엣지 디바이스 시장 확대의 신호탄으로 해석된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung Announces December Release for Intelligent Eyewear, Bringing a Smarter Way To See the World",
+          "url": "https://news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "초분광 이미징 기반 농업용 센서 확산과 저가형 반도체 기술",
+      "summary": "초분광 이미징을 활용한 작물 병해 조기 탐지는, 스펙트럼 센서·이미지 프로세서의 반도체 기술 발전과 비용 하락에 힘입어 농업 분야로 확산되고 있다. 이는 농업용 IoT·정밀농업 기기로의 센서·MCU·통신 칩 수요를 확대시키며, 비전통 산업에서의 반도체 응용 다변화를 가속하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Can Machines See a Sick Plant Before a Farmer Can?",
+          "url": "https://www.eetimes.com/can-machines-see-a-sick-plant-before-a-farmer-can/"
+        }
+      ]
+    }
+  ]
+}

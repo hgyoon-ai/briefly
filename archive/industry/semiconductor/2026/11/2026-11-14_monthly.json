@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-10-16",
+    "to": "2026-11-14"
+  },
+  "kpis": {
+    "collected": 50,
+    "deduped": 50,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 29,
+      "Competition": 23,
+      "Manufacturing": 19,
+      "Demand": 15,
+      "Investment": 14,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/16-10/22)",
+      "topicCounts": {
+        "Roadmap": 12,
+        "Competition": 11,
+        "Manufacturing": 8,
+        "Demand": 9,
+        "Investment": 2
+      }
+    },
+    {
+      "week": "Week 2 (10/23-10/29)",
+      "topicCounts": {
+        "Roadmap": 7,
+        "Competition": 5,
+        "Manufacturing": 6,
+        "Demand": 4,
+        "Investment": 3
+      }
+    },
+    {
+      "week": "Week 3 (10/30-11/05)",
+      "topicCounts": {
+        "Roadmap": 3,
+        "Competition": 0,
+        "Manufacturing": 1,
+        "Demand": 1,
+        "Investment": 2
+      }
+    },
+    {
+      "week": "Week 4 (11/06-11/12)",
+      "topicCounts": {
+        "Roadmap": 7,
+        "Competition": 7,
+        "Manufacturing": 2,
+        "Demand": 3,
+        "Investment": 6
+      }
+    },
+    {
+      "week": "Week 5 (11/13-11/14)",
+      "topicCounts": {
+        "Roadmap": 2,
+        "Competition": 2,
+        "Manufacturing": 2,
+        "Demand": 1,
+        "Investment": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "데이터센터·물리 AI 부상 속 반도체업체의 AI 플랫폼 전환",
+      "summary": "electronica 2026에서 주요 팹리스·IDM들이 단순 칩 공급을 넘어 AI 플랫폼·솔루션 사업으로 확장하는 흐름이 뚜렷해지고 있다. 데이터센터, 엣지 AI, 로보틱스 수요가 전력 설계·실리콘 아키텍처 요구사항을 재편하면서, 반도체 로드맵과 경쟁 구도가 시스템·소프트웨어까지 포함하는 방향으로 이동 중이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "electronica 2026: Chipmakers Move Up the Stack as Data Centers and Physical AI Take Center Stage",
+          "url": "https://www.eetimes.com/electronica-2026-chipmakers-move-up-the-stack-as-data-centers-and-physical-ai-take-center-stage/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "엔비디아 CEO 사임으로 인한 반도체·AI 생태계 리더십 공백",
+      "summary": "엔비디아 CEO 젠슨 황의 사임은 GPU와 AI 가속기 시장의 전략·로드맵 의사결정 구조에 불확실성을 키우고 있다. 이사회가 후임 리더를 물색하는 가운데, 데이터센터·AI 인프라 투자 계획과 경쟁사 대비 혁신 속도에 단기 변동 가능성이 제기된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Jensen Resigns Over Second Affair",
+          "url": "https://www.eetimes.com/jensen-resigns-over-second-affair/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "AI 붐에 따른 전력망 용량 경쟁과 반도체 데이터센터 투자 리스크",
+      "summary": "AI 클러스터 확장이 각국 전력망 용량을 선점하는 경쟁으로 이어지며, 대규모 GPU·AI 칩 수요의 실제 실현 가능성이 전력 인프라에 의해 제약받고 있다. 미국과 중국은 서로 다른 그리드 확보·비용 분담 방식으로 AI 인프라를 확대하고 있어, 반도체 공급사 입장에서도 지역별 수요 리스크 관리가 중요해지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "The AI Power Bill: Who Gets Grid Capacity, and Who Bears the Risk?",
+          "url": "https://www.eetimes.com/the-ai-power-bill-who-gets-grid-capacity-and-who-bears-the-risk/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "양자컴퓨팅(Q-Day) 시계가 앞당기는 보안 반도체 수요",
+      "summary": "향후 2년 내 양자컴퓨터가 블록체인·공개키 암호를 위협할 수 있다는 전망이 제기되며, 포스트양자암호(PQC) 지원 보안 칩과 신형 암호 가속기 등의 수요 증가가 예상된다. 정책·투자가 맞물리면서 보안 반도체 로드맵 재정비와 양자내성 칩 설계 전환 필요성이 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "The Countdown to Q-Day Has Begun",
+          "url": "https://www.eetimes.com/the-countdown-to-q-day-has-begun/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "농업용 초분광 센서 확산으로 비전 센서·이미지처리 반도체 수요 확대",
+      "summary": "초분광 이미징을 활용해 콩 병해를 조기에 탐지하는 연구가 성과를 내면서, 저비용 스펙트럴 센서와 연산 칩에 대한 농업·산업용 수요가 부상하고 있다. 반도체 공정·집적 기술 발전이 센서 가격을 낮추어 스마트팜·정밀농업용 비전 시스템 시장 확대를 뒷받침하는 흐름이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Can Machines See a Sick Plant Before a Farmer Can?",
+          "url": "https://www.eetimes.com/can-machines-see-a-sick-plant-before-a-farmer-can/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,79 +1,79 @@
 {
   "range": {
-    "from": "2026-10-15",
-    "to": "2026-11-13"
+    "from": "2026-10-16",
+    "to": "2026-11-14"
   },
   "kpis": {
     "collected": 42,
     "deduped": 42,
     "uniqueTopics": 7,
     "marketShare": {
-      "Roadmap": 25,
+      "Roadmap": 26,
       "Competition": 25,
-      "Investment": 20,
       "Demand": 20,
-      "Policy": 10,
+      "Investment": 20,
+      "Policy": 9,
       "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/15-10/21)",
+      "week": "Week 1 (10/16-10/22)",
       "topicCounts": {
-        "Roadmap": 8,
-        "Competition": 11,
-        "Investment": 3,
-        "Demand": 9,
+        "Roadmap": 9,
+        "Competition": 10,
+        "Demand": 8,
+        "Investment": 5,
         "Policy": 4
       }
     },
     {
-      "week": "Week 2 (10/22-10/28)",
+      "week": "Week 2 (10/23-10/29)",
       "topicCounts": {
-        "Roadmap": 7,
-        "Competition": 5,
-        "Investment": 7,
+        "Roadmap": 8,
+        "Competition": 7,
         "Demand": 4,
+        "Investment": 9,
         "Policy": 2
       }
     },
     {
-      "week": "Week 3 (10/29-11/04)",
+      "week": "Week 3 (10/30-11/05)",
       "topicCounts": {
-        "Roadmap": 3,
-        "Competition": 2,
+        "Roadmap": 1,
+        "Competition": 1,
+        "Demand": 2,
         "Investment": 1,
-        "Demand": 4,
         "Policy": 1
       }
     },
     {
-      "week": "Week 4 (11/05-11/11)",
+      "week": "Week 4 (11/06-11/12)",
       "topicCounts": {
         "Roadmap": 8,
         "Competition": 8,
-        "Investment": 6,
         "Demand": 6,
-        "Policy": 2
+        "Investment": 7,
+        "Policy": 1
       }
     },
     {
-      "week": "Week 5 (11/12-11/13)",
+      "week": "Week 5 (11/13-11/14)",
       "topicCounts": {
         "Roadmap": 2,
-        "Competition": 1,
-        "Investment": 2,
+        "Competition": 2,
         "Demand": 1,
-        "Policy": 2
+        "Investment": 0,
+        "Policy": 0
       }
     }
   ],
   "topIssues": [
     {
-      "id": 1,
+      "id": "ev-001",
       "status": "NEW",
-      "title": "머스크의 테슬라-스페이스X 초대형 합병 가능성 부각",
-      "summary": "일론 머스크가 지배하는 테슬라와 스페이스X가 12월 약 1.5조 달러 규모의 합병을 발표할 수 있다는 보도가 나오며, EV·우주·AI 사업을 아우르는 초대형 지배구조 재편 이슈가 부상하고 있습니다.",
+      "title": "테슬라–스페이스X 1.5조 달러 초대형 합병 가능성",
+      "summary": "블룸버그 보도에 따르면 테슬라와 스페이스X가 12월 약 1.5조 달러 규모의 합병 발표를 검토 중인 것으로 전해졌습니다. 성사될 경우 사상 최대 규모의 테크·모빌리티 M&A로, 일론 머스크의 지배 구조 단일화와 양사 기술·자본 시너지가 EV·우주·에너지 사업 전반에 중장기 로드맵 변화를 가져올 수 있다는 관측이 나옵니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -84,10 +84,10 @@
       ]
     },
     {
-      "id": 2,
+      "id": "ev-002",
       "status": "NEW",
-      "title": "캐나다, 대규모 예산으로 전국 EV 충전 인프라 확충 가속",
-      "summary": "캐나다 정부가 예산안에 55,000기 이상 신규 전기차 충전기 구축과 전력망 현대화를 포함한 40억 캐나다달러 이상 투자를 담으면서, 북미 EV 충전 인프라 확대와 장거리 주행 신뢰도 제고가 본격화되고 있습니다.",
+      "title": "캐나다, EV 충전 인프라 확대 위해 55,000기 신규 충전기 예산 편성",
+      "summary": "캐나다 정부가 최신 예산안에서 55,000개 이상의 신규 전기차 충전기 구축과 전력망 현대화를 위해 40억 캐나다달러 이상을 배정했습니다. 이는 장거리 주행 불안을 줄이고 주요 도시·고속도로·지역 거점의 충전 접근성을 높여 EV 보급을 가속하려는 정책 신호로, 북미 전반의 인프라 경쟁에도 영향을 줄 수 있습니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -98,10 +98,10 @@
       ]
     },
     {
-      "id": 3,
+      "id": "ev-003",
       "status": "ONGOING",
-      "title": "유럽 중심 글로벌 EV 수요 성장세 지속",
-      "summary": "10월 글로벌 전기차 판매가 전년 대비 8% 증가하고 특히 유럽 BEV 판매가 49% 급증하면서, 고금리와 보조금 축소 우려에도 유럽을 축으로 한 EV 수요 성장 추세가 이어지고 있습니다.",
+      "title": "유럽 전기차 판매 49% 급증, 글로벌 EV 성장 회복 조짐",
+      "summary": "10월 글로벌 전기차 판매가 전년 동월 대비 8% 증가한 가운데, 유럽 BEV 판매는 49% 급증하며 시장 성장을 주도했습니다. 일부 지역 수요 둔화 우려에도 불구하고 유럽의 강한 성장세는 정책 지원과 모델 다변화, 가격 인하 효과가 결합된 결과로, 글로벌 EV 수요 사이클이 다시 상향 국면에 들어설 수 있다는 신호로 해석됩니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -112,30 +112,35 @@
       ]
     },
     {
-      "id": 4,
-      "status": "NEW",
-      "title": "퀀텀스케이프, 1기압·1,000사이클 성능의 신규 전고체 배터리 플랫폼 공개",
-      "summary": "퀀텀스케이프가 황화물 고체전해질을 적용한 ‘오스프리’ 전고체 셀을 공개하며 1기압 조건에서 80% 용량까지 1,000회 충·방전 성능을 입증, 고압 클램핑 이슈 완화와 전고체 상용화 가능성을 높이고 있습니다.",
-      "articleCount": 1,
+      "id": "ev-004",
+      "status": "ONGOING",
+      "title": "폭스바겐, SSP 기반 EV 연기와 보급형 신규 EV 상표로 투트랙 전략 시사",
+      "summary": "폭스바겐이 SSP 플랫폼 기반 EV 출시를 추가로 연기하면서, 차세대 플랫폼 전환에 난항을 겪고 있습니다. 동시에 2027년 약 2만 유로 시작가의 신규 보급형 전기차와 관련된 것으로 보이는 상표를 출원해 엔트리급 EV 확대 의지를 드러냈습니다. 고급 플랫폼 지연과 저가형 라인업 강화가 병행되는 구조 조정 국면으로, 중장기 경쟁력 재정비 과정이 이어지는 중입니다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
           "source": "Electrek",
-          "title": "QuantumScape unveils Osprey all-solid-state cell: 1,000 cycles at 1 atm",
-          "url": "https://electrek.co/2026/11/11/quantumscape-osprey-all-solid-state-sulfide-battery/"
+          "title": "Volkswagen may have just hinted at the name of its next affordable EV",
+          "url": "https://electrek.co/2026/11/13/volkswagen-trademark-name-next-affordable-ev/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Volkswagen is delaying another EV based on the SSP",
+          "url": "https://electrek.co/2026/11/13/volkswagen-delaying-another-ev-ssp/"
         }
       ]
     },
     {
-      "id": 5,
+      "id": "ev-005",
       "status": "ONGOING",
-      "title": "루시드, 공급망·재고 관리 문제로 브랜드 신뢰도 시험대",
-      "summary": "루시드 CEO가 재고 차량 위치를 제때 파악하지 못해 인도 지연과 주문 취소가 발생했다고 인정하면서, 프리미엄 EV 스타트업의 운영 역량·딜리버리 체계 개선이 긴급 과제로 부상했습니다.",
+      "title": "BYD, 102만 명 고용으로 초대형 EV 제조 허브로 부상",
+      "summary": "BYD는 인력이 102만 명을 돌파하며 토요타·GM·포드·테슬라를 합친 것보다 많은 규모로 확대했습니다. 10개월 만에 약 15만 명을 추가 고용한 것으로, 배터리부터 완성차까지 수직계열화된 생산 능력과 공격적인 해외 진출을 뒷받침하는 제조·공급망 역량 강화로 EV 가격·물량 경쟁에서 우위를 공고히 하려는 행보로 해석됩니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
-          "title": "Lucid CEO admits it ‘did not even know where cars were’ and lost orders",
-          "url": "https://electrek.co/2026/11/10/lucid-ceo-did-not-know-where-cars-were-lost-orders/"
+          "title": "BYD now has 1.02 million workers, more than Toyota, GM, Ford, and Tesla combined",
+          "url": "https://electrek.co/2026/10/28/byd-1-million-employees-more-than-toyota-gm-ford-tesla/"
         }
       ]
     }

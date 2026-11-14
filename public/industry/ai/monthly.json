@@ -1,141 +1,141 @@
 {
   "range": {
-    "from": "2026-10-15",
-    "to": "2026-11-13"
+    "from": "2026-10-16",
+    "to": "2026-11-14"
   },
   "kpis": {
-    "collected": 67,
-    "deduped": 67,
+    "collected": 66,
+    "deduped": 66,
     "uniqueTopics": 10,
     "marketShare": {
       "Tooling": 26,
-      "Product": 22,
-      "Models": 19,
-      "Infra": 17,
-      "Research": 15,
-      "Other": 1
+      "Product": 23,
+      "Models": 18,
+      "Infra": 18,
+      "Research": 16,
+      "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/15-10/21)",
+      "week": "Week 1 (10/16-10/22)",
       "topicCounts": {
-        "Tooling": 12,
+        "Tooling": 9,
         "Product": 10,
-        "Models": 8,
-        "Infra": 5,
+        "Models": 7,
+        "Infra": 3,
         "Research": 8
       }
     },
     {
-      "week": "Week 2 (10/22-10/28)",
+      "week": "Week 2 (10/23-10/29)",
       "topicCounts": {
-        "Tooling": 7,
-        "Product": 4,
-        "Models": 3,
+        "Tooling": 10,
+        "Product": 8,
+        "Models": 6,
         "Infra": 6,
-        "Research": 2
-      }
-    },
-    {
-      "week": "Week 3 (10/29-11/04)",
-      "topicCounts": {
-        "Tooling": 5,
-        "Product": 4,
-        "Models": 3,
-        "Infra": 7,
         "Research": 4
       }
     },
     {
-      "week": "Week 4 (11/05-11/11)",
+      "week": "Week 3 (10/30-11/05)",
       "topicCounts": {
-        "Tooling": 9,
-        "Product": 6,
-        "Models": 8,
-        "Infra": 9,
-        "Research": 6
+        "Tooling": 3,
+        "Product": 2,
+        "Models": 0,
+        "Infra": 4,
+        "Research": 0
       }
     },
     {
-      "week": "Week 5 (11/12-11/13)",
+      "week": "Week 4 (11/06-11/12)",
+      "topicCounts": {
+        "Tooling": 9,
+        "Product": 7,
+        "Models": 7,
+        "Infra": 8,
+        "Research": 4
+      }
+    },
+    {
+      "week": "Week 5 (11/13-11/14)",
       "topicCounts": {
         "Tooling": 4,
-        "Product": 4,
-        "Models": 4,
-        "Infra": 1,
+        "Product": 3,
+        "Models": 1,
+        "Infra": 3,
         "Research": 2
       }
     }
   ],
   "topIssues": [
     {
-      "id": 1,
+      "id": "ai-1",
       "status": "NEW",
-      "title": "AI 코딩 에이전트·번역·수학 난제까지: 최신 AI 연구 성과 모음",
-      "summary": "Microsoft Research 팟캐스트 에디션 #98에서는 범용 AI 번역, 31년 된 수학 난제 해결의 단초, AI 코딩 에이전트의 속도·효율 향상 등 최전선 연구를 한데 묶어 소개한다. 학계·산업계 모두에 영향을 줄 수 있는 기초 알고리즘·에이전트 연구가 빠르게 축적되고 있다는 것이 핵심 흐름이다.",
+      "title": "NVIDIA cuBLAS FP64 알고리즘으로 과학 시뮬레이션 가속",
+      "summary": "NVIDIA가 cuBLAS에 새로운 FP64 알고리즘을 도입해 분자 화학·재료 과학 등 고정밀 밀집 행렬 연산 워크로드의 성능을 크게 향상한다. 동일 하드웨어에서 배정밀도 연산 처리량을 높여 대규모 과학 시뮬레이션의 실행 시간을 단축하는 것이 핵심으로, HPC·연구 인프라에서 AI·수치해석 혼합 워크로드의 효율 개선이 기대된다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "Microsoft Research Blog",
-          "title": "Microsoft Research Focus – Edition #98",
-          "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/"
+          "source": "NVIDIA Developer Blog",
+          "title": "Faster Scientific Simulations with New FP64 Algorithms in NVIDIA cuBLAS",
+          "url": "https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas/"
         }
       ]
     },
     {
-      "id": 2,
-      "status": "ONGOING",
-      "title": "AI 제품 에이전트로 개발·배포 주기를 1–2일로 단축",
-      "summary": "Amplitude는 OpenAI 기반 제품 에이전트 ‘Wave’를 도입해 어떤 기능을 만들지 자동으로 도출하고, 코딩 에이전트가 실제 변경을 구현·배포하는 체계를 구축했다. 이로써 제품 개선 사이클을 며칠 단위로 줄이며, 기획·개발·실험 과정을 AI 중심 자동화 파이프라인으로 재편하는 흐름이 지속되고 있다.",
+      "id": "ai-2",
+      "status": "NEW",
+      "title": "Jetson AGX Orin에서 cuDLA로 저전력 AI 추론 최적화",
+      "summary": "NVIDIA Jetson AGX Orin에서 cuDLA를 활용해 Python 환경에서도 네이티브 DLA 추론을 구동하는 방법이 제시됐다. 제한된 전력·연산 자원에서 여러 신경망을 효율적으로 병렬 실행하는 예제와 튜닝 기법을 통해 엣지·로봇·임베디드 AI 시스템의 에너지 효율과 처리량을 동시에 높이는 실무 가이드를 제공한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA",
+          "url": "https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla/"
+        }
+      ]
+    },
+    {
+      "id": "ai-3",
+      "status": "NEW",
+      "title": "XYBench: 질문 이면의 진짜 문제를 평가하는 LLM 벤치마크",
+      "summary": "XYBench는 사용자의 질문 표면이 아니라 그 뒤에 숨겨진 근본 과제를 파악하고 해결 전략을 제안하는 능력을 측정하는 새 벤치마크다. 의도 이해, 문제 재정의, 해결책 적합성 등을 과제로 구성해, 단순 정답 생성이 아닌 문제 해결형 LLM의 품질을 비교·개선하는 지표로 활용될 수 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "XYBench: Helping with the problem behind the question",
+          "url": "https://huggingface.co/blog/allenai/xybench"
+        }
+      ]
+    },
+    {
+      "id": "ai-4",
+      "status": "NEW",
+      "title": "ChatGPT Wallet로 에이전트 기반 결제·구매 기능 개방",
+      "summary": "OpenAI가 ChatGPT Wallet을 도입해 ChatGPT Work, Codex, dots 등의 에이전트가 사용자를 대신해 구매를 완료할 수 있도록 했다. 사용자는 사전 승인과 카드 보안 기능을 통해 결제를 제어하며, 이는 에이전트가 디지털 서비스·소프트웨어를 자동으로 구독·구매하는 새로운 상거래 워크플로를 여는 인프라 기능으로 평가된다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "OpenAI Blog",
-          "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-          "url": "https://openai.com/business/customer-stories/amplitude"
+          "title": "Introducing ChatGPT Wallet",
+          "url": "https://openai.com/index/introducing-chatgpt-wallet"
         }
       ]
     },
     {
-      "id": 3,
+      "id": "ai-5",
       "status": "ONGOING",
-      "title": "LLM 전용 마크업 언어 LLMON과 Granite 4.1 통합",
-      "summary": "Hugging Face는 LLM에 특화된 마크업 언어 LLMON을 Granite 4.1 3B·8B 모델에 통합해, 구조화된 지시와 툴 호출을 안정적으로 처리하도록 했다. 개발자는 프롬프트 포맷을 표준화하고, 복잡한 워크플로·도구 연동을 모델 레벨에서 제어해 에이전트·툴링 개발 생산성을 높일 수 있다.",
+      "title": "LLMON: LLM 친화적 마크업으로 구조화 지시·툴 연동 표준화",
+      "summary": "LLMON은 LLM이 해석하기 쉬운 형식으로 프롬프트 구조화, 툴 호출, 워크플로 제어를 표현하는 LLM 네이티브 마크업 언어다. Hugging Face는 IBM Granite 4.1 3B·8B 모델에 LLMON을 통합해 즉시 사용 가능하게 했으며, 이는 멀티툴 에이전트, 복잡한 시스템 프롬프트, API 오케스트레이션을 모델 레벨에서 더 견고하게 다루려는 흐름이 계속되고 있음을 보여준다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Hugging Face Blog",
           "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
           "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "status": "SHIFTING",
-      "title": "AI로 법률 비즈니스 모델 재편: Gilbert + Tobin 사례",
-      "summary": "호주 로펌 Gilbert + Tobin은 내부용 AI 도구 개발과 워크플로 자동화를 통해 계약 검토·리서치를 효율화하면서, 규제·윤리 요건을 만족시키는 운영 모델을 실험 중이다. 단순 생산성 향상을 넘어, 가격 책정·서비스 구조까지 포함한 법률 비즈니스 자체를 AI 시대에 맞게 재설계하려는 움직임이 본격화되고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "OpenAI Blog",
-          "title": "Gilbert + Tobin rethinks the business of law with AI",
-          "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "status": "ONGOING",
-      "title": "NVIDIA DSX AI Factory로 GPU 클러스터 실사용 검증 자동화",
-      "summary": "NVIDIA DSX AI Factory의 런타임 AI 인벤토리는 Dynamo, Kubeflow, Slurm 등 다양한 오케스트레이션 환경에서 실제 실행 중인 AI 워크로드를 수집·가시화해 GPU 플랫폼을 검증한다. 이를 통해 GPU 할당, 병목, 자원 활용률을 실시간에 가깝게 파악하고, 대규모 AI 인프라의 안정성·효율성을 체계적으로 관리하는 추세가 이어지고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "NVIDIA Developer Blog",
-          "title": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory",
-          "url": "https://developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory/"
         }
       ]
     }

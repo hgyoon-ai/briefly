@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-10-16",
+    "to": "2026-11-14"
+  },
+  "kpis": {
+    "collected": 66,
+    "deduped": 66,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "Tooling": 26,
+      "Product": 23,
+      "Models": 18,
+      "Infra": 18,
+      "Research": 16,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/16-10/22)",
+      "topicCounts": {
+        "Tooling": 9,
+        "Product": 10,
+        "Models": 7,
+        "Infra": 3,
+        "Research": 8
+      }
+    },
+    {
+      "week": "Week 2 (10/23-10/29)",
+      "topicCounts": {
+        "Tooling": 10,
+        "Product": 8,
+        "Models": 6,
+        "Infra": 6,
+        "Research": 4
+      }
+    },
+    {
+      "week": "Week 3 (10/30-11/05)",
+      "topicCounts": {
+        "Tooling": 3,
+        "Product": 2,
+        "Models": 0,
+        "Infra": 4,
+        "Research": 0
+      }
+    },
+    {
+      "week": "Week 4 (11/06-11/12)",
+      "topicCounts": {
+        "Tooling": 9,
+        "Product": 7,
+        "Models": 7,
+        "Infra": 8,
+        "Research": 4
+      }
+    },
+    {
+      "week": "Week 5 (11/13-11/14)",
+      "topicCounts": {
+        "Tooling": 4,
+        "Product": 3,
+        "Models": 1,
+        "Infra": 3,
+        "Research": 2
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "ai-1",
+      "status": "NEW",
+      "title": "NVIDIA cuBLAS FP64 알고리즘으로 과학 시뮬레이션 가속",
+      "summary": "NVIDIA가 cuBLAS에 새로운 FP64 알고리즘을 도입해 분자 화학·재료 과학 등 고정밀 밀집 행렬 연산 워크로드의 성능을 크게 향상한다. 동일 하드웨어에서 배정밀도 연산 처리량을 높여 대규모 과학 시뮬레이션의 실행 시간을 단축하는 것이 핵심으로, HPC·연구 인프라에서 AI·수치해석 혼합 워크로드의 효율 개선이 기대된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Faster Scientific Simulations with New FP64 Algorithms in NVIDIA cuBLAS",
+          "url": "https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas/"
+        }
+      ]
+    },
+    {
+      "id": "ai-2",
+      "status": "NEW",
+      "title": "Jetson AGX Orin에서 cuDLA로 저전력 AI 추론 최적화",
+      "summary": "NVIDIA Jetson AGX Orin에서 cuDLA를 활용해 Python 환경에서도 네이티브 DLA 추론을 구동하는 방법이 제시됐다. 제한된 전력·연산 자원에서 여러 신경망을 효율적으로 병렬 실행하는 예제와 튜닝 기법을 통해 엣지·로봇·임베디드 AI 시스템의 에너지 효율과 처리량을 동시에 높이는 실무 가이드를 제공한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA",
+          "url": "https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla/"
+        }
+      ]
+    },
+    {
+      "id": "ai-3",
+      "status": "NEW",
+      "title": "XYBench: 질문 이면의 진짜 문제를 평가하는 LLM 벤치마크",
+      "summary": "XYBench는 사용자의 질문 표면이 아니라 그 뒤에 숨겨진 근본 과제를 파악하고 해결 전략을 제안하는 능력을 측정하는 새 벤치마크다. 의도 이해, 문제 재정의, 해결책 적합성 등을 과제로 구성해, 단순 정답 생성이 아닌 문제 해결형 LLM의 품질을 비교·개선하는 지표로 활용될 수 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "XYBench: Helping with the problem behind the question",
+          "url": "https://huggingface.co/blog/allenai/xybench"
+        }
+      ]
+    },
+    {
+      "id": "ai-4",
+      "status": "NEW",
+      "title": "ChatGPT Wallet로 에이전트 기반 결제·구매 기능 개방",
+      "summary": "OpenAI가 ChatGPT Wallet을 도입해 ChatGPT Work, Codex, dots 등의 에이전트가 사용자를 대신해 구매를 완료할 수 있도록 했다. 사용자는 사전 승인과 카드 보안 기능을 통해 결제를 제어하며, 이는 에이전트가 디지털 서비스·소프트웨어를 자동으로 구독·구매하는 새로운 상거래 워크플로를 여는 인프라 기능으로 평가된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "Introducing ChatGPT Wallet",
+          "url": "https://openai.com/index/introducing-chatgpt-wallet"
+        }
+      ]
+    },
+    {
+      "id": "ai-5",
+      "status": "ONGOING",
+      "title": "LLMON: LLM 친화적 마크업으로 구조화 지시·툴 연동 표준화",
+      "summary": "LLMON은 LLM이 해석하기 쉬운 형식으로 프롬프트 구조화, 툴 호출, 워크플로 제어를 표현하는 LLM 네이티브 마크업 언어다. Hugging Face는 IBM Granite 4.1 3B·8B 모델에 LLMON을 통합해 즉시 사용 가능하게 했으며, 이는 멀티툴 에이전트, 복잡한 시스템 프롬프트, API 오케스트레이션을 모델 레벨에서 더 견고하게 다루려는 흐름이 계속되고 있음을 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+          "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
+        }
+      ]
+    }
+  ]
+}

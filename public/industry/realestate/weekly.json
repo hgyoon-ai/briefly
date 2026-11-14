@@ -1,17 +1,17 @@
 {
   "range": {
-    "from": "2026-11-07",
-    "to": "2026-11-13"
+    "from": "2026-11-08",
+    "to": "2026-11-14"
   },
   "kpis": {
-    "collected": 22,
-    "deduped": 22,
+    "collected": 24,
+    "deduped": 24,
     "uniqueTopics": 10
   },
   "topTopics": [
     {
       "name": "Market",
-      "count": 16
+      "count": 17
     },
     {
       "name": "Supply",
@@ -19,38 +19,14 @@
     },
     {
       "name": "Policy",
-      "count": 9
+      "count": 10
     },
     {
       "name": "UrbanRenewal",
-      "count": 8
+      "count": 9
     }
   ],
   "topicTrend": [
-    {
-      "date": "2026-11-07",
-      "dayOfWeek": "Sat",
-      "topic": "Market",
-      "count": 3
-    },
-    {
-      "date": "2026-11-07",
-      "dayOfWeek": "Sat",
-      "topic": "Supply",
-      "count": 2
-    },
-    {
-      "date": "2026-11-07",
-      "dayOfWeek": "Sat",
-      "topic": "Policy",
-      "count": 0
-    },
-    {
-      "date": "2026-11-07",
-      "dayOfWeek": "Sat",
-      "topic": "UrbanRenewal",
-      "count": 1
-    },
     {
       "date": "2026-11-08",
       "dayOfWeek": "Sun",
@@ -175,95 +151,119 @@
       "date": "2026-11-13",
       "dayOfWeek": "Fri",
       "topic": "Market",
-      "count": 3
+      "count": 7
     },
     {
       "date": "2026-11-13",
       "dayOfWeek": "Fri",
       "topic": "Supply",
-      "count": 3
+      "count": 5
     },
     {
       "date": "2026-11-13",
       "dayOfWeek": "Fri",
       "topic": "Policy",
-      "count": 1
+      "count": 2
     },
     {
       "date": "2026-11-13",
       "dayOfWeek": "Fri",
       "topic": "UrbanRenewal",
-      "count": 2
+      "count": 4
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Market",
+      "count": 0
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "UrbanRenewal",
+      "count": 0
     }
   ],
   "topIssues": [
     {
       "id": 1,
       "status": "ONGOING",
-      "title": "비수도권 거점 산업 투자 확대로 지방 주거지 재편 가속",
-      "summary": "기업 약 27%가 비수도권 투자를 검토하면서 지방 일자리와 직주근접 수요가 동시에 늘고 있다. 정부가 입지 기준 완화와 816억 원 규모 보조금을 통해 거점 산업 투자를 밀어주면서, 산업단지 인근 신도시·배후 주거단지 재편이 본격화되고 있다.",
+      "title": "강남 집값 조정 속 전셋값 강세, 매매·전세 엇박자 심화",
+      "summary": "강남3구 아파트 매매가격은 하락하는 반면 전세는 공급 감소로 가격이 오르거나 보합을 유지하며 전세 매물이 약 18% 줄었다. 전세 수급 불균형이 지속되면 전세 가격 강세와 매매 시장의 디커플링이 단기·중기적으로 이어질 수 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "매일경제(부동산)",
-          "title": "“일자리가 살자리”…거점 산업 투자에 지방 주거지 재편",
-          "url": "https://www.mk.co.kr/news/business/12207818"
+          "source": "헤럴드경제(부동산)",
+          "title": "강남 집값 떨어져도 전셋값은 안 내리네…매매·전세 엇박자 왜? [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10936518"
         }
       ]
     },
     {
       "id": 2,
       "status": "ONGOING",
-      "title": "용인 반도체 클러스터 배후 주거 공급 막판 분양 러시",
-      "summary": "용인 반도체클러스터 인근에 대규모 아파트 공급이 막바지 단계에 들어섰다. 연말 약 1200가구 분양이 예정돼 있어 반도체 산업 종사자 중심의 직주근접 수요 유입과 인근 집값·전셋값 재평가가 예상된다.",
+      "title": "수도권 4.4만가구 입주, 단기 공급 가뭄 완화 시그널",
+      "summary": "수도권에서 약 4만4천가구가 순차적으로 입주를 시작하며 최근 심화됐던 공급 가뭄이 일부 완화될 전망이다. 다만 일시적 공급 확대에 그칠지, 중장기 공급 정상화의 신호가 될지에 따라 지역별 전세·매매 시장 영향이 갈릴 수 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "매일경제(부동산)",
-          "title": "용인 반도체클러스터 아파트 공급 막바지…연말 1200가구 분양 앞둬",
-          "url": "https://www.mk.co.kr/news/realestate/12207768"
+          "source": "한국경제(부동산)",
+          "title": "수도권 4.4만가구 집들이…공급 가뭄 숨통 트이나",
+          "url": "https://www.hankyung.com/article/2026111357001"
         }
       ]
     },
     {
       "id": 3,
       "status": "ONGOING",
-      "title": "재건축 단지, 안전진단·추진위 통과로 사업 속도전",
-      "summary": "서울 서초 우면한라아파트가 예비안전진단 신청 2년 만에 조합설립추진위원회 구성을 승인받으며 재건축 절차가 본격화됐다. 추진위 승인과 임원 선임이 이뤄지면서 강남권 노후 단지들의 추가 재건축 기대감도 커지고 있다.",
+      "title": "보증금 없는 월세 모델 상륙, 임대차 시장 구조 변화 예고",
+      "summary": "일본계 월세 보증 서비스가 국내 진출을 추진하며 ‘보증금 없이 월세만 내는’ 임대 모델 확산 가능성이 커졌다. 임차인의 지급능력을 보증회사가 심사·보증하고 체납 시 임대인에게 대신 지급하는 구조로, 전·월세 전환과 임대 리스크 관리 방식에 변화를 줄 수 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "헤럴드경제(부동산)",
-          "title": "서초 우면한라, 예비안전진단 신청 2년 만에 추진위 승인…재건축 사업 속도",
-          "url": "https://biz.heraldcorp.com/article/10936041"
+          "source": "매일경제(부동산)",
+          "title": "[단독] \"보증금 없이 월세만\" 日기업 한국 상륙",
+          "url": "https://www.mk.co.kr/news/realestate/12208279"
         }
       ]
     },
     {
       "id": 4,
       "status": "ONGOING",
-      "title": "전셋값, 내년 매매가의 두 배 상승 전망…전·월세 시장 압박 심화",
-      "summary": "내년 전국 전셋값이 4.5% 오를 것으로 예상되는 반면, 매매가격은 고금리와 대출 규제로 2% 상승에 그칠 전망이다. 전세 대체 수요와 대출 부담이 겹치면서 실수요자들의 전·월세난이 지속될 가능성이 크다.",
+      "title": "토지거래허가제 연말 만료 앞두고 규제지역 조정 검토",
+      "summary": "정부가 연말 지정 기간 만료를 앞둔 토지거래허가제의 시장 영향과 규제 실효성을 분석 중이다. 과열 억제 효과와 거래 위축 부작용을 함께 점검해 일부 지역 완화 또는 재지정 여부를 연말까지 결정할 계획이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "헤럴드경제(부동산)",
-          "title": "내년 집값보다 전셋값 두배 더 뛴다…매매 2%·전세 4.5% 상승 전망[부동산360]",
-          "url": "https://biz.heraldcorp.com/article/10935840"
+          "source": "매일경제(부동산)",
+          "title": "정부 \"토허제 지역 조정 검토\"… 연말 만료 앞두고 완화되나",
+          "url": "https://www.mk.co.kr/news/realestate/12208273"
         }
       ]
     },
     {
       "id": 5,
-      "status": "SHIFTING",
-      "title": "집값 체감 상승 vs 정부의 ‘하락기 시그널’…시장 인식 괴리 확대",
-      "summary": "국토부 장관이 집값 하락기 진입 신호를 강조했지만, 서민층이 체감하는 매매·전세 가격은 여전히 높다는 지적이 커지고 있다. 정책 당국의 메시지와 실수요자 체감 사이의 간극이 확대되면서 시장 혼선과 불신 가능성이 제기된다.",
+      "status": "ONGOING",
+      "title": "비수도권 거점 산업 투자 확대로 지방 주거지 재편 가속",
+      "summary": "기업의 27.4%가 비수도권 투자를 검토하는 가운데 정부가 기준 완화와 816억 원 규모 보조금으로 거점 산업을 지원하고 있다. 산업·일자리 집중 지역을 중심으로 신규 주거 수요가 늘며 지방 주거지 재편과 배후 주거단지 개발이 본격화될 가능성이 크다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "한국경제(부동산)",
-          "title": "서민 집값은 더 올랐는데…국토부 장관 \"하락기 시그널\"",
-          "url": "https://www.hankyung.com/article/202611123097i"
+          "source": "매일경제(비즈니스)",
+          "title": "“일자리가 살자리”…거점 산업 투자에 지방 주거지 재편",
+          "url": "https://www.mk.co.kr/news/business/12207818"
         }
       ]
     }

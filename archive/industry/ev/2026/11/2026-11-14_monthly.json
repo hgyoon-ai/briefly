@@ -1,0 +1,148 @@
+{
+  "range": {
+    "from": "2026-10-16",
+    "to": "2026-11-14"
+  },
+  "kpis": {
+    "collected": 42,
+    "deduped": 42,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 26,
+      "Competition": 25,
+      "Demand": 20,
+      "Investment": 20,
+      "Policy": 9,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/16-10/22)",
+      "topicCounts": {
+        "Roadmap": 9,
+        "Competition": 10,
+        "Demand": 8,
+        "Investment": 5,
+        "Policy": 4
+      }
+    },
+    {
+      "week": "Week 2 (10/23-10/29)",
+      "topicCounts": {
+        "Roadmap": 8,
+        "Competition": 7,
+        "Demand": 4,
+        "Investment": 9,
+        "Policy": 2
+      }
+    },
+    {
+      "week": "Week 3 (10/30-11/05)",
+      "topicCounts": {
+        "Roadmap": 1,
+        "Competition": 1,
+        "Demand": 2,
+        "Investment": 1,
+        "Policy": 1
+      }
+    },
+    {
+      "week": "Week 4 (11/06-11/12)",
+      "topicCounts": {
+        "Roadmap": 8,
+        "Competition": 8,
+        "Demand": 6,
+        "Investment": 7,
+        "Policy": 1
+      }
+    },
+    {
+      "week": "Week 5 (11/13-11/14)",
+      "topicCounts": {
+        "Roadmap": 2,
+        "Competition": 2,
+        "Demand": 1,
+        "Investment": 0,
+        "Policy": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "ev-001",
+      "status": "NEW",
+      "title": "테슬라–스페이스X 1.5조 달러 초대형 합병 가능성",
+      "summary": "블룸버그 보도에 따르면 테슬라와 스페이스X가 12월 약 1.5조 달러 규모의 합병 발표를 검토 중인 것으로 전해졌습니다. 성사될 경우 사상 최대 규모의 테크·모빌리티 M&A로, 일론 머스크의 지배 구조 단일화와 양사 기술·자본 시너지가 EV·우주·에너지 사업 전반에 중장기 로드맵 변화를 가져올 수 있다는 관측이 나옵니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "SpaceX could announce $1.5 trillion Tesla merger in December: report",
+          "url": "https://electrek.co/2026/11/12/spacex-tesla-merger-announcement-december-report/"
+        }
+      ]
+    },
+    {
+      "id": "ev-002",
+      "status": "NEW",
+      "title": "캐나다, EV 충전 인프라 확대 위해 55,000기 신규 충전기 예산 편성",
+      "summary": "캐나다 정부가 최신 예산안에서 55,000개 이상의 신규 전기차 충전기 구축과 전력망 현대화를 위해 40억 캐나다달러 이상을 배정했습니다. 이는 장거리 주행 불안을 줄이고 주요 도시·고속도로·지역 거점의 충전 접근성을 높여 EV 보급을 가속하려는 정책 신호로, 북미 전반의 인프라 경쟁에도 영향을 줄 수 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Latest Canadian budget packs funding for 55,000 new EV chargers",
+          "url": "https://electrek.co/2026/11/12/latest-canadian-budget-packs-funding-for-55000-new-ev-chargers/"
+        }
+      ]
+    },
+    {
+      "id": "ev-003",
+      "status": "ONGOING",
+      "title": "유럽 전기차 판매 49% 급증, 글로벌 EV 성장 회복 조짐",
+      "summary": "10월 글로벌 전기차 판매가 전년 동월 대비 8% 증가한 가운데, 유럽 BEV 판매는 49% 급증하며 시장 성장을 주도했습니다. 일부 지역 수요 둔화 우려에도 불구하고 유럽의 강한 성장세는 정책 지원과 모델 다변화, 가격 인하 효과가 결합된 결과로, 글로벌 EV 수요 사이클이 다시 상향 국면에 들어설 수 있다는 신호로 해석됩니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Europe’s electric car sales jump 49% as global EV sales grow",
+          "url": "https://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/"
+        }
+      ]
+    },
+    {
+      "id": "ev-004",
+      "status": "ONGOING",
+      "title": "폭스바겐, SSP 기반 EV 연기와 보급형 신규 EV 상표로 투트랙 전략 시사",
+      "summary": "폭스바겐이 SSP 플랫폼 기반 EV 출시를 추가로 연기하면서, 차세대 플랫폼 전환에 난항을 겪고 있습니다. 동시에 2027년 약 2만 유로 시작가의 신규 보급형 전기차와 관련된 것으로 보이는 상표를 출원해 엔트리급 EV 확대 의지를 드러냈습니다. 고급 플랫폼 지연과 저가형 라인업 강화가 병행되는 구조 조정 국면으로, 중장기 경쟁력 재정비 과정이 이어지는 중입니다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Volkswagen may have just hinted at the name of its next affordable EV",
+          "url": "https://electrek.co/2026/11/13/volkswagen-trademark-name-next-affordable-ev/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Volkswagen is delaying another EV based on the SSP",
+          "url": "https://electrek.co/2026/11/13/volkswagen-delaying-another-ev-ssp/"
+        }
+      ]
+    },
+    {
+      "id": "ev-005",
+      "status": "ONGOING",
+      "title": "BYD, 102만 명 고용으로 초대형 EV 제조 허브로 부상",
+      "summary": "BYD는 인력이 102만 명을 돌파하며 토요타·GM·포드·테슬라를 합친 것보다 많은 규모로 확대했습니다. 10개월 만에 약 15만 명을 추가 고용한 것으로, 배터리부터 완성차까지 수직계열화된 생산 능력과 공격적인 해외 진출을 뒷받침하는 제조·공급망 역량 강화로 EV 가격·물량 경쟁에서 우위를 공고히 하려는 행보로 해석됩니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "BYD now has 1.02 million workers, more than Toyota, GM, Ford, and Tesla combined",
+          "url": "https://electrek.co/2026/10/28/byd-1-million-employees-more-than-toyota-gm-ford-tesla/"
+        }
+      ]
+    }
+  ]
+}

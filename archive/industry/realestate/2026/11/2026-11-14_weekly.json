@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-11-08",
+    "to": "2026-11-14"
+  },
+  "kpis": {
+    "collected": 24,
+    "deduped": 24,
+    "uniqueTopics": 10
+  },
+  "topTopics": [
+    {
+      "name": "Market",
+      "count": 17
+    },
+    {
+      "name": "Supply",
+      "count": 12
+    },
+    {
+      "name": "Policy",
+      "count": 10
+    },
+    {
+      "name": "UrbanRenewal",
+      "count": 9
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Market",
+      "count": 1
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "UrbanRenewal",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Market",
+      "count": 3
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Supply",
+      "count": 2
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "UrbanRenewal",
+      "count": 2
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Market",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "UrbanRenewal",
+      "count": 0
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Market",
+      "count": 5
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Supply",
+      "count": 3
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "UrbanRenewal",
+      "count": 1
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Market",
+      "count": 1
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Supply",
+      "count": 2
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 3
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "UrbanRenewal",
+      "count": 2
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Market",
+      "count": 7
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Supply",
+      "count": 5
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "UrbanRenewal",
+      "count": 4
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Market",
+      "count": 0
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "UrbanRenewal",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "강남 집값 조정 속 전셋값 강세, 매매·전세 엇박자 심화",
+      "summary": "강남3구 아파트 매매가격은 하락하는 반면 전세는 공급 감소로 가격이 오르거나 보합을 유지하며 전세 매물이 약 18% 줄었다. 전세 수급 불균형이 지속되면 전세 가격 강세와 매매 시장의 디커플링이 단기·중기적으로 이어질 수 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "강남 집값 떨어져도 전셋값은 안 내리네…매매·전세 엇박자 왜? [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10936518"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "수도권 4.4만가구 입주, 단기 공급 가뭄 완화 시그널",
+      "summary": "수도권에서 약 4만4천가구가 순차적으로 입주를 시작하며 최근 심화됐던 공급 가뭄이 일부 완화될 전망이다. 다만 일시적 공급 확대에 그칠지, 중장기 공급 정상화의 신호가 될지에 따라 지역별 전세·매매 시장 영향이 갈릴 수 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "수도권 4.4만가구 집들이…공급 가뭄 숨통 트이나",
+          "url": "https://www.hankyung.com/article/2026111357001"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "보증금 없는 월세 모델 상륙, 임대차 시장 구조 변화 예고",
+      "summary": "일본계 월세 보증 서비스가 국내 진출을 추진하며 ‘보증금 없이 월세만 내는’ 임대 모델 확산 가능성이 커졌다. 임차인의 지급능력을 보증회사가 심사·보증하고 체납 시 임대인에게 대신 지급하는 구조로, 전·월세 전환과 임대 리스크 관리 방식에 변화를 줄 수 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "[단독] \"보증금 없이 월세만\" 日기업 한국 상륙",
+          "url": "https://www.mk.co.kr/news/realestate/12208279"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "토지거래허가제 연말 만료 앞두고 규제지역 조정 검토",
+      "summary": "정부가 연말 지정 기간 만료를 앞둔 토지거래허가제의 시장 영향과 규제 실효성을 분석 중이다. 과열 억제 효과와 거래 위축 부작용을 함께 점검해 일부 지역 완화 또는 재지정 여부를 연말까지 결정할 계획이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "정부 \"토허제 지역 조정 검토\"… 연말 만료 앞두고 완화되나",
+          "url": "https://www.mk.co.kr/news/realestate/12208273"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "비수도권 거점 산업 투자 확대로 지방 주거지 재편 가속",
+      "summary": "기업의 27.4%가 비수도권 투자를 검토하는 가운데 정부가 기준 완화와 816억 원 규모 보조금으로 거점 산업을 지원하고 있다. 산업·일자리 집중 지역을 중심으로 신규 주거 수요가 늘며 지방 주거지 재편과 배후 주거단지 개발이 본격화될 가능성이 크다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(비즈니스)",
+          "title": "“일자리가 살자리”…거점 산업 투자에 지방 주거지 재편",
+          "url": "https://www.mk.co.kr/news/business/12207818"
+        }
+      ]
+    }
+  ]
+}

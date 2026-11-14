@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-10-16",
+    "to": "2026-11-14"
+  },
+  "kpis": {
+    "collected": 100,
+    "deduped": 100,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "Market": 32,
+      "Supply": 25,
+      "Policy": 17,
+      "UrbanRenewal": 13,
+      "Regulation": 13,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/16-10/22)",
+      "topicCounts": {
+        "Market": 20,
+        "Supply": 14,
+        "Policy": 12,
+        "UrbanRenewal": 5,
+        "Regulation": 9
+      }
+    },
+    {
+      "week": "Week 2 (10/23-10/29)",
+      "topicCounts": {
+        "Market": 16,
+        "Supply": 15,
+        "Policy": 9,
+        "UrbanRenewal": 8,
+        "Regulation": 5
+      }
+    },
+    {
+      "week": "Week 3 (10/30-11/05)",
+      "topicCounts": {
+        "Market": 9,
+        "Supply": 3,
+        "Policy": 3,
+        "UrbanRenewal": 3,
+        "Regulation": 4
+      }
+    },
+    {
+      "week": "Week 4 (11/06-11/12)",
+      "topicCounts": {
+        "Market": 17,
+        "Supply": 12,
+        "Policy": 8,
+        "UrbanRenewal": 6,
+        "Regulation": 5
+      }
+    },
+    {
+      "week": "Week 5 (11/13-11/14)",
+      "topicCounts": {
+        "Market": 5,
+        "Supply": 3,
+        "Policy": 2,
+        "UrbanRenewal": 3,
+        "Regulation": 3
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "강남 집값 조정 속 전셋값·전세물량 동시 불균형",
+      "summary": "강남3구 아파트 매매가격은 하락하는 반면, 입주·재건축 등으로 전세 공급이 줄어 전셋값이 오르거나 보합을 보이고 있다. 전세 매물이 약 18% 감소해 매매와 전세 시장이 엇박자를 내며 실수요자의 전세 구하기 부담이 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "강남 집값 떨어져도 전셋값은 안 내리네…매매·전세 엇박자 왜? [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10936518"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "수도권 4.4만 가구 집들이로 단기 공급난 완화 기대",
+      "summary": "수도권에서 약 4만4천 가구가 새로 입주를 시작하며 최근 심화된 전·월세 및 매매 수급 불균형이 일부 해소될 전망이다. 다만 입주 물량이 특정 시기·지역에 편중돼 있어 구조적 공급 부족을 해결하기에는 한계가 있다는 분석이 나온다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "수도권 4.4만가구 집들이…공급 가뭄 숨통 트이나",
+          "url": "https://www.hankyung.com/article/2026111357001"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "‘보증금 없는 월세’ 일본式 월세보증 서비스 상륙",
+      "summary": "일본 기업이 임차인의 월세 지급능력을 심사해 체납 시 대신 납부하는 월세 보증 상품을 들고 한국 시장 진출을 준비하고 있다. 보증금 부담을 줄여 청년·무주택자의 임차 진입 장벽을 낮출 수 있지만, 수수료·보증료 구조와 임차인 보호 장치 마련이 향후 쟁점이 될 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "[단독] \"보증금 없이 월세만\" 日기업 한국 상륙",
+          "url": "https://www.mk.co.kr/news/realestate/12208279"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "토지거래허가제 연말 만료 앞두고 규제지역 조정 논의",
+      "summary": "정부가 연말로 지정 기간이 끝나는 토지거래허가제 지역의 시장 영향과 필요성을 재점검하고 있다. 거래 위축·개발 지연 등 부작용과 투기 차단 효과를 함께 분석해 일부 지역 해제 또는 조정을 포함한 완화 여부를 검토할 계획이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "정부 \"토허제 지역 조정 검토\"… 연말 만료 앞두고 완화되나",
+          "url": "https://www.mk.co.kr/news/realestate/12208273"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "비수도권 거점 산업 투자로 지방 주거 수요 재편",
+      "summary": "기업의 27.4%가 비수도권 투자를 검토하고 정부도 기준 완화와 816억 원 보조금으로 거점 산업을 지원하면서 지방 일자리와 인구 유입 가능성이 커지고 있다. 이에 따라 산업단지 인근과 광역 교통축을 중심으로 지방 주거지 배치와 신규 주택 수요 구조가 재편될 것으로 예상된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(비즈니스)",
+          "title": "“일자리가 살자리”…거점 산업 투자에 지방 주거지 재편",
+          "url": "https://www.mk.co.kr/news/business/12207818"
+        }
+      ]
+    }
+  ]
+}

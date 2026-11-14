@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "highlights": {
     "bullets": [
-      "핵심: 보도에 따르면 테슬라와 스페이스X가 약 1.5조 달러 규모 합병을 12월에 발표할 수 있습니다.",
-      "핵심: 캐나다 예산안이 55,000개 이상의 신규 전기차 충전기와 전력망 현대화에 40억 캐나다달러 이상을 배정했습니다."
+      "핵심: 폭스바겐이 SSP 플랫폼 기반의 또 다른 전기차 출시를 연기했다.",
+      "핵심: 폭스바겐이 2027년 약 2만 유로 시작가의 보급형 전기차 이름을 암시하는 상표를 출원했다."
     ],
     "topTopics": [
       "Roadmap",
@@ -12,54 +12,52 @@
       "Investment"
     ],
     "stats": {
-      "collected": 11,
-      "deduped": 11
+      "collected": 14,
+      "deduped": 14
     }
   },
   "cards": [
     {
       "id": "ev_0001",
       "tab": "ev",
-      "publishedAt": "2026-11-13T05:39:14+09:00",
+      "publishedAt": "2026-11-14T04:03:28+09:00",
       "source": "Electrek",
-      "title": "SpaceX could announce $1.5 trillion Tesla merger in December: report",
+      "title": "Volkswagen is delaying another EV based on the SSP",
       "summary": [
-        "블룸버그 보도에 따르면 테슬라와 스페이스X가 약 1.5조 달러 규모의 초대형 합병을 12월에 발표할 수 있는 것으로 전해졌습니다.",
-        "이번 거래는 성사될 경우 사상 최대 규모의 인수·합병으로, 일론 머스크가 지배하는 양사 간 구조 재편 성격이 강합니다.",
-        "테슬라는 12월 3일 정기 주주총회를 열 예정이며, 합병안 승인 권한을 가진 이사진 재선임 안건이 동시에 다뤄질 가능성이 있습니다."
+        "폭스바겐이 SSP 플랫폼 기반의 또 다른 전기차 출시를 연기했다.",
+        "이번 연기는 이미 전기 골프 지연에 이은 추가 지연 사례이다.",
+        "플랫폼·생산 일정 불확실성이 로드맵과 경쟁력에 부담을 줄 수 있다."
       ],
-      "whyItMatters": "테슬라-스페이스X 합병은 전기차·우주·에너지·위성인터넷 등 다양한 사업 포트폴리오를 통합해 머스크 생태계의 지배구조와 성장 전략을 근본적으로 재편할 수 있는 초대형 이벤트이기 때문입니다.",
+      "whyItMatters": "이 사건은 폭스바겐의 EV 로드맵과 생산 계획의 불안정성이 지속되어 시장 경쟁력과 투자자 신뢰에 부정적 영향을 줄 가능성이 있음을 보여준다.",
       "topics": [
-        "Investment",
         "Roadmap",
-        "Competition",
-        "Policy"
+        "Manufacturing",
+        "Competition"
       ],
-      "status": "NEW",
-      "hash": "e5c056fad918f4860188c47eab7a2231768e08e97a24bc32a5427901cf3ec55f",
-      "url": "https://electrek.co/2026/11/12/spacex-tesla-merger-announcement-december-report/"
+      "status": "ONGOING",
+      "hash": "14aa56727ecacf6396483b2652cd891a34ca59a7118782ee0e49c772f0246c6c",
+      "url": "https://electrek.co/2026/11/13/volkswagen-delaying-another-ev-ssp/"
     },
     {
       "id": "ev_0002",
       "tab": "ev",
-      "publishedAt": "2026-11-12T21:53:50+09:00",
+      "publishedAt": "2026-11-14T07:14:38+09:00",
       "source": "Electrek",
-      "title": "Latest Canadian budget packs funding for 55,000 new EV chargers",
+      "title": "Volkswagen may have just hinted at the name of its next affordable EV",
       "summary": [
-        "캐나다 정부가 최신 예산안에서 55,000개 이상의 신규 전기차 충전기 구축을 포함한 전기 인프라·전력망 현대화에 40억 캐나다달러 이상을 배정했다.",
-        "이번 예산은 전기차 보급 확대를 위해 충전 인프라 접근성을 높이고 장거리 주행 불안 해소를 목표로 한다.",
-        "충전 인프라 확충은 전력 설비 투자와 맞물려 관련 설비·서비스 기업에 수요 확대 기회를 제공할 수 있다."
+        "폭스바겐이 2027년 약 2만 유로(2.2만 달러) 시작가의 신규 보급형 전기차 출시를 준비 중입니다.",
+        "최근 신규 상표 출원을 통해 이 엔트리급 EV의 이름이 암시된 것으로 보입니다.",
+        "이는 폭스바겐의 저가 전기차 라인업 확장 및 대중 시장 공략 전략의 일환입니다."
       ],
-      "whyItMatters": "정부 예산을 통한 대규모 충전 인프라·전력망 투자는 전기차 수요 촉진과 인프라·에너지 관련 산업 전반에 중장기 성장 동력을 제공할 수 있어 중요하다.",
+      "whyItMatters": "보급형 EV 네이밍과 출시 계획이 구체화되면서 전기차 대중화 경쟁과 가격대별 포지셔닝이 본격화될 신호이기 때문입니다.",
       "topics": [
-        "Policy",
-        "Investment",
-        "Demand",
-        "Roadmap"
+        "Roadmap",
+        "Competition",
+        "Demand"
       ],
-      "status": "NEW",
-      "hash": "bed1d835153a768089c71388e5ca7af925585a39e9cba68ee2ec04661d1d07db",
-      "url": "https://electrek.co/2026/11/12/latest-canadian-budget-packs-funding-for-55000-new-ev-chargers/"
+      "status": "ONGOING",
+      "hash": "0d4d7fd39995679eef5af86586607afe8a0e9606389c4881f1dddf0c2154bf71",
+      "url": "https://electrek.co/2026/11/13/volkswagen-trademark-name-next-affordable-ev/"
     }
   ]
 }

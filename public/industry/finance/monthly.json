@@ -1,70 +1,70 @@
 {
   "range": {
-    "from": "2026-10-15",
-    "to": "2026-11-13"
+    "from": "2026-10-16",
+    "to": "2026-11-14"
   },
   "kpis": {
     "collected": 44,
     "deduped": 44,
     "uniqueTopics": 10,
     "marketShare": {
-      "MarketInfra": 37,
+      "MarketInfra": 36,
       "Policy": 23,
-      "Regulation": 17,
-      "Compliance": 15,
-      "Security": 8,
+      "Regulation": 18,
+      "Compliance": 14,
+      "Fintech": 9,
       "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/15-10/21)",
+      "week": "Week 1 (10/16-10/22)",
       "topicCounts": {
-        "MarketInfra": 12,
+        "MarketInfra": 11,
         "Policy": 8,
-        "Regulation": 6,
-        "Compliance": 4,
-        "Security": 1
+        "Regulation": 8,
+        "Compliance": 5,
+        "Fintech": 1
       }
     },
     {
-      "week": "Week 2 (10/22-10/28)",
+      "week": "Week 2 (10/23-10/29)",
       "topicCounts": {
-        "MarketInfra": 8,
+        "MarketInfra": 10,
         "Policy": 6,
         "Regulation": 3,
         "Compliance": 2,
-        "Security": 0
+        "Fintech": 3
       }
     },
     {
-      "week": "Week 3 (10/29-11/04)",
+      "week": "Week 3 (10/30-11/05)",
       "topicCounts": {
-        "MarketInfra": 4,
-        "Policy": 3,
-        "Regulation": 3,
+        "MarketInfra": 3,
+        "Policy": 2,
+        "Regulation": 2,
         "Compliance": 1,
-        "Security": 2
+        "Fintech": 1
       }
     },
     {
-      "week": "Week 4 (11/05-11/11)",
+      "week": "Week 4 (11/06-11/12)",
       "topicCounts": {
-        "MarketInfra": 8,
+        "MarketInfra": 7,
         "Policy": 4,
         "Regulation": 2,
-        "Compliance": 5,
-        "Security": 4
+        "Compliance": 6,
+        "Fintech": 3
       }
     },
     {
-      "week": "Week 5 (11/12-11/13)",
+      "week": "Week 5 (11/13-11/14)",
       "topicCounts": {
         "MarketInfra": 2,
         "Policy": 1,
         "Regulation": 1,
-        "Compliance": 1,
-        "Security": 0
+        "Compliance": 0,
+        "Fintech": 1
       }
     }
   ],
@@ -72,14 +72,14 @@
     {
       "id": 1,
       "status": "SHIFTING",
-      "title": "엔비디아 시가총액 급락과 AI 투자 리프레이싱",
-      "summary": "엔비디아 시가총액이 불과 5주 만에 약 2400조원 증발하며 글로벌 AI·빅테크 밸류에이션이 전반적으로 재평가되고 있다. AI 인프라 투자비, 수익성, 규제 리스크에 대한 우려가 겹치며 기술주 중심 증시 변동성이 확대되는 국면이다.",
+      "title": "엔비디아 젠슨 황 CEO 퇴진 리스크와 거버넌스 불확실성",
+      "summary": "엔비디아 이사회가 젠슨 황 CEO 해임 절차를 개시한 데 이어, 젠슨 황이 CEO와 이사회에서 사임하면서 회사의 리더십 공백과 향후 전략 방향에 대한 불확실성이 확대됐다. 단기적으로 AI·GPU 중심 성장 스토리의 신뢰도와 밸류에이션 프리미엄이 흔들릴 수 있고, 장기적으로는 후임 리더십의 기술·사업 비전, 컴플라이언스 리스크 관리 역량이 글로벌 반도체·AI 투자 심리를 좌우할 핵심 변수로 부상했다.",
       "articleCount": 2,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
-          "title": "돈 녹는 속도, 유례가 없었다…단 5주 만에 2400조원 증발한 엔비디아",
-          "url": "https://www.mk.co.kr/news/stock/12207784"
+          "title": "‘젠슨 황 없는 엔비디아’ 미래는?…테크 전문가들은 우려와 낙관이 엇갈렸다 [이슈 플러스]",
+          "url": "https://www.mk.co.kr/news/stock/12208309"
         },
         {
           "source": "매일경제(증권)",
@@ -90,9 +90,23 @@
     },
     {
       "id": 2,
+      "status": "ONGOING",
+      "title": "한국 디지털자산기본법 추진과 기관투자자 가상자산 시장 개방",
+      "summary": "정부와 국회가 디지털자산기본법 제정 작업을 가속화하면서 법인·기관투자자의 가상자산 직접 투자 및 관련 상품 진출이 제도권 안으로 편입될 전망이다. 이는 거래소·수탁·브로커리지 등 인프라 규율과 투자자 보호 장치를 전제로, 가상자산을 대체투자·신성장 자산군으로 편입하려는 금융권 전략에 중대한 변곡점이 될 것으로 보인다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한국, 디지털자산기본법 입법 가속…법인·기관투자자 시장 개방 본격화[엠블록레터]",
+          "url": "https://www.mk.co.kr/news/stock/12208192"
+        }
+      ]
+    },
+    {
+      "id": 3,
       "status": "NEW",
-      "title": "대통령, 금융시장 불공정거래 전담 수사 강화 지시",
-      "summary": "이재명 대통령이 금융시장 불공정행위에 대해 중대범죄수사청에 별도 지시를 내리며 전담 수사와 엄정 단속을 주문했다. 금융투자상품 거래, 시세조종, 내부자거래 등 자본시장 범죄에 대한 규제·수사 강도가 높아질 가능성이 커졌다.",
+      "title": "금융시장 불공정행위 정부 강경 기조와 수사 체계 강화",
+      "summary": "이재명 대통령이 금융시장 내 불공정거래, 시세조종, 미공개정보 이용 등 위법 행위에 대해 엄정 단속을 지시하고 중대범죄수사청에 별도 수사 지시를 내렸다. 이에 따라 자본시장 관련 수사·제재가 강화되면서 대형 개인·기관투자자, 금융투자업계의 리스크 관리와 내부통제 강화 압력이 커질 전망이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -103,10 +117,10 @@
       ]
     },
     {
-      "id": 3,
+      "id": 4,
       "status": "ONGOING",
-      "title": "증권사 연쇄 해킹으로 금융보안·개인정보 보호 비상",
-      "summary": "은행·보험사에 이어 미래에셋증권과 한양증권에서도 고객 계좌·주민번호 등 민감 정보가 유출되며 금융권 전반에 사이버 보안 리스크가 확산되고 있다. 공통 업무시스템 취약점과 AI 기반 공격 가능성이 지적되며 금융감독·보안투자 강화 압력이 커지는 중이다.",
+      "title": "국내 금융투자업권 연쇄 해킹과 사이버 보안 리스크 부각",
+      "summary": "미래에셋증권과 한양증권에서 고객 계좌·주민번호 등 핵심 개인정보 유출이 연달아 발생하면서 증권사를 포함한 금융권 전반에 사이버 보안 위기감이 커지고 있다. 공통적으로 외부 협업 솔루션 취약점과 AI 기반 공격 가능성이 지목되며, 금융사 IT·보안 투자 확대, 외주·클라우드 관리 강화, 개인정보 보호 규제 재정비가 불가피한 상황이다.",
       "articleCount": 2,
       "relatedArticles": [
         {
@@ -122,10 +136,10 @@
       ]
     },
     {
-      "id": 4,
+      "id": 5,
       "status": "ONGOING",
-      "title": "AI 버블 우려와 앤트로픽 상장·적자 리스크",
-      "summary": "한국은행이 AI 열풍이 꺾일 경우 132조원 손실 가능성을 제시하며 AI·빅테크 중심 금융시장의 버블 우려를 경고했다. 대규모 적자를 기록 중인 앤트로픽의 상장 이슈와 맞물려, AI 관련 자산 가격과 자본시장 변동성 확대가 주요 리스크로 부각되고 있다.",
+      "title": "AI 투자 열풍의 거품 논쟁과 앤트로픽 상장에 대한 시장 경계",
+      "summary": "한국은행은 AI 붐이 꺼질 경우 최대 132조원의 손실이 발생할 수 있다고 경고하며, 고평가된 AI·빅테크 자산에 대한 리프라이싱 리스크를 제기했다. 동시에 대규모 적자를 기록 중인 앤트로픽의 상장 이슈가 부각되면서, AI·크립토·스테이블코인 정책 완화 속에서도 기술주·디지털자산 버블에 대한 정책·시장 참여자들의 경계심이 공존하고 있다.",
       "articleCount": 2,
       "relatedArticles": [
         {
@@ -137,20 +151,6 @@
           "source": "매일경제(증권)",
           "title": "링컨까지 소환한 베센트... 앤트로픽 상장, 다음달 확정인가",
           "url": "https://www.mk.co.kr/news/business/12182433"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "status": "NEW",
-      "title": "바이오·분자진단 기업의 특허 전략과 자본시장 진출 모색",
-      "summary": "디엑스앤브이엑스(DXVX)가 PCR 위양성 판별 기술 ‘멜픽’ 특허를 출원하며 고급 분자진단 시장 공략에 나섰다. 정밀 진단 기술 고도화와 지식재산권 확보를 통해 바이오기업의 기업가치 제고 및 향후 자본시장 활용 전략이 강화되는 흐름이다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "매일경제(증권)",
-          "title": "DXVX, PCR 위양성 판별 기술 ‘멜픽’ 특허 출원…분자진단 시장 공략",
-          "url": "https://www.mk.co.kr/news/stock/12205084"
         }
       ]
     }

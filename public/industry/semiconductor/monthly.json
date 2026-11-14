@@ -1,93 +1,93 @@
 {
   "range": {
-    "from": "2026-10-15",
-    "to": "2026-11-13"
+    "from": "2026-10-16",
+    "to": "2026-11-14"
   },
   "kpis": {
-    "collected": 53,
-    "deduped": 53,
+    "collected": 50,
+    "deduped": 50,
     "uniqueTopics": 7,
     "marketShare": {
       "Roadmap": 29,
       "Competition": 23,
-      "Manufacturing": 18,
-      "Investment": 15,
+      "Manufacturing": 19,
       "Demand": 15,
+      "Investment": 14,
       "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/15-10/21)",
+      "week": "Week 1 (10/16-10/22)",
       "topicCounts": {
-        "Roadmap": 13,
-        "Competition": 13,
-        "Manufacturing": 9,
-        "Investment": 5,
-        "Demand": 8
+        "Roadmap": 12,
+        "Competition": 11,
+        "Manufacturing": 8,
+        "Demand": 9,
+        "Investment": 2
       }
     },
     {
-      "week": "Week 2 (10/22-10/28)",
+      "week": "Week 2 (10/23-10/29)",
       "topicCounts": {
-        "Roadmap": 5,
-        "Competition": 4,
-        "Manufacturing": 3,
-        "Investment": 0,
-        "Demand": 2
+        "Roadmap": 7,
+        "Competition": 5,
+        "Manufacturing": 6,
+        "Demand": 4,
+        "Investment": 3
       }
     },
     {
-      "week": "Week 3 (10/29-11/04)",
+      "week": "Week 3 (10/30-11/05)",
       "topicCounts": {
-        "Roadmap": 6,
-        "Competition": 2,
-        "Manufacturing": 5,
-        "Investment": 6,
-        "Demand": 3
+        "Roadmap": 3,
+        "Competition": 0,
+        "Manufacturing": 1,
+        "Demand": 1,
+        "Investment": 2
       }
     },
     {
-      "week": "Week 4 (11/05-11/11)",
+      "week": "Week 4 (11/06-11/12)",
       "topicCounts": {
         "Roadmap": 7,
         "Competition": 7,
-        "Manufacturing": 3,
-        "Investment": 6,
-        "Demand": 4
+        "Manufacturing": 2,
+        "Demand": 3,
+        "Investment": 6
       }
     },
     {
-      "week": "Week 5 (11/12-11/13)",
+      "week": "Week 5 (11/13-11/14)",
       "topicCounts": {
-        "Roadmap": 4,
-        "Competition": 3,
+        "Roadmap": 2,
+        "Competition": 2,
         "Manufacturing": 2,
-        "Investment": 1,
-        "Demand": 1
+        "Demand": 1,
+        "Investment": 0
       }
     }
   ],
   "topIssues": [
     {
-      "id": "sem-1",
-      "status": "NEW",
-      "title": "삼성 AI 메모리 호황과 3분기 영업이익 급증",
-      "summary": "삼성전자가 AI 서버용 메모리 수요 급증에 힘입어 3분기 약 800억 달러의 영업이익을 기록했다. HBM·DDR5 등 고부가 메모리 중심의 제품 믹스 개선이 두드러지며, AI 인프라 투자가 반도체 실적의 핵심 성장 동력으로 재확인됐다.",
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "데이터센터·물리 AI 부상 속 반도체업체의 AI 플랫폼 전환",
+      "summary": "electronica 2026에서 주요 팹리스·IDM들이 단순 칩 공급을 넘어 AI 플랫폼·솔루션 사업으로 확장하는 흐름이 뚜렷해지고 있다. 데이터센터, 엣지 AI, 로보틱스 수요가 전력 설계·실리콘 아키텍처 요구사항을 재편하면서, 반도체 로드맵과 경쟁 구도가 시스템·소프트웨어까지 포함하는 방향으로 이동 중이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "EE Times",
-          "title": "Samsung Electronics Posts $80B Operating Profit on AI Memory Demand",
-          "url": "https://www.eetimes.com/samsung-electronics-posts-80b-operating-profit-on-ai-memory-demand/"
+          "title": "electronica 2026: Chipmakers Move Up the Stack as Data Centers and Physical AI Take Center Stage",
+          "url": "https://www.eetimes.com/electronica-2026-chipmakers-move-up-the-stack-as-data-centers-and-physical-ai-take-center-stage/"
         }
       ]
     },
     {
-      "id": "sem-2",
+      "id": 2,
       "status": "ONGOING",
-      "title": "엔비디아 CEO 사임과 AI 반도체 시장 리더십 변동 가능성",
-      "summary": "엔비디아 CEO의 사임으로 GPU 중심 AI 반도체 시장의 리더십에 불확실성이 커지고 있다. 이사회가 후임자를 찾는 동안 제품 로드맵, 고객사 관계, 경쟁 구도가 영향을 받을 수 있어, 삼성·TSMC·AMD 등 경쟁사의 전략 변화와 파운드리·메모리 투자 방향에도 파급이 예상된다.",
+      "title": "엔비디아 CEO 사임으로 인한 반도체·AI 생태계 리더십 공백",
+      "summary": "엔비디아 CEO 젠슨 황의 사임은 GPU와 AI 가속기 시장의 전략·로드맵 의사결정 구조에 불확실성을 키우고 있다. 이사회가 후임 리더를 물색하는 가운데, 데이터센터·AI 인프라 투자 계획과 경쟁사 대비 혁신 속도에 단기 변동 가능성이 제기된다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -98,10 +98,10 @@
       ]
     },
     {
-      "id": "sem-3",
+      "id": 3,
       "status": "ONGOING",
-      "title": "AI 데이터센터 전력망 한계와 반도체 수요·투자 구조 변화",
-      "summary": "AI 클러스터 확장에 필요한 전력망 용량이 미국·중국 모두에서 주요 병목으로 부상했다. 그리드 증설 속도가 GPU·메모리·가속기 수요를 제약할 수 있으며, 전력 접근성에 따라 팹 위치·데이터센터 입지와 장기 설비투자 계획이 재조정되는 흐름이 진행 중이다.",
+      "title": "AI 붐에 따른 전력망 용량 경쟁과 반도체 데이터센터 투자 리스크",
+      "summary": "AI 클러스터 확장이 각국 전력망 용량을 선점하는 경쟁으로 이어지며, 대규모 GPU·AI 칩 수요의 실제 실현 가능성이 전력 인프라에 의해 제약받고 있다. 미국과 중국은 서로 다른 그리드 확보·비용 분담 방식으로 AI 인프라를 확대하고 있어, 반도체 공급사 입장에서도 지역별 수요 리스크 관리가 중요해지고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -112,10 +112,10 @@
       ]
     },
     {
-      "id": "sem-4",
+      "id": 4,
       "status": "ONGOING",
-      "title": "양자컴퓨팅 시대 대비: 암호 인프라 전환과 보안 반도체 기회",
-      "summary": "양자컴퓨터 발전으로 현행 공개키 암호 체계가 수년 내 위협받을 수 있다는 전망이 나오며, 포스트 양자암호(PQC)로의 전환 필요성이 커지고 있다. 이는 보안 칩, 하드웨어 암호 가속기, 안전한 키 스토리지 등 보안 반도체 수요 확대와 정부·산업계의 관련 정책·투자 논의를 자극하고 있다.",
+      "title": "양자컴퓨팅(Q-Day) 시계가 앞당기는 보안 반도체 수요",
+      "summary": "향후 2년 내 양자컴퓨터가 블록체인·공개키 암호를 위협할 수 있다는 전망이 제기되며, 포스트양자암호(PQC) 지원 보안 칩과 신형 암호 가속기 등의 수요 증가가 예상된다. 정책·투자가 맞물리면서 보안 반도체 로드맵 재정비와 양자내성 칩 설계 전환 필요성이 커지고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -126,16 +126,16 @@
       ]
     },
     {
-      "id": "sem-5",
-      "status": "NEW",
-      "title": "지능형 안경 출시와 비전·센서 반도체 수요 확대",
-      "summary": "삼성전자가 12월 미국·한국 동시 출시를 앞둔 지능형 안경 풀 라인업을 공개했다. 핸즈프리 AI 보조 기능과 다양한 디자인을 특징으로 하며, 고성능 모바일 AP, 이미지 센서, 저전력 디스플레이·패키징 등 웨어러블용 반도체 수요를 넓히는 신흥 폼팩터로 주목된다.",
+      "id": 5,
+      "status": "ONGOING",
+      "title": "농업용 초분광 센서 확산으로 비전 센서·이미지처리 반도체 수요 확대",
+      "summary": "초분광 이미징을 활용해 콩 병해를 조기에 탐지하는 연구가 성과를 내면서, 저비용 스펙트럴 센서와 연산 칩에 대한 농업·산업용 수요가 부상하고 있다. 반도체 공정·집적 기술 발전이 센서 가격을 낮추어 스마트팜·정밀농업용 비전 시스템 시장 확대를 뒷받침하는 흐름이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "Samsung Newsroom",
-          "title": "Samsung Announces December Release for Intelligent Eyewear, Bringing a Smarter Way To See the World",
-          "url": "https://news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world"
+          "source": "EE Times",
+          "title": "Can Machines See a Sick Plant Before a Farmer Can?",
+          "url": "https://www.eetimes.com/can-machines-see-a-sick-plant-before-a-farmer-can/"
         }
       ]
     }

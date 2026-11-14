@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-14",
+  "highlights": {
+    "bullets": [
+      "핵심: 젠슨 황이 11월 12일 CEO와 이사회에서 사임했고, CFO 콜레트 크레스가 임시 CEO로 취임하면서 경영 공백과 불확실성이 커졌다.",
+      "핵심: 정부와 국회가 디지털자산기본법 제정에 속도를 내며 법인·기관투자자의 가상자산 시장 참여 확대를 핵심으로 한다."
+    ],
+    "topTopics": [
+      "MarketInfra",
+      "Policy",
+      "Regulation",
+      "Fintech"
+    ],
+    "stats": {
+      "collected": 15,
+      "deduped": 15
+    }
+  },
+  "cards": [
+    {
+      "id": "finance_0001",
+      "tab": "finance",
+      "publishedAt": "2026-11-13T18:01:07+09:00",
+      "source": "매일경제(증권)",
+      "title": "‘젠슨 황 없는 엔비디아’ 미래는?…테크 전문가들은 우려와 낙관이 엇갈렸다 [이슈 플러스]",
+      "summary": [
+        "젠슨 황이 11월 12일 CEO와 이사회에서 사임했다.",
+        "CFO 콜레트 크레스가 임시 CEO로 취임하면서 경영 공백과 불확실성이 커졌다.",
+        "테크 전문가들은 시장 영향과 전략 전환 가능성을 두고 우려와 낙관으로 의견이 갈렸다."
+      ],
+      "whyItMatters": "엔비디아의 리더십 변화는 AI·반도체 생태계와 투자심리에 즉각적이고 광범위한 영향을 미치기 때문입니다.",
+      "topics": [
+        "MarketInfra",
+        "Policy"
+      ],
+      "status": "SHIFTING",
+      "hash": "95feb72e494be670997468011ece70963858dea3b07e25178475ceca6a0fb03f",
+      "url": "https://www.mk.co.kr/news/stock/12208309"
+    },
+    {
+      "id": "finance_0002",
+      "tab": "finance",
+      "publishedAt": "2026-11-13T17:05:46+09:00",
+      "source": "매일경제(증권)",
+      "title": "한국, 디지털자산기본법 입법 가속…법인·기관투자자 시장 개방 본격화[엠블록레터]",
+      "summary": [
+        "정부와 국회가 '디지털자산기본법' 제정에 속도를 내고 있다.",
+        "법안은 법인·기관투자자의 가상자산 시장 참여 확대를 핵심으로 한다.",
+        "제정 시 제도권 편입과 투자 유입이 가속화되며 시장 인프라와 규율 변화가 예상된다."
+      ],
+      "whyItMatters": "국가 차원의 법제화는 기관 참여 확대와 시장 성숙을 촉진해 금융시장과 암호자산 생태계에 중요한 영향을 미치기 때문이다.",
+      "topics": [
+        "Regulation",
+        "Crypto",
+        "Fintech",
+        "MarketInfra"
+      ],
+      "status": "ONGOING",
+      "hash": "19d9be89f8d7dbaa2858c9d826a3336e74520630b0bfd7ddc205cbc2b9e49023",
+      "url": "https://www.mk.co.kr/news/stock/12208192"
+    }
+  ]
+}

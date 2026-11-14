@@ -1,63 +1,33 @@
 {
   "range": {
-    "from": "2026-11-07",
-    "to": "2026-11-13"
+    "from": "2026-11-08",
+    "to": "2026-11-14"
   },
   "kpis": {
-    "collected": 15,
-    "deduped": 15,
+    "collected": 20,
+    "deduped": 20,
     "uniqueTopics": 9
   },
   "topTopics": [
     {
-      "name": "Models",
-      "count": 10
-    },
-    {
       "name": "Tooling",
-      "count": 10
+      "count": 14
     },
     {
       "name": "Product",
-      "count": 10
+      "count": 13
+    },
+    {
+      "name": "Models",
+      "count": 11
     },
     {
       "name": "Infra",
-      "count": 6
+      "count": 9
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-11-07",
-      "dayOfWeek": "Sat",
-      "topic": "Models",
-      "count": 0
-    },
-    {
-      "date": "2026-11-07",
-      "dayOfWeek": "Sat",
-      "topic": "Tooling",
-      "count": 0
-    },
-    {
-      "date": "2026-11-07",
-      "dayOfWeek": "Sat",
-      "topic": "Product",
-      "count": 0
-    },
-    {
-      "date": "2026-11-07",
-      "dayOfWeek": "Sat",
-      "topic": "Infra",
-      "count": 0
-    },
-    {
-      "date": "2026-11-08",
-      "dayOfWeek": "Sun",
-      "topic": "Models",
-      "count": 0
-    },
-    {
       "date": "2026-11-08",
       "dayOfWeek": "Sun",
       "topic": "Tooling",
@@ -72,13 +42,13 @@
     {
       "date": "2026-11-08",
       "dayOfWeek": "Sun",
-      "topic": "Infra",
+      "topic": "Models",
       "count": 0
     },
     {
-      "date": "2026-11-09",
-      "dayOfWeek": "Mon",
-      "topic": "Models",
+      "date": "2026-11-08",
+      "dayOfWeek": "Sun",
+      "topic": "Infra",
       "count": 0
     },
     {
@@ -96,14 +66,14 @@
     {
       "date": "2026-11-09",
       "dayOfWeek": "Mon",
-      "topic": "Infra",
+      "topic": "Models",
       "count": 0
     },
     {
-      "date": "2026-11-10",
-      "dayOfWeek": "Tue",
-      "topic": "Models",
-      "count": 1
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Infra",
+      "count": 0
     },
     {
       "date": "2026-11-10",
@@ -120,14 +90,14 @@
     {
       "date": "2026-11-10",
       "dayOfWeek": "Tue",
-      "topic": "Infra",
-      "count": 0
+      "topic": "Models",
+      "count": 1
     },
     {
-      "date": "2026-11-11",
-      "dayOfWeek": "Wed",
-      "topic": "Models",
-      "count": 4
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Infra",
+      "count": 0
     },
     {
       "date": "2026-11-11",
@@ -144,8 +114,26 @@
     {
       "date": "2026-11-11",
       "dayOfWeek": "Wed",
+      "topic": "Models",
+      "count": 4
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
       "topic": "Infra",
       "count": 4
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Tooling",
+      "count": 3
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Product",
+      "count": 3
     },
     {
       "date": "2026-11-12",
@@ -156,20 +144,20 @@
     {
       "date": "2026-11-12",
       "dayOfWeek": "Thu",
-      "topic": "Tooling",
-      "count": 3
-    },
-    {
-      "date": "2026-11-12",
-      "dayOfWeek": "Thu",
-      "topic": "Product",
-      "count": 3
-    },
-    {
-      "date": "2026-11-12",
-      "dayOfWeek": "Thu",
       "topic": "Infra",
       "count": 1
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Tooling",
+      "count": 4
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Product",
+      "count": 4
     },
     {
       "date": "2026-11-13",
@@ -180,95 +168,102 @@
     {
       "date": "2026-11-13",
       "dayOfWeek": "Fri",
+      "topic": "Infra",
+      "count": 2
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
       "topic": "Tooling",
       "count": 3
     },
     {
-      "date": "2026-11-13",
-      "dayOfWeek": "Fri",
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
       "topic": "Product",
-      "count": 3
+      "count": 2
     },
     {
-      "date": "2026-11-13",
-      "dayOfWeek": "Fri",
-      "topic": "Infra",
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Models",
       "count": 1
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Infra",
+      "count": 2
     }
   ],
   "topIssues": [
     {
-      "id": 1,
+      "id": "ai-1",
       "status": "NEW",
-      "title": "AI 연구 성과 가속: 범용 번역·수학 난제·코딩 에이전트 혁신",
-      "summary": "마이크로소프트 리서치가 AI 기반 범용 번역, 31년 된 수학 난제 해결의 돌파구, 그리고 코딩 에이전트의 속도·효율 개선을 공개했다. 기초 연구부터 개발 생산성 향상까지 AI 연구의 스펙트럼이 빠르게 확장되고 있음을 보여준다.",
+      "title": "NVIDIA cuBLAS FP64 알고리즘으로 과학 시뮬레이션 가속",
+      "summary": "NVIDIA가 cuBLAS에 새로운 FP64 배정밀도 알고리즘을 도입해 분자 화학·재료 과학 등 고정밀 밀집 행렬 연산 워크로드의 성능을 크게 향상시켰다. 이를 통해 HPC·과학 연구 분야에서 시뮬레이션 시간 단축과 GPU 활용 효율 개선이 기대된다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "Microsoft Research Blog",
-          "title": "Microsoft Research Focus – Edition #98",
-          "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/"
+          "source": "NVIDIA Developer Blog",
+          "title": "Faster Scientific Simulations with New FP64 Algorithms in NVIDIA cuBLAS",
+          "url": "https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas/"
         }
       ]
     },
     {
-      "id": 2,
-      "status": "ONGOING",
-      "title": "AI 코딩·제품 에이전트의 실전 도입 확산",
-      "summary": "Amplitude와 Gondola 사례에서 보이듯, 기업들은 LLM 기반 코딩·제품 에이전트를 활용해 기능 아이디어 도출부터 코드 작성·배포까지의 사이클을 1~2일 수준으로 단축하고 있다. 이는 엔지니어 생산성 50% 이상 향상과 수익 증대로 이어지며, 소프트웨어 개발·제품 운영 방식의 구조적 변화를 이끌고 있다.",
-      "articleCount": 2,
+      "id": "ai-2",
+      "status": "NEW",
+      "title": "Jetson AGX Orin에서 cuDLA 기반 저전력 네이티브 DLA 추론",
+      "summary": "NVIDIA Jetson AGX Orin에서 cuDLA를 활용해 Python 환경에서 네이티브 DLA 추론을 수행하는 방법이 공개되었다. 제한된 전력·연산 자원 환경에서 여러 신경망을 동시에 효율적으로 구동하고 최적화하는 실무 예제가 제공되어 엣지 AI 배포에 직접적인 참고가 된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA",
+          "url": "https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla/"
+        }
+      ]
+    },
+    {
+      "id": "ai-3",
+      "status": "NEW",
+      "title": "XYBench: 질문 이면의 문제 해결 능력을 측정하는 신규 LLM 벤치마크",
+      "summary": "XYBench는 사용자의 질문 뒤에 있는 근본 문제를 파악하고 적절한 해결 방향을 제시하는 능력을 평가하는 새로운 벤치마크다. 모델의 의도 이해, 문제 재정의, 해결책 적합성 등을 테스트해 단순 질의응답을 넘어 실질적인 문제 해결형 AI 성능을 비교할 수 있게 한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "XYBench: Helping with the problem behind the question",
+          "url": "https://huggingface.co/blog/allenai/xybench"
+        }
+      ]
+    },
+    {
+      "id": "ai-4",
+      "status": "NEW",
+      "title": "ChatGPT Wallet로 에이전트 기반 결제·구매 기능 활성화",
+      "summary": "OpenAI가 ChatGPT Wallet을 도입해 ChatGPT Work, Codex, dots 에이전트가 사용자를 대신해 구매를 완료할 수 있게 했다. 거래는 사용자 승인 절차와 카드 보안 기능을 기반으로 하며, 향후 에이전트 기반 업무 자동화와 상거래 워크플로 통합을 가속할 인프라로 주목된다.",
+      "articleCount": 1,
       "relatedArticles": [
         {
           "source": "OpenAI Blog",
-          "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-          "url": "https://openai.com/business/customer-stories/amplitude"
-        },
-        {
-          "source": "OpenAI Blog",
-          "title": "Gondola doubles revenue as its team builds more with Codex",
-          "url": "https://openai.com/business/customer-stories/gondola"
+          "title": "Introducing ChatGPT Wallet",
+          "url": "https://openai.com/index/introducing-chatgpt-wallet"
         }
       ]
     },
     {
-      "id": 3,
+      "id": "ai-5",
       "status": "ONGOING",
-      "title": "LLM 특화 마크업·툴링으로 구조화된 지시와 에이전트 제어 강화",
-      "summary": "Hugging Face가 IBM Granite 4.1 3B/8B 모델에 LLM 특화 마크업 언어 LLMON을 통합했다. 이를 통해 구조화된 지시, 툴 호출, 워크플로 정의가 쉬워지면서 LLM을 에이전트·툴 허브로 사용하는 패턴이 표준화되는 흐름이 강해지고 있다.",
+      "title": "LLMON: LLM에 최적화된 마크업 언어와 Granite 4.1 통합",
+      "summary": "LLMON은 LLM이 구조화된 지시와 툴 호출을 더 안정적으로 해석하도록 설계된 LLM 전용 마크업 언어다. Hugging Face는 IBM Granite 4.1 3B·8B 모델에 LLMON을 통합해, 복잡한 에이전트 오케스트레이션과 툴 연동 워크플로를 보다 일관되게 구성할 수 있는 기반을 제공하고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Hugging Face Blog",
           "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
           "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "status": "ONGOING",
-      "title": "GPU·클러스터 인프라의 AI 워크로드 가시화와 검증 고도화",
-      "summary": "NVIDIA DSX AI Factory는 런타임 AI 인벤토리를 통해 실제 실행 중인 AI 워크로드를 Dynamo, Kubeflow, Slurm 등 다양한 오케스트레이션 환경에서 추적·검증할 수 있게 한다. 이는 대규모 GPU 인프라 운영의 투명성과 리소스 효율, 규제 대응력을 함께 끌어올리는 방향의 인프라 트렌드를 보여준다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "NVIDIA Developer Blog",
-          "title": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory",
-          "url": "https://developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory/"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "status": "NEW",
-      "title": "에이전트 백도어와 휴면 뉴런 악용: AI 보안 위협의 정교화",
-      "summary": "마이크로소프트 연구진은 겉으로 정상적으로 보이는 모델 내부의 휴면 뉴런을 재프로그램해, 특정 트리거에만 반응하는 백도어를 심는 ‘Lazarus’ 기법을 제시했다. 이 방식은 툴·터미널 권한을 가진 에이전트가 특정 입력에서만 조용히 악성 코드를 내려받고 실행하게 만들 수 있어, 향후 에이전트 보안·감사·모델 검증 체계의 재설계를 요구하고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Microsoft Research Blog",
-          "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
-          "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/"
         }
       ]
     }
