@@ -2,6 +2,30 @@
   "month": "2026-11",
   "events": [
     {
+      "id": "e28f242b13f0268921505a90707b5f2bdc369f78",
+      "date": "2026-11-14",
+      "company": "한국투자증권",
+      "title": "한국투자증권 iOS 앱 업데이트 v2.29.05",
+      "oneLiner": "앱 업데이트로 MMW-CMA 상품을 영업점 방문 없이 비대면으로 개설할 수 있는 계좌개설 기능이 추가됨.",
+      "type": "출시",
+      "areas": [
+        "브로커리지",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "app_store",
+      "sources": [
+        {
+          "source": "App Store",
+          "title": "한국투자증권 iOS 앱 업데이트 v2.29.05",
+          "url": "https://apps.apple.com/kr/app/%ED%95%9C%ED%88%AC-%ED%95%9C%EA%B5%AD%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C-mts-%ED%88%AC%EC%9E%90-%EC%A6%9D%EA%B6%8C-%ED%95%B4%EC%99%B8%EC%A3%BC%EC%8B%9D-%EC%A3%BC%EC%8B%9D%EC%96%B4%ED%94%8C/id1621986905?uo=4"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-11-14"
+    },
+    {
       "id": "news:NH투자증권:https://www.fnnews.com/news/202611130957550323",
       "date": "2026-11-13",
       "company": "NH투자증권",
@@ -23,6 +47,52 @@
       "tags": [],
       "confidence": 0.9,
       "updatedAt": "2026-11-13"
+    },
+    {
+      "id": "ee9fdcd1e025e4dfc397b5724954550926ced385",
+      "date": "2026-11-13",
+      "company": "NH투자증권",
+      "title": "기업설명회(IR)개최(안내공시)              ",
+      "oneLiner": "NH투자증권이 기업설명회(IR) 개최를 DART에 공시함.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "기업설명회(IR)개최(안내공시)              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113801708"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-14"
+    },
+    {
+      "id": "3ab99bd9920d83b52aacb6b0cba854b7e90ab29e",
+      "date": "2026-11-13",
+      "company": "NH투자증권",
+      "title": "기업설명회(IR)개최(안내공시)              ",
+      "oneLiner": "NH투자증권의 기업설명회(IR) 개최 공시(별도 공시건)로 투자자 대상 행사 일정이 공시됨.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "기업설명회(IR)개최(안내공시)              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113801608"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-14"
     },
     {
       "id": "news:미래에셋증권:https://www.mk.co.kr/news/stock/12205981",
@@ -137,7 +207,7 @@
       ],
       "tags": [],
       "confidence": 0.95,
-      "updatedAt": "2026-11-13"
+      "updatedAt": "2026-11-14"
     },
     {
       "id": "news:KB증권:https://www.fnnews.com/news/202611121110504739",
@@ -230,7 +300,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-11-13"
+      "updatedAt": "2026-11-14"
     },
     {
       "id": "e1a8635dffc29e09d3f940b693749f771e622814",
@@ -253,7 +323,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-11-13"
+      "updatedAt": "2026-11-14"
     },
     {
       "id": "news:미래에셋증권:https://www.fnnews.com/news/202611111322111132",
