@@ -2,6 +2,29 @@
   "month": "2026-11",
   "events": [
     {
+      "id": "news:KB증권:https://www.fnnews.com/news/202611130838466256",
+      "date": "2026-11-15",
+      "company": "KB증권",
+      "title": "\"17만원인데, 30만원은 간다며 사라?\"…증권사 목표주가, 웬만하면 '주가 2배' [주주클럽]",
+      "oneLiner": "증권사들이 네이버에 대해 목표주가를 유지하거나 소폭 조정했으며 KB증권은 목표가를 33만원에서 31만원으로 6% 하향했고, 전반적으로 '매수' 의견을 유지했다. 내년에는 AI 데이터센터 계약이 반영되며 실적 반등 기대가 언급되었다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"17만원인데, 30만원은 간다며 사라?\"…증권사 목표주가, 웬만하면 '주가 2배' [주주클럽]",
+          "url": "https://www.fnnews.com/news/202611130838466256"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-15"
+    },
+    {
       "id": "news:키움증권:https://www.mk.co.kr/news/stock/12207628",
       "date": "2026-11-13",
       "company": "키움증권",
@@ -24,7 +47,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-11-14"
+      "updatedAt": "2026-11-15"
     },
     {
       "id": "news:하나증권:https://www.fnnews.com/news/202611130843438987",
@@ -96,7 +119,7 @@
       ],
       "tags": [],
       "confidence": 0.92,
-      "updatedAt": "2026-11-14"
+      "updatedAt": "2026-11-15"
     },
     {
       "id": "news:토스증권:https://www.mk.co.kr/news/stock/12206352",
