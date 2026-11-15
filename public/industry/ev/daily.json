@@ -1,63 +1,65 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "highlights": {
     "bullets": [
-      "핵심: 폭스바겐이 SSP 플랫폼 기반의 또 다른 전기차 출시를 연기했다.",
-      "핵심: 폭스바겐이 2027년 약 2만 유로 시작가의 보급형 전기차 이름을 암시하는 상표를 출원했다."
+      "핵심: 테슬라 사이버캡은 월 299달러 자율주행 구독을 결제하지 않으면 차량이 움직이지 않도록 설계됐다.",
+      "핵심: 테슬라는 사이버캡 개인용 주문을 시작했고 차량 가격은 2만9,990달러이며 로보택시 구역에서만 운행된다."
     ],
     "topTopics": [
-      "Roadmap",
       "Competition",
+      "Roadmap",
       "Demand",
-      "Investment"
+      "Policy"
     ],
     "stats": {
-      "collected": 14,
-      "deduped": 14
+      "collected": 6,
+      "deduped": 6
     }
   },
   "cards": [
     {
       "id": "ev_0001",
       "tab": "ev",
-      "publishedAt": "2026-11-14T04:03:28+09:00",
+      "publishedAt": "2026-11-14T22:33:00+09:00",
       "source": "Electrek",
-      "title": "Volkswagen is delaying another EV based on the SSP",
+      "title": "Tesla Cybercab’s autonomy agreement is insane: $299/mo or it doesn’t move",
       "summary": [
-        "폭스바겐이 SSP 플랫폼 기반의 또 다른 전기차 출시를 연기했다.",
-        "이번 연기는 이미 전기 골프 지연에 이은 추가 지연 사례이다.",
-        "플랫폼·생산 일정 불확실성이 로드맵과 경쟁력에 부담을 줄 수 있다."
+        "테슬라의 2인승 사이버캡은 월 299달러 ‘자율주행 구독’을 결제하지 않으면 아예 움직일 수 없도록 설계됐다.",
+        "테슬라는 이 구독료를 한 달 전에 통보만 하고 조정할 수 있으며, 일시 중단이나 완전 차단 권한도 계약에 포함했다.",
+        "모델 Y에 수년간 FSD를 판매하고도 완전 자율주행을 제공하지 않은 상황에서 이런 강제 구독 구조가 소비자 반발과 규제 리스크를 키울 수 있다."
       ],
-      "whyItMatters": "이 사건은 폭스바겐의 EV 로드맵과 생산 계획의 불안정성이 지속되어 시장 경쟁력과 투자자 신뢰에 부정적 영향을 줄 가능성이 있음을 보여준다.",
+      "whyItMatters": "핵심 기능을 필수 고가 구독에 묶는 테슬라의 공격적 수익화 모델은 수요, 규제, 경쟁 구도에 모두 큰 영향을 줄 수 있다.",
       "topics": [
-        "Roadmap",
-        "Manufacturing",
-        "Competition"
+        "Demand",
+        "Competition",
+        "Policy",
+        "Roadmap"
       ],
-      "status": "ONGOING",
-      "hash": "14aa56727ecacf6396483b2652cd891a34ca59a7118782ee0e49c772f0246c6c",
-      "url": "https://electrek.co/2026/11/13/volkswagen-delaying-another-ev-ssp/"
+      "status": "NEW",
+      "hash": "ff6c3d96de81e959e8dd9aa9099e9d2c19b12f7355b111eb169f1ce1c2302dbb",
+      "url": "https://electrek.co/2026/11/14/tesla-cybercab-autonomy-subscription-agreement-terms/"
     },
     {
       "id": "ev_0002",
       "tab": "ev",
-      "publishedAt": "2026-11-14T07:14:38+09:00",
+      "publishedAt": "2026-11-14T11:11:39+09:00",
       "source": "Electrek",
-      "title": "Volkswagen may have just hinted at the name of its next affordable EV",
+      "title": "Tesla Cybercab orders open at $29,990 + $299/mo, only in Robotaxi zones",
       "summary": [
-        "폭스바겐이 2027년 약 2만 유로(2.2만 달러) 시작가의 신규 보급형 전기차 출시를 준비 중입니다.",
-        "최근 신규 상표 출원을 통해 이 엔트리급 EV의 이름이 암시된 것으로 보입니다.",
-        "이는 폭스바겐의 저가 전기차 라인업 확장 및 대중 시장 공략 전략의 일환입니다."
+        "테슬라가 특정 고객을 대상으로 사이버캡 개인용 주문을 개시했으며 차량 가격은 2만9,990달러이다.",
+        "차량이 실제로 주행하려면 월 299달러의 ‘자율주행 구독(Autonomy Subscription)’을 추가로 결제해야 한다.",
+        "이 서비스는 텍사스와 플로리다의 로보택시 지오펜스 구역 내에서만 작동하며, 실제 운행 가능 구역은 테슬라가 광고한 범위보다 더 좁은 것으로 드러났다."
       ],
-      "whyItMatters": "보급형 EV 네이밍과 출시 계획이 구체화되면서 전기차 대중화 경쟁과 가격대별 포지셔닝이 본격화될 신호이기 때문입니다.",
+      "whyItMatters": "새로운 가격·구독 구조와 제한된 지리적 운행 범위는 테슬라 로보택시 비즈니스 모델의 수익성, 수요 형성, 규제·경쟁 구도에 직접적인 영향을 줄 수 있다.",
       "topics": [
+        "Demand",
         "Roadmap",
         "Competition",
-        "Demand"
+        "Policy"
       ],
-      "status": "ONGOING",
-      "hash": "0d4d7fd39995679eef5af86586607afe8a0e9606389c4881f1dddf0c2154bf71",
-      "url": "https://electrek.co/2026/11/13/volkswagen-trademark-name-next-affordable-ev/"
+      "status": "NEW",
+      "hash": "e3e96d2c5296806ff37761392a85b40b446a45b23d81f07e9083e5b539fa5cd9",
+      "url": "https://electrek.co/2026/11/13/tesla-cybercab-personal-use-orders-299-subscription-geofence/"
     }
   ]
 }

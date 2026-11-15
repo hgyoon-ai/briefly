@@ -1,0 +1,148 @@
+{
+  "range": {
+    "from": "2026-10-17",
+    "to": "2026-11-15"
+  },
+  "kpis": {
+    "collected": 42,
+    "deduped": 42,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 27,
+      "Competition": 25,
+      "Demand": 19,
+      "Investment": 19,
+      "Policy": 9,
+      "Other": 1
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/17-10/23)",
+      "topicCounts": {
+        "Roadmap": 9,
+        "Competition": 8,
+        "Demand": 6,
+        "Investment": 5,
+        "Policy": 3
+      }
+    },
+    {
+      "week": "Week 2 (10/24-10/30)",
+      "topicCounts": {
+        "Roadmap": 8,
+        "Competition": 7,
+        "Demand": 6,
+        "Investment": 7,
+        "Policy": 1
+      }
+    },
+    {
+      "week": "Week 3 (10/31-11/06)",
+      "topicCounts": {
+        "Roadmap": 2,
+        "Competition": 3,
+        "Demand": 3,
+        "Investment": 2,
+        "Policy": 2
+      }
+    },
+    {
+      "week": "Week 4 (11/07-11/13)",
+      "topicCounts": {
+        "Roadmap": 8,
+        "Competition": 8,
+        "Demand": 5,
+        "Investment": 9,
+        "Policy": 3
+      }
+    },
+    {
+      "week": "Week 5 (11/14-11/15)",
+      "topicCounts": {
+        "Roadmap": 2,
+        "Competition": 2,
+        "Demand": 2,
+        "Investment": 0,
+        "Policy": 2
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "테슬라 사이버캡: ‘월 299달러 자율주행 구독’ 없으면 못 움직이는 새로운 비즈니스 모델",
+      "summary": "테슬라가 2인승 사이버캡을 개인에게 약 3만 달러에 판매하면서, 차량이 실제로 주행하려면 월 299달러의 자율주행 구독을 반드시 결제해야 하는 구조를 도입했다. 테슬라는 이 요금을 한 달 전 통보만으로 변경할 수 있고, 이용 중단·차량 운행 차단 권한까지 계약에 포함해 차량 판매를 구독 기반 수익 모델로 강하게 전환하려는 움직임을 보이고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla Cybercab’s autonomy agreement is insane: $299/mo or it doesn’t move",
+          "url": "https://electrek.co/2026/11/14/tesla-cybercab-autonomy-subscription-agreement-terms/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Tesla Cybercab orders open at $29,990 + $299/mo, only in Robotaxi zones",
+          "url": "https://electrek.co/2026/11/13/tesla-cybercab-personal-use-orders-299-subscription-geofence/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "폭스바겐, 2027년 2만 유로대 엔트리급 EV로 보급형 시장 재공략",
+      "summary": "폭스바겐이 약 2만 유로(2.2만 달러) 수준의 신규 보급형 전기차를 2027년 출시할 계획이며, 최근 상표 출원을 통해 모델명까지 암시되면서 프로젝트가 본궤도에 오른 모습이다. 유럽 내 내연기관 퇴출 일정에 맞춰 가격 민감도가 높은 대중 시장을 노리며, 중국·테슬라 중심의 가격 경쟁 구도에 재진입하려는 전략적 행보로 해석된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Volkswagen may have just hinted at the name of its next affordable EV",
+          "url": "https://electrek.co/2026/11/13/volkswagen-trademark-name-next-affordable-ev/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "캐나다, 예산안으로 5만5천기 이상 EV 충전 인프라 확충에 40억 캐나다달러 투입",
+      "summary": "캐나다 정부가 최신 예산에서 5만5천 개 이상 신규 전기차 충전기 구축과 전력망 현대화를 위해 40억 캐나다달러 이상을 배정했다. 전국적인 충전 접근성을 높여 장거리 주행 불안과 초기 수요 장벽을 낮추고, 향후 EV 보급률 제고와 민간 충전 사업 활성화를 동시에 노리는 정책 패키지다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Latest Canadian budget packs funding for 55,000 new EV chargers",
+          "url": "https://electrek.co/2026/11/12/latest-canadian-budget-packs-funding-for-55000-new-ev-chargers/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "BYD, 102만 명 초대형 인력 기반으로 글로벌 EV 제조·내재화 경쟁 심화",
+      "summary": "BYD가 불과 10개월 만에 15만 명을 추가 고용해 총 직원 수가 102만 명을 돌파, 토요타·GM·포드·테슬라를 모두 합친 것보다 많은 수준에 도달했다. 배터리·부품·완성차 전 과정을 수직계열화해 대규모 인력을 투입하는 전략으로 생산능력 확대와 원가 절감을 동시에 추진하면서, 글로벌 EV 제조 경쟁에서 규모의 경제를 앞세운 압박이 더욱 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "BYD now has 1.02 million workers, more than Toyota, GM, Ford, and Tesla combined",
+          "url": "https://electrek.co/2026/10/28/byd-1-million-employees-more-than-toyota-gm-ford-tesla/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "Lucid, 재고 위치조차 파악 못한 공급망·딜리버리 혼선으로 주문 손실",
+      "summary": "Lucid CEO가 3분기 실적 발표에서 여름까지 재고 차량의 위치를 제대로 추적하지 못해 고객 인도에 최대 2주가 걸렸고, 이 과정에서 주문 취소가 발생했다고 인정했다. 프리미엄 EV 시장 경쟁이 치열해지는 상황에서, 생산·물류 가시성 부족이 브랜드 신뢰와 수요 창출을 저해하는 구조적 리스크로 부각되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Lucid CEO admits it ‘did not even know where cars were’ and lost orders",
+          "url": "https://electrek.co/2026/11/10/lucid-ceo-did-not-know-where-cars-were-lost-orders/"
+        }
+      ]
+    }
+  ]
+}

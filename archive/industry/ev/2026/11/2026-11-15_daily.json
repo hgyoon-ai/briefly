@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-15",
+  "highlights": {
+    "bullets": [
+      "핵심: 테슬라 사이버캡은 월 299달러 자율주행 구독을 결제하지 않으면 차량이 움직이지 않도록 설계됐다.",
+      "핵심: 테슬라는 사이버캡 개인용 주문을 시작했고 차량 가격은 2만9,990달러이며 로보택시 구역에서만 운행된다."
+    ],
+    "topTopics": [
+      "Competition",
+      "Roadmap",
+      "Demand",
+      "Policy"
+    ],
+    "stats": {
+      "collected": 6,
+      "deduped": 6
+    }
+  },
+  "cards": [
+    {
+      "id": "ev_0001",
+      "tab": "ev",
+      "publishedAt": "2026-11-14T22:33:00+09:00",
+      "source": "Electrek",
+      "title": "Tesla Cybercab’s autonomy agreement is insane: $299/mo or it doesn’t move",
+      "summary": [
+        "테슬라의 2인승 사이버캡은 월 299달러 ‘자율주행 구독’을 결제하지 않으면 아예 움직일 수 없도록 설계됐다.",
+        "테슬라는 이 구독료를 한 달 전에 통보만 하고 조정할 수 있으며, 일시 중단이나 완전 차단 권한도 계약에 포함했다.",
+        "모델 Y에 수년간 FSD를 판매하고도 완전 자율주행을 제공하지 않은 상황에서 이런 강제 구독 구조가 소비자 반발과 규제 리스크를 키울 수 있다."
+      ],
+      "whyItMatters": "핵심 기능을 필수 고가 구독에 묶는 테슬라의 공격적 수익화 모델은 수요, 규제, 경쟁 구도에 모두 큰 영향을 줄 수 있다.",
+      "topics": [
+        "Demand",
+        "Competition",
+        "Policy",
+        "Roadmap"
+      ],
+      "status": "NEW",
+      "hash": "ff6c3d96de81e959e8dd9aa9099e9d2c19b12f7355b111eb169f1ce1c2302dbb",
+      "url": "https://electrek.co/2026/11/14/tesla-cybercab-autonomy-subscription-agreement-terms/"
+    },
+    {
+      "id": "ev_0002",
+      "tab": "ev",
+      "publishedAt": "2026-11-14T11:11:39+09:00",
+      "source": "Electrek",
+      "title": "Tesla Cybercab orders open at $29,990 + $299/mo, only in Robotaxi zones",
+      "summary": [
+        "테슬라가 특정 고객을 대상으로 사이버캡 개인용 주문을 개시했으며 차량 가격은 2만9,990달러이다.",
+        "차량이 실제로 주행하려면 월 299달러의 ‘자율주행 구독(Autonomy Subscription)’을 추가로 결제해야 한다.",
+        "이 서비스는 텍사스와 플로리다의 로보택시 지오펜스 구역 내에서만 작동하며, 실제 운행 가능 구역은 테슬라가 광고한 범위보다 더 좁은 것으로 드러났다."
+      ],
+      "whyItMatters": "새로운 가격·구독 구조와 제한된 지리적 운행 범위는 테슬라 로보택시 비즈니스 모델의 수익성, 수요 형성, 규제·경쟁 구도에 직접적인 영향을 줄 수 있다.",
+      "topics": [
+        "Demand",
+        "Roadmap",
+        "Competition",
+        "Policy"
+      ],
+      "status": "NEW",
+      "hash": "e3e96d2c5296806ff37761392a85b40b446a45b23d81f07e9083e5b539fa5cd9",
+      "url": "https://electrek.co/2026/11/13/tesla-cybercab-personal-use-orders-299-subscription-geofence/"
+    }
+  ]
+}

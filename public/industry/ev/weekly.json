@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-11-08",
-    "to": "2026-11-14"
+    "from": "2026-11-09",
+    "to": "2026-11-15"
   },
   "kpis": {
     "collected": 10,
@@ -18,61 +18,37 @@
       "count": 8
     },
     {
-      "name": "Investment",
-      "count": 7
+      "name": "Demand",
+      "count": 6
     },
     {
-      "name": "Demand",
+      "name": "Investment",
       "count": 5
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-11-08",
-      "dayOfWeek": "Sun",
-      "topic": "Roadmap",
-      "count": 1
-    },
-    {
-      "date": "2026-11-08",
-      "dayOfWeek": "Sun",
-      "topic": "Competition",
-      "count": 1
-    },
-    {
-      "date": "2026-11-08",
-      "dayOfWeek": "Sun",
-      "topic": "Investment",
-      "count": 1
-    },
-    {
-      "date": "2026-11-08",
-      "dayOfWeek": "Sun",
-      "topic": "Demand",
-      "count": 1
-    },
-    {
       "date": "2026-11-09",
       "dayOfWeek": "Mon",
       "topic": "Roadmap",
-      "count": 1
+      "count": 0
     },
     {
       "date": "2026-11-09",
       "dayOfWeek": "Mon",
       "topic": "Competition",
-      "count": 1
-    },
-    {
-      "date": "2026-11-09",
-      "dayOfWeek": "Mon",
-      "topic": "Investment",
-      "count": 1
+      "count": 0
     },
     {
       "date": "2026-11-09",
       "dayOfWeek": "Mon",
       "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Investment",
       "count": 0
     },
     {
@@ -90,13 +66,13 @@
     {
       "date": "2026-11-10",
       "dayOfWeek": "Tue",
-      "topic": "Investment",
+      "topic": "Demand",
       "count": 0
     },
     {
       "date": "2026-11-10",
       "dayOfWeek": "Tue",
-      "topic": "Demand",
+      "topic": "Investment",
       "count": 0
     },
     {
@@ -114,14 +90,14 @@
     {
       "date": "2026-11-11",
       "dayOfWeek": "Wed",
-      "topic": "Investment",
-      "count": 2
+      "topic": "Demand",
+      "count": 1
     },
     {
       "date": "2026-11-11",
       "dayOfWeek": "Wed",
-      "topic": "Demand",
-      "count": 1
+      "topic": "Investment",
+      "count": 2
     },
     {
       "date": "2026-11-12",
@@ -138,13 +114,13 @@
     {
       "date": "2026-11-12",
       "dayOfWeek": "Thu",
-      "topic": "Investment",
+      "topic": "Demand",
       "count": 2
     },
     {
       "date": "2026-11-12",
       "dayOfWeek": "Thu",
-      "topic": "Demand",
+      "topic": "Investment",
       "count": 2
     },
     {
@@ -157,12 +133,6 @@
       "date": "2026-11-13",
       "dayOfWeek": "Fri",
       "topic": "Competition",
-      "count": 1
-    },
-    {
-      "date": "2026-11-13",
-      "dayOfWeek": "Fri",
-      "topic": "Investment",
       "count": 1
     },
     {
@@ -172,16 +142,28 @@
       "count": 0
     },
     {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
       "date": "2026-11-14",
       "dayOfWeek": "Sat",
       "topic": "Roadmap",
-      "count": 2
+      "count": 4
     },
     {
       "date": "2026-11-14",
       "dayOfWeek": "Sat",
       "topic": "Competition",
-      "count": 2
+      "count": 4
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Demand",
+      "count": 3
     },
     {
       "date": "2026-11-14",
@@ -190,18 +172,74 @@
       "count": 0
     },
     {
-      "date": "2026-11-14",
-      "dayOfWeek": "Sat",
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
       "topic": "Demand",
-      "count": 1
+      "count": 0
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 0
     }
   ],
   "topIssues": [
     {
       "id": 1,
       "status": "NEW",
+      "title": "테슬라 사이버캡: 월 299달러 자율주행 구독 의무화로 비즈니스 모델 전환",
+      "summary": "테슬라가 2인승 사이버캡을 차량 가격 2만9,990달러에 판매하면서, 차량이 움직이기 위한 필수 조건으로 월 299달러 ‘자율주행 구독’을 묶어 강력한 구독형 수익 모델을 도입했다. 테슬라는 이용료를 한 달 전 통보만으로 조정할 수 있고, 구독 일시 중단 및 차량 사용 차단 권한까지 계약에 포함해 향후 로보택시 기반 수익 극대화 전략을 분명히 했다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla Cybercab’s autonomy agreement is insane: $299/mo or it doesn’t move",
+          "url": "https://electrek.co/2026/11/14/tesla-cybercab-autonomy-subscription-agreement-terms/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Tesla Cybercab orders open at $29,990 + $299/mo, only in Robotaxi zones",
+          "url": "https://electrek.co/2026/11/13/tesla-cybercab-personal-use-orders-299-subscription-geofence/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "폭스바겐: 보급형 EV 신차 예고와 SSP 플랫폼 차량 연기, 엇갈린 전동화 전략",
+      "summary": "폭스바겐이 2027년 약 2만 유로 수준의 신규 엔트리급 전기차 상표를 출원하며 보급형 EV 확대 의지를 보이는 동시에, 차세대 SSP 플랫폼 기반 EV 출시를 추가로 연기했다. 이는 가격 경쟁력 있는 볼륨 모델 준비와 차세대 플랫폼 개발 차질이 맞물려, 단기 판매는 엔트리 모델로 버티고 중장기 기술 전환은 늦어지는 구조적 긴장을 드러낸다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Volkswagen may have just hinted at the name of its next affordable EV",
+          "url": "https://electrek.co/2026/11/13/volkswagen-trademark-name-next-affordable-ev/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Volkswagen is delaying another EV based on the SSP",
+          "url": "https://electrek.co/2026/11/13/volkswagen-delaying-another-ev-ssp/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
       "title": "테슬라–스페이스X 1.5조 달러 규모 초대형 합병 가능성",
-      "summary": "블룸버그 보도에 따르면 테슬라와 스페이스X가 12월 약 1.5조 달러 규모의 초대형 합병을 발표할 수 있다는 관측이 나왔습니다. 성사될 경우 사상 최대 규모의 M&A로, 일론 머스크가 두 회사를 하나의 지배 구조 아래 재편해 자본 조달, 기술·인력 통합, 자율주행·우주·에너지 사업 간 시너지를 노리는 전략적 움직임으로 해석됩니다.",
+      "summary": "블룸버그 보도에 따르면 테슬라와 스페이스X가 12월 약 1.5조 달러 규모의 초대형 합병을 발표할 수 있는 것으로 전해졌다. 성사 시 사상 최대 규모 M&A로, 일론 머스크가 지배하는 두 회사의 구조를 통합해 자본 조달, 우주·에너지·모빌리티 기술 시너지를 노리는 거버넌스 재편으로 해석된다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -212,10 +250,10 @@
       ]
     },
     {
-      "id": 2,
+      "id": 4,
       "status": "NEW",
-      "title": "캐나다, 55,000기 신규 EV 충전기 예산 포함한 대규모 인프라 투자",
-      "summary": "캐나다 정부가 최신 예산안에서 55,000개 이상의 신규 전기차 충전기 구축과 전력망 현대화를 위해 40억 캐나다달러 이상을 배정했습니다. 정부는 장거리 주행 불안 해소와 충전 접근성 개선을 통해 전기차 보급률을 끌어올리고, 동시에 송배전망 업그레이드로 재생에너지·EV 수요 증가에 대비하려는 정책 방향을 제시했습니다.",
+      "title": "캐나다, 55,000기 신규 EV 충전기 예산으로 인프라 대규모 확충",
+      "summary": "캐나다 정부가 최신 예산안에서 40억 캐나다달러 이상을 투입해 55,000개 이상의 신규 전기차 충전기와 전력망 현대화를 추진한다. 장거리 주행 불안 해소와 충전 접근성 개선을 통해 EV 보급률을 끌어올리고, 북미 전기차 전환 과정에서 인프라 선점을 노리는 정책적 드라이브로 평가된다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -226,44 +264,16 @@
       ]
     },
     {
-      "id": 3,
-      "status": "ONGOING",
-      "title": "유럽 중심 글로벌 전기차 판매 성장세 재가속",
-      "summary": "10월 글로벌 전기차 판매가 전년 동기 대비 8% 증가한 가운데, 유럽 순수전기차(BEV) 판매가 49% 급증하며 시장 성장을 주도했습니다. 보조금·규제 강화, 로컬 OEM의 신차 출시, 중국산 EV 유입 등 요인이 겹치면서 유럽이 다시 성장 엔진 역할을 하고 있으며, 이는 배터리·충전 인프라 투자 및 경쟁 구도 변화로 이어질 전망입니다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "Europe’s electric car sales jump 49% as global EV sales grow",
-          "url": "https://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "status": "NEW",
-      "title": "퀀텀스케이프, 1기압 조건 1,000사이클 달성한 ‘오스프리’ 올솔리드스테이트 셀 공개",
-      "summary": "퀀텀스케이프가 캐소드 측 액체 전해질을 황화물 고체전해질로 대체한 신규 올솔리드스테이트 ‘오스프리’ 플랫폼을 발표했습니다. 이 셀은 1기압 환경에서 80% 용량까지 1,000회 완전 충·방전을 달성해 고압 클램핑 없이도 상용 수준 내구성에 근접할 가능성을 보여주며, 차세대 고에너지밀도 배터리 상용화 일정과 경쟁 구도에 중요한 이정표로 평가됩니다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "QuantumScape unveils Osprey all-solid-state cell: 1,000 cycles at 1 atm",
-          "url": "https://electrek.co/2026/11/11/quantumscape-osprey-all-solid-state-sulfide-battery/"
-        }
-      ]
-    },
-    {
       "id": 5,
-      "status": "NEW",
-      "title": "BYD, 5분급 초급속 ‘플래시 차징’과 로봇 충전 암 결합 솔루션 공개",
-      "summary": "BYD가 5분 이내 초급속 충전을 목표로 하는 ‘플래시 차징’ 기술에 자동 플러그 연결이 가능한 로봇 충전 암을 결합한 시스템을 선보였습니다. 로봇 팔이 차량 포트를 자동 인식·접속하고, 일부 전력은 통합 태양광 발전으로 보조하는 구조로, 무인·고속 충전 스테이션 및 차량 공유·로보택시용 인프라의 레퍼런스로 주목받고 있습니다.",
+      "status": "ONGOING",
+      "title": "루시드, 재고 위치 파악 실패로 주문 손실까지 드러난 운영 리스크",
+      "summary": "루시드 CEO가 Q3 실적 발표에서 올여름까지도 재고 차량 위치를 제대로 추적하지 못해, 고객 인도에 최대 2주가 소요되고 일부 주문이 취소됐다고 인정했다. 이는 공급망·물류·IT 시스템 미비로 인한 실행력 부족이 수요 회복과 브랜드 신뢰도에 직접적인 부담으로 작용하고 있음을 보여준다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
-          "title": "Watch BYD’s robotic charging arm plug itself in and charge EVs in 5 minutes [Video]",
-          "url": "https://electrek.co/2026/11/10/byds-robot-charger-plugs-itself-in-charges-evs-5-mins-video/"
+          "title": "Lucid CEO admits it ‘did not even know where cars were’ and lost orders",
+          "url": "https://electrek.co/2026/11/10/lucid-ceo-did-not-know-where-cars-were-lost-orders/"
         }
       ]
     }

@@ -1,0 +1,153 @@
+{
+  "range": {
+    "from": "2026-10-17",
+    "to": "2026-11-15"
+  },
+  "kpis": {
+    "collected": 44,
+    "deduped": 44,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "MarketInfra": 37,
+      "Policy": 22,
+      "Regulation": 17,
+      "Compliance": 14,
+      "Fintech": 10,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/17-10/23)",
+      "topicCounts": {
+        "MarketInfra": 9,
+        "Policy": 6,
+        "Regulation": 7,
+        "Compliance": 4,
+        "Fintech": 1
+      }
+    },
+    {
+      "week": "Week 2 (10/24-10/30)",
+      "topicCounts": {
+        "MarketInfra": 8,
+        "Policy": 5,
+        "Regulation": 3,
+        "Compliance": 2,
+        "Fintech": 3
+      }
+    },
+    {
+      "week": "Week 3 (10/31-11/06)",
+      "topicCounts": {
+        "MarketInfra": 5,
+        "Policy": 3,
+        "Regulation": 3,
+        "Compliance": 1,
+        "Fintech": 1
+      }
+    },
+    {
+      "week": "Week 4 (11/07-11/13)",
+      "topicCounts": {
+        "MarketInfra": 8,
+        "Policy": 4,
+        "Regulation": 3,
+        "Compliance": 5,
+        "Fintech": 1
+      }
+    },
+    {
+      "week": "Week 5 (11/14-11/15)",
+      "topicCounts": {
+        "MarketInfra": 2,
+        "Policy": 1,
+        "Regulation": 0,
+        "Compliance": 0,
+        "Fintech": 1
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "finance-1",
+      "status": "ONGOING",
+      "title": "AI 매매·헤지펀드 패닉이 촉발한 반도체·금융시장 변동성",
+      "summary": "AI 기반 알고리즘 매매와 헤지펀드의 공황 대응이 겹치며 필라델피아 반도체 지수가 단기간에 20% 이상 급락하는 등 글로벌 증시 변동성이 크게 확대되고 있다. 한국은행은 AI 버블이 꺾일 경우 최대 132조원 손실 가능성을 경고하는 등 실물·금융시스템 리스크 논의도 본격화되며, AI 테마주·반도체·빅테크를 중심으로 위험 재평가가 진행 중이다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "AI는 멈추지 않는다 … 헤지펀드 패닉이 만들어 준 기회",
+          "url": "https://www.mk.co.kr/news/stock/12208238"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "“AI 꺾이면 132조원 증발”...한은이 던진 ‘최악 시나리오’",
+          "url": "https://www.mk.co.kr/news/stock/12186625"
+        }
+      ]
+    },
+    {
+      "id": "finance-2",
+      "status": "ONGOING",
+      "title": "디지털자산기본법 가속…법인·기관에 가상자산 시장 전면 개방 추진",
+      "summary": "정부와 국회가 디지털자산기본법 제정을 서두르며, 그 핵심을 법인·기관투자자의 가상자산 시장 참여 확대와 제도권 편입에 두고 있다. 이를 통해 거래소·수탁·발행 등 인프라 규율을 정비하고, 기존 금융사와 크립토 사업자의 경쟁·협업이 동시에 심화될 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한국, 디지털자산기본법 입법 가속…법인·기관투자자 시장 개방 본격화[엠블록레터]",
+          "url": "https://www.mk.co.kr/news/stock/12208192"
+        }
+      ]
+    },
+    {
+      "id": "finance-3",
+      "status": "NEW",
+      "title": "대통령, 금융시장 불공정행위 전면 조사·엄정 단속 지시",
+      "summary": "이재명 대통령이 주가조작, 시세조종, 내부자거래 등 금융시장 불공정행위를 엄정 단속하라고 주문하며 중대범죄수사청에 별도 지시를 내려 전담 수사체계를 강화했다. 향후 자본시장 조사·처벌 강도가 높아지면서 고위험 거래, 시세급등 종목, 미공개정보 이용 등에 대한 규제 리스크가 확대될 가능성이 크다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[속보] 李대통령 “금융시장 불공정행위 엄정단속, 중수청에 별도 지시”",
+          "url": "https://www.mk.co.kr/news/economy/12207754"
+        }
+      ]
+    },
+    {
+      "id": "finance-4",
+      "status": "ONGOING",
+      "title": "금융권 대형 해킹·개인정보 유출 확산…증권사 보안 체계 비상",
+      "summary": "미래에셋증권과 한양증권 등에서 고객 계좌·주민번호 등 민감 정보가 연쇄적으로 유출되며 금융투자업계 전반에 사이버보안 비상이 걸렸다. AI 에이전트 활용이 의심되는 지능형 공격과 공통 협업툴 취약점이 문제로 지적되며, 금융당국의 정보보호 규제 강화와 보안 투자 확대 압력이 커지고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "은행·보험사 이어 미래에셋증권까지···연쇄 해킹에 시달리는 금융사",
+          "url": "https://www.mk.co.kr/news/stock/12201388"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "한양증권서도 개인정보 유출…금투업권 해킹 비상",
+          "url": "https://www.mk.co.kr/news/stock/12194338"
+        }
+      ]
+    },
+    {
+      "id": "finance-5",
+      "status": "SHIFTING",
+      "title": "글로벌 크립토·핀테크 규제 환경 변화와 스테이블코인·빅테크 이슈",
+      "summary": "미 재무장관 스콧 베센트가 링컨까지 언급하며 스테이블코인 활성화 정책 의지를 밝히고, 앤트로픽 상장 가능성이 거론되는 등 미국을 중심으로 크립토·AI·핀테크 규제 프레임이 재조정되고 있다. 이는 스테이블코인 제도화, 빅테크·핀테크 기업의 자본시장 참여 확대, 리스크 관리 규범 정립 등 글로벌 금융규제 방향에 변곡점을 예고한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "링컨까지 소환한 베센트... 앤트로픽 상장, 다음달 확정인가",
+          "url": "https://www.mk.co.kr/news/business/12182433"
+        }
+      ]
+    }
+  ]
+}

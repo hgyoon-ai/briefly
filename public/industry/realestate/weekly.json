@@ -1,79 +1,55 @@
 {
   "range": {
-    "from": "2026-11-08",
-    "to": "2026-11-14"
+    "from": "2026-11-09",
+    "to": "2026-11-15"
   },
   "kpis": {
-    "collected": 24,
-    "deduped": 24,
+    "collected": 23,
+    "deduped": 23,
     "uniqueTopics": 10
   },
   "topTopics": [
     {
       "name": "Market",
-      "count": 17
+      "count": 16
     },
     {
       "name": "Supply",
-      "count": 12
+      "count": 11
     },
     {
       "name": "Policy",
-      "count": 10
+      "count": 9
     },
     {
       "name": "UrbanRenewal",
-      "count": 9
+      "count": 8
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-11-08",
-      "dayOfWeek": "Sun",
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
       "topic": "Market",
-      "count": 1
-    },
-    {
-      "date": "2026-11-08",
-      "dayOfWeek": "Sun",
-      "topic": "Supply",
-      "count": 0
-    },
-    {
-      "date": "2026-11-08",
-      "dayOfWeek": "Sun",
-      "topic": "Policy",
-      "count": 1
-    },
-    {
-      "date": "2026-11-08",
-      "dayOfWeek": "Sun",
-      "topic": "UrbanRenewal",
       "count": 0
     },
     {
       "date": "2026-11-09",
       "dayOfWeek": "Mon",
-      "topic": "Market",
-      "count": 3
-    },
-    {
-      "date": "2026-11-09",
-      "dayOfWeek": "Mon",
       "topic": "Supply",
-      "count": 2
+      "count": 0
     },
     {
       "date": "2026-11-09",
       "dayOfWeek": "Mon",
       "topic": "Policy",
-      "count": 2
+      "count": 0
     },
     {
       "date": "2026-11-09",
       "dayOfWeek": "Mon",
       "topic": "UrbanRenewal",
-      "count": 2
+      "count": 0
     },
     {
       "date": "2026-11-10",
@@ -175,7 +151,7 @@
       "date": "2026-11-14",
       "dayOfWeek": "Sat",
       "topic": "Market",
-      "count": 0
+      "count": 2
     },
     {
       "date": "2026-11-14",
@@ -187,23 +163,85 @@
       "date": "2026-11-14",
       "dayOfWeek": "Sat",
       "topic": "Policy",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-11-14",
       "dayOfWeek": "Sat",
       "topic": "UrbanRenewal",
       "count": 0
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Market",
+      "count": 1
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Supply",
+      "count": 1
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "UrbanRenewal",
+      "count": 1
     }
   ],
   "topIssues": [
     {
       "id": 1,
       "status": "ONGOING",
-      "title": "강남 집값 조정 속 전셋값 강세, 매매·전세 엇박자 심화",
-      "summary": "강남3구 아파트 매매가격은 하락하는 반면 전세는 공급 감소로 가격이 오르거나 보합을 유지하며 전세 매물이 약 18% 줄었다. 전세 수급 불균형이 지속되면 전세 가격 강세와 매매 시장의 디커플링이 단기·중기적으로 이어질 수 있다.",
+      "title": "서울 주택시장 방향성 논쟁: 정부의 하락 시그널 vs 전문가들의 ‘생존매수’ 진단",
+      "summary": "정부는 서울 아파트 가격에 하락 신호가 나타났다고 보지만, 전문가들은 대출 규제와 가격 피로로 단기 조정 가능성은 인정하면서도 실수요 중심의 ‘생존매수’가 이어져 본격적인 하락 추세로 보긴 어렵다고 평가한다. 시장 인식 차이가 커지며 연말 이후 정책 및 금리 기조에 따라 재조정 가능성이 주목된다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "정부는 “집값 하락 시그널”이라는데…전문가들 “생존매수 여전, 추세 하락은 글쎄” [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10936710"
+        },
+        {
+          "source": "매일경제(부동산)",
+          "title": "압구정동 한양2 65억 5천만원·현대14차 54억원… 서울 아파트 고가 거래 [MAI부동산]",
+          "url": "https://www.mk.co.kr/news/realestate/12208825"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "반도체 벨트 수원 부동산 과열 조짐: ‘결혼 전 내 집 마련’ 첫매수 급증",
+      "summary": "반도체 산업 호재를 업은 수원에서 1~10월 생애 최초 주택 매수자가 1만3천여 명을 넘어서며 전년 대비 20% 이상 증가했다. 젊은 층을 중심으로 ‘결혼 전 집부터 산다’는 수요가 늘어나면서 특정 산업·일자리 지역을 중심으로 한 국지적 수요 과열과 향후 가격 변동성이 핵심 이슈로 부각되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "“결혼 전에 집부터 산다” ‘반도체 벨트’ 수원, 생애 첫 매수 1.3만명 돌파 [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10937229"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "수도권 입주물량 4.4만 가구 출격: 공급 가뭄 완화 기대와 지역별 온도차",
+      "summary": "수도권에서 약 4만4천 가구의 아파트 입주가 시작되며 단기적 공급 부족 완화가 기대된다. 다만 기존 미분양, 역전세 리스크, 금리 부담 등과 맞물려 지역·단지별 체감 효과는 엇갈릴 수 있어, 전세시장 안정과 매매 조정에 어떤 영향을 줄지 모니터링이 필요하다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "수도권 4.4만가구 집들이…공급 가뭄 숨통 트이나",
+          "url": "https://www.hankyung.com/article/2026111357001"
+        },
         {
           "source": "헤럴드경제(부동산)",
           "title": "강남 집값 떨어져도 전셋값은 안 내리네…매매·전세 엇박자 왜? [부동산360]",
@@ -212,24 +250,10 @@
       ]
     },
     {
-      "id": 2,
+      "id": 4,
       "status": "ONGOING",
-      "title": "수도권 4.4만가구 입주, 단기 공급 가뭄 완화 시그널",
-      "summary": "수도권에서 약 4만4천가구가 순차적으로 입주를 시작하며 최근 심화됐던 공급 가뭄이 일부 완화될 전망이다. 다만 일시적 공급 확대에 그칠지, 중장기 공급 정상화의 신호가 될지에 따라 지역별 전세·매매 시장 영향이 갈릴 수 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "한국경제(부동산)",
-          "title": "수도권 4.4만가구 집들이…공급 가뭄 숨통 트이나",
-          "url": "https://www.hankyung.com/article/2026111357001"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "status": "ONGOING",
-      "title": "보증금 없는 월세 모델 상륙, 임대차 시장 구조 변화 예고",
-      "summary": "일본계 월세 보증 서비스가 국내 진출을 추진하며 ‘보증금 없이 월세만 내는’ 임대 모델 확산 가능성이 커졌다. 임차인의 지급능력을 보증회사가 심사·보증하고 체납 시 임대인에게 대신 지급하는 구조로, 전·월세 전환과 임대 리스크 관리 방식에 변화를 줄 수 있다.",
+      "title": "전세에서 ‘보증금 없는 월세’로: 일본식 임대보증 모델 상륙",
+      "summary": "일본 기업이 임차인의 월세 지급능력을 심사하고 체납 시 대신 지급해 주는 월세 보증 서비스로 국내 시장 진입을 예고했다. 고금리와 전세 선호 약화 속에서 초기 보증금 부담을 낮춘 ‘보증금 없는 월세’가 확산될 경우, 전월세 상품 구조와 임대인·임차인의 리스크 분담 방식이 크게 바뀔 가능성이 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -240,30 +264,16 @@
       ]
     },
     {
-      "id": 4,
+      "id": 5,
       "status": "ONGOING",
-      "title": "토지거래허가제 연말 만료 앞두고 규제지역 조정 검토",
-      "summary": "정부가 연말 지정 기간 만료를 앞둔 토지거래허가제의 시장 영향과 규제 실효성을 분석 중이다. 과열 억제 효과와 거래 위축 부작용을 함께 점검해 일부 지역 완화 또는 재지정 여부를 연말까지 결정할 계획이다.",
+      "title": "토지거래허가제 연말 만료·완화 검토: 규제 지역 재편 분수령",
+      "summary": "정부가 연말 지정 기간 만료를 앞둔 토지거래허가제 지역의 규제 강도를 조정할지 검토 중이다. 토지·재개발 투자수요와 실수요 보호, 집값 안정 사이에서 허가제 완화 여부가 향후 개발 예정지와 수도권 주요 규제 지역의 매매 심리에 큰 영향을 미칠 전망이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(부동산)",
           "title": "정부 \"토허제 지역 조정 검토\"… 연말 만료 앞두고 완화되나",
           "url": "https://www.mk.co.kr/news/realestate/12208273"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "status": "ONGOING",
-      "title": "비수도권 거점 산업 투자 확대로 지방 주거지 재편 가속",
-      "summary": "기업의 27.4%가 비수도권 투자를 검토하는 가운데 정부가 기준 완화와 816억 원 규모 보조금으로 거점 산업을 지원하고 있다. 산업·일자리 집중 지역을 중심으로 신규 주거 수요가 늘며 지방 주거지 재편과 배후 주거단지 개발이 본격화될 가능성이 크다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "매일경제(비즈니스)",
-          "title": "“일자리가 살자리”…거점 산업 투자에 지방 주거지 재편",
-          "url": "https://www.mk.co.kr/news/business/12207818"
         }
       ]
     }

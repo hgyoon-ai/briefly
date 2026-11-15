@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-11-09",
+    "to": "2026-11-15"
+  },
+  "kpis": {
+    "collected": 20,
+    "deduped": 20,
+    "uniqueTopics": 9
+  },
+  "topTopics": [
+    {
+      "name": "Tooling",
+      "count": 14
+    },
+    {
+      "name": "Product",
+      "count": 13
+    },
+    {
+      "name": "Models",
+      "count": 11
+    },
+    {
+      "name": "Infra",
+      "count": 9
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Tooling",
+      "count": 1
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Models",
+      "count": 1
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Tooling",
+      "count": 3
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Product",
+      "count": 4
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Models",
+      "count": 4
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Infra",
+      "count": 4
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Tooling",
+      "count": 3
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Product",
+      "count": 3
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Models",
+      "count": 2
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Infra",
+      "count": 1
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Tooling",
+      "count": 4
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Product",
+      "count": 4
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Models",
+      "count": 3
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Infra",
+      "count": 2
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Tooling",
+      "count": 3
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Product",
+      "count": 2
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Models",
+      "count": 1
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Infra",
+      "count": 2
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Infra",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "과학 시뮬레이션용 NVIDIA cuBLAS FP64 알고리즘 성능 대폭 개선",
+      "summary": "NVIDIA가 cuBLAS에 새로운 FP64 배정밀도 알고리즘을 추가해 대규모 밀집 행렬 연산 성능을 끌어올렸다. 분자 시뮬레이션, 재료 과학 등 고정밀 연산이 핵심인 HPC·과학 연구 워크로드에서 실행 시간이 단축되어 동일 GPU 자원으로 더 많은 실험과 시뮬레이션을 수행할 수 있는 기반을 제공한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Faster Scientific Simulations with New FP64 Algorithms in NVIDIA cuBLAS",
+          "url": "https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "엣지 디바이스용 Jetson AGX Orin에서 Python 기반 네이티브 DLA 추론 지원",
+      "summary": "Jetson AGX Orin에서 cuDLA를 활용해 Python 환경에서도 네이티브 DLA 추론을 구동할 수 있게 되어, 전력·연산 자원이 제한된 엣지 디바이스에서 복수의 신경망을 효율적으로 운영하고, 실시간 추론 애플리케이션을 더 낮은 비용과 전력으로 배포할 수 있는 선택지가 확대되었다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA",
+          "url": "https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "질문 이면의 숨은 니즈를 평가하는 신규 LLM 벤치마크 XYBench 제안",
+      "summary": "Hugging Face와 Allen AI가 사용자의 겉질문 뒤에 있는 실제 문제를 파악하는 능력을 측정하는 XYBench를 공개했다. 단순 정답 정확도 대신 의도 이해, 문제 재정의, 해결 전략의 적합성을 평가하는 과제를 포함해, 에이전트형 LLM의 실사용 성능을 진단하는 새로운 기준으로 부상할 가능성이 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "XYBench: Helping with the problem behind the question",
+          "url": "https://huggingface.co/blog/allenai/xybench"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "ChatGPT Wallet 도입으로 에이전트 기반 결제·구매 자동화 지원",
+      "summary": "OpenAI가 ChatGPT Wallet을 도입해 ChatGPT Work, Codex, dots 에이전트가 사용자의 승인 하에 실제 구매를 완료할 수 있도록 했다. 기존 카드 보호 체계와 결합된 안전 장치를 전제로, LLM 에이전트가 소프트웨어·클라우드 서비스 등 디지털 상품 구매까지 워크플로를 끝단까지 자동화하는 상업적 활용이 본격화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "Introducing ChatGPT Wallet",
+          "url": "https://openai.com/index/introducing-chatgpt-wallet"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "LLMON 기반 LLM-네이티브 마크업으로 구조화 지시·툴 연동 고도화",
+      "summary": "Hugging Face가 IBM Granite 4.1 3B·8B 모델에 LLM-최적화 마크업 언어인 LLMON을 통합했다. 프롬프트 내 구조화 지시, 툴 호출, 워크플로 정의를 언어 차원에서 표현할 수 있어, 기존 자연어 프롬프트보다 일관된 행동 제어와 툴 연계를 목표로 하는 LLM 애플리케이션 개발 흐름이 계속 강화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+          "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
+        }
+      ]
+    }
+  ]
+}

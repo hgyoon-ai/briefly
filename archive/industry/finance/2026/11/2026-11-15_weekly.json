@@ -1,0 +1,286 @@
+{
+  "range": {
+    "from": "2026-11-09",
+    "to": "2026-11-15"
+  },
+  "kpis": {
+    "collected": 10,
+    "deduped": 10,
+    "uniqueTopics": 8
+  },
+  "topTopics": [
+    {
+      "name": "MarketInfra",
+      "count": 9
+    },
+    {
+      "name": "Policy",
+      "count": 5
+    },
+    {
+      "name": "Regulation",
+      "count": 4
+    },
+    {
+      "name": "Compliance",
+      "count": 4
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Regulation",
+      "count": 1
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Compliance",
+      "count": 2
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Regulation",
+      "count": 1
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Compliance",
+      "count": 1
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "MarketInfra",
+      "count": 4
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Regulation",
+      "count": 2
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Compliance",
+      "count": 1
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Compliance",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "finance-1",
+      "status": "ONGOING",
+      "title": "AI 매매·헤지펀드 패닉으로 촉발된 반도체·기술주 급락",
+      "summary": "AI 기반 알고리즘 매매와 헤지펀드의 투매가 겹치며 필라델피아 반도체지수가 단기간 20% 이상 하락하는 등 글로벌 반도체·기술주가 급락했다. AI 투자 과열에 대한 되돌림과 변동성 확대가 이어지며 관련 자산 전반의 재평가가 진행 중이다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "AI는 멈추지 않는다 … 헤지펀드 패닉이 만들어 준 기회",
+          "url": "https://www.mk.co.kr/news/stock/12208238"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "돈 녹는 속도, 유례가 없었다…단 5주 만에 2400조원 증발한 엔비디아",
+          "url": "https://www.mk.co.kr/news/stock/12207784"
+        }
+      ]
+    },
+    {
+      "id": "finance-2",
+      "status": "ONGOING",
+      "title": "한국 디지털자산기본법 가속…법인·기관 대상 가상자산 시장 개방",
+      "summary": "정부와 국회가 디지털자산기본법 제정을 서두르며 법인·기관투자자의 가상자산 시장 참여를 제도권에 편입하는 작업을 본격화하고 있다. 가상자산을 새로운 투자자산군으로 인정하는 방향의 규율 체계가 금융시장 구조 변화로 이어질 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한국, 디지털자산기본법 입법 가속…법인·기관투자자 시장 개방 본격화[엠블록레터]",
+          "url": "https://www.mk.co.kr/news/stock/12208192"
+        }
+      ]
+    },
+    {
+      "id": "finance-3",
+      "status": "NEW",
+      "title": "금융시장 불공정거래 엄정 단속 지시…수사·제재 리스크 확대",
+      "summary": "이재명 대통령이 금융시장 불공정행위에 대한 엄정 단속을 주문하며 중대범죄수사청에 별도 지시를 내렸다. 전담 수사 체계 강화로 시세조종·미공개정보 이용 등 불공정거래에 대한 조사와 제재 리스크가 증권·파생상품 시장 전반으로 확대될 수 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[속보] 李대통령 “금융시장 불공정행위 엄정단속, 중수청에 별도 지시”",
+          "url": "https://www.mk.co.kr/news/economy/12207754"
+        }
+      ]
+    },
+    {
+      "id": "finance-4",
+      "status": "SHIFTING",
+      "title": "엔비디아 CEO 교체 충격…지배구조 리스크와 AI 투자심리 변동",
+      "summary": "젠슨 황 CEO의 해임 절차와 사임, 잇단 스캔들 이슈로 엔비디아의 지배구조·컴플라이언스 리스크가 부각되며 AI 대표 종목 프리미엄이 흔들리고 있다. 임시 CEO 체제와 대규모 시가총액 증발이 맞물리며 글로벌 기술·AI 관련 자금 흐름과 밸류에이션이 재조정되는 국면이다.",
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“사내 여성 임원과도 또 불륜”…엔비디아, 젠슨황 해임 준비",
+          "url": "https://www.mk.co.kr/news/stock/12205989"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "‘젠슨 황 없는 엔비디아’ 미래는?…테크 전문가들은 우려와 낙관이 엇갈렸다 [이슈 플러스]",
+          "url": "https://www.mk.co.kr/news/stock/12208309"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "돈 녹는 속도, 유례가 없었다…단 5주 만에 2400조원 증발한 엔비디아",
+          "url": "https://www.mk.co.kr/news/stock/12207784"
+        }
+      ]
+    },
+    {
+      "id": "finance-5",
+      "status": "SHIFTING",
+      "title": "대형 거시·정책 이벤트 속 개인 검색 트렌드 변화와 반도체주 관심 집중",
+      "summary": "미국 중간선거 등 대형 이벤트와 시장 변동성 확대 속에서 개인투자자의 관심이 삼성전자·SK하이닉스 등 국내 반도체 핵심 종목 리포트로 쏠리고 있다. 불확실성 구간에서 대표 종목·우량주 중심으로 정보 탐색과 자금이 재배치되는 흐름이 관찰된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "‘투자의 판’ 흔드는 대형 사건 잇달아…삼전닉스 리포트 검색 나란히 1·2위 [빅데이터로 본 재테크]",
+          "url": "https://www.mk.co.kr/news/stock/12208998"
+        }
+      ]
+    }
+  ]
+}

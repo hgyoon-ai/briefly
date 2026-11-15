@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-10-17",
+    "to": "2026-11-15"
+  },
+  "kpis": {
+    "collected": 48,
+    "deduped": 48,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 30,
+      "Competition": 23,
+      "Manufacturing": 18,
+      "Demand": 15,
+      "Investment": 14,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/17-10/23)",
+      "topicCounts": {
+        "Roadmap": 12,
+        "Competition": 10,
+        "Manufacturing": 6,
+        "Demand": 7,
+        "Investment": 1
+      }
+    },
+    {
+      "week": "Week 2 (10/24-10/30)",
+      "topicCounts": {
+        "Roadmap": 8,
+        "Competition": 5,
+        "Manufacturing": 9,
+        "Demand": 5,
+        "Investment": 7
+      }
+    },
+    {
+      "week": "Week 3 (10/31-11/06)",
+      "topicCounts": {
+        "Roadmap": 6,
+        "Competition": 2,
+        "Manufacturing": 3,
+        "Demand": 2,
+        "Investment": 4
+      }
+    },
+    {
+      "week": "Week 4 (11/07-11/13)",
+      "topicCounts": {
+        "Roadmap": 9,
+        "Competition": 9,
+        "Manufacturing": 4,
+        "Demand": 4,
+        "Investment": 5
+      }
+    },
+    {
+      "week": "Week 5 (11/14-11/15)",
+      "topicCounts": {
+        "Roadmap": 0,
+        "Competition": 0,
+        "Manufacturing": 0,
+        "Demand": 0,
+        "Investment": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "데이터센터·피지컬 AI 부상 속에서 반도체 업체의 ‘스택 상단’ 이동",
+      "summary": "electronica 2026에서 반도체 기업들이 단순 칩 공급을 넘어 AI 플랫폼·솔루션으로 사업을 확장하는 흐름이 부각됐다. 대규모 데이터센터와 엣지·로보틱스용 피지컬 AI가 확산되면서 전력 설계, 패키징, 실리콘 아키텍처 수요가 재편되고 있고, 칩 업체들은 소프트웨어·레퍼런스 시스템까지 포괄하는 상위 레이어로 진입해 차별화를 꾀하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "electronica 2026: Chipmakers Move Up the Stack as Data Centers and Physical AI Take Center Stage",
+          "url": "https://www.eetimes.com/electronica-2026-chipmakers-move-up-the-stack-as-data-centers-and-physical-ai-take-center-stage/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "엔비디아 CEO 돌연 사임으로 인한 GPU·AI 반도체 리더십 리스크",
+      "summary": "엔비디아 CEO가 연이은 사생활 스캔들로 사임하면서, AI GPU 시장의 절대 강자였던 엔비디아의 중장기 로드맵과 투자 전략에 불확실성이 커졌다. 이사회가 후임자 물색에 착수했지만, 차세대 GPU·AI 가속기 출시 일정, 파운드리·고객사와의 전략적 파트너십, 경쟁사 대비 기술 리더십 유지 여부가 핵심 관전 포인트가 되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Jensen Resigns Over Second Affair",
+          "url": "https://www.eetimes.com/jensen-resigns-over-second-affair/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "AI 데이터센터 전력 인프라 확보 전쟁과 반도체 수요 구조 변화",
+      "summary": "AI 클러스터 확대를 위해 필요한 전력 그리드 용량이 핵심 병목으로 떠오르며, 미국·중국이 서로 다른 방식으로 전력·인프라 투자와 리스크 분담을 시도하고 있다. 전력 접근성이 AI 서버·가속기 도입 속도를 좌우하면서, 고효율 전력반도체, 전력 관리 IC, 저전력 AI 칩에 대한 수요와 정책 논의가 동시에 강화되는 추세다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "The AI Power Bill: Who Gets Grid Capacity, and Who Bears the Risk?",
+          "url": "https://www.eetimes.com/the-ai-power-bill-who-gets-grid-capacity-and-who-bears-the-risk/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "AI 메모리 슈퍼사이클: 삼성전자 사상 최대급 실적이 시사하는 것",
+      "summary": "삼성전자가 AI용 고대역폭 메모리와 고성능 DRAM 수요 급증에 힘입어 분기 영업이익 800억 달러를 기록하며, 메모리 업황이 AI 중심으로 구조적으로 재편되고 있음을 보여줬다. 데이터센터·가속기용 메모리에 가격과 공급이 집중되면서 설비투자 재개, 공정 미세화, 패키징 혁신이 동반 가속될 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Samsung Electronics Posts $80B Operating Profit on AI Memory Demand",
+          "url": "https://www.eetimes.com/samsung-electronics-posts-80b-operating-profit-on-ai-memory-demand/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "양자컴퓨팅 ‘Q-Day’ 카운트다운과 보안 반도체 수요 부상",
+      "summary": "향후 2년 안에 양자컴퓨터가 기존 공개키 암호를 무력화할 수 있다는 경고가 나오며, 포스트양자암호(PQC) 전환과 이를 구현하는 보안 칩·보안 모듈의 도입 압력이 커지고 있다. 반도체 업계는 인증·키관리·하드웨어 루트오브트러스트 기능을 갖춘 전용 보안 SoC와 가속기 설계 경쟁에 나설 가능성이 높다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "The Countdown to Q-Day Has Begun",
+          "url": "https://www.eetimes.com/the-countdown-to-q-day-has-begun/"
+        }
+      ]
+    }
+  ]
+}

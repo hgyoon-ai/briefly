@@ -1,0 +1,281 @@
+{
+  "range": {
+    "from": "2026-11-09",
+    "to": "2026-11-15"
+  },
+  "kpis": {
+    "collected": 10,
+    "deduped": 10,
+    "uniqueTopics": 7
+  },
+  "topTopics": [
+    {
+      "name": "Roadmap",
+      "count": 9
+    },
+    {
+      "name": "Competition",
+      "count": 8
+    },
+    {
+      "name": "Demand",
+      "count": 6
+    },
+    {
+      "name": "Investment",
+      "count": 5
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "dayOfWeek": "Mon",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 3
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Demand",
+      "count": 2
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 4
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 4
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Demand",
+      "count": 3
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "테슬라 사이버캡: 월 299달러 자율주행 구독 의무화로 비즈니스 모델 전환",
+      "summary": "테슬라가 2인승 사이버캡을 차량 가격 2만9,990달러에 판매하면서, 차량이 움직이기 위한 필수 조건으로 월 299달러 ‘자율주행 구독’을 묶어 강력한 구독형 수익 모델을 도입했다. 테슬라는 이용료를 한 달 전 통보만으로 조정할 수 있고, 구독 일시 중단 및 차량 사용 차단 권한까지 계약에 포함해 향후 로보택시 기반 수익 극대화 전략을 분명히 했다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla Cybercab’s autonomy agreement is insane: $299/mo or it doesn’t move",
+          "url": "https://electrek.co/2026/11/14/tesla-cybercab-autonomy-subscription-agreement-terms/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Tesla Cybercab orders open at $29,990 + $299/mo, only in Robotaxi zones",
+          "url": "https://electrek.co/2026/11/13/tesla-cybercab-personal-use-orders-299-subscription-geofence/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "폭스바겐: 보급형 EV 신차 예고와 SSP 플랫폼 차량 연기, 엇갈린 전동화 전략",
+      "summary": "폭스바겐이 2027년 약 2만 유로 수준의 신규 엔트리급 전기차 상표를 출원하며 보급형 EV 확대 의지를 보이는 동시에, 차세대 SSP 플랫폼 기반 EV 출시를 추가로 연기했다. 이는 가격 경쟁력 있는 볼륨 모델 준비와 차세대 플랫폼 개발 차질이 맞물려, 단기 판매는 엔트리 모델로 버티고 중장기 기술 전환은 늦어지는 구조적 긴장을 드러낸다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Volkswagen may have just hinted at the name of its next affordable EV",
+          "url": "https://electrek.co/2026/11/13/volkswagen-trademark-name-next-affordable-ev/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Volkswagen is delaying another EV based on the SSP",
+          "url": "https://electrek.co/2026/11/13/volkswagen-delaying-another-ev-ssp/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "테슬라–스페이스X 1.5조 달러 규모 초대형 합병 가능성",
+      "summary": "블룸버그 보도에 따르면 테슬라와 스페이스X가 12월 약 1.5조 달러 규모의 초대형 합병을 발표할 수 있는 것으로 전해졌다. 성사 시 사상 최대 규모 M&A로, 일론 머스크가 지배하는 두 회사의 구조를 통합해 자본 조달, 우주·에너지·모빌리티 기술 시너지를 노리는 거버넌스 재편으로 해석된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "SpaceX could announce $1.5 trillion Tesla merger in December: report",
+          "url": "https://electrek.co/2026/11/12/spacex-tesla-merger-announcement-december-report/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "캐나다, 55,000기 신규 EV 충전기 예산으로 인프라 대규모 확충",
+      "summary": "캐나다 정부가 최신 예산안에서 40억 캐나다달러 이상을 투입해 55,000개 이상의 신규 전기차 충전기와 전력망 현대화를 추진한다. 장거리 주행 불안 해소와 충전 접근성 개선을 통해 EV 보급률을 끌어올리고, 북미 전기차 전환 과정에서 인프라 선점을 노리는 정책적 드라이브로 평가된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Latest Canadian budget packs funding for 55,000 new EV chargers",
+          "url": "https://electrek.co/2026/11/12/latest-canadian-budget-packs-funding-for-55000-new-ev-chargers/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "루시드, 재고 위치 파악 실패로 주문 손실까지 드러난 운영 리스크",
+      "summary": "루시드 CEO가 Q3 실적 발표에서 올여름까지도 재고 차량 위치를 제대로 추적하지 못해, 고객 인도에 최대 2주가 소요되고 일부 주문이 취소됐다고 인정했다. 이는 공급망·물류·IT 시스템 미비로 인한 실행력 부족이 수요 회복과 브랜드 신뢰도에 직접적인 부담으로 작용하고 있음을 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Lucid CEO admits it ‘did not even know where cars were’ and lost orders",
+          "url": "https://electrek.co/2026/11/10/lucid-ceo-did-not-know-where-cars-were-lost-orders/"
+        }
+      ]
+    }
+  ]
+}

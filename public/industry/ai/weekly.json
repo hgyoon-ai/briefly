@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-11-08",
-    "to": "2026-11-14"
+    "from": "2026-11-09",
+    "to": "2026-11-15"
   },
   "kpis": {
     "collected": 20,
@@ -28,30 +28,6 @@
   ],
   "topicTrend": [
     {
-      "date": "2026-11-08",
-      "dayOfWeek": "Sun",
-      "topic": "Tooling",
-      "count": 0
-    },
-    {
-      "date": "2026-11-08",
-      "dayOfWeek": "Sun",
-      "topic": "Product",
-      "count": 0
-    },
-    {
-      "date": "2026-11-08",
-      "dayOfWeek": "Sun",
-      "topic": "Models",
-      "count": 0
-    },
-    {
-      "date": "2026-11-08",
-      "dayOfWeek": "Sun",
-      "topic": "Infra",
-      "count": 0
-    },
-    {
       "date": "2026-11-09",
       "dayOfWeek": "Mon",
       "topic": "Tooling",
@@ -194,14 +170,38 @@
       "dayOfWeek": "Sat",
       "topic": "Infra",
       "count": 2
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Infra",
+      "count": 0
     }
   ],
   "topIssues": [
     {
-      "id": "ai-1",
+      "id": 1,
       "status": "NEW",
-      "title": "NVIDIA cuBLAS FP64 알고리즘으로 과학 시뮬레이션 가속",
-      "summary": "NVIDIA가 cuBLAS에 새로운 FP64 배정밀도 알고리즘을 도입해 분자 화학·재료 과학 등 고정밀 밀집 행렬 연산 워크로드의 성능을 크게 향상시켰다. 이를 통해 HPC·과학 연구 분야에서 시뮬레이션 시간 단축과 GPU 활용 효율 개선이 기대된다.",
+      "title": "과학 시뮬레이션용 NVIDIA cuBLAS FP64 알고리즘 성능 대폭 개선",
+      "summary": "NVIDIA가 cuBLAS에 새로운 FP64 배정밀도 알고리즘을 추가해 대규모 밀집 행렬 연산 성능을 끌어올렸다. 분자 시뮬레이션, 재료 과학 등 고정밀 연산이 핵심인 HPC·과학 연구 워크로드에서 실행 시간이 단축되어 동일 GPU 자원으로 더 많은 실험과 시뮬레이션을 수행할 수 있는 기반을 제공한다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -212,10 +212,10 @@
       ]
     },
     {
-      "id": "ai-2",
+      "id": 2,
       "status": "NEW",
-      "title": "Jetson AGX Orin에서 cuDLA 기반 저전력 네이티브 DLA 추론",
-      "summary": "NVIDIA Jetson AGX Orin에서 cuDLA를 활용해 Python 환경에서 네이티브 DLA 추론을 수행하는 방법이 공개되었다. 제한된 전력·연산 자원 환경에서 여러 신경망을 동시에 효율적으로 구동하고 최적화하는 실무 예제가 제공되어 엣지 AI 배포에 직접적인 참고가 된다.",
+      "title": "엣지 디바이스용 Jetson AGX Orin에서 Python 기반 네이티브 DLA 추론 지원",
+      "summary": "Jetson AGX Orin에서 cuDLA를 활용해 Python 환경에서도 네이티브 DLA 추론을 구동할 수 있게 되어, 전력·연산 자원이 제한된 엣지 디바이스에서 복수의 신경망을 효율적으로 운영하고, 실시간 추론 애플리케이션을 더 낮은 비용과 전력으로 배포할 수 있는 선택지가 확대되었다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -226,10 +226,10 @@
       ]
     },
     {
-      "id": "ai-3",
+      "id": 3,
       "status": "NEW",
-      "title": "XYBench: 질문 이면의 문제 해결 능력을 측정하는 신규 LLM 벤치마크",
-      "summary": "XYBench는 사용자의 질문 뒤에 있는 근본 문제를 파악하고 적절한 해결 방향을 제시하는 능력을 평가하는 새로운 벤치마크다. 모델의 의도 이해, 문제 재정의, 해결책 적합성 등을 테스트해 단순 질의응답을 넘어 실질적인 문제 해결형 AI 성능을 비교할 수 있게 한다.",
+      "title": "질문 이면의 숨은 니즈를 평가하는 신규 LLM 벤치마크 XYBench 제안",
+      "summary": "Hugging Face와 Allen AI가 사용자의 겉질문 뒤에 있는 실제 문제를 파악하는 능력을 측정하는 XYBench를 공개했다. 단순 정답 정확도 대신 의도 이해, 문제 재정의, 해결 전략의 적합성을 평가하는 과제를 포함해, 에이전트형 LLM의 실사용 성능을 진단하는 새로운 기준으로 부상할 가능성이 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -240,10 +240,10 @@
       ]
     },
     {
-      "id": "ai-4",
+      "id": 4,
       "status": "NEW",
-      "title": "ChatGPT Wallet로 에이전트 기반 결제·구매 기능 활성화",
-      "summary": "OpenAI가 ChatGPT Wallet을 도입해 ChatGPT Work, Codex, dots 에이전트가 사용자를 대신해 구매를 완료할 수 있게 했다. 거래는 사용자 승인 절차와 카드 보안 기능을 기반으로 하며, 향후 에이전트 기반 업무 자동화와 상거래 워크플로 통합을 가속할 인프라로 주목된다.",
+      "title": "ChatGPT Wallet 도입으로 에이전트 기반 결제·구매 자동화 지원",
+      "summary": "OpenAI가 ChatGPT Wallet을 도입해 ChatGPT Work, Codex, dots 에이전트가 사용자의 승인 하에 실제 구매를 완료할 수 있도록 했다. 기존 카드 보호 체계와 결합된 안전 장치를 전제로, LLM 에이전트가 소프트웨어·클라우드 서비스 등 디지털 상품 구매까지 워크플로를 끝단까지 자동화하는 상업적 활용이 본격화되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -254,10 +254,10 @@
       ]
     },
     {
-      "id": "ai-5",
+      "id": 5,
       "status": "ONGOING",
-      "title": "LLMON: LLM에 최적화된 마크업 언어와 Granite 4.1 통합",
-      "summary": "LLMON은 LLM이 구조화된 지시와 툴 호출을 더 안정적으로 해석하도록 설계된 LLM 전용 마크업 언어다. Hugging Face는 IBM Granite 4.1 3B·8B 모델에 LLMON을 통합해, 복잡한 에이전트 오케스트레이션과 툴 연동 워크플로를 보다 일관되게 구성할 수 있는 기반을 제공하고 있다.",
+      "title": "LLMON 기반 LLM-네이티브 마크업으로 구조화 지시·툴 연동 고도화",
+      "summary": "Hugging Face가 IBM Granite 4.1 3B·8B 모델에 LLM-최적화 마크업 언어인 LLMON을 통합했다. 프롬프트 내 구조화 지시, 툴 호출, 워크플로 정의를 언어 차원에서 표현할 수 있어, 기존 자연어 프롬프트보다 일관된 행동 제어와 툴 연계를 목표로 하는 LLM 애플리케이션 개발 흐름이 계속 강화되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
