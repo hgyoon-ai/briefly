@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "kpis": {
     "clusters": 20,
     "sources": 2,
@@ -7,327 +7,245 @@
   },
   "clusters": [
     {
-      "id": "189de3f00ac982ad0d22c021d4234f143c3ccaf5",
-      "name": "FAA issues national ground stop",
+      "id": "4454c7fe6ffa7b5f1cfe5398a24e28ef207235a9",
+      "name": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
       "section": "discussions",
       "status": "NEW",
-      "score": 1787.4,
-      "oneLiner": "FAA가 전국 항공 운항 중단 명령을 내렸다는 보도",
-      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "1333p · 823c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50489641"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "9e0c2330291ac59140adf9a67071565e65b6489d",
-      "name": "Nvidia employees petition to bring back Jensen Huang",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 1256.4,
-      "oneLiner": "엔비디아 직원들이 젠슨 황의 복귀를 요구하는 청원 제기",
-      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "792p · 651c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50477231"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "753c20f3e127a933ebd8fe4c72dd3db6381df464",
-      "name": "LibreOffice actually works 365 days a year",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 803.4,
-      "oneLiner": "LibreOffice가 실제로 연중무휴로 작동한다고 주장하는 게시물",
-      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "831p · 254c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50486482"
-        },
-        {
-          "label": "Source",
-          "url": "https://twitter.com/LibreOffice/status/2121205272479998268"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "6df47464d5c45f84b318ff4e12f6d778eff5c3df",
-      "name": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 750.0,
-      "oneLiner": "claude.ai와 관련 서비스들에서 오류 증가가 보고됨",
-      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 운영/비용 관점 해석이 갈리며 논의가 이어지고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "484p · 383c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50481187"
-        },
-        {
-          "label": "Source",
-          "url": "https://status.claude.com/incidents/nn11wk485zfn"
-        }
-      ],
-      "tags": [
-        "infra"
-      ]
-    },
-    {
-      "id": "e0bc0e6d03aa687efabb7d5cc954f98e970bbbd0",
-      "name": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 648.6,
-      "oneLiner": "제목에 2026년 11월 13일을 언급한 1960년 문헌 소개",
+      "score": 1360.8,
+      "oneLiner": "엔비디아가 AI 스타트업 자금 지원으로 GPU 공급 부족을 조장했다는 주장",
       "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "455p · 313c"
+          "value": "1032p · 618c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50482379"
+          "url": "https://news.ycombinator.com/item?id=50493251"
         },
         {
           "label": "Source",
-          "url": "https://www.science.org/doi/10.1126/science.132.3436.1291"
+          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
         }
       ],
       "tags": []
     },
     {
-      "id": "ebccbc7a0f8e49ab72270a3d66e258b838434859",
-      "name": "Microsoft Outlook/365 still down after 12 hours",
-      "section": "discussions",
+      "id": "e19ca558f8a5949d049367c269fe5b4809215120",
+      "name": "ggml-org/ggml",
+      "section": "releases",
       "status": "NEW",
-      "score": 644.4,
-      "oneLiner": "Microsoft Outlook과 365 서비스 장애가 12시간째 지속됨",
-      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "score": 1010.22,
+      "oneLiner": "기계학습을 위한 텐서 라이브러리입니다.",
+      "whyNow": "업데이트가 트리거가 되어 레퍼런스가 모이는 구간입니다.",
       "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "15,787"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "1,947"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-14"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v1.0.0"
+        },
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "462p · 306c"
+          "value": "399p · 67c"
         }
       ],
       "links": [
         {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50478609"
+          "label": "GitHub",
+          "url": "https://github.com/ggml-org/ggml"
         },
         {
-          "label": "Source",
-          "url": "https://twitter.com/MSFT365Status/status/2121079061774491735"
+          "label": "Release",
+          "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0"
+        },
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50493062"
         }
       ],
       "tags": []
     },
     {
-      "id": "9738201c860e98b3b2397165a2e3ccfa682cf99d",
-      "name": "Eli Lilly CEO pushes back on Dario Amodei's medical claims",
+      "id": "8886c195ca0768475331b16ef6e5603b0641b8a4",
+      "name": "SpaceX catches the Starship to end Flight 15",
       "section": "discussions",
       "status": "NEW",
-      "score": 595.2,
-      "oneLiner": "일라이 릴리 CEO가 다리오 아모데이의 의학 주장에 반박",
-      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
+      "score": 958.2,
+      "oneLiner": "스페이스X가 스타쉽을 포착하며 15번째 비행을 마무리했다.",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "264p · 364c"
+          "value": "683p · 457c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50483480"
+          "url": "https://news.ycombinator.com/item?id=50500963"
         },
         {
           "label": "Source",
-          "url": "https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest"
+          "url": "https://www.spacex.com/launches/starship-flight-15"
         }
       ],
       "tags": []
     },
     {
-      "id": "9f83f40caf876a45fa0da87b626fe5003b6b0b16",
-      "name": "IceWM",
+      "id": "88b3e9e84d65fa4ca03c6372a260608cb865abd5",
+      "name": "Lovable apps expose passport details and more than 200K private messages",
       "section": "discussions",
       "status": "NEW",
-      "score": 474.0,
-      "oneLiner": "경량 윈도 매니저 프로젝트 IceWM에 대한 소개",
-      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "score": 706.8,
+      "oneLiner": "Lovable 앱이 여권 정보와 20만 건 이상의 비공개 메시지를 노출했다.",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "356p · 217c"
+          "value": "636p · 271c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50478515"
+          "url": "https://news.ycombinator.com/item?id=50499017"
         },
         {
           "label": "Source",
-          "url": "https://ice-wm.org/"
+          "url": "https://www.crissyfield.de/research/lovable-en/"
         }
       ],
       "tags": []
     },
     {
-      "id": "af30e7d2ffdeec765bf11f3c3c23adf3c93c9cde",
-      "name": "AI is destroying the trust between writers and readers",
+      "id": "c6982ebdaff83747852cc29d02b06e2970b15651",
+      "name": "Tech companies are trying to shift the concept of privacy again",
       "section": "discussions",
       "status": "NEW",
-      "score": 421.2,
-      "oneLiner": "AI가 작가와 독자 사이의 신뢰를 훼손하고 있다는 논의",
-      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "score": 486.6,
+      "oneLiner": "기술 기업들이 프라이버시 개념을 다시 바꾸려 시도하고 있다.",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "312p · 195c"
+          "value": "461p · 175c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50481870"
+          "url": "https://news.ycombinator.com/item?id=50496602"
         },
         {
           "label": "Source",
-          "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/"
+          "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again"
         }
       ],
       "tags": []
     },
     {
-      "id": "21997946d3bdae500215562d0277dcf8a7335ac9",
-      "name": "Global Microsoft Outage",
+      "id": "2bb39cb84bb15ddb8d0534f4b852201d9027ff0d",
+      "name": "Italy fines Meta $887M over Android users' data access",
       "section": "discussions",
       "status": "NEW",
-      "score": 388.2,
-      "oneLiner": "전 세계적 마이크로소프트 서비스 장애에 관한 보도",
-      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "score": 463.8,
+      "oneLiner": "이탈리아가 안드로이드 사용자 데이터 접근 문제로 메타에 8억8700만 달러 벌금을 부과했다.",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 데이터 품질/거버넌스 관점 논의가 늘고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "285p · 181c"
+          "value": "331p · 221c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50479098"
+          "url": "https://news.ycombinator.com/item?id=50497009"
         },
         {
           "label": "Source",
-          "url": "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk"
+          "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/"
         }
       ],
-      "tags": []
+      "tags": [
+        "data"
+      ]
     },
     {
-      "id": "ac99ba719fc830c2ba1557ec0c218843f7478cde",
-      "name": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+      "id": "c5c9682fee9c4c2a70b68680a3456290c429aba4",
+      "name": "Monkey Island: all 13 versions side by side",
       "section": "discussions",
       "status": "NEW",
-      "score": 373.8,
-      "oneLiner": "배송 중 엔비디아 하드웨어 1140만 달러어치가 사라진 사건",
-      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다.",
+      "score": 456.0,
+      "oneLiner": "Monkey Island의 13개 버전을 나란히 비교했다.",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "295p · 164c"
+          "value": "466p · 147c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50487864"
+          "url": "https://news.ycombinator.com/item?id=50493904"
         },
         {
           "label": "Source",
-          "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas"
+          "url": "https://monkeyisland.pages.dev/"
         }
       ],
-      "tags": []
+      "tags": [
+        "editor"
+      ]
     },
     {
       "id": "2aa68c78a3e77fec398fc0cad46e58bd8c64a723",
       "name": "huamidev/GestaltX",
       "section": "releases",
       "status": "ONGOING",
-      "score": 365.62,
-      "oneLiner": "iOS 27용 MobileGestalt 편집기 GestaltX로 지역 코드 수정과 프리셋 제공",
-      "whyNow": "버전 업데이트 이후 재확산이 시작된 흐름입니다.",
+      "score": 375.7,
+      "oneLiner": "iOS 27.x용 MobileGestalt 편집기로 지역 코드 조정, 기기 프리셋, 백업을 제공한다.",
+      "whyNow": "새 릴리즈 영향으로 관심이 재점화되고 있습니다. 개발자 경험 개선 관점에서 관심이 커지고 있습니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "7,342"
+          "value": "7,573"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "2,597"
+          "value": "2,639"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-11-14"
+          "value": "2026-11-15"
         },
         {
           "source": "GitHub",
@@ -350,153 +268,194 @@
       ]
     },
     {
-      "id": "9f1cdcdb192f0da7d2bda9aadf254edb220cc0d5",
-      "name": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 361.2,
-      "oneLiner": "학생이 아이패드에서 파워포인트를 열려면 16번 클릭이 필요하다는 주장",
-      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "296p · 153c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50487522"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "e36c10098a7293cf2f4a763bd62f1ddcc42d33f7",
-      "name": "Brave Search API now accepts agentic payments via the x402 protocol",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 331.2,
-      "oneLiner": "Brave Search API가 x402 프로토콜로 에이전트 결제를 수락하도록 변경됨",
-      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "256p · 148c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50477649"
-        },
-        {
-          "label": "Source",
-          "url": "https://brave.com/blog/search-api-agentic-payments/"
-        }
-      ],
-      "tags": [
-        "agent tooling"
-      ]
-    },
-    {
-      "id": "e2b4c5cfaa5e80b9b722a8af7dd675641127e80c",
-      "name": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+      "id": "67d5ab12f4371516a29a449d5c337111d491eed4",
+      "name": "KDE: The documentary [video]",
       "section": "trending",
       "status": "NEW",
-      "score": 311.4,
-      "oneLiner": "AI가 괴델의 노트북을 해독해 수백 개의 증명된 정리를 밝혀냈다는 보도",
+      "score": 327.6,
+      "oneLiner": "KDE를 다룬 다큐멘터리 영상이다.",
       "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "335p · 92c"
+          "value": "382p · 82c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50486748"
+          "url": "https://news.ycombinator.com/item?id=50496976"
         },
         {
           "label": "Source",
-          "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
+          "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c"
         }
       ],
-      "tags": []
+      "tags": [
+        "editor"
+      ]
     },
     {
-      "id": "fe1d27765c974d66f6d9d9e981c631215a56fa81",
-      "name": "tangerineturtle1/NX2navi",
-      "section": "releases",
-      "status": "ONGOING",
-      "score": 182.3,
-      "oneLiner": "오픈 소스 개발 도구/프로젝트입니다.",
-      "whyNow": "릴리즈 직후라 적용/마이그레이션 경험이 모이고 있습니다.",
+      "id": "4e0993103a518b0fcdd8f2e0d50e931cd1525254",
+      "name": "A family tree of software job titles",
+      "section": "trending",
+      "status": "NEW",
+      "score": 242.4,
+      "oneLiner": "소프트웨어 직무 명칭의 계보를 정리한 글이다.",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
-          "source": "GitHub",
-          "metric": "stars",
-          "value": "3,909"
-        },
-        {
-          "source": "GitHub",
-          "metric": "forks",
-          "value": "297"
-        },
-        {
-          "source": "GitHub",
-          "metric": "updated",
-          "value": "2026-11-14"
-        },
-        {
-          "source": "GitHub",
-          "metric": "release",
-          "value": "v0.10.1"
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "204p · 100c"
         }
       ],
       "links": [
         {
-          "label": "GitHub",
-          "url": "https://github.com/tangerineturtle1/NX2navi"
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50499038"
         },
         {
-          "label": "Release",
-          "url": "https://github.com/tangerineturtle1/NX2navi/releases/tag/v0.10.1"
+          "label": "Source",
+          "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/"
         }
       ],
       "tags": []
     },
     {
-      "id": "645b54b4889e1ec6de77581f9b106f7062d331ee",
-      "name": "After 600 experiments, here's what I discovered about JEPA world models",
+      "id": "ea179f0bab3bc567dfe933c8dab1e7242f9f3c48",
+      "name": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
       "section": "trending",
       "status": "NEW",
-      "score": 173.4,
-      "oneLiner": "JEPA 세계 모델에 관해 600번 실험 후 발견한 내용을 정리한 글",
+      "score": 234.6,
+      "oneLiner": "CBC 조사 후 LinkedIn과 Monster가 1000개 이상의 가짜 구인공고를 삭제했다.",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "187p · 102c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50499723"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "d22e7b0fa0d8cde1818829fd3b71ef2dc1a49061",
+      "name": "PyPI's redesigned project pages with clearer security signals are now live",
+      "section": "trending",
+      "status": "NEW",
+      "score": 231.6,
+      "oneLiner": "PyPI의 프로젝트 페이지가 보안 신호를 더 명확히 하도록 재설계되어 공개되었다.",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "202p · 92c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50497892"
+        },
+        {
+          "label": "Source",
+          "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/"
+        }
+      ],
+      "tags": [
+        "security"
+      ]
+    },
+    {
+      "id": "e33ddba285c715d230daeb6cc5d93ea2df2d6d15",
+      "name": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "section": "trending",
+      "status": "NEW",
+      "score": 203.4,
+      "oneLiner": "엔비디아가 환형 자금 거래로 GPU 가격을 고의로 높게 유지했다는 주장.",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "163p · 88c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50501631"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "569f30bc33526c099435e05c0afcb892394fb5b5",
+      "name": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
+      "section": "trending",
+      "status": "NEW",
+      "score": 190.2,
+      "oneLiner": "엔비디아 이사가 젠슨 황 스캔들 몇 주 전에 거의 10억 달러어치 주식을 매도했다.",
       "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "217p · 36c"
+          "value": "215p · 51c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50487185"
+          "url": "https://news.ycombinator.com/item?id=50492993"
         },
         {
           "label": "Source",
-          "url": "https://haddyalchaer.com/jepa"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "be42f7e6a8fa859cce650bee4a26b0270a74281b",
+      "name": "Elephants found to be increasingly isolated leading to fractured social networks",
+      "section": "trending",
+      "status": "NEW",
+      "score": 162.6,
+      "oneLiner": "코끼리들이 점점 고립되어 사회적 네트워크가 단절되고 있다는 연구 결과.",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "185p · 43c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50492860"
+        },
+        {
+          "label": "Source",
+          "url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks"
         }
       ],
       "tags": []
@@ -506,29 +465,29 @@
       "name": "jhaizhou-ops/S2Arm",
       "section": "releases",
       "status": "ONGOING",
-      "score": 145.28,
-      "oneLiner": "Switch 게임을 iPhone·iPad·Mac에서 ARM64로 네이티브 실행하는 S2Arm",
-      "whyNow": "최근 릴리즈가 나오며 실사용 공유가 빠르게 늘고 있습니다.",
+      "score": 150.98,
+      "oneLiner": "스위치 게임 코드를 ARM64로 재작성해 iPhone·iPad·Mac에서 네이티브로 실행한다.",
+      "whyNow": "최근 릴리즈가 나오며 실사용 공유가 빠르게 늘고 있습니다. 운영/비용 관점 해석이 갈리며 논의가 이어지고 있습니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "2,871"
+          "value": "3,001"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "522"
+          "value": "547"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-11-14"
+          "value": "2026-11-15"
         },
         {
           "source": "GitHub",
           "metric": "release",
-          "value": "v0.3.9"
+          "value": "v0.3.10"
         }
       ],
       "links": [
@@ -538,7 +497,7 @@
         },
         {
           "label": "Release",
-          "url": "https://github.com/jhaizhou-ops/S2Arm/releases/tag/v0.3.9"
+          "url": "https://github.com/jhaizhou-ops/S2Arm/releases/tag/v0.3.10"
         }
       ],
       "tags": [
@@ -546,28 +505,79 @@
       ]
     },
     {
-      "id": "d835949a0ad661deaa540aaebc7a69fe46b4dc92",
-      "name": "Kianuni/Erosion-CN",
+      "id": "c5e03f5c029071e80b31c59c403451721be7afc3",
+      "name": "Vaibhaav-Tiwari/deepseek-v3-jax",
       "section": "releases",
-      "status": "ONGOING",
-      "score": 105.38,
-      "oneLiner": "iOS·iPadOS 시스템 설정과 MobileGestalt 연구 도구를 중국어 간체로 제공",
-      "whyNow": "최근 릴리즈가 나오며 실사용 공유가 빠르게 늘고 있습니다.",
+      "status": "NEW",
+      "score": 137.12,
+      "oneLiner": "DeepSeek V3를 순수 JAX 190줄로 구현한 저장소이다.",
+      "whyNow": "릴리즈 직후라 적용/마이그레이션 경험이 모이고 있습니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "1,931"
+          "value": "102"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "407"
+          "value": "12"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-11-14"
+          "value": "2026-11-15"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v1.0"
+        },
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "172p · 8c"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax/releases/tag/v1.0"
+        },
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50497589"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "d835949a0ad661deaa540aaebc7a69fe46b4dc92",
+      "name": "Kianuni/Erosion-CN",
+      "section": "releases",
+      "status": "ONGOING",
+      "score": 110.8,
+      "oneLiner": "iOS 및 iPadOS 설정과 MobileGestalt 연구 도구 모음의 간체중문 보안 강화판이다.",
+      "whyNow": "업데이트가 트리거가 되어 레퍼런스가 모이는 구간입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,059"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "422"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-15"
         },
         {
           "source": "GitHub",
@@ -588,33 +598,75 @@
       "tags": []
     },
     {
-      "id": "935f39d71a2a2403b273de0f111741b546e347ee",
-      "name": "apex-compute/ANR",
+      "id": "62c7b1de06936bde83b876719b988e5aa18d8ee4",
+      "name": "deepseek-ai/chat-demo",
       "section": "releases",
       "status": "NEW",
-      "score": 80.26,
-      "oneLiner": "Apex Compute가 공개한 Apex Neural Rendering ANR 프로젝트",
+      "score": 96.58,
+      "oneLiner": "채팅 데모 프로젝트이다.",
       "whyNow": "업데이트가 트리거가 되어 레퍼런스가 모이는 구간입니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "1,496"
+          "value": "1,768"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "21"
+          "value": "293"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-11-14"
+          "value": "2026-11-15"
         },
         {
           "source": "GitHub",
           "metric": "release",
-          "value": "FG-V.B15"
+          "value": "v0.1.1"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/deepseek-ai/chat-demo"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/deepseek-ai/chat-demo/releases/tag/v0.1.1"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "935f39d71a2a2403b273de0f111741b546e347ee",
+      "name": "apex-compute/ANR",
+      "section": "releases",
+      "status": "ONGOING",
+      "score": 94.34,
+      "oneLiner": "Apex Compute의 신경 렌더링 프로젝트 ANR이다.",
+      "whyNow": "버전 업데이트 이후 재확산이 시작된 흐름입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "1,844"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "29"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-15"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "FG-V.B18"
         }
       ],
       "links": [
@@ -624,7 +676,7 @@
         },
         {
           "label": "Release",
-          "url": "https://github.com/apex-compute/ANR/releases/tag/FG-V.B15"
+          "url": "https://github.com/apex-compute/ANR/releases/tag/FG-V.B18"
         }
       ],
       "tags": []
