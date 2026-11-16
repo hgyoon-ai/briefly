@@ -1,0 +1,148 @@
+{
+  "range": {
+    "from": "2026-10-18",
+    "to": "2026-11-16"
+  },
+  "kpis": {
+    "collected": 42,
+    "deduped": 42,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 27,
+      "Competition": 25,
+      "Investment": 20,
+      "Demand": 19,
+      "Policy": 9,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/18-10/24)",
+      "topicCounts": {
+        "Roadmap": 9,
+        "Competition": 7,
+        "Investment": 7,
+        "Demand": 4,
+        "Policy": 4
+      }
+    },
+    {
+      "week": "Week 2 (10/25-10/31)",
+      "topicCounts": {
+        "Roadmap": 7,
+        "Competition": 5,
+        "Investment": 5,
+        "Demand": 4,
+        "Policy": 0
+      }
+    },
+    {
+      "week": "Week 3 (11/01-11/07)",
+      "topicCounts": {
+        "Roadmap": 4,
+        "Competition": 4,
+        "Investment": 2,
+        "Demand": 5,
+        "Policy": 2
+      }
+    },
+    {
+      "week": "Week 4 (11/08-11/14)",
+      "topicCounts": {
+        "Roadmap": 9,
+        "Competition": 8,
+        "Investment": 7,
+        "Demand": 5,
+        "Policy": 2
+      }
+    },
+    {
+      "week": "Week 5 (11/15-11/16)",
+      "topicCounts": {
+        "Roadmap": 2,
+        "Competition": 2,
+        "Investment": 1,
+        "Demand": 1,
+        "Policy": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "테슬라 사이버캡: 성급한 출시 논란과 구독 강제 모델 부상",
+      "summary": "테슬라는 2인승 사이버캡을 2만9,990달러에 초청 기반으로 주문받고 2026년 12월 인도를 예고했으나, 기능이 미완성된 초기 버전이라는 지적과 함께 MKBHD와의 ‘3만달러 미만·2027년 이전 인도’ 내기를 맞추기 위한 성급한 출시라는 의혹을 받고 있다. 동시에 월 299달러 자율주행 구독 없이는 차량이 움직이지 않는 계약 구조를 도입해 가격·기능·비즈니스 모델 측면에서 소비자 반발과 규제 리스크가 모두 커지는 국면이다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Is Tesla rushing out a half-baked Cybercab just to shave MKBHD’s head?",
+          "url": "https://electrek.co/2026/11/15/tesla-cybercab-mkbhd-bet-musk-chicken/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Tesla Cybercab’s autonomy agreement is insane: $299/mo or it doesn’t move",
+          "url": "https://electrek.co/2026/11/14/tesla-cybercab-autonomy-subscription-agreement-terms/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "테슬라–스페이스X 1.5조 달러 초대형 합병 가능성 부상",
+      "summary": "블룸버그 보도에 따르면 테슬라와 스페이스X가 약 1.5조 달러 규모의 초대형 합병을 12월에 발표할 수 있다는 관측이 제기됐다. 성사될 경우 사상 최대 규모의 M&A로, 머스크가 지배하는 양사의 지배 구조 및 자본 구조를 통합해 전기차·우주·에너지 사업을 아우르는 ‘머스크 그룹’ 성격의 거대 기업 탄생 가능성이 EV 투자·경쟁 판도에 중대한 변수가 되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "SpaceX could announce $1.5 trillion Tesla merger in December: report",
+          "url": "https://electrek.co/2026/11/12/spacex-tesla-merger-announcement-december-report/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "캐나다, 5만5천기 이상 신규 충전기 투자로 북미 EV 인프라 확대 가속",
+      "summary": "캐나다 정부가 최신 예산안에서 40억 캐나다달러 이상을 투입해 55,000개 이상의 신규 전기차 충전기를 구축하고 전력망 현대화를 추진하기로 하며, 장거리 주행 불안 해소와 EV 보급 가속화를 겨냥한 대규모 인프라 드라이브에 나섰다. 이는 미국·유럽에 이어 북미 전역에서 공공 충전 인프라 경쟁이 본격화되고 있음을 보여주며, 완성차·충전 사업자 모두에게 중장기 수요 확대 요인으로 작용한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Latest Canadian budget packs funding for 55,000 new EV chargers",
+          "url": "https://electrek.co/2026/11/12/latest-canadian-budget-packs-funding-for-55000-new-ev-chargers/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "BYD ‘100만 명 조직’으로 초대형 생산 체제 구축, 전통 OEM·테슬라 압박",
+      "summary": "BYD가 직원 수 102만 명을 돌파해 토요타·GM·포드·테슬라를 합친 것보다 많은 인력을 보유하게 되었으며, 불과 10개월 만에 약 15만 명을 추가 고용하면서 세로 확장(내재화)과 대규모 증산 전략을 이어가고 있다. 이는 배터리·부품·완성차를 아우르는 수직 계열화와 공격적 증설을 통한 단가 인하로, 글로벌 EV 가격 경쟁과 공급 과잉 리스크를 동시에 키우는 요인으로 작용 중이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "BYD now has 1.02 million workers, more than Toyota, GM, Ford, and Tesla combined",
+          "url": "https://electrek.co/2026/10/28/byd-1-million-employees-more-than-toyota-gm-ford-tesla/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "루시드, 재고 위치 파악 실패로 주문 손실…프리미엄 EV 물류·운영 리스크 부각",
+      "summary": "루시드 CEO는 Q3 실적 발표에서 여름까지도 회사가 재고 차량의 위치를 제대로 추적하지 못해, 고객 인도에 최대 2주가 소요되며 일부 주문이 취소되는 문제가 있었다고 인정했다. 이는 프리미엄 EV 스타트업의 생산뿐 아니라 재고·물류·딜리버리 운영 역량이 수요 유지와 브랜드 신뢰에 직결됨을 보여주며, 자금 여력이 약한 업체일수록 운영 효율성이 생존 변수로 떠오르고 있음을 시사한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Lucid CEO admits it ‘did not even know where cars were’ and lost orders",
+          "url": "https://electrek.co/2026/11/10/lucid-ceo-did-not-know-where-cars-were-lost-orders/"
+        }
+      ]
+    }
+  ]
+}

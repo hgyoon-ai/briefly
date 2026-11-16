@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-16",
+  "highlights": {
+    "bullets": [
+      "핵심: 표준모형의 비섭동론적 격자화 후보 정의가 제시되었으며 GPT-6 Astra가 증명 전개에 활용되었다.",
+      "핵심: 과학 전용 블로그가 개설되어 연구자들의 최신 발견과 방법론·현장 사례를 공유한다."
+    ],
+    "topTopics": [
+      "Research",
+      "Tooling",
+      "Models",
+      "Product"
+    ],
+    "stats": {
+      "collected": 2,
+      "deduped": 2
+    }
+  },
+  "cards": [
+    {
+      "id": "ai_0001",
+      "tab": "ai",
+      "publishedAt": "2026-11-16T07:00:01+09:00",
+      "source": "OpenAI Blog",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "summary": [
+        "표준모형을 비섭동론적으로 격자화하는 후보 정의를 제시했다.",
+        "GPT-6 Astra가 아이디어를 상세한 증명으로 전환하는 데 핵심적으로 활용되었다.",
+        "이 결과는 이론물리의 엄밀화와 AI-보조 수학/물리 연구의 진전을 의미하며 추가 검증이 필요하다."
+      ],
+      "whyItMatters": "표준모형의 비섭동론적 격자 정의는 기본입자이론의 근본적 이해와 계산적 접근을 크게 확장할 잠재력이 있기 때문이다.",
+      "topics": [
+        "Research",
+        "Models",
+        "Tooling"
+      ],
+      "status": "ONGOING",
+      "hash": "2e8f421d2ee2a3dfd36bfcc5be1c93ba1a42b98e60398a99d5e21362ce523fd9",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model"
+    },
+    {
+      "id": "ai_0002",
+      "tab": "ai",
+      "publishedAt": "2026-11-16T07:00:00+09:00",
+      "source": "OpenAI Blog",
+      "title": "Our new blog for science",
+      "summary": [
+        "OpenAI가 과학 전용 블로그를 새로 개설했습니다.",
+        "연구자들의 최신 발견, 실용적 방법론, 현장 사례를 공유합니다.",
+        "AI를 활용한 과학적 발견의 확산과 협업을 촉진하는 것을 목표로 합니다."
+      ],
+      "whyItMatters": "AI 기반 연구 방법과 사례를 공개해 과학 연구의 재현성·확산과 협업을 가속화하기 때문입니다.",
+      "topics": [
+        "Research",
+        "Product",
+        "Tooling"
+      ],
+      "status": "NEW",
+      "hash": "33b95c2112c46efd095543028e60f6116680e85e464182b74c65e43667746d78",
+      "url": "https://openai.com/index/our-new-blog-for-science"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-16",
+  "highlights": {
+    "bullets": [
+      "핵심: COMAC의 19인승 배터리 전기 통근기 CE-25A가 산둥 빈저우에서 최초 유인 비행을 마쳤다.",
+      "핵심: 테슬라는 초청 기반 2만9,990달러 사이버캡 주문을 열고 2026년 12월 인도를 예고했다."
+    ],
+    "topTopics": [
+      "Roadmap",
+      "Investment",
+      "Demand",
+      "Competition"
+    ],
+    "stats": {
+      "collected": 4,
+      "deduped": 4
+    }
+  },
+  "cards": [
+    {
+      "id": "ev_0001",
+      "tab": "ev",
+      "publishedAt": "2026-11-15T23:43:57+09:00",
+      "source": "Electrek",
+      "title": "China’s electric airliner era starts with a 19-seat plane and 400 km of range",
+      "summary": [
+        "중국 COMAC의 19인승 배터리 전기 통근용 항공기 CE-25A가 산둥 빈저우에서 최초 유인 비행을 완료했습니다.",
+        "이 기체는 약 10톤급 시제기로, 앞서 2월 2일 이후 총 19회의 무인 자율 비행 시험을 마친 상태입니다.",
+        "중국 민항 규제 당국은 현재 형식증명(Type Certificate) 발급을 위한 심사를 진행 중입니다."
+      ],
+      "whyItMatters": "전기 여객기 상용화를 향한 중국의 기술·인증 진척은 글로벌 항공·배터리 산업 경쟁 구도를 바꿀 수 있는 신호탄입니다.",
+      "topics": [
+        "Roadmap",
+        "Investment",
+        "Competition"
+      ],
+      "status": "NEW",
+      "hash": "a59cffc19c85ff07dfdf09e877ecef8fca4f884171b32cbf52030b8a11598065",
+      "url": "https://electrek.co/2026/11/15/china-comac-ce-25a-electric-plane-crewed-flight/"
+    },
+    {
+      "id": "ev_0002",
+      "tab": "ev",
+      "publishedAt": "2026-11-16T01:31:24+09:00",
+      "source": "Electrek",
+      "title": "Is Tesla rushing out a half-baked Cybercab just to shave MKBHD’s head?",
+      "summary": [
+        "테슬라는 2만9,990달러 가격의 초청 기반 사이버캡 주문을 열고 2026년 12월 인도를 예고했습니다.",
+        "일부 기능이 미완성된 '반쪽짜리' 초기 버전으로 보이며, 2027년 전 3만달러 미만 인도라는 MKBHD와의 내기 요건을 맞추려는 것 아니냐는 의혹이 제기됩니다.",
+        "머스크가 MKBHD를 공개적으로 언급하며 갈등을 키우면서, 제품 전략보다 개인적 내기에 따른 성급한 출시라는 비판이 나오고 있습니다."
+      ],
+      "whyItMatters": "테슬라가 아직 완성되지 않은 사이버캡을 급히 출시할 경우 단기적으로는 주목과 수요를 끌겠지만, 장기적으로 브랜드 신뢰와 제품 로드맵 신뢰성에 상당한 악영향을 줄 수 있기 때문입니다.",
+      "topics": [
+        "Roadmap",
+        "Demand",
+        "Competition"
+      ],
+      "status": "SHIFTING",
+      "hash": "c499301542000d8ea62b456afe0a4f477223fb5eb7746afd73b7c336570b4bae",
+      "url": "https://electrek.co/2026/11/15/tesla-cybercab-mkbhd-bet-musk-chicken/"
+    }
+  ]
+}

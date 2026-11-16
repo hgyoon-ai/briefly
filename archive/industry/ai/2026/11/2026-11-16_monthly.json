@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-10-18",
+    "to": "2026-11-16"
+  },
+  "kpis": {
+    "collected": 65,
+    "deduped": 65,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "Tooling": 26,
+      "Product": 23,
+      "Models": 18,
+      "Research": 17,
+      "Infra": 17,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/18-10/24)",
+      "topicCounts": {
+        "Tooling": 10,
+        "Product": 10,
+        "Models": 7,
+        "Research": 8,
+        "Infra": 5
+      }
+    },
+    {
+      "week": "Week 2 (10/25-10/31)",
+      "topicCounts": {
+        "Tooling": 8,
+        "Product": 8,
+        "Models": 8,
+        "Research": 7,
+        "Infra": 5
+      }
+    },
+    {
+      "week": "Week 3 (11/01-11/07)",
+      "topicCounts": {
+        "Tooling": 9,
+        "Product": 6,
+        "Models": 4,
+        "Research": 4,
+        "Infra": 9
+      }
+    },
+    {
+      "week": "Week 4 (11/08-11/14)",
+      "topicCounts": {
+        "Tooling": 14,
+        "Product": 13,
+        "Models": 11,
+        "Research": 7,
+        "Infra": 9
+      }
+    },
+    {
+      "week": "Week 5 (11/15-11/16)",
+      "topicCounts": {
+        "Tooling": 2,
+        "Product": 1,
+        "Models": 1,
+        "Research": 2,
+        "Infra": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "격자 위 표준모형 정식화: GPT-6 Astra를 활용한 비섭동론적 물리 연구",
+      "summary": "표준모형을 비섭동론적으로 격자 위에 정의하려는 새로운 수학적 정식화가 제안되었으며, 복잡한 아이디어를 완전한 증명으로 발전시키는 과정에 GPT-6 Astra가 핵심 연구 도구로 사용됐다. 고에너지 물리·수리물리에서 LLM이 본격적인 협업 연구 파트너로 자리 잡는 흐름이 진행 중이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "A step toward defining the Standard Model on a lattice",
+          "url": "https://openai.com/index/step-toward-defining-the-standard-model"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "배정밀도(FP64) 행렬 연산 가속으로 과학 시뮬레이션 효율 향상",
+      "summary": "NVIDIA가 cuBLAS에 새로운 FP64 알고리즘을 도입해 분자 시뮬레이션·재료 과학 등 고정밀 밀집 행렬 연산이 핵심인 워크로드의 속도를 크게 높였다. 이는 대형 과학·엔지니어링 AI 워크로드의 학습·시뮬레이션 비용과 시간을 줄이는 인프라 업그레이드로 볼 수 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Faster Scientific Simulations with New FP64 Algorithms in NVIDIA cuBLAS",
+          "url": "https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "엣지 디바이스용 네이티브 DLA 추론: Jetson AGX Orin에서의 Python 워크플로",
+      "summary": "Jetson AGX Orin에서 cuDLA를 활용해 Python 환경에서 직접 DLA 하드웨어를 사용하는 추론 경로가 정리되었다. 제한된 전력·연산 예산 내에서 여러 신경망을 효율적으로 돌리는 최적화 기법이 공유되며, 로봇·임베디드 AI 시스템의 온디바이스 추론 활용이 넓어지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA",
+          "url": "https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "ChatGPT Wallet: 에이전트 기반 구매·결제 기능의 상용화",
+      "summary": "ChatGPT Wallet 도입으로 ChatGPT Work, Codex, dots 에이전트가 사용자의 승인 하에 실제 구매를 완료할 수 있게 되었다. 기존 카드 보안 체계를 유지하면서도 에이전트가 상거래·구매 자동화를 수행하는 기반이 마련되며, 상용 에이전트 생태계 확대가 예상된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "Introducing ChatGPT Wallet",
+          "url": "https://openai.com/index/introducing-chatgpt-wallet"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "LLM 최적화 마크업 언어 LLMON과 Granite 4.1 통합",
+      "summary": "LLM 지시·툴 연동에 특화된 마크업 언어 LLMON이 공개되고, Granite 4.1 3B·8B 모델에 기본 통합되었다. 프롬프트를 구조화하고 도구 호출을 명세하는 새로운 인터페이스 계층이 확산되면서, 경량 오픈소스 모델에서도 정교한 에이전트·툴체인이 구현되기 쉬워지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+          "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
+        }
+      ]
+    }
+  ]
+}

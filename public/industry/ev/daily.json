@@ -1,65 +1,63 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "highlights": {
     "bullets": [
-      "핵심: 테슬라 사이버캡은 월 299달러 자율주행 구독을 결제하지 않으면 차량이 움직이지 않도록 설계됐다.",
-      "핵심: 테슬라는 사이버캡 개인용 주문을 시작했고 차량 가격은 2만9,990달러이며 로보택시 구역에서만 운행된다."
+      "핵심: COMAC의 19인승 배터리 전기 통근기 CE-25A가 산둥 빈저우에서 최초 유인 비행을 마쳤다.",
+      "핵심: 테슬라는 초청 기반 2만9,990달러 사이버캡 주문을 열고 2026년 12월 인도를 예고했다."
     ],
     "topTopics": [
-      "Competition",
       "Roadmap",
+      "Investment",
       "Demand",
-      "Policy"
+      "Competition"
     ],
     "stats": {
-      "collected": 6,
-      "deduped": 6
+      "collected": 4,
+      "deduped": 4
     }
   },
   "cards": [
     {
       "id": "ev_0001",
       "tab": "ev",
-      "publishedAt": "2026-11-14T22:33:00+09:00",
+      "publishedAt": "2026-11-15T23:43:57+09:00",
       "source": "Electrek",
-      "title": "Tesla Cybercab’s autonomy agreement is insane: $299/mo or it doesn’t move",
+      "title": "China’s electric airliner era starts with a 19-seat plane and 400 km of range",
       "summary": [
-        "테슬라의 2인승 사이버캡은 월 299달러 ‘자율주행 구독’을 결제하지 않으면 아예 움직일 수 없도록 설계됐다.",
-        "테슬라는 이 구독료를 한 달 전에 통보만 하고 조정할 수 있으며, 일시 중단이나 완전 차단 권한도 계약에 포함했다.",
-        "모델 Y에 수년간 FSD를 판매하고도 완전 자율주행을 제공하지 않은 상황에서 이런 강제 구독 구조가 소비자 반발과 규제 리스크를 키울 수 있다."
+        "중국 COMAC의 19인승 배터리 전기 통근용 항공기 CE-25A가 산둥 빈저우에서 최초 유인 비행을 완료했습니다.",
+        "이 기체는 약 10톤급 시제기로, 앞서 2월 2일 이후 총 19회의 무인 자율 비행 시험을 마친 상태입니다.",
+        "중국 민항 규제 당국은 현재 형식증명(Type Certificate) 발급을 위한 심사를 진행 중입니다."
       ],
-      "whyItMatters": "핵심 기능을 필수 고가 구독에 묶는 테슬라의 공격적 수익화 모델은 수요, 규제, 경쟁 구도에 모두 큰 영향을 줄 수 있다.",
+      "whyItMatters": "전기 여객기 상용화를 향한 중국의 기술·인증 진척은 글로벌 항공·배터리 산업 경쟁 구도를 바꿀 수 있는 신호탄입니다.",
       "topics": [
-        "Demand",
-        "Competition",
-        "Policy",
-        "Roadmap"
+        "Roadmap",
+        "Investment",
+        "Competition"
       ],
       "status": "NEW",
-      "hash": "ff6c3d96de81e959e8dd9aa9099e9d2c19b12f7355b111eb169f1ce1c2302dbb",
-      "url": "https://electrek.co/2026/11/14/tesla-cybercab-autonomy-subscription-agreement-terms/"
+      "hash": "a59cffc19c85ff07dfdf09e877ecef8fca4f884171b32cbf52030b8a11598065",
+      "url": "https://electrek.co/2026/11/15/china-comac-ce-25a-electric-plane-crewed-flight/"
     },
     {
       "id": "ev_0002",
       "tab": "ev",
-      "publishedAt": "2026-11-14T11:11:39+09:00",
+      "publishedAt": "2026-11-16T01:31:24+09:00",
       "source": "Electrek",
-      "title": "Tesla Cybercab orders open at $29,990 + $299/mo, only in Robotaxi zones",
+      "title": "Is Tesla rushing out a half-baked Cybercab just to shave MKBHD’s head?",
       "summary": [
-        "테슬라가 특정 고객을 대상으로 사이버캡 개인용 주문을 개시했으며 차량 가격은 2만9,990달러이다.",
-        "차량이 실제로 주행하려면 월 299달러의 ‘자율주행 구독(Autonomy Subscription)’을 추가로 결제해야 한다.",
-        "이 서비스는 텍사스와 플로리다의 로보택시 지오펜스 구역 내에서만 작동하며, 실제 운행 가능 구역은 테슬라가 광고한 범위보다 더 좁은 것으로 드러났다."
+        "테슬라는 2만9,990달러 가격의 초청 기반 사이버캡 주문을 열고 2026년 12월 인도를 예고했습니다.",
+        "일부 기능이 미완성된 '반쪽짜리' 초기 버전으로 보이며, 2027년 전 3만달러 미만 인도라는 MKBHD와의 내기 요건을 맞추려는 것 아니냐는 의혹이 제기됩니다.",
+        "머스크가 MKBHD를 공개적으로 언급하며 갈등을 키우면서, 제품 전략보다 개인적 내기에 따른 성급한 출시라는 비판이 나오고 있습니다."
       ],
-      "whyItMatters": "새로운 가격·구독 구조와 제한된 지리적 운행 범위는 테슬라 로보택시 비즈니스 모델의 수익성, 수요 형성, 규제·경쟁 구도에 직접적인 영향을 줄 수 있다.",
+      "whyItMatters": "테슬라가 아직 완성되지 않은 사이버캡을 급히 출시할 경우 단기적으로는 주목과 수요를 끌겠지만, 장기적으로 브랜드 신뢰와 제품 로드맵 신뢰성에 상당한 악영향을 줄 수 있기 때문입니다.",
       "topics": [
-        "Demand",
         "Roadmap",
-        "Competition",
-        "Policy"
+        "Demand",
+        "Competition"
       ],
-      "status": "NEW",
-      "hash": "e3e96d2c5296806ff37761392a85b40b446a45b23d81f07e9083e5b539fa5cd9",
-      "url": "https://electrek.co/2026/11/13/tesla-cybercab-personal-use-orders-299-subscription-geofence/"
+      "status": "SHIFTING",
+      "hash": "c499301542000d8ea62b456afe0a4f477223fb5eb7746afd73b7c336570b4bae",
+      "url": "https://electrek.co/2026/11/15/tesla-cybercab-mkbhd-bet-musk-chicken/"
     }
   ]
 }

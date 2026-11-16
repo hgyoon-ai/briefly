@@ -1,11 +1,11 @@
 {
   "range": {
-    "from": "2026-10-17",
-    "to": "2026-11-15"
+    "from": "2026-10-18",
+    "to": "2026-11-16"
   },
   "kpis": {
-    "collected": 48,
-    "deduped": 48,
+    "collected": 49,
+    "deduped": 49,
     "uniqueTopics": 7,
     "marketShare": {
       "Roadmap": 30,
@@ -18,17 +18,17 @@
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/17-10/23)",
+      "week": "Week 1 (10/18-10/24)",
       "topicCounts": {
-        "Roadmap": 12,
-        "Competition": 10,
-        "Manufacturing": 6,
-        "Demand": 7,
+        "Roadmap": 14,
+        "Competition": 12,
+        "Manufacturing": 7,
+        "Demand": 8,
         "Investment": 1
       }
     },
     {
-      "week": "Week 2 (10/24-10/30)",
+      "week": "Week 2 (10/25-10/31)",
       "topicCounts": {
         "Roadmap": 8,
         "Competition": 5,
@@ -38,32 +38,32 @@
       }
     },
     {
-      "week": "Week 3 (10/31-11/06)",
+      "week": "Week 3 (11/01-11/07)",
       "topicCounts": {
-        "Roadmap": 6,
-        "Competition": 2,
+        "Roadmap": 8,
+        "Competition": 3,
         "Manufacturing": 3,
         "Demand": 2,
-        "Investment": 4
+        "Investment": 6
       }
     },
     {
-      "week": "Week 4 (11/07-11/13)",
+      "week": "Week 4 (11/08-11/14)",
       "topicCounts": {
-        "Roadmap": 9,
-        "Competition": 9,
-        "Manufacturing": 4,
-        "Demand": 4,
+        "Roadmap": 11,
+        "Competition": 11,
+        "Manufacturing": 6,
+        "Demand": 5,
         "Investment": 5
       }
     },
     {
-      "week": "Week 5 (11/14-11/15)",
+      "week": "Week 5 (11/15-11/16)",
       "topicCounts": {
-        "Roadmap": 0,
-        "Competition": 0,
+        "Roadmap": 1,
+        "Competition": 1,
         "Manufacturing": 0,
-        "Demand": 0,
+        "Demand": 1,
         "Investment": 0
       }
     }
@@ -71,9 +71,23 @@
   "topIssues": [
     {
       "id": 1,
+      "status": "NEW",
+      "title": "삼성전자, CES 2027 혁신상 대거 수상으로 시스템·메모리 경쟁력 부각",
+      "summary": "삼성전자가 CES 2027을 앞두고 CTA로부터 다수의 혁신상을 받으며 프리미엄 디스플레이·가전·모바일·반도체 기반 제품 포트폴리오 경쟁력을 재입증했다. Best of Innovation 수상 수가 전년 대비 두 배 증가해, 시스템·디바이스 레벨에서의 기술 완성도가 높아졌음을 보여주며 첨단 반도체 수요(고성능 AP, AI·이미지 처리용 ISP, 전력·센서 IC 등)를 지속적으로 자극할 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung’s Latest Products Recognized by Consumer Technology Association Ahead of CES 2027",
+          "url": "https://news.samsung.com/global/samsungs-latest-products-recognized-by-consumer-technology-association-ahead-of-ces-2027"
+        }
+      ]
+    },
+    {
+      "id": 2,
       "status": "SHIFTING",
-      "title": "데이터센터·피지컬 AI 부상 속에서 반도체 업체의 ‘스택 상단’ 이동",
-      "summary": "electronica 2026에서 반도체 기업들이 단순 칩 공급을 넘어 AI 플랫폼·솔루션으로 사업을 확장하는 흐름이 부각됐다. 대규모 데이터센터와 엣지·로보틱스용 피지컬 AI가 확산되면서 전력 설계, 패키징, 실리콘 아키텍처 수요가 재편되고 있고, 칩 업체들은 소프트웨어·레퍼런스 시스템까지 포괄하는 상위 레이어로 진입해 차별화를 꾀하고 있다.",
+      "title": "electronica 2026: 데이터센터·Physical AI 부상 속 반도체 업체의 ‘스택 상향’ 전략",
+      "summary": "electronica 2026에서 반도체 기업들은 단순 칩 공급을 넘어 AI 플랫폼, 소프트웨어, 레퍼런스 디자인까지 포괄하는 상위 스택으로 사업을 확장하고 있다. 데이터센터, 엣지 AI, 로보틱스가 전력 설계와 실리콘 아키텍처 요구사항을 재정의하면서, 고성능 컴퓨팅용 칩, 전력반도체, AI 가속기 등에서 제품·서비스 통합 경쟁이 심화되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -84,10 +98,10 @@
       ]
     },
     {
-      "id": 2,
+      "id": 3,
       "status": "ONGOING",
-      "title": "엔비디아 CEO 돌연 사임으로 인한 GPU·AI 반도체 리더십 리스크",
-      "summary": "엔비디아 CEO가 연이은 사생활 스캔들로 사임하면서, AI GPU 시장의 절대 강자였던 엔비디아의 중장기 로드맵과 투자 전략에 불확실성이 커졌다. 이사회가 후임자 물색에 착수했지만, 차세대 GPU·AI 가속기 출시 일정, 파운드리·고객사와의 전략적 파트너십, 경쟁사 대비 기술 리더십 유지 여부가 핵심 관전 포인트가 되고 있다.",
+      "title": "엔비디아 CEO 사임: AI 가속기 패권 경쟁과 반도체 투자 지형의 리더십 리스크 부상",
+      "summary": "엔비디아 CEO가 개인 스캔들로 사임하면서 GPU·AI 가속기 시장의 전략 방향성과 투자 심리에 변수가 생겼다. 이사회가 후임자 물색에 나선 가운데, AI 인프라용 GPU·네트워크 칩 수요는 견조하지만, 리더십 공백이 R&D·M&A·생태계 파트너십 의사결정 속도에 영향을 줄 수 있어 경쟁사와 시스템 반도체 생태계 전반이 촉각을 곤두세우고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -98,24 +112,10 @@
       ]
     },
     {
-      "id": 3,
-      "status": "ONGOING",
-      "title": "AI 데이터센터 전력 인프라 확보 전쟁과 반도체 수요 구조 변화",
-      "summary": "AI 클러스터 확대를 위해 필요한 전력 그리드 용량이 핵심 병목으로 떠오르며, 미국·중국이 서로 다른 방식으로 전력·인프라 투자와 리스크 분담을 시도하고 있다. 전력 접근성이 AI 서버·가속기 도입 속도를 좌우하면서, 고효율 전력반도체, 전력 관리 IC, 저전력 AI 칩에 대한 수요와 정책 논의가 동시에 강화되는 추세다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "EE Times",
-          "title": "The AI Power Bill: Who Gets Grid Capacity, and Who Bears the Risk?",
-          "url": "https://www.eetimes.com/the-ai-power-bill-who-gets-grid-capacity-and-who-bears-the-risk/"
-        }
-      ]
-    },
-    {
       "id": 4,
       "status": "ONGOING",
-      "title": "AI 메모리 슈퍼사이클: 삼성전자 사상 최대급 실적이 시사하는 것",
-      "summary": "삼성전자가 AI용 고대역폭 메모리와 고성능 DRAM 수요 급증에 힘입어 분기 영업이익 800억 달러를 기록하며, 메모리 업황이 AI 중심으로 구조적으로 재편되고 있음을 보여줬다. 데이터센터·가속기용 메모리에 가격과 공급이 집중되면서 설비투자 재개, 공정 미세화, 패키징 혁신이 동반 가속될 전망이다.",
+      "title": "AI 메모리 붐에 힘입은 삼성전자 실적 급증",
+      "summary": "삼성전자가 3분기 영업이익 800억 달러를 기록하며 메모리 업황 턴어라운드를 확실히 했다. HBM·HBM3E, 고대역폭 DDR, CXL 메모리 등 AI 데이터센터용 메모리 수요가 실적을 견인했고, 이는 첨단 공정 투자와 패키징(2.5D/3D) 증설을 가속하는 동력으로 작용한다. AI 가속기와의 최적화 설계 요구가 커지며 메모리-연산 결합 아키텍처 경쟁도 한층 치열해질 전망이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -128,14 +128,14 @@
     {
       "id": 5,
       "status": "ONGOING",
-      "title": "양자컴퓨팅 ‘Q-Day’ 카운트다운과 보안 반도체 수요 부상",
-      "summary": "향후 2년 안에 양자컴퓨터가 기존 공개키 암호를 무력화할 수 있다는 경고가 나오며, 포스트양자암호(PQC) 전환과 이를 구현하는 보안 칩·보안 모듈의 도입 압력이 커지고 있다. 반도체 업계는 인증·키관리·하드웨어 루트오브트러스트 기능을 갖춘 전용 보안 SoC와 가속기 설계 경쟁에 나설 가능성이 높다.",
+      "title": "농업용 초분광 이미징 확산으로 저가 스펙트럴 센서·이미지 센서 반도체 수요 확대",
+      "summary": "초분광 이미징을 활용해 농작물 병해를 사람 눈보다 먼저 탐지할 수 있음이 입증되면서, 농업·환경 모니터링 분야에서 스펙트럴 센서와 관련 이미지 센서 반도체의 수요가 새로 열리고 있다. 반도체 공정 미세화·집적도 향상으로 센서 비용이 낮아지면서, 고신뢰 센싱 IC·신호처리 SoC·엣지 AI 칩이 결합된 농업용 스마트 디바이스 시장이 중장기 성장 동력으로 부상하고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "EE Times",
-          "title": "The Countdown to Q-Day Has Begun",
-          "url": "https://www.eetimes.com/the-countdown-to-q-day-has-begun/"
+          "title": "Can Machines See a Sick Plant Before a Farmer Can?",
+          "url": "https://www.eetimes.com/can-machines-see-a-sick-plant-before-a-farmer-can/"
         }
       ]
     }

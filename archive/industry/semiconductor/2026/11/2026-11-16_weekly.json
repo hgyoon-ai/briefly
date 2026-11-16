@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-11-10",
+    "to": "2026-11-16"
+  },
+  "kpis": {
+    "collected": 14,
+    "deduped": 14,
+    "uniqueTopics": 6
+  },
+  "topTopics": [
+    {
+      "name": "Competition",
+      "count": 12
+    },
+    {
+      "name": "Roadmap",
+      "count": 12
+    },
+    {
+      "name": "Demand",
+      "count": 6
+    },
+    {
+      "name": "Manufacturing",
+      "count": 6
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 4
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Demand",
+      "count": 2
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 4
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Manufacturing",
+      "count": 2
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 4
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 4
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Manufacturing",
+      "count": 3
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Manufacturing",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "데이터센터·피지컬 AI 중심으로 재편되는 반도체 밸류체인",
+      "summary": "electronica 2026에서 주요 칩 메이커들이 단순 칩 공급을 넘어 AI 플랫폼·솔루션 영역까지 사업을 확장하는 흐름이 부각됐다. 데이터센터, 엣지 AI, 로보틱스 수요가 전력 설계와 실리콘 아키텍처 요구사항을 재정의하면서, 팹리스·IDM 모두 소프트웨어·플랫폼 경쟁력까지 포함한 ‘스택 상향 이동’ 전략을 가속화하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "electronica 2026: Chipmakers Move Up the Stack as Data Centers and Physical AI Take Center Stage",
+          "url": "https://www.eetimes.com/electronica-2026-chipmakers-move-up-the-stack-as-data-centers-and-physical-ai-take-center-stage/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "AI 인프라 전력 수급이 반도체 수요·투자에 미치는 구조적 영향",
+      "summary": "대규모 AI 클러스터 증설이 전력망 용량 확보를 둘러싼 새로운 병목으로 부상하면서, 누가 전력 용량을 우선 배정받고 비용과 리스크를 부담할지에 대한 논쟁이 심화되고 있다. 미국과 중국은 그리드 투자, 장기 전력 계약, 정책 지원 측면에서 상이한 전략을 취하고 있으며, 이는 고성능 GPU·ASIC 수요의 지역 편차와 데이터센터용 반도체 투자 타이밍에 직접적인 변수를 제공하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "The AI Power Bill: Who Gets Grid Capacity, and Who Bears the Risk?",
+          "url": "https://www.eetimes.com/the-ai-power-bill-who-gets-grid-capacity-and-who-bears-the-risk/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "엔비디아 리더십 공백이 AI 반도체 경쟁 구도에 미치는 파장",
+      "summary": "엔비디아 CEO의 갑작스러운 사임으로 후임자 선정 과정이 시작되면서, 중장기 제품 로드맵과 고객·투자자 신뢰도에 대한 불확실성이 커지고 있다. 단기적으로는 GPU·AI 가속기 시장에서 경쟁사와의 파트너십 재편, 데이터센터·자동차·엣지 AI 등 주요 애플리케이션 영역에서 전략 조정 가능성이 대두되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Jensen Resigns Over Second Affair",
+          "url": "https://www.eetimes.com/jensen-resigns-over-second-affair/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "초분광 센서 확산으로 농업용 반도체 수요 다변화",
+      "summary": "초분광 이미징 기술로 콩 병해를 인간보다 이르게 감지할 수 있음을 입증하면서, 농업 분야에서의 고성능 이미지 센서와 신호처리 반도체 수요가 부각되고 있다. 반도체 공정 고도화와 규모의 경제로 스펙트럴 센서 단가가 하락함에 따라, 농민이 활용 가능한 정밀 농업 장비·서비스 시장이 확대되고 비(非)전통 IT 영역으로 반도체 수요가 다변화되는 흐름이 진행 중이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Can Machines See a Sick Plant Before a Farmer Can?",
+          "url": "https://www.eetimes.com/can-machines-see-a-sick-plant-before-a-farmer-can/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "자동차 엣지 노드 고도화와 MCU 통합 트렌드",
+      "summary": "자동차 내 엣지 노드에 인공지능과 고급 제어 기능을 탑재하기 위해, 아날로그·전력·드라이버를 통합한 차세대 MCU가 부상하고 있다. NovoGenius MCU+ 사례에서 보이듯 모터 제어, 센싱, 조명 제어를 단일 칩으로 처리해 BOM 절감과 보드 설계 단순화, 에너지 효율 향상을 동시에 노리며, 이는 차량용 반도체 아키텍처를 분산형에서 지능형 통합 노드 중심으로 재편하는 계기가 되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "How NovoGenius® MCU+ Devices Are Reshaping the Automotive Edge Node",
+          "url": "https://www.eetimes.com/how-novogenius-mcu-devices-are-reshaping-the-automotive-edge-node/"
+        }
+      ]
+    }
+  ]
+}

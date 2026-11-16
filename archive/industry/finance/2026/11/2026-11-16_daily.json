@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-16",
+  "highlights": {
+    "bullets": [
+      "핵심: 이번 주 코스피는 엔비디아 실적 발표와 미·중 회담 가능성 등 지정학적 리스크에 주목합니다.",
+      "핵심: 시장 분석은 삼성전자가 파운드리·메모리 역량을 통해 탈엔비디아 시대의 최대 수혜주로 꼽힌다고 평가합니다."
+    ],
+    "topTopics": [
+      "MarketInfra",
+      "Policy",
+      "Compliance",
+      "Fintech"
+    ],
+    "stats": {
+      "collected": 15,
+      "deduped": 15
+    }
+  },
+  "cards": [
+    {
+      "id": "finance_0001",
+      "tab": "finance",
+      "publishedAt": "2026-11-16T08:58:54+09:00",
+      "source": "매일경제(증권)",
+      "title": "“이번주엔 앞길 좀 트일까요”…엔비디아에 미중회담·앤트로픽 IPO까지, 코스피는?",
+      "summary": [
+        "이번 주 코스피는 엔비디아 실적 발표와 젠슨 황 거취, 중국 리스크에 주목하고 있습니다.",
+        "미 FOMC 의사록 공개와 미·중 회담 가능성은 단기 금리·지정학적 불확실성에 영향을 줄 수 있습니다.",
+        "앤트로픽(Anthropic) IPO 등 대형 AI 이벤트가 투자심리와 기술주 흐름을 좌우할 전망입니다."
+      ],
+      "whyItMatters": "글로벌 기술주 실적, 지정학적 대화, 통화정책 신호, 대형 IPO가 동시에 겹쳐 단기 수급과 변동성을 좌우할 핵심 변수이기 때문입니다.",
+      "topics": [
+        "MarketInfra",
+        "Policy"
+      ],
+      "status": "SHIFTING",
+      "hash": "3995833c67fae77bdc11a13a207e8c609b736c345433be961bfdcf20c988a674",
+      "url": "https://www.mk.co.kr/news/stock/12209596"
+    },
+    {
+      "id": "finance_0002",
+      "tab": "finance",
+      "publishedAt": "2026-11-16T08:45:34+09:00",
+      "source": "매일경제(증권)",
+      "title": "KB증권 “삼성전자, 탈엔비디아 시대 최대 수혜주”",
+      "summary": [
+        "KB증권은 AI 반도체 경쟁 구도가 엔비디아 중심에서 구글·아마존·AMD 등으로 확대되고 있다고 평가했다.",
+        "이 확대로 삼성전자가 파운드리·메모리 역량을 통해 최대 수혜를 입을 것으로 전망했다.",
+        "해당 전망은 반도체 수요와 공급구조에 대한 투자 방향성 변화를 시사한다."
+      ],
+      "whyItMatters": "경쟁 주체 다각화로 설계·수요가 증가하고 파운드리·메모리 역량을 보유한 삼성의 수혜 가능성이 커지기 때문이다.",
+      "topics": [
+        "MarketInfra",
+        "Policy"
+      ],
+      "status": "SHIFTING",
+      "hash": "3c5d2c9f56ade6c8159f4083346e72d21674714eacf1ff99b49d10fb5990d174",
+      "url": "https://www.mk.co.kr/news/stock/12209588"
+    }
+  ]
+}

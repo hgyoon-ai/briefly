@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-11-10",
+    "to": "2026-11-16"
+  },
+  "kpis": {
+    "collected": 28,
+    "deduped": 28,
+    "uniqueTopics": 10
+  },
+  "topTopics": [
+    {
+      "name": "Market",
+      "count": 19
+    },
+    {
+      "name": "Supply",
+      "count": 14
+    },
+    {
+      "name": "Policy",
+      "count": 11
+    },
+    {
+      "name": "UrbanRenewal",
+      "count": 10
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Market",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "dayOfWeek": "Tue",
+      "topic": "UrbanRenewal",
+      "count": 0
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Market",
+      "count": 5
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Supply",
+      "count": 3
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "UrbanRenewal",
+      "count": 1
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Market",
+      "count": 1
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Supply",
+      "count": 2
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 3
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "UrbanRenewal",
+      "count": 2
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Market",
+      "count": 7
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Supply",
+      "count": 5
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "UrbanRenewal",
+      "count": 4
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Market",
+      "count": 2
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "UrbanRenewal",
+      "count": 0
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Market",
+      "count": 1
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Supply",
+      "count": 1
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "UrbanRenewal",
+      "count": 2
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Market",
+      "count": 3
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Supply",
+      "count": 3
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "UrbanRenewal",
+      "count": 1
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "realestate-1",
+      "status": "ONGOING",
+      "title": "공공주택·그린벨트 해제 지역에서 임대 비중 급확대",
+      "summary": "강남 서리풀1 공공주택지구 등에서 전체 주택의 80% 안팎을 임대주택으로 공급하는 계획이 추진되며, 신혼부부용 ‘미리내집’과 장기공공임대 비중이 동시에 늘고 있다. 그린벨트 해제·도심 공공택지에서 임대 중심 공급 기조가 강화되는 흐름이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "‘10채 중 8채 임대’ 강남 그린벨트 풀어 짓는 서리풀1 계획안 [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10938201"
+        }
+      ]
+    },
+    {
+      "id": "realestate-2",
+      "status": "ONGOING",
+      "title": "LH 중심 공공주택 공급 가속화와 사업기간 단축 경쟁",
+      "summary": "LH가 남양주왕숙 등 10개 블록, 약 9000호 규모의 민간참여 공공주택사업 공모를 예고하고 사업기간 단축 평가를 신설하는 등 공급 속도 높이기에 나섰다. 민간참여 유인과 인허가·시공 기간 단축을 통해 단기 공급 확대 효과를 노리는 정책 기조가 이어지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "공급 속도 내는 LH…사업기간 단축 평가 신설, 하반기 9000호 공모",
+          "url": "https://www.mk.co.kr/news/realestate/12209642"
+        }
+      ]
+    },
+    {
+      "id": "realestate-3",
+      "status": "NEW",
+      "title": "국내 상업용 부동산, 글로벌 자본·운영사와 전략 제휴 확산",
+      "summary": "이도에스테이트가 글로벌 부동산 서비스사 에비슨영과 전략적 제휴를 맺고 국내 상업용 부동산 개발·운영 역량을 키우는 동시에 해외시장 진출을 추진한다. 사무·물류·리테일 등 상업용 자산에 글로벌 네트워크와 자본을 연계하려는 움직임이 강화되는 양상이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "[단독] 이도에스테이트, 에비슨영과 손 잡고 국내외 상업용 부동산 시장 공략",
+          "url": "https://www.mk.co.kr/news/realestate/12209526"
+        }
+      ]
+    },
+    {
+      "id": "realestate-4",
+      "status": "ONGOING",
+      "title": "서울 전역으로 번지는 고액 월세와 세입자 부담 심화",
+      "summary": "강남 외 지역까지 월세가 급등하며 서울 곳곳에서 300만~350만원대 고액 월세 물건이 등장하고 있다. 전세 대출 규제와 전세 선호 약화 속에 월세 전환이 빨라지면서 무주택 세입자의 거주비 부담과 주거 불안이 동시에 확대되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "\"강남도 아닌데 월세 350만원?\"…서울 세입자들 '비명'",
+          "url": "https://www.hankyung.com/article/2026111678337"
+        }
+      ]
+    },
+    {
+      "id": "realestate-5",
+      "status": "ONGOING",
+      "title": "강남 재건축 재초환 부담금 통지로 조합·정부 갈등 확대",
+      "summary": "은마아파트 등 강남 주요 재건축 단지에 재건축초과이익환수제 부담금 예정 통지가 이뤄지면서 1인당 수억원대 금액이 제시돼 반발이 거세다. 조합들은 소송 검토 등 강경 대응에 나서고, 정부의 재초환 제도 손질 여부가 재건축 시장 최대 변수가 되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "“수억원 부담금 못 낸다” 강남 재건축 줄소송판 벌어지나…‘재초환’ 논란, 뭐길래? [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10937211"
+        }
+      ]
+    }
+  ]
+}

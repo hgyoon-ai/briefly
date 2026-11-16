@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-10-18",
+    "to": "2026-11-16"
+  },
+  "kpis": {
+    "collected": 49,
+    "deduped": 49,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 30,
+      "Competition": 23,
+      "Manufacturing": 18,
+      "Demand": 15,
+      "Investment": 14,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/18-10/24)",
+      "topicCounts": {
+        "Roadmap": 14,
+        "Competition": 12,
+        "Manufacturing": 7,
+        "Demand": 8,
+        "Investment": 1
+      }
+    },
+    {
+      "week": "Week 2 (10/25-10/31)",
+      "topicCounts": {
+        "Roadmap": 8,
+        "Competition": 5,
+        "Manufacturing": 9,
+        "Demand": 5,
+        "Investment": 7
+      }
+    },
+    {
+      "week": "Week 3 (11/01-11/07)",
+      "topicCounts": {
+        "Roadmap": 8,
+        "Competition": 3,
+        "Manufacturing": 3,
+        "Demand": 2,
+        "Investment": 6
+      }
+    },
+    {
+      "week": "Week 4 (11/08-11/14)",
+      "topicCounts": {
+        "Roadmap": 11,
+        "Competition": 11,
+        "Manufacturing": 6,
+        "Demand": 5,
+        "Investment": 5
+      }
+    },
+    {
+      "week": "Week 5 (11/15-11/16)",
+      "topicCounts": {
+        "Roadmap": 1,
+        "Competition": 1,
+        "Manufacturing": 0,
+        "Demand": 1,
+        "Investment": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "삼성전자, CES 2027 혁신상 대거 수상으로 시스템·메모리 경쟁력 부각",
+      "summary": "삼성전자가 CES 2027을 앞두고 CTA로부터 다수의 혁신상을 받으며 프리미엄 디스플레이·가전·모바일·반도체 기반 제품 포트폴리오 경쟁력을 재입증했다. Best of Innovation 수상 수가 전년 대비 두 배 증가해, 시스템·디바이스 레벨에서의 기술 완성도가 높아졌음을 보여주며 첨단 반도체 수요(고성능 AP, AI·이미지 처리용 ISP, 전력·센서 IC 등)를 지속적으로 자극할 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung’s Latest Products Recognized by Consumer Technology Association Ahead of CES 2027",
+          "url": "https://news.samsung.com/global/samsungs-latest-products-recognized-by-consumer-technology-association-ahead-of-ces-2027"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "electronica 2026: 데이터센터·Physical AI 부상 속 반도체 업체의 ‘스택 상향’ 전략",
+      "summary": "electronica 2026에서 반도체 기업들은 단순 칩 공급을 넘어 AI 플랫폼, 소프트웨어, 레퍼런스 디자인까지 포괄하는 상위 스택으로 사업을 확장하고 있다. 데이터센터, 엣지 AI, 로보틱스가 전력 설계와 실리콘 아키텍처 요구사항을 재정의하면서, 고성능 컴퓨팅용 칩, 전력반도체, AI 가속기 등에서 제품·서비스 통합 경쟁이 심화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "electronica 2026: Chipmakers Move Up the Stack as Data Centers and Physical AI Take Center Stage",
+          "url": "https://www.eetimes.com/electronica-2026-chipmakers-move-up-the-stack-as-data-centers-and-physical-ai-take-center-stage/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "엔비디아 CEO 사임: AI 가속기 패권 경쟁과 반도체 투자 지형의 리더십 리스크 부상",
+      "summary": "엔비디아 CEO가 개인 스캔들로 사임하면서 GPU·AI 가속기 시장의 전략 방향성과 투자 심리에 변수가 생겼다. 이사회가 후임자 물색에 나선 가운데, AI 인프라용 GPU·네트워크 칩 수요는 견조하지만, 리더십 공백이 R&D·M&A·생태계 파트너십 의사결정 속도에 영향을 줄 수 있어 경쟁사와 시스템 반도체 생태계 전반이 촉각을 곤두세우고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Jensen Resigns Over Second Affair",
+          "url": "https://www.eetimes.com/jensen-resigns-over-second-affair/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "AI 메모리 붐에 힘입은 삼성전자 실적 급증",
+      "summary": "삼성전자가 3분기 영업이익 800억 달러를 기록하며 메모리 업황 턴어라운드를 확실히 했다. HBM·HBM3E, 고대역폭 DDR, CXL 메모리 등 AI 데이터센터용 메모리 수요가 실적을 견인했고, 이는 첨단 공정 투자와 패키징(2.5D/3D) 증설을 가속하는 동력으로 작용한다. AI 가속기와의 최적화 설계 요구가 커지며 메모리-연산 결합 아키텍처 경쟁도 한층 치열해질 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Samsung Electronics Posts $80B Operating Profit on AI Memory Demand",
+          "url": "https://www.eetimes.com/samsung-electronics-posts-80b-operating-profit-on-ai-memory-demand/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "농업용 초분광 이미징 확산으로 저가 스펙트럴 센서·이미지 센서 반도체 수요 확대",
+      "summary": "초분광 이미징을 활용해 농작물 병해를 사람 눈보다 먼저 탐지할 수 있음이 입증되면서, 농업·환경 모니터링 분야에서 스펙트럴 센서와 관련 이미지 센서 반도체의 수요가 새로 열리고 있다. 반도체 공정 미세화·집적도 향상으로 센서 비용이 낮아지면서, 고신뢰 센싱 IC·신호처리 SoC·엣지 AI 칩이 결합된 농업용 스마트 디바이스 시장이 중장기 성장 동력으로 부상하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Can Machines See a Sick Plant Before a Farmer Can?",
+          "url": "https://www.eetimes.com/can-machines-see-a-sick-plant-before-a-farmer-can/"
+        }
+      ]
+    }
+  ]
+}
