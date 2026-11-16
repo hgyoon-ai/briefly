@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "kpis": {
     "clusters": 20,
     "sources": 2,
@@ -7,245 +7,136 @@
   },
   "clusters": [
     {
-      "id": "4454c7fe6ffa7b5f1cfe5398a24e28ef207235a9",
-      "name": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "id": "ba5613c5c3a7c5f329ee6ee85b6e1deed2e44142",
+      "name": "All AI-generated code should be Open Source",
       "section": "discussions",
       "status": "NEW",
-      "score": 1360.8,
-      "oneLiner": "엔비디아가 AI 스타트업 자금 지원으로 GPU 공급 부족을 조장했다는 주장",
-      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다.",
+      "score": 1363.8,
+      "oneLiner": "인공지능이 생성한 모든 코드는 오픈소스로 공개되어야 한다는 주장.",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "1032p · 618c"
+          "value": "1087p · 593c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50493251"
+          "url": "https://news.ycombinator.com/item?id=50507303"
         },
         {
           "label": "Source",
-          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
+          "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/"
         }
       ],
       "tags": []
     },
     {
-      "id": "e19ca558f8a5949d049367c269fe5b4809215120",
-      "name": "ggml-org/ggml",
-      "section": "releases",
-      "status": "NEW",
-      "score": 1010.22,
-      "oneLiner": "기계학습을 위한 텐서 라이브러리입니다.",
-      "whyNow": "업데이트가 트리거가 되어 레퍼런스가 모이는 구간입니다.",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "metric": "stars",
-          "value": "15,787"
-        },
-        {
-          "source": "GitHub",
-          "metric": "forks",
-          "value": "1,947"
-        },
-        {
-          "source": "GitHub",
-          "metric": "updated",
-          "value": "2026-11-14"
-        },
-        {
-          "source": "GitHub",
-          "metric": "release",
-          "value": "v1.0.0"
-        },
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "399p · 67c"
-        }
-      ],
-      "links": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/ggml-org/ggml"
-        },
-        {
-          "label": "Release",
-          "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0"
-        },
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50493062"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "8886c195ca0768475331b16ef6e5603b0641b8a4",
-      "name": "SpaceX catches the Starship to end Flight 15",
+      "id": "f3027c8671918831ddf8444ee4e4fe0aa4217484",
+      "name": "The MacBook Pro's OLED PWM problem",
       "section": "discussions",
       "status": "NEW",
-      "score": 958.2,
-      "oneLiner": "스페이스X가 스타쉽을 포착하며 15번째 비행을 마무리했다.",
-      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "683p · 457c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50500963"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.spacex.com/launches/starship-flight-15"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "88b3e9e84d65fa4ca03c6372a260608cb865abd5",
-      "name": "Lovable apps expose passport details and more than 200K private messages",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 706.8,
-      "oneLiner": "Lovable 앱이 여권 정보와 20만 건 이상의 비공개 메시지를 노출했다.",
-      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "636p · 271c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50499017"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.crissyfield.de/research/lovable-en/"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "c6982ebdaff83747852cc29d02b06e2970b15651",
-      "name": "Tech companies are trying to shift the concept of privacy again",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 486.6,
-      "oneLiner": "기술 기업들이 프라이버시 개념을 다시 바꾸려 시도하고 있다.",
-      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "461p · 175c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50496602"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "2bb39cb84bb15ddb8d0534f4b852201d9027ff0d",
-      "name": "Italy fines Meta $887M over Android users' data access",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 463.8,
-      "oneLiner": "이탈리아가 안드로이드 사용자 데이터 접근 문제로 메타에 8억8700만 달러 벌금을 부과했다.",
-      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 데이터 품질/거버넌스 관점 논의가 늘고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "331p · 221c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50497009"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/"
-        }
-      ],
-      "tags": [
-        "data"
-      ]
-    },
-    {
-      "id": "c5c9682fee9c4c2a70b68680a3456290c429aba4",
-      "name": "Monkey Island: all 13 versions side by side",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 456.0,
-      "oneLiner": "Monkey Island의 13개 버전을 나란히 비교했다.",
+      "score": 534.0,
+      "oneLiner": "MacBook Pro의 OLED PWM 문제로 인한 사용성 문제를 다룬 글.",
       "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "466p · 147c"
+          "value": "422p · 234c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50493904"
+          "url": "https://news.ycombinator.com/item?id=50506719"
         },
         {
           "label": "Source",
-          "url": "https://monkeyisland.pages.dev/"
+          "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/"
         }
       ],
-      "tags": [
-        "editor"
-      ]
+      "tags": []
+    },
+    {
+      "id": "ccbdff19e394512a3554632c5d0276599993ff61",
+      "name": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 522.0,
+      "oneLiner": "Lutnick가 가족 사업과 겹치는 칩 규제를 완화하려 했다는 보도.",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "460p · 205c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50506180"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "7679c41c4c099e57033bb1cfdc50a1f1c4b2dcac",
+      "name": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 458.4,
+      "oneLiner": "Microsoft 365 장애와 관련해 호텔에서 염소 가스 중독 사고가 발생했다는 보도.",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "396p · 184c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50509411"
+        },
+        {
+          "label": "Source",
+          "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html"
+        }
+      ],
+      "tags": []
     },
     {
       "id": "2aa68c78a3e77fec398fc0cad46e58bd8c64a723",
       "name": "huamidev/GestaltX",
       "section": "releases",
       "status": "ONGOING",
-      "score": 375.7,
-      "oneLiner": "iOS 27.x용 MobileGestalt 편집기로 지역 코드 조정, 기기 프리셋, 백업을 제공한다.",
-      "whyNow": "새 릴리즈 영향으로 관심이 재점화되고 있습니다. 개발자 경험 개선 관점에서 관심이 커지고 있습니다.",
+      "score": 383.1,
+      "oneLiner": "iOS 27.x용 MobileGestalt 편집기로 지역 코드 수정과 기기 프리셋, 백업을 제공한다.",
+      "whyNow": "버전 업데이트 이후 재확산이 시작된 흐름입니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "7,573"
+          "value": "7,746"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "2,639"
+          "value": "2,663"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-11-15"
+          "value": "2026-11-16"
         },
         {
           "source": "GitHub",
@@ -268,28 +159,190 @@
       ]
     },
     {
-      "id": "67d5ab12f4371516a29a449d5c337111d491eed4",
-      "name": "KDE: The documentary [video]",
-      "section": "trending",
+      "id": "9d80e61d5c33dd36201e33e2ac141e4b1744b439",
+      "name": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+      "section": "discussions",
       "status": "NEW",
-      "score": 327.6,
-      "oneLiner": "KDE를 다룬 다큐멘터리 영상이다.",
+      "score": 348.0,
+      "oneLiner": "항소법원에 ALPR 검색에 영장 필요를 요구하는 소송을 제기한다는 내용.",
       "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "382p · 82c"
+          "value": "338p · 121c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50496976"
+          "url": "https://news.ycombinator.com/item?id=50503255"
         },
         {
           "label": "Source",
-          "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c"
+          "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "615d97c06582fab89b9b43dd978122f60a50cbd0",
+      "name": "Why did some Apollo missions carry a grenade launcher? (2019)",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 315.0,
+      "oneLiner": "일부 아폴로 임무에 수류탄 발사기가 실린 이유를 묻는 질문 글.",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "231p · 147c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50505271"
+        },
+        {
+          "label": "Source",
+          "url": "https://space.stackexchange.com/questions/37775"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "30edfff9bceadcba2e01c7461ec7fbed298712a9",
+      "name": "Things That Turbo Pascal Is Smaller Than (2011)",
+      "section": "trending",
+      "status": "NEW",
+      "score": 252.6,
+      "oneLiner": "Turbo Pascal이 더 작은 대상을 나열한 비교 글이다.",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "205p · 108c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50506894"
+        },
+        {
+          "label": "Source",
+          "url": "https://prog21.dadgum.com/116.html"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "a9b3b07512bf635ded9c4fbe7b6e6444ed02e46f",
+      "name": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 248.4,
+      "oneLiner": "birdbrain'이라는 표현을 반박하며 까마귀의 빠른 의사결정을 다룬 기사.",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "168p · 123c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50509023"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "4e3834d06869b48794dd1f6dde2e05612428c9c6",
+      "name": "Emacs Is My Browser",
+      "section": "trending",
+      "status": "NEW",
+      "score": 221.4,
+      "oneLiner": "Emacs를 웹 브라우저처럼 사용하는 경험과 설정을 소개하는 글.",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "179p · 95c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50507553"
+        },
+        {
+          "label": "Source",
+          "url": "https://joshblais.com/blog/emacs-as-my-browser/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "a87fac1cefc1f137eb3c63d6d9dad5d1363aa67c",
+      "name": "Old Bitly Links Are Being Hijacked",
+      "section": "trending",
+      "status": "NEW",
+      "score": 199.8,
+      "oneLiner": "오래된 Bitly 링크들이 탈취되는 사례를 다룬 기사.",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "165p · 84c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50511395"
+        },
+        {
+          "label": "Source",
+          "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "aa03a5579b79b3eadedc1c3c394ffc67c68179ea",
+      "name": "A short explainer on how El Niño works [video]",
+      "section": "trending",
+      "status": "NEW",
+      "score": 196.2,
+      "oneLiner": "엘니뇨의 작동 원리를 짧게 설명하는 영상 안내.",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 개발자 경험 개선 관점에서 관심이 커지고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "175p · 76c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50509308"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.youtube.com/watch?v=7_JF3etiAv8"
         }
       ],
       "tags": [
@@ -297,302 +350,28 @@
       ]
     },
     {
-      "id": "4e0993103a518b0fcdd8f2e0d50e931cd1525254",
-      "name": "A family tree of software job titles",
+      "id": "c9576460dc2d81ba74cf37a81e9f53b0c30fe68c",
+      "name": "My favourite modern NES games",
       "section": "trending",
       "status": "NEW",
-      "score": 242.4,
-      "oneLiner": "소프트웨어 직무 명칭의 계보를 정리한 글이다.",
-      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "204p · 100c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50499038"
-        },
-        {
-          "label": "Source",
-          "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "ea179f0bab3bc567dfe933c8dab1e7242f9f3c48",
-      "name": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
-      "section": "trending",
-      "status": "NEW",
-      "score": 234.6,
-      "oneLiner": "CBC 조사 후 LinkedIn과 Monster가 1000개 이상의 가짜 구인공고를 삭제했다.",
-      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "187p · 102c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50499723"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "d22e7b0fa0d8cde1818829fd3b71ef2dc1a49061",
-      "name": "PyPI's redesigned project pages with clearer security signals are now live",
-      "section": "trending",
-      "status": "NEW",
-      "score": 231.6,
-      "oneLiner": "PyPI의 프로젝트 페이지가 보안 신호를 더 명확히 하도록 재설계되어 공개되었다.",
+      "score": 168.0,
+      "oneLiner": "현대에 출시된 NES 게임 중 개인적 즐겨찾기 목록을 소개한 글.",
       "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "202p · 92c"
+          "value": "200p · 40c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50497892"
+          "url": "https://news.ycombinator.com/item?id=50503465"
         },
         {
           "label": "Source",
-          "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/"
-        }
-      ],
-      "tags": [
-        "security"
-      ]
-    },
-    {
-      "id": "e33ddba285c715d230daeb6cc5d93ea2df2d6d15",
-      "name": "Nvidia deliberately kept GPU prices high through circular financing deals",
-      "section": "trending",
-      "status": "NEW",
-      "score": 203.4,
-      "oneLiner": "엔비디아가 환형 자금 거래로 GPU 가격을 고의로 높게 유지했다는 주장.",
-      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "163p · 88c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50501631"
-        },
-        {
-          "label": "Source",
-          "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "569f30bc33526c099435e05c0afcb892394fb5b5",
-      "name": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
-      "section": "trending",
-      "status": "NEW",
-      "score": 190.2,
-      "oneLiner": "엔비디아 이사가 젠슨 황 스캔들 몇 주 전에 거의 10억 달러어치 주식을 매도했다.",
-      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "215p · 51c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50492993"
-        },
-        {
-          "label": "Source",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "be42f7e6a8fa859cce650bee4a26b0270a74281b",
-      "name": "Elephants found to be increasingly isolated leading to fractured social networks",
-      "section": "trending",
-      "status": "NEW",
-      "score": 162.6,
-      "oneLiner": "코끼리들이 점점 고립되어 사회적 네트워크가 단절되고 있다는 연구 결과.",
-      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "185p · 43c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50492860"
-        },
-        {
-          "label": "Source",
-          "url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "ee3252aa3d4110656eb05d0ecf500b3cfb180f1c",
-      "name": "jhaizhou-ops/S2Arm",
-      "section": "releases",
-      "status": "ONGOING",
-      "score": 150.98,
-      "oneLiner": "스위치 게임 코드를 ARM64로 재작성해 iPhone·iPad·Mac에서 네이티브로 실행한다.",
-      "whyNow": "최근 릴리즈가 나오며 실사용 공유가 빠르게 늘고 있습니다. 운영/비용 관점 해석이 갈리며 논의가 이어지고 있습니다.",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "metric": "stars",
-          "value": "3,001"
-        },
-        {
-          "source": "GitHub",
-          "metric": "forks",
-          "value": "547"
-        },
-        {
-          "source": "GitHub",
-          "metric": "updated",
-          "value": "2026-11-15"
-        },
-        {
-          "source": "GitHub",
-          "metric": "release",
-          "value": "v0.3.10"
-        }
-      ],
-      "links": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/jhaizhou-ops/S2Arm"
-        },
-        {
-          "label": "Release",
-          "url": "https://github.com/jhaizhou-ops/S2Arm/releases/tag/v0.3.10"
-        }
-      ],
-      "tags": [
-        "infra"
-      ]
-    },
-    {
-      "id": "c5e03f5c029071e80b31c59c403451721be7afc3",
-      "name": "Vaibhaav-Tiwari/deepseek-v3-jax",
-      "section": "releases",
-      "status": "NEW",
-      "score": 137.12,
-      "oneLiner": "DeepSeek V3를 순수 JAX 190줄로 구현한 저장소이다.",
-      "whyNow": "릴리즈 직후라 적용/마이그레이션 경험이 모이고 있습니다.",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "metric": "stars",
-          "value": "102"
-        },
-        {
-          "source": "GitHub",
-          "metric": "forks",
-          "value": "12"
-        },
-        {
-          "source": "GitHub",
-          "metric": "updated",
-          "value": "2026-11-15"
-        },
-        {
-          "source": "GitHub",
-          "metric": "release",
-          "value": "v1.0"
-        },
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "172p · 8c"
-        }
-      ],
-      "links": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax"
-        },
-        {
-          "label": "Release",
-          "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax/releases/tag/v1.0"
-        },
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50497589"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "d835949a0ad661deaa540aaebc7a69fe46b4dc92",
-      "name": "Kianuni/Erosion-CN",
-      "section": "releases",
-      "status": "ONGOING",
-      "score": 110.8,
-      "oneLiner": "iOS 및 iPadOS 설정과 MobileGestalt 연구 도구 모음의 간체중문 보안 강화판이다.",
-      "whyNow": "업데이트가 트리거가 되어 레퍼런스가 모이는 구간입니다.",
-      "evidence": [
-        {
-          "source": "GitHub",
-          "metric": "stars",
-          "value": "2,059"
-        },
-        {
-          "source": "GitHub",
-          "metric": "forks",
-          "value": "422"
-        },
-        {
-          "source": "GitHub",
-          "metric": "updated",
-          "value": "2026-11-15"
-        },
-        {
-          "source": "GitHub",
-          "metric": "release",
-          "value": "v0.9.1"
-        }
-      ],
-      "links": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/Kianuni/Erosion-CN"
-        },
-        {
-          "label": "Release",
-          "url": "https://github.com/Kianuni/Erosion-CN/releases/tag/v0.9.1"
+          "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/"
         }
       ],
       "tags": []
@@ -601,25 +380,25 @@
       "id": "62c7b1de06936bde83b876719b988e5aa18d8ee4",
       "name": "deepseek-ai/chat-demo",
       "section": "releases",
-      "status": "NEW",
-      "score": 96.58,
-      "oneLiner": "채팅 데모 프로젝트이다.",
-      "whyNow": "업데이트가 트리거가 되어 레퍼런스가 모이는 구간입니다.",
+      "status": "ONGOING",
+      "score": 154.78,
+      "oneLiner": "Chat 데모를 제공하는 deepseek-ai의 예제 저장소.",
+      "whyNow": "최근 릴리즈가 나오며 실사용 공유가 빠르게 늘고 있습니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "1,768"
+          "value": "3,069"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "293"
+          "value": "601"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-11-15"
+          "value": "2026-11-16"
         },
         {
           "source": "GitHub",
@@ -640,28 +419,126 @@
       "tags": []
     },
     {
-      "id": "935f39d71a2a2403b273de0f111741b546e347ee",
-      "name": "apex-compute/ANR",
+      "id": "cff1071c477b2c2ad16e291d79233829235eb098",
+      "name": "Understanding Positional Embeddings in Modern LLMs",
+      "section": "trending",
+      "status": "NEW",
+      "score": 154.2,
+      "oneLiner": "현대 대형언어모델의 위치 임베딩 개념을 설명하는 글.",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "203p · 27c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50506376"
+        },
+        {
+          "label": "Source",
+          "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings"
+        }
+      ],
+      "tags": [
+        "vector db"
+      ]
+    },
+    {
+      "id": "f968cd9beb7e93922b45a74eccda42fbf0a01f8e",
+      "name": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "section": "trending",
+      "status": "NEW",
+      "score": 144.6,
+      "oneLiner": "Protomaps로 지도 타일을 손쉽고 저렴하게 자체 호스팅하는 방법을 소개한다.",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "163p · 39c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50509837"
+        },
+        {
+          "label": "Source",
+          "url": "https://bruceroettgers.eu/blog/protomaps/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "d835949a0ad661deaa540aaebc7a69fe46b4dc92",
+      "name": "Kianuni/Erosion-CN",
       "section": "releases",
       "status": "ONGOING",
-      "score": 94.34,
-      "oneLiner": "Apex Compute의 신경 렌더링 프로젝트 ANR이다.",
-      "whyNow": "버전 업데이트 이후 재확산이 시작된 흐름입니다.",
+      "score": 113.98,
+      "oneLiner": "iOS·iPadOS 시스템 설정과 MobileGestalt 연구 도구를 제공하는 저장소.",
+      "whyNow": "릴리즈 직후라 적용/마이그레이션 경험이 모이고 있습니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "1,844"
+          "value": "2,133"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "29"
+          "value": "433"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-11-15"
+          "value": "2026-11-16"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v0.9.1"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/Kianuni/Erosion-CN"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/Kianuni/Erosion-CN/releases/tag/v0.9.1"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "935f39d71a2a2403b273de0f111741b546e347ee",
+      "name": "apex-compute/ANR",
+      "section": "releases",
+      "status": "ONGOING",
+      "score": 109.68,
+      "oneLiner": "Apex Compute가 공개한 Apex Neural Rendering(ANR) 프로젝트 저장소.",
+      "whyNow": "업데이트가 트리거가 되어 레퍼런스가 모이는 구간입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,221"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "42"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-16"
         },
         {
           "source": "GitHub",
@@ -680,6 +557,94 @@
         }
       ],
       "tags": []
+    },
+    {
+      "id": "1886cb7fa1a349e75808abf6fa458a6738da20ec",
+      "name": "FrigadeHQ/yogurt",
+      "section": "releases",
+      "status": "NEW",
+      "score": 88.14,
+      "oneLiner": "로컬에 저장되는 개인용 AI 회의 노트 기능을 제공하는 오픈소스 프로젝트.",
+      "whyNow": "버전 업데이트 이후 재확산이 시작된 흐름입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "1,657"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "93"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-16"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v0.3.24"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/FrigadeHQ/yogurt"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/FrigadeHQ/yogurt/releases/tag/v0.3.24"
+        }
+      ],
+      "tags": [
+        "local-first"
+      ]
+    },
+    {
+      "id": "619d599a68c19293adbb2711d28c0003cbe3ac4d",
+      "name": "agentes-chat/agentes-chat",
+      "section": "releases",
+      "status": "NEW",
+      "score": 86.2,
+      "oneLiner": "팀과 AI 에이전트가 채널과 DM에서 함께 작동하는 오픈소스 셀프호스팅 Slack 대안.",
+      "whyNow": "버전 업데이트 이후 재확산이 시작된 흐름입니다. 워크플로우 자동화 관점에서 재평가가 진행 중입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "1,521"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "268"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-16"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "desktop-v0.8.10"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/agentes-chat/agentes-chat"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/agentes-chat/agentes-chat/releases/tag/desktop-v0.8.10"
+        }
+      ],
+      "tags": [
+        "agent tooling"
+      ]
     }
   ]
 }
