@@ -1,79 +1,61 @@
 {
   "range": {
-    "from": "2026-11-10",
-    "to": "2026-11-16"
+    "from": "2026-11-11",
+    "to": "2026-11-17"
   },
   "kpis": {
     "collected": 22,
     "deduped": 22,
-    "uniqueTopics": 9
+    "uniqueTopics": 10
   },
   "topTopics": [
+    {
+      "name": "Product",
+      "count": 17
+    },
     {
       "name": "Tooling",
       "count": 16
     },
     {
-      "name": "Product",
-      "count": 14
+      "name": "Research",
+      "count": 10
     },
     {
       "name": "Models",
-      "count": 12
-    },
-    {
-      "name": "Research",
       "count": 9
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-11-10",
-      "dayOfWeek": "Tue",
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Product",
+      "count": 2
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
       "topic": "Tooling",
       "count": 1
     },
     {
-      "date": "2026-11-10",
-      "dayOfWeek": "Tue",
-      "topic": "Product",
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Research",
       "count": 0
     },
     {
-      "date": "2026-11-10",
-      "dayOfWeek": "Tue",
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
       "topic": "Models",
       "count": 1
     },
     {
-      "date": "2026-11-10",
-      "dayOfWeek": "Tue",
-      "topic": "Research",
-      "count": 1
-    },
-    {
-      "date": "2026-11-11",
-      "dayOfWeek": "Wed",
-      "topic": "Tooling",
-      "count": 3
-    },
-    {
-      "date": "2026-11-11",
-      "dayOfWeek": "Wed",
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
       "topic": "Product",
-      "count": 4
-    },
-    {
-      "date": "2026-11-11",
-      "dayOfWeek": "Wed",
-      "topic": "Models",
-      "count": 4
-    },
-    {
-      "date": "2026-11-11",
-      "dayOfWeek": "Wed",
-      "topic": "Research",
-      "count": 1
+      "count": 3
     },
     {
       "date": "2026-11-12",
@@ -84,8 +66,8 @@
     {
       "date": "2026-11-12",
       "dayOfWeek": "Thu",
-      "topic": "Product",
-      "count": 3
+      "topic": "Research",
+      "count": 1
     },
     {
       "date": "2026-11-12",
@@ -94,18 +76,6 @@
       "count": 2
     },
     {
-      "date": "2026-11-12",
-      "dayOfWeek": "Thu",
-      "topic": "Research",
-      "count": 1
-    },
-    {
-      "date": "2026-11-13",
-      "dayOfWeek": "Fri",
-      "topic": "Tooling",
-      "count": 4
-    },
-    {
       "date": "2026-11-13",
       "dayOfWeek": "Fri",
       "topic": "Product",
@@ -114,8 +84,8 @@
     {
       "date": "2026-11-13",
       "dayOfWeek": "Fri",
-      "topic": "Models",
-      "count": 3
+      "topic": "Tooling",
+      "count": 4
     },
     {
       "date": "2026-11-13",
@@ -124,9 +94,9 @@
       "count": 2
     },
     {
-      "date": "2026-11-14",
-      "dayOfWeek": "Sat",
-      "topic": "Tooling",
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Models",
       "count": 3
     },
     {
@@ -138,8 +108,8 @@
     {
       "date": "2026-11-14",
       "dayOfWeek": "Sat",
-      "topic": "Models",
-      "count": 1
+      "topic": "Tooling",
+      "count": 3
     },
     {
       "date": "2026-11-14",
@@ -148,10 +118,10 @@
       "count": 2
     },
     {
-      "date": "2026-11-15",
-      "dayOfWeek": "Sun",
-      "topic": "Tooling",
-      "count": 0
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Models",
+      "count": 1
     },
     {
       "date": "2026-11-15",
@@ -162,7 +132,7 @@
     {
       "date": "2026-11-15",
       "dayOfWeek": "Sun",
-      "topic": "Models",
+      "topic": "Tooling",
       "count": 0
     },
     {
@@ -172,10 +142,10 @@
       "count": 0
     },
     {
-      "date": "2026-11-16",
-      "dayOfWeek": "Mon",
-      "topic": "Tooling",
-      "count": 2
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Models",
+      "count": 0
     },
     {
       "date": "2026-11-16",
@@ -186,84 +156,114 @@
     {
       "date": "2026-11-16",
       "dayOfWeek": "Mon",
-      "topic": "Models",
-      "count": 1
+      "topic": "Tooling",
+      "count": 2
     },
     {
       "date": "2026-11-16",
       "dayOfWeek": "Mon",
       "topic": "Research",
       "count": 2
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Models",
+      "count": 1
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Product",
+      "count": 5
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Tooling",
+      "count": 3
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Research",
+      "count": 3
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Models",
+      "count": 1
     }
   ],
   "topIssues": [
     {
-      "id": 1,
-      "status": "ONGOING",
-      "title": "표준모형 격자 정의 시도와 GPT-6 Astra 활용",
-      "summary": "입자물리 표준모형을 비섭동론적으로 격자 위에 정의하려는 새로운 이론적 틀을 제시했다. 복잡한 아이디어를 엄밀한 수학적 증명으로 옮기는 과정에서 GPT-6 Astra가 핵심 도구로 활용되며, 대형 언어모델이 최첨단 이론물리 연구에 직접 기여하는 사례를 보여준다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "OpenAI Blog",
-          "title": "A step toward defining the Standard Model on a lattice",
-          "url": "https://openai.com/index/step-toward-defining-the-standard-model"
-        }
-      ]
-    },
-    {
-      "id": 2,
+      "id": "ai-1",
       "status": "NEW",
-      "title": "NVIDIA cuBLAS FP64 알고리즘으로 과학 시뮬레이션 가속",
-      "summary": "NVIDIA가 cuBLAS에 새로운 FP64 배정밀도 행렬 연산 알고리즘을 도입해 과학·공학 시뮬레이션 성능을 크게 향상시켰다. 분자 모델링, 재료 과학처럼 고정밀 밀집 행렬 연산이 많은 워크로드에서 실행 시간이 단축되어 HPC·과학 AI 워크로드 비용 절감과 규모 확장이 가능해진다.",
+      "title": "GPU 기반 분자 동역학 시뮬레이션 가속을 위한 NVIDIA cuPotential",
+      "summary": "NVIDIA는 cuPotential을 통해 분자 동역학 시뮬레이션용 포텐셜 계산을 GPU 프리미티브로 제공해 정확도와 성능을 동시에 높이고, 대규모·장시간 과학 시뮬레이션을 보다 효율적으로 수행할 수 있는 인프라를 제시했다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "NVIDIA Developer Blog",
-          "title": "Faster Scientific Simulations with New FP64 Algorithms in NVIDIA cuBLAS",
-          "url": "https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas/"
+          "title": "Accelerate Molecular Dynamics Simulations with Accurate, Flexible Primitives Using NVIDIA cuPotential",
+          "url": "https://developer.nvidia.com/blog/accelerate-molecular-dynamics-simulations-with-accurate-flexible-primitives-using-nvidia-cupotential/"
         }
       ]
     },
     {
-      "id": 3,
+      "id": "ai-2",
       "status": "NEW",
-      "title": "Jetson AGX Orin에서 Python 기반 네이티브 DLA 추론",
-      "summary": "Jetson AGX Orin에서 cuDLA를 사용해 Python으로 직접 DLA를 호출하는 방법이 정리되었다. 제한된 전력·연산 환경에서 여러 신경망을 병렬·효율적으로 돌리는 예제와 최적화 기법을 제공해, 엣지·로보틱스용 AI 추론 배포를 단순화한다.",
+      "title": "코딩 에이전트 추론 효율 최적화하는 Microsoft TokenEconomizer",
+      "summary": "Microsoft는 과거 코딩 에이전트 세션을 재활용해 불필요한 토큰 사용과 시간을 줄이는 오픈소스 플러그인 TokenEconomizer를 공개했으며, 축적된 경험을 기반으로 추론 경로를 최적화하면서도 과제 성공률을 유지하는 방향의 LLM 에이전트 연구를 강화하고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "NVIDIA Developer Blog",
-          "title": "Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA",
-          "url": "https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla/"
+          "source": "Microsoft Research Blog",
+          "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
+          "url": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/"
         }
       ]
     },
     {
-      "id": 4,
-      "status": "NEW",
-      "title": "ChatGPT Wallet로 에이전트 기반 결제·구매 자동화",
-      "summary": "ChatGPT Wallet 도입으로 ChatGPT Work, Codex, dots 에이전트가 사용자의 명시적 승인 하에 직접 구매를 완료할 수 있게 됐다. 기존 카드 보호 기능과 결합해, AI 에이전트가 온라인 결제·구매 업무를 안전하게 자동화하는 기반을 마련한다.",
+      "id": "ai-3",
+      "status": "ONGOING",
+      "title": "전 세계 연구자를 위한 OpenAI 학술용 ChatGPT 무상 제공 확대",
+      "summary": "OpenAI는 ChatGPT for Academic Researchers 프로그램을 확대해 20만 명 규모의 글로벌 연구자 커뮤니티에 최신 모델을 무상 제공하며, 실험 설계·데이터 분석·논문 작성 등 학술 연구 전 주기에 걸친 AI 활용을 장기적으로 지원하고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "OpenAI Blog",
-          "title": "Introducing ChatGPT Wallet",
-          "url": "https://openai.com/index/introducing-chatgpt-wallet"
+          "title": "Broadening access to AI for scientists",
+          "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers"
         }
       ]
     },
     {
-      "id": 5,
+      "id": "ai-4",
       "status": "ONGOING",
-      "title": "LLMON: LLM 네이티브 마크업과 Granite 모델 통합",
-      "summary": "LLMON은 LLM에 최적화된 마크업 언어로, 구조화된 지시와 툴·API 연동을 정교하게 표현하도록 설계됐다. Hugging Face가 IBM Granite 4.1 3B·8B 모델에 LLMON을 통합해 즉시 활용 가능하게 하며, 에이전트 오케스트레이션과 툴 사용 안정성을 높이는 방향으로 진화가 이어지고 있다.",
+      "title": "온라인 아동 성착취 대응을 위한 OpenAI의 안전 도구와 파트너십",
+      "summary": "OpenAI는 온라인 아동성착취 방지를 위해 탐지·예방·대응 기능을 포함한 새로운 안전 도구와 실무 지침을 공개하고, 관련 기관과의 파트너십을 확대해 자사 모델과 제품 전반에서 아동 보호 안전 기준을 강화하고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "Hugging Face Blog",
-          "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-          "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
+          "source": "OpenAI Blog",
+          "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+          "url": "https://openai.com/index/strengthening-online-child-safety"
+        }
+      ]
+    },
+    {
+      "id": "ai-5",
+      "status": "NEW",
+      "title": "NVIDIA Vera Rubin NVL72, MLPerf v6.1에서 대규모 학습 성능 2배 달성",
+      "summary": "NVIDIA Vera Rubin NVL72 시스템이 MLPerf Training v6.1 벤치마크에서 Blackwell Ultra 대비 최대 2배 성능을 기록하며, 초대형 모델 학습 시간 단축과 반복 주기 개선을 통해 AI 인프라 효율을 크게 높일 수 있음을 입증했다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "NVIDIA Vera Rubin NVL72 Achieves up to 2x Blackwell Ultra Performance in MLPerf Training v6.1",
+          "url": "https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-achieves-up-to-2x-blackwell-ultra-performance-in-mlperf-training-v6-1/"
         }
       ]
     }

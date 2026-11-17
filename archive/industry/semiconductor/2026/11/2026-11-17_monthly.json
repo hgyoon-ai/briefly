@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-10-19",
+    "to": "2026-11-17"
+  },
+  "kpis": {
+    "collected": 53,
+    "deduped": 53,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 30,
+      "Competition": 24,
+      "Manufacturing": 18,
+      "Demand": 14,
+      "Investment": 14,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/19-10/25)",
+      "topicCounts": {
+        "Roadmap": 14,
+        "Competition": 12,
+        "Manufacturing": 7,
+        "Demand": 8,
+        "Investment": 1
+      }
+    },
+    {
+      "week": "Week 2 (10/26-11/01)",
+      "topicCounts": {
+        "Roadmap": 8,
+        "Competition": 5,
+        "Manufacturing": 9,
+        "Demand": 5,
+        "Investment": 7
+      }
+    },
+    {
+      "week": "Week 3 (11/02-11/08)",
+      "topicCounts": {
+        "Roadmap": 8,
+        "Competition": 3,
+        "Manufacturing": 3,
+        "Demand": 2,
+        "Investment": 6
+      }
+    },
+    {
+      "week": "Week 4 (11/09-11/15)",
+      "topicCounts": {
+        "Roadmap": 11,
+        "Competition": 11,
+        "Manufacturing": 6,
+        "Demand": 5,
+        "Investment": 5
+      }
+    },
+    {
+      "week": "Week 5 (11/16-11/17)",
+      "topicCounts": {
+        "Roadmap": 3,
+        "Competition": 4,
+        "Manufacturing": 3,
+        "Demand": 1,
+        "Investment": 2
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "AI 전환기: 물리 지능·메모리 중심으로 재편되는 반도체 성능 기준",
+      "summary": "추론·에이전트형 AI 확대로 연산력보다 데이터 저장 위치, 이동 속도, 메모리 처리 효율이 핵심 경쟁력으로 부상하고 있다. 메모리·스토리지 아키텍처 혁신이 물리 지능 구현과 AI 시스템 차별화의 주요 축으로 재정의되는 흐름이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "SK hynix Newsroom",
+          "title": "[AI Ecosystem] Completing AI: Physical intelligence and the role of memory",
+          "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep4-5/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "팹에서 플랫폼으로: 전자·반도체 업체의 AI 스택 상향 이동",
+      "summary": "electronica 2026에서 칩메이커들이 단순 칩 공급을 넘어 AI 플랫폼·솔루션 영역까지 사업을 확장하는 경향이 뚜렷해졌다. 데이터센터·엣지·로보틱스 수요가 전력 설계와 실리콘 아키텍처 요구사항을 재편하며, 물리 AI를 겨냥한 통합 스택 경쟁이 심화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "electronica 2026: Chipmakers Move Up the Stack as Data Centers and Physical AI Take Center Stage",
+          "url": "https://www.eetimes.com/electronica-2026-chipmakers-move-up-the-stack-as-data-centers-and-physical-ai-take-center-stage/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "AI 전력 인프라 쟁탈전: 그리드 용량, 비용·리스크 분담을 둘러싼 정책·투자 이슈",
+      "summary": "대규모 AI 클러스터 확대로 전력망 용량이 핵심 병목이 되면서, 누가 전력을 우선 확보하고 비용·리스크를 어떻게 나눌지가 산업·정책의 주요 쟁점으로 떠오르고 있다. 미국과 중국은 각기 다른 규제·투자 모델을 택하며 AI 데이터센터 전력 인프라에서 상반된 강점과 취약성을 드러낸다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "The AI Power Bill: Who Gets Grid Capacity, and Who Bears the Risk?",
+          "url": "https://www.eetimes.com/the-ai-power-bill-who-gets-grid-capacity-and-who-bears-the-risk/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "AI 메모리 초호황: 삼성전자 사상급 실적이 보여주는 수요 구조 변화",
+      "summary": "삼성전자가 분기 영업이익 800억 달러를 기록하며 AI용 메모리 수요가 실적을 견인하고 있다. HBM 등 고부가 메모리 집중, 데이터센터·AI 서버 투자 확대가 메모리 슈퍼사이클을 재점화하고 있으며, 설비·공정 투자를 둘러싼 전략적 선택이 중요해지는 국면이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Samsung Electronics Posts $80B Operating Profit on AI Memory Demand",
+          "url": "https://www.eetimes.com/samsung-electronics-posts-80b-operating-profit-on-ai-memory-demand/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "SHIFTING",
+      "title": "고밀도 패키징 진화: 실리콘 마더보드로 가속되는 시스템 소형화",
+      "summary": "Nisshinbo의 실리콘 마더보드는 기판 양면에 IC와 수동소자를 집적해 최대 90%의 장착 면적 절감을 가능하게 한다. AI·모바일·엣지 단말의 고성능·소형화를 뒷받침하는 차세대 패키징·기판 기술로, 기존 PCB·패키징 생태계와의 경쟁·협업 구도가 변화하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Silicon Motherboard Enables Double-Sided Integration of ICs and Passive Components",
+          "url": "https://www.eetimes.com/silicon-motherboard-enables-double-sided-integration-of-ics-and-passive-components/"
+        }
+      ]
+    }
+  ]
+}

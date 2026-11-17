@@ -1,0 +1,148 @@
+{
+  "range": {
+    "from": "2026-10-19",
+    "to": "2026-11-17"
+  },
+  "kpis": {
+    "collected": 103,
+    "deduped": 103,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "Market": 32,
+      "Supply": 24,
+      "Policy": 17,
+      "UrbanRenewal": 14,
+      "Regulation": 13,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/19-10/25)",
+      "topicCounts": {
+        "Market": 21,
+        "Supply": 13,
+        "Policy": 8,
+        "UrbanRenewal": 5,
+        "Regulation": 5
+      }
+    },
+    {
+      "week": "Week 2 (10/26-11/01)",
+      "topicCounts": {
+        "Market": 14,
+        "Supply": 13,
+        "Policy": 7,
+        "UrbanRenewal": 8,
+        "Regulation": 3
+      }
+    },
+    {
+      "week": "Week 3 (11/02-11/08)",
+      "topicCounts": {
+        "Market": 17,
+        "Supply": 11,
+        "Policy": 6,
+        "UrbanRenewal": 6,
+        "Regulation": 8
+      }
+    },
+    {
+      "week": "Week 4 (11/09-11/15)",
+      "topicCounts": {
+        "Market": 16,
+        "Supply": 11,
+        "Policy": 9,
+        "UrbanRenewal": 9,
+        "Regulation": 8
+      }
+    },
+    {
+      "week": "Week 5 (11/16-11/17)",
+      "topicCounts": {
+        "Market": 3,
+        "Supply": 2,
+        "Policy": 2,
+        "UrbanRenewal": 2,
+        "Regulation": 3
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "공동주택 리모델링 규제 완화: 주민 동의율 70%로 인하",
+      "summary": "국토교통부가 공동주택 리모델링 추진 시 필요한 주민 동의율 기준을 기존 75%에서 70%로 낮추고, 수직증축 안전성 검토 전문기관을 추가하며 거주의무 예외 범위도 넓혀 리모델링 활성화를 유도하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "리모델링 주민 동의율 75%→70%로 낮춘다…내년부터 문턱 완화 [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10939730"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "고가 아파트 양도세 부담 급등: 매도 시점에 따른 세금 격차 확대",
+      "summary": "압구정 등 고가 아파트의 양도소득세가 매도 시점과 보유·거주 조건에 따라 수십억 원까지 차이 나는 사례가 나타나면서, 보유세·양도세 체계와 시장 타이밍에 대한 고가 주택 보유자의 세금 리스크가 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "압구정 아파트 양도세 34억에서 71억으로…매도 시점이 가른 세금",
+          "url": "https://www.hankyung.com/article/202611095154i"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "서울 주택 매매·전세 심리 동반 위축",
+      "summary": "서울 집값 급등과 대출 부담 확대 등으로 실수요자와 전세 수요 모두 심리가 얼어붙으며 거래가 둔화되고 있어, 가격 피로 누적과 거래 절벽이 동시 진행되는 모습이 나타나고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "치솟는 가격에 부담 커졌나…서울 매매·전세심리 동반위축",
+          "url": "https://www.hankyung.com/article/2026111699711"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "서리풀1 공공주택지구: 그린벨트 해제와 임대 중심 공급 구조",
+      "summary": "서울 서초구 서리풀1 공공주택지구 조성을 위해 그린벨트를 해제하면서 전체 물량의 약 79%를 임대주택으로 공급하고 분양주택은 약 20%에 그치는 계획이 추진돼, 강남권 공공택지 공급이 임대 중심으로 재편되고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "서리풀 그린벨트 풀지만 … 분양주택은 20%뿐",
+          "url": "https://www.mk.co.kr/news/realestate/12210113"
+        },
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "‘10채 중 8채 임대’ 강남 그린벨트 풀어 짓는 서리풀1 계획안 [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10938201"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "LH, 민간참여 공공주택사업 확대와 사업기간 단축 유도",
+      "summary": "LH가 남양주왕숙 등 10개 블록에서 약 9000호 규모의 민간참여 공공주택사업 공모를 추진하며 사업기간 단축 평가 항목을 도입해, 공급 속도 제고와 민간 참여 확대를 동시에 노리고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "공급 속도 내는 LH…사업기간 단축 평가 신설, 하반기 9000호 공모",
+          "url": "https://www.mk.co.kr/news/realestate/12209642"
+        }
+      ]
+    }
+  ]
+}

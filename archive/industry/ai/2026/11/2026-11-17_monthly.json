@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-10-19",
+    "to": "2026-11-17"
+  },
+  "kpis": {
+    "collected": 70,
+    "deduped": 70,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "Tooling": 25,
+      "Product": 24,
+      "Models": 18,
+      "Research": 17,
+      "Infra": 16,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/19-10/25)",
+      "topicCounts": {
+        "Tooling": 10,
+        "Product": 10,
+        "Models": 7,
+        "Research": 8,
+        "Infra": 5
+      }
+    },
+    {
+      "week": "Week 2 (10/26-11/01)",
+      "topicCounts": {
+        "Tooling": 8,
+        "Product": 8,
+        "Models": 8,
+        "Research": 7,
+        "Infra": 5
+      }
+    },
+    {
+      "week": "Week 3 (11/02-11/08)",
+      "topicCounts": {
+        "Tooling": 9,
+        "Product": 6,
+        "Models": 4,
+        "Research": 4,
+        "Infra": 9
+      }
+    },
+    {
+      "week": "Week 4 (11/09-11/15)",
+      "topicCounts": {
+        "Tooling": 14,
+        "Product": 13,
+        "Models": 11,
+        "Research": 7,
+        "Infra": 9
+      }
+    },
+    {
+      "week": "Week 5 (11/16-11/17)",
+      "topicCounts": {
+        "Tooling": 3,
+        "Product": 5,
+        "Models": 1,
+        "Research": 3,
+        "Infra": 2
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "ai-1",
+      "status": "NEW",
+      "title": "GPU 기반 분자 동역학 시뮬레이션 가속을 위한 NVIDIA cuPotential 출시",
+      "summary": "NVIDIA는 분자 동역학(MD) 시뮬레이션을 GPU에서 더욱 빠르고 정확하게 수행하기 위한 포텐셜 프리미티브 라이브러리 cuPotential을 공개했다. 연구자와 엔지니어는 이를 통해 대규모·장시간 시뮬레이션을 고정밀로 실행하면서도 계산 비용을 줄일 수 있어, 신약 개발·재료 설계 등 과학 연구용 AI/시뮬레이션 워크로드에 직접적인 성능 향상을 기대할 수 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Accelerate Molecular Dynamics Simulations with Accurate, Flexible Primitives Using NVIDIA cuPotential",
+          "url": "https://developer.nvidia.com/blog/accelerate-molecular-dynamics-simulations-with-accurate-flexible-primitives-using-nvidia-cupotential/"
+        }
+      ]
+    },
+    {
+      "id": "ai-2",
+      "status": "NEW",
+      "title": "TokenEconomizer로 코딩 에이전트 토큰 사용 최적화",
+      "summary": "Microsoft Research는 과거 세션 데이터를 재활용해 불필요한 토큰 사용과 시간을 줄이는 코딩 에이전트용 오픈소스 플러그인 TokenEconomizer를 발표했다. 이전 문제 해결 전략을 학습해 추론 과정을 단축하면서도 성공률을 유지하는 접근으로, LLM 기반 코드 어시스턴트의 운영비 절감과 응답 지연 감소에 실질적인 이점을 제공한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Microsoft Research Blog",
+          "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
+          "url": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/"
+        }
+      ]
+    },
+    {
+      "id": "ai-3",
+      "status": "ONGOING",
+      "title": "ChatGPT for Academic Researchers 확대를 통한 연구자 대상 AI 접근성 강화",
+      "summary": "OpenAI는 ChatGPT for Academic Researchers 프로그램을 전 세계 20만 명 규모로 확장해, 실험 설계·데이터 분석·논문 작성 등 연구 전주기에 고성능 모델을 무상 제공한다. 이를 통해 개별 연구기관의 예산 제약과 상관없이 최신 LLM을 활용한 생산성 향상을 도모하며, 과학·인문사회 전 분야에서 AI 보편화를 가속하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "Broadening access to AI for scientists",
+          "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers"
+        }
+      ]
+    },
+    {
+      "id": "ai-4",
+      "status": "ONGOING",
+      "title": "온라인 아동 성착취 대응을 위한 OpenAI의 안전 도구·가이드 강화",
+      "summary": "OpenAI는 온라인 아동 성착취(CSA) 탐지·예방·대응을 지원하는 새로운 도구와 운영 가이드를 공개하고, 관련 기관과의 파트너십을 확장했다. 콘텐츠 식별·신고 워크플로를 지원하는 기술과 실무 지침을 함께 제공해, 고성능 생성형 AI가 아동 안전을 해치지 않도록 하는 규범·기술 양측의 방어선을 강화하는 흐름이 이어지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+          "url": "https://openai.com/index/strengthening-online-child-safety"
+        }
+      ]
+    },
+    {
+      "id": "ai-5",
+      "status": "NEW",
+      "title": "NVIDIA Vera Rubin NVL72, MLPerf v6.1에서 최대 2배 Blackwell Ultra 학습 성능 달성",
+      "summary": "NVIDIA는 Vera Rubin NVL72 시스템이 MLPerf Training v6.1 벤치마크에서 Blackwell Ultra 대비 최대 2배의 성능을 기록했다고 발표했다. 이는 초거대 모델 학습 시간 단축과 실험 반복 주기 가속을 의미하며, 차세대 AI 인프라가 지원할 수 있는 모델 규모·복잡도의 상향과 클라우드·온프레미스 학습 환경 경쟁 구도를 재편할 수 있는 지표로 해석된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "NVIDIA Vera Rubin NVL72 Achieves up to 2x Blackwell Ultra Performance in MLPerf Training v6.1",
+          "url": "https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-achieves-up-to-2x-blackwell-ultra-performance-in-mlperf-training-v6-1/"
+        }
+      ]
+    }
+  ]
+}

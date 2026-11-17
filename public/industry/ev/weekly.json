@@ -1,12 +1,12 @@
 {
   "range": {
-    "from": "2026-11-10",
-    "to": "2026-11-16"
+    "from": "2026-11-11",
+    "to": "2026-11-17"
   },
   "kpis": {
     "collected": 12,
     "deduped": 12,
-    "uniqueTopics": 7
+    "uniqueTopics": 6
   },
   "topTopics": [
     {
@@ -18,8 +18,8 @@
       "count": 10
     },
     {
-      "name": "Demand",
-      "count": 7
+      "name": "Policy",
+      "count": 6
     },
     {
       "name": "Investment",
@@ -28,52 +28,28 @@
   ],
   "topicTrend": [
     {
-      "date": "2026-11-10",
-      "dayOfWeek": "Tue",
-      "topic": "Roadmap",
-      "count": 0
-    },
-    {
-      "date": "2026-11-10",
-      "dayOfWeek": "Tue",
-      "topic": "Competition",
-      "count": 0
-    },
-    {
-      "date": "2026-11-10",
-      "dayOfWeek": "Tue",
-      "topic": "Demand",
-      "count": 0
-    },
-    {
-      "date": "2026-11-10",
-      "dayOfWeek": "Tue",
-      "topic": "Investment",
-      "count": 0
-    },
-    {
       "date": "2026-11-11",
       "dayOfWeek": "Wed",
       "topic": "Roadmap",
-      "count": 3
-    },
-    {
-      "date": "2026-11-11",
-      "dayOfWeek": "Wed",
-      "topic": "Competition",
-      "count": 2
-    },
-    {
-      "date": "2026-11-11",
-      "dayOfWeek": "Wed",
-      "topic": "Demand",
       "count": 1
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-11",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 0
     },
     {
       "date": "2026-11-11",
       "dayOfWeek": "Wed",
       "topic": "Investment",
-      "count": 2
+      "count": 1
     },
     {
       "date": "2026-11-12",
@@ -90,8 +66,8 @@
     {
       "date": "2026-11-12",
       "dayOfWeek": "Thu",
-      "topic": "Demand",
-      "count": 2
+      "topic": "Policy",
+      "count": 1
     },
     {
       "date": "2026-11-12",
@@ -114,8 +90,8 @@
     {
       "date": "2026-11-13",
       "dayOfWeek": "Fri",
-      "topic": "Demand",
-      "count": 0
+      "topic": "Policy",
+      "count": 1
     },
     {
       "date": "2026-11-13",
@@ -138,8 +114,8 @@
     {
       "date": "2026-11-14",
       "dayOfWeek": "Sat",
-      "topic": "Demand",
-      "count": 3
+      "topic": "Policy",
+      "count": 2
     },
     {
       "date": "2026-11-14",
@@ -162,7 +138,7 @@
     {
       "date": "2026-11-15",
       "dayOfWeek": "Sun",
-      "topic": "Demand",
+      "topic": "Policy",
       "count": 0
     },
     {
@@ -186,22 +162,74 @@
     {
       "date": "2026-11-16",
       "dayOfWeek": "Mon",
-      "topic": "Demand",
-      "count": 1
+      "topic": "Policy",
+      "count": 0
     },
     {
       "date": "2026-11-16",
       "dayOfWeek": "Mon",
       "topic": "Investment",
       "count": 0
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 1
     }
   ],
   "topIssues": [
     {
-      "id": "ev-1",
+      "id": "topic-1",
+      "status": "ONGOING",
+      "title": "테슬라 사이버캡: 안전성 논란과 로보택시 상용화 리스크",
+      "summary": "출시 두 달 만에 테슬라 사이버캡이 NHTSA에 8건의 사고를 보고하며, 특히 오스틴 완전 무인 로보택시 구간에서 저속 충돌이 반복 발생해 안전성·속도 제어 알고리즘에 대한 우려가 커지고 있다. 이는 테슬라가 로보택시를 급속 상용화하는 과정에서 소프트웨어 완성도와 안전 규제 검증이 충분한지에 대한 규제기관 및 이용자 검토를 촉발하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla Cybercab has crashed 8 times, and the data shows a speed problem",
+          "url": "https://electrek.co/2026/11/16/tesla-cybercab-crashes-speed-problem/"
+        }
+      ]
+    },
+    {
+      "id": "topic-2",
+      "status": "NEW",
+      "title": "기가베를린 30억 유로 투자: 유럽 사이버캡 로보택시 대량 생산 드라이브",
+      "summary": "테슬라는 독일 기가베를린에 약 30억 유로를 투자해 연간 최대 100만 대 규모의 사이버캡 전용 공장을 신설하고, 2029년 유럽 생산 개시를 목표로 하고 있다. 이는 유럽 내 로보택시 대규모 상용화 수요를 선제적으로 겨냥한 것으로, 현지 고용·공급망 확대와 함께 유럽 규제환경에 맞춘 자율주행 사업 확장을 가속화할 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla confirms €3B Cybercab factory at Giga Berlin for up to 1M a year",
+          "url": "https://electrek.co/2026/11/16/tesla-cybercab-giga-berlin-3-billion-1-million/"
+        }
+      ]
+    },
+    {
+      "id": "topic-3",
       "status": "SHIFTING",
-      "title": "테슬라 사이버캡: 가격·일정은 공개됐지만 ‘반쪽짜리’ 출시 논란",
-      "summary": "테슬라는 2인승 사이버캡을 2만9,990달러에 초청 기반으로 주문받기 시작했고, 2026년 12월 인도를 예고했다. 다만 일부 기능이 미완성된 초기 버전이라는 지적과 함께, 2027년 전 3만달러 미만 인도라는 MKBHD와의 내기를 맞추기 위한 ‘서두른 출시’가 아니냐는 의혹이 제기되며 제품 완성도와 브랜드 신뢰도에 대한 논쟁이 커지고 있다.",
+      "title": "사이버캡 조기 출시·미완성 기능 논란: 테슬라 제품 전략 신뢰도 이슈",
+      "summary": "테슬라가 2만9,990달러 가격의 사이버캡 초청 기반 주문을 열고 2026년 12월 인도를 예고했지만, 일부 기능이 미완성된 ‘초기 베타’ 수준이라는 지적이 나오고 있다. 특히 2027년 전 3만달러 미만 인도라는 MKBHD와의 내기 일정에 맞추기 위해 서둘러 출시한다는 의혹까지 제기되며, 테슬라의 제품 완성도·출시 약속 전략 전반에 대한 시장 신뢰도 논쟁이 확산되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -212,10 +240,10 @@
       ]
     },
     {
-      "id": "ev-2",
+      "id": "topic-4",
       "status": "NEW",
-      "title": "사이버캡 ‘월 299달러 없으면 차도 못 움직인다’ 자율주행 구독 모델",
-      "summary": "테슬라 사이버캡은 차량 가격과 별도로 월 299달러 자율주행 구독을 결제하지 않으면 아예 주행이 불가능하며, 테슬라는 이 요금을 한 달 사전 통보만으로 조정할 수 있다. 일시 중단·완전 차단 권한까지 약관에 포함되어 있어, 차량 소유권 개념을 바꾸는 공격적인 서브스크립션 모델이라는 비판과 함께 향후 규제·소송 리스크 가능성도 제기된다.",
+      "title": "사이버캡 자율주행 구독 모델: 월 299달러 강제와 비즈니스·규제 파장",
+      "summary": "테슬라 사이버캡은 차량 가격과 별개로 월 299달러 ‘자율주행 구독’을 결제하지 않으면 차량이 아예 움직일 수 없도록 설계됐고, 테슬라는 사전 한 달 통보만으로 요금을 조정하거나 서비스를 중단할 권한을 계약에 명시했다. 차량 작동 자체가 구독에 종속되는 구조라 소비자 권리, 가격 투명성, 플랫폼 락인과 관련한 규제·정책 논의가 불가피할 전망이다.",
       "articleCount": 2,
       "relatedArticles": [
         {
@@ -231,44 +259,16 @@
       ]
     },
     {
-      "id": "ev-3",
+      "id": "topic-5",
       "status": "NEW",
-      "title": "테슬라-스페이스X 1.5조 달러 초대형 합병설: EV·우주·AI 수직통합 시나리오",
-      "summary": "블룸버그 보도에 따르면 테슬라와 스페이스X가 약 1.5조 달러 규모의 합병을 12월에 발표할 수 있다는 관측이 나오고 있다. 성사 시 사상 최대 규모 M&A가 되며, 일론 머스크가 EV·우주 발사체·위성통신·AI를 단일 지배구조 아래 통합해 자본 조달과 기술 공유 효율을 극대화할 수 있지만, 지배구조 공정성·규제 리스크와 기존 주주 가치 희석 우려도 동시에 부각된다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "SpaceX could announce $1.5 trillion Tesla merger in December: report",
-          "url": "https://electrek.co/2026/11/12/spacex-tesla-merger-announcement-december-report/"
-        }
-      ]
-    },
-    {
-      "id": "ev-4",
-      "status": "NEW",
-      "title": "캐나다, 5만5천기 신규 충전기로 북미 EV 인프라 경쟁 가속",
-      "summary": "캐나다 정부는 최신 예산안에서 5만5천 개 이상의 신규 전기차 충전기 구축과 전력망 현대화에 40억 캐나다달러 이상을 배정했다. 전국 충전 접근성 개선과 장거리 주행 불안 해소를 통해 EV 보급률을 끌어올리고 미국·EU와 인프라 경쟁을 본격화하려는 전략으로, 충전 사업자·완성차·배터리 공급망 전반에 중장기 수요 확대 효과가 기대된다.",
+      "title": "캐나다, 55,000기 EV 충전 인프라 예산: 북미 전기차 보급 가속",
+      "summary": "캐나다 정부가 최신 예산에서 55,000기 이상의 신규 전기차 충전기 구축과 전력망 현대화에 40억 캐나다달러 이상을 배정하며 대규모 인프라 확충에 나섰다. 장거리 주행 불안 해소와 충전 접근성 개선을 목표로 해 북미 전기차 보급 가속과 민간 충전사업, 재생에너지 연계 투자 확대를 촉진할 것으로 예상된다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
           "title": "Latest Canadian budget packs funding for 55,000 new EV chargers",
           "url": "https://electrek.co/2026/11/12/latest-canadian-budget-packs-funding-for-55000-new-ev-chargers/"
-        }
-      ]
-    },
-    {
-      "id": "ev-5",
-      "status": "ONGOING",
-      "title": "루시드, 재고 차량 위치도 못 찾던 공급망 난맥상 공개",
-      "summary": "루시드 CEO는 Q3 실적 발표에서 올여름까지 재고 차량의 정확한 위치조차 파악하지 못해, 주문 고객에게 차량을 찾고 인도하는 데 최대 2주가 걸렸고 그 과정에서 주문 취소와 판매 손실이 발생했다고 인정했다. 이는 재고·물류·IT 시스템 전반의 운영 역량 부족을 드러내며, 프리미엄 EV 스타트업의 스케일업 과정에서 품질·비용뿐 아니라 기본 운영 체계 정비가 핵심 리스크임을 보여준다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "Lucid CEO admits it ‘did not even know where cars were’ and lost orders",
-          "url": "https://electrek.co/2026/11/10/lucid-ceo-did-not-know-where-cars-were-lost-orders/"
         }
       ]
     }

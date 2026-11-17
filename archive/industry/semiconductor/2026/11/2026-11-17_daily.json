@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-17",
+  "highlights": {
+    "bullets": [
+      "핵심: AI 워크로드가 추론·에이전트형 중심으로 이동하며 메모리와 데이터 이동 최적화가 중요해졌다.",
+      "핵심: Nisshinbo가 실리콘 기판 양면에 IC와 수동소자 통합으로 장착 면적을 최대 90% 줄일 수 있다고 발표했다.",
+      "트렌드: 기술 통합과 메모리·데이터 이동 최적화가 제조·경쟁·제품 로드맵 관점에서 공통적으로 부각됐다."
+    ],
+    "topTopics": [
+      "Roadmap",
+      "Manufacturing",
+      "Competition",
+      "Demand"
+    ],
+    "stats": {
+      "collected": 8,
+      "deduped": 8
+    }
+  },
+  "cards": [
+    {
+      "id": "semiconductor_0001",
+      "tab": "semiconductor",
+      "publishedAt": "2026-11-17T08:58:24+09:00",
+      "source": "SK hynix Newsroom",
+      "title": "[AI Ecosystem] Completing AI: Physical intelligence and the role of memory",
+      "summary": [
+        "AI 워크로드가 추론 및 에이전트형 AI 중심으로 이동하면서 성능 기준이 변화하고 있다.",
+        "연산력만으로는 부족해 데이터 저장 위치, 이동 속도, 처리 효율성이 핵심 요소로 부상했다.",
+        "메모리 설계·데이터 인프라 중심의 수요와 경쟁이 강화될 전망이다."
+      ],
+      "whyItMatters": "메모리와 데이터 이동 최적화가 AI 성능·비용·제품 차별화에 직접적인 영향을 주기 때문입니다.",
+      "topics": [
+        "Manufacturing",
+        "Demand",
+        "Competition",
+        "Roadmap"
+      ],
+      "status": "SHIFTING",
+      "hash": "bcde3c4f01c94d0ac6a0c0c2f302eeefb6ab821f82673f9e5bd174b7d85c2b16",
+      "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep4-5/"
+    },
+    {
+      "id": "semiconductor_0002",
+      "tab": "semiconductor",
+      "publishedAt": "2026-11-17T02:00:00+09:00",
+      "source": "EE Times",
+      "title": "Silicon Motherboard Enables Double-Sided Integration of ICs and Passive Components",
+      "summary": [
+        "Nisshinbo가 실리콘 기판 양면에 IC와 수동소자를 통합하는 Silicon Motherboard를 발표했다.",
+        "양면 통합으로 장착 면적을 최대 90%까지 줄일 수 있어 고밀도 소형화가 가능하다.",
+        "해당 기술은 패키징·PCB 설계와 제품 소형화 로드맵에 유의미한 영향을 줄 수 있다."
+      ],
+      "whyItMatters": "장착 면적 대폭 축소와 실리콘 기반 통합은 제조 공정과 제품 로드맵을 재편할 잠재력이 있어 시장 경쟁 구도에 영향을 미치기 때문이다.",
+      "topics": [
+        "Manufacturing",
+        "Competition",
+        "Roadmap",
+        "Investment"
+      ],
+      "status": "SHIFTING",
+      "hash": "8249a12a8620cf3c63534b8d3522c535a218f3e0b255068b4a12fadb895c106f",
+      "url": "https://www.eetimes.com/silicon-motherboard-enables-double-sided-integration-of-ics-and-passive-components/"
+    },
+    {
+      "id": "semiconductor_0003",
+      "tab": "semiconductor",
+      "publishedAt": "2026-11-16T22:59:50+09:00",
+      "source": "EE Times",
+      "title": "Technology as a Trojan Horse",
+      "summary": [
+        "젠슨 황이 더 이상 엔비디아를 이끌지 않는다.",
+        "칩과 기술 스택에 대해 '판매하고 통제할지, 판매를 중단해 지연을 감수할지'라는 트로이 목마식 질문이 여전히 유효하다.",
+        "이 문제는 공급 전략·경쟁 구도와 정책 리스크를 다시 부각시킨다."
+      ],
+      "whyItMatters": "리더십 변화가 기술 수출·통제 전략에 직접적인 영향을 미쳐 산업 전반의 경쟁·정책 결정에 파급효과를 주기 때문이다.",
+      "topics": [
+        "Policy",
+        "Competition",
+        "Manufacturing"
+      ],
+      "status": "SHIFTING",
+      "hash": "9a427ae22b5b5659275cede605f186dd98b362838f53ec7400bedbcafb38d46e",
+      "url": "https://www.eetimes.com/technology-as-a-trojan-horse/"
+    },
+    {
+      "id": "semiconductor_0004",
+      "tab": "semiconductor",
+      "publishedAt": "2026-11-16T17:00:00+09:00",
+      "source": "Samsung Newsroom",
+      "title": "Inside Dakar 2026: How Galaxy Innovation Shaped the Athlete Experience",
+      "summary": [
+        "다카르 2026 청소년 올림픽이 10월 31일 세네갈에서 개막했다.",
+        "삼성전자는 WOP 파트너로서 메달 시상식과 경기장에 갤럭시 기술을 도입해 선수 경험을 향상시켰다.",
+        "이번 협업은 제품·서비스 시연과 브랜드 노출을 통해 향후 로드맵과 마케팅 전략에 영향을 줄 가능성이 크다."
+      ],
+      "whyItMatters": "삼성의 기술 시연과 공식 파트너십이 제품 로드맵과 마케팅·투자 결정에 직접적인 신호를 주기 때문이다.",
+      "topics": [
+        "Investment",
+        "Roadmap",
+        "Competition"
+      ],
+      "status": "ONGOING",
+      "hash": "0a2f98afe8542b2ff86c12a013a9cf2784a1ee19338c9fefb3c71b7e4c87b6e3",
+      "url": "https://news.samsung.com/global/inside-dakar-2026-how-galaxy-innovation-shaped-the-athlete-experience"
+    }
+  ]
+}

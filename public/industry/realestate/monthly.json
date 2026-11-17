@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-10-18",
-    "to": "2026-11-16"
+    "from": "2026-10-19",
+    "to": "2026-11-17"
   },
   "kpis": {
     "collected": 103,
@@ -12,70 +12,117 @@
       "Supply": 24,
       "Policy": 17,
       "UrbanRenewal": 14,
-      "Construction": 13,
+      "Regulation": 13,
       "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/18-10/24)",
+      "week": "Week 1 (10/19-10/25)",
       "topicCounts": {
-        "Market": 20,
-        "Supply": 15,
-        "Policy": 10,
+        "Market": 21,
+        "Supply": 13,
+        "Policy": 8,
         "UrbanRenewal": 5,
-        "Construction": 9
+        "Regulation": 5
       }
     },
     {
-      "week": "Week 2 (10/25-10/31)",
-      "topicCounts": {
-        "Market": 11,
-        "Supply": 14,
-        "Policy": 10,
-        "UrbanRenewal": 9,
-        "Construction": 3
-      }
-    },
-    {
-      "week": "Week 3 (11/01-11/07)",
+      "week": "Week 2 (10/26-11/01)",
       "topicCounts": {
         "Market": 14,
-        "Supply": 9,
-        "Policy": 6,
-        "UrbanRenewal": 5,
-        "Construction": 6
+        "Supply": 13,
+        "Policy": 7,
+        "UrbanRenewal": 8,
+        "Regulation": 3
       }
     },
     {
-      "week": "Week 4 (11/08-11/14)",
+      "week": "Week 3 (11/02-11/08)",
       "topicCounts": {
         "Market": 17,
-        "Supply": 12,
-        "Policy": 10,
-        "UrbanRenewal": 9,
-        "Construction": 9
+        "Supply": 11,
+        "Policy": 6,
+        "UrbanRenewal": 6,
+        "Regulation": 8
       }
     },
     {
-      "week": "Week 5 (11/15-11/16)",
+      "week": "Week 4 (11/09-11/15)",
+      "topicCounts": {
+        "Market": 16,
+        "Supply": 11,
+        "Policy": 9,
+        "UrbanRenewal": 9,
+        "Regulation": 8
+      }
+    },
+    {
+      "week": "Week 5 (11/16-11/17)",
       "topicCounts": {
         "Market": 3,
-        "Supply": 3,
+        "Supply": 2,
         "Policy": 2,
         "UrbanRenewal": 2,
-        "Construction": 2
+        "Regulation": 3
       }
     }
   ],
   "topIssues": [
     {
-      "id": "re-1",
+      "id": 1,
       "status": "ONGOING",
-      "title": "공공주택 임대 비중 확대와 강남 서리풀1 그린벨트 해제 논의",
-      "summary": "정부가 서리풀1 공공주택지구 등에서 공급 물량의 약 80%를 임대주택으로 구성하는 방안을 추진하면서, 강남 그린벨트 해제와 맞물린 공공임대 확대 정책이 본격화되고 있다. 신혼부부용 ‘미리내집’과 장기공공임대를 동시에 늘려 도심 내 안정적 거주 물량을 확보하려는 한편, 그린벨트 활용과 임대 쏠림에 따른 지역 형평성·환경 훼손 논쟁도 커지고 있다.",
+      "title": "공동주택 리모델링 규제 완화: 주민 동의율 70%로 인하",
+      "summary": "국토교통부가 공동주택 리모델링 추진 시 필요한 주민 동의율 기준을 기존 75%에서 70%로 낮추고, 수직증축 안전성 검토 전문기관을 추가하며 거주의무 예외 범위도 넓혀 리모델링 활성화를 유도하고 있다.",
       "articleCount": 1,
       "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "리모델링 주민 동의율 75%→70%로 낮춘다…내년부터 문턱 완화 [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10939730"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "고가 아파트 양도세 부담 급등: 매도 시점에 따른 세금 격차 확대",
+      "summary": "압구정 등 고가 아파트의 양도소득세가 매도 시점과 보유·거주 조건에 따라 수십억 원까지 차이 나는 사례가 나타나면서, 보유세·양도세 체계와 시장 타이밍에 대한 고가 주택 보유자의 세금 리스크가 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "압구정 아파트 양도세 34억에서 71억으로…매도 시점이 가른 세금",
+          "url": "https://www.hankyung.com/article/202611095154i"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "서울 주택 매매·전세 심리 동반 위축",
+      "summary": "서울 집값 급등과 대출 부담 확대 등으로 실수요자와 전세 수요 모두 심리가 얼어붙으며 거래가 둔화되고 있어, 가격 피로 누적과 거래 절벽이 동시 진행되는 모습이 나타나고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "치솟는 가격에 부담 커졌나…서울 매매·전세심리 동반위축",
+          "url": "https://www.hankyung.com/article/2026111699711"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "서리풀1 공공주택지구: 그린벨트 해제와 임대 중심 공급 구조",
+      "summary": "서울 서초구 서리풀1 공공주택지구 조성을 위해 그린벨트를 해제하면서 전체 물량의 약 79%를 임대주택으로 공급하고 분양주택은 약 20%에 그치는 계획이 추진돼, 강남권 공공택지 공급이 임대 중심으로 재편되고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "서리풀 그린벨트 풀지만 … 분양주택은 20%뿐",
+          "url": "https://www.mk.co.kr/news/realestate/12210113"
+        },
         {
           "source": "헤럴드경제(부동산)",
           "title": "‘10채 중 8채 임대’ 강남 그린벨트 풀어 짓는 서리풀1 계획안 [부동산360]",
@@ -84,58 +131,16 @@
       ]
     },
     {
-      "id": "re-2",
+      "id": 5,
       "status": "ONGOING",
-      "title": "LH 민간참여 공공주택사업 확대와 공급 가속 전략",
-      "summary": "LH가 남양주왕숙 등 10개 블록에서 약 9000호 규모의 민간참여 공공주택사업 공모를 하반기에 진행하며 공급 속도 내기에 나서고 있다. 사업기간 단축을 평가 항목에 반영해 민간 사업자의 조기 착공·준공을 유도하는 방식으로, 공공주택 물량을 빠르게 시장에 풀어 전반적인 주택공급 기반을 강화하는 것이 핵심이다.",
+      "title": "LH, 민간참여 공공주택사업 확대와 사업기간 단축 유도",
+      "summary": "LH가 남양주왕숙 등 10개 블록에서 약 9000호 규모의 민간참여 공공주택사업 공모를 추진하며 사업기간 단축 평가 항목을 도입해, 공급 속도 제고와 민간 참여 확대를 동시에 노리고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(부동산)",
           "title": "공급 속도 내는 LH…사업기간 단축 평가 신설, 하반기 9000호 공모",
           "url": "https://www.mk.co.kr/news/realestate/12209642"
-        }
-      ]
-    },
-    {
-      "id": "re-3",
-      "status": "NEW",
-      "title": "국내 상업용 부동산 시장의 글로벌 제휴·해외 진출 가속",
-      "summary": "이도에스테이트가 글로벌 상업용 부동산 서비스 기업 에비슨영과 전략적 제휴를 맺으며 국내외 상업용 부동산 시장 공략에 나섰다. 개발·운영 역량을 결합해 국내 자산의 가치 제고와 해외 투자·개발 프로젝트 동시 진출을 추진하는 흐름으로, 국내 상업용 부동산이 글로벌 네트워크와 자본을 활용하는 추세가 강화되고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "매일경제(부동산)",
-          "title": "[단독] 이도에스테이트, 에비슨영과 손 잡고 국내외 상업용 부동산 시장 공략",
-          "url": "https://www.mk.co.kr/news/realestate/12209526"
-        }
-      ]
-    },
-    {
-      "id": "re-4",
-      "status": "ONGOING",
-      "title": "서울 전역으로 확산되는 고액 월세와 임차인 부담 심화",
-      "summary": "서울 전역에서 강남 외 지역까지 월세가 급등하면서 일부 주택은 월 350만원 수준의 고액 월세가 나타나고 있다. 전세에서 월세로의 전환과 대출 규제, 공급 부족이 복합적으로 작용해 임차인의 주거비 부담이 급격히 커지고 있으며, 중산층·청년층의 주거 불안이 주요 사회 이슈로 부상하고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "한국경제(부동산)",
-          "title": "\"강남도 아닌데 월세 350만원?\"…서울 세입자들 '비명'",
-          "url": "https://www.hankyung.com/article/2026111678337"
-        }
-      ]
-    },
-    {
-      "id": "re-5",
-      "status": "ONGOING",
-      "title": "강남 재건축 재초환 부담금 논란과 소송 가능성",
-      "summary": "서울 강남권 주요 재건축 단지에 재건축초과이익환수제 부담금 통지가 본격화되면서 조합원 1인당 수억원대 예상 부담금이 제시되고 있다. 은마아파트 등에서 조합과 조합원들이 부담금을 둘러싸고 반발하며 줄소송 가능성이 거론되고, 재건축 규제와 사업성, 공공성과의 균형을 둘러싼 정책 논쟁이 재점화되고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "헤럴드경제(부동산)",
-          "title": "“수억원 부담금 못 낸다” 강남 재건축 줄소송판 벌어지나…‘재초환’ 논란, 뭐길래? [부동산360]",
-          "url": "https://biz.heraldcorp.com/article/10937211"
         }
       ]
     }

@@ -1,63 +1,129 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "highlights": {
     "bullets": [
-      "핵심: 표준모형의 비섭동론적 격자화 후보 정의가 제시되었으며 GPT-6 Astra가 증명 전개에 활용되었다.",
-      "핵심: 과학 전용 블로그가 개설되어 연구자들의 최신 발견과 방법론·현장 사례를 공유한다."
+      "핵심: ChatGPT for Academic Researchers 프로그램이 확대돼 전 세계 연구자에게 모델 무상 접근이 제공됩니다.",
+      "핵심: 신형 NVL72 하드웨어가 MLPerf Training v6.1에서 최대 2배 성능을 기록했습니다.",
+      "트렌드: 연구·시뮬레이션·안전 분야에서 AI 도구와 인프라의 성능과 접근성 개선에 집중되고 있습니다."
     ],
     "topTopics": [
-      "Research",
+      "Product",
       "Tooling",
-      "Models",
-      "Product"
+      "Research",
+      "Safety"
     ],
     "stats": {
-      "collected": 2,
-      "deduped": 2
+      "collected": 12,
+      "deduped": 12
     }
   },
   "cards": [
     {
       "id": "ai_0001",
       "tab": "ai",
-      "publishedAt": "2026-11-16T07:00:01+09:00",
+      "publishedAt": "2026-11-17T02:00:00+09:00",
       "source": "OpenAI Blog",
-      "title": "A step toward defining the Standard Model on a lattice",
+      "title": "Broadening access to AI for scientists",
       "summary": [
-        "표준모형을 비섭동론적으로 격자화하는 후보 정의를 제시했다.",
-        "GPT-6 Astra가 아이디어를 상세한 증명으로 전환하는 데 핵심적으로 활용되었다.",
-        "이 결과는 이론물리의 엄밀화와 AI-보조 수학/물리 연구의 진전을 의미하며 추가 검증이 필요하다."
+        "OpenAI가 ChatGPT for Academic Researchers 프로그램을 확대해 전 세계 20만 명의 연구자에게 최첨단 모델 무상 접근을 제공합니다.",
+        "연구자들은 모델을 활용해 실험 설계, 데이터 분석, 논문 작성 등 연구 생산성을 높일 수 있습니다.",
+        "접근성 확대는 연구 민주화와 협업 가속화를 목표로 하나 인프라·윤리·안전 고려가 필요합니다."
       ],
-      "whyItMatters": "표준모형의 비섭동론적 격자 정의는 기본입자이론의 근본적 이해와 계산적 접근을 크게 확장할 잠재력이 있기 때문이다.",
+      "whyItMatters": "전 세계 연구자에게 첨단 AI 도구를 제공해 연구 속도와 접근성을 대폭 향상시키려는 전략적 조치입니다.",
       "topics": [
         "Research",
-        "Models",
-        "Tooling"
+        "Product",
+        "Models"
       ],
       "status": "ONGOING",
-      "hash": "2e8f421d2ee2a3dfd36bfcc5be1c93ba1a42b98e60398a99d5e21362ce523fd9",
-      "url": "https://openai.com/index/step-toward-defining-the-standard-model"
+      "hash": "2d7a5d6b20fff3cd431e56c6c45800450e6e12e3351b563ba22db14d6cc86266",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers"
     },
     {
       "id": "ai_0002",
       "tab": "ai",
-      "publishedAt": "2026-11-16T07:00:00+09:00",
+      "publishedAt": "2026-11-17T02:00:00+09:00",
       "source": "OpenAI Blog",
-      "title": "Our new blog for science",
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
       "summary": [
-        "OpenAI가 과학 전용 블로그를 새로 개설했습니다.",
-        "연구자들의 최신 발견, 실용적 방법론, 현장 사례를 공유합니다.",
-        "AI를 활용한 과학적 발견의 확산과 협업을 촉진하는 것을 목표로 합니다."
+        "OpenAI가 온라인 아동성착취 근절을 위해 새로운 도구와 실무 지침, 파트너십을 발표했습니다.",
+        "제공된 도구는 예방·탐지·대응을 지원하며 현장 기관과의 협업을 확대합니다.",
+        "목표는 피해자 보호 강화와 대응 속도·정확성 향상입니다."
       ],
-      "whyItMatters": "AI 기반 연구 방법과 사례를 공개해 과학 연구의 재현성·확산과 협업을 가속화하기 때문입니다.",
+      "whyItMatters": "기술적 도구와 협업 체계는 탐지 정확도와 대응 속도를 높여 아동 보호에 직접적인 영향을 미치기 때문입니다.",
       "topics": [
-        "Research",
-        "Product",
-        "Tooling"
+        "Safety",
+        "Tooling",
+        "Product"
+      ],
+      "status": "ONGOING",
+      "hash": "dd659f011024f04f24b0b918544913431aa1336cb6fdeb78ce4549a3a5fdd29c",
+      "url": "https://openai.com/index/strengthening-online-child-safety"
+    },
+    {
+      "id": "ai_0003",
+      "tab": "ai",
+      "publishedAt": "2026-11-17T01:00:00+09:00",
+      "source": "NVIDIA Developer Blog",
+      "title": "NVIDIA Vera Rubin NVL72 Achieves up to 2x Blackwell Ultra Performance in MLPerf Training v6.1",
+      "summary": [
+        "NVIDIA의 Vera Rubin NVL72가 MLPerf Training v6.1에서 최대 2배의 성능을 기록했다.",
+        "이 결과는 대규모 모델 학습의 시간 단축과 반복 주기 개선을 의미한다.",
+        "데이터센터 인프라와 제품 로드맵에 즉각적인 영향이 예상된다."
+      ],
+      "whyItMatters": "MLPerf Training 벤치마크는 하드웨어 세대의 학습 성능·비용 영향력을 객관적으로 보여주기 때문에 중요하다.",
+      "topics": [
+        "Training",
+        "Infra",
+        "Product"
       ],
       "status": "NEW",
-      "hash": "33b95c2112c46efd095543028e60f6116680e85e464182b74c65e43667746d78",
-      "url": "https://openai.com/index/our-new-blog-for-science"
+      "hash": "c639d63a1f698545191cfa4e4b150bab5d290854102cde81fcb93b765a5c6204",
+      "url": "https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-achieves-up-to-2x-blackwell-ultra-performance-in-mlperf-training-v6-1/"
+    },
+    {
+      "id": "ai_0004",
+      "tab": "ai",
+      "publishedAt": "2026-11-17T07:30:00+09:00",
+      "source": "NVIDIA Developer Blog",
+      "title": "Accelerate Molecular Dynamics Simulations with Accurate, Flexible Primitives Using NVIDIA cuPotential",
+      "summary": [
+        "NVIDIA가 cuPotential을 통해 분자 동역학(MD) 시뮬레이션을 GPU에서 가속하는 정확하고 유연한 프리미티브를 소개했다.",
+        "정확도와 성능을 동시에 개선하는 포텐셜 프리미티브로 대규모·장시간 시뮬레이션 지원을 목표로 한다.",
+        "연구자와 산업계가 더 큰 시스템과 긴 시간스케일의 시뮬레이션을 효율적으로 수행하도록 도구와 통합성을 제공한다."
+      ],
+      "whyItMatters": "계산 비용과 개발 장벽을 낮춰 빠른 반복과 대규모 분자 시뮬레이션을 가능하게 하기 때문이다.",
+      "topics": [
+        "Tooling",
+        "Infra",
+        "Research",
+        "Product"
+      ],
+      "status": "NEW",
+      "hash": "9d33a2c5cc6560118e9646c19f9bedf28cf93427ce67f04da686a1e70788aea9",
+      "url": "https://developer.nvidia.com/blog/accelerate-molecular-dynamics-simulations-with-accurate-flexible-primitives-using-nvidia-cupotential/"
+    },
+    {
+      "id": "ai_0005",
+      "tab": "ai",
+      "publishedAt": "2026-11-17T02:01:35+09:00",
+      "source": "Microsoft Research Blog",
+      "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
+      "summary": [
+        "TokenEconomizer는 과거 코딩 에이전트 세션을 재활용해 불필요한 토큰 사용과 시간을 줄이는 오픈소스 플러그인이다.",
+        "이 시스템은 이전에 학습한 해결 전략을 기반으로 추론 과정을 최적화하면서도 과제 성공률을 유지하는 것을 목표로 한다.",
+        "이를 통해 코딩 에이전트가 문제 해결 능력뿐 아니라 연산·토큰 사용 효율까지 학습하도록 하는 방향을 제시한다."
+      ],
+      "whyItMatters": "코딩 에이전트의 토큰·연산 효율을 크게 개선할 수 있어 대규모 실사용 시 비용 구조와 제품 경쟁력에 직접적인 영향을 준다.",
+      "topics": [
+        "Inference",
+        "Tooling",
+        "Research",
+        "Product"
+      ],
+      "status": "NEW",
+      "hash": "97087fe3c15c5fa6c7d3911339af6ce91c2f0de12dcbe96c0b0ffd4aac16a8bb",
+      "url": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/"
     }
   ]
 }

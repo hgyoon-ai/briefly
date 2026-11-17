@@ -1,24 +1,24 @@
 {
   "range": {
-    "from": "2026-10-18",
-    "to": "2026-11-16"
+    "from": "2026-10-19",
+    "to": "2026-11-17"
   },
   "kpis": {
-    "collected": 65,
-    "deduped": 65,
+    "collected": 70,
+    "deduped": 70,
     "uniqueTopics": 10,
     "marketShare": {
-      "Tooling": 26,
-      "Product": 23,
+      "Tooling": 25,
+      "Product": 24,
       "Models": 18,
       "Research": 17,
-      "Infra": 17,
+      "Infra": 16,
       "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/18-10/24)",
+      "week": "Week 1 (10/19-10/25)",
       "topicCounts": {
         "Tooling": 10,
         "Product": 10,
@@ -28,7 +28,7 @@
       }
     },
     {
-      "week": "Week 2 (10/25-10/31)",
+      "week": "Week 2 (10/26-11/01)",
       "topicCounts": {
         "Tooling": 8,
         "Product": 8,
@@ -38,7 +38,7 @@
       }
     },
     {
-      "week": "Week 3 (11/01-11/07)",
+      "week": "Week 3 (11/02-11/08)",
       "topicCounts": {
         "Tooling": 9,
         "Product": 6,
@@ -48,7 +48,7 @@
       }
     },
     {
-      "week": "Week 4 (11/08-11/14)",
+      "week": "Week 4 (11/09-11/15)",
       "topicCounts": {
         "Tooling": 14,
         "Product": 13,
@@ -58,84 +58,84 @@
       }
     },
     {
-      "week": "Week 5 (11/15-11/16)",
+      "week": "Week 5 (11/16-11/17)",
       "topicCounts": {
-        "Tooling": 2,
-        "Product": 1,
+        "Tooling": 3,
+        "Product": 5,
         "Models": 1,
-        "Research": 2,
-        "Infra": 0
+        "Research": 3,
+        "Infra": 2
       }
     }
   ],
   "topIssues": [
     {
-      "id": 1,
-      "status": "ONGOING",
-      "title": "격자 위 표준모형 정식화: GPT-6 Astra를 활용한 비섭동론적 물리 연구",
-      "summary": "표준모형을 비섭동론적으로 격자 위에 정의하려는 새로운 수학적 정식화가 제안되었으며, 복잡한 아이디어를 완전한 증명으로 발전시키는 과정에 GPT-6 Astra가 핵심 연구 도구로 사용됐다. 고에너지 물리·수리물리에서 LLM이 본격적인 협업 연구 파트너로 자리 잡는 흐름이 진행 중이다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "OpenAI Blog",
-          "title": "A step toward defining the Standard Model on a lattice",
-          "url": "https://openai.com/index/step-toward-defining-the-standard-model"
-        }
-      ]
-    },
-    {
-      "id": 2,
+      "id": "ai-1",
       "status": "NEW",
-      "title": "배정밀도(FP64) 행렬 연산 가속으로 과학 시뮬레이션 효율 향상",
-      "summary": "NVIDIA가 cuBLAS에 새로운 FP64 알고리즘을 도입해 분자 시뮬레이션·재료 과학 등 고정밀 밀집 행렬 연산이 핵심인 워크로드의 속도를 크게 높였다. 이는 대형 과학·엔지니어링 AI 워크로드의 학습·시뮬레이션 비용과 시간을 줄이는 인프라 업그레이드로 볼 수 있다.",
+      "title": "GPU 기반 분자 동역학 시뮬레이션 가속을 위한 NVIDIA cuPotential 출시",
+      "summary": "NVIDIA는 분자 동역학(MD) 시뮬레이션을 GPU에서 더욱 빠르고 정확하게 수행하기 위한 포텐셜 프리미티브 라이브러리 cuPotential을 공개했다. 연구자와 엔지니어는 이를 통해 대규모·장시간 시뮬레이션을 고정밀로 실행하면서도 계산 비용을 줄일 수 있어, 신약 개발·재료 설계 등 과학 연구용 AI/시뮬레이션 워크로드에 직접적인 성능 향상을 기대할 수 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "NVIDIA Developer Blog",
-          "title": "Faster Scientific Simulations with New FP64 Algorithms in NVIDIA cuBLAS",
-          "url": "https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas/"
+          "title": "Accelerate Molecular Dynamics Simulations with Accurate, Flexible Primitives Using NVIDIA cuPotential",
+          "url": "https://developer.nvidia.com/blog/accelerate-molecular-dynamics-simulations-with-accurate-flexible-primitives-using-nvidia-cupotential/"
         }
       ]
     },
     {
-      "id": 3,
+      "id": "ai-2",
       "status": "NEW",
-      "title": "엣지 디바이스용 네이티브 DLA 추론: Jetson AGX Orin에서의 Python 워크플로",
-      "summary": "Jetson AGX Orin에서 cuDLA를 활용해 Python 환경에서 직접 DLA 하드웨어를 사용하는 추론 경로가 정리되었다. 제한된 전력·연산 예산 내에서 여러 신경망을 효율적으로 돌리는 최적화 기법이 공유되며, 로봇·임베디드 AI 시스템의 온디바이스 추론 활용이 넓어지고 있다.",
+      "title": "TokenEconomizer로 코딩 에이전트 토큰 사용 최적화",
+      "summary": "Microsoft Research는 과거 세션 데이터를 재활용해 불필요한 토큰 사용과 시간을 줄이는 코딩 에이전트용 오픈소스 플러그인 TokenEconomizer를 발표했다. 이전 문제 해결 전략을 학습해 추론 과정을 단축하면서도 성공률을 유지하는 접근으로, LLM 기반 코드 어시스턴트의 운영비 절감과 응답 지연 감소에 실질적인 이점을 제공한다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "NVIDIA Developer Blog",
-          "title": "Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA",
-          "url": "https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla/"
+          "source": "Microsoft Research Blog",
+          "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
+          "url": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/"
         }
       ]
     },
     {
-      "id": 4,
-      "status": "NEW",
-      "title": "ChatGPT Wallet: 에이전트 기반 구매·결제 기능의 상용화",
-      "summary": "ChatGPT Wallet 도입으로 ChatGPT Work, Codex, dots 에이전트가 사용자의 승인 하에 실제 구매를 완료할 수 있게 되었다. 기존 카드 보안 체계를 유지하면서도 에이전트가 상거래·구매 자동화를 수행하는 기반이 마련되며, 상용 에이전트 생태계 확대가 예상된다.",
+      "id": "ai-3",
+      "status": "ONGOING",
+      "title": "ChatGPT for Academic Researchers 확대를 통한 연구자 대상 AI 접근성 강화",
+      "summary": "OpenAI는 ChatGPT for Academic Researchers 프로그램을 전 세계 20만 명 규모로 확장해, 실험 설계·데이터 분석·논문 작성 등 연구 전주기에 고성능 모델을 무상 제공한다. 이를 통해 개별 연구기관의 예산 제약과 상관없이 최신 LLM을 활용한 생산성 향상을 도모하며, 과학·인문사회 전 분야에서 AI 보편화를 가속하고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "OpenAI Blog",
-          "title": "Introducing ChatGPT Wallet",
-          "url": "https://openai.com/index/introducing-chatgpt-wallet"
+          "title": "Broadening access to AI for scientists",
+          "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers"
         }
       ]
     },
     {
-      "id": 5,
+      "id": "ai-4",
       "status": "ONGOING",
-      "title": "LLM 최적화 마크업 언어 LLMON과 Granite 4.1 통합",
-      "summary": "LLM 지시·툴 연동에 특화된 마크업 언어 LLMON이 공개되고, Granite 4.1 3B·8B 모델에 기본 통합되었다. 프롬프트를 구조화하고 도구 호출을 명세하는 새로운 인터페이스 계층이 확산되면서, 경량 오픈소스 모델에서도 정교한 에이전트·툴체인이 구현되기 쉬워지고 있다.",
+      "title": "온라인 아동 성착취 대응을 위한 OpenAI의 안전 도구·가이드 강화",
+      "summary": "OpenAI는 온라인 아동 성착취(CSA) 탐지·예방·대응을 지원하는 새로운 도구와 운영 가이드를 공개하고, 관련 기관과의 파트너십을 확장했다. 콘텐츠 식별·신고 워크플로를 지원하는 기술과 실무 지침을 함께 제공해, 고성능 생성형 AI가 아동 안전을 해치지 않도록 하는 규범·기술 양측의 방어선을 강화하는 흐름이 이어지고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "Hugging Face Blog",
-          "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-          "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
+          "source": "OpenAI Blog",
+          "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+          "url": "https://openai.com/index/strengthening-online-child-safety"
+        }
+      ]
+    },
+    {
+      "id": "ai-5",
+      "status": "NEW",
+      "title": "NVIDIA Vera Rubin NVL72, MLPerf v6.1에서 최대 2배 Blackwell Ultra 학습 성능 달성",
+      "summary": "NVIDIA는 Vera Rubin NVL72 시스템이 MLPerf Training v6.1 벤치마크에서 Blackwell Ultra 대비 최대 2배의 성능을 기록했다고 발표했다. 이는 초거대 모델 학습 시간 단축과 실험 반복 주기 가속을 의미하며, 차세대 AI 인프라가 지원할 수 있는 모델 규모·복잡도의 상향과 클라우드·온프레미스 학습 환경 경쟁 구도를 재편할 수 있는 지표로 해석된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "NVIDIA Vera Rubin NVL72 Achieves up to 2x Blackwell Ultra Performance in MLPerf Training v6.1",
+          "url": "https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-achieves-up-to-2x-blackwell-ultra-performance-in-mlperf-training-v6-1/"
         }
       ]
     }

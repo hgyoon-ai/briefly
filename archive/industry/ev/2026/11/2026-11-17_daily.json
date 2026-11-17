@@ -1,0 +1,64 @@
+{
+  "date": "2026-11-17",
+  "highlights": {
+    "bullets": [
+      "핵심: 테슬라가 기가베를린에 연간 최대 100만대 생산을 위한 30억 유로 규모 공장 건설을 확인했습니다.",
+      "핵심: 출시 두 달 만에 사이버캡 관련 총 8건의 사고가 보고되었고 그중 4건은 오스틴에서 저속(5mph 이하) 운행 중 발생했습니다."
+    ],
+    "topTopics": [
+      "Roadmap",
+      "Competition",
+      "Demand",
+      "Policy"
+    ],
+    "stats": {
+      "collected": 15,
+      "deduped": 15
+    }
+  },
+  "cards": [
+    {
+      "id": "ev_0001",
+      "tab": "ev",
+      "publishedAt": "2026-11-17T02:22:25+09:00",
+      "source": "Electrek",
+      "title": "Tesla confirms €3B Cybercab factory at Giga Berlin for up to 1M a year",
+      "summary": [
+        "테슬라는 독일 기가베를린에 연간 최대 100만 대 규모의 사이버캡 생산을 위해 30억 유로를 투자해 새 공장을 짓겠다고 확인했습니다.",
+        "사이버캡 생산 시작 목표 시점은 2029년으로, 유럽 내 로보택시 대규모 상용화를 전제로 한 제조 역량 확충입니다.",
+        "다만 현행 EU 규제상 완전 자율주행차는 연간 1,500대 등록 상한이 있어, 규제 완화 없이는 생산계획과 실제 운용 사이에 큰 괴리가 발생합니다."
+      ],
+      "whyItMatters": "대규모 선제적 생산투자는 자율주행 로보택시 사업에 대한 테슬라의 전략적 베팅을 보여주며, 동시에 EU 정책 변화 여부가 사업 성패의 핵심 변수가 됨을 시사합니다.",
+      "topics": [
+        "Investment",
+        "Manufacturing",
+        "Policy",
+        "Roadmap"
+      ],
+      "status": "NEW",
+      "hash": "0c77fcbe2609636e2aa8d5ca5ce8a61f776869577f56f46034ab5119438e1309",
+      "url": "https://electrek.co/2026/11/16/tesla-cybercab-giga-berlin-3-billion-1-million/"
+    },
+    {
+      "id": "ev_0002",
+      "tab": "ev",
+      "publishedAt": "2026-11-17T06:41:36+09:00",
+      "source": "Electrek",
+      "title": "Tesla Cybercab has crashed 8 times, and the data shows a speed problem",
+      "summary": [
+        "출시 두 달 만에 테슬라 사이버캡이 NHTSA에 총 8건의 사고가 보고되었습니다.",
+        "4건은 오스틴에서 완전 무인 로보택시 운행 중 저속(5mph 이하)에서 발생했습니다.",
+        "나머지 4건은 테스트 드라이버 탑승 및 운전자 보조 기능 사용 중 발생했으며, 필라델피아 고속도로에서 시속 53mph로 다른 차량을 충돌한 사고도 포함됩니다."
+      ],
+      "whyItMatters": "로보택시 상용화 초기 단계에서 반복적인 사고, 특히 고속 충돌 사례는 자율주행 안전성·규제 리스크와 브랜드 신뢰도에 직결되는 이슈입니다.",
+      "topics": [
+        "Competition",
+        "Policy",
+        "Roadmap"
+      ],
+      "status": "ONGOING",
+      "hash": "3ef6c702776a4c77dc812d07e1ff62d889764b0cfc522000519660a6de2e50d0",
+      "url": "https://electrek.co/2026/11/16/tesla-cybercab-crashes-speed-problem/"
+    }
+  ]
+}
