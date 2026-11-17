@@ -2,6 +2,190 @@
   "month": "2026-11",
   "events": [
     {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202611170803349203",
+      "date": "2026-11-17",
+      "company": "한국투자증권",
+      "title": "롯데웰푸드, 내년 10%대 이익 성장 기대…목표가 19만원 유지",
+      "oneLiner": "한국투자증권 리서치가 롯데웰푸드의 내년 이익 성장 전망과 목표주가 유지 의견을 제시한 리포트 발표.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "롯데웰푸드, 내년 10%대 이익 성장 기대…목표가 19만원 유지",
+          "url": "https://www.fnnews.com/news/202611170803349203"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-17"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202611170852243569",
+      "date": "2026-11-17",
+      "company": "한국투자증권",
+      "title": "삼성바이오, 5공장 가동·PPGN 인수 효과 본격화…목표가 195만원 유지",
+      "oneLiner": "한국투자증권이 삼성바이오로직스의 생산능력 확대 및 인수 효과를 반영한 분석 보고서를 내고 목표주가를 유지함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "삼성바이오, 5공장 가동·PPGN 인수 효과 본격화…목표가 195만원 유지",
+          "url": "https://www.fnnews.com/news/202611170852243569"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-17"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202611170857163682",
+      "date": "2026-11-17",
+      "company": "NH투자증권",
+      "title": "HPSP, 4분기에 분기 최초 1000억대 매출 전망",
+      "oneLiner": "NH투자증권 연구진이 HPSP의 4분기 매출 전망치(분기 최초 1000억대)를 제시하며 투자의견과 목표주가를 발표한 리서치 보고서.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "HPSP, 4분기에 분기 최초 1000억대 매출 전망",
+          "url": "https://www.fnnews.com/news/202611170857163682"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-17"
+    },
+    {
+      "id": "f4d0edd4d1d516014bf24fc8f8952899344be484",
+      "date": "2026-11-16",
+      "company": "NH투자증권",
+      "title": "최대주주등소유주식변동신고서              ",
+      "oneLiner": "NH투자증권 관련 최대주주 등 소유주식 변동신고서 제출 공시로 주요 주주구성 변화가 보고됨.",
+      "type": "규제",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "최대주주등소유주식변동신고서              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116800912"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-17"
+    },
+    {
+      "id": "news:NH투자증권:https://www.mk.co.kr/news/stock/12209945",
+      "date": "2026-11-16",
+      "company": "NH투자증권",
+      "title": "“주식은 무섭고 예금은 아쉽고”…연 5.05% 발행어음 특판 ‘눈길’",
+      "oneLiner": "NH투자증권이 신규 계좌개설 고객 대상 단기 특판 발행어음을 통해 연 4.70~5.05% 금리를 제공, 단기금융 상품 제공으로 상품·영업 전략 변화에 해당.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“주식은 무섭고 예금은 아쉽고”…연 5.05% 발행어음 특판 ‘눈길’",
+          "url": "https://www.mk.co.kr/news/stock/12209945"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-11-17"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202611161116326830",
+      "date": "2026-11-16",
+      "company": "하나증권",
+      "title": "하나증권, 캐치테이블과 맞손…금융·외식 서비스 연계",
+      "oneLiner": "하나증권이 외식 예약 플랫폼 캐치테이블과 MOU를 체결해 금융·외식 서비스 연계 및 공동 프로모션을 추진하기로 함.",
+      "type": "제휴",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "하나증권, 캐치테이블과 맞손…금융·외식 서비스 연계",
+          "url": "https://www.fnnews.com/news/202611161116326830"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-17"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202611161342034096",
+      "date": "2026-11-16",
+      "company": "미래에셋증권",
+      "title": "\"노후자금 차곡차곡\"…개인투자용 국채, 10명 중 6명 다시 샀다",
+      "oneLiner": "미래에셋증권 분석에 따르면 개인투자용 국채의 반복 청약 비중이 높아지는 등 고객 투자행태 분석 결과를 발표함.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"노후자금 차곡차곡\"…개인투자용 국채, 10명 중 6명 다시 샀다",
+          "url": "https://www.fnnews.com/news/202611161342034096"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-11-17"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202611161826013669",
+      "date": "2026-11-16",
+      "company": "하나증권",
+      "title": "하나증권, 금융·외식 연계 서비스 강화",
+      "oneLiner": "하나증권과 캐치테이블의 전략적 업무협약(MOU) 체결 소식으로 금융·외식 연계 서비스를 강화하는 제휴 내용임.",
+      "type": "제휴",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "하나증권, 금융·외식 연계 서비스 강화",
+          "url": "https://www.fnnews.com/news/202611161826013669"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-11-17"
+    },
+    {
       "id": "e28f242b13f0268921505a90707b5f2bdc369f78",
       "date": "2026-11-14",
       "company": "한국투자증권",
