@@ -1,0 +1,635 @@
+{
+  "date": "2026-11-17",
+  "kpis": {
+    "clusters": 20,
+    "sources": 2,
+    "new": 16
+  },
+  "clusters": [
+    {
+      "id": "4ebfbb17e53345d249273e677cf1762714bb9dee",
+      "name": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 1178.4,
+      "oneLiner": "JP모건 체이스 기술 문제로 미국 은행들의 온라인 뱅킹 지연이 발생했다",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "738p · 613c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50521045"
+        },
+        {
+          "label": "Source",
+          "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "c6bedd2df68ca85dec29157aaa5f496e6d7eb7d1",
+      "name": "Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 1138.2,
+      "oneLiner": "아마존의 블랙프라이데이와 사이버먼데이 거래 중 다수가 실질적 절감이 없었다",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "863p · 517c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50517488"
+        },
+        {
+          "label": "Source",
+          "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "df8d8b52e38633dc31d862ec9ba18b48962f419f",
+      "name": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 757.8,
+      "oneLiner": "카네기멜런이 컴퓨터 과학 강좌를 유튜브에 무료로 공개한다",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "967p · 148c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50522980"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.cs.cmu.edu/learn/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "9687da4f943efb7eac066db6f63630a93da8520a",
+      "name": "How to make almost anything",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 684.0,
+      "oneLiner": "거의 모든 것을 만드는 방법을 다루는 자료를 소개한다",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "852p · 144c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50514470"
+        },
+        {
+          "label": "Source",
+          "url": "https://pub.cba.mit.edu/863.26/site/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "c460f771a4562de9a98ba6d26b2140c2562beb78",
+      "name": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 491.4,
+      "oneLiner": "Windows 11이 어떤 코딩 에이전트와 개발 도구를 사용하는지 데이터를 수집한다",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "365p · 227c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50524736"
+        },
+        {
+          "label": "Source",
+          "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/"
+        }
+      ],
+      "tags": [
+        "agent tooling",
+        "data"
+      ]
+    },
+    {
+      "id": "8f92b0c47bb7535d2c513973528a225bd197d03b",
+      "name": "Frame – 31.5\" color ePaper display",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 490.2,
+      "oneLiner": "Frame이라는 31.5인치 컬러 전자종이 디스플레이를 소개한다",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "339p · 239c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50519354"
+        },
+        {
+          "label": "Source",
+          "url": "https://trmnl.com/blog/introducing-frame"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "eba8a10fdf2ebf1ac4301efebea06e54a34fc394",
+      "name": "BugMeNot has closed",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 475.8,
+      "oneLiner": "BugMeNot 서비스가 종료되어 사이트가 닫혔음을 알린다",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "399p · 197c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50523601"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.bugmenot.com/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "bc05d28006ffb7f97ed1ddf6aa05295eb9e03a48",
+      "name": "Software is breaking down at a systemic level",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 475.8,
+      "oneLiner": "소프트웨어가 시스템적 수준에서 붕괴하고 있다는 분석을 제시한다",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "349p · 222c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50520866"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "7c0fb827f5adaebcbb363a9e7879c5507d2342e2",
+      "name": "Nvidia was in trouble before the Jensen Huang mess",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 441.0,
+      "oneLiner": "Nvidia가 젠슨 황 관련 문제 이전에도 어려움을 겪었다고 다룬다",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "261p · 237c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50518567"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "52b18c0a2168daf0e7cd826814d4d00559809808",
+      "name": "Grazing sheep in fields with solar arrays",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 427.8,
+      "oneLiner": "태양광 패널이 설치된 들판에서 양을 방목하는 사례를 소개한다",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "241p · 236c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50520182"
+        },
+        {
+          "label": "Source",
+          "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "9c5a739f357463a79a5f5e73a777bb2ada379a6e",
+      "name": "Microsoft blames monster email outage on software defect introduced in July fix",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 370.2,
+      "oneLiner": "마이크로소프트는 대규모 이메일 장애의 원인으로 7월 패치의 결함을 지목했다",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "253p · 182c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50517321"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "b655678867f74d0b9be7c46e0add80994d12a794",
+      "name": "What is w2rt6byl5nf1opmc-a.com?",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 360.0,
+      "oneLiner": "w2rt6byl5nf1opmc-a.com이 무엇인지 설명하거나 조사하는 글이다",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "318p · 141c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50517602"
+        },
+        {
+          "label": "Source",
+          "url": "https://jack.cab/blog/siterate"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "e9da6dacb500c8356e4fd4e7825c84e3b0c17746",
+      "name": "Interpreting claims that a theorem is correct because it was checked in Lean",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 334.2,
+      "oneLiner": "Lean에서 검증되었다는 이유만으로 정리가 옳다고 보는 해석을 논한다",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "293p · 132c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50515058"
+        },
+        {
+          "label": "Source",
+          "url": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "6458376b0e1ab0da2ef49717bded4817cead2d04",
+      "name": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+      "section": "trending",
+      "status": "NEW",
+      "score": 324.6,
+      "oneLiner": "ThinkPad 전원 버튼 코드로 죽은 노트북을 복구하는 방법을 소개한다",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "303p · 119c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50516473"
+        },
+        {
+          "label": "Source",
+          "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/"
+        }
+      ],
+      "tags": [
+        "infra"
+      ]
+    },
+    {
+      "id": "f74fb8f6f7eb6e5f1f3e90317b12ebe6d9607d2d",
+      "name": "Jiff 1.0: A datetime library for Rust",
+      "section": "trending",
+      "status": "NEW",
+      "score": 297.6,
+      "oneLiner": "Rust용 날짜시간 라이브러리 Jiff 1.0을 소개한다",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "342p · 77c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50519744"
+        },
+        {
+          "label": "Source",
+          "url": "https://burntsushi.net/jiff/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "62c7b1de06936bde83b876719b988e5aa18d8ee4",
+      "name": "deepseek-ai/chat-demo",
+      "section": "releases",
+      "status": "ONGOING",
+      "score": 205.68,
+      "oneLiner": "deepseek-ai의 Chat Demo 저장소로 채팅 데모를 제공한다",
+      "whyNow": "릴리즈 직후라 적용/마이그레이션 경험이 모이고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "4,197"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "890"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-17"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v0.1.1"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/deepseek-ai/chat-demo"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/deepseek-ai/chat-demo/releases/tag/v0.1.1"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "935f39d71a2a2403b273de0f111741b546e347ee",
+      "name": "apex-compute/ANR",
+      "section": "releases",
+      "status": "ONGOING",
+      "score": 120.78,
+      "oneLiner": "Apex Compute의 Apex Neural Rendering(ANR) 프로젝트 저장소이다",
+      "whyNow": "업데이트가 트리거가 되어 레퍼런스가 모이는 구간입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,493"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "53"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-17"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "FG-V.B19"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/apex-compute/ANR"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/apex-compute/ANR/releases/tag/FG-V.B19"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "d835949a0ad661deaa540aaebc7a69fe46b4dc92",
+      "name": "Kianuni/Erosion-CN",
+      "section": "releases",
+      "status": "ONGOING",
+      "score": 117.0,
+      "oneLiner": "iOS와 iPadOS 시스템 설정 및 MobileGestalt 연구 도구를 제공하는 저장소다",
+      "whyNow": "업데이트가 트리거가 되어 레퍼런스가 모이는 구간입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,207"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "436"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-17"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v1.0.0"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/Kianuni/Erosion-CN"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/Kianuni/Erosion-CN/releases/tag/v1.0.0"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "4fcdf828b89d2c074a59af9b66dfcddafad23cbd",
+      "name": "hitkeeen/blender-ai-mcp-addon",
+      "section": "releases",
+      "status": "NEW",
+      "score": 112.12,
+      "oneLiner": "Blender용 AI 어시스턴트와 MCP 서버로 시각적 채팅과 장면 도구를 제공한다",
+      "whyNow": "최근 릴리즈가 나오며 실사용 공유가 빠르게 늘고 있습니다. 에이전트 활용 흐름과 맞물려 주목이 커지고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,275"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "56"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-17"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v1.0.0"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/hitkeeen/blender-ai-mcp-addon"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/hitkeeen/blender-ai-mcp-addon/releases/tag/v1.0.0"
+        }
+      ],
+      "tags": [
+        "agent tooling",
+        "codegen"
+      ]
+    },
+    {
+      "id": "1886cb7fa1a349e75808abf6fa458a6738da20ec",
+      "name": "FrigadeHQ/yogurt",
+      "section": "releases",
+      "status": "ONGOING",
+      "score": 98.22,
+      "oneLiner": "로컬에서 동작하는 개인용 AI 회의 노트로 Granola의 오픈소스 대안이다",
+      "whyNow": "릴리즈 직후라 적용/마이그레이션 경험이 모이고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "1,897"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "117"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-17"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v0.3.37"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/FrigadeHQ/yogurt"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/FrigadeHQ/yogurt/releases/tag/v0.3.37"
+        }
+      ],
+      "tags": [
+        "local-first"
+      ]
+    }
+  ]
+}
