@@ -1,0 +1,647 @@
+{
+  "date": "2026-11-18",
+  "kpis": {
+    "clusters": 20,
+    "sources": 2,
+    "new": 18
+  },
+  "clusters": [
+    {
+      "id": "1328d3d66f26e63fe9d93c144f62caaf039ca25f",
+      "name": "jquery/jquery",
+      "section": "releases",
+      "status": "NEW",
+      "score": 3173.74,
+      "oneLiner": "DOM 조작과 이벤트 처리를 위한 jQuery JavaScript 라이브러리",
+      "whyNow": "릴리즈 직후라 적용/마이그레이션 경험이 모이고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "60,084"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "20,749"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-18"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "4.1.0"
+        },
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "265p · 147c"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/jquery/jquery"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/jquery/jquery/releases/tag/4.1.0"
+        },
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50537156"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "a300600e0c91605d7b9365c932cd8556bf6aa3dc",
+      "name": "GPT‑6.2 Astra and Sol",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 1533.6,
+      "oneLiner": "GPT‑6.2 Astra and Sol에 관한 토론 글",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "1132p · 712c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50535230"
+        },
+        {
+          "label": "Source",
+          "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "69d550ec303fc3fb0410a0ff761f54e6dafcb333",
+      "name": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 1413.6,
+      "oneLiner": "교내 휴대전화 금지와 시험 성적 관련 새로운 증거를 다루는 기사",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 개발자 경험 개선 관점에서 관심이 커지고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "1182p · 587c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50530163"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html"
+        }
+      ],
+      "tags": [
+        "editor",
+        "testing"
+      ]
+    },
+    {
+      "id": "8911581cc1d8b105db0014b964b4bce7e2fc228d",
+      "name": "Highly classified US national security communications network goes down",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 984.0,
+      "oneLiner": "기밀 등급 미국 국가안보 통신망의 장애를 보도하는 기사",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "500p · 570c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50532849"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down"
+        }
+      ],
+      "tags": [
+        "security"
+      ]
+    },
+    {
+      "id": "64927de61b58331d3c2bff83d9d2e984c5c9d77b",
+      "name": "Apple Services Down",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 814.2,
+      "oneLiner": "애플 서비스 장애 현황을 안내하는 공식 페이지",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "643p · 357c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50535238"
+        },
+        {
+          "label": "Source",
+          "url": "https://developer.apple.com/system-status/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "62abf2dca69dc2756f25d7695339de3be7813ac0",
+      "name": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 551.4,
+      "oneLiner": "Base64 처리 중 OpenJDK 원격 코드 실행 취약점 Java4Shell을 다루는 글",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "601p · 159c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50538240"
+        },
+        {
+          "label": "Source",
+          "url": "https://calif.io/java4shell/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "21937dd69945639e6b419e62ecf74a6ffe1d7894",
+      "name": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 496.2,
+      "oneLiner": "Nvidia의 싱가포르 매출 공개 중단을 다루는 기사",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "421p · 203c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50534631"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "bbf0ad248a56c664a994f570fe729194ce606311",
+      "name": "We don't need more apps, we need better open source",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 487.8,
+      "oneLiner": "더 많은 앱보다 더 나은 오픈소스가 필요하다는 주장을 담은 글",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "345p · 234c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50532086"
+        },
+        {
+          "label": "Source",
+          "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "e4bb055cb8e4ba6f2996187523433a0673a5686a",
+      "name": "How the Claude Code team thinks about verification",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 421.2,
+      "oneLiner": "Claude Code 팀의 검증 접근 방식을 설명하는 글",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "272p · 215c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50529612"
+        },
+        {
+          "label": "Source",
+          "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "2536d147338358c299bea8c39dd886e4b6011e5e",
+      "name": "MAI Code 2 and Code 2 Flash",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 349.2,
+      "oneLiner": "MAI Code 2와 Code 2 Flash를 소개하는 발표 글",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "304p · 139c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50535885"
+        },
+        {
+          "label": "Source",
+          "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "62fa711d562295013eda03fc98f268a5825d084a",
+      "name": "What is the best harness for each model?",
+      "section": "trending",
+      "status": "NEW",
+      "score": 347.4,
+      "oneLiner": "각 모델에 적합한 하니스에 대해 논의하는 글",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "343p · 118c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50532191"
+        },
+        {
+          "label": "Source",
+          "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "a6a7f24b1c006bcbcc8bf6e086216c2013f0454a",
+      "name": "Quad9's withdrawal from France: A canary in the coal mine",
+      "section": "trending",
+      "status": "NEW",
+      "score": 328.2,
+      "oneLiner": "Quad9의 프랑스 철수 사례를 분석하는 블로그 글",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "343p · 102c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50538994"
+        },
+        {
+          "label": "Source",
+          "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "e409b60cf3e3aef7027d33af1d33401fc2d63161",
+      "name": "350 years ago, Ole Rømer discovered that light has a finite speed",
+      "section": "trending",
+      "status": "NEW",
+      "score": 255.0,
+      "oneLiner": "올레 뢰머의 빛 속도 발견 350주년을 다루는 글",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "267p · 79c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50536813"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "bce34c19d72f9511eac6a5a9937894eb0d58af77",
+      "name": "Phrack 73 Released",
+      "section": "trending",
+      "status": "NEW",
+      "score": 231.6,
+      "oneLiner": "Phrack 73 호의 공개를 알리는 글",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "294p · 46c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50535992"
+        },
+        {
+          "label": "Source",
+          "url": "https://phrack.org/issues/73/introduction_md"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "62c7b1de06936bde83b876719b988e5aa18d8ee4",
+      "name": "deepseek-ai/chat-demo",
+      "section": "releases",
+      "status": "ONGOING",
+      "score": 223.02,
+      "oneLiner": "간단한 챗 데모를 제공하는 deepseek-ai 저장소",
+      "whyNow": "새 릴리즈 영향으로 관심이 재점화되고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "4,576"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "999"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-18"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v0.1.1"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/deepseek-ai/chat-demo"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/deepseek-ai/chat-demo/releases/tag/v0.1.1"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "ca28f202332222ce5090f173c2c138ccbbd7f663",
+      "name": "NSA Internal Network Down",
+      "section": "trending",
+      "status": "NEW",
+      "score": 205.2,
+      "oneLiner": "NSA 내부 네트워크 장애 소식을 전하는 기사",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "334p · 4c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50533089"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "a3d7efb088728578a8cefb046cc8efc84545e91f",
+      "name": "krisgfx9/Wireless-Device-Battery-Monitor",
+      "section": "releases",
+      "status": "NEW",
+      "score": 139.74,
+      "oneLiner": "무선 장치 배터리 잔량을 작업 표시줄에 표시하는 가벼운 윈도우 앱",
+      "whyNow": "새 릴리즈 영향으로 관심이 재점화되고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,868"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "251"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-18"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v1.0.8"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor/releases/tag/v1.0.8"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "935f39d71a2a2403b273de0f111741b546e347ee",
+      "name": "apex-compute/ANR",
+      "section": "releases",
+      "status": "ONGOING",
+      "score": 125.22,
+      "oneLiner": "Apex Compute의 신경 렌더링 프로젝트 ANR 저장소",
+      "whyNow": "버전 업데이트 이후 재확산이 시작된 흐름입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,603"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "55"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-18"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "FG-V.B19"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/apex-compute/ANR"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/apex-compute/ANR/releases/tag/FG-V.B19"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "ba19e509a9b65698e32d9a9686341d0efaa7980e",
+      "name": "Immortal-Protocols/lastbook",
+      "section": "releases",
+      "status": "NEW",
+      "score": 98.1,
+      "oneLiner": "생존과 재건을 위한 오프라인 지식과 지도, 영상을 제공하는 프로젝트",
+      "whyNow": "릴리즈 직후라 적용/마이그레이션 경험이 모이고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "1,834"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "237"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-18"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v1.1.11"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/Immortal-Protocols/lastbook"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/Immortal-Protocols/lastbook/releases/tag/v1.1.11"
+        }
+      ],
+      "tags": [
+        "editor"
+      ]
+    },
+    {
+      "id": "c85d6b94ca458baa4098e64d623684433df506a8",
+      "name": "Noniv/abyssal-garden",
+      "section": "trending",
+      "status": "NEW",
+      "score": 94.04,
+      "oneLiner": "WebGPU로 코드만 생성한 브라우저용 수중 세계를 보여주는 프로젝트",
+      "whyNow": "스타 증가와 업데이트 흐름이 동시에 관측되는 상승 구간입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,188"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "326"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-18"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/Noniv/abyssal-garden"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}
