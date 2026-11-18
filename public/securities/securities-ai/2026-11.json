@@ -2,6 +2,29 @@
   "month": "2026-11",
   "events": [
     {
+      "id": "news:KB증권:https://www.fnnews.com/news/202611180833171617",
+      "date": "2026-11-18",
+      "company": "KB증권",
+      "title": "\"삼성SDS, 내년부터 AX 수주 매출 전환 본격화\"...목표주가 상향",
+      "oneLiner": "KB증권은 삼성SDS의 AX(인공지능 전환) 관련 IT서비스 수주가 내년부터 본격 매출로 전환되며 실적 개선을 견인할 것으로 전망했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"삼성SDS, 내년부터 AX 수주 매출 전환 본격화\"...목표주가 상향",
+          "url": "https://www.fnnews.com/news/202611180833171617"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-18"
+    },
+    {
       "id": "news:KB증권:https://www.hankyung.com/article/2026111706966",
       "date": "2026-11-17",
       "company": "KB증권",
@@ -46,6 +69,31 @@
       "tags": [],
       "confidence": 0.85,
       "updatedAt": "2026-11-17"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202611171342336572",
+      "date": "2026-11-17",
+      "company": "NH투자증권",
+      "title": "두나무, 국제 금융 AI 학술대회서 논문 3편 채택",
+      "oneLiner": "두나무의 AI·블록체인 논문 3편이 ICAIF 2026에 채택됐으며, 거래소 지갑 식별 기술은 업비트 데이터랩에 실제 적용됐다.",
+      "type": "리서치",
+      "areas": [
+        "리서치",
+        "AML",
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "두나무, 국제 금융 AI 학술대회서 논문 3편 채택",
+          "url": "https://www.fnnews.com/news/202611171342336572"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-11-18"
     },
     {
       "id": "news:NH투자증권:https://www.hankyung.com/article/2026111682976",

@@ -2,6 +2,52 @@
   "month": "2026-11",
   "events": [
     {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202611180901132122",
+      "date": "2026-11-18",
+      "company": "한국투자증권",
+      "title": "한투운용, ACE 고배당주 ETF 11월 분배금에 삼성전자 특별배당 반영",
+      "oneLiner": "한국투자신탁운용의 ACE 고배당주Plus커버드콜액티브 ETF가 삼성전자·SK하이닉스의 특별배당금을 각각 11월·12월 분배금에 반영한다.",
+      "type": "기타",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투운용, ACE 고배당주 ETF 11월 분배금에 삼성전자 특별배당 반영",
+          "url": "https://www.fnnews.com/news/202611180901132122"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-18"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202611180918051164",
+      "date": "2026-11-18",
+      "company": "하나증권",
+      "title": "하나증권, 이지스운용·딜로이트 안진과 맞손…초고액자산가 공략 강화",
+      "oneLiner": "하나증권이 이지스자산운용·딜로이트 안진과 패밀리오피스 경쟁력 강화를 위한 MOU를 체결해 초고액자산가 대상 종합 자산관리 서비스 협업을 강화한다.",
+      "type": "제휴",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "하나증권, 이지스운용·딜로이트 안진과 맞손…초고액자산가 공략 강화",
+          "url": "https://www.fnnews.com/news/202611180918051164"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-18"
+    },
+    {
       "id": "news:한국투자증권:https://www.fnnews.com/news/202611170803349203",
       "date": "2026-11-17",
       "company": "한국투자증권",
@@ -71,6 +117,102 @@
       "updatedAt": "2026-11-17"
     },
     {
+      "id": "news:키움증권:https://www.fnnews.com/news/202611171430454764",
+      "date": "2026-11-17",
+      "company": "키움증권",
+      "title": "키움증권, 연 5.7% 금리 발행어음 특판 200억원 '완판'",
+      "oneLiner": "키움증권이 연 5.7% 발행어음 특판(총 200억원)을 완판했다고 공지한 상품 판매 관련 보도입니다. 고객 대상 특판·한도 등 상품 운영 변화가 있어 모니터링 필요합니다.",
+      "type": "출시",
+      "areas": [
+        "브로커리지",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "키움증권, 연 5.7% 금리 발행어음 특판 200억원 '완판'",
+          "url": "https://www.fnnews.com/news/202611171430454764"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-11-18"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202611171435246994",
+      "date": "2026-11-17",
+      "company": "KB증권",
+      "title": "KB증권, 채권 토큰증권 발행·정산·상환 전 과정 실증",
+      "oneLiner": "KB증권이 채권 토큰증권의 발행·정산·상환 전 과정을 블록체인 기반으로 실증했다고 발표한 기술·시스템 실험 보도입니다. 증권 발행·정산 프로세스 변화와 연동 관련 의미가 있습니다.",
+      "type": "시스템",
+      "areas": [
+        "브로커리지",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "KB증권, 채권 토큰증권 발행·정산·상환 전 과정 실증",
+          "url": "https://www.fnnews.com/news/202611171435246994"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.94,
+      "updatedAt": "2026-11-18"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202611171433553570",
+      "date": "2026-11-17",
+      "company": "한국투자증권",
+      "title": "한투, ELW 258종목 신규 상장…삼성전자·SK하이닉스 기초자산 포함",
+      "oneLiner": "한국투자증권이 ELW 258종목을 신규 상장해 파생상품 라인업을 확대했다고 발표한 공지성 보도입니다. 상품 공급 확대는 투자자 접근성과 거래상품 구성을 변화시킵니다.",
+      "type": "출시",
+      "areas": [
+        "트레이딩",
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투, ELW 258종목 신규 상장…삼성전자·SK하이닉스 기초자산 포함",
+          "url": "https://www.fnnews.com/news/202611171433553570"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-11-18"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202611171449050550",
+      "date": "2026-11-17",
+      "company": "한국투자증권",
+      "title": "메모리 대표주 바뀌었다…ACE 반도체 ETF, 삼성전자 비중 20%로 확대",
+      "oneLiner": "한국투자신탁운용의 ETF 리밸런싱으로 ACE 글로벌반도체 TOP4 Plus ETF에서 삼성전자 비중이 크게 확대된 변경 내용에 관한 보도입니다. ETF 편입·비중 변경은 운용·거래상 영향이 있습니다.",
+      "type": "출시",
+      "areas": [
+        "트레이딩",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "메모리 대표주 바뀌었다…ACE 반도체 ETF, 삼성전자 비중 20%로 확대",
+          "url": "https://www.fnnews.com/news/202611171449050550"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-11-18"
+    },
+    {
       "id": "f4d0edd4d1d516014bf24fc8f8952899344be484",
       "date": "2026-11-16",
       "company": "NH투자증권",
@@ -91,7 +233,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-11-17"
+      "updatedAt": "2026-11-18"
     },
     {
       "id": "news:NH투자증권:https://www.mk.co.kr/news/stock/12209945",
