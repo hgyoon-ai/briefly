@@ -1,90 +1,66 @@
 {
   "range": {
-    "from": "2026-11-11",
-    "to": "2026-11-17"
+    "from": "2026-11-12",
+    "to": "2026-11-18"
   },
   "kpis": {
-    "collected": 14,
-    "deduped": 14,
+    "collected": 13,
+    "deduped": 13,
     "uniqueTopics": 6
   },
   "topTopics": [
-    {
-      "name": "Roadmap",
-      "count": 13
-    },
     {
       "name": "Competition",
       "count": 12
     },
     {
-      "name": "Manufacturing",
-      "count": 8
+      "name": "Roadmap",
+      "count": 11
     },
     {
-      "name": "Investment",
-      "count": 5
+      "name": "Manufacturing",
+      "count": 9
+    },
+    {
+      "name": "Demand",
+      "count": 4
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-11-11",
-      "dayOfWeek": "Wed",
-      "topic": "Roadmap",
-      "count": 1
-    },
-    {
-      "date": "2026-11-11",
-      "dayOfWeek": "Wed",
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
       "topic": "Competition",
-      "count": 1
-    },
-    {
-      "date": "2026-11-11",
-      "dayOfWeek": "Wed",
-      "topic": "Manufacturing",
-      "count": 0
-    },
-    {
-      "date": "2026-11-11",
-      "dayOfWeek": "Wed",
-      "topic": "Investment",
       "count": 1
     },
     {
       "date": "2026-11-12",
       "dayOfWeek": "Thu",
       "topic": "Roadmap",
-      "count": 4
-    },
-    {
-      "date": "2026-11-12",
-      "dayOfWeek": "Thu",
-      "topic": "Competition",
       "count": 2
     },
     {
       "date": "2026-11-12",
       "dayOfWeek": "Thu",
       "topic": "Manufacturing",
-      "count": 2
+      "count": 1
     },
     {
       "date": "2026-11-12",
       "dayOfWeek": "Thu",
-      "topic": "Investment",
+      "topic": "Demand",
       "count": 1
     },
     {
       "date": "2026-11-13",
       "dayOfWeek": "Fri",
-      "topic": "Roadmap",
+      "topic": "Competition",
       "count": 4
     },
     {
       "date": "2026-11-13",
       "dayOfWeek": "Fri",
-      "topic": "Competition",
+      "topic": "Roadmap",
       "count": 4
     },
     {
@@ -96,19 +72,19 @@
     {
       "date": "2026-11-13",
       "dayOfWeek": "Fri",
-      "topic": "Investment",
+      "topic": "Demand",
       "count": 1
     },
     {
       "date": "2026-11-14",
       "dayOfWeek": "Sat",
-      "topic": "Roadmap",
+      "topic": "Competition",
       "count": 0
     },
     {
       "date": "2026-11-14",
       "dayOfWeek": "Sat",
-      "topic": "Competition",
+      "topic": "Roadmap",
       "count": 0
     },
     {
@@ -120,19 +96,19 @@
     {
       "date": "2026-11-14",
       "dayOfWeek": "Sat",
-      "topic": "Investment",
+      "topic": "Demand",
       "count": 0
     },
     {
       "date": "2026-11-15",
       "dayOfWeek": "Sun",
-      "topic": "Roadmap",
+      "topic": "Competition",
       "count": 1
     },
     {
       "date": "2026-11-15",
       "dayOfWeek": "Sun",
-      "topic": "Competition",
+      "topic": "Roadmap",
       "count": 1
     },
     {
@@ -144,43 +120,43 @@
     {
       "date": "2026-11-15",
       "dayOfWeek": "Sun",
-      "topic": "Investment",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Demand",
       "count": 0
     },
     {
-      "date": "2026-11-16",
-      "dayOfWeek": "Mon",
-      "topic": "Roadmap",
-      "count": 1
-    },
-    {
-      "date": "2026-11-16",
-      "dayOfWeek": "Mon",
-      "topic": "Competition",
-      "count": 2
-    },
-    {
-      "date": "2026-11-16",
-      "dayOfWeek": "Mon",
-      "topic": "Manufacturing",
-      "count": 1
-    },
-    {
-      "date": "2026-11-16",
-      "dayOfWeek": "Mon",
-      "topic": "Investment",
-      "count": 1
-    },
-    {
       "date": "2026-11-17",
       "dayOfWeek": "Tue",
-      "topic": "Roadmap",
+      "topic": "Competition",
       "count": 2
     },
     {
       "date": "2026-11-17",
       "dayOfWeek": "Tue",
-      "topic": "Competition",
+      "topic": "Roadmap",
       "count": 2
     },
     {
@@ -192,98 +168,102 @@
     {
       "date": "2026-11-17",
       "dayOfWeek": "Tue",
-      "topic": "Investment",
+      "topic": "Demand",
       "count": 1
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Manufacturing",
+      "count": 2
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Demand",
+      "count": 0
     }
   ],
   "topIssues": [
     {
-      "id": 1,
+      "id": "semi-001",
       "status": "SHIFTING",
-      "title": "물리·에이전트형 AI 부상과 메모리·데이터 이동 중심의 반도체 성능 재정의",
-      "summary": "추론·에이전트형 AI, 로보틱스 등 물리 지능 워크로드가 확대되며 반도체 경쟁력이 연산량보다 메모리 계층 구조, 데이터 저장 위치, 대역폭·지연, 전력 효율에 의해 좌우되는 국면으로 이동하고 있다. 이는 메모리-컴퓨트 결합, HBM·CXL, 온디바이스 AI 등 아키텍처 전반의 재설계를 촉발하며 주요 반도체사의 기술·투자 방향을 바꾸고 있다.",
-      "articleCount": 2,
+      "title": "EUV 패권과 지정학: ASML 중심으로 재편되는 반도체 공급망",
+      "summary": "ASML의 EUV 독점력이 글로벌 반도체 공급망과 기술 표준을 사실상 좌우하는 단계로 진입했다. 파트너 중심 R&D·제조 문화와 긴밀한 공급망 통합이 장비 신뢰성과 생산능력을 뒷받침하며, 미국·유럽·중국 간 수출 통제와 산업 정책의 핵심 변수로 작용하고 있다. 이는 메모리·파운드리 투자 결정, 장비 멀티벤더 전략, 지역별 팹 클러스터 형성에 중장기적인 구조 변화를 유도하는 이슈로 부상했다.",
+      "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "SK hynix Newsroom",
-          "title": "[AI Ecosystem] Completing AI: Physical intelligence and the role of memory",
-          "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep4-5/"
-        },
-        {
           "source": "EE Times",
-          "title": "electronica 2026: Chipmakers Move Up the Stack as Data Centers and Physical AI Take Center Stage",
-          "url": "https://www.eetimes.com/electronica-2026-chipmakers-move-up-the-stack-as-data-centers-and-physical-ai-take-center-stage/"
+          "title": "Marc Hijink on ASML’s Culture, Supply Chain, and Geopolitics",
+          "url": "https://www.eetimes.com/marc-hijink-on-asmls-culture-supply-chain-and-geopolitics/"
         }
       ]
     },
     {
-      "id": 2,
+      "id": "semi-002",
+      "status": "ONGOING",
+      "title": "MRAM의 LPDDR 표준 편입 시도: 차세대 메모리 지형 변화",
+      "summary": "JEDEC 내 태스크포스가 MRAM을 최신 LPDDR 인터페이스와 연동하는 표준을 검토하면서, 비휘발성 메모리가 모바일·엣지용 DRAM 계열 인터페이스로 진입할 가능성이 부상하고 있다. 컨트롤러 업체가 하드 IP 수준에서 MRAM을 지원하게 되면, 저전력·고내구성을 활용한 AI 엣지 디바이스, 자동차, 산업용 메모리 구조 재설계가 가속화될 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Everspin Looks to Broaden MRAM Adoption with LPDDR Standard",
+          "url": "https://www.eetimes.com/everspin-looks-to-broaden-mram-adoption-with-lpddr-standard/"
+        }
+      ]
+    },
+    {
+      "id": "semi-003",
       "status": "SHIFTING",
-      "title": "칩에서 플랫폼으로: 반도체 업체의 상위 스택 진입과 기술 패권 경쟁",
-      "summary": "데이터센터·엣지·로봇용 AI 플랫폼을 둘러싸고 반도체 업체들이 하드웨어를 넘어 소프트웨어, 레퍼런스 시스템, 서비스까지 통합 제공하는 방향으로 이동하고 있다. 동시에 특정 국가·기업이 칩과 기술 스택을 무기화할 수 있다는 우려 속에 ‘판매·통제 vs 공급 제한’이라는 전략적 선택이 글로벌 공급망·산업 정책의 핵심 이슈로 부상하고 있다.",
-      "articleCount": 2,
+      "title": "반도체를 둘러싼 기술 주권 경쟁과 수출 통제의 장기화",
+      "summary": "엔비디아 리더십 변화와 무관하게, 첨단 칩과 소프트웨어 스택을 어디까지 개방·통제할지에 대한 ‘트로이 목마’식 전략 선택이 지속되고 있다. 미국 중심의 대중국 수출 규제, 동맹국 간 기술 공유 범위, AI 가속기·네트워킹 칩에 대한 라이선스 조건 등이 얽히며, 팹리스·클라우드·국가 간에 장기적인 기술 주권 경쟁 구도가 고착되는 양상이다.",
+      "articleCount": 1,
       "relatedArticles": [
         {
           "source": "EE Times",
           "title": "Technology as a Trojan Horse",
           "url": "https://www.eetimes.com/technology-as-a-trojan-horse/"
-        },
-        {
-          "source": "EE Times",
-          "title": "electronica 2026: Chipmakers Move Up the Stack as Data Centers and Physical AI Take Center Stage",
-          "url": "https://www.eetimes.com/electronica-2026-chipmakers-move-up-the-stack-as-data-centers-and-physical-ai-take-center-stage/"
         }
       ]
     },
     {
-      "id": 3,
+      "id": "semi-004",
       "status": "SHIFTING",
-      "title": "실리콘 기반 고집적 패키징과 시스템 소형화 경쟁 심화",
-      "summary": "실리콘 기판 양면에 IC와 수동소자를 동시에 집적하는 ‘실리콘 마더보드’ 같은 기술이 등장하며, 기판 면적 최대 90% 축소를 목표로 한 고밀도 패키징 경쟁이 가속화되고 있다. 이는 모바일·웨어러블·산업용 모듈 등 공간 제약이 큰 응용처에서 신규 설계 패러다임과 후공정 투자 재편을 유도하고 있다.",
+      "title": "AI 물리지능 시대의 메모리 아키텍처 재편",
+      "summary": "추론·에이전트형 AI가 확산되면서 단순 FLOPS 경쟁보다 데이터 저장 위치, 이동 비용, 메모리-연산 인접성이 성능의 핵심 척도가 되고 있다. HBM, CXL 메모리, NDP(Near-Data Processing) 등으로 대표되는 새로운 메모리 계층 설계가 데이터센터와 엣지 장비 모두에서 필수 요소로 부상하며, 메모리 업체들은 패키징·인터커넥트까지 포함한 ‘시스템급’ 최적화를 놓고 경쟁하는 국면이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "SK hynix Newsroom",
+          "title": "[AI Ecosystem] Completing AI: Physical intelligence and the role of memory",
+          "url": "https://news.skhynix.com/en/ai-ecosystem-series-ep4-5/"
+        }
+      ]
+    },
+    {
+      "id": "semi-005",
+      "status": "SHIFTING",
+      "title": "실리콘 마더보드와 양면 집적: 후공정·패키징 혁신",
+      "summary": "Nisshinbo가 양면 실리콘 기판 위에 IC와 수동소자를 동시 집적하는 ‘Silicon Motherboard’를 선보이며, 패키지 수준에서 최대 90%까지 면적을 줄일 수 있는 고밀도 통합이 가능해졌다. 이는 전력·신호 경로 단축, 소형화, 고주파 특성 개선을 통해 전장·5G·AI 엣지 모듈 설계를 변화시킬 수 있으며, 첨단 패키징을 둘러싼 파운드리·OSAT 간 경쟁을 심화시키는 요소로 작용하고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "EE Times",
           "title": "Silicon Motherboard Enables Double-Sided Integration of ICs and Passive Components",
           "url": "https://www.eetimes.com/silicon-motherboard-enables-double-sided-integration-of-ics-and-passive-components/"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "status": "ONGOING",
-      "title": "자동차 엣지 노드 지능화와 MCU 통합 플랫폼의 확산",
-      "summary": "아날로그·전력·드라이버 기능을 단일 칩에 통합한 MCU+가 모터 제어, 조명, 센싱을 한 번에 처리하는 솔루션으로 부상하며 자동차 엣지 노드 구조를 단순화하고 있다. 이는 차량 내 분산형 컴퓨팅 아키텍처 확산, 전장 반도체 수요 증대, 칩 수 감소에 따른 비용·전력 최적화를 동시에 추구하는 흐름과 맞물려 진행 중이다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "EE Times",
-          "title": "How NovoGenius® MCU+ Devices Are Reshaping the Automotive Edge Node",
-          "url": "https://www.eetimes.com/how-novogenius-mcu-devices-are-reshaping-the-automotive-edge-node/"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "status": "NEW",
-      "title": "소비자용 AI 디바이스 다각화와 프리미엄 반도체 수요 확대",
-      "summary": "지능형 안경, 차세대 갤럭시 제품 등 신규 AI 디바이스가 연이어 출시·수상하며 온디바이스 AI, 센서 융합, 저전력 연산을 위한 고부가가치 반도체 채택이 늘고 있다. 삼성전자의 CES 혁신상 다수 수상과 지능형 안경 출시 계획은 모바일·웨어러블 영역에서의 AP, 메모리, 패키징 고도화 수요를 자극하는 신호로 해석된다.",
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "source": "Samsung Newsroom",
-          "title": "Samsung Announces December Release for Intelligent Eyewear, Bringing a Smarter Way To See the World",
-          "url": "https://news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world"
-        },
-        {
-          "source": "Samsung Newsroom",
-          "title": "Samsung’s Latest Products Recognized by Consumer Technology Association Ahead of CES 2027",
-          "url": "https://news.samsung.com/global/samsungs-latest-products-recognized-by-consumer-technology-association-ahead-of-ces-2027"
-        },
-        {
-          "source": "Samsung Newsroom",
-          "title": "Inside Dakar 2026: How Galaxy Innovation Shaped the Athlete Experience",
-          "url": "https://news.samsung.com/global/inside-dakar-2026-how-galaxy-innovation-shaped-the-athlete-experience"
         }
       ]
     }

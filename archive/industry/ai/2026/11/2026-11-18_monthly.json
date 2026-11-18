@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-10-20",
+    "to": "2026-11-18"
+  },
+  "kpis": {
+    "collected": 72,
+    "deduped": 72,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "Tooling": 25,
+      "Product": 24,
+      "Models": 17,
+      "Infra": 17,
+      "Research": 17,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/20-10/26)",
+      "topicCounts": {
+        "Tooling": 9,
+        "Product": 8,
+        "Models": 5,
+        "Infra": 5,
+        "Research": 6
+      }
+    },
+    {
+      "week": "Week 2 (10/27-11/02)",
+      "topicCounts": {
+        "Tooling": 5,
+        "Product": 6,
+        "Models": 6,
+        "Infra": 3,
+        "Research": 6
+      }
+    },
+    {
+      "week": "Week 3 (11/03-11/09)",
+      "topicCounts": {
+        "Tooling": 6,
+        "Product": 4,
+        "Models": 4,
+        "Infra": 5,
+        "Research": 4
+      }
+    },
+    {
+      "week": "Week 4 (11/10-11/16)",
+      "topicCounts": {
+        "Tooling": 16,
+        "Product": 14,
+        "Models": 12,
+        "Infra": 9,
+        "Research": 9
+      }
+    },
+    {
+      "week": "Week 5 (11/17-11/18)",
+      "topicCounts": {
+        "Tooling": 2,
+        "Product": 3,
+        "Models": 2,
+        "Infra": 2,
+        "Research": 3
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "차세대 GPT-6.2 모델 공개와 비용 효율화",
+      "summary": "OpenAI가 GPT-6.2 Astra·Sol을 출시해 전문적 출력, 코드·컴퓨터 사용 능력, 추론 효율을 강화했다. 더 낮은 비용으로 고성능 모델을 제공하면서, 기업·개발자의 AI 활용 범위를 넓히는 방향으로 모델 업그레이드가 진행되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "Introducing GPT-6.2 Astra and Sol",
+          "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "도메인 특화형 AI 도입: 영업 업무 자동화 가속",
+      "summary": "ChatGPT for Sales가 출시되며 잠재고객 조사, 제안서 작성, CRM 업데이트 등 영업 전 과정을 AI가 보조하는 흐름이 강화되고 있다. 30개 이상 파트너 플러그인과 연계해 기존 SaaS·CRM 생태계와의 통합을 중시하는 방향으로 발전 중이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "Introducing ChatGPT for Sales",
+          "url": "https://openai.com/index/introducing-chatgpt-for-sales"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "의료 분야에서의 AI 활용과 규제·윤리 논의 심화",
+      "summary": "AI가 진단·치료·의료 워크플로우를 개선할 잠재력이 크지만, 데이터 신뢰성·임상 검증·규제 준수·윤리 문제 해결이 병행되어야 한다는 논의가 이어지고 있다. 연구자와 의료 전문가 협업, 책임 있는 모델 평가와 인프라 구축이 핵심 과제로 부상했다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Microsoft Research Blog",
+          "title": "Can AI help build a healthier future?",
+          "url": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "양자·클래식 하이브리드 슈퍼컴퓨팅 인프라 진화",
+      "summary": "Slurm HRES 플러그인 도입을 통해 QPU가 슈퍼컴퓨팅 센터에 통합되며, 양자-클래식 하이브리드 워크플로우가 실험 단계에서 실사용 단계로 확장되고 있다. 북미·유럽·아시아 국가 프로그램이 이를 주도하며 차세대 HPC 인프라 전략의 축으로 자리잡는 추세다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Integrating QPUs into Supercomputing Centers Using Slurm HRES Plugins",
+          "url": "https://developer.nvidia.com/blog/integrating-qpus-into-supercomputing-centers-using-slurm-hres-plugins/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "GPU 가속 과학계산: 분자 동역학 시뮬레이션 성능 도약",
+      "summary": "NVIDIA의 cuPotential은 MD(분자 동역학) 시뮬레이션을 위한 정확하고 유연한 포텐셜 프리미티브를 제공해 GPU 상에서 대규모·장시간 시뮬레이션을 가능하게 한다. 이는 신약 개발·재료 연구 등 과학 연구에서 AI+HPC 융합을 가속하는 기반으로 작용한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Accelerate Molecular Dynamics Simulations with Accurate, Flexible Primitives Using NVIDIA cuPotential",
+          "url": "https://developer.nvidia.com/blog/accelerate-molecular-dynamics-simulations-with-accurate-flexible-primitives-using-nvidia-cupotential/"
+        }
+      ]
+    }
+  ]
+}

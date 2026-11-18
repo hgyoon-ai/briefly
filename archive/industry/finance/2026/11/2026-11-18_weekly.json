@@ -1,0 +1,281 @@
+{
+  "range": {
+    "from": "2026-11-12",
+    "to": "2026-11-18"
+  },
+  "kpis": {
+    "collected": 12,
+    "deduped": 12,
+    "uniqueTopics": 8
+  },
+  "topTopics": [
+    {
+      "name": "MarketInfra",
+      "count": 11
+    },
+    {
+      "name": "Policy",
+      "count": 6
+    },
+    {
+      "name": "Security",
+      "count": 4
+    },
+    {
+      "name": "Enforcement",
+      "count": 2
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Security",
+      "count": 0
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Enforcement",
+      "count": 0
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "MarketInfra",
+      "count": 4
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Security",
+      "count": 0
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Enforcement",
+      "count": 1
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Security",
+      "count": 0
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Enforcement",
+      "count": 0
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Security",
+      "count": 0
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Enforcement",
+      "count": 0
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Security",
+      "count": 0
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Enforcement",
+      "count": 0
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Security",
+      "count": 2
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Enforcement",
+      "count": 1
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Security",
+      "count": 2
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Enforcement",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "AI 반도체 랠리와 엔비디아 이후 ‘앤트로픽 변수’ 부각",
+      "summary": "엔비디아의 기대 이상 실적과 AI 투자 확대 전망으로 글로벌 반도체·AI 관련주가 재차 반등하고 있다. 동시에 시장 관심은 차세대 AI 모델 기업인 앤트로픽과 향후 IPO, 그리고 엔비디아 의존도 완화 구도에 맞춰 이동하는 중이다.",
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "엔비디아 깜짝 실적에 반도체 반등 … 이제 공은 앤트로픽으로",
+          "url": "https://www.mk.co.kr/news/stock/12212141"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "젠슨황 없는 컨퍼런스콜... 엔비디아 주가는 올랐다 왜?",
+          "url": "https://www.mk.co.kr/news/business/12212008"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "“이번주엔 앞길 좀 트일까요”…엔비디아에 미중회담·앤트로픽 IPO까지, 코스피는?",
+          "url": "https://www.mk.co.kr/news/stock/12209596"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "‘탈 엔비디아’ AI 생태계 확산과 삼성전자 수혜 기대",
+      "summary": "AI 인프라가 엔비디아 단일 강자 구조에서 주요 빅테크와 경쟁 반도체 업체들로 다극화되면서, 파운드리·메모리 동시 역량을 가진 삼성전자가 구조적 수혜주로 부각되고 있다. AI 서버 및 HBM 수요 확대가 국내 대형 IT·반도체주의 리레이팅 요인으로 평가된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "KB증권 “삼성전자, 탈엔비디아 시대 최대 수혜주”",
+          "url": "https://www.mk.co.kr/news/stock/12209588"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "국내 AI 인프라 투자 확대와 대형 서버 공급 계약",
+      "summary": "국내 빅테크와 데이터센터 사업자의 AI 인프라 투자가 본격화되면서 서버·GPU·스토리지 수요가 급증하고 있다. 네이버와의 대형 서버 공급 계약 사례처럼, 관련 장비·솔루션 기업의 중장기 성장성이 부각되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "M83 자회사 피앤티링크, 네이버와 630억 원 대형 서버 공급 계약",
+          "url": "https://www.mk.co.kr/news/stock/12211033"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "디지털자산기본법 가속…법인·기관 중심 가상자산 시장 재편",
+      "summary": "정부와 국회가 디지털자산기본법 제정을 서두르면서 가상자산 시장이 개인 중심에서 법인·기관투자자 중심 구조로 재편될 준비에 들어갔다. 커스터디, 공시·내부통제, 상장·상폐 규율 등이 제도권 금융 수준으로 강화될 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한국, 디지털자산기본법 입법 가속…법인·기관투자자 시장 개방 본격화[엠블록레터]",
+          "url": "https://www.mk.co.kr/news/stock/12208192"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "금융시장 불공정거래 엄정 단속 기조 강화",
+      "summary": "대통령이 중대범죄수사청에 금융시장 불공정행위 전담 수사를 별도로 지시하면서 시세조종·미공개정보 이용·허위공시 등 불공정거래에 대한 규제·집행 강도가 한층 높아지고 있다. 이는 단기 투기 거래萎縮과 기관·외국인 신뢰 제고 요인으로 작용할 수 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[속보] 李대통령 “금융시장 불공정행위 엄정단속, 중수청에 별도 지시”",
+          "url": "https://www.mk.co.kr/news/economy/12207754"
+        }
+      ]
+    }
+  ]
+}

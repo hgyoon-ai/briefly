@@ -1,0 +1,267 @@
+{
+  "range": {
+    "from": "2026-11-12",
+    "to": "2026-11-18"
+  },
+  "kpis": {
+    "collected": 12,
+    "deduped": 12,
+    "uniqueTopics": 6
+  },
+  "topTopics": [
+    {
+      "name": "Roadmap",
+      "count": 12
+    },
+    {
+      "name": "Competition",
+      "count": 9
+    },
+    {
+      "name": "Policy",
+      "count": 8
+    },
+    {
+      "name": "Investment",
+      "count": 6
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-12",
+      "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 4
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 4
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Investment",
+      "count": 2
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "테슬라 사이버캡: 론칭·구독 모델·사고 이슈까지 이어지는 로보택시 논란",
+      "summary": "테슬라가 사이버캡 개인용 주문(2만9,990달러)과 월 299달러 자율주행 필수 구독 모델을 확정하고, 기가베를린에 연간 100만 대 생산을 목표로 30억 유로 투자를 발표했다. 동시에 NHTSA에 두 달 새 8건의 사고가 보고되고 초기 버전 완성도 논란까지 겹치면서, 공격적인 가격·구독 전략과 안전·품질 리스크가 맞물린 로보택시 비즈니스 모델이 EV/자율주행 업계의 핵심 이슈로 부상했다.",
+      "articleCount": 5,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla Cybercab’s autonomy agreement is insane: $299/mo or it doesn’t move",
+          "url": "https://electrek.co/2026/11/14/tesla-cybercab-autonomy-subscription-agreement-terms/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Tesla confirms €3B Cybercab factory at Giga Berlin for up to 1M a year",
+          "url": "https://electrek.co/2026/11/16/tesla-cybercab-giga-berlin-3-billion-1-million/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Tesla Cybercab has crashed 8 times, and the data shows a speed problem",
+          "url": "https://electrek.co/2026/11/16/tesla-cybercab-crashes-speed-problem/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "웨이모, 캘리포니아 규제 여파로 미국 전역 고속도로 자율주행 중단",
+      "summary": "캘리포니아 DMV가 경찰 봉쇄선 통과 시도 영상 이후 웨이모의 고속도로 운행 중단을 명령하자, 웨이모가 미국 전역에서 고속도로 자율주행 운영을 중단했다. 이는 주 단위 규제 리스크가 타 주 사업에도 직접적인 연쇄 효과를 낼 수 있음을 보여주며, 자율주행 상용화 속도와 사업 모델에 대한 재검토를 촉발하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Waymo halts highway operation nationwide after CA DMV pause",
+          "url": "https://electrek.co/2026/11/17/waymo-halts-highway-operation-nationwide-after-ca-dmv-pause/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "중국, 19인승 배터리 전기 여객기로 전기 항공기 상용 시대 시동",
+      "summary": "중국 COMAC의 19인승 배터리 전기 통근용 항공기 CE-25A가 산둥 빈저우에서 최초 유인 비행을 성공적으로 마쳤다. 약 400km 항속, 10톤급 시제기인 이 기체는 이미 19회의 무인 자율 비행 시험을 거쳤으며, 단거리 노선 전기화와 항공 부문의 탈탄소·전동화 경쟁이 본격화되고 있음을 의미한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "China’s electric airliner era starts with a 19-seat plane and 400 km of range",
+          "url": "https://electrek.co/2026/11/15/china-comac-ce-25a-electric-plane-crewed-flight/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "아이슬란드 첫 상업용 풍력단지, 수력발전 물 절감으로 겨울 전력 안정성 강화",
+      "summary": "아이슬란드에 첫 상업용 규모의 풍력 발전단지가 들어서면서, 바람이 강한 시기에 전력 생산을 늘려 수력 저수지 방류량을 줄이고 겨울에 사용할 물을 비축하는 ‘풍력+수력’ 하이브리드 운영 모델이 부상하고 있다. 이는 재생에너지 간 보완을 통해 전력망 안정성과 수자원 효율을 동시에 높이는 사례로 주목된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Iceland’s first wind farm comes with a water-saving bonus",
+          "url": "https://electrek.co/2026/11/17/iceland-first-wind-farm-gives-its-hydropower-a-winter-boost/"
+        }
+      ]
+    }
+  ]
+}

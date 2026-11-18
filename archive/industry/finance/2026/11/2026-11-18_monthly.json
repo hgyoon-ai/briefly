@@ -1,0 +1,153 @@
+{
+  "range": {
+    "from": "2026-10-20",
+    "to": "2026-11-18"
+  },
+  "kpis": {
+    "collected": 44,
+    "deduped": 44,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "MarketInfra": 39,
+      "Policy": 24,
+      "Regulation": 15,
+      "Security": 11,
+      "Compliance": 11,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/20-10/26)",
+      "topicCounts": {
+        "MarketInfra": 9,
+        "Policy": 8,
+        "Regulation": 4,
+        "Security": 0,
+        "Compliance": 2
+      }
+    },
+    {
+      "week": "Week 2 (10/27-11/02)",
+      "topicCounts": {
+        "MarketInfra": 5,
+        "Policy": 2,
+        "Regulation": 2,
+        "Security": 1,
+        "Compliance": 0
+      }
+    },
+    {
+      "week": "Week 3 (11/03-11/09)",
+      "topicCounts": {
+        "MarketInfra": 6,
+        "Policy": 3,
+        "Regulation": 1,
+        "Security": 4,
+        "Compliance": 3
+      }
+    },
+    {
+      "week": "Week 4 (11/10-11/16)",
+      "topicCounts": {
+        "MarketInfra": 11,
+        "Policy": 7,
+        "Regulation": 4,
+        "Security": 1,
+        "Compliance": 4
+      }
+    },
+    {
+      "week": "Week 5 (11/17-11/18)",
+      "topicCounts": {
+        "MarketInfra": 2,
+        "Policy": 0,
+        "Regulation": 0,
+        "Security": 2,
+        "Compliance": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "엔비디아 실적 호조와 AI 생태계 재평가: 앤트로픽으로 쏠리는 시선",
+      "summary": "엔비디아의 예상치를 크게 웃돈 실적과 매출 가이던스가 반도체·AI 관련주 반등을 이끌며, 투자자 관심이 다음 변수로 부상한 앤트로픽의 상장 시점·수익성 리스크로 옮겨가고 있다.",
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "엔비디아 깜짝 실적에 반도체 반등 … 이제 공은 앤트로픽으로",
+          "url": "https://www.mk.co.kr/news/stock/12212141"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "“AI 꺾이면 132조원 증발”...한은이 던진 ‘최악 시나리오’",
+          "url": "https://www.mk.co.kr/news/stock/12186625"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "링컨까지 소환한 베센트... 앤트로픽 상장, 다음달 확정인가",
+          "url": "https://www.mk.co.kr/news/business/12182433"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "디지털자산기본법 가속과 기관투자자 시장 진입",
+      "summary": "정부와 국회가 디지털자산기본법 제정에 속도를 내며 법인·기관투자자의 가상자산 투자와 수탁, 파생상품 허용 범위를 넓히는 논의를 진행 중으로, 국내 디지털 자산 시장 제도화와 자본 유입 확대의 분수령이 되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한국, 디지털자산기본법 입법 가속…법인·기관투자자 시장 개방 본격화[엠블록레터]",
+          "url": "https://www.mk.co.kr/news/stock/12208192"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "금융시장 불공정거래 전방위 단속 강화",
+      "summary": "이재명 대통령이 중대범죄수사청에 금융시장 불공정행위 엄정 단속을 별도로 지시하면서 시세조종·미공개정보 이용·허위공시 등 자본시장 범죄에 대한 수사와 제재가 한층 강화될 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[속보] 李대통령 “금융시장 불공정행위 엄정단속, 중수청에 별도 지시”",
+          "url": "https://www.mk.co.kr/news/economy/12207754"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "금융·증권사 대상 해킹과 개인정보 유출 리스크 확대",
+      "summary": "한양증권에서 다우오피스 취약점으로 추정되는 경로를 통해 고객 계좌·주민번호 등 민감 정보가 유출되면서, 빗썸 사례에 이어 금투업권 전반의 보안 투자와 규제 당국의 점검 강화가 불가피해졌다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한양증권서도 개인정보 유출…금투업권 해킹 비상",
+          "url": "https://www.mk.co.kr/news/stock/12194338"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "글로벌 금융·외교 무대에서의 사이버 전쟁 고도화",
+      "summary": "중국 배후 해킹 조직이 아세안 정상회의를 겨냥한 광범위한 사이버 공격을 시도한 정황이 드러나면서, 외교안보 이슈가 금융시장 인프라·결제망·정보시스템에 직·간접적 리스크를 키우는 사이버 전쟁 국면이 본격화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[단독] 中 해커, 아세안정상회의 공격…외교안보 해킹 전쟁 본격화",
+          "url": "https://www.mk.co.kr/news/stock/12211059"
+        }
+      ]
+    }
+  ]
+}

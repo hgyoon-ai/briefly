@@ -1,68 +1,68 @@
 {
   "range": {
-    "from": "2026-10-19",
-    "to": "2026-11-17"
+    "from": "2026-10-20",
+    "to": "2026-11-18"
   },
   "kpis": {
-    "collected": 103,
-    "deduped": 103,
+    "collected": 101,
+    "deduped": 101,
     "uniqueTopics": 10,
     "marketShare": {
       "Market": 32,
       "Supply": 24,
-      "Policy": 17,
-      "UrbanRenewal": 14,
-      "Regulation": 13,
+      "Policy": 16,
+      "UrbanRenewal": 15,
+      "Regulation": 14,
       "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/19-10/25)",
-      "topicCounts": {
-        "Market": 21,
-        "Supply": 13,
-        "Policy": 8,
-        "UrbanRenewal": 5,
-        "Regulation": 5
-      }
-    },
-    {
-      "week": "Week 2 (10/26-11/01)",
-      "topicCounts": {
-        "Market": 14,
-        "Supply": 13,
-        "Policy": 7,
-        "UrbanRenewal": 8,
-        "Regulation": 3
-      }
-    },
-    {
-      "week": "Week 3 (11/02-11/08)",
-      "topicCounts": {
-        "Market": 17,
-        "Supply": 11,
-        "Policy": 6,
-        "UrbanRenewal": 6,
-        "Regulation": 8
-      }
-    },
-    {
-      "week": "Week 4 (11/09-11/15)",
+      "week": "Week 1 (10/20-10/26)",
       "topicCounts": {
         "Market": 16,
-        "Supply": 11,
+        "Supply": 13,
         "Policy": 9,
-        "UrbanRenewal": 9,
+        "UrbanRenewal": 6,
+        "Regulation": 6
+      }
+    },
+    {
+      "week": "Week 2 (10/27-11/02)",
+      "topicCounts": {
+        "Market": 9,
+        "Supply": 12,
+        "Policy": 7,
+        "UrbanRenewal": 7,
+        "Regulation": 1
+      }
+    },
+    {
+      "week": "Week 3 (11/03-11/09)",
+      "topicCounts": {
+        "Market": 16,
+        "Supply": 12,
+        "Policy": 7,
+        "UrbanRenewal": 6,
+        "Regulation": 7
+      }
+    },
+    {
+      "week": "Week 4 (11/10-11/16)",
+      "topicCounts": {
+        "Market": 19,
+        "Supply": 14,
+        "Policy": 11,
+        "UrbanRenewal": 10,
         "Regulation": 8
       }
     },
     {
-      "week": "Week 5 (11/16-11/17)",
+      "week": "Week 5 (11/17-11/18)",
       "topicCounts": {
         "Market": 3,
         "Supply": 2,
-        "Policy": 2,
+        "Policy": 0,
         "UrbanRenewal": 2,
         "Regulation": 3
       }
@@ -72,8 +72,50 @@
     {
       "id": 1,
       "status": "ONGOING",
-      "title": "공동주택 리모델링 규제 완화: 주민 동의율 70%로 인하",
-      "summary": "국토교통부가 공동주택 리모델링 추진 시 필요한 주민 동의율 기준을 기존 75%에서 70%로 낮추고, 수직증축 안전성 검토 전문기관을 추가하며 거주의무 예외 범위도 넓혀 리모델링 활성화를 유도하고 있다.",
+      "title": "서울 아파트 핵심·외곽 간 가격 격차 재확대",
+      "summary": "정부 대출 규제 강화 속에서 노도강(노원·도봉·강북) 중위가격은 약보합인 반면, 마용성(마포·용산·성동)은 크게 올라 1년 4개월 사이 갈아타기 비용이 약 5억원 늘었다. 규제와 수요가 겹치며 수도권 내 입지별 양극화가 심화되는 흐름이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "‘노도강’서 ‘마용성’ 가는데 5억 더 필요",
+          "url": "https://biz.heraldcorp.com/article/10941096"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "정비사업이 이끄는 성남 원도심 집값·청약 열기",
+      "summary": "성남 원도심 재개발·재건축 등 정비사업이 활발해지며 올해 아파트 평당 매매가격이 12.84% 뛰었고, 최근 3년간 누적 상승률은 38.2%에 달했다. 정비사업 단지의 1순위 평균 청약 경쟁률도 26.98대 1로 높게 형성되며 경기권 재생사업 기대를 키우고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "“정비사업 추진 활발”…성남 집값, 원도심이 견인",
+          "url": "https://www.mk.co.kr/news/realestate/12212183"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "모듈러 공법 확산…고속 시공과 품질 논쟁",
+      "summary": "경기 의왕 초평지구에서 하루 한 층 시공이 가능한 콘크리트 모듈러 공사가 진행 중이다. 시공사는 층간소음·누수 우려가 적고 한 동을 한 달 내 완공할 수 있다고 강조하지만, 초고속 시공에 따른 구조·마감 품질과 장기 내구성에 대한 시장의 의구심이 함께 제기되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "아파트 한층 하루만에 짓는데 ‘날림’ 아니다?…층간소음·누수 걱정 없다는데 [르포]",
+          "url": "https://www.mk.co.kr/news/realestate/12212179"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "공동주택 리모델링 규제 완화로 정비 수요 자극",
+      "summary": "국토교통부가 리모델링 추진을 위한 주민 동의율 기준을 75%에서 70%로 낮추고, 수직증축 안전성 검토 기관을 확대하는 등 문턱을 낮춘다. 거주의무 예외 범위도 넓어지면서 재건축 대체 수단으로 리모델링 사업이 늘어날 가능성이 커지고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -84,63 +126,16 @@
       ]
     },
     {
-      "id": 2,
+      "id": 5,
       "status": "SHIFTING",
-      "title": "고가 아파트 양도세 부담 급등: 매도 시점에 따른 세금 격차 확대",
-      "summary": "압구정 등 고가 아파트의 양도소득세가 매도 시점과 보유·거주 조건에 따라 수십억 원까지 차이 나는 사례가 나타나면서, 보유세·양도세 체계와 시장 타이밍에 대한 고가 주택 보유자의 세금 리스크가 커지고 있다.",
+      "title": "고가 아파트 양도세 부담 급증으로 매도·보유 전략 재조정",
+      "summary": "압구정 아파트 사례처럼 양도 시점과 제도 적용 여부에 따라 양도소득세가 34억원에서 71억원까지 벌어지는 등 고가 주택 보유자의 세 부담이 크게 달라지고 있다. 세법 변화 시점에 맞춘 매도·보유 전략 수립이 투자 수익에 결정적 변수가 되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "한국경제(부동산)",
           "title": "압구정 아파트 양도세 34억에서 71억으로…매도 시점이 가른 세금",
           "url": "https://www.hankyung.com/article/202611095154i"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "status": "ONGOING",
-      "title": "서울 주택 매매·전세 심리 동반 위축",
-      "summary": "서울 집값 급등과 대출 부담 확대 등으로 실수요자와 전세 수요 모두 심리가 얼어붙으며 거래가 둔화되고 있어, 가격 피로 누적과 거래 절벽이 동시 진행되는 모습이 나타나고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "한국경제(부동산)",
-          "title": "치솟는 가격에 부담 커졌나…서울 매매·전세심리 동반위축",
-          "url": "https://www.hankyung.com/article/2026111699711"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "status": "ONGOING",
-      "title": "서리풀1 공공주택지구: 그린벨트 해제와 임대 중심 공급 구조",
-      "summary": "서울 서초구 서리풀1 공공주택지구 조성을 위해 그린벨트를 해제하면서 전체 물량의 약 79%를 임대주택으로 공급하고 분양주택은 약 20%에 그치는 계획이 추진돼, 강남권 공공택지 공급이 임대 중심으로 재편되고 있다.",
-      "articleCount": 2,
-      "relatedArticles": [
-        {
-          "source": "매일경제(부동산)",
-          "title": "서리풀 그린벨트 풀지만 … 분양주택은 20%뿐",
-          "url": "https://www.mk.co.kr/news/realestate/12210113"
-        },
-        {
-          "source": "헤럴드경제(부동산)",
-          "title": "‘10채 중 8채 임대’ 강남 그린벨트 풀어 짓는 서리풀1 계획안 [부동산360]",
-          "url": "https://biz.heraldcorp.com/article/10938201"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "status": "ONGOING",
-      "title": "LH, 민간참여 공공주택사업 확대와 사업기간 단축 유도",
-      "summary": "LH가 남양주왕숙 등 10개 블록에서 약 9000호 규모의 민간참여 공공주택사업 공모를 추진하며 사업기간 단축 평가 항목을 도입해, 공급 속도 제고와 민간 참여 확대를 동시에 노리고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "매일경제(부동산)",
-          "title": "공급 속도 내는 LH…사업기간 단축 평가 신설, 하반기 9000호 공모",
-          "url": "https://www.mk.co.kr/news/realestate/12209642"
         }
       ]
     }

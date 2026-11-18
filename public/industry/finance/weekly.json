@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-11-11",
-    "to": "2026-11-17"
+    "from": "2026-11-12",
+    "to": "2026-11-18"
   },
   "kpis": {
     "collected": 12,
@@ -11,69 +11,45 @@
   "topTopics": [
     {
       "name": "MarketInfra",
-      "count": 10
+      "count": 11
     },
     {
       "name": "Policy",
-      "count": 7
+      "count": 6
     },
     {
       "name": "Security",
-      "count": 3
+      "count": 4
     },
     {
-      "name": "Regulation",
-      "count": 3
+      "name": "Enforcement",
+      "count": 2
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-11-11",
-      "dayOfWeek": "Wed",
-      "topic": "MarketInfra",
-      "count": 0
-    },
-    {
-      "date": "2026-11-11",
-      "dayOfWeek": "Wed",
-      "topic": "Policy",
-      "count": 0
-    },
-    {
-      "date": "2026-11-11",
-      "dayOfWeek": "Wed",
-      "topic": "Security",
-      "count": 0
-    },
-    {
-      "date": "2026-11-11",
-      "dayOfWeek": "Wed",
-      "topic": "Regulation",
-      "count": 0
-    },
-    {
       "date": "2026-11-12",
       "dayOfWeek": "Thu",
       "topic": "MarketInfra",
-      "count": 1
+      "count": 0
     },
     {
       "date": "2026-11-12",
       "dayOfWeek": "Thu",
       "topic": "Policy",
-      "count": 1
+      "count": 0
     },
     {
       "date": "2026-11-12",
       "dayOfWeek": "Thu",
       "topic": "Security",
-      "count": 1
+      "count": 0
     },
     {
       "date": "2026-11-12",
       "dayOfWeek": "Thu",
-      "topic": "Regulation",
-      "count": 1
+      "topic": "Enforcement",
+      "count": 0
     },
     {
       "date": "2026-11-13",
@@ -96,8 +72,8 @@
     {
       "date": "2026-11-13",
       "dayOfWeek": "Fri",
-      "topic": "Regulation",
-      "count": 2
+      "topic": "Enforcement",
+      "count": 1
     },
     {
       "date": "2026-11-14",
@@ -120,7 +96,7 @@
     {
       "date": "2026-11-14",
       "dayOfWeek": "Sat",
-      "topic": "Regulation",
+      "topic": "Enforcement",
       "count": 0
     },
     {
@@ -144,7 +120,7 @@
     {
       "date": "2026-11-15",
       "dayOfWeek": "Sun",
-      "topic": "Regulation",
+      "topic": "Enforcement",
       "count": 0
     },
     {
@@ -168,7 +144,7 @@
     {
       "date": "2026-11-16",
       "dayOfWeek": "Mon",
-      "topic": "Regulation",
+      "topic": "Enforcement",
       "count": 0
     },
     {
@@ -192,56 +168,66 @@
     {
       "date": "2026-11-17",
       "dayOfWeek": "Tue",
-      "topic": "Regulation",
+      "topic": "Enforcement",
+      "count": 1
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Security",
+      "count": 2
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Enforcement",
       "count": 0
     }
   ],
   "topIssues": [
     {
-      "id": "F1",
+      "id": 1,
       "status": "ONGOING",
-      "title": "디지털자산기본법 가속과 기관투자자 시장 진입 본격화",
-      "summary": "정부·국회가 디지털자산기본법 제정을 서두르며 가상자산 시장을 제도권 금융으로 편입하려는 움직임이 강화되고 있다. 특히 법인·기관투자자 진입 허용과 인프라·규제 체계 정비가 병행되면서 거래소, 커스터디, 증권사 등 관련 금융·핀테크 업계의 중장기 성장 및 신규 비즈니스 기회가 확대될 전망이다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "매일경제(증권)",
-          "title": "한국, 디지털자산기본법 입법 가속…법인·기관투자자 시장 개방 본격화[엠블록레터]",
-          "url": "https://www.mk.co.kr/news/stock/12208192"
-        }
-      ]
-    },
-    {
-      "id": "F2",
-      "status": "NEW",
-      "title": "금융시장 불공정거래 전면 단속 기조 강화",
-      "summary": "대통령이 금융시장 불공정행위에 대한 엄정 단속을 공개 지시하고 중수청에 전담 수사를 주문하면서 자본시장 불공정거래, 시세조종, 내부자거래 등에 대한 규제·수사 리스크가 크게 높아졌다. 이에 따라 개인·기관 투자자, 증권사, 운용사 등 전 금융투자 업권의 컴플라이언스 비용과 리스크 관리 수요가 확대될 것으로 보인다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "매일경제(증권)",
-          "title": "[속보] 李대통령 “금융시장 불공정행위 엄정단속, 중수청에 별도 지시”",
-          "url": "https://www.mk.co.kr/news/economy/12207754"
-        }
-      ]
-    },
-    {
-      "id": "F3",
-      "status": "ONGOING",
-      "title": "엔비디아 리스크와 AI 반도체 패권 변화, 한국 IT·반도체 수혜 구도",
-      "summary": "엔비디아 CEO 거취 논란과 미·중 갈등, AI 헤지펀드 매매 충격 등으로 글로벌 AI 반도체·빅테크 관련 변동성이 커지는 가운데, 탈엔비디아 구도가 부각되며 삼성전자를 비롯한 국내 반도체·IT 기업의 중장기 수혜 기대가 커지고 있다. 동시에 AI 관련 지수 급락과 헤지펀드 패닉은 단기 조정 이후 장기 투자 기회라는 시각도 형성되고 있다.",
+      "title": "AI 반도체 랠리와 엔비디아 이후 ‘앤트로픽 변수’ 부각",
+      "summary": "엔비디아의 기대 이상 실적과 AI 투자 확대 전망으로 글로벌 반도체·AI 관련주가 재차 반등하고 있다. 동시에 시장 관심은 차세대 AI 모델 기업인 앤트로픽과 향후 IPO, 그리고 엔비디아 의존도 완화 구도에 맞춰 이동하는 중이다.",
       "articleCount": 3,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
-          "title": "“사내 여성 임원과도 또 불륜”…엔비디아, 젠슨황 해임 준비",
-          "url": "https://www.mk.co.kr/news/stock/12205989"
+          "title": "엔비디아 깜짝 실적에 반도체 반등 … 이제 공은 앤트로픽으로",
+          "url": "https://www.mk.co.kr/news/stock/12212141"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "젠슨황 없는 컨퍼런스콜... 엔비디아 주가는 올랐다 왜?",
+          "url": "https://www.mk.co.kr/news/business/12212008"
         },
         {
           "source": "매일경제(증권)",
           "title": "“이번주엔 앞길 좀 트일까요”…엔비디아에 미중회담·앤트로픽 IPO까지, 코스피는?",
           "url": "https://www.mk.co.kr/news/stock/12209596"
-        },
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "‘탈 엔비디아’ AI 생태계 확산과 삼성전자 수혜 기대",
+      "summary": "AI 인프라가 엔비디아 단일 강자 구조에서 주요 빅테크와 경쟁 반도체 업체들로 다극화되면서, 파운드리·메모리 동시 역량을 가진 삼성전자가 구조적 수혜주로 부각되고 있다. AI 서버 및 HBM 수요 확대가 국내 대형 IT·반도체주의 리레이팅 요인으로 평가된다.",
+      "articleCount": 1,
+      "relatedArticles": [
         {
           "source": "매일경제(증권)",
           "title": "KB증권 “삼성전자, 탈엔비디아 시대 최대 수혜주”",
@@ -250,10 +236,10 @@
       ]
     },
     {
-      "id": "F4",
-      "status": "ONGOING",
-      "title": "AI·서버 인프라 투자 확대와 국내 수혜 기업 부각",
-      "summary": "네이버의 대규모 서버 도입 등 클라우드·AI 인프라 투자가 이어지며 국내 서버·데이터센터 관련 기업의 성장성이 부각되고 있다. M83 자회사 피앤티링크의 630억 원 규모 공급 계약은 국내 IT 인프라 기업이 빅테크 수요 확대의 직접 수혜를 보는 사례로, 향후 유사 수주 모멘텀이 주요 투자 포인트로 작용할 전망이다.",
+      "id": 3,
+      "status": "NEW",
+      "title": "국내 AI 인프라 투자 확대와 대형 서버 공급 계약",
+      "summary": "국내 빅테크와 데이터센터 사업자의 AI 인프라 투자가 본격화되면서 서버·GPU·스토리지 수요가 급증하고 있다. 네이버와의 대형 서버 공급 계약 사례처럼, 관련 장비·솔루션 기업의 중장기 성장성이 부각되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -264,16 +250,30 @@
       ]
     },
     {
-      "id": "F5",
+      "id": 4,
       "status": "ONGOING",
-      "title": "AI 알고리즘 매매와 헤지펀드 공황이 만든 변동성 장세",
-      "summary": "AI 기반 알고리즘 매매 확산 속에 헤지펀드의 공황 매도가 겹치며 필라델피아 반도체 지수 급락 등 단기 변동성이 확대됐다. 자동화된 매매 전략이 시장 흐름을 증폭시키는 가운데, 일부 투자자들은 과도한 조정을 중장기 AI 성장 스토리에 대한 저가 매수 기회로 인식하고 있다.",
+      "title": "디지털자산기본법 가속…법인·기관 중심 가상자산 시장 재편",
+      "summary": "정부와 국회가 디지털자산기본법 제정을 서두르면서 가상자산 시장이 개인 중심에서 법인·기관투자자 중심 구조로 재편될 준비에 들어갔다. 커스터디, 공시·내부통제, 상장·상폐 규율 등이 제도권 금융 수준으로 강화될 전망이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
-          "title": "AI는 멈추지 않는다 … 헤지펀드 패닉이 만들어 준 기회",
-          "url": "https://www.mk.co.kr/news/stock/12208238"
+          "title": "한국, 디지털자산기본법 입법 가속…법인·기관투자자 시장 개방 본격화[엠블록레터]",
+          "url": "https://www.mk.co.kr/news/stock/12208192"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "금융시장 불공정거래 엄정 단속 기조 강화",
+      "summary": "대통령이 중대범죄수사청에 금융시장 불공정행위 전담 수사를 별도로 지시하면서 시세조종·미공개정보 이용·허위공시 등 불공정거래에 대한 규제·집행 강도가 한층 높아지고 있다. 이는 단기 투기 거래萎縮과 기관·외국인 신뢰 제고 요인으로 작용할 수 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[속보] 李대통령 “금융시장 불공정행위 엄정단속, 중수청에 별도 지시”",
+          "url": "https://www.mk.co.kr/news/economy/12207754"
         }
       ]
     }

@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-10-19",
-    "to": "2026-11-17"
+    "from": "2026-10-20",
+    "to": "2026-11-18"
   },
   "kpis": {
     "collected": 42,
@@ -9,60 +9,60 @@
     "uniqueTopics": 7,
     "marketShare": {
       "Roadmap": 27,
-      "Competition": 25,
-      "Investment": 20,
+      "Competition": 24,
+      "Investment": 21,
       "Demand": 17,
-      "Policy": 10,
-      "Other": 1
+      "Policy": 11,
+      "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/19-10/25)",
+      "week": "Week 1 (10/20-10/26)",
       "topicCounts": {
         "Roadmap": 8,
-        "Competition": 8,
-        "Investment": 8,
-        "Demand": 4,
-        "Policy": 4
-      }
-    },
-    {
-      "week": "Week 2 (10/26-11/01)",
-      "topicCounts": {
-        "Roadmap": 5,
-        "Competition": 5,
-        "Investment": 3,
-        "Demand": 2,
-        "Policy": 0
-      }
-    },
-    {
-      "week": "Week 3 (11/02-11/08)",
-      "topicCounts": {
-        "Roadmap": 5,
         "Competition": 6,
-        "Investment": 4,
+        "Investment": 9,
         "Demand": 6,
         "Policy": 3
       }
     },
     {
-      "week": "Week 4 (11/09-11/15)",
+      "week": "Week 2 (10/27-11/02)",
       "topicCounts": {
-        "Roadmap": 9,
-        "Competition": 8,
+        "Roadmap": 3,
+        "Competition": 3,
+        "Investment": 2,
+        "Demand": 2,
+        "Policy": 0
+      }
+    },
+    {
+      "week": "Week 3 (11/03-11/09)",
+      "topicCounts": {
+        "Roadmap": 6,
+        "Competition": 7,
         "Investment": 5,
-        "Demand": 6,
+        "Demand": 5,
+        "Policy": 2
+      }
+    },
+    {
+      "week": "Week 4 (11/10-11/16)",
+      "topicCounts": {
+        "Roadmap": 11,
+        "Competition": 10,
+        "Investment": 6,
+        "Demand": 7,
         "Policy": 4
       }
     },
     {
-      "week": "Week 5 (11/16-11/17)",
+      "week": "Week 5 (11/17-11/18)",
       "topicCounts": {
         "Roadmap": 2,
         "Competition": 1,
-        "Investment": 1,
+        "Investment": 2,
         "Demand": 0,
         "Policy": 2
       }
@@ -71,9 +71,37 @@
   "topIssues": [
     {
       "id": 1,
+      "status": "NEW",
+      "title": "아이슬란드 첫 상업 풍력단지, 수력과 연계한 저수지 물 절약 효과",
+      "summary": "아이슬란드는 첫 상업용 규모 풍력 발전단지를 통해 재생에너지 믹스를 다변화하고 있다. 풍력이 잘 나오는 시기에 전력 생산을 늘려 수력 저수지 방류를 줄이고, 겨울 성수기 전력 수요에 대비해 물을 비축하는 구조로 설계돼 기후 리스크 대응과 수자원 효율성이 동시에 개선될 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Iceland’s first wind farm comes with a water-saving bonus",
+          "url": "https://electrek.co/2026/11/17/iceland-first-wind-farm-gives-its-hydropower-a-winter-boost/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "웨이모, 캘리포니아 DMV 제동 이후 미국 전역 고속도로 자율주행 중단",
+      "summary": "캘리포니아 DMV가 경찰 봉쇄선 통과 시도 영상 논란 이후 웨이모의 고속도로 운행을 중단시키자, 웨이모는 규제 리스크 확산을 우려해 미국 전역에서 고속도로 자율주행 운영을 멈췄다. 이는 단일 주의 규제 결정이 자율주행 로보택시 사업 전반의 상업 운영 전략과 일정에 직접적인 영향을 줄 수 있음을 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Waymo halts highway operation nationwide after CA DMV pause",
+          "url": "https://electrek.co/2026/11/17/waymo-halts-highway-operation-nationwide-after-ca-dmv-pause/"
+        }
+      ]
+    },
+    {
+      "id": 3,
       "status": "ONGOING",
-      "title": "테슬라 사이버캡: 안전사고·강제 구독 모델 논란 속 상용화 드라이브",
-      "summary": "출시 두 달 만에 NHTSA에 8건의 사이버캡 사고가 보고된 가운데, 일부는 오스틴에서 완전 무인 로보택시로 운행 중 저속 충돌로 발생했습니다. 동시에 테슬라는 월 299달러 자율주행 구독을 결제하지 않으면 차량이 아예 움직이지 못하도록 한 공격적인 수익 모델을 도입해 규제·소비자 반발 리스크를 키우고 있습니다. 기능 미완성 의혹에도 2026년 12월 인도를 예고한 ‘반쪽짜리’ 초기 버전 출시 전략과 결합되며, 규제 심사와 브랜드 신뢰도에 중대한 변수가 되고 있습니다.",
+      "title": "테슬라 사이버캡: 사고 증가와 미완성 출시, 공격적 구독 모델로 논란 확산",
+      "summary": "사이버캡은 출시 두 달 만에 NHTSA에 8건의 사고가 보고되며 안전성과 속도 제어 이슈가 부각되고 있다. 테슬라는 2만9,990달러 가격의 초청 기반 예약과 2026년 말 인도를 내세워 반쯤 완성된 듯한 초기 버전을 서둘러 내고 있다는 의혹을 받고 있으며, 월 299달러 자율주행 구독료를 내지 않으면 차량이 아예 움직이지 않도록 한 계약 구조로 소비자 반발과 규제 검토 가능성이 커지고 있다.",
       "articleCount": 3,
       "relatedArticles": [
         {
@@ -83,21 +111,21 @@
         },
         {
           "source": "Electrek",
-          "title": "Tesla Cybercab’s autonomy agreement is insane: $299/mo or it doesn’t move",
-          "url": "https://electrek.co/2026/11/14/tesla-cybercab-autonomy-subscription-agreement-terms/"
+          "title": "Is Tesla rushing out a half-baked Cybercab just to shave MKBHD’s head?",
+          "url": "https://electrek.co/2026/11/15/tesla-cybercab-mkbhd-bet-musk-chicken/"
         },
         {
           "source": "Electrek",
-          "title": "Is Tesla rushing out a half-baked Cybercab just to shave MKBHD’s head?",
-          "url": "https://electrek.co/2026/11/15/tesla-cybercab-mkbhd-bet-musk-chicken/"
+          "title": "Tesla Cybercab’s autonomy agreement is insane: $299/mo or it doesn’t move",
+          "url": "https://electrek.co/2026/11/14/tesla-cybercab-autonomy-subscription-agreement-terms/"
         }
       ]
     },
     {
-      "id": 2,
+      "id": 4,
       "status": "NEW",
-      "title": "기가베를린 30억 유로 사이버캡 공장: 유럽 로보택시 대량 생산 거점 확정",
-      "summary": "테슬라는 독일 기가베를린에 연간 최대 100만 대 생산 규모의 사이버캡 전용 공장을 위해 30억 유로 투자를 공식화했습니다. 2029년 생산 개시를 목표로 하며, 유럽 시장에서 로보택시를 대규모로 상용화하기 위한 핵심 제조 허브를 미리 확보하는 그림입니다. 이는 사이버캡 초기 품질·안전성 논란에도 불구하고 장기적으로 자율주행 모빌리티 플랫폼을 확대하겠다는 전략적 의지를 보여줍니다.",
+      "title": "테슬라, 기가베를린에 연 최대 100만 대 사이버캡 공장에 30억 유로 투자",
+      "summary": "테슬라는 독일 기가베를린 부지에 약 30억 유로를 투입해 연간 최대 100만 대 생산이 가능한 사이버캡 전용 공장을 2029년 가동 목표로 추진한다. 이는 유럽 시장에서 로보택시 대규모 상용화를 전제로 한 제조 허브 구축이자, 사이버캡 플랫폼을 장기적으로 글로벌 핵심 EV 라인업으로 키우려는 전략적 투자로 해석된다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -108,44 +136,16 @@
       ]
     },
     {
-      "id": 3,
-      "status": "NEW",
-      "title": "캐나다, 4억 달러 규모 예산으로 5만5천기 EV 충전 인프라 확대",
-      "summary": "캐나다 정부는 최신 예산안에서 55,000기 이상의 신규 전기차 충전기 구축을 포함해 전기 인프라 및 전력망 현대화에 40억 캐나다달러 이상을 배정했습니다. 전국적인 급·완속 충전 인프라 확충을 통해 장거리 주행 불안 해소와 EV 수요 진작을 동시에 노리며, 향후 북미 전기차 보급 속도와 충전 표준 경쟁에도 영향을 줄 수 있는 정책 전환으로 평가됩니다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "Latest Canadian budget packs funding for 55,000 new EV chargers",
-          "url": "https://electrek.co/2026/11/12/latest-canadian-budget-packs-funding-for-55000-new-ev-chargers/"
-        }
-      ]
-    },
-    {
-      "id": 4,
+      "id": 5,
       "status": "ONGOING",
-      "title": "루시드, 재고 위치도 모르는 운영 난맥으로 주문 취소까지 초래",
-      "summary": "루시드 CEO는 Q3 실적 발표에서 올여름까지도 회사가 재고 차량의 위치를 제대로 파악하지 못했다고 인정했습니다. 차량을 찾고 고객에게 인도하는 데 최대 2주가 걸리며 일부 고객이 구매를 포기하는 사례가 발생했고, 이는 고가 프리미엄 EV 브랜드의 신뢰도와 수요 창출에 직접적인 악영향을 주고 있습니다. 내부 물류·IT 시스템 개선이 시급한 경영 과제로 부상했습니다.",
+      "title": "루시드, 재고 위치 파악 실패로 주문 손실… EV 스타트업 운영 리스크 부각",
+      "summary": "루시드 CEO는 Q3 실적 발표에서 올여름까지 재고 차량의 위치를 제대로 추적하지 못해 고객 인도에 최대 2주가 소요됐고, 이 과정에서 일부 주문이 취소됐다고 인정했다. 생산 자체보다 공급망·물류·딜리버리 운영 역량이 고급 EV 브랜드의 수요 유지와 현금 흐름에 직결된다는 점이 재확인되며, 루시드의 체질 개선 필요성이 부각되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
           "title": "Lucid CEO admits it ‘did not even know where cars were’ and lost orders",
           "url": "https://electrek.co/2026/11/10/lucid-ceo-did-not-know-where-cars-were-lost-orders/"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "status": "ONGOING",
-      "title": "BYD, 102만 명 초대형 인력으로 글로벌 완성차 제조·수직계열화 우위 확대",
-      "summary": "BYD는 102만 명이 넘는 직원을 보유해 토요타·GM·포드·테슬라 인력을 모두 합친 것보다 많은 인규모를 구축했다고 밝혔습니다. 2025년 말 대비 약 15만 명을 10개월 만에 추가 고용한 것으로, 배터리·부품·완성차를 아우르는 공격적 수직계열화와 생산 능력 확장 전략이 가속화되고 있음을 보여줍니다. 이는 향후 가격 경쟁력, 생산 탄력성 측면에서 글로벌 EV 시장 지형을 재편할 잠재 요인입니다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "BYD now has 1.02 million workers, more than Toyota, GM, Ford, and Tesla combined",
-          "url": "https://electrek.co/2026/10/28/byd-1-million-employees-more-than-toyota-gm-ford-tesla/"
         }
       ]
     }

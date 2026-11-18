@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-18",
+  "highlights": {
+    "bullets": [
+      "핵심: ASML의 파트너 중심 문화가 기술 협력과 공급망 통합을 강화했다.",
+      "핵심: JEDEC 태스크그룹이 MRAM을 LPDDR 표준과 연동하는 방안을 검토하고 있다."
+    ],
+    "topTopics": [
+      "Manufacturing",
+      "Roadmap",
+      "Competition",
+      "Demand"
+    ],
+    "stats": {
+      "collected": 5,
+      "deduped": 5
+    }
+  },
+  "cards": [
+    {
+      "id": "semiconductor_0001",
+      "tab": "semiconductor",
+      "publishedAt": "2026-11-18T07:37:22+09:00",
+      "source": "EE Times",
+      "title": "Marc Hijink on ASML’s Culture, Supply Chain, and Geopolitics",
+      "summary": [
+        "ASML의 파트너 중심 문화가 기술 협력과 공급망 통합을 강화했다.",
+        "EUV 장비에서의 우위가 ASML의 시장 지배력을 공고히 했다.",
+        "지정학적 압력과 공급망 리스크가 반도체 생산 전략을 재편했다."
+      ],
+      "whyItMatters": "이 요소들은 글로벌 반도체 공급망과 기술 경쟁 구도를 직접적으로 바꾸기 때문입니다.",
+      "topics": [
+        "Manufacturing",
+        "Competition",
+        "Policy"
+      ],
+      "status": "SHIFTING",
+      "hash": "2034ec3eaaf260457d137f3f9eb3919fee711229561d6747bcdb10ade81d4955",
+      "url": "https://www.eetimes.com/marc-hijink-on-asmls-culture-supply-chain-and-geopolitics/"
+    },
+    {
+      "id": "semiconductor_0002",
+      "tab": "semiconductor",
+      "publishedAt": "2026-11-18T02:26:57+09:00",
+      "source": "EE Times",
+      "title": "Everspin Looks to Broaden MRAM Adoption with LPDDR Standard",
+      "summary": [
+        "JEDEC 태스크그룹이 MRAM을 최신 LPDDR 표준과 연동하는 방안을 검토하고 있다.",
+        "컨트롤러 벤더들이 하드 IP로 MRAM을 지원하도록 설계하는 가능성을 모색 중이다.",
+        "표준화가 진행되면 MRAM 채택이 확대되고 메모리 생태계에 변화가 생길 것으로 예상된다."
+      ],
+      "whyItMatters": "LPDDR 표준에 MRAM 호환성이 포함되면 컨트롤러·플랫폼 수준에서의 지원이 쉬워져 MRAM 상용화와 채택 속도가 빨라질 수 있기 때문입니다.",
+      "topics": [
+        "Roadmap",
+        "Manufacturing",
+        "Competition"
+      ],
+      "status": "ONGOING",
+      "hash": "b6aa9459bd1138955db1f177f9a80ef817fdf9dc2fa1a84808c968bf8849adad",
+      "url": "https://www.eetimes.com/everspin-looks-to-broaden-mram-adoption-with-lpddr-standard/"
+    }
+  ]
+}
