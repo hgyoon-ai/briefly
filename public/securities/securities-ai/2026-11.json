@@ -2,6 +2,52 @@
   "month": "2026-11",
   "events": [
     {
+      "id": "news:KB증권:https://www.hankyung.com/article/2026111961996",
+      "date": "2026-11-19",
+      "company": "KB증권",
+      "title": "\"중국 독자적 AI 인프라 투자, 미국 수요 둔화 상쇄할 완충판\"-KB",
+      "oneLiner": "KB증권은 중국의 독자적 AI 인프라 투자가 미국 수요 둔화의 영향을 완충할 수 있다는 분석을 제시했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "\"중국 독자적 AI 인프라 투자, 미국 수요 둔화 상쇄할 완충판\"-KB",
+          "url": "https://www.hankyung.com/article/2026111961996"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-11-19"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202611190903217854",
+      "date": "2026-11-19",
+      "company": "NH투자증권",
+      "title": "상품 검색·주문 조회 자동화…NHN커머스, 쇼핑몰 AI 기능 강화",
+      "oneLiner": "NHN커머스는 고도몰에 AI 에이전트를 도입해 상품 검색·장바구니 담기 등 쇼핑몰의 주문·검색 과정을 자동화했다.",
+      "type": "출시",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "상품 검색·주문 조회 자동화…NHN커머스, 쇼핑몰 AI 기능 강화",
+          "url": "https://www.fnnews.com/news/202611190903217854"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.88,
+      "updatedAt": "2026-11-19"
+    },
+    {
       "id": "news:KB증권:https://www.fnnews.com/news/202611180833171617",
       "date": "2026-11-18",
       "company": "KB증권",
@@ -23,6 +69,30 @@
       "tags": [],
       "confidence": 0.9,
       "updatedAt": "2026-11-18"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.hankyung.com/article/2026111854421",
+      "date": "2026-11-18",
+      "company": "미래에셋증권",
+      "title": "미래에셋증권, AI가 시황 파악해 투자결정 도와",
+      "oneLiner": "미래에셋증권은 AI가 시황을 파악해 투자결정을 보조하는 기능을 도입해 투자지원 역량을 강화했다.",
+      "type": "출시",
+      "areas": [
+        "트레이딩",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "미래에셋증권, AI가 시황 파악해 투자결정 도와",
+          "url": "https://www.hankyung.com/article/2026111854421"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-19"
     },
     {
       "id": "news:KB증권:https://www.hankyung.com/article/2026111706966",
