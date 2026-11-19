@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-11-12",
-    "to": "2026-11-18"
+    "from": "2026-11-13",
+    "to": "2026-11-19"
   },
   "kpis": {
     "collected": 12,
@@ -19,60 +19,36 @@
     },
     {
       "name": "Security",
-      "count": 4
+      "count": 5
     },
     {
-      "name": "Enforcement",
-      "count": 2
+      "name": "Fintech",
+      "count": 3
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-11-12",
-      "dayOfWeek": "Thu",
-      "topic": "MarketInfra",
-      "count": 0
-    },
-    {
-      "date": "2026-11-12",
-      "dayOfWeek": "Thu",
-      "topic": "Policy",
-      "count": 0
-    },
-    {
-      "date": "2026-11-12",
-      "dayOfWeek": "Thu",
-      "topic": "Security",
-      "count": 0
-    },
-    {
-      "date": "2026-11-12",
-      "dayOfWeek": "Thu",
-      "topic": "Enforcement",
-      "count": 0
-    },
-    {
       "date": "2026-11-13",
       "dayOfWeek": "Fri",
       "topic": "MarketInfra",
-      "count": 4
-    },
-    {
-      "date": "2026-11-13",
-      "dayOfWeek": "Fri",
-      "topic": "Policy",
       "count": 2
     },
     {
       "date": "2026-11-13",
       "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
       "topic": "Security",
       "count": 0
     },
     {
       "date": "2026-11-13",
       "dayOfWeek": "Fri",
-      "topic": "Enforcement",
+      "topic": "Fintech",
       "count": 1
     },
     {
@@ -96,7 +72,7 @@
     {
       "date": "2026-11-14",
       "dayOfWeek": "Sat",
-      "topic": "Enforcement",
+      "topic": "Fintech",
       "count": 0
     },
     {
@@ -120,8 +96,8 @@
     {
       "date": "2026-11-15",
       "dayOfWeek": "Sun",
-      "topic": "Enforcement",
-      "count": 0
+      "topic": "Fintech",
+      "count": 1
     },
     {
       "date": "2026-11-16",
@@ -144,7 +120,7 @@
     {
       "date": "2026-11-16",
       "dayOfWeek": "Mon",
-      "topic": "Enforcement",
+      "topic": "Fintech",
       "count": 0
     },
     {
@@ -168,8 +144,8 @@
     {
       "date": "2026-11-17",
       "dayOfWeek": "Tue",
-      "topic": "Enforcement",
-      "count": 1
+      "topic": "Fintech",
+      "count": 0
     },
     {
       "date": "2026-11-18",
@@ -192,68 +168,54 @@
     {
       "date": "2026-11-18",
       "dayOfWeek": "Wed",
-      "topic": "Enforcement",
+      "topic": "Fintech",
       "count": 0
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Security",
+      "count": 1
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Fintech",
+      "count": 1
     }
   ],
   "topIssues": [
     {
       "id": 1,
       "status": "ONGOING",
-      "title": "AI 반도체 랠리와 엔비디아 이후 ‘앤트로픽 변수’ 부각",
-      "summary": "엔비디아의 기대 이상 실적과 AI 투자 확대 전망으로 글로벌 반도체·AI 관련주가 재차 반등하고 있다. 동시에 시장 관심은 차세대 AI 모델 기업인 앤트로픽과 향후 IPO, 그리고 엔비디아 의존도 완화 구도에 맞춰 이동하는 중이다.",
-      "articleCount": 3,
+      "title": "국민연금·KIC, AI 인프라·전략산업 중심으로 대체투자 확대",
+      "summary": "국민연금이 대체투자 비중을 대폭 늘리며 아시아 AI 인프라 등으로 투자 영역을 넓이고, KIC는 전략투자계정을 통해 국내 전략산업에 장기 자본을 공급하는 방향으로 운용 전략을 전환하고 있다. 이는 연기금·국부펀드의 글로벌·국내 실물·인프라 투자 확대 기조가 강화되고 있음을 보여준다.",
+      "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
-          "title": "엔비디아 깜짝 실적에 반도체 반등 … 이제 공은 앤트로픽으로",
-          "url": "https://www.mk.co.kr/news/stock/12212141"
-        },
-        {
-          "source": "매일경제(증권)",
-          "title": "젠슨황 없는 컨퍼런스콜... 엔비디아 주가는 올랐다 왜?",
-          "url": "https://www.mk.co.kr/news/business/12212008"
-        },
-        {
-          "source": "매일경제(증권)",
-          "title": "“이번주엔 앞길 좀 트일까요”…엔비디아에 미중회담·앤트로픽 IPO까지, 코스피는?",
-          "url": "https://www.mk.co.kr/news/stock/12209596"
+          "title": "국민연금·KIC 다음 투자처는…“AI전력·인프라” “국내전략산업 자본공급” [GAII 2026 Live]",
+          "url": "https://www.mk.co.kr/news/stock/12213297"
         }
       ]
     },
     {
       "id": 2,
-      "status": "SHIFTING",
-      "title": "‘탈 엔비디아’ AI 생태계 확산과 삼성전자 수혜 기대",
-      "summary": "AI 인프라가 엔비디아 단일 강자 구조에서 주요 빅테크와 경쟁 반도체 업체들로 다극화되면서, 파운드리·메모리 동시 역량을 가진 삼성전자가 구조적 수혜주로 부각되고 있다. AI 서버 및 HBM 수요 확대가 국내 대형 IT·반도체주의 리레이팅 요인으로 평가된다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "매일경제(증권)",
-          "title": "KB증권 “삼성전자, 탈엔비디아 시대 최대 수혜주”",
-          "url": "https://www.mk.co.kr/news/stock/12209588"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "status": "NEW",
-      "title": "국내 AI 인프라 투자 확대와 대형 서버 공급 계약",
-      "summary": "국내 빅테크와 데이터센터 사업자의 AI 인프라 투자가 본격화되면서 서버·GPU·스토리지 수요가 급증하고 있다. 네이버와의 대형 서버 공급 계약 사례처럼, 관련 장비·솔루션 기업의 중장기 성장성이 부각되고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "매일경제(증권)",
-          "title": "M83 자회사 피앤티링크, 네이버와 630억 원 대형 서버 공급 계약",
-          "url": "https://www.mk.co.kr/news/stock/12211033"
-        }
-      ]
-    },
-    {
-      "id": 4,
       "status": "ONGOING",
-      "title": "디지털자산기본법 가속…법인·기관 중심 가상자산 시장 재편",
-      "summary": "정부와 국회가 디지털자산기본법 제정을 서두르면서 가상자산 시장이 개인 중심에서 법인·기관투자자 중심 구조로 재편될 준비에 들어갔다. 커스터디, 공시·내부통제, 상장·상폐 규율 등이 제도권 금융 수준으로 강화될 전망이다.",
+      "title": "디지털자산기본법 가속…법인·기관 대상 가상자산 시장 본격 개방",
+      "summary": "정부와 국회가 디지털자산기본법 제정을 서두르며 법인·기관투자자의 가상자산 시장 진입을 제도권에서 허용·확대하는 방향으로 규율 체계를 설계하고 있다. 이는 가상자산을 새로운 투자자산군으로 편입하려는 금융 규제·시장 인프라 재편의 핵심 이슈로 부상하고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -264,16 +226,54 @@
       ]
     },
     {
-      "id": 5,
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "엔비디아 변동성과 AI 반도체 랠리…CEO 리스크·실적 서프라이즈가 혼재",
+      "summary": "엔비디아는 한 달 새 27% 가까이 주가가 급락하며 CEO 리스크가 부각됐지만, 동시에 깜짝 실적과 강한 매출 가이던스로 글로벌 반도체주 반등을 이끌고 있다. 젠슨 황이 없는 컨퍼런스콜에도 주가는 선방하는 등 경영 리스크와 실적 모멘텀이 동시에 작용하며 AI 반도체 투자 심리가 빠르게 재조정되는 국면이다.",
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한달 만에 27% ‘폭락의 눈물’…CEO 리스크까지 겹친 엔비디아 앞날은",
+          "url": "https://www.mk.co.kr/news/stock/12213292"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "엔비디아 깜짝 실적에 반도체 반등 … 이제 공은 앤트로픽으로",
+          "url": "https://www.mk.co.kr/news/stock/12212141"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "젠슨황 없는 컨퍼런스콜... 엔비디아 주가는 올랐다 왜?",
+          "url": "https://www.mk.co.kr/news/business/12212008"
+        }
+      ]
+    },
+    {
+      "id": 4,
       "status": "NEW",
-      "title": "금융시장 불공정거래 엄정 단속 기조 강화",
-      "summary": "대통령이 중대범죄수사청에 금융시장 불공정행위 전담 수사를 별도로 지시하면서 시세조종·미공개정보 이용·허위공시 등 불공정거래에 대한 규제·집행 강도가 한층 높아지고 있다. 이는 단기 투기 거래萎縮과 기관·외국인 신뢰 제고 요인으로 작용할 수 있다.",
+      "title": "국내 AI 인프라 공급 확대…M83 자회사, 네이버와 대형 서버 계약",
+      "summary": "M83 자회사 피앤티링크가 네이버와 630억 원 규모 서버 공급 계약을 체결하며 국내 AI·클라우드 인프라 시장에서 대형 수주를 확보했다. 국내 IT·플랫폼 기업들의 데이터센터·AI 인프라 증설 수요가 장비·서버 공급사들의 성장 모멘텀으로 이어지는 흐름이 강화되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
-          "title": "[속보] 李대통령 “금융시장 불공정행위 엄정단속, 중수청에 별도 지시”",
-          "url": "https://www.mk.co.kr/news/economy/12207754"
+          "title": "M83 자회사 피앤티링크, 네이버와 630억 원 대형 서버 공급 계약",
+          "url": "https://www.mk.co.kr/news/stock/12211033"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "SHIFTING",
+      "title": "코스피, 엔비디아·앤트로픽·미중 회담 변수에 따른 단기 변동성 확대",
+      "summary": "국내 증시는 엔비디아 실적과 젠슨 황 거취, 앤트로픽 IPO, 미·중 회담 및 FOMC 의사록 공개 등 대외 요인에 좌우되며 방향성을 탐색하고 있다. AI 빅테크 실적과 지정학·금리 변수의 결합이 단기 코스피 흐름의 핵심 리스크 요인으로 인식되는 상황이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“이번주엔 앞길 좀 트일까요”…엔비디아에 미중회담·앤트로픽 IPO까지, 코스피는?",
+          "url": "https://www.mk.co.kr/news/stock/12209596"
         }
       ]
     }

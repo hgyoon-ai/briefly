@@ -1,0 +1,276 @@
+{
+  "range": {
+    "from": "2026-11-13",
+    "to": "2026-11-19"
+  },
+  "kpis": {
+    "collected": 22,
+    "deduped": 22,
+    "uniqueTopics": 10
+  },
+  "topTopics": [
+    {
+      "name": "Tooling",
+      "count": 14
+    },
+    {
+      "name": "Product",
+      "count": 13
+    },
+    {
+      "name": "Research",
+      "count": 13
+    },
+    {
+      "name": "Infra",
+      "count": 9
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Tooling",
+      "count": 1
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Product",
+      "count": 1
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Research",
+      "count": 0
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Infra",
+      "count": 1
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Tooling",
+      "count": 3
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Product",
+      "count": 2
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Research",
+      "count": 2
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Infra",
+      "count": 2
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Product",
+      "count": 0
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Research",
+      "count": 0
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Tooling",
+      "count": 2
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Product",
+      "count": 1
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Research",
+      "count": 2
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Tooling",
+      "count": 4
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Product",
+      "count": 6
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Research",
+      "count": 3
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Infra",
+      "count": 2
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Tooling",
+      "count": 2
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Product",
+      "count": 2
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Research",
+      "count": 4
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Infra",
+      "count": 3
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Tooling",
+      "count": 2
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Product",
+      "count": 1
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Research",
+      "count": 2
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Infra",
+      "count": 1
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "경량 고성능 LLM 아키텍처 경쟁: Gemini 4 Neon 공개",
+      "summary": "Google DeepMind가 경량·고효율 변종인 Gemini 4 Neon을 공개하며 추론 성능과 배포 유연성을 동시에 겨냥했다. 모바일·온프레미스·엣지까지 아우르는 경량 LLM 수요가 커지는 가운데, 고성능 대비 비용·지연 시간을 줄이는 모델 아키텍처 경쟁이 본격화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Google DeepMind Blog",
+          "title": "Introducing Gemini 4 Neon",
+          "url": "https://deepmind.google/blog/introducing-gemini-4-neon/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "AI 연구용 HPC 인프라 최적화: GPU 병목 해소와 MD 가속",
+      "summary": "고성능 계산이 요구되는 과학·공학 AI 워크로드에서 GPU 활용 극대화가 핵심 과제가 되고 있다. NVIDIA는 K-포인트 배치와 혼합 정밀도를 통해 전자 구조 계산의 GPU 병목을 줄이고, cuPotential로 분자 동역학 시뮬레이션을 가속하는 프리미티브를 제공해 대규모 시뮬레이션의 정확도와 성능을 동시에 끌어올리는 전략을 전개 중이다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Tackling GPU Bottlenecks in Plane-Wave DFT with K-Point Batching and Mixed Precision",
+          "url": "https://developer.nvidia.com/blog/tackling-gpu-bottlenecks-in-plane-wave-dft-with-k-point-batching-and-mixed-precision/"
+        },
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Accelerate Molecular Dynamics Simulations with Accurate, Flexible Primitives Using NVIDIA cuPotential",
+          "url": "https://developer.nvidia.com/blog/accelerate-molecular-dynamics-simulations-with-accurate-flexible-primitives-using-nvidia-cupotential/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "고도화된 AI와 사회적 규범 재편 논의 심화",
+      "summary": "AI가 제도·규범·권위 구조를 ‘침묵의 합의’ 방식으로 서서히 재구성할 수 있다는 문제의식이 부상하고 있다. OpenAI는 고도화된 시스템이 인간의 통제·책임 구조에 미치는 장기적 영향을 분석하며, 정책·거버넌스 설계를 통해 사회적 권한 배분을 재조정해야 한다는 전략적 논의를 제안하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "The Silent Consensus",
+          "url": "https://openai.com/index/the-silent-consensus"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "의료·헬스케어에서의 AI 활용과 규제·윤리 프레임워크 구축",
+      "summary": "의료 분야에서 진단·치료 개선을 위한 AI 도입이 가속되는 가운데, 데이터 품질·모델 신뢰성·설명 가능성과 더불어 규제·윤리·인프라 요건이 핵심 의제로 다뤄지고 있다. Microsoft Research와 의료 전문가들은 임상 워크플로우에 AI를 안전하게 통합하기 위한 정책, 기술, 거버넌스 로드맵을 논의하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Microsoft Research Blog",
+          "title": "Can AI help build a healthier future?",
+          "url": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "엔터프라이즈 영업 워크플로우에 특화된 생성형 AI 도입",
+      "summary": "OpenAI가 ChatGPT for Sales를 출시하며 B2B 영업 도메인에 특화된 생성형 AI 활용을 확장하고 있다. 다수의 파트너 플러그인과 연동해 잠재고객 조사, 제안서 초안 작성, CRM 업데이트 등 반복적인 영업 업무를 자동화하여 생산성과 파이프라인 운영 효율을 높이는 데 초점을 맞추고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "Introducing ChatGPT for Sales",
+          "url": "https://openai.com/index/introducing-chatgpt-for-sales"
+        }
+      ]
+    }
+  ]
+}

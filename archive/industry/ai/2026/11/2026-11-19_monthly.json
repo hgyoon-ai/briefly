@@ -1,0 +1,148 @@
+{
+  "range": {
+    "from": "2026-10-21",
+    "to": "2026-11-19"
+  },
+  "kpis": {
+    "collected": 73,
+    "deduped": 73,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "Tooling": 25,
+      "Product": 22,
+      "Models": 18,
+      "Infra": 18,
+      "Research": 17,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/21-10/27)",
+      "topicCounts": {
+        "Tooling": 10,
+        "Product": 7,
+        "Models": 6,
+        "Infra": 7,
+        "Research": 4
+      }
+    },
+    {
+      "week": "Week 2 (10/28-11/03)",
+      "topicCounts": {
+        "Tooling": 8,
+        "Product": 8,
+        "Models": 6,
+        "Infra": 7,
+        "Research": 6
+      }
+    },
+    {
+      "week": "Week 3 (11/04-11/10)",
+      "topicCounts": {
+        "Tooling": 6,
+        "Product": 4,
+        "Models": 4,
+        "Infra": 5,
+        "Research": 4
+      }
+    },
+    {
+      "week": "Week 4 (11/11-11/17)",
+      "topicCounts": {
+        "Tooling": 16,
+        "Product": 17,
+        "Models": 9,
+        "Infra": 7,
+        "Research": 10
+      }
+    },
+    {
+      "week": "Week 5 (11/18-11/19)",
+      "topicCounts": {
+        "Tooling": 3,
+        "Product": 1,
+        "Models": 3,
+        "Infra": 2,
+        "Research": 3
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "경량·고효율 AI 모델 아키텍처 경쟁 심화",
+      "summary": "Google DeepMind의 Gemini 4 Neon 공개로, 추론 성능을 유지하면서도 경량·고효율 설계를 통한 배포 유연성이 핵심 이슈로 부상했다. 클라우드뿐 아니라 온디바이스·엣지까지 고려한 모델 경량화와 비용 효율적 추론 인프라 전략이 주요 화두다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Google DeepMind Blog",
+          "title": "Introducing Gemini 4 Neon",
+          "url": "https://deepmind.google/blog/introducing-gemini-4-neon/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "GPU 병목 해소를 통한 과학·공학용 AI 시뮬레이션 가속",
+      "summary": "NVIDIA가 Plane-wave DFT와 분자 동역학(MD) 시뮬레이션을 위한 GPU 최적화 기술(K-포인트 배치, 혼합 정밀도, cuPotential 프리미티브)을 제시하며, 물질·분자 설계 등 과학 연구용 AI 워크로드 가속이 지속적인 인프라 이슈로 부각되고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Tackling GPU Bottlenecks in Plane-Wave DFT with K-Point Batching and Mixed Precision",
+          "url": "https://developer.nvidia.com/blog/tackling-gpu-bottlenecks-in-plane-wave-dft-with-k-point-batching-and-mixed-precision/"
+        },
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Accelerate Molecular Dynamics Simulations with Accurate, Flexible Primitives Using NVIDIA cuPotential",
+          "url": "https://developer.nvidia.com/blog/accelerate-molecular-dynamics-simulations-with-accurate-flexible-primitives-using-nvidia-cupotential/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "대규모 모델 학습 성능 경쟁과 MLPerf 벤치마크",
+      "summary": "NVIDIA Vera Rubin NVL72가 MLPerf Training v6.1에서 최대 2배 수준의 Blackwell Ultra 성능을 기록하면서, 대규모 모델 학습 속도와 반복 주기 단축을 둘러싼 하드웨어·시스템 레벨 최적화 경쟁이 가속화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "NVIDIA Vera Rubin NVL72 Achieves up to 2x Blackwell Ultra Performance in MLPerf Training v6.1",
+          "url": "https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-achieves-up-to-2x-blackwell-ultra-performance-in-mlperf-training-v6-1/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "영업·비즈니스 워크플로우에 특화된 AI 에이전트 상용화",
+      "summary": "ChatGPT for Sales와 파트너 플러그인 생태계가 출시되며, 잠재고객 조사, 제안서 작성, CRM 업데이트 등 영업 전 과정을 자동화·보조하는 도메인 특화형 AI 에이전트가 실무 도입 단계로 진입하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "Introducing ChatGPT for Sales",
+          "url": "https://openai.com/index/introducing-chatgpt-for-sales"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "AI 코딩 에이전트의 효율성 최적화",
+      "summary": "Microsoft의 TokenEconomizer는 과거 세션을 재활용해 불필요한 토큰과 시간을 줄이는 방식으로 코딩 에이전트의 추론 비용을 절감하는 접근을 제시했다. 에이전트의 경험 학습과 메타 최적화가 개발 생산성 향상의 새로운 축으로 부상하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Microsoft Research Blog",
+          "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
+          "url": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/"
+        }
+      ]
+    }
+  ]
+}

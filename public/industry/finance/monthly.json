@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-10-20",
-    "to": "2026-11-18"
+    "from": "2026-10-21",
+    "to": "2026-11-19"
   },
   "kpis": {
     "collected": 44,
@@ -9,95 +9,85 @@
     "uniqueTopics": 10,
     "marketShare": {
       "MarketInfra": 39,
-      "Policy": 24,
-      "Regulation": 15,
-      "Security": 11,
-      "Compliance": 11,
+      "Policy": 23,
+      "Regulation": 14,
+      "Compliance": 12,
+      "Security": 12,
       "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/20-10/26)",
+      "week": "Week 1 (10/21-10/27)",
       "topicCounts": {
         "MarketInfra": 9,
-        "Policy": 8,
-        "Regulation": 4,
-        "Security": 0,
-        "Compliance": 2
+        "Policy": 7,
+        "Regulation": 5,
+        "Compliance": 3,
+        "Security": 0
       }
     },
     {
-      "week": "Week 2 (10/27-11/02)",
+      "week": "Week 2 (10/28-11/03)",
       "topicCounts": {
-        "MarketInfra": 5,
-        "Policy": 2,
-        "Regulation": 2,
-        "Security": 1,
-        "Compliance": 0
+        "MarketInfra": 6,
+        "Policy": 3,
+        "Regulation": 3,
+        "Compliance": 1,
+        "Security": 2
       }
     },
     {
-      "week": "Week 3 (11/03-11/09)",
+      "week": "Week 3 (11/04-11/10)",
       "topicCounts": {
         "MarketInfra": 6,
         "Policy": 3,
         "Regulation": 1,
-        "Security": 4,
-        "Compliance": 3
+        "Compliance": 3,
+        "Security": 4
       }
     },
     {
-      "week": "Week 4 (11/10-11/16)",
+      "week": "Week 4 (11/11-11/17)",
       "topicCounts": {
-        "MarketInfra": 11,
+        "MarketInfra": 10,
         "Policy": 7,
-        "Regulation": 4,
-        "Security": 1,
-        "Compliance": 4
+        "Regulation": 3,
+        "Compliance": 2,
+        "Security": 3
       }
     },
     {
-      "week": "Week 5 (11/17-11/18)",
+      "week": "Week 5 (11/18-11/19)",
       "topicCounts": {
         "MarketInfra": 2,
-        "Policy": 0,
+        "Policy": 1,
         "Regulation": 0,
-        "Security": 2,
-        "Compliance": 0
+        "Compliance": 1,
+        "Security": 1
       }
     }
   ],
   "topIssues": [
     {
       "id": 1,
-      "status": "ONGOING",
-      "title": "엔비디아 실적 호조와 AI 생태계 재평가: 앤트로픽으로 쏠리는 시선",
-      "summary": "엔비디아의 예상치를 크게 웃돈 실적과 매출 가이던스가 반도체·AI 관련주 반등을 이끌며, 투자자 관심이 다음 변수로 부상한 앤트로픽의 상장 시점·수익성 리스크로 옮겨가고 있다.",
-      "articleCount": 3,
+      "status": "SHIFTING",
+      "title": "국민연금·KIC, AI·인프라 중심 대체투자 확대와 국내 전략산업 자본 공급 강화",
+      "summary": "국민연금이 대체투자 비중을 크게 늘리며 아시아를 포함한 글로벌 AI 인프라·에너지·기반시설 투자로 확장하고, KIC는 전략투자계정을 통해 장기·단계적 투자로 국내 전략산업에 자본을 공급하려는 기조를 강화하고 있다. 이는 연기금·국부펀드 자금이 AI 및 인프라 자산으로 재배치되는 구조적 변화로, 국내외 자본시장에 중장기적 영향이 예상된다.",
+      "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
-          "title": "엔비디아 깜짝 실적에 반도체 반등 … 이제 공은 앤트로픽으로",
-          "url": "https://www.mk.co.kr/news/stock/12212141"
-        },
-        {
-          "source": "매일경제(증권)",
-          "title": "“AI 꺾이면 132조원 증발”...한은이 던진 ‘최악 시나리오’",
-          "url": "https://www.mk.co.kr/news/stock/12186625"
-        },
-        {
-          "source": "매일경제(증권)",
-          "title": "링컨까지 소환한 베센트... 앤트로픽 상장, 다음달 확정인가",
-          "url": "https://www.mk.co.kr/news/business/12182433"
+          "title": "국민연금·KIC 다음 투자처는…“AI전력·인프라” “국내전략산업 자본공급” [GAII 2026 Live]",
+          "url": "https://www.mk.co.kr/news/stock/12213297"
         }
       ]
     },
     {
       "id": 2,
       "status": "ONGOING",
-      "title": "디지털자산기본법 가속과 기관투자자 시장 진입",
-      "summary": "정부와 국회가 디지털자산기본법 제정에 속도를 내며 법인·기관투자자의 가상자산 투자와 수탁, 파생상품 허용 범위를 넓히는 논의를 진행 중으로, 국내 디지털 자산 시장 제도화와 자본 유입 확대의 분수령이 되고 있다.",
+      "title": "디지털자산기본법 입법 가속으로 기관 중심 가상자산 시장 재편",
+      "summary": "정부와 국회가 디지털자산기본법 제정을 서두르며 법인·기관투자자의 가상자산 시장 진입을 제도적으로 열어주려 하고 있다. 가상자산의 법적 성격, 투자자 보호, 발행·상장·수탁 규율 등이 정비되면 은행·증권사·운용사 중심의 기관 시장이 형성되고, 암호화폐가 기존 금융시장 인프라와 결합되는 방향으로 구조 재편이 진행될 전망이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -110,8 +100,8 @@
     {
       "id": 3,
       "status": "NEW",
-      "title": "금융시장 불공정거래 전방위 단속 강화",
-      "summary": "이재명 대통령이 중대범죄수사청에 금융시장 불공정행위 엄정 단속을 별도로 지시하면서 시세조종·미공개정보 이용·허위공시 등 자본시장 범죄에 대한 수사와 제재가 한층 강화될 전망이다.",
+      "title": "대통령, 금융시장 불공정행위 전방위 수사 지시로 규제·집행 리스크 확대",
+      "summary": "이재명 대통령이 금융시장 내 시세조종·미공개정보 이용·허위공시 등 불공정행위에 대해 중대범죄수사청에 전담 수사를 별도 지시하면서, 자본시장 규제와 형사 집행 강도가 동시 강화되는 국면에 접어들었다. 이는 불공정거래 수사 확대와 함께 내부통제·컴플라이언스 비용 증가, 고위험 거래전략 위축 등 금융투자업계 전반의 리스크 관리 강화로 이어질 가능성이 크다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -124,28 +114,38 @@
     {
       "id": 4,
       "status": "ONGOING",
-      "title": "금융·증권사 대상 해킹과 개인정보 유출 리스크 확대",
-      "summary": "한양증권에서 다우오피스 취약점으로 추정되는 경로를 통해 고객 계좌·주민번호 등 민감 정보가 유출되면서, 빗썸 사례에 이어 금투업권 전반의 보안 투자와 규제 당국의 점검 강화가 불가피해졌다.",
-      "articleCount": 1,
+      "title": "금융권 대상 해킹·개인정보 유출 확산으로 사이버 리스크 관리 비상",
+      "summary": "한양증권에서 고객 계좌·주민번호 등 민감 정보가 다우오피스 취약점을 통해 유출된 것으로 추정되면서, 빗썸 사건에 이어 금융투자업권 전반에 공급망·협력사 보안 리스크가 부각되고 있다. 동시에 아세안 정상회의를 노린 중국 배후 사이버 공격 등 고도화된 해킹 시도가 이어져, 금융기관의 정보보호 투자 확대와 정부 차원의 금융 인프라 사이버 방어체계 강화가 중장기 과제로 부상했다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
           "title": "한양증권서도 개인정보 유출…금투업권 해킹 비상",
           "url": "https://www.mk.co.kr/news/stock/12194338"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "[단독] 中 해커, 아세안정상회의 공격…외교안보 해킹 전쟁 본격화",
+          "url": "https://www.mk.co.kr/news/stock/12211059"
         }
       ]
     },
     {
       "id": 5,
       "status": "ONGOING",
-      "title": "글로벌 금융·외교 무대에서의 사이버 전쟁 고도화",
-      "summary": "중국 배후 해킹 조직이 아세안 정상회의를 겨냥한 광범위한 사이버 공격을 시도한 정황이 드러나면서, 외교안보 이슈가 금융시장 인프라·결제망·정보시스템에 직·간접적 리스크를 키우는 사이버 전쟁 국면이 본격화되고 있다.",
-      "articleCount": 1,
+      "title": "AI 버블·엔트로픽 상장 리스크, 글로벌 자본시장 변동성 요인 부상",
+      "summary": "한국은행이 AI 붐이 꺾일 경우 132조원 규모 손실을 경고하고, 엔트로픽의 대규모 적자가 상장 전후 시장 불안 요인으로 지목되면서 AI 관련 자산의 밸류에이션 부담과 조정 리스크가 커지고 있다. 미국 정부의 스테이블코인 육성 기조, 엔트로픽 상장 가능성 등과 결합해 AI·크립토·빅테크로 쏠린 글로벌 유동성의 재조정 여부가 향후 금융시장 변동성의 핵심 변수가 되고 있다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
-          "title": "[단독] 中 해커, 아세안정상회의 공격…외교안보 해킹 전쟁 본격화",
-          "url": "https://www.mk.co.kr/news/stock/12211059"
+          "title": "“AI 꺾이면 132조원 증발”...한은이 던진 ‘최악 시나리오’",
+          "url": "https://www.mk.co.kr/news/stock/12186625"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "링컨까지 소환한 베센트... 앤트로픽 상장, 다음달 확정인가",
+          "url": "https://www.mk.co.kr/news/business/12182433"
         }
       ]
     }

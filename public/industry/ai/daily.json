@@ -1,130 +1,130 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "highlights": {
     "bullets": [
-      "핵심: GPT-6.2 Astra와 Sol이 공개되어 전문 출력과 코드·컴퓨팅 지원을 제공합니다.",
-      "핵심: ChatGPT for Sales 플러그인이 도입되어 영업 워크플로우 자동화를 지원합니다.",
-      "트렌드: 모델·인프라·도구의 결합으로 실무 적용과 인퍼런스 효율 개선이 부각됩니다."
+      "핵심: Plane-wave DFT의 GPU 병목을 K-포인트 배치와 혼합 정밀도로 완화했다.",
+      "핵심: OpenAI는 훈련부터 배포까지 최첨단 AI 리스크 관리 방안을 제시했다.",
+      "트렌드: 모델·추론 효율화와 배포 안전성 강화를 동시에 강조하는 경향이 보인다."
     ],
     "topTopics": [
-      "Product",
-      "Research",
+      "Tooling",
       "Models",
-      "Inference"
+      "Infra",
+      "Research"
     ],
     "stats": {
-      "collected": 5,
-      "deduped": 5
+      "collected": 12,
+      "deduped": 12
     }
   },
   "cards": [
     {
       "id": "ai_0001",
       "tab": "ai",
-      "publishedAt": "2026-11-18T02:45:00+09:00",
-      "source": "OpenAI Blog",
-      "title": "Introducing GPT-6.2 Astra and Sol",
+      "publishedAt": "2026-11-19T00:00:00+09:00",
+      "source": "NVIDIA Developer Blog",
+      "title": "Tackling GPU Bottlenecks in Plane-Wave DFT with K-Point Batching and Mixed Precision",
       "summary": [
-        "GPT-6.2 Astra와 Sol을 공개했습니다.",
-        "전문적 출력, 코드 작성·컴퓨터 사용 지원, 효율성이 개선되고 비용이 낮아졌습니다.",
-        "ChatGPT Work, Codex, API 전반에 적용되어 엔터프라이즈와 개발자 생산성이 향상될 전망입니다."
+        "Plane-wave DFT 계산이 GPU에서 병목을 일으켜 MLIP용 대규모 데이터 생성에 제약을 준다.",
+        "K-포인트 배치 처리와 혼합 정밀도로 GPU 활용도와 메모리 병목을 완화한다.",
+        "이 접근법으로 DFT 처리량이 증가해 수십~수백만 건 규모의 MLIP 학습용 데이터 생성이 가능해진다."
       ],
-      "whyItMatters": "더 높은 성능과 낮은 비용으로 전문 업무와 개발 워크플로우의 효율과 채택을 촉진하기 때문입니다.",
+      "whyItMatters": "대규모 MLIP 학습과 재료 탐색을 위한 DFT 데이터 생성 비용과 시간을 크게 줄여 연구·제품 개발 속도를 높이기 때문입니다.",
       "topics": [
-        "Models",
-        "Product",
-        "Inference",
-        "Business"
+        "Infra",
+        "Tooling",
+        "Research",
+        "Data"
       ],
-      "status": "NEW",
-      "hash": "8f6af8c44a4a1bfb5de31585ff7d049da9f0b0c7303ae5eb79fd652e216c50e9",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
+      "status": "ONGOING",
+      "hash": "ee537eda777aeb53c548cbfa093e817ba9c9cae982c33bd596031087905ac92c",
+      "url": "https://developer.nvidia.com/blog/tackling-gpu-bottlenecks-in-plane-wave-dft-with-k-point-batching-and-mixed-precision/"
     },
     {
       "id": "ai_0002",
       "tab": "ai",
-      "publishedAt": "2026-11-18T02:00:00+09:00",
-      "source": "NVIDIA Developer Blog",
-      "title": "Integrating QPUs into Supercomputing Centers Using Slurm HRES Plugins",
+      "publishedAt": "2026-11-18T19:00:00+09:00",
+      "source": "OpenAI Blog",
+      "title": "The Silent Consensus",
       "summary": [
-        "슈퍼컴퓨팅 센터에 QPU(양자 처리기) 통합을 위해 Slurm HRES 플러그인이 도입되고 있다.",
-        "북미·유럽·아시아의 국가 프로그램이 설치를 주도하며 하이브리드 양자-클래식 워크플로우를 지원한다.",
-        "자원 스케줄링과 접근성, 기존 인프라와의 상호운용성 개선을 통해 대규모 응용이 가능해질 전망이다."
+        "더 고도화된 AI가 사회적 규범과 기관의 역할을 '침묵의 합의'처럼 서서히 재구성할 수 있음을 설명한다.",
+        "사람들이 제도와 권한을 어떻게 유지하고 통제할지에 대한 전략적·정책적 고려를 제안한다.",
+        "기술, 안전, 거버넌스의 교차점에서 구체적 행동 촉구를 강조한다."
       ],
-      "whyItMatters": "양자 가속기를 기존 자원 관리에 통합하면 과학·산업 분야의 계산 성능과 실험 확장이 크게 향상되기 때문이다.",
+      "whyItMatters": "AI의 발전이 권력구조와 거버넌스에 중대한 영향을 미치므로 정책·안전 준비와 제도적 대응이 시급하다.",
       "topics": [
-        "Infra",
-        "Tooling",
-        "Research"
+        "Safety",
+        "Research",
+        "Business"
       ],
-      "status": "ONGOING",
-      "hash": "33d1dd7fd86a8d9677b073875650d5bfe64206252110610698128be97272545b",
-      "url": "https://developer.nvidia.com/blog/integrating-qpus-into-supercomputing-centers-using-slurm-hres-plugins/"
+      "status": "SHIFTING",
+      "hash": "184d931227f2504de1a33bebb5615518a5072d45e1bfb93a37850e8332740e3a",
+      "url": "https://openai.com/index/the-silent-consensus"
     },
     {
       "id": "ai_0003",
       "tab": "ai",
-      "publishedAt": "2026-11-18T01:52:17+09:00",
-      "source": "Microsoft Research Blog",
-      "title": "Can AI help build a healthier future?",
+      "publishedAt": "2026-11-18T15:00:00+09:00",
+      "source": "OpenAI Blog",
+      "title": "Managing frontier AI risk: From training to deployment",
       "summary": [
-        "Microsoft Research의 리더들과 의료 전문가들이 AI가 의료에서 무엇을 가능하게 할지와 실현 방안을 논의했다.",
-        "대화는 진단·치료 개선, 데이터와 모델의 신뢰성 확보, 임상 적용을 위한 규제·윤리·인프라 문제를 다루었다.",
-        "연구·제품 개발·임상 협업을 통해 안전하고 실용적인 AI 기반 의료 솔루션으로 나아가야 한다고 결론지었다."
+        "OpenAI는 훈련부터 배포까지 최첨단 AI 리스크 관리 전략을 제시했다.",
+        "주요 수단으로 모델 정렬, 샌드박스화, 차단 안전장치 및 실시간 모니터링을 강조했다.",
+        "목표는 위험을 조기에 차단하고 안전한 상용화 및 지속적 대응 체계를 구축하는 것이다."
       ],
-      "whyItMatters": "의료 AI의 잠재력과 도입 장벽을 동시에 조망해 연구·제품·정책 우선순위를 제시하기 때문에 중요하다.",
+      "whyItMatters": "최첨단 모델의 잠재적 피해를 줄이고 안전한 배포를 보장하기 위해 중요하다.",
       "topics": [
-        "Research",
-        "Product",
-        "Data",
-        "Safety"
+        "Safety",
+        "Models",
+        "Tooling",
+        "Infra"
       ],
       "status": "ONGOING",
-      "hash": "46af5006ff7ddd91e2553ede86a260cc278a8821d1892600222e084a2d96158b",
-      "url": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/"
+      "hash": "99be0c0a7e074380d1a5d6cdb0953a68d68217eb3d8f50443a74e9d288a8cea0",
+      "url": "https://openai.com/index/managing-frontier-ai-risk"
     },
     {
       "id": "ai_0004",
       "tab": "ai",
-      "publishedAt": "2026-11-18T02:30:00+09:00",
-      "source": "NVIDIA Developer Blog",
-      "title": "Co-Designing Sparse Attention for Efficient Long-Context Inference",
+      "publishedAt": "2026-11-19T06:35:43+09:00",
+      "source": "Google DeepMind Blog",
+      "title": "Introducing Gemini 4 Neon",
       "summary": [
-        "긴 컨텍스트(수만~수십만 토큰) 처리를 위해 희소 어텐션을 모델·하드웨어 관점에서 공동 설계한다.",
-        "메모리와 연산 효율을 개선해 에이전트 워크로드와 대규모 문서·코드베이스의 실용적 인퍼런스를 목표로 한다.",
-        "NVIDIA 하드웨어 최적화와 결합해 장기 컨텍스트 인퍼런스의 배포 가능성을 높인다."
+        "Google DeepMind가 Gemini 4의 새로운 변종 'Neon'을 공개했습니다.",
+        "Neon은 경량·고효율 설계로 추론 성능과 배포 유연성을 높이는 것이 핵심입니다.",
+        "출시는 제품화·온디바이스 적용과 안전성 개선을 겨냥한 업데이트로 보입니다."
       ],
-      "whyItMatters": "긴 컨텍스트를 효율적으로 처리하면 모델 성능과 비용 효율성이 동시에 개선되어 대규모 실사용 사례에 결정적 영향을 미치기 때문이다.",
+      "whyItMatters": "Google이 모델의 성능·효율성·배포 범위를 전략적으로 확장하려는 목적에서 출시했기 때문입니다.",
       "topics": [
         "Models",
         "Inference",
-        "Infra",
-        "Research"
+        "Product"
       ],
-      "status": "ONGOING",
-      "hash": "7259f5e9d5bd8cf8de82d97476d62d2f685a6f9a4d65447a9dbab947ba0d5605",
-      "url": "https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference/"
+      "status": "NEW",
+      "hash": "95da0fde7d56c751139e0cc7dfc6322f755c734e8b60661e4e9abc5c82ecbba0",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/"
     },
     {
       "id": "ai_0005",
       "tab": "ai",
-      "publishedAt": "2026-11-17T17:00:00+09:00",
-      "source": "OpenAI Blog",
-      "title": "Introducing ChatGPT for Sales",
+      "publishedAt": "2026-11-19T04:54:56+09:00",
+      "source": "Hugging Face Blog",
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
       "summary": [
-        "ChatGPT for Sales 플러그인이 도입되어 영업 활동을 지원합니다.",
-        "30개 이상의 파트너 플러그인 확장으로 잠재고객 조사, 제안서 준비, CRM 업데이트 등 판매 워크플로우를 자동화합니다.",
-        "영업 효율과 딜 진행 속도를 높여 기업 도입이 가속될 가능성이 큽니다."
+        "Hugging Face가 27B 모델 'DaisyRose-27B'를 발표하며 포스트 트레이닝 효율성을 개선했습니다.",
+        "경량화·양자화·추론 최적화 등으로 연산 및 메모리 비용을 크게 낮췄습니다.",
+        "대형 모델의 실사용 배포성과 비용 효율을 높여 실서비스 적용을 가속화하는 것이 목표입니다."
       ],
-      "whyItMatters": "영업 반복 작업의 자동화와 CRM 연동으로 팀 생산성 및 딜 전환율을 실질적으로 개선할 수 있기 때문입니다.",
+      "whyItMatters": "대형 모델의 운영비용을 줄이고 배포 장벽을 낮춰 실무 적용을 촉진하기 때문입니다.",
       "topics": [
-        "Product",
+        "Models",
+        "Inference",
         "Tooling",
-        "Business"
+        "Research"
       ],
-      "status": "NEW",
-      "hash": "3047d7657748ea760feb4367a861eff886526fc9a8d7d29ee939532b2c42b6aa",
-      "url": "https://openai.com/index/introducing-chatgpt-for-sales"
+      "status": "ONGOING",
+      "hash": "f0b81ce3c14612880642c854f15f292b941326a9491f444584b41bfe82ab7a56",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"
     }
   ]
 }

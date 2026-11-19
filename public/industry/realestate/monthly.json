@@ -1,16 +1,16 @@
 {
   "range": {
-    "from": "2026-10-20",
-    "to": "2026-11-18"
+    "from": "2026-10-21",
+    "to": "2026-11-19"
   },
   "kpis": {
     "collected": 101,
     "deduped": 101,
     "uniqueTopics": 10,
     "marketShare": {
-      "Market": 32,
-      "Supply": 24,
-      "Policy": 16,
+      "Market": 31,
+      "Supply": 25,
+      "Policy": 15,
       "UrbanRenewal": 15,
       "Regulation": 14,
       "Other": 0
@@ -18,27 +18,27 @@
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/20-10/26)",
+      "week": "Week 1 (10/21-10/27)",
       "topicCounts": {
-        "Market": 16,
+        "Market": 19,
+        "Supply": 13,
+        "Policy": 7,
+        "UrbanRenewal": 5,
+        "Regulation": 7
+      }
+    },
+    {
+      "week": "Week 2 (10/28-11/03)",
+      "topicCounts": {
+        "Market": 13,
         "Supply": 13,
         "Policy": 9,
-        "UrbanRenewal": 6,
-        "Regulation": 6
+        "UrbanRenewal": 9,
+        "Regulation": 3
       }
     },
     {
-      "week": "Week 2 (10/27-11/02)",
-      "topicCounts": {
-        "Market": 9,
-        "Supply": 12,
-        "Policy": 7,
-        "UrbanRenewal": 7,
-        "Regulation": 1
-      }
-    },
-    {
-      "week": "Week 3 (11/03-11/09)",
+      "week": "Week 3 (11/04-11/10)",
       "topicCounts": {
         "Market": 16,
         "Supply": 12,
@@ -48,23 +48,23 @@
       }
     },
     {
-      "week": "Week 4 (11/10-11/16)",
+      "week": "Week 4 (11/11-11/17)",
       "topicCounts": {
         "Market": 19,
-        "Supply": 14,
+        "Supply": 13,
         "Policy": 11,
         "UrbanRenewal": 10,
-        "Regulation": 8
+        "Regulation": 10
       }
     },
     {
-      "week": "Week 5 (11/17-11/18)",
+      "week": "Week 5 (11/18-11/19)",
       "topicCounts": {
-        "Market": 3,
-        "Supply": 2,
-        "Policy": 0,
+        "Market": 2,
+        "Supply": 4,
+        "Policy": 1,
         "UrbanRenewal": 2,
-        "Regulation": 3
+        "Regulation": 2
       }
     }
   ],
@@ -72,70 +72,70 @@
     {
       "id": 1,
       "status": "ONGOING",
-      "title": "서울 아파트 핵심·외곽 간 가격 격차 재확대",
-      "summary": "정부 대출 규제 강화 속에서 노도강(노원·도봉·강북) 중위가격은 약보합인 반면, 마용성(마포·용산·성동)은 크게 올라 1년 4개월 사이 갈아타기 비용이 약 5억원 늘었다. 규제와 수요가 겹치며 수도권 내 입지별 양극화가 심화되는 흐름이다.",
+      "title": "재건축초과이익환수제 적용 차이에 따른 단지별 ‘운명 갈림’",
+      "summary": "신반포20차는 재건축초과이익환수제 부담금이 적용되면서 통합재건축이 무산되고 단독 재건축으로 전환해 부담금 예정액 산정 절차에 들어간 반면, 인근 신반포4지구는 부담금 면제를 받아 3300가구 넘는 ‘메이플자이’로 재탄생해 재초환 적용 여부가 재건축 사업성·지연 여부를 가르는 핵심 변수로 부각됐다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "헤럴드경제(부동산)",
-          "title": "‘노도강’서 ‘마용성’ 가는데 5억 더 필요",
-          "url": "https://biz.heraldcorp.com/article/10941096"
+          "title": "‘재초환 부담금’에 이별한 메이플자이·신반포20차 ‘엇갈린 운명’",
+          "url": "https://biz.heraldcorp.com/article/10942532"
         }
       ]
     },
     {
       "id": 2,
       "status": "ONGOING",
-      "title": "정비사업이 이끄는 성남 원도심 집값·청약 열기",
-      "summary": "성남 원도심 재개발·재건축 등 정비사업이 활발해지며 올해 아파트 평당 매매가격이 12.84% 뛰었고, 최근 3년간 누적 상승률은 38.2%에 달했다. 정비사업 단지의 1순위 평균 청약 경쟁률도 26.98대 1로 높게 형성되며 경기권 재생사업 기대를 키우고 있다.",
+      "title": "청년안심주택, 서울 핵심지 공급 부족 드러낸 청약 과열",
+      "summary": "용산 청년안심주택에 2만8000명 이상이 몰리며 평균 경쟁률 44.7대1, 일부 전용 23㎡ 청년형 특별공급은 472대1을 기록해 도심 소형·임대 수요가 폭발적임에도 청년층이 원하는 위치·규모의 공공임대 공급이 여전히 크게 부족하다는 점이 재확인됐다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "매일경제(부동산)",
-          "title": "“정비사업 추진 활발”…성남 집값, 원도심이 견인",
-          "url": "https://www.mk.co.kr/news/realestate/12212183"
+          "source": "헤럴드경제(부동산)",
+          "title": "용산 ‘청년안심주택’ 최고 경쟁률 472대 1",
+          "url": "https://biz.heraldcorp.com/article/10942529"
         }
       ]
     },
     {
       "id": 3,
-      "status": "ONGOING",
-      "title": "모듈러 공법 확산…고속 시공과 품질 논쟁",
-      "summary": "경기 의왕 초평지구에서 하루 한 층 시공이 가능한 콘크리트 모듈러 공사가 진행 중이다. 시공사는 층간소음·누수 우려가 적고 한 동을 한 달 내 완공할 수 있다고 강조하지만, 초고속 시공에 따른 구조·마감 품질과 장기 내구성에 대한 시장의 의구심이 함께 제기되고 있다.",
+      "status": "NEW",
+      "title": "고양시 ‘미래타운 1호’ 행신동 대규모 재개발 본격화",
+      "summary": "고양 덕양구 행신동 일대에 한신공영이 공급하는 ‘한신더휴 퍼스트원’을 시작으로 7개 블록, 총 1743가구 규모의 재개발·정비사업이 추진되며, 서울 인접 지역의 노후 주거지 정비와 새 아파트 공급을 동시에 확대하는 거점 사업으로 자리 잡고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(부동산)",
-          "title": "아파트 한층 하루만에 짓는데 ‘날림’ 아니다?…층간소음·누수 걱정 없다는데 [르포]",
-          "url": "https://www.mk.co.kr/news/realestate/12212179"
+          "title": "“고양시 미래타운 1호 사업”…한신공영, 행신동서 ‘한신더휴 퍼스트원’ 공급",
+          "url": "https://www.mk.co.kr/news/realestate/12213441"
         }
       ]
     },
     {
       "id": 4,
       "status": "ONGOING",
-      "title": "공동주택 리모델링 규제 완화로 정비 수요 자극",
-      "summary": "국토교통부가 리모델링 추진을 위한 주민 동의율 기준을 75%에서 70%로 낮추고, 수직증축 안전성 검토 기관을 확대하는 등 문턱을 낮춘다. 거주의무 예외 범위도 넓어지면서 재건축 대체 수단으로 리모델링 사업이 늘어날 가능성이 커지고 있다.",
+      "title": "LH, 발주~착공 기간 절반 단축…공공주택 공급 가속",
+      "summary": "LH가 공사 발주부터 착공까지 평균 소요 기간을 130일에서 63일로 줄이는 신속 집행 체계를 도입하면서 발주·계약·착공 전 과정을 묶어 추진해 공공분양·임대주택 공급 속도를 전반적으로 끌어올리려는 정책 드라이브가 이어지고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "헤럴드경제(부동산)",
-          "title": "리모델링 주민 동의율 75%→70%로 낮춘다…내년부터 문턱 완화 [부동산360]",
-          "url": "https://biz.heraldcorp.com/article/10939730"
+          "source": "매일경제(부동산)",
+          "title": "LH, 주택공급 속도전…공사 발주~착공 기간 130일→63일로 축소",
+          "url": "https://www.mk.co.kr/news/realestate/12213305"
         }
       ]
     },
     {
       "id": 5,
-      "status": "SHIFTING",
-      "title": "고가 아파트 양도세 부담 급증으로 매도·보유 전략 재조정",
-      "summary": "압구정 아파트 사례처럼 양도 시점과 제도 적용 여부에 따라 양도소득세가 34억원에서 71억원까지 벌어지는 등 고가 주택 보유자의 세 부담이 크게 달라지고 있다. 세법 변화 시점에 맞춘 매도·보유 전략 수립이 투자 수익에 결정적 변수가 되고 있다.",
+      "status": "ONGOING",
+      "title": "‘노도강 vs 마용성’ 가격 격차 확대와 갈아타기 장벽 급등",
+      "summary": "정부 대출 규제 강화 속에 노도강 중위 매매가격은 정체·소폭 하락한 반면, 마용성은 크게 올라 두 권역 간 가격 차가 커졌고, 1년4개월 새 마용성으로 이동하기 위한 추가 현금 부담이 약 5억원 늘어 중저가 지역 거주자의 도심 선호지 갈아타기가 더 어려워졌다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "한국경제(부동산)",
-          "title": "압구정 아파트 양도세 34억에서 71억으로…매도 시점이 가른 세금",
-          "url": "https://www.hankyung.com/article/202611095154i"
+          "source": "헤럴드경제(부동산)",
+          "title": "‘노도강’서 ‘마용성’ 가는데 5억 더 필요",
+          "url": "https://biz.heraldcorp.com/article/10941096"
         }
       ]
     }

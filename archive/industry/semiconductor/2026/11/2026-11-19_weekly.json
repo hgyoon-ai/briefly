@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-11-13",
+    "to": "2026-11-19"
+  },
+  "kpis": {
+    "collected": 12,
+    "deduped": 12,
+    "uniqueTopics": 6
+  },
+  "topTopics": [
+    {
+      "name": "Competition",
+      "count": 12
+    },
+    {
+      "name": "Roadmap",
+      "count": 10
+    },
+    {
+      "name": "Manufacturing",
+      "count": 8
+    },
+    {
+      "name": "Demand",
+      "count": 4
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Manufacturing",
+      "count": 2
+    },
+    {
+      "date": "2026-11-13",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Manufacturing",
+      "count": 2
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 4
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 3
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Manufacturing",
+      "count": 3
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Demand",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "AI용 첨단 패키징: ‘슈링크 앤 스택’과 소재 이슈 부각",
+      "summary": "Qnity CTO 인터뷰를 통해 AI 반도체에서 칩 축소와 적층(슈링크 앤 스택) 패키징이 성능·전력 경쟁의 핵심으로 재부각되고 있다. 고대역폭·저전력 요구가 커지면서, 첨단 패키징 공정과 이를 지탱할 신소재 공급망 확보가 AI 칩 경쟁력의 주요 변수가 되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Qnity at One: Randy King on Shrink, Stack and the Materials Behind AI",
+          "url": "https://www.eetimes.com/qnity-at-one-randy-king-on-shrink-stack-and-the-materials-behind-ai/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "인도 AI 칩 설계 생태계 부상과 IP·EDA 툴 수요 확대",
+      "summary": "Oxmiq가 인도 설계팀을 겨냥해 AI 칩용 IP와 설계 도구를 제공하며 현지 반도체 설계 생태계 확대를 뒷받침하고 있다. 2030년까지 인도 내 AI 인프라 전력 수요가 6GW를 넘길 것으로 전망되는 가운데, 로컬 IP·EDA 공급을 통한 설계 자립과 파운드리·클라우드 인프라 연계 수요가 빠르게 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Koduri’s Oxmiq Offers IP, Tools for Indian Teams to Design AI Chips",
+          "url": "https://www.eetimes.com/koduri-oxmiq-offers-ip-tools-for-indian-teams-to-design-ai-chips/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "AI 반도체 수출 통제와 기술 스택 통제 전략 논쟁",
+      "summary": "엔비디아 리더십 변동 속에서, 고성능 칩과 전체 기술 스택을 어느 수준까지 해외에 판매·공개할지에 대한 논쟁이 이어지고 있다. 안보·산업정책을 이유로 AI 가속기 수출을 제한할지, 아니면 시장 점유율 유지를 위해 판매를 확대할지에 대한 ‘기술 트로이 목마’ 논의가 정책·업계 전반에 영향을 주고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Technology as a Trojan Horse",
+          "url": "https://www.eetimes.com/technology-as-a-trojan-horse/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "SHIFTING",
+      "title": "ASML EUV 독점력과 공급망·지정학 리스크",
+      "summary": "ASML이 EUV 노광장비에서 사실상 독점적 지위를 공고히 하며 글로벌 파운드리 미세공정 로드맵을 좌우하고 있다. 파트너 중심 문화와 긴밀한 공급망 통합이 기술 우위를 강화하는 한편, 특정 국가 의존도와 수출 규제 등 지정학 리스크가 첨단 공정 투자와 장비 리드타임에 지속적인 불확실성을 주고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Marc Hijink on ASML’s Culture, Supply Chain, and Geopolitics",
+          "url": "https://www.eetimes.com/marc-hijink-on-asmls-culture-supply-chain-and-geopolitics/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "MRAM의 LPDDR 연동 추진과 차세대 메모리 표준화",
+      "summary": "JEDEC 태스크포스가 MRAM을 최신 LPDDR 표준과 연동하는 방안을 논의하며, 컨트롤러 업체가 MRAM 지원 하드 IP 설계를 검토 중이다. 비휘발성과 고속성을 겸비한 MRAM이 LPDDR 생태계에 편입될 경우, AI 엣지·모바일·고신뢰성 시스템에서 새로운 메모리 계층 구조를 형성할 잠재력이 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Everspin Looks to Broaden MRAM Adoption with LPDDR Standard",
+          "url": "https://www.eetimes.com/everspin-looks-to-broaden-mram-adoption-with-lpddr-standard/"
+        }
+      ]
+    }
+  ]
+}

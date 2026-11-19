@@ -1,0 +1,84 @@
+{
+  "date": "2026-11-19",
+  "highlights": {
+    "bullets": [
+      "핵심: Qnity CTO가 독립 첫 해를 회고하며 AI용 shrink-and-stack 칩과 재료 문제가 논의됐다.",
+      "핵심: Oxmiq가 인도 팀에 AI 칩 설계용 IP와 도구를 제공한다고 발표했다.",
+      "트렌드: 제품 로드맵 검증과 현지화가 경쟁력 확보의 공통 이슈로 부각됐다."
+    ],
+    "topTopics": [
+      "Roadmap",
+      "Competition",
+      "Manufacturing",
+      "Investment"
+    ],
+    "stats": {
+      "collected": 6,
+      "deduped": 6
+    }
+  },
+  "cards": [
+    {
+      "id": "semiconductor_0001",
+      "tab": "semiconductor",
+      "publishedAt": "2026-11-18T23:00:00+09:00",
+      "source": "EE Times",
+      "title": "Qnity at One: Randy King on Shrink, Stack and the Materials Behind AI",
+      "summary": [
+        "Qnity의 CTO 랜디 킹이 독립 회사로서 첫 해를 회고했다.",
+        "AI용 'shrink-and-stack' 칩과 고급 패키징의 재료 문제가 핵심으로 다뤄졌다.",
+        "재료와 패키징 기술이 AI 칩 성능과 확장성에 중대한 영향을 미친다."
+      ],
+      "whyItMatters": "고급 패키징과 재료 문제가 AI 칩의 성능·확장성·제조 전략에 직접적 영향을 주어 산업 로드맵에 중요한 시사점을 제공하기 때문입니다.",
+      "topics": [
+        "Manufacturing",
+        "Roadmap",
+        "Competition"
+      ],
+      "status": "ONGOING",
+      "hash": "725a28082b4974237a35b9730cdb0531735dd5240a1abc9f43c0f6757be76cb8",
+      "url": "https://www.eetimes.com/qnity-at-one-randy-king-on-shrink-stack-and-the-materials-behind-ai/"
+    },
+    {
+      "id": "semiconductor_0002",
+      "tab": "semiconductor",
+      "publishedAt": "2026-11-18T22:30:00+09:00",
+      "source": "EE Times",
+      "title": "Koduri’s Oxmiq Offers IP, Tools for Indian Teams to Design AI Chips",
+      "summary": [
+        "Oxmiq가 인도 팀을 위한 IP와 AI 칩 설계 도구를 제공한다.",
+        "인도의 AI 인프라 수요는 2030년까지 6GW를 초과할 수 있다.",
+        "국내 칩 설계와 맞춤형 시스템이 성능·주권 확보에 중요하다."
+      ],
+      "whyItMatters": "현지 IP와 도구는 설계 장벽을 낮춰 급증하는 수요에 대응하고 외국 의존도를 줄이는 전략적 전환을 촉진하기 때문이다.",
+      "topics": [
+        "Demand",
+        "Roadmap",
+        "Competition"
+      ],
+      "status": "SHIFTING",
+      "hash": "a588ea93ccec8a49a2bb25ffbc1f69a7d993ebbe944cd9ce56983e970f0b8e48",
+      "url": "https://www.eetimes.com/koduri-oxmiq-offers-ip-tools-for-indian-teams-to-design-ai-chips/"
+    },
+    {
+      "id": "semiconductor_0003",
+      "tab": "semiconductor",
+      "publishedAt": "2026-11-19T03:00:00+09:00",
+      "source": "Samsung Newsroom",
+      "title": "Samsung Begins One UI 9.5 Beta Program",
+      "summary": [
+        "삼성은 공식 출시 전 One UI 9.5 베타 프로그램을 시작했습니다.",
+        "베타에는 정밀한 카메라 제어, 개인화된 건강 인사이트, 접근성 개선 및 강화된 개인정보 보호 기능이 포함됩니다.",
+        "사용자 피드백을 받아 정식 버전에서 기능과 성능을 다듬을 예정입니다."
+      ],
+      "whyItMatters": "제품 로드맵 검증과 경쟁력 확보를 위해 조기 사용자 피드백으로 기능·프라이버시를 신속히 검증할 수 있어 중요합니다.",
+      "topics": [
+        "Roadmap",
+        "Competition"
+      ],
+      "status": "NEW",
+      "hash": "f67b5a44dc20fa3cd64f98759eabf1c2bbb23638c47566b0da54ba3b7d3e9b9e",
+      "url": "https://news.samsung.com/global/samsung-begins-one-ui-9-5-beta-program"
+    }
+  ]
+}

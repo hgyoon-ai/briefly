@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "highlights": {
     "bullets": [
-      "핵심: 캘리포니아 차량국의 중단 명령 이후 웨이모가 미국 전역에서 고속도로 자율주행 운영을 중단했다.",
-      "핵심: 아이슬란드에 첫 상업용 풍력단지가 들어서 전력 증가 시 수력 저수지의 물을 절약할 수 있다."
+      "핵심: 여러 건의 치명적 테슬라 사고가 오토파일럿·FSD 연관 의혹과 함께 다시 헤드라인을 장식하고 있다.",
+      "핵심: 미국의 배터리 저장 용량이 총 200GWh를 넘어섰다."
     ],
     "topTopics": [
       "Roadmap",
@@ -20,45 +20,46 @@
     {
       "id": "ev_0001",
       "tab": "ev",
-      "publishedAt": "2026-11-18T06:26:19+09:00",
+      "publishedAt": "2026-11-19T10:50:06+09:00",
       "source": "Electrek",
-      "title": "Waymo halts highway operation nationwide after CA DMV pause",
+      "title": "Tesla crashes make headlines, Lidar makes sense, IONNA makes it easy",
       "summary": [
-        "캘리포니아 차량국(DMV)이 경찰 봉쇄선을 통과하려 한 영상 이후 고속도로 운행 중단 명령을 내리자, 웨이모가 미국 전역에서 고속도로 자율주행 운영을 중단했습니다.",
-        "이번 조치는 캘리포니아 규제 리스크가 타 주 운영에도 연쇄적으로 영향을 미쳤음을 보여줍니다.",
-        "웨이모는 안전성과 규제 준수 문제 해결 전까지 고속도로 상용 서비스·테스트 확장이 지연될 가능성이 큽니다."
+        "여러 건의 치명적 테슬라 사고가 오토파일럿·FSD 연관 의혹과 함께 다시 헤드라인을 장식하고 있다.",
+        "반복되는 자율주행 사고 이슈 속에서 라이다 채택의 필요성과 안전성 향상이 재조명되고 있다.",
+        "IONNA는 충전·인프라 측면에서 전기차 이용을 더 쉽게 만드는 솔루션으로 거론되고 있다."
       ],
-      "whyItMatters": "주요 자율주행 업체의 전국 단위 고속도로 운행 중단은 업계 전반의 규제 기조 강화와 상용화 일정 지연을 촉발할 수 있는 중대한 사건입니다.",
+      "whyItMatters": "테슬라 자율주행 사고와 라이다·충전 인프라 논의는 규제, 경쟁 구도, 기술 로드맵에 직결되는 핵심 이슈라서 중요하다.",
       "topics": [
-        "Policy",
-        "Roadmap",
         "Competition",
+        "Roadmap",
+        "Policy",
         "Investment"
       ],
-      "status": "NEW",
-      "hash": "aedce8023953d4834a9827ca248f49092193da557335085ae7af5c796fbd3992",
-      "url": "https://electrek.co/2026/11/17/waymo-halts-highway-operation-nationwide-after-ca-dmv-pause/"
+      "status": "ONGOING",
+      "hash": "5a0f3576dea992ca18131401c5647ac5e412af23979adda4ad33d59d21cb6be8",
+      "url": "https://electrek.co/2026/11/18/tesla-crashes-make-headlines-lidar-makes-sense-ionna-makes-it-easy/"
     },
     {
       "id": "ev_0002",
       "tab": "ev",
-      "publishedAt": "2026-11-18T07:12:53+09:00",
+      "publishedAt": "2026-11-19T07:36:48+09:00",
       "source": "Electrek",
-      "title": "Iceland’s first wind farm comes with a water-saving bonus",
+      "title": "US battery storage just topped 200 GWh – here’s where it is",
       "summary": [
-        "아이슬란드에 첫 상업용 규모의 풍력 발전단지가 등장했다.",
-        "풍력 발전 시 전력 생산이 증가하면 수력 저수지에 물을 절약해 겨울 동안 보충할 수 있다.",
-        "풍력과 수력의 연계로 재생에너지 유연성과 물관리 효율이 향상된다."
+        "미국의 배터리 저장 용량이 총 200GWh를 넘겼습니다.",
+        "2026년 첫 9개월에만 약 50GWh가 새로 가동되었습니다.",
+        "저장장치 확대는 전력망 유연성과 재생에너지 통합을 강화합니다."
       ],
-      "whyItMatters": "수력과 풍력의 통합 운용은 계통 유연성 증대와 자원 최적화를 통해 국가 에너지 안정성에 기여하기 때문이다.",
+      "whyItMatters": "이 성장은 재생에너지 확대에 따른 수요 증가와 제조·투자 확대를 반영하며 전력망 안정성에 직접적인 영향을 미칩니다.",
       "topics": [
+        "Demand",
+        "Manufacturing",
         "Investment",
-        "Roadmap",
-        "Policy"
+        "Roadmap"
       ],
-      "status": "NEW",
-      "hash": "1a8c7125f4e0a9170258186504036aec9a633b123ac2443d9c7323ed77857fe5",
-      "url": "https://electrek.co/2026/11/17/iceland-first-wind-farm-gives-its-hydropower-a-winter-boost/"
+      "status": "ONGOING",
+      "hash": "085a353456eabc710c2b6e2ba961f744e995f07092f530880d917051cc61605f",
+      "url": "https://electrek.co/2026/11/18/us-battery-storage-just-topped-200-gwh-heres-where-it-is/"
     }
   ]
 }

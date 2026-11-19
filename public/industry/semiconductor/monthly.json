@@ -1,107 +1,107 @@
 {
   "range": {
-    "from": "2026-10-20",
-    "to": "2026-11-18"
+    "from": "2026-10-21",
+    "to": "2026-11-19"
   },
   "kpis": {
-    "collected": 52,
-    "deduped": 52,
+    "collected": 49,
+    "deduped": 49,
     "uniqueTopics": 7,
     "marketShare": {
       "Roadmap": 29,
       "Competition": 24,
       "Manufacturing": 19,
-      "Demand": 14,
-      "Investment": 14,
+      "Investment": 15,
+      "Demand": 13,
       "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/20-10/26)",
+      "week": "Week 1 (10/21-10/27)",
       "topicCounts": {
-        "Roadmap": 11,
-        "Competition": 10,
-        "Manufacturing": 5,
-        "Demand": 7,
-        "Investment": 0
+        "Roadmap": 8,
+        "Competition": 6,
+        "Manufacturing": 4,
+        "Investment": 0,
+        "Demand": 4
       }
     },
     {
-      "week": "Week 2 (10/27-11/02)",
+      "week": "Week 2 (10/28-11/03)",
       "topicCounts": {
-        "Roadmap": 5,
+        "Roadmap": 8,
         "Competition": 3,
-        "Manufacturing": 7,
-        "Demand": 4,
-        "Investment": 7
+        "Manufacturing": 8,
+        "Investment": 9,
+        "Demand": 5
       }
     },
     {
-      "week": "Week 3 (11/03-11/09)",
+      "week": "Week 3 (11/04-11/10)",
       "topicCounts": {
         "Roadmap": 5,
         "Competition": 3,
         "Manufacturing": 2,
-        "Demand": 1,
-        "Investment": 4
+        "Investment": 4,
+        "Demand": 1
       }
     },
     {
-      "week": "Week 4 (11/10-11/16)",
+      "week": "Week 4 (11/11-11/17)",
       "topicCounts": {
-        "Roadmap": 12,
+        "Roadmap": 13,
         "Competition": 12,
-        "Manufacturing": 6,
-        "Demand": 6,
-        "Investment": 5
+        "Manufacturing": 8,
+        "Investment": 5,
+        "Demand": 4
       }
     },
     {
-      "week": "Week 5 (11/17-11/18)",
+      "week": "Week 5 (11/18-11/19)",
       "topicCounts": {
-        "Roadmap": 1,
-        "Competition": 2,
-        "Manufacturing": 2,
-        "Demand": 0,
-        "Investment": 0
+        "Roadmap": 3,
+        "Competition": 3,
+        "Manufacturing": 1,
+        "Investment": 0,
+        "Demand": 1
       }
     }
   ],
   "topIssues": [
     {
-      "id": "sem-1",
-      "status": "SHIFTING",
-      "title": "ASML, EUV 지배력과 공급망·지정학 리스크 재부각",
-      "summary": "ASML의 파트너 중심 조직문화와 긴밀한 공급망 통합이 EUV 장비 시장 지배력을 강화하는 동시에, 미·중 갈등과 수출 규제 속에서 글로벌 반도체 공급망의 지정학적 취약성을 다시 떠올리게 하고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "EE Times",
-          "title": "Marc Hijink on ASML’s Culture, Supply Chain, and Geopolitics",
-          "url": "https://www.eetimes.com/marc-hijink-on-asmls-culture-supply-chain-and-geopolitics/"
-        }
-      ]
-    },
-    {
-      "id": "sem-2",
+      "id": 1,
       "status": "ONGOING",
-      "title": "MRAM, LPDDR 표준 연동으로 메인스트림 메모리 도약 모색",
-      "summary": "JEDEC가 MRAM을 최신 LPDDR 표준에 연동하는 방안을 논의하면서 Everspin과 컨트롤러 벤더들이 하드 IP 설계로 MRAM 지원을 확대하려 하고 있어, 저전력 고속 메모리 시장에서 MRAM의 채택 확대가 진행 중이다.",
+      "title": "AI 반도체용 고급 패키징·소재 경쟁 심화",
+      "summary": "Qnity CTO 인터뷰에서 AI용 ‘shrink-and-stack’ 패키징이 핵심 전략으로 부상했으며, 첨단 적층·인터포저 공정에 필요한 소재 수급과 공정 난도가 AI 반도체 경쟁의 주요 변수가 되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "EE Times",
-          "title": "Everspin Looks to Broaden MRAM Adoption with LPDDR Standard",
-          "url": "https://www.eetimes.com/everspin-looks-to-broaden-mram-adoption-with-lpddr-standard/"
+          "title": "Qnity at One: Randy King on Shrink, Stack and the Materials Behind AI",
+          "url": "https://www.eetimes.com/qnity-at-one-randy-king-on-shrink-stack-and-the-materials-behind-ai/"
         }
       ]
     },
     {
-      "id": "sem-3",
+      "id": 2,
       "status": "SHIFTING",
-      "title": "AI 시대 칩·기술 스택 통제 전략, 지정학과 공급망에 파급",
-      "summary": "엔비디아 리더십 변화 속에서 칩과 전체 기술 스택을 계속 판매하며 시장을 지배할지, 혹은 수출 제한과 통제를 통해 전략 자산화할지에 대한 논의가 심화되며, 반도체 공급망과 국가 안보 전략이 재조정되고 있다.",
+      "title": "인도, IP·EDA 기반 AI 칩 설계 생태계 부상",
+      "summary": "Oxmiq가 인도 설계팀을 겨냥해 AI 칩 IP와 설계 도구를 제공하면서, 2030년 6GW를 넘는 것으로 전망되는 인도 AI 인프라 수요를 선점하려는 팹리스·IP 생태계 경쟁이 본격화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Koduri’s Oxmiq Offers IP, Tools for Indian Teams to Design AI Chips",
+          "url": "https://www.eetimes.com/koduri-oxmiq-offers-ip-tools-for-indian-teams-to-design-ai-chips/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "반도체 기술 스택을 둘러싼 통제·수출 정책 논쟁",
+      "summary": "엔비디아 리더십 변화 속에서 AI 칩과 관련 기술 스택을 어디까지 판매·통제할지, 또는 판매를 제한해 시장 지연을 감수할지에 대한 ‘트로이 목마’식 정책·규제 논쟁이 심화되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -112,30 +112,30 @@
       ]
     },
     {
-      "id": "sem-4",
-      "status": "NEW",
-      "title": "삼성전자, CES 2027 혁신상으로 시스템·디바이스 경쟁력 과시",
-      "summary": "삼성전자가 CES 2027에서 Best of Innovation 수상작을 전년 대비 두 배로 늘리며 차세대 디스플레이·컴퓨팅·연결성 제품의 경쟁력을 입증, 시스템 반도체와 프리미엄 디바이스 수요 선점 기반을 강화하고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Samsung Newsroom",
-          "title": "Samsung’s Latest Products Recognized by Consumer Technology Association Ahead of CES 2027",
-          "url": "https://news.samsung.com/global/samsungs-latest-products-recognized-by-consumer-technology-association-ahead-of-ces-2027"
-        }
-      ]
-    },
-    {
-      "id": "sem-5",
+      "id": 4,
       "status": "ONGOING",
-      "title": "AI 데이터센터 전력 인프라, 하이엔드 반도체 확장의 병목으로 부상",
-      "summary": "미국과 중국 모두 AI 클러스터 증설에서 전력망 용량과 비용·리스크 분담이 핵심 제약 조건으로 떠오르며, 전력 접근성이 GPU·HBM 등 고성능 반도체 수요의 실제 실현 속도와 지역별 투자 우선순위를 좌우하고 있다.",
+      "title": "AI 메모리 호황으로 삼성전자 사상 최대급 실적",
+      "summary": "AI 서버·가속기용 고대역폭 메모리(HBM)와 고용량 DRAM 수요가 폭증하며 삼성전자가 분기 영업이익 800억 달러를 기록, 메모리 사이클 반등과 AI 인프라 투자 확대로 인한 수익성이 크게 개선되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "EE Times",
-          "title": "The AI Power Bill: Who Gets Grid Capacity, and Who Bears the Risk?",
-          "url": "https://www.eetimes.com/the-ai-power-bill-who-gets-grid-capacity-and-who-bears-the-risk/"
+          "title": "Samsung Electronics Posts $80B Operating Profit on AI Memory Demand",
+          "url": "https://www.eetimes.com/samsung-electronics-posts-80b-operating-profit-on-ai-memory-demand/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "SHIFTING",
+      "title": "ASML EUV 독점력과 지정학 리스크 재부각",
+      "summary": "ASML의 파트너 중심 문화와 공급망 통합 전략이 EUV 장비 시장 지배력을 강화하는 한편, 특정 국가 의존도와 수출 규제 등 지정학 리스크가 글로벌 반도체 공급망 전략의 핵심 이슈로 부각되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Marc Hijink on ASML’s Culture, Supply Chain, and Geopolitics",
+          "url": "https://www.eetimes.com/marc-hijink-on-asmls-culture-supply-chain-and-geopolitics/"
         }
       ]
     }

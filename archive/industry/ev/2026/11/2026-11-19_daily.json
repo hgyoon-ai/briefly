@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-19",
+  "highlights": {
+    "bullets": [
+      "핵심: 여러 건의 치명적 테슬라 사고가 오토파일럿·FSD 연관 의혹과 함께 다시 헤드라인을 장식하고 있다.",
+      "핵심: 미국의 배터리 저장 용량이 총 200GWh를 넘어섰다."
+    ],
+    "topTopics": [
+      "Roadmap",
+      "Competition",
+      "Investment",
+      "Demand"
+    ],
+    "stats": {
+      "collected": 15,
+      "deduped": 15
+    }
+  },
+  "cards": [
+    {
+      "id": "ev_0001",
+      "tab": "ev",
+      "publishedAt": "2026-11-19T10:50:06+09:00",
+      "source": "Electrek",
+      "title": "Tesla crashes make headlines, Lidar makes sense, IONNA makes it easy",
+      "summary": [
+        "여러 건의 치명적 테슬라 사고가 오토파일럿·FSD 연관 의혹과 함께 다시 헤드라인을 장식하고 있다.",
+        "반복되는 자율주행 사고 이슈 속에서 라이다 채택의 필요성과 안전성 향상이 재조명되고 있다.",
+        "IONNA는 충전·인프라 측면에서 전기차 이용을 더 쉽게 만드는 솔루션으로 거론되고 있다."
+      ],
+      "whyItMatters": "테슬라 자율주행 사고와 라이다·충전 인프라 논의는 규제, 경쟁 구도, 기술 로드맵에 직결되는 핵심 이슈라서 중요하다.",
+      "topics": [
+        "Competition",
+        "Roadmap",
+        "Policy",
+        "Investment"
+      ],
+      "status": "ONGOING",
+      "hash": "5a0f3576dea992ca18131401c5647ac5e412af23979adda4ad33d59d21cb6be8",
+      "url": "https://electrek.co/2026/11/18/tesla-crashes-make-headlines-lidar-makes-sense-ionna-makes-it-easy/"
+    },
+    {
+      "id": "ev_0002",
+      "tab": "ev",
+      "publishedAt": "2026-11-19T07:36:48+09:00",
+      "source": "Electrek",
+      "title": "US battery storage just topped 200 GWh – here’s where it is",
+      "summary": [
+        "미국의 배터리 저장 용량이 총 200GWh를 넘겼습니다.",
+        "2026년 첫 9개월에만 약 50GWh가 새로 가동되었습니다.",
+        "저장장치 확대는 전력망 유연성과 재생에너지 통합을 강화합니다."
+      ],
+      "whyItMatters": "이 성장은 재생에너지 확대에 따른 수요 증가와 제조·투자 확대를 반영하며 전력망 안정성에 직접적인 영향을 미칩니다.",
+      "topics": [
+        "Demand",
+        "Manufacturing",
+        "Investment",
+        "Roadmap"
+      ],
+      "status": "ONGOING",
+      "hash": "085a353456eabc710c2b6e2ba961f744e995f07092f530880d917051cc61605f",
+      "url": "https://electrek.co/2026/11/18/us-battery-storage-just-topped-200-gwh-heres-where-it-is/"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "range": {
+    "from": "2026-10-21",
+    "to": "2026-11-19"
+  },
+  "kpis": {
+    "collected": 42,
+    "deduped": 42,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 28,
+      "Competition": 23,
+      "Investment": 22,
+      "Demand": 16,
+      "Policy": 12,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/21-10/27)",
+      "topicCounts": {
+        "Roadmap": 9,
+        "Competition": 6,
+        "Investment": 9,
+        "Demand": 4,
+        "Policy": 3
+      }
+    },
+    {
+      "week": "Week 2 (10/28-11/03)",
+      "topicCounts": {
+        "Roadmap": 4,
+        "Competition": 4,
+        "Investment": 3,
+        "Demand": 4,
+        "Policy": 1
+      }
+    },
+    {
+      "week": "Week 3 (11/04-11/10)",
+      "topicCounts": {
+        "Roadmap": 6,
+        "Competition": 7,
+        "Investment": 5,
+        "Demand": 5,
+        "Policy": 2
+      }
+    },
+    {
+      "week": "Week 4 (11/11-11/17)",
+      "topicCounts": {
+        "Roadmap": 11,
+        "Competition": 10,
+        "Investment": 6,
+        "Demand": 6,
+        "Policy": 6
+      }
+    },
+    {
+      "week": "Week 5 (11/18-11/19)",
+      "topicCounts": {
+        "Roadmap": 2,
+        "Competition": 1,
+        "Investment": 2,
+        "Demand": 1,
+        "Policy": 1
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "테슬라·웨이모 사고 여파로 자율주행 안전 규제와 라이다 채택 압력 확대",
+      "summary": "최근 치명적 테슬라 사고와 사이버캡 사고 보고, 웨이모의 전국 고속도로 운행 중단이 겹치며 자율주행 안전성에 대한 규제·여론 압력이 크게 높아졌다. 이 과정에서 라이다 등 보조 센서 도입 필요성이 재조명되고, 완전자율주행 상용화 일정과 사업 모델 전반에 재검토가 불가피한 국면이다.",
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla crashes make headlines, Lidar makes sense, IONNA makes it easy",
+          "url": "https://electrek.co/2026/11/18/tesla-crashes-make-headlines-lidar-makes-sense-ionna-makes-it-easy/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Waymo halts highway operation nationwide after CA DMV pause",
+          "url": "https://electrek.co/2026/11/17/waymo-halts-highway-operation-nationwide-after-ca-dmv-pause/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Tesla Cybercab has crashed 8 times, and the data shows a speed problem",
+          "url": "https://electrek.co/2026/11/16/tesla-cybercab-crashes-speed-problem/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "미국 배터리 저장 용량 200GWh 돌파, 재생에너지·EV 인프라 핵심 축으로 부상",
+      "summary": "미국 배터리 저장 설비가 200GWh를 넘어섰고, 2026년 첫 9개월에만 50GWh가 신규 가동되며 성장 속도가 빨라지고 있다. 이는 태양광·풍력 변동성 보완뿐 아니라 EV 충전 인프라, 피크 전력 대응, 그리드 안정화 수단으로서 배터리 스토리지가 에너지 전환의 핵심 인프라로 자리 잡고 있음을 의미한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "US battery storage just topped 200 GWh – here’s where it is",
+          "url": "https://electrek.co/2026/11/18/us-battery-storage-just-topped-200-gwh-heres-where-it-is/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "아이슬란드 첫 상업용 풍력단지, 수력과의 하이브리드로 겨울 전력 안정성 강화",
+      "summary": "아이슬란드가 첫 상업용 풍력 발전단지를 가동하며 풍력·수력의 계절 보완 모델을 도입했다. 바람이 많이 불 때는 풍력이 전력을 담당해 저수지 수위를 유지하고, 겨울에는 저장된 수력으로 공급을 보완해 물 사용을 줄이면서도 전력 안정성을 높이는 사례로 주목받고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Iceland’s first wind farm comes with a water-saving bonus",
+          "url": "https://electrek.co/2026/11/17/iceland-first-wind-farm-gives-its-hydropower-a-winter-boost/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "SHIFTING",
+      "title": "테슬라 사이버캡, 기능 미완성·가격 약속 사이에서 서둘러 출시 논란",
+      "summary": "테슬라가 2만9,990달러 가격의 초청 기반 사이버캡 주문을 열고 2026년 12월 인도를 예고했으나, 일부 기능이 미완성된 초기 버전이라는 지적이 나온다. 2027년 이전 3만달러 미만 인도라는 대외 약속을 맞추기 위한 성급한 출시라는 의혹이 제기되며, 제품 완성도·브랜드 신뢰도에 대한 논쟁이 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Is Tesla rushing out a half-baked Cybercab just to shave MKBHD’s head?",
+          "url": "https://electrek.co/2026/11/15/tesla-cybercab-mkbhd-bet-musk-chicken/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "루시드, 차량 위치도 못 파악한 공급망·재고 관리 혼선으로 수요 손실",
+      "summary": "루시드 CEO가 재고 차량의 위치조차 제때 파악하지 못해 고객 인도에 최대 2주가 걸렸고, 이 과정에서 일부 주문이 취소됐다고 인정했다. 고가 EV 시장 경쟁이 치열한 가운데, 생산·물류·재고 관리 역량 부족이 매출과 브랜드 신뢰에 직접적인 타격을 주고 있음을 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Lucid CEO admits it ‘did not even know where cars were’ and lost orders",
+          "url": "https://electrek.co/2026/11/10/lucid-ceo-did-not-know-where-cars-were-lost-orders/"
+        }
+      ]
+    }
+  ]
+}

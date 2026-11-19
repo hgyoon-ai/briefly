@@ -1,0 +1,130 @@
+{
+  "date": "2026-11-19",
+  "highlights": {
+    "bullets": [
+      "핵심: Plane-wave DFT의 GPU 병목을 K-포인트 배치와 혼합 정밀도로 완화했다.",
+      "핵심: OpenAI는 훈련부터 배포까지 최첨단 AI 리스크 관리 방안을 제시했다.",
+      "트렌드: 모델·추론 효율화와 배포 안전성 강화를 동시에 강조하는 경향이 보인다."
+    ],
+    "topTopics": [
+      "Tooling",
+      "Models",
+      "Infra",
+      "Research"
+    ],
+    "stats": {
+      "collected": 12,
+      "deduped": 12
+    }
+  },
+  "cards": [
+    {
+      "id": "ai_0001",
+      "tab": "ai",
+      "publishedAt": "2026-11-19T00:00:00+09:00",
+      "source": "NVIDIA Developer Blog",
+      "title": "Tackling GPU Bottlenecks in Plane-Wave DFT with K-Point Batching and Mixed Precision",
+      "summary": [
+        "Plane-wave DFT 계산이 GPU에서 병목을 일으켜 MLIP용 대규모 데이터 생성에 제약을 준다.",
+        "K-포인트 배치 처리와 혼합 정밀도로 GPU 활용도와 메모리 병목을 완화한다.",
+        "이 접근법으로 DFT 처리량이 증가해 수십~수백만 건 규모의 MLIP 학습용 데이터 생성이 가능해진다."
+      ],
+      "whyItMatters": "대규모 MLIP 학습과 재료 탐색을 위한 DFT 데이터 생성 비용과 시간을 크게 줄여 연구·제품 개발 속도를 높이기 때문입니다.",
+      "topics": [
+        "Infra",
+        "Tooling",
+        "Research",
+        "Data"
+      ],
+      "status": "ONGOING",
+      "hash": "ee537eda777aeb53c548cbfa093e817ba9c9cae982c33bd596031087905ac92c",
+      "url": "https://developer.nvidia.com/blog/tackling-gpu-bottlenecks-in-plane-wave-dft-with-k-point-batching-and-mixed-precision/"
+    },
+    {
+      "id": "ai_0002",
+      "tab": "ai",
+      "publishedAt": "2026-11-18T19:00:00+09:00",
+      "source": "OpenAI Blog",
+      "title": "The Silent Consensus",
+      "summary": [
+        "더 고도화된 AI가 사회적 규범과 기관의 역할을 '침묵의 합의'처럼 서서히 재구성할 수 있음을 설명한다.",
+        "사람들이 제도와 권한을 어떻게 유지하고 통제할지에 대한 전략적·정책적 고려를 제안한다.",
+        "기술, 안전, 거버넌스의 교차점에서 구체적 행동 촉구를 강조한다."
+      ],
+      "whyItMatters": "AI의 발전이 권력구조와 거버넌스에 중대한 영향을 미치므로 정책·안전 준비와 제도적 대응이 시급하다.",
+      "topics": [
+        "Safety",
+        "Research",
+        "Business"
+      ],
+      "status": "SHIFTING",
+      "hash": "184d931227f2504de1a33bebb5615518a5072d45e1bfb93a37850e8332740e3a",
+      "url": "https://openai.com/index/the-silent-consensus"
+    },
+    {
+      "id": "ai_0003",
+      "tab": "ai",
+      "publishedAt": "2026-11-18T15:00:00+09:00",
+      "source": "OpenAI Blog",
+      "title": "Managing frontier AI risk: From training to deployment",
+      "summary": [
+        "OpenAI는 훈련부터 배포까지 최첨단 AI 리스크 관리 전략을 제시했다.",
+        "주요 수단으로 모델 정렬, 샌드박스화, 차단 안전장치 및 실시간 모니터링을 강조했다.",
+        "목표는 위험을 조기에 차단하고 안전한 상용화 및 지속적 대응 체계를 구축하는 것이다."
+      ],
+      "whyItMatters": "최첨단 모델의 잠재적 피해를 줄이고 안전한 배포를 보장하기 위해 중요하다.",
+      "topics": [
+        "Safety",
+        "Models",
+        "Tooling",
+        "Infra"
+      ],
+      "status": "ONGOING",
+      "hash": "99be0c0a7e074380d1a5d6cdb0953a68d68217eb3d8f50443a74e9d288a8cea0",
+      "url": "https://openai.com/index/managing-frontier-ai-risk"
+    },
+    {
+      "id": "ai_0004",
+      "tab": "ai",
+      "publishedAt": "2026-11-19T06:35:43+09:00",
+      "source": "Google DeepMind Blog",
+      "title": "Introducing Gemini 4 Neon",
+      "summary": [
+        "Google DeepMind가 Gemini 4의 새로운 변종 'Neon'을 공개했습니다.",
+        "Neon은 경량·고효율 설계로 추론 성능과 배포 유연성을 높이는 것이 핵심입니다.",
+        "출시는 제품화·온디바이스 적용과 안전성 개선을 겨냥한 업데이트로 보입니다."
+      ],
+      "whyItMatters": "Google이 모델의 성능·효율성·배포 범위를 전략적으로 확장하려는 목적에서 출시했기 때문입니다.",
+      "topics": [
+        "Models",
+        "Inference",
+        "Product"
+      ],
+      "status": "NEW",
+      "hash": "95da0fde7d56c751139e0cc7dfc6322f755c734e8b60661e4e9abc5c82ecbba0",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/"
+    },
+    {
+      "id": "ai_0005",
+      "tab": "ai",
+      "publishedAt": "2026-11-19T04:54:56+09:00",
+      "source": "Hugging Face Blog",
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "summary": [
+        "Hugging Face가 27B 모델 'DaisyRose-27B'를 발표하며 포스트 트레이닝 효율성을 개선했습니다.",
+        "경량화·양자화·추론 최적화 등으로 연산 및 메모리 비용을 크게 낮췄습니다.",
+        "대형 모델의 실사용 배포성과 비용 효율을 높여 실서비스 적용을 가속화하는 것이 목표입니다."
+      ],
+      "whyItMatters": "대형 모델의 운영비용을 줄이고 배포 장벽을 낮춰 실무 적용을 촉진하기 때문입니다.",
+      "topics": [
+        "Models",
+        "Inference",
+        "Tooling",
+        "Research"
+      ],
+      "status": "ONGOING",
+      "hash": "f0b81ce3c14612880642c854f15f292b941326a9491f444584b41bfe82ab7a56",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"
+    }
+  ]
+}
