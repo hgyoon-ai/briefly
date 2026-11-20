@@ -2,6 +2,31 @@
   "month": "2026-11",
   "events": [
     {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202611201114306434",
+      "date": "2026-11-20",
+      "company": "미래에셋증권",
+      "title": "AWS 손잡은 미래에셋증권, 금융상품 AI 검색 체계 구축",
+      "oneLiner": "미래에셋증권이 AWS와 협력해 생성형 AI 기반 금융상품 통합 검색 서비스와 연금 업무용 AI 에이전트를 구축해 내부 및 고객용 AI 서비스를 확대한다.",
+      "type": "제휴",
+      "areas": [
+        "상담",
+        "리서치",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "AWS 손잡은 미래에셋증권, 금융상품 AI 검색 체계 구축",
+          "url": "https://www.fnnews.com/news/202611201114306434"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-11-20"
+    },
+    {
       "id": "news:KB증권:https://www.hankyung.com/article/2026111961996",
       "date": "2026-11-19",
       "company": "KB증권",
@@ -46,6 +71,75 @@
       "tags": [],
       "confidence": 0.88,
       "updatedAt": "2026-11-19"
+    },
+    {
+      "id": "news:KB증권:https://www.hankyung.com/article/2026111983426",
+      "date": "2026-11-19",
+      "company": "KB증권",
+      "title": "KB증권, 지역관광 AI 펀드에 20억 출자",
+      "oneLiner": "KB증권이 지역관광과 AI 관련 펀드·스타트업에 20억원을 출자한다고 발표함.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "KB증권, 지역관광 AI 펀드에 20억 출자",
+          "url": "https://www.hankyung.com/article/2026111983426"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-11-20"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12213878",
+      "date": "2026-11-19",
+      "company": "한국투자증권",
+      "title": "국민연금 \"AI전력 다각투자\" … KIC \"해외자본 韓으로 유치\"",
+      "oneLiner": "국민연금과 KIC가 AI 전환기에 맞춰 대체투자 전략을 재정비한다는 보도로, 기관 투자자의 AI 투자 방향 변화에 관한 내용임.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "국민연금 \"AI전력 다각투자\" … KIC \"해외자본 韓으로 유치\"",
+          "url": "https://www.mk.co.kr/news/stock/12213878"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-11-20"
+    },
+    {
+      "id": "news:KB증권:https://www.mk.co.kr/news/stock/12213551",
+      "date": "2026-11-19",
+      "company": "KB증권",
+      "title": "KB증권, 지역 관광·AI 스타트업에 20억원 투자…모험자본 공급 확대",
+      "oneLiner": "KB증권이 발행어음으로 조달한 자금 20억원을 지역 관광 및 AI 스타트업 등에 투자해 모험자본 공급을 확대한다.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "KB증권, 지역 관광·AI 스타트업에 20억원 투자…모험자본 공급 확대",
+          "url": "https://www.mk.co.kr/news/stock/12213551"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-11-20"
     },
     {
       "id": "news:KB증권:https://www.fnnews.com/news/202611180833171617",

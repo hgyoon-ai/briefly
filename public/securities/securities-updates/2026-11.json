@@ -2,6 +2,75 @@
   "month": "2026-11",
   "events": [
     {
+      "id": "news:키움증권:https://www.fnnews.com/news/202611200736262660",
+      "date": "2026-11-20",
+      "company": "키움증권",
+      "title": "지씨지놈, 췌장암 조기진단 검사 美 진출 추진",
+      "oneLiner": "키움증권 연구원이 지씨지놈의 췌장암 조기진단 검사 '판크사이트'의 미국 진출 및 FDA 허가 계획과 시장 기대를 분석.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "지씨지놈, 췌장암 조기진단 검사 美 진출 추진",
+          "url": "https://www.fnnews.com/news/202611200736262660"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-11-20"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202611200821516628",
+      "date": "2026-11-20",
+      "company": "NH투자증권",
+      "title": "멜콘, EUV 전환 수혜…올해 영업익 38% 증가 전망",
+      "oneLiner": "NH투자증권은 멜콘이 EUV 공정 확대에 따른 초정밀 장비 수요 증가로 올해 영업이익이 38% 증가할 것으로 전망.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "멜콘, EUV 전환 수혜…올해 영업익 38% 증가 전망",
+          "url": "https://www.fnnews.com/news/202611200821516628"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.82,
+      "updatedAt": "2026-11-20"
+    },
+    {
+      "id": "news:메리츠증권:https://www.fnnews.com/news/202611200829194982",
+      "date": "2026-11-20",
+      "company": "메리츠증권",
+      "title": "\"수요 넘치고 부르는 게 값\"…현대글로비스, 車운반선 초호황 올라탄다",
+      "oneLiner": "메리츠증권이 자동차 운반선 시장의 공급 부족과 수요 확대를 근거로 현대글로비스에 대해 투자의견 '매수'와 목표주가를 유지.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"수요 넘치고 부르는 게 값\"…현대글로비스, 車운반선 초호황 올라탄다",
+          "url": "https://www.fnnews.com/news/202611200829194982"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.82,
+      "updatedAt": "2026-11-20"
+    },
+    {
       "id": "news:하나증권:https://www.mk.co.kr/news/stock/12213234",
       "date": "2026-11-19",
       "company": "하나증권",
@@ -114,7 +183,53 @@
       ],
       "tags": [],
       "confidence": 0.85,
-      "updatedAt": "2026-11-19"
+      "updatedAt": "2026-11-20"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12213613",
+      "date": "2026-11-19",
+      "company": "한국투자증권",
+      "title": "모간운용·피델리티 투자 노하우 한눈에…한국투자증권 ‘독점 글로벌 리서치’",
+      "oneLiner": "한국투자증권이 글로벌 금융사의 독점 리서치를 개인투자자에 무료 제공하는 '독점 글로벌 리서치' 라인업을 확대하고 누적 조회수 1000만회 돌파.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "모간운용·피델리티 투자 노하우 한눈에…한국투자증권 ‘독점 글로벌 리서치’",
+          "url": "https://www.mk.co.kr/news/stock/12213613"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-11-20"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202611191500067428",
+      "date": "2026-11-19",
+      "company": "미래에셋증권",
+      "title": "미래에셋운용, 미국 지수 ETF 3종에 개인자금 9조3000억원 몰려",
+      "oneLiner": "미래에셋자산운용의 미국 대표지수 ETF 3종에 올해 들어 개인자금 약 9조3000억원이 유입돼 개인 순매수세가 지속.",
+      "type": "리서치",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋운용, 미국 지수 ETF 3종에 개인자금 9조3000억원 몰려",
+          "url": "https://www.fnnews.com/news/202611191500067428"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-11-20"
     },
     {
       "id": "news:한국투자증권:https://www.fnnews.com/news/202611180901132122",
@@ -183,7 +298,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-11-19"
+      "updatedAt": "2026-11-20"
     },
     {
       "id": "news:KB증권:https://www.mk.co.kr/news/stock/12212549",
