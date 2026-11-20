@@ -1,0 +1,626 @@
+{
+  "date": "2026-11-20",
+  "kpis": {
+    "clusters": 20,
+    "sources": 2,
+    "new": 18
+  },
+  "clusters": [
+    {
+      "id": "4d330500bd1f8c4cdb49ce3d313e0556845d7f58",
+      "name": "Anthropic’s Nasdaq debut",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 2802.6,
+      "oneLiner": "Anthropic의 나스닥 상장 데뷔를 다룬 기사",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "947p · 1862c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50562754"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "b966313d548cda5226250bff373000b8bc6d09cd",
+      "name": "openjdk/jdk",
+      "section": "trending",
+      "status": "NEW",
+      "score": 1420.54,
+      "oneLiner": "JDK 메인 라인 개발을 다루는 오픈JDK 프로젝트",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "23,550"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "6,617"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-20"
+        },
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "381p · 98c"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/openjdk/jdk"
+        },
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50558906"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "f47b6ee6b7006a3ea9ee8e51b406b2adfc33c53a",
+      "name": "How the European Commission rolled out Matrix to more than 40k staff",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 793.8,
+      "oneLiner": "유럽위원회가 4만명 이상 직원에게 Matrix를 배포한 사례",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "671p · 326c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50558533"
+        },
+        {
+          "label": "Source",
+          "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "c1423fd5127c82e5fc9607708488704b8f05816b",
+      "name": "UK government forced to admit it issued Apple a secret encryption order",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 605.4,
+      "oneLiner": "영국 정부가 애플에 비공개 암호화 명령을 발령한 사실을 인정한 사건",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "531p · 239c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50562113"
+        },
+        {
+          "label": "Source",
+          "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "4edbad3ac961849d00e5cbc900ea955a874ee0bc",
+      "name": "Fuck Your AI Safeguards",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 528.6,
+      "oneLiner": "AI 안전장치를 비판하는 글",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "485p · 198c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50562262"
+        },
+        {
+          "label": "Source",
+          "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "dc121eaf4be904c94cce99367bcba9786ed1103a",
+      "name": "Pancreatic cancer halted by virus injection in three patients",
+      "section": "trending",
+      "status": "NEW",
+      "score": 480.0,
+      "oneLiner": "바이러스 주입으로 췌장암이 세 환자에서 진행이 멈췄다는 보도",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "610p · 95c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50563066"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "91e25e57a1e1d59afd24a50c4cb0e1ef01cc2469",
+      "name": "Claude solves two open problems in the physics of black holes",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 466.2,
+      "oneLiner": "Claude가 블랙홀 물리학의 두 미해결 문제를 해결한 연구 소개",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "407p · 185c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50563148"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.anthropic.com/research/claude-black-hole-physics"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "105937f1b1e7aaa61519ac3d5e9bdeaea6eed77f",
+      "name": "SSD prices may begin to decline in the latter half of 2027",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 451.8,
+      "oneLiner": "SSD 가격이 2027년 하반기부터 하락할 수 있다는 전망",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "299p · 227c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50557716"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "2dcaa0d36945fb7e7b2109b0297ef5b6c94ea02a",
+      "name": "Everything you need to survive and rebuild society",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 449.4,
+      "oneLiner": "생존과 사회 재건에 필요한 정보와 자원을 모아둔 안내서",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "363p · 193c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50560822"
+        },
+        {
+          "label": "Source",
+          "url": "https://lastbook.org/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "aaa7122f9238416f4ebeebb2e71e28e771abab14",
+      "name": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 430.8,
+      "oneLiner": "기본 Rails에서 사전 인증 원격 코드 실행 취약점을 설명한 보고서",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "386p · 166c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50556287"
+        },
+        {
+          "label": "Source",
+          "url": "https://verialabs.com/ruby2shell/"
+        }
+      ],
+      "tags": [
+        "security"
+      ]
+    },
+    {
+      "id": "3d09837cd1f206148d717845e42e453a484070c7",
+      "name": "Do not buy RAM, compress",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 415.8,
+      "oneLiner": "메모리 구매 대신 데이터 압축을 권장하는 기술적 제안",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "263p · 215c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50557661"
+        },
+        {
+          "label": "Source",
+          "url": "https://curiousbits.nl/blog/do-not-buy-ram-compress/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "056ff39e8c82d8ca78ea6cf60dcf157b6e7efa02",
+      "name": "What's New in PHP 8.6",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 320.4,
+      "oneLiner": "PHP 8.6에서 추가된 새 기능을 정리한 릴리스 노트",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "278p · 128c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50557870"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.php.net/releases/8.6/en.php"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "ff033d991b5f76397d825ffbca402e6a17a3b3b2",
+      "name": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+      "section": "trending",
+      "status": "NEW",
+      "score": 279.6,
+      "oneLiner": "smoltcp·DPDK·AF_XDP를 활용해 단일 VM에서 대규모 웹서버 운영을 다룬 글",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "384p · 41c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50556533"
+        },
+        {
+          "label": "Source",
+          "url": "https://kapteko.com/15-million-webservers/"
+        }
+      ],
+      "tags": [
+        "runtime"
+      ]
+    },
+    {
+      "id": "40461fb279c6c9468ab6661e23aca953ed92928f",
+      "name": "Distributed, high-performance blob storage on SQLite",
+      "section": "trending",
+      "status": "NEW",
+      "score": 241.8,
+      "oneLiner": "SQLite 기반의 분산 고성능 블롭 스토리지 구현을 소개한 글",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "265p · 69c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50557537"
+        },
+        {
+          "label": "Source",
+          "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "6c93b3ba608cb2bcc9845d206e9eaed501a257ef",
+      "name": "erkamyaman/rust-anything",
+      "section": "releases",
+      "status": "ONGOING",
+      "score": 241.08,
+      "oneLiner": "기존 앱을 단계적으로 Rust로 재작성하며 동작을 대조하는 도구 모음",
+      "whyNow": "최근 릴리즈가 나오며 실사용 공유가 빠르게 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "5,315"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "424"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-20"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v2.1.0"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/erkamyaman/rust-anything"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/erkamyaman/rust-anything/releases/tag/v2.1.0"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "fa3208410f1737dc3112c800515aa27d4292b38b",
+      "name": "Making 8-page foldable zines from a single A4 sheet in the browser",
+      "section": "trending",
+      "status": "NEW",
+      "score": 219.6,
+      "oneLiner": "A4 한 장으로 만들어 접을 수 있는 8페이지 소책자 제작법 소개",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "254p · 56c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50559719"
+        },
+        {
+          "label": "Source",
+          "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "a3d7efb088728578a8cefb046cc8efc84545e91f",
+      "name": "krisgfx9/Wireless-Device-Battery-Monitor",
+      "section": "releases",
+      "status": "ONGOING",
+      "score": 216.02,
+      "oneLiner": "무선 장치의 배터리 잔량을 윈도우 작업표시줄에 표시하는 경량 앱",
+      "whyNow": "릴리즈 직후라 적용/마이그레이션 경험이 모이고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "4,698"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "405"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-20"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v1.1.0"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor/releases/tag/v1.1.0"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "8396bcad86de1e17117aa7c55d48b3d712f420f1",
+      "name": "gylive/google-ultra",
+      "section": "trending",
+      "status": "NEW",
+      "score": 99.22,
+      "oneLiner": "오픈 소스 개발 도구/프로젝트입니다.",
+      "whyNow": "커밋/업데이트가 이어져 당분간 추이를 보기에 좋습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,460"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "41"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-20"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/gylive/google-ultra"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "d79ba0597a0e6d01a01ca4427cb92af2a8af34bf",
+      "name": "CzzzzzzJ/mdldm-maitian",
+      "section": "releases",
+      "status": "NEW",
+      "score": 94.26,
+      "oneLiner": "여러 플랫폼에 게시하고 데이터 모니터링을 수행하는 배포 및 대시보드 도구",
+      "whyNow": "최근 릴리즈가 나오며 실사용 공유가 빠르게 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "1,618"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "477"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-20"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "media"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/CzzzzzzJ/mdldm-maitian"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/CzzzzzzJ/mdldm-maitian/releases/tag/media"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "efe281bc69b1b7f43180da66bff8c993fcce0a09",
+      "name": "duwqijlk/muse-protocol",
+      "section": "trending",
+      "status": "NEW",
+      "score": 79.46,
+      "oneLiner": "muse.ai 등록과 초대 코드 교환 프로토콜을 순수 HTTP 파이썬으로 구현한 연구",
+      "whyNow": "스타 증가와 업데이트 흐름이 동시에 관측되는 상승 구간입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "1,658"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "657"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-20"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/duwqijlk/muse-protocol"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}
