@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-10-22",
+    "to": "2026-11-20"
+  },
+  "kpis": {
+    "collected": 42,
+    "deduped": 42,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 27,
+      "Competition": 23,
+      "Investment": 21,
+      "Demand": 18,
+      "Policy": 11,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/22-10/28)",
+      "topicCounts": {
+        "Roadmap": 7,
+        "Competition": 5,
+        "Investment": 7,
+        "Demand": 4,
+        "Policy": 2
+      }
+    },
+    {
+      "week": "Week 2 (10/29-11/04)",
+      "topicCounts": {
+        "Roadmap": 3,
+        "Competition": 2,
+        "Investment": 1,
+        "Demand": 4,
+        "Policy": 1
+      }
+    },
+    {
+      "week": "Week 3 (11/05-11/11)",
+      "topicCounts": {
+        "Roadmap": 8,
+        "Competition": 8,
+        "Investment": 6,
+        "Demand": 6,
+        "Policy": 2
+      }
+    },
+    {
+      "week": "Week 4 (11/12-11/18)",
+      "topicCounts": {
+        "Roadmap": 12,
+        "Competition": 9,
+        "Investment": 6,
+        "Demand": 5,
+        "Policy": 8
+      }
+    },
+    {
+      "week": "Week 5 (11/19-11/20)",
+      "topicCounts": {
+        "Roadmap": 2,
+        "Competition": 1,
+        "Investment": 1,
+        "Demand": 2,
+        "Policy": 1
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "ev-1",
+      "status": "NEW",
+      "title": "기아, 2.5만 달러 이하 초저가 EV로 글로벌 보급형 시장 정조준",
+      "summary": "기아가 2027년경 2.2만~2.4만 달러 수준의 초저가 전기차를 출시해 ‘진짜 대중형 EV’ 수요를 겨냥한다. 기존 EV 라인업이 커버하지 못하던 엔트리 세그먼트에 본격 진입함으로써, 중국·테슬라 중심으로 재편 중인 글로벌 보급형 EV 경쟁 구도에 변수가 될 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Kia’s cheapest EV is coming next year, and it could cost under $25,000",
+          "url": "https://electrek.co/2026/11/19/kias-cheapest-ev-coming-2027-under-25k/"
+        }
+      ]
+    },
+    {
+      "id": "ev-2",
+      "status": "ONGOING",
+      "title": "테슬라 사고 재점화로 ‘라이다 채택·안전 규제 강화’ 논쟁 가속",
+      "summary": "오토파일럿·FSD 연관 의혹이 제기된 테슬라의 치명적 사고들이 잇따라 보도되면서 자율주행 안전성에 대한 우려가 재부각됐다. 이 여파로 카메라·비전 중심 전략에 대한 회의와 함께 라이다 채택 필요성, 규제 당국의 감독·인증 강화 요구가 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla crashes make headlines, Lidar makes sense, IONNA makes it easy",
+          "url": "https://electrek.co/2026/11/18/tesla-crashes-make-headlines-lidar-makes-sense-ionna-makes-it-easy/"
+        }
+      ]
+    },
+    {
+      "id": "ev-3",
+      "status": "NEW",
+      "title": "웨이모, DMV 제재 후 미국 전역 고속도로 운영 중단…자율주행 규제 리스크 현실화",
+      "summary": "캘리포니아 DMV가 경찰 봉쇄선을 통과하려 한 자율주행차 영상 이후 고속도로 운행 중단을 명령하자, 웨이모는 미국 전역에서 고속도로 자율주행 서비스를 멈췄다. 단일 주의 규제 조치가 타 주 사업까지 연쇄 타격을 줄 수 있음을 보여주며, 완전 자율주행 상용화 일정과 사업성에 대한 불확실성이 확대되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Waymo halts highway operation nationwide after CA DMV pause",
+          "url": "https://electrek.co/2026/11/17/waymo-halts-highway-operation-nationwide-after-ca-dmv-pause/"
+        }
+      ]
+    },
+    {
+      "id": "ev-4",
+      "status": "SHIFTING",
+      "title": "테슬라, ‘반쪽짜리’ 사이버캡 선출시 논란…저가 로보택시 타이밍 리스크 부각",
+      "summary": "테슬라가 2만9,990달러의 초청 기반 사이버캡 주문을 열고 2026년 12월 인도를 예고했지만, 일부 기능이 미완성된 초기 버전이라는 지적이 나온다. 2027년 전 3만 달러 미만 인도라는 MKBHD와의 내기 요건을 맞추기 위한 ‘서둘러 내놓은 제품’이라는 비판이 제기되며, 저가 자율주행 택시 시장에서 테슬라의 신뢰·브랜드 리스크가 부각되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Is Tesla rushing out a half-baked Cybercab just to shave MKBHD’s head?",
+          "url": "https://electrek.co/2026/11/15/tesla-cybercab-mkbhd-bet-musk-chicken/"
+        }
+      ]
+    },
+    {
+      "id": "ev-5",
+      "status": "ONGOING",
+      "title": "루시드, 재고 위치도 못 찾던 공급망 혼선 인정…판매·브랜드 신뢰도 타격",
+      "summary": "루시드 CEO는 Q3 실적에서 여름까지도 재고 차량의 위치를 제대로 파악하지 못해, 고객 인도에 최대 2주가 소요되며 주문 취소까지 발생했다고 밝혔다. 고가 프리미엄 EV 브랜드임에도 기본적인 물류·재고 관리에 실패한 점이 드러나면서, 수요 부진과 함께 운영 효율성·지속 가능성에 대한 우려가 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Lucid CEO admits it ‘did not even know where cars were’ and lost orders",
+          "url": "https://electrek.co/2026/11/10/lucid-ceo-did-not-know-where-cars-were-lost-orders/"
+        }
+      ]
+    }
+  ]
+}

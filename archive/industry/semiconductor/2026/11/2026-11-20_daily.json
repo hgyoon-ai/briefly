@@ -1,0 +1,106 @@
+{
+  "date": "2026-11-20",
+  "highlights": {
+    "bullets": [
+      "핵심: 엔비디아는 임시 CEO 체제에서 분기 매출 $115.8B를 보고했다.",
+      "핵심: SK하이닉스는 Supercomputing 2026에서 메모리 중심 AI 생태계 구축 기술 비전을 발표했다.",
+      "트렌드: AI 인프라 수요가 매출과 메모리 연구개발 우선순위를 공통으로 견인하고 있다."
+    ],
+    "topTopics": [
+      "Demand",
+      "Investment",
+      "Roadmap",
+      "Competition"
+    ],
+    "stats": {
+      "collected": 6,
+      "deduped": 6
+    }
+  },
+  "cards": [
+    {
+      "id": "semiconductor_0001",
+      "tab": "semiconductor",
+      "publishedAt": "2026-11-19T19:26:18+09:00",
+      "source": "EE Times",
+      "title": "Nvidia Reports $115.8B in Quarterly Revenue Under Interim CEO",
+      "summary": [
+        "엔비디아는 임시 CEO 체제에서 분기 매출 $115.8B를 보고했다.",
+        "강한 AI 인프라 수요가 매출과 이익을 견인했다.",
+        "리더십 교체 상황에서도 실적 호조가 이어졌다."
+      ],
+      "whyItMatters": "AI 인프라 수요가 실적을 지탱하는 가운데 임시 CEO 체제가 회사의 성장 궤도와 리스크를 재평가하게 만드는 중요 신호다.",
+      "topics": [
+        "Earnings",
+        "Demand",
+        "Investment"
+      ],
+      "status": "SHIFTING",
+      "hash": "2cfc069cc2ad494e1f2f37b0772a6a3b7c46621518d09c52be7583226d0e187e",
+      "url": "https://www.eetimes.com/nvidia-reports-115-8b-in-quarterly-revenue-under-interim-ceo/"
+    },
+    {
+      "id": "semiconductor_0002",
+      "tab": "semiconductor",
+      "publishedAt": "2026-11-20T07:21:15+09:00",
+      "source": "EE Times",
+      "title": "Memory R&D Is a High-Stakes Game",
+      "summary": [
+        "AI 수요가 메모리 제조사들의 R&D 우선순위를 좌우하고 있다.",
+        "기업들은 차세대 노드 이후 기술 개발 비용과 위험을 파트너십으로 분담하고 있다.",
+        "높은 기술적·재무적 리스크로 인해 메모리 R&D가 경쟁력과 투자 결정의 핵심이 되고 있다."
+      ],
+      "whyItMatters": "AI 수요와 높은 개발 비용·위험이 산업의 경쟁 구도와 투자 흐름을 직접적으로 좌우하기 때문입니다.",
+      "topics": [
+        "Demand",
+        "Investment",
+        "Roadmap",
+        "Competition"
+      ],
+      "status": "ONGOING",
+      "hash": "c2484ee13f720db84e3ec8a5b9b1c3a5744f4cf92d603901434d59e22ecbab06",
+      "url": "https://www.eetimes.com/memory-rd-is-a-high-stakes-game/"
+    },
+    {
+      "id": "semiconductor_0003",
+      "tab": "semiconductor",
+      "publishedAt": "2026-11-20T08:57:22+09:00",
+      "source": "SK hynix Newsroom",
+      "title": "“Building the Future AI Ecosystem Around Memory”: SK hynix Presents Its Technology Vision at Supercomputing 2026",
+      "summary": [
+        "SK하이닉스가 Supercomputing 2026에서 '메모리 중심 AI 생태계 구축' 기술 비전을 발표했다.",
+        "AI 데이터 증가에 대응해 메모리가 단순 저장을 넘어 데이터 처리 역할까지 확장되는 방향을 제시했다.",
+        "메모리·아키텍처 결합 및 신기술 개발로 AI 성능과 효율 개선을 목표로 한다."
+      ],
+      "whyItMatters": "메모리 중심 설계는 AI 성능·효율·비용에 직접적인 영향을 미쳐 반도체 산업과 AI 인프라 전반에 큰 파급력을 가지기 때문이다.",
+      "topics": [
+        "Manufacturing",
+        "Roadmap",
+        "Demand"
+      ],
+      "status": "ONGOING",
+      "hash": "9a1bcd9b36e64e77ec5f3731b7fbdc1d3d7b92c598bca67340a5111375274f91",
+      "url": "https://news.skhynix.com/en/sc26-ai-hpc-exhibition/"
+    },
+    {
+      "id": "semiconductor_0004",
+      "tab": "semiconductor",
+      "publishedAt": "2026-11-19T17:00:00+09:00",
+      "source": "Samsung Newsroom",
+      "title": "Samsung TV Plus Brings 2026 MAMA AWARDS to K-pop Fans Around the World",
+      "summary": [
+        "삼성 TV Plus가 CJ ENM과 협력해 2026 MAMA AWARDS를 전 세계에 생중계한다.",
+        "행사는 11월 20일과 21일 이틀간 진행되며 전체 프로그램을 방송한다.",
+        "이번 중계는 삼성 플랫폼의 콘텐츠 경쟁력 강화와 글로벌 K-팝 팬층 확대에 기여할 전망이다."
+      ],
+      "whyItMatters": "전략적 콘텐츠 파트너십을 통해 플랫폼 차별화와 글로벌 시청자 확보를 노리기 때문이다.",
+      "topics": [
+        "Competition",
+        "Demand"
+      ],
+      "status": "ONGOING",
+      "hash": "7120e2fc239f839790770d334735fd1d20a26c98c11f1e4366154cbacc08e3db",
+      "url": "https://news.samsung.com/global/samsung-tv-plus-brings-2026-mama-awards-to-k-pop-fans-around-the-world"
+    }
+  ]
+}

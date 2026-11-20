@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-10-21",
-    "to": "2026-11-19"
+    "from": "2026-10-22",
+    "to": "2026-11-20"
   },
   "kpis": {
     "collected": 44,
@@ -10,84 +10,103 @@
     "marketShare": {
       "MarketInfra": 39,
       "Policy": 23,
-      "Regulation": 14,
+      "Security": 14,
       "Compliance": 12,
-      "Security": 12,
+      "Regulation": 12,
       "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/21-10/27)",
+      "week": "Week 1 (10/22-10/28)",
       "topicCounts": {
-        "MarketInfra": 9,
-        "Policy": 7,
-        "Regulation": 5,
-        "Compliance": 3,
-        "Security": 0
-      }
-    },
-    {
-      "week": "Week 2 (10/28-11/03)",
-      "topicCounts": {
-        "MarketInfra": 6,
-        "Policy": 3,
-        "Regulation": 3,
-        "Compliance": 1,
-        "Security": 2
-      }
-    },
-    {
-      "week": "Week 3 (11/04-11/10)",
-      "topicCounts": {
-        "MarketInfra": 6,
-        "Policy": 3,
-        "Regulation": 1,
-        "Compliance": 3,
-        "Security": 4
-      }
-    },
-    {
-      "week": "Week 4 (11/11-11/17)",
-      "topicCounts": {
-        "MarketInfra": 10,
-        "Policy": 7,
-        "Regulation": 3,
+        "MarketInfra": 8,
+        "Policy": 6,
+        "Security": 0,
         "Compliance": 2,
-        "Security": 3
+        "Regulation": 3
       }
     },
     {
-      "week": "Week 5 (11/18-11/19)",
+      "week": "Week 2 (10/29-11/04)",
       "topicCounts": {
-        "MarketInfra": 2,
-        "Policy": 1,
-        "Regulation": 0,
+        "MarketInfra": 4,
+        "Policy": 3,
+        "Security": 2,
         "Compliance": 1,
-        "Security": 1
+        "Regulation": 3
+      }
+    },
+    {
+      "week": "Week 3 (11/05-11/11)",
+      "topicCounts": {
+        "MarketInfra": 8,
+        "Policy": 4,
+        "Security": 4,
+        "Compliance": 5,
+        "Regulation": 2
+      }
+    },
+    {
+      "week": "Week 4 (11/12-11/18)",
+      "topicCounts": {
+        "MarketInfra": 11,
+        "Policy": 6,
+        "Security": 4,
+        "Compliance": 1,
+        "Regulation": 2
+      }
+    },
+    {
+      "week": "Week 5 (11/19-11/20)",
+      "topicCounts": {
+        "MarketInfra": 1,
+        "Policy": 1,
+        "Security": 1,
+        "Compliance": 1,
+        "Regulation": 1
       }
     }
   ],
   "topIssues": [
     {
       "id": 1,
-      "status": "SHIFTING",
-      "title": "국민연금·KIC, AI·인프라 중심 대체투자 확대와 국내 전략산업 자본 공급 강화",
-      "summary": "국민연금이 대체투자 비중을 크게 늘리며 아시아를 포함한 글로벌 AI 인프라·에너지·기반시설 투자로 확장하고, KIC는 전략투자계정을 통해 장기·단계적 투자로 국내 전략산업에 자본을 공급하려는 기조를 강화하고 있다. 이는 연기금·국부펀드 자금이 AI 및 인프라 자산으로 재배치되는 구조적 변화로, 국내외 자본시장에 중장기적 영향이 예상된다.",
-      "articleCount": 1,
+      "status": "ONGOING",
+      "title": "금융·증권 인프라를 노린 해킹·취약점 이슈 확산",
+      "summary": "PHP 기반 웹과 다우오피스 취약점을 통한 해킹·정보유출이 잇따르며 국내 금융·증권사 보안 리스크가 부각되고 있다. 전 세계 웹서비스를 위협하는 PHP 치명적 취약점과 증권사 고객정보 유출이 동시에 발생해, 금융권의 보안 투자 확대와 규제 강화 논의가 불가피한 상황이다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
-          "title": "국민연금·KIC 다음 투자처는…“AI전력·인프라” “국내전략산업 자본공급” [GAII 2026 Live]",
-          "url": "https://www.mk.co.kr/news/stock/12213297"
+          "title": "PHP서 또 ‘치명적 취약점’ 무더기 발견…전세계 웹사이트 해킹 비상",
+          "url": "https://www.mk.co.kr/news/stock/12214368"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "한양증권서도 개인정보 유출…금투업권 해킹 비상",
+          "url": "https://www.mk.co.kr/news/stock/12194338"
         }
       ]
     },
     {
       "id": 2,
       "status": "ONGOING",
-      "title": "디지털자산기본법 입법 가속으로 기관 중심 가상자산 시장 재편",
-      "summary": "정부와 국회가 디지털자산기본법 제정을 서두르며 법인·기관투자자의 가상자산 시장 진입을 제도적으로 열어주려 하고 있다. 가상자산의 법적 성격, 투자자 보호, 발행·상장·수탁 규율 등이 정비되면 은행·증권사·운용사 중심의 기관 시장이 형성되고, 암호화폐가 기존 금융시장 인프라와 결합되는 방향으로 구조 재편이 진행될 전망이다.",
+      "title": "외국인 대규모 순매도와 반도체 중심 한국 증시 수급 불안",
+      "summary": "외국인 투자자들이 두 달 동안 약 45조원 규모로 국내 주식을 순매도하며 특히 삼성전자·SK하이닉스 등 반도체 대형주에서 이탈이 두드러지고 있다. AI·반도체 관련 기대에도 불구하고 미국 투자자들의 매도세가 이어지며 코스피 변동성과 향후 수급 불안 우려가 확대되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“미국인들, 삼전닉스 왜 팔죠?”…외국인 두 달 간 국내 주식 45조 순매도",
+          "url": "https://www.mk.co.kr/news/stock/12214312"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "디지털자산기본법 추진과 기관·법인용 가상자산 시장 개방",
+      "summary": "정부와 국회가 디지털자산기본법 제정을 서두르며 법인·기관투자자의 가상자산 시장 참여를 제도권 안으로 끌어들이는 작업이 본격화되고 있다. 가상자산을 새로운 투자대상으로 제도화하는 동시에 투자자 보호와 시장 건전성 규율 체계를 구축하는 방향으로 정책 설계가 진행 중이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -98,10 +117,10 @@
       ]
     },
     {
-      "id": 3,
+      "id": 4,
       "status": "NEW",
-      "title": "대통령, 금융시장 불공정행위 전방위 수사 지시로 규제·집행 리스크 확대",
-      "summary": "이재명 대통령이 금융시장 내 시세조종·미공개정보 이용·허위공시 등 불공정행위에 대해 중대범죄수사청에 전담 수사를 별도 지시하면서, 자본시장 규제와 형사 집행 강도가 동시 강화되는 국면에 접어들었다. 이는 불공정거래 수사 확대와 함께 내부통제·컴플라이언스 비용 증가, 고위험 거래전략 위축 등 금융투자업계 전반의 리스크 관리 강화로 이어질 가능성이 크다.",
+      "title": "대통령, 금융시장 불공정행위 엄정 단속 및 중수청 전담지시",
+      "summary": "이재명 대통령이 금융시장 불공정거래와 시세조종 등에 대한 강력한 단속을 주문하며 중대범죄수사청에 별도 지시를 내렸다. 금융범죄 전담 수사체계를 강화하겠다는 신호로, 향후 공시·시세조종·내부자거래 등 전반에 걸친 규제 집행과 수사 강도가 크게 높아질 가능성이 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -112,29 +131,10 @@
       ]
     },
     {
-      "id": 4,
-      "status": "ONGOING",
-      "title": "금융권 대상 해킹·개인정보 유출 확산으로 사이버 리스크 관리 비상",
-      "summary": "한양증권에서 고객 계좌·주민번호 등 민감 정보가 다우오피스 취약점을 통해 유출된 것으로 추정되면서, 빗썸 사건에 이어 금융투자업권 전반에 공급망·협력사 보안 리스크가 부각되고 있다. 동시에 아세안 정상회의를 노린 중국 배후 사이버 공격 등 고도화된 해킹 시도가 이어져, 금융기관의 정보보호 투자 확대와 정부 차원의 금융 인프라 사이버 방어체계 강화가 중장기 과제로 부상했다.",
-      "articleCount": 2,
-      "relatedArticles": [
-        {
-          "source": "매일경제(증권)",
-          "title": "한양증권서도 개인정보 유출…금투업권 해킹 비상",
-          "url": "https://www.mk.co.kr/news/stock/12194338"
-        },
-        {
-          "source": "매일경제(증권)",
-          "title": "[단독] 中 해커, 아세안정상회의 공격…외교안보 해킹 전쟁 본격화",
-          "url": "https://www.mk.co.kr/news/stock/12211059"
-        }
-      ]
-    },
-    {
       "id": 5,
       "status": "ONGOING",
-      "title": "AI 버블·엔트로픽 상장 리스크, 글로벌 자본시장 변동성 요인 부상",
-      "summary": "한국은행이 AI 붐이 꺾일 경우 132조원 규모 손실을 경고하고, 엔트로픽의 대규모 적자가 상장 전후 시장 불안 요인으로 지목되면서 AI 관련 자산의 밸류에이션 부담과 조정 리스크가 커지고 있다. 미국 정부의 스테이블코인 육성 기조, 엔트로픽 상장 가능성 등과 결합해 AI·크립토·빅테크로 쏠린 글로벌 유동성의 재조정 여부가 향후 금융시장 변동성의 핵심 변수가 되고 있다.",
+      "title": "글로벌 AI·반도체 투자 심리의 양극화와 리스크 부각",
+      "summary": "엔비디아 CEO 해임 추진설과 AI 대표 기업 앤트로픽의 대규모 적자, 한국은행이 제시한 ‘AI 붐 붕괴 시 132조원 손실’ 시나리오 등이 맞물리며 AI 테마 투자에 대한 과열·조정 논쟁이 심화되고 있다. AI 관련 주가에 반영된 밸류에이션 부담과 규제·지배구조 리스크가 함께 부각되며 글로벌 증시에 변동성을 키우는 요인이 되고 있다.",
       "articleCount": 2,
       "relatedArticles": [
         {
@@ -144,8 +144,8 @@
         },
         {
           "source": "매일경제(증권)",
-          "title": "링컨까지 소환한 베센트... 앤트로픽 상장, 다음달 확정인가",
-          "url": "https://www.mk.co.kr/news/business/12182433"
+          "title": "“사내 여성 임원과도 또 불륜”…엔비디아, 젠슨황 해임 준비",
+          "url": "https://www.mk.co.kr/news/stock/12205989"
         }
       ]
     }

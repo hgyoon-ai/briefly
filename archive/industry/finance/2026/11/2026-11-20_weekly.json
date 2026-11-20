@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-11-14",
+    "to": "2026-11-20"
+  },
+  "kpis": {
+    "collected": 12,
+    "deduped": 12,
+    "uniqueTopics": 8
+  },
+  "topTopics": [
+    {
+      "name": "MarketInfra",
+      "count": 10
+    },
+    {
+      "name": "Security",
+      "count": 6
+    },
+    {
+      "name": "Policy",
+      "count": 6
+    },
+    {
+      "name": "Compliance",
+      "count": 2
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Security",
+      "count": 0
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Security",
+      "count": 0
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Security",
+      "count": 0
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Security",
+      "count": 2
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Security",
+      "count": 2
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Security",
+      "count": 1
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Compliance",
+      "count": 1
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Security",
+      "count": 1
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Compliance",
+      "count": 1
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "PHP 치명적 취약점 확산에 따른 글로벌 웹 서비스 보안 리스크",
+      "summary": "PHP 환경에서 원격 코드 실행(RCE)을 포함한 다수의 치명적 취약점이 동시 발견되면서 전 세계 웹사이트와 온라인 금융 서비스의 해킹 위험이 급격히 높아지고 있다. 금융사·핀테크 등 PHP 기반 시스템을 사용하는 기관은 대규모 패치와 보안 점검이 시급한 상황이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "PHP서 또 ‘치명적 취약점’ 무더기 발견…전세계 웹사이트 해킹 비상",
+          "url": "https://www.mk.co.kr/news/stock/12214368"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "외국인 45조 순매도와 국내 증시 수급 불안",
+      "summary": "최근 두 달간 외국인 투자자가 국내 주식을 약 45조원 순매도하며 코스피·코스닥 수급 구조에 큰 부담을 주고 있다. 특히 삼성전자·SK하이닉스 등 반도체 대형주 중심 매도가 이어지며 국내 증시 변동성과 환율 불안을 키우는 요인으로 작용하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“미국인들, 삼전닉스 왜 팔죠?”…외국인 두 달 간 국내 주식 45조 순매도",
+          "url": "https://www.mk.co.kr/news/stock/12214312"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "국민연금·KIC의 AI 인프라 및 전략산업 중심 글로벌 대체투자 확대",
+      "summary": "국민연금이 대체투자 규모를 약 4배로 늘리고 아시아를 포함한 글로벌 시장에서 AI 전력·인프라 자산에 대한 투자를 강화하고 있다. KIC 또한 전략투자계정을 활용한 장기·순차 투자로 국내 전략산업 자본 공급 역할을 확대하면서 기관투자자 자금의 배분 축이 전통 자산에서 인프라·AI 중심으로 이동하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "국민연금·KIC 다음 투자처는…“AI전력·인프라” “국내전략산업 자본공급” [GAII 2026 Live]",
+          "url": "https://www.mk.co.kr/news/stock/12213297"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "SHIFTING",
+      "title": "엔비디아 주가 급락과 CEO 리스크가 불러온 AI 투자 심리 변화",
+      "summary": "한 달 새 약 27% 급락한 엔비디아 주가와 CEO 리스크 이슈가 맞물리며 글로벌 AI 반도체 투자 심리가 흔들리고 있다. 다만 베라 루빈 공급 확대와 자체 데이터센터 수요 증가로 중장기 매출 성장 전망은 상향되며 단기 조정과 장기 성장 스토리가 교차하는 국면이 전개되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한달 만에 27% ‘폭락의 눈물’…CEO 리스크까지 겹친 엔비디아 앞날은",
+          "url": "https://www.mk.co.kr/news/stock/12213292"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "SHIFTING",
+      "title": "엔비디아 호실적 이후 AI 생태계 투자 초점, 앤트로픽으로 이동",
+      "summary": "엔비디아의 깜짝 실적과 긍정적인 매출 가이던스가 글로벌 반도체·AI 관련주 반등을 이끌었다. 실적 발표 이후 시장의 관심은 GPU 공급사에서 AI 모델·서비스 기업인 앤트로픽 등으로 옮겨가며 AI 밸류체인 내 투자 초점이 하드웨어에서 소프트웨어·플랫폼으로 확장되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "엔비디아 깜짝 실적에 반도체 반등 … 이제 공은 앤트로픽으로",
+          "url": "https://www.mk.co.kr/news/stock/12212141"
+        }
+      ]
+    }
+  ]
+}

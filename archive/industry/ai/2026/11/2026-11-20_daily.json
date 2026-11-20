@@ -1,0 +1,87 @@
+{
+  "date": "2026-11-20",
+  "highlights": {
+    "bullets": [
+      "핵심: OpenAI는 자동 탐지와 패치로 ChatGPT 성능을 유지하는 'Performance Factory'를 구축했다.",
+      "핵심: NVIDIA는 Dynamo로 강화학습의 rollout 병목을 완화해 워커의 샘플 생성과 처리량을 개선했다.",
+      "트렌드: 세 기사 모두 인퍼런스·인프라·툴링 중심으로 저지연·고처리량 실시간 처리를 강조한다."
+    ],
+    "topTopics": [
+      "Tooling",
+      "Infra",
+      "Inference",
+      "Research"
+    ],
+    "stats": {
+      "collected": 4,
+      "deduped": 4
+    }
+  },
+  "cards": [
+    {
+      "id": "ai_0001",
+      "tab": "ai",
+      "publishedAt": "2026-11-19T17:00:00+09:00",
+      "source": "OpenAI Blog",
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "summary": [
+        "OpenAI는 Codex 기반 워크플로로 성능 문제를 자동 탐지·수정하는 'Performance Factory'를 구축했다.",
+        "이 시스템은 지속적 모니터링과 원인 분석, 자동화된 패치 적용으로 ChatGPT의 응답 속도를 유지한다.",
+        "엔지니어링 파이프라인과 도구 통합을 통해 문제 해결 속도와 효율을 크게 향상시켰다."
+      ],
+      "whyItMatters": "성능 복구 시간을 단축하고 응답 지연을 줄여 서비스 품질과 확장성을 직접 개선하기 때문이다.",
+      "topics": [
+        "Tooling",
+        "Infra",
+        "Inference"
+      ],
+      "status": "ONGOING",
+      "hash": "9342dbf934e428aa00c16520441f258a949ccd62bcb28471deb475c04ce3c227",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
+    },
+    {
+      "id": "ai_0002",
+      "tab": "ai",
+      "publishedAt": "2026-11-20T05:28:13+09:00",
+      "source": "NVIDIA Developer Blog",
+      "title": "Reducing Rollout Bottlenecks in Reinforcement Learning with NVIDIA Dynamo",
+      "summary": [
+        "NVIDIA Dynamo를 활용해 강화학습의 rollout 병목을 완화하는 접근을 소개한다.",
+        "인퍼런스 최적화로 워커의 샘플 생성 속도와 처리량을 향상시킨다.",
+        "하드웨어·소프트웨어 통합으로 학습 효율과 리소스 활용을 개선한다."
+      ],
+      "whyItMatters": "롤아웃 병목을 줄이면 샘플 효율과 학습 속도가 직접 개선되어 RL 연구와 제품화의 비용·시간을 절감할 수 있기 때문이다.",
+      "topics": [
+        "Inference",
+        "Infra",
+        "Tooling",
+        "Research"
+      ],
+      "status": "ONGOING",
+      "hash": "3a089ca65887f5b7db51955a88898da45c153373bad3a0ef318552b0f3c6ed34",
+      "url": "https://developer.nvidia.com/blog/reducing-rollout-bottlenecks-in-reinforcement-learning-with-nvidia-dynamo/"
+    },
+    {
+      "id": "ai_0003",
+      "tab": "ai",
+      "publishedAt": "2026-11-20T02:00:00+09:00",
+      "source": "NVIDIA Developer Blog",
+      "title": "Enabling Real-Time AI for Scientific Instruments with GPU-Native Data Acquisition",
+      "summary": [
+        "GPU-네이티브 데이터 수집으로 과학 계측기의 센서 데이터를 실시간으로 처리할 수 있게 되었습니다.",
+        "저지연 고처리량 파이프라인을 통해 AI의 폐쇄 루프 제어와 실험 최적화가 가능해집니다.",
+        "NVIDIA 기술 스택을 이용해 계측기 통합과 확장성이 개선되어 발견 속도와 운영 효율이 향상될 것으로 보입니다."
+      ],
+      "whyItMatters": "실시간 처리로 AI가 즉시 실험을 조정하고 의사결정을 자동화할 수 있어 과학적 발견 속도와 장비 효율이 크게 향상되기 때문입니다.",
+      "topics": [
+        "Infra",
+        "Tooling",
+        "Research",
+        "Data"
+      ],
+      "status": "ONGOING",
+      "hash": "74f0816ca7f55a7189220b0f96719f16a8478858be766c495d41858daf63e8b1",
+      "url": "https://developer.nvidia.com/blog/enabling-real-time-ai-for-scientific-instruments-with-gpu-native-data-acquisition/"
+    }
+  ]
+}

@@ -1,131 +1,121 @@
 {
   "range": {
-    "from": "2026-10-21",
-    "to": "2026-11-19"
+    "from": "2026-10-22",
+    "to": "2026-11-20"
   },
   "kpis": {
     "collected": 42,
     "deduped": 42,
     "uniqueTopics": 7,
     "marketShare": {
-      "Roadmap": 28,
+      "Roadmap": 27,
       "Competition": 23,
-      "Investment": 22,
-      "Demand": 16,
-      "Policy": 12,
+      "Investment": 21,
+      "Demand": 18,
+      "Policy": 11,
       "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/21-10/27)",
+      "week": "Week 1 (10/22-10/28)",
       "topicCounts": {
-        "Roadmap": 9,
-        "Competition": 6,
-        "Investment": 9,
+        "Roadmap": 7,
+        "Competition": 5,
+        "Investment": 7,
         "Demand": 4,
-        "Policy": 3
+        "Policy": 2
       }
     },
     {
-      "week": "Week 2 (10/28-11/03)",
+      "week": "Week 2 (10/29-11/04)",
       "topicCounts": {
-        "Roadmap": 4,
-        "Competition": 4,
-        "Investment": 3,
+        "Roadmap": 3,
+        "Competition": 2,
+        "Investment": 1,
         "Demand": 4,
         "Policy": 1
       }
     },
     {
-      "week": "Week 3 (11/04-11/10)",
+      "week": "Week 3 (11/05-11/11)",
       "topicCounts": {
-        "Roadmap": 6,
-        "Competition": 7,
-        "Investment": 5,
-        "Demand": 5,
+        "Roadmap": 8,
+        "Competition": 8,
+        "Investment": 6,
+        "Demand": 6,
         "Policy": 2
       }
     },
     {
-      "week": "Week 4 (11/11-11/17)",
+      "week": "Week 4 (11/12-11/18)",
       "topicCounts": {
-        "Roadmap": 11,
-        "Competition": 10,
+        "Roadmap": 12,
+        "Competition": 9,
         "Investment": 6,
-        "Demand": 6,
-        "Policy": 6
+        "Demand": 5,
+        "Policy": 8
       }
     },
     {
-      "week": "Week 5 (11/18-11/19)",
+      "week": "Week 5 (11/19-11/20)",
       "topicCounts": {
         "Roadmap": 2,
         "Competition": 1,
-        "Investment": 2,
-        "Demand": 1,
+        "Investment": 1,
+        "Demand": 2,
         "Policy": 1
       }
     }
   ],
   "topIssues": [
     {
-      "id": 1,
+      "id": "ev-1",
+      "status": "NEW",
+      "title": "기아, 2.5만 달러 이하 초저가 EV로 글로벌 보급형 시장 정조준",
+      "summary": "기아가 2027년경 2.2만~2.4만 달러 수준의 초저가 전기차를 출시해 ‘진짜 대중형 EV’ 수요를 겨냥한다. 기존 EV 라인업이 커버하지 못하던 엔트리 세그먼트에 본격 진입함으로써, 중국·테슬라 중심으로 재편 중인 글로벌 보급형 EV 경쟁 구도에 변수가 될 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Kia’s cheapest EV is coming next year, and it could cost under $25,000",
+          "url": "https://electrek.co/2026/11/19/kias-cheapest-ev-coming-2027-under-25k/"
+        }
+      ]
+    },
+    {
+      "id": "ev-2",
       "status": "ONGOING",
-      "title": "테슬라·웨이모 사고 여파로 자율주행 안전 규제와 라이다 채택 압력 확대",
-      "summary": "최근 치명적 테슬라 사고와 사이버캡 사고 보고, 웨이모의 전국 고속도로 운행 중단이 겹치며 자율주행 안전성에 대한 규제·여론 압력이 크게 높아졌다. 이 과정에서 라이다 등 보조 센서 도입 필요성이 재조명되고, 완전자율주행 상용화 일정과 사업 모델 전반에 재검토가 불가피한 국면이다.",
-      "articleCount": 3,
+      "title": "테슬라 사고 재점화로 ‘라이다 채택·안전 규제 강화’ 논쟁 가속",
+      "summary": "오토파일럿·FSD 연관 의혹이 제기된 테슬라의 치명적 사고들이 잇따라 보도되면서 자율주행 안전성에 대한 우려가 재부각됐다. 이 여파로 카메라·비전 중심 전략에 대한 회의와 함께 라이다 채택 필요성, 규제 당국의 감독·인증 강화 요구가 커지고 있다.",
+      "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
           "title": "Tesla crashes make headlines, Lidar makes sense, IONNA makes it easy",
           "url": "https://electrek.co/2026/11/18/tesla-crashes-make-headlines-lidar-makes-sense-ionna-makes-it-easy/"
-        },
+        }
+      ]
+    },
+    {
+      "id": "ev-3",
+      "status": "NEW",
+      "title": "웨이모, DMV 제재 후 미국 전역 고속도로 운영 중단…자율주행 규제 리스크 현실화",
+      "summary": "캘리포니아 DMV가 경찰 봉쇄선을 통과하려 한 자율주행차 영상 이후 고속도로 운행 중단을 명령하자, 웨이모는 미국 전역에서 고속도로 자율주행 서비스를 멈췄다. 단일 주의 규제 조치가 타 주 사업까지 연쇄 타격을 줄 수 있음을 보여주며, 완전 자율주행 상용화 일정과 사업성에 대한 불확실성이 확대되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
         {
           "source": "Electrek",
           "title": "Waymo halts highway operation nationwide after CA DMV pause",
           "url": "https://electrek.co/2026/11/17/waymo-halts-highway-operation-nationwide-after-ca-dmv-pause/"
-        },
-        {
-          "source": "Electrek",
-          "title": "Tesla Cybercab has crashed 8 times, and the data shows a speed problem",
-          "url": "https://electrek.co/2026/11/16/tesla-cybercab-crashes-speed-problem/"
         }
       ]
     },
     {
-      "id": 2,
-      "status": "ONGOING",
-      "title": "미국 배터리 저장 용량 200GWh 돌파, 재생에너지·EV 인프라 핵심 축으로 부상",
-      "summary": "미국 배터리 저장 설비가 200GWh를 넘어섰고, 2026년 첫 9개월에만 50GWh가 신규 가동되며 성장 속도가 빨라지고 있다. 이는 태양광·풍력 변동성 보완뿐 아니라 EV 충전 인프라, 피크 전력 대응, 그리드 안정화 수단으로서 배터리 스토리지가 에너지 전환의 핵심 인프라로 자리 잡고 있음을 의미한다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "US battery storage just topped 200 GWh – here’s where it is",
-          "url": "https://electrek.co/2026/11/18/us-battery-storage-just-topped-200-gwh-heres-where-it-is/"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "status": "NEW",
-      "title": "아이슬란드 첫 상업용 풍력단지, 수력과의 하이브리드로 겨울 전력 안정성 강화",
-      "summary": "아이슬란드가 첫 상업용 풍력 발전단지를 가동하며 풍력·수력의 계절 보완 모델을 도입했다. 바람이 많이 불 때는 풍력이 전력을 담당해 저수지 수위를 유지하고, 겨울에는 저장된 수력으로 공급을 보완해 물 사용을 줄이면서도 전력 안정성을 높이는 사례로 주목받고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "Iceland’s first wind farm comes with a water-saving bonus",
-          "url": "https://electrek.co/2026/11/17/iceland-first-wind-farm-gives-its-hydropower-a-winter-boost/"
-        }
-      ]
-    },
-    {
-      "id": 4,
+      "id": "ev-4",
       "status": "SHIFTING",
-      "title": "테슬라 사이버캡, 기능 미완성·가격 약속 사이에서 서둘러 출시 논란",
-      "summary": "테슬라가 2만9,990달러 가격의 초청 기반 사이버캡 주문을 열고 2026년 12월 인도를 예고했으나, 일부 기능이 미완성된 초기 버전이라는 지적이 나온다. 2027년 이전 3만달러 미만 인도라는 대외 약속을 맞추기 위한 성급한 출시라는 의혹이 제기되며, 제품 완성도·브랜드 신뢰도에 대한 논쟁이 커지고 있다.",
+      "title": "테슬라, ‘반쪽짜리’ 사이버캡 선출시 논란…저가 로보택시 타이밍 리스크 부각",
+      "summary": "테슬라가 2만9,990달러의 초청 기반 사이버캡 주문을 열고 2026년 12월 인도를 예고했지만, 일부 기능이 미완성된 초기 버전이라는 지적이 나온다. 2027년 전 3만 달러 미만 인도라는 MKBHD와의 내기 요건을 맞추기 위한 ‘서둘러 내놓은 제품’이라는 비판이 제기되며, 저가 자율주행 택시 시장에서 테슬라의 신뢰·브랜드 리스크가 부각되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -136,10 +126,10 @@
       ]
     },
     {
-      "id": 5,
+      "id": "ev-5",
       "status": "ONGOING",
-      "title": "루시드, 차량 위치도 못 파악한 공급망·재고 관리 혼선으로 수요 손실",
-      "summary": "루시드 CEO가 재고 차량의 위치조차 제때 파악하지 못해 고객 인도에 최대 2주가 걸렸고, 이 과정에서 일부 주문이 취소됐다고 인정했다. 고가 EV 시장 경쟁이 치열한 가운데, 생산·물류·재고 관리 역량 부족이 매출과 브랜드 신뢰에 직접적인 타격을 주고 있음을 보여준다.",
+      "title": "루시드, 재고 위치도 못 찾던 공급망 혼선 인정…판매·브랜드 신뢰도 타격",
+      "summary": "루시드 CEO는 Q3 실적에서 여름까지도 재고 차량의 위치를 제대로 파악하지 못해, 고객 인도에 최대 2주가 소요되며 주문 취소까지 발생했다고 밝혔다. 고가 프리미엄 EV 브랜드임에도 기본적인 물류·재고 관리에 실패한 점이 드러나면서, 수요 부진과 함께 운영 효율성·지속 가능성에 대한 우려가 커지고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {

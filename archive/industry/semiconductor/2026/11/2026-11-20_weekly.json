@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-11-14",
+    "to": "2026-11-20"
+  },
+  "kpis": {
+    "collected": 14,
+    "deduped": 14,
+    "uniqueTopics": 7
+  },
+  "topTopics": [
+    {
+      "name": "Competition",
+      "count": 12
+    },
+    {
+      "name": "Roadmap",
+      "count": 10
+    },
+    {
+      "name": "Manufacturing",
+      "count": 7
+    },
+    {
+      "name": "Demand",
+      "count": 7
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Manufacturing",
+      "count": 2
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 4
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 3
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Manufacturing",
+      "count": 3
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Demand",
+      "count": 2
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 2
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "AI 메모리 중심 생태계 경쟁 심화",
+      "summary": "SK하이닉스가 Supercomputing 2026에서 메모리가 단순 저장을 넘어 데이터 처리까지 담당하는 ‘메모리 중심 AI 생태계’ 비전을 제시하며, AI 전용 HBM·PIM 등 고대역·고효율 메모리 주도권 경쟁이 본격화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "SK hynix Newsroom",
+          "title": "“Building the Future AI Ecosystem Around Memory”: SK hynix Presents Its Technology Vision at Supercomputing 2026",
+          "url": "https://news.skhynix.com/en/sc26-ai-hpc-exhibition/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "AI 수요에 따른 메모리 R&D 투자 리스크와 공동개발 확대",
+      "summary": "AI 인프라 수요 급증으로 메모리 업체들이 차세대 공정·소자 R&D에 막대한 비용을 투입하는 가운데, 기술 실패 리스크를 줄이기 위해 파운드리·장비·고객사와의 파트너십 및 공동개발 모델이 확산되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Memory R&D Is a High-Stakes Game",
+          "url": "https://www.eetimes.com/memory-rd-is-a-high-stakes-game/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "엔비디아 실적 급증과 AI 인프라용 반도체 수요 재부각",
+      "summary": "엔비디아가 분기 매출 1,158억 달러를 기록하며 GPU·네트워킹 등 AI 인프라용 반도체 수요가 예상보다 강하게 유지되고 있어, 메모리·패키징·제조 생태계 전반에 고성능 제품 수요 확대 기대가 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Nvidia Reports $115.8B in Quarterly Revenue Under Interim CEO",
+          "url": "https://www.eetimes.com/nvidia-reports-115-8b-in-quarterly-revenue-under-interim-ceo/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "SHIFTING",
+      "title": "첨단 칩을 둘러싼 기술·정책 통제 이슈 부상",
+      "summary": "엔비디아 리더십 교체 국면에서도 첨단 칩과 관련 기술 스택을 어느 수준까지 수출·공급하고 통제할지에 대한 정책·규제 논쟁이 이어지며, 반도체 공급망과 지정학 리스크가 전략 변수로 부각되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Technology as a Trojan Horse",
+          "url": "https://www.eetimes.com/technology-as-a-trojan-horse/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "AI용 고급 패키징과 ‘축소·적층(shrink & stack)’ 기술 경쟁",
+      "summary": "Qnity 인터뷰에서 AI 칩 성능·전력 한계를 돌파하기 위한 고밀도 적층, 고대역 인터커넥트, 첨단 패키징 소재 이슈가 부각되면서, 파운드리·OSAT·팹리스 간 패키징 기술 주도권 경쟁이 심화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Qnity at One: Randy King on Shrink, Stack and the Materials Behind AI",
+          "url": "https://www.eetimes.com/qnity-at-one-randy-king-on-shrink-stack-and-the-materials-behind-ai/"
+        }
+      ]
+    }
+  ]
+}

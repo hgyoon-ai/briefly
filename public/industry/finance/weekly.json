@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-11-13",
-    "to": "2026-11-19"
+    "from": "2026-11-14",
+    "to": "2026-11-20"
   },
   "kpis": {
     "collected": 12,
@@ -11,56 +11,26 @@
   "topTopics": [
     {
       "name": "MarketInfra",
-      "count": 11
+      "count": 10
+    },
+    {
+      "name": "Security",
+      "count": 6
     },
     {
       "name": "Policy",
       "count": 6
     },
     {
-      "name": "Security",
-      "count": 5
-    },
-    {
-      "name": "Fintech",
-      "count": 3
+      "name": "Compliance",
+      "count": 2
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-11-13",
-      "dayOfWeek": "Fri",
-      "topic": "MarketInfra",
-      "count": 2
-    },
-    {
-      "date": "2026-11-13",
-      "dayOfWeek": "Fri",
-      "topic": "Policy",
-      "count": 1
-    },
-    {
-      "date": "2026-11-13",
-      "dayOfWeek": "Fri",
-      "topic": "Security",
-      "count": 0
-    },
-    {
-      "date": "2026-11-13",
-      "dayOfWeek": "Fri",
-      "topic": "Fintech",
-      "count": 1
-    },
-    {
       "date": "2026-11-14",
       "dayOfWeek": "Sat",
       "topic": "MarketInfra",
-      "count": 1
-    },
-    {
-      "date": "2026-11-14",
-      "dayOfWeek": "Sat",
-      "topic": "Policy",
       "count": 1
     },
     {
@@ -72,7 +42,13 @@
     {
       "date": "2026-11-14",
       "dayOfWeek": "Sat",
-      "topic": "Fintech",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Compliance",
       "count": 0
     },
     {
@@ -84,31 +60,25 @@
     {
       "date": "2026-11-15",
       "dayOfWeek": "Sun",
-      "topic": "Policy",
-      "count": 0
-    },
-    {
-      "date": "2026-11-15",
-      "dayOfWeek": "Sun",
       "topic": "Security",
       "count": 0
     },
     {
       "date": "2026-11-15",
       "dayOfWeek": "Sun",
-      "topic": "Fintech",
-      "count": 1
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Compliance",
+      "count": 0
     },
     {
       "date": "2026-11-16",
       "dayOfWeek": "Mon",
       "topic": "MarketInfra",
-      "count": 2
-    },
-    {
-      "date": "2026-11-16",
-      "dayOfWeek": "Mon",
-      "topic": "Policy",
       "count": 2
     },
     {
@@ -120,7 +90,13 @@
     {
       "date": "2026-11-16",
       "dayOfWeek": "Mon",
-      "topic": "Fintech",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Compliance",
       "count": 0
     },
     {
@@ -132,19 +108,19 @@
     {
       "date": "2026-11-17",
       "dayOfWeek": "Tue",
-      "topic": "Policy",
-      "count": 1
-    },
-    {
-      "date": "2026-11-17",
-      "dayOfWeek": "Tue",
       "topic": "Security",
       "count": 2
     },
     {
       "date": "2026-11-17",
       "dayOfWeek": "Tue",
-      "topic": "Fintech",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Compliance",
       "count": 0
     },
     {
@@ -156,19 +132,19 @@
     {
       "date": "2026-11-18",
       "dayOfWeek": "Wed",
-      "topic": "Policy",
-      "count": 0
-    },
-    {
-      "date": "2026-11-18",
-      "dayOfWeek": "Wed",
       "topic": "Security",
       "count": 2
     },
     {
       "date": "2026-11-18",
       "dayOfWeek": "Wed",
-      "topic": "Fintech",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Compliance",
       "count": 0
     },
     {
@@ -180,19 +156,43 @@
     {
       "date": "2026-11-19",
       "dayOfWeek": "Thu",
-      "topic": "Policy",
-      "count": 1
-    },
-    {
-      "date": "2026-11-19",
-      "dayOfWeek": "Thu",
       "topic": "Security",
       "count": 1
     },
     {
       "date": "2026-11-19",
       "dayOfWeek": "Thu",
-      "topic": "Fintech",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Compliance",
+      "count": 1
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Security",
+      "count": 1
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Compliance",
       "count": 1
     }
   ],
@@ -200,8 +200,36 @@
     {
       "id": 1,
       "status": "ONGOING",
-      "title": "국민연금·KIC, AI 인프라·전략산업 중심으로 대체투자 확대",
-      "summary": "국민연금이 대체투자 비중을 대폭 늘리며 아시아 AI 인프라 등으로 투자 영역을 넓이고, KIC는 전략투자계정을 통해 국내 전략산업에 장기 자본을 공급하는 방향으로 운용 전략을 전환하고 있다. 이는 연기금·국부펀드의 글로벌·국내 실물·인프라 투자 확대 기조가 강화되고 있음을 보여준다.",
+      "title": "PHP 치명적 취약점 확산에 따른 글로벌 웹 서비스 보안 리스크",
+      "summary": "PHP 환경에서 원격 코드 실행(RCE)을 포함한 다수의 치명적 취약점이 동시 발견되면서 전 세계 웹사이트와 온라인 금융 서비스의 해킹 위험이 급격히 높아지고 있다. 금융사·핀테크 등 PHP 기반 시스템을 사용하는 기관은 대규모 패치와 보안 점검이 시급한 상황이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "PHP서 또 ‘치명적 취약점’ 무더기 발견…전세계 웹사이트 해킹 비상",
+          "url": "https://www.mk.co.kr/news/stock/12214368"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "외국인 45조 순매도와 국내 증시 수급 불안",
+      "summary": "최근 두 달간 외국인 투자자가 국내 주식을 약 45조원 순매도하며 코스피·코스닥 수급 구조에 큰 부담을 주고 있다. 특히 삼성전자·SK하이닉스 등 반도체 대형주 중심 매도가 이어지며 국내 증시 변동성과 환율 불안을 키우는 요인으로 작용하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“미국인들, 삼전닉스 왜 팔죠?”…외국인 두 달 간 국내 주식 45조 순매도",
+          "url": "https://www.mk.co.kr/news/stock/12214312"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "국민연금·KIC의 AI 인프라 및 전략산업 중심 글로벌 대체투자 확대",
+      "summary": "국민연금이 대체투자 규모를 약 4배로 늘리고 아시아를 포함한 글로벌 시장에서 AI 전력·인프라 자산에 대한 투자를 강화하고 있다. KIC 또한 전략투자계정을 활용한 장기·순차 투자로 국내 전략산업 자본 공급 역할을 확대하면서 기관투자자 자금의 배분 축이 전통 자산에서 인프라·AI 중심으로 이동하고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -212,68 +240,30 @@
       ]
     },
     {
-      "id": 2,
-      "status": "ONGOING",
-      "title": "디지털자산기본법 가속…법인·기관 대상 가상자산 시장 본격 개방",
-      "summary": "정부와 국회가 디지털자산기본법 제정을 서두르며 법인·기관투자자의 가상자산 시장 진입을 제도권에서 허용·확대하는 방향으로 규율 체계를 설계하고 있다. 이는 가상자산을 새로운 투자자산군으로 편입하려는 금융 규제·시장 인프라 재편의 핵심 이슈로 부상하고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "매일경제(증권)",
-          "title": "한국, 디지털자산기본법 입법 가속…법인·기관투자자 시장 개방 본격화[엠블록레터]",
-          "url": "https://www.mk.co.kr/news/stock/12208192"
-        }
-      ]
-    },
-    {
-      "id": 3,
+      "id": 4,
       "status": "SHIFTING",
-      "title": "엔비디아 변동성과 AI 반도체 랠리…CEO 리스크·실적 서프라이즈가 혼재",
-      "summary": "엔비디아는 한 달 새 27% 가까이 주가가 급락하며 CEO 리스크가 부각됐지만, 동시에 깜짝 실적과 강한 매출 가이던스로 글로벌 반도체주 반등을 이끌고 있다. 젠슨 황이 없는 컨퍼런스콜에도 주가는 선방하는 등 경영 리스크와 실적 모멘텀이 동시에 작용하며 AI 반도체 투자 심리가 빠르게 재조정되는 국면이다.",
-      "articleCount": 3,
+      "title": "엔비디아 주가 급락과 CEO 리스크가 불러온 AI 투자 심리 변화",
+      "summary": "한 달 새 약 27% 급락한 엔비디아 주가와 CEO 리스크 이슈가 맞물리며 글로벌 AI 반도체 투자 심리가 흔들리고 있다. 다만 베라 루빈 공급 확대와 자체 데이터센터 수요 증가로 중장기 매출 성장 전망은 상향되며 단기 조정과 장기 성장 스토리가 교차하는 국면이 전개되고 있다.",
+      "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
           "title": "한달 만에 27% ‘폭락의 눈물’…CEO 리스크까지 겹친 엔비디아 앞날은",
           "url": "https://www.mk.co.kr/news/stock/12213292"
-        },
-        {
-          "source": "매일경제(증권)",
-          "title": "엔비디아 깜짝 실적에 반도체 반등 … 이제 공은 앤트로픽으로",
-          "url": "https://www.mk.co.kr/news/stock/12212141"
-        },
-        {
-          "source": "매일경제(증권)",
-          "title": "젠슨황 없는 컨퍼런스콜... 엔비디아 주가는 올랐다 왜?",
-          "url": "https://www.mk.co.kr/news/business/12212008"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "status": "NEW",
-      "title": "국내 AI 인프라 공급 확대…M83 자회사, 네이버와 대형 서버 계약",
-      "summary": "M83 자회사 피앤티링크가 네이버와 630억 원 규모 서버 공급 계약을 체결하며 국내 AI·클라우드 인프라 시장에서 대형 수주를 확보했다. 국내 IT·플랫폼 기업들의 데이터센터·AI 인프라 증설 수요가 장비·서버 공급사들의 성장 모멘텀으로 이어지는 흐름이 강화되고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "매일경제(증권)",
-          "title": "M83 자회사 피앤티링크, 네이버와 630억 원 대형 서버 공급 계약",
-          "url": "https://www.mk.co.kr/news/stock/12211033"
         }
       ]
     },
     {
       "id": 5,
       "status": "SHIFTING",
-      "title": "코스피, 엔비디아·앤트로픽·미중 회담 변수에 따른 단기 변동성 확대",
-      "summary": "국내 증시는 엔비디아 실적과 젠슨 황 거취, 앤트로픽 IPO, 미·중 회담 및 FOMC 의사록 공개 등 대외 요인에 좌우되며 방향성을 탐색하고 있다. AI 빅테크 실적과 지정학·금리 변수의 결합이 단기 코스피 흐름의 핵심 리스크 요인으로 인식되는 상황이다.",
+      "title": "엔비디아 호실적 이후 AI 생태계 투자 초점, 앤트로픽으로 이동",
+      "summary": "엔비디아의 깜짝 실적과 긍정적인 매출 가이던스가 글로벌 반도체·AI 관련주 반등을 이끌었다. 실적 발표 이후 시장의 관심은 GPU 공급사에서 AI 모델·서비스 기업인 앤트로픽 등으로 옮겨가며 AI 밸류체인 내 투자 초점이 하드웨어에서 소프트웨어·플랫폼으로 확장되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
-          "title": "“이번주엔 앞길 좀 트일까요”…엔비디아에 미중회담·앤트로픽 IPO까지, 코스피는?",
-          "url": "https://www.mk.co.kr/news/stock/12209596"
+          "title": "엔비디아 깜짝 실적에 반도체 반등 … 이제 공은 앤트로픽으로",
+          "url": "https://www.mk.co.kr/news/stock/12212141"
         }
       ]
     }

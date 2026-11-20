@@ -1,67 +1,43 @@
 {
   "range": {
-    "from": "2026-11-13",
-    "to": "2026-11-19"
+    "from": "2026-11-14",
+    "to": "2026-11-20"
   },
   "kpis": {
-    "collected": 27,
-    "deduped": 27,
+    "collected": 26,
+    "deduped": 26,
     "uniqueTopics": 10
   },
   "topTopics": [
     {
-      "name": "Market",
-      "count": 18
+      "name": "Supply",
+      "count": 16
     },
     {
-      "name": "Supply",
-      "count": 14
+      "name": "Market",
+      "count": 15
     },
     {
       "name": "Regulation",
-      "count": 12
+      "count": 13
     },
     {
       "name": "UrbanRenewal",
-      "count": 11
+      "count": 12
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-11-13",
-      "dayOfWeek": "Fri",
-      "topic": "Market",
-      "count": 4
-    },
-    {
-      "date": "2026-11-13",
-      "dayOfWeek": "Fri",
-      "topic": "Supply",
-      "count": 2
-    },
-    {
-      "date": "2026-11-13",
-      "dayOfWeek": "Fri",
-      "topic": "Regulation",
-      "count": 3
-    },
-    {
-      "date": "2026-11-13",
-      "dayOfWeek": "Fri",
-      "topic": "UrbanRenewal",
-      "count": 2
-    },
-    {
-      "date": "2026-11-14",
-      "dayOfWeek": "Sat",
-      "topic": "Market",
-      "count": 2
-    },
-    {
       "date": "2026-11-14",
       "dayOfWeek": "Sat",
       "topic": "Supply",
       "count": 0
+    },
+    {
+      "date": "2026-11-14",
+      "dayOfWeek": "Sat",
+      "topic": "Market",
+      "count": 1
     },
     {
       "date": "2026-11-14",
@@ -78,13 +54,13 @@
     {
       "date": "2026-11-15",
       "dayOfWeek": "Sun",
-      "topic": "Market",
+      "topic": "Supply",
       "count": 1
     },
     {
       "date": "2026-11-15",
       "dayOfWeek": "Sun",
-      "topic": "Supply",
+      "topic": "Market",
       "count": 1
     },
     {
@@ -102,13 +78,13 @@
     {
       "date": "2026-11-16",
       "dayOfWeek": "Mon",
-      "topic": "Market",
+      "topic": "Supply",
       "count": 4
     },
     {
       "date": "2026-11-16",
       "dayOfWeek": "Mon",
-      "topic": "Supply",
+      "topic": "Market",
       "count": 4
     },
     {
@@ -126,14 +102,14 @@
     {
       "date": "2026-11-17",
       "dayOfWeek": "Tue",
-      "topic": "Market",
-      "count": 2
+      "topic": "Supply",
+      "count": 1
     },
     {
       "date": "2026-11-17",
       "dayOfWeek": "Tue",
-      "topic": "Supply",
-      "count": 1
+      "topic": "Market",
+      "count": 2
     },
     {
       "date": "2026-11-17",
@@ -150,14 +126,14 @@
     {
       "date": "2026-11-18",
       "dayOfWeek": "Wed",
-      "topic": "Market",
-      "count": 3
+      "topic": "Supply",
+      "count": 2
     },
     {
       "date": "2026-11-18",
       "dayOfWeek": "Wed",
-      "topic": "Supply",
-      "count": 2
+      "topic": "Market",
+      "count": 3
     },
     {
       "date": "2026-11-18",
@@ -174,62 +150,100 @@
     {
       "date": "2026-11-19",
       "dayOfWeek": "Thu",
+      "topic": "Supply",
+      "count": 5
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
       "topic": "Market",
+      "count": 3
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Regulation",
       "count": 2
     },
     {
       "date": "2026-11-19",
       "dayOfWeek": "Thu",
+      "topic": "UrbanRenewal",
+      "count": 2
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
       "topic": "Supply",
+      "count": 3
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Market",
+      "count": 1
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Regulation",
       "count": 4
     },
     {
-      "date": "2026-11-19",
-      "dayOfWeek": "Thu",
-      "topic": "Regulation",
-      "count": 2
-    },
-    {
-      "date": "2026-11-19",
-      "dayOfWeek": "Thu",
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
       "topic": "UrbanRenewal",
-      "count": 2
+      "count": 3
     }
   ],
   "topIssues": [
     {
       "id": 1,
       "status": "ONGOING",
-      "title": "재건축부담금(재초환) 면제·부과 차이에 따른 단지별 명암",
-      "summary": "신반포4지구 ‘메이플자이’는 재건축초과이익환수금 면제로 대단지로 성공적으로 재탄생한 반면, 신반포20차는 재초환 적용으로 통합재건축이 무산돼 단독 재건축으로 전환하고 부담금 예정액 산정 절차에 들어가면서, 동일 권역 내 재건축 단지 간 규제 차이에 따른 사업성 격차와 향후 시장 영향이 부각되고 있다.",
+      "title": "재건축초과이익환수제(재초환) 폐지·완화 입법 논의 본격화",
+      "summary": "재건축초과이익환수제를 전면 폐지하거나 부담금을 낮추려는 법안이 연달아 국회에 제출되며 재건축 부담금 제도 손질 가능성이 커졌다. 국토교통부는 국회 논의를 지켜보며 제도 합리화 방안을 모색 중으로, 재건축 단지 사업성·추가 공급 속도에 중장기 영향을 줄 핵심 이슈다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "헤럴드경제(부동산)",
-          "title": "‘재초환 부담금’에 이별한 메이플자이·신반포20차 ‘엇갈린 운명’",
-          "url": "https://biz.heraldcorp.com/article/10942532"
+          "source": "매일경제(부동산)",
+          "title": "재초환 폐지·완화 법안 국회서 잇따라…재건축 부담금 손질하나",
+          "url": "https://www.mk.co.kr/news/realestate/12214428"
         }
       ]
     },
     {
       "id": 2,
       "status": "ONGOING",
-      "title": "청년안심주택 청약 과열로 드러난 도심 소형 임대주택 수급 불균형",
-      "summary": "용산 청년안심주택에 평균 44.7대 1, 최대 472대 1의 경쟁률이 몰리면서 도심 내 소형·역세권 공공임대에 대한 청년층 수요가 폭발적으로 확인됐고, 민간·공공을 포함한 안정적 청년 주거 공급 확대 필요성이 다시 부각되고 있다.",
+      "title": "초고령 사회 진입 속 수도권 시니어 계층의 청약·내 집 마련 제약",
+      "summary": "60세 이상 인구가 전체의 30%를 넘었지만 이미 주택을 보유한 시니어 가구 비율이 높아 무주택 우대 청약에서 배제되고, 수도권 고분양가·규제로 신규 내 집 마련도 쉽지 않은 구조가 부각되고 있다. 고령층 맞춤형 공공·민간 주거상품, 세대분리·갈아타기 지원정책 필요성이 커지는 국면이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "헤럴드경제(부동산)",
-          "title": "용산 ‘청년안심주택’ 최고 경쟁률 472대 1",
-          "url": "https://biz.heraldcorp.com/article/10942529"
+          "title": "60세 이상 1500만명 넘었지만…수도권 청약 문턱 높은 시니어, 내 집 마련 대안은",
+          "url": "https://biz.heraldcorp.com/article/10943823"
         }
       ]
     },
     {
       "id": 3,
+      "status": "SHIFTING",
+      "title": "초저가 월세 상품 등장으로 드러난 임대시장 마케팅·숨은 비용 논란",
+      "summary": "보증금 없이 월세 1만원에 25평 신축 주택을 공급한다는 사례가 등장하면서 파격 조건 뒤에 숨은 관리비·옵션·임대관리비 등 추가 비용과 마케팅성 공급 여부가 논란이 되고 있다. 전월세 시장의 가격 왜곡, 취약계층을 겨냥한 과장 광고·불완전 정보 제공 규제 필요성이 제기된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "보증금도 안 받는다고?…월세 1만원 25평 새집의 정체",
+          "url": "https://www.hankyung.com/article/2026111985347"
+        }
+      ]
+    },
+    {
+      "id": 4,
       "status": "NEW",
-      "title": "고양시 ‘미래타운’ 1호 등 수도권 재개발·정비사업 본격화",
-      "summary": "고양 덕양구 행신동에서 ‘한신더휴 퍼스트원’이 공급되며 7개 블록, 1,700여 가구 규모의 미래타운 재개발이 추진되는 등, 서울 외곽·수도권 거점에서 노후 주거지 정비와 대규모 새 아파트 공급이 동시에 진행되는 흐름이 가시화되고 있다.",
+      "title": "고양시 ‘미래타운 1호’ 행신동 대규모 재개발·정비사업 가시화",
+      "summary": "고양시 덕양구 행신동에서 한신공영이 ‘한신더휴 퍼스트원’을 공급하며 미래타운 7개 블록, 총 1743가구 규모의 재개발·정비 사업이 본격화되고 있다. 서울 인근 정비사업 축으로서 고양시의 주거지 구조 개편과 인근 집값·임대시장 파급효과가 주목된다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -240,30 +254,16 @@
       ]
     },
     {
-      "id": 4,
+      "id": 5,
       "status": "ONGOING",
-      "title": "LH의 공공주택 착공 기간 단축으로 공급 속도전 본격화",
-      "summary": "LH가 발주부터 착공까지 소요 기간을 130일에서 63일로 절반 이하로 줄이는 시스템을 도입하면서, 향후 공공분양·공공임대 주택의 실제 공급 시점이 앞당겨지고 경기 대응형 주택 공급 능력이 강화될 것으로 예상된다.",
+      "title": "LH, 발주~착공 기간 대폭 단축으로 공공주택 공급 속도전",
+      "summary": "LH가 발주부터 착공까지 걸리는 평균 기간을 130일에서 63일로 줄이는 내부 프로세스 개편을 시행하며 공공주택 공급의 ‘속도전’을 예고했다. 발주·계약·착공 절차 간소화로 단기간 분양·임대 물량 확대가 가능해지는 만큼, 경기 대응형 공급정책의 실행력이 강화되는 흐름이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(부동산)",
           "title": "LH, 주택공급 속도전…공사 발주~착공 기간 130일→63일로 축소",
           "url": "https://www.mk.co.kr/news/realestate/12213305"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "status": "ONGOING",
-      "title": "‘노도강–마용성’ 아파트 가격 격차 확대와 갈아타기 장벽 상승",
-      "summary": "정부의 대출 규제 강화 속에 노도강 중위 아파트 가격은 소폭 하락했지만 마용성은 크게 오르면서 두 권역 간 가격 차이가 최근 1년 4개월 새 약 5억 원 이상 벌어졌다. 이로 인해 실수요자의 상급지 갈아타기와 주거 사다리 이동이 더욱 어려워지고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "헤럴드경제(부동산)",
-          "title": "‘노도강’서 ‘마용성’ 가는데 5억 더 필요",
-          "url": "https://biz.heraldcorp.com/article/10941096"
         }
       ]
     }

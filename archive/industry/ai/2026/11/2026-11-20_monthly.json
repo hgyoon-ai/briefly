@@ -1,0 +1,148 @@
+{
+  "range": {
+    "from": "2026-10-22",
+    "to": "2026-11-20"
+  },
+  "kpis": {
+    "collected": 71,
+    "deduped": 71,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "Tooling": 26,
+      "Product": 21,
+      "Infra": 19,
+      "Research": 17,
+      "Models": 17,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/22-10/28)",
+      "topicCounts": {
+        "Tooling": 7,
+        "Product": 4,
+        "Infra": 6,
+        "Research": 2,
+        "Models": 3
+      }
+    },
+    {
+      "week": "Week 2 (10/29-11/04)",
+      "topicCounts": {
+        "Tooling": 5,
+        "Product": 4,
+        "Infra": 7,
+        "Research": 4,
+        "Models": 3
+      }
+    },
+    {
+      "week": "Week 3 (11/05-11/11)",
+      "topicCounts": {
+        "Tooling": 9,
+        "Product": 6,
+        "Infra": 9,
+        "Research": 6,
+        "Models": 8
+      }
+    },
+    {
+      "week": "Week 4 (11/12-11/18)",
+      "topicCounts": {
+        "Tooling": 15,
+        "Product": 16,
+        "Infra": 8,
+        "Research": 12,
+        "Models": 9
+      }
+    },
+    {
+      "week": "Week 5 (11/19-11/20)",
+      "topicCounts": {
+        "Tooling": 3,
+        "Product": 0,
+        "Infra": 3,
+        "Research": 2,
+        "Models": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "경량·고효율 LLM 아키텍처 경쟁: Gemini 4 Neon 공개",
+      "summary": "Google DeepMind가 경량·고효율 변종 Gemini 4 Neon을 공개하며, 고성능을 유지하면서도 추론 비용과 배포 유연성을 높이는 모델 설계 경쟁이 본격화되고 있다. 이는 모바일·엣지 및 다양한 인프라 환경에서의 LLM 활용 확대를 가속하는 흐름으로 볼 수 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Google DeepMind Blog",
+          "title": "Introducing Gemini 4 Neon",
+          "url": "https://deepmind.google/blog/introducing-gemini-4-neon/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "AI 모델 학습 인프라 고도화: NVIDIA Vera Rubin NVL72의 MLPerf 성능 도약",
+      "summary": "NVIDIA Vera Rubin NVL72가 MLPerf Training v6.1에서 최대 2배 성능을 기록하며, 초거대 모델 학습 시간 단축과 실험 반복 주기 개선이 가속되고 있다. 이는 대규모 학습 인프라 투자와 함께 연구·제품 개발 속도를 동시에 끌어올리는 방향으로 시장을 재편하는 신호다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "NVIDIA Vera Rubin NVL72 Achieves up to 2x Blackwell Ultra Performance in MLPerf Training v6.1",
+          "url": "https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-achieves-up-to-2x-blackwell-ultra-performance-in-mlperf-training-v6-1/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "대규모 AI 서비스 성능 운영 자동화: OpenAI Performance Factory",
+      "summary": "OpenAI가 구축한 Performance Factory는 Codex 기반 워크플로로 성능 이슈를 자동 탐지·분석·수정해 ChatGPT 응답 속도를 유지한다. 이는 대규모 AI 서비스에서 관측·성능 튜닝·패치 적용을 코드화·자동화하는 SRE형 AI 운영 패턴이 자리 잡고 있음을 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+          "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "강화학습·실험 시스템의 실시간화: GPU 기반 인퍼런스·데이터 파이프라인 진화",
+      "summary": "NVIDIA는 Dynamo를 활용해 강화학습 rollout 병목을 줄이고, GPU-네이티브 데이터 수집으로 과학 실험 데이터를 실시간 처리하는 파이프라인을 제시하고 있다. 이는 저지연 고처리량 인프라를 기반으로 RL, 실험 자동화, 폐쇄 루프 제어 등 실시간 AI 시스템을 확산시키는 흐름이다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Reducing Rollout Bottlenecks in Reinforcement Learning with NVIDIA Dynamo",
+          "url": "https://developer.nvidia.com/blog/reducing-rollout-bottlenecks-in-reinforcement-learning-with-nvidia-dynamo/"
+        },
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Enabling Real-Time AI for Scientific Instruments with GPU-Native Data Acquisition",
+          "url": "https://developer.nvidia.com/blog/enabling-real-time-ai-for-scientific-instruments-with-gpu-native-data-acquisition/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "SHIFTING",
+      "title": "고도화된 AI와 사회 규범: ‘침묵의 합의’를 둘러싼 거버넌스 재구성 논의",
+      "summary": "OpenAI의 ‘The Silent Consensus’는 고도화된 AI가 제도·규범·권한 구조에 비가시적으로 영향을 미칠 수 있음을 지적하며, 사회가 어떤 원칙과 전략으로 이러한 변화를 관리할지에 대한 정책·거버넌스 논의를 촉구한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "The Silent Consensus",
+          "url": "https://openai.com/index/the-silent-consensus"
+        }
+      ]
+    }
+  ]
+}

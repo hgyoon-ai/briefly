@@ -1,70 +1,70 @@
 {
   "range": {
-    "from": "2026-10-21",
-    "to": "2026-11-19"
+    "from": "2026-10-22",
+    "to": "2026-11-20"
   },
   "kpis": {
-    "collected": 49,
-    "deduped": 49,
+    "collected": 50,
+    "deduped": 50,
     "uniqueTopics": 7,
     "marketShare": {
-      "Roadmap": 29,
+      "Roadmap": 28,
       "Competition": 24,
       "Manufacturing": 19,
-      "Investment": 15,
-      "Demand": 13,
+      "Investment": 16,
+      "Demand": 14,
       "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/21-10/27)",
-      "topicCounts": {
-        "Roadmap": 8,
-        "Competition": 6,
-        "Manufacturing": 4,
-        "Investment": 0,
-        "Demand": 4
-      }
-    },
-    {
-      "week": "Week 2 (10/28-11/03)",
-      "topicCounts": {
-        "Roadmap": 8,
-        "Competition": 3,
-        "Manufacturing": 8,
-        "Investment": 9,
-        "Demand": 5
-      }
-    },
-    {
-      "week": "Week 3 (11/04-11/10)",
+      "week": "Week 1 (10/22-10/28)",
       "topicCounts": {
         "Roadmap": 5,
-        "Competition": 3,
-        "Manufacturing": 2,
-        "Investment": 4,
-        "Demand": 1
+        "Competition": 4,
+        "Manufacturing": 3,
+        "Investment": 0,
+        "Demand": 2
       }
     },
     {
-      "week": "Week 4 (11/11-11/17)",
+      "week": "Week 2 (10/29-11/04)",
       "topicCounts": {
-        "Roadmap": 13,
-        "Competition": 12,
-        "Manufacturing": 8,
-        "Investment": 5,
+        "Roadmap": 6,
+        "Competition": 2,
+        "Manufacturing": 5,
+        "Investment": 6,
+        "Demand": 3
+      }
+    },
+    {
+      "week": "Week 3 (11/05-11/11)",
+      "topicCounts": {
+        "Roadmap": 7,
+        "Competition": 7,
+        "Manufacturing": 3,
+        "Investment": 6,
         "Demand": 4
       }
     },
     {
-      "week": "Week 5 (11/18-11/19)",
+      "week": "Week 4 (11/12-11/18)",
       "topicCounts": {
-        "Roadmap": 3,
-        "Competition": 3,
+        "Roadmap": 11,
+        "Competition": 12,
+        "Manufacturing": 9,
+        "Investment": 3,
+        "Demand": 4
+      }
+    },
+    {
+      "week": "Week 5 (11/19-11/20)",
+      "topicCounts": {
+        "Roadmap": 2,
+        "Competition": 2,
         "Manufacturing": 1,
-        "Investment": 0,
-        "Demand": 1
+        "Investment": 2,
+        "Demand": 4
       }
     }
   ],
@@ -72,36 +72,50 @@
     {
       "id": 1,
       "status": "ONGOING",
-      "title": "AI 반도체용 고급 패키징·소재 경쟁 심화",
-      "summary": "Qnity CTO 인터뷰에서 AI용 ‘shrink-and-stack’ 패키징이 핵심 전략으로 부상했으며, 첨단 적층·인터포저 공정에 필요한 소재 수급과 공정 난도가 AI 반도체 경쟁의 주요 변수가 되고 있다.",
+      "title": "AI 중심 메모리 생태계 경쟁 심화",
+      "summary": "SK하이닉스가 SC26에서 메모리가 저장을 넘어 AI 데이터 처리의 핵심으로 전환되는 비전을 제시하며, AI용 HBM·PIM 등 메모리 중심 아키텍처 주도권 경쟁이 심화되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
-          "source": "EE Times",
-          "title": "Qnity at One: Randy King on Shrink, Stack and the Materials Behind AI",
-          "url": "https://www.eetimes.com/qnity-at-one-randy-king-on-shrink-stack-and-the-materials-behind-ai/"
+          "source": "SK hynix Newsroom",
+          "title": "“Building the Future AI Ecosystem Around Memory”: SK hynix Presents Its Technology Vision at Supercomputing 2026",
+          "url": "https://news.skhynix.com/en/sc26-ai-hpc-exhibition/"
         }
       ]
     },
     {
       "id": 2,
-      "status": "SHIFTING",
-      "title": "인도, IP·EDA 기반 AI 칩 설계 생태계 부상",
-      "summary": "Oxmiq가 인도 설계팀을 겨냥해 AI 칩 IP와 설계 도구를 제공하면서, 2030년 6GW를 넘는 것으로 전망되는 인도 AI 인프라 수요를 선점하려는 팹리스·IP 생태계 경쟁이 본격화되고 있다.",
+      "status": "ONGOING",
+      "title": "AI 수요 확대에 따른 메모리 R&D 리스크 분산",
+      "summary": "AI 서버·가속기 수요가 급증하면서 메모리 업체들은 차세대 노드·신공정 개발 비용과 기술 리스크를 파트너십과 조인트 개발 방식으로 분담하는 전략을 강화하고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "EE Times",
-          "title": "Koduri’s Oxmiq Offers IP, Tools for Indian Teams to Design AI Chips",
-          "url": "https://www.eetimes.com/koduri-oxmiq-offers-ip-tools-for-indian-teams-to-design-ai-chips/"
+          "title": "Memory R&D Is a High-Stakes Game",
+          "url": "https://www.eetimes.com/memory-rd-is-a-high-stakes-game/"
         }
       ]
     },
     {
       "id": 3,
       "status": "SHIFTING",
-      "title": "반도체 기술 스택을 둘러싼 통제·수출 정책 논쟁",
-      "summary": "엔비디아 리더십 변화 속에서 AI 칩과 관련 기술 스택을 어디까지 판매·통제할지, 또는 판매를 제한해 시장 지연을 감수할지에 대한 ‘트로이 목마’식 정책·규제 논쟁이 심화되고 있다.",
+      "title": "엔비디아 실적과 AI 인프라 투자 지속",
+      "summary": "엔비디아가 임시 CEO 체제에서도 분기 매출 1,158억 달러를 기록하며, AI 인프라에 대한 초대형 클라우드·데이터센터 투자가 여전히 견조함을 보여주고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Nvidia Reports $115.8B in Quarterly Revenue Under Interim CEO",
+          "url": "https://www.eetimes.com/nvidia-reports-115-8b-in-quarterly-revenue-under-interim-ceo/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "SHIFTING",
+      "title": "반도체 기술과 정책·안보 이슈의 결합",
+      "summary": "엔비디아 CEO 교체 이후에도 첨단 칩과 기술 스택을 얼마나 개방·통제할지에 대한 논쟁이 이어지며, 반도체가 지정학·안보 정책의 ‘트로이 목마’ 역할을 하는 양상이 지속되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -112,30 +126,16 @@
       ]
     },
     {
-      "id": 4,
-      "status": "ONGOING",
-      "title": "AI 메모리 호황으로 삼성전자 사상 최대급 실적",
-      "summary": "AI 서버·가속기용 고대역폭 메모리(HBM)와 고용량 DRAM 수요가 폭증하며 삼성전자가 분기 영업이익 800억 달러를 기록, 메모리 사이클 반등과 AI 인프라 투자 확대로 인한 수익성이 크게 개선되고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "EE Times",
-          "title": "Samsung Electronics Posts $80B Operating Profit on AI Memory Demand",
-          "url": "https://www.eetimes.com/samsung-electronics-posts-80b-operating-profit-on-ai-memory-demand/"
-        }
-      ]
-    },
-    {
       "id": 5,
-      "status": "SHIFTING",
-      "title": "ASML EUV 독점력과 지정학 리스크 재부각",
-      "summary": "ASML의 파트너 중심 문화와 공급망 통합 전략이 EUV 장비 시장 지배력을 강화하는 한편, 특정 국가 의존도와 수출 규제 등 지정학 리스크가 글로벌 반도체 공급망 전략의 핵심 이슈로 부각되고 있다.",
+      "status": "ONGOING",
+      "title": "AI 칩 고밀도 패키징과 소재 혁신",
+      "summary": "Qnity는 AI 연산 효율을 높이기 위해 ‘shrink-and-stack’ 전략과 첨단 패키징을 강조하며, HBM·칩렛을 뒷받침할 신소재·적층 기술 경쟁이 본격화되고 있음을 시사한다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "EE Times",
-          "title": "Marc Hijink on ASML’s Culture, Supply Chain, and Geopolitics",
-          "url": "https://www.eetimes.com/marc-hijink-on-asmls-culture-supply-chain-and-geopolitics/"
+          "title": "Qnity at One: Randy King on Shrink, Stack and the Materials Behind AI",
+          "url": "https://www.eetimes.com/qnity-at-one-randy-king-on-shrink-stack-and-the-materials-behind-ai/"
         }
       ]
     }

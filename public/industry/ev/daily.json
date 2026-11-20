@@ -1,65 +1,64 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "highlights": {
     "bullets": [
-      "핵심: 여러 건의 치명적 테슬라 사고가 오토파일럿·FSD 연관 의혹과 함께 다시 헤드라인을 장식하고 있다.",
-      "핵심: 미국의 배터리 저장 용량이 총 200GWh를 넘어섰다."
+      "핵심: 기아는 2027년에 약 2.2만~2.4만 달러 수준의 초저가 전기차를 출시할 계획이다.",
+      "핵심: 국제에너지기구는 석유 공급 충격이 전기차와 태양광 전환을 가속할 수 있다고 분석한다."
     ],
     "topTopics": [
+      "Demand",
       "Roadmap",
       "Competition",
-      "Investment",
-      "Demand"
+      "Investment"
     ],
     "stats": {
-      "collected": 15,
-      "deduped": 15
+      "collected": 14,
+      "deduped": 14
     }
   },
   "cards": [
     {
       "id": "ev_0001",
       "tab": "ev",
-      "publishedAt": "2026-11-19T10:50:06+09:00",
+      "publishedAt": "2026-11-20T05:08:29+09:00",
       "source": "Electrek",
-      "title": "Tesla crashes make headlines, Lidar makes sense, IONNA makes it easy",
+      "title": "Kia’s cheapest EV is coming next year, and it could cost under $25,000",
       "summary": [
-        "여러 건의 치명적 테슬라 사고가 오토파일럿·FSD 연관 의혹과 함께 다시 헤드라인을 장식하고 있다.",
-        "반복되는 자율주행 사고 이슈 속에서 라이다 채택의 필요성과 안전성 향상이 재조명되고 있다.",
-        "IONNA는 충전·인프라 측면에서 전기차 이용을 더 쉽게 만드는 솔루션으로 거론되고 있다."
+        "기아는 2027년에 약 2.2만~2.4만 달러 수준의 초저가 전기차를 출시할 계획이다.",
+        "이 모델은 기아의 기존 EV 라인업이 채우지 못한 ‘진정으로 저렴한 전기차’ 수요를 겨냥한다.",
+        "출시 시점과 가격대 상 글로벌 보급형 EV 시장에서 강력한 가격 경쟁이 예상된다."
       ],
-      "whyItMatters": "테슬라 자율주행 사고와 라이다·충전 인프라 논의는 규제, 경쟁 구도, 기술 로드맵에 직결되는 핵심 이슈라서 중요하다.",
+      "whyItMatters": "2만 달러대 초반 전기차는 대중적 보급을 가속하고 가격 경쟁 구도를 재편할 수 있어 시장 구조에 미치는 영향이 크다.",
       "topics": [
+        "Demand",
         "Competition",
-        "Roadmap",
-        "Policy",
-        "Investment"
+        "Roadmap"
       ],
-      "status": "ONGOING",
-      "hash": "5a0f3576dea992ca18131401c5647ac5e412af23979adda4ad33d59d21cb6be8",
-      "url": "https://electrek.co/2026/11/18/tesla-crashes-make-headlines-lidar-makes-sense-ionna-makes-it-easy/"
+      "status": "NEW",
+      "hash": "a3928e10b356cee2fa077724dab2c8495dfb0c29fa3e162cc0f445cef3cbbe5b",
+      "url": "https://electrek.co/2026/11/19/kias-cheapest-ev-coming-2027-under-25k/"
     },
     {
       "id": "ev_0002",
       "tab": "ev",
-      "publishedAt": "2026-11-19T07:36:48+09:00",
+      "publishedAt": "2026-11-19T14:00:00+09:00",
       "source": "Electrek",
-      "title": "US battery storage just topped 200 GWh – here’s where it is",
+      "title": "The world’s biggest oil shock could give EVs and solar a boost",
       "summary": [
-        "미국의 배터리 저장 용량이 총 200GWh를 넘겼습니다.",
-        "2026년 첫 9개월에만 약 50GWh가 새로 가동되었습니다.",
-        "저장장치 확대는 전력망 유연성과 재생에너지 통합을 강화합니다."
+        "국제에너지기구(IEA)의 ‘World Energy Outlook 2026’는 사상 최대 규모의 석유 공급 충격이 전기차와 태양광 전환을 가속할 수 있다고 분석한다.",
+        "호르무즈 해협 위기가 장기화될수록 각국은 석유 의존 교통수단을 줄이고 자국 내 전력 생산을 확대하려는 유인이 커진다.",
+        "이번 보고서는 지정학적 리스크가 재생에너지와 전기차 투자 확대를 촉발하는 구조적 전환 요인임을 강조한다."
       ],
-      "whyItMatters": "이 성장은 재생에너지 확대에 따른 수요 증가와 제조·투자 확대를 반영하며 전력망 안정성에 직접적인 영향을 미칩니다.",
+      "whyItMatters": "지정학적 공급 충격이 에너지 안보 차원에서 EV·태양광 투자를 구조적으로 늘릴 가능성이 커, 중장기 수요·정책 환경에 중대한 변곡점이 될 수 있기 때문이다.",
       "topics": [
         "Demand",
-        "Manufacturing",
+        "Policy",
         "Investment",
         "Roadmap"
       ],
       "status": "ONGOING",
-      "hash": "085a353456eabc710c2b6e2ba961f744e995f07092f530880d917051cc61605f",
-      "url": "https://electrek.co/2026/11/18/us-battery-storage-just-topped-200-gwh-heres-where-it-is/"
+      "hash": "dd6b0f5829539c2355f7d0db4066ebed7e043cc4f8743ff65c5bb5c226e7d72d",
+      "url": "https://electrek.co/2026/11/18/the-worlds-biggest-oil-shock-could-give-evs-and-solar-a-boost/"
     }
   ]
 }
