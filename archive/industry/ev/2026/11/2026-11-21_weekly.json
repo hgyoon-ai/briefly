@@ -1,0 +1,276 @@
+{
+  "range": {
+    "from": "2026-11-15",
+    "to": "2026-11-21"
+  },
+  "kpis": {
+    "collected": 12,
+    "deduped": 12,
+    "uniqueTopics": 6
+  },
+  "topTopics": [
+    {
+      "name": "Roadmap",
+      "count": 12
+    },
+    {
+      "name": "Competition",
+      "count": 8
+    },
+    {
+      "name": "Policy",
+      "count": 7
+    },
+    {
+      "name": "Investment",
+      "count": 7
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 3
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 3
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Investment",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "유럽 초저가 전기차 경쟁 격화: 르노·기아의 2만달러대 EV 진입",
+      "summary": "르노가 2만달러 미만 Twingo E-Tech를 출시하고, 기아가 2027년 2.2만~2.4만달러급 EV를 예고하며, BYD 등과 함께 유럽·글로벌 전기차 시장의 초저가 가격대 경쟁이 본격화되고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Renault undercuts BYD with a new EV that costs less than $20,000",
+          "url": "https://electrek.co/2026/11/20/renault-undercuts-byd-new-ev-costs-less-than-20000/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Kia’s cheapest EV is coming next year, and it could cost under $25,000",
+          "url": "https://electrek.co/2026/11/19/kias-cheapest-ev-coming-2027-under-25k/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "테슬라 FSD, 이탈리아 승인으로 EU 대형 시장 첫 진입",
+      "summary": "이탈리아가 테슬라 FSD Supervised(Assisted Driving)를 조건부 승인하면서, 테슬라 자율주행 소프트웨어가 EU 주요 대형 시장에 처음 진입했다. 이는 유럽 내 규제 협의와 경쟁사 ADAS·자율주행 전략에 영향을 줄 수 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla FSD approved in Italy, the first big EU market to say yes",
+          "url": "https://electrek.co/2026/11/20/tesla-fsd-italy-approval-assisted-driving/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "테슬라 사이버캡 조기 출시 논란: 불완성 기능 vs 가격·일정 승부수",
+      "summary": "테슬라가 2만9,990달러 사이버캡의 초청 기반 주문을 열고 2026년 12월 인도를 예고했으나, 기능 일부가 미완성된 ‘반쪽짜리’ 초기 버전이라는 비판과 함께 MKBHD와의 3만달러 미만 인도 내기 일정을 맞추기 위한 무리한 출시라는 의혹이 제기되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Is Tesla rushing out a half-baked Cybercab just to shave MKBHD’s head?",
+          "url": "https://electrek.co/2026/11/15/tesla-cybercab-mkbhd-bet-musk-chicken/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "사상 최대 석유 공급 충격: EV·태양광 전환 가속 촉매로 부상",
+      "summary": "IEA ‘World Energy Outlook 2026’는 호르무즈 해협 위기로 인한 사상 최대 석유 공급 충격이 각국의 석유 의존도 감소 정책과 전기차·태양광 투자 확대를 자극해 에너지 전환 속도를 높일 수 있다고 분석한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "The world’s biggest oil shock could give EVs and solar a boost",
+          "url": "https://electrek.co/2026/11/18/the-worlds-biggest-oil-shock-could-give-evs-and-solar-a-boost/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "테슬라 사고 논란 속 라이다 재부상과 충전 인프라(Ionna) 전략",
+      "summary": "치명적 테슬라 사고가 오토파일럿·FSD 연관성 논란과 함께 잇따르며 자율주행 안전 규제와 책임 논의가 심화되고 있다. 이 과정에서 라이다 기반 센싱의 필요성이 다시 부각되고, Ionna 등 고속 충전 네트워크는 EV 보급을 뒷받침하는 인프라 해법으로 주목받고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla crashes make headlines, Lidar makes sense, IONNA makes it easy",
+          "url": "https://electrek.co/2026/11/18/tesla-crashes-make-headlines-lidar-makes-sense-ionna-makes-it-easy/"
+        }
+      ]
+    }
+  ]
+}

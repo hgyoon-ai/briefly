@@ -1,106 +1,129 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "highlights": {
     "bullets": [
-      "핵심: 엔비디아는 임시 CEO 체제에서 분기 매출 $115.8B를 보고했다.",
-      "핵심: SK하이닉스는 Supercomputing 2026에서 메모리 중심 AI 생태계 구축 기술 비전을 발표했다.",
-      "트렌드: AI 인프라 수요가 매출과 메모리 연구개발 우선순위를 공통으로 견인하고 있다."
+      "핵심: Palo Alto Networks가 약 45억 달러 규모로 AI 추론·모델 운영 플랫폼 회사를 인수했습니다.",
+      "핵심: 삼성전자가 반도체 경쟁력 강화를 위해 황상준 사장을 메모리사업부장 겸 사장으로 임명했습니다.",
+      "트렌드: 기업들이 AI 역량과 메모리 중심 기술·제품 로드맵을 강화하는 경향이 나타났습니다."
     ],
     "topTopics": [
-      "Demand",
-      "Investment",
+      "Competition",
       "Roadmap",
-      "Competition"
+      "Manufacturing",
+      "Investment"
     ],
     "stats": {
-      "collected": 6,
-      "deduped": 6
+      "collected": 15,
+      "deduped": 15
     }
   },
   "cards": [
     {
       "id": "semiconductor_0001",
       "tab": "semiconductor",
-      "publishedAt": "2026-11-19T19:26:18+09:00",
+      "publishedAt": "2026-11-21T00:37:26+09:00",
       "source": "EE Times",
-      "title": "Nvidia Reports $115.8B in Quarterly Revenue Under Interim CEO",
+      "title": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal",
       "summary": [
-        "엔비디아는 임시 CEO 체제에서 분기 매출 $115.8B를 보고했다.",
-        "강한 AI 인프라 수요가 매출과 이익을 견인했다.",
-        "리더십 교체 상황에서도 실적 호조가 이어졌다."
+        "Palo Alto Networks가 약 45억 달러 규모로 AI 스타트업을 인수했습니다.",
+        "인수 대상은 오픈 웨이트 AI 모델의 포스트트레이닝과 추론 플랫폼을 제공하는 기업입니다.",
+        "이번 거래로 Palo Alto는 보안 중심에서 엔터프라이즈 AI 솔루션 제공으로 사업 방향을 확장합니다."
       ],
-      "whyItMatters": "AI 인프라 수요가 실적을 지탱하는 가운데 임시 CEO 체제가 회사의 성장 궤도와 리스크를 재평가하게 만드는 중요 신호다.",
+      "whyItMatters": "보안업체가 AI 추론·모델 운영 역량을 확보함으로써 제품 로드맵과 시장 내 경쟁 구도가 크게 바뀔 가능성이 있기 때문입니다.",
       "topics": [
-        "Earnings",
-        "Demand",
-        "Investment"
+        "Investment",
+        "Competition",
+        "Roadmap"
       ],
       "status": "SHIFTING",
-      "hash": "2cfc069cc2ad494e1f2f37b0772a6a3b7c46621518d09c52be7583226d0e187e",
-      "url": "https://www.eetimes.com/nvidia-reports-115-8b-in-quarterly-revenue-under-interim-ceo/"
+      "hash": "8e1e74fe9cd786a1ba0976ca0329389531869b6651340be3e7e47755d9f1dd0c",
+      "url": "https://www.eetimes.com/palo-alto-networks-expands-into-enterprise-ai-with-4-5b-deal/"
     },
     {
       "id": "semiconductor_0002",
       "tab": "semiconductor",
-      "publishedAt": "2026-11-20T07:21:15+09:00",
+      "publishedAt": "2026-11-21T07:23:32+09:00",
       "source": "EE Times",
-      "title": "Memory R&D Is a High-Stakes Game",
+      "title": "Pat Gelsinger Goes Hunting for Europe’s Unbuilt Tech Companies",
       "summary": [
-        "AI 수요가 메모리 제조사들의 R&D 우선순위를 좌우하고 있다.",
-        "기업들은 차세대 노드 이후 기술 개발 비용과 위험을 파트너십으로 분담하고 있다.",
-        "높은 기술적·재무적 리스크로 인해 메모리 R&D가 경쟁력과 투자 결정의 핵심이 되고 있다."
+        "인텔의 패트 겔싱어와 Playground Global이 유럽 CEA 연구소에서 상용화되지 않은 기술을 발굴하고 있다.",
+        "발굴된 기술들은 새로운 시장을 창출할 잠재력이 있으나 상용화와 글로벌 자본 유입이 관건이다.",
+        "글로벌 자본의 유입은 유럽의 기술 주권과 규제·정책 방향에 난제를 제기하고 있다."
       ],
-      "whyItMatters": "AI 수요와 높은 개발 비용·위험이 산업의 경쟁 구도와 투자 흐름을 직접적으로 좌우하기 때문입니다.",
+      "whyItMatters": "유럽 내 혁신 발굴과 외국 자본의 영향이 맞물려 향후 산업 주도권과 규제·투자 흐름을 재편할 가능성이 있기 때문이다.",
       "topics": [
-        "Demand",
         "Investment",
-        "Roadmap",
+        "Policy",
         "Competition"
       ],
-      "status": "ONGOING",
-      "hash": "c2484ee13f720db84e3ec8a5b9b1c3a5744f4cf92d603901434d59e22ecbab06",
-      "url": "https://www.eetimes.com/memory-rd-is-a-high-stakes-game/"
+      "status": "SHIFTING",
+      "hash": "62803cc42693237258abed074abda72d37c52075876f48621cd7d949edb9c6d7",
+      "url": "https://www.eetimes.com/pat-gelsinger-goes-hunting-for-europes-unbuilt-tech-companies/"
     },
     {
       "id": "semiconductor_0003",
       "tab": "semiconductor",
-      "publishedAt": "2026-11-20T08:57:22+09:00",
-      "source": "SK hynix Newsroom",
-      "title": "“Building the Future AI Ecosystem Around Memory”: SK hynix Presents Its Technology Vision at Supercomputing 2026",
+      "publishedAt": "2026-11-20T18:01:00+09:00",
+      "source": "Samsung Newsroom",
+      "title": "Samsung Electronics Announces New Leadership",
       "summary": [
-        "SK하이닉스가 Supercomputing 2026에서 '메모리 중심 AI 생태계 구축' 기술 비전을 발표했다.",
-        "AI 데이터 증가에 대응해 메모리가 단순 저장을 넘어 데이터 처리 역할까지 확장되는 방향을 제시했다.",
-        "메모리·아키텍처 결합 및 신기술 개발로 AI 성능과 효율 개선을 목표로 한다."
+        "삼성전자가 반도체 경쟁력 강화를 위해 경영진 인사를 발표했다.",
+        "황상준 사장이 메모리사업부장 겸 사장으로 승진했다.",
+        "조상연 사장이 시스템 LSI 사업을 담당하는 사장으로 승진했다."
       ],
-      "whyItMatters": "메모리 중심 설계는 AI 성능·효율·비용에 직접적인 영향을 미쳐 반도체 산업과 AI 인프라 전반에 큰 파급력을 가지기 때문이다.",
+      "whyItMatters": "핵심 사업부를 이끌 인사 배치로 반도체 로드맵·투자 우선순위와 경쟁력에 직접적 영향을 미칠 가능성이 있기 때문이다.",
       "topics": [
         "Manufacturing",
         "Roadmap",
-        "Demand"
+        "Competition",
+        "Investment"
       ],
-      "status": "ONGOING",
-      "hash": "9a1bcd9b36e64e77ec5f3731b7fbdc1d3d7b92c598bca67340a5111375274f91",
-      "url": "https://news.skhynix.com/en/sc26-ai-hpc-exhibition/"
+      "status": "SHIFTING",
+      "hash": "c60289c9a21e1a4e7fd271d4fdeb263d6dc1fb89129ac89b89a6f6aa35dd24a6",
+      "url": "https://news.samsung.com/global/samsung-electronics-announces-new-leadership-5"
     },
     {
       "id": "semiconductor_0004",
       "tab": "semiconductor",
-      "publishedAt": "2026-11-19T17:00:00+09:00",
-      "source": "Samsung Newsroom",
-      "title": "Samsung TV Plus Brings 2026 MAMA AWARDS to K-pop Fans Around the World",
+      "publishedAt": "2026-11-20T16:38:41+09:00",
+      "source": "SK hynix Newsroom",
+      "title": "“Building the Future AI Ecosystem Around Memory”: SK hynix Presents Its Technology Vision at Super Computing 2026",
       "summary": [
-        "삼성 TV Plus가 CJ ENM과 협력해 2026 MAMA AWARDS를 전 세계에 생중계한다.",
-        "행사는 11월 20일과 21일 이틀간 진행되며 전체 프로그램을 방송한다.",
-        "이번 중계는 삼성 플랫폼의 콘텐츠 경쟁력 강화와 글로벌 K-팝 팬층 확대에 기여할 전망이다."
+        "SK hynix가 슈퍼컴퓨팅 2026에서 '메모리 중심 AI 생태계 구축' 기술 비전을 발표했다.",
+        "회사 역사와 HBM 개발 여정, 최신 제품 현황을 소개하며 기술·제품 로드맵을 공개했다.",
+        "메모리 기반 고대역폭 솔루션으로 AI 성능 강화 및 생태계 주도 의지를 강조했다."
       ],
-      "whyItMatters": "전략적 콘텐츠 파트너십을 통해 플랫폼 차별화와 글로벌 시청자 확보를 노리기 때문이다.",
+      "whyItMatters": "HBM을 포함한 메모리 기술은 AI 성능의 핵심 요소여서 SK hynix의 기술·제품 로드맵이 시장 경쟁력과 생태계 형성에 직접적인 영향을 미치기 때문이다.",
       "topics": [
+        "Manufacturing",
+        "Roadmap",
+        "Competition"
+      ],
+      "status": "ONGOING",
+      "hash": "ec33003edf384f465824591c3956e93f4e10743b63df0bf7ed206f0941a8e3fc",
+      "url": "https://news.skhynix.com/en/sc26-ai-hpc-exhibition-12/"
+    },
+    {
+      "id": "semiconductor_0005",
+      "tab": "semiconductor",
+      "publishedAt": "2026-11-20T16:37:19+09:00",
+      "source": "SK hynix Newsroom",
+      "title": "“Building the Future AI Ecosystem Around Memory”: SK hynix Presents Its Technology Vision at Super Computing 2026",
+      "summary": [
+        "SK하이닉스가 Super Computing 2026에서 '메모리 중심의 AI 생태계' 기술 비전을 발표했다.",
+        "주요 서버용 DRAM 제품과 AI 워크로드 최적화 기술을 강조하며 메모리의 역할을 부각시켰다.",
+        "데이터센터·AI 인프라 혁신을 통한 시장 주도 의지를 밝히며 향후 로드맵을 제시했다."
+      ],
+      "whyItMatters": "메모리 성능은 대규모 AI 처리와 데이터센터 효율성의 핵심이어서 SK하이닉스의 비전은 업계 구조와 경쟁 구도에 큰 영향을 미친다.",
+      "topics": [
+        "Manufacturing",
+        "Roadmap",
         "Competition",
         "Demand"
       ],
       "status": "ONGOING",
-      "hash": "7120e2fc239f839790770d334735fd1d20a26c98c11f1e4366154cbacc08e3db",
-      "url": "https://news.samsung.com/global/samsung-tv-plus-brings-2026-mama-awards-to-k-pop-fans-around-the-world"
+      "hash": "8cb9208a216c9ca20a195af38ad1d7b150216e7ca8e36de4d401bf442323e4b9",
+      "url": "https://news.skhynix.com/en/sc26-ai-hpc-exhibition-11/"
     }
   ]
 }

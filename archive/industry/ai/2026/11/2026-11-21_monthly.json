@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-10-23",
+    "to": "2026-11-21"
+  },
+  "kpis": {
+    "collected": 72,
+    "deduped": 72,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "Tooling": 26,
+      "Product": 21,
+      "Infra": 19,
+      "Models": 17,
+      "Research": 17,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/23-10/29)",
+      "topicCounts": {
+        "Tooling": 10,
+        "Product": 8,
+        "Infra": 6,
+        "Models": 6,
+        "Research": 4
+      }
+    },
+    {
+      "week": "Week 2 (10/30-11/05)",
+      "topicCounts": {
+        "Tooling": 3,
+        "Product": 2,
+        "Infra": 4,
+        "Models": 0,
+        "Research": 0
+      }
+    },
+    {
+      "week": "Week 3 (11/06-11/12)",
+      "topicCounts": {
+        "Tooling": 9,
+        "Product": 7,
+        "Infra": 8,
+        "Models": 7,
+        "Research": 4
+      }
+    },
+    {
+      "week": "Week 4 (11/13-11/19)",
+      "topicCounts": {
+        "Tooling": 14,
+        "Product": 13,
+        "Infra": 9,
+        "Models": 8,
+        "Research": 13
+      }
+    },
+    {
+      "week": "Week 5 (11/20-11/21)",
+      "topicCounts": {
+        "Tooling": 1,
+        "Product": 0,
+        "Infra": 0,
+        "Models": 1,
+        "Research": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "적대적 증류 대응을 위한 AI 안전·집행 전략 고도화",
+      "summary": "고급 모델을 불법적으로 모방·축소하는 적대적 증류를 막기 위해, 모델 학습 단계의 방어 설계, 사용 단계의 안전장치, 침해 시 탐지·집행 체계를 결합한 다층적인 AI 보호 전략이 제안되었다. 이는 모델 자산 보호뿐 아니라 안전 기준이 무단 우회되는 것을 막기 위한 정책·기술 패키지로, 향후 상용 모델 배포의 핵심 보안 과제로 부상하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "Combatting adversarial distillation",
+          "url": "https://openai.com/index/combatting-adversarial-distillation"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "강화학습 인퍼런스 병목 해소로 대규모 RL 실험 가속",
+      "summary": "NVIDIA Dynamo 기반 인퍼런스 최적화를 통해 강화학습 환경에서 워커의 rollout 생성 속도와 처리량을 높여 병목을 줄이는 기법이 소개되었다. 이는 동일한 하드웨어에서 더 많은 시뮬레이션과 빠른 정책 업데이트를 가능하게 해 RL 기반 에이전트 개발·튜닝 주기를 전반적으로 단축하는 방향으로 인프라 최적화가 진행 중임을 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Reducing Rollout Bottlenecks in Reinforcement Learning with NVIDIA Dynamo",
+          "url": "https://developer.nvidia.com/blog/reducing-rollout-bottlenecks-in-reinforcement-learning-with-nvidia-dynamo/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "실시간 과학 계측을 위한 GPU-네이티브 AI 파이프라인 부상",
+      "summary": "GPU-네이티브 데이터 수집과 저지연 고처리량 파이프라인을 결합해 실험 장비 센서 데이터를 실시간으로 처리하고, AI를 통해 폐쇄 루프 제어·실험 최적화를 수행하는 접근이 제시되었다. 이는 실시간 분석과 자동 의사결정을 요구하는 과학·산업 현장에 특화된 AI 인프라 수요가 커지고 있음을 반영한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Enabling Real-Time AI for Scientific Instruments with GPU-Native Data Acquisition",
+          "url": "https://developer.nvidia.com/blog/enabling-real-time-ai-for-scientific-instruments-with-gpu-native-data-acquisition/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "ChatGPT 성능 모니터링·자동 수정을 위한 운영 자동화 체계",
+      "summary": "OpenAI는 Codex 기반 워크플로를 활용해 성능 회귀를 자동 탐지하고 원인을 분석한 뒤, 패치를 제안·적용하는 'Performance Factory'를 구축했다. 이 CI/CD형 운영 자동화는 대규모 상용 LLM 서비스에서 응답 속도와 안정성을 유지하기 위한 필수 운영 도구로 자리잡고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+          "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "SHIFTING",
+      "title": "고도화된 AI가 사회 규범·제도에 미치는 구조적 영향 논의 확대",
+      "summary": "고급 AI가 정책 문안 작성, 의사결정 지원 등 보이지 않는 방식으로 제도 운영에 깊숙이 스며들면서, 사회적 규범과 기관 역할이 '침묵의 합의' 형태로 재구성될 수 있다는 분석이 제기되었다. 이에 따라 거버넌스 설계, 책임 소재, 인간 최종 통제권 보장을 둘러싼 전략·정책 논의가 더욱 정교해지는 흐름이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "The Silent Consensus",
+          "url": "https://openai.com/index/the-silent-consensus"
+        }
+      ]
+    }
+  ]
+}

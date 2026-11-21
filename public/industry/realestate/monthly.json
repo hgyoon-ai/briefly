@@ -1,16 +1,16 @@
 {
   "range": {
-    "from": "2026-10-22",
-    "to": "2026-11-20"
+    "from": "2026-10-23",
+    "to": "2026-11-21"
   },
   "kpis": {
-    "collected": 101,
-    "deduped": 101,
+    "collected": 106,
+    "deduped": 106,
     "uniqueTopics": 10,
     "marketShare": {
       "Market": 30,
       "Supply": 25,
-      "UrbanRenewal": 16,
+      "UrbanRenewal": 15,
       "Regulation": 15,
       "Policy": 15,
       "Other": 0
@@ -18,62 +18,109 @@
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/22-10/28)",
+      "week": "Week 1 (10/23-10/29)",
       "topicCounts": {
-        "Market": 14,
-        "Supply": 10,
-        "UrbanRenewal": 5,
-        "Regulation": 5,
-        "Policy": 5
-      }
-    },
-    {
-      "week": "Week 2 (10/29-11/04)",
-      "topicCounts": {
-        "Market": 12,
-        "Supply": 8,
-        "UrbanRenewal": 6,
-        "Regulation": 4,
-        "Policy": 5
-      }
-    },
-    {
-      "week": "Week 3 (11/05-11/11)",
-      "topicCounts": {
-        "Market": 19,
+        "Market": 16,
         "Supply": 15,
-        "UrbanRenewal": 7,
-        "Regulation": 7,
-        "Policy": 8
-      }
-    },
-    {
-      "week": "Week 4 (11/12-11/18)",
-      "topicCounts": {
-        "Market": 20,
-        "Supply": 13,
-        "UrbanRenewal": 11,
-        "Regulation": 12,
+        "UrbanRenewal": 8,
+        "Regulation": 5,
         "Policy": 9
       }
     },
     {
-      "week": "Week 5 (11/19-11/20)",
+      "week": "Week 2 (10/30-11/05)",
       "topicCounts": {
-        "Market": 2,
-        "Supply": 4,
+        "Market": 9,
+        "Supply": 3,
         "UrbanRenewal": 3,
         "Regulation": 4,
-        "Policy": 1
+        "Policy": 3
+      }
+    },
+    {
+      "week": "Week 3 (11/06-11/12)",
+      "topicCounts": {
+        "Market": 17,
+        "Supply": 13,
+        "UrbanRenewal": 7,
+        "Regulation": 6,
+        "Policy": 10
+      }
+    },
+    {
+      "week": "Week 4 (11/13-11/19)",
+      "topicCounts": {
+        "Market": 18,
+        "Supply": 14,
+        "UrbanRenewal": 11,
+        "Regulation": 12,
+        "Policy": 8
+      }
+    },
+    {
+      "week": "Week 5 (11/20-11/21)",
+      "topicCounts": {
+        "Market": 4,
+        "Supply": 4,
+        "UrbanRenewal": 0,
+        "Regulation": 2,
+        "Policy": 2
       }
     }
   ],
   "topIssues": [
     {
       "id": 1,
+      "status": "SHIFTING",
+      "title": "3기 신도시 공공·민간분양 가격 격차 축소와 민간 분양 경쟁력 부각",
+      "summary": "3기 신도시 공공분양 전용 84㎡ 분양가가 8억 원대 중반까지 올라오면서 공공과 민간 분양 간 가격 차이가 빠르게 줄고 있다. 계양신도시 첫 민간분양 단지인 ‘카이브 유보라’가 공공분양과 비슷한 수준에서 분양가를 책정할 경우, 브랜드·입지·상품성 측면에서 민간 분양의 경쟁력이 부각될 수 있다는 점이 시장 변수로 떠오르고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "공공분양도 8억 원대… 계양신도시 첫 민간분양 ‘카이브 유보라’ 가격 경쟁력 주목",
+          "url": "https://biz.heraldcorp.com/article/10944201"
+        }
+      ]
+    },
+    {
+      "id": 2,
       "status": "ONGOING",
-      "title": "재건축초과이익환수제 폐지·완화 입법 논의",
-      "summary": "재건축초과이익환수제(재초환)를 전면 폐지하거나 부담금을 대폭 경감하는 법안이 국회에 잇따라 발의되며 재건축 부담금 제도 손질이 본격 논의 단계에 들어갔다. 국토교통부는 국회 논의를 지켜보며 제도 존치·완화·대체 장치 등 다양한 시나리오를 검토하고 있어 향후 정비사업 사업성·추진 속도와 직결되는 중대 이슈로 부상했다.",
+      "title": "임대료 인상과 권리금 분쟁에 대한 법원 판결 강화",
+      "summary": "건물주가 월세를 과도하게 올려 세입자가 신규 임차인에게 권리금을 받지 못하게 한 경우, 건물주가 손해를 배상해야 한다는 법원 판결이 나왔다. 장기 임차 상인이 권리금 회수를 방해받았을 때 건물주의 책임 범위를 명확히 한 판례로, 향후 상가 임대차 계약에서 임대료 조정과 권리금 회수 조건을 둘러싼 분쟁 기준에 영향을 줄 것으로 보인다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "건물주가 월세 올려 세입자가 권리금 못 받을땐 … “배상해야”",
+          "url": "https://www.mk.co.kr/news/realestate/12214891"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "중산층까지 확대되는 공공임대·전세주택 정책 변화",
+      "summary": "정부가 공공임대 최저주거면적을 15년 만에 상향하고, 1인 가구 기준을 14㎡에서 최대 21㎡로 확대하는 방안을 추진 중이다. 동시에 중산층까지 공공임대 입주 자격을 넓히는 방안이 검토되고, HUG가 전세보증금 반환 문제로 회수한 주택을 매입해 주변 시세의 약 90% 이하 보증금으로 최장 8년간 공급하는 ‘든든전세주택’ 사업도 병행되면서, 취약계층 중심이던 공공·준공공 임대정책이 중산층까지 포괄하는 방향으로 재편되고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "더 넓은집 중산층도 받는다는 공공임대…재원은 어떻게?",
+          "url": "https://www.mk.co.kr/news/realestate/12214888"
+        },
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "“차질 없는 공급 확대” HUG, 든든전세주택 현장 점검",
+          "url": "https://biz.heraldcorp.com/article/10944206"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "재건축초과이익환수제(재초환) 폐지·완화 입법 논의 본격화",
+      "summary": "재건축초과이익환수제를 전면 폐지하거나 부담금을 크게 낮추는 법안들이 잇달아 국회에 제출되면서, 재건축 부담금 제도 손질 논의가 본격화되고 있다. 국토교통부는 국회 논의를 지켜보며 제도의 합리적 개편 방안을 모색하겠다고 밝혀, 재건축 추진 단지들의 사업성·추진 속도, 도심 공급 확대 전략에 중장기적인 영향을 줄 수 있는 이슈로 부상하고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -84,58 +131,16 @@
       ]
     },
     {
-      "id": 2,
-      "status": "ONGOING",
-      "title": "초고령 사회 진입 속 60대 이상 수도권 청약·내 집 마련 어려움",
-      "summary": "60세 이상 인구가 전체의 30%를 넘는 초고령 사회에 진입했지만, 수도권에서 60대 이상 가구의 약 70%가 이미 주택을 보유하고 있어 무주택 우대 청약 제도에서는 오히려 불리한 구조가 드러났다. 은퇴 후 소득 감소에도 주택 갈아타기나 노후 주거 안정 대안이 부족해, 고령층 맞춤형 공공주택·리모델링·연금형 매각 등 정책 보완 필요성이 커지고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "헤럴드경제(부동산)",
-          "title": "60세 이상 1500만명 넘었지만…수도권 청약 문턱 높은 시니어, 내 집 마련 대안은",
-          "url": "https://biz.heraldcorp.com/article/10943823"
-        }
-      ]
-    },
-    {
-      "id": 3,
+      "id": 5,
       "status": "SHIFTING",
-      "title": "초저가·무보증 월세 상품 확산 논란",
-      "summary": "보증금 없이 월세 1만원에 공급된 25평 신축 주택 사례가 알려지며 초저가 임대 상품의 실체와 위험성이 도마 위에 올랐다. 분양·임대 마케팅용 특가, 관리비·옵션비 등 숨은 비용, 단기 전환 조건 등 가능성이 제기되면서, 임차인 보호 장치와 정보 공개 강화 필요성이 부각되고 있다.",
+      "title": "극단적 저렴 임대 상품 등장과 임대 마케팅 경쟁",
+      "summary": "보증금 없이 월세 1만 원에 공급되는 25평 신축 주택 사례가 등장하면서, 표면적 임대료 뒤에 숨은 관리비·옵션 비용·계약 조건 등 ‘꼼수 마케팅’ 가능성이 제기되고 있다. 경기 침체와 공실 부담이 커지는 가운데, 임대인과 시행사들이 파격적인 조건을 내세워 세입자를 확보하려는 경쟁이 심화되는 동시에, 실질 부담과 계약 리스크를 꼼꼼히 따져야 한다는 경고도 커지고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "한국경제(부동산)",
           "title": "보증금도 안 받는다고?…월세 1만원 25평 새집의 정체",
           "url": "https://www.hankyung.com/article/2026111985347"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "status": "NEW",
-      "title": "고양시 미래타운 1호 ‘한신더휴 퍼스트원’과 대규모 재개발",
-      "summary": "고양시 덕양구 행신동 일대에 ‘미래타운’ 7개 블록, 총 1,743가구 규모의 재개발·정비사업이 추진되며 1호 사업으로 ‘한신더휴 퍼스트원’ 공급이 시작됐다. 서울 인접·광역교통 호재와 맞물려 노후 주거지 재정비 및 수도권 서북권 공급 기반 확충의 신호탄으로 평가된다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "매일경제(부동산)",
-          "title": "“고양시 미래타운 1호 사업”…한신공영, 행신동서 ‘한신더휴 퍼스트원’ 공급",
-          "url": "https://www.mk.co.kr/news/realestate/12213441"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "status": "ONGOING",
-      "title": "LH, 공공주택 공급 속도전 체제로 전환",
-      "summary": "LH가 공사 발주부터 착공까지 걸리는 기간을 평균 130일에서 63일로 절반 이상 단축하는 절차 개선을 도입했다. 발주·계약·착공 전 과정을 패스트트랙 방식으로 운영해 공공분양·임대주택 공급 시기를 앞당기려는 시도로, 공급 부족 우려가 큰 시기 주택시장 안정화에 미칠 영향이 주목된다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "매일경제(부동산)",
-          "title": "LH, 주택공급 속도전…공사 발주~착공 기간 130일→63일로 축소",
-          "url": "https://www.mk.co.kr/news/realestate/12213305"
         }
       ]
     }

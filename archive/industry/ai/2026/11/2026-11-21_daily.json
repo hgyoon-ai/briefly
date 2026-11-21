@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-21",
+  "highlights": {
+    "bullets": [
+      "핵심: 적대적 증류에 대응하기 위해 훈련·안전장치·탐지·집행을 결합한 다층 전략이 발표되었습니다."
+    ],
+    "topTopics": [
+      "Models",
+      "Safety",
+      "Training",
+      "Tooling"
+    ],
+    "stats": {
+      "collected": 1,
+      "deduped": 1
+    }
+  },
+  "cards": [
+    {
+      "id": "ai_0001",
+      "tab": "ai",
+      "publishedAt": "2026-11-20T19:00:00+09:00",
+      "source": "OpenAI Blog",
+      "title": "Combatting adversarial distillation",
+      "summary": [
+        "OpenAI는 적대적 증류(adversarial distillation)에 대응하기 위한 다층 전략을 발표했습니다.",
+        "해당 전략은 모델 훈련, 안전장치, 탐지 및 집행을 결합합니다.",
+        "목표는 기능 추출(capability extraction)로부터 모델과 지적 재산을 보호하는 것입니다."
+      ],
+      "whyItMatters": "이 접근법은 모델 오용과 능력 유출을 줄여 안전성과 신뢰성을 높이므로 중요합니다.",
+      "topics": [
+        "Models",
+        "Safety",
+        "Training",
+        "Tooling"
+      ],
+      "status": "ONGOING",
+      "hash": "7ad44f990f0c53ef2e2a537716dcd0f4d19ea5c4fbcd3c1cf3877b1b8eae8965",
+      "url": "https://openai.com/index/combatting-adversarial-distillation"
+    }
+  ]
+}

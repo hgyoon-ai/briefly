@@ -1,0 +1,130 @@
+{
+  "date": "2026-11-21",
+  "highlights": {
+    "bullets": [
+      "핵심: 정부가 소득·자산 심사 없이 19만 가구 규모 보편형 공공임대 입주를 검토하고 있다.",
+      "핵심: 3기 신도시 공공분양 전용 84㎡ 분양가가 8억 원대 중반까지 올랐다.",
+      "트렌드: 공공임대 확대와 분양가 변화 등 공공 주택 공급과 가격·임대 안정 논의가 이어지고 있다."
+    ],
+    "topTopics": [
+      "Market",
+      "Supply",
+      "Rental",
+      "Construction"
+    ],
+    "stats": {
+      "collected": 10,
+      "deduped": 10
+    }
+  },
+  "cards": [
+    {
+      "id": "realestate_0001",
+      "tab": "realestate",
+      "publishedAt": "2026-11-20T17:24:41+09:00",
+      "source": "한국경제(부동산)",
+      "title": "19만 가구 '보편형 공공임대', 소득·자산 안 따지고 입주 검토",
+      "summary": [
+        "정부가 19만 가구 규모의 '보편형 공공임대'를 소득·자산 심사 없이 입주 허용하는 방안을 검토하고 있다.",
+        "대상 확대는 공공임대 공급 구조와 재정 부담에 직접적인 영향을 미칠 전망이다.",
+        "주거 수요 재편과 민간 임대시장 및 임대료에 미치는 파급효과도 큰 사안이다."
+      ],
+      "whyItMatters": "보편적 주거제공으로 주거 안정성은 높아지지만 재정·정책체계 전환에 따른 광범위한 영향이 우려되어 정책 결정이 중요하다.",
+      "topics": [
+        "Policy",
+        "Rental",
+        "Supply",
+        "Market"
+      ],
+      "status": "NEW",
+      "hash": "d1ccf79465ffdfa663bd5e1ddf6734139dcd165ada24ccb0d59a5d398468defa",
+      "url": "https://www.hankyung.com/article/2026112006411"
+    },
+    {
+      "id": "realestate_0002",
+      "tab": "realestate",
+      "publishedAt": "2026-11-21T09:00:00+09:00",
+      "source": "헤럴드경제(부동산)",
+      "title": "공공분양도 8억 원대… 계양신도시 첫 민간분양 ‘카이브 유보라’ 가격 경쟁력 주목",
+      "summary": [
+        "3기 신도시 공공분양 전용 84㎡ 분양가가 8억 원대 중반까지 상승했다.",
+        "공공분양과 민간분양 간 가격 격차가 축소되며 민간 단지의 가격 경쟁력이 주목받고 있다.",
+        "분양가상한제 적용에도 택지비·건축비 등 사업 여건에 따라 분양가가 달라져 수요자 부담이 커지고 있다."
+      ],
+      "whyItMatters": "분양가 상승과 공공·민간 가격 격차 축소가 주택 수요자의 선택과 주택시장 수급에 즉각적 영향을 주기 때문입니다.",
+      "topics": [
+        "Market",
+        "Supply",
+        "Regulation",
+        "Land"
+      ],
+      "status": "SHIFTING",
+      "hash": "3cf90fee21381dcdac0b2a82ab01444a895942757f0ef604d8a23b8c794c7878",
+      "url": "https://biz.heraldcorp.com/article/10944201"
+    },
+    {
+      "id": "realestate_0003",
+      "tab": "realestate",
+      "publishedAt": "2026-11-20T17:51:07+09:00",
+      "source": "매일경제(부동산)",
+      "title": "더 넓은집 중산층도 받는다는 공공임대…재원은 어떻게?",
+      "summary": [
+        "정부가 공공임대 최저주거면적을 15년 만에 상향 추진하고 있다.",
+        "1인 가구 기준을 14㎡에서 최대 21㎡로 늘리고 중산층까지 입주자격 확대를 검토 중이다.",
+        "건설비 증가로 LH 재무부담이 커져 정부는 재정 투입으로 공급 축소를 막겠다고 밝혔다."
+      ],
+      "whyItMatters": "주거질 개선과 중산층 지원이라는 목적에도 불구하고 재정 부담과 공급·LH 재무건전성에 미치는 영향이 커서 중요하다.",
+      "topics": [
+        "Policy",
+        "Rental",
+        "Supply",
+        "Construction"
+      ],
+      "status": "ONGOING",
+      "hash": "fc1acde2caa03cac4d8052d32c3df38ac658ba7016c25a607c415ddf014da98a",
+      "url": "https://www.mk.co.kr/news/realestate/12214888"
+    },
+    {
+      "id": "realestate_0004",
+      "tab": "realestate",
+      "publishedAt": "2026-11-20T15:16:49+09:00",
+      "source": "헤럴드경제(부동산)",
+      "title": "“차질 없는 공급 확대” HUG, 든든전세주택 현장 점검",
+      "summary": [
+        "HUG 최종원 직무대행이 서울 강서구 든든전세주택 현장을 점검했다.",
+        "든든전세주택은 HUG가 전세보증금을 대신 갚은 주택을 매입해 무주택 서민에게 주변 시세 대비 약 90% 이하의 저렴한 보증금으로 최장 8년간 공급하는 사업이다.",
+        "수도권 전월세시장 안정을 위해 올해 말까지 전년 대비 2배 늘린 3600호로 공급을 확대할 계획이다."
+      ],
+      "whyItMatters": "공공이 주택을 매입해 임대하는 방식으로 전월세 시장을 안정시키고 청년·신혼부부 등 무주택 취약계층의 주거 안정을 신속히 지원하기 때문이다.",
+      "topics": [
+        "Supply",
+        "Rental",
+        "Market"
+      ],
+      "status": "ONGOING",
+      "hash": "e819a43e544f1128ba27f1287144db0571a27ef7d4533d2dffe31c8950925c1c",
+      "url": "https://biz.heraldcorp.com/article/10944206"
+    },
+    {
+      "id": "realestate_0005",
+      "tab": "realestate",
+      "publishedAt": "2026-11-21T07:00:00+09:00",
+      "source": "매일경제(부동산)",
+      "title": "건물주가 월세 올려 세입자가 권리금 못 받을땐 … “배상해야”",
+      "summary": [
+        "법원이 건물주가 월세를 올려 세입자가 권리금을 받지 못하게 한 경우 배상해야 한다고 판단했다.",
+        "부산에서 20년간 한자리를 지켜온 약국 임차인이 새 임차인에게 권리금을 받지 못하게 되면서 분쟁이 발생했다.",
+        "이번 판결은 상가임대차법에 따른 세입자 보호와 임대인의 배상 책임을 명확히 했다."
+      ],
+      "whyItMatters": "상가 임대차 시장에서 세입자 권리금 보호가 강화되어 관련 분쟁과 거래 관행에 실질적 영향을 주기 때문이다.",
+      "topics": [
+        "Regulation",
+        "Rental",
+        "Market"
+      ],
+      "status": "ONGOING",
+      "hash": "986714ecc3cf8198ba1a1469e741cb2161e58aea17a2cd183a6a7d0a4442c518",
+      "url": "https://www.mk.co.kr/news/realestate/12214891"
+    }
+  ]
+}

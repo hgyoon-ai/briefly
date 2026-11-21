@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-21",
+  "highlights": {
+    "bullets": [
+      "핵심: 외국인이 올해 한국 주식에서 누적 약 256조원을 순매도했고 10월에는 국채로 자금을 이동했다.",
+      "핵심: 엔비디아 호실적에도 AI 관련 기술주 매도세로 나스닥이 급락했다."
+    ],
+    "topTopics": [
+      "MarketInfra",
+      "Policy",
+      "Regulation",
+      "Compliance"
+    ],
+    "stats": {
+      "collected": 15,
+      "deduped": 15
+    }
+  },
+  "cards": [
+    {
+      "id": "finance_0001",
+      "tab": "finance",
+      "publishedAt": "2026-11-21T06:09:59+09:00",
+      "source": "매일경제(증권)",
+      "title": "“주식 어디가 바닥인데요?” 외국인은 이미 탈출…이건 7.4조 샀다는데",
+      "summary": [
+        "외국인이 올해 한국 주식시장에서 대규모 순매도해 누적 약 256조원을 팔아치웠다.",
+        "10월에는 한국 국채로 순투자 전환되며 유럽계가 주도해 안전자산으로 자금이동이 심화됐다.",
+        "일부 투자자가 7.4조원을 매수했으나 AI 회의론 등으로 주식 매도세와 시장 불안이 지속되고 있다."
+      ],
+      "whyItMatters": "대규모 외국인 자금이 주식에서 국채로 이동하면서 시장 변동성·유동성에 실질적 영향을 주어 정책·시장 인프라 대응이 필요하기 때문이다.",
+      "topics": [
+        "MarketInfra",
+        "Policy",
+        "Security"
+      ],
+      "status": "SHIFTING",
+      "hash": "38a7c78bc3f726844dc9126042d70a2bc57dfaf20acfea67842a2af241da5ab2",
+      "url": "https://www.mk.co.kr/news/stock/12215101"
+    },
+    {
+      "id": "finance_0002",
+      "tab": "finance",
+      "publishedAt": "2026-11-21T06:24:01+09:00",
+      "source": "매일경제(증권)",
+      "title": "엔비디아 호실적도 못 막았다…나스닥, 기술주 매도에 5.3% 폭락",
+      "summary": [
+        "미국 뉴욕증시 주요 지수가 20일(현지시간) 일제히 급락했다.",
+        "엔비디아의 호실적과 앤트로픽의 상장 흥행에도 AI 관련 기술주 중심으로 매도세가 이어졌다.",
+        "나스닥은 기술주 매도로 5.3% 폭락하며 투자심리가 크게 위축됐다."
+      ],
+      "whyItMatters": "AI 기술주에 대한 차익실현과 밸류에이션 재평가로 인한 매도세가 확산되며 시장 전반의 하락을 촉발했기 때문입니다.",
+      "topics": [
+        "MarketInfra",
+        "Policy"
+      ],
+      "status": "ONGOING",
+      "hash": "5c3f4f1a3b80d0174519f09a572f6966d0ad7b539c2cbed36ee7541d3612b61d",
+      "url": "https://www.mk.co.kr/news/stock/12215112"
+    }
+  ]
+}

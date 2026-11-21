@@ -1,0 +1,153 @@
+{
+  "range": {
+    "from": "2026-10-23",
+    "to": "2026-11-21"
+  },
+  "kpis": {
+    "collected": 46,
+    "deduped": 46,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "MarketInfra": 39,
+      "Policy": 24,
+      "Security": 14,
+      "Compliance": 12,
+      "Regulation": 12,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/23-10/29)",
+      "topicCounts": {
+        "MarketInfra": 10,
+        "Policy": 6,
+        "Security": 0,
+        "Compliance": 2,
+        "Regulation": 3
+      }
+    },
+    {
+      "week": "Week 2 (10/30-11/05)",
+      "topicCounts": {
+        "MarketInfra": 3,
+        "Policy": 2,
+        "Security": 1,
+        "Compliance": 1,
+        "Regulation": 2
+      }
+    },
+    {
+      "week": "Week 3 (11/06-11/12)",
+      "topicCounts": {
+        "MarketInfra": 7,
+        "Policy": 4,
+        "Security": 5,
+        "Compliance": 6,
+        "Regulation": 2
+      }
+    },
+    {
+      "week": "Week 4 (11/13-11/19)",
+      "topicCounts": {
+        "MarketInfra": 11,
+        "Policy": 6,
+        "Security": 5,
+        "Compliance": 1,
+        "Regulation": 1
+      }
+    },
+    {
+      "week": "Week 5 (11/20-11/21)",
+      "topicCounts": {
+        "MarketInfra": 2,
+        "Policy": 2,
+        "Security": 1,
+        "Compliance": 0,
+        "Regulation": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "엔비디아 쇼크와 AI 기술주 조정으로 나스닥 급락",
+      "summary": "엔비디아의 호실적과 주요 AI 기업 상장 흥행에도 불구하고 AI 관련 대형 기술주를 중심으로 차익 실현과 리스크 오프로 매도세가 집중되며 나스닥이 5% 이상 급락했다. 이는 AI 버블 논란, 고평가 부담, 금리·유동성 우려가 복합적으로 반영된 것으로, 글로벌 위험자산 선호 약화와 함께 향후 IT·성장주 전반의 밸류에이션 재조정 가능성을 키우는 신호로 해석된다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "엔비디아 호실적도 못 막았다…나스닥, 기술주 매도에 5.3% 폭락",
+          "url": "https://www.mk.co.kr/news/stock/12215112"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "“AI 꺾이면 132조원 증발”...한은이 던진 ‘최악 시나리오’",
+          "url": "https://www.mk.co.kr/news/stock/12186625"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "외국인 한국 주식 이탈과 국채 선호 심화",
+      "summary": "외국인 투자자는 올해 들어 한국 주식을 약 256조원 규모로 순매도하며 위험자산 노출을 줄이고 있다. 10월에는 한국 국채에 대해 순투자로 전환해 특히 유럽계 자금이 안전자산 선호를 주도하고 있으며, 이는 국내 증시 밸류에이션 할인 장기화, 정책 불확실성, 글로벌 금리·환율 여건 변화가 복합적으로 작용한 결과로, 증시 변동성 확대와 채권시장으로의 자금 재배치를 심화시키고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“주식 어디가 바닥인데요?” 외국인은 이미 탈출…이건 7.4조 샀다는데",
+          "url": "https://www.mk.co.kr/news/stock/12215101"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "금융시장 불공정거래 엄정 단속 기조 강화",
+      "summary": "이재명 대통령이 금융시장 불공정행위에 대한 강력한 단속을 지시하며 중대범죄수사청에 별도 지시를 내려 전담 수사 체계를 강화하고 있다. 시세조종, 미공개정보 이용, 허위공시 등 자본시장 범죄에 대한 제재 수위가 높아질 가능성이 커지면서, 증권·자산운용업계의 내부통제와 리스크 관리, 개인·기관투자자의 매매 행태에도 구조적 변화가 요구되는 국면이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[속보] 李대통령 “금융시장 불공정행위 엄정단속, 중수청에 별도 지시”",
+          "url": "https://www.mk.co.kr/news/economy/12207754"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "디지털자산기본법 가속으로 기관·법인 가상자산 시장 진입 확대",
+      "summary": "정부와 국회가 디지털자산기본법 제정에 속도를 내며 법인 및 기관투자자의 가상자산 시장 참여를 제도권 안으로 편입하려 하고 있다. 가상자산의 법적 정의, 투자자 보호, 거래소 규율, 수탁·상장 심사 기준 등이 정비되면 스테이블코인·토큰증권 등 디지털 자산 관련 금융상품과 인프라가 본격 확충되고, 전통 금융사와 핀테크의 진입이 늘면서 시장 규모와 제도권 자금 유입이 확대될 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한국, 디지털자산기본법 입법 가속…법인·기관투자자 시장 개방 본격화[엠블록레터]",
+          "url": "https://www.mk.co.kr/news/stock/12208192"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "금융·핀테크 인프라 노리는 사이버 공격과 개인정보 유출 확산",
+      "summary": "PHP에서 원격 코드 실행 등 치명적 취약점이 다수 발견되고, 증권사 업무에 활용되는 그룹웨어 ‘다우오피스’ 취약점을 통한 한양증권 고객 정보 유출 사례가 발생하는 등 금융·핀테크 인프라를 노린 해킹 리스크가 부각되고 있다. 웹 애플리케이션과 외부 솔루션 의존도가 높은 금융사들은 계정·주민번호 등 민감 정보 보호와 전사적 보안 거버넌스 강화가 시급해졌으며, 규제당국도 금융보안·개인정보 보호 규제 강화를 검토할 가능성이 크다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "PHP서 또 ‘치명적 취약점’ 무더기 발견…전세계 웹사이트 해킹 비상",
+          "url": "https://www.mk.co.kr/news/stock/12214368"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "한양증권서도 개인정보 유출…금투업권 해킹 비상",
+          "url": "https://www.mk.co.kr/news/stock/12194338"
+        }
+      ]
+    }
+  ]
+}

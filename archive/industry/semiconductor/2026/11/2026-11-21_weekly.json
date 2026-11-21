@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-11-15",
+    "to": "2026-11-21"
+  },
+  "kpis": {
+    "collected": 19,
+    "deduped": 19,
+    "uniqueTopics": 7
+  },
+  "topTopics": [
+    {
+      "name": "Competition",
+      "count": 17
+    },
+    {
+      "name": "Roadmap",
+      "count": 14
+    },
+    {
+      "name": "Manufacturing",
+      "count": 10
+    },
+    {
+      "name": "Demand",
+      "count": 8
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-15",
+      "dayOfWeek": "Sun",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Manufacturing",
+      "count": 2
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 4
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 3
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Manufacturing",
+      "count": 3
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Demand",
+      "count": 2
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 4
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 5
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Manufacturing",
+      "count": 4
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 3
+    },
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Demand",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "인텔·글로벌 VC의 유럽 반도체·딥테크 원천기술 발굴",
+      "summary": "인텔 CEO 패트 겔싱어와 플레이그라운드 글로벌이 유럽 CEA 연구소 등에서 상용화되지 않은 반도체·딥테크 기술을 발굴하고 있다. 유럽 내 설계 IP·소자·소재·공정 등 기초 기술을 스타트업으로 스핀오프해 글로벌 자본을 유치하려는 움직임으로, 미국·아시아 중심이던 반도체 기술·투자 지형이 유럽까지 확장되는 추세를 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Pat Gelsinger Goes Hunting for Europe’s Unbuilt Tech Companies",
+          "url": "https://www.eetimes.com/pat-gelsinger-goes-hunting-for-europes-unbuilt-tech-companies/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "삼성전자 반도체 조직개편과 메모리 리더십 강화",
+      "summary": "삼성전자가 메모리 사업 경쟁력 강화를 위해 황상준 사장을 메모리사업부장 겸 사장으로 승진시키는 등 경영진 인사를 단행했다. AI용 고대역폭 메모리와 차세대 공정 전환을 가속하기 위한 리더십 재정비로, TSMC·마이크론 등과의 초격차 경쟁 구도를 의식한 중장기 전략 변화로 해석된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung Electronics Announces New Leadership",
+          "url": "https://news.samsung.com/global/samsung-electronics-announces-new-leadership-5"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "AI 시대 메모리 R&D 동맹과 차세대 노드 투자 부담 확대",
+      "summary": "AI 서버 수요 폭증으로 HBM·DDR 등 메모리 수요가 급증하면서, 메모리 업체들은 차세대 노드를 넘어선 신소자·신구조 R&D에 막대한 비용을 투입하고 있다. 단일 기업이 감당하기 어려운 공정·장비·소재 개발 리스크를 줄이기 위해 파운드리·장비사와의 기술 파트너십, 공동투자, 정부 지원 프로그램 등을 통한 R&D 동맹이 확산되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Memory R&D Is a High-Stakes Game",
+          "url": "https://www.eetimes.com/memory-rd-is-a-high-stakes-game/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "SHIFTING",
+      "title": "엔비디아 경영 공백 속 AI 칩 수요 폭발과 실적 급증",
+      "summary": "엔비디아가 임시 CEO 체제에도 불구하고 분기 매출 1,158억 달러를 기록하며 기록적인 실적을 올렸다. 데이터센터·클라우드·엔터프라이즈 AI 인프라 수요가 GPU·가속기·네트워크 칩 판매를 견인하고 있으며, 경영 공백이 단기 실적에는 큰 영향을 미치지 않았지만 중장기 제품 로드맵과 경쟁사 대응 전략에는 변수가 될 수 있다는 평가가 나온다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Nvidia Reports $115.8B in Quarterly Revenue Under Interim CEO",
+          "url": "https://www.eetimes.com/nvidia-reports-115-8b-in-quarterly-revenue-under-interim-ceo/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "SHIFTING",
+      "title": "AI 칩·플랫폼을 둘러싼 기술 패권 경쟁과 수출 통제 논쟁",
+      "summary": "젠슨 황 이후의 엔비디아 체제에서도 AI 칩과 전체 기술 스택을 어디까지 개방·판매하고, 어디서부터는 안보·통제 이슈로 제한할 것인지가 핵심 쟁점으로 떠오르고 있다. 미국의 대중국 반도체 수출 규제, 동맹국 간 공급망 재편, 칩 설계·소프트웨어·클라우드까지 이어지는 수직 통합 구조 속에서, 기술이 일종의 ‘트로이 목마’로 작동할 수 있다는 경계가 강화되는 흐름이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Technology as a Trojan Horse",
+          "url": "https://www.eetimes.com/technology-as-a-trojan-horse/"
+        }
+      ]
+    }
+  ]
+}
