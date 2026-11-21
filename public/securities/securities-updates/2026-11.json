@@ -2,6 +2,52 @@
   "month": "2026-11",
   "events": [
     {
+      "id": "755a20eb35459b87b76b401ed2f38ead86e6004b",
+      "date": "2026-11-21",
+      "company": "키움증권",
+      "title": "키움증권 iOS 앱 업데이트 v1.6.23",
+      "oneLiner": "키움증권 iOS 앱 업데이트로 일부 기능 개선과 보안 안정성 강화를 적용한 배포로, 앱 보안·안정성 관련 변경으로 분류됩니다.",
+      "type": "시스템",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "app_store",
+      "sources": [
+        {
+          "source": "App Store",
+          "title": "키움증권 iOS 앱 업데이트 v1.6.23",
+          "url": "https://apps.apple.com/kr/app/%ED%82%A4%EC%9B%80%EC%A6%9D%EA%B6%8C-%EC%98%81%EC%9B%85%EB%AC%B8s-new/id1570370057?uo=4"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-21"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202611201456534811",
+      "date": "2026-11-21",
+      "company": "KB증권",
+      "title": "50대 투자자 \"주식 평가액 55억원…대주주 양도세 피하려면\"[세무 재테크 Q&A]",
+      "oneLiner": "KB증권이 세무 Q&A를 통해 대주주 기준(시가총액 50억원 등)과 양도소득세 관련 유의사항을 안내하며 투자자 대상 상담성 정보를 제공했습니다.",
+      "type": "기타",
+      "areas": [
+        "상담"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "50대 투자자 \"주식 평가액 55억원…대주주 양도세 피하려면\"[세무 재테크 Q&A]",
+          "url": "https://www.fnnews.com/news/202611201456534811"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-21"
+    },
+    {
       "id": "news:키움증권:https://www.fnnews.com/news/202611200736262660",
       "date": "2026-11-20",
       "company": "키움증권",
@@ -69,6 +115,52 @@
       "tags": [],
       "confidence": 0.82,
       "updatedAt": "2026-11-20"
+    },
+    {
+      "id": "news:하나증권:https://www.fnnews.com/news/202611201344281081",
+      "date": "2026-11-20",
+      "company": "하나증권",
+      "title": "한한령 풀리면 K엔터가 직접 수혜 볼까…\"中 한류 팬 1억 명, 세계 1위\"",
+      "oneLiner": "하나증권 연구원이 중국에서 한한령 완화 시 K엔터 관련사의 공연 재개로 평균 약 40% 수준의 이익 개선이 가능하다는 리서치 전망을 제시했습니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한한령 풀리면 K엔터가 직접 수혜 볼까…\"中 한류 팬 1억 명, 세계 1위\"",
+          "url": "https://www.fnnews.com/news/202611201344281081"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-11-21"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202611201615275346",
+      "date": "2026-11-20",
+      "company": "한국투자증권",
+      "title": "한투 '청년 창업가' 육성에 앞장선다…멘토링부터 판로 지원까지",
+      "oneLiner": "한국투자증권이 청년 창업가 지원 프로그램을 운영하며 자금 지원과 멘토링·판로 지원 등 실질적 지원 범위를 확대하는 사회공헌 프로그램을 발표했습니다.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투 '청년 창업가' 육성에 앞장선다…멘토링부터 판로 지원까지",
+          "url": "https://www.fnnews.com/news/202611201615275346"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-21"
     },
     {
       "id": "news:하나증권:https://www.mk.co.kr/news/stock/12213234",
@@ -298,7 +390,7 @@
       ],
       "tags": [],
       "confidence": 0.9,
-      "updatedAt": "2026-11-20"
+      "updatedAt": "2026-11-21"
     },
     {
       "id": "news:KB증권:https://www.mk.co.kr/news/stock/12212549",

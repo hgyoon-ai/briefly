@@ -27,6 +27,53 @@
       "updatedAt": "2026-11-20"
     },
     {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202611201213146909",
+      "date": "2026-11-20",
+      "company": "미래에셋증권",
+      "title": "미래에셋증권, AWS 기반 '금융상품 지식 AI 검색' 본격 운영",
+      "oneLiner": "미래에셋증권이 AWS 생성형 AI 기반 '금융상품 지식 AI 검색' 서비스를 본격 운영해 흩어진 금융정보를 통합 검색하고 출처와 기준일을 제시하는 기능을 제공한다.",
+      "type": "출시",
+      "areas": [
+        "상담",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "미래에셋증권, AWS 기반 '금융상품 지식 AI 검색' 본격 운영",
+          "url": "https://www.fnnews.com/news/202611201213146909"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-11-21"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202611201359323880",
+      "date": "2026-11-20",
+      "company": "한국투자증권",
+      "title": "AI 투자 초점 '인프라→수익화'…한투운용, 25일 라이브 세미나",
+      "oneLiner": "한국투자신탁운용이 AI 모델·플랫폼의 수익화 가능성을 주제로 온라인 라이브 세미나를 개최해 AI 투자 관점과 사례를 검토한다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "AI 투자 초점 '인프라→수익화'…한투운용, 25일 라이브 세미나",
+          "url": "https://www.fnnews.com/news/202611201359323880"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-21"
+    },
+    {
       "id": "news:KB증권:https://www.hankyung.com/article/2026111961996",
       "date": "2026-11-19",
       "company": "KB증권",
@@ -116,7 +163,7 @@
       ],
       "tags": [],
       "confidence": 0.75,
-      "updatedAt": "2026-11-20"
+      "updatedAt": "2026-11-21"
     },
     {
       "id": "news:KB증권:https://www.mk.co.kr/news/stock/12213551",
