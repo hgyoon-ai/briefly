@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "kpis": {
     "clusters": 20,
     "sources": 2,
@@ -7,190 +7,55 @@
   },
   "clusters": [
     {
-      "id": "b139091850d16c81deec69138bd2ee9061ebc241",
-      "name": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "id": "b704454c0d89e9cd9d6c81eb614879def5a98b9c",
+      "name": "Lean verification of the Riemann Hypothesis",
       "section": "discussions",
       "status": "NEW",
-      "score": 3397.8,
-      "oneLiner": "Levent Alpöge가 일반화된 리만 가설의 증명을 주장하는 PDF.",
-      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "2409p · 1627c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50574968"
-        },
-        {
-          "label": "Source",
-          "url": "https://alpo.ge/remark.pdf"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "6556d85e499dd49df9f398d2fbcbc90cbc4caf7e",
-      "name": "Hurried Announcement: Alessandro Masullo GRH",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 1884.6,
-      "oneLiner": "Alessandro Masullo의 일반화된 리만 가설 관련 성급한 발표글.",
-      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "1659p · 741c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50579568"
-        },
-        {
-          "label": "Source",
-          "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "c7771a5f67b259e70a49de2b79fa8003b92c119f",
-      "name": "I'll never buy Framework hardware again",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 1123.8,
-      "oneLiner": "작성자가 더는 Framework 하드웨어를 구매하지 않겠다고 밝힌 글.",
-      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "767p · 553c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50576855"
-        },
-        {
-          "label": "Source",
-          "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "69ccc1137aee5836aeb7f69840759d9ec2039d3e",
-      "name": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 772.2,
-      "oneLiner": "AI가 발견하고 설계하며 검증했다고 소개된 CPU 아키텍처 Frostbite.",
-      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "631p · 328c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50572503"
-        },
-        {
-          "label": "Source",
-          "url": "https://architectlabs.com/blog/frostbite"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "1073b9416e37dbc1fcdb4d037b208d371aaf8060",
-      "name": "If you can't explain something in simple terms, you don't understand it (2017)",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 737.4,
-      "oneLiner": "간단한 용어로 설명하지 못하면 이해하지 못한다는 주제를 다루는 글.",
-      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "633p · 298c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50572355"
-        },
-        {
-          "label": "Source",
-          "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "97a2e2a16199690cd9dbbbee2655c32475fbc1c6",
-      "name": "\"I can tell you wrote this yourself\"",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 724.2,
-      "oneLiner": "직접 작성했음을 알아차렸다는 표현을 주제로 한 글.",
-      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 블로그 해석과 후기가 빠르게 붙는 흐름입니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "409p · 399c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50571189"
-        },
-        {
-          "label": "Source",
-          "url": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "23023a78a6aa1a5484c1da04a85531ff7cf6b11d",
-      "name": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 684.6,
-      "oneLiner": "2019년에 Carnival Cruises가 유럽 차량보다 황산화물을 더 배출한다고 다룬 기사.",
+      "score": 1326.0,
+      "oneLiner": "Lean으로 리만 가설 검증 작업을 소개하는 커뮤니티 블로그 게시물.",
       "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "509p · 316c"
+          "value": "836p · 687c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50572116"
+          "url": "https://news.ycombinator.com/item?id=50589618"
         },
         {
           "label": "Source",
-          "url": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/"
+          "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "4b51c23b04311b68af77b55ad903957ae8f00693",
+      "name": "Detonating a pile of lead azide",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 730.8,
+      "oneLiner": "납아지드 더미의 폭발 실험을 다루는 과학 잡지 블로그 글.",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "524p · 347c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50588982"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really"
         }
       ],
       "tags": [
@@ -198,193 +63,101 @@
       ]
     },
     {
-      "id": "de1c2b663c98169cfa40c5cbaf7d19e4660d1b3a",
-      "name": "Restricting AI agents in mobile operating systems platforms from capturing data",
+      "id": "0489d6702252aea0e639921f0c59532c14ccceea",
+      "name": "My monitor was cutting my download speed by 75%",
       "section": "discussions",
       "status": "NEW",
-      "score": 682.2,
-      "oneLiner": "모바일 운영체제에서 AI 에이전트의 데이터 캡처를 제한하는 방안을 논의하는 글.",
-      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "521p · 308c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50572348"
-        },
-        {
-          "label": "Source",
-          "url": "https://signal.org/blog/protecting-your-privacy/"
-        }
-      ],
-      "tags": [
-        "agent tooling",
-        "infra"
-      ]
-    },
-    {
-      "id": "2408f0815514e1fa4c558bf1deded95dcd8ee045",
-      "name": "Inkling 2 Mini",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 588.0,
-      "oneLiner": "Inkling 2 Mini에 관한 발표나 제품 소식을 전하는 글.",
-      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "732p · 124c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50581260"
-        },
-        {
-          "label": "Source",
-          "url": "https://thinkingmachines.ai/news/inkling-2-mini/"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "d9fb814c704dce54a99b566f41f630a80abf4ef6",
-      "name": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 514.2,
-      "oneLiner": "Google이 제조사들에게 GrapheneOS와 부트로더 언락을 반대하도록 압박한다는 글.",
-      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "479p · 189c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50570479"
-        },
-        {
-          "label": "Source",
-          "url": "https://grapheneos.social/@GrapheneOS/117645038299496084"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "f90bf8996e733242c2359bd019d4ec3b878cb41d",
-      "name": "Why there are still no non-WebKit browsers on iOS",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 438.6,
-      "oneLiner": "iOS에서 비 WebKit 브라우저가 여전히 없는 이유를 설명하는 글.",
-      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 블로그 해석과 후기가 빠르게 붙는 흐름입니다.",
-      "evidence": [
-        {
-          "source": "Hacker News",
-          "metric": "signal",
-          "value": "333p · 199c"
-        }
-      ],
-      "links": [
-        {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50575644"
-        },
-        {
-          "label": "Source",
-          "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "id": "1babb96f988c2c1838ba8b7bebdfb0dbfd4a0777",
-      "name": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
-      "section": "discussions",
-      "status": "NEW",
-      "score": 389.4,
-      "oneLiner": "강제력이 없는 Navier‑Stokes 특이점과 일반화된 리만 가설을 논의하는 글.",
+      "score": 574.2,
+      "oneLiner": "모니터가 다운로드 속도를 75%까지 저하시키던 경험을 다룬 개인 기술 블로그 글.",
       "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "357p · 146c"
+          "value": "493p · 232c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50578358"
+          "url": "https://news.ycombinator.com/item?id=50587875"
         },
         {
           "label": "Source",
-          "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/"
+          "url": "https://blog.tymscar.com/posts/studiodisplayethernet/"
         }
       ],
       "tags": []
     },
     {
-      "id": "df6e43b73c3bc22c72f4e98e448f66ef8bcea6c1",
-      "name": "If you stop writing code, you also get worse at reviewing it",
+      "id": "cdc02763c267ecc39fdc191a752aed6e1113132b",
+      "name": "Jensen Huang's fall is bad news for Silicon Valley's accelerationists",
       "section": "discussions",
       "status": "NEW",
-      "score": 387.6,
-      "oneLiner": "코딩을 멈추면 코드 리뷰 능력도 저하된다고 주장하는 글.",
+      "score": 494.4,
+      "oneLiner": "젠슨 황의 몰락이 실리콘밸리 가속주의자들에게 악영향임을 다룬 이코노미스트 기사.",
       "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "326p · 160c"
+          "value": "154p · 335c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50573886"
+          "url": "https://news.ycombinator.com/item?id=50591835"
         },
         {
           "label": "Source",
-          "url": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/"
+          "url": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists"
         }
       ],
       "tags": []
     },
     {
-      "id": "46dbd0891e9102a204dc1f1c6ab7a2b4e872ce05",
-      "name": "Language Models Can Rewrite Their Own Weights",
+      "id": "e536fd25f2a72c84d0a0620acf78d99ff28721a4",
+      "name": "ShinMegamiBoson/lookatmyquant",
       "section": "trending",
       "status": "NEW",
-      "score": 344.4,
-      "oneLiner": "언어 모델이 스스로 가중치를 다시 쓸 수 있음을 다루는 연구 논문.",
-      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
+      "score": 339.4,
+      "oneLiner": "동일 파일 크기 조건에서 KL을 낮추는 양자화 컴파일러를 제시하는 GitHub 저장소.",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다.",
       "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "290"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "10"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-22"
+        },
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "348p · 113c"
+          "value": "360p · 93c"
         }
       ],
       "links": [
         {
-          "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50577265"
+          "label": "GitHub",
+          "url": "https://github.com/ShinMegamiBoson/lookatmyquant"
         },
         {
-          "label": "Source",
-          "url": "https://arxiv.org/abs/2611.21885"
+          "label": "Release",
+          "url": "https://github.com/ShinMegamiBoson/lookatmyquant/releases/tag/lm2-qwen35-4b-1.2gb"
+        },
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50591853"
         }
       ],
       "tags": []
@@ -394,29 +167,29 @@
       "name": "erkamyaman/rust-anything",
       "section": "releases",
       "status": "ONGOING",
-      "score": 299.76,
-      "oneLiner": "앱을 한 조각씩 Rust로 재작성하며 원래 동작과 비교 검사하는 프로젝트.",
-      "whyNow": "릴리즈 직후라 적용/마이그레이션 경험이 모이고 있습니다.",
+      "score": 329.84,
+      "oneLiner": "앱을 단계별로 Rust로 재작성하며 원래 동작을 기록으로 검증하는 도구 모음 저장소.",
+      "whyNow": "최근 릴리즈가 나오며 실사용 공유가 빠르게 늘고 있습니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "6,727"
+          "value": "7,450"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "534"
+          "value": "592"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-11-21"
+          "value": "2026-11-22"
         },
         {
           "source": "GitHub",
           "metric": "release",
-          "value": "v2.1.0"
+          "value": "v3.1.0"
         }
       ],
       "links": [
@@ -426,34 +199,34 @@
         },
         {
           "label": "Release",
-          "url": "https://github.com/erkamyaman/rust-anything/releases/tag/v2.1.0"
+          "url": "https://github.com/erkamyaman/rust-anything/releases/tag/v3.1.0"
         }
       ],
       "tags": []
     },
     {
-      "id": "6151bd355ca185ffaa9ef72e9f379a63a4ddfe28",
-      "name": "PostgreSQL 19",
-      "section": "trending",
+      "id": "0ac08eb732d6b2cc4959e9aad3ac91717271bdd2",
+      "name": "Astra 6.2 and Sol 6.2 flop at Simple Bench",
+      "section": "discussions",
       "status": "NEW",
-      "score": 261.6,
-      "oneLiner": "PostgreSQL 19 버전의 릴리스 정보를 안내하는 문서.",
-      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다.",
+      "score": 283.8,
+      "oneLiner": "Astra 6.2와 Sol 6.2의 Simple Bench 벤치마크 결과를 다루는 벤치마크 페이지.",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
           "source": "Hacker News",
           "metric": "signal",
-          "value": "380p · 28c"
+          "value": "163p · 155c"
         }
       ],
       "links": [
         {
           "label": "HN Thread",
-          "url": "https://news.ycombinator.com/item?id=50569890"
+          "url": "https://news.ycombinator.com/item?id=50588916"
         },
         {
           "label": "Source",
-          "url": "https://www.postgresql.org/docs/release/19.0/"
+          "url": "https://simple-bench.com/"
         }
       ],
       "tags": []
@@ -463,24 +236,24 @@
       "name": "krisgfx9/Wireless-Device-Battery-Monitor",
       "section": "releases",
       "status": "ONGOING",
-      "score": 243.2,
-      "oneLiner": "무선 마우스와 헤드셋 등 배터리 잔량을 작업표시줄에 보여주는 경량 앱.",
-      "whyNow": "최근 릴리즈가 나오며 실사용 공유가 빠르게 늘고 있습니다.",
+      "score": 262.82,
+      "oneLiner": "무선 입력기기의 배터리 잔량을 윈도우 작업표시줄에 표시하는 경량 트레이 앱 저장소.",
+      "whyNow": "릴리즈 직후라 적용/마이그레이션 경험이 모이고 있습니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "5,356"
+          "value": "5,825"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "448"
+          "value": "491"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-11-21"
+          "value": "2026-11-22"
         },
         {
           "source": "GitHub",
@@ -501,76 +274,229 @@
       "tags": []
     },
     {
-      "id": "8396bcad86de1e17117aa7c55d48b3d712f420f1",
-      "name": "gylive/google-ultra",
+      "id": "3130f3691cd6ffa1cff7f6c1b450e3adecb22024",
+      "name": "RCE in Gnupg",
       "section": "trending",
-      "status": "ONGOING",
-      "score": 102.82,
-      "oneLiner": "오픈 소스 개발 도구/프로젝트입니다.",
-      "whyNow": "개발 신호가 이어지면서 사용 사례가 늘고 있습니다.",
+      "status": "NEW",
+      "score": 252.6,
+      "oneLiner": "Gnupg 관련 원격 코드 실행 문제를 알리는 공지문.",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
       "evidence": [
         {
-          "source": "GitHub",
-          "metric": "stars",
-          "value": "2,539"
-        },
-        {
-          "source": "GitHub",
-          "metric": "forks",
-          "value": "63"
-        },
-        {
-          "source": "GitHub",
-          "metric": "updated",
-          "value": "2026-11-21"
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "233p · 94c"
         }
       ],
       "links": [
         {
-          "label": "GitHub",
-          "url": "https://github.com/gylive/google-ultra"
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50587208"
+        },
+        {
+          "label": "Source",
+          "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html"
         }
       ],
       "tags": []
     },
     {
-      "id": "d79ba0597a0e6d01a01ca4427cb92af2a8af34bf",
-      "name": "CzzzzzzJ/mdldm-maitian",
-      "section": "releases",
-      "status": "ONGOING",
-      "score": 99.14,
-      "oneLiner": "자체 미디어 다중 플랫폼 게시 제어와 데이터 모니터링을 제공하는 도구.",
-      "whyNow": "최근 릴리즈가 나오며 실사용 공유가 빠르게 늘고 있습니다.",
+      "id": "4f6597fe9c528eddc90904b5e12215e2d5628f20",
+      "name": "ItsNotRexed/Leonida",
+      "section": "trending",
+      "status": "NEW",
+      "score": 246.9,
+      "oneLiner": "Xbox 버전 GTA 6을 PC용으로 네이티브 재컴파일한 프로젝트 GitHub 저장소.",
+      "whyNow": "개발 신호가 이어지면서 사용 사례가 늘고 있습니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "1,726"
+          "value": "5,958"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "505"
+          "value": "429"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-11-21"
-        },
-        {
-          "source": "GitHub",
-          "metric": "release",
-          "value": "media"
+          "value": "2026-11-22"
         }
       ],
       "links": [
         {
           "label": "GitHub",
-          "url": "https://github.com/CzzzzzzJ/mdldm-maitian"
+          "url": "https://github.com/ItsNotRexed/Leonida"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "dc5b1573a9f01a6db986bdfea53f305a9f39c5d7",
+      "name": "Backblaze Notice at Collection and Privacy Policy",
+      "section": "trending",
+      "status": "NEW",
+      "score": 243.0,
+      "oneLiner": "Backblaze의 데이터 수집 고지와 개인정보 처리방침을 담은 공식 웹페이지.",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "233p · 86c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50585593"
         },
         {
-          "label": "Release",
-          "url": "https://github.com/CzzzzzzJ/mdldm-maitian/releases/tag/media"
+          "label": "Source",
+          "url": "https://www.backblaze.com/company/policy/privacy"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "87866abe463ae50b20f799214a09816641dde516",
+      "name": "Clojure will affect the way you think about programming (2017)",
+      "section": "trending",
+      "status": "NEW",
+      "score": 220.8,
+      "oneLiner": "Clojure가 프로그래밍 사고에 미치는 영향을 논한 2017년 기술 블로그 글.",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "190p · 89c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50585376"
+        },
+        {
+          "label": "Source",
+          "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "d23f74a3b26e92440e2326922bd949e7faaef44b",
+      "name": "FBI reportedly investigating apparent hack of its criminal database",
+      "section": "trending",
+      "status": "NEW",
+      "score": 202.8,
+      "oneLiner": "FBI가 범죄자 데이터베이스 해킹 정황을 조사하고 있다고 보도한 뉴스 기사.",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "170p · 84c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50587859"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.bbc.com/news/articles/cvze7de86pk3o"
+        }
+      ],
+      "tags": [
+        "data"
+      ]
+    },
+    {
+      "id": "c604a2c8ff1187d2e921db5dd2bd7e170ea24347",
+      "name": "Show HN: Zero C# – C# without a runtime or GC",
+      "section": "trending",
+      "status": "NEW",
+      "score": 195.0,
+      "oneLiner": "런타임과 가비지 컬렉터 없이 C#을 구현하는 프로젝트를 소개하는 페이지.",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "129p · 98c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50590279"
+        },
+        {
+          "label": "Source",
+          "url": "https://onurgumus.github.io/zero-csharp/index.html"
+        }
+      ],
+      "tags": [
+        "runtime"
+      ]
+    },
+    {
+      "id": "7b6289c85018870ccd17a1ccc6c75be29410ede3",
+      "name": "ClawDOS – An AI coding agent for DOS",
+      "section": "trending",
+      "status": "NEW",
+      "score": 156.6,
+      "oneLiner": "DOS 환경에서 동작하는 AI 코딩 에이전트를 소개하는 프로젝트 페이지.",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "159p · 51c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50586292"
+        },
+        {
+          "label": "Source",
+          "url": "http://ricapar.net/ClawDOS/"
+        }
+      ],
+      "tags": [
+        "agent tooling"
+      ]
+    },
+    {
+      "id": "48cdd06ce06657b245c20cbefadbfd969b05a863",
+      "name": "Surprisingly Adorable Insect Portraits",
+      "section": "trending",
+      "status": "NEW",
+      "score": 130.8,
+      "oneLiner": "놀랍도록 사랑스러운 곤충 초상 사진을 소개하는 사진 기사.",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "150p · 34c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50586648"
+        },
+        {
+          "label": "Source",
+          "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/"
         }
       ],
       "tags": []
@@ -579,25 +505,25 @@
       "id": "48881cd4abe79b7140e1831f9546209fecac9d18",
       "name": "bookwjitchieni1986/blender-ai-mcp-addon",
       "section": "releases",
-      "status": "NEW",
-      "score": 92.54,
-      "oneLiner": "Blender용 AI 어시스턴트와 MCP 서버로 시각 대화 및 장면 도구를 지원하는 애드온.",
-      "whyNow": "업데이트가 트리거가 되어 레퍼런스가 모이는 구간입니다. 에이전트 활용 흐름과 맞물려 주목이 커지고 있습니다.",
+      "status": "ONGOING",
+      "score": 119.4,
+      "oneLiner": "Blender용 AI 어시스턴트와 MCP 서버로 다수 모델과 연동되는 GitHub 애드온.",
+      "whyNow": "최근 릴리즈가 나오며 실사용 공유가 빠르게 늘고 있습니다.",
       "evidence": [
         {
           "source": "GitHub",
           "metric": "stars",
-          "value": "1,805"
+          "value": "2,468"
         },
         {
           "source": "GitHub",
           "metric": "forks",
-          "value": "17"
+          "value": "34"
         },
         {
           "source": "GitHub",
           "metric": "updated",
-          "value": "2026-11-21"
+          "value": "2026-11-22"
         },
         {
           "source": "GitHub",
@@ -619,6 +545,99 @@
         "agent tooling",
         "codegen"
       ]
+    },
+    {
+      "id": "8396bcad86de1e17117aa7c55d48b3d712f420f1",
+      "name": "gylive/google-ultra",
+      "section": "trending",
+      "status": "ONGOING",
+      "score": 105.62,
+      "oneLiner": "오픈 소스 개발 도구/프로젝트입니다.",
+      "whyNow": "업데이트가 유지되며 관심이 꾸준히 쌓이는 흐름입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,601"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "79"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-22"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/gylive/google-ultra"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "469b8a27e6e9d1655211f1eec90b229f8a2f09ec",
+      "name": "Verification files for the Lean proof of the Riemann Hypothesis",
+      "section": "trending",
+      "status": "NEW",
+      "score": 102.0,
+      "oneLiner": "리만 가설에 대한 Lean 증명의 검증 파일을 제공하는 저장소 페이지.",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "96p · 37c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50590441"
+        },
+        {
+          "label": "Source",
+          "url": "https://math.mit.edu/~drew/grh/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "9dab37f603aac95ead6164cc174acf94d286a3d8",
+      "name": "Hut-hzf/ung220z-tool",
+      "section": "trending",
+      "status": "NEW",
+      "score": 98.9,
+      "oneLiner": "UNG220Z 광모뎀에서 관리자 자격증명을 추출해 개인 기기에서 복구용으로 쓰도록 한 도구.",
+      "whyNow": "커밋/업데이트가 이어져 당분간 추이를 보기에 좋습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,220"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "505"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-22"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/Hut-hzf/ung220z-tool"
+        }
+      ],
+      "tags": []
     }
   ]
 }
