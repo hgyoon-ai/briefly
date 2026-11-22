@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-11-15",
-    "to": "2026-11-21"
+    "from": "2026-11-16",
+    "to": "2026-11-22"
   },
   "kpis": {
     "collected": 12,
@@ -18,61 +18,37 @@
       "count": 8
     },
     {
-      "name": "Policy",
+      "name": "Investment",
       "count": 7
     },
     {
-      "name": "Investment",
+      "name": "Policy",
       "count": 7
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-11-15",
-      "dayOfWeek": "Sun",
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
       "topic": "Roadmap",
-      "count": 1
-    },
-    {
-      "date": "2026-11-15",
-      "dayOfWeek": "Sun",
-      "topic": "Competition",
-      "count": 1
-    },
-    {
-      "date": "2026-11-15",
-      "dayOfWeek": "Sun",
-      "topic": "Policy",
       "count": 0
     },
     {
-      "date": "2026-11-15",
-      "dayOfWeek": "Sun",
-      "topic": "Investment",
-      "count": 1
-    },
-    {
-      "date": "2026-11-16",
-      "dayOfWeek": "Mon",
-      "topic": "Roadmap",
-      "count": 1
-    },
-    {
       "date": "2026-11-16",
       "dayOfWeek": "Mon",
       "topic": "Competition",
-      "count": 1
-    },
-    {
-      "date": "2026-11-16",
-      "dayOfWeek": "Mon",
-      "topic": "Policy",
       "count": 0
     },
     {
       "date": "2026-11-16",
       "dayOfWeek": "Mon",
       "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
       "count": 0
     },
     {
@@ -90,14 +66,14 @@
     {
       "date": "2026-11-17",
       "dayOfWeek": "Tue",
-      "topic": "Policy",
-      "count": 2
+      "topic": "Investment",
+      "count": 1
     },
     {
       "date": "2026-11-17",
       "dayOfWeek": "Tue",
-      "topic": "Investment",
-      "count": 1
+      "topic": "Policy",
+      "count": 2
     },
     {
       "date": "2026-11-18",
@@ -114,13 +90,13 @@
     {
       "date": "2026-11-18",
       "dayOfWeek": "Wed",
-      "topic": "Policy",
+      "topic": "Investment",
       "count": 2
     },
     {
       "date": "2026-11-18",
       "dayOfWeek": "Wed",
-      "topic": "Investment",
+      "topic": "Policy",
       "count": 2
     },
     {
@@ -138,16 +114,16 @@
     {
       "date": "2026-11-19",
       "dayOfWeek": "Thu",
-      "topic": "Policy",
-      "count": 2
-    },
-    {
-      "date": "2026-11-19",
-      "dayOfWeek": "Thu",
       "topic": "Investment",
       "count": 3
     },
     {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
       "date": "2026-11-20",
       "dayOfWeek": "Fri",
       "topic": "Roadmap",
@@ -162,13 +138,13 @@
     {
       "date": "2026-11-20",
       "dayOfWeek": "Fri",
-      "topic": "Policy",
+      "topic": "Investment",
       "count": 0
     },
     {
       "date": "2026-11-20",
       "dayOfWeek": "Fri",
-      "topic": "Investment",
+      "topic": "Policy",
       "count": 0
     },
     {
@@ -186,13 +162,37 @@
     {
       "date": "2026-11-21",
       "dayOfWeek": "Sat",
-      "topic": "Policy",
-      "count": 1
+      "topic": "Investment",
+      "count": 0
     },
     {
       "date": "2026-11-21",
       "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
       "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
       "count": 0
     }
   ],
@@ -200,10 +200,15 @@
     {
       "id": 1,
       "status": "NEW",
-      "title": "유럽 초저가 전기차 경쟁 격화: 르노·기아의 2만달러대 EV 진입",
-      "summary": "르노가 2만달러 미만 Twingo E-Tech를 출시하고, 기아가 2027년 2.2만~2.4만달러급 EV를 예고하며, BYD 등과 함께 유럽·글로벌 전기차 시장의 초저가 가격대 경쟁이 본격화되고 있다.",
-      "articleCount": 2,
+      "title": "中·유럽·중동까지 확산되는 글로벌 EV 가격·점유율 전쟁",
+      "summary": "샤오미의 UAE 첫 전기차 수출, 르노의 2만 달러 미만 Twingo E-Tech, 기아의 2.5만 달러 이하 초저가 EV 계획이 겹치며 중국·유럽·한국 완성차 간 글로벌 보급형 EV 경쟁이 본격화되고 있다. 특히 유럽 시장에서 BYD 등 중국산 저가 EV와 르노·기아의 반격이 맞붙으면서 마진 압박과 가격 인하 경쟁이 심화될 전망이다.",
+      "articleCount": 3,
       "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Red wave: Xiaomi goes global with first overseas EV sales",
+          "url": "https://electrek.co/2026/11/21/red-wave-xiaomi-goes-global-with-first-overseas-ev-sales/"
+        },
         {
           "source": "Electrek",
           "title": "Renault undercuts BYD with a new EV that costs less than $20,000",
@@ -219,10 +224,15 @@
     {
       "id": 2,
       "status": "NEW",
-      "title": "테슬라 FSD, 이탈리아 승인으로 EU 대형 시장 첫 진입",
-      "summary": "이탈리아가 테슬라 FSD Supervised(Assisted Driving)를 조건부 승인하면서, 테슬라 자율주행 소프트웨어가 EU 주요 대형 시장에 처음 진입했다. 이는 유럽 내 규제 협의와 경쟁사 ADAS·자율주행 전략에 영향을 줄 수 있다.",
-      "articleCount": 1,
+      "title": "테슬라 FSD v15 출시와 이탈리아 승인으로 가속되는 자율주행 규제·기술 경쟁",
+      "summary": "테슬라는 표지판·포트홀·스쿨존 대응을 강화한 FSD v15를 배포하며 안전성 향상과 실시간 시각화 기능을 내세우는 한편, 이탈리아에서 ‘Assisted Driving(FSD Supervised)’ 조건부 승인을 획득해 EU 주요국 중 첫 상용화 사례를 만들었다. 이는 유럽 내 자율주행 규제 기준 형성과 경쟁사 ADAS·자율주행 서비스 전략에 직접적인 압박을 주는 이슈로 부상하고 있다.",
+      "articleCount": 2,
       "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla launches FSD v15, targets its biggest weaknesses, from signs to potholes",
+          "url": "https://electrek.co/2026/11/21/tesla-fsd-v15-rollout-25x-safety-reality-view/"
+        },
         {
           "source": "Electrek",
           "title": "Tesla FSD approved in Italy, the first big EU market to say yes",
@@ -232,43 +242,34 @@
     },
     {
       "id": 3,
-      "status": "SHIFTING",
-      "title": "테슬라 사이버캡 조기 출시 논란: 불완성 기능 vs 가격·일정 승부수",
-      "summary": "테슬라가 2만9,990달러 사이버캡의 초청 기반 주문을 열고 2026년 12월 인도를 예고했으나, 기능 일부가 미완성된 ‘반쪽짜리’ 초기 버전이라는 비판과 함께 MKBHD와의 3만달러 미만 인도 내기 일정을 맞추기 위한 무리한 출시라는 의혹이 제기되고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "Is Tesla rushing out a half-baked Cybercab just to shave MKBHD’s head?",
-          "url": "https://electrek.co/2026/11/15/tesla-cybercab-mkbhd-bet-musk-chicken/"
-        }
-      ]
-    },
-    {
-      "id": 4,
       "status": "ONGOING",
-      "title": "사상 최대 석유 공급 충격: EV·태양광 전환 가속 촉매로 부상",
-      "summary": "IEA ‘World Energy Outlook 2026’는 호르무즈 해협 위기로 인한 사상 최대 석유 공급 충격이 각국의 석유 의존도 감소 정책과 전기차·태양광 투자 확대를 자극해 에너지 전환 속도를 높일 수 있다고 분석한다.",
-      "articleCount": 1,
+      "title": "석유 공급 충격과 반복되는 테슬라 사고가 촉발하는 EV·자율주행 전환 압력",
+      "summary": "IEA ‘World Energy Outlook 2026’가 지적한 사상 최대 석유 공급 충격은 각국의 석유 의존 교통체계 축소와 EV·태양광 투자 확대 명분을 강화하고 있다. 동시에 치명적 테슬라 사고가 이어지며 오토파일럿·FSD 안전성 논쟁과 라이다 채택 필요성이 커지고 있어, 에너지 안보와 교통 안전 이슈가 결합된 구조적 전환 압력이 지속되는 중이다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
           "source": "Electrek",
           "title": "The world’s biggest oil shock could give EVs and solar a boost",
           "url": "https://electrek.co/2026/11/18/the-worlds-biggest-oil-shock-could-give-evs-and-solar-a-boost/"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "status": "ONGOING",
-      "title": "테슬라 사고 논란 속 라이다 재부상과 충전 인프라(Ionna) 전략",
-      "summary": "치명적 테슬라 사고가 오토파일럿·FSD 연관성 논란과 함께 잇따르며 자율주행 안전 규제와 책임 논의가 심화되고 있다. 이 과정에서 라이다 기반 센싱의 필요성이 다시 부각되고, Ionna 등 고속 충전 네트워크는 EV 보급을 뒷받침하는 인프라 해법으로 주목받고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
+        },
         {
           "source": "Electrek",
           "title": "Tesla crashes make headlines, Lidar makes sense, IONNA makes it easy",
           "url": "https://electrek.co/2026/11/18/tesla-crashes-make-headlines-lidar-makes-sense-ionna-makes-it-easy/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "아이슬란드 첫 상업용 풍력단지: 수력과 결합한 저탄소 전력 포트폴리오 실험",
+      "summary": "아이슬란드가 첫 상업용 규모 풍력 발전단지를 도입해 풍력 발전량이 많을 때 수력 저수지의 물을 아껴 겨울철에 활용하는 하이브리드 운영 모델을 시도하고 있다. 이는 재생에너지 간 보완 구조를 통해 전력 안정성과 효율을 높이는 사례로, EV 보급 확대에 필요한 저탄소·저비용 전력 기반 확충 측면에서 참고할 만한 정책·투자 방향을 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Iceland’s first wind farm comes with a water-saving bonus",
+          "url": "https://electrek.co/2026/11/17/iceland-first-wind-farm-gives-its-hydropower-a-winter-boost/"
         }
       ]
     }

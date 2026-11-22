@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-11-16",
+    "to": "2026-11-22"
+  },
+  "kpis": {
+    "collected": 18,
+    "deduped": 18,
+    "uniqueTopics": 7
+  },
+  "topTopics": [
+    {
+      "name": "Competition",
+      "count": 16
+    },
+    {
+      "name": "Roadmap",
+      "count": 13
+    },
+    {
+      "name": "Manufacturing",
+      "count": 10
+    },
+    {
+      "name": "Investment",
+      "count": 7
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-11-16",
+      "dayOfWeek": "Mon",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Manufacturing",
+      "count": 2
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 4
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 3
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Manufacturing",
+      "count": 3
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 4
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 5
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Manufacturing",
+      "count": 4
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "유럽 반도체·딥테크 상용화 생태계 구축 시동",
+      "summary": "인텔의 패트 겔싱어와 Playground Global이 프랑스 CEA 등 유럽 연구소의 미상용 반도체·딥테크 기술을 발굴해 스타트업으로 전환하려는 움직임이 가속화되고 있다. 기술은 풍부하지만 상용화 경험과 글로벌 자본 유입이 부족한 유럽에 대해, 미국 빅테크와 VC의 공동 접근이 본격화되며 유럽 내 팹리스·IP·첨단 공정 생태계 재편 가능성이 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Pat Gelsinger Goes Hunting for Europe’s Unbuilt Tech Companies",
+          "url": "https://www.eetimes.com/pat-gelsinger-goes-hunting-for-europes-unbuilt-tech-companies/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "삼성전자 반도체 리더십 재편으로 메모리 경쟁력 강화",
+      "summary": "삼성전자가 메모리사업부장에 황상준 사장을 선임하는 등 반도체 조직 리더십을 재편했다. HBM과 차세대 D램·낸드 경쟁이 심화되는 가운데, AI 서버 및 데이터센터 수요에 대응하기 위해 R&D와 투자, 제품 포트폴리오 전략을 신속히 조정하려는 포석으로 해석된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung Electronics Announces New Leadership",
+          "url": "https://news.samsung.com/global/samsung-electronics-announces-new-leadership-5"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "AI 특수 속 메모리 R&D·공동개발 리스크 분산 전략 확산",
+      "summary": "AI 워크로드 확산으로 HBM, 고대역폭 D램, CXL 메모리 등 고부가 제품의 중요성이 커지면서 메모리 업체들이 R&D 우선순위를 AI 중심으로 재조정하고 있다. 공정 난이도와 캡엑스 부담이 커지자 파트너십·조인트벤처 등을 통해 차세대 노드 이후 기술 개발의 비용과 리스크를 분담하는 구조가 일반화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Memory R&D Is a High-Stakes Game",
+          "url": "https://www.eetimes.com/memory-rd-is-a-high-stakes-game/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "SHIFTING",
+      "title": "엔비디아 임시 CEO 체제에서도 AI 인프라 칩 수요 폭발",
+      "summary": "엔비디아가 임시 CEO 체제에서도 분기 매출 1,158억 달러를 기록하며 데이터센터·AI 인프라용 GPU 수요 강세를 재확인했다. AI 가속기와 관련 네트워킹·플랫폼 매출이 실적을 견인하며, HBM·첨단 패키징·파운드리 용량 등 반도체 공급망 전반의 장기 증설 압력을 더욱 키우고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Nvidia Reports $115.8B in Quarterly Revenue Under Interim CEO",
+          "url": "https://www.eetimes.com/nvidia-reports-115-8b-in-quarterly-revenue-under-interim-ceo/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "삼성 One UI 9.5 베타로 단말 AI·센서 활용 기능 강화",
+      "summary": "삼성이 One UI 9.5 베타 프로그램을 시작하며 카메라·헬스케어·보안·접근성 기능을 대폭 개선했다. 온디바이스 AI 연산과 이미지 신호 처리, 센서 융합 기능 고도화는 AP·이미지센서·보안 칩 등 시스템 반도체 설계 방향과 최적화 요구를 더욱 세분화하는 요인으로 작용하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung Begins One UI 9.5 Beta Program",
+          "url": "https://news.samsung.com/global/samsung-begins-one-ui-9-5-beta-program"
+        }
+      ]
+    }
+  ]
+}

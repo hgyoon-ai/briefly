@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-10-23",
-    "to": "2026-11-21"
+    "from": "2026-10-24",
+    "to": "2026-11-22"
   },
   "kpis": {
     "collected": 44,
@@ -9,62 +9,62 @@
     "uniqueTopics": 7,
     "marketShare": {
       "Roadmap": 28,
-      "Competition": 23,
-      "Investment": 20,
-      "Demand": 18,
-      "Policy": 12,
+      "Competition": 24,
+      "Demand": 19,
+      "Investment": 19,
+      "Policy": 11,
       "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/23-10/29)",
+      "week": "Week 1 (10/24-10/30)",
       "topicCounts": {
         "Roadmap": 8,
         "Competition": 7,
-        "Investment": 9,
-        "Demand": 4,
+        "Demand": 6,
+        "Investment": 7,
+        "Policy": 1
+      }
+    },
+    {
+      "week": "Week 2 (10/31-11/06)",
+      "topicCounts": {
+        "Roadmap": 2,
+        "Competition": 3,
+        "Demand": 3,
+        "Investment": 2,
         "Policy": 2
       }
     },
     {
-      "week": "Week 2 (10/30-11/05)",
-      "topicCounts": {
-        "Roadmap": 1,
-        "Competition": 1,
-        "Investment": 1,
-        "Demand": 2,
-        "Policy": 1
-      }
-    },
-    {
-      "week": "Week 3 (11/06-11/12)",
+      "week": "Week 3 (11/07-11/13)",
       "topicCounts": {
         "Roadmap": 8,
         "Competition": 8,
-        "Investment": 7,
-        "Demand": 6,
-        "Policy": 1
+        "Demand": 5,
+        "Investment": 9,
+        "Policy": 3
       }
     },
     {
-      "week": "Week 4 (11/13-11/19)",
+      "week": "Week 4 (11/14-11/20)",
       "topicCounts": {
         "Roadmap": 12,
-        "Competition": 9,
-        "Investment": 6,
-        "Demand": 5,
-        "Policy": 7
+        "Competition": 8,
+        "Demand": 6,
+        "Investment": 7,
+        "Policy": 8
       }
     },
     {
-      "week": "Week 5 (11/20-11/21)",
+      "week": "Week 5 (11/21-11/22)",
       "topicCounts": {
         "Roadmap": 2,
         "Competition": 2,
-        "Investment": 0,
-        "Demand": 2,
-        "Policy": 1
+        "Demand": 1,
+        "Investment": 1,
+        "Policy": 0
       }
     }
   ],
@@ -72,81 +72,66 @@
     {
       "id": 1,
       "status": "NEW",
-      "title": "유럽 초저가 전기차 경쟁 심화: 르노·기아의 2만 달러대 전략",
-      "summary": "르노가 2만 달러 미만의 Twingo E-Tech를 출시하고, 기아가 2027년 2만 달러 초반대 EV를 예고하면서 유럽·글로벌 대중형 EV 시장에서 BYD 등 중국 업체와의 가격 경쟁이 본격화되고 있다. 이는 내연기관차 대비 가격 장벽을 낮추어 EV 보급을 가속하는 한편, 기존 완성차 업체들의 원가 절감·플랫폼 재편 압력을 키우는 방향으로 주간/월간 수요·경쟁 구도를 재편하는 핵심 이슈다.",
-      "articleCount": 2,
+      "title": "샤오미, UAE 진출로 첫 해외 전기차 판매 개시",
+      "summary": "샤오미가 2027년 UAE를 시작으로 첫 해외 전기차 판매에 나서며 글로벌 EV 시장에 본격 진입했다. 유럽·캐나다로 확산 중인 중국산 전기차 공세 속에서 신규 플레이어로 경쟁 구도를 한층 심화시킬 전망이다.",
+      "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
-          "title": "Renault undercuts BYD with a new EV that costs less than $20,000",
-          "url": "https://electrek.co/2026/11/20/renault-undercuts-byd-new-ev-costs-less-than-20000/"
-        },
-        {
-          "source": "Electrek",
-          "title": "Kia’s cheapest EV is coming next year, and it could cost under $25,000",
-          "url": "https://electrek.co/2026/11/19/kias-cheapest-ev-coming-2027-under-25k/"
+          "title": "Red wave: Xiaomi goes global with first overseas EV sales",
+          "url": "https://electrek.co/2026/11/21/red-wave-xiaomi-goes-global-with-first-overseas-ev-sales/"
         }
       ]
     },
     {
       "id": 2,
       "status": "NEW",
-      "title": "테슬라 FSD와 사이버캡: 유럽 규제 돌파와 조기 출시 논란",
-      "summary": "이탈리아가 EU 주요국 최초로 테슬라 FSD(Assisted Driving)를 조건부 승인하면서 자율주행 소프트웨어 상용화 경쟁에 중요한 전환점이 생겼다. 동시에 테슬라가 3만 달러 미만 사이버캡을 2026년 인도 목표로 초청 기반 예약을 시작했으나, 기능 완성도와 성숙도에 대한 우려가 제기되며 ‘시장 선점 vs. 반쪽짜리 출시’ 논쟁이 부각되고 있다. 이는 규제·수요·브랜드 신뢰에 모두 영향을 주는 중단기 로드맵 이슈다.",
-      "articleCount": 2,
+      "title": "테슬라 FSD v15 출시로 자율주행 기능 대폭 고도화",
+      "summary": "테슬라가 FSD v15 배포를 시작하며 표지판·포트홀·스쿨존 속도 처리 등 기존 약점을 집중 개선했다. 안전 관련 크리티컬 상황 처리 능력이 25배 향상됐다고 주장하고, 실시간 도로 상황을 더 직관적으로 보여주는 신규 시각화 기능을 도입했다.",
+      "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
-          "title": "Tesla FSD approved in Italy, the first big EU market to say yes",
-          "url": "https://electrek.co/2026/11/20/tesla-fsd-italy-approval-assisted-driving/"
-        },
-        {
-          "source": "Electrek",
-          "title": "Is Tesla rushing out a half-baked Cybercab just to shave MKBHD’s head?",
-          "url": "https://electrek.co/2026/11/15/tesla-cybercab-mkbhd-bet-musk-chicken/"
+          "title": "Tesla launches FSD v15, targets its biggest weaknesses, from signs to potholes",
+          "url": "https://electrek.co/2026/11/21/tesla-fsd-v15-rollout-25x-safety-reality-view/"
         }
       ]
     },
     {
       "id": 3,
-      "status": "ONGOING",
-      "title": "BYD의 초대형 인력 확장과 글로벌 EV 제조 패권 경쟁",
-      "summary": "BYD가 102만 명 이상 인력을 보유하며 도요타·GM·포드·테슬라 인력 합계를 넘어서는 수준으로 확장했다. 불과 10개월 만에 약 15만 명을 추가 고용한 것은 배터리·부품·완성차를 아우르는 수직계열화와 공격적 증설 전략을 반영하며, 글로벌 가격 경쟁·생산 유연성·신흥시장 공략에서 BYD의 영향력이 커지고 있음을 보여준다.",
+      "status": "NEW",
+      "title": "르노, 2만 달러 미만 초저가 EV로 유럽 가격 경쟁 촉발",
+      "summary": "르노가 Twingo E-Tech를 약 2만 달러 미만에 출시해 BYD 등과 정면 승부에 나섰다. 이는 유럽 시장에서 EV 보급을 가속하는 한편, 기존 완성차 업체와 중국 업체 모두에 강한 가격 압박을 줄 수 있는 모델로 평가된다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
-          "title": "BYD now has 1.02 million workers, more than Toyota, GM, Ford, and Tesla combined",
-          "url": "https://electrek.co/2026/10/28/byd-1-million-employees-more-than-toyota-gm-ford-tesla/"
+          "title": "Renault undercuts BYD with a new EV that costs less than $20,000",
+          "url": "https://electrek.co/2026/11/20/renault-undercuts-byd-new-ev-costs-less-than-20000/"
         }
       ]
     },
     {
       "id": 4,
-      "status": "ONGOING",
-      "title": "EV 공급망·운영 리스크 부각: 루시드 물류 혼선 사례",
-      "summary": "루시드 CEO가 재고 차량 위치조차 제대로 파악하지 못해 고객 인도가 최대 2주 지연되고 주문 취소가 발생했다고 인정하면서, EV 스타트업의 운영·물류 역량 부족이 실질적인 수요 손실로 이어질 수 있음을 보여줬다. 이는 단순한 생산능력뿐 아니라 재고·배송 관리, 고객 경험이 EV 시장 경쟁력의 핵심 요소로 부상하고 있음을 시사한다.",
+      "status": "NEW",
+      "title": "이탈리아, EU 주요국 최초로 테슬라 FSD 감독 자율주행 승인",
+      "summary": "이탈리아 교통부가 테슬라의 FSD Supervised(Assisted Driving)를 조건부 승인하면서 테슬라는 12번째 승인국이자 첫 EU 대형 시장을 확보했다. 이는 유럽 내 자율주행 규제 및 상용화 논의를 가속시킬 신호탄으로 해석된다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "Electrek",
-          "title": "Lucid CEO admits it ‘did not even know where cars were’ and lost orders",
-          "url": "https://electrek.co/2026/11/10/lucid-ceo-did-not-know-where-cars-were-lost-orders/"
+          "title": "Tesla FSD approved in Italy, the first big EU market to say yes",
+          "url": "https://electrek.co/2026/11/20/tesla-fsd-italy-approval-assisted-driving/"
         }
       ]
     },
     {
       "id": 5,
       "status": "NEW",
-      "title": "에너지 안보와 EV 전환: 유가 쇼크 및 재생에너지·풍력 확대",
-      "summary": "IEA의 ‘World Energy Outlook 2026’는 사상 최대 석유 공급 충격이 장기화될 경우 각국이 석유 의존도를 줄이기 위해 EV 및 태양광 전환을 가속할 가능성을 제시한다. 동시에 아이슬란드는 첫 상업용 풍력단지를 가동해 수력 저수지의 물을 아껴 겨울 전력 생산을 보완하는 모델을 구축했다. 유가 불안과 재생에너지 확충이 맞물리며, EV는 에너지 안보 전략의 핵심 축으로 부상하고 있다.",
-      "articleCount": 2,
+      "title": "아이슬란드 첫 상업용 풍력단지, 수력과 연계한 계절별 전력 최적화",
+      "summary": "아이슬란드가 첫 상업용 풍력 발전단지를 가동하며 잉여 풍력 전력 생산 시 수력 저수지의 물을 아껴 겨울철에 활용하는 하이브리드 시스템을 구축했다. 재생에너지 믹스 최적화와 수자원 절감의 모범 사례로 주목된다.",
+      "articleCount": 1,
       "relatedArticles": [
-        {
-          "source": "Electrek",
-          "title": "The world’s biggest oil shock could give EVs and solar a boost",
-          "url": "https://electrek.co/2026/11/18/the-worlds-biggest-oil-shock-could-give-evs-and-solar-a-boost/"
-        },
         {
           "source": "Electrek",
           "title": "Iceland’s first wind farm comes with a water-saving bonus",

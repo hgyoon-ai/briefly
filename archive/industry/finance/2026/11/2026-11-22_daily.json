@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-22",
+  "highlights": {
+    "bullets": [
+      "핵심: 앤트로픽이 813억달러 규모의 역대 최대 IPO를 성공적으로 마쳤다.",
+      "핵심: MBK가 와콤을 약 1조원대에 인수 추진하며 와콤은 갤럭시 S펜 핵심기술을 보유하고 있다."
+    ],
+    "topTopics": [
+      "Policy",
+      "MarketInfra",
+      "Regulation",
+      "Compliance"
+    ],
+    "stats": {
+      "collected": 7,
+      "deduped": 7
+    }
+  },
+  "cards": [
+    {
+      "id": "finance_0001",
+      "tab": "finance",
+      "publishedAt": "2026-11-21T11:41:05+09:00",
+      "source": "매일경제(증권)",
+      "title": "역대 최대 IPO 성공한 앤트로픽…오픈AI도 증시 입성 탄력 받나",
+      "summary": [
+        "앤트로픽이 813억달러 규모의 역대 최대 IPO를 성공적으로 마쳤다.",
+        "3분기 매출은 168억달러로 전분기 대비 45% 증가해 성장성을 입증했다.",
+        "이번 대형 딜이 오픈AI 등 AI 기업의 증시 입성에 탄력을 줄 가능성이 커졌다."
+      ],
+      "whyItMatters": "이번 IPO는 AI 기업의 공개시장 접근성과 투자자 수요를 재평가하게 해 향후 기술주 상장 환경을 변화시킬 수 있기 때문이다.",
+      "topics": [
+        "MarketInfra",
+        "Regulation",
+        "Policy"
+      ],
+      "status": "SHIFTING",
+      "hash": "3e47045e9fc4098be145ec849b32d49876ad507f46f2ae807ca779654df468b8",
+      "url": "https://www.mk.co.kr/news/stock/12215211"
+    },
+    {
+      "id": "finance_0002",
+      "tab": "finance",
+      "publishedAt": "2026-11-21T17:42:34+09:00",
+      "source": "매일경제(증권)",
+      "title": "‘갤럭시 S펜’ 핵심기술 보유한 日와콤, MBK가 1조원대 인수",
+      "summary": [
+        "MBK파트너스가 일본 디지털펜 업체 와콤을 약 1조원대에 인수 추진한다.",
+        "와콤은 삼성 '갤럭시 S펜' 핵심기술을 보유해 인수 시 기술·공급망 영향이 예상된다.",
+        "경영진과 손잡은 공개매수를 진행하며 삼성은 인수 후에도 지분을 유지할 가능성이 있다."
+      ],
+      "whyItMatters": "S펜 핵심기술의 소유권 변화는 관련 제조·공급망과 경쟁구도, 규제 검토에 직접적 영향을 미치기 때문이다.",
+      "topics": [
+        "MarketInfra",
+        "Compliance",
+        "Policy"
+      ],
+      "status": "ONGOING",
+      "hash": "a2721f0149aab97438d577d5407a7e7286835b6853041f6f2ecc51126f101e28",
+      "url": "https://www.mk.co.kr/news/stock/12215301"
+    }
+  ]
+}

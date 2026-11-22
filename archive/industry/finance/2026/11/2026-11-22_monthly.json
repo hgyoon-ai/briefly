@@ -1,0 +1,148 @@
+{
+  "range": {
+    "from": "2026-10-24",
+    "to": "2026-11-22"
+  },
+  "kpis": {
+    "collected": 46,
+    "deduped": 46,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "MarketInfra": 38,
+      "Policy": 23,
+      "Security": 14,
+      "Compliance": 13,
+      "Regulation": 13,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/24-10/30)",
+      "topicCounts": {
+        "MarketInfra": 9,
+        "Policy": 5,
+        "Security": 1,
+        "Compliance": 2,
+        "Regulation": 4
+      }
+    },
+    {
+      "week": "Week 2 (10/31-11/06)",
+      "topicCounts": {
+        "MarketInfra": 5,
+        "Policy": 3,
+        "Security": 1,
+        "Compliance": 1,
+        "Regulation": 3
+      }
+    },
+    {
+      "week": "Week 3 (11/07-11/13)",
+      "topicCounts": {
+        "MarketInfra": 9,
+        "Policy": 5,
+        "Security": 3,
+        "Compliance": 5,
+        "Regulation": 3
+      }
+    },
+    {
+      "week": "Week 4 (11/14-11/20)",
+      "topicCounts": {
+        "MarketInfra": 10,
+        "Policy": 6,
+        "Security": 5,
+        "Compliance": 1,
+        "Regulation": 1
+      }
+    },
+    {
+      "week": "Week 5 (11/21-11/22)",
+      "topicCounts": {
+        "MarketInfra": 2,
+        "Policy": 2,
+        "Security": 0,
+        "Compliance": 1,
+        "Regulation": 1
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "finance-1",
+      "status": "ONGOING",
+      "title": "MBK의 日 와콤 1조원대 인수 추진과 국내 IT·부품 공급망 파급",
+      "summary": "MBK파트너스가 갤럭시 S펜 핵심 기술을 가진 일본 와콤을 약 1조원에 인수 추진하면서, 국내 대형 IT·부품 업체와의 공급계약, 기술 의존도, 밸류체인 재편 가능성이 부각되고 있다. 사모펀드가 핵심 부품·기술 기업을 확보하는 전략이 아시아 전자·디스플레이 산업 전반의 밸류에이션과 M&A 프리미엄에 어떤 영향을 줄지 금융시장이 주목하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "‘갤럭시 S펜’ 핵심기술 보유한 日와콤, MBK가 1조원대 인수",
+          "url": "https://www.mk.co.kr/news/stock/12215301"
+        }
+      ]
+    },
+    {
+      "id": "finance-2",
+      "status": "ONGOING",
+      "title": "PHP·그룹웨어 취약점 확산과 금융권 사이버 리스크 프리미엄 확대",
+      "summary": "PHP에서 다수의 원격 코드 실행 취약점이 발견되고, 다우오피스 취약점을 통한 한양증권 고객정보 유출까지 발생하면서 금융 IT 아웃소싱·클라우드·그룹웨어 보안 수준이 재평가되고 있다. 증권·가상자산 사업자 등 데이터 집약 산업의 사이버 리스크 프리미엄, 보안 투자 수요, 관련 솔루션 기업 실적 모멘텀에 대한 시장 관심이 커지고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "PHP서 또 ‘치명적 취약점’ 무더기 발견…전세계 웹사이트 해킹 비상",
+          "url": "https://www.mk.co.kr/news/stock/12214368"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "한양증권서도 개인정보 유출…금투업권 해킹 비상",
+          "url": "https://www.mk.co.kr/news/stock/12194338"
+        }
+      ]
+    },
+    {
+      "id": "finance-3",
+      "status": "ONGOING",
+      "title": "디지털자산기본법 가속과 기관 중심 가상자산 시장 재편",
+      "summary": "정부와 국회가 디지털자산기본법 입법을 서두르며 법인·기관투자자의 가상자산 시장 진입을 제도권에서 허용하는 방향으로 논의가 진전되고 있다. 커스터디·거래소·수탁·운용 등 인프라 산업과 은행·증권사의 신사업 진출, 토큰증권·스테이블코인 규율 체계가 중장기적으로 디지털 자산 시장 구조와 밸류체인에 변화를 줄 것으로 예상된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한국, 디지털자산기본법 입법 가속…법인·기관투자자 시장 개방 본격화[엠블록레터]",
+          "url": "https://www.mk.co.kr/news/stock/12208192"
+        }
+      ]
+    },
+    {
+      "id": "finance-4",
+      "status": "NEW",
+      "title": "대통령의 금융시장 불공정행위 강경 기조와 수사·제재 리스크 상시화",
+      "summary": "이재명 대통령이 금융시장 불공정행위에 대한 엄정 단속을 주문하고, 중대범죄수사청에 관련 사안을 별도로 지시하면서 자본시장 범죄 전담 수사 체계가 한층 강화되고 있다. 불공정거래, 공시·내부자 거래, 시세조종에 대한 형사·행정 제재 리스크가 확대되면서 증권사·운용사·상장사의 내부통제 비용과 컴플라이언스 강화 압박이 커질 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[속보] 李대통령 “금융시장 불공정행위 엄정단속, 중수청에 별도 지시”",
+          "url": "https://www.mk.co.kr/news/economy/12207754"
+        }
+      ]
+    },
+    {
+      "id": "finance-5",
+      "status": "ONGOING",
+      "title": "엔비디아 젠슨 황 해임 논의와 글로벌 AI 랠리 신뢰 리스크",
+      "summary": "엔비디아 이사회가 젠슨 황 CEO 해임 절차에 착수했다는 소식이 알려지며, 개인 비위·대중국 수출·보안 이슈가 기업 가치와 AI 관련 글로벌 주가, 나아가 국내 AI 테마·반도체 수출 모멘텀에 미칠 파장이 주목되고 있다. 거버넌스·윤리 리스크가 빅테크 밸류에이션 디스카운트 요인으로 재부각될 수 있다는 경계 심리가 형성되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“사내 여성 임원과도 또 불륜”…엔비디아, 젠슨황 해임 준비",
+          "url": "https://www.mk.co.kr/news/stock/12205989"
+        }
+      ]
+    }
+  ]
+}

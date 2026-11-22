@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-10-24",
+    "to": "2026-11-22"
+  },
+  "kpis": {
+    "collected": 44,
+    "deduped": 44,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 28,
+      "Competition": 24,
+      "Demand": 19,
+      "Investment": 19,
+      "Policy": 11,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/24-10/30)",
+      "topicCounts": {
+        "Roadmap": 8,
+        "Competition": 7,
+        "Demand": 6,
+        "Investment": 7,
+        "Policy": 1
+      }
+    },
+    {
+      "week": "Week 2 (10/31-11/06)",
+      "topicCounts": {
+        "Roadmap": 2,
+        "Competition": 3,
+        "Demand": 3,
+        "Investment": 2,
+        "Policy": 2
+      }
+    },
+    {
+      "week": "Week 3 (11/07-11/13)",
+      "topicCounts": {
+        "Roadmap": 8,
+        "Competition": 8,
+        "Demand": 5,
+        "Investment": 9,
+        "Policy": 3
+      }
+    },
+    {
+      "week": "Week 4 (11/14-11/20)",
+      "topicCounts": {
+        "Roadmap": 12,
+        "Competition": 8,
+        "Demand": 6,
+        "Investment": 7,
+        "Policy": 8
+      }
+    },
+    {
+      "week": "Week 5 (11/21-11/22)",
+      "topicCounts": {
+        "Roadmap": 2,
+        "Competition": 2,
+        "Demand": 1,
+        "Investment": 1,
+        "Policy": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "샤오미, UAE 진출로 첫 해외 전기차 판매 개시",
+      "summary": "샤오미가 2027년 UAE를 시작으로 첫 해외 전기차 판매에 나서며 글로벌 EV 시장에 본격 진입했다. 유럽·캐나다로 확산 중인 중국산 전기차 공세 속에서 신규 플레이어로 경쟁 구도를 한층 심화시킬 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Red wave: Xiaomi goes global with first overseas EV sales",
+          "url": "https://electrek.co/2026/11/21/red-wave-xiaomi-goes-global-with-first-overseas-ev-sales/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "테슬라 FSD v15 출시로 자율주행 기능 대폭 고도화",
+      "summary": "테슬라가 FSD v15 배포를 시작하며 표지판·포트홀·스쿨존 속도 처리 등 기존 약점을 집중 개선했다. 안전 관련 크리티컬 상황 처리 능력이 25배 향상됐다고 주장하고, 실시간 도로 상황을 더 직관적으로 보여주는 신규 시각화 기능을 도입했다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla launches FSD v15, targets its biggest weaknesses, from signs to potholes",
+          "url": "https://electrek.co/2026/11/21/tesla-fsd-v15-rollout-25x-safety-reality-view/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "르노, 2만 달러 미만 초저가 EV로 유럽 가격 경쟁 촉발",
+      "summary": "르노가 Twingo E-Tech를 약 2만 달러 미만에 출시해 BYD 등과 정면 승부에 나섰다. 이는 유럽 시장에서 EV 보급을 가속하는 한편, 기존 완성차 업체와 중국 업체 모두에 강한 가격 압박을 줄 수 있는 모델로 평가된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Renault undercuts BYD with a new EV that costs less than $20,000",
+          "url": "https://electrek.co/2026/11/20/renault-undercuts-byd-new-ev-costs-less-than-20000/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "이탈리아, EU 주요국 최초로 테슬라 FSD 감독 자율주행 승인",
+      "summary": "이탈리아 교통부가 테슬라의 FSD Supervised(Assisted Driving)를 조건부 승인하면서 테슬라는 12번째 승인국이자 첫 EU 대형 시장을 확보했다. 이는 유럽 내 자율주행 규제 및 상용화 논의를 가속시킬 신호탄으로 해석된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla FSD approved in Italy, the first big EU market to say yes",
+          "url": "https://electrek.co/2026/11/20/tesla-fsd-italy-approval-assisted-driving/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "아이슬란드 첫 상업용 풍력단지, 수력과 연계한 계절별 전력 최적화",
+      "summary": "아이슬란드가 첫 상업용 풍력 발전단지를 가동하며 잉여 풍력 전력 생산 시 수력 저수지의 물을 아껴 겨울철에 활용하는 하이브리드 시스템을 구축했다. 재생에너지 믹스 최적화와 수자원 절감의 모범 사례로 주목된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Iceland’s first wind farm comes with a water-saving bonus",
+          "url": "https://electrek.co/2026/11/17/iceland-first-wind-farm-gives-its-hydropower-a-winter-boost/"
+        }
+      ]
+    }
+  ]
+}

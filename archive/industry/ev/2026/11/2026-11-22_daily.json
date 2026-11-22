@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-22",
+  "highlights": {
+    "bullets": [
+      "핵심: 테슬라가 FSD v15 배포를 시작하며 표지판 인식과 포트홀·스쿨존 속도 처리 등 약점을 개선했습니다.",
+      "핵심: 샤오미가 처음으로 해외 전기차 판매를 시작해 2027년 아랍에미리트를 첫 진출 시장으로 선택했습니다."
+    ],
+    "topTopics": [
+      "Roadmap",
+      "Demand",
+      "Competition",
+      "Investment"
+    ],
+    "stats": {
+      "collected": 10,
+      "deduped": 10
+    }
+  },
+  "cards": [
+    {
+      "id": "ev_0001",
+      "tab": "ev",
+      "publishedAt": "2026-11-22T04:56:56+09:00",
+      "source": "Electrek",
+      "title": "Tesla launches FSD v15, targets its biggest weaknesses, from signs to potholes",
+      "summary": [
+        "테슬라가 FSD v15 배포를 시작했으며 표지판 인식, 포트홀, 스쿨존 속도 처리 등 기존 약점을 집중 개선했다.",
+        "테슬라는 안전 관련 크리티컬 상황 처리 능력이 25배 향상됐다고 주장하며 새로운 실시간 시각화 기능도 도입했다.",
+        "주행 성능 향상이 시각화 품질과 비슷한 수준으로 실현된다면 자율주행 완성도에 큰 도약이 될 수 있는 업데이트다."
+      ],
+      "whyItMatters": "테슬라 FSD의 구조적 약점과 안전성을 직접 겨냥한 대규모 개선으로 자율주행 경쟁 구도와 규제·수요에 모두 영향을 줄 수 있는 업데이트이기 때문이다.",
+      "topics": [
+        "Roadmap",
+        "Competition"
+      ],
+      "status": "NEW",
+      "hash": "c0e5302c0ba406d47121537d6dd98411c357d1df659175edb337a3e474becd39",
+      "url": "https://electrek.co/2026/11/21/tesla-fsd-v15-rollout-25x-safety-reality-view/"
+    },
+    {
+      "id": "ev_0002",
+      "tab": "ev",
+      "publishedAt": "2026-11-22T10:02:38+09:00",
+      "source": "Electrek",
+      "title": "Red wave: Xiaomi goes global with first overseas EV sales",
+      "summary": [
+        "샤오미가 처음으로 중국 외 해외 전기차 판매를 시작하며 글로벌 EV 시장에 진출합니다.",
+        "유럽과 캐나다로 확산 중인 중국산 전기차 공세 속에서 샤오미는 2027년 UAE를 첫 진출 시장으로 선택했습니다.",
+        "이는 샤오미 EV 사업의 글로벌 성장 전략이 본격화되고 있음을 의미합니다."
+      ],
+      "whyItMatters": "샤오미의 해외 EV 판매 개시는 중국 전기차 업체들의 글로벌 경쟁 구도가 한층 심화되고 있음을 보여주며 향후 유럽·중동 시장 판도에 영향을 줄 수 있습니다.",
+      "topics": [
+        "Demand",
+        "Competition",
+        "Roadmap",
+        "Investment"
+      ],
+      "status": "NEW",
+      "hash": "eae8d21940113eb00e4a20b80dc1f6a6a3ef03dc985d6a225c33032dece4c665",
+      "url": "https://electrek.co/2026/11/21/red-wave-xiaomi-goes-global-with-first-overseas-ev-sales/"
+    }
+  ]
+}
