@@ -1,0 +1,64 @@
+{
+  "date": "2026-11-23",
+  "highlights": {
+    "bullets": [
+      "핵심: 브릭스앤스트랫턴이 16kWh 용량의 LFP 모듈형 가정용 백업 배터리를 출시했습니다.",
+      "핵심: 일리노이 클린 포트 프로그램이 항만 중장비와 선박 전기화에 1억 400만 달러를 투입합니다."
+    ],
+    "topTopics": [
+      "Roadmap",
+      "Demand",
+      "Investment",
+      "Competition"
+    ],
+    "stats": {
+      "collected": 5,
+      "deduped": 5
+    }
+  },
+  "cards": [
+    {
+      "id": "ev_0001",
+      "tab": "ev",
+      "publishedAt": "2026-11-22T23:22:49+09:00",
+      "source": "Electrek",
+      "title": "Briggs & Stratton keeps the lights on longer with bigger 16 kWh LFP battery",
+      "summary": [
+        "Briggs & Stratton이 16kWh 용량의 새로운 LFP(리튬인산철) 가정용 백업 배터리를 출시했습니다.",
+        "해당 배터리는 사용자의 에너지 수요 증가에 맞춰 확장 가능한 모듈형 설계를 강조합니다.",
+        "기존 가스 발전기 중심이던 비즈니스에서 전기식 백업 전원 솔루션으로 포트폴리오를 넓히고 있습니다."
+      ],
+      "whyItMatters": "전통적인 가스 발전기 업체가 대형·확장형 LFP 배터리로 에너지 백업 시장의 전동화 전환에 적극 참여하며 경쟁 구도가 바뀔 수 있기 때문입니다.",
+      "topics": [
+        "Roadmap",
+        "Investment",
+        "Competition"
+      ],
+      "status": "NEW",
+      "hash": "e724401aa72913137be414d1127d074ad624b4e7e7d4873a1722587509f894d9",
+      "url": "https://electrek.co/2026/11/22/briggs-stratton-keeps-the-lights-on-longer-with-bigger-16-kwh-lfp-battery/"
+    },
+    {
+      "id": "ev_0002",
+      "tab": "ev",
+      "publishedAt": "2026-11-22T22:01:35+09:00",
+      "source": "Electrek",
+      "title": "From equipment to ferries to locomotives, Illinois ports are getting a ZEV makeover",
+      "summary": [
+        "일리노이 클린 포트 프로그램이 항만 청정화를 위해 1억 400만 달러를 투입합니다.",
+        "포크리프트, 리치 스태커, 스위처 기관차 등 중장비와 충전 인프라를 전기화하는 데 자금이 사용됩니다.",
+        "승객용 페리까지 포함해 항만 운송·장비 전반의 제로 에미션 전환이 추진되고 있습니다."
+      ],
+      "whyItMatters": "대규모 공적 자금이 항만 중장비와 선박의 전기화에 투입되며 ZEV 인프라 수요와 관련 산업 성장에 직접적인 유인이 되기 때문입니다.",
+      "topics": [
+        "Policy",
+        "Investment",
+        "Demand",
+        "Roadmap"
+      ],
+      "status": "NEW",
+      "hash": "3ba5fac68cf1dcc2a03d44cdeaf85e715d04c7afcaa7778af2f33da5c51cfca6",
+      "url": "https://electrek.co/2026/11/22/from-equipment-to-ferries-to-locomotives-illinois-ports-are-getting-a-zev-makeover/"
+    }
+  ]
+}

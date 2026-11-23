@@ -1,0 +1,281 @@
+{
+  "range": {
+    "from": "2026-11-17",
+    "to": "2026-11-23"
+  },
+  "kpis": {
+    "collected": 12,
+    "deduped": 12,
+    "uniqueTopics": 6
+  },
+  "topTopics": [
+    {
+      "name": "Roadmap",
+      "count": 12
+    },
+    {
+      "name": "Investment",
+      "count": 8
+    },
+    {
+      "name": "Competition",
+      "count": 8
+    },
+    {
+      "name": "Demand",
+      "count": 7
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 3
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 3
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Demand",
+      "count": 2
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 1
+    },
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 2
+    },
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Demand",
+      "count": 2
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 4
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 3
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 3
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Demand",
+      "count": 2
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Demand",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "글로벌 저가형 전기차 경쟁 본격화",
+      "summary": "르노가 2만 달러 미만 Twingo E-Tech를 선보이고, 기아가 2027년 2.5만 달러 이하 초저가 EV 출시를 예고하면서 유럽·글로벌 시장에서 BYD 등 중국 저가 EV와의 가격 경쟁이 한층 심화되고 있습니다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Renault undercuts BYD with a new EV that costs less than $20,000",
+          "url": "https://electrek.co/2026/11/20/renault-undercuts-byd-new-ev-costs-less-than-20000/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Kia’s cheapest EV is coming next year, and it could cost under $25,000",
+          "url": "https://electrek.co/2026/11/19/kias-cheapest-ev-coming-2027-under-25k/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "샤오미, 첫 해외 전기차 판매로 글로벌 EV 시장 진입",
+      "summary": "샤오미가 2027년 UAE를 시작으로 첫 해외 전기차 판매에 나서며, 유럽·북미로 확산 중인 중국산 EV 공세에 새로운 플레이어로 합류해 글로벌 경쟁 구도를 더욱 복잡하게 만들고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Red wave: Xiaomi goes global with first overseas EV sales",
+          "url": "https://electrek.co/2026/11/21/red-wave-xiaomi-goes-global-with-first-overseas-ev-sales/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "테슬라 FSD: 기능 업그레이드와 유럽 대형시장 첫 정책 승인",
+      "summary": "테슬라는 표지판·포트홀·스쿨존 대응을 강화한 FSD v15를 출시하는 한편, 이탈리아에서 ‘Assisted Driving’으로 조건부 승인을 받으며 EU 대형 시장 중 최초로 제도권 진입을 확대했습니다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla launches FSD v15, targets its biggest weaknesses, from signs to potholes",
+          "url": "https://electrek.co/2026/11/21/tesla-fsd-v15-rollout-25x-safety-reality-view/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Tesla FSD approved in Italy, the first big EU market to say yes",
+          "url": "https://electrek.co/2026/11/20/tesla-fsd-italy-approval-assisted-driving/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "가정용 LFP 백업 배터리 용량·모듈성 경쟁 심화",
+      "summary": "Briggs & Stratton이 16kWh급 모듈형 LFP 가정용 백업 배터리를 출시하며, 전기요금 최적화·정전 대비 수요 증가에 대응해 확장성과 고용량을 앞세운 에너지 스토리지 경쟁이 부각되고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Briggs & Stratton keeps the lights on longer with bigger 16 kWh LFP battery",
+          "url": "https://electrek.co/2026/11/22/briggs-stratton-keeps-the-lights-on-longer-with-bigger-16-kwh-lfp-battery/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "항만·중장비 전동화: 일리노이 ZEV 포트 프로젝트 가속",
+      "summary": "일리노이 클린 포트 프로그램이 1억 400만 달러를 투입해 포크리프트·스태커·기관차와 충전 인프라를 전기화하면서, 항만 물류에서의 ZEV 전환과 관련 인프라 구축이 본격 확산되고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "From equipment to ferries to locomotives, Illinois ports are getting a ZEV makeover",
+          "url": "https://electrek.co/2026/11/22/from-equipment-to-ferries-to-locomotives-illinois-ports-are-getting-a-zev-makeover/"
+        }
+      ]
+    }
+  ]
+}

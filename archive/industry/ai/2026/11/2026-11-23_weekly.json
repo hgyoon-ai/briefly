@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-11-17",
+    "to": "2026-11-23"
+  },
+  "kpis": {
+    "collected": 14,
+    "deduped": 14,
+    "uniqueTopics": 10
+  },
+  "topTopics": [
+    {
+      "name": "Tooling",
+      "count": 9
+    },
+    {
+      "name": "Research",
+      "count": 8
+    },
+    {
+      "name": "Infra",
+      "count": 7
+    },
+    {
+      "name": "Models",
+      "count": 6
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Tooling",
+      "count": 1
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Research",
+      "count": 0
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Tooling",
+      "count": 2
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Research",
+      "count": 4
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Infra",
+      "count": 3
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Models",
+      "count": 3
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Tooling",
+      "count": 3
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Research",
+      "count": 2
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Infra",
+      "count": 2
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Models",
+      "count": 2
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Tooling",
+      "count": 3
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Research",
+      "count": 2
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Infra",
+      "count": 2
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Models",
+      "count": 1
+    },
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Research",
+      "count": 0
+    },
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Research",
+      "count": 0
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Research",
+      "count": 0
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Models",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "ai-1",
+      "status": "NEW",
+      "title": "경량 고효율 LLM: Google DeepMind의 Gemini 4 Neon 공개",
+      "summary": "Google DeepMind는 경량·고효율 변종인 Gemini 4 Neon을 공개했다. 추론 속도와 배포 유연성을 중시한 설계로, 다양한 디바이스와 서비스에 적합한 실용형 모델 라인업을 확장하는 데 초점을 둔다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Google DeepMind Blog",
+          "title": "Introducing Gemini 4 Neon",
+          "url": "https://deepmind.google/blog/introducing-gemini-4-neon/"
+        }
+      ]
+    },
+    {
+      "id": "ai-2",
+      "status": "NEW",
+      "title": "영업 워크플로우용 AI 도입: ChatGPT for Sales 출시",
+      "summary": "OpenAI는 영업 조직을 겨냥한 ChatGPT for Sales를 출시했다. 30개 이상 파트너 플러그인과 연동해 잠재고객 조사, 제안서 작성, CRM 업데이트 등 핵심 영업 업무를 자동화·보조하여 생산성과 파이프라인 관리 효율을 높이는 데 초점을 맞춘다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "Introducing ChatGPT for Sales",
+          "url": "https://openai.com/index/introducing-chatgpt-for-sales"
+        }
+      ]
+    },
+    {
+      "id": "ai-3",
+      "status": "ONGOING",
+      "title": "적대적 증류에 대한 방어: OpenAI의 복합 전략",
+      "summary": "OpenAI는 모델 도용과 안전 우회에 악용될 수 있는 적대적 증류에 대응하기 위해 훈련 단계의 설계, 안전장치 강화, 탐지 메커니즘, 집행 체계를 결합한 다층 방어 전략을 제시했다. 이는 고성능 모델 공개가 늘어나는 상황에서 IP 보호와 안전성 유지 간 균형을 맞추려는 시도로 볼 수 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "Combatting adversarial distillation",
+          "url": "https://openai.com/index/combatting-adversarial-distillation"
+        }
+      ]
+    },
+    {
+      "id": "ai-4",
+      "status": "ONGOING",
+      "title": "강화학습 인프라 최적화: NVIDIA Dynamo로 rollout 병목 해소",
+      "summary": "NVIDIA는 NVIDIA Dynamo를 활용해 강화학습에서 rollout 단계의 병목을 줄이는 방법을 제안했다. 인퍼런스 최적화를 통해 워커의 샘플 생성 속도와 처리량을 높여, 복잡한 RL 실험을 더 빠르게 반복·스케일링할 수 있는 인프라 패턴을 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Reducing Rollout Bottlenecks in Reinforcement Learning with NVIDIA Dynamo",
+          "url": "https://developer.nvidia.com/blog/reducing-rollout-bottlenecks-in-reinforcement-learning-with-nvidia-dynamo/"
+        }
+      ]
+    },
+    {
+      "id": "ai-5",
+      "status": "ONGOING",
+      "title": "실시간 과학 실험을 위한 GPU 네이티브 데이터 수집",
+      "summary": "NVIDIA는 GPU-네이티브 데이터 수집 파이프라인으로 과학 계측기의 센서 데이터를 저지연·고처리량으로 처리하는 방법을 소개했다. 이 방식은 실험 중 실시간 AI 분석과 폐쇄 루프 제어를 가능하게 해, 소재 연구·이미징 등 과학 응용에서 실험 최적화를 가속한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Enabling Real-Time AI for Scientific Instruments with GPU-Native Data Acquisition",
+          "url": "https://developer.nvidia.com/blog/enabling-real-time-ai-for-scientific-instruments-with-gpu-native-data-acquisition/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "range": {
+    "from": "2026-10-25",
+    "to": "2026-11-23"
+  },
+  "kpis": {
+    "collected": 46,
+    "deduped": 46,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "MarketInfra": 37,
+      "Policy": 23,
+      "Regulation": 14,
+      "Compliance": 13,
+      "Security": 13,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/25-10/31)",
+      "topicCounts": {
+        "MarketInfra": 8,
+        "Policy": 4,
+        "Regulation": 4,
+        "Compliance": 2,
+        "Security": 1
+      }
+    },
+    {
+      "week": "Week 2 (11/01-11/07)",
+      "topicCounts": {
+        "MarketInfra": 3,
+        "Policy": 2,
+        "Regulation": 2,
+        "Compliance": 3,
+        "Security": 3
+      }
+    },
+    {
+      "week": "Week 3 (11/08-11/14)",
+      "topicCounts": {
+        "MarketInfra": 9,
+        "Policy": 5,
+        "Regulation": 4,
+        "Compliance": 4,
+        "Security": 3
+      }
+    },
+    {
+      "week": "Week 4 (11/15-11/21)",
+      "topicCounts": {
+        "MarketInfra": 10,
+        "Policy": 7,
+        "Regulation": 1,
+        "Compliance": 2,
+        "Security": 7
+      }
+    },
+    {
+      "week": "Week 5 (11/22-11/23)",
+      "topicCounts": {
+        "MarketInfra": 2,
+        "Policy": 2,
+        "Regulation": 2,
+        "Compliance": 1,
+        "Security": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "국민연금 매매로 증시 수급 왜곡, 증안펀드 10조론 한계",
+      "summary": "국민연금의 적극적인 매매·리밸런싱이 코스피 수급에 부담을 주며 지수 5000선 붕괴, 4500선 위협 등 변동성을 키우고 있다. 증시안정펀드 10조원 조성론이 나오지만 규모와 실행 시점 모두 역부족이라는 평가가 커지며 공적 연기금 운용 방식과 시장 안정 장치 전반에 대한 재점검 요구가 확대되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "국민연금 때문에 꼬인 증시 수급 ... “증안펀드 10조론 역부족”",
+          "url": "https://www.mk.co.kr/news/stock/12215898"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "PHP·그룹웨어 취약점에 금융·글로벌 웹서비스 보안 비상",
+      "summary": "PHP에서 다수의 원격 코드 실행 취약점이 발견된 데 이어, 다우오피스 취약점을 악용한 한양증권 개인정보 유출 사례까지 겹치며 전세계 웹사이트와 국내 금융투자업권 IT 인프라 전반의 보안 리스크가 부각되고 있다. 금융사와 상장사는 웹 애플리케이션, 그룹웨어 등 서드파티 솔루션에 대한 패치·취약점 관리 비용과 레거시 교체 수요를 단기간에 크게 늘릴 수밖에 없는 상황이다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "PHP서 또 ‘치명적 취약점’ 무더기 발견…전세계 웹사이트 해킹 비상",
+          "url": "https://www.mk.co.kr/news/stock/12214368"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "한양증권서도 개인정보 유출…금투업권 해킹 비상",
+          "url": "https://www.mk.co.kr/news/stock/12194338"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "디지털자산기본법 추진 가속, 기관·법인 대상 가상자산 시장 개방 본격화",
+      "summary": "정부와 국회가 디지털자산기본법 제정 속도를 높이며 법인·기관투자자의 가상자산 투자와 관련 서비스 진입 장벽을 낮추는 방향으로 제도 설계를 구체화하고 있다. 기존 자본시장법 체계와의 정합성, 수탁·공시·불공정거래 규율 방식에 따라 국내 가상자산 거래소, 수탁사, 토큰 증권(코인·STO) 관련 핀테크 기업의 사업 구조와 라이선스 가치가 재평가될 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "한국, 디지털자산기본법 입법 가속…법인·기관투자자 시장 개방 본격화[엠블록레터]",
+          "url": "https://www.mk.co.kr/news/stock/12208192"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "대통령, 금융시장 불공정거래 엄정 단속 지시…중수청 전담 수사체계 강화",
+      "summary": "이재명 대통령이 주가조작·내부자거래·시세조종 등 금융시장 불공정행위에 대한 엄정 단속을 주문하며 중대범죄수사청에 별도 지시를 내렸다. 향후 대형 시세조종 사건, 기업공시 허위·부실 공시, 불법 공매도 등과 관련한 사법 리스크가 급증할 수 있어 브로커리지, 운용사, 상장사 IR·준법감시 조직은 규제 준수 비용 증가와 수사 리스크 관리에 직면하게 될 것으로 보인다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[속보] 李대통령 “금융시장 불공정행위 엄정단속, 중수청에 별도 지시”",
+          "url": "https://www.mk.co.kr/news/economy/12207754"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "엔비디아 젠슨 황 해임 절차 착수설, 지배구조·거버넌스 리스크 부각",
+      "summary": "엔비디아 이사회가 젠슨 황 CEO에 대한 공식 해임 절차에 들어갔다는 보도가 나오며 사내 불륜 의혹과 중국 향 반도체 밀반입·스파이 연루설 등 컴플라이언스 이슈가 글로벌 AI 대표주의 프리미엄을 훼손할 수 있는 변수로 떠올랐다. 단기적으로 관련 빅테크·AI 관련주의 변동성과 ESG·지배구조 리스크 프라이싱이 심화되고, 장기적으로는 미국 반도체·AI 공급망 규제와 거버넌스 기준 강화 논의가 가속될 수 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“사내 여성 임원과도 또 불륜”…엔비디아, 젠슨황 해임 준비",
+          "url": "https://www.mk.co.kr/news/stock/12205989"
+        }
+      ]
+    }
+  ]
+}

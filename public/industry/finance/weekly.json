@@ -1,57 +1,33 @@
 {
   "range": {
-    "from": "2026-11-16",
-    "to": "2026-11-22"
+    "from": "2026-11-17",
+    "to": "2026-11-23"
   },
   "kpis": {
-    "collected": 12,
-    "deduped": 12,
+    "collected": 14,
+    "deduped": 14,
     "uniqueTopics": 8
   },
   "topTopics": [
     {
       "name": "MarketInfra",
-      "count": 10
+      "count": 12
     },
     {
       "name": "Policy",
-      "count": 7
+      "count": 9
     },
     {
       "name": "Security",
       "count": 7
     },
     {
-      "name": "Compliance",
-      "count": 3
+      "name": "Regulation",
+      "count": 4
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-11-16",
-      "dayOfWeek": "Mon",
-      "topic": "MarketInfra",
-      "count": 0
-    },
-    {
-      "date": "2026-11-16",
-      "dayOfWeek": "Mon",
-      "topic": "Policy",
-      "count": 0
-    },
-    {
-      "date": "2026-11-16",
-      "dayOfWeek": "Mon",
-      "topic": "Security",
-      "count": 0
-    },
-    {
-      "date": "2026-11-16",
-      "dayOfWeek": "Mon",
-      "topic": "Compliance",
-      "count": 0
-    },
-    {
       "date": "2026-11-17",
       "dayOfWeek": "Tue",
       "topic": "MarketInfra",
@@ -72,7 +48,7 @@
     {
       "date": "2026-11-17",
       "dayOfWeek": "Tue",
-      "topic": "Compliance",
+      "topic": "Regulation",
       "count": 0
     },
     {
@@ -96,7 +72,7 @@
     {
       "date": "2026-11-18",
       "dayOfWeek": "Wed",
-      "topic": "Compliance",
+      "topic": "Regulation",
       "count": 0
     },
     {
@@ -120,8 +96,8 @@
     {
       "date": "2026-11-19",
       "dayOfWeek": "Thu",
-      "topic": "Compliance",
-      "count": 1
+      "topic": "Regulation",
+      "count": 0
     },
     {
       "date": "2026-11-20",
@@ -144,7 +120,7 @@
     {
       "date": "2026-11-20",
       "dayOfWeek": "Fri",
-      "topic": "Compliance",
+      "topic": "Regulation",
       "count": 1
     },
     {
@@ -168,7 +144,7 @@
     {
       "date": "2026-11-21",
       "dayOfWeek": "Sat",
-      "topic": "Compliance",
+      "topic": "Regulation",
       "count": 1
     },
     {
@@ -192,16 +168,68 @@
     {
       "date": "2026-11-22",
       "dayOfWeek": "Sun",
-      "topic": "Compliance",
+      "topic": "Regulation",
       "count": 0
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Security",
+      "count": 0
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Regulation",
+      "count": 2
     }
   ],
   "topIssues": [
     {
       "id": 1,
       "status": "ONGOING",
-      "title": "외국인, 국내 주식 대규모 순매도·국채 순매수로 자금 이동 가속",
-      "summary": "외국인 투자자가 올해 한국 주식시장에서 약 256조원 규모를 순매도하고, 최근 두 달간에만 45조원을 팔아치우며 반도체 등 대형주에서 이탈하고 있다. 동시에 한국 국채로는 순투자로 전환돼 안전자산 선호와 한국 자본시장 내 위험·안전자산 간 자금 재배분이 심화되는 중이다.",
+      "title": "국민연금 매매·증안펀드 논쟁 속 국내 증시 수급 불안 심화",
+      "summary": "국민연금의 적극 매매와 운용 전략이 수급 왜곡 논란을 키우는 가운데, 증안펀드 10조원 규모로는 하락장을 방어하기 역부족이라는 지적이 제기된다. 엔비디아 호실적·앤트로픽 상장 등 글로벌 호재에도 코스피가 5000선 아래로 밀리고 4500선마저 위태로워지며 연기금 역할과 추가 부양책 필요성이 금융시장 핵심 이슈로 부상했다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "국민연금 때문에 꼬인 증시 수급 ... “증안펀드 10조론 역부족”",
+          "url": "https://www.mk.co.kr/news/stock/12215898"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "곱버스·레버리지 ETF 손실 확대…개인투자자 파생상품 리스크 부각",
+      "summary": "곱버스 ETF 5종이 연초 대비 77~79% 급락하고 레버리지 ETF에도 1조원이 넘는 개인 자금이 몰리면서, 지수 방향이 맞아도 음의 복리 구조로 장기 손실이 커질 수 있는 위험이 부각됐다. 금융당국의 파생·레버리지 ETF 투자자 보호와 정보 제공 강화 필요성이 주간 리스크 이슈로 대두되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“어? 100만원 넣었는데 20만원 됐네”…곱버스, ETF 낙폭 순위 ‘싹쓸이’",
+          "url": "https://www.mk.co.kr/news/stock/12215878"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "외국인 대규모 국내 주식 순매도와 국채 선호로 자금 이동 가속",
+      "summary": "외국인이 올해 들어 한국 주식을 약 256조원 순매도하고, 최근 두 달간에만 45조원 이상을 팔아치우는 등 이탈이 확대되는 가운데 한국 국채에는 7.4조원 규모의 자금이 유입됐다. 특히 반도체 대형주를 중심으로 매도가 집중되고 유럽계를 중심으로 안전자산 선호가 강화되며, 한국 증시의 중장기 수급 구조 변화가 진행 중인 이슈로 부각된다.",
       "articleCount": 2,
       "relatedArticles": [
         {
@@ -217,68 +245,30 @@
       ]
     },
     {
-      "id": 2,
-      "status": "SHIFTING",
-      "title": "앤트로픽 대형 IPO·AI 기술주 변동성 확대 속 글로벌 증시 조정",
-      "summary": "앤트로픽이 약 813억달러 규모의 초대형 IPO에 성공해 AI 섹터 자금 유입이 이어지는 가운데, 엔비디아 주가가 한 달 새 27% 급락하고 뉴욕 나스닥이 5% 넘게 하락하는 등 AI 대표주 중심의 변동성이 커지고 있다. AI 성장 스토리는 유효하지만 단기 밸류에이션 부담과 차익실현 매물이 함께 작용하며 글로벌 주식시장의 조정 리스크를 키우는 양상이다.",
-      "articleCount": 3,
+      "id": 4,
+      "status": "ONGOING",
+      "title": "AI·기술주 조정으로 나스닥 급락…글로벌 위험자산 선호 둔화",
+      "summary": "엔비디아의 호실적과 앤트로픽 IPO 흥행에도 불구하고 AI 관련 기술주를 중심으로 차익실현 매도가 강해지며 나스닥이 5%대 폭락했다. 고평가 논란과 금리·유동성 부담이 겹치면서 글로벌 성장·기술주 중심의 위험자산 선호가 약해지고, 국내 증시에도 동조화 압력이 이어지는 상황이다.",
+      "articleCount": 1,
       "relatedArticles": [
-        {
-          "source": "매일경제(증권)",
-          "title": "역대 최대 IPO 성공한 앤트로픽…오픈AI도 증시 입성 탄력 받나",
-          "url": "https://www.mk.co.kr/news/stock/12215211"
-        },
         {
           "source": "매일경제(증권)",
           "title": "엔비디아 호실적도 못 막았다…나스닥, 기술주 매도에 5.3% 폭락",
           "url": "https://www.mk.co.kr/news/stock/12215112"
-        },
-        {
-          "source": "매일경제(증권)",
-          "title": "한달 만에 27% ‘폭락의 눈물’…CEO 리스크까지 겹친 엔비디아 앞날은",
-          "url": "https://www.mk.co.kr/news/stock/12213292"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "status": "ONGOING",
-      "title": "국민연금·KIC, 대체투자·AI 인프라 중심 중장기 자본 배분 확대",
-      "summary": "국민연금이 대체투자 비중을 약 4배로 늘리고 아시아 시장으로 투자 영역을 확장하는 한편, KIC는 전략투자계정을 통해 AI 전력·인프라 및 국내 전략산업에 대한 장기 자본 공급에 나설 계획이다. 국내 기관투자가의 중장기 자본 배분 축이 전통 자산에서 인프라·전략산업 중심으로 이동하는 흐름이 뚜렷해지고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "매일경제(증권)",
-          "title": "국민연금·KIC 다음 투자처는…“AI전력·인프라” “국내전략산업 자본공급” [GAII 2026 Live]",
-          "url": "https://www.mk.co.kr/news/stock/12213297"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "status": "ONGOING",
-      "title": "MBK파트너스, 日 와콤 인수 추진…삼성·디지털펜 공급망 영향 주목",
-      "summary": "MBK파트너스가 약 1조원 규모로 일본 디지털펜 업체 와콤 인수를 추진하면서, 삼성전자 갤럭시 S펜 핵심기술 및 공급망에 미칠 영향이 부각되고 있다. 사모펀드의 일본 기술기업 인수 사례로, IT 하드웨어 밸류체인과 국내 대형 IT기업의 협력 구조 변화 가능성이 주목된다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "매일경제(증권)",
-          "title": "‘갤럭시 S펜’ 핵심기술 보유한 日와콤, MBK가 1조원대 인수",
-          "url": "https://www.mk.co.kr/news/stock/12215301"
         }
       ]
     },
     {
       "id": 5,
-      "status": "ONGOING",
-      "title": "PHP 치명적 취약점 다수 발견…웹 보안 리스크로 IT·금융 인프라 부담",
-      "summary": "PHP에서 원격 코드 실행 등 고위험 취약점이 대거 발견되면서 전 세계 웹사이트와 온라인 서비스에 대한 보안 리스크가 확대되고 있다. 금융·핀테크 서비스 운영 인프라의 상당 부분이 웹 기술에 의존하는 만큼, 패치·취약점 관리 강화와 함께 보안 비용·레거시 시스템 교체 부담이 커질 수 있다.",
+      "status": "SHIFTING",
+      "title": "앤트로픽 초대형 IPO 성공…AI 플랫폼·빅테크 밸류에이션 재평가 국면",
+      "summary": "앤트로픽이 813억달러 규모의 역대 최대급 IPO를 성사시키고 3분기 매출이 전분기 대비 45% 성장하면서, 생성형 AI 플랫폼 비즈니스의 성장성에 대한 시장 신뢰가 재확인됐다. 이로 인해 오픈AI 등 비상장 AI 기업의 상장 기대와 함께, 글로벌 금융시장에서 AI 관련 기업 가치 재평가와 자금 재배분이 진행되는 중장기 이슈로 떠오르고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
-          "title": "PHP서 또 ‘치명적 취약점’ 무더기 발견…전세계 웹사이트 해킹 비상",
-          "url": "https://www.mk.co.kr/news/stock/12214368"
+          "title": "역대 최대 IPO 성공한 앤트로픽…오픈AI도 증시 입성 탄력 받나",
+          "url": "https://www.mk.co.kr/news/stock/12215211"
         }
       ]
     }

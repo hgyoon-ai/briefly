@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-11-17",
+    "to": "2026-11-23"
+  },
+  "kpis": {
+    "collected": 26,
+    "deduped": 26,
+    "uniqueTopics": 10
+  },
+  "topTopics": [
+    {
+      "name": "Supply",
+      "count": 17
+    },
+    {
+      "name": "Market",
+      "count": 17
+    },
+    {
+      "name": "Regulation",
+      "count": 14
+    },
+    {
+      "name": "Construction",
+      "count": 13
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Supply",
+      "count": 1
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Market",
+      "count": 1
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Regulation",
+      "count": 2
+    },
+    {
+      "date": "2026-11-17",
+      "dayOfWeek": "Tue",
+      "topic": "Construction",
+      "count": 1
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Supply",
+      "count": 2
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Market",
+      "count": 3
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Regulation",
+      "count": 3
+    },
+    {
+      "date": "2026-11-18",
+      "dayOfWeek": "Wed",
+      "topic": "Construction",
+      "count": 2
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Supply",
+      "count": 5
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Market",
+      "count": 3
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Regulation",
+      "count": 2
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Construction",
+      "count": 4
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Supply",
+      "count": 6
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Market",
+      "count": 3
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Regulation",
+      "count": 4
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Construction",
+      "count": 3
+    },
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Supply",
+      "count": 1
+    },
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Market",
+      "count": 2
+    },
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Regulation",
+      "count": 2
+    },
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Construction",
+      "count": 0
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Supply",
+      "count": 1
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Market",
+      "count": 2
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Construction",
+      "count": 0
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Supply",
+      "count": 1
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Market",
+      "count": 3
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Regulation",
+      "count": 1
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Construction",
+      "count": 3
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "신규 분양 단지, 특화평면으로 실사용 면적 극대화 경쟁",
+      "summary": "용인반도체클러스터 인근 ‘라온프라이빗 파크원’처럼 4Bay·알파룸·대형 팬트리 등을 적용한 혁신 특화평면 아파트가 잇따르며, 같은 전용면적이라도 실제 체감 면적을 넓히는 설계 경쟁이 심화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "“같은 공간, 더 넓게 쓴다”…‘용인반도체클러스터’ 새 아파트에 혁신 특화평면 적용",
+          "url": "https://biz.heraldcorp.com/article/10945653"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "자연·헬스케어·ICT 결합한 ‘스마트 그린라이프’ 주거 트렌드 확산",
+      "summary": "친환경 단지 조경과 헬스케어·스마트홈 기술을 결합해 입주민 건강관리와 생활 편의를 강화하는 ‘스마트 그린라이프’ 아파트가 부동산 시장의 새로운 주거 상품 경쟁축으로 부상하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "자연환경에 스마트 기술 더한 주거환경 주목…‘스마트 그린라이프’ 확산",
+          "url": "https://biz.heraldcorp.com/article/10945597"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "세운4구역 재개발, 문화재 보존 논란으로 사업 원점 회귀",
+      "summary": "세운4구역 재개발 보존계획이 유산위원회에서 보존조치 미흡을 이유로 부결되며, 서울 도심 재개발이 다시 원점으로 돌아가 사업 지연과 이해관계자 갈등이 장기화될 가능성이 커졌다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "세운4구역 재개발 또 암초…3년 만에 보존안 ‘부결’에 다시 원점으로",
+          "url": "https://www.mk.co.kr/news/realestate/12215841"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "SHIFTING",
+      "title": "공시가격 동결 속 비강남·경기남부 세 부담 급등 우려",
+      "summary": "정부가 내년도 공시가격 현실화율을 69%로 동결했지만 최근 집값이 많이 오른 비강남권과 경기 남부는 세 부담이 크게 늘 수 있어, 지역·계층 간 조세 형평성 논란이 확대되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "“집값 올랐다고 좋아할게 아니었어”…내년 공시가, 비강남·경기남부 ‘비상’",
+          "url": "https://www.mk.co.kr/news/realestate/12215837"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "권리금 보호 범위 확대 확인…임대료 인상 건물주 배상 판결",
+      "summary": "법원이 건물주가 과도한 월세 인상으로 세입자의 권리금 회수를 방해한 경우 손해배상 책임을 인정하면서, 상가 임차인의 권리금 보호와 임대료 분쟁에 중대한 선례가 되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "건물주가 월세 올려 세입자가 권리금 못 받을땐 … “배상해야”",
+          "url": "https://www.mk.co.kr/news/realestate/12214891"
+        }
+      ]
+    }
+  ]
+}

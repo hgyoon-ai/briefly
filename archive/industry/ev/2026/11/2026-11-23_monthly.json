@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-10-25",
+    "to": "2026-11-23"
+  },
+  "kpis": {
+    "collected": 44,
+    "deduped": 44,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 28,
+      "Competition": 23,
+      "Investment": 19,
+      "Demand": 18,
+      "Policy": 11,
+      "Other": 1
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/25-10/31)",
+      "topicCounts": {
+        "Roadmap": 7,
+        "Competition": 5,
+        "Investment": 5,
+        "Demand": 4,
+        "Policy": 0
+      }
+    },
+    {
+      "week": "Week 2 (11/01-11/07)",
+      "topicCounts": {
+        "Roadmap": 4,
+        "Competition": 4,
+        "Investment": 2,
+        "Demand": 5,
+        "Policy": 2
+      }
+    },
+    {
+      "week": "Week 3 (11/08-11/14)",
+      "topicCounts": {
+        "Roadmap": 9,
+        "Competition": 8,
+        "Investment": 7,
+        "Demand": 5,
+        "Policy": 2
+      }
+    },
+    {
+      "week": "Week 4 (11/15-11/21)",
+      "topicCounts": {
+        "Roadmap": 12,
+        "Competition": 8,
+        "Investment": 7,
+        "Demand": 6,
+        "Policy": 7
+      }
+    },
+    {
+      "week": "Week 5 (11/22-11/23)",
+      "topicCounts": {
+        "Roadmap": 2,
+        "Competition": 1,
+        "Investment": 2,
+        "Demand": 1,
+        "Policy": 1
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "모듈형 LFP 가정용 백업 배터리 확장으로 분산형 에너지 저장 수요 부상",
+      "summary": "Briggs & Stratton이 16kWh 용량의 LFP 기반 가정용 백업 배터리를 출시하며, 필요 시 용량을 추가할 수 있는 모듈형 설계를 내세웠습니다. 정전 대비 수요와 전기요금 절감을 위한 가정용 ESS 시장이 커지는 가운데, 안전성이 높은 LFP 채택과 확장성 있는 설계가 향후 주택·소규모 상업용 전동화, EV 충전 연계 수요까지 확대될 가능성을 시사합니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Briggs & Stratton keeps the lights on longer with bigger 16 kWh LFP battery",
+          "url": "https://electrek.co/2026/11/22/briggs-stratton-keeps-the-lights-on-longer-with-bigger-16-kwh-lfp-battery/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "미 일리노이 항만 ‘ZEV 메이크오버’로 중장비·수송 전동화 가속",
+      "summary": "일리노이 클린 포트 프로그램이 약 1억 400만 달러를 투입해 항만 내 포크리프트, 리치 스태커, 스위처 기관차, 페리 등 중장비와 충전 인프라를 전기화합니다. 기존 도로 교통 중심에서 항만·철도·해운으로 ZEV 정책이 확장되고 있어, 상용 EV 및 고출력 충전 인프라 시장 확대와 함께 항만 운영사의 전동화 의무화·인센티브 정책이 글로벌로 확산될 가능성이 큽니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "From equipment to ferries to locomotives, Illinois ports are getting a ZEV makeover",
+          "url": "https://electrek.co/2026/11/22/from-equipment-to-ferries-to-locomotives-illinois-ports-are-getting-a-zev-makeover/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "샤오미, UAE 첫 진출로 중국 EV 브랜드 글로벌 공세 본격화",
+      "summary": "샤오미가 2027년 UAE를 시작으로 첫 해외 전기차 판매에 나서며 글로벌 EV 시장 진출을 선언했습니다. 이미 유럽·캐나다로 확산 중인 중국산 EV 저가 공세 속에서, IT·스마트폰 생태계를 기반으로 한 샤오미의 참전은 소프트웨어·인포테인먼트 통합, 가격 경쟁력 측면에서 기존 완성차에 추가 압력을 줄 전망입니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Red wave: Xiaomi goes global with first overseas EV sales",
+          "url": "https://electrek.co/2026/11/21/red-wave-xiaomi-goes-global-with-first-overseas-ev-sales/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "르노 초저가 EV 출시로 유럽 전기차 가격 전쟁 심화",
+      "summary": "르노가 약 2만 달러 미만의 Twingo E-Tech를 출시해 BYD 등 중국산 저가 EV와 정면 승부에 나섰습니다. 유럽 내 보급형 EV 세그먼트 가격 하향 압박이 커지면서 OEM들의 원가 절감, 현지 생산, 배터리 전략 재편이 불가피해지고 있으며, 소비자 측면에서는 EV 전환 장벽이 낮아져 보급 속도가 빨라질 수 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Renault undercuts BYD with a new EV that costs less than $20,000",
+          "url": "https://electrek.co/2026/11/20/renault-undercuts-byd-new-ev-costs-less-than-20000/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "아이슬란드 첫 상업용 풍력단지, 수력 저수지와 연계한 하이브리드 전원 모델 제시",
+      "summary": "아이슬란드가 첫 상업용 규모 풍력 발전단지를 구축하면서, 풍력으로 전력 생산이 늘어날 때 수력 발전용 저수지의 물을 아껴 겨울철에 활용하는 모델을 도입했습니다. 이는 재생에너지 간 상호 보완을 통해 계절·기상 변동성을 완화하는 하이브리드 전원 전략으로, EV 충전용 전력의 안정적·저탄소 공급에도 참고가 되는 구조입니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Iceland’s first wind farm comes with a water-saving bonus",
+          "url": "https://electrek.co/2026/11/17/iceland-first-wind-farm-gives-its-hydropower-a-winter-boost/"
+        }
+      ]
+    }
+  ]
+}

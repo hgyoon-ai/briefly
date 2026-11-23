@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-10-25",
+    "to": "2026-11-23"
+  },
+  "kpis": {
+    "collected": 67,
+    "deduped": 67,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "Tooling": 26,
+      "Product": 21,
+      "Infra": 18,
+      "Models": 18,
+      "Research": 18,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/25-10/31)",
+      "topicCounts": {
+        "Tooling": 8,
+        "Product": 8,
+        "Infra": 5,
+        "Models": 8,
+        "Research": 7
+      }
+    },
+    {
+      "week": "Week 2 (11/01-11/07)",
+      "topicCounts": {
+        "Tooling": 9,
+        "Product": 6,
+        "Infra": 9,
+        "Models": 4,
+        "Research": 4
+      }
+    },
+    {
+      "week": "Week 3 (11/08-11/14)",
+      "topicCounts": {
+        "Tooling": 14,
+        "Product": 13,
+        "Infra": 9,
+        "Models": 11,
+        "Research": 7
+      }
+    },
+    {
+      "week": "Week 4 (11/15-11/21)",
+      "topicCounts": {
+        "Tooling": 14,
+        "Product": 10,
+        "Infra": 9,
+        "Models": 8,
+        "Research": 13
+      }
+    },
+    {
+      "week": "Week 5 (11/22-11/23)",
+      "topicCounts": {
+        "Tooling": 0,
+        "Product": 0,
+        "Infra": 0,
+        "Models": 0,
+        "Research": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "ai-1",
+      "status": "ONGOING",
+      "title": "적대적 증류 대응을 위한 다층 AI 안전 전략",
+      "summary": "OpenAI는 모델 복제·오용을 노리는 적대적 증류에 대응해, 학습 단계 보호, 안전 장치 강화, 이상 사용 탐지 및 정책 집행을 결합한 포괄적 방어 프레임워크를 제시했다. 이는 향후 강력한 모델 공개·배포 시 필수적인 기술·거버넌스 레퍼런스로 작용할 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "Combatting adversarial distillation",
+          "url": "https://openai.com/index/combatting-adversarial-distillation"
+        }
+      ]
+    },
+    {
+      "id": "ai-2",
+      "status": "ONGOING",
+      "title": "강화학습 롤아웃 병목 제거를 통한 학습 효율 극대화",
+      "summary": "NVIDIA는 NVIDIA Dynamo 기반 인퍼런스 최적화로 강화학습 환경에서 워커의 샘플 생성 속도와 처리량을 크게 높이는 방법을 소개했다. 이는 대규모 RL 실험에서 롤아웃 병목을 줄여, 더 자주·더 크게 탐색하는 실험 설계를 가능하게 한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Reducing Rollout Bottlenecks in Reinforcement Learning with NVIDIA Dynamo",
+          "url": "https://developer.nvidia.com/blog/reducing-rollout-bottlenecks-in-reinforcement-learning-with-nvidia-dynamo/"
+        }
+      ]
+    },
+    {
+      "id": "ai-3",
+      "status": "ONGOING",
+      "title": "과학 계측기용 GPU-네이티브 실시간 AI 파이프라인",
+      "summary": "GPU-네이티브 데이터 수집 기술을 통해 센서 데이터를 지연 없이 GPU로 바로 전송·처리하는 파이프라인이 제시됐다. 이로써 실험 장비에서 AI 기반 폐쇄 루프 제어와 실시간 실험 최적화가 가능해져, 과학 연구에서 ‘실험 중 AI 의사결정’이 점차 표준 워크플로로 부상하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Enabling Real-Time AI for Scientific Instruments with GPU-Native Data Acquisition",
+          "url": "https://developer.nvidia.com/blog/enabling-real-time-ai-for-scientific-instruments-with-gpu-native-data-acquisition/"
+        }
+      ]
+    },
+    {
+      "id": "ai-4",
+      "status": "ONGOING",
+      "title": "ChatGPT 성능을 자동 관리하는 ‘Performance Factory’ 운영",
+      "summary": "OpenAI는 Codex 기반 워크플로를 활용해 성능 저하 이슈를 자동 탐지·분석·수정하는 Performance Factory를 구축했다. 지속 모니터링과 자동 패치 시스템을 통해 ChatGPT의 응답 속도와 안정성을 유지하는 운영 자동화 사례를 제시한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+          "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
+        }
+      ]
+    },
+    {
+      "id": "ai-5",
+      "status": "SHIFTING",
+      "title": "고도화된 AI가 사회 규범과 제도에 미치는 장기적 영향 논의",
+      "summary": "OpenAI는 더 강력한 AI가 사람들의 신뢰 구조와 제도 운용 방식을 ‘침묵의 합의’ 형태로 서서히 바꿀 수 있다는 점을 짚으며, 권한 배분·책임 소재·감시 메커니즘 등 정책·전략적 통제 프레임워크의 재설계를 제안한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "The Silent Consensus",
+          "url": "https://openai.com/index/the-silent-consensus"
+        }
+      ]
+    }
+  ]
+}
