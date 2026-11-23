@@ -1,0 +1,661 @@
+{
+  "date": "2026-11-23",
+  "kpis": {
+    "clusters": 20,
+    "sources": 2,
+    "new": 17
+  },
+  "clusters": [
+    {
+      "id": "7e8d20aaff4aad701658de574a9dadde1a74fce3",
+      "name": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 1619.4,
+      "oneLiner": "Anthropic 전력 공급 비중을 2028년 기준으로 분석한 글",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "899p · 900c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50597612"
+        },
+        {
+          "label": "Source",
+          "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "7e355db4b2a9e79c068be9d3a73026b13f5413e2",
+      "name": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 1535.4,
+      "oneLiner": "Toyota, Nissan, Honda의 부품 표준화 추진 소식을 다룬 기사",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "1197p · 681c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50596133"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "47dff69d13e95b34532a8fe87a0632c11482b6cd",
+      "name": "Perplexity and Intelligence",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 703.8,
+      "oneLiner": "Perplexity와 지능의 관계를 논하는 글",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "491p · 341c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50601525"
+        },
+        {
+          "label": "Source",
+          "url": "https://openai.com/index/perplexity-and-intelligence/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "4f6597fe9c528eddc90904b5e12215e2d5628f20",
+      "name": "ItsNotRexed/Leonida",
+      "section": "trending",
+      "status": "ONGOING",
+      "score": 651.96,
+      "oneLiner": "GTA 6 엑스박스판을 네이티브 PC로 재컴파일한 프로젝트 저장소",
+      "whyNow": "업데이트가 유지되며 관심이 꾸준히 쌓이는 흐름입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "15,649"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "1,300"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-23"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/ItsNotRexed/Leonida"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "7b94b9a8af4bc234af07485947c2fb4e3e6be3f2",
+      "name": "What Happened to Silicon Valley?",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 577.2,
+      "oneLiner": "실리콘밸리의 변화 원인을 탐구하는 글",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "446p · 258c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50602947"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "615f72c980bda1874ca8c92444be349dffbcbc57",
+      "name": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 425.4,
+      "oneLiner": "GTA 6의 조류와 생태를 소개하는 필드 가이드 기사",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "369p · 170c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50602843"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife"
+        }
+      ],
+      "tags": [
+        "editor"
+      ]
+    },
+    {
+      "id": "621a3635d24fefd36596b22ff264255b5613eaac",
+      "name": "Open Social Web Alliance",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 394.2,
+      "oneLiner": "오픈 소셜 웹 얼라이언스의 활동과 정보를 소개하는 사이트",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "227p · 215c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50600511"
+        },
+        {
+          "label": "Source",
+          "url": "https://osw-alliance.net/en/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "1f955af97cb15a6cd670d63c740fb6317fc86299",
+      "name": "EL4CTEO/fast-anything",
+      "section": "releases",
+      "status": "NEW",
+      "score": 390.32,
+      "oneLiner": "애플리케이션의 느린 5%만 포팅해 성능 개선을 제안하는 저장소",
+      "whyNow": "최근 릴리즈가 나오며 실사용 공유가 빠르게 늘고 있습니다. 워크플로우 자동화 관점에서 재평가가 진행 중입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "1,996"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "124"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-23"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v0.8.0"
+        },
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "180p · 150c"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/EL4CTEO/fast-anything"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/EL4CTEO/fast-anything/releases/tag/v0.8.0"
+        },
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50596155"
+        }
+      ],
+      "tags": [
+        "agent tooling"
+      ]
+    },
+    {
+      "id": "6c93b3ba608cb2bcc9845d206e9eaed501a257ef",
+      "name": "erkamyaman/rust-anything",
+      "section": "releases",
+      "status": "ONGOING",
+      "score": 354.82,
+      "oneLiner": "앱을 단계적으로 Rust로 대체하며 동작을 검증하는 저장소",
+      "whyNow": "릴리즈 직후라 적용/마이그레이션 경험이 모이고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "8,046"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "649"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-23"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v3.3.0"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/erkamyaman/rust-anything"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/erkamyaman/rust-anything/releases/tag/v3.3.0"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "1480b33eead0ecf7d551b1f1ee049dea0acf3e12",
+      "name": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "section": "trending",
+      "status": "NEW",
+      "score": 291.0,
+      "oneLiner": "Inkling, Qwen, Unsloth 등으로 로컬 AI를 시작하는 초보자 가이드",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 개발자 경험 개선 관점에서 관심이 커지고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "261p · 112c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50603845"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
+        }
+      ],
+      "tags": [
+        "editor"
+      ]
+    },
+    {
+      "id": "06e7e9a20b712cefe2adb7db3343a9385be2e1f3",
+      "name": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 257.4,
+      "oneLiner": "Alessandro Masullo 원고의 Lean 형식화 진행 지도를 다룬 글",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "159p · 135c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50605045"
+        },
+        {
+          "label": "Source",
+          "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "8a7caab69a5dd95d5c0540d1802fe07c14a313ba",
+      "name": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 252.6,
+      "oneLiner": "과학과 규제 변화 속에서 유럽의 화학물질 규제 완화를 다룬 기사",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "157p · 132c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50600677"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "5029050ed62bb545728ae4d04290961714b6aa89",
+      "name": "gulivan/worker755",
+      "section": "trending",
+      "status": "NEW",
+      "score": 248.26,
+      "oneLiner": "AI 매니저가 플레이어를 서브에이전트로 다루는 브라우저 게임 저장소",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 에이전트 활용 흐름과 맞물려 주목이 커지고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "130"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "3"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-23"
+        },
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "275p · 65c"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/gulivan/worker755"
+        },
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50599762"
+        }
+      ],
+      "tags": [
+        "agent tooling"
+      ]
+    },
+    {
+      "id": "d177c889a33f584d213740eb869a4237b8a06e6f",
+      "name": "Canada recommits to federal funding for news",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 219.6,
+      "oneLiner": "캐나다의 뉴스 관련 연방 자금 재확약 소식을 전하는 기사",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "120p · 123c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50602847"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "b7963012ba6841fcd33b64f816226dbe50f0e832",
+      "name": "A miniature San Francisco with live buses, planes and boats",
+      "section": "trending",
+      "status": "NEW",
+      "score": 175.8,
+      "oneLiner": "라이브 버스와 비행기가 있는 축소판 샌프란시스코를 소개하는 사이트",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "155p · 69c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50603589"
+        },
+        {
+          "label": "Source",
+          "url": "https://smallsf.com/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "8911ff9cdbfd9147c9f7f6860cc2da131da94a82",
+      "name": "Backblaze customers worried of personal data sale/sharing after policy update",
+      "section": "trending",
+      "status": "NEW",
+      "score": 162.6,
+      "oneLiner": "정책 변경 후 Backblaze 고객의 개인 데이터 판매 공유 우려를 다룬 기사",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "151p · 60c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50600435"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/"
+        }
+      ],
+      "tags": [
+        "data"
+      ]
+    },
+    {
+      "id": "48881cd4abe79b7140e1831f9546209fecac9d18",
+      "name": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "section": "releases",
+      "status": "ONGOING",
+      "score": 130.76,
+      "oneLiner": "Blender용 AI 보조와 MCP 서버 기능을 제공하는 애드온 저장소",
+      "whyNow": "버전 업데이트 이후 재확산이 시작된 흐름입니다. 워크플로우 자동화 관점에서 재평가가 진행 중입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,750"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "38"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-23"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v1.0.0"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon/releases/tag/v1.0.0"
+        }
+      ],
+      "tags": [
+        "agent tooling",
+        "codegen"
+      ]
+    },
+    {
+      "id": "49b2da022ffa753880cb7104866fa629ca6560db",
+      "name": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+      "section": "trending",
+      "status": "NEW",
+      "score": 128.4,
+      "oneLiner": "Stratum 1 Pi 없이 NTP 풀에 참여한 경험을 소개하는 글",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "132p · 41c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50600622"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "0bfce02dcc23475670f82e1f7e36fe591d845f57",
+      "name": "iamajmeena/neonclipping",
+      "section": "releases",
+      "status": "NEW",
+      "score": 106.42,
+      "oneLiner": "링크로 자막 있는 세로형 클립을 빠르게 생성하는 오픈소스 엔진 저장소",
+      "whyNow": "업데이트가 트리거가 되어 레퍼런스가 모이는 구간입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "2,101"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "119"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-23"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v1.1.0"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/iamajmeena/neonclipping"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/iamajmeena/neonclipping/releases/tag/v1.1.0"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "931925a1ca43388d0b59055cb46e25171f8c32ed",
+      "name": "sybil-solutions/inference-optimisation-skill",
+      "section": "trending",
+      "status": "NEW",
+      "score": 82.3,
+      "oneLiner": "로컬 LLM 서빙 속도 최적화를 위한 에이전트 스킬 저장소",
+      "whyNow": "개발 신호가 이어지면서 사용 사례가 늘고 있습니다. 에이전트 활용 흐름과 맞물려 주목이 커지고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "1,966"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "183"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-23"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/sybil-solutions/inference-optimisation-skill"
+        }
+      ],
+      "tags": [
+        "agent tooling"
+      ]
+    }
+  ]
+}
