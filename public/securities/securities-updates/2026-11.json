@@ -2,6 +2,53 @@
   "month": "2026-11",
   "events": [
     {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202611230945463282",
+      "date": "2026-11-23",
+      "company": "한국투자증권",
+      "title": "한투증권, 영상통화 없이 MMW CMA 가입…업계 첫 간편 서비스",
+      "oneLiner": "한국투자증권이 영상통화 없이 모바일로 MMW CMA에 가입할 수 있는 업계 최초의 비대면 간편 가입 서비스를 출시했습니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투증권, 영상통화 없이 MMW CMA 가입…업계 첫 간편 서비스",
+          "url": "https://www.fnnews.com/news/202611230945463282"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "news:삼성증권:https://www.fnnews.com/news/202611231034062688",
+      "date": "2026-11-23",
+      "company": "삼성증권",
+      "title": "삼성증권, 고객 8241명 개인정보 유출…'고객의소리' 외부 침입",
+      "oneLiner": "삼성증권의 VOC 시스템에 외부 비인가자가 침입해 고객 8241명의 개인정보가 유출된 사실을 회사가 확인·발표했습니다.",
+      "type": "시스템",
+      "areas": [
+        "리스크",
+        "상담"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "삼성증권, 고객 8241명 개인정보 유출…'고객의소리' 외부 침입",
+          "url": "https://www.fnnews.com/news/202611231034062688"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.97,
+      "updatedAt": "2026-11-23"
+    },
+    {
       "id": "755a20eb35459b87b76b401ed2f38ead86e6004b",
       "date": "2026-11-21",
       "company": "키움증권",

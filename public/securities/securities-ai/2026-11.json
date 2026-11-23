@@ -2,6 +2,145 @@
   "month": "2026-11",
   "events": [
     {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12215917",
+      "date": "2026-11-23",
+      "company": "한국투자증권",
+      "title": "20년 묵힐 펀드엔 AI 담아야 정답…한투서 나왔다는데",
+      "oneLiner": "한국투자운용이 AI 밸류체인에 투자하는 TDF형 연금 펀드를 출시하며 은퇴시점 맞춤 자산배분 전략을 제시했다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "20년 묵힐 펀드엔 AI 담아야 정답…한투서 나왔다는데",
+          "url": "https://www.mk.co.kr/news/stock/12215917"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202611230846024121",
+      "date": "2026-11-23",
+      "company": "KB증권",
+      "title": "자회사 배당 늘고 AI도 기대되는데…LG 목표가 하향",
+      "oneLiner": "KB증권이 LG 목표가를 하향했으나 자회사 배당·자사주·내부 AI 모델 '엑사원'으로 인한 중장기 가치 제고 가능성을 언급한 리서치 보고서를 냈다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "자회사 배당 늘고 AI도 기대되는데…LG 목표가 하향",
+          "url": "https://www.fnnews.com/news/202611230846024121"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202611230849048473",
+      "date": "2026-11-23",
+      "company": "NH투자증권",
+      "title": "\"코스피 4000선도 붕괴될 수도\"…두 손 두 발 다 든 증권가",
+      "oneLiner": "NH투자증권 리서치본부는 엔비디아발 충격과 AI 산업 재편 가능성을 들어 코스피 하방 리스크 확대를 경고하는 시장 전망을 내놨다.",
+      "type": "리서치",
+      "areas": [
+        "리스크",
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"코스피 4000선도 붕괴될 수도\"…두 손 두 발 다 든 증권가",
+          "url": "https://www.fnnews.com/news/202611230849048473"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "news:메리츠증권:https://www.fnnews.com/news/202611230842496208",
+      "date": "2026-11-23",
+      "company": "메리츠증권",
+      "title": "파인엠텍, 3분기 최대 실적에 4분기 북미 효과…메리츠證 \"상승여력 118%\"",
+      "oneLiner": "메리츠증권이 파인엠텍을 AI 하드웨어 밸류체인 관련 성장주로 분석하며 '매수' 의견과 목표주가를 제시했다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "파인엠텍, 3분기 최대 실적에 4분기 북미 효과…메리츠證 \"상승여력 118%\"",
+          "url": "https://www.fnnews.com/news/202611230842496208"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202611230933318067",
+      "date": "2026-11-23",
+      "company": "한국투자증권",
+      "title": "한투운용, AI 성장에 연금 자산배분 접목…새 TDF 운용전략 공개",
+      "oneLiner": "한국투자신탁운용이 AI 성장 테마를 연금 자산배분에 접목한 TDF 신상품을 출시하고 운용전략을 공개했다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투운용, AI 성장에 연금 자산배분 접목…새 TDF 운용전략 공개",
+          "url": "https://www.fnnews.com/news/202611230933318067"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "news:미래에셋증권:https://www.fnnews.com/news/202611221810263003",
+      "date": "2026-11-22",
+      "company": "미래에셋증권",
+      "title": "서학개미, 앤스로픽 첫날 2190억 매수",
+      "oneLiner": "서학개미들이 미국 AI 기업 앤스로픽 상장 첫날 주요 증권사를 통해 대규모 매수(약 2190억원)를 기록한 브로커리지 집계 보도이다.",
+      "type": "기타",
+      "areas": [
+        "브로커리지"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "서학개미, 앤스로픽 첫날 2190억 매수",
+          "url": "https://www.fnnews.com/news/202611221810263003"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-11-23"
+    },
+    {
       "id": "news:미래에셋증권:https://www.fnnews.com/news/202611201114306434",
       "date": "2026-11-20",
       "company": "미래에셋증권",
