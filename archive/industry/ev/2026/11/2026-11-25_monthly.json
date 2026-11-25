@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-10-27",
+    "to": "2026-11-25"
+  },
+  "kpis": {
+    "collected": 42,
+    "deduped": 42,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 28,
+      "Competition": 24,
+      "Investment": 19,
+      "Demand": 17,
+      "Policy": 12,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/27-11/02)",
+      "topicCounts": {
+        "Roadmap": 3,
+        "Competition": 3,
+        "Investment": 2,
+        "Demand": 2,
+        "Policy": 0
+      }
+    },
+    {
+      "week": "Week 2 (11/03-11/09)",
+      "topicCounts": {
+        "Roadmap": 6,
+        "Competition": 7,
+        "Investment": 5,
+        "Demand": 5,
+        "Policy": 2
+      }
+    },
+    {
+      "week": "Week 3 (11/10-11/16)",
+      "topicCounts": {
+        "Roadmap": 11,
+        "Competition": 10,
+        "Investment": 6,
+        "Demand": 7,
+        "Policy": 4
+      }
+    },
+    {
+      "week": "Week 4 (11/17-11/23)",
+      "topicCounts": {
+        "Roadmap": 12,
+        "Competition": 8,
+        "Investment": 8,
+        "Demand": 7,
+        "Policy": 6
+      }
+    },
+    {
+      "week": "Week 5 (11/24-11/25)",
+      "topicCounts": {
+        "Roadmap": 2,
+        "Competition": 2,
+        "Investment": 2,
+        "Demand": 0,
+        "Policy": 1
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "BYD, 프랑스 기존 공장 인수 추진으로 EU 내 생산 거점 확대",
+      "summary": "BYD가 프랑스 앙바흐의 이네오스 오토모티브 공장 인수를 위한 독점 협상에 돌입하면서, 헝가리에 이어 EU 내 두 번째 승용차 공장 확보를 노리고 있습니다. 중국 완성차업체의 첫 유럽 기존 공장 인수 사례가 될 수 있어, 유럽 내 전기차 생산·고용·공급망 재편과 중국 브랜드의 EU 내 현지화 전략 심화를 상징합니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "BYD in talks to buy Ineos’ French factory as Grenadier moves to US",
+          "url": "https://electrek.co/2026/11/24/byd-ineos-hambach-factory-france-grenadier-us/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "가정용 LFP 에너지 스토리지 확장: Briggs & Stratton 16kWh 백업 배터리",
+      "summary": "Briggs & Stratton이 16kWh LFP 가정용 백업 배터리를 출시하며 분산형 에너지 스토리지 시장 확대에 합류했습니다. 모듈형·확장형 설계를 내세워 정전 대비뿐 아니라 전기요금 절감, 태양광 연계 등 가정용 에너지 자립 수요를 겨냥해 에너지 인프라의 전동화·저탄소화를 가속하는 흐름을 보여줍니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Briggs & Stratton keeps the lights on longer with bigger 16 kWh LFP battery",
+          "url": "https://electrek.co/2026/11/22/briggs-stratton-keeps-the-lights-on-longer-with-bigger-16-kwh-lfp-battery/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "미 일리노이주 항만 전동화: ZEV 장비 도입과 충전 인프라 구축",
+      "summary": "일리노이 클린 포트 프로그램이 1억 400만 달러를 투입해 포크리프트, 리치 스태커, 스위처 기관차, 페리 등 항만 장비를 ZEV로 전환하고 충전 인프라를 확충합니다. 항만·물류 부문의 전기화는 대기오염과 탄소 배출 감축뿐 아니라, 중·대형 상업용 전동화 장비 수요를 촉발하는 정책 신호로 작용하고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "From equipment to ferries to locomotives, Illinois ports are getting a ZEV makeover",
+          "url": "https://electrek.co/2026/11/22/from-equipment-to-ferries-to-locomotives-illinois-ports-are-getting-a-zev-makeover/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "샤오미, 첫 해외 전기차 판매로 글로벌 EV 시장 진입",
+      "summary": "샤오미가 UAE를 시작으로 해외 전기차 판매를 개시하며 글로벌 EV 시장에 본격 진출합니다. 이는 유럽·북미로 확산 중인 중국산 전기차의 해외 공세 흐름 속에서, IT·전자 기업 출신 플레이어까지 EV 시장 경쟁에 합류하는 추세를 보여주며, 신흥시장 중심의 가격·스펙 경쟁 심화를 예고합니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Red wave: Xiaomi goes global with first overseas EV sales",
+          "url": "https://electrek.co/2026/11/21/red-wave-xiaomi-goes-global-with-first-overseas-ev-sales/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "르노, 2만 달러 미만 전기차로 유럽 EV 가격 전쟁 본격화",
+      "summary": "르노가 Twingo E-Tech를 약 2만 달러 미만 가격으로 출시하며 BYD 등 저가 EV와의 정면 경쟁에 나섰습니다. 유럽 완성차 업체가 가격대를 대폭 낮춘 본격적인 대중형 전기차를 내놓으면서, 보조금 축소 환경에서도 내연기관 대비 총소유비용(TCO) 경쟁력을 확보하려는 전략이 강화되고 있습니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Renault undercuts BYD with a new EV that costs less than $20,000",
+          "url": "https://electrek.co/2026/11/20/renault-undercuts-byd-new-ev-costs-less-than-20000/"
+        }
+      ]
+    }
+  ]
+}

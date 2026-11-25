@@ -1,12 +1,63 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-25",
   "highlights": {
-    "bullets": [],
-    "topTopics": [],
+    "bullets": [
+      "핵심: 오늘 반도체 관련 주요 뉴스는 입력에 포함되어 있지 않습니다.",
+      "핵심: 제공된 기사들은 엣지 AI 기반 농기계의 자율화와 V2G의 실용성 문제를 다룹니다."
+    ],
+    "topTopics": [
+      "Investment",
+      "Roadmap",
+      "Policy",
+      "Manufacturing"
+    ],
     "stats": {
-      "collected": 0,
-      "deduped": 0
+      "collected": 4,
+      "deduped": 4
     }
   },
-  "cards": []
+  "cards": [
+    {
+      "id": "semiconductor_0001",
+      "tab": "semiconductor",
+      "publishedAt": "2026-11-25T01:16:56+09:00",
+      "source": "EE Times",
+      "title": "From Precision to Autonomous Agriculture: The Role of Edge AI and Robotics",
+      "summary": [
+        "엣지 AI와 로보틱스가 농기계에 적용되어 정밀한 표적 살포부터 자율 수확까지 가능해졌다.",
+        "실시간 엣지 처리로 작업 정확도와 자율성이 높아져 현장 운영 효율이 개선된다.",
+        "이전의 정밀농업에서 완전한 자율화로의 전환이 장비 제조·투자 및 시장 로드맵에 변화를 일으킬 전망이다."
+      ],
+      "whyItMatters": "엣지 컴퓨팅 기반의 실시간 판단 능력이 기존 정밀농업의 한계를 넘어 자율화 전환을 가속하기 때문이다.",
+      "topics": [
+        "Manufacturing",
+        "Investment",
+        "Roadmap"
+      ],
+      "status": "SHIFTING",
+      "hash": "87b08439de4fb07dde51fe1017d23b2c8250cf7e80ff5ed65ef046a47adcd302",
+      "url": "https://www.eetimes.com/from-precision-to-autonomous-agriculture-the-role-of-edge-ai-and-robotics/"
+    },
+    {
+      "id": "semiconductor_0002",
+      "tab": "semiconductor",
+      "publishedAt": "2026-11-24T20:53:11+09:00",
+      "source": "EE Times",
+      "title": "Vehicle-to-Grid: Great Idea or Unrealistic Dream? (Part 2)",
+      "summary": [
+        "V2G는 전력망 유연성과 재생에너지 수용을 높일 잠재력이 있다.",
+        "배터리 수명 저하, 충전 인프라 접근성, 비용, 운전자 편의성 등의 실용적 문제가 제기된다.",
+        "상용화 위해서는 기술 개선, 정책 지원, 비용·인센티브 구조 재설계가 필요하다."
+      ],
+      "whyItMatters": "장단점이 뚜렷하여 정책·투자 결정에 따라 확산 여부가 전력망과 모빌리티 생태계에 큰 영향을 미치기 때문에 중요하다.",
+      "topics": [
+        "Policy",
+        "Investment",
+        "Roadmap"
+      ],
+      "status": "ONGOING",
+      "hash": "ec5e9f80ad3cd327b350d71d0bfbce4a8b4d18789d0f20752470c654ac4580de",
+      "url": "https://www.eetimes.com/vehicle-to-grid-great-idea-or-unrealistic-dream-part-2/"
+    }
+  ]
 }

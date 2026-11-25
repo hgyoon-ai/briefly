@@ -1,103 +1,55 @@
 {
   "range": {
-    "from": "2026-11-17",
-    "to": "2026-11-23"
+    "from": "2026-11-19",
+    "to": "2026-11-25"
   },
   "kpis": {
-    "collected": 26,
-    "deduped": 26,
+    "collected": 21,
+    "deduped": 21,
     "uniqueTopics": 10
   },
   "topTopics": [
     {
       "name": "Supply",
-      "count": 17
+      "count": 14
     },
     {
       "name": "Market",
-      "count": 17
-    },
-    {
-      "name": "Regulation",
       "count": 14
     },
     {
       "name": "Construction",
-      "count": 13
+      "count": 10
+    },
+    {
+      "name": "Regulation",
+      "count": 8
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-11-17",
-      "dayOfWeek": "Tue",
-      "topic": "Supply",
-      "count": 1
-    },
-    {
-      "date": "2026-11-17",
-      "dayOfWeek": "Tue",
-      "topic": "Market",
-      "count": 1
-    },
-    {
-      "date": "2026-11-17",
-      "dayOfWeek": "Tue",
-      "topic": "Regulation",
-      "count": 2
-    },
-    {
-      "date": "2026-11-17",
-      "dayOfWeek": "Tue",
-      "topic": "Construction",
-      "count": 1
-    },
-    {
-      "date": "2026-11-18",
-      "dayOfWeek": "Wed",
-      "topic": "Supply",
-      "count": 2
-    },
-    {
-      "date": "2026-11-18",
-      "dayOfWeek": "Wed",
-      "topic": "Market",
-      "count": 3
-    },
-    {
-      "date": "2026-11-18",
-      "dayOfWeek": "Wed",
-      "topic": "Regulation",
-      "count": 3
-    },
-    {
-      "date": "2026-11-18",
-      "dayOfWeek": "Wed",
-      "topic": "Construction",
-      "count": 2
-    },
-    {
       "date": "2026-11-19",
       "dayOfWeek": "Thu",
       "topic": "Supply",
-      "count": 5
+      "count": 1
     },
     {
       "date": "2026-11-19",
       "dayOfWeek": "Thu",
       "topic": "Market",
-      "count": 3
-    },
-    {
-      "date": "2026-11-19",
-      "dayOfWeek": "Thu",
-      "topic": "Regulation",
-      "count": 2
+      "count": 1
     },
     {
       "date": "2026-11-19",
       "dayOfWeek": "Thu",
       "topic": "Construction",
-      "count": 4
+      "count": 1
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Regulation",
+      "count": 0
     },
     {
       "date": "2026-11-20",
@@ -114,14 +66,14 @@
     {
       "date": "2026-11-20",
       "dayOfWeek": "Fri",
-      "topic": "Regulation",
-      "count": 4
+      "topic": "Construction",
+      "count": 3
     },
     {
       "date": "2026-11-20",
       "dayOfWeek": "Fri",
-      "topic": "Construction",
-      "count": 3
+      "topic": "Regulation",
+      "count": 4
     },
     {
       "date": "2026-11-21",
@@ -138,14 +90,14 @@
     {
       "date": "2026-11-21",
       "dayOfWeek": "Sat",
-      "topic": "Regulation",
-      "count": 2
+      "topic": "Construction",
+      "count": 0
     },
     {
       "date": "2026-11-21",
       "dayOfWeek": "Sat",
-      "topic": "Construction",
-      "count": 0
+      "topic": "Regulation",
+      "count": 2
     },
     {
       "date": "2026-11-22",
@@ -162,13 +114,13 @@
     {
       "date": "2026-11-22",
       "dayOfWeek": "Sun",
-      "topic": "Regulation",
+      "topic": "Construction",
       "count": 0
     },
     {
       "date": "2026-11-22",
       "dayOfWeek": "Sun",
-      "topic": "Construction",
+      "topic": "Regulation",
       "count": 0
     },
     {
@@ -186,22 +138,117 @@
     {
       "date": "2026-11-23",
       "dayOfWeek": "Mon",
-      "topic": "Regulation",
-      "count": 1
+      "topic": "Construction",
+      "count": 3
     },
     {
       "date": "2026-11-23",
       "dayOfWeek": "Mon",
+      "topic": "Regulation",
+      "count": 1
+    },
+    {
+      "date": "2026-11-24",
+      "dayOfWeek": "Tue",
+      "topic": "Supply",
+      "count": 1
+    },
+    {
+      "date": "2026-11-24",
+      "dayOfWeek": "Tue",
+      "topic": "Market",
+      "count": 1
+    },
+    {
+      "date": "2026-11-24",
+      "dayOfWeek": "Tue",
+      "topic": "Construction",
+      "count": 0
+    },
+    {
+      "date": "2026-11-24",
+      "dayOfWeek": "Tue",
+      "topic": "Regulation",
+      "count": 1
+    },
+    {
+      "date": "2026-11-25",
+      "dayOfWeek": "Wed",
+      "topic": "Supply",
+      "count": 3
+    },
+    {
+      "date": "2026-11-25",
+      "dayOfWeek": "Wed",
+      "topic": "Market",
+      "count": 2
+    },
+    {
+      "date": "2026-11-25",
+      "dayOfWeek": "Wed",
       "topic": "Construction",
       "count": 3
+    },
+    {
+      "date": "2026-11-25",
+      "dayOfWeek": "Wed",
+      "topic": "Regulation",
+      "count": 0
     }
   ],
   "topIssues": [
     {
       "id": 1,
       "status": "ONGOING",
-      "title": "신규 분양 단지, 특화평면으로 실사용 면적 극대화 경쟁",
-      "summary": "용인반도체클러스터 인근 ‘라온프라이빗 파크원’처럼 4Bay·알파룸·대형 팬트리 등을 적용한 혁신 특화평면 아파트가 잇따르며, 같은 전용면적이라도 실제 체감 면적을 넓히는 설계 경쟁이 심화되고 있다.",
+      "title": "AI·로봇 기반 스마트건설 기술 확산",
+      "summary": "LH가 스마트건설·안전·AI 엑스포에서 사족보행 로봇과 BIM·실시간 정보시스템을 선보이며 공사 현장의 자동화·안전관리 디지털 전환을 가속하고 있습니다. 공공 발주를 중심으로 스마트건설 기술 표준화와 민간 확산이 이어질 가능성이 큽니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "LH, ‘스마트건설·안전·AI’ 엑스포서 사족보행 로봇 선봬",
+          "url": "https://biz.heraldcorp.com/article/10948929"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "3040 중심 매수세와 중대형 오피스텔 수요 확대",
+      "summary": "올해 아파트 매수의 과반을 3040이 차지한 가운데, 전용 84㎡ 중대형 오피스텔 거래가 크게 늘며 주거용 대체 상품으로 부상하고 있습니다. 아파트 규제·가격 부담이 일부 수요를 오피스텔로 이동시키는 구조가 강화되는 모습입니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "아파트 매수 54%가 3040…전용 84㎡ 오피스텔 거래 57% 증가",
+          "url": "https://www.mk.co.kr/news/realestate/12217918"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "세제·공시가 정책 변화와 서울·수도권 가격구조 재편",
+      "summary": "8·3 세제 개편 이후 서울 아파트 매물이 강남에서 비강남권으로 확산되는 동시에, 내년 공시가격 현실화율 동결 속에서 비강남·경기 남부의 공시가 부담이 커지고 있습니다. 세제·공시가 정책이 지역 간 매물 누적과 체감 세부담 격차를 키우며 시장 심리에 영향을 주는 국면입니다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "이재명 정부 부동산 정책 영향?…강북도 매물 쌓이며 집값 상승세 ‘주춤’",
+          "url": "https://www.mk.co.kr/news/realestate/12217859"
+        },
+        {
+          "source": "매일경제(부동산)",
+          "title": "“집값 올랐다고 좋아할게 아니었어”…내년 공시가, 비강남·경기남부 ‘비상’",
+          "url": "https://www.mk.co.kr/news/realestate/12215837"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "대형 산업클러스터 인근 신축단지의 평면 혁신 경쟁",
+      "summary": "용인반도체클러스터 인근 분양 단지가 4Bay·4Room, 알파룸, 대형 팬트리 등 특화 평면을 내세우며 실사용 면적 극대화 경쟁을 벌이고 있습니다. 배후 수요가 확실한 산업단지 인근 신축 아파트에서 차별화 설계가 분양 성패의 핵심 변수로 부상하고 있습니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -212,58 +259,16 @@
       ]
     },
     {
-      "id": 2,
-      "status": "ONGOING",
-      "title": "자연·헬스케어·ICT 결합한 ‘스마트 그린라이프’ 주거 트렌드 확산",
-      "summary": "친환경 단지 조경과 헬스케어·스마트홈 기술을 결합해 입주민 건강관리와 생활 편의를 강화하는 ‘스마트 그린라이프’ 아파트가 부동산 시장의 새로운 주거 상품 경쟁축으로 부상하고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "헤럴드경제(부동산)",
-          "title": "자연환경에 스마트 기술 더한 주거환경 주목…‘스마트 그린라이프’ 확산",
-          "url": "https://biz.heraldcorp.com/article/10945597"
-        }
-      ]
-    },
-    {
-      "id": 3,
+      "id": 5,
       "status": "SHIFTING",
-      "title": "세운4구역 재개발, 문화재 보존 논란으로 사업 원점 회귀",
-      "summary": "세운4구역 재개발 보존계획이 유산위원회에서 보존조치 미흡을 이유로 부결되며, 서울 도심 재개발이 다시 원점으로 돌아가 사업 지연과 이해관계자 갈등이 장기화될 가능성이 커졌다.",
+      "title": "도심 재개발 갈등 심화와 문화재·보존 이슈",
+      "summary": "세운4구역 재개발 보존계획이 다시 부결되며 사업이 원점으로 돌아가, 도심 재개발에서 문화·역사 보존과 개발 이익 사이의 갈등이 재부각되고 있습니다. 심의 기준과 보존 범위를 둘러싼 불확실성이 향후 유사 도심 재개발 사업의 리스크로 작용할 수 있습니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(부동산)",
           "title": "세운4구역 재개발 또 암초…3년 만에 보존안 ‘부결’에 다시 원점으로",
           "url": "https://www.mk.co.kr/news/realestate/12215841"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "status": "SHIFTING",
-      "title": "공시가격 동결 속 비강남·경기남부 세 부담 급등 우려",
-      "summary": "정부가 내년도 공시가격 현실화율을 69%로 동결했지만 최근 집값이 많이 오른 비강남권과 경기 남부는 세 부담이 크게 늘 수 있어, 지역·계층 간 조세 형평성 논란이 확대되고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "매일경제(부동산)",
-          "title": "“집값 올랐다고 좋아할게 아니었어”…내년 공시가, 비강남·경기남부 ‘비상’",
-          "url": "https://www.mk.co.kr/news/realestate/12215837"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "status": "ONGOING",
-      "title": "권리금 보호 범위 확대 확인…임대료 인상 건물주 배상 판결",
-      "summary": "법원이 건물주가 과도한 월세 인상으로 세입자의 권리금 회수를 방해한 경우 손해배상 책임을 인정하면서, 상가 임차인의 권리금 보호와 임대료 분쟁에 중대한 선례가 되고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "매일경제(부동산)",
-          "title": "건물주가 월세 올려 세입자가 권리금 못 받을땐 … “배상해야”",
-          "url": "https://www.mk.co.kr/news/realestate/12214891"
         }
       ]
     }

@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-25",
+  "highlights": {
+    "bullets": [
+      "핵심: 테슬라와 스페이스X가 연말까지 전액 주식 방식 합병을 추진 중이다.",
+      "핵심: BYD가 프랑스 이네오스 공장 인수를 위한 독점 협상에 들어갔다."
+    ],
+    "topTopics": [
+      "Competition",
+      "Investment",
+      "Roadmap",
+      "Demand"
+    ],
+    "stats": {
+      "collected": 13,
+      "deduped": 13
+    }
+  },
+  "cards": [
+    {
+      "id": "ev_0001",
+      "tab": "ev",
+      "publishedAt": "2026-11-24T23:43:50+09:00",
+      "source": "Electrek",
+      "title": "Tesla (TSLA), SpaceX race for year-end merger deal before new Congress",
+      "summary": [
+        "테슬라와 스페이스X가 연말까지 전액 주식 방식의 합병 계약 체결을 추진 중이다.",
+        "12월 31일 이전 합의 시 머스크 기업들에 대한 조사를 예고한 새 의회 출범 직전 시점에 거래가 성사될 수 있다.",
+        "테슬라 측 협상 이사진 중 두 명은 과거 머스크의 1조 달러 규모 보상 패키지를 설계했던 인물들로 지배구조 논란이 재부각되고 있다."
+      ],
+      "whyItMatters": "머스크의 핵심 기업 두 곳의 합병은 거버넌스 리스크, 규제·정치 리스크, 장기 성장 스토리와 밸류에이션 프레임을 동시에 바꾸는 잠재적 빅딜이기 때문이다.",
+      "topics": [
+        "Investment",
+        "Policy",
+        "Competition",
+        "Roadmap"
+      ],
+      "status": "ONGOING",
+      "hash": "aa53c58026e0b1dcd871ee71ba1bbf41a58b310458e561bb8c792255a78d0448",
+      "url": "https://electrek.co/2026/11/24/tesla-spacex-merger-year-end-deadline-new-congress/"
+    },
+    {
+      "id": "ev_0002",
+      "tab": "ev",
+      "publishedAt": "2026-11-25T02:58:40+09:00",
+      "source": "Electrek",
+      "title": "BYD in talks to buy Ineos’ French factory as Grenadier moves to US",
+      "summary": [
+        "BYD가 프랑스 앙바흐에 위치한 이네오스 오토모티브 공장 인수를 위한 독점 협상에 들어갔습니다.",
+        "거래가 성사되면 헝가리에 이어 EU 내 BYD의 두 번째 승용차 공장이며, 중국 완성차업체의 첫 유럽 기존 공장 인수 사례가 됩니다.",
+        "기존 메르세데스·스마트 및 이네오스 그레나디어 생산기지를 BYD가 활용해 유럽 현지 생산 및 공급망을 강화하려는 움직임으로 해석됩니다."
+      ],
+      "whyItMatters": "중국 전기차 선도 기업인 BYD가 유럽 기존 내연·SUV 생산거점을 직접 인수해 현지 생산·공급 능력을 확대함으로써, 유럽 자동차 시장 경쟁 구도와 현지 산업·정책 대응 전략에 중대한 변화를 가져올 가능성이 큽니다.",
+      "topics": [
+        "Investment",
+        "Manufacturing",
+        "Competition",
+        "Roadmap"
+      ],
+      "status": "NEW",
+      "hash": "79633dbbc6160a0590c0ff3b20551734e96499058080d7cd4ebd187f30cedc0e",
+      "url": "https://electrek.co/2026/11/24/byd-ineos-hambach-factory-france-grenadier-us/"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "range": {
+    "from": "2026-10-27",
+    "to": "2026-11-25"
+  },
+  "kpis": {
+    "collected": 44,
+    "deduped": 44,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "MarketInfra": 36,
+      "Policy": 23,
+      "Security": 15,
+      "Regulation": 13,
+      "Compliance": 13,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/27-11/02)",
+      "topicCounts": {
+        "MarketInfra": 5,
+        "Policy": 2,
+        "Security": 1,
+        "Regulation": 2,
+        "Compliance": 0
+      }
+    },
+    {
+      "week": "Week 2 (11/03-11/09)",
+      "topicCounts": {
+        "MarketInfra": 6,
+        "Policy": 3,
+        "Security": 4,
+        "Regulation": 1,
+        "Compliance": 3
+      }
+    },
+    {
+      "week": "Week 3 (11/10-11/16)",
+      "topicCounts": {
+        "MarketInfra": 11,
+        "Policy": 7,
+        "Security": 1,
+        "Regulation": 4,
+        "Compliance": 4
+      }
+    },
+    {
+      "week": "Week 4 (11/17-11/23)",
+      "topicCounts": {
+        "MarketInfra": 11,
+        "Policy": 8,
+        "Security": 5,
+        "Regulation": 4,
+        "Compliance": 4
+      }
+    },
+    {
+      "week": "Week 5 (11/24-11/25)",
+      "topicCounts": {
+        "MarketInfra": 1,
+        "Policy": 1,
+        "Security": 1,
+        "Regulation": 1,
+        "Compliance": 1
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "연이은 금융권 해킹·정보유출에 보안株·보안투자 급부상",
+      "summary": "증권사와 가상자산업계에서 개인정보 유출과 해킹 이슈가 연달아 터지면서 보안 리스크가 핵심 금융 이슈로 부상했다. 특히 다우오피스 취약점이 반복 거론되는 가운데, 정보보안·보안솔루션 관련주는 증시 전반 약세 속에서도 수급이 쏠리며 강세를 보이고 있다. 금융투자업권 전반의 보안 인프라 투자 확대와 규제 강화 가능성이 커지는 국면이다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "증시는 급락하는데 보안株는 ‘불기둥’…해킹 공포에 나홀로 급등",
+          "url": "https://www.mk.co.kr/news/stock/12217941"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "한양증권서도 개인정보 유출…금투업권 해킹 비상",
+          "url": "https://www.mk.co.kr/news/stock/12194338"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "디지털자산기본법 공개…코인 거래·상장 규제체계 본격 구축",
+      "summary": "디지털자산기본법 제정안이 공개되면서 국내 코인 시장의 제도권 편입이 가속화되고 있다. 거래소 인가·의무, 투자자 보호장치, 토큰 상장·상장폐지 기준 등 규율 틀이 예고돼, 개별 코인·거래소 리스크와 사업모델 재편이 불가피한 상황이다. 향후 국회 논의 과정에 따라 가상자산 가격 변동성과 업계 구조조정 이슈가 중장기 금융 변수로 부각될 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "코인법 드디어 나왔다…내 거래소·내 코인 괜찮을까?",
+          "url": "https://www.mk.co.kr/news/stock/12217777"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "국민연금 매매·증안펀드 공방 속 코스피 수급 왜곡 심화",
+      "summary": "국민연금의 국내 주식 매매 패턴이 시장 수급 왜곡의 핵심 변수로 지목되면서, 증시 하락 국면에서 '증안펀드 10조원' 논의까지 등장했다. 엔비디아 실적, 엔트로픽 상장 등 글로벌 호재에도 코스피는 5000선 밑으로 밀리며 4500선도 위태로운 상황이다. 연기금 운용 전략 조정 여부와 추가 정책 대응이 향후 국내 증시 방향성을 좌우할 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "국민연금 때문에 꼬인 증시 수급 ... “증안펀드 10조론 역부족”",
+          "url": "https://www.mk.co.kr/news/stock/12215898"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "금융시장 불공정거래 강력 단속 기조…중수청 전담수사 확대",
+      "summary": "대통령이 금융시장 불공정행위에 대한 엄정 단속을 직접 지시하며 중대범죄수사청에 전담 수사 강화를 주문했다. 시세조종·미공개정보 이용 등 자본시장 범죄에 대한 수사 강도가 높아질 것으로 예상되며, 증권·파생상품 거래와 기관·개인 투자자 모두에 대한 규제·감시 환경이 한층 강화되는 흐름이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[속보] 李대통령 “금융시장 불공정행위 엄정단속, 중수청에 별도 지시”",
+          "url": "https://www.mk.co.kr/news/economy/12207754"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "엔비디아 CEO 리스크 부각…거버넌스·규제 이슈가 금융시장 변수로",
+      "summary": "엔비디아 이사회가 젠슨 황 CEO 해임 절차에 착수했다는 보도가 나오며, 개인 비위와 과거 대중국 수출·스파이 연루 의혹까지 재부각되고 있다. 글로벌 AI·반도체 대장주의 지배구조·준법 리스크가 떠오르면서, 기술주 중심 글로벌 증시 변동성과 반도체 밸류체인 투자심리에 부담 요인으로 작용하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“사내 여성 임원과도 또 불륜”…엔비디아, 젠슨황 해임 준비",
+          "url": "https://www.mk.co.kr/news/stock/12205989"
+        }
+      ]
+    }
+  ]
+}

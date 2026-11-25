@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-11-19",
+    "to": "2026-11-25"
+  },
+  "kpis": {
+    "collected": 11,
+    "deduped": 11,
+    "uniqueTopics": 7
+  },
+  "topTopics": [
+    {
+      "name": "Roadmap",
+      "count": 8
+    },
+    {
+      "name": "Investment",
+      "count": 7
+    },
+    {
+      "name": "Competition",
+      "count": 7
+    },
+    {
+      "name": "Manufacturing",
+      "count": 5
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-19",
+      "dayOfWeek": "Thu",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 5
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 4
+    },
+    {
+      "date": "2026-11-20",
+      "dayOfWeek": "Fri",
+      "topic": "Manufacturing",
+      "count": 4
+    },
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-24",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-24",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-24",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-24",
+      "dayOfWeek": "Tue",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-25",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-25",
+      "dayOfWeek": "Wed",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-25",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-25",
+      "dayOfWeek": "Wed",
+      "topic": "Manufacturing",
+      "count": 1
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "AI 수요에 따른 메모리 반도체 R&D 고도화와 리스크 분산",
+      "summary": "생성형 AI 확산으로 고대역폭·고용량 메모리 수요가 급증하면서 메모리 제조사들의 R&D 우선순위가 AI 최적화 공정과 차세대 노드로 집중되고 있다. 공정 미세화와 신공정·신소재 도입에 따른 비용·기술 리스크가 커지자, 주요 업체들은 합작 투자와 기술 파트너십 등을 통해 개발 비용을 분담하고 로드맵을 공동으로 설계하는 추세가 강화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Memory R&D Is a High-Stakes Game",
+          "url": "https://www.eetimes.com/memory-rd-is-a-high-stakes-game/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "엔비디아 실적이 보여주는 AI 인프라용 반도체 수요 폭증",
+      "summary": "엔비디아가 분기 매출 1,158억 달러를 기록하며 AI 가속기·데이터센터용 GPU 수요가 여전히 가파르게 증가하고 있음을 보여준다. 임시 CEO 체제에서도 AI 인프라 투자가 공격적으로 지속되고 있어 고성능 연산용 반도체, 패키징, 메모리 등 전후방 생태계 전반에 추가적인 설비투자와 공급망 확장이 이어질 가능성이 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Nvidia Reports $115.8B in Quarterly Revenue Under Interim CEO",
+          "url": "https://www.eetimes.com/nvidia-reports-115-8b-in-quarterly-revenue-under-interim-ceo/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "삼성전자 경영진 교체를 통한 메모리 반도체 경쟁력 재정비",
+      "summary": "삼성전자가 메모리사업부장을 승진시키는 등 경영진 인사를 단행하며 메모리 중심의 반도체 경쟁력 강화를 명확히 했다. AI·데이터센터 수요 확대와 글로벌 경쟁 심화 속에서 제품 포트폴리오, 공정 로드맵, 투자 전략을 재정렬해 HBM·첨단 D램 등 고부가 메모리 시장 주도권을 확보하려는 움직임으로 해석된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Samsung Newsroom",
+          "title": "Samsung Electronics Announces New Leadership",
+          "url": "https://news.samsung.com/global/samsung-electronics-announces-new-leadership-5"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "SHIFTING",
+      "title": "엣지 AI 칩과 로보틱스의 결합으로 진화하는 스마트 농기계",
+      "summary": "농업 분야에 엣지 AI 프로세서와 센서, 로보틱스 기술이 결합되며 제초제·비료의 정밀 살포, 자율 주행 및 수확이 가능해지고 있다. 실시간 엣지 inferencing을 통한 현장 의사결정이 중요해지면서 저전력·고신뢰 엣지 반도체와 관련 모듈 수요가 확대되고, 농기계가 반도체 집약적 산업으로 재편되는 흐름이 나타나고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "From Precision to Autonomous Agriculture: The Role of Edge AI and Robotics",
+          "url": "https://www.eetimes.com/from-precision-to-autonomous-agriculture-the-role-of-edge-ai-and-robotics/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "SHIFTING",
+      "title": "유럽 딥테크·반도체 기술 상용화를 노리는 인텔의 투자 전략",
+      "summary": "인텔 CEO 패트 겔싱어가 플레이그라운드 글로벌과 함께 유럽 CEA 연구소의 상용화 전 기술을 발굴하며 딥테크·반도체 스타트업 생태계에 대한 선제적 지분 확보에 나서고 있다. 연구소 단계의 소재·소자·시스템 기술을 조기 흡수해 차세대 반도체 및 컴퓨팅 시장에서 기술 격차를 벌리려는 한편, 유럽 내 공공·민간 자본을 연계해 상용화 속도를 높이려는 시도로 볼 수 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Pat Gelsinger Goes Hunting for Europe’s Unbuilt Tech Companies",
+          "url": "https://www.eetimes.com/pat-gelsinger-goes-hunting-for-europes-unbuilt-tech-companies/"
+        }
+      ]
+    }
+  ]
+}

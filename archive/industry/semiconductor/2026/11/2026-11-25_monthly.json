@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-10-27",
+    "to": "2026-11-25"
+  },
+  "kpis": {
+    "collected": 51,
+    "deduped": 51,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 27,
+      "Competition": 23,
+      "Manufacturing": 18,
+      "Investment": 18,
+      "Demand": 13,
+      "Other": 1
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/27-11/02)",
+      "topicCounts": {
+        "Roadmap": 5,
+        "Competition": 3,
+        "Manufacturing": 7,
+        "Investment": 7,
+        "Demand": 4
+      }
+    },
+    {
+      "week": "Week 2 (11/03-11/09)",
+      "topicCounts": {
+        "Roadmap": 5,
+        "Competition": 3,
+        "Manufacturing": 2,
+        "Investment": 4,
+        "Demand": 1
+      }
+    },
+    {
+      "week": "Week 3 (11/10-11/16)",
+      "topicCounts": {
+        "Roadmap": 12,
+        "Competition": 12,
+        "Manufacturing": 6,
+        "Investment": 5,
+        "Demand": 6
+      }
+    },
+    {
+      "week": "Week 4 (11/17-11/23)",
+      "topicCounts": {
+        "Roadmap": 10,
+        "Competition": 12,
+        "Manufacturing": 7,
+        "Investment": 5,
+        "Demand": 6
+      }
+    },
+    {
+      "week": "Week 5 (11/24-11/25)",
+      "topicCounts": {
+        "Roadmap": 2,
+        "Competition": 0,
+        "Manufacturing": 1,
+        "Investment": 2,
+        "Demand": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "AI 수요 폭증에 따른 메모리 반도체 R&D 전략 재편",
+      "summary": "생성형 AI 확산으로 고대역폭·대용량 메모리 수요가 급증하면서 메모리 업체들이 차세대 공정·소자 기술에 R&D를 집중하고 있다. 개발 비용과 기술 리스크가 커지자, 경쟁사·장비사·클라우드 업체와의 파트너십을 통해 투자 부담을 분산하고 로드맵을 공동으로 설계하는 추세가 강화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Memory R&D Is a High-Stakes Game",
+          "url": "https://www.eetimes.com/memory-rd-is-a-high-stakes-game/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "엔비디아의 사상 최대 실적과 AI 인프라 반도체 시장 지형 변화",
+      "summary": "엔비디아가 임시 CEO 체제에서도 1분기 매출 1,158억 달러를 기록하며 AI 가속기와 관련 인프라 수요가 데이터센터·클라우드 시장을 주도하고 있다. 이는 GPU·네트워킹·HPC용 반도체에 대한 투자 확대와 경쟁사들의 AI 전용 칩 개발 가속화를 촉발하며, AI 인프라 생태계 전반의 공급망 및 가격 구조에 변화를 예고한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Nvidia Reports $115.8B in Quarterly Revenue Under Interim CEO",
+          "url": "https://www.eetimes.com/nvidia-reports-115-8b-in-quarterly-revenue-under-interim-ceo/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "엣지 AI·로보틱스 결합으로 부상하는 농업용 반도체 수요",
+      "summary": "정밀 살포, 자율 주행, 자율 수확 등 농기계에 엣지 AI와 로보틱스가 본격 적용되면서, 저전력 고성능 프로세서·센서·통신 칩 등 엣지 반도체 수요가 확대되고 있다. 클라우드 의존도를 줄이는 실시간 현장 처리 요구가 커지며, 산업·농업 특화 AI SoC와 내환경성이 강화된 패키징 기술이 새로운 시장 기회로 부상하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "From Precision to Autonomous Agriculture: The Role of Edge AI and Robotics",
+          "url": "https://www.eetimes.com/from-precision-to-autonomous-agriculture-the-role-of-edge-ai-and-robotics/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "SHIFTING",
+      "title": "유럽 미상용 기술 발굴 전쟁과 시스템·반도체 투자 경쟁",
+      "summary": "인텔 패트 겔싱어와 VC가 유럽 연구소의 미상용 기술을 발굴해 상업화하려는 움직임을 보이며, 차세대 컴퓨팅·반도체·양자·센서 기술에 대한 선점 경쟁이 심화되고 있다. 이는 설계 IP, 제조 파트너십, 패키징 및 시스템 통합을 포함한 유럽 내 반도체 생태계 구축과 글로벌 자본 유입의 가속을 의미한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Pat Gelsinger Goes Hunting for Europe’s Unbuilt Tech Companies",
+          "url": "https://www.eetimes.com/pat-gelsinger-goes-hunting-for-europes-unbuilt-tech-companies/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "SHIFTING",
+      "title": "보안·엔터프라이즈 시장으로 확산되는 AI 가속 및 반도체 수요",
+      "summary": "Palo Alto Networks가 오픈 웨이트 AI 모델용 포스트트레이닝·추론 플랫폼 스타트업을 45억 달러에 인수하며, 엔터프라이즈 보안 영역에서도 전용 AI 가속 인프라 수요가 커지고 있다. 이로 인해 데이터센터용 가속기, 보안 어플라이언스용 SoC, AI 추론 최적화 칩 등 반도체 설계와 투자 방향이 엔터프라이즈 AI 워크로드 중심으로 재편되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal",
+          "url": "https://www.eetimes.com/palo-alto-networks-expands-into-enterprise-ai-with-4-5b-deal/"
+        }
+      ]
+    }
+  ]
+}

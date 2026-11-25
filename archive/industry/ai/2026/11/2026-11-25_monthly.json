@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-10-27",
+    "to": "2026-11-25"
+  },
+  "kpis": {
+    "collected": 68,
+    "deduped": 68,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "Tooling": 26,
+      "Product": 20,
+      "Research": 18,
+      "Models": 18,
+      "Infra": 18,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/27-11/02)",
+      "topicCounts": {
+        "Tooling": 5,
+        "Product": 6,
+        "Research": 6,
+        "Models": 6,
+        "Infra": 3
+      }
+    },
+    {
+      "week": "Week 2 (11/03-11/09)",
+      "topicCounts": {
+        "Tooling": 6,
+        "Product": 4,
+        "Research": 4,
+        "Models": 4,
+        "Infra": 5
+      }
+    },
+    {
+      "week": "Week 3 (11/10-11/16)",
+      "topicCounts": {
+        "Tooling": 16,
+        "Product": 14,
+        "Research": 9,
+        "Models": 12,
+        "Infra": 9
+      }
+    },
+    {
+      "week": "Week 4 (11/17-11/23)",
+      "topicCounts": {
+        "Tooling": 9,
+        "Product": 4,
+        "Research": 8,
+        "Models": 6,
+        "Infra": 7
+      }
+    },
+    {
+      "week": "Week 5 (11/24-11/25)",
+      "topicCounts": {
+        "Tooling": 4,
+        "Product": 1,
+        "Research": 3,
+        "Models": 3,
+        "Infra": 2
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "로컬 AI 디바이스에서의 대형 멀티모달 모델 경량 추론 전략",
+      "summary": "NVIDIA Cosmos 3 Nano를 예로 들어, Hugging Face Diffusers 기반 로컬 실행 시 GPU 메모리 한계를 넘기 위한 오프로딩, 저정밀화(quantization), 파이프라인 최적화 기법이 정리된다. 이는 개인 워크스테이션·엣지 디바이스에서 고성능 멀티모달 모델을 돌리려는 팀에게 실질적인 설정 가이드와 성능–비용 최적화 방향을 제시한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers",
+          "url": "https://developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "게임 개발 워크플로우에 통합되는 AI 애니메이션·RTX 툴 업데이트",
+      "summary": "NVIDIA가 공개한 최신 AI 애니메이션 및 RTX 그래픽 툴은 게임 엔진 내부에서 로컬 AI 기능과 고품질 이미지·렌더링 처리를 직접 통합하도록 돕는다. 실시간 애니메이션 생성, 자산 업스케일링 등 제작 파이프라인의 자동화 수준이 높아지면서, 소규모 팀도 높은 비주얼 품질과 반복 속도를 확보할 수 있는 환경이 조성되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "What’s New for Game Developers: AI Animation and RTX Tools",
+          "url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-ai-animation-and-rtx-tools/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "강화학습 롤아웃 병목 해소를 위한 인퍼런스 엔진 최적화",
+      "summary": "NVIDIA Dynamo를 활용해 강화학습에서 환경 상호작용(rollout) 단계의 인퍼런스 병목을 줄이는 접근이 이어지고 있다. 워커의 샘플 생성 속도와 처리량을 높여 동일한 하드웨어에서 더 많은 실험과 하이퍼파라미터 탐색을 가능하게 함으로써, RL 기반 시스템 개발의 전체 연구·개발 속도 향상이 핵심 이슈로 부상한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Reducing Rollout Bottlenecks in Reinforcement Learning with NVIDIA Dynamo",
+          "url": "https://developer.nvidia.com/blog/reducing-rollout-bottlenecks-in-reinforcement-learning-with-nvidia-dynamo/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "과학 계측기를 위한 GPU-네이티브 실시간 AI 파이프라인",
+      "summary": "GPU-네이티브 데이터 수집 기술을 통해 과학 계측기의 센서 데이터를 저지연·고처리량으로 바로 GPU에서 처리하는 패턴이 확산되고 있다. 이로 인해 실험 중 실시간 AI 분석과 폐쇄 루프 제어, 자동 실험 최적화가 가능해지며, 대형 실험 장비·랩 인프라 설계 시 AI 파이프라인과 하드웨어를 함께 설계해야 하는 요구가 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Enabling Real-Time AI for Scientific Instruments with GPU-Native Data Acquisition",
+          "url": "https://developer.nvidia.com/blog/enabling-real-time-ai-for-scientific-instruments-with-gpu-native-data-acquisition/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "SHIFTING",
+      "title": "고도화된 AI와 사회 규범 재구성을 둘러싼 거버넌스 논의",
+      "summary": "고성능 AI가 정책·규범·기관 역할을 눈에 띄지 않게 재구성하는 ‘침묵의 합의’ 현상이 주요 이슈로 부각되고 있다. 제도와 권한이 AI 조언·시스템에 과도하게 의존할 때 발생할 수 있는 영향력을 어떻게 감시·분산·통제할지에 대한 전략·정책 논의가 요구되며, 기술 발전 속도에 비해 거버넌스·참여 구조 설계가 뒤처지고 있다는 문제의식이 강화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "The Silent Consensus",
+          "url": "https://openai.com/index/the-silent-consensus"
+        }
+      ]
+    }
+  ]
+}

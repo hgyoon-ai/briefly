@@ -1,70 +1,70 @@
 {
   "range": {
-    "from": "2026-10-25",
-    "to": "2026-11-23"
+    "from": "2026-10-27",
+    "to": "2026-11-25"
   },
   "kpis": {
-    "collected": 104,
-    "deduped": 104,
+    "collected": 99,
+    "deduped": 99,
     "uniqueTopics": 10,
     "marketShare": {
       "Market": 30,
-      "Supply": 24,
-      "Policy": 16,
+      "Supply": 25,
+      "Policy": 15,
       "UrbanRenewal": 15,
-      "Regulation": 15,
+      "Construction": 15,
       "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/25-10/31)",
+      "week": "Week 1 (10/27-11/02)",
       "topicCounts": {
-        "Market": 12,
-        "Supply": 15,
-        "Policy": 10,
-        "UrbanRenewal": 10,
-        "Regulation": 4
-      }
-    },
-    {
-      "week": "Week 2 (11/01-11/07)",
-      "topicCounts": {
-        "Market": 14,
-        "Supply": 9,
-        "Policy": 6,
-        "UrbanRenewal": 5,
-        "Regulation": 7
-      }
-    },
-    {
-      "week": "Week 3 (11/08-11/14)",
-      "topicCounts": {
-        "Market": 18,
+        "Market": 9,
         "Supply": 12,
-        "Policy": 10,
-        "UrbanRenewal": 9,
-        "Regulation": 9
+        "Policy": 7,
+        "UrbanRenewal": 7,
+        "Construction": 2
       }
     },
     {
-      "week": "Week 4 (11/15-11/21)",
+      "week": "Week 2 (11/03-11/09)",
       "topicCounts": {
-        "Market": 17,
-        "Supply": 19,
-        "Policy": 8,
-        "UrbanRenewal": 11,
-        "Regulation": 15
+        "Market": 16,
+        "Supply": 12,
+        "Policy": 7,
+        "UrbanRenewal": 6,
+        "Construction": 6
       }
     },
     {
-      "week": "Week 5 (11/22-11/23)",
+      "week": "Week 3 (11/10-11/16)",
       "topicCounts": {
-        "Market": 4,
-        "Supply": 2,
+        "Market": 19,
+        "Supply": 14,
+        "Policy": 11,
+        "UrbanRenewal": 10,
+        "Construction": 10
+      }
+    },
+    {
+      "week": "Week 4 (11/17-11/23)",
+      "topicCounts": {
+        "Market": 16,
+        "Supply": 16,
+        "Policy": 6,
+        "UrbanRenewal": 8,
+        "Construction": 12
+      }
+    },
+    {
+      "week": "Week 5 (11/24-11/25)",
+      "topicCounts": {
+        "Market": 3,
+        "Supply": 4,
         "Policy": 2,
         "UrbanRenewal": 1,
-        "Regulation": 1
+        "Construction": 3
       }
     }
   ],
@@ -72,8 +72,50 @@
     {
       "id": 1,
       "status": "ONGOING",
-      "title": "용인 반도체클러스터 인근 신축 단지, 혁신 특화평면으로 실사용 면적 경쟁",
-      "summary": "용인반도체클러스터 배후 주거지에 4Bay·4Room, 알파룸·더블 팬트리 등 특화설계를 적용한 새 아파트 분양이 예고되며, 같은 전용면적에서도 실사용 공간을 극대화한 평면 경쟁이 본격화되고 있다.",
+      "title": "LH의 AI·로봇 기반 스마트건설 기술 상용화 경쟁 본격화",
+      "summary": "LH가 스마트건설·안전·AI 엑스포에서 사족보행 로봇, 실시간 공정·안전관리 시스템, BIM 플랫폼 등을 공개하며 공공 부동산·인프라 건설 전반의 디지털 전환을 가속하고 있다. 이는 향후 공사비·공기·안전 기준과 민간 건설사 기술 투자 방향에도 영향을 줄 수 있는 흐름이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "LH, ‘스마트건설·안전·AI’ 엑스포서 사족보행 로봇 선봬",
+          "url": "https://biz.heraldcorp.com/article/10948929"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "3040 중심의 아파트 매수와 대형 오피스텔 선호 확대",
+      "summary": "올해 1~9월 아파트 매수의 절반 이상을 3040 세대가 차지하는 가운데, 전용 84㎡급 대형 오피스텔 거래가 전년 대비 50% 이상 급증하며 사실상 아파트 대체 주거로 부상하고 있다. 금리·규제 환경 속에서도 실수요·갈아타기 수요가 중대형 평형과 준주택 상품으로 이동하는 추세다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "아파트 매수 54%가 3040…전용 84㎡ 오피스텔 거래 57% 증가",
+          "url": "https://www.mk.co.kr/news/realestate/12217918"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "세제 개편 이후 서울 아파트 매물 급증과 강·북권 동반 관망장세",
+      "summary": "8·3 세제 개편 이후 서울 아파트 매물이 강남 3구에서 먼저 늘어난 데 이어 강북 등 비강남권으로 확대되며 집값 상승세가 둔화되고 있다. 세 부담·정책 불확실성으로 매도 대기 물량이 쌓이는 반면 매수 심리는 위축되며 거래 눈치보기 국면이 심화되는 양상이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "이재명 정부 부동산 정책 영향?…강북도 매물 쌓이며 집값 상승세 ‘주춤’",
+          "url": "https://www.mk.co.kr/news/realestate/12217859"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "용인반도체클러스터 배후 새 아파트, 특화평면으로 수요 선점 경쟁",
+      "summary": "용인반도체클러스터 인근 신규 분양 단지가 4Bay·4Room, 알파룸, 대형 팬트리 등 특화평면을 앞세워 실사용 면적 극대화를 내세우고 있다. 대규모 배후일자리 조성과 함께 직주근접·실거주 만족도를 중시하는 수요가 늘면서 평면 경쟁이 분양 성패의 핵심 변수로 부상하는 흐름이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -84,58 +126,16 @@
       ]
     },
     {
-      "id": 2,
-      "status": "ONGOING",
-      "title": "자연·헬스케어·스마트기술 결합한 ‘스마트 그린라이프’ 주거 트렌드 부상",
-      "summary": "단지 내 녹지와 수변 등 자연환경에 헬스케어·에너지관리·생활편의 스마트 서비스를 더한 ‘스마트 그린라이프’ 상품이 확산되며, 입주민 건강관리와 편의성이 새 아파트의 핵심 차별화 요소로 자리잡고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "헤럴드경제(부동산)",
-          "title": "자연환경에 스마트 기술 더한 주거환경 주목…‘스마트 그린라이프’ 확산",
-          "url": "https://biz.heraldcorp.com/article/10945597"
-        }
-      ]
-    },
-    {
-      "id": 3,
+      "id": 5,
       "status": "SHIFTING",
-      "title": "세운4구역 재개발, 보존계획 부결로 사업 다시 원점…도심 정비사업 차질",
-      "summary": "세운4구역 재개발 보존안이 유산위원회에서 보존조치 미흡을 이유로 부결되면서, 서울 도심 핵심 재개발이 3년 만에 다시 원점으로 돌아가 사업 지연과 계획 수정이 불가피해졌다.",
+      "title": "세운4구역 재개발, 문화재 보존 논쟁으로 다시 원점",
+      "summary": "세운4구역 재개발 보존안이 유산위원회에서 보존조치 미흡을 이유로 부결되며 3년 만에 사업이 다시 출발점으로 돌아갔다. 서울 도심 재개발 과정에서 역사·문화 보존과 개발 이익의 균형 문제가 재차 부각되며, 향후 다른 재개발·재정비 구역 심사 기준에도 영향을 줄 수 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(부동산)",
           "title": "세운4구역 재개발 또 암초…3년 만에 보존안 ‘부결’에 다시 원점으로",
           "url": "https://www.mk.co.kr/news/realestate/12215841"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "status": "SHIFTING",
-      "title": "공시가격 동결 속 비강남·경기남부 부담 급증…지역별 조세 형평성 논란",
-      "summary": "정부가 공시가격 현실화율을 69%로 5년째 동결하는 가운데, 최근 집값이 크게 오른 비강남권과 경기 남부 지역의 보유세·건보료 부담이 커지며 강남과의 조세 형평성 및 역차별 논란이 확산되고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "매일경제(부동산)",
-          "title": "“집값 올랐다고 좋아할게 아니었어”…내년 공시가, 비강남·경기남부 ‘비상’",
-          "url": "https://www.mk.co.kr/news/realestate/12215837"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "status": "ONGOING",
-      "title": "권리금 보호 범위 확대 해석…임대인의 과도한 임대료 인상 배상 책임 인정",
-      "summary": "법원이 임대인이 월세를 올려 신규 임차인 계약을 어렵게 만들어 기존 임차인이 권리금을 받지 못한 경우 손해배상 책임이 있다고 판단하면서, 상가 임대차에서 임대인의 임대료 인상 행위에 대한 법적 리스크가 커지고 있다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "매일경제(부동산)",
-          "title": "건물주가 월세 올려 세입자가 권리금 못 받을땐 … “배상해야”",
-          "url": "https://www.mk.co.kr/news/realestate/12214891"
         }
       ]
     }
