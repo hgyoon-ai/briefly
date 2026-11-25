@@ -2,6 +2,101 @@
   "month": "2026-11",
   "events": [
     {
+      "id": "news:NH투자증권:https://www.hankyung.com/article/2026112590396",
+      "date": "2026-11-25",
+      "company": "NH투자증권",
+      "title": "NH아문디, 'HANARO 미국에이전틱AI TOP2+' ETF에 앤트로픽 편입",
+      "oneLiner": "NH아문디가 'HANARO 미국에이전틱AI TOP2+' ETF에 AI 기업 앤트로픽을 편입했다. 에이전틱 AI 관련 노출 확대는 AI 투자 테마에 대한 리서치·트레이딩 관점에서 의미가 있다.",
+      "type": "기타",
+      "areas": [
+        "리서치",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "NH아문디, 'HANARO 미국에이전틱AI TOP2+' ETF에 앤트로픽 편입",
+          "url": "https://www.hankyung.com/article/2026112590396"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-25"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202611250905590261",
+      "date": "2026-11-25",
+      "company": "NH투자증권",
+      "title": "NH아문디운용, 에이전틱AI ETF에 앤트로픽 편입…비중 23.74%",
+      "oneLiner": "NH아문디운용이 'HANARO 미국에이전틱AI TOP2+' ETF에 앤트로픽을 편입했고 편입 비중은 23.74%로 알려졌다. 해당 ETF의 기초지수는 LLM 기반 분석을 활용해 에이전틱 AI 관련도를 반영한다.",
+      "type": "기타",
+      "areas": [
+        "리서치",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "NH아문디운용, 에이전틱AI ETF에 앤트로픽 편입…비중 23.74%",
+          "url": "https://www.fnnews.com/news/202611250905590261"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.93,
+      "updatedAt": "2026-11-25"
+    },
+    {
+      "id": "news:KB증권:https://www.fnnews.com/news/202611250856176318",
+      "date": "2026-11-25",
+      "company": "KB증권",
+      "title": "\"젠슨 황 복귀, '삼전닉스' 반등 촉매\"…'PER 2배' 과도하게 할인됐다는 증권가",
+      "oneLiner": "KB증권 리서치는 젠슨 황의 복귀가 글로벌 AI 투자심리 회복의 촉매가 될 것으로 보고 삼성전자·SK하이닉스를 반도체 업종 최선호주로 제시했다. AI 거시·기술 리스크 완화가 주식 밸류에이션에 미치는 영향에 대한 분석 기사다.",
+      "type": "리서치",
+      "areas": [
+        "리서치",
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "\"젠슨 황 복귀, '삼전닉스' 반등 촉매\"…'PER 2배' 과도하게 할인됐다는 증권가",
+          "url": "https://www.fnnews.com/news/202611250856176318"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-11-25"
+    },
+    {
+      "id": "news:신한투자증권:https://www.fnnews.com/news/202611251121190321",
+      "date": "2026-11-25",
+      "company": "신한투자증권",
+      "title": "삼성SDS, '정부혁신 박람회'서 공공 AX 혁신 역량 선봬",
+      "oneLiner": "삼성SDS가 정부혁신 박람회에서 공공 분야 AI 전환(AX)을 위한 AI 인프라·플랫폼·솔루션을 전시하며 클라우드·망분리 환경을 고려한 보안 역량을 소개했다. 공공 부문 AI 도입·자동화 관련 시사점이 있다.",
+      "type": "시스템",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(IT)",
+          "title": "삼성SDS, '정부혁신 박람회'서 공공 AX 혁신 역량 선봬",
+          "url": "https://www.fnnews.com/news/202611251121190321"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.85,
+      "updatedAt": "2026-11-25"
+    },
+    {
       "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12215917",
       "date": "2026-11-23",
       "company": "한국투자증권",

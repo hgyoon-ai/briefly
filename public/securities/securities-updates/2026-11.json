@@ -2,6 +2,122 @@
   "month": "2026-11",
   "events": [
     {
+      "id": "news:하나증권:https://www.mk.co.kr/news/stock/12217711",
+      "date": "2026-11-25",
+      "company": "하나증권",
+      "title": "“메가 LCC 중심된 ‘진에어’, 항공유 정상화까지 호재 가득”…목표가↑",
+      "oneLiner": "하나증권 리서치에서 진에어 목표주가를 상향하며 에어부산·에어서울 통합에 따른 운영효율성 및 항공유 정상화를 호재로 평가했습니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“메가 LCC 중심된 ‘진에어’, 항공유 정상화까지 호재 가득”…목표가↑",
+          "url": "https://www.mk.co.kr/news/stock/12217711"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-25"
+    },
+    {
+      "id": "news:하나증권:https://www.mk.co.kr/news/stock/12217698",
+      "date": "2026-11-25",
+      "company": "하나증권",
+      "title": "“CJ제일제당, 잃을 것 없는 주가…내년 식품·바이오 실적 개선 기대”",
+      "oneLiner": "하나증권이 CJ제일제당에 대해 투자의견 '매수' 유지 및 내년 식품·바이오 실적 개선 기대를 제시한 리포트입니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“CJ제일제당, 잃을 것 없는 주가…내년 식품·바이오 실적 개선 기대”",
+          "url": "https://www.mk.co.kr/news/stock/12217698"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-25"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202611250840415475",
+      "date": "2026-11-25",
+      "company": "한국투자증권",
+      "title": "한투운용, 전주사무소 개소…국민연금과 협력 강화",
+      "oneLiner": "한국투자신탁운용이 전주사무소를 개소하고 국민연금과의 협력과 현지 소통을 강화한다고 발표했습니다.",
+      "type": "제휴",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한투운용, 전주사무소 개소…국민연금과 협력 강화",
+          "url": "https://www.fnnews.com/news/202611250840415475"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.86,
+      "updatedAt": "2026-11-25"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202611250841016124",
+      "date": "2026-11-25",
+      "company": "한국투자증권",
+      "title": "아로마티카, 해외 매장 3600개로 확대…내년 해외 비중 50%",
+      "oneLiner": "한국투자증권 리포트는 아로마티카의 해외 매장 확대와 내년 해외 비중 50% 목표로 안정적 실적 성장 가능성을 제시했습니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "아로마티카, 해외 매장 3600개로 확대…내년 해외 비중 50%",
+          "url": "https://www.fnnews.com/news/202611250841016124"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-25"
+    },
+    {
+      "id": "news:NH투자증권:https://www.fnnews.com/news/202611241814190457",
+      "date": "2026-11-24",
+      "company": "NH투자증권",
+      "title": "국내 가상자산 거래소 대주주 지분 34% 제한 [디지털자산기본법 발표]",
+      "oneLiner": "금융당국의 디지털자산기본법 제정안 공개로 가상자산거래소 대주주 지분을 최대 34%로 제한하고 원화 스테이블코인 발행 규제를 마련하는 등 규제체계가 강화되었습니다.",
+      "type": "규제",
+      "areas": [
+        "리스크",
+        "AML"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "국내 가상자산 거래소 대주주 지분 34% 제한 [디지털자산기본법 발표]",
+          "url": "https://www.fnnews.com/news/202611241814190457"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.92,
+      "updatedAt": "2026-11-25"
+    },
+    {
       "id": "news:한국투자증권:https://www.fnnews.com/news/202611230945463282",
       "date": "2026-11-23",
       "company": "한국투자증권",
@@ -47,6 +163,29 @@
       "tags": [],
       "confidence": 0.97,
       "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "89871d3b95970e828dc26794966076dc276ce11b",
+      "date": "2026-11-23",
+      "company": "미래에셋증권",
+      "title": "미래에셋증권 iOS 앱 업데이트 v7.8.7",
+      "oneLiner": "미래에셋증권 iOS 앱 v7.8.7 업데이트로 보안취약점 개선, 차트 기능 개선 및 앱 아이콘 다크모드 추가 등 보안·사용성 개선이 적용되었습니다.",
+      "type": "출시",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "app_store",
+      "sources": [
+        {
+          "source": "App Store",
+          "title": "미래에셋증권 iOS 앱 업데이트 v7.8.7",
+          "url": "https://apps.apple.com/kr/app/%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B%EC%A6%9D%EA%B6%8C-maps/id1248716281?uo=4"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-25"
     },
     {
       "id": "755a20eb35459b87b76b401ed2f38ead86e6004b",
