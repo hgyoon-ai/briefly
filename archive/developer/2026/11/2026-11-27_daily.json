@@ -1,0 +1,637 @@
+{
+  "date": "2026-11-27",
+  "kpis": {
+    "clusters": 20,
+    "sources": 2,
+    "new": 20
+  },
+  "clusters": [
+    {
+      "id": "c723bcef4fe81d044bb1a64bd1d3eaa22a5d0a8b",
+      "name": "intel/intel-one-mono",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 1025.84,
+      "oneLiner": "Intel One Mono 글꼴 저장소입니다.",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "10,832"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "348"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-27"
+        },
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "486p · 245c"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/intel/intel-one-mono"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/intel/intel-one-mono/releases/tag/V1.5.0"
+        },
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50653667"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "d3c7b7983eff9dc44df63c790570dd1d56f72577",
+      "name": "antonpictures/youtube-punisher",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 644.44,
+      "oneLiner": "YouTube 광고를 차단하는 크롬 확장 기능 프로젝트입니다.",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "135"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "2"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-27"
+        },
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "307p · 379c"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/antonpictures/youtube-punisher"
+        },
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50657530"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "923bfd54e60c6215756c00fdbab9b4f3d27a39ae",
+      "name": "Marvisak/VIctory",
+      "section": "trending",
+      "status": "NEW",
+      "score": 583.34,
+      "oneLiner": "PC에서 GTA VI 실행을 시도하는 프로젝트입니다.",
+      "whyNow": "스타 증가와 업데이트 흐름이 동시에 관측되는 상승 구간입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "13,450"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "2,267"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-27"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/Marvisak/VIctory"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "0dcfc7c87a08ca2107b3a29596b0a4da133f47de",
+      "name": "OpenAI may be in cost control mode",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 555.0,
+      "oneLiner": "OpenAI가 비용 통제 모드에 있을 수 있다는 내용을 다루는 글입니다.",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "303p · 311c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50652527"
+        },
+        {
+          "label": "Source",
+          "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "1c4f53c2e2cf09ba7d6541227d36fddef5f9b32a",
+      "name": "AI made self-hosting fun again",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 524.4,
+      "oneLiner": "AI로 셀프호스팅이 다시 재미있어졌다는 내용을 소개하는 글입니다.",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 블로그 해석과 후기가 빠르게 붙는 흐름입니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "420p · 227c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50660180"
+        },
+        {
+          "label": "Source",
+          "url": "https://janlukas.blog/posts/ai-self-hosting"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "64febbecb757a2ea213ff6c8f5ac4f8124345219",
+      "name": "Nextcloud Office Desktop app",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 496.8,
+      "oneLiner": "Nextcloud Office 데스크톱 앱을 소개하는 글입니다.",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "410p · 209c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50654289"
+        },
+        {
+          "label": "Source",
+          "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/"
+        }
+      ],
+      "tags": [
+        "infra"
+      ]
+    },
+    {
+      "id": "dcae7eacb1566ed6dc59343235b1023abb7b08de",
+      "name": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 446.4,
+      "oneLiner": "Google이 AI 에이전트에 MCP 서버 사용을 적용한다는 내용을 다루는 기사입니다.",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "278p · 233c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50653477"
+        },
+        {
+          "label": "Source",
+          "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/"
+        }
+      ],
+      "tags": [
+        "agent tooling"
+      ]
+    },
+    {
+      "id": "4f75993a90aceebfecfa9e306de4aec03528f21d",
+      "name": "Tracking Diseases Cured by AI",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 403.2,
+      "oneLiner": "AI로 치료된 질병을 추적하는 사이트입니다.",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "306p · 183c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50657307"
+        },
+        {
+          "label": "Source",
+          "url": "https://diseasescuredbyai.com/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "b3a5e792574893da8fb8b99d8dcbd57adf6dfc70",
+      "name": "xcl-dev/xcl",
+      "section": "trending",
+      "status": "NEW",
+      "score": 369.24,
+      "oneLiner": "Xbox Series용 호환 계층으로 Windows에서 콘솔 게임 코드를 실행하는 프로젝트입니다.",
+      "whyNow": "스타 증가와 업데이트 흐름이 동시에 관측되는 상승 구간입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "8,629"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "1,204"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-27"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/xcl-dev/xcl"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "f10b1fbfda067d55bf4e58112649ca04605907a4",
+      "name": "Moat: OpenRouter replacement",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 335.4,
+      "oneLiner": "OpenRouter의 대체를 목표로 하는 Moat 프로젝트입니다.",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "261p · 149c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50652184"
+        },
+        {
+          "label": "Source",
+          "url": "https://commandcode.ai/moat"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "ac5e934394243ee0da5f8bb612035e73d3ba56a1",
+      "name": "45°C inlets just killed the chiller. Most people haven't noticed yet",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 315.0,
+      "oneLiner": "45°C 인렛으로 인해 칠러가 고장났다고 경고하는 기사입니다.",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "259p · 133c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50655278"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "5a80490bf1b18966e31c05a92f7ca4602091d187",
+      "name": "AMD-specific fork of llama.cpp",
+      "section": "trending",
+      "status": "NEW",
+      "score": 272.4,
+      "oneLiner": "llama.cpp의 AMD 전용 포크를 다루는 글입니다.",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "306p · 74c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50657265"
+        },
+        {
+          "label": "Source",
+          "url": "https://devnull.land/amd-specific-llama-cpp"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "8a695603d21b68929ebd3ffbdfc9badf6b057bbe",
+      "name": "CTO of 'RansomwareHelp' indicted for wire fraud",
+      "section": "trending",
+      "status": "NEW",
+      "score": 266.4,
+      "oneLiner": "RansomwareHelp의 CTO 기소 소식을 전하는 보도입니다.",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "240p · 102c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50657645"
+        },
+        {
+          "label": "Source",
+          "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "eec12fa0470f9bfb13fa9cbd2cb88e6162fb9cfd",
+      "name": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "section": "trending",
+      "status": "NEW",
+      "score": 248.4,
+      "oneLiner": "파키스탄 건축가 카밀 칸 몸타즈를 조명하는 기사입니다.",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "290p · 62c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50659841"
+        },
+        {
+          "label": "Source",
+          "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "b781ed3dbdec2a853e5764b39e0094ee6a224b4e",
+      "name": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+      "section": "trending",
+      "status": "NEW",
+      "score": 244.2,
+      "oneLiner": "Lions Commentary on Unix의 비밀 복제 사례를 설명하는 글입니다.",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "273p · 67c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50651719"
+        },
+        {
+          "label": "Source",
+          "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "695abe9a44bb58ffb07d7ecb3ad2fd7061196e4a",
+      "name": "4lwayz/portwatch-vi",
+      "section": "trending",
+      "status": "NEW",
+      "score": 242.16,
+      "oneLiner": "GTA VI 커뮤니티 재컴파일 및 에뮬레이션 진행을 일일로 추적하는 저장소입니다.",
+      "whyNow": "개발 신호가 이어지면서 사용 사례가 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "5,968"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "172"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-27"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/4lwayz/portwatch-vi"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "21ab9dfa43fbb76ed34ccf7585ba5fc60bc2889e",
+      "name": "An algebraic quantization of gravity from the null cone",
+      "section": "trending",
+      "status": "NEW",
+      "score": 235.8,
+      "oneLiner": "null cone을 이용한 중력의 대수적 양자화를 제안하는 논문입니다.",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "225p · 84c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50651863"
+        },
+        {
+          "label": "Source",
+          "url": "https://arxiv.org/abs/2611.34924"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "1f955af97cb15a6cd670d63c740fb6317fc86299",
+      "name": "EL4CTEO/fast-anything",
+      "section": "releases",
+      "status": "NEW",
+      "score": 197.18,
+      "oneLiner": "프로파일해 느린 5%만 포팅하라고 조언하는 성능 최적화 지침 프로젝트입니다.",
+      "whyNow": "릴리즈 직후라 적용/마이그레이션 경험이 모이고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "4,276"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "307"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-27"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v0.8.9"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/EL4CTEO/fast-anything"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/EL4CTEO/fast-anything/releases/tag/v0.8.9"
+        }
+      ],
+      "tags": [
+        "agent tooling"
+      ]
+    },
+    {
+      "id": "19e2203384af23c1fb7fb754a70ae725876a623e",
+      "name": "AFK-surf/xnulinux",
+      "section": "trending",
+      "status": "NEW",
+      "score": 174.98,
+      "oneLiner": "XNU를 리눅스의 로드 가능한 커널 모듈로 구현하는 프로젝트입니다.",
+      "whyNow": "개발 신호가 이어지면서 사용 사례가 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "4,268"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "213"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-27"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/AFK-surf/xnulinux"
+        }
+      ],
+      "tags": [
+        "editor"
+      ]
+    },
+    {
+      "id": "2926993a3f460aad0c12c8bd774565b98fa841c1",
+      "name": "fxceless/victory-fork",
+      "section": "trending",
+      "status": "NEW",
+      "score": 151.34,
+      "oneLiner": "VIctory의 진행 중인 포크로 Xbox Series 타이틀을 Windows에서 실행하려는 작업입니다.",
+      "whyNow": "활동성과 관심도가 같이 살아 있는 프로젝트입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "3,287"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "993"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-27"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/fxceless/victory-fork"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}
