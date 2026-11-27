@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-11-21",
+    "to": "2026-11-27"
+  },
+  "kpis": {
+    "collected": 16,
+    "deduped": 16,
+    "uniqueTopics": 10
+  },
+  "topTopics": [
+    {
+      "name": "Market",
+      "count": 13
+    },
+    {
+      "name": "Supply",
+      "count": 8
+    },
+    {
+      "name": "Policy",
+      "count": 7
+    },
+    {
+      "name": "Construction",
+      "count": 6
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Market",
+      "count": 0
+    },
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Construction",
+      "count": 0
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Market",
+      "count": 2
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Supply",
+      "count": 1
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Construction",
+      "count": 0
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Market",
+      "count": 3
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Supply",
+      "count": 1
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Construction",
+      "count": 3
+    },
+    {
+      "date": "2026-11-24",
+      "dayOfWeek": "Tue",
+      "topic": "Market",
+      "count": 1
+    },
+    {
+      "date": "2026-11-24",
+      "dayOfWeek": "Tue",
+      "topic": "Supply",
+      "count": 1
+    },
+    {
+      "date": "2026-11-24",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-24",
+      "dayOfWeek": "Tue",
+      "topic": "Construction",
+      "count": 0
+    },
+    {
+      "date": "2026-11-25",
+      "dayOfWeek": "Wed",
+      "topic": "Market",
+      "count": 2
+    },
+    {
+      "date": "2026-11-25",
+      "dayOfWeek": "Wed",
+      "topic": "Supply",
+      "count": 3
+    },
+    {
+      "date": "2026-11-25",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-11-25",
+      "dayOfWeek": "Wed",
+      "topic": "Construction",
+      "count": 3
+    },
+    {
+      "date": "2026-11-26",
+      "dayOfWeek": "Thu",
+      "topic": "Market",
+      "count": 1
+    },
+    {
+      "date": "2026-11-26",
+      "dayOfWeek": "Thu",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-11-26",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-26",
+      "dayOfWeek": "Thu",
+      "topic": "Construction",
+      "count": 0
+    },
+    {
+      "date": "2026-11-27",
+      "dayOfWeek": "Fri",
+      "topic": "Market",
+      "count": 4
+    },
+    {
+      "date": "2026-11-27",
+      "dayOfWeek": "Fri",
+      "topic": "Supply",
+      "count": 2
+    },
+    {
+      "date": "2026-11-27",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-11-27",
+      "dayOfWeek": "Fri",
+      "topic": "Construction",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "RE1",
+      "status": "ONGOING",
+      "title": "집값 급등·대출 규제로 가속되는 서울 탈출과 수도권 인구 이동",
+      "summary": "올해 1~10월 서울에서 경기로 순유출된 인구가 4만3335명으로 전년 동기 대비 38.1% 늘며 이미 작년 연간 규모를 넘어섰다. 집값 급등, 강한 대출 규제, 실거주 중심 정책 등이 맞물려 서울 거주·내 집 마련 접근성이 떨어지자, 실수요자들이 서울 외곽·경기권으로 주거지를 옮기는 흐름이 심화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "집값 ‘천정부지’ 전세도 없어…내집 찾아 脫서울 4.3만명",
+          "url": "https://biz.heraldcorp.com/article/10951700"
+        }
+      ]
+    },
+    {
+      "id": "RE2",
+      "status": "ONGOING",
+      "title": "종부세 부담 확대와 임대료 전가 우려로 커지는 한강벨트 전월세 불안",
+      "summary": "서울 아파트값 급등으로 한강변을 중심으로 종합부동산세 부담이 크게 늘면서, 세 부담이 전월세 인상으로 전가될 수 있다는 우려가 커지고 있다. 고가 주택 보유자들이 세금 부담을 월세·전세 가격에 녹여 반영하려는 움직임이 나타날 경우, 세입자 주거비 부담이 가중되고 전월세 시장 불안이 재점화될 가능성이 제기된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "종부세 덮친 한강벨트…월세인상 부메랑 되나 [이슈&뷰]",
+          "url": "https://biz.heraldcorp.com/article/10951685"
+        }
+      ]
+    },
+    {
+      "id": "RE3",
+      "status": "ONGOING",
+      "title": "무자본 갭투자·위장임대인 등 수도권 전세사기 의심 사례 확산",
+      "summary": "수도권에서 집값보다 높은 전세금을 끼고 주택 55채를 매입한 사례 등 전세사기 의심 건이 88건 적발됐다. 전세가율 90% 이상을 활용한 무자본 갭투자, 위장임대인 동원, 오피스텔 49채 분양 연계 등 복합 수법이 확인되면서, 전세 제도의 구조적 취약성과 임차인 보호를 위한 규제·감시 강화 필요성이 다시 부각되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "“집값보다 높은 전세금에 주택 55채 매입”…전세사기 의심 88건 덜미",
+          "url": "https://www.mk.co.kr/news/economy/12219982"
+        }
+      ]
+    },
+    {
+      "id": "RE4",
+      "status": "ONGOING",
+      "title": "대출 규제 강화의 실효성 논란과 주택 수요 왜곡",
+      "summary": "정부의 강한 대출 규제가 집값 안정에는 별 효과를 내지 못하면서, 오히려 실수요와 투자 수요를 왜곡시킨다는 비판이 제기되고 있다. 대출이 막힌 무주택·청년층은 내 집 마련 기회가 줄어드는 반면, 현금 여력이 큰 자산가·갭투자자 중심으로 거래가 이동하는 등 시장 양극화와 거래 행태 변화가 심화되고 있다는 지적이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "\"대출 규제, 집값 못 잡고 수요 왜곡\"",
+          "url": "https://www.hankyung.com/article/2026112631111"
+        }
+      ]
+    },
+    {
+      "id": "RE5",
+      "status": "ONGOING",
+      "title": "AI·로봇·BIM 기반 스마트건설 기술 확산과 공공주택 품질 혁신 시도",
+      "summary": "LH가 ‘스마트건설·안전·AI EXPO’에서 사족보행 로봇 ‘늘봄 A-Eye’, 실시간 종합건설정보시스템(RICS), LH-BIM 플랫폼 등 AI·로봇 기반 스마트건설 기술을 공개했다. 설계·시공·안전관리를 데이터로 통합해 공기 단축, 품질 향상, 안전사고 예방을 노리는 공공부문 디지털 전환 사례로, 향후 공공주택·도시개발 사업 전반에의 확산이 주목된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "LH, ‘스마트건설·안전·AI’ 엑스포서 사족보행 로봇 선봬",
+          "url": "https://biz.heraldcorp.com/article/10948929"
+        }
+      ]
+    }
+  ]
+}

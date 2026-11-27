@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-10-29",
+    "to": "2026-11-27"
+  },
+  "kpis": {
+    "collected": 42,
+    "deduped": 42,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 27,
+      "Competition": 24,
+      "Demand": 19,
+      "Investment": 19,
+      "Policy": 12,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/29-11/04)",
+      "topicCounts": {
+        "Roadmap": 3,
+        "Competition": 2,
+        "Demand": 4,
+        "Investment": 1,
+        "Policy": 1
+      }
+    },
+    {
+      "week": "Week 2 (11/05-11/11)",
+      "topicCounts": {
+        "Roadmap": 8,
+        "Competition": 8,
+        "Demand": 6,
+        "Investment": 6,
+        "Policy": 2
+      }
+    },
+    {
+      "week": "Week 3 (11/12-11/18)",
+      "topicCounts": {
+        "Roadmap": 12,
+        "Competition": 9,
+        "Demand": 5,
+        "Investment": 6,
+        "Policy": 8
+      }
+    },
+    {
+      "week": "Week 4 (11/19-11/25)",
+      "topicCounts": {
+        "Roadmap": 10,
+        "Competition": 8,
+        "Demand": 6,
+        "Investment": 6,
+        "Policy": 4
+      }
+    },
+    {
+      "week": "Week 5 (11/26-11/27)",
+      "topicCounts": {
+        "Roadmap": 1,
+        "Competition": 2,
+        "Demand": 2,
+        "Investment": 2,
+        "Policy": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "중저가 전기 모빌리티 제품 할인 경쟁 심화",
+      "summary": "블랙프라이데이 기간 Roborock RockMow 로봇 잔디깎이와 Yozma IN 10 Pro 전기 더트 바이크가 대규모 할인과 새로운 최저가를 기록했다. 가정용·레저용 전동화 제품에서도 가격 인하와 프로모션 경쟁이 심화되며, EV·e모빌리티 전반의 수요 확대와 가격 민감도 강화를 보여준다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Roborock RockMow robot mowers up to $2,249 off at best prices, Yozma IN 10 Pro e-dirt bike exclusive new $1,519 low, more",
+          "url": "https://electrek.co/2026/11/26/roborock-rockmow-robot-mowers-yozma-in-10-pro-electric-dirt-bike-more/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "BYD의 첫 유럽 기존 공장 인수 시도",
+      "summary": "BYD가 프랑스 앙바흐에 위치한 이네오스 오토모티브 공장을 인수하기 위해 독점 협상에 돌입했다. 성사될 경우 헝가리에 이어 EU 내 두 번째 승용차 생산기지이자, 중국 완성차 업체의 첫 유럽 기존 공장 인수 사례로 유럽 내 생산 거점 확대와 경쟁 구도가 가속될 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "BYD in talks to buy Ineos’ French factory as Grenadier moves to US",
+          "url": "https://electrek.co/2026/11/24/byd-ineos-hambach-factory-france-grenadier-us/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "가정용 에너지 백업 시장에서 LFP 배터리 용량·모듈화 경쟁",
+      "summary": "Briggs & Stratton이 16kWh 용량의 확장형 LFP 가정용 백업 배터리를 출시하며, 정전 대비·전기요금 절감 수요를 겨냥한 홈 에너지 저장 시장 경쟁이 심화되고 있다. 모듈형 설계를 통해 향후 수요 증가에 따라 용량을 유연하게 확장할 수 있다는 점이 차별화 포인트로 부각된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Briggs & Stratton keeps the lights on longer with bigger 16 kWh LFP battery",
+          "url": "https://electrek.co/2026/11/22/briggs-stratton-keeps-the-lights-on-longer-with-bigger-16-kwh-lfp-battery/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "미 일리노이 항만, 대규모 ZEV 전환 투자 본격화",
+      "summary": "일리노이 클린 포트 프로그램이 1억 400만 달러를 투입해 포크리프트, 리치 스태커, 스위처 기관차, 페리 등 항만 장비와 충전 인프라를 전기화한다. 항만·물류 부문의 ZEV 전환이 정책·보조금 중심으로 가속화되며, 상업용·산업용 전동화 수요 창출이 기대된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "From equipment to ferries to locomotives, Illinois ports are getting a ZEV makeover",
+          "url": "https://electrek.co/2026/11/22/from-equipment-to-ferries-to-locomotives-illinois-ports-are-getting-a-zev-makeover/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "르노, 2만 달러 미만 EV로 유럽 소형 전기차 가격 전쟁 촉발",
+      "summary": "르노가 신형 Twingo E-Tech를 2만 달러 미만 가격으로 출시하며 BYD 등 중국발 저가 EV와 정면 경쟁에 나섰다. 유럽 내 엔트리급 전기차 가격 압박이 커지면서 OEM들의 원가 절감, 현지 생산, 보조금 전략 재조정이 불가피해지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Renault undercuts BYD with a new EV that costs less than $20,000",
+          "url": "https://electrek.co/2026/11/20/renault-undercuts-byd-new-ev-costs-less-than-20000/"
+        }
+      ]
+    }
+  ]
+}

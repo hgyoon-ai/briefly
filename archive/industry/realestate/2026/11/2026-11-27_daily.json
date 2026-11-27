@@ -1,0 +1,130 @@
+{
+  "date": "2026-11-27",
+  "highlights": {
+    "bullets": [
+      "핵심: 서울에서 올해 1~10월 경기로 순유출이 4만3335명 발생했다.",
+      "핵심: 부산의 주택 인허가 물량이 1년 새 3분의 1로 줄고 악성 미분양이 2455호에 이르렀다.",
+      "트렌드: 기사들은 집값 상승과 대출·정책 규제가 맞물려 주택시장 불안과 임대·거래 왜곡을 초래한다고 공통으로 짚는다."
+    ],
+    "topTopics": [
+      "Market",
+      "Policy",
+      "Supply",
+      "Rental"
+    ],
+    "stats": {
+      "collected": 14,
+      "deduped": 14
+    }
+  },
+  "cards": [
+    {
+      "id": "realestate_0001",
+      "tab": "realestate",
+      "publishedAt": "2026-11-27T11:41:36+09:00",
+      "source": "헤럴드경제(부동산)",
+      "title": "집값 ‘천정부지’ 전세도 없어…내집 찾아 脫서울 4.3만명",
+      "summary": [
+        "올해 1~10월 서울에서 경기로의 순유출이 4만3335명으로 지난해 동기보다 38.1% 증가해 지난해 연간 규모를 넘었다.",
+        "집값 급등과 잇따른 대출 규제, 정부의 실거주 중심 정책이 서울의 주거 접근성을 악화시키고 있다.",
+        "이로 인해 서울을 벗어나 경기도로 거주지를 옮기는 탈서울 현상이 가속화되고 있다."
+      ],
+      "whyItMatters": "집값 상승과 대출 규제·실거주 중심 정책이 전세·매매 시장 접근성을 떨어뜨려 서울 인구 유출을 촉발했다.",
+      "topics": [
+        "Market",
+        "Mortgage",
+        "Policy",
+        "Rental"
+      ],
+      "status": "ONGOING",
+      "hash": "3cf8b1a51c9b183f04c36f3304c5c6c6d8d6dde38c8b4764e0ab4910b3ba1bf0",
+      "url": "https://biz.heraldcorp.com/article/10951700"
+    },
+    {
+      "id": "realestate_0002",
+      "tab": "realestate",
+      "publishedAt": "2026-11-27T11:36:17+09:00",
+      "source": "헤럴드경제(부동산)",
+      "title": "종부세 덮친 한강벨트…월세인상 부메랑 되나 [이슈&뷰]",
+      "summary": [
+        "서울 아파트값 급등으로 종합부동산세 부담이 크게 늘었다.",
+        "늘어난 종부세가 집주인에 의해 임대료 인상으로 전가될 우려가 제기된다.",
+        "국세청은 서울에서 45만9263명에게 종부세 1조3390억원을 고지했고 일부 단지는 세액이 수배 증가했다."
+      ],
+      "whyItMatters": "집값 상승으로 종부세 대상과 세액이 급증해 집주인이 임대료로 세 부담을 보전할 가능성이 커졌기 때문이다.",
+      "topics": [
+        "Tax",
+        "Rental",
+        "Market"
+      ],
+      "status": "ONGOING",
+      "hash": "7925e5002dc378cdaab4beb1844cb03ba27f39d708bb92ce97976dcca1d52aec",
+      "url": "https://biz.heraldcorp.com/article/10951685"
+    },
+    {
+      "id": "realestate_0003",
+      "tab": "realestate",
+      "publishedAt": "2026-11-27T11:22:57+09:00",
+      "source": "매일경제(부동산)",
+      "title": "인허가 3분의 1토막·악성 미분양 2455호…부산시 “지방 맞춤형 대책 달라”",
+      "summary": [
+        "부산시의 주택 인허가 물량이 1년 새 3분의 1 수준으로 급감했다.",
+        "악성 미분양이 2,455호에 달하며 주택시장 침체가 심화되고 있다.",
+        "부산시는 중앙부처에 지방 맞춤형 대책과 세컨드홈 특례 등 정책 지원을 건의했다."
+      ],
+      "whyItMatters": "지역 경제와 주택시장 안정에 직결되므로 중앙의 신속한 맞춤형 지원이 필요하다.",
+      "topics": [
+        "Market",
+        "Supply",
+        "Policy"
+      ],
+      "status": "ONGOING",
+      "hash": "1216dc10dabdcf767e837371323aa354d588a50b213ef6fd539ddc75fe364c57",
+      "url": "https://www.mk.co.kr/news/realestate/12220039"
+    },
+    {
+      "id": "realestate_0004",
+      "tab": "realestate",
+      "publishedAt": "2026-11-27T10:35:27+09:00",
+      "source": "매일경제(부동산)",
+      "title": "“집값보다 높은 전세금에 주택 55채 매입”…전세사기 의심 88건 덜미",
+      "summary": [
+        "수도권에서 A씨 등이 아파트·오피스텔 등 주택 55채를 매입한 뒤 전세가율 90% 이상 등 전세사기 의심 사례 88건이 적발됐다.",
+        "무자본 갭투자와 위장임대인 수법으로 전세금을 부풀리고 오피스텔 49채 분양이 연루된 정황이 확인됐다.",
+        "정부는 의심자 22명을 수사의뢰하며 추가 조사와 대응을 진행 중이다."
+      ],
+      "whyItMatters": "전세사기는 세입자 피해를 키우고 전·월세 시장의 신뢰와 금융 안정을 저해하므로 신속한 수사와 제도적 보완이 필요하다.",
+      "topics": [
+        "Rental",
+        "Market",
+        "Regulation",
+        "Supply"
+      ],
+      "status": "ONGOING",
+      "hash": "52f4983b9e24be3f7fb75757ae9616783fafe4473a1d4d9068fa21a1eb388410",
+      "url": "https://www.mk.co.kr/news/economy/12219982"
+    },
+    {
+      "id": "realestate_0005",
+      "tab": "realestate",
+      "publishedAt": "2026-11-26T17:56:59+09:00",
+      "source": "한국경제(부동산)",
+      "title": "\"대출 규제, 집값 못 잡고 수요 왜곡\"",
+      "summary": [
+        "대출 규제가 집값 안정에 효과를 내지 못하고 있다.",
+        "규제로 인해 실수요와 투자 수요가 왜곡되며 거래 행태가 변했다.",
+        "수요 왜곡이 장기화되면 가격 불안정과 공급 문제로 이어질 가능성이 크다."
+      ],
+      "whyItMatters": "대출 규제가 차주 행태와 자금 흐름을 바꿔 편법·풍선효과를 유발해 가격 형성과 수요 구조를 왜곡하기 때문입니다.",
+      "topics": [
+        "Regulation",
+        "Mortgage",
+        "Market",
+        "Policy"
+      ],
+      "status": "ONGOING",
+      "hash": "63a82d9363c19183fbd0b63f228256dd15c1e4fc074caa874ad40119be082572",
+      "url": "https://www.hankyung.com/article/2026112631111"
+    }
+  ]
+}

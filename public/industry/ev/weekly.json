@@ -1,93 +1,33 @@
 {
   "range": {
-    "from": "2026-11-19",
-    "to": "2026-11-25"
+    "from": "2026-11-21",
+    "to": "2026-11-27"
   },
   "kpis": {
-    "collected": 10,
-    "deduped": 10,
+    "collected": 8,
+    "deduped": 8,
     "uniqueTopics": 6
   },
   "topTopics": [
     {
-      "name": "Roadmap",
-      "count": 10
+      "name": "Investment",
+      "count": 7
     },
     {
       "name": "Competition",
-      "count": 8
+      "count": 7
     },
     {
-      "name": "Investment",
-      "count": 6
+      "name": "Roadmap",
+      "count": 7
     },
     {
       "name": "Demand",
-      "count": 6
+      "count": 4
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-11-19",
-      "dayOfWeek": "Thu",
-      "topic": "Roadmap",
-      "count": 1
-    },
-    {
-      "date": "2026-11-19",
-      "dayOfWeek": "Thu",
-      "topic": "Competition",
-      "count": 0
-    },
-    {
-      "date": "2026-11-19",
-      "dayOfWeek": "Thu",
-      "topic": "Investment",
-      "count": 1
-    },
-    {
-      "date": "2026-11-19",
-      "dayOfWeek": "Thu",
-      "topic": "Demand",
-      "count": 1
-    },
-    {
-      "date": "2026-11-20",
-      "dayOfWeek": "Fri",
-      "topic": "Roadmap",
-      "count": 1
-    },
-    {
-      "date": "2026-11-20",
-      "dayOfWeek": "Fri",
-      "topic": "Competition",
-      "count": 1
-    },
-    {
-      "date": "2026-11-20",
-      "dayOfWeek": "Fri",
-      "topic": "Investment",
-      "count": 0
-    },
-    {
-      "date": "2026-11-20",
-      "dayOfWeek": "Fri",
-      "topic": "Demand",
-      "count": 1
-    },
-    {
-      "date": "2026-11-21",
-      "dayOfWeek": "Sat",
-      "topic": "Roadmap",
-      "count": 2
-    },
-    {
-      "date": "2026-11-21",
-      "dayOfWeek": "Sat",
-      "topic": "Competition",
-      "count": 2
-    },
-    {
       "date": "2026-11-21",
       "dayOfWeek": "Sat",
       "topic": "Investment",
@@ -96,8 +36,32 @@
     {
       "date": "2026-11-21",
       "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
       "topic": "Demand",
-      "count": 2
+      "count": 0
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 3
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 3
     },
     {
       "date": "2026-11-22",
@@ -108,25 +72,13 @@
     {
       "date": "2026-11-22",
       "dayOfWeek": "Sun",
-      "topic": "Competition",
-      "count": 3
-    },
-    {
-      "date": "2026-11-22",
-      "dayOfWeek": "Sun",
-      "topic": "Investment",
-      "count": 3
-    },
-    {
-      "date": "2026-11-22",
-      "dayOfWeek": "Sun",
       "topic": "Demand",
       "count": 2
     },
     {
       "date": "2026-11-23",
       "dayOfWeek": "Mon",
-      "topic": "Roadmap",
+      "topic": "Investment",
       "count": 0
     },
     {
@@ -138,7 +90,7 @@
     {
       "date": "2026-11-23",
       "dayOfWeek": "Mon",
-      "topic": "Investment",
+      "topic": "Roadmap",
       "count": 0
     },
     {
@@ -150,7 +102,7 @@
     {
       "date": "2026-11-24",
       "dayOfWeek": "Tue",
-      "topic": "Roadmap",
+      "topic": "Investment",
       "count": 1
     },
     {
@@ -162,7 +114,7 @@
     {
       "date": "2026-11-24",
       "dayOfWeek": "Tue",
-      "topic": "Investment",
+      "topic": "Roadmap",
       "count": 1
     },
     {
@@ -174,7 +126,7 @@
     {
       "date": "2026-11-25",
       "dayOfWeek": "Wed",
-      "topic": "Roadmap",
+      "topic": "Investment",
       "count": 1
     },
     {
@@ -186,7 +138,7 @@
     {
       "date": "2026-11-25",
       "dayOfWeek": "Wed",
-      "topic": "Investment",
+      "topic": "Roadmap",
       "count": 1
     },
     {
@@ -194,42 +146,105 @@
       "dayOfWeek": "Wed",
       "topic": "Demand",
       "count": 0
+    },
+    {
+      "date": "2026-11-26",
+      "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-26",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-26",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-26",
+      "dayOfWeek": "Thu",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-11-27",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-11-27",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-11-27",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-27",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 2
     }
   ],
   "topIssues": [
     {
       "id": 1,
-      "status": "NEW",
-      "title": "중국 EV 업체의 유럽 생산 거점 확대",
-      "summary": "BYD가 프랑스 이네오스 앙바흐 공장 인수를 위한 독점 협상에 돌입하면서, 헝가리에 이어 EU 내 두 번째 승용차 공장 확보를 추진 중입니다. 이는 중국 완성차 업체의 첫 유럽 기존 공장 인수 사례로, 유럽 내 현지 생산·가격 경쟁 심화와 함께 EV 공급망의 유럽 내 재편을 가속할 가능성이 있습니다.",
-      "articleCount": 1,
+      "status": "ONGOING",
+      "title": "중국 완성차·전동 모빌리티 기업의 글로벌 생산·판매 확장",
+      "summary": "BYD의 프랑스 이네오스 앙바흐 공장 인수 협상과 샤오미의 UAE 전기차 수출 개시로, 중국 기업들이 유럽·중동을 거점으로 한 글로벌 EV 생산·판매 네트워크를 본격적으로 확대하고 있습니다. 이는 현지 생산을 통한 관세·규제 리스크 완화와 함께, 유럽 내 경쟁 심화를 예고하는 중장기 이슈입니다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
           "source": "Electrek",
           "title": "BYD in talks to buy Ineos’ French factory as Grenadier moves to US",
           "url": "https://electrek.co/2026/11/24/byd-ineos-hambach-factory-france-grenadier-us/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Red wave: Xiaomi goes global with first overseas EV sales",
+          "url": "https://electrek.co/2026/11/21/red-wave-xiaomi-goes-global-with-first-overseas-ev-sales/"
         }
       ]
     },
     {
       "id": 2,
-      "status": "NEW",
-      "title": "가정용 백업 전력 시장에서 LFP 배터리 확장",
-      "summary": "Briggs & Stratton이 16kWh LFP 가정용 백업 배터리를 출시하며 모듈형·확장형 에너지 스토리지 솔루션 경쟁에 합류했습니다. 전력망 불안과 전기요금 상승 속에서 장기 백업과 확장성을 강조하는 LFP 기반 ESS 수요가 커지는 흐름을 보여줍니다.",
-      "articleCount": 1,
+      "status": "ONGOING",
+      "title": "테슬라: 충전 인프라·소프트웨어·지배구조를 둘러싼 전략 변화",
+      "summary": "테슬라는 미국에서 56일간 1,027기의 영구 슈퍼차저를 추가한 데 이어 추수감사절 성수기에 모바일 슈퍼차저 29기를 투입하며 충전 인프라 확장을 가속하고 있습니다. 동시에 FSD v15 출시로 자율주행 소프트웨어 경쟁력을 강화하는 한편, 연말까지 테슬라–스페이스X 합병을 추진하며 규제·감독 환경 변화에 선제 대응하려는 움직임을 보이고 있습니다.",
+      "articleCount": 3,
       "relatedArticles": [
         {
           "source": "Electrek",
-          "title": "Briggs & Stratton keeps the lights on longer with bigger 16 kWh LFP battery",
-          "url": "https://electrek.co/2026/11/22/briggs-stratton-keeps-the-lights-on-longer-with-bigger-16-kwh-lfp-battery/"
+          "title": "Tesla deploys 29 mobile Supercharger stalls for Thanksgiving travel rush",
+          "url": "https://electrek.co/2026/11/26/tesla-deploys-mobile-superchargers-thanksgiving-travel/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Tesla launches FSD v15, targets its biggest weaknesses, from signs to potholes",
+          "url": "https://electrek.co/2026/11/21/tesla-fsd-v15-rollout-25x-safety-reality-view/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Tesla (TSLA), SpaceX race for year-end merger deal before new Congress",
+          "url": "https://electrek.co/2026/11/24/tesla-spacex-merger-year-end-deadline-new-congress/"
         }
       ]
     },
     {
       "id": 3,
       "status": "NEW",
-      "title": "항만·물류 부문의 대규모 ZEV 전환 정책",
-      "summary": "일리노이 주가 클린 포트 프로그램을 통해 1억 400만 달러를 투입해 항만 장비와 충전 인프라를 전기화합니다. 포크리프트, 리치 스태커, 스위처 기관차, 페리 등 중장비·수송 수단을 ZEV로 전환하는 사례로, 상용·물류 부문의 전동화와 관련 인프라 수요 확대를 의미합니다.",
+      "title": "항만·중장비 전기화: 일리노이 클린 포트 프로그램 가속",
+      "summary": "일리노이주는 1억 400만 달러 규모의 클린 포트 프로그램을 통해 항만의 포크리프트, 리치 스태커, 스위처 기관차, 페리 등 중장비를 전기화하고 충전 인프라를 구축합니다. 이는 ZEV 규제와 연계된 물류·항만 탈탄소화의 선도 사례로, 향후 다른 주와 국가로 확산될 가능성이 큽니다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -242,28 +257,19 @@
     {
       "id": 4,
       "status": "NEW",
-      "title": "샤오미, EV 해외 판매 개시로 글로벌 시장 진입",
-      "summary": "샤오미가 중국 외 첫 EV 해외 판매를 시작하며 글로벌 전기차 시장에 본격 진입했습니다. 초기 진출 국가는 UAE로, 이후 유럽·캐나다 등으로 확대되는 중국산 전기차 공세 흐름 속에서 신규 IT 기반 OEM의 진입이 가속되는 양상입니다.",
-      "articleCount": 1,
+      "title": "가정용·소형 LFP 에너지 스토리지 및 e-모빌리티 수요 확대",
+      "summary": "Briggs & Stratton의 16kWh 모듈형 LFP 가정용 백업 배터리 출시와 함께, 로보락 RockMow 로봇 잔디깎이, Yozma IN 10 Pro e-더트 바이크 등 소형 전동 모빌리티·에너지 제품이 블랙프라이데이 프로모션을 통해 대폭 할인 판매되고 있습니다. 이는 가정용 백업 전력과 레저·생활용 e-모빌리티 수요가 동시에 성장하며 분산형 전동화 시장이 확대되고 있음을 보여줍니다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
           "source": "Electrek",
-          "title": "Red wave: Xiaomi goes global with first overseas EV sales",
-          "url": "https://electrek.co/2026/11/21/red-wave-xiaomi-goes-global-with-first-overseas-ev-sales/"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "status": "NEW",
-      "title": "르노의 2만 달러 미만 EV로 유럽 가격 경쟁 심화",
-      "summary": "르노가 약 2만 달러 미만의 Twingo E-Tech를 출시하며 유럽 B세그먼트 저가 EV 시장에서 BYD 등 중국 업체와 정면 경쟁에 나섰습니다. 이는 유럽 내 EV 보급률 확대에는 긍정적이지만, 기존 OEM들의 마진 압박과 가격 전쟁을 심화시킬 수 있는 신호입니다.",
-      "articleCount": 1,
-      "relatedArticles": [
+          "title": "Briggs & Stratton keeps the lights on longer with bigger 16 kWh LFP battery",
+          "url": "https://electrek.co/2026/11/22/briggs-stratton-keeps-the-lights-on-longer-with-bigger-16-kwh-lfp-battery/"
+        },
         {
           "source": "Electrek",
-          "title": "Renault undercuts BYD with a new EV that costs less than $20,000",
-          "url": "https://electrek.co/2026/11/20/renault-undercuts-byd-new-ev-costs-less-than-20000/"
+          "title": "Roborock RockMow robot mowers up to $2,249 off at best prices, Yozma IN 10 Pro e-dirt bike exclusive new $1,519 low, more",
+          "url": "https://electrek.co/2026/11/26/roborock-rockmow-robot-mowers-yozma-in-10-pro-electric-dirt-bike-more/"
         }
       ]
     }

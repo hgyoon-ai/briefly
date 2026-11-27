@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-10-29",
+    "to": "2026-11-27"
+  },
+  "kpis": {
+    "collected": 66,
+    "deduped": 66,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "Tooling": 26,
+      "Infra": 19,
+      "Product": 19,
+      "Research": 18,
+      "Models": 17,
+      "Other": 1
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/29-11/04)",
+      "topicCounts": {
+        "Tooling": 5,
+        "Infra": 7,
+        "Product": 4,
+        "Research": 4,
+        "Models": 3
+      }
+    },
+    {
+      "week": "Week 2 (11/05-11/11)",
+      "topicCounts": {
+        "Tooling": 9,
+        "Infra": 9,
+        "Product": 6,
+        "Research": 6,
+        "Models": 8
+      }
+    },
+    {
+      "week": "Week 3 (11/12-11/18)",
+      "topicCounts": {
+        "Tooling": 15,
+        "Infra": 8,
+        "Product": 16,
+        "Research": 12,
+        "Models": 9
+      }
+    },
+    {
+      "week": "Week 4 (11/19-11/25)",
+      "topicCounts": {
+        "Tooling": 8,
+        "Infra": 5,
+        "Product": 1,
+        "Research": 5,
+        "Models": 4
+      }
+    },
+    {
+      "week": "Week 5 (11/26-11/27)",
+      "topicCounts": {
+        "Tooling": 2,
+        "Infra": 1,
+        "Product": 1,
+        "Research": 0,
+        "Models": 1
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "AMD 플랫폼용 LLM 추론 성능 가시화와 최적화 본격화",
+      "summary": "Hugging Face가 AMD Ryzen·Radeon 환경에서 llama.cpp 추론 성능을 한눈에 비교할 수 있는 벤치마크 대시보드를 공개했다. CPU·GPU별 처리량과 지연시간, 설정별 성능 차이를 정량적으로 제공해, 기업·개발자가 AMD 하드웨어에서 LLM 추론 아키텍처와 튜닝 전략을 설계하는 데 실무 지표를 제시한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "Nemotron 3.5 Parse 기반 오픈 데이터·파인튜닝 생태계 확장",
+      "summary": "Nemotron 3.5 Parse 모델을 중심으로 오픈 데이터셋과 미세조정 도구가 단계적으로 확장되고 있다. 사용자는 공개 데이터와 툴체인을 활용해 도메인 특화 LLM을 손쉽게 커스터마이즈할 수 있게 되었고, 이에 따라 엔터프라이즈용 맞춤 모델 개발과 추론 효율화 흐름이 계속 이어지는 추세다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+          "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "게임 개발용 AI 애니메이션·RTX 툴로 실시간 제작 파이프라인 고도화",
+      "summary": "NVIDIA가 게임 엔진과 통합되는 AI 애니메이션 기능 및 RTX 그래픽 툴 업데이트를 공개했다. 로컬 AI 추론을 활용한 캐릭터 애니메이션, 고품질 이미지·조명 처리 등이 강조되면서, 게임 개발 워크플로우 전반에 AI를 기본 도구로 편입하는 흐름이 강화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "What’s New for Game Developers: AI Animation and RTX Tools",
+          "url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-ai-animation-and-rtx-tools/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "GPU-네이티브 데이터 수집으로 과학 계측 실시간 AI 제어 가속",
+      "summary": "과학 계측기의 센서 데이터를 GPU-네이티브 파이프라인으로 직접 수집·처리하는 방식이 도입되며, 초저지연·고처리량 환경에서 실시간 AI 분석과 폐쇄 루프 제어가 가능해지고 있다. 이는 실험 자동화·최적화와 고가 장비 활용 효율을 높이는 인프라 트렌드로 이어지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "Enabling Real-Time AI for Scientific Instruments with GPU-Native Data Acquisition",
+          "url": "https://developer.nvidia.com/blog/enabling-real-time-ai-for-scientific-instruments-with-gpu-native-data-acquisition/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "SHIFTING",
+      "title": "고도화된 AI와 사회 제도 재구성에 대한 전략·정책 논의 심화",
+      "summary": "OpenAI는 고성능 AI가 규범·제도·권한 구조를 눈에 띄지 않게 재편할 수 있다는 점을 짚으며, 이를 ‘침묵의 합의’로 개념화했다. 사람과 기관이 어떤 영역을 AI에 위임하고 어떻게 통제할지에 대한 거버넌스, 책임소재, 정책 설계 논의가 중요해지고 있음을 강조한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "OpenAI Blog",
+          "title": "The Silent Consensus",
+          "url": "https://openai.com/index/the-silent-consensus"
+        }
+      ]
+    }
+  ]
+}

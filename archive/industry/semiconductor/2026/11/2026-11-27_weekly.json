@@ -1,0 +1,257 @@
+{
+  "range": {
+    "from": "2026-11-21",
+    "to": "2026-11-27"
+  },
+  "kpis": {
+    "collected": 5,
+    "deduped": 5,
+    "uniqueTopics": 5
+  },
+  "topTopics": [
+    {
+      "name": "Policy",
+      "count": 4
+    },
+    {
+      "name": "Investment",
+      "count": 4
+    },
+    {
+      "name": "Manufacturing",
+      "count": 3
+    },
+    {
+      "name": "Roadmap",
+      "count": 3
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-24",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-24",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-24",
+      "dayOfWeek": "Tue",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-24",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-25",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-25",
+      "dayOfWeek": "Wed",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-25",
+      "dayOfWeek": "Wed",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-11-25",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-26",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-11-26",
+      "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-11-26",
+      "dayOfWeek": "Thu",
+      "topic": "Manufacturing",
+      "count": 2
+    },
+    {
+      "date": "2026-11-26",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-27",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-27",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-27",
+      "dayOfWeek": "Fri",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-27",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "캐나다 반도체: 연구-제조 간극 해소와 고부가가치 응용 확대",
+      "summary": "캐나다는 반도체 연구 강점을 실제 제조·양산으로 전환하기 위해 국가 차원의 인프라·투자 전략을 강화하고 있다. 양자컴퓨팅, 주권 AI, 해양 전자, 첨단 소재 등 틈새 고부가 분야에서 설계·공정·패키징을 연계해 중소 규모라도 글로벌 가치사슬에 편입하려는 시도가 진행 중이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Bridging the Research-to-Manufacturing Gap in Canada’s Semiconductor Industry",
+          "url": "https://www.eetimes.com/bridging-the-research-to-manufacturing-gap-in-canadas-semiconductor-industry/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "NEW",
+      "title": "EU 농업 로봇 안전 규제 강화와 반도체 기반 제어 시스템 수요",
+      "summary": "EU가 농업용 자율 로봇·AI 기계에 대한 새로운 안전 규칙을 도입하면서 센서, 제어 MCU, 안전 인증 SoC 등 반도체 기반 기능 안전 솔루션의 요구 수준이 크게 높아지고 있다. 더 엄격한 인증·현장 운용 조건은 로봇용 반도체의 기능 안전, 보안, 실시간성 설계 기준을 재정의하며, 중장기적으로 농업 자동화용 반도체 수요를 자극할 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "EU Rules Bring New Safety Requirements for Farm Robots",
+          "url": "https://www.eetimes.com/eu-rules-bring-new-safety-requirements-for-farm-robots/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "엣지 AI·로보틱스로 고도화되는 자율 농업과 특화 반도체 기회",
+      "summary": "농업 현장에서 엣지 AI와 로보틱스가 확산되며, 정밀 살포·자율 주행·수확 자동화가 요구하는 고성능·저전력 연산을 위해 도메인 특화 SoC와 센서 퓨전용 프로세서 수요가 커지고 있다. 클라우드 의존을 줄이고 현장에서 실시간 추론을 수행하는 구조로 전환되면서, 이미지 센서, AI 가속기, 통신 칩셋이 통합된 농기계용 반도체 플랫폼 개발이 중요한 성장 축으로 부상한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "From Precision to Autonomous Agriculture: The Role of Edge AI and Robotics",
+          "url": "https://www.eetimes.com/from-precision-to-autonomous-agriculture-the-role-of-edge-ai-and-robotics/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "V2G 전기차-전력망 연계 확산과 전력용 반도체·BMS 기술 과제",
+      "summary": "V2G는 전기차 배터리를 분산 에너지 자원으로 활용해 그리드 안정화와 재생에너지 활용도를 높일 수 있으나, 배터리 수명, 충전 인프라, 비용 등 현실적 제약이 크다. 양방향 DC/DC·DC/AC 변환을 위한 고신뢰 전력용 반도체, 정밀 BMS, 통신·보안 칩이 핵심으로 부각되며, 표준·비즈니스 모델 정착에 따라 관련 전력 반도체 시장 구조가 재편될 가능성이 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Vehicle-to-Grid: Great Idea or Unrealistic Dream? (Part 2)",
+          "url": "https://www.eetimes.com/vehicle-to-grid-great-idea-or-unrealistic-dream-part-2/"
+        }
+      ]
+    }
+  ]
+}

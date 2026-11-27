@@ -1,97 +1,49 @@
 {
   "range": {
-    "from": "2026-11-19",
-    "to": "2026-11-25"
+    "from": "2026-11-21",
+    "to": "2026-11-27"
   },
   "kpis": {
-    "collected": 10,
-    "deduped": 10,
-    "uniqueTopics": 7
+    "collected": 7,
+    "deduped": 7,
+    "uniqueTopics": 8
   },
   "topTopics": [
     {
       "name": "MarketInfra",
-      "count": 8
+      "count": 6
     },
     {
       "name": "Policy",
-      "count": 8
-    },
-    {
-      "name": "Regulation",
       "count": 5
     },
     {
+      "name": "Regulation",
+      "count": 3
+    },
+    {
       "name": "Compliance",
-      "count": 4
+      "count": 3
     }
   ],
   "topicTrend": [
     {
-      "date": "2026-11-19",
-      "dayOfWeek": "Thu",
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
       "topic": "MarketInfra",
-      "count": 0
-    },
-    {
-      "date": "2026-11-19",
-      "dayOfWeek": "Thu",
-      "topic": "Policy",
-      "count": 0
-    },
-    {
-      "date": "2026-11-19",
-      "dayOfWeek": "Thu",
-      "topic": "Regulation",
-      "count": 0
-    },
-    {
-      "date": "2026-11-19",
-      "dayOfWeek": "Thu",
-      "topic": "Compliance",
-      "count": 0
-    },
-    {
-      "date": "2026-11-20",
-      "dayOfWeek": "Fri",
-      "topic": "MarketInfra",
-      "count": 1
-    },
-    {
-      "date": "2026-11-20",
-      "dayOfWeek": "Fri",
-      "topic": "Policy",
-      "count": 1
-    },
-    {
-      "date": "2026-11-20",
-      "dayOfWeek": "Fri",
-      "topic": "Regulation",
-      "count": 1
-    },
-    {
-      "date": "2026-11-20",
-      "dayOfWeek": "Fri",
-      "topic": "Compliance",
       "count": 1
     },
     {
       "date": "2026-11-21",
       "dayOfWeek": "Sat",
-      "topic": "MarketInfra",
-      "count": 4
-    },
-    {
-      "date": "2026-11-21",
-      "dayOfWeek": "Sat",
       "topic": "Policy",
-      "count": 4
+      "count": 1
     },
     {
       "date": "2026-11-21",
       "dayOfWeek": "Sat",
       "topic": "Regulation",
-      "count": 1
+      "count": 0
     },
     {
       "date": "2026-11-21",
@@ -194,16 +146,69 @@
       "dayOfWeek": "Wed",
       "topic": "Compliance",
       "count": 1
+    },
+    {
+      "date": "2026-11-26",
+      "dayOfWeek": "Thu",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-26",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-26",
+      "dayOfWeek": "Thu",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-11-26",
+      "dayOfWeek": "Thu",
+      "topic": "Compliance",
+      "count": 0
+    },
+    {
+      "date": "2026-11-27",
+      "dayOfWeek": "Fri",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-11-27",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-27",
+      "dayOfWeek": "Fri",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-11-27",
+      "dayOfWeek": "Fri",
+      "topic": "Compliance",
+      "count": 0
     }
   ],
   "topIssues": [
     {
       "id": 1,
-      "status": "NEW",
-      "title": "국내외 해킹·정보유출 확산 속 보안주 ‘방어 자산’ 부각",
-      "summary": "글로벌 해킹·정보유출 사고가 이어지며 사이버 보안 리스크가 금융시장 핵심 변수로 떠올랐다. 국내 증시는 약세장임에도 정보보안 관련주는 수급이 집중되며 급등해, 변동성 국면의 대안 투자처로 재평가받고 있다.",
-      "articleCount": 1,
+      "status": "ONGOING",
+      "title": "북한발 해킹과 AI 고도화로 커지는 금융·기간망 사이버 리스크",
+      "summary": "AI 기술을 활용한 북한 등 발 사이버 공격이 고도화되면서 속도와 파괴력이 커지고 있다. 국내 국가 기간망과 금융권 시스템에서 대규모 정보 유출 사례가 이어지고, 이로 인해 보안 투자와 리스크 관리가 금융시장 핵심 이슈로 부상하고 있다.",
+      "articleCount": 2,
       "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "AI가 만들어 낸 ‘속도의 역전’…北핵보다 北해킹이 무서운 이유 [기자24시]",
+          "url": "https://www.mk.co.kr/news/stock/12220044"
+        },
         {
           "source": "매일경제(증권)",
           "title": "증시는 급락하는데 보안株는 ‘불기둥’…해킹 공포에 나홀로 급등",
@@ -213,9 +218,23 @@
     },
     {
       "id": 2,
+      "status": "ONGOING",
+      "title": "로봇·AI 모멘텀에 따른 국내 로봇 관련주 급등과 테마 과열",
+      "summary": "삼성전자가 로봇 역량 강화 계획을 공개하자 로봇 및 AI 연관 종목들이 단기간 급등했다. 제닉스로보틱스를 비롯한 일부 종목이 상한가를 기록하는 등 로봇 테마주에 투기적 수급이 몰리며 변동성 확대와 단기 과열 우려가 제기되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "삼성전자 로봇에 힘주자 관련주 줄줄이 급등…제닉스로보틱스 상한가",
+          "url": "https://www.mk.co.kr/news/stock/12219958"
+        }
+      ]
+    },
+    {
+      "id": 3,
       "status": "NEW",
-      "title": "디지털자산기본법 공개…코인·거래소 규제 체계 전환 시작",
-      "summary": "디지털자산기본법 제정안이 공개되며 국내 가상자산 시장이 제도권 규율로 편입되는 분수령을 맞고 있다. 거래소 인가·토큰 상장 요건·투자자 보호 장치가 대폭 강화될 전망으로, 코인 가격뿐 아니라 사업자 구조조정과 은행·증권사와의 제휴 구도까지 큰 변화가 예상된다.",
+      "title": "디지털자산기본법 공개로 재편되는 코인·거래소 규제 환경",
+      "summary": "디지털자산기본법 제정안이 공개되면서 코인 발행·상장·상장폐지, 거래소 의무와 투자자 보호 장치 등이 전면적으로 정비될 전망이다. 가상자산 사업자의 규율 강화로 거래소 구조조정, 알트코인 상장기준 재검토 등 국내 디지털자산 시장 재편이 예상된다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -226,10 +245,10 @@
       ]
     },
     {
-      "id": 3,
+      "id": 4,
       "status": "ONGOING",
-      "title": "국민연금 매매·운용 전략 논란…증시 수급 왜곡과 증안펀드 한계",
-      "summary": "국민연금의 국내 주식 매매 패턴과 전략이 시장 수급을 꼬이게 한다는 지적이 커지고 있다. 엔비디아 호실적과 앤트로픽 상장 등 대형 호재에도 코스피가 5000선 아래로 밀리자, 증시안정펀드 10조원 규모로는 수급 불균형 해소가 어렵다는 회의론이 제기된다.",
+      "title": "국민연금 매매 전략과 증안펀드 논쟁 속 증시 수급 불안",
+      "summary": "국민연금의 국내 주식 비중 조정과 매매 패턴이 시장 수급 왜곡 논란을 키우고 있다. 추가 하락 방어를 위한 증안펀드 10조원 조성론이 거론되지만, 코스피 5000선 붕괴와 4500선 위협 상황에서 실효성에 대한 회의론도 커지고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -240,30 +259,16 @@
       ]
     },
     {
-      "id": 4,
+      "id": 5,
       "status": "ONGOING",
-      "title": "곱버스·레버리지 ETF 급락…개인 투자자 파생형 상품 손실 경고",
-      "summary": "올해 들어 곱버스 ETF 5종이 70%대 후반 급락하고, 레버리지 ETF에도 1조원이 넘는 개인 자금이 유입되며 손실이 확대되고 있다. 지수 방향이 맞더라도 음의 복리 효과로 장기 보유 시 수익 구조가 악화되는 레버리지·인버스 ETF 특성이 다시 부각되며, 금융당국의 파생형 ETF 규제·투자자 보호 강화 논의가 재점화되고 있다.",
+      "title": "레버리지·인버스 ETF의 복리 효과와 개인투자자 손실 심화",
+      "summary": "곱버스와 레버리지 ETF에 개인투자자 자금이 대거 몰린 가운데, 음의 복리 구조와 장기 보유 시 괴리 확대 문제로 손실이 심화되고 있다. 지수 회복에도 레버리지·인버스 상품에서 원금 손실을 보는 사례가 속출하면서 파생형 ETF 투자자 보호와 규제 강화 필요성이 제기된다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
           "title": "“어? 100만원 넣었는데 20만원 됐네”…곱버스, ETF 낙폭 순위 ‘싹쓸이’",
           "url": "https://www.mk.co.kr/news/stock/12215878"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "status": "ONGOING",
-      "title": "MBK파트너스, 日 와콤 1조원대 인수 추진…기술·공급망 기반 크로스보더 딜",
-      "summary": "사모펀드 MBK파트너스가 갤럭시 S펜 핵심 기술을 보유한 일본 와콤 인수를 추진하며 한·일 IT 하드웨어 공급망에 영향을 미칠 전망이다. 기술 라이선스와 부품 공급 구조, 향후 상장·재매각 전략까지 복합적으로 얽힌 크로스보더 M&A로, 관련 밸류체인 기업들의 기업가치 재평가 가능성이 부각된다.",
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "source": "매일경제(증권)",
-          "title": "‘갤럭시 S펜’ 핵심기술 보유한 日와콤, MBK가 1조원대 인수",
-          "url": "https://www.mk.co.kr/news/stock/12215301"
         }
       ]
     }

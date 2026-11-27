@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-27",
+  "highlights": {
+    "bullets": [
+      "핵심: AI 자동화로 공격 속도가 가속화되며 북한 해킹 위협의 즉시성과 위험성이 커지고 있다.",
+      "핵심: 삼성전자 로봇 역량 강화 계획 공개에 로봇 관련주가 일제히 급등했고 제닉스로보틱스는 상한가를 기록했다."
+    ],
+    "topTopics": [
+      "MarketInfra",
+      "Fintech",
+      "Policy",
+      "Regulation"
+    ],
+    "stats": {
+      "collected": 15,
+      "deduped": 15
+    }
+  },
+  "cards": [
+    {
+      "id": "finance_0001",
+      "tab": "finance",
+      "publishedAt": "2026-11-27T11:26:33+09:00",
+      "source": "매일경제(증권)",
+      "title": "AI가 만들어 낸 ‘속도의 역전’…北핵보다 北해킹이 무서운 이유 [기자24시]",
+      "summary": [
+        "AI로 공격 속도가 가속화되며 북한 해킹 위협의 즉시성과 위험성이 커지고 있다.",
+        "국가 기간망과 금융권의 보안 장치가 잇따라 뚫려 대규모 개인정보 유출 사례가 발생했다.",
+        "한국전력의 152만여 건 유출은 빙산의 일각이며 금융사·공공기관 대상 침해가 지속되고 있다."
+      ],
+      "whyItMatters": "AI 기반 자동화로 공격 범위와 속도가 확대되어 금융·사회 기반시설에 즉각적·광범위한 피해를 초래할 우려가 크기 때문입니다.",
+      "topics": [
+        "Security",
+        "Privacy",
+        "Fintech",
+        "MarketInfra"
+      ],
+      "status": "ONGOING",
+      "hash": "0d4c796dcf284d78bb7356481b47c1645aa0489fd7ea589faefbcf28a920c4d2",
+      "url": "https://www.mk.co.kr/news/stock/12220044"
+    },
+    {
+      "id": "finance_0002",
+      "tab": "finance",
+      "publishedAt": "2026-11-27T10:02:44+09:00",
+      "source": "매일경제(증권)",
+      "title": "삼성전자 로봇에 힘주자 관련주 줄줄이 급등…제닉스로보틱스 상한가",
+      "summary": [
+        "삼성전자의 로봇 역량 강화 계획이 공개되자 로봇 관련주가 일제히 급등했다.",
+        "27일 오전 제닉스로보틱스 등 일부 종목이 상한가를 기록하며 투자심리가 과열됐다.",
+        "휴머노이드 수요 확대 기대가 단기적 주가 상승을 촉발하고 있다."
+      ],
+      "whyItMatters": "삼성의 전략이 향후 휴머노이드 시장 성장과 관련 기업의 수익성 개선 기대를 높여 투자자들이 매수에 나섰기 때문입니다.",
+      "topics": [
+        "MarketInfra",
+        "Policy"
+      ],
+      "status": "ONGOING",
+      "hash": "022334cf76ec48ed3faeb7dad936bdeded098f719a892cd757ff4ef9cce1de5d",
+      "url": "https://www.mk.co.kr/news/stock/12219958"
+    }
+  ]
+}

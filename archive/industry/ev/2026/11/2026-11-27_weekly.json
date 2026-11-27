@@ -1,0 +1,277 @@
+{
+  "range": {
+    "from": "2026-11-21",
+    "to": "2026-11-27"
+  },
+  "kpis": {
+    "collected": 8,
+    "deduped": 8,
+    "uniqueTopics": 6
+  },
+  "topTopics": [
+    {
+      "name": "Investment",
+      "count": 7
+    },
+    {
+      "name": "Competition",
+      "count": 7
+    },
+    {
+      "name": "Roadmap",
+      "count": 7
+    },
+    {
+      "name": "Demand",
+      "count": 4
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-21",
+      "dayOfWeek": "Sat",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 3
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Competition",
+      "count": 3
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 4
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Demand",
+      "count": 2
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-11-24",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-24",
+      "dayOfWeek": "Tue",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-24",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-24",
+      "dayOfWeek": "Tue",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-11-25",
+      "dayOfWeek": "Wed",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-25",
+      "dayOfWeek": "Wed",
+      "topic": "Competition",
+      "count": 1
+    },
+    {
+      "date": "2026-11-25",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-25",
+      "dayOfWeek": "Wed",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-11-26",
+      "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-26",
+      "dayOfWeek": "Thu",
+      "topic": "Competition",
+      "count": 0
+    },
+    {
+      "date": "2026-11-26",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-26",
+      "dayOfWeek": "Thu",
+      "topic": "Demand",
+      "count": 0
+    },
+    {
+      "date": "2026-11-27",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-11-27",
+      "dayOfWeek": "Fri",
+      "topic": "Competition",
+      "count": 2
+    },
+    {
+      "date": "2026-11-27",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-27",
+      "dayOfWeek": "Fri",
+      "topic": "Demand",
+      "count": 2
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "중국 완성차·전동 모빌리티 기업의 글로벌 생산·판매 확장",
+      "summary": "BYD의 프랑스 이네오스 앙바흐 공장 인수 협상과 샤오미의 UAE 전기차 수출 개시로, 중국 기업들이 유럽·중동을 거점으로 한 글로벌 EV 생산·판매 네트워크를 본격적으로 확대하고 있습니다. 이는 현지 생산을 통한 관세·규제 리스크 완화와 함께, 유럽 내 경쟁 심화를 예고하는 중장기 이슈입니다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "BYD in talks to buy Ineos’ French factory as Grenadier moves to US",
+          "url": "https://electrek.co/2026/11/24/byd-ineos-hambach-factory-france-grenadier-us/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Red wave: Xiaomi goes global with first overseas EV sales",
+          "url": "https://electrek.co/2026/11/21/red-wave-xiaomi-goes-global-with-first-overseas-ev-sales/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "테슬라: 충전 인프라·소프트웨어·지배구조를 둘러싼 전략 변화",
+      "summary": "테슬라는 미국에서 56일간 1,027기의 영구 슈퍼차저를 추가한 데 이어 추수감사절 성수기에 모바일 슈퍼차저 29기를 투입하며 충전 인프라 확장을 가속하고 있습니다. 동시에 FSD v15 출시로 자율주행 소프트웨어 경쟁력을 강화하는 한편, 연말까지 테슬라–스페이스X 합병을 추진하며 규제·감독 환경 변화에 선제 대응하려는 움직임을 보이고 있습니다.",
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Tesla deploys 29 mobile Supercharger stalls for Thanksgiving travel rush",
+          "url": "https://electrek.co/2026/11/26/tesla-deploys-mobile-superchargers-thanksgiving-travel/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Tesla launches FSD v15, targets its biggest weaknesses, from signs to potholes",
+          "url": "https://electrek.co/2026/11/21/tesla-fsd-v15-rollout-25x-safety-reality-view/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Tesla (TSLA), SpaceX race for year-end merger deal before new Congress",
+          "url": "https://electrek.co/2026/11/24/tesla-spacex-merger-year-end-deadline-new-congress/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "항만·중장비 전기화: 일리노이 클린 포트 프로그램 가속",
+      "summary": "일리노이주는 1억 400만 달러 규모의 클린 포트 프로그램을 통해 항만의 포크리프트, 리치 스태커, 스위처 기관차, 페리 등 중장비를 전기화하고 충전 인프라를 구축합니다. 이는 ZEV 규제와 연계된 물류·항만 탈탄소화의 선도 사례로, 향후 다른 주와 국가로 확산될 가능성이 큽니다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "From equipment to ferries to locomotives, Illinois ports are getting a ZEV makeover",
+          "url": "https://electrek.co/2026/11/22/from-equipment-to-ferries-to-locomotives-illinois-ports-are-getting-a-zev-makeover/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "가정용·소형 LFP 에너지 스토리지 및 e-모빌리티 수요 확대",
+      "summary": "Briggs & Stratton의 16kWh 모듈형 LFP 가정용 백업 배터리 출시와 함께, 로보락 RockMow 로봇 잔디깎이, Yozma IN 10 Pro e-더트 바이크 등 소형 전동 모빌리티·에너지 제품이 블랙프라이데이 프로모션을 통해 대폭 할인 판매되고 있습니다. 이는 가정용 백업 전력과 레저·생활용 e-모빌리티 수요가 동시에 성장하며 분산형 전동화 시장이 확대되고 있음을 보여줍니다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "Electrek",
+          "title": "Briggs & Stratton keeps the lights on longer with bigger 16 kWh LFP battery",
+          "url": "https://electrek.co/2026/11/22/briggs-stratton-keeps-the-lights-on-longer-with-bigger-16-kwh-lfp-battery/"
+        },
+        {
+          "source": "Electrek",
+          "title": "Roborock RockMow robot mowers up to $2,249 off at best prices, Yozma IN 10 Pro e-dirt bike exclusive new $1,519 low, more",
+          "url": "https://electrek.co/2026/11/26/roborock-rockmow-robot-mowers-yozma-in-10-pro-electric-dirt-bike-more/"
+        }
+      ]
+    }
+  ]
+}

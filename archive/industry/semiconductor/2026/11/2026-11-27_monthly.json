@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-10-29",
+    "to": "2026-11-27"
+  },
+  "kpis": {
+    "collected": 50,
+    "deduped": 50,
+    "uniqueTopics": 7,
+    "marketShare": {
+      "Roadmap": 27,
+      "Competition": 23,
+      "Manufacturing": 18,
+      "Investment": 18,
+      "Demand": 13,
+      "Other": 1
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/29-11/04)",
+      "topicCounts": {
+        "Roadmap": 6,
+        "Competition": 2,
+        "Manufacturing": 5,
+        "Investment": 6,
+        "Demand": 3
+      }
+    },
+    {
+      "week": "Week 2 (11/05-11/11)",
+      "topicCounts": {
+        "Roadmap": 7,
+        "Competition": 7,
+        "Manufacturing": 3,
+        "Investment": 6,
+        "Demand": 4
+      }
+    },
+    {
+      "week": "Week 3 (11/12-11/18)",
+      "topicCounts": {
+        "Roadmap": 11,
+        "Competition": 12,
+        "Manufacturing": 9,
+        "Investment": 3,
+        "Demand": 4
+      }
+    },
+    {
+      "week": "Week 4 (11/19-11/25)",
+      "topicCounts": {
+        "Roadmap": 8,
+        "Competition": 7,
+        "Manufacturing": 5,
+        "Investment": 7,
+        "Demand": 5
+      }
+    },
+    {
+      "week": "Week 5 (11/26-11/27)",
+      "topicCounts": {
+        "Roadmap": 1,
+        "Competition": 0,
+        "Manufacturing": 2,
+        "Investment": 2,
+        "Demand": 1
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "캐나다, 연구·제조 연계로 반도체 산업 스케일업 모색",
+      "summary": "캐나다는 반도체 분야에서 강한 연구 역량을 양산 제조로 연결하기 위해 국가 차원의 스케일업 전략을 추진 중이다. 양자컴퓨팅, 주권 AI, 해양 전자, 첨단 소재 등 특화 영역에서 파일럿 생산·패브 인프라, 민관 투자 및 정책 지원을 연계해 ‘연구-제조 간 갭’을 줄이려는 시도가 이어지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Bridging the Research-to-Manufacturing Gap in Canada’s Semiconductor Industry",
+          "url": "https://www.eetimes.com/bridging-the-research-to-manufacturing-gap-in-canadas-semiconductor-industry/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "AI 수요 급증 속 메모리 R&D, 파트너십 중심의 ‘하이리스크 게임’",
+      "summary": "생성형 AI와 데이터센터 수요가 메모리 업체들의 공정·소자 R&D 우선순위를 재편하고 있다. 차세대 노드 이후 기술 개발 비용과 리스크가 급격히 상승하면서, 기업들은 공동 개발·조인트 벤처·장기 공급 계약 등 파트너십 모델로 투자 부담을 분담하고 기술 로드맵을 조정하는 추세다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Memory R&D Is a High-Stakes Game",
+          "url": "https://www.eetimes.com/memory-rd-is-a-high-stakes-game/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "SHIFTING",
+      "title": "엔비디아, AI 인프라 호황에 분기 매출 급증…반도체 수요 구조 변화 가속",
+      "summary": "엔비디아가 임시 CEO 체제에서도 약 1,158억 달러 규모의 분기 매출을 기록하며 AI 인프라 중심의 고성능 GPU·가속기 수요가 반도체 시장 성장을 견인하고 있다. 데이터센터·클라우드 고객의 CAPEX가 AI로 집중되면서, 관련 메모리·패키징·파운드리 생태계 전반에 투자와 공급망 재편이 확산되는 국면이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Nvidia Reports $115.8B in Quarterly Revenue Under Interim CEO",
+          "url": "https://www.eetimes.com/nvidia-reports-115-8b-in-quarterly-revenue-under-interim-ceo/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "SHIFTING",
+      "title": "인텔, 유럽 미상용 반도체·딥테크 발굴로 기술·자본 연계 강화",
+      "summary": "인텔의 패트 겔싱어와 Playground Global은 유럽 CEA 등 연구기관에 축적된 반도체·컴퓨팅 관련 미상용 기술을 발굴해 스타트업과 신시장 창출로 연결하려 하고 있다. 유럽의 강한 기초·응용 연구를 글로벌 자본·제조 역량과 결합해, 차세대 컴퓨팅·칩 설계 분야에서 새로운 경쟁 축을 만들려는 움직임이 가시화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Pat Gelsinger Goes Hunting for Europe’s Unbuilt Tech Companies",
+          "url": "https://www.eetimes.com/pat-gelsinger-goes-hunting-for-europes-unbuilt-tech-companies/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "NEW",
+      "title": "EU, 농업용 AI·자율 로봇 안전 규제 강화…임베디드 반도체 요구사항 상향",
+      "summary": "EU가 농업용 AI 로봇과 자율 기계에 대한 새로운 안전·컴플라이언스 규정을 도입하면서, 관련 임베디드 반도체와 센서, 제어 시스템 설계에서 기능 안전·보안·신뢰성 기준이 크게 강화되고 있다. 인증·테스트 절차가 더욱 엄격해져, 로봇·산업용 반도체 업체들의 개발 비용과 개발 일정, 설계 전략에 직접적인 영향을 미칠 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "EU Rules Bring New Safety Requirements for Farm Robots",
+          "url": "https://www.eetimes.com/eu-rules-bring-new-safety-requirements-for-farm-robots/"
+        }
+      ]
+    }
+  ]
+}
