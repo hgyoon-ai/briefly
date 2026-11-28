@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-11-22",
+    "to": "2026-11-28"
+  },
+  "kpis": {
+    "collected": 7,
+    "deduped": 7,
+    "uniqueTopics": 6
+  },
+  "topTopics": [
+    {
+      "name": "Manufacturing",
+      "count": 5
+    },
+    {
+      "name": "Policy",
+      "count": 5
+    },
+    {
+      "name": "Investment",
+      "count": 4
+    },
+    {
+      "name": "Roadmap",
+      "count": 3
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-24",
+      "dayOfWeek": "Tue",
+      "topic": "Manufacturing",
+      "count": 0
+    },
+    {
+      "date": "2026-11-24",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-24",
+      "dayOfWeek": "Tue",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-24",
+      "dayOfWeek": "Tue",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-25",
+      "dayOfWeek": "Wed",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-11-25",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-25",
+      "dayOfWeek": "Wed",
+      "topic": "Investment",
+      "count": 1
+    },
+    {
+      "date": "2026-11-25",
+      "dayOfWeek": "Wed",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-26",
+      "dayOfWeek": "Thu",
+      "topic": "Manufacturing",
+      "count": 2
+    },
+    {
+      "date": "2026-11-26",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-11-26",
+      "dayOfWeek": "Thu",
+      "topic": "Investment",
+      "count": 2
+    },
+    {
+      "date": "2026-11-26",
+      "dayOfWeek": "Thu",
+      "topic": "Roadmap",
+      "count": 1
+    },
+    {
+      "date": "2026-11-27",
+      "dayOfWeek": "Fri",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-11-27",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-11-27",
+      "dayOfWeek": "Fri",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-27",
+      "dayOfWeek": "Fri",
+      "topic": "Roadmap",
+      "count": 0
+    },
+    {
+      "date": "2026-11-28",
+      "dayOfWeek": "Sat",
+      "topic": "Manufacturing",
+      "count": 1
+    },
+    {
+      "date": "2026-11-28",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-28",
+      "dayOfWeek": "Sat",
+      "topic": "Investment",
+      "count": 0
+    },
+    {
+      "date": "2026-11-28",
+      "dayOfWeek": "Sat",
+      "topic": "Roadmap",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "SHIFTING",
+      "title": "콘솔·게임 시장이 흔드는 반도체 수요·플랫폼 구조 재가정",
+      "summary": "GTA 6 흥행에도 불구하고 저비용 콘솔 하드웨어, 범용 메모리, 장기간 고정 플랫폼이라는 기존 전제가 무너지면서, 콘솔 중심 반도체 수요 예측과 SoC·메모리 구성 전략이 근본적으로 재검토되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "GTA: Grand Three Assumptions",
+          "url": "https://www.eetimes.com/gta-grand-three-assumptions/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "SHIFTING",
+      "title": "노광 이후 공정 전반으로 확산되는 반도체 제조 수율 경쟁",
+      "summary": "MATCH Act 논의로 ASML 노광 장비를 넘어 식각·증착·검사·공정제어 등 전 공정 장비와 생산성 기술의 취약성이 부각되며, 수율 확보 경쟁이 ‘노광 독점’에서 ‘팹 전체 최적화’로 확장되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Beyond Lithography: The Battle for Semiconductor Manufacturing Yield",
+          "url": "https://www.eetimes.com/beyond-lithography-the-battle-for-semiconductor-manufacturing-yield/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "캐나다의 연구-제조 간극 해소와 반도체 전략 산업 육성",
+      "summary": "캐나다가 양자컴퓨팅, 주권 AI, 해양 전자, 첨단 소재 등 강점을 활용해 연구 성과를 제조와 양산 인프라로 연결하려는 시도가 이어지며, 중소 규모 생태계의 팹·후공정·인력 투자 전략이 구체화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "Bridging the Research-to-Manufacturing Gap in Canada’s Semiconductor Industry",
+          "url": "https://www.eetimes.com/bridging-the-research-to-manufacturing-gap-in-canadas-semiconductor-industry/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "EU 농업 로봇 안전 규제가 반도체·엣지 AI 설계 요구사항에 미치는 영향",
+      "summary": "EU가 농업용 AI·자율 로봇에 강화된 안전·인증 규정을 도입하면서, 센서·MCU·AI 가속기 등 엣지 반도체에 대한 기능 안전, 보안, 실시간 제어 요건이 한층 엄격해지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "EU Rules Bring New Safety Requirements for Farm Robots",
+          "url": "https://www.eetimes.com/eu-rules-bring-new-safety-requirements-for-farm-robots/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "SHIFTING",
+      "title": "엣지 AI·로보틱스로 진화하는 농업용 반도체 수요",
+      "summary": "정밀 살포와 자율 수확을 위한 엣지 AI·로보틱스 확산으로, 현장 장비에 탑재되는 저전력 AI SoC, 센서 퓨전, 통신 칩 등 반도체 수요가 증가하며 농업 장비가 고성능 엣지 컴퓨팅 플랫폼으로 재편되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "EE Times",
+          "title": "From Precision to Autonomous Agriculture: The Role of Edge AI and Robotics",
+          "url": "https://www.eetimes.com/from-precision-to-autonomous-agriculture-the-role-of-edge-ai-and-robotics/"
+        }
+      ]
+    }
+  ]
+}

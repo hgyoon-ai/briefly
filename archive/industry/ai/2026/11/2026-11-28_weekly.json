@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-11-22",
+    "to": "2026-11-28"
+  },
+  "kpis": {
+    "collected": 7,
+    "deduped": 7,
+    "uniqueTopics": 9
+  },
+  "topTopics": [
+    {
+      "name": "Tooling",
+      "count": 6
+    },
+    {
+      "name": "Inference",
+      "count": 4
+    },
+    {
+      "name": "Models",
+      "count": 4
+    },
+    {
+      "name": "Infra",
+      "count": 3
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Inference",
+      "count": 0
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Inference",
+      "count": 0
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-24",
+      "dayOfWeek": "Tue",
+      "topic": "Tooling",
+      "count": 1
+    },
+    {
+      "date": "2026-11-24",
+      "dayOfWeek": "Tue",
+      "topic": "Inference",
+      "count": 0
+    },
+    {
+      "date": "2026-11-24",
+      "dayOfWeek": "Tue",
+      "topic": "Models",
+      "count": 2
+    },
+    {
+      "date": "2026-11-24",
+      "dayOfWeek": "Tue",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-25",
+      "dayOfWeek": "Wed",
+      "topic": "Tooling",
+      "count": 3
+    },
+    {
+      "date": "2026-11-25",
+      "dayOfWeek": "Wed",
+      "topic": "Inference",
+      "count": 2
+    },
+    {
+      "date": "2026-11-25",
+      "dayOfWeek": "Wed",
+      "topic": "Models",
+      "count": 1
+    },
+    {
+      "date": "2026-11-25",
+      "dayOfWeek": "Wed",
+      "topic": "Infra",
+      "count": 2
+    },
+    {
+      "date": "2026-11-26",
+      "dayOfWeek": "Thu",
+      "topic": "Tooling",
+      "count": 2
+    },
+    {
+      "date": "2026-11-26",
+      "dayOfWeek": "Thu",
+      "topic": "Inference",
+      "count": 2
+    },
+    {
+      "date": "2026-11-26",
+      "dayOfWeek": "Thu",
+      "topic": "Models",
+      "count": 1
+    },
+    {
+      "date": "2026-11-26",
+      "dayOfWeek": "Thu",
+      "topic": "Infra",
+      "count": 1
+    },
+    {
+      "date": "2026-11-27",
+      "dayOfWeek": "Fri",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-11-27",
+      "dayOfWeek": "Fri",
+      "topic": "Inference",
+      "count": 0
+    },
+    {
+      "date": "2026-11-27",
+      "dayOfWeek": "Fri",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-11-27",
+      "dayOfWeek": "Fri",
+      "topic": "Infra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-28",
+      "dayOfWeek": "Sat",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-11-28",
+      "dayOfWeek": "Sat",
+      "topic": "Inference",
+      "count": 0
+    },
+    {
+      "date": "2026-11-28",
+      "dayOfWeek": "Sat",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-11-28",
+      "dayOfWeek": "Sat",
+      "topic": "Infra",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": "ai-1",
+      "status": "NEW",
+      "title": "AMD 환경용 llama.cpp 벤치마크 대시보드 공개",
+      "summary": "Hugging Face가 AMD Ryzen CPU와 Radeon GPU에서의 llama.cpp 추론 성능을 비교·시각화하는 대시보드를 공개했다. 다양한 하드웨어와 설정별 성능 차이를 한눈에 파악할 수 있어, 비용 대비 성능 최적화와 실무 인프라 선택에 바로 활용 가능한 자료로 의미가 크다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench"
+        }
+      ]
+    },
+    {
+      "id": "ai-2",
+      "status": "ONGOING",
+      "title": "Nemotron 3.5 Parse 기반 오픈 데이터·파인튜닝 생태계 확장",
+      "summary": "Nemotron 3.5 Parse를 중심으로 오픈 데이터셋과 파인튜닝 도구를 제공해 맞춤형 LLM 구축을 쉽게 만들고 있다. 이를 통해 기업과 연구자가 자체 도메인에 특화된 모델을 더 빠르고 저비용으로 만들 수 있는 토대가 마련되면서, 장기적으로는 오픈 LLM 생태계 확장이 계속 진행 중인 국면이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+          "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin"
+        }
+      ]
+    },
+    {
+      "id": "ai-3",
+      "status": "NEW",
+      "title": "게임 개발용 AI 애니메이션·RTX 툴 업데이트",
+      "summary": "NVIDIA가 게임 엔진에 AI 애니메이션과 RTX 기반 고품질 그래픽 처리를 통합하는 새로운 툴을 발표했다. 로컬 추론 기능과 실시간 렌더링을 결합해, 게임 개발 파이프라인에서 캐릭터 움직임·효과 생성 자동화 등 AI 활용 범위를 빠르게 넓히고 있다는 점이 핵심이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "What’s New for Game Developers: AI Animation and RTX Tools",
+          "url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-ai-animation-and-rtx-tools/"
+        }
+      ]
+    },
+    {
+      "id": "ai-4",
+      "status": "NEW",
+      "title": "로컬 장치에서의 Cosmos 3 Nano 실행·최적화 기법",
+      "summary": "NVIDIA Cosmos 3 Nano를 Hugging Face Diffusers로 로컬 GPU에서 구동하는 실무 가이드가 공개됐다. 오프로딩, 저정밀 양자화, 파이프라인 최적화로 제한된 GPU 메모리에서도 생성 모델을 돌릴 수 있는 구체적 방법을 제시해, 온디바이스·엣지 AI 배포를 노리는 팀에 유용한 레퍼런스를 제공한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "NVIDIA Developer Blog",
+          "title": "How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers",
+          "url": "https://developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers/"
+        }
+      ]
+    },
+    {
+      "id": "ai-5",
+      "status": "NEW",
+      "title": "Sim2Real 로보틱스 워크플로우: Microduck 장애물 회피 사례",
+      "summary": "Hugging Face가 NVIDIA Isaac Lab과 Newton을 활용해 Microduck 로봇의 장애물 회피를 학습·배포하는 Sim2Real 워크플로우를 공개했다. 시뮬레이션 중심 학습 후 실제 환경 배포까지의 전체 파이프라인을 제시하며, 로보틱스에서 강화학습·시뮬레이션 기반 AI 개발의 실전 참고 사례를 제공한다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "Hugging Face Blog",
+          "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+          "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance"
+        }
+      ]
+    }
+  ]
+}

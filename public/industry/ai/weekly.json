@@ -1,7 +1,7 @@
 {
   "range": {
-    "from": "2026-11-21",
-    "to": "2026-11-27"
+    "from": "2026-11-22",
+    "to": "2026-11-28"
   },
   "kpis": {
     "collected": 7,
@@ -28,30 +28,6 @@
   ],
   "topicTrend": [
     {
-      "date": "2026-11-21",
-      "dayOfWeek": "Sat",
-      "topic": "Tooling",
-      "count": 0
-    },
-    {
-      "date": "2026-11-21",
-      "dayOfWeek": "Sat",
-      "topic": "Inference",
-      "count": 0
-    },
-    {
-      "date": "2026-11-21",
-      "dayOfWeek": "Sat",
-      "topic": "Models",
-      "count": 0
-    },
-    {
-      "date": "2026-11-21",
-      "dayOfWeek": "Sat",
-      "topic": "Infra",
-      "count": 0
-    },
-    {
       "date": "2026-11-22",
       "dayOfWeek": "Sun",
       "topic": "Tooling",
@@ -194,14 +170,38 @@
       "dayOfWeek": "Fri",
       "topic": "Infra",
       "count": 0
+    },
+    {
+      "date": "2026-11-28",
+      "dayOfWeek": "Sat",
+      "topic": "Tooling",
+      "count": 0
+    },
+    {
+      "date": "2026-11-28",
+      "dayOfWeek": "Sat",
+      "topic": "Inference",
+      "count": 0
+    },
+    {
+      "date": "2026-11-28",
+      "dayOfWeek": "Sat",
+      "topic": "Models",
+      "count": 0
+    },
+    {
+      "date": "2026-11-28",
+      "dayOfWeek": "Sat",
+      "topic": "Infra",
+      "count": 0
     }
   ],
   "topIssues": [
     {
       "id": "ai-1",
       "status": "NEW",
-      "title": "AMD 하드웨어용 llama.cpp 벤치마크 대시보드 공개",
-      "summary": "Hugging Face가 AMD Ryzen CPU와 Radeon GPU에서의 llama.cpp 추론 성능을 시각화하는 대시보드를 공개했다. 다양한 설정별 성능 비교와 최적화 포인트를 제공해, 로컬·온프레미스 환경에서의 LLM 추론 튜닝에 바로 활용할 수 있는 인프라 모니터링 도구라는 점이 핵심이다.",
+      "title": "AMD 환경용 llama.cpp 벤치마크 대시보드 공개",
+      "summary": "Hugging Face가 AMD Ryzen CPU와 Radeon GPU에서의 llama.cpp 추론 성능을 비교·시각화하는 대시보드를 공개했다. 다양한 하드웨어와 설정별 성능 차이를 한눈에 파악할 수 있어, 비용 대비 성능 최적화와 실무 인프라 선택에 바로 활용 가능한 자료로 의미가 크다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -214,8 +214,8 @@
     {
       "id": "ai-2",
       "status": "ONGOING",
-      "title": "Nemotron 3.5 Parse: 오픈 데이터 기반 커스텀 LLM 파이프라인 확장",
-      "summary": "Nemotron 3.5 Parse를 중심으로 오픈 데이터 제공, 미세조정 도구, 빠른 추론 환경이 결합된 커스텀 LLM 구축 흐름이 강화되고 있다. 기업·개발자가 도메인 특화 데이터로 모델을 재학습하고, 이를 프로덕션 추론 환경에 손쉽게 배포할 수 있도록 생태계가 점진적으로 확장되는 추세다.",
+      "title": "Nemotron 3.5 Parse 기반 오픈 데이터·파인튜닝 생태계 확장",
+      "summary": "Nemotron 3.5 Parse를 중심으로 오픈 데이터셋과 파인튜닝 도구를 제공해 맞춤형 LLM 구축을 쉽게 만들고 있다. 이를 통해 기업과 연구자가 자체 도메인에 특화된 모델을 더 빠르고 저비용으로 만들 수 있는 토대가 마련되면서, 장기적으로는 오픈 LLM 생태계 확장이 계속 진행 중인 국면이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -228,8 +228,8 @@
     {
       "id": "ai-3",
       "status": "NEW",
-      "title": "게임 개발자를 위한 AI 애니메이션 및 RTX 툴 고도화",
-      "summary": "NVIDIA가 게임 엔진에 통합 가능한 AI 애니메이션 기능과 RTX 기반 그래픽 툴을 업데이트했다. 로컬 AI 추론을 활용한 실시간 캐릭터 애니메이션, 향상된 조명·렌더링 파이프라인 등이 포함되며, 게임 개발 워크플로우 전반에 생성형 AI와 GPU 가속을 녹여내는 방향으로 도구 생태계가 발전하고 있다.",
+      "title": "게임 개발용 AI 애니메이션·RTX 툴 업데이트",
+      "summary": "NVIDIA가 게임 엔진에 AI 애니메이션과 RTX 기반 고품질 그래픽 처리를 통합하는 새로운 툴을 발표했다. 로컬 추론 기능과 실시간 렌더링을 결합해, 게임 개발 파이프라인에서 캐릭터 움직임·효과 생성 자동화 등 AI 활용 범위를 빠르게 넓히고 있다는 점이 핵심이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -242,8 +242,8 @@
     {
       "id": "ai-4",
       "status": "NEW",
-      "title": "Cosmos 3 Nano: 로컬 기기에서의 멀티모달 모델 경량 추론 기법",
-      "summary": "NVIDIA Cosmos 3 Nano를 Hugging Face Diffusers로 로컬 디바이스에서 실행하는 실전 가이드가 공개됐다. GPU 메모리 제약을 고려한 오프로딩, 양자화, 파이프라인 최적화 기법이 소개되며, 랩톱·경량 워크스테이션에서도 고성능 멀티모달 모델을 운용하려는 수요에 맞춘 로컬 AI 최적화 노하우가 정리되고 있다.",
+      "title": "로컬 장치에서의 Cosmos 3 Nano 실행·최적화 기법",
+      "summary": "NVIDIA Cosmos 3 Nano를 Hugging Face Diffusers로 로컬 GPU에서 구동하는 실무 가이드가 공개됐다. 오프로딩, 저정밀 양자화, 파이프라인 최적화로 제한된 GPU 메모리에서도 생성 모델을 돌릴 수 있는 구체적 방법을 제시해, 온디바이스·엣지 AI 배포를 노리는 팀에 유용한 레퍼런스를 제공한다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -256,8 +256,8 @@
     {
       "id": "ai-5",
       "status": "NEW",
-      "title": "Sim2Real 로보틱스: Isaac Lab·Newton 기반 장애물 회피 워크플로우",
-      "summary": "Hugging Face와 NVIDIA 생태계를 활용해 Microduck 로봇의 장애물 회피를 학습하는 Sim2Real 워크플로우가 공개됐다. Isaac Lab 시뮬레이션에서 정책을 학습하고 Newton을 통해 실제 환경으로 이전하는 과정을 체계적으로 제시해, 로봇 제어에서 시뮬레이션-현실 격차를 줄이기 위한 AI 툴체인 활용 사례가 부각되고 있다.",
+      "title": "Sim2Real 로보틱스 워크플로우: Microduck 장애물 회피 사례",
+      "summary": "Hugging Face가 NVIDIA Isaac Lab과 Newton을 활용해 Microduck 로봇의 장애물 회피를 학습·배포하는 Sim2Real 워크플로우를 공개했다. 시뮬레이션 중심 학습 후 실제 환경 배포까지의 전체 파이프라인을 제시하며, 로보틱스에서 강화학습·시뮬레이션 기반 AI 개발의 실전 참고 사례를 제공한다.",
       "articleCount": 1,
       "relatedArticles": [
         {

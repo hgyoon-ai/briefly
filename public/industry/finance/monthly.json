@@ -1,103 +1,79 @@
 {
   "range": {
-    "from": "2026-10-29",
-    "to": "2026-11-27"
+    "from": "2026-10-30",
+    "to": "2026-11-28"
   },
   "kpis": {
     "collected": 44,
     "deduped": 44,
     "uniqueTopics": 10,
     "marketShare": {
-      "MarketInfra": 35,
+      "MarketInfra": 37,
       "Policy": 24,
-      "Security": 16,
-      "Regulation": 13,
+      "Security": 15,
       "Compliance": 13,
+      "Regulation": 12,
       "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/29-11/04)",
+      "week": "Week 1 (10/30-11/05)",
       "topicCounts": {
-        "MarketInfra": 4,
-        "Policy": 3,
-        "Security": 2,
-        "Regulation": 3,
-        "Compliance": 1
+        "MarketInfra": 3,
+        "Policy": 2,
+        "Security": 1,
+        "Compliance": 1,
+        "Regulation": 2
       }
     },
     {
-      "week": "Week 2 (11/05-11/11)",
+      "week": "Week 2 (11/06-11/12)",
       "topicCounts": {
-        "MarketInfra": 8,
+        "MarketInfra": 7,
         "Policy": 4,
-        "Security": 4,
-        "Regulation": 2,
-        "Compliance": 5
+        "Security": 5,
+        "Compliance": 6,
+        "Regulation": 2
       }
     },
     {
-      "week": "Week 3 (11/12-11/18)",
+      "week": "Week 3 (11/13-11/19)",
       "topicCounts": {
         "MarketInfra": 11,
         "Policy": 6,
-        "Security": 4,
-        "Regulation": 2,
-        "Compliance": 1
+        "Security": 5,
+        "Compliance": 1,
+        "Regulation": 1
       }
     },
     {
-      "week": "Week 4 (11/19-11/25)",
+      "week": "Week 4 (11/20-11/26)",
       "topicCounts": {
-        "MarketInfra": 8,
-        "Policy": 8,
-        "Security": 3,
-        "Regulation": 5,
-        "Compliance": 4
+        "MarketInfra": 7,
+        "Policy": 7,
+        "Security": 2,
+        "Compliance": 3,
+        "Regulation": 4
       }
     },
     {
-      "week": "Week 5 (11/26-11/27)",
+      "week": "Week 5 (11/27-11/28)",
       "topicCounts": {
         "MarketInfra": 2,
         "Policy": 1,
-        "Security": 1,
-        "Regulation": 0,
-        "Compliance": 0
+        "Security": 0,
+        "Compliance": 0,
+        "Regulation": 0
       }
     }
   ],
   "topIssues": [
     {
       "id": 1,
-      "status": "ONGOING",
-      "title": "금융권 연쇄 해킹·개인정보 유출과 보안주 급등",
-      "summary": "북한 등의 해킹 위협과 다우오피스 취약점으로 증권사까지 고객 정보가 유출되면서 금융 인프라 보안 리스크가 부각되고 있다. 이에 따라 보안주가 시장 조정 속에서도 나홀로 급등하며 금융·주식시장 내 보안 투자가 핵심 이슈로 부상했다.",
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "source": "매일경제(증권)",
-          "title": "AI가 만들어 낸 ‘속도의 역전’…北핵보다 北해킹이 무서운 이유 [기자24시]",
-          "url": "https://www.mk.co.kr/news/stock/12220044"
-        },
-        {
-          "source": "매일경제(증권)",
-          "title": "한양증권서도 개인정보 유출…금투업권 해킹 비상",
-          "url": "https://www.mk.co.kr/news/stock/12194338"
-        },
-        {
-          "source": "매일경제(증권)",
-          "title": "증시는 급락하는데 보안株는 ‘불기둥’…해킹 공포에 나홀로 급등",
-          "url": "https://www.mk.co.kr/news/stock/12217941"
-        }
-      ]
-    },
-    {
-      "id": 2,
       "status": "NEW",
-      "title": "디지털자산기본법 공개로 코인·거래소 규제 체계 전환",
-      "summary": "디지털자산기본법 제정안이 공개되면서 가상자산 거래소와 토큰 상장·상폐, 투자자 보호 규율이 대폭 재편될 전망이다. 향후 금융시장 내 디지털 자산의 제도권 편입 수준과 코인 투자 환경 변화가 핵심 관전 포인트다.",
+      "title": "디지털자산기본법 공개…거래소·코인 규율 대전환 본격화",
+      "summary": "1년 10개월 논의 끝에 디지털자산기본법 제정안이 공개되며 투자자 보호와 거래소·토큰 상장 기준, 공시·수탁·예치 규제 등이 대폭 강화될 전망이다. 국내 가상자산 시장의 제도권 편입이 가속화되면서 거래소 구조조정, 부실 코인 정리, 투자자 보호 장치 확충이 향후 금융시장 주요 이슈로 부상하고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -108,10 +84,24 @@
       ]
     },
     {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "국민연금 수익률 회복과 1600조대 기금 확대…자본시장 파급력 증대",
+      "summary": "국민연금이 9월 말 기준 연초 대비 13%를 넘는 수익률과 1664조원 규모의 기금을 기록하면서, 국내외 주식·채권·대체투자 시장에서의 영향력이 더욱 커지고 있다. 장기 운용 성과와 함께 글로벌 자산 배분, 책임투자 전략, 국내 증시 수급에 미치는 효과가 향후 분기·연간 단위로 금융시장의 핵심 점검 포인트가 되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[속보] 국민연금 9월말 기준수익률 연초대비 13%",
+          "url": "https://www.mk.co.kr/news/stock/12220415"
+        }
+      ]
+    },
+    {
       "id": 3,
       "status": "NEW",
       "title": "금융시장 불공정거래 엄정 단속 기조 강화",
-      "summary": "대통령이 금융시장 내 불공정행위에 대해 중대범죄수사청을 통한 전담 수사 강화를 지시하며 규제·집행 강도가 높아지고 있다. 불공정거래 관련 수사 및 제재가 증시 참여자 전반의 리스크 요인으로 부각될 가능성이 크다.",
+      "summary": "대통령이 금융시장 불공정행위에 대해 중대범죄수사청에 별도 지시를 내리며 전담 수사 체계를 강화하겠다고 밝힘에 따라, 시세조종·미공개정보 이용·허위공시 등 자본시장 범죄에 대한 제재와 수사가 한층 강해질 전망이다. 이는 시장 신뢰 회복과 함께 단기적으로는 거래 행태 위축, 중장기적으로는 규제 환경 재정비로 이어질 수 있어 금융투자업계의 대응이 요구된다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -124,28 +114,33 @@
     {
       "id": 4,
       "status": "ONGOING",
-      "title": "삼성전자 로봇 육성 발표에 따른 관련주 과열",
-      "summary": "삼성전자가 로봇 사업 역량 강화를 밝히자 제닉스로보틱스 등 로봇 관련 종목이 급등·상한가를 기록했다. 구체적 실적 가시성보다 기대와 모멘텀에 의존한 단기 과열 양상이 투자 리스크로 지목된다.",
-      "articleCount": 1,
+      "title": "북한·해외발 해킹과 금융권 개인정보 유출 리스크 급증",
+      "summary": "AI를 활용한 고도화된 사이버 공격이 국가 기간망과 금융권을 연속적으로 노리면서, 증권사·거래소 등에서 계좌·주민번호 등 민감정보 유출이 잇따르고 있다. 동일 협업툴 취약점 재사용처럼 공급망 보안 문제가 드러난 가운데, 금융당국의 보안 규제 강화와 전산 인프라 투자 확대가 단기·중기 핵심 이슈로 부각되고 있다.",
+      "articleCount": 2,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
-          "title": "삼성전자 로봇에 힘주자 관련주 줄줄이 급등…제닉스로보틱스 상한가",
-          "url": "https://www.mk.co.kr/news/stock/12219958"
+          "title": "AI가 만들어 낸 ‘속도의 역전’…北핵보다 北해킹이 무서운 이유 [기자24시]",
+          "url": "https://www.mk.co.kr/news/stock/12220044"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "한양증권서도 개인정보 유출…금투업권 해킹 비상",
+          "url": "https://www.mk.co.kr/news/stock/12194338"
         }
       ]
     },
     {
       "id": 5,
       "status": "ONGOING",
-      "title": "국민연금 운용 행보가 국내 증시 수급에 미치는 영향",
-      "summary": "국민연금의 매매·포트폴리오 조정으로 국내 증시 수급 불균형이 심화되며 코스피 5000선이 붕괴, 4500선도 위협받고 있다. 증안펀드 10조 원 수준으로는 수급 개선 효과가 제한적이라는 지적이 나온다.",
+      "title": "원화 연동 스테이블코인 기반 해외결제 시범…핀테크 결제 인프라 전환",
+      "summary": "BC카드가 글로벌 거래소·운용사와 함께 스테이블코인 기반 결제 방식을 검증하며, 해외 관광객은 달러 스테이블코인으로 결제하고 국내 가맹점은 원화로 정산받는 구조를 시험했다. 이는 카드 네트워크와 블록체인 인프라의 결합, 외화 결제 수수료 절감, 규제 정합성 확보 여부 등과 맞물려 중장기적으로 크로스보더 결제 시장 구조를 바꿀 잠재 이슈로 주목된다.",
       "articleCount": 1,
       "relatedArticles": [
         {
           "source": "매일경제(증권)",
-          "title": "국민연금 때문에 꼬인 증시 수급 ... “증안펀드 10조론 역부족”",
-          "url": "https://www.mk.co.kr/news/stock/12215898"
+          "title": "“스미마셍, 엔화가 없는데요”…일본 라멘집서 원화코인 쓸 날 올까",
+          "url": "https://www.mk.co.kr/news/economy/12220665"
         }
       ]
     }

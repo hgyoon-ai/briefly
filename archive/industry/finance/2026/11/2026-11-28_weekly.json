@@ -1,0 +1,281 @@
+{
+  "range": {
+    "from": "2026-11-22",
+    "to": "2026-11-28"
+  },
+  "kpis": {
+    "collected": 8,
+    "deduped": 8,
+    "uniqueTopics": 9
+  },
+  "topTopics": [
+    {
+      "name": "MarketInfra",
+      "count": 7
+    },
+    {
+      "name": "Policy",
+      "count": 5
+    },
+    {
+      "name": "Regulation",
+      "count": 3
+    },
+    {
+      "name": "Fintech",
+      "count": 2
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Fintech",
+      "count": 0
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "MarketInfra",
+      "count": 2
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Regulation",
+      "count": 2
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Fintech",
+      "count": 0
+    },
+    {
+      "date": "2026-11-24",
+      "dayOfWeek": "Tue",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-24",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-24",
+      "dayOfWeek": "Tue",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-11-24",
+      "dayOfWeek": "Tue",
+      "topic": "Fintech",
+      "count": 0
+    },
+    {
+      "date": "2026-11-25",
+      "dayOfWeek": "Wed",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-11-25",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-25",
+      "dayOfWeek": "Wed",
+      "topic": "Regulation",
+      "count": 1
+    },
+    {
+      "date": "2026-11-25",
+      "dayOfWeek": "Wed",
+      "topic": "Fintech",
+      "count": 0
+    },
+    {
+      "date": "2026-11-26",
+      "dayOfWeek": "Thu",
+      "topic": "MarketInfra",
+      "count": 0
+    },
+    {
+      "date": "2026-11-26",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-26",
+      "dayOfWeek": "Thu",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-11-26",
+      "dayOfWeek": "Thu",
+      "topic": "Fintech",
+      "count": 0
+    },
+    {
+      "date": "2026-11-27",
+      "dayOfWeek": "Fri",
+      "topic": "MarketInfra",
+      "count": 3
+    },
+    {
+      "date": "2026-11-27",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-11-27",
+      "dayOfWeek": "Fri",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-11-27",
+      "dayOfWeek": "Fri",
+      "topic": "Fintech",
+      "count": 1
+    },
+    {
+      "date": "2026-11-28",
+      "dayOfWeek": "Sat",
+      "topic": "MarketInfra",
+      "count": 1
+    },
+    {
+      "date": "2026-11-28",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-28",
+      "dayOfWeek": "Sat",
+      "topic": "Regulation",
+      "count": 0
+    },
+    {
+      "date": "2026-11-28",
+      "dayOfWeek": "Sat",
+      "topic": "Fintech",
+      "count": 1
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "디지털자산기본법 공개…코인·거래소 규제체계 본궤도",
+      "summary": "디지털자산기본법 제정안이 1년 10개월 논의 끝에 공개되며 국내 가상자산 시장의 법적 틀이 구체화되고 있다. 거래소 상장·상폐 기준, 투자자 보호장치, 발행·유통 공시 의무 등이 강화될 전망으로, 코인 투자환경과 사업자 규제 체계가 대폭 재편되는 전환점이 될 수 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "코인법 드디어 나왔다…내 거래소·내 코인 괜찮을까?",
+          "url": "https://www.mk.co.kr/news/stock/12217777"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "국민연금 수익률·매매 전략, 국내 증시 수급 핵심 변수로 부상",
+      "summary": "국민연금이 9월 말 기준 연초 대비 13%대 수익률을 기록하며 기금 규모 1600조원을 돌파한 가운데, 대형 매매·리밸런싱이 코스피 수급 왜곡 논란을 키우고 있다. 증안펀드 10조원 투입 논의에도 시장은 구조적 매도 압력을 우려하고 있어, 연기금 운용·스튜어드십 전략이 금융시장 최대 정책 이슈로 자리 잡고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[속보] 국민연금 9월말 기준수익률 연초대비 13%",
+          "url": "https://www.mk.co.kr/news/stock/12220415"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "국민연금 때문에 꼬인 증시 수급 ... “증안펀드 10조론 역부족”",
+          "url": "https://www.mk.co.kr/news/stock/12215898"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "ONGOING",
+      "title": "북한 해킹·AI 기반 사이버 공격 확산…금융 보안 리스크 급부상",
+      "summary": "AI 기술을 활용한 북한발 사이버 공격이 국가 기간망과 금융권을 연달아 위협하면서 기존 핵·미사일보다 즉시성이 큰 금융안보 리스크로 인식되고 있다. 잇따른 해킹·정보유출로 보안 투자 수요가 커지고, 이에 따른 보안주 급등 현상까지 나타나며 사이버 보안은 금융시장과 정책 당국의 중장기 핵심 과제로 부상했다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "AI가 만들어 낸 ‘속도의 역전’…北핵보다 北해킹이 무서운 이유 [기자24시]",
+          "url": "https://www.mk.co.kr/news/stock/12220044"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "증시는 급락하는데 보안株는 ‘불기둥’…해킹 공포에 나홀로 급등",
+          "url": "https://www.mk.co.kr/news/stock/12217941"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "로봇·첨단 제조 투자 기대감…관련주 단기 과열 양상",
+      "summary": "삼성전자가 로봇 역량 강화를 공식화하자 관련 장비·부품주가 일제히 급등하며 테마 장세가 전개되고 있다. 제닉스로보틱스 등 일부 종목은 상한가를 기록했으나, 실적 가시성에 비해 밸류에이션이 빠르게 높아져 단기 과열과 변동성 확대에 대한 경계가 필요하다는 지적이 나온다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "삼성전자 로봇에 힘주자 관련주 줄줄이 급등…제닉스로보틱스 상한가",
+          "url": "https://www.mk.co.kr/news/stock/12219958"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "레버리지·인버스 ETF 개인투자자 손실 심화…파생형 상품 경고등",
+      "summary": "곱버스 등 레버리지·인버스 ETF가 지수 회복 국면에서도 ‘음의 복리 효과’로 연초 대비 70%대 급락을 기록하며 개인투자자 손실이 커지고 있다. 단기 방향성 베팅 상품에 장기 투자 수요가 몰리면서 파생형 ETF의 구조적 위험성과 투자자 보호를 위한 규제·교육 강화 필요성이 다시 제기되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“어? 100만원 넣었는데 20만원 됐네”…곱버스, ETF 낙폭 순위 ‘싹쓸이’",
+          "url": "https://www.mk.co.kr/news/stock/12215878"
+        }
+      ]
+    }
+  ]
+}

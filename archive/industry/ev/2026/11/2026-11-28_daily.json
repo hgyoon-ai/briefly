@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-28",
+  "highlights": {
+    "bullets": [
+      "핵심: 토요타가 첫 EREV 모델 하이랜더 9X를 2027년 초 출시할 계획을 확인했습니다.",
+      "핵심: 테슬라는 AI5 칩을 우선 Optimus에 투입할 계획이며 GUC의 2027년 TSMC 3nm 생산능력이 데이터센터 칩에 우선 배정된다고 보도되었습니다."
+    ],
+    "topTopics": [
+      "Competition",
+      "Roadmap",
+      "Investment",
+      "Demand"
+    ],
+    "stats": {
+      "collected": 15,
+      "deduped": 15
+    }
+  },
+  "cards": [
+    {
+      "id": "ev_0001",
+      "tab": "ev",
+      "publishedAt": "2026-11-28T02:18:59+09:00",
+      "source": "Electrek",
+      "title": "Toyota confirms the Highlander 9X will launch as its first EREV with top-tier tech in early 2027",
+      "summary": [
+        "토요타가 첫 EREV 모델인 하이랜더 9X를 2027년 초 출시할 계획을 확인했습니다.",
+        "이 차량에는 화웨이와 CATL의 첨단 기술이 적용되어 전동화 성능 및 연결성이 강화됩니다.",
+        "토요타는 하이랜더 9X를 통해 전기차·EREV 포트폴리오 확장과 기술 제휴 전략을 본격화하고 있습니다."
+      ],
+      "whyItMatters": "토요타가 화웨이·CATL과 협력한 첫 EREV를 출시하며 전동화 전략과 기술 파트너십 방향을 구체화했다는 점에서 향후 경쟁 구도와 로드맵에 중대한 신호입니다.",
+      "topics": [
+        "Roadmap",
+        "Investment",
+        "Competition"
+      ],
+      "status": "NEW",
+      "hash": "feff6764aa6198a42e1933eaee99d9dcc8c13b50fe95f2be718c9babd13c6952",
+      "url": "https://electrek.co/2026/11/27/toyota-confirms-highlander-9x-first-erev-top-tier-tech/"
+    },
+    {
+      "id": "ev_0002",
+      "tab": "ev",
+      "publishedAt": "2026-11-27T23:48:15+09:00",
+      "source": "Electrek",
+      "title": "This might be the real reason Elon Musk says Tesla’s AI5 chip is going to Optimus",
+      "summary": [
+        "테슬라는 차세대 AI5 칩을 우선 차량이 아닌 Optimus 로봇에 투입할 계획이나, 이는 칩 부족 이슈와 연관된 것으로 보입니다.",
+        "대만 상업시보에 따르면 테슬라 파트너 GUC의 2027년 TSMC 3nm 생산능력이 구글·마이크로소프트 데이터센터 칩에 우선 배정됩니다.",
+        "이로 인해 테슬라가 차량용으로 충분한 AI5 칩을 확보하는 시점은 2028년 이후로 미뤄질 가능성이 제기됩니다."
+      ],
+      "whyItMatters": "테슬라의 AI5 칩 공급 지연은 차량 자율주행·로봇 전략의 우선순위와 일정, 그리고 경쟁사 대비 기술 상용화 속도에 직접적인 영향을 줄 수 있기 때문입니다.",
+      "topics": [
+        "Manufacturing",
+        "Competition",
+        "Roadmap"
+      ],
+      "status": "ONGOING",
+      "hash": "8a95a6c4cc70d52b6e5a5cbf987537d70ab43667eb6ebf33e0a3f199dca37290",
+      "url": "https://electrek.co/2026/11/27/tesla-ai5-optimus-real-reason-tsmc-3nm/"
+    }
+  ]
+}

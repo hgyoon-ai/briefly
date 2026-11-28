@@ -1,0 +1,148 @@
+{
+  "range": {
+    "from": "2026-10-30",
+    "to": "2026-11-28"
+  },
+  "kpis": {
+    "collected": 44,
+    "deduped": 44,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "MarketInfra": 37,
+      "Policy": 24,
+      "Security": 15,
+      "Compliance": 13,
+      "Regulation": 12,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/30-11/05)",
+      "topicCounts": {
+        "MarketInfra": 3,
+        "Policy": 2,
+        "Security": 1,
+        "Compliance": 1,
+        "Regulation": 2
+      }
+    },
+    {
+      "week": "Week 2 (11/06-11/12)",
+      "topicCounts": {
+        "MarketInfra": 7,
+        "Policy": 4,
+        "Security": 5,
+        "Compliance": 6,
+        "Regulation": 2
+      }
+    },
+    {
+      "week": "Week 3 (11/13-11/19)",
+      "topicCounts": {
+        "MarketInfra": 11,
+        "Policy": 6,
+        "Security": 5,
+        "Compliance": 1,
+        "Regulation": 1
+      }
+    },
+    {
+      "week": "Week 4 (11/20-11/26)",
+      "topicCounts": {
+        "MarketInfra": 7,
+        "Policy": 7,
+        "Security": 2,
+        "Compliance": 3,
+        "Regulation": 4
+      }
+    },
+    {
+      "week": "Week 5 (11/27-11/28)",
+      "topicCounts": {
+        "MarketInfra": 2,
+        "Policy": 1,
+        "Security": 0,
+        "Compliance": 0,
+        "Regulation": 0
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "NEW",
+      "title": "디지털자산기본법 공개…거래소·코인 규율 대전환 본격화",
+      "summary": "1년 10개월 논의 끝에 디지털자산기본법 제정안이 공개되며 투자자 보호와 거래소·토큰 상장 기준, 공시·수탁·예치 규제 등이 대폭 강화될 전망이다. 국내 가상자산 시장의 제도권 편입이 가속화되면서 거래소 구조조정, 부실 코인 정리, 투자자 보호 장치 확충이 향후 금융시장 주요 이슈로 부상하고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "코인법 드디어 나왔다…내 거래소·내 코인 괜찮을까?",
+          "url": "https://www.mk.co.kr/news/stock/12217777"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "국민연금 수익률 회복과 1600조대 기금 확대…자본시장 파급력 증대",
+      "summary": "국민연금이 9월 말 기준 연초 대비 13%를 넘는 수익률과 1664조원 규모의 기금을 기록하면서, 국내외 주식·채권·대체투자 시장에서의 영향력이 더욱 커지고 있다. 장기 운용 성과와 함께 글로벌 자산 배분, 책임투자 전략, 국내 증시 수급에 미치는 효과가 향후 분기·연간 단위로 금융시장의 핵심 점검 포인트가 되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[속보] 국민연금 9월말 기준수익률 연초대비 13%",
+          "url": "https://www.mk.co.kr/news/stock/12220415"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "금융시장 불공정거래 엄정 단속 기조 강화",
+      "summary": "대통령이 금융시장 불공정행위에 대해 중대범죄수사청에 별도 지시를 내리며 전담 수사 체계를 강화하겠다고 밝힘에 따라, 시세조종·미공개정보 이용·허위공시 등 자본시장 범죄에 대한 제재와 수사가 한층 강해질 전망이다. 이는 시장 신뢰 회복과 함께 단기적으로는 거래 행태 위축, 중장기적으로는 규제 환경 재정비로 이어질 수 있어 금융투자업계의 대응이 요구된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "[속보] 李대통령 “금융시장 불공정행위 엄정단속, 중수청에 별도 지시”",
+          "url": "https://www.mk.co.kr/news/economy/12207754"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "ONGOING",
+      "title": "북한·해외발 해킹과 금융권 개인정보 유출 리스크 급증",
+      "summary": "AI를 활용한 고도화된 사이버 공격이 국가 기간망과 금융권을 연속적으로 노리면서, 증권사·거래소 등에서 계좌·주민번호 등 민감정보 유출이 잇따르고 있다. 동일 협업툴 취약점 재사용처럼 공급망 보안 문제가 드러난 가운데, 금융당국의 보안 규제 강화와 전산 인프라 투자 확대가 단기·중기 핵심 이슈로 부각되고 있다.",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "AI가 만들어 낸 ‘속도의 역전’…北핵보다 北해킹이 무서운 이유 [기자24시]",
+          "url": "https://www.mk.co.kr/news/stock/12220044"
+        },
+        {
+          "source": "매일경제(증권)",
+          "title": "한양증권서도 개인정보 유출…금투업권 해킹 비상",
+          "url": "https://www.mk.co.kr/news/stock/12194338"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "원화 연동 스테이블코인 기반 해외결제 시범…핀테크 결제 인프라 전환",
+      "summary": "BC카드가 글로벌 거래소·운용사와 함께 스테이블코인 기반 결제 방식을 검증하며, 해외 관광객은 달러 스테이블코인으로 결제하고 국내 가맹점은 원화로 정산받는 구조를 시험했다. 이는 카드 네트워크와 블록체인 인프라의 결합, 외화 결제 수수료 절감, 규제 정합성 확보 여부 등과 맞물려 중장기적으로 크로스보더 결제 시장 구조를 바꿀 잠재 이슈로 주목된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“스미마셍, 엔화가 없는데요”…일본 라멘집서 원화코인 쓸 날 올까",
+          "url": "https://www.mk.co.kr/news/economy/12220665"
+        }
+      ]
+    }
+  ]
+}

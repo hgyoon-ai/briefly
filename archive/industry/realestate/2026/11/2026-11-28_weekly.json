@@ -1,0 +1,271 @@
+{
+  "range": {
+    "from": "2026-11-22",
+    "to": "2026-11-28"
+  },
+  "kpis": {
+    "collected": 19,
+    "deduped": 19,
+    "uniqueTopics": 10
+  },
+  "topTopics": [
+    {
+      "name": "Market",
+      "count": 15
+    },
+    {
+      "name": "Supply",
+      "count": 9
+    },
+    {
+      "name": "Construction",
+      "count": 9
+    },
+    {
+      "name": "Policy",
+      "count": 8
+    }
+  ],
+  "topicTrend": [
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Market",
+      "count": 0
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Construction",
+      "count": 0
+    },
+    {
+      "date": "2026-11-22",
+      "dayOfWeek": "Sun",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Market",
+      "count": 3
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Supply",
+      "count": 1
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Construction",
+      "count": 3
+    },
+    {
+      "date": "2026-11-23",
+      "dayOfWeek": "Mon",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-11-24",
+      "dayOfWeek": "Tue",
+      "topic": "Market",
+      "count": 1
+    },
+    {
+      "date": "2026-11-24",
+      "dayOfWeek": "Tue",
+      "topic": "Supply",
+      "count": 1
+    },
+    {
+      "date": "2026-11-24",
+      "dayOfWeek": "Tue",
+      "topic": "Construction",
+      "count": 0
+    },
+    {
+      "date": "2026-11-24",
+      "dayOfWeek": "Tue",
+      "topic": "Policy",
+      "count": 0
+    },
+    {
+      "date": "2026-11-25",
+      "dayOfWeek": "Wed",
+      "topic": "Market",
+      "count": 2
+    },
+    {
+      "date": "2026-11-25",
+      "dayOfWeek": "Wed",
+      "topic": "Supply",
+      "count": 3
+    },
+    {
+      "date": "2026-11-25",
+      "dayOfWeek": "Wed",
+      "topic": "Construction",
+      "count": 3
+    },
+    {
+      "date": "2026-11-25",
+      "dayOfWeek": "Wed",
+      "topic": "Policy",
+      "count": 2
+    },
+    {
+      "date": "2026-11-26",
+      "dayOfWeek": "Thu",
+      "topic": "Market",
+      "count": 1
+    },
+    {
+      "date": "2026-11-26",
+      "dayOfWeek": "Thu",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-11-26",
+      "dayOfWeek": "Thu",
+      "topic": "Construction",
+      "count": 0
+    },
+    {
+      "date": "2026-11-26",
+      "dayOfWeek": "Thu",
+      "topic": "Policy",
+      "count": 1
+    },
+    {
+      "date": "2026-11-27",
+      "dayOfWeek": "Fri",
+      "topic": "Market",
+      "count": 7
+    },
+    {
+      "date": "2026-11-27",
+      "dayOfWeek": "Fri",
+      "topic": "Supply",
+      "count": 4
+    },
+    {
+      "date": "2026-11-27",
+      "dayOfWeek": "Fri",
+      "topic": "Construction",
+      "count": 3
+    },
+    {
+      "date": "2026-11-27",
+      "dayOfWeek": "Fri",
+      "topic": "Policy",
+      "count": 3
+    },
+    {
+      "date": "2026-11-28",
+      "dayOfWeek": "Sat",
+      "topic": "Market",
+      "count": 1
+    },
+    {
+      "date": "2026-11-28",
+      "dayOfWeek": "Sat",
+      "topic": "Supply",
+      "count": 0
+    },
+    {
+      "date": "2026-11-28",
+      "dayOfWeek": "Sat",
+      "topic": "Construction",
+      "count": 0
+    },
+    {
+      "date": "2026-11-28",
+      "dayOfWeek": "Sat",
+      "topic": "Policy",
+      "count": 0
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "강남 고가아파트 매수자, 대규모 주식 매각 후 주택 매입 가속",
+      "summary": "강남 3구 아파트 매수자들이 집값 고점 국면에서 1인당 평균 6.4억원 규모의 주식을 처분해 매입 자금을 확보한 것으로 나타났다. 주식·부동산 간 자금 이동이 본격화되며 자산 재배분 흐름과 강남 고가아파트 수요의 ‘현금 동원력’을 동시에 보여주는 지표로 해석된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "‘고점일 때 팔아 아파트 사 놨다’…강남3구 매수자, 집 살 때 1인 평균 6.4억원어치 주식 매각 [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10952334"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "강남권 ‘집주인 대출’ 급증…세제·대출규제 부작용으로 새로운 매물 구조 확산",
+      "summary": "압구정에서 시작된 ‘집주인 대출’ 매물이 넉 달 사이 100배 수준으로 불어나며 강남권 고가아파트 전역으로 퍼지고 있다. 대출 규제로 매수 여력이 줄고, 세제 개편으로 매도세 부담이 커지자 집을 내놓기보다 집주인이 직접 대출을 제공하는 방식이 늘어 거래 구조 왜곡과 리스크 전가 우려가 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "\"세금 날벼락 피하자\"…'집주인 대출' 매물 넉달새 100배",
+          "url": "https://www.mk.co.kr/news/realestate/12220408"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "한국부동산원·대형 건설사, 2027년까지 온실가스 감축 협약 체결",
+      "summary": "한국부동산원이 4개 건설사와 2027년까지 온실가스 감축을 위한 업무협약을 맺고, 공법·시공 개선과 건설기계 에너지 효율화 등 현장 중심 저감 활동을 추진하기로 했다. 부동산·건설 업계에도 ESG·탄소중립 규제가 본격화되는 신호로, 향후 분양가·설계·자재 선택 등에 영향을 줄 수 있는 구조 변화 이슈다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "한국부동산원, 건설사 4곳과 ‘2027년 온실가스 감축 협약’",
+          "url": "https://biz.heraldcorp.com/article/10951821"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "세종 국가시범도시 첫 대단지 ‘엘 수자인’ 분양 가시화",
+      "summary": "세종 국가시범도시에 2,191가구 규모의 대단지 아파트 ‘엘 수자인’ 견본주택이 공개되며 첫 공급이 본격화됐다. 자족기능·스마트시티를 표방하는 국가시범도시의 실질적인 주거 수요 유입 시험대가 되는 분양으로, 세종시 주택시장과 인근 배후지 수요에 영향을 줄 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "세종 국가시범도시 첫 대단지 견본주택…'엘 수자인' 2191가구",
+          "url": "https://www.hankyung.com/article/202611274321i"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "종부세 급증, 한강벨트 임대료 인상 압력으로 전가 우려",
+      "summary": "서울 한강변 아파트값 급등으로 종합부동산세 부담이 크게 늘면서, 집주인들이 이를 월세·전세 인상으로 전가할 가능성이 커지고 있다. 세 부담 확대가 실거주자·임차인 비용 상승으로 이어지는 구조가 재확인되며, 보유세와 임대료 규제 간 정책 조정 필요성이 다시 부각되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "종부세 덮친 한강벨트…월세인상 부메랑 되나 [이슈&뷰]",
+          "url": "https://biz.heraldcorp.com/article/10951685"
+        }
+      ]
+    }
+  ]
+}

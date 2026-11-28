@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-28",
+  "highlights": {
+    "bullets": [
+      "핵심: MATCH Act가 ASML을 넘어 노광 외 공정 장비와 생산성 결정을 좌우하는 기술의 취약성을 드러냈다.",
+      "핵심: GTA 6 판매 호조에도 저비용 하드웨어·범용 메모리·플랫폼 고정 전제가 무너졌다."
+    ],
+    "topTopics": [
+      "Manufacturing",
+      "Competition",
+      "Policy",
+      "Demand"
+    ],
+    "stats": {
+      "collected": 5,
+      "deduped": 5
+    }
+  },
+  "cards": [
+    {
+      "id": "semiconductor_0001",
+      "tab": "semiconductor",
+      "publishedAt": "2026-11-27T23:22:45+09:00",
+      "source": "EE Times",
+      "title": "Beyond Lithography: The Battle for Semiconductor Manufacturing Yield",
+      "summary": [
+        "MATCH Act(제안법)가 ASML을 넘는 반도체 제조 수율 관련 기술 취약성을 드러냈습니다.",
+        "취약성은 노광 외에 공정 장비와 생산성 결정 기술 전반에 걸쳐 영향을 미칠 수 있습니다.",
+        "해당 이슈는 공급망 재편, 경쟁구도 변화와 투자 우선순위 조정으로 이어질 가능성이 큽니다."
+      ],
+      "whyItMatters": "정책 변화가 제조 수율과 생산성에 직접적 영향을 주어 국가 경쟁력·공급망·투자 결정에 중대한 파급효과를 미치기 때문입니다.",
+      "topics": [
+        "Manufacturing",
+        "Policy",
+        "Competition"
+      ],
+      "status": "SHIFTING",
+      "hash": "efe3ebfe539c590445c1efef9fa1bad41151950b899abedb01af8e3a8489c5fc",
+      "url": "https://www.eetimes.com/beyond-lithography-the-battle-for-semiconductor-manufacturing-yield/"
+    },
+    {
+      "id": "semiconductor_0002",
+      "tab": "semiconductor",
+      "publishedAt": "2026-11-28T11:00:00+09:00",
+      "source": "EE Times",
+      "title": "GTA: Grand Three Assumptions",
+      "summary": [
+        "GTA 6가 판매 기록을 경신했지만 콘솔을 둘러싼 기본 가정들이 무너졌다.",
+        "저비용 하드웨어, 범용(commodity) 메모리, 플랫폼 고정(frozen platforms)이라는 전제가 현실과 맞지 않는다.",
+        "이로 인해 하드웨어 설계·공급망·경쟁 전략 전반의 재검토가 촉발될 전망이다."
+      ],
+      "whyItMatters": "판매 호조에도 불구하고 하드웨어·메모리·플랫폼 가정의 실패가 제조·수요·경쟁 구도를 빠르게 재편할 수 있기 때문이다.",
+      "topics": [
+        "Demand",
+        "Manufacturing",
+        "Competition"
+      ],
+      "status": "SHIFTING",
+      "hash": "77c4d09e49d068a092a13bbeb48aa2a94e8a9cc1c5063438bfefd8798f34b84e",
+      "url": "https://www.eetimes.com/gta-grand-three-assumptions/"
+    }
+  ]
+}

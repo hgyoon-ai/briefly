@@ -1,0 +1,143 @@
+{
+  "range": {
+    "from": "2026-10-30",
+    "to": "2026-11-28"
+  },
+  "kpis": {
+    "collected": 99,
+    "deduped": 99,
+    "uniqueTopics": 10,
+    "marketShare": {
+      "Market": 31,
+      "Supply": 23,
+      "Regulation": 16,
+      "Construction": 15,
+      "Policy": 15,
+      "Other": 0
+    }
+  },
+  "weeklyData": [
+    {
+      "week": "Week 1 (10/30-11/05)",
+      "topicCounts": {
+        "Market": 9,
+        "Supply": 3,
+        "Regulation": 4,
+        "Construction": 1,
+        "Policy": 3
+      }
+    },
+    {
+      "week": "Week 2 (11/06-11/12)",
+      "topicCounts": {
+        "Market": 17,
+        "Supply": 13,
+        "Regulation": 6,
+        "Construction": 7,
+        "Policy": 10
+      }
+    },
+    {
+      "week": "Week 3 (11/13-11/19)",
+      "topicCounts": {
+        "Market": 18,
+        "Supply": 14,
+        "Regulation": 12,
+        "Construction": 10,
+        "Policy": 8
+      }
+    },
+    {
+      "week": "Week 4 (11/20-11/26)",
+      "topicCounts": {
+        "Market": 12,
+        "Supply": 10,
+        "Regulation": 4,
+        "Construction": 7,
+        "Policy": 6
+      }
+    },
+    {
+      "week": "Week 5 (11/27-11/28)",
+      "topicCounts": {
+        "Market": 4,
+        "Supply": 2,
+        "Regulation": 2,
+        "Construction": 3,
+        "Policy": 1
+      }
+    }
+  ],
+  "topIssues": [
+    {
+      "id": 1,
+      "status": "ONGOING",
+      "title": "강남 고가아파트 매수자, 대규모 주식 매각 후 부동산 이동",
+      "summary": "강남3구 아파트 매수자들이 평균 1인당 6.4억원 규모의 주식을 처분해 매입 자금을 마련한 것으로 집계됐다. 고점에 주식을 팔고 안전자산인 아파트로 갈아타는 현금 이동이 이어지며, 자본시장에서 주택시장으로의 자금 쏠림이 심화되고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "‘고점일 때 팔아 아파트 사 놨다’…강남3구 매수자, 집 살 때 1인 평균 6.4억원어치 주식 매각 [부동산360]",
+          "url": "https://biz.heraldcorp.com/article/10952334"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "ONGOING",
+      "title": "강남권 ‘집주인 대출’ 급증…세금·대출규제가 낳은 변칙 매물",
+      "summary": "압구정에서 시작된 ‘집주인 대출’ 매물이 넉 달 사이 100배로 늘며 강남권 고가 아파트 전역으로 확산되고 있다. 강화된 대출 규제로 매수 수요가 위축된 가운데, 세제 개편으로 보유·양도세 부담이 커진 집주인들이 매도 대신 대출을 끼고 매물을 내놓는 우회 거래가 증가하는 양상이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "매일경제(부동산)",
+          "title": "\"세금 날벼락 피하자\"…'집주인 대출' 매물 넉달새 100배",
+          "url": "https://www.mk.co.kr/news/realestate/12220408"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "NEW",
+      "title": "한국부동산원–건설사, 2027년 온실가스 감축 협약으로 친환경 건축 본격화",
+      "summary": "한국부동산원이 4개 건설사와 2027년까지 온실가스를 줄이기 위한 업무협약을 체결했다. 건설공법·시공 방식 개선, 건설기계 에너지 효율화 등 현장 중심의 감축 활동이 추진되며, 향후 분양·개발 사업에서 친환경 기준 강화와 비용 구조 변화가 예상된다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "한국부동산원, 건설사 4곳과 ‘2027년 온실가스 감축 협약’",
+          "url": "https://biz.heraldcorp.com/article/10951821"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "NEW",
+      "title": "세종 국가시범도시 첫 대단지 분양…‘엘 수자인’으로 공급 본격 시동",
+      "summary": "세종 국가시범도시에 2,191가구 규모의 ‘엘 수자인’ 대단지 견본주택이 첫 공개됐다. 자족기능과 스마트 인프라를 내세운 국가시범도시 내 첫 대규모 공급으로, 향후 인근 토지·주택시장과 분양 경쟁 구도에 변수가 될 전망이다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "한국경제(부동산)",
+          "title": "세종 국가시범도시 첫 대단지 견본주택…'엘 수자인' 2191가구",
+          "url": "https://www.hankyung.com/article/202611274321i"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "ONGOING",
+      "title": "종부세 급등, 한강벨트 임대료 인상 압력으로 전가 우려",
+      "summary": "서울 한강변 아파트값 급등으로 종합부동산세 부담이 크게 늘면서, 세금 부담이 전·월세 인상으로 옮겨붙을 가능성이 제기되고 있다. 보유세 강화 취지가 실거주자·임차인 비용 상승으로 이어질 수 있다는 비판과 함께 임대료 규제·지원 대책 필요성이 커지고 있다.",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "source": "헤럴드경제(부동산)",
+          "title": "종부세 덮친 한강벨트…월세인상 부메랑 되나 [이슈&뷰]",
+          "url": "https://biz.heraldcorp.com/article/10951685"
+        }
+      ]
+    }
+  ]
+}

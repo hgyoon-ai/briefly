@@ -1,79 +1,79 @@
 {
   "range": {
-    "from": "2026-10-29",
-    "to": "2026-11-27"
+    "from": "2026-10-30",
+    "to": "2026-11-28"
   },
   "kpis": {
-    "collected": 66,
-    "deduped": 66,
+    "collected": 61,
+    "deduped": 61,
     "uniqueTopics": 10,
     "marketShare": {
-      "Tooling": 26,
+      "Tooling": 27,
+      "Product": 20,
       "Infra": 19,
-      "Product": 19,
-      "Research": 18,
       "Models": 17,
-      "Other": 1
+      "Research": 17,
+      "Other": 0
     }
   },
   "weeklyData": [
     {
-      "week": "Week 1 (10/29-11/04)",
+      "week": "Week 1 (10/30-11/05)",
       "topicCounts": {
-        "Tooling": 5,
-        "Infra": 7,
-        "Product": 4,
-        "Research": 4,
-        "Models": 3
+        "Tooling": 3,
+        "Product": 2,
+        "Infra": 4,
+        "Models": 0,
+        "Research": 0
       }
     },
     {
-      "week": "Week 2 (11/05-11/11)",
+      "week": "Week 2 (11/06-11/12)",
       "topicCounts": {
         "Tooling": 9,
-        "Infra": 9,
-        "Product": 6,
-        "Research": 6,
-        "Models": 8
-      }
-    },
-    {
-      "week": "Week 3 (11/12-11/18)",
-      "topicCounts": {
-        "Tooling": 15,
+        "Product": 7,
         "Infra": 8,
-        "Product": 16,
-        "Research": 12,
-        "Models": 9
+        "Models": 7,
+        "Research": 4
       }
     },
     {
-      "week": "Week 4 (11/19-11/25)",
+      "week": "Week 3 (11/13-11/19)",
       "topicCounts": {
-        "Tooling": 8,
-        "Infra": 5,
-        "Product": 1,
-        "Research": 5,
-        "Models": 4
+        "Tooling": 14,
+        "Product": 13,
+        "Infra": 9,
+        "Models": 8,
+        "Research": 13
       }
     },
     {
-      "week": "Week 5 (11/26-11/27)",
+      "week": "Week 4 (11/20-11/26)",
       "topicCounts": {
-        "Tooling": 2,
-        "Infra": 1,
+        "Tooling": 5,
         "Product": 1,
-        "Research": 0,
-        "Models": 1
+        "Infra": 2,
+        "Models": 4,
+        "Research": 3
+      }
+    },
+    {
+      "week": "Week 5 (11/27-11/28)",
+      "topicCounts": {
+        "Tooling": 0,
+        "Product": 0,
+        "Infra": 0,
+        "Models": 0,
+        "Research": 0
       }
     }
   ],
   "topIssues": [
     {
-      "id": 1,
+      "id": "ai-1",
       "status": "NEW",
-      "title": "AMD 플랫폼용 LLM 추론 성능 가시화와 최적화 본격화",
-      "summary": "Hugging Face가 AMD Ryzen·Radeon 환경에서 llama.cpp 추론 성능을 한눈에 비교할 수 있는 벤치마크 대시보드를 공개했다. CPU·GPU별 처리량과 지연시간, 설정별 성능 차이를 정량적으로 제공해, 기업·개발자가 AMD 하드웨어에서 LLM 추론 아키텍처와 튜닝 전략을 설계하는 데 실무 지표를 제시한다.",
+      "title": "AMD 하드웨어용 LLM 추론 벤치마크 대시보드 공개",
+      "summary": "Hugging Face가 AMD Ryzen 및 Radeon 환경에서 llama.cpp 성능을 시각화하는 전용 대시보드를 공개했다. CPU·GPU별 추론 속도와 설정 조합에 따른 성능 차이를 한눈에 비교할 수 있어, 온프레미스·로컬 환경에서 LLM 추론 인프라를 설계·최적화하려는 팀에 실질적인 기준 데이터를 제공한다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -84,10 +84,10 @@
       ]
     },
     {
-      "id": 2,
+      "id": "ai-2",
       "status": "ONGOING",
       "title": "Nemotron 3.5 Parse 기반 오픈 데이터·파인튜닝 생태계 확장",
-      "summary": "Nemotron 3.5 Parse 모델을 중심으로 오픈 데이터셋과 미세조정 도구가 단계적으로 확장되고 있다. 사용자는 공개 데이터와 툴체인을 활용해 도메인 특화 LLM을 손쉽게 커스터마이즈할 수 있게 되었고, 이에 따라 엔터프라이즈용 맞춤 모델 개발과 추론 효율화 흐름이 계속 이어지는 추세다.",
+      "summary": "Nemotron 3.5 Parse를 중심으로 NVIDIA와 Hugging Face가 오픈 데이터셋과 파인튜닝 도구를 제공해 맞춤형 LLM 구축을 쉽게 하고 있다. 표준화된 데이터와 빠른 추론 환경을 함께 제공함으로써, 기업·연구자가 도메인 특화 모델을 더 짧은 주기로 실험·배포할 수 있는 기반이 형성되는 중이다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -98,10 +98,10 @@
       ]
     },
     {
-      "id": 3,
+      "id": "ai-3",
       "status": "NEW",
-      "title": "게임 개발용 AI 애니메이션·RTX 툴로 실시간 제작 파이프라인 고도화",
-      "summary": "NVIDIA가 게임 엔진과 통합되는 AI 애니메이션 기능 및 RTX 그래픽 툴 업데이트를 공개했다. 로컬 AI 추론을 활용한 캐릭터 애니메이션, 고품질 이미지·조명 처리 등이 강조되면서, 게임 개발 워크플로우 전반에 AI를 기본 도구로 편입하는 흐름이 강화되고 있다.",
+      "title": "게임 개발용 AI 애니메이션·RTX 툴 체인 고도화",
+      "summary": "NVIDIA가 AI 기반 애니메이션 생성과 RTX 그래픽 기능을 통합한 최신 게임 개발 툴을 공개했다. 게임 엔진 내에서 로컬 AI를 활용해 캐릭터 모션, 이펙트, 고품질 렌더링을 자동화·가속할 수 있어, 실시간 그래픽 품질과 제작 효율을 동시에 끌어올리는 방향으로 워크플로우가 재편되고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -112,10 +112,10 @@
       ]
     },
     {
-      "id": 4,
+      "id": "ai-4",
       "status": "ONGOING",
-      "title": "GPU-네이티브 데이터 수집으로 과학 계측 실시간 AI 제어 가속",
-      "summary": "과학 계측기의 센서 데이터를 GPU-네이티브 파이프라인으로 직접 수집·처리하는 방식이 도입되며, 초저지연·고처리량 환경에서 실시간 AI 분석과 폐쇄 루프 제어가 가능해지고 있다. 이는 실험 자동화·최적화와 고가 장비 활용 효율을 높이는 인프라 트렌드로 이어지고 있다.",
+      "title": "GPU-네이티브 데이터 수집으로 과학계 실시간 AI 실험 가속",
+      "summary": "과학 계측기에서 나오는 센서 데이터를 GPU-네이티브 파이프라인으로 직접 수집·처리하는 방식이 도입되며, AI를 이용한 실시간 분석과 폐쇄 루프 제어가 가능해지고 있다. 이로 인해 실험 자동화, 실시간 품질 관리, 온라인 최적화 등 연구 인프라 전반에서 AI 활용 범위가 빠르게 확장되는 추세다.",
       "articleCount": 1,
       "relatedArticles": [
         {
@@ -126,10 +126,10 @@
       ]
     },
     {
-      "id": 5,
+      "id": "ai-5",
       "status": "SHIFTING",
-      "title": "고도화된 AI와 사회 제도 재구성에 대한 전략·정책 논의 심화",
-      "summary": "OpenAI는 고성능 AI가 규범·제도·권한 구조를 눈에 띄지 않게 재편할 수 있다는 점을 짚으며, 이를 ‘침묵의 합의’로 개념화했다. 사람과 기관이 어떤 영역을 AI에 위임하고 어떻게 통제할지에 대한 거버넌스, 책임소재, 정책 설계 논의가 중요해지고 있음을 강조한다.",
+      "title": "고도화된 AI와 사회 규범 재구성을 둘러싼 거버넌스 논의",
+      "summary": "OpenAI는 고성능 AI 시스템이 제도·규범을 서서히 재구성하는 ‘침묵의 합의’ 메커니즘을 분석하며, 권한 배분과 책임 소재를 명확히 하기 위한 정책·전략의 필요성을 제기했다. 기술 개발 속도에 맞춘 민주적 통제와 제도 설계가 AI 거버넌스 의제로 부상하고 있다.",
       "articleCount": 1,
       "relatedArticles": [
         {

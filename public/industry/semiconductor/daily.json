@@ -1,16 +1,15 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "highlights": {
     "bullets": [
-      "핵심: 캐나다는 연구 성과를 반도체 제조로 연결하기 위해 규모의 한계를 극복하려 하고 있다.",
-      "핵심: EU는 농업용 자율기계 규제를 강화해 제조사와 투자자의 비용과 시장진입 부담을 높였다.",
-      "트렌드: 정책·규제와 기업 활동이 제조 전환·시장진입·공공 참여에 영향을 미치고 있다."
+      "핵심: MATCH Act가 ASML을 넘어 노광 외 공정 장비와 생산성 결정을 좌우하는 기술의 취약성을 드러냈다.",
+      "핵심: GTA 6 판매 호조에도 저비용 하드웨어·범용 메모리·플랫폼 고정 전제가 무너졌다."
     ],
     "topTopics": [
-      "Investment",
       "Manufacturing",
+      "Competition",
       "Policy",
-      "Roadmap"
+      "Demand"
     ],
     "stats": {
       "collected": 5,
@@ -21,65 +20,44 @@
     {
       "id": "semiconductor_0001",
       "tab": "semiconductor",
-      "publishedAt": "2026-11-26T23:00:00+09:00",
+      "publishedAt": "2026-11-27T23:22:45+09:00",
       "source": "EE Times",
-      "title": "Bridging the Research-to-Manufacturing Gap in Canada’s Semiconductor Industry",
+      "title": "Beyond Lithography: The Battle for Semiconductor Manufacturing Yield",
       "summary": [
-        "캐나다는 연구 성과를 반도체 제조로 연결하는 데 있어 규모의 한계를 극복하려 하고 있다.",
-        "양자컴퓨팅·주권 AI·해양 전자·첨단 소재 등 핵심 기술의 산업화 시도가 소개되었다.",
-        "정책 지원·투자 확대·제조 인프라 강화가 시급한 과제로 제기되었다."
+        "MATCH Act(제안법)가 ASML을 넘는 반도체 제조 수율 관련 기술 취약성을 드러냈습니다.",
+        "취약성은 노광 외에 공정 장비와 생산성 결정 기술 전반에 걸쳐 영향을 미칠 수 있습니다.",
+        "해당 이슈는 공급망 재편, 경쟁구도 변화와 투자 우선순위 조정으로 이어질 가능성이 큽니다."
       ],
-      "whyItMatters": "연구 성과의 제조 전환은 국가 경쟁력 및 공급망 자립에 직접적인 영향을 미치기 때문이다.",
+      "whyItMatters": "정책 변화가 제조 수율과 생산성에 직접적 영향을 주어 국가 경쟁력·공급망·투자 결정에 중대한 파급효과를 미치기 때문입니다.",
       "topics": [
         "Manufacturing",
         "Policy",
-        "Investment",
-        "Roadmap"
+        "Competition"
       ],
-      "status": "ONGOING",
-      "hash": "8fa84b3ce1f209643dab1e397edc77915d460478fc8d28a719ea1e644760beb4",
-      "url": "https://www.eetimes.com/bridging-the-research-to-manufacturing-gap-in-canadas-semiconductor-industry/"
+      "status": "SHIFTING",
+      "hash": "efe3ebfe539c590445c1efef9fa1bad41151950b899abedb01af8e3a8489c5fc",
+      "url": "https://www.eetimes.com/beyond-lithography-the-battle-for-semiconductor-manufacturing-yield/"
     },
     {
       "id": "semiconductor_0002",
       "tab": "semiconductor",
-      "publishedAt": "2026-11-26T17:55:48+09:00",
+      "publishedAt": "2026-11-28T11:00:00+09:00",
       "source": "EE Times",
-      "title": "EU Rules Bring New Safety Requirements for Farm Robots",
+      "title": "GTA: Grand Three Assumptions",
       "summary": [
-        "EU가 농업용 AI 로봇과 자율 기계에 대한 안전·준수 규제를 강화했다.",
-        "새 규정은 안전성 기준, 인증 절차, 현장 운영 요구사항을 더 엄격하게 만든다.",
-        "제조사와 농가에 설계·테스트·문서화 비용 증가와 시장진입 지연 등의 영향을 줄 가능성이 크다."
+        "GTA 6가 판매 기록을 경신했지만 콘솔을 둘러싼 기본 가정들이 무너졌다.",
+        "저비용 하드웨어, 범용(commodity) 메모리, 플랫폼 고정(frozen platforms)이라는 전제가 현실과 맞지 않는다.",
+        "이로 인해 하드웨어 설계·공급망·경쟁 전략 전반의 재검토가 촉발될 전망이다."
       ],
-      "whyItMatters": "유럽 전역의 신규 규제가 비용과 시장진입 장벽을 높여 제조사·투자자·농가에 실질적 영향을 미치기 때문이다.",
+      "whyItMatters": "판매 호조에도 불구하고 하드웨어·메모리·플랫폼 가정의 실패가 제조·수요·경쟁 구도를 빠르게 재편할 수 있기 때문이다.",
       "topics": [
-        "Policy",
+        "Demand",
         "Manufacturing",
-        "Investment"
+        "Competition"
       ],
-      "status": "NEW",
-      "hash": "874eed8a7fcf9ddacaeb8ede701416b2c0feb798f78daccf3d23edfb2ac194e6",
-      "url": "https://www.eetimes.com/eu-rules-bring-new-safety-requirements-for-farm-robots/"
-    },
-    {
-      "id": "semiconductor_0003",
-      "tab": "semiconductor",
-      "publishedAt": "2026-11-27T06:00:00+09:00",
-      "source": "Samsung Newsroom",
-      "title": "Small Actions, Big Impact: Give Back This Holiday Season With the Samsung Global Goals App",
-      "summary": [
-        "삼성의 Global Goals 앱이 휴일 시즌 기부 참여를 촉구합니다.",
-        "Galaxy 사용자들은 휴대폰으로 UN의 17개 지속가능개발목표(SDGs)를 지원할 수 있습니다.",
-        "앱은 UNDP와의 파트너십을 통해 간편한 기부 방식을 제공합니다."
-      ],
-      "whyItMatters": "모바일 기반의 간편한 참여 경로로 대중의 기부 참여를 확대하고 삼성의 사회적 책임 이미지를 강화하기 때문입니다.",
-      "topics": [
-        "Policy",
-        "Demand"
-      ],
-      "status": "ONGOING",
-      "hash": "f50756d0e1d9a0aaa9ba7f1ba7a8d5dd4110a7e1697beab023e89a2e830d0c8f",
-      "url": "https://news.samsung.com/global/small-actions-big-impact-give-back-this-holiday-season-with-the-samsung-global-goals-app"
+      "status": "SHIFTING",
+      "hash": "77c4d09e49d068a092a13bbeb48aa2a94e8a9cc1c5063438bfefd8798f34b84e",
+      "url": "https://www.eetimes.com/gta-grand-three-assumptions/"
     }
   ]
 }
