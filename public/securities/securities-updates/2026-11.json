@@ -2,6 +2,261 @@
   "month": "2026-11",
   "events": [
     {
+      "id": "7ea34541a592725a4ea11ab35ea4434d9b8a106c",
+      "date": "2026-11-28",
+      "company": "한국투자증권",
+      "title": "한국투자증권 iOS 앱 업데이트 v2.30.00",
+      "oneLiner": "한국투자증권 iOS 앱에서 미성년 연금저축계좌의 비대면 개설이 가능해졌고 클라우드 인증서의 유효기간이 1년에서 3년으로 연장되었습니다.",
+      "type": "출시",
+      "areas": [
+        "브로커리지",
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "app_store",
+      "sources": [
+        {
+          "source": "App Store",
+          "title": "한국투자증권 iOS 앱 업데이트 v2.30.00",
+          "url": "https://apps.apple.com/kr/app/%ED%95%9C%ED%88%AC-%ED%95%9C%EA%B5%AD%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C-mts-%ED%88%AC%EC%9E%90-%EC%A6%9D%EA%B6%8C-%ED%95%B4%EC%99%B8%EC%A3%BC%EC%8B%9D-%EC%A3%BC%EC%8B%9D%EC%96%B4%ED%94%8C/id1621986905?uo=4"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-28"
+    },
+    {
+      "id": "bf779700af0b7343e55ed536a343105f0b867aec",
+      "date": "2026-11-27",
+      "company": "삼성증권",
+      "title": "단기차입금증가결정              ",
+      "oneLiner": "삼성증권이 단기차입금 증가 결정을 공시했으며 회사의 단기 자금조달과 유동성에 직접적인 영향을 미칩니다.",
+      "type": "기타",
+      "areas": [
+        "리스크"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "단기차입금증가결정              ",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127801132"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.88,
+      "updatedAt": "2026-11-28"
+    },
+    {
+      "id": "924978607aed9c522cf41b4e6df09015bf047b58",
+      "date": "2026-11-27",
+      "company": "삼성증권",
+      "title": "기타경영사항(자율공시)              ((배당기준일 변경 안내))",
+      "oneLiner": "삼성증권이 배당기준일 변경을 자율공시로 안내했으며 주주 권리 일정에 영향이 발생합니다.",
+      "type": "기타",
+      "areas": [
+        "기타"
+      ],
+      "region": "국내",
+      "sourceType": "dart",
+      "sources": [
+        {
+          "source": "DART",
+          "title": "기타경영사항(자율공시)              ((배당기준일 변경 안내))",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127801130"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.9,
+      "updatedAt": "2026-11-28"
+    },
+    {
+      "id": "news:NH투자증권:https://www.hankyung.com/article/2026112748536",
+      "date": "2026-11-27",
+      "company": "NH투자증권",
+      "title": "NH투자증권, ETF로 하는 연금 자산배분 설명한 THE100리포트 발간",
+      "oneLiner": "NH투자증권이 ETF 기반 연금 자산배분을 설명하는 THE100 리포트를 발간했습니다.",
+      "type": "리서치",
+      "areas": [
+        "리서치"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "한국경제(증권)",
+          "title": "NH투자증권, ETF로 하는 연금 자산배분 설명한 THE100리포트 발간",
+          "url": "https://www.hankyung.com/article/2026112748536"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.8,
+      "updatedAt": "2026-11-28"
+    },
+    {
+      "id": "news:한국투자증권:https://www.mk.co.kr/news/stock/12220086",
+      "date": "2026-11-27",
+      "company": "한국투자증권",
+      "title": "“100만원부터 가입 가능”…신한투자증권, 연 5% 발행어음 출시",
+      "oneLiner": "신한투자증권이 개인 대상 세전 연 5.00%의 발행어음(365일물)을 출시한다고 보도되었습니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "매일경제(증권)",
+          "title": "“100만원부터 가입 가능”…신한투자증권, 연 5% 발행어음 출시",
+          "url": "https://www.mk.co.kr/news/stock/12220086"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.86,
+      "updatedAt": "2026-11-28"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202611271344150019",
+      "date": "2026-11-27",
+      "company": "한국투자증권",
+      "title": "신한투자증권, 슈퍼SOL 전용 발행어음 특판…세전 연 5.00%",
+      "oneLiner": "신한투자증권이 신한 슈퍼SOL 이용 고객 대상 세전 연 5.00% 발행어음 특판을 출시했습니다(총 100억원 한도).",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "신한투자증권, 슈퍼SOL 전용 발행어음 특판…세전 연 5.00%",
+          "url": "https://www.fnnews.com/news/202611271344150019"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.87,
+      "updatedAt": "2026-11-28"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202611271358243503",
+      "date": "2026-11-27",
+      "company": "한국투자증권",
+      "title": "한국투자증권, 기업 임원 전용 세무 숏폼 '절세전집' 공개",
+      "oneLiner": "한국투자증권이 기업 임원 대상 절세 숏폼 영상 시리즈 '절세전집'을 공개해 고액 보수·퇴직금 등 대상의 자산관리 콘텐츠를 제공하기 시작했습니다.",
+      "type": "출시",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "한국투자증권, 기업 임원 전용 세무 숏폼 '절세전집' 공개",
+          "url": "https://www.fnnews.com/news/202611271358243503"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.75,
+      "updatedAt": "2026-11-28"
+    },
+    {
+      "id": "news:메리츠증권:https://www.fnnews.com/news/202611261420114119",
+      "date": "2026-11-27",
+      "company": "메리츠증권",
+      "title": "코리아에셋證, '금융범죄 예방'에 힘 보탠다…메리츠證에 바통",
+      "oneLiner": "코리아에셋투자증권이 금융범죄 예방 캠페인에 참여하며 보이스피싱 등 민생침해 금융범죄 대응 활동을 강조했습니다.",
+      "type": "기타",
+      "areas": [
+        "AML"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "코리아에셋證, '금융범죄 예방'에 힘 보탠다…메리츠證에 바통",
+          "url": "https://www.fnnews.com/news/202611261420114119"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.7,
+      "updatedAt": "2026-11-28"
+    },
+    {
+      "id": "news:한국투자증권:https://www.fnnews.com/news/202611271415314420",
+      "date": "2026-11-27",
+      "company": "한국투자증권",
+      "title": "주식 투자 넘어 대학 입시까지…한투, 고객 자녀 입시 강의",
+      "oneLiner": "한국투자증권이 뱅키스 고객 대상으로 대학입시 전략 설명회를 개최해 비금융 고객 서비스 영역을 확장했습니다.",
+      "type": "기타",
+      "areas": [
+        "WM"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "주식 투자 넘어 대학 입시까지…한투, 고객 자녀 입시 강의",
+          "url": "https://www.fnnews.com/news/202611271415314420"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.72,
+      "updatedAt": "2026-11-28"
+    },
+    {
+      "id": "news:신한투자증권:https://www.fnnews.com/news/202611271526070313",
+      "date": "2026-11-27",
+      "company": "신한투자증권",
+      "title": "증시 출렁이자 단기자금 운용 수요…SOL 머니마켓 ETF 순자산 10배로",
+      "oneLiner": "신한자산운용의 SOL 머니마켓액티브 ETF 순자산이 연초 대비 10배 이상 증가하며 단기 자금 운용 수요가 급증했습니다.",
+      "type": "기타",
+      "areas": [
+        "트레이딩"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "증시 출렁이자 단기자금 운용 수요…SOL 머니마켓 ETF 순자산 10배로",
+          "url": "https://www.fnnews.com/news/202611271526070313"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.78,
+      "updatedAt": "2026-11-28"
+    },
+    {
+      "id": "news:삼성증권:https://www.fnnews.com/news/202611271651101091",
+      "date": "2026-11-27",
+      "company": "삼성증권",
+      "title": "삼성증권, 고객정보 유출 3927명 추가 확인…총 1만2168명",
+      "oneLiner": "삼성증권의 VOC 시스템 관련 고객정보 유출 규모가 추가 정밀검증 결과 3,927명이 늘어나 총 12,168명으로 확인됐다. 방화벽 차단 및 금융당국·KISA 등 유관기관 신고 등 보안·운영 대응이 진행 중이다.",
+      "type": "시스템",
+      "areas": [
+        "리스크",
+        "상담"
+      ],
+      "region": "국내",
+      "sourceType": "news",
+      "sources": [
+        {
+          "source": "파이낸셜뉴스(증권)",
+          "title": "삼성증권, 고객정보 유출 3927명 추가 확인…총 1만2168명",
+          "url": "https://www.fnnews.com/news/202611271651101091"
+        }
+      ],
+      "tags": [],
+      "confidence": 0.95,
+      "updatedAt": "2026-11-28"
+    },
+    {
       "id": "news:KB증권:https://www.mk.co.kr/news/stock/12219293",
       "date": "2026-11-26",
       "company": "KB증권",
