@@ -1,0 +1,617 @@
+{
+  "date": "2026-11-28",
+  "kpis": {
+    "clusters": 20,
+    "sources": 2,
+    "new": 16
+  },
+  "clusters": [
+    {
+      "id": "e7f5526c76b10639fb7618ba79ece510298970d7",
+      "name": "Group chat where your AI talks behind your back",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 756.6,
+      "oneLiner": "사용자의 AI가 몰래 대화하는 그룹 채팅 서비스.",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "689p · 286c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50663595"
+        },
+        {
+          "label": "Source",
+          "url": "https://construct22.com/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "c869f771c9140cef9f164217c0a191d6c88d7624",
+      "name": "Claude sabotaging ML research tasks?",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 734.4,
+      "oneLiner": "Claude가 머신러닝 연구 과제를 방해한다는 의문을 제기하는 글.",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "636p · 294c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50664325"
+        },
+        {
+          "label": "Source",
+          "url": "https://twitter.com/RealAstropulse/status/2126119408997466389"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "923bfd54e60c6215756c00fdbab9b4f3d27a39ae",
+      "name": "Marvisak/VIctory",
+      "section": "trending",
+      "status": "ONGOING",
+      "score": 601.7,
+      "oneLiner": "GTA VI를 PC에서 실행하려는 시도를 정리한 저장소.",
+      "whyNow": "커밋/업데이트가 이어져 당분간 추이를 보기에 좋습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "13,847"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "2,391"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-28"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/Marvisak/VIctory"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "d055c2abb20c5c94cd0e77ae38fa9fba5a16221d",
+      "name": "Michael Nielsen took down his book on neural nets",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 576.0,
+      "oneLiner": "Michael Nielsen이 신경망 관련 책을 내린 소식.",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "428p · 266c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50670757"
+        },
+        {
+          "label": "Source",
+          "url": "https://neuralnetworksanddeeplearning.com/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "65f145074eac4bed87232c74f9711aa41473ed43",
+      "name": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 560.4,
+      "oneLiner": "인기 쇼핑 사이트에서 WebRTC로 신용카드 스키밍 스크립트가 발견되었다는 보도.",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "460p · 237c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50668145"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "ef283a2ccd68bd44417ff57217bb54faab9d544f",
+      "name": "The need for a formally verifiable mainstream programming language",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 552.0,
+      "oneLiner": "주류 프로그래밍 언어의 형식적 검증 필요성을 주장하는 글.",
+      "whyNow": "HN에서 논쟁이 붙어 다양한 관점이 빠르게 모이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "318p · 301c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50663089"
+        },
+        {
+          "label": "Source",
+          "url": "https://blainehansen.me/post/mainstream-verifiable-language/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "9ba753f27dae63a395543d8bd184120450d5a282",
+      "name": "US Air Force's cloud computing platform hacked",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 446.4,
+      "oneLiner": "미 공군의 클라우드 컴퓨팅 플랫폼이 해킹당했다는 보도.",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "336p · 204c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50666375"
+        },
+        {
+          "label": "Source",
+          "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163"
+        }
+      ],
+      "tags": [
+        "infra"
+      ]
+    },
+    {
+      "id": "0e820a2120a3905fc62b055112ccad6a867a36d1",
+      "name": "I'm Scared of AI",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 416.4,
+      "oneLiner": "AI를 두려워한다는 개인적 감정을 담은 글.",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "206p · 244c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50669561"
+        },
+        {
+          "label": "Source",
+          "url": "https://thesoapbox.email/archive/3"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "c853e79f2480b2a2ea177f9e8d9efde7fa87f955",
+      "name": "New York and California age gating rules go into effect in the new year",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 379.2,
+      "oneLiner": "뉴욕과 캘리포니아의 연령 제한 규정 시행을 다룬 글.",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "190p · 221c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50666279"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "e8c188f21b5bce1fd4ec772064a1b899d3216a4d",
+      "name": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 375.0,
+      "oneLiner": "주 정부들이 Grok의 아동 성 이미지 및 보복 음란물 생성 문제로 SpaceX를 제소했다.",
+      "whyNow": "커뮤니티 반응이 커져 관련 사례 공유가 급증하고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "301p · 162c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50670855"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "27a0837ed77caeb0f7d60246a9bbda96b5b19a3f",
+      "name": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+      "section": "trending",
+      "status": "NEW",
+      "score": 340.2,
+      "oneLiner": "튀는 공을 대상으로 한 실시간 예측 시장 게임을 소개하는 프로젝트.",
+      "whyNow": "토론이 커지면서 비교/반박/후기 링크가 몰리는 구간입니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "337p · 115c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50667726"
+        },
+        {
+          "label": "Source",
+          "url": "https://bouncemarket.minhanhday.com/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "0c16a0d834c4ab8a0bb8c482ed4ba64e096b7595",
+      "name": "Buy Nothing Day – Friday November 27th 2026",
+      "section": "trending",
+      "status": "NEW",
+      "score": 336.6,
+      "oneLiner": "Buy Nothing Day 행사 정보 페이지.",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "343p · 109c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50663261"
+        },
+        {
+          "label": "Source",
+          "url": "https://www.buynothingday.co.uk/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "4bed7d8210e361699e131a2f7595980caaa41153",
+      "name": "\"What's Claude's fursona?\" and other questions",
+      "section": "discussions",
+      "status": "NEW",
+      "score": 321.6,
+      "oneLiner": "Claude의 퍼소나와 관련된 질문들을 다룬 글.",
+      "whyNow": "관심이 폭증해 대체재/비교글이 함께 등장하고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "188p · 174c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50662933"
+        },
+        {
+          "label": "Source",
+          "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "695abe9a44bb58ffb07d7ecb3ad2fd7061196e4a",
+      "name": "4lwayz/portwatch-vi",
+      "section": "trending",
+      "status": "ONGOING",
+      "score": 277.08,
+      "oneLiner": "GTA VI 관련 재컴파일·에뮬레이션 진행을 일별로 추적하는 저장소.",
+      "whyNow": "업데이트가 유지되며 관심이 꾸준히 쌓이는 흐름입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "6,824"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "206"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-28"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/4lwayz/portwatch-vi"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "316d3e2256edfe96e8e5731ec44d7992f69543f5",
+      "name": "convex/convex-backend-skill",
+      "section": "trending",
+      "status": "NEW",
+      "score": 244.12,
+      "oneLiner": "반응형 타입 안전 백엔드 구축을 위한 Convex 백엔드 스킬.",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "9"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "8"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-27"
+        },
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "250p · 78c"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/convex/convex-backend-skill"
+        },
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50669765"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "43c75d1085687d77eea35e8a635f431b57a0e7b9",
+      "name": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+      "section": "trending",
+      "status": "NEW",
+      "score": 233.4,
+      "oneLiner": "이산로그 문제에 대한 결정론적 준지수 시간 알고리즘을 제시한 논문 PDF.",
+      "whyNow": "논의가 확산되며 구현/운영 관점의 코멘트가 쌓이고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "207p · 91c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50665968"
+        },
+        {
+          "label": "Source",
+          "url": "https://eprint.iacr.org/2026/3020.pdf"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "b37adbbbea43c782d755b4954c9a9b185feabab2",
+      "name": "False computer-checked proofs",
+      "section": "trending",
+      "status": "NEW",
+      "score": 207.6,
+      "oneLiner": "컴퓨터 검증 증명이 잘못될 수 있음을 논의하는 글.",
+      "whyNow": "반응이 빠르게 커지며 검증/재현 피드백이 늘고 있습니다. 원문 공개 이후 후속 해석이 붙고 있습니다.",
+      "evidence": [
+        {
+          "source": "Hacker News",
+          "metric": "signal",
+          "value": "194p · 76c"
+        }
+      ],
+      "links": [
+        {
+          "label": "HN Thread",
+          "url": "https://news.ycombinator.com/item?id=50667989"
+        },
+        {
+          "label": "Source",
+          "url": "https://cr.yp.to/proofs/falseccp.html"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "1f955af97cb15a6cd670d63c740fb6317fc86299",
+      "name": "EL4CTEO/fast-anything",
+      "section": "releases",
+      "status": "ONGOING",
+      "score": 206.64,
+      "oneLiner": "핫스팟만 포팅해 성능을 개선하자는 아이디어와 다양한 언어 지원을 다루는 저장소.",
+      "whyNow": "새 릴리즈 영향으로 관심이 재점화되고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "4,504"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "324"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-28"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v0.9.0"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/EL4CTEO/fast-anything"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/EL4CTEO/fast-anything/releases/tag/v0.9.0"
+        }
+      ],
+      "tags": [
+        "agent tooling"
+      ]
+    },
+    {
+      "id": "6bb60d7841698bdd1ebd373ebd7e1d5957d7fec0",
+      "name": "trustno1-coder/VIctory-NVIDIA",
+      "section": "releases",
+      "status": "NEW",
+      "score": 197.86,
+      "oneLiner": "NVIDIA RTX용으로 튜닝한 VIctory 호환 레이어 저장소, 게임 파일 미포함.",
+      "whyNow": "버전 업데이트 이후 재확산이 시작된 흐름입니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "3,774"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "1,345"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-28"
+        },
+        {
+          "source": "GitHub",
+          "metric": "release",
+          "value": "v2026.11.27.10"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/trustno1-coder/VIctory-NVIDIA"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/trustno1-coder/VIctory-NVIDIA/releases/tag/v2026.11.27.10"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": "2926993a3f460aad0c12c8bd774565b98fa841c1",
+      "name": "fxceless/victory-fork",
+      "section": "trending",
+      "status": "ONGOING",
+      "score": 154.96,
+      "oneLiner": "Xbox Series 타이틀을 Windows PC에서 실행하도록 작업 중인 VIctory 포크 저장소, 게임 파일 없음.",
+      "whyNow": "개발 신호가 이어지면서 사용 사례가 늘고 있습니다.",
+      "evidence": [
+        {
+          "source": "GitHub",
+          "metric": "stars",
+          "value": "3,365"
+        },
+        {
+          "source": "GitHub",
+          "metric": "forks",
+          "value": "1,018"
+        },
+        {
+          "source": "GitHub",
+          "metric": "updated",
+          "value": "2026-11-28"
+        }
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/fxceless/victory-fork"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}
